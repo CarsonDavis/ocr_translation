@@ -68,8 +68,8 @@ def process_image_pipeline(
     # Step 1: OCR
     print(f"\n=== Step 1: OCR Processing for {image_path} ===")
 
-    # Create subdirectory for OCR output
-    ocr_dir = os.path.join(output_dir, "ocr")
+    # Create subdirectory for OCR output - using ocr.DEFAULT_OUTPUT_DIR to maintain consistency
+    ocr_dir = os.path.join(output_dir, ocr.DEFAULT_OUTPUT_DIR)
     file_handling.ensure_dir(ocr_dir)
 
     ocr_result = ocr.process_document(

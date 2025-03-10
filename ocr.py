@@ -15,7 +15,7 @@ import utils.utils as utils
 from utils import file_handling
 
 # Default values as constants - single source of truth
-DEFAULT_OUTPUT_DIR = "output"
+DEFAULT_OUTPUT_DIR = "ocr"
 DEFAULT_IMAGES_DIR = "images"
 DEFAULT_FILE_PATTERN = "*.jpg *.png *.jpeg *.webp"
 DEFAULT_MODEL = "mistral-ocr-latest"
@@ -115,7 +115,7 @@ def process_document(
 
     Args:
         image_path: Path to the image file
-        output_dir: Directory to save output to
+        output_dir: Directory to save output to (or file path if it has an extension)
         process_images: Whether to process and save images
         api_key: Mistral API key. Defaults to environment variable
         model: OCR model to use
@@ -129,8 +129,10 @@ def process_document(
         "image_paths": [],
     }
 
-    # Create output directory
-    file_handling.ensure_dir(output_dir)
+    # Create output directory if needed
+    # We'll only use this for images, for the markdown we'll use get_output_path
+    if process_images:
+        file_handling.ensure_dir(output_dir)
 
     # Create OCR client and process image
     ocr_client = utils.OCRAI(api_key=api_key, model=model)
@@ -157,7 +159,11 @@ def process_document(
 
         # Generate output filename based on input image name
         base_name: str = os.path.splitext(os.path.basename(image_path))[0]
-        markdown_path: str = os.path.join(output_dir, f"{base_name}.md")
+
+        # Use get_output_path to ensure consistent behavior
+        markdown_path: str = file_handling.get_output_path(
+            f"{base_name}.md", output_dir  # Create a fake input path with .md extension
+        )
 
         # Save markdown
         if file_handling.save_markdown(markdown_text, markdown_path):
@@ -229,7 +235,8 @@ if __name__ == "__main__":
         "--output-dir",
         "-o",
         default=DEFAULT_OUTPUT_DIR,
-        help=f"Directory to save output (default: '{DEFAULT_OUTPUT_DIR}')",
+        help=f"Directory to save output (default: '{DEFAULT_OUTPUT_DIR}'). "
+        f"Files will be saved within this directory with names derived from the input files.",
     )
     parser.add_argument(
         "--batch",

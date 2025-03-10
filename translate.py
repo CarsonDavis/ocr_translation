@@ -48,6 +48,7 @@ def translate_markdown(
         input_path: Path to the input markdown file
         output_path: Path to save the translated markdown file.
                      If None, creates an appropriate path.
+                     If a directory name/path, file will be created within that directory.
         model: LLM model to use
         system_prompt: Custom system prompt
         user_prompt: Custom user prompt
@@ -59,7 +60,7 @@ def translate_markdown(
     results: dict[str, bool | str | None] = {
         "success": False,
         "input_path": input_path,
-        "output_path": output_path,
+        "output_path": None,
         "translated_text": None,
     }
 
@@ -68,10 +69,11 @@ def translate_markdown(
     if markdown_text is None:
         return results
 
-    # Generate appropriate output path if none provided
-    if output_path is None:
-        output_path = file_handling.get_output_path(input_path, DEFAULT_OUTPUT_DIR)
-
+    # Always use get_output_path to ensure consistent behavior
+    # whether output_path is a directory or file path
+    output_path = file_handling.get_output_path(
+        input_path, output_path or DEFAULT_OUTPUT_DIR
+    )
     results["output_path"] = output_path
 
     try:
@@ -173,7 +175,8 @@ if __name__ == "__main__":
         "--output",
         "-o",
         default=DEFAULT_OUTPUT_DIR,
-        help=f"Output markdown file or directory (default: '{DEFAULT_OUTPUT_DIR}')",
+        help=f"Output directory (default: '{DEFAULT_OUTPUT_DIR}'). "
+        f"Files will be saved within this directory with their original names.",
     )
     parser.add_argument(
         "--batch",
@@ -230,6 +233,8 @@ if __name__ == "__main__":
             args.temperature,
         )
     else:
+        # For single file, output path will be handled by get_output_path
+        # which will create a file within the output directory
         result = translate_markdown(
             args.input,
             args.output,
