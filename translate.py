@@ -112,7 +112,7 @@ def batch_translate_directory(
     results: list[dict[str, bool | str | None]] = []
 
     # Get all markdown files in the input directory
-    markdown_files = utils.find_files(input_dir, file_pattern)
+    markdown_files = file_handling.find_files(input_dir, file_pattern)
 
     if not markdown_files:
         print(f"No files matching '{file_pattern}' found in {input_dir}")

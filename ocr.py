@@ -255,7 +255,7 @@ def process_batch(
     # Find all image files
     image_files: list[Path] = []
     for pattern in file_pattern.split():
-        image_files.extend(utils.find_files(input_dir, pattern))
+        image_files.extend(file_handling.find_files(input_dir, pattern))
 
     if not image_files:
         print(f"No files matching '{file_pattern}' found in {input_dir}")
