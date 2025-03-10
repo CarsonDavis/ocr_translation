@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 translate.py - Script to translate markdown from French to English using AI models
 """
@@ -11,32 +10,21 @@ from typing import Any
 # Import from utility module
 import utils.utils as utils
 from utils import file_handling
-
-
-# Default values as constants
-DEFAULT_OUTPUT_DIR = "translated"
-DEFAULT_FILE_PATTERN = "*.md"
-DEFAULT_MODEL = "openai:gpt-4o"
-DEFAULT_TEMPERATURE = 0.75
-
-# Default prompts for translation
-TRANSLATION_SYSTEM_PROMPT = (
-    "You are a professional translator specializing in Old French to modern English"
+from utils.constants import (
+    DEFAULT_TRANSLATED_DIR,
+    DEFAULT_MD_PATTERN,
+    DEFAULT_TRANSLATE_MODEL,
+    DEFAULT_TEMPERATURE,
+    AVAILABLE_MODELS,
+    TRANSLATION_SYSTEM_PROMPT,
+    TRANSLATION_USER_PROMPT,
 )
-TRANSLATION_USER_PROMPT = (
-    "Translate the following Old French text to modern English. Maintain the markdown "
-    "formatting of the original. Ensure the translation captures both the meaning and "
-    "the style of the original text."
-)
-
-# Available models
-MODELS = ["openai:gpt-4o", "anthropic:claude-3-5-sonnet-20240620"]
 
 
 def translate_markdown(
     input_path: str,
     output_path: str | None = None,
-    model: str = DEFAULT_MODEL,
+    model: str = DEFAULT_TRANSLATE_MODEL,
     system_prompt: str = TRANSLATION_SYSTEM_PROMPT,
     user_prompt: str = TRANSLATION_USER_PROMPT,
     temperature: float = DEFAULT_TEMPERATURE,
@@ -72,7 +60,7 @@ def translate_markdown(
     # Always use get_output_path to ensure consistent behavior
     # whether output_path is a directory or file path
     output_path = file_handling.get_output_path(
-        input_path, output_path or DEFAULT_OUTPUT_DIR
+        input_path, output_path or DEFAULT_TRANSLATED_DIR
     )
     results["output_path"] = output_path
 
@@ -99,9 +87,9 @@ def translate_markdown(
 
 def batch_translate_directory(
     input_dir: str,
-    output_dir: str = DEFAULT_OUTPUT_DIR,
-    file_pattern: str = DEFAULT_FILE_PATTERN,
-    model: str = DEFAULT_MODEL,
+    output_dir: str = DEFAULT_TRANSLATED_DIR,
+    file_pattern: str = DEFAULT_MD_PATTERN,
+    model: str = DEFAULT_TRANSLATE_MODEL,
     system_prompt: str = TRANSLATION_SYSTEM_PROMPT,
     user_prompt: str = TRANSLATION_USER_PROMPT,
     temperature: float = DEFAULT_TEMPERATURE,
@@ -174,8 +162,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output",
         "-o",
-        default=DEFAULT_OUTPUT_DIR,
-        help=f"Output directory (default: '{DEFAULT_OUTPUT_DIR}'). "
+        default=DEFAULT_TRANSLATED_DIR,
+        help=f"Output directory (default: '{DEFAULT_TRANSLATED_DIR}'). "
         f"Files will be saved within this directory with their original names.",
     )
     parser.add_argument(
@@ -187,17 +175,17 @@ if __name__ == "__main__":
     parser.add_argument(
         "--pattern",
         "-p",
-        default=DEFAULT_FILE_PATTERN,
-        help=f"File pattern when using batch mode (default: '{DEFAULT_FILE_PATTERN}')",
+        default=DEFAULT_MD_PATTERN,
+        help=f"File pattern when using batch mode (default: '{DEFAULT_MD_PATTERN}')",
     )
 
     # Model and prompt options
     parser.add_argument(
         "--model",
         "-m",
-        default=DEFAULT_MODEL,
-        choices=MODELS,
-        help=f"AI model to use for translation (default: '{DEFAULT_MODEL}')",
+        default=DEFAULT_TRANSLATE_MODEL,
+        choices=AVAILABLE_MODELS,
+        help=f"AI model to use for translation (default: '{DEFAULT_TRANSLATE_MODEL}')",
     )
     parser.add_argument(
         "--system-prompt",

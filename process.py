@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 process.py - High-level pipeline for OCR, cleaning, and translation
 """
@@ -14,26 +13,33 @@ import clean
 import translate
 import utils.utils as utils
 from utils import file_handling
-
-# Only define pipeline-specific defaults here
-DEFAULT_PIPELINE_DIR = "pipeline_output"
-DEFAULT_SKIP_CLEAN = False
-DEFAULT_SKIP_TRANSLATE = False
-
-# All other defaults should be imported from their respective modules
-# This ensures consistency as any changes to those modules will automatically propagate here
+from utils.constants import (
+    DEFAULT_OCR_SUBDIR,
+    DEFAULT_CLEANED_SUBDIR,
+    DEFAULT_TRANSLATED_SUBDIR,
+    DEFAULT_TEMPERATURE,
+    DEFAULT_PIPELINE_DIR,
+    DEFAULT_SKIP_CLEAN,
+    DEFAULT_SKIP_TRANSLATE,
+    DEFAULT_IMAGE_PATTERN,
+    DEFAULT_OCR_MODEL,
+    DEFAULT_CLEAN_MODEL,
+    DEFAULT_TRANSLATE_MODEL,
+    DEFAULT_PROCESS_IMAGES,
+    AVAILABLE_MODELS,
+)
 
 
 def process_image_pipeline(
     image_path: str,
     output_dir: str = DEFAULT_PIPELINE_DIR,
-    ocr_model: str = ocr.DEFAULT_MODEL,
-    clean_model: str = clean.DEFAULT_MODEL,
-    translate_model: str = translate.DEFAULT_MODEL,
-    process_images: bool = ocr.DEFAULT_PROCESS_IMAGES,
+    ocr_model: str = DEFAULT_OCR_MODEL,
+    clean_model: str = DEFAULT_CLEAN_MODEL,
+    translate_model: str = DEFAULT_TRANSLATE_MODEL,
+    process_images: bool = DEFAULT_PROCESS_IMAGES,
     skip_clean: bool = DEFAULT_SKIP_CLEAN,
     skip_translate: bool = DEFAULT_SKIP_TRANSLATE,
-    temperature: float = clean.DEFAULT_TEMPERATURE,  # Use the same temperature for both clean and translate
+    temperature: float = DEFAULT_TEMPERATURE,  # Use the same temperature for both clean and translate
 ) -> dict[str, bool | str | None]:
     """
     Run the full pipeline (OCR -> Clean -> Translate) on a single image.
@@ -68,10 +74,11 @@ def process_image_pipeline(
     # Step 1: OCR
     print(f"\n=== Step 1: OCR Processing for {image_path} ===")
 
-    # Create subdirectory for OCR output - using ocr.DEFAULT_OUTPUT_DIR to maintain consistency
-    ocr_dir = os.path.join(output_dir, ocr.DEFAULT_OUTPUT_DIR)
+    # Create subdirectory for OCR output
+    ocr_dir = os.path.join(output_dir, DEFAULT_OCR_SUBDIR)
     file_handling.ensure_dir(ocr_dir)
 
+    # Process document
     ocr_result = ocr.process_document(
         image_path, output_dir=ocr_dir, process_images=process_images, model=ocr_model
     )
@@ -90,7 +97,7 @@ def process_image_pipeline(
         print(f"\n=== Step 2: Cleaning OCR output ===")
 
         # Create subdirectory for cleaned output
-        clean_dir = os.path.join(output_dir, "cleaned")
+        clean_dir = os.path.join(output_dir, DEFAULT_CLEANED_SUBDIR)
         file_handling.ensure_dir(clean_dir)
 
         clean_output_path = file_handling.get_output_path(current_input, clean_dir)
@@ -114,7 +121,7 @@ def process_image_pipeline(
         print(f"\n=== Step 3: Translating to English ===")
 
         # Create subdirectory for translated output
-        translate_dir = os.path.join(output_dir, "translated")
+        translate_dir = os.path.join(output_dir, DEFAULT_TRANSLATED_SUBDIR)
         file_handling.ensure_dir(translate_dir)
 
         translate_output_path = file_handling.get_output_path(
@@ -151,14 +158,14 @@ def process_image_pipeline(
 def process_batch_pipeline(
     input_dir: str,
     output_dir: str = DEFAULT_PIPELINE_DIR,
-    file_pattern: str = ocr.DEFAULT_FILE_PATTERN,
-    ocr_model: str = ocr.DEFAULT_MODEL,
-    clean_model: str = clean.DEFAULT_MODEL,
-    translate_model: str = translate.DEFAULT_MODEL,
-    process_images: bool = ocr.DEFAULT_PROCESS_IMAGES,
+    file_pattern: str = DEFAULT_IMAGE_PATTERN,
+    ocr_model: str = DEFAULT_OCR_MODEL,
+    clean_model: str = DEFAULT_CLEAN_MODEL,
+    translate_model: str = DEFAULT_TRANSLATE_MODEL,
+    process_images: bool = DEFAULT_PROCESS_IMAGES,
     skip_clean: bool = DEFAULT_SKIP_CLEAN,
     skip_translate: bool = DEFAULT_SKIP_TRANSLATE,
-    temperature: float = clean.DEFAULT_TEMPERATURE,
+    temperature: float = DEFAULT_TEMPERATURE,
 ) -> list[dict[str, bool | str | None]]:
     """
     Run the full pipeline on a batch of images.
@@ -195,12 +202,10 @@ def process_batch_pipeline(
     for idx, image_path in enumerate(image_files):
         print(f"\n[{idx+1}/{len(image_files)}] Processing {image_path}...")
 
-        # Create a unique output directory for each input file
-        file_output_dir = os.path.join(output_dir, Path(image_path).stem)
-
+        # Process in the common output directory
         result = process_image_pipeline(
             str(image_path),
-            output_dir=file_output_dir,
+            output_dir=output_dir,
             ocr_model=ocr_model,
             clean_model=clean_model,
             translate_model=translate_model,
@@ -241,7 +246,8 @@ if __name__ == "__main__":
         "--output-dir",
         "-o",
         default=DEFAULT_PIPELINE_DIR,
-        help=f"Base directory for output (default: '{DEFAULT_PIPELINE_DIR}')",
+        help=f"Base directory for output (default: '{DEFAULT_PIPELINE_DIR}'). "
+        f"Files will be organized in subdirectories for each processing stage.",
     )
     parser.add_argument(
         "--batch",
@@ -252,8 +258,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--pattern",
         "-p",
-        default=ocr.DEFAULT_FILE_PATTERN,
-        help=f"File pattern when using batch mode (default: '{ocr.DEFAULT_FILE_PATTERN}')",
+        default=DEFAULT_IMAGE_PATTERN,
+        help=f"File pattern when using batch mode (default: '{DEFAULT_IMAGE_PATTERN}')",
     )
 
     # Pipeline control options
@@ -276,27 +282,27 @@ if __name__ == "__main__":
     # Model options
     parser.add_argument(
         "--ocr-model",
-        default=ocr.DEFAULT_MODEL,
-        help=f"OCR model to use (default: '{ocr.DEFAULT_MODEL}')",
+        default=DEFAULT_OCR_MODEL,
+        help=f"OCR model to use (default: '{DEFAULT_OCR_MODEL}')",
     )
     parser.add_argument(
         "--clean-model",
-        default=clean.DEFAULT_MODEL,
-        choices=clean.MODELS,
-        help=f"AI model to use for cleaning (default: '{clean.DEFAULT_MODEL}')",
+        default=DEFAULT_CLEAN_MODEL,
+        choices=AVAILABLE_MODELS,
+        help=f"AI model to use for cleaning (default: '{DEFAULT_CLEAN_MODEL}')",
     )
     parser.add_argument(
         "--translate-model",
-        default=translate.DEFAULT_MODEL,
-        choices=translate.MODELS,
-        help=f"AI model to use for translation (default: '{translate.DEFAULT_MODEL}')",
+        default=DEFAULT_TRANSLATE_MODEL,
+        choices=AVAILABLE_MODELS,
+        help=f"AI model to use for translation (default: '{DEFAULT_TRANSLATE_MODEL}')",
     )
     parser.add_argument(
         "--temperature",
         "-t",
         type=float,
-        default=clean.DEFAULT_TEMPERATURE,
-        help=f"Temperature for LLM generation (0.0-1.0) (default: {clean.DEFAULT_TEMPERATURE})",
+        default=DEFAULT_TEMPERATURE,
+        help=f"Temperature for LLM generation (0.0-1.0) (default: {DEFAULT_TEMPERATURE})",
     )
 
     args = parser.parse_args()

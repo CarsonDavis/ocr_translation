@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 ocr.py - Script to perform OCR on document images
 """
@@ -8,42 +7,59 @@ import re
 import base64
 import argparse
 from pathlib import Path
-from typing import Any
+from typing import Any, Tuple
 
 # Import from utility module
 import utils.utils as utils
 from utils import file_handling
+from utils.constants import (
+    DEFAULT_OCR_DIR,
+    DEFAULT_OUTPUT_PARENT,
+    DEFAULT_IMAGE_PATTERN,
+    DEFAULT_OCR_MODEL,
+    DEFAULT_PROCESS_IMAGES,
+)
 
-# Default values as constants - single source of truth
-DEFAULT_OUTPUT_DIR = "ocr"
-DEFAULT_IMAGES_DIR = "images"
-DEFAULT_FILE_PATTERN = "*.jpg *.png *.jpeg *.webp"
-DEFAULT_MODEL = "mistral-ocr-latest"
-DEFAULT_PROCESS_IMAGES = True
 
-
-def save_extracted_images(page: Any, output_dir: str = DEFAULT_IMAGES_DIR) -> list[str]:
+def save_extracted_images(
+    page: Any, base_document_name: str, output_dir: str = DEFAULT_OCR_DIR
+) -> Tuple[list[str], dict[str, str]]:
     """
-    Save extracted images from OCR response.
+    Save extracted images from OCR response to a document-specific directory.
 
     Args:
         page: Page object from OCR response
-        output_dir: Directory to save images to
+        base_document_name: Base name of the document (without extension)
+        output_dir: Base directory for output
 
     Returns:
-        list: List of saved image paths
+        Tuple containing:
+        - List of saved image paths
+        - Dictionary mapping original image IDs to new relative paths
     """
     saved_images: list[str] = []
+    image_path_mapping: dict[str, str] = {}
 
-    # Create output directory if it doesn't exist
-    file_handling.ensure_dir(output_dir)
+    # Create document-specific images directory
+    images_dir = os.path.join(output_dir, "images", base_document_name)
+    file_handling.ensure_dir(images_dir)
 
     # Process each image in the page
     for img_obj in page.images:
         try:
             # Use image ID as filename
-            filename: str = f"{img_obj.id}"
-            output_path: str = os.path.join(output_dir, filename)
+            original_id: str = img_obj.id
+            filename: str = f"{original_id}"
+
+            # If the filename doesn't have an extension, add .jpg
+            if not Path(filename).suffix:
+                filename = f"{filename}.jpg"
+
+            output_path: str = os.path.join(images_dir, filename)
+
+            # Create the relative path for markdown references
+            relative_path: str = os.path.join("images", base_document_name, filename)
+            image_path_mapping[original_id] = relative_path
 
             # Check if image_base64 is available
             if img_obj.image_base64:
@@ -63,11 +79,46 @@ def save_extracted_images(page: Any, output_dir: str = DEFAULT_IMAGES_DIR) -> li
                 saved_images.append(output_path)
                 print(f"Saved image to {output_path}")
             else:
-                print(f"No base64 data available for image {img_obj.id}")
+                print(f"No base64 data available for image {original_id}")
         except Exception as e:
             print(f"Error saving image {img_obj.id}: {e}")
 
-    return saved_images
+    return saved_images, image_path_mapping
+
+
+def update_image_links_in_markdown(
+    markdown_text: str, image_path_mapping: dict[str, str]
+) -> str:
+    """
+    Update image references in markdown to point to the new image locations.
+
+    Args:
+        markdown_text: Original markdown text
+        image_path_mapping: Dictionary mapping original image IDs to new relative paths
+
+    Returns:
+        str: Updated markdown text with corrected image references
+    """
+    updated_text: str = markdown_text
+
+    # Replace markdown image links: ![alt](image_id) -> ![alt](new_path)
+    for original_id, new_path in image_path_mapping.items():
+        # Escape special characters in the ID for regex
+        escaped_id: str = re.escape(original_id)
+
+        # Match markdown image syntax and replace with updated path
+        updated_text = re.sub(
+            rf"!\[(.*?)\]\({escaped_id}\)", rf"![\1]({new_path})", updated_text
+        )
+
+        # Also handle HTML image tags with this ID
+        updated_text = re.sub(
+            rf'<img([^>]*?)src=["\']{escaped_id}["\']([^>]*?)>',
+            rf'<img\1src="{new_path}"\2>',
+            updated_text,
+        )
+
+    return updated_text
 
 
 def remove_images_from_markdown(markdown_text: str, page: Any) -> str:
@@ -105,17 +156,17 @@ def remove_images_from_markdown(markdown_text: str, page: Any) -> str:
 
 def process_document(
     image_path: str,
-    output_dir: str = DEFAULT_OUTPUT_DIR,
+    output_dir: str = DEFAULT_OCR_DIR,
     process_images: bool = DEFAULT_PROCESS_IMAGES,
     api_key: str | None = None,
-    model: str = DEFAULT_MODEL,
+    model: str = DEFAULT_OCR_MODEL,
 ) -> dict[str, bool | str | None | list[str]]:
     """
     Process a document image through OCR and save the results.
 
     Args:
         image_path: Path to the image file
-        output_dir: Directory to save output to (or file path if it has an extension)
+        output_dir: Directory to save output to
         process_images: Whether to process and save images
         api_key: Mistral API key. Defaults to environment variable
         model: OCR model to use
@@ -130,9 +181,7 @@ def process_document(
     }
 
     # Create output directory if needed
-    # We'll only use this for images, for the markdown we'll use get_output_path
-    if process_images:
-        file_handling.ensure_dir(output_dir)
+    file_handling.ensure_dir(output_dir)
 
     # Create OCR client and process image
     ocr_client = utils.OCRAI(api_key=api_key, model=model)
@@ -145,20 +194,26 @@ def process_document(
     if ocr_response.pages and len(ocr_response.pages) > 0:
         markdown_text: str = ocr_response.pages[0].markdown
 
+        # Generate base name for the document
+        base_name: str = os.path.splitext(os.path.basename(image_path))[0]
+
         # Process images if requested
         if process_images:
-            # Save extracted images
-            results["image_paths"] = save_extracted_images(
-                ocr_response.pages[0], output_dir
+            # Save extracted images to document-specific directory and get path mapping
+            saved_images, image_path_mapping = save_extracted_images(
+                ocr_response.pages[0], base_name, output_dir
+            )
+            results["image_paths"] = saved_images
+
+            # Update image links in the markdown to point to the new image locations
+            markdown_text = update_image_links_in_markdown(
+                markdown_text, image_path_mapping
             )
         else:
-            # Clean markdown to remove image references
+            # Clean markdown to remove image references if images are not processed
             markdown_text = remove_images_from_markdown(
                 markdown_text, ocr_response.pages[0]
             )
-
-        # Generate output filename based on input image name
-        base_name: str = os.path.splitext(os.path.basename(image_path))[0]
 
         # Use get_output_path to ensure consistent behavior
         markdown_path: str = file_handling.get_output_path(
@@ -175,11 +230,11 @@ def process_document(
 
 def process_batch(
     input_dir: str,
-    output_dir: str = DEFAULT_OUTPUT_DIR,
-    file_pattern: str = DEFAULT_FILE_PATTERN,
+    output_dir: str = DEFAULT_OCR_DIR,
+    file_pattern: str = DEFAULT_IMAGE_PATTERN,
     process_images: bool = DEFAULT_PROCESS_IMAGES,
     api_key: str | None = None,
-    model: str = DEFAULT_MODEL,
+    model: str = DEFAULT_OCR_MODEL,
 ) -> list[dict[str, bool | str | None | list[str]]]:
     """
     Process all image files in a directory.
@@ -234,8 +289,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output-dir",
         "-o",
-        default=DEFAULT_OUTPUT_DIR,
-        help=f"Directory to save output (default: '{DEFAULT_OUTPUT_DIR}'). "
+        default=DEFAULT_OCR_DIR,
+        help=f"Directory to save output (default: '{DEFAULT_OCR_DIR}'). "
         f"Files will be saved within this directory with names derived from the input files.",
     )
     parser.add_argument(
@@ -247,8 +302,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--pattern",
         "-p",
-        default=DEFAULT_FILE_PATTERN,
-        help=f"File pattern when using batch mode (default: '{DEFAULT_FILE_PATTERN}')",
+        default=DEFAULT_IMAGE_PATTERN,
+        help=f"File pattern when using batch mode (default: '{DEFAULT_IMAGE_PATTERN}')",
     )
 
     # Processing options
@@ -260,8 +315,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--model",
         "-m",
-        default=DEFAULT_MODEL,
-        help=f"OCR model to use (default: '{DEFAULT_MODEL}')",
+        default=DEFAULT_OCR_MODEL,
+        help=f"OCR model to use (default: '{DEFAULT_OCR_MODEL}')",
     )
 
     args = parser.parse_args()

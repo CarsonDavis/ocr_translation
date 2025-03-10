@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 clean.py - Script to clean OCR-generated markdown using AI models
 """
@@ -11,37 +10,20 @@ from typing import Any
 # Import from utility module
 import utils.utils as utils
 from utils import file_handling
-
-
-# Default values as constants
-DEFAULT_OUTPUT_DIR = "cleaned"
-DEFAULT_FILE_PATTERN = "*.md"
-DEFAULT_MODEL = "openai:gpt-4o"
-DEFAULT_TEMPERATURE = 0.75
-
-# Default prompts for cleaning
-CLEANING_SYSTEM_PROMPT = "You are a deliberate and careful editor of old French"
-CLEANING_USER_PROMPT = """You will be given an OCR-generated transcription of the 16th-century French legal text **"Arrest mémorable du Parlement de Tolose"** by Jean de Coras, a detailed account of the Martin Guerre impostor case. This OCR transcription contains transcription errors such as incorrect character recognition, misplaced punctuation, and spacing mistakes.
-**Your task is to:**
-
-1. **Correct all transcription errors**, ensuring accuracy in spelling, punctuation, capitalization, and spacing.
-2. **Preserve the original 16th-century French style and vocabulary**, maintaining archaic language and legal terms as faithfully as possible.
-3. **Pay particular attention to annotations**, which often contain classical references (e.g., Homer, Virgil, Cicero, and biblical passages), ensuring these are accurately transcribed and coherent in the context of the overall narrative.
-4. Note that the annotations are often referenced through out the text with single letters. These single letters are not mistakes if they line up with an annotation.
-5. **Retain original formatting** (such as headings, numbered annotations, and paragraph structure) wherever possible.
-6. Respond with absolutely nothing except the edited text. Do not make any comments.
-
-Begin now.
-"""
-
-# Available models
-MODELS = ["openai:gpt-4o", "anthropic:claude-3-5-sonnet-20240620"]
+from utils.constants import (
+    DEFAULT_CLEANED_DIR,
+    DEFAULT_MD_PATTERN,
+    DEFAULT_CLEAN_MODEL,
+    DEFAULT_TEMPERATURE,
+    CLEANING_SYSTEM_PROMPT,
+    CLEANING_USER_PROMPT,
+)
 
 
 def clean_markdown_with_llm(
     input_path: str,
     output_path: str | None = None,
-    model: str = DEFAULT_MODEL,
+    model: str = DEFAULT_CLEAN_MODEL,
     system_prompt: str = CLEANING_SYSTEM_PROMPT,
     user_prompt: str = CLEANING_USER_PROMPT,
     temperature: float = DEFAULT_TEMPERATURE,
@@ -77,7 +59,7 @@ def clean_markdown_with_llm(
     # Always use get_output_path to ensure consistent behavior
     # whether output_path is a directory or file path
     output_path = file_handling.get_output_path(
-        input_path, output_path or DEFAULT_OUTPUT_DIR
+        input_path, output_path or DEFAULT_CLEANED_DIR
     )
     results["output_path"] = output_path
 
@@ -104,9 +86,9 @@ def clean_markdown_with_llm(
 
 def batch_clean_directory(
     input_dir: str,
-    output_dir: str = DEFAULT_OUTPUT_DIR,
-    file_pattern: str = DEFAULT_FILE_PATTERN,
-    model: str = DEFAULT_MODEL,
+    output_dir: str = DEFAULT_CLEANED_DIR,
+    file_pattern: str = DEFAULT_MD_PATTERN,
+    model: str = DEFAULT_CLEAN_MODEL,
     system_prompt: str = CLEANING_SYSTEM_PROMPT,
     user_prompt: str = CLEANING_USER_PROMPT,
     temperature: float = DEFAULT_TEMPERATURE,
@@ -179,8 +161,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output",
         "-o",
-        default=DEFAULT_OUTPUT_DIR,
-        help=f"Output directory (default: '{DEFAULT_OUTPUT_DIR}'). "
+        default=DEFAULT_CLEANED_DIR,
+        help=f"Output directory (default: '{DEFAULT_CLEANED_DIR}'). "
         f"Files will be saved within this directory with their original names.",
     )
     parser.add_argument(
@@ -192,17 +174,17 @@ if __name__ == "__main__":
     parser.add_argument(
         "--pattern",
         "-p",
-        default=DEFAULT_FILE_PATTERN,
-        help=f"File pattern when using batch mode (default: '{DEFAULT_FILE_PATTERN}')",
+        default=DEFAULT_MD_PATTERN,
+        help=f"File pattern when using batch mode (default: '{DEFAULT_MD_PATTERN}')",
     )
 
     # Model and prompt options
     parser.add_argument(
         "--model",
         "-m",
-        default=DEFAULT_MODEL,
-        choices=MODELS,
-        help=f"AI model to use for cleaning (default: '{DEFAULT_MODEL}')",
+        default=DEFAULT_CLEAN_MODEL,
+        choices=AVAILABLE_MODELS,
+        help=f"AI model to use for cleaning (default: '{DEFAULT_CLEAN_MODEL}')",
     )
     parser.add_argument(
         "--system-prompt",
