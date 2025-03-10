@@ -1,5 +1,6 @@
-*.jpg
-*.webp
-*.jpeg
 venv/
+pipeline_output/
+output*/
+data/
 .env
+**__pycache__
