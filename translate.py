@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-clean.py - Script to clean OCR-generated markdown using AI models
+translate.py - Script to translate markdown from French to English using AI models
 """
 
 import os
@@ -11,37 +11,38 @@ from pathlib import Path
 import utils
 
 
-# Default prompts for cleaning
-CLEANING_SYSTEM_PROMPT = "You are a deliberate and careful editor of old French"
-CLEANING_USER_PROMPT = (
-    "I created the following French 1500s text with OCR, and it might have missed "
-    "some characters or made minor mistakes. Correct anything you see wrong, and "
-    "respond with only the corrected information. Maintain the markdown formatting "
-    "of the original."
+# Default prompts for translation
+TRANSLATION_SYSTEM_PROMPT = (
+    "You are a professional translator specializing in Old French to modern English"
+)
+TRANSLATION_USER_PROMPT = (
+    "Translate the following Old French text to modern English. Maintain the markdown "
+    "formatting of the original. Ensure the translation captures both the meaning and "
+    "the style of the original text."
 )
 
 # Available models
 MODELS = ["openai:gpt-4o", "anthropic:claude-3-5-sonnet-20240620"]
 
 
-def clean_markdown_with_llm(
+def translate_markdown(
     input_path,
     output_path=None,
     model="openai:gpt-4o",
-    system_prompt=CLEANING_SYSTEM_PROMPT,
-    user_prompt=CLEANING_USER_PROMPT,
+    system_prompt=TRANSLATION_SYSTEM_PROMPT,
+    user_prompt=TRANSLATION_USER_PROMPT,
     temperature=0.75,
 ):
     """
-    Clean a markdown file using an LLM.
+    Translate a markdown file from French to English using an LLM.
 
     Args:
         input_path (str): Path to the input markdown file
-        output_path (str, optional): Path to save the cleaned markdown file.
-                                    If None, creates an appropriate path.
+        output_path (str, optional): Path to save the translated markdown file.
+                                     If None, creates an appropriate path.
         model (str, optional): LLM model to use. Defaults to "openai:gpt-4o".
-        system_prompt (str, optional): Custom system prompt. Defaults to CLEANING_SYSTEM_PROMPT.
-        user_prompt (str, optional): Custom user prompt. Defaults to CLEANING_USER_PROMPT.
+        system_prompt (str, optional): Custom system prompt. Defaults to TRANSLATION_SYSTEM_PROMPT.
+        user_prompt (str, optional): Custom user prompt. Defaults to TRANSLATION_USER_PROMPT.
         temperature (float, optional): Temperature for LLM generation. Defaults to 0.75.
 
     Returns:
@@ -51,7 +52,7 @@ def clean_markdown_with_llm(
         "success": False,
         "input_path": input_path,
         "output_path": output_path,
-        "cleaned_text": None,
+        "translated_text": None,
     }
 
     # Read the markdown file
@@ -61,7 +62,7 @@ def clean_markdown_with_llm(
 
     # Generate appropriate output path if none provided
     if output_path is None:
-        output_dir = "cleaned"
+        output_dir = "translated"
         output_path = utils.get_output_path(input_path, output_dir)
 
     results["output_path"] = output_path
@@ -70,42 +71,42 @@ def clean_markdown_with_llm(
         # Create AI client
         ai_client = utils.TextAI(model=model)
 
-        # Call the LLM to clean the text
-        print(f"Cleaning markdown using {model}...")
-        cleaned_text = ai_client.call(
+        # Call the LLM to translate the text
+        print(f"Translating markdown using {model}...")
+        translated_text = ai_client.call(
             system_prompt, user_prompt, markdown_text, temperature
         )
-        results["cleaned_text"] = cleaned_text
+        results["translated_text"] = translated_text
 
-        # Save the cleaned text
-        if utils.save_markdown(cleaned_text, output_path):
+        # Save the translated text
+        if utils.save_markdown(translated_text, output_path):
             results["success"] = True
 
     except Exception as e:
-        print(f"Error during cleaning process: {e}")
+        print(f"Error during translation process: {e}")
 
     return results
 
 
-def batch_clean_directory(
+def batch_translate_directory(
     input_dir,
-    output_dir="cleaned",
+    output_dir="translated",
     file_pattern="*.md",
     model="openai:gpt-4o",
-    system_prompt=CLEANING_SYSTEM_PROMPT,
-    user_prompt=CLEANING_USER_PROMPT,
+    system_prompt=TRANSLATION_SYSTEM_PROMPT,
+    user_prompt=TRANSLATION_USER_PROMPT,
     temperature=0.75,
 ):
     """
-    Clean all markdown files in a directory.
+    Translate all markdown files in a directory from French to English.
 
     Args:
-        input_dir (str): Directory containing markdown files to clean
-        output_dir (str, optional): Directory to save cleaned files.
+        input_dir (str): Directory containing markdown files to translate
+        output_dir (str, optional): Directory to save translated files.
         file_pattern (str, optional): Pattern to match files. Defaults to "*.md".
         model (str, optional): LLM model to use. Defaults to openai:gpt-4o.
-        system_prompt (str, optional): Custom system prompt. Defaults to CLEANING_SYSTEM_PROMPT.
-        user_prompt (str, optional): Custom user prompt. Defaults to CLEANING_USER_PROMPT.
+        system_prompt (str, optional): Custom system prompt. Defaults to TRANSLATION_SYSTEM_PROMPT.
+        user_prompt (str, optional): Custom user prompt. Defaults to TRANSLATION_USER_PROMPT.
         temperature (float, optional): Temperature for LLM generation. Defaults to 0.75.
 
     Returns:
@@ -120,7 +121,7 @@ def batch_clean_directory(
         print(f"No files matching '{file_pattern}' found in {input_dir}")
         return results
 
-    print(f"Found {len(markdown_files)} markdown files to clean")
+    print(f"Found {len(markdown_files)} markdown files to translate")
 
     # Create output directory if it doesn't exist
     utils.ensure_dir(output_dir)
@@ -135,9 +136,9 @@ def batch_clean_directory(
         )
         output_path = Path(output_dir) / rel_path
 
-        # Clean the file
-        print(f"Cleaning {file_path}...")
-        file_result = clean_markdown_with_llm(
+        # Translate the file
+        print(f"Translating {file_path}...")
+        file_result = translate_markdown(
             str(file_path),
             str(output_path),
             model,
@@ -156,7 +157,7 @@ def batch_clean_directory(
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Clean OCR-generated markdown files using AI"
+        description="Translate markdown files from French to English using AI"
     )
 
     # Input and output options
@@ -164,8 +165,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output",
         "-o",
-        default="cleaned",
-        help="Output markdown file or directory (default: 'cleaned' directory)",
+        default="translated",
+        help="Output markdown file or directory (default: 'translated' directory)",
     )
     parser.add_argument(
         "--batch",
@@ -186,19 +187,19 @@ if __name__ == "__main__":
         "-m",
         default="openai:gpt-4o",
         choices=MODELS,
-        help="AI model to use for cleaning",
+        help="AI model to use for translation",
     )
     parser.add_argument(
         "--system-prompt",
         "-s",
-        default=CLEANING_SYSTEM_PROMPT,
-        help="Custom system prompt for cleaning",
+        default=TRANSLATION_SYSTEM_PROMPT,
+        help="Custom system prompt for translation",
     )
     parser.add_argument(
         "--user-prompt",
         "-u",
-        default=CLEANING_USER_PROMPT,
-        help="Custom user prompt for cleaning",
+        default=TRANSLATION_USER_PROMPT,
+        help="Custom user prompt for translation",
     )
     parser.add_argument(
         "--temperature",
@@ -212,7 +213,7 @@ if __name__ == "__main__":
 
     # Determine if we're processing a single file or a directory
     if args.batch or os.path.isdir(args.input):
-        batch_clean_directory(
+        batch_translate_directory(
             args.input,
             args.output,
             args.pattern,
@@ -222,7 +223,7 @@ if __name__ == "__main__":
             args.temperature,
         )
     else:
-        result = clean_markdown_with_llm(
+        result = translate_markdown(
             args.input,
             args.output,
             args.model,
@@ -232,7 +233,7 @@ if __name__ == "__main__":
         )
 
         if result["success"]:
-            print(f"Successfully cleaned {args.input}")
-            print(f"Cleaned markdown saved to {result['output_path']}")
+            print(f"Successfully translated {args.input}")
+            print(f"Translated markdown saved to {result['output_path']}")
         else:
-            print(f"Failed to clean {args.input}")
+            print(f"Failed to translate {args.input}")

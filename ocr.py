@@ -1,82 +1,16 @@
-# full_ocr.py
-import base64
+#!/usr/bin/env python3
+"""
+ocr.py - Script to perform OCR on document images
+"""
+
 import os
 import re
-import requests
+import base64
+import argparse
 from pathlib import Path
-from mistralai import Mistral
 
-
-def encode_image(image_path):
-    """
-    Encode an image to base64.
-
-    Args:
-        image_path (str): Path to the image file
-
-    Returns:
-        str or None: Base64 encoded string or None if encoding fails
-    """
-    try:
-        with open(image_path, "rb") as image_file:
-            return base64.b64encode(image_file.read()).decode("utf-8")
-    except FileNotFoundError:
-        print(f"Error: The file {image_path} was not found.")
-        return None
-    except Exception as e:
-        print(f"Error encoding image: {e}")
-        return None
-
-
-def process_ocr(
-    image_path, api_key=None, model="mistral-ocr-latest", include_images=True
-):
-    """
-    Process an image through Mistral's OCR API.
-
-    Args:
-        image_path (str): Path to the image file
-        api_key (str, optional): Mistral API key. Defaults to environment variable.
-        model (str, optional): OCR model to use. Defaults to "mistral-ocr-latest".
-        include_images (bool, optional): Whether to request base64 image data. Defaults to True.
-
-    Returns:
-        object or None: OCR response object or None if processing fails
-    """
-    try:
-        # Get API key from environment if not provided
-        if api_key is None:
-            api_key = os.environ.get("MISTRAL_API_KEY")
-            if not api_key:
-                raise ValueError(
-                    "No API key provided and MISTRAL_API_KEY environment variable not set"
-                )
-
-        # Encode the image
-        base64_image = encode_image(image_path)
-        if base64_image is None:
-            return None
-
-        # Determine image type from file extension
-        image_type = Path(image_path).suffix.lstrip(".")
-        if not image_type:
-            image_type = "jpeg"  # Default if no extension
-
-        # Create Mistral client and process the image
-        client = Mistral(api_key=api_key)
-        ocr_response = client.ocr.process(
-            model=model,
-            document={
-                "type": "image_url",
-                "image_url": f"data:image/{image_type};base64,{base64_image}",
-            },
-            include_image_base64=include_images,
-        )
-
-        return ocr_response
-    except Exception as e:
-        print(f"Error processing OCR: {e}")
-        return None
+# Import from utility module
+import utils
 
 
 def save_extracted_images(page, output_dir="images"):
@@ -93,7 +27,7 @@ def save_extracted_images(page, output_dir="images"):
     saved_images = []
 
     # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
+    utils.ensure_dir(output_dir)
 
     # Process each image in the page
     for img_obj in page.images:
@@ -160,34 +94,12 @@ def clean_markdown(markdown_text, page):
     return cleaned_text
 
 
-def save_markdown(markdown_text, output_path):
-    """
-    Save markdown text to a file.
-
-    Args:
-        markdown_text (str): Markdown text to save
-        output_path (str): Path to save the markdown file
-
-    Returns:
-        bool: True if successful, False otherwise
-    """
-    try:
-        # Create directory if it doesn't exist
-        os.makedirs(os.path.dirname(os.path.abspath(output_path)), exist_ok=True)
-
-        # Write markdown to file
-        with open(output_path, "w", encoding="utf-8") as f:
-            f.write(markdown_text)
-
-        print(f"Saved markdown to {output_path}")
-        return True
-    except Exception as e:
-        print(f"Error saving markdown: {e}")
-        return False
-
-
 def process_document(
-    image_path, output_dir="output", process_images=True, api_key=None
+    image_path,
+    output_dir="output",
+    process_images=True,
+    api_key=None,
+    model="mistral-ocr-latest",
 ):
     """
     Process a document image through OCR and save the results.
@@ -196,8 +108,8 @@ def process_document(
         image_path (str): Path to the image file
         output_dir (str, optional): Directory to save output to. Defaults to "output".
         process_images (bool, optional): Whether to process and save images. Defaults to True.
-                                        When False, image data won't be requested from the API.
         api_key (str, optional): Mistral API key. Defaults to environment variable.
+        model (str, optional): OCR model to use. Defaults to "mistral-ocr-latest".
 
     Returns:
         dict: Results dictionary with paths to saved files
@@ -205,10 +117,12 @@ def process_document(
     results = {"success": False, "markdown_path": None, "image_paths": []}
 
     # Create output directory
-    os.makedirs(output_dir, exist_ok=True)
+    utils.ensure_dir(output_dir)
 
-    # Process OCR - only request image data if we're going to use it
-    ocr_response = process_ocr(image_path, api_key, include_images=process_images)
+    # Create OCR client and process image
+    ocr_client = utils.OCRAI(api_key=api_key, model=model)
+    ocr_response = ocr_client.call(image_path, include_images=process_images)
+
     if ocr_response is None:
         return results
 
@@ -219,7 +133,6 @@ def process_document(
         # Process images if requested
         if process_images:
             # Save extracted images
-            # image_dir = os.path.join(output_dir, "images")
             results["image_paths"] = save_extracted_images(
                 ocr_response.pages[0], output_dir
             )
@@ -232,37 +145,120 @@ def process_document(
         markdown_path = os.path.join(output_dir, f"{base_name}.md")
 
         # Save markdown
-        if save_markdown(markdown_text, markdown_path):
+        if utils.save_markdown(markdown_text, markdown_path):
             results["markdown_path"] = markdown_path
             results["success"] = True
 
     return results
 
 
-if __name__ == "__main__":
-    import argparse
+def process_batch(
+    input_dir,
+    output_dir="output",
+    file_pattern="*.jpg *.png *.jpeg *.webp",
+    process_images=True,
+    api_key=None,
+    model="mistral-ocr-latest",
+):
+    """
+    Process all image files in a directory.
 
+    Args:
+        input_dir (str): Directory containing image files to process
+        output_dir (str, optional): Directory to save output. Defaults to "output".
+        file_pattern (str, optional): Pattern to match files. Defaults to "*.jpg *.png *.jpeg".
+        process_images (bool, optional): Whether to process and save images. Defaults to True.
+        api_key (str, optional): Mistral API key. Defaults to environment variable.
+        model (str, optional): OCR model to use. Defaults to "mistral-ocr-latest".
+
+    Returns:
+        list: List of results dictionaries for each file
+    """
+    results = []
+
+    # Find all image files
+    image_files = []
+    for pattern in file_pattern.split():
+        image_files.extend(utils.find_files(input_dir, pattern))
+
+    if not image_files:
+        print(f"No files matching '{file_pattern}' found in {input_dir}")
+        return results
+
+    print(f"Found {len(image_files)} image files to process")
+
+    # Process each file
+    for image_path in image_files:
+        print(f"Processing {image_path}...")
+        file_result = process_document(
+            str(image_path),
+            output_dir=output_dir,
+            process_images=process_images,
+            api_key=api_key,
+            model=model,
+        )
+        results.append(file_result)
+
+    # Print summary
+    utils.print_batch_summary(results)
+
+    return results
+
+
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process document images with OCR")
-    parser.add_argument("image_path", help="Path to the image file")
+
+    # Input and output options
+    parser.add_argument("input", help="Input image file or directory")
     parser.add_argument(
-        "--output-dir", default="output", help="Directory to save output"
+        "--output-dir", "-o", default="output", help="Directory to save output"
     )
+    parser.add_argument(
+        "--batch",
+        "-b",
+        action="store_true",
+        help="Process all image files in input directory",
+    )
+    parser.add_argument(
+        "--pattern",
+        "-p",
+        default="*.jpg *.png *.jpeg",
+        help="File pattern when using batch mode",
+    )
+
+    # Processing options
     parser.add_argument(
         "--no-images",
         action="store_true",
         help="Don't process and save images (also doesn't request image data from API)",
     )
+    parser.add_argument(
+        "--model", "-m", default="mistral-ocr-latest", help="OCR model to use"
+    )
 
     args = parser.parse_args()
 
-    result = process_document(
-        args.image_path, output_dir=args.output_dir, process_images=not args.no_images
-    )
-
-    if result["success"]:
-        print(f"Successfully processed {args.image_path}")
-        print(f"Markdown saved to {result['markdown_path']}")
-        if result["image_paths"]:
-            print(f"Saved {len(result['image_paths'])} images")
+    # Determine if we're processing a single file or a directory
+    if args.batch or os.path.isdir(args.input):
+        process_batch(
+            args.input,
+            output_dir=args.output_dir,
+            file_pattern=args.pattern,
+            process_images=not args.no_images,
+            model=args.model,
+        )
     else:
-        print(f"Failed to process {args.image_path}")
+        result = process_document(
+            args.input,
+            output_dir=args.output_dir,
+            process_images=not args.no_images,
+            model=args.model,
+        )
+
+        if result["success"]:
+            print(f"Successfully processed {args.input}")
+            print(f"Markdown saved to {result['markdown_path']}")
+            if result["image_paths"]:
+                print(f"Saved {len(result['image_paths'])} images")
+        else:
+            print(f"Failed to process {args.input}")
