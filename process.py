@@ -6,43 +6,53 @@ process.py - High-level pipeline for OCR, cleaning, and translation
 import os
 import argparse
 from pathlib import Path
+from typing import Any
 
 # Import from project modules
 import ocr
 import clean
 import translate
-import utils
+import utils.utils as utils
+from utils import file_handling
+
+# Only define pipeline-specific defaults here
+DEFAULT_PIPELINE_DIR = "pipeline_output"
+DEFAULT_SKIP_CLEAN = False
+DEFAULT_SKIP_TRANSLATE = False
+
+# All other defaults should be imported from their respective modules
+# This ensures consistency as any changes to those modules will automatically propagate here
 
 
 def process_image_pipeline(
-    image_path,
-    output_dir="pipeline_output",
-    ocr_model="mistral-ocr-latest",
-    clean_model="openai:gpt-4o",
-    translate_model="openai:gpt-4o",
-    process_images=True,
-    skip_clean=False,
-    skip_translate=False,
-    temperature=0.75,
-):
+    image_path: str,
+    output_dir: str = DEFAULT_PIPELINE_DIR,
+    ocr_model: str = ocr.DEFAULT_MODEL,
+    clean_model: str = clean.DEFAULT_MODEL,
+    translate_model: str = translate.DEFAULT_MODEL,
+    process_images: bool = ocr.DEFAULT_PROCESS_IMAGES,
+    skip_clean: bool = DEFAULT_SKIP_CLEAN,
+    skip_translate: bool = DEFAULT_SKIP_TRANSLATE,
+    temperature: float = clean.DEFAULT_TEMPERATURE,  # Use the same temperature for both clean and translate
+) -> dict[str, bool | str | None]:
     """
     Run the full pipeline (OCR -> Clean -> Translate) on a single image.
 
     Args:
-        image_path (str): Path to the input image
-        output_dir (str, optional): Base directory for output. Defaults to "pipeline_output".
-        ocr_model (str, optional): OCR model to use. Defaults to "mistral-ocr-latest".
-        clean_model (str, optional): Model for cleaning. Defaults to "openai:gpt-4o".
-        translate_model (str, optional): Model for translation. Defaults to "openai:gpt-4o".
-        process_images (bool, optional): Whether to save extracted images. Defaults to True.
-        skip_clean (bool, optional): Skip the cleaning step. Defaults to False.
-        skip_translate (bool, optional): Skip the translation step. Defaults to False.
-        temperature (float, optional): Temperature for AI generation. Defaults to 0.75.
+        image_path: Path to the input image
+        output_dir: Base directory for output
+        ocr_model: OCR model to use
+        clean_model: Model for cleaning
+        translate_model: Model for translation
+        process_images: Whether to save extracted images
+        skip_clean: Skip the cleaning step
+        skip_translate: Skip the translation step
+        temperature: Temperature for AI generation
 
     Returns:
         dict: Results of the pipeline
     """
-    results = {
+    results: dict[str, bool | str | None] = {
         "image_path": image_path,
         "ocr_success": False,
         "clean_success": False,
@@ -53,14 +63,14 @@ def process_image_pipeline(
     }
 
     # Create main output directory
-    utils.ensure_dir(output_dir)
+    file_handling.ensure_dir(output_dir)
 
     # Step 1: OCR
     print(f"\n=== Step 1: OCR Processing for {image_path} ===")
 
     # Create subdirectory for OCR output
     ocr_dir = os.path.join(output_dir, "ocr")
-    utils.ensure_dir(ocr_dir)
+    file_handling.ensure_dir(ocr_dir)
 
     ocr_result = ocr.process_document(
         image_path, output_dir=ocr_dir, process_images=process_images, model=ocr_model
@@ -81,9 +91,9 @@ def process_image_pipeline(
 
         # Create subdirectory for cleaned output
         clean_dir = os.path.join(output_dir, "cleaned")
-        utils.ensure_dir(clean_dir)
+        file_handling.ensure_dir(clean_dir)
 
-        clean_output_path = utils.get_output_path(current_input, clean_dir)
+        clean_output_path = file_handling.get_output_path(current_input, clean_dir)
 
         clean_result = clean.clean_markdown_with_llm(
             current_input, clean_output_path, model=clean_model, temperature=temperature
@@ -105,9 +115,11 @@ def process_image_pipeline(
 
         # Create subdirectory for translated output
         translate_dir = os.path.join(output_dir, "translated")
-        utils.ensure_dir(translate_dir)
+        file_handling.ensure_dir(translate_dir)
 
-        translate_output_path = utils.get_output_path(current_input, translate_dir)
+        translate_output_path = file_handling.get_output_path(
+            current_input, translate_dir
+        )
 
         translate_result = translate.translate_markdown(
             current_input,
@@ -137,39 +149,39 @@ def process_image_pipeline(
 
 
 def process_batch_pipeline(
-    input_dir,
-    output_dir="pipeline_output",
-    file_pattern="*.jpg *.png *.jpeg",
-    ocr_model="mistral-ocr-latest",
-    clean_model="openai:gpt-4o",
-    translate_model="openai:gpt-4o",
-    process_images=True,
-    skip_clean=False,
-    skip_translate=False,
-    temperature=0.75,
-):
+    input_dir: str,
+    output_dir: str = DEFAULT_PIPELINE_DIR,
+    file_pattern: str = ocr.DEFAULT_FILE_PATTERN,
+    ocr_model: str = ocr.DEFAULT_MODEL,
+    clean_model: str = clean.DEFAULT_MODEL,
+    translate_model: str = translate.DEFAULT_MODEL,
+    process_images: bool = ocr.DEFAULT_PROCESS_IMAGES,
+    skip_clean: bool = DEFAULT_SKIP_CLEAN,
+    skip_translate: bool = DEFAULT_SKIP_TRANSLATE,
+    temperature: float = clean.DEFAULT_TEMPERATURE,
+) -> list[dict[str, bool | str | None]]:
     """
     Run the full pipeline on a batch of images.
 
     Args:
-        input_dir (str): Directory containing input images
-        output_dir (str, optional): Base directory for output. Defaults to "pipeline_output".
-        file_pattern (str, optional): Pattern to match files. Defaults to "*.jpg *.png *.jpeg".
-        ocr_model (str, optional): OCR model to use. Defaults to "mistral-ocr-latest".
-        clean_model (str, optional): Model for cleaning. Defaults to "openai:gpt-4o".
-        translate_model (str, optional): Model for translation. Defaults to "openai:gpt-4o".
-        process_images (bool, optional): Whether to save extracted images. Defaults to True.
-        skip_clean (bool, optional): Skip the cleaning step. Defaults to False.
-        skip_translate (bool, optional): Skip the translation step. Defaults to False.
-        temperature (float, optional): Temperature for AI generation. Defaults to 0.75.
+        input_dir: Directory containing input images
+        output_dir: Base directory for output
+        file_pattern: Pattern to match files
+        ocr_model: OCR model to use
+        clean_model: Model for cleaning
+        translate_model: Model for translation
+        process_images: Whether to save extracted images
+        skip_clean: Skip the cleaning step
+        skip_translate: Skip the translation step
+        temperature: Temperature for AI generation
 
     Returns:
         list: Results for each processed image
     """
-    results = []
+    results: list[dict[str, bool | str | None]] = []
 
     # Find all image files
-    image_files = []
+    image_files: list[Path] = []
     for pattern in file_pattern.split():
         image_files.extend(utils.find_files(input_dir, pattern))
 
@@ -228,8 +240,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output-dir",
         "-o",
-        default="pipeline_output",
-        help="Base directory for output (default: 'pipeline_output')",
+        default=DEFAULT_PIPELINE_DIR,
+        help=f"Base directory for output (default: '{DEFAULT_PIPELINE_DIR}')",
     )
     parser.add_argument(
         "--batch",
@@ -240,8 +252,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--pattern",
         "-p",
-        default="*.jpg *.png *.jpeg",
-        help="File pattern when using batch mode",
+        default=ocr.DEFAULT_FILE_PATTERN,
+        help=f"File pattern when using batch mode (default: '{ocr.DEFAULT_FILE_PATTERN}')",
     )
 
     # Pipeline control options
@@ -256,31 +268,35 @@ if __name__ == "__main__":
         help="Skip the translation step in the pipeline",
     )
     parser.add_argument(
-        "--no-images", action="store_true", help="Don't save extracted images from OCR"
+        "--no-images",
+        action="store_true",
+        help="Don't save extracted images from OCR",
     )
 
     # Model options
     parser.add_argument(
-        "--ocr-model", default="mistral-ocr-latest", help="OCR model to use"
+        "--ocr-model",
+        default=ocr.DEFAULT_MODEL,
+        help=f"OCR model to use (default: '{ocr.DEFAULT_MODEL}')",
     )
     parser.add_argument(
         "--clean-model",
-        default="openai:gpt-4o",
+        default=clean.DEFAULT_MODEL,
         choices=clean.MODELS,
-        help="AI model to use for cleaning",
+        help=f"AI model to use for cleaning (default: '{clean.DEFAULT_MODEL}')",
     )
     parser.add_argument(
         "--translate-model",
-        default="openai:gpt-4o",
+        default=translate.DEFAULT_MODEL,
         choices=translate.MODELS,
-        help="AI model to use for translation",
+        help=f"AI model to use for translation (default: '{translate.DEFAULT_MODEL}')",
     )
     parser.add_argument(
         "--temperature",
         "-t",
         type=float,
-        default=0.75,
-        help="Temperature for LLM generation (0.0-1.0)",
+        default=clean.DEFAULT_TEMPERATURE,
+        help=f"Temperature for LLM generation (0.0-1.0) (default: {clean.DEFAULT_TEMPERATURE})",
     )
 
     args = parser.parse_args()
