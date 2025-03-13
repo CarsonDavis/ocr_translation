@@ -217,7 +217,7 @@ if __name__ == "__main__":
     download_iiif_sequence(
         base_url="https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000",
         start_page=22,
-        end_page=32,
+        end_page=182,
         output_dir="downloaded_images",
         page_digit_padding=5,  # Pages are formatted as 00001, 00002, etc.
         delay_between_images=0.25,
