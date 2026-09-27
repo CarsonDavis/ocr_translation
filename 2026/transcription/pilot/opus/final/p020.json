@@ -1,0 +1,225 @@
+{
+ "id": "p020",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "ARREST DV",
+ "folio": "20",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "madoüant par infinis moyens laſcifs & impudiques. Et",
+    "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+    "ſemblent quelquesfois les peres, & d'autresfois les me-",
+    "res. Ie diray auec le Philoſophe, que ſi la vertu de l'hõme",
+    "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+    "traire, ſi la ſemence de la femme ſurmonte, l'enfant",
+    "prendra la forme, & ſimulacre de la mere. Et ſ'il y a",
+    "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+    "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+    "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+    "goras, quand il diſoit, que l'enfant reſſemblera celuy des",
+    "parens, qui aura mis plus de ſemence."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Dont ne faloit ſ'esbahir, ſi la ſuppliãt",
+    "incroyablement enuieuſe de voir & re-",
+    "couurer ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La femme chaſte & pudique, qui aime bien ſon mary:",
+    "n'a rien ſi cher ne ſi precieux que ſa preſence, & rien ſi",
+    "faſcheux & lamentable que ſon abſcence: teſmoins les",
+    "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+    "pourtraict & exemplaire de chaſtete) pour ſon Vliſſes,",
+    "d'Hermione, pour ſõ Oreſte: de Deianira, pour ſon Her",
+    "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+    "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+    "qu'il auoit eſté occis par Hector: ſur priſe d'vne fureur",
+    "& impatience extreme, ſortit hors des gens de raiſon",
+    "& comme tranſportee, ne voulant plus viute, demãda",
+    "aux dieux pour ſeul reconfort & ſoulagement de ſa",
+    "douleur, qu'elle peut voir l'eſprit de ſon ami treſpaſſé.",
+    "Ce qu'elle impetra & entre les bras de ceſte ombre rea",
+    "dit l'ame. Et ne fault douter que le ſouuerain deſir qui",
+    "aime, ne ſoit de voir & contempler la choſe aimee",
+    "pour le grand & incroyable plaiſir qu'il pretend en la",
+    "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+    "gard, naiſt, & ſe cauſe l'amour, de laquelle les yeux, com",
+    "me dit Properce, ſont les guides, chefs & cõducteurs {b}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "n",
+   "beside_line": "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+   "lines": [
+    "Ariſtote au",
+    "liure de la ge-",
+    "neration des",
+    "animaux."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+   "lines": [
+    "Ouide aux",
+    "epiſtres."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+   "note": "sic: 'raporrera' (r for t) as printed; the mark after 'pere' is a round dot on the baseline, read as a period",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+   "note": "sic: 'cſgalle' (c for e) as printed; tilde over the a of 'quãtité'",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+   "note": "the s before the apostrophe looks like a short round s, not long s (cf. 'ſ'il' in lines[6]); could be a battered ſ",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+   "note": "marker n follows the p019 alphabet (last marker m); small italic letter after 'corps', before the period",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "La femme chaſte & pudique, qui aime bien ſon mary:",
+   "note": "a raised bracket-like mark (probably a risen spacing sort) stands between 'chaſte' and '&'; not transcribed. The mark after 'mary' read as a colon, with a small smudge beside it",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+   "note": "marker alphabet restarts at a with ANNOTAT. VI; the a sits after 'Ouide' before the comma",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "d'Hermione, pour ſõ Oreſte: de Deianira, pour ſon Her",
+   "note": "the mark over the o of 'ſõ' is a short slanted stroke at 6x, could be a battered tilde or an acute; read as tilde (= ſon)",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+   "note": "two dots over the final e of 'Proteſilaë' read as a diaeresis",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+   "note": "sic: 'ayanr' (r for t) and 'entend' (for 'entendu') as printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "& comme tranſportee, ne voulant plus viute, demãda",
+   "note": "sic: 'viute' (for 'viure') as printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "Ce qu'elle impetra & entre les bras de ceſte ombre rea",
+   "note": "both readers gave 'ren'; at 6x (body-6.jpg, line 6, right edge) the last sort has the closed bowl and right stem of an a, not two stems of an n: the print reads 'rea' (sic, wrong sort for 'ren', = ren-|dit). Transcribed as printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "text": "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+   "note": "Greek word in small Greek type; read as epsilon with smooth breathing, rho, omega with circumflex, final sigma; accents and breathing uncertain at this resolution",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "me dit Properce, ſont les guides, chefs & cõducteurs {b}.",
+   "note": "the o of 'ſont' is an open sort with a gap at the upper left (looks like a reversed c, ɔ); read as a damaged o, the word is ſont. The marker b has no marginal note on this page: margin-4.jpg and foot.jpg are blank; the note presumably stands on p021",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "ſemblent quelquesfois les peres, & d'autresfois les me-",
+   "note": "the sort after q in 'quelquesfois' is malformed (reads almost like an a); read as u. The o of 'd'autresfois' is a filled/battered round sort, read as o.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "faſcheux & lamentable que ſon abſcence: teſmoins les",
+   "note": "the m of 'teſmoins' looks like 'in' (a dotless-looking first stroke), a battered m sort also seen in 'ſemence' and 'ſemblent' above; read as m. Could be argued as 'teſinoins'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "pourtraict & exemplaire de chaſtete) pour ſon Vliſſes,",
+   "note": "'V liſſes' printed with a gap after the capital V; closed up as one name. 'chaſtete' has no accents, as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "qu'il auoit eſté occis par Hector: ſur priſe d'vne fureur",
+   "note": "sic: 'ſur' where the sense wants 'fut'; long s and r clearly printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "& impatience extreme, ſortit hors des gens de raiſon",
+   "note": "'gens' (sense wants 'ſens') printed with g, sic. The final n of 'raiſon' is heavily inked at the line end and looks like an a; read as n.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "liure de la ge-",
+   "note": "printed 'li ure' with a gap inside the word; closed up. The key n at the head of the note is not in lines.",
+   "escalate": false
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[4].continues_next",
+   "A": "true",
+   "B": "false",
+   "chose": "B",
+   "text": "false",
+   "reason": "last line ends the sentence with '{b}.' and the column stops two lines short of a full page (body-8.jpg, foot.jpg blank); the annotation ends here, so the paragraph does not continue on p021"
+  }
+ ]
+}

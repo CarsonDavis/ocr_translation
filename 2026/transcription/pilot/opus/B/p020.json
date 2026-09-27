@@ -1,0 +1,208 @@
+{
+ "id": "p020",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "20",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "madoüant par infinis moyens laſcifs & impudiques. Et",
+    "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+    "ſemblent quelquesfois les peres, & d'autresfois les me-",
+    "res. Ie diray auec le Philoſophe, que ſi la vertu de l'hõme",
+    "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+    "traire, ſi la ſemence de la femme ſurmonte, l'enfant",
+    "prendra la forme, & ſimulacre de la mere. Et ſ'il y a",
+    "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+    "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+    "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+    "goras, quand il diſoit, que l'enfant reſſemblera celuy des",
+    "parens, qui aura mis plus de ſemence."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Dont ne faloit ſ'esbahir, ſi la ſuppliãt",
+    "incroyablement enuieuſe de voir & re-",
+    "couurer ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La femme chaſte & pudique, qui aime bien ſon mary:",
+    "n'a rien ſi cher ne ſi precieux que ſa preſence, & rien ſi",
+    "faſcheux & lamentable que ſon abſcence: teſmoins les",
+    "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+    "pourtraict & exemplaire de chaſtete) pour ſon Vliſſes,",
+    "d'Hermione, pour ſõ Oreſte: de Deianira, pour ſon Her",
+    "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+    "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+    "qu'il auoit eſté occis par Hector: ſur priſe d'vne fureur",
+    "& impatience extreme, ſortit hors des gens de raiſon",
+    "& comme tranſportee, ne voulant plus viute, demãda",
+    "aux dieux pour ſeul reconfort & ſoulagement de ſa",
+    "douleur, qu'elle peut voir l'eſprit de ſon ami treſpaſſé.",
+    "Ce qu'elle impetra & entre les bras de ceſte ombre ren",
+    "dit l'ame. Et ne fault douter que le ſouuerain deſir qui",
+    "aime, ne ſoit de voir & contempler la choſe aimee",
+    "pour le grand & incroyable plaiſir qu'il pretend en la",
+    "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+    "gard, naiſt, & ſe cauſe l'amour, de laquelle les yeux, com",
+    "me dit Properce, ſont les guides, chefs & cõducteurs {b}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "n",
+   "beside_line": "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+   "lines": [
+    "Ariſtote au",
+    "liure de la ge-",
+    "neration des",
+    "animaux."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+   "lines": [
+    "Ouide aux",
+    "epiſtres."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks",
+   "note": "structure: running head ARREST DV (spaced caps) with folio 20; paragraph of 12 lines continuing p019 ('l'a-' / 'madoüant'); heading TEXTE.; the Texte passage in larger type, 3 lines; heading ANNOTAT. VI.; paragraph of 20 lines. 35 body lines. Markers n, a, b; margin notes n and a only. No foot block, no signature, no catchword. The strip of the facing page along the right edge was ignored.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "me dit Properce, ſont les guides, chefs & cõducteurs {b}.",
+   "note": "marker b has no note: the margin beside and below this line is blank and there is no foot block. The note for b is presumably printed on p021 (margin or foot). Also: the o of 'ſont' is an open, reversed-c-shaped sort (ɔ), probably a damaged or wrong o; transcribed 'ſont'.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "ſemblent quelquesfois les peres, & d'autresfois les me-",
+   "note": "the sort after q in 'quelquesfois' is malformed (reads almost like an a); read as u. The o of 'd'autresfois' is a filled/battered round sort, read as o.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+   "note": "sic: 'raporrera' for 'raportera' (two r's). The mark after 'pere' is a round baseline dot, read as a period (lowercase '&' follows).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+   "note": "sic: 'cſgalle' for 'eſgalle' (c sort for e). Print has a space before the comma after 'ſemence', normalized.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+   "note": "'s'eſloignoit' begins with a round s, not long s, as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Dont ne faloit ſ'esbahir, ſi la ſuppliãt",
+   "note": "'ſ'esbahir': long s before the apostrophe, round s inside 'esbahir', as seen. 'Dontne' set tight, normalized. Texte passage is set in larger roman type; transcribed as a paragraph block.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "La femme chaſte & pudique, qui aime bien ſon mary:",
+   "note": "a raised quad/bracket-shaped space sort shows between 'chaſte' and '&' (spacing material inked); not transcribed. Line ends in a colon.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "faſcheux & lamentable que ſon abſcence: teſmoins les",
+   "note": "the m of 'teſmoins' looks like 'in' (a dotless-looking first stroke), a battered m sort also seen in 'ſemence' and 'ſemblent' above; read as m. Could be argued as 'teſinoins'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "pourtraict & exemplaire de chaſtete) pour ſon Vliſſes,",
+   "note": "'V liſſes' printed with a gap after the capital V; closed up as one name. 'chaſtete' has no accents, as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+   "note": "the mark over the final e of 'Proteſilaë' read as a diaeresis; could be an acute (é).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+   "note": "sic: 'ayanr' for 'ayant'; 'entend' (for 'entendu') as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "qu'il auoit eſté occis par Hector: ſur priſe d'vne fureur",
+   "note": "sic: 'ſur' where the sense wants 'fut'; long s and r clearly printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "& impatience extreme, ſortit hors des gens de raiſon",
+   "note": "'gens' (sense wants 'ſens') printed with g, sic. The final n of 'raiſon' is heavily inked at the line end and looks like an a; read as n.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "& comme tranſportee, ne voulant plus viute, demãda",
+   "note": "sic: 'viute' for 'viure'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "Ce qu'elle impetra & entre les bras de ceſte ombre ren",
+   "note": "the last sort, heavily inked at the right edge, looks like a bold a ('rea'); read as n from 'ren' / 'dit' (rendit). Could be a wrong sort; reconciler check.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "text": "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+   "note": "Greek word in small Greek type: epsilon with breathing, rho, omega with circumflex, final sigma; breathing read as smooth (ἐ), could be rough or with accent. Followed by a colon.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "liure de la ge-",
+   "note": "printed 'li ure' with a gap inside the word; closed up. The key n at the head of the note is not in lines.",
+   "escalate": false
+  }
+ ]
+}

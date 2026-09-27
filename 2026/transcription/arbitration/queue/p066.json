@@ -1,0 +1,36 @@
+{
+ "page": "p066",
+ "a": "transcription/reads/A/p066.json",
+ "b": "transcription/reads/B/p066.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-010",
+   "kind": "body",
+   "where_a": "blocks[2].lines[0]",
+   "where_b": "blocks[2].lines[0]",
+   "index": 10,
+   "index_b": 10,
+   "a": "C'eſt vne grande honte & vilennie (diſoit le Iuriſ.",
+   "b": "C'eſt vne grande honte & vilennie (diſoit le Iuriſ-",
+   "context_before": "ANNOTAT. XLIII.",
+   "context_after": "conſulte Paule) & patente confeſſion, du faict duquel",
+   "strip": "pages/strips/p066/body-3.jpg",
+   "crop": "crops/p066/b-010.jpg"
+  },
+  {
+   "id": "b-021",
+   "kind": "body",
+   "where_a": "blocks[2].lines[11]",
+   "where_b": "blocks[2].lines[11]",
+   "index": 21,
+   "index_b": 21,
+   "a": "rent plus amplement ès lieux communs, & ce que nous",
+   "b": "rent plus amplement és lieux communs, & ce que nous",
+   "context_before": "re {d}. Ie di ceci, ſauf ce que nos Interpretes en diſcou-",
+   "context_after": "en eſcrirons peu apres {e}.",
+   "strip": "pages/strips/p066/body-5.jpg",
+   "crop": "crops/p066/b-021.jpg"
+  }
+ ]
+}

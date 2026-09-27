@@ -1,0 +1,171 @@
+{
+ "id": "p020",
+ "reader": "B",
+ "model": "sonnet",
+ "running_head": "ARREST DV",
+ "folio": "20",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "madoüant par infinis moyens laſcifs & impudiques. Et",
+    "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+    "ſemblent quelquesfois les peres, & d'autresfois les me-",
+    "res. Ie diray auec le Philoſophe, que ſi la vertu de l'hõme",
+    "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+    "traire, ſi la ſemence de la femme ſurmonte, l'enfant",
+    "prendra la forme, & ſimulacre de la mere. Et ſ'il y a",
+    "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+    "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+    "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+    "goras, quand il diſoit, que l'enfant reſſemblera celuy des",
+    "parens, qui aura mis plus de ſemence."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Dont ne faloit ſ'eſbahir, ſi la ſuppliãt"
+  },
+  {
+   "type": "heading",
+   "text": "incroyablement enuieuſe de voir & re-"
+  },
+  {
+   "type": "heading",
+   "text": "couurer ſon mari."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La femme chaſte, & pudique, qui aime bien ſon mary:",
+    "n'a rien ſi cher ne ſi precieux que ſa preſence, & rien ſi",
+    "faſcheux & lamentable que ſon abſcence: teſmoins les",
+    "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+    "pourtraict & exemplaire de chaſtete) pour ſon Vliſſes,",
+    "d'Hermione, pour ſõ Oreſte: de Deianira, pour ſon Her-",
+    "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+    "ſence duquel elle deploroit tant, qu'ayant apres entend",
+    "qu'il auoit eſté occis par Hector: ſur priſe d'vne fureur",
+    "& impatience extreme, ſortit hors des gens de raiſon",
+    "& comme tranſportee, ne voulant plus viute, demãda",
+    "aux dieux pour ſeul reconfort & ſoulagement de ſa",
+    "douleur, qu'elle peut voir l'eſprit de ſon ami treſpaſſé.",
+    "Ce qu'elle impetra & entre les bras de ceſte ombre rẽ-",
+    "dit l'ame. Et ne fault douter que le ſouuerain deſir qui",
+    "aime, ne ſoit de voir & contempler la choſe aimee",
+    "pour le grand & incroyable plaiſir qu'il pretend en la",
+    "voyant, dont l'amour en grec eſt appelé ἔρως: car du re-",
+    "gard, naiſt, & ſe cauſe l'amour, de laquelle les yeux, com-",
+    "me dit Properce, ſont les guides, chefs & cõducteurs {b}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "n",
+   "beside_line": "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+   "lines": [
+    "Ariſtote au",
+    "liure de la ge-",
+    "neration des",
+    "animaux."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+   "lines": [
+    "Ouide aux",
+    "epiſtres."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "note": "page quality: the leaf is clean, evenly inked and legible at every point read. foot.jpg (below the last body line) is blank paper with no text, ink mark, signature or catchword. The narrow strip of the facing page along the gutter (right edge, this being a verso) is visible in pages/read/p020.jpg but was ignored throughout, per the hard rules.",
+   "escalate": false
+  },
+  {
+   "where": "blocks",
+   "note": "counts for the reconciler: 32 printed body lines across 2 paragraph blocks (12 + 20); 5 heading blocks (TEXTE., a 3-line large-type quotation, ANNOTAT. VI.); no ornament, no decorated initial, no foot citation block, no signature, no catchword. 3 markers (n a b); 2 margin notes (n a), each with a marker; marker b has no note on this page (see note below).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0]",
+   "note": "continues_prev: the page opens 'madoüant par infinis moyens laſcifs & impudiques' which joins the hyphen ending p019's last transcribed line ('...a ſes yeulx inceſſamment fichez, l'a-') to give 'l'amadouant' (coaxing/wheedling her), confirming the join. continues_next: the block ends 'parens, qui aura mis plus de ſemence.' with a full point, then a blank line and the TEXTE. heading follow, so the paragraph ends here.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+   "note": "sic, wrong sort: the print reads 'raporrera' where the sense wants 'rapportera' (will resemble/carry back); transcribed as printed, per the known error class for this print.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+   "note": "sic, wrong sort: the print reads 'cſgalle' (c for e) where the sense wants 'eſgalle' (= égale, equal); transcribed as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "La femme chaſte, & pudique, qui aime bien ſon mary:",
+   "note": "the mark between 'chaſte' and '&' sits low, with a tail below the baseline, read as a comma per the shape rule rather than a stray printer's mark.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "faſcheux & lamentable que ſon abſcence: teſmoins les",
+   "note": "sic: the print sets 'abſcence' (with an extra c) where the expected word is 'abſence'; letterforms read clearly at this resolution, transcribed as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "d'Hermione, pour ſõ Oreſte: de Deianira, pour ſon Her-",
+   "note": "'ſõ' (tilde contraction of 'ſon') stands before the vowel-initial 'Oreſte', unlike the plain 'ſon' spelled out twice elsewhere in the same paragraph; the tilde over the o read clearly.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[10]",
+   "text": "& comme tranſportee, ne voulant plus viute, demãda",
+   "note": "sic, wrong sort: the print reads 'viute' where the sense wants 'viſte' (quickly); transcribed as printed, per the known error class for this print.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[17]",
+   "text": "voyant, dont l'amour en grec eſt appelé ἔρως: car du re-",
+   "note": "the Greek word is transcribed as a best reading (ἔρως, 'eros'); the fine accent/breathing marks on the Greek sort are hard to confirm precisely at this resolution.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[19]",
+   "text": "me dit Properce, ſont les guides, chefs & cõducteurs {b}.",
+   "note": "the punctuation after marker {b} is ambiguous at this resolution between a period (round dot on the baseline) and a comma (tail below the baseline); transcribed as a period as the best reading.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6]",
+   "note": "marker {b} at the very end of the last body line has no visible margin note on this page: the outer margin beside the last lines is empty and foot.jpg (the bottom of the page) is blank paper, so the citation for {b} presumably begins the margin of the next page (p021), outside this page's inputs.",
+   "escalate": false
+  }
+ ]
+}

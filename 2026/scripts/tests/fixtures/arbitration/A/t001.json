@@ -1,0 +1,20 @@
+{
+ "id": "t001", "reader": "A", "model": "test", "running_head": "ARREST DV", "folio": "12",
+ "signature": null, "catchword": null,
+ "blocks": [
+  {"type": "heading", "text": "TEXTE."},
+  {"type": "paragraph", "lines": [
+   "Le premier ligne {a}, & la ſuite",
+   "vne ligne que A lit ainſi,",
+   "ligne commune au milieu",
+   "ligne que ſeul A a vue",
+   "derniere ligne du bas."
+  ], "continues_prev": false, "continues_next": false}
+ ],
+ "margin_notes": [{"key": "a", "lines": ["l. prima. D. de", "iure iur."], "beside_line": "Le premier ligne {a}, & la ſuite"}],
+ "foot_notes": [],
+ "uncertain": [
+  {"where": "blocks[1].lines[3]", "text": "ligne que ſeul A a vue", "note": "faint ink"},
+  {"where": "blocks[1].lines[2]", "text": "ligne commune au milieu", "note": "sic: commune could be comune"}
+ ]
+}

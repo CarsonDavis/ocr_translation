@@ -1,0 +1,81 @@
+{
+ "page": "p030",
+ "a": "transcription/pilot/opus/A/p030.json",
+ "b": "transcription/pilot/opus/B/p030.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-000",
+   "kind": "body",
+   "where_a": "blocks[0].lines[0]",
+   "where_b": "blocks[0].lines[0]",
+   "index": 0,
+   "index_b": 0,
+   "a": "mauuais, ou infaiſable {b}. & faluſt-il eſpandre, ren-",
+   "b": "mauuais, ou infaiſable {b}. & faluſt il eſpandre, ren-",
+   "context_before": null,
+   "context_after": "uerſer & perdre le ſang de la moitié des hommes, voire",
+   "strip": "pages/strips/p030/body-1.jpg",
+   "crop": "crops/p030/b-000.jpg"
+  },
+  {
+   "id": "b-020",
+   "kind": "body",
+   "where_a": "blocks[2].lines[1]",
+   "where_b": "blocks[2].lines[1]",
+   "index": 20,
+   "index_b": 20,
+   "a": "reux & excellent en toute vertu[?], ne reformida rien en",
+   "b": "reux & excellent en toute vertu, ne reformida rien en",
+   "context_before": "C'eſt pourquoy l'empereur M. Antonin prince gene",
+   "context_after": "ſa vie tant que le nom & bruit d'auaricieux: ni deteſta",
+   "strip": "pages/strips/p030/body-4.jpg",
+   "crop": "crops/p030/b-020.jpg"
+  },
+  {
+   "id": "n-i-1",
+   "kind": "note",
+   "key": "i",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[7].lines[1]",
+   "where_b": "margin_notes[7].lines[1]",
+   "a": "la fin, vt iude",
+   "b": "la fin, vt lude",
+   "context_before": "Parag. j. ſur",
+   "context_after": "ſine quoq. coll.",
+   "strip": "pages/strips/p030/margin-2.jpg",
+   "crop": "crops/p030/n-i-1.jpg"
+  },
+  {
+   "id": "n-_unkeyed_0-0",
+   "kind": "note",
+   "key": "_unkeyed_0",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[8].lines[0]",
+   "where_b": "margin_notes[8].lines[0]",
+   "a": "Salluſte.",
+   "b": "Saluſte.",
+   "context_before": null,
+   "context_after": null,
+   "strip": "pages/strips/p030/margin-3.jpg",
+   "crop": "crops/p030/n-_unkeyed_0-0.jpg"
+  },
+  {
+   "id": "n-a-1",
+   "kind": "note",
+   "key": "a",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[9].lines[1]",
+   "where_b": "margin_notes[9].lines[1]",
+   "a": "net. ſeruiturẽ",
+   "b": "net. ſeruiturẽ.",
+   "context_before": "l, quod atti-",
+   "context_after": "D. de reg. iur.",
+   "strip": "pages/strips/p030/margin-3.jpg",
+   "crop": "crops/p030/n-a-1.jpg"
+  }
+ ]
+}

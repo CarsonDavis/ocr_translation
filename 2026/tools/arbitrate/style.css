@@ -1,0 +1,64 @@
+:root {
+  --bg: #f7f4ee; --panel: #efeae0; --fg: #1d1b18; --muted: #7a746a; --line: #d8d0c2;
+  --a: #1f5fa8; --b: #a2501a; --hl-a: #cfe0f6; --hl-b: #f6dcc6; --ok: #2d7a3e; --warn: #9a6a00; --ls: #6a3d8f;
+  --serif: "Junicode", "Noto Serif", "EB Garamond", "Palatino Linotype", Palatino, "Iowan Old Style",
+           Georgia, "Times New Roman", "DejaVu Serif", serif;
+  --mono: "Menlo", "DejaVu Sans Mono", "Noto Sans Mono", "SF Mono", Consolas, "Courier New",
+          "Noto Serif", "DejaVu Serif", Georgia, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1b1a18; --panel: #24221f; --fg: #ebe6dc; --muted: #9a9387; --line: #3a3732;
+    --a: #7fb0ec; --b: #eba374; --hl-a: #23405f; --hl-b: #5a3419; --ok: #7ccf8e; --warn: #e0b64c; --ls: #c9a2ea;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body { background: var(--bg); color: var(--fg); font: 14px/1.4 system-ui, sans-serif;
+       display: grid; grid-template-columns: 210px 1fr; overflow: hidden; }
+#side { background: var(--panel); border-right: 1px solid var(--line); padding: 12px;
+        overflow-y: auto; display: flex; flex-direction: column; gap: 12px; }
+#side h1 { font-size: 15px; margin: 0; }
+#pages { list-style: none; margin: 0; padding: 0; }
+#pages li { padding: 5px 8px; border-radius: 5px; cursor: pointer; display: flex;
+            justify-content: space-between; gap: 6px; }
+#pages li:hover { background: var(--line); }
+#pages li.cur { outline: 2px solid var(--a); }
+#pages li.done .n { color: var(--ok); font-weight: 600; }
+#alldone { color: var(--ok); font-weight: 700; padding: 4px 8px; }
+#pages .n { color: var(--muted); font-variant-numeric: tabular-nums; }
+.keys { color: var(--muted); font-size: 12px; display: grid; gap: 3px; margin-top: auto; }
+kbd { font: 11px var(--mono); border: 1px solid var(--line); border-bottom-width: 2px;
+      border-radius: 4px; padding: 0 4px; margin-right: 2px; background: var(--bg); color: var(--fg); }
+.small { font-size: 12px; color: var(--muted); }
+#main { display: flex; flex-direction: column; min-width: 0; height: 100vh; padding: 10px 18px; gap: 8px; }
+#bar { display: flex; gap: 18px; align-items: baseline; }
+#pageid { font-weight: 700; font-size: 16px; }
+#pos, #progress { color: var(--muted); font-variant-numeric: tabular-nums; }
+#done { color: var(--ok); font-weight: 700; }
+#item { display: flex; flex-direction: column; gap: 6px; min-height: 0; flex: 1; }
+#cropbox { position: relative; flex: 1 1 auto; min-height: 90px; max-height: 48vh; overflow: hidden; cursor: zoom-in;
+           border: 1px solid var(--line); border-radius: 6px; background: #000;
+           display: flex; align-items: center; justify-content: center; }
+#crop { max-width: 100%; max-height: 100%; object-fit: contain; transition: transform .05s;
+        transform-origin: center; }
+#cropbox.zoom #crop { transform: scale(2); }
+#hint { color: var(--muted); font-size: 12px; }
+.ctx { color: var(--muted); font: 14px var(--serif); white-space: pre-wrap; min-height: 1.2em; }
+.reading { display: flex; gap: 10px; align-items: baseline; }
+.reading .tag { font-weight: 700; width: 1.2em; flex: none; }
+#ra .tag { color: var(--a); } #rb .tag { color: var(--b); }
+.reading .txt { font: 24px/1.35 var(--mono); white-space: pre-wrap; word-break: break-word; }
+.reading .ls { font-family: var(--serif); font-size: 1.1em; color: var(--ls); }
+.reading .none { color: var(--muted); font-style: italic; font-family: system-ui, sans-serif; font-size: 16px; }
+#ra mark { background: var(--hl-a); color: inherit; border-radius: 2px; outline: 1px solid var(--a); }
+#rb mark { background: var(--hl-b); color: inherit; border-radius: 2px; outline: 1px solid var(--b); }
+#extra { font-size: 13px; color: var(--muted); white-space: pre-wrap; max-height: 14vh; overflow: auto; }
+#editor textarea { width: 100%; font: 22px/1.35 var(--mono); background: var(--panel); color: var(--fg);
+                   border: 2px solid var(--a); border-radius: 6px; padding: 6px; resize: vertical; }
+#state { min-height: 1.3em; font-weight: 600; }
+#state.A { color: var(--a); } #state.B { color: var(--b); } #state.unknown { color: var(--warn); }
+#buttons { display: flex; gap: 6px; flex-wrap: wrap; }
+#buttons button { font: 13px system-ui, sans-serif; padding: 4px 10px; border-radius: 5px; cursor: pointer;
+                  border: 1px solid var(--line); background: var(--panel); color: var(--fg); }
+#empty { color: var(--muted); padding: 40px; }

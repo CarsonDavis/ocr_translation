@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arbitration</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<aside id="side">
+  <h1>Arbitration</h1>
+  <ul id="pages"></ul>
+  <div id="alldone" hidden>all pages done</div>
+  <div class="keys">
+    <div><kbd>1</kbd> A</div><div><kbd>2</kbd> B</div>
+    <div><kbd>e</kbd> edit (type it)</div>
+    <div><kbd>3</kbd> either: it is one of these two</div>
+    <div><kbd>4</kbd> unknown: neither reading is confirmed</div>
+    <div><kbd>←</kbd><kbd>→</kbd> prev / next</div>
+    <div><kbd>u</kbd> undo last</div>
+    <div class="small">edit: <kbd>Enter</kbd> save, <kbd>Shift+Enter</kbd> new line, <kbd>Esc</kbd> cancel</div>
+  </div>
+</aside>
+<main id="main">
+  <header id="bar">
+    <span id="pageid">—</span>
+    <span id="pos"></span>
+    <span id="progress"></span>
+    <span id="done" hidden>page done</span>
+  </header>
+  <section id="item" hidden>
+    <div id="cropbox" title="click: open the native strip; hover: zoom">
+      <img id="crop" alt="crop of the disputed line">
+    </div>
+    <div id="hint"></div>
+    <div class="ctx" id="ctxb"></div>
+    <div class="reading" id="ra"><span class="tag">A</span><span class="txt"></span></div>
+    <div class="reading" id="rb"><span class="tag">B</span><span class="txt"></span></div>
+    <div class="ctx" id="ctxa"></div>
+    <div id="extra"></div>
+    <div id="editor" hidden>
+      <textarea id="edit" rows="2" spellcheck="false"></textarea>
+      <div class="small">Saved as "neither" with this text. Enter to save, Esc to cancel. Empty text removes the line.</div>
+    </div>
+    <div id="state"></div>
+    <nav id="buttons">
+      <button data-k="1">1 · A</button><button data-k="2">2 · B</button>
+      <button data-k="e">e · edit</button><button data-k="3" title="either: it is one of these two">3 · either</button>
+      <button data-k="4" title="unknown: neither reading is confirmed">4 · unknown</button><button data-k="u">u · undo</button>
+    </nav>
+  </section>
+  <section id="empty">Choose a page on the left.</section>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

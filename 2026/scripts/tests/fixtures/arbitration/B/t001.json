@@ -1,0 +1,19 @@
+{
+ "id": "t001", "reader": "B", "model": "test", "running_head": "ARREST DV", "folio": "21",
+ "signature": null, "catchword": null,
+ "blocks": [
+  {"type": "heading", "text": "TEXTE."},
+  {"type": "paragraph", "lines": [
+   "Le premier ligne {a},& la ſuite",
+   "vne ligne que B lit ainſi,",
+   "ligne commune au milieu",
+   "derniere ligne du bas.",
+   "vne ligne finale de B"
+  ], "continues_prev": false, "continues_next": false}
+ ],
+ "margin_notes": [{"key": "a", "lines": ["l. prima. D. de", "iure iu."], "beside_line": "Le premier ligne {a}, & la ſuite"}],
+ "foot_notes": [],
+ "uncertain": [
+  {"where": "blocks[1].lines[4]", "text": "vne ligne finale de B", "note": "last line cropped"}
+ ]
+}

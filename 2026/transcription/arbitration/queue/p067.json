@@ -1,0 +1,65 @@
+{
+ "page": "p067",
+ "a": "transcription/reads/A/p067.json",
+ "b": "transcription/reads/B/p067.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-007",
+   "kind": "body",
+   "where_a": "blocks[2].lines[2]",
+   "where_b": "blocks[2].lines[2]",
+   "index": 7,
+   "index_b": 7,
+   "a": "accuſé d'entendre que la dite de Rols, ayant eſté aduer-",
+   "b": "accuſé d'entendre que la dite de Rols, ayant eſté aduer.",
+   "context_before": "pour perſuader que le priſonier eſtoit calõnieuſement",
+   "context_after": "tie que le priſonier n'eſtoit point ſon mari, neãtmoins",
+   "strip": "pages/strips/p067/body-3.jpg",
+   "crop": "crops/p067/b-007.jpg"
+  },
+  {
+   "id": "b-008",
+   "kind": "body",
+   "where_a": "blocks[2].lines[3]",
+   "where_b": "blocks[2].lines[3]",
+   "index": 8,
+   "index_b": 8,
+   "a": "tie que le priſonier n'eſtoit point ſon mari, neãtmoins",
+   "b": "tie que le priſõnier n'eſtoit point ſon mari, neãtmoins",
+   "context_before": "accuſé d'entendre que la dite de Rols, ayant eſté aduer-",
+   "context_after": "elle aſſeuroit & defendoit le contraire: & apres, ſans",
+   "strip": "pages/strips/p067/body-3.jpg",
+   "crop": "crops/p067/b-008.jpg"
+  },
+  {
+   "id": "b-024",
+   "kind": "body",
+   "where_a": "blocks[6].lines[2]",
+   "where_b": "blocks[6].lines[2]",
+   "index": 24,
+   "index_b": 24,
+   "a": "ce que ladite de Rols faiſoit, eſtoit par cõtrainte, force,",
+   "b": "ce que ladite de Rols faiſoit, eſtoit par cõrrainte, force,",
+   "context_before": "il y auoit de la fourbe dreſſee contre le preuenu & que",
+   "context_after": "& reuerance deſdits Pierre Guerre, & ſa mere: a la mai",
+   "strip": "pages/strips/p067/body-6.jpg",
+   "crop": "crops/p067/b-024.jpg"
+  },
+  {
+   "id": "n-c-1",
+   "kind": "note",
+   "key": "c",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[3].lines[1]",
+   "where_b": "margin_notes[3].lines[1]",
+   "a": "onerandæ. D.",
+   "b": "onerande. D.",
+   "context_before": "l... P. quæ",
+   "context_after": "quar. rer. car.",
+   "strip": "pages/strips/p067/margin-3.jpg",
+   "crop": "crops/p067/n-c-1.jpg"
+  }
+ ]
+}
