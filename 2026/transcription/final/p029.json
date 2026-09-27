@@ -1,0 +1,126 @@
+{
+ "id": "p029",
+ "reader": "final",
+ "model": "script",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "29",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "capitale de ſang, ou de mort: mais ſeulement à amen-",
+    "des, ou pecuniaires, en argent: ou honorables, à deman-",
+    "der pardon."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "De la partie dudit du Tilh preuenu,",
+    "eſtoit au contraire remonſtré, que ſi ia-",
+    "mais parent, ne mari fut mal traitté, &",
+    "calomnieuſement pourſuyui de ſes pro-",
+    "pres parens, il eſtoit certes iniuſtement.",
+    "Car bien que chacun ſceuſt & entendiſt",
+    "qu'il eſtoit veritablemẽt Martin Guerre,",
+    "du lieu d'Artigat: toutesfois pour luy vo",
+    "ler quelque peu de bien qu'il auoit, de la",
+    "valeur de ſept à huit mille liures tenu, &",
+    "poſſedé long temps ya, par Pierre Guer-",
+    "re ſon oncle, qui ſe faſchoit par trop de",
+    "le laiſſer: ayãt eſté pieça mis en inſtance,",
+    "pour raiſon d'iceluy & rendu compte,",
+    "& preſtation de reliqua, deuant ledit Iu-",
+    "ge de Rieux, par ledit Martin ſon nep-",
+    "ueu, & defendeur. Iceluy Pierre Guerre,",
+    "& ſes beaux fils, auroyẽt pourpenſe, & in",
+    "uenté contre luy, vne nouuelle, & deuãt",
+    "ce iour inouye eſpece de crime."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "Ceſte deffence auoit quelque veriſimilitude: car com",
+    "me diſoit Ieſus fils de Sirach', IL N'EST choſe plus",
+    "inique au mõde, que d'aimer l'argent, & deſirer le bien",
+    "d'autruy: & rien plus meſchant que l'auaricieux {a} lequel",
+    "inſatiable, n'eſt iamais aſſouui, ni raſſaſié, & pour aſſem",
+    "bler richeſſes, & agrandir ſa fortune, ne trouue rien"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "d'autruy: & rien plus meſchant que l'auaricieux {a} lequel",
+   "lines": [
+    "Eccleſiaſtique",
+    "c. x."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "d'autruy: & rien plus meſchant que l'auaricieux {a} lequel",
+   "note": "the marker letter before 'lequel' is small italic and badly inked/blotted; read as 'a' (first marker of the new ANNOTAT. XIIII section, alphabet restarting). Shape is consistent with italic a; could conceivably be another small italic letter."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Eccleſiaſtique",
+   "note": "the margin note carries no printed key letter of its own; the key 'a' is taken from the body marker. Second line read as 'c. x.' (chapter 10); the italic x is small and the final point faint."
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "me diſoit Ieſus fils de Sirach', IL N'EST choſe plus",
+   "note": "after 'Sirach' there is a raised comma/apostrophe-shaped mark followed by a comma on the baseline; transcribed as an apostrophe. It may be a risen or broken sort rather than intended punctuation."
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "& ſes beaux fils, auroyẽt pourpenſe, & in",
+   "note": "the mark over the e of 'auroyẽt' is a short bar set at a slight slant; read as a tilde (= auroyent), but it could be taken for an acute. Compare the clearly horizontal tildes in 'ayãt', 'mõde', 'deuãt' on this page."
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "qu'il eſtoit veritablemẽt Martin Guerre,",
+   "note": "printed tight as 'qu'ileſtoit'; word division normalized per conventions §1. The apostrophe after 'qu' is a raised mark, read as an apostrophe."
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "me diſoit Ieſus fils de Sirach', IL N'EST choſe plus",
+   "note": "validator long-s warning checked against the image and rejected: 'N'EST' is set in spaced SMALL CAPITALS (N' E S T), so the s is a capital/round S, not long s. Do not change to 'eſt'."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "page",
+   "A": "",
+   "B": "",
+   "chose": "A",
+   "text": "",
+   "reason": "reads agree on every printed line"
+  }
+ ]
+}

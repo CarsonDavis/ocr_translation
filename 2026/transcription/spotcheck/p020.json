@@ -1,0 +1,187 @@
+{
+ "id": "p020",
+ "reader": "spotcheck",
+ "model": "fable",
+ "running_head": "ARREST DV",
+ "folio": "20",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "madoüant par infinis moyens laſcifs & impudiques. Et",
+    "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+    "ſemblent quelquesfois les peres, & d'autresfois les me-",
+    "res. Ie diray auec le Philoſophe, que ſi la vertu de l'hõme",
+    "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+    "traire, ſi la ſemence de la femme ſurmonte, l'enfant",
+    "prendra la forme, & ſimulacre de la mere. Et ſ'il y a",
+    "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+    "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+    "quelle ſentence ne ſ'eſloignoit pas grandement Anaxa-",
+    "goras, quand il diſoit, que l'enfant reſſemblera celuy des",
+    "parens, qui aura mis plus de ſemence."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Dont ne faloit ſ'esbahir, ſi la ſuppliãt",
+    "incroyablement enuieuſe de voir & re-",
+    "couurer ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La femme chaſte & pudique, qui aime bien ſon mary:",
+    "n'a rien ſi cher ne ſi precieux que ſa preſence, & rien ſi",
+    "faſcheux & lamentable que ſon abſcence: teſmoins les",
+    "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+    "pourtraict & exemplaire de chaſtete) pour ſon Vliſſes,",
+    "d'Hermione, pour ſõ Oreſte: de Deianira, pour ſon Her",
+    "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+    "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+    "qu'il auoit eſté occis par Hector: ſur priſe d'vne fureur",
+    "& impatience extreme, ſortit hors des gens de raiſon",
+    "& comme tranſportee, ne voulant plus viute, demãda",
+    "aux dieux pour ſeul reconfort & ſoulagement de ſa",
+    "douleur, qu'elle peut voir l'eſprit de ſon ami treſpaſſé.",
+    "Ce qu'elle impetra & entre les bras de ceſte ombre ren",
+    "dit l'ame. Et ne fault douter que le ſouuerain deſir qui",
+    "aime, ne ſoit de voir & contempler la choſe aimee",
+    "pour le grand & incroyable plaiſir qu'il pretend en la",
+    "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+    "gard, naiſt, & ſe cauſe l'amour, de laquelle les yeux, com",
+    "me dit Properce, ſont les guides, chefs & cõducteurs {b}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "n",
+   "beside_line": "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+   "lines": [
+    "Ariſtote au",
+    "liure de la ge-",
+    "neration des",
+    "animaux."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+   "lines": [
+    "Ouide aux",
+    "epiſtres."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks",
+   "note": "page quality: clean, evenly inked, sharp. 35 printed body lines: paragraph of 12 lines (continues the sentence from p019, 'l'a-' / 'madoüant'), heading TEXTE., 3-line TEXTE paragraph in the larger type, heading ANNOTAT. VI., paragraph of 20 lines. Two markers with margin notes (n, a) and one marker (b) on the last line whose note is not on this page. No foot block, no signature, no catchword; lower fifth of the leaf blank. Strip of the facing recto along the right edge ignored.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "me dit Properce, ſont les guides, chefs & cõducteurs {b}.",
+   "note": "marker b has no margin note on this page: the outer margin beside the last lines is blank (margin-4.jpg) and there is no foot block (foot.jpg). The note presumably stands at the head of p021's margin. Recorded as a marker without a note per §4.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+   "note": "sic: 'raporrera' for 'raportera' — two r sorts, checked at 3x (body-2.jpg line 2). Also the point after 'pere' is a baseline dot (period), set tight against the &, normalized to 'pere. &'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+   "note": "sic: the first sort of 'cſgalle' is a c (open, no mid bar, checked at 6x against the e of 'ſemence' on the same line), so the print reads 'cſgalle' for 'eſgalle'. 'reſſemblera' has two long s (both tall, checked at 5x); same in lines[10].",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "La femme chaſte & pudique, qui aime bien ſon mary:",
+   "note": "between 'chaſte' and '&' a thin vertical stroke is printed, taller than the x-height and descending below the baseline (body-4.jpg, checked at 6x). It is not a letter (no serif, no bowl, not an l or a long s): a space or quad that rose and printed. Omitted from the line; recorded here.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+   "note": "two dots over the final e of 'Proteſilaë' at 6x (body-5.jpg): diaeresis, transcribed ë.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+   "note": "sic: 'ayanr' for 'ayant' — the last sort is an r (checked at 3x, compare the t of 'tant'). The line ends 'entend' with no hyphen and runs on to 'qu'il' (i.e. 'entendu' is not printed; the print has 'entend').",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "& comme tranſportee, ne voulant plus viute, demãda",
+   "note": "sic: 'viute' for 'viure' — the fourth sort is a t with crossbar (checked at 3x, body-6.jpg line 3).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "Ce qu'elle impetra & entre les bras de ceſte ombre ren",
+   "note": "line ends 'ren' with no hyphen (checked at 6x: the last sort is an n, slightly blotted), the word running on to 'dit' on the next line.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "text": "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+   "note": "Greek in a small cursive fount: epsilon with a single curled mark above (read as smooth breathing; at 12x no separate acute is visible, though the standard form is ἔρως), rho, omega with a tilde-shaped circumflex above, final sigma; then a colon. Transcribed ἐρῶς.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "me dit Properce, ſont les guides, chefs & cõducteurs {b}.",
+   "note": "the o of 'ſont' is damaged or a wrong sort: at 6x it prints as an open reversed-c shape (ɔ), the left side missing. Read as 'ſont'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1], blocks[3]",
+   "note": "both headings are set in spaced capitals; closed up per §3 with spaced_caps true. The running head is likewise letterspaced.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2]",
+   "note": "the TEXTE paragraph is set in the larger text type, 3 lines, indented first line; the sentence ends 'mari.' with a period. continues_next false. The ANNOTAT. VI. paragraph ends the page with 'cõducteurs {b}.' — the sentence closes but the annotation runs on to p021, so continues_next true.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+   "note": "the comma after 'cauſe' is set with a space before it and tight against 'pour'; normalized per §1. 'pour quoy' is two words with a visible space.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "note n begins beside lines[8] (its marker line); key n is the leading italic sort, not included in lines. Note a begins beside its marker line blocks[4].lines[3].",
+   "escalate": false
+  }
+ ]
+}

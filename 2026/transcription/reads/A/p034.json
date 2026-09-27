@@ -1,0 +1,118 @@
+{
+ "id": "p034",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "34",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſtance, & par iuſtice pour ſuyure le re-",
+    "couurement de ſon bien: mais quant aux",
+    "fruits, & reddition de comptes; iceluy",
+    "Pierre Guerre oncle n'y vouloit aucune-",
+    "ment entendre. ains en haine de ce, tãt",
+    "luy que ſes beaux-fils, auroiẽt recherché",
+    "tous moyẽs poſsibles pour le ruyner &",
+    "perdre. & le premier eſſay fut de le tuer",
+    "& à ces fins l'auroyẽt ſouuent guetté, &",
+    "aſſailli, meſmes vn iour (tant les forçoit",
+    "l'auarice) deuãt ladite de Rols ſa femme",
+    "batu, & preſque tué d'vn coup de barre,",
+    "qui le proſterna en terre, ou l'euſt aſſom-",
+    "mé, ſãs ladite de Rols ſa femme, laquelle",
+    "ne le pouuant autrement ſauuer, ſ'eſten-",
+    "dit deſſus luy, pour receuoir les coups."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Grande eſt l'amitié de la femme enuers ſon mari,",
+    "quand pour luy ſauuer la vie, elle ſe preſente a la mort",
+    "cõme fit iadis Alceſtis femme d'Admetus, Roy de The",
+    "ſalie, laquelle ayant entendu par l'oracle d'Apollo, que",
+    "ſon mari extremement malade, & deſia conduict iuſ-",
+    "qu'aux derniers ſouſpirs de ſa vie, ne pouuoit recou-",
+    "urer ſanté, que par la mort volontaire de quelcun de",
+    "ſes amis: & voyant que nul ſe preſentoit pour ce faire:",
+    "elle embraſee d'vne grande ardeur, & affection qui la",
+    "bouillonnoit, ſ'expoſa volontairement au precipice de",
+    "la mort, pour rachepter la vie de ſon mari {a}. Hyperme-",
+    "ſtra auſsi, fille de Danaus, ſe mit au hazard d'eſtre tuée",
+    "de ſon pere, pour ſauuer Lyncée ſon eſpoux: à la mort",
+    "duquel, & de ſes autres beaux fils, iuſqu'au nombre",
+    "de cinquante, Danaus auec ſes cinquante filles, auoit"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "la mort, pour rachepter la vie de ſon mari {a}. Hyperme-",
+   "lines": [
+    "Euripide en",
+    "la tragedie",
+    "d'Alceſte Iu-",
+    "uenal en la vj",
+    "Satyre."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "couurement de ſon bien: mais quant aux",
+   "note": "printed tight as 'quantaux'; normalized to two words per conventions §1. Also 'bien:mais' set tight; colon confirmed at 4x (two dots)."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "ment entendre. ains en haine de ce, tãt",
+   "note": "printed tight as 'enhaine'; normalized to 'en haine' per conventions §1. Mark after 'entendre' verified at 3x as a round dot on the baseline (period, not comma)."
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "tous moyẽs poſsibles pour le ruyner &",
+   "note": "'poſsibles' verified at 4x: long s followed by a short round s, not ſſ."
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "ne le pouuant autrement ſauuer, ſ'eſten-",
+   "note": "printed tight as 'lepouuant'; normalized to 'le pouuant' per conventions §1."
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "dit deſſus luy, pour receuoir les coups.",
+   "note": "the 'o' of 'receuoir' is barely inked (a faint outline only); reading is secure from context and letter spacing, but the glyph is nearly absent on the page."
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "la mort, pour rachepter la vie de ſon mari {a}. Hyperme-",
+   "note": "'de ſon' printed tight as 'deſon'; normalized per conventions §1. The line-end break sign after 'Hyperme' is a blobbed short dash, transcribed as '-'."
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "ſtra auſsi, fille de Danaus, ſe mit au hazard d'eſtre tuée",
+   "note": "'auſsi' verified at 4x: long s followed by a short round s, not ſſ."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "cõme fit iadis Alceſtis femme d'Admetus, Roy de The",
+   "note": "line ends 'The' with no hyphen (word continues as 'ſalie' on the next line); normal for this print, recorded only so the reconciler does not add one."
+  }
+ ]
+}

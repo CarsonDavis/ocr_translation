@@ -1,0 +1,119 @@
+{
+ "id": "p038",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "38",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſterité & rudeſſe (en ayant fait peut eſtre au parauant",
+    "experience) elle doit eſtre commiſe à quelque femme",
+    "de bien, & honneſte, iuſqu'à la fin du proces {i}. Et quand",
+    "le mari craint que la femme qu'il demande ne ſoit ſu-",
+    "bornée contre luy, le Iuge la doit faire loger, & collo-",
+    "quer en vne maiſon, où elle ne redoute force, ni violen",
+    "ce. comme iadis on faiſoit à vn conuent de nonnains,",
+    "& religieuſes. {l}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Si fait en ſon audition ample diſcours",
+    "& veritable (comme depuis a apparu)",
+    "de la partie des Baſcouz, des pere, me-",
+    "re, freres, ſeurs, & autres parens de Mar-",
+    "tin Guerre: de l'annee, mois, & iour de",
+    "ſes nopces: de ſes beaux-pere, & mere:",
+    "des perſonnes qui y eſtoient, & qui trai-",
+    "terét le mariage: des robes, & veſtemens,",
+    "deſquels chacun pour lors eſtoit accou-",
+    "tré: du preſtre qui les eſpouſa: de tous les",
+    "actes particuliers, qui y entreuindrent:",
+    "tant au iour des nopces, que deuant &",
+    "& apres. iuſqu'à conſigner les perſonnes",
+    "qui ſur la minuit des nopces, l'allerent vi-",
+    "ſiter dans ſon lit. En outre, de ſon preten",
+    "du enfant Sanxi Guerre, & du iour qu'il",
+    "naſquit: de la cauſe de ſon departement:",
+    "des perſonnes qu'il trouua en chemin, &",
+    "des propos qu'ils auoient eu enſemble:",
+    "des lieux où il ſ'eſtoit tenu durant ſon",
+    "abſence, tant en Eſpaigne, qu'en Fran-",
+    "ce: & des perſonnes, auſquelles il ſ'eſt"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "i",
+   "beside_line": "de bien, & honneſte, iuſqu'à la fin du proces {i}. Et quand",
+   "lines": [
+    "c. ex tranſ-",
+    "miſſa. c. lite-",
+    "ras. P. fin. de",
+    "reſt. ſpol."
+   ]
+  },
+  {
+   "key": "k",
+   "beside_line": "quer en vne maiſon, où elle ne redoute force, ni violen",
+   "lines": [
+    "c. cum lo-",
+    "cum, de ſponſ."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "& religieuſes. {l}",
+   "lines": [
+    "c. penultisi-",
+    "me de prob."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[1]",
+   "text": "c. cum lo-",
+   "note": "note key k has no visible {k} marker anywhere in the body. Every line of the first paragraph was examined at 3-4x; lines 4-6 ('ne ſoit ſu-' / 'collo-' / 'ni violen'), where the note sits, show no raised italic letter. Either the marker failed to print or it was lost at the line end. Marker k recorded as missing.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. penultisi-",
+   "note": "at 10x the sorts after 'penu' read l (tall ascender), t (short ascender with crossbar), dotted i, round s, dotted i, hyphen, giving 'penultisi-' + 'me' = 'penultisime'. At lower magnification the l/t pair can read as a single l ('penulisi-'). The expected citation is 'c. penultime de prob.' (cf. 'l. penultime.' elsewhere), so the printed form is odd either way. Escalated for the reconciler.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "c. ex tranſ-",
+   "note": "the line-end hyphen after 'tranſ' is barely inked: a faint speck at mid height, far lighter than the clean hyphen of 'lite-' on the next line. Transcribed as a hyphen; it could equally be a break with no hyphen (§1, which needs no entry) or a stray mark."
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "terét le mariage: des robes, & veſtemens,",
+   "note": "'terét': the mark over the second e is a straight stroke rising to the right, i.e. an acute, matching the acute of 'tré:' two lines below; the sense ('traiterent') would want a tilde 'terẽt'. Read as printed acute."
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "tant au iour des nopces, que deuant &",
+   "note": "'&' is printed at the end of this line and again at the start of the next ('& apres.'), so the ampersand is set twice. Transcribed as printed; sic, not a reading doubt."
+  }
+ ]
+}

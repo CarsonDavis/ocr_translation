@@ -1,0 +1,8 @@
+# Report: annot-028
+
+- Output: `translation/sections/annot-028.md` — `check_markers.py annot-028`: 1 sections ok, 0 failed.
+- Word counts: French 119, English 125. 6 keyed notes (a, b, c2, d, e, f); body {a} {b} {c2} {d} {f}. The alphabet restarts here on p050 (hence c2 for the print's plain *c*), and note *e* (Baldus on l. *Presbyteri*) has no body marker — listed as an orphan at its place with a remark; headnote added. Per the coordinator's rulings.
+- Glossary additions: *rendre raison de son dire* → "to render a reason for his saying"; *faire foy* → "to make faith"; *affectionné (à respondre)* → "eager (to answer)"; *Saliet* → "Salicetus (Bartholomaeus de Saliceto)".
+- `[unclear]` passages: none. Read-through: *inrerroguer* (sic) → "interrogate"; the unmatched closing parenthesis after *ici* — opening bracket supplied before "of which we treat here" and noted in the headnote; *ſi groſsier* → "so gross".
+- Choices to review: *n'eſt pas croyable, ni digne de foy* → "is not credible, nor worthy of faith"; *le Iuge ou le commiſſaire* → "the Judge or the commissioner" (per annot-021); *requis. ou recerché* → "required or sought"; *ſon dire ne fait point de foy* → "his saying makes no faith".
+- Citations: {a} l. *Solam* C. *de testibus* — cf. C. 4.20.4, number unverified. {b} c. *Cum causam* X 2.20, chapter unverified. {c2} c. *Sicut* X 2.27, chapter unverified; the print's *aud.* read as *au d[it]* ("at the said chapter *Cum causam*"); Accursius on l. *Solam*. {d} last law of C. 1.19, number unverified. {e} Baldus on l. *Presbyteri* C. 1.3 (cf. C. 1.3.8), unverified. {f} Salicetus on the last law of C. 4.19, and Alexander Tartagnus *Consilia* I.15, unverified.

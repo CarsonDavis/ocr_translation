@@ -1,0 +1,249 @@
+{
+ "id": "p054",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "ARREST DV",
+ "folio": "54",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "tre appelé Valentin Rougié, qui le nom",
+    "moit, & recognoiſſoit pour du Tilh, luy",
+    "fit ſigne du doigt qu'il ſe teuſt. Au troi-",
+    "ſieme, appelé Pelegrin de Liberos, luy",
+    "fit pareil & ſigne en outre, donna deux",
+    "mouchoirs', à la charge d'en bailler vn à",
+    "Iean du Tilh ſon frere."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, XXXII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Si ces teſmoins n'euſſent eſté ſinguliers, chacun de-",
+    "poſant de ſon faict, & bien reprochez, ceſte ſeule preu-",
+    "ue eut bien eſté ſuffiſante à luy bailler le géine. car",
+    "bien qu'vne confeſſion de crime, hors iugement faite,",
+    "ne ſoit pas ſuffiſante pour condemner vn homme, ſans",
+    "nouueau proces, ou ſoit extraordinairement à l'ar-",
+    "bitre du Iuge cõme fol, glorieux & outre cuidé, ſ'eſtãt",
+    "vanté de mal faire {a}: toutesfois elle fait ſuffiſant indi-",
+    "ce, pour mettre vn tel ruſtre, qui a cõfeſſe, à la torture {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Sixiément, deux autres teſmoins depo",
+    "ſent, qu'vn ſoldat de Rochefort, n'a pas",
+    "longtemps, paſſa au lieu d'Artigat, lequel,",
+    "esbahi de voir ledit du Tilh, ſoy dire, Mar",
+    "tin Guerre, dit tout haut, qu il eſtoit vn",
+    "trompeur: car Martin Guerre eſtoit en",
+    "Flãdres, n'ayãt qu'vne iãbe, & l'autre de",
+    "bois, pour auoir perdu l'vne. d'vn coup",
+    "de boulet deuant S. Quentin, à la iour-",
+    "nee de S. Laurens."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XXXIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En cor que ceſte preuue n'euſt pas eſté fort neceſſai",
+    "re, par ce qu'vn teſmoignage d'auoir cuy dire ne preu-",
+    "ue point {a2} toutesfois quãd le vray Martin Guerre arri-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "vanté de mal faire {a}: toutesfois elle fait ſuffiſant indi-",
+   "lines": [
+    "c. quàm ſit",
+    "graue. de ex. -",
+    "ceſ. prelato"
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ce, pour mettre vn tel ruſtre, qui a cõfeſſe, à la torture {b}.",
+   "lines": [
+    "Accurſe en",
+    "la l. capite",
+    "quinto- D. de",
+    "adult,"
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": null,
+   "lines": [
+    "c. iam lite-",
+    "ris. c, licet ex",
+    "quadam, de-",
+    "ſti. c. rutela. de.",
+    "conſan. & af-",
+    "fini,"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[1]",
+   "text": "ANNOTAT, XXXII.",
+   "note": "sic: a comma (wedge with a tail below the baseline) follows ANNOTAT where the other annotation heads carry a period; transcribed as printed. Both readers agree; confirmed on body-3.jpg."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "mouchoirs', à la charge d'en bailler vn à",
+   "note": "sic: a small raised comma-shaped sort is printed after the s of 'mouchoirs' and before the comma (body-2.jpg, last line, 4x). It is fully inked, a clean wedge with a short tail, at the height of the page's apostrophes (compare d'en on the same line), only smaller; read as a stray apostrophe sort rather than a speck and transcribed as printed. A stray/turned comma sort is the alternative explanation; either way it is type."
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Si ces teſmoins n'euſſent eſté ſinguliers, chacun de-",
+   "note": "the print sets 'ſingulier s' with a justification gap before the final s; joined per §1."
+  },
+  {
+   "where": "blocks[3]",
+   "text": "TEXTE.",
+   "note": "the point after TEXTE sits at mid x-height, the same raised-point sort that serves as word-break sign at 'iour-', 'preu-', 'arri-' on this page; read as the heading's period."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "longtemps, paſſa au lieu d'Artigat, lequel,",
+   "note": "a comma is printed after the final l of 'lequel', partly fused to the foot of the l; at 4x (body-5.jpg, 4th line, right end) the tail below the baseline is clear."
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "esbahi de voir ledit du Tilh, ſoy dire, Mar",
+   "note": "a comma stands between 'dire' and 'Mar' although the sense runs on ('Mar|tin'); transcribed as printed. 'Mar' is set in the smaller annotation type with an ordinary capital M; not small capitals."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "tin Guerre, dit tout haut, qu il eſtoit vn",
+   "note": "sic: 'qu il' is printed with a word space and no apostrophe."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "bois, pour auoir perdu l'vne. d'vn coup",
+   "note": "a small square point is printed on the baseline directly after 'l'vne' in mid-sentence (body-6.jpg, last line, 4x): solid ink, square, on the baseline, slightly smaller than the page's periods. Read as a printed point (period), sic; a speck is unlikely given its shape and placement."
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "de boulet deuant S. Quentin, à la iour-",
+   "note": "the word-break sign after 'iour' (iour|nee) is not a level dash like 'troi-' (blocks[0].lines[2]) but a small drop-shaped point raised to mid x-height (body-7.jpg, 2nd line end, 4x). The same raised mid-height point ends 'preu-' (blocks[6].lines[1]) and 'arri-' (blocks[6].lines[2]) and follows TEXTE; it is this page's alternative break sort. Transcribed as '-' per §1 (any line-end word-break sign), consistent with 'preu-' and 'arri-'. Reader A read this one as a point sort ('iour.')."
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "En cor que ceſte preuue n'euſt pas eſté fort neceſſai",
+   "note": "sic: 'Encor' is set as two words with a full word space; transcribed as printed. No break sign after 'neceſſai' (runs on to 're')."
+  },
+  {
+   "where": "blocks[6].lines[1]",
+   "text": "re, par ce qu'vn teſmoignage d'auoir cuy dire ne preu-",
+   "note": "sic, wrong sort: 'cuy' for 'ouy'. At 3x (body-7.jpg, last line) the first sort is an open c with two inward terminals, exactly like the c of 'ce' on the line, while the o of 'auoir' just before is a closed ring. Both readers agree; transcribed as printed. Line-end break sign is the raised mid-height point (see blocks[4].lines[8])."
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "ue point {a2} toutesfois quãd le vray Martin Guerre arri-",
+   "note": "the marker is the page's second 'a' (the alphabet restarts at ANNOT. XXXIII), keyed a2 per §4. The first r of 'arri' is over-inked but is an r (compare rr of 'Guerre'). Line-end break sign is the raised mid-height point."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "graue. de ex. -",
+   "note": "the print sets 'ex.' then a small gap then a level dash at the line end (the break sign for 'ex-|ceſ.'); the period before it is a separate round dot. Spaced per §1; both readers agree."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "ceſ. prelato",
+   "note": "'prelato' is printed with a plain italic e, not the æ ligature; sic."
+  },
+  {
+   "where": "margin_notes[1]",
+   "text": "Accurſe en",
+   "note": "the key letter b is followed by a round point before 'Accurſe'; the point is taken as belonging to the key and not included in lines. The note is printed beside the TEXTE heading, so beside_line is null."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "quinto- D. de",
+   "note": "sic: a level mid-height dash (hyphen), not a period, follows 'quinto', with a word space before 'D.'; transcribed as printed. Both readers agree."
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "c. iam lite-",
+   "note": "the note's key letter is a heavily blotted italic sort (margin-3.jpg, bottom, 4x): a blob with the outline of an italic a. Read as 'a' (keyed a2) because the body marker it answers (blocks[6].lines[2]) is a clear italic a and the alphabet restarts at ANNOT. XXXIII; a coincidence of ink rather than a different letter. The note begins in the gap between 'nee de S. Laurens.' and the ANNOT. XXXIII heading, ahead of its marker line, so beside_line is null."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "ris. c, licet ex",
+   "note": "the print sets 'e x' with a gap; joined per §1. A comma, not a period, follows the c."
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "ſti. c. rutela. de.",
+   "note": "three points. (1) sic, wrong sort: 'rutela' for 'tutela' — at 4x (margin-4.jpg, top line) the first sort is a short italic r with a shoulder and no crossbar, unlike the crossed t two sorts later. (2) With line 2 the reference reads 'de-|ſti.' ('deſti.'), apparently a contraction or error for 'de teſti.'; transcribed as printed. (3) A period is printed after the final 'de' (a baseline dot, clear at 4x); reader B omitted it."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[0].lines[5]",
+   "A": "mouchoirs, à la charge d'en bailler vn à",
+   "B": "mouchoirs', à la charge d'en bailler vn à",
+   "chose": "B",
+   "text": "mouchoirs', à la charge d'en bailler vn à",
+   "reason": "body-2.jpg last line at 4x: a fully inked raised comma-shaped sort stands after the s, at apostrophe height; it is type, not a speck. Transcribed as printed with a sic note."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "A": "longtemps, paſſa au lieu d'Artigat, lequel",
+   "B": "longtemps, paſſa au lieu d'Artigat, lequel,",
+   "chose": "B",
+   "text": "longtemps, paſſa au lieu d'Artigat, lequel,",
+   "reason": "body-5.jpg 4th line at 4x: a comma with a clear tail below the baseline is printed against the foot of the final l."
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "A": "de boulet deuant S. Quentin, à la iour.",
+   "B": "de boulet deuant S. Quentin, à la iour-",
+   "chose": "B",
+   "text": "de boulet deuant S. Quentin, à la iour-",
+   "reason": "body-7.jpg 2nd line at 4x: the sign is a raised mid-height point, the same sort that ends 'preu-' and 'arri-' (which both readers, including A, transcribed as hyphens) and follows TEXTE. It is a word-break sign at a word break, so '-' per §1; A's point reading would be inconsistent with the other two."
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "A": "ſti. c. rutela. de.",
+   "B": "ſti. c. rutela. de",
+   "chose": "A",
+   "text": "ſti. c. rutela. de.",
+   "reason": "margin-4.jpg top line at 4x: a baseline period is printed after 'de'."
+  }
+ ]
+}

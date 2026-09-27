@@ -1,0 +1,180 @@
+{
+ "id": "p001",
+ "page": 1,
+ "folio": "1",
+ "side": "recto",
+ "image": "p001",
+ "source": {
+  "kind": "cudl",
+  "image_no": 23,
+  "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/23"
+ },
+ "running_head": null,
+ "prev": "p000-argument",
+ "next": "p002",
+ "english": [
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "DECISION",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "OF THE PARLEMENT OF",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Tholose, containing a memorable",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "and prodigious history, with",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "one hundred and eleven fine and learned anno-",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "tations, by Monsieur Master Jean",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "de Coras, reporting judge of the case.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Text of the Substance of the case,",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "and of the decision.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "IN THE MONTH of January, one thousand five hundred and fifty-nine [= 1560 n.s.], Bertrande de Rols, of the place of Artigat, in the diocese of Rieux, presents herself as supplicant and plaintiff before the judge of Rieux, saying that twenty years, or thereabouts, may have passed since she, being a young girl of nine to ten years, was married to Martin Guerre, at that time also very young, and almost of the same age as the supplicant.",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "ornament",
+   "text": "woodcut headpiece: grotesques, foliage and a central vase, full width above the title"
+  },
+  {
+   "type": "heading",
+   "text": "ARREST",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "DV PARLEMENT DE"
+  },
+  {
+   "type": "heading",
+   "text": "Tholoſe, contenant vne hiſtoire"
+  },
+  {
+   "type": "heading",
+   "text": "memorable, & prodigieuſe, auec"
+  },
+  {
+   "type": "heading",
+   "text": "cẽt & onze belles & doctes anno-"
+  },
+  {
+   "type": "heading",
+   "text": "tations, de monſieur maiſtre Iean"
+  },
+  {
+   "type": "heading",
+   "text": "de Coras, rapporteur du procés."
+  },
+  {
+   "type": "heading",
+   "text": "Texte de la Toile du procés,"
+  },
+  {
+   "type": "heading",
+   "text": "& de l'arreſt."
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "AV MOIS de Ianuier, mil",
+    "cinq cens cinquante neuf,",
+    "Bertrande de Rols, du lieu",
+    "d'Artigat, au dioceſe de",
+    "Rieux, ſe rend ſuppliant, &",
+    "plaintiue deuant le iuge de Rieux, diſant,",
+    "que vingt ans peuuent eſtre paſſez, ou en-",
+    "uiron, qu'elle eſtant ieune fille, de neuf à",
+    "dix ans, fut mariée auec Martin Guerre,",
+    "pour lors auſsi fort ieune, & preſque de",
+    "meſme aage que la ſuppliant."
+   ]
+  }
+ ],
+ "french_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[2]",
+   "text": "DV PARLEMENT DE",
+   "note": "a tiny round dot sits on the baseline right after DV (pages/strips/p001/body-3.jpg, line 1). It is about a quarter the size of this fount's full stops (compare the point after 'procés.' two lines below), so it is treated as an ink speck and omitted. The line is lightly tracked but far less than ARREST above; judged tracked capitals, so no spaced_caps flag."
+  },
+  {
+   "where": "blocks[5]",
+   "text": "cẽt & onze belles & doctes anno-",
+   "note": "the mark over the e of 'cẽt' is broad, wavy and nearly horizontal, thicker at the left end: a tilde (cẽt = cent; the book has 111 annotations). It is unlike the short steep acute of 'procés' on the next-but-one line. Reader A read 'cét'."
+  },
+  {
+   "where": "blocks[6]",
+   "text": "tations, de monſieur maiſtre Iean",
+   "note": "a faint thin caret-shaped mark sits above the o of 'tations'; much lighter than the type, and the n is set in full, so it is read as accidental (rising space or offset), not a tilde. Transcribed as plain o."
+  },
+  {
+   "where": "blocks[4]",
+   "text": "memorable, & prodigieuſe, auec",
+   "note": "both e's of 'memorable' print with a very weak crossbar and look like c on the sheet; read as e from sense and from the same weak e elsewhere on the page."
+  },
+  {
+   "where": "blocks[10].lines[0]",
+   "text": "AV MOIS de Ianuier, mil",
+   "note": "MOIS is set with light letterspacing after the decorated initial, far narrower than the title's spaced capitals; transcribed as ordinary capitals, no spaced_caps. The A is the woodcut initial."
+  },
+  {
+   "where": "folio",
+   "text": "1",
+   "note": "the folio glyph at top right is a squat serifed vertical stroke resembling a roman I; read as the arabic figure 1, the form this fount uses for 1 (p011 shows the same shape twice, p002 is foliated 2)."
+  },
+  {
+   "where": "signature",
+   "text": "A",
+   "note": "a lone 'A' stands below the last body line, right of centre; read as the gathering signature, not a catchword (p002 opens 'ANNOTATION I.' / 'Les')."
+  }
+ ]
+}

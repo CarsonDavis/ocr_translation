@@ -1,0 +1,7 @@
+# Report: texte-22
+
+- Output: `translation/sections/texte-22.md` — `check_markers.py texte-22`: 1 sections ok, 0 failed.
+- Word counts: French 130, English 161. No marginal citations.
+- Glossary additions: *mettre en droit* → "to set down in law"; *ordonnance de confrontemens* → "Order of confrontations"; *baillé par declaration* → "delivered by declaration"; *liez & maleficiez* → "bound and bewitched" (bracketed gloss on first use, per §9 *noué*); *separation de mariage* → "separation of marriage".
+- Choices to review: *La matiere miſe en droit ſur la maniere de proceder* → "The matter having been set down in law upon the manner of proceeding" (the court's *appointement en droit*; Ringold paraphrases "The procedure of the case was then discussed"); *ſ'en enſuit Ordõnãce* → "there follows an Order" (historic present kept); *accaree* → "confronted" as texte-20; *ouye … reſpõd de meſmes* → "being heard, answers likewise"; *liez, & maleficiez* → "bound and bewitched [*liez & maleficiez*: under the spell of impotence, the *nouement d'aiguillette*]" — the gloss is bracketed in the text per the house rule and can be moved to the apparatus; *ſes plus prochains parens* → "her nearest kinsfolk" (texte-16); *ne voulut oncques entendre* → "would never listen", matching texte-18's rendering of *entendre* as hear/listen. Coras's *huit ou neuf ans* kept (§2 notes the eight/nine discrepancy).
+- `[unclear]` passages: none. Read-through: *dudis* = *dudit*; *reſul tãs* = *reſultans*; *pou uoir* = *pouuoir*; *hors mis* = *hormis*.

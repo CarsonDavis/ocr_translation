@@ -1,0 +1,191 @@
+{
+ "id": "p011",
+ "page": 11,
+ "folio": "11",
+ "side": "recto",
+ "image": "p011",
+ "source": {
+  "kind": "cudl",
+  "image_no": 33,
+  "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/33"
+ },
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "prev": "p010",
+ "next": "p012",
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "last sigh of life, inasmuch as the manners and affections of men often change, whether through prosperity or through adversity, or through the heaviness of old age; and sometimes friendships part over contentions and quarrels, or over some good, profit and advantage to which each one pretends and aspires particularly for himself <sup class=\"mk\" data-key=\"o\">o</sup>. But that, for such a separation of friendship, people should afterwards come to disclose and reproach one another with the secret things they had previously communicated to each other — that, in my opinion, is done only among wretched and deplorable persons.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "o",
+     "citation": "Cicero, <i>De amicitia</i> 33–35",
+     "original": "Cicero. au li de Amicitia.",
+     "gloss": "Friendships change with fortune, age and rivalry for advantage."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "The said du Tilh, trusting in the fact that he entirely bore the features and lineaments of the face of the said Martin, violating in the first place all laws of friendship, and afterwards using a new kind of effrontery and trickery, had presented himself to the four sisters, uncle and relatives of this Martin, and to the said Bertrande de Rols, indeed to all those of the place of Artigat: giving to all several particular and such close tokens, that not only the strangers, but also all the said relatives, indeed the supplicant, persuaded themselves that it was truly Martin Guerre.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION V"
+  },
+  {
+   "type": "paragraph",
+   "html": "This is, in its kind, the greatest, most prodigious and most marvellous deed that can be read of in any annals whatsoever, whether Greek or Latin, ancient or modern: in which one will indeed hear of several examples of certain persons so alike among themselves that those who saw them remained bewildered and confused, not knowing how to distinguish or recognise them, and often taking the one for the other; and that under the pretext of this re",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "dernier ſoupir de la vie, d'autãt que les mœurs, & affectiõs",
+    "des hõmes, ſouuentesfois ſe changent, on pour proſperi",
+    "tez, ou pour aduerſitez: ou pour la peſãteur du vieux aa-",
+    "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+    "& noiſes, ou pour quelque bien, profit & cõmodité, à la-",
+    "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {o}.",
+    "Mais que pour telle ſeparation d'amitié, on vienne apres",
+    "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+    "ſ'eſtoit au parauant communiquées, cela à mon aduis ne",
+    "ſe fait point, qu'entre perſonnes miſerables, & deplorées."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ledit du Tilh, ſe confiant en ce qu'il",
+    "rapportoit entierement des traits & li-",
+    "neamens du viſage, ledit Martin, violant",
+    "en premier lieu toutes loix d'amitié, & a-",
+    "pres vſant d'vne nouuelle eſpece d'affrõ-",
+    "tement, & piperie: ſe ſeroit preſenté aux",
+    "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+    "tin, & à ladite Bertrande de Rols, voire à",
+    "tous ceux du lieu d'Artigat: donnant à",
+    "tous pluſieurs particulieres, & ſi proches",
+    "enſeignes, que non ſeulement les eſtran-",
+    "gers, mais encor tous leſdits parens, voi-",
+    "re la ſupliant, ſe perſuaderent, que c'eſtoit",
+    "veritablement Martin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. V.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "C'eſt le faict en ſon eſpece, le plus grand, prodigieux",
+    "& eſmerueillable, qu'on puiſſe lire en Annales quelcon-",
+    "ques, ſoyent Grecques ou Latines, antiques ou moder-",
+    "nes: eſquelles on entendra bien pluſieurs exemples de",
+    "certaines perſonnes, entre elles ſi ſemblables, que ceux",
+    "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+    "chant diſcerner ne recognoiſtre: & prenant ſouuentes-",
+    "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "Cicero. au li",
+    "de Amicitia."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {o}.",
+   "note": "the marker after 'ſoy' and the key before the margin note are both printed as a solid round ink blob (body-2.jpg x~1650; margin-1.jpg x~90 y~740); reader A read e, reader B a. Keyed o from the sequence: the marker alphabet runs continuously through an annotation across pages (p002 a-f / p003 g-r; p005 a-f / p006 g-n; p009 a-d / p010 e-n) and this block ends the annotation whose last marker on p010 is {n}. The blob's closed round outline is consistent with o."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Cicero. au li",
+   "note": "the last word is two over-inked strokes fused into one mass (margin-1.jpg x~375-410 y~730): a tall stroke and a short one, nothing printed to the right. Read 'li' (= livre, continued by 'de Amicitia.'); a point merged into the blob ('li.') cannot be excluded. A stray dot sits above the C of 'Cicero'."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "the only margin note on the page; its first line stands beside blocks[0].lines[6], one line below the marker. margin-2/3/4.jpg are blank; no foot citations, signature or catchword."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "dernier ſoupir de la vie, d'autãt que les mœurs, & affectiõs",
+   "note": "the mark over the a of 'autãt' is the same short bar as over 'peſãteur' on line 2; tilde, not acute. 'lavie' set tight, divided per §1."
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "des hõmes, ſouuentesfois ſe changent, on pour proſperi",
+   "note": "sic 'on' for 'ou' before 'pour': the second letter is over-inked but its top is a closed arch and the feet are separated at the baseline (body-1.jpg x~1150-1420 y~340-415 at 4x); the true 'ou' on line 3 has the counter open above. Both readers read 'on'."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+   "note": "'departẽr' sic (see decisions); printed 'quelque foisles' and 'departẽrpour' with no gaps, word division normalized per §1."
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "note": "small mark below the baseline between 'manifeſter' and '&', taken as a speck (see decisions)."
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+   "note": "'parẽs': the mark over the e is a flat wavy bar (tilde), unlike the slanted acute of 'amitié' above (body-4.jpg y~420-505 at 4x); spelled out 'parens' at blocks[2].lines[11]. The i of 'd'iceluy' has a foot serif and no descender; i, not j."
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "tin, & à ladite Bertrande de Rols, voire à",
+   "note": "'Rols' is set with a capital R and lower-case o l s in the TEXTE type, not small capitals."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "ques, ſoyent Grecques ou Latines, antiques ou moder-",
+   "note": "the initial a of 'antiques' is defectively inked (bowl a faint ghost) and can look accented at reading size; no separate mark above it."
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+   "note": "a round period-sized dot is printed between 'errans' and '&' at mid x-height (body-7.jpg x~1000-1130 y~310-400); reader A transcribed it as a period. Not transcribed here because it does not sit on the baseline like the fount's periods; probably a raised or misplaced sort."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ",
+   "note": "a looping smear (offset or pen mark) runs through 'ceſte'; the letters remain legible. The line ends 'reſ' without a hyphen and the word runs on to p012, so continues_next is true."
+  },
+  {
+   "where": "folio",
+   "text": "11",
+   "note": "old-style figures; the two 1s print as serifed strokes. Matches the manifest."
+  }
+ ]
+}

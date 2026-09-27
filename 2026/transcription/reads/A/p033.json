@@ -1,0 +1,187 @@
+{
+ "id": "p033",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "33",
+ "signature": "C",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "en barbe, toutesfois fut il recognu de",
+    "tous, ſingulierement dudit Pierre Guer-",
+    "re ſon oncle, qui l'auroit receu & careſſé",
+    "pour ſon nepueu: iuſqu'à tãt qu'aduiſant",
+    "de plus pres à ſes affaires, le deffendeur",
+    "vouluſt recouurer ſõdit bien, & les fruicts",
+    "qui en auroyent eſté perceus durãt",
+    "ſon abſence: de quoy ayant ſouuent eſté",
+    "admonneſté amiablement iceluy Pier-",
+    "re Guerre oncle, L'auroit par vn long",
+    "temps repeu de belles paroles."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Iadis quand quelque creancier vouloit appeler ſon",
+    "debiteur en iugement, auant qu'entrer en proces il le",
+    "reuiroit a part, l'admoneſtoit & interpelloit familiere",
+    "mẽt de le payer & ſatisfaire, nõ pas ſeulemẽt vne fois,",
+    "mais deux, & trois le plus ſouuent. Ainſi Procul Iuriſcõ",
+    "ſulte nous enſeigne, que ſi noſtre voiſin ou autre nous",
+    "fait quelque tort de parler à luy, & amiablement le luy",
+    "remonſtrer auant que le mettre en places. IE VEVX.",
+    "dit il, que tu parles auec Hybere, à fin qu'il ne face cho",
+    "ſe iniuſte {c}. Actes non ſeulement humains & plains de",
+    "toute ciuilité: mais encor reſſentans ſon Chriſtianiſ-",
+    "me, par la loy duquel nous eſt cõmandé corriger no-",
+    "ſtre prochain auãt que le menaſſer {d}, & de ne prẽdre de-",
+    "bat à aucun, mais d'eſtre humains, gracieux & charita-",
+    "bles, vſans de toute douceur & courtoiſie enuers les hõ",
+    "mes {e}. deſquels ſi nous receuons quelque tort ou iniure",
+    "ne faut pourtant tenir celuy qui nous offenſe comme",
+    "ennemi, mais l'admoneſter, cõme frere {f}, le reprendre &",
+    "corriger amiablement entre nous, & luy ſeul {g}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En fin fut contraint, le mettre en in-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "Iadis quand quelque creancier vouloit appeler ſon",
+   "lines": [
+    "Ciceron en",
+    "l'Oraiſon pro",
+    "Cluentio. l. de",
+    "bitores. C. de",
+    "pignor."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "mais deux, & trois le plus ſouuent. Ainſi Procul Iuriſcõ",
+   "lines": [
+    "l. ſi conue-",
+    "nerit. D. de pi",
+    "gno. actio."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "remonſtrer auant que le mettre en places. IEVEVX.",
+   "lines": [
+    "l. quidam",
+    "Hyberus. D.",
+    "de ſeruit. vrb.",
+    "prædio."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "toute ciuilité: mais encor reſſentans ſon Chriſtianiſ-",
+   "lines": [
+    "eccleſiaſtic",
+    "c xix."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "me, par la loy duquel nous eſt cõmandé corriger no-",
+   "lines": [
+    "Tite iij. C."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "ne faut pourtant tenir celuy qui nous offenſe comme",
+   "lines": [
+    "ij des Theſ",
+    "ſaloniciens C.",
+    "iij."
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "corriger amiablement entre nous, & luy ſeul {g}.",
+   "lines": [
+    "S Mathieu",
+    "c. xviij. S. Luc",
+    "c xvij. Leuiti",
+    "que c. xix."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "note": "note key a is printed in the margin but no {a} marker is printed anywhere in the body of this page; checked every line of both paragraphs at 3x-6x"
+  },
+  {
+   "where": "margin_notes[1]",
+   "note": "note key b is printed in the margin but no {b} marker is printed anywhere in the body of this page; checked every line at 3x-6x"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "ennemi, mais l'admoneſter, cõme frere {f}, le reprendre &",
+   "note": "punctuation after marker {f}: a thin stroke descending below the baseline, read as a comma; at 11x it could still be a period with a flaw"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "mes {e}. deſquels ſi nous receuons quelque tort ou iniure",
+   "note": "'ou' carries a faint tick above the u; read as plain 'ou' (no accent, no tilde), the mark looks like a speck"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "de ſeruit. vrb.",
+   "note": "the mark after 'vrb' reads as two dots (possibly a colon); transcribed as a period. Also the initial letter is read as italic v, not u"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "Cluentio. l. de",
+   "note": "the abbreviation between 'Cluentio.' and 'de' is an italic l (lex); its shape could be mistaken for a figure 1"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "c xvij. Leuiti",
+   "note": "no period after 'c' here, unlike line 1 of the same note ('c. xviij.'); transcribed as printed"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "que c. xix.",
+   "note": "heavily inked and blotted; 'xix.' is the best reading"
+  },
+  {
+   "where": "signature",
+   "text": "C",
+   "note": "single blotted capital centred below the last body line; read as C, which fits the gathering (A = pp. 1-16, B = pp. 17-32, C = pp. 33-48)"
+  }
+ ]
+}

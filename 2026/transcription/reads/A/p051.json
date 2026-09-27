@@ -1,0 +1,154 @@
+{
+ "id": "p051",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE TOLOSE,",
+ "folio": "51",
+ "signature": "D ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Outre, qu'il n'eſt vray ſemblable pour la proximité",
+    "du ſang, que l'oncle ne congnoiſſe ſon propre ne pueu",
+    "{a}, ou qu'il ſoit ſi brutal & deſnaturé de vouloir anean-",
+    "tir & deſtruire ſon propre ſang. Il eſt certain auſsi que",
+    "perſonne (ſi elle n'eſt plus felonne que les beſtes ſau-",
+    "uages) n'eut oncques en haine ſa chair: mais l'entre-",
+    "tient, nourriſt & conſeque, de ſon pouuoir {b}. Dont",
+    "ſainct Paul appeloit celuy pire que infidelle, qui n'a",
+    "ſoin des ſiens {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ce que ledit Barreau oncle, monſtra",
+    "bien à l'exhibition qui luy fut faite du",
+    "priſonnier ſon nepueu, tant deuant ledit",
+    "Iuge de Rieux, qu'apres en la cour: car le",
+    "voyant entre les mains de Iuſtice, les",
+    "gros fers aux iambes, & en danger de ſa",
+    "vie, ſe mit incontinẽt à pleurer, & gemir",
+    "amerement."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "Encor que quelquesfois les hommes larmoyent",
+    "par vne grande, & trop exceſsiue ioye, qui ſoudain ſe",
+    "preſenté, comme fit Ptolomee Philadelphe, quand on",
+    "luy offrit les loix des Iuifs eſcrites en lettres d'or {a2}:",
+    "toutesfois le plus ſouuent aduient, que l'homme ne",
+    "pleure que de malancholie, faſcherie, & triſteſſe, & lors",
+    "y a grande raiſon: car l'eſprit qui eſt extremement affli",
+    "ge d'ẽnuy & engoiſſe, eſt apporté iuſqu'à la pellicule du",
+    "cerueau, où il preſſe l'humeur qu'il y trouue: tellemẽt",
+    "qu'il la contrainct ſortir dehors: & voila pourquoy les",
+    "Latins appellent l'humeur, qui decoule des yeux, LA-",
+    "CRIMA: c'eſt à dire Larme: mot tiré de laceration,",
+    "qui vaut autant à dire, que briſer, rompre, & conſom-",
+    "mer: car du rõpement, & triſteſſe de l'eſprit, les larmes",
+    "ſont eſmeuës, & prouoquees. Alexander Aphrodiſee"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "{a}, ou qu'il ſoit ſi brutal & deſnaturé de vouloir anean-",
+   "lines": [
+    "l. octaui, D.",
+    "vnde cog. l. de",
+    "tutela. C de in",
+    "integ. reſt."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "uages) n'eut oncques en haine ſa chair: mais l'entre-",
+   "lines": [
+    "Epheſiens.",
+    "c. v"
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ſainct Paul appeloit celuy pire que infidelle, qui n'a",
+   "lines": [
+    "La i. de Ti-",
+    "moth. c. v."
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "luy offrit les loix des Iuifs eſcrites en lettres d'or {a2}:",
+   "lines": [
+    "Ioſephe au",
+    "liure xij. des",
+    "Antiquitez Iu-",
+    "daiques c. ij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "ſoin des ſiens {c}.",
+   "note": "the raised marker after 'ſiens' is shaped like an italic long ſ (top hook to the right, straight stem, foot to the left), not like the raised italic c used elsewhere in the book (cf. p018 'mariage {c}'). Transcribed {c} because the margin note beside it is keyed with a clear italic c and the page's markers run a, b, …; but the printed shape is ſ. Reconciler should decide between {c} and {ſ}.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[1].lines[3]",
+   "text": "tir & deſtruire ſon propre ſang. Il eſt certain auſsi que",
+   "note": "the point after 'ſang' is small and imperfectly inked; at 16x it sits on the baseline without the descending tail the page's commas have (cf. 'tient,'), so read as a period, but a comma cannot be excluded."
+  },
+  {
+   "where": "blocks[5].lines[2]",
+   "text": "preſenté, comme fit Ptolomee Philadelphe, quand on",
+   "note": "a small acute-shaped tick stands over the final e of 'preſenté'; it is fainter and shorter than the clear acutes on this page (e.g. 'deſnaturé', 'apporté'), so 'preſente' is possible."
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "Antiquitez Iu-",
+   "note": "the last glyph of the line is blotted; read as a word-break hyphen after 'Iu', but it could be part of a letter. The line-break is confirmed by 'dai…' opening the next line."
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "daiques c. ij.",
+   "note": "letters after 'dai' are merged/blotted: two joined glyphs (a q plus a looped sign, with a bar above), then an isolated point, then s. Read as 'daiques' because the citation is Josephus, Antiquitez Iudaiques, liure xij, c. ij; letter forms and the position of the point are not certain.",
+   "escalate": true
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE TOLOSE,",
+   "note": "printed 'TOLOSE' without the H (sic; other rectos have THOLOSE). The final point descends below the baseline of the E and is taller than wide, so read as a comma rather than a period."
+  }
+ ]
+}

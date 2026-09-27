@@ -1,0 +1,147 @@
+{
+ "id": "p034",
+ "page": 34,
+ "folio": "34",
+ "side": "verso",
+ "image": "p034",
+ "source": {
+  "kind": "cudl",
+  "image_no": 56,
+  "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/56"
+ },
+ "running_head": "ARREST DV",
+ "prev": "p033",
+ "next": "p035",
+ "english": null,
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſtance, & par iuſtice pour ſuyure le re-",
+    "couuremenr de ſon bien: mais quant aux",
+    "fruits, & reddition de comptes; iceluy",
+    "Pierre Guerre oncle n'y vouloit aucune-",
+    "ment entendre. ains en haine de ce, tãt",
+    "luy que ſes beaux-fils, auroiẽt recherché",
+    "tous moyẽs poſsibles pour le ruyner &",
+    "perdre. & le premier eſſay fut de le tuer",
+    "& à ces fins l'auroyẽt ſouuent guetté, &",
+    "aſſailli, meſmes vn iour (tant les forçoit",
+    "l'auarice) deuãt ladite de Rols ſa femme",
+    "batu, & preſque tué d'vn coup de barre,",
+    "qui le proſterna en terre, ou l'euſt aſſom-",
+    "mé, ſãs ladite de Rols ſa femme, laquelle",
+    "ne le pouuant autrement ſauuer, ſ'eſten-",
+    "dit deſſus luy, pour receuoir les coups."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Grande eſt l'amitié de la femme enuers ſon mari,",
+    "quand pour luy ſauuer la vie, elle ſe preſente a la mort",
+    "cõme fit iadis Alceſtis femme d'Admetus, Roy de The",
+    "ſalie, laquelle ayant entendu par l'oracle d'Apollo, que",
+    "ſon mari extremement malade, & deſia conduict iuſ-",
+    "qu'aux derniers ſouſpirs de ſa vie, ne pouuoit recou-",
+    "urer ſanté, que par la mort volontaire de quelcun de",
+    "ſes amis: & voyant que nul ſe preſentoit pour ce faire:",
+    "elle embraſee d'vne grande ardeur, & affection qui la",
+    "bouillonnoit, ſ'expoſa volontairement au precipice de",
+    "la mort, pour rachepter la vie de ſon mari {a}. Hyperme-",
+    "ſtra auſsi, fille de Danaus, ſe mit au hazard d'eſtre tuée",
+    "de ſon pere, pour ſauuer Lyncée ſon eſpoux: à la mort",
+    "duquel, & de ſes autres beaux fils, iuſqu'au nombre",
+    "de cinquante, Danaus auec ſes cinquante filles, auoit"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Euripide en",
+    "la tragedie",
+    "d'Alceſte Iu-",
+    "uenal en la vj",
+    "Satyre."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "couuremenr de ſon bien: mais quant aux",
+   "note": "sic: 'couuremenr' for 'couurement' (wrong sort, r for t), confirmed at 4.5x. 'quantaux' and 'bien:mais' are set tight in the print; normalized per §1."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "ment entendre. ains en haine de ce, tãt",
+   "note": "printed tight as 'enhaine'; normalized to 'en haine' per conventions §1. Mark after 'entendre' verified at 3x as a round dot on the baseline (period, not comma)."
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "tous moyẽs poſsibles pour le ruyner &",
+   "note": "'poſsibles' verified at 4x: long s followed by a short round s, not ſſ."
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "ne le pouuant autrement ſauuer, ſ'eſten-",
+   "note": "printed tight as 'lepouuant'; normalized to 'le pouuant' per conventions §1."
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "dit deſſus luy, pour receuoir les coups.",
+   "note": "the 'o' of 'receuoir' is barely inked (a faint outline only); reading is secure from context and letter spacing, but the glyph is nearly absent on the page."
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "la mort, pour rachepter la vie de ſon mari {a}. Hyperme-",
+   "note": "'de ſon' printed tight as 'deſon'; normalized per conventions §1. The line-end break sign after 'Hyperme' is a blobbed short dash, transcribed as '-'."
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "ſtra auſsi, fille de Danaus, ſe mit au hazard d'eſtre tuée",
+   "note": "'auſsi' verified at 4x: long s followed by a short round s, not ſſ."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "cõme fit iadis Alceſtis femme d'Admetus, Roy de The",
+   "note": "line ends 'The' with no hyphen (word continues as 'ſalie' on the next line); normal for this print, recorded only so the reconciler does not add one."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "luy que ſes beaux-fils, auroiẽt recherché",
+   "note": "the mark over the e of 'auroiẽt' is a thick, nearly horizontal bar, visibly different from the thin slanted acute over the final é of 'recherché' on the same line: read as a tilde (auroient). Same for 'moyẽs' (line 6) and 'auroyẽt' (line 8)."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "quand pour luy ſauuer la vie, elle ſe preſente a la mort",
+   "note": "'a la mort': no grave accent is printed on the a (compare 'à la mort' with a clear grave on line 13 of this block). Transcribed as printed per §2."
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "qu'aux derniers ſouſpirs de ſa vie, ne pouuoit recou-",
+   "note": "the first o of 'pouuoit' is only partly inked, like the o of 'receuoir' in blocks[0].lines[15]; reading not in doubt."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "the note's key letter is a heavily inked italic a at the head of its first line (nearly a blob); identified as 'a' from the body marker after 'mari' and from the section restart at ANNOTAT. XIII. Line 2 is set 'la      tragedie' with a wide gap, normalized to one space per §1."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "uenal en la vj",
+   "note": "the second letter of 'uenal' is blotted (a filled e with a stray mark to its right); read as e on the sense (Iu- / uenal = Iuuenal). The numeral is 'vj' as printed."
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "id": "p015",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "15",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Fortes creantur fortibus, & bonis,",
+    "Eſt in iuuencis, eſt in equis patrum",
+    "Virtus. nec imbellem feroces",
+    "Progenerant, aquilæ columbam {k}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+    "les cicatrices, ores quelconques autres marques de ſes",
+    "anceſtres, & de ſon origine, teſmoins les Lepides Ro-",
+    "mains, deſquels y en eut trois d'vne maiſon, ayant cha-",
+    "cun l'œil couuert d'vne petite peau. Et Nice Bizantin,",
+    "qui naſquit noir comme vn more, rapportant pluſtoſt",
+    "ſon ayeul, que ſa mere belle & blanche, engendrée tou-",
+    "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de",
+    "la nature, ni des races, ne peuuent pas tant, que nous ne",
+    "voyons quelquefois la poſterité degenerer, & diſſembla",
+    "ble à ſes progeniteurs: cõme des beaux, naiſtre des laids",
+    "& difformes: des robuſtes & forts, iſſir des impuiſſans,",
+    "& foibles: des bons & vertueux, proceder des vicieux, &",
+    "meſchans {m}. Autrement, ſi par fois, cela n'aduenoit ain-",
+    "ſi faudroit pour le bien public defendre par loy gene-",
+    "rale & inuiolable, aux laids, debiles, & meſchans, le ma-",
+    "riage, & compagnie charnelle des femmes: afin que tous",
+    "infalliblement, naſquiſſent beaux, puiſſans, & robuſtes.",
+    "Sur quoy Alexandre Aphrodiſée, ſe trauaille fort à ſon-",
+    "der, & monſtrer la cauſe, pour laquelle on voit aduenir",
+    "ſouuent, qu'vn homme ſtupide, groſſier, & ſot, voire vn",
+    "nyés, produira des enfans accors, prudẽs; ſages, & diſcrets",
+    "Et conclud la raiſon eſtre, pour autant qu'vn badaut, en",
+    "l'acte venerien, ſe laiſſe tellement ſurmonter, & vaincre",
+    "à la volupté preſente, qu'il ne penſe lors à autre choſe:",
+    "ayant volontairement plongé l'eſprit, & l'ame dans le",
+    "corps, dont la ſemence eſt puiſée & tirée de ce corps",
+    "parmy lequel l'eſprit ſe trouue, participe grandement",
+    "de la vertu raiſonnable: & fait que les enfans, qui en",
+    "deſcendent, ſont plus prudens, & ſpirituels que le pere.",
+    "Comme au contraire, ceux qui ſont ingenieux, diſcrets,",
+    "ou ſçauans, par ce que leur eſprit inceſſammẽt trauaille,",
+    "& ſ'occupe ailleurs qu'au plaiſir de la chair: voire meſ-",
+    "mes ſur l'inſtãt de l'acte, auquel du tout ne ſe laiſſe vain"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "k",
+   "lines": [
+    "Horace au",
+    "ij. li. des Car-",
+    "mes."
+   ],
+   "beside_line": "Iuſques à voir la poſterité, porter ores les nerfs, ores"
+  },
+  {
+   "key": "l",
+   "lines": [
+    "Pline au li-",
+    "ure vij. c. xij."
+   ],
+   "beside_line": "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de"
+  },
+  {
+   "key": "m",
+   "lines": [
+    "Plutarche",
+    "au v. linre de",
+    "placitis philo-",
+    "ſophor. c. xij."
+   ],
+   "beside_line": "ſi faudroit pour le bien public defendre par loy gene-"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "Fortes creantur fortibus, & bonis,",
+   "note": "these four lines are a Latin verse quotation (Horace, Odes IV.4) set in the larger display italic, indented as verse. Treated as a paragraph, not as four heading blocks, because they are quoted running matter rather than a title and the fourth line carries marker {k}. continues_prev set true: the quotation is introduced by the sentence running over from p014 (not yet transcribed, so unverified)."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "Virtus. nec imbellem feroces",
+   "note": "the print sets 'Virtus.nec' tight with no space after the period; spaced per §1."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+   "note": "this paragraph begins with an indent, so continues_prev is false per §6, although 'Iuſques à voir la poſterité' reads as a continuation of the sentence that introduced the verse."
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "text": "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de",
+   "note": "two readings to check. (a) 'tesfois': the letter after 'te' is a round short s, with the f's full crossbar clearly visible beside it (no long s before f, §2), so 'tesfois' not 'teſfois'. (b) 'ſorces': the initial glyph has only a left-hand nub at x-height and no crossbar to the right — a long ſ, not the f of 'forces' on the same page — so the compositor seems to have set a wrong sort; transcribed as printed, sic for 'forces'. Reader A may well read 'forces'."
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "la nature, ni des races, ne peuuent pas tant, que nous ne",
+   "note": "a short horizontal mark is printed above the s of 'pas'. It sits over a consonant, where a tilde would be meaningless, and is taken as stray ink or offset; transcribed as plain 'pas'."
+  },
+  {
+   "where": "blocks[1].lines[9]",
+   "text": "voyons quelquefois la poſterité degenerer, & diſſembla",
+   "note": "'diſſembla' ends the line with no hyphen; the word continues as 'ble' on the next line (normal in this print, §1)."
+  },
+  {
+   "where": "blocks[1].lines[21]",
+   "text": "nyés, produira des enfans accors, prudẽs; ſages, & diſcrets",
+   "note": "the mark after 'prudẽs' is printed as two separated pieces, a round dot at baseline height with a comma wedge below it — a semicolon, unlike the single connected wedge of 'accors,' earlier in the same line. Read ';'; it could be a comma whose join failed to ink. The line also ends after 'diſcrets' with no punctuation although a new sentence follows (sic)."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Horace au",
+   "note": "the note's key letter is printed as an italic CAPITAL K followed by a period ('K. Horace au'); the body marker is a raised lowercase k. Recorded as key 'k'; the key letter and its period are not part of lines, per §9."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "ij. li. des Car-",
+   "note": "the numeral is the 'ij' sort (y with diaeresis) preceded by one i-stroke: two dots, two strokes, so 'ij'. The source is Horace Odes IV.4, so 'ij' for 'iiij' is a misprint; transcribed as printed, sic."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "au v. linre de",
+   "note": "hard reading. The third letter of the word after 'v.' shows an arch joining its two stems at the TOP with the bottom open, unlike the 'u' of 'au' two words earlier, whose stems join at the bottom; so the glyph is n and the word prints as 'linre' — a turned or wrong sort for 'liure'. Transcribed as the glyph prints. Pointer: pages/full/p015.jpg x~2355-2420, y~1928-1985."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "placitis philo-",
+   "note": "at low magnification the ending reads 'placitus'; at 12x there are two dots in the word, the second over the letter before the final swash s, so the ending is 'is' (correct Latin: Plutarch, De placitis philosophorum). Reader A may read 'placitus'."
+  }
+ ]
+}

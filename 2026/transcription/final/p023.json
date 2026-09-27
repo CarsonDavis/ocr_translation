@@ -1,0 +1,230 @@
+{
+ "id": "p023",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "23",
+ "signature": "B iiij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "l'hiſtoire ne nomme point, ſoy diſant fils de Cn. Aſſidio",
+    "peu ſ'en falut, qu'au temps de Cornelius Sylla, ne fiſt",
+    "priuer le vray enfant d'Aſſidio, des biens paternels: car",
+    "il auoit ſi bien affuſté l'artillerie de ſes ruſes, que le iu-",
+    "gement ſ'en eſtoit enſuyui en ſa faueur. mais Auguſte",
+    "Ceſar empereur ſage, prudent, & heureux prince, ayant",
+    "ſubtilement mis l'impoſture en lumiere, fit rendre le",
+    "le bien au fils legitime, & mourir l'affronteur en pri-",
+    "ſon {b}. Au meſme temps, en la ville de Milan, vne fem-",
+    "me fort opulente, appellée Rubrie: par grand deſaſtre",
+    "ſe bruſla: apres la mort de laquelle, comme ſes heritiers",
+    "auoient deſia vendu la meilleure partie du bien, vne au",
+    "tre femme ſe preſenta, ſoy diſant eſtre Rubrie, deman-",
+    "dant que ſon bien luy fuſt rendu: à laquelle pluſieurs",
+    "meſmes des ſoldats d'Auguſte aſſiſtoient, perſuadez,",
+    "pour la ſimilitude qu'elle auoit, & du viſage & des",
+    "meurs, auec la defuncte, que ce fuſt veritablement Ru-",
+    "brie. mais l'incomparable prudence de ce renommé",
+    "& generenx Empereur, empeſcha l'execution de la",
+    "fraude. {c}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Lequel bien, depuis iceluy du Tilh au-",
+    "roit vendu à pluſieurs & diuers perſon-",
+    "nages."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. IX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "De ce faict, à l'aduenir pourra naiſtre vne queſtion,",
+    "ſi le vray mari ſuruenant, pourra retracter les aliena-",
+    "tions de ſon bien, & non ſeulement les piecẽs vendues",
+    "mais encore recouurer les fruicts recueillis, & perceus",
+    "par les achepteurs depuis le tẽps des contracts. pour la",
+    "deciſion duquel doute, faut preſuppoſer, qu'vn chacum",
+    "peut librement vendre, non ſeulement ſon bien propre",
+    "duquel il eſt maiſtre & ſeigneur: mais auſsi le bien",
+    "d'autruy. & la vente eſt bonne & vallable {d}: en ce tou-",
+    "tesfois qui concerne le preiudice du venditeur, qui par",
+    "ce cõtract eſt obligé, bailler la choſe vendue, ou payer",
+    "l'intereſt: & en outre, ſi la piece eſt euincee par vn tiers,",
+    "à garantir, & indemniſer l'achepteur {e}. mais au domma-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "lines": [
+    "Valere au",
+    "li, ix. des faits",
+    "& dicts memo",
+    "rables c. xvi."
+   ],
+   "beside_line": "l'hiſtoire ne nomme point, ſoy diſant fils de Cn. Aſſidio"
+  },
+  {
+   "key": "b",
+   "lines": [
+    "Valere an",
+    "liurc ix. ſ. xvi"
+   ],
+   "beside_line": "ſon {b}. Au meſme temps, en la ville de Milan, vne fem-"
+  },
+  {
+   "key": "c",
+   "lines": [
+    "Valere au",
+    "lieu prealle-",
+    "gué."
+   ],
+   "beside_line": "fraude. {c}"
+  },
+  {
+   "key": "d",
+   "lines": [
+    "l. rem alie-",
+    "nam. D. d. cõ",
+    "trah. empt."
+   ],
+   "beside_line": "d'autruy. & la vente eſt bonne & vallable {d}: en ce tou-"
+  },
+  {
+   "key": "e",
+   "lines": [
+    "l ex empt.",
+    "au commence",
+    "ment D. de",
+    "actio. empe."
+   ],
+   "beside_line": "ce cõtract eſt obligé, bailler la choſe vendue, ou payer"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "Valere au",
+   "note": "note keyed a has no {a} marker on this page; its key letter stands in the margin column at the same left edge as b/c/d/e beside blocks[0].lines[0]. It answers the orphan marker {a2} at the end of p022 (blocks[4].lines[7] there), whose note is absent from p022. Kept with key a as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "peu ſ'en falut, qu'au temps de Cornelius Sylla, ne fiſt",
+   "note": "apostrophe read between ſ and e: at 3x a distinct raised tick stands at apostrophe height to the right of the ſ, separate from the ſ nub (compare the plain ſ of 'hiſtoire' on the line above and the apostrophe of 'qu'au' on this line)",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "le bien au fils legitime, & mourir l'affronteur en pri-",
+   "note": "sic: the article 'le' is set twice, at the end of lines[6] ('fit rendre le') and again at the start of this line; transcribed as printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "& generenx Empereur, empeſcha l'execution de la",
+   "note": "sic 'generenx' for 'genereux': both readers found a clear n (turned u) at 4x; transcribed as printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "tions de ſon bien, & non ſeulement les piecẽs vendues",
+   "note": "'piecẽs' sic: a clear wavy tilde over the second e of 'pieces', confirmed at 4x (body-6.jpg x~1230 y~360); not an acute. Transcribed as printed per §2.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "deciſion duquel doute, faut preſuppoſer, qu'vn chacum",
+   "note": "sic 'chacum' for 'chacun': final letter is a three-stemmed m (both readers, body-7.jpg x~1430); transcribed as printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "duquel il eſt maiſtre & ſeigneur: mais auſsi le bien",
+   "note": "'auſsi' set with long s + round s rather than the ſſ ligature; kept as printed",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Valere an",
+   "note": "sic 'an' for 'au': confirmed at 3x, the last letter is an n (arched top, two stems), unlike 'au' in notes a and c; transcribed as printed",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "liurc ix. ſ. xvi",
+   "note": "two doubtful sorts (margin-1.jpg y~1075-1135). (1) 'liurc': confirmed at 3x, the last letter is an open c, not the closed italic e of 'Valere' above; wrong sort for 'liure'. (2) the single letter between 'ix.' and 'xvi' is a tall hooked glyph with a tail below the baseline, read as italic long ſ (possibly ç); it is not the round c of note a's 'c. xvi.'. Sense wants 'c.' (chapitre). No period after the final xvi.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "gué.",
+   "note": "a short raised stroke over the final e, read as an acute (margin-2.jpg y~700-760, checked at 6x); the ink is light",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "actio. empe.",
+   "note": "the last letter before the point is a round low sort with no stem, so certainly not the t of 'empt.' (margin-3.jpg y~985-1020, checked at 6x); it is read as e but could be an open c. Sense wants 'empt.' (de actione empti); transcribed as printed.",
+   "escalate": true
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[0].lines[1]",
+   "A": "peu ſen falut, qu'au temps de Cornelius Sylla, ne fiſt",
+   "B": "peu ſ'en falut, qu'au temps de Cornelius Sylla, ne fiſt",
+   "chose": "B",
+   "text": "peu ſ'en falut, qu'au temps de Cornelius Sylla, ne fiſt",
+   "reason": "at 3x a distinct raised tick stands between ſ and e at apostrophe height, separate from the ſ nub; the ſ of 'hiſtoire' on the line above has no such mark, so an apostrophe is printed"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "A": "liure ix. ſ. xvi",
+   "B": "liurc ix. ſ. xvi",
+   "chose": "B",
+   "text": "liurc ix. ſ. xvi",
+   "reason": "at 3x the final letter of the word is an open c with no eye, unlike the closed e of 'Valere' directly above; wrong sort transcribed as printed"
+  },
+  {
+   "where": "margin_notes[3].beside_line",
+   "A": "d'autruy. & la vente eſt bonne & vallable {d}: en ce tou-",
+   "B": "d'autruy. & la vente eſt bonne & vallable {d}: en ce tou-",
+   "chose": "A",
+   "text": "d'autruy. & la vente eſt bonne & vallable {d}: en ce tou-",
+   "reason": "the note answers the {d} marker; beside_line set to the marker's line"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "A": "actio. empe.",
+   "B": "actio. empe.",
+   "chose": "A",
+   "text": "actio. empe.",
+   "reason": "coordinator query empe./empt.: checked at 6x, the final sort is round with no stem, not a t; kept as both readers read, escalated as e/c"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "id": "p055",
+ "reader": "final",
+ "model": "coordinator-fable",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "55",
+ "signature": "D iiij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ua en tel equipage, à ſçauoir ayant vne iambe de bois,",
+    "& portant atteſtatoire, d'auoir perdu le pied d'vn coup",
+    "de boulet deuant S. Quentin: les Iuges commencerent",
+    "d'eſt eſpoinçonnez d'vn fort eſguillon, pour entrer en",
+    "quelque ſoupçon de l'impoſture."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La ſecõde raiſon, eſtoit vne ſommaire",
+    "appriſe, faite par le Iuge de Rieux, ſur la",
+    "ſemblance du priſonnier auec Sãxi Guer",
+    "re, fils de Martin, par laquelle eſt rappor",
+    "té, cõme a eſté dit, n'y auoir aucune ſimili",
+    "tude: ce que pluſieurs des teſmoins, ouys",
+    "eſdictes enqueſtes, confirment auſsi."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ceſte preuue auſſi n'eſtoit pas fort concluante: car",
+    "ſouuentesfois aduiẽt que les vrais & legitimes enfans",
+    "rapportent mieux vn eſtranger, que leur naturel pere,",
+    "comme nous auons ci deuant remonſtré. Dont me",
+    "contenteray pour le preſent, renuoyer le lecteur à ce",
+    "qu'en a eſcrit Plutarque."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La troiſieme, Martin Guerre eſtoit du",
+    "pays des Baſcouz, chacun ſcait bien, qu'",
+    "on parle vn langage fort different du Frã",
+    "çois, & Gaſcon, peu enten dible, ſi ce n'eſt",
+    "à ceux qui ſont du pays: & neantmoins",
+    "ledit du Tilh priſonnier n'en ſcait parler",
+    "que quelques mots deſrobez."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Bien que la langue des Baſcouz ſoit fort obſcure &"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "contenteray pour le preſent, renuoyer le lecteur à ce",
+   "lines": [
+    "Plutarque",
+    "au liure v. de",
+    "placit. Philoſ."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "Plutarque au liure v. de placit. Philoſ.",
+   "note": "no marker {a} is printed anywhere in the body column; checked the whole of 'qu'en a eſcrit Plutarque.' and the two lines above it at high zoom. The note keyed 'a' therefore has no corresponding marker on this page.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "d'eſt eſpoinçonnez d'vn fort eſguillon, pour entrer en",
+   "note": "sic: the print sets 'd'eſt' (d, apostrophe, e, ſt-ligature, then a full word space) where the sense requires 'd'eſtre'. Verified at 800%; there is no 're' and no hyphen."
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "çois, & Gaſcon, peu enten dible, ſi ce n'eſt",
+   "note": "two problems on this line. (1) a small comma-shaped mark sits just below the baseline between '&' and 'Gaſcon'; it may be a broken/low-set comma or an ink speck, and I have not transcribed it. (2) 'entendible' is set as two words with a full word space, 'enten dible'; transcribed as printed."
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "ledit du Tilh priſonnier n'en ſcait parler",
+   "note": "the apostrophe in 'n'en' is printed as a small caret/circumflex-shaped raised mark sitting over the n, not the usual comma-shaped apostrophe used elsewhere on the page; read as an apostrophe."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "boulet",
+   "note": "final letter worn at the top; reader A read it as r (bouler); the curled foot favours t",
+   "escalate": false
+  }
+ ],
+ "decisions": [
+  {
+   "where": "page",
+   "A": "",
+   "B": "",
+   "chose": "B",
+   "text": "",
+   "reason": "reads agree on every line but body line 3 ('bouler'/'boulet'); coordinator checked at 4x: foot of the final letter curls right like the t sort, no bilateral r serif; read as boulet, A's r reading recorded as uncertain"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "A": "de bouler deuant S. Quentin: les Iuges commencerent",
+   "B": "de boulet deuant S. Quentin: les Iuges commencerent",
+   "chose": "B",
+   "text": "de boulet deuant S. Quentin: les Iuges commencerent",
+   "reason": "coordinator checked the 4x crop; final letter has the t foot, but its top is worn and resembles r"
+  }
+ ]
+}

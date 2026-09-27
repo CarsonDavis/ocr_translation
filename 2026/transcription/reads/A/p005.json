@@ -1,0 +1,210 @@
+{
+ "id": "p005",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "5",
+ "signature": "A iij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "léSanxi, encore viuant: mais pour quel-",
+    "que leger larçin de Blé, qu'iceluy Martin",
+    "auoit fait à ſon pere, ſe ſeroit abſenté du",
+    "pays, & demeuré huit ans dehors, ſans",
+    "que la ſuppliãt, pendant ce temps, en ayt",
+    "entendu nouuelles aucunes."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION II.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ceſte diuturnité, & longue abſence du mari, le rendoit",
+    "de prime face grandement coulpable, & preſque hors de",
+    "toute excuſe, comme ayant dõné l'occaſion au malheur",
+    "& deſaſtre, qui depuis s'en eſt enſuyui: teſmoin ſainct Au-",
+    "guſtin, quand il dit, SI TV t'abſtiens longuement ſans la",
+    "volõté de ta femme, tu luy dõnes licence de paillarder:",
+    "& ſi elle mal-verſe, ſon peché ſera reputé à tõ abſtinẽce {a}.",
+    "Dont quelques vns ont biẽ oſé dire, qu vn Iuge pourroit",
+    "iuſtemẽt abſouldre la femme, accuſée par le mari d'adul-",
+    "tere, ſi elle n'eſt cõuaincue d'auoir prodigué ſon hõneur,",
+    "& s'eſtre abandõnée: qu'apres auoir eſté lõguement de-",
+    "laiſſée de ſon mari {b} d'autãt que le mari, qui ha baillé les",
+    "occaſiõs, & par ainſi s'eſt rẽdu luymeſmes coulpable du",
+    "forfait {c}, ne le peut exprobrer, ni reprocher à ſa femme {d}.",
+    "Cõme en pareil cas auſsi, le mari, qui par les vieilles loix",
+    "pouuoit repudier ſa conſorte, ſi ſans ſon cõgé, elle auoit",
+    "couché hors la maiſõ {e}. Toutesfois ſi luy meſmes l'auoit",
+    "chaſſée, & à ceſte occaſion elle a demeuré toute la nuict",
+    "dehors, ne la peut repudier, par ce (dit Iuſtinien) que luy",
+    "meſmes eſt autheur de ceſte faute {f}. Mais ſi ceſte opiniõ",
+    "eſtoit veritable, les femmes aſſez d'elles meſmes licẽtieu",
+    "ſes, pourroyent empoigner vn grãd pretexte de ſe proſti",
+    "tuer auec impunité, ſe couurans du manteau de l'abſence",
+    "du mari: à qui tant s'en faut que nous deuions preſter la",
+    "main: qu'au cõtraire, chacun doit reietter ceſte ſentence,",
+    "comme impie, indigne d'vn Chreſtien, & ſi barbare,",
+    "que meſmes les Ethniques & Payens, n'ont pas trouué",
+    "bon, que la femme (de laquelle le mari à demeuré",
+    "longuemẽt abſent) ſe remariaſt, iuſqu'apres auoir entẽdu"
+   ],
+   "spaced_caps": true
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "lines": [
+    "S. Auguſt",
+    "au liure De",
+    "adulterinis cõ",
+    "iugiis, les paro",
+    "les duquelſont",
+    "tranſcrites au",
+    "c. ſi tu abſti",
+    "nes xxviij. q.",
+    "ij."
+   ],
+   "beside_line": "Dont quelques vns ont biẽ oſé dire, qu vn Iuge pourroit"
+  },
+  {
+   "key": "b",
+   "lines": [
+    "Pierre deRa",
+    "venne en ſon",
+    "Alphabet."
+   ],
+   "beside_line": "Cõme en pareil cas auſsi, le mari, qui par les vieilles loix"
+  },
+  {
+   "key": "c",
+   "lines": [
+    "eſt tabuſtines",
+    "xxvij. c. ij."
+   ],
+   "beside_line": "chaſſée, & à ceſte occaſion elle a demeuré toute la nuict"
+  },
+  {
+   "key": "d",
+   "lines": [
+    "Paragra. Si",
+    "ergo contige-",
+    "rit vt lis. ma.",
+    "& auie. aux",
+    "nouuellesde Iu",
+    "ſtiniẽ, ſous Ia",
+    "collation vſ."
+   ],
+   "beside_line": "dehors, ne la peut repudier, par ce (dit Iuſtinien) que luy"
+  },
+  {
+   "key": "e",
+   "lines": [
+    "L. Conſenu-",
+    "para. vir quo.",
+    "que. C. de rep"
+   ],
+   "beside_line": "main: qu'au cõtraire, chacun doit reietter ceſte ſentence,"
+  },
+  {
+   "key": "f",
+   "lines": [
+    "Aud. Para",
+    "ſi ergo."
+   ],
+   "beside_line": "bon, que la femme (de laquelle le mari à demeuré"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "léSanxi, encore viuant: mais pour quel-",
+   "note": "these six lines are set in the larger roman of the quoted TEXTE and continue p004's 'vn fils appe-'; 'lé' and 'Sanxi' are set with no space between them at 4x, so 'léSanxi' is transcribed closed up"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "guſtin, quand il dit, SI TV t'abſtiens longuement ſans la",
+   "note": "'S I  T V' is set in spaced capitals; closed up to 'SI TV' per §3 and spaced_caps set on the block. The letter before the apostrophe is a roman 't' (short crossbar), not 'r'"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "& ſi elle mal-verſe, ſon peché ſera reputé à tõ abſtinẽce {a}.",
+   "note": "the break sign in 'mal-verſe' is printed as a raised mid dot at x-height, not the usual hyphen; transcribed as '-' per §2 since a period would force different punctuation spacing"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "Dont quelques vns ont biẽ oſé dire, qu vn Iuge pourroit",
+   "note": "'qu vn' is printed with a space and no apostrophe (sic); at 4x there is no mark between the u and the space"
+  },
+  {
+   "where": "margin_notes[0].lines[7]",
+   "text": "nes xxviij. q.",
+   "note": "the numeral is set as x-x-v-i plus a single 'y-with-diaeresis' sort used for 'ij'; transcribed 'xxviij' per §2 (Roman numerals as printed, lowercase iij/vij). The dotted i before the ÿ-sort is clear at 8x"
+  },
+  {
+   "where": "margin_notes[0].lines[8]",
+   "text": "ij.",
+   "note": "same 'y-with-diaeresis' sort standing alone for 'ij'; this one short line is the tail of note a and sits beside 'Cõme en pareil cas auſsi'"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "Alphabet.",
+   "note": "a free-standing dot is printed about eight letter-widths to the right of 'Alphabet.'; taken as stray type and not transcribed"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "eſt tabuſtines",
+   "note": "hard reading, escalate. After the key letter c there is a raised squarish blob (broken sort or blot, not a round period like the one after 'S' in note a), then three letters read as 'eſt' (the third has a crossbar and no dot, so t not i), then 'tabuſtines' (t-a-b-u-ſ-t-i-n-e-s, verified at 11x). The citation is plainly meant to repeat note a's 'c. ſi tu abſtines', so the line is probably a garbled setting of that; transcribed as printed",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "xxvij. c. ij.",
+   "note": "both numerals use the 'ij' sort (y with diaeresis). This reads xxvij where note a's parallel citation reads xxviij, and 'c.' where note a has 'q.'; transcribed as printed, sic"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "& auie. aux",
+   "note": "the word after '&' reads a-u-i-e; could be 'auiæ' (aviae) with an æ the ink has closed up"
+  },
+  {
+   "where": "margin_notes[3].lines[4]",
+   "text": "nouuellesde Iu",
+   "note": "'nouuelles' and 'de' are set with no space. The two letters at the line end are small and ink-blurred beyond the resolution of the scan; read as 'Iu' because the next line begins 'ſtiniẽ' (Iuſtiniẽ)"
+  },
+  {
+   "where": "margin_notes[3].lines[5]",
+   "text": "ſtiniẽ, ſous Ia",
+   "note": "the letter before the final 'a' is a plain upright serifed stroke, i.e. a capital I, where the italic 'l' elsewhere in this note has a curved ascender; almost certainly 'la' in intent (cf. p004 margin_notes[3].lines[3]). The 'a' is squeezed below the line at the right edge and may or may not be separated by a space"
+  },
+  {
+   "where": "margin_notes[3].lines[6]",
+   "text": "collation vſ.",
+   "note": "the numeral after 'collation' reads 'vſ.' (a long s, not a j: no dot, and the top hooks left). A small raised dash is printed after the period at the right edge, although the note ends here and nothing continues; taken as stray type, like the loose dot after 'Alphabet.' in note b, and not transcribed"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "L. Conſenu-",
+   "note": "the letters after 'Conſe' are 'n' plus a merged final glyph read as 'u'; only one long s is visible. The citation is C. de repudiis, l. Conſenſu, § Vir quoque, so 'Conſenſu' is likely intended; transcribed as printed. The line-end hyphen is printed although the next line begins a new word ('para.')"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "ſi ergo.",
+   "note": "a dark ink blot follows the final period of 'ergo.'; taken as a blot and not transcribed"
+  }
+ ]
+}

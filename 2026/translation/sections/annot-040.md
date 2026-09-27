@@ -1,0 +1,12 @@
+---
+id: annot-040
+pages: [p061, p062]
+---
+⟦p061⟧This puts me in mind of Quintus Fabius Maximus, who, inasmuch as he was full of little swellings of flesh raised upon the skin of the body (called by the French, in imitation of the Latin, *verrues*, warts), up to about the breast, was called by the Romans VERRUCOSUS, ⟦p062⟧that is to say rough and full of warts. Which Quintus Serenus the poet sufficiently witnesses, when he says,
+
+Sometimes a wart springs up, an ugly nipple of flesh: whence once to Fabius a true surname clung, who alone, by delaying, restored the state to his country.
+
+## Notes
+The print heads this annotation ANNOTAT. XL. on p061, correctly. It carries no marginal citations: the margin of p062 is wholly blank, and the notes *f* and *g* on p061 belong to Annotation XXXIX. The page break falls between *VERRVCOSVS* and *c'eſt à dire* and is kept there. The print has *Q Fabius* without a point after the *Q*, and sets VERRVCOSVS in letterspaced capitals; *le quel* for *lequel*; *par tant que* → "inasmuch as". *Petites tumeurs de chair eſleuées ſur la peau* → "little swellings of flesh raised upon the skin"; the parenthesis *(appelée des François, à l'imitatiõ du Latin, Verrues)* keeps Coras's French word with its English beside it, since his point is that *verrue* is the Latin *verruca*; *iuſqu'aux enuirõs de la mãmelle* → "up to about the breast"; *raboteux* → "rough" (of a surface, knobbly). The three Latin hexameters are translated in the text and given in Latin below; the print sets them as three indented italic lines, with the turn-over *hæſit,* on a line of its own, and the reflow runs them together. *Verum cognomen* is translated "a true surname" as printed; some editions of Serenus read differently, and the reading is not verified.
+
+- Verse (p062): **Quintus Serenus Sammonicus, *Liber medicinalis*, the chapter on warts (*De verrucis*; chapter and line numbers unverified)** — Interdum exiſtit turpi verruca papilla: Hinc quondam Fabio, Verum cognomen ad hæſit, Qui ſolus patriæ, cunctando reſtituit rem. [The third line adapts Ennius's famous verse on Fabius Cunctator, *unus homo nobis cunctando restituit rem* (*Annales*, quoted by Cicero, *De senectute* 4.10 and *De officiis* 1.24.84). Quintus Fabius Maximus Verrucosus, the Cunctator (d. 203 BC), was so named from a wart on his lip (Plutarch, *Fabius* 1); Coras's spread of warts "up to the breast" goes beyond the sources.]

@@ -1,0 +1,133 @@
+{
+ "id": "p048",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "58",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſur certains faicts, & ouys autres teſ-",
+    "moins que ceux des enqueſtes faites par",
+    "le premier iuge. Mais quoy? ces enqueſtes",
+    "par authorité de la cour faites, les iuges",
+    "furent plus incertains que iamais: car de",
+    "vingt cinq ou trente teſmoins ouys d'of-",
+    "fice, les neuf ou dix aſſeuroyent que c'eſt",
+    "oit Martin Guerre: & ſept ou huit, que ce",
+    "eſtoit Arnauld de Tilb: & le reſte, pour le",
+    "conflict des circonſtances, & de la ſimili-",
+    "tude du priſonnier en doutoyent, n'o-",
+    "ſans aſſeurer que ce fuſt l'vn pluſtoſt que",
+    "l'autre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Contemplent vn peu les iuges ici, & ſingulierement",
+    "les ſouuerains, combien il eſt dangereux, & plein de pe",
+    "rils, d'aſſeoir vn iugement, meſmes de l'honneur, & de",
+    "la vie, ſur le dire des teſmoins: leſquels, bien ſouuent",
+    "depoſent à credit: ou pour ſeruir à l'affectiõ de la partie",
+    "qui les produit, & miniſtre, plus qu'à la verité du nego-",
+    "ce: dont voyons ſouuentesfois aduenir, que ſur con-",
+    "traires faicts, diuerſes enqueſtes faites, reſultent preu-",
+    "ues repugnantes, ſeruant chacune à l'intention de ſon",
+    "maiſtre. Sur quoy faut bien que le iuge ſoit prudent, &",
+    "aduiſé: auquel la loy, par la bouche de Calliſtrat, remet",
+    "le tout diſant, TV DOIS, & peux mieux ſçauoir",
+    "quelle foy on doit adiouſter aux teſmoins, de q̃lle qua",
+    "lité, en quelle opinion ils ſont: & ſ'ils ont depoſé ſim-",
+    "plemẽt, ou choſes pourpẽſees, & tous d'vn meſme lan-",
+    "gage, & ſi ſur l'inſtant qu'ont eſté interroguez ils ont",
+    "chãcelé, ou reſpondu choſes vray-ſemblables {a}. Mais de",
+    "ces preuues par teſmoins, nous en dirons quelque mct",
+    "d'auantage ci bas, auec l'aide de Dieu {b}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "chãcelé, ou reſpondu choſes vray-ſemblables {a}. Mais de",
+   "lines": [
+    "l. iij. P. ij. D.",
+    "de teſt."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ces preuues par teſmoins, nous en dirons quelque mct",
+   "lines": [
+    "En l'anno-",
+    "tation lXXiij"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "eſtoit Arnauld de Tilb: & le reſte, pour le",
+   "note": "the print sets 'lereſte' with no gap; written as two words per §1 word-division normalization"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "tude du priſonnier en doutoyent, n'o-",
+   "note": "two points: (1) the print sets 'dou toyent' with a justification gap, written as one word per §1; (2) the line-end sign after n'o is a small round blob, not the usual dash, but it sits at exactly the same height as the hyphen of 'ſimili-' two lines above, so it is transcribed as a hyphen; a reader could take it for a period",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "le tout diſant, TV DOIS, & peux mieux ſçauoir",
+   "note": "TV DOIS is set in letterspaced small capitals (the T full size); closed up per §3, block flagged spaced_caps"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "quelle foy on doit adiouſter aux teſmoins, de q̃lle qua",
+   "note": "'q̃lle' is q + combining tilde (= quelle); the tilde is a flat stroke, not an acute"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "ces preuues par teſmoins, nous en dirons quelque mct",
+   "note": "sic: the last word is printed 'mct' — the middle sort is open on the right with c-terminals, matching the c of 'ces'/'preuues' on the same line, not the closed o of 'nous'/'dirons'. Almost certainly a wrong sort for 'mot'; transcribed as printed",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "d'auantage ci bas, auec l'aide de Dieu {b}.",
+   "note": "two points: (1) the print sets 'd'a uantage' with a gap, written as one word per §1; (2) after the marker b there is a round dot on the baseline (read as a period) with a small ink speck just above it; could conceivably be a colon whose upper dot is under-inked"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij. P. ij. D.",
+   "note": "printed tight as 'l.iij.P.ij.D.'; spaced per §1. The numeral between P. and D. is small and blurred — two dots over a narrow body, read as 'ij'; it could be a single 'j' or 'ï'",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "En l'anno-",
+   "note": "the word-break sign after 'anno' is a thin slanted stroke rising from the top of the o rather than a level dash; read as the line-end hyphen of 'anno-tation' per §1, but it could be read as a tilde"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "tation lXXiij",
+   "note": "the numeral is printed with a lowercase l, two capital X and lowercase iij ('lXXiij' = 73); transcribed as printed"
+  }
+ ]
+}

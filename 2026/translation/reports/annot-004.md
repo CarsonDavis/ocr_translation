@@ -1,0 +1,10 @@
+# Report: annot-004
+
+- Output: `translation/sections/annot-004.md` — `check_markers.py annot-004`: 1 sections ok, 0 failed.
+- Word counts: French 736, English 780. 14 marginal notes; body markers a, b, c, d, f … o as printed.
+- Broken alphabet (not flagged by the coordinator but of the same kind as p007): note *e* (Ovid, *Ex Ponto* II.3.19–22) has no marker in the body — the print runs {d} … {f}. Handled as in annot-002: body markers kept as printed, orphan note listed at its place with a one-line remark, headnote in the Notes.
+- Latin: the four-line Ovid is translated in the text (with ⟦p010⟧ before the last line, as in the French) and the Latin is given in the note {e}; the Plautus distich is translated with the Latin in parentheses; the Publilius Syrus line is left in Latin on its own line, since Coras himself translates it in the next sentence.
+- Glossary additions: *ami, qui est un autre soy-mesmes*, *familier ennemi*, *muy de sel* → "hogshead of salt", *Publius Mimus* → "Publilius the Mime-writer", *le Sage* → "the Sage".
+- `[unclear]` passages: none marked. Printer's slips read through: *l'eprit* = *l'esprit*; *plein de de toute prodition*; *pourrit* = *pourroit*; *departẽr* = *departent*; *on pour prosperitez* = *ou*.
+- Citations confidently identified: {a} *De amicitia* 22; {c} Seneca *De tranq.* 7.3 (Coras translates it nearly verbatim); {d} Plutarch *Alexander* 15 (tomb, not statue — noted); {e} Ovid *Ex Ponto* II.3.19–22; {g} D. 29.5.1 pr.; {i} *EN* VIII.3; {k} Prov. 25:9–10; {l} Diog. Laert. I.87; {m} *De amicitia* 59–60, with the Publilius line; {o} *De amicitia* 33–35.
+- Not located: {b} the distich *Decipitur nemo …* is not in *Poenulus* as far as I can find (possibly misattributed); {h} the Verrine passage; {f} D. 93 c. 1 (chapter as printed, bearing unverified); {g} second half, C. *De donationibus* l. *Data*; {n} l. *Cum debere* — Coras writes "C." but names the Digest title *De servitutibus praediorum urbanorum* (D. 8.2); fragment not found in either.

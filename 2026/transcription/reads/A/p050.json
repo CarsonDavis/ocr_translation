@@ -1,0 +1,217 @@
+{
+ "id": "p050",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "50",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "le moins, & ce qu'on pourroit deſirer en leur foy & ca",
+    "pacité, eſt ſupplié par le nombre qui eſt de ſurplus {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Rendans raiſons bonnes & pertinen",
+    "tes, comme d'auoir hanté & frequenté",
+    "ledit du Tilh, & Martin Guerre, beu, &",
+    "mangé ſouuẽt, depuis leur enfance auec",
+    "l'vn, ou auec l'autre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Vn teſmoin n'eſt pas croyable, ni digne de foy qui",
+    "ne rend raiſon de ſon dire. {a} de laquelle le Iuge ou le",
+    "commiſſaire le doit inrerroguer {b}: autrement ſi le com",
+    "miſſaire a eſté ſi groſsier, de ne la demãder, le teſmoin",
+    "n'eſt pas tenu de la rendre {c2}. par ce, qu'il ne ſe doit",
+    "pas monſtrer affectionné à reſpondre ſur ce, dequoy",
+    "il n'eſt pas requis. ou recerché {d}. Toutesfois auſſi le teſ",
+    "moin ne fait pas mal, ſ'il rend raiſon volontairement,",
+    "& de ſoy meſme, ſans en eſtre interrogué. Voire en",
+    "matieres criminelles, deſquelles nous traittons ici) le",
+    "teſmoin eſt tenu donner raiſon, encor qu'il n'en ſoit",
+    "requis: autrement ſon dire ne fait point de foy {f}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE,",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Sur ce, eſt à noter qu'il y auoit trois",
+    "ou quatre qualitez de teſmoins qui ve-",
+    "noyent en conſideration. La premiere,",
+    "vn oncle maternel dudit du Tilh, appe-",
+    "lè Carbon Barrau: & par ainſi hors tout",
+    "ſoupçon: d'autant qu'il n'eſt aucune-",
+    "ment vray-ſemblable que le ſang en ceſt",
+    "endroit vouluſt ſi auant mentir, que ſans",
+    "occaſion aucune procuraſt la mort igno",
+    "mignieuſe de ſon propre nepueu."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "c",
+   "beside_line": "le moins, & ce qu'on pourroit deſirer en leur foy & ca",
+   "lines": [
+    "Iean Imola",
+    "en la loy qui",
+    "teſtament. D.",
+    "de teſta. Ale-",
+    "xandre en ſon",
+    "conſeil xciij. du",
+    "premier vol."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "Vn teſmoin n'eſt pas croyable, ni digne de foy qui",
+   "lines": [
+    "l. ſolam. C.",
+    "de teſtib."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ne rend raiſon de ſon dire. {a} de laquelle le Iuge ou le",
+   "lines": [
+    "c. cum cau-",
+    "ſam. de teſti."
+   ]
+  },
+  {
+   "key": "c2",
+   "beside_line": "miſſaire a eſté ſi groſsier, de ne la demãder, le teſmoin",
+   "lines": [
+    "c. ſicut. de",
+    "re iud. aud. c.",
+    "cum cauſam.",
+    "Accur. en lad.",
+    "l ſolam."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "matieres criminelles, deſquelles nous traittons ici) le",
+   "lines": [
+    "l. final. C. de",
+    "prec. imp. off."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "& de ſoy meſme, ſans en eſtre interrogué. Voire en",
+   "lines": [
+    "Balde en la",
+    "l. præsbiteri.",
+    "ſur la fin. C.",
+    "de epiſ. & cle."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "requis: autrement ſon dire ne fait point de foy {f}.",
+   "lines": [
+    "Saliet en",
+    "la l. finale. C.",
+    "de proba.",
+    "Alexandre",
+    "au conſeil xv,",
+    "du i. volu."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[3]",
+   "text": "c. ſicut. de",
+   "note": "keying decision, not a doubtful reading: the ANNOTAT. XXVIII margin restarts the alphabet at a, so the page carries TWO notes lettered c — the carry-over one at the head of the page (key 'c', body marker on blocks[0].lines[1]) and this one. Per §4 the second occurrence on the page is keyed c2, in the note and in the body marker on blocks[4].lines[4]. Reader B may well have written {c} for both; reconciler should confirm the rule.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[5]",
+   "text": "Balde en la",
+   "note": "this note has NO marker e anywhere in the body. Every body line of blocks[4] was zoomed at 4x+ and the marker letter is simply not printed. The note is set beside blocks[4].lines[8] ('& de ſoy meſme … interrogué. Voire en'), and that line has an abnormally wide gap between 'interrogué' and its period — almost certainly where the marker e failed to print or fell out. Recorded here so the missing marker e is not read as a transcription omission.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "& de ſoy meſme, ſans en eſtre interrogué. Voire en",
+   "note": "the print sets a wide gap before the period ('interrogué .'); normalized per §1. See the entry on margin_notes[5]: the gap is probably the slot of the unprinted marker e."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "mangé ſouuẽt, depuis leur enfance auec",
+   "note": "'ſouuẽt': the mark over the e is a flat, slightly wavy bar (tilde for the omitted n, = ſouuent), NOT the steep acute of 'mangé' on the same line — the two are side by side and clearly different sorts. A careless reading gives 'ſouuét'."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "n'eſt pas tenu de la rendre {c2}. par ce, qu'il ne ſe doit",
+   "note": "after 'ce' the print shows TWO marks stacked: a comma on the baseline and, directly above it at ascender height, a small raised comma/apostrophe-shaped stroke. Transcribed as a single comma; the raised mark looks like a stray or doubled sort and cannot be read as a punctuation sign of the period. Zoomed at 5x.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "matieres criminelles, deſquelles nous traittons ici) le",
+   "note": "sic: an unmatched closing parenthesis after 'ici' — no opening parenthesis anywhere on this page. Clearly a paren (tall curved sort), not a comma. Printed with a space before it; closed up per §1. Also 'deſquellesnous' is set solid in the print and divided per §1."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "commiſſaire le doit inrerroguer {b}: autrement ſi le com",
+   "note": "sic: 'inrerroguer' for 'interroguer' — the third letter is unmistakably r, not t (no crossbar, no t hook), checked at 6x. Not corrected."
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "lè Carbon Barrau: & par ainſi hors tout",
+   "note": "sic: 'appe-/lè' carries a GRAVE accent (stroke descending left-to-right), not the expected acute of 'appelé'. Checked at 6x. Not corrected."
+  },
+  {
+   "where": "margin_notes[6].lines[5]",
+   "text": "du i. volu.",
+   "note": "a small raised horizontal stroke is printed between 'i.' and 'volu.', above the baseline — it does not sit over any letter and is not a legible tilde. Treated as a stray sort and omitted from the line."
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "Accur. en lad.",
+   "note": "'lad.' (= ladite) is set solid as one word with no internal space; kept as printed per the §1 contraction exception rather than divided into 'la d.'."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Iean Imola",
+   "note": "note-placement, not reading: the margin of this page is set on a tighter leading than the body, so the notes drift upward against the lines they key. beside_line values are the nearest body line by position and should be treated as approximate for notes a–f."
+  }
+ ]
+}

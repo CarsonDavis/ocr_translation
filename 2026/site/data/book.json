@@ -1,0 +1,32 @@
+{
+ "slug": "martin-guerre",
+ "title": "Arrest memorable du Parlement de Tholose",
+ "short_title": "Martin Guerre",
+ "author": "Jean de Coras",
+ "year": 1572,
+ "description": "Jean de Coras's 1572 account of the Martin Guerre case: the arrest of the Parlement de Tholose on the man who came back to Artigat as another man's husband, printed with Coras's hundred and eleven annotations. A diplomatic, line-by-line transcription of the French and an English translation, both still in progress, from the Cambridge University Library scans.",
+ "source": {
+  "name": "Cambridge University Library",
+  "item_url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/1",
+  "license": "CC BY-NC 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+ },
+ "images": {
+  "base": "img/",
+  "ext": ".webp",
+  "width": 2805
+ },
+ "layers": [
+  {
+   "code": "en",
+   "label": "English"
+  },
+  {
+   "code": "fr",
+   "label": "French"
+  }
+ ],
+ "default_layer": "en",
+ "stylesheet": null,
+ "first_page": "p000-title"
+}

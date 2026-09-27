@@ -1,0 +1,9 @@
+# Report: annot-014
+
+- Output: `translation/sections/annot-014.md` — `check_markers.py annot-014`: 1 sections ok, 0 failed.
+- Word counts: French 275, English 296. 9 marginal notes (a–i, no j); body markers as printed, all present. The Virgil hexameter is translated on its own line in the text, with the Latin in note {f}, per the house ruling; the small-capital opening *IL N'EST* is kept as "THERE IS".
+- Glossary additions: *verisimilitude* → "verisimilitude"; *inique* → "iniquitous"; *avaricieux / avarice* → "avaricious man / avarice"; *assouvi ni rassasié* → "sated nor satisfied"; *faire butin de* → "to make booty of"; *emerveillable* → "marvellous" (cf. *esmerveillable*, annot-005); *espoinçonné par un aiguillon* → "spurred by a goad"; *manifester (quelqu'un)* → "to disclose"; *reformider* → "to dread"; *bruit (d'avaricieux)* → "repute".
+- Names: Thir → Tyre; Sichæus → Sichaeus; Dido; Polymnestor; Polidore → Polydorus; Eryphyle → Eriphyle; Adrastus; Amphiaraus; Trace → Thrace; M. Antonin → M. Antoninus (Marcus Aurelius; Coras's form kept with the abbreviation).
+- Choices to review: *& fallust-il eſpandre … le ſang de la moitié des hommes* → "though he must shed … the blood of half of mankind"; *ſa ſeut* read as *ſa ſœur*; *prince genereux* → "a prince generous" (the 16th-c. sense, "noble", is possible); *n'aller poinr* = *point*.
+- Citations confidently identified: {a} Sir. 10:9–10; {c} Aen. I.343–352; {d} Aen. III.49–57; {e} Cicero, Verr. II.4.39 and Aen. VI.445–446; {f} Aen. III.56–57; {h} 1 Tim. 6:10 (Coras writes c. ix); {i} Nov. 8 (coll. 2) and Sallust, Cat. 10.4.
+- Not verified: {b} the book of Cicero's *Rhetorica* (the print has "b.", probably "ij.", *De inventione* II) and the Decretum canon *c. panor.* in D. 37 — unidentified; {d} the chapter of Plutarch's *Parallela minora* and the line of Ovid's *Ibis*; {g} the chapter of Capitolinus's life of Marcus (or of Antoninus Pius).

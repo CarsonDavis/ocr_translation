@@ -1,0 +1,156 @@
+{
+ "id": "p001",
+ "reader": "final",
+ "model": "fable",
+ "running_head": null,
+ "folio": "1",
+ "signature": "A",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "ornament",
+   "text": "woodcut headpiece: grotesques, foliage and a central vase, full width above the title"
+  },
+  {
+   "type": "heading",
+   "text": "ARREST",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "DV PARLEMENT DE"
+  },
+  {
+   "type": "heading",
+   "text": "Tholoſe, contenant vne hiſtoire"
+  },
+  {
+   "type": "heading",
+   "text": "memorable, & prodigieuſe, auec"
+  },
+  {
+   "type": "heading",
+   "text": "cẽt & onze belles & doctes anno-"
+  },
+  {
+   "type": "heading",
+   "text": "tations, de monſieur maiſtre Iean"
+  },
+  {
+   "type": "heading",
+   "text": "de Coras, rapporteur du procés."
+  },
+  {
+   "type": "heading",
+   "text": "Texte de la Toile du procés,"
+  },
+  {
+   "type": "heading",
+   "text": "& de l'arreſt."
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "AV MOIS de Ianuier, mil",
+    "cinq cens cinquante neuf,",
+    "Bertrande de Rols, du lieu",
+    "d'Artigat, au dioceſe de",
+    "Rieux, ſe rend ſuppliant, &",
+    "plaintiue deuant le iuge de Rieux, diſant,",
+    "que vingt ans peuuent eſtre paſſez, ou en-",
+    "uiron, qu'elle eſtant ieune fille, de neuf à",
+    "dix ans, fut mariée auec Martin Guerre,",
+    "pour lors auſsi fort ieune, & preſque de",
+    "meſme aage que la ſuppliant."
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [
+  "woodcut headpiece above the title (grotesques, foliage, central vase)",
+  "fleuron (aldine leaf) printed before 'Texte de la Toile du procés'",
+  "decorated initial A, 5 lines, white-on-black foliate woodcut, opening 'AV MOIS'"
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[2]",
+   "text": "DV PARLEMENT DE",
+   "note": "a tiny round dot sits on the baseline right after DV (pages/strips/p001/body-3.jpg, line 1). It is about a quarter the size of this fount's full stops (compare the point after 'procés.' two lines below), so it is treated as an ink speck and omitted. The line is lightly tracked but far less than ARREST above; judged tracked capitals, so no spaced_caps flag."
+  },
+  {
+   "where": "blocks[5]",
+   "text": "cẽt & onze belles & doctes anno-",
+   "note": "the mark over the e of 'cẽt' is broad, wavy and nearly horizontal, thicker at the left end: a tilde (cẽt = cent; the book has 111 annotations). It is unlike the short steep acute of 'procés' on the next-but-one line. Reader A read 'cét'."
+  },
+  {
+   "where": "blocks[6]",
+   "text": "tations, de monſieur maiſtre Iean",
+   "note": "a faint thin caret-shaped mark sits above the o of 'tations'; much lighter than the type, and the n is set in full, so it is read as accidental (rising space or offset), not a tilde. Transcribed as plain o."
+  },
+  {
+   "where": "blocks[4]",
+   "text": "memorable, & prodigieuſe, auec",
+   "note": "both e's of 'memorable' print with a very weak crossbar and look like c on the sheet; read as e from sense and from the same weak e elsewhere on the page."
+  },
+  {
+   "where": "blocks[10].lines[0]",
+   "text": "AV MOIS de Ianuier, mil",
+   "note": "MOIS is set with light letterspacing after the decorated initial, far narrower than the title's spaced capitals; transcribed as ordinary capitals, no spaced_caps. The A is the woodcut initial."
+  },
+  {
+   "where": "folio",
+   "text": "1",
+   "note": "the folio glyph at top right is a squat serifed vertical stroke resembling a roman I; read as the arabic figure 1, the form this fount uses for 1 (p011 shows the same shape twice, p002 is foliated 2)."
+  },
+  {
+   "where": "signature",
+   "text": "A",
+   "note": "a lone 'A' stands below the last body line, right of centre; read as the gathering signature, not a catchword (p002 opens 'ANNOTATION I.' / 'Les')."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[1]",
+   "A": "A R R E S T",
+   "B": "A R R E S T",
+   "chose": "neither",
+   "text": "ARREST",
+   "reason": "Both readers wrote the spaced capitals letter-by-letter under the earlier wording of §3. The revised §3 transcribes spaced capitals closed up and records the letterspacing with spaced_caps: true, which this block carries."
+  },
+  {
+   "where": "blocks[2]",
+   "A": "D V.  P A R L E M E N T  D E",
+   "B": "DV PARLEMENT DE",
+   "chose": "B",
+   "text": "DV PARLEMENT DE",
+   "reason": "Letters are lightly tracked, far narrower than the wide letterspacing of ARREST above; ruled tracked capitals, so spaced_caps is left unset (a judgment call that changes only the flag, §3). The dot after DV is about a quarter the size of the fount's full stops: an ink speck, omitted and recorded in uncertain[]. B's text stands as the closed-up form the revised §3 requires."
+  },
+  {
+   "where": "blocks[5]",
+   "A": "cét & onze belles & doctes anno-",
+   "B": "cẽt & onze belles & doctes anno-",
+   "chose": "B",
+   "text": "cẽt & onze belles & doctes anno-",
+   "reason": "At magnification the mark over the e is a broad, wavy, near-horizontal stroke, not the short steep acute seen on 'procés'. It is a tilde: cẽt = cent (cent & onze annotations)."
+  },
+  {
+   "where": "blocks[3..7]",
+   "A": "five heading blocks, one per printed title line",
+   "B": "one paragraph block of five lines, continues_prev true",
+   "chose": "A",
+   "text": "five heading blocks",
+   "reason": "These are display lines of the title (large type, no indent, ending in a full stop before the italic sub-title). Convention §6: one heading block per printed display line, never a paragraph."
+  },
+  {
+   "where": "blocks[0]",
+   "A": "woodcut headpiece: grotesques, foliage and a central vase, full width above the title",
+   "B": "woodcut headpiece: a broad grotesque-and-foliage band with facing beasts and a central basket/urn, filling the head of the page above the title",
+   "chose": "A",
+   "text": "woodcut headpiece: grotesques, foliage and a central vase, full width above the title",
+   "reason": "Free-text description only; both are accurate, A's is the shorter."
+  }
+ ]
+}

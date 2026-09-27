@@ -1,0 +1,268 @@
+{
+ "id": "p035",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "35",
+ "signature": "C ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "coniuré. deſquelles (dit Horace {b}) ſ'en trouua qu'vne",
+    "Hypermeneſtra, qui pardonnaſt à ſon cõſort, & mari."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Vna de multis face nuptali",
+    "Digna, periurum fuit in parentem,",
+    "Splendide mendax, & in omne virgo",
+    "Nobilis æuum."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et ſe voyans fruſtrez de leur mau-",
+    "uaiſe intention en cet endroit, forgent",
+    "l'accuſation du crime prodigieux & horri",
+    "ble, duquel a eſté parlé. & lequel prouue",
+    "partant qu'il meriteroit auſsi vne cruel-",
+    "le, & monſtrueuſe peine, requeroit de",
+    "meſmes, que iuſtice luy fuſt faite, de pa-",
+    "reil ſupplice contre les calomniateurs."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "C'eſt droitement la peine des calomniateurs, (ceſt",
+    "à dire de ceux, qui fauſſement, & à malice pourpẽſee,",
+    "deferent vn autre de quelque crime) que de la ſouffrir",
+    "pareille à celle, que le preuenu deuroit endurer, ſil",
+    "eſtoit attainct, & conuaincu du crime à luy impoſé {a}.",
+    "Coulpe certes inhumaine, deteſtable, & grande, &",
+    "qui a eſté de tout temps aux bons Empereuts ſi o-",
+    "dieuſe, qu'ils n'ont voulu, qu'aucune couleur de",
+    "droit, abolition publique ou priuée, voire ni permiſ-",
+    "ſion ſpeciale du prince, la peuſt garantir {b2}. Et nos ca-",
+    "noniſtes ont iuſtement iugé les calomniateurs, eſtre",
+    "dignes de peines plus cruelles, & griefuës, que les",
+    "accuſez, ſils eſtoyent conuaincus des crimes {c2}: & la",
+    "raiſon me ſemble eſtre aſſez patente: car les autres",
+    "crimes, bien ſouuent ſe commettent ſans intention,",
+    "& deliberation precedente de mal faire, par quel-",
+    "que legiere & inconſiderée paſſion {d2}. Comme vn",
+    "meuztre, par celuy qui ſurmonté de colere, vn lar-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "beside_line": "coniuré. deſquelles (dit Horace {b}) ſ'en trouua qu'vne",
+   "lines": [
+    "Horace aũ",
+    "liure iij. des",
+    "Carmes, Ode.",
+    "xj."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "eſtoit attainct, & conuaincu du crime à luy impoſé {a}.",
+   "lines": [
+    "l. fin. C. de",
+    "accuſa. C. quiſ",
+    "quis. iij. q. viij",
+    "c. Paulum. ij.",
+    "q. iij."
+   ]
+  },
+  {
+   "key": "b2",
+   "beside_line": "ſion ſpeciale du prince, la peuſt garantir {b2}. Et nos ca-",
+   "lines": [
+    "l. fallaciter.",
+    "C. de calũnia."
+   ]
+  },
+  {
+   "key": "c2",
+   "beside_line": "dignes de peines plus cruelles, & griefuës, que les",
+   "lines": [
+    "c. fi. & illec",
+    "Innocens &",
+    "Panorme de",
+    "calumniator."
+   ]
+  },
+  {
+   "key": "d2",
+   "beside_line": "& deliberation precedente de mal faire, par quel-",
+   "lines": [
+    "l. j. D. de le-",
+    "gat."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes",
+   "note": "key numbering: note b at the head belongs to the run begun on p034 (a); the alphabet restarts at the ANNOT. XIX. head, so the restarted set is keyed a, b2, c2, d2 per §4 (the print shows plain a b c d), in body and margin."
+  },
+  {
+   "where": "blocks[5].lines[4]",
+   "text": "eſtoit attainct, & conuaincu du crime à luy impoſé {a}.",
+   "note": "the mark after the italic marker a is a small roundish blob sitting on/just below the baseline; read as a period, but a comma cannot be excluded at 9x"
+  },
+  {
+   "where": "blocks[5].lines[6]",
+   "text": "qui a eſté de tout temps aux bons Empereuts ſi o-",
+   "note": "'Empereuts' sic: the penultimate letter has an ascender and a full crossbar (a t), unlike the r of 'par' on the same page; the word must be Empereurs, so this is a wrong sort"
+  },
+  {
+   "where": "blocks[5].lines[11]",
+   "text": "dignes de peines plus cruelles, & griefuës, que les",
+   "note": "'griefuës': two clear dots over the second e (diaeresis) at 9x; could be read as specks by another reader"
+  },
+  {
+   "where": "blocks[5].lines[17]",
+   "text": "meuztre, par celuy qui ſurmonté de colere, vn lar-",
+   "note": "'meuztre' sic for meurtre: the fourth letter matches the z of 'accuſez' (flat top bar, diagonal, foot bar) and not the r of 'par'; wrong sort in the forme"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "Carmes, Ode.",
+   "note": "a small mark stands above the e of 'Ode'; read as the swash tip of the italic d (the same shape appears over 'de' in note a), not an accent"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "liure iij. des",
+   "note": "numeral read as iij (three stems, three dots); Horace Carm. III.11 is the Hypermnestra ode, which fits"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. fallaciter.",
+   "note": "the letter between 'fallaci' and 'er' is the odd italic t (curled top, §2) and reads very like an r; the word must be fallaciter. Ink here is the faintest on the page"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "c. fi. & illec",
+   "note": "the second word's first letter has a crossbar on both sides of the stem (italic f, as in 'fallaciter'), not the left-nub long ſ of 'accuſa'; read 'fi.' (capitulo finali), not 'ſi.'"
+  },
+  {
+   "where": "signature",
+   "text": "C ij",
+   "note": "signature reads C ij (open C, no bars); on folio 35 an E or F would be expected by gathering count, but the letter printed is a C"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Horace aũ",
+   "note": "a raised wave-shaped stroke stands over the u of 'au' and is read as a printed tilde (ũ), a wrong sort since sense wants plain 'au'; it could be an ink accident on a heavily inked sort. Kept as printed."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. fin. C. de",
+   "note": "specks over the n of 'fin' and over 'de' read as ink spatter, not tildes; the print sets '.C.' with the point before the C, normalized per §1."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "quis. iij. q. viij",
+   "note": "numerals small and lightly inked; read iij (three stems, as wide as the 'iij' of 'q. iij.' below) and viij."
+  },
+  {
+   "where": "blocks[5].lines[14]",
+   "text": "crimes, bien ſouuent ſe commettent ſans intention,",
+   "note": "a faint speck sits over the first e of 'intention'; read as plain e (unlike the solid tilde of 'cõſort'), but a tilde (intẽtion) cannot be excluded."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "coniuré. deſquelles (dit Horace {b}) ſ'en trouua qu'vne",
+   "note": "the marker b is set tight against 'Horace' and inside the closing parenthesis ('Horaceb)'); spacing normalized per §4."
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "l'accuſation du crime prodigieux & horri",
+   "note": "line ends without a hyphen ('horri' / 'ble'); as printed."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "c. fi. & illec",
+   "note": "'illec' as printed (a closed-bowl e), where the canonical form would be 'illic'."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[5].lines[17]",
+   "A": "meuztre, par celuy qui ſurmonté de colere, vn lar-",
+   "B": "meurtre, par celuy qui ſurmonté de colere, vn lar-",
+   "chose": "A",
+   "text": "meuztre, par celuy qui ſurmonté de colere, vn lar-",
+   "reason": "At 5x the fourth sort is a z: flat top bar, diagonal, flat foot bar, no bowl or shoulder; the r of 'tre' and 'par' on the same line is a plain stem with a hooked arm. Wrong sort, transcribed as printed (sic)."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "A": "Horace aũ",
+   "B": "Horace au",
+   "chose": "A",
+   "text": "Horace aũ",
+   "reason": "At 8x a raised wave-shaped stroke sits centred over the u, the same weight and height as the tilde of 'calũnia' two notes down; not a random blot (a separate speck lies to its right). Printed ũ (wrong sort for 'au'), kept as printed with an uncertain entry."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "A": "l. fiñ. C. de",
+   "B": "l. fin. C. de",
+   "chose": "B",
+   "text": "l. fin. C. de",
+   "reason": "At 7x the mark over the n is a short dot/tick like the i-dot beside it, not a horizontal bar; 'de' on the same line carries similar specks. No tilde. The point before C is printed '.C.' and normalized per §1."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "A": "quis. ij. q. viij",
+   "B": "quis. iij. q. viij",
+   "chose": "B",
+   "text": "quis. iij. q. viij",
+   "reason": "At 7x the first numeral has three stems (i, i, j with descender) and is as wide as the 'iij' of 'q. iij.' two lines below, twice the 'ij' of 'Paulum. ij.'; viij confirmed (v + three stems)."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "A": "c. fi. & illec",
+   "B": "c. ſi. & illec",
+   "chose": "A",
+   "text": "c. fi. & illec",
+   "reason": "At 4x the letter has a crossbar on both sides of the stem (italic f, as in 'fallaciter' above), unlike the left-nub ſ of 'accuſa' in note a. 'illec' has a closed-bowl e before the c."
+  },
+  {
+   "where": "margin_notes[3].key / margin_notes[4].key",
+   "A": "c / d",
+   "B": "c / d",
+   "chose": "neither",
+   "text": "c2 / d2",
+   "reason": "The alphabet restarts at ANNOT. XIX. on this page (first-run b from p034's a, then a b c d). Per §4 and the p031 precedent a same-page restart is keyed a, b2, c2, d2 in body and margin; both readers only renumbered the colliding b. Body markers changed to {c2} and {d2} to match."
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "id": "p008",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARRET DV",
+ "folio": "8",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "nault du Tilh, dit Panſette, du lieu de Sa-",
+    "gias, ſoy diſant toutesfois Martin Guerre",
+    "& mari de la ſuppliant."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. III.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Voici vne nouuelle eſpece d'affrontement. & d'im-",
+    "pudẽce: non gueres pourtant diſſemblable, à l'argument",
+    "de Plaute, en ſa premiere comedie, ou il introduit Iuppi",
+    "ter extremement amoureux d'Alcmena, femme d'Am-",
+    "phytrio, de laquelle n'ayant eſperance pouuoir vaincre",
+    "la chaſteté par preſens, prieres, ni autres allechemens d'a",
+    "mour, & ſçachant qu'Amphytrio, ſ'en eſtoit allé contre",
+    "les Teleboes, Iuppiter prẽd la forme d'Amphytrio, & fei",
+    "gnãt vne nuict eſtre reuenu de la guerre, abuſa d'Alcme",
+    "na. laquelle auparauãt enceincte des œuures de ſon ma",
+    "ri, fut de rechef engroiſſée par Iuppiter. dõt aduint apres",
+    "qu'elle, à vn meſme enfantement, accoucha de deux",
+    "fils, l'vn d'Amphytrio, appelé Iphyclus, & l'autre de Iup",
+    "piter, qui fut nommé Hercules. Sur quoy le plus beau",
+    "de la fable: fut qu'eſtant Amphytrio de retour, & ayant",
+    "enuoyé deuant Soſias, ſon ſeruiteur, à ſa femme, pour an",
+    "noncer ſa venuë: Soſias trouue Mercure, (qui auoit ia",
+    "prins la forme de Soſias (ſeruiteur auſſi de Iuppiter) &",
+    "ſ'entredebatent longuement, lequel des deux eſtoit le",
+    "vray Soſias. Mais en fin, Mercure victorieux, chaſſe l'au-",
+    "tre: & n'en aduint guere moins à Amphytrio, qui eſt ru",
+    "dement receu de ſa femme, perſuadée, qu'il fuſt l'impo-",
+    "ſteur, & la vouluſt abuſer. En fin Blepharo, eſt eſleu arbi-",
+    "tre, pour iuger lequel des deux eſt le vray Amphytrio,",
+    "qui pour l'ẽtiere ſimilitude, qui eſtoit entre eux ne ſceut",
+    "oncques diſcerner l'vn de l'autre, dont Amphytrio plus",
+    "esbahi, vouloit recourir aux Diuins. Quoy voyant Iuppi",
+    "ter, pour mõſtrer l'innocẽce d'Alcmena, deſcouure au lõg",
+    "tout le faict à Amphytrio, & le remet en paix, & amitié",
+    "auec ſa femme {a}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et ſ'eſtant ledit du Tilh, comme eſt",
+    "vray-ſemblable, accompagné à la guer-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "auec ſa femme {a}.",
+   "lines": [
+    "Plaute en",
+    "ſon Amphy-",
+    "trio."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARRET DV",
+   "note": "sic: the head is set in spaced capitals A R R E T  D V — five letters, no S. Checked at high magnification; transcribed closed up per §3. The conventions give 'ARREST DV' as the usual verso head, so this is the printer's short form."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "the page opens mid-word: 'nault' is the tail of 'Ar-|nault' (Arnault du Tilh) carried over from p007, which is not yet transcribed, so continues_prev is set from the sense, not from the preceding page."
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Voici vne nouuelle eſpece d'affrontement. & d'im-",
+   "note": "in 'nouuelle' the first of the two u's has a heavy curved entry stroke and at low magnification reads as an a ('noauelle'). At 600% the bottom curve and the two stems are those of a u, and 'noauelle' is not a word; read 'nouuelle'. Reader A may read 'noauelle'."
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "les Teleboes, Iuppiter prẽd la forme d'Amphytrio, & fei",
+   "note": "the mark over the e of 'prẽd' is a straight horizontal bar, not the slanted acute used in 'allé', 'appelé', 'amitié'. Read as the nasal tilde: 'prẽd' = prend. Also a stray dot sits in the gap between 'la' and 'forme'; treated as an ink speck and omitted."
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "ri, fut de rechef engroiſſée par Iuppiter. dõt aduint apres",
+   "note": "two points. (1) the compositor sets 'de rechefengroiſſée' solid, with no gap at all; split into 'de rechef engroiſſée' per §1 word-division normalization. (2) a small low dot follows 'dõt'; read as an ink speck, not a point, since 'dõt aduint apres qu'elle...' is a single clause. Reader A may transcribe 'dõt.'."
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "prins la forme de Soſias (ſeruiteur auſſi de Iuppiter) &",
+   "note": "the second word carries a clear round dot above its stem, so it reads as 'ia' at first sight. The stem is ascender-height (taller than the dotted i of 'prins' on the same line) and 'prins ia forme' is not French, so it is read as 'la' with a speck or a broken sort above. Reader B flags this as the page's least certain body reading."
+  },
+  {
+   "where": "blocks[2]",
+   "note": "nine line breaks are printed with no word-break hyphen and are transcribed as printed per §1: lines[2] 'Iuppi' + lines[3] 'ter'; lines[5] 'd'a' + lines[6] 'mour'; lines[7] 'fei' + lines[8] 'gnãt'; lines[8] 'Alcme' + lines[9] 'na'; lines[9] 'ma' + lines[10] 'ri'; lines[12] 'Iup' + lines[13] 'piter'; lines[15] 'an' + lines[16] 'noncer'; lines[20] 'ru' + lines[21] 'dement'; lines[26] 'Iuppi' + lines[27] 'ter'. Hyphens are printed normally elsewhere on the page ('d'im-', 'd'Am-', 'l'au-', 'l'impo-', 'arbi-'), so these are compositor omissions."
+  },
+  {
+   "where": "blocks[2]",
+   "note": "spacing: the compositor repeatedly sets punctuation tight ('pudẽce:non', 'diſſemblable,à', 'comedie,ou', 'fable:fut', 'Soſias,ſon', 'femme,pour', 'tre:&', 'abuſer.En', 'Blepharo,eſt', 'ſimilitude,qui', 'Alcmena,deſcouure') and sometimes leaves a justification space before a comma ('mour ,', 'enfantement ,', 'Mercure ,'). All normalized to single spaces per §1; no character is added or removed."
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "vray-ſemblable, accompagné à la guer-",
+   "note": "two marks. (1) between 'vray' and 'ſemblable' stands a very short mid-height stroke/dot; read as the compound hyphen ('vray-ſemblable'), since it sits at hyphen height rather than on the baseline, but it is small enough to be read as a point or a speck. (2) the line ends with a short slanted stroke after 'guer'; transcribed as the word-break hyphen per §1 (the word continues as 'guer-|re' on p009)."
+  },
+  {
+   "where": "catchword",
+   "note": "no foot citation block, no signature and no catchword are printed. The leaf is blank from just below the last TEXTE line to the bottom edge of the frame (checked on foot.jpg), so nothing is lost to the crop."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "the only marginal note on the page, and the only marker. It is crisp italic; the third line's initial is the curled-top italic t, transcribed as an ordinary t per §2 ('trio.'). Its first line sits about a quarter-line below the body line carrying the marker, so beside_line is the marker's own line."
+  }
+ ]
+}

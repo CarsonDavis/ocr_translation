@@ -1,0 +1,164 @@
+{
+ "id": "p000-title",
+ "reader": "A",
+ "model": "opus",
+ "running_head": null,
+ "folio": null,
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "ornament",
+   "text": "full-page engraved woodcut border in four pieces, framing a blank rectangular panel that holds the title: top, a cloudy sky with a radiant sun face, comets and thunderbolts; left, above, a crowned woman with a sceptre seated on clouds beside a crescent moon and a large bird, below, a nude figure with a shield and a sword standing between a bear and a dragon; right, above, a crowned bearded god brandishing a staff amid flames and wind, in the middle three draped female figures, below a crowned woman holding a key beside a wheel; foot, a sea with a galley of rowers, sea horses, sea monsters and lions"
+  },
+  {
+   "type": "heading",
+   "text": "ARREST",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "MEMORABLE",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "DV PARLEMENT",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "DE THOLOSE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Contenant"
+  },
+  {
+   "type": "heading",
+   "text": "Vne Hiſtoire prodigieuſe d'vn ſuppoſé"
+  },
+  {
+   "type": "heading",
+   "text": "mary, aduenüe de noſtre temps: en-"
+  },
+  {
+   "type": "heading",
+   "text": "richie de cent & onze belles"
+  },
+  {
+   "type": "heading",
+   "text": "& doctes annota-"
+  },
+  {
+   "type": "heading",
+   "text": "tions."
+  },
+  {
+   "type": "heading",
+   "text": "Par M. Iean de Coras, Conſeiller en la"
+  },
+  {
+   "type": "heading",
+   "text": "court, & rapporteur du procés."
+  },
+  {
+   "type": "heading",
+   "text": "Prononcé és Arreſtz generaux, le xij."
+  },
+  {
+   "type": "heading",
+   "text": "Septembre. 1560."
+  },
+  {
+   "type": "heading",
+   "text": "A PARIS,",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Pour Galliot du Pré, au premier pillier"
+  },
+  {
+   "type": "heading",
+   "text": "de la grand' ſalle du Palais."
+  },
+  {
+   "type": "heading",
+   "text": "Auec Priuilege du Roy."
+  },
+  {
+   "type": "heading",
+   "text": "M. D. LXXII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "ornament",
+   "text": "publisher's device set in the centre of the foot of the border: a small heart-shaped shield charged with a merchant's mark (an orb surmounted by a cross with a crossed shaft) above the initials G | D over P, for Galliot du Pré; no lettering outside the shield"
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [
+  "full-page woodcut border in four blocks around a blank panel: sky with sun, comets and thunderbolts at the top; mythological and allegorical figures down the sides (crowned woman with sceptre, crescent moon and bird; nude figure with shield and sword, bear and dragon; crowned bearded god with staff in flames; three draped women; crowned woman with a key); marine scene with a rowed galley, sea horses, sea monsters and lions along the foot",
+  "publisher's device of Galliot du Pré at the foot centre of the border: heart-shaped shield with an orb-and-cross merchant's mark over the initials G D P"
+ ],
+ "uncertain": [
+  {
+   "where": "page head, above the border",
+   "text": "N°. 277",
+   "note": "NOT printed text: a manuscript shelf/inventory number written in brown ink in a later hand in the blank margin above the woodcut border, with a long diagonal pen stroke running down to the right. Read as a cursive capital N, a superscript o, a point, then the digits 277; the digits could also be read 2 7 7 as separate figures, and there is a further raised small o and a dot to the right of them that may be part of the number, a second mark, or a blot. Recorded here only, not as a block.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2]",
+   "text": "M E M O R A B L E",
+   "note": "letterspacing judgment: the word is in the largest titling capitals and the gaps between letters are proportionally narrower (about a third of a letter width) than in 'A R R E S T' (about a full letter width). Treated as spaced capitals like the rest of the title page; reader B may well transcribe it closed up as 'MEMORABLE'."
+  },
+  {
+   "where": "blocks[3]",
+   "text": "DV  P A R L E M E N T",
+   "note": "the line is mixed: D and V are set tight against each other with no letterspacing, while PARLEMENT is letterspaced. Transcribed with DV closed up and a double space for the word gap, per §3. No point is printed after DV (checked at 5x; only paper speckle) and none after the final T."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "A R R E S T",
+   "note": "no point is printed after the final T; the line ends bare."
+  },
+  {
+   "where": "blocks[6]",
+   "text": "Vne Hiſtoire prodigieuſe d'vn ſuppoſé",
+   "note": "a small round dot sits above the o of 'prodigieuſe' (and a fainter one above the following letter). Read as stray ink / show-through from the verso, not an accent or a tilde; 'prodigieuse' takes no abbreviation mark."
+  },
+  {
+   "where": "blocks[7]",
+   "text": "mary, aduenüe de noſtre temps: en-",
+   "note": "a small dark ink blot sits above and slightly left of the m of 'mary'; it is not type and is not transcribed. 'aduenüe' carries a clear diaeresis on the u. The print sets a space before the colon ('temps : en-'), French fashion, and a space before the comma ('mary ,'); both are closed up by the §1 punctuation-spacing rule the validator enforces."
+  },
+  {
+   "where": "blocks[9]",
+   "text": "& doctes annota-",
+   "note": "the line-end break sign is printed as a double stroke: a horizontal dash at mid-height with a second short slanted stroke below and to its right, which can be mistaken for a comma following the hyphen. Transcribed as a single '-' per §1. Reader B may read it as 'annota-,'."
+  },
+  {
+   "where": "blocks[11]",
+   "text": "Par M. Iean de Coras, Conſeiller en la",
+   "note": "italic line. A justification space is printed before the comma ('Coras , Conſeiller'); closed up per §1, as in 'court , &' on the next line. The italic ampersand has the 'et' shape and is transcribed '&' per §2."
+  },
+  {
+   "where": "blocks[14]",
+   "text": "Septembre. 1560.",
+   "note": "the four figures are set with visible spaces between them ('1 5 6 0'). §3 covers spaced capitals only, so the numerals are transcribed closed up; reader B may render them '1 5 6 0'. The 5 is the old-style form and the 6 has a curled head, but the reading 1560 is secure."
+  },
+  {
+   "where": "blocks[19]",
+   "text": "M. D. LXXII.",
+   "note": "the roman numerals LXXII are letterspaced while M. and D. are not; transcribed as a date with its printed points rather than fully letter-by-letter, though spaced_caps is flagged. The final point is clearly printed."
+  },
+  {
+   "where": "blocks[20]",
+   "note": "the initials in the device are arranged G and D side by side above P inside the shield; transcribed in the description only, since they are engraved, not set type."
+  }
+ ]
+}

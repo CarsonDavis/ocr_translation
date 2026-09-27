@@ -1,0 +1,171 @@
+{
+ "id": "p039",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "PARLEMINT DE THOLOSE.",
+ "folio": "39",
+ "signature": "C iiij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "abordé: en ces deux pays & à chaque",
+    "faict, deſigne particulierement certai-",
+    "nes perſonnes, auec leſquelles on ſe",
+    "peut informer, (comme depuis on a",
+    "fait: & le tout verifié (pour rendre en-",
+    "cor ce qu'il diſoit plus perſũaſible, &",
+    "vray-ſemblable."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ces propos ici longuement diſcourus, & la nume-",
+    "roſité de tant & tant d'enſeignes ſi veritables, donnoiẽt",
+    "grande occaſion au Iuges ſe perſuader l'innocence",
+    "dudit du Tilh & en outre d'admirer l'heur, & la felicité",
+    "de ſa memoire, qui auoit ſceu reciter innombrables",
+    "choſes faictes, & paſſees plus de vingt ans y a: en quoy",
+    "les commiſſaires, qui par tous moyens à eux poſſibles,",
+    "taſchoyent de le ſurprendre en quelque menſonge, ne",
+    "peurent toutesfois rien gagnier ſur luy, ni faire qu'il",
+    "ne reſpondit veritablement à toutes choſes deſquelles",
+    "neantmoins il eſtoit par eux ſeparement, & par inter-",
+    "ualles interrogué. Ce que tiroit de plus en plus en ad-",
+    "miration les iuges, qui pour la grande felicité d'vne ſi",
+    "heureuſe memoire, l'euſſent volontiers parangonné à",
+    "vn Scipion, Cyrus, Theodectes, Mithridates, Themi",
+    "ſtocles, Cyneas, Metrodore, ou Lucule: perſonnes en",
+    "l'heur de memoire excellente, & eternellement cele-",
+    "brees {a} ſi l'iſſue miſerable de ce prodigieux affronteur",
+    "n'euſt offencé l'eſplẽdeur de telles, & ſi bien marquées",
+    "perſonnes en leur conferant vn ſi impudent, deploré, &",
+    "malheureux homme {b}. Certes ſi ſans ſcrupule l'on pou",
+    "uoit vſer de telles comparaiſons, elle ſeroit fort propre",
+    "auec Portius Latro, grãd compaignon de Seneque, qui",
+    "ſe vantoit n'auoir eſté iamais deceu de ſa memoire en",
+    "vne ſeule parolle: & pour en faire l'eſſay, ſe faiſoit ſou",
+    "uent propoſer le nom de quelque ancien capitaine, ou",
+    "d'autre perſonne illuſtre & renommée, au plaiſir de ce-",
+    "luy, qui le nommoit duquel ſur l'heure recitoit de fons",
+    "en comble, la pure verité de tous les faicts depuis ſon"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ſtocles, Cyneas, Metrodore, ou Lucule: perſonnes en",
+   "lines": [
+    "Ciceron au",
+    "i. des Tuſcula.",
+    "nes, & au ſe-",
+    "cond de Ora-",
+    "tore. Pline au",
+    "liure vij. cha.",
+    "xxiiij."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "uoit vſer de telles comparaiſons, elle ſeroit fort propre",
+   "lines": [
+    "ſoit veue l'an",
+    "notat. xij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMINT DE THOLOSE.",
+   "note": "sic, printer's error: the sort between M and N is a narrow capital I with symmetric serifs, not the three-armed E of PARLE and DE (both readers); kept as printed"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "cor ce qu'il diſoit plus perſũaſible, &",
+   "note": "at 4x (pages/strips/p039/body-2.jpg, line 5) a clean short straight bar is printed centrally over the u of 'perſuaſible', the same straight nasal-bar sort as over the e of 'eſplẽdeur' (blocks[2].lines[18]) and the a of 'grãd' (lines[22]); it makes no sense in this word, so it is a compositor's error, transcribed as printed (ũ). Reader A took it for foul type"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "roſité de tant & tant d'enſeignes ſi veritables, donnoiẽt",
+   "note": "the accent on 'roſité' is a small partly inked tick, read as the acute the fount uses elsewhere; grave cannot be excluded. The mark over the e of 'donnoiẽt' is wavy (tilde)"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "grande occaſion au Iuges ſe perſuader l'innocence",
+   "note": "sic: 'au Iuges' where the sense wants 'aux Iuges'; no trace of an x"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Ces propos ici longuement diſcourus, & la nume-",
+   "note": "the line-end sign after 'nume' is inked low and thick and can look like a point; compared with 'certai-', 'cele-' and 'ad-' it is the same short hyphen sort. Same at the end of lines[16] ('cele-')"
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "n'euſt offencé l'eſplẽdeur de telles, & ſi bien marquées",
+   "note": "sic: 'eſplẽdeur' (straight nasal bar over the e); transcribed as printed"
+  },
+  {
+   "where": "blocks[2].lines[27]",
+   "text": "luy, qui le nommoit duquel ſur l'heure recitoit de fons",
+   "note": "sic: 'de fons en comble'; transcribed as printed"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "i. des Tuſcula.",
+   "note": "at 4x (pages/strips/p039/margin-3.jpg, note a line 2) the sign at the line end is a small dot low on the body, the same sort as the points of 'i.', 'cha.' and 'xxiiij.'; it is not the margin fount's hyphen, which is a wider mid-height stroke ('ſe-', 'Ora-' just below). Transcribed as a point although the word runs on to 'nes' (cf. p018 'Pline au li.' + 'ure')"
+  },
+  {
+   "where": "margin_notes[0].lines[5]",
+   "text": "liure vij. cha.",
+   "note": "the numeral uses the italic fount's single ij sort; transcribed 'vij' per house practice, likewise 'xxiiij.' and 'xij.'"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "ſoit veue l'an",
+   "note": "the third letter of the word after 'ſoit' is worn and could be taken for n ('vene'); read 'veue' on sense (soit veue l'annotat. xij). The line runs on to 'notat.' with no hyphen"
+  },
+  {
+   "where": "margin_notes",
+   "text": "",
+   "note": "placement: the margin block sits low on the page; note a's first line is printed level with 'ſtocles, Cyneas, ... perſonnes en' (blocks[2].lines[15]) while its marker is on lines[17]; note b follows directly under it, its first line beside lines[21] while its marker is on lines[20]. beside_line values are approximate to within a line"
+  },
+  {
+   "where": "signature",
+   "text": "C iiij",
+   "note": "the signature letter is an unbarred C (not G); fits the gathering (C from f. 33)"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[0].lines[5]",
+   "A": "cor ce qu'il diſoit plus perſuaſible, &",
+   "B": "cor ce qu'il diſoit plus perſũaſible, &",
+   "chose": "B",
+   "text": "cor ce qu'il diſoit plus perſũaſible, &",
+   "reason": "at 4x (pages/strips/p039/body-2.jpg, line 5) a clean, straight, centred bar is printed over the u, identical to the nasal-bar sort of 'eſplẽdeur' and 'grãd' on the same page; it is a printed sort, not foul type, so it is transcribed as printed (ũ), sic"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "A": "i. des Tuſcula-",
+   "B": "i. des Tuſcula.",
+   "chose": "B",
+   "text": "i. des Tuſcula.",
+   "reason": "at 4x (pages/strips/p039/margin-3.jpg) the line-end sign is a small low dot, the same sort as the points of 'i.' and 'cha.'; the margin hyphen ('ſe-', 'Ora-' two lines below) is a wider mid-height dash: point, sic for a break"
+  }
+ ]
+}

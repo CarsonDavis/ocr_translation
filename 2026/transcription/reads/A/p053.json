@@ -1,0 +1,226 @@
+{
+ "id": "p053",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "53",
+ "signature": "D iij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ces & marques amprainctes au viſage, ou autre parties",
+    "du corps {b}: comme iadis, quand pour recongnoiſtre les",
+    "hommes, attachez au ſeruice de quelque œuure public",
+    "on ſouloit imprimer des ſignes, & marques en leurs",
+    "bras: ou grauer en leurs mains {c}. car au viſage, tant ſ'en",
+    "faut qu'on y oſaſt toucher, que d'enlaidir & deffigurer",
+    "aucunement la face de l'homme (& fuſt-il d'vn ſerf)",
+    "par cicatrice, eſtoit reputé choſe gtandement indigne,",
+    "voire cruelle & barbare {d}. Encor que ce fuſt en peine",
+    "de quelque crime, que les anciẽs cõmandoyent eſtre",
+    "au viſage {e}. car eſtant l'homme cõme dit Lictance, le",
+    "vray pourtraict & , ſimulachre de Dieu {f}: & ſa face for-",
+    "mee à l'image de celle diuine & celeſte beauté {g}:"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Exẽplúmq; Dei quiſque eſt, in imagine parua {h}"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ce ſeroit vn eſpece de ſacrilege, & de leſe maieſté, de",
+    "la ſouiller, profaner, & contaminer par impreſſion, &",
+    "inuſtion de cicatrices. {i} Où fuſt ſelõ nos Canoniſtes, le",
+    "crime ſi grand & execrable, comme d'auoir, diſent-ils,",
+    "falſifié le ſeau du prince {k}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Quatriemement, le cordonnier qui",
+    "chauſſoit Martin Guerre, depoſe qu'ice-",
+    "luy Martin ſe chauſſoit à douze poincts,",
+    "où toutesfois le priſonnier ne ſe chauſſe",
+    "qu'à neuf. Et vn autre, que ledit Martin",
+    "ioüoit bien de l'eſcrime, & paleſtrine: au-",
+    "quel ieu le priſonnier ne fait, ni entend",
+    "rien. Pour le cinquieme, y a trois teſ-",
+    "moins, à l'vn deſquels, appelé Iean Eſpa-",
+    "gnol, hoſte de Touges, led. du Tilh, ſe",
+    "deſcouurit à ſon retour, le priant n'en di-",
+    "re rien: car Martin Guerre eſtoit mort,",
+    "qui luy auoit donné ſon bien. A l'au-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "beside_line": "ces & marques amprainctes au viſage, ou autre parties",
+   "lines": [
+    "l. ſtigmata-",
+    "Cl. de fabricẽ.",
+    "ſib lib. xj."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "on ſouloit imprimer des ſignes, & marques en leurs",
+   "lines": [
+    "l pen. C. de",
+    "aquæ duct. l.",
+    "ſtimata. alle."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "aucunement la face de l'homme (& fuſt-il d'vn ſerf)",
+   "lines": [
+    "l locum. P.",
+    "ex eo. D. de v-",
+    "ſufruct."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "de quelque crime, que les anciẽs cõmandoyent eſtre",
+   "lines": [
+    "l. ſi quis in",
+    "metallnm. C.",
+    "de pœn."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "au viſage {e}. car eſtant l'homme cõme dit Lictance, le",
+   "lines": [
+    "Lactance au",
+    "liu vj. de"
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "mee à l'image de celle diuine & celeſte beauté {g}:",
+   "lines": [
+    "Geneſee. j."
+   ]
+  },
+  {
+   "key": "h",
+   "beside_line": "Exẽplúmq; Dei quiſque eſt, in imagine parua {h}",
+   "lines": [
+    "Manile au",
+    "iij. de l'Aſtio.",
+    "nomie."
+   ]
+  },
+  {
+   "key": "i",
+   "beside_line": "Ce ſeroit vn eſpece de ſacrilege, & de leſe maieſté, de",
+   "lines": [
+    "l. ſi quis in",
+    "metallum alle",
+    "gue."
+   ]
+  },
+  {
+   "key": "k",
+   "beside_line": "crime ſi grand & execrable, comme d'auoir, diſent-ils,",
+   "lines": [
+    "c. ad audien",
+    "tiam. de crim.",
+    "falſ."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "par cicatrice, eſtoit reputé choſe gtandement indigne,",
+   "note": "'fuſt-il': the word-break sign is a small low wedge sitting on the baseline rather than the mid-height stroke this fount usually shows; read as a hyphen (cf. 'faluſt-il', transcription/final/p030.json). The same low form appears in 'diſent-ils', blocks[2].lines[3]. Pointer: pages/strips/p053/body-2.jpg x~1200-1430 y~228-323, 9x."
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "voire cruelle & barbare {d}. Encor que ce fuſt en peine",
+   "note": "'gtandement' sic: the sort after the g is an unambiguous t (top serif and full crossbar), not an r, so the print reads 'gtandement' for 'grandement'. Transcribed as printed."
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "vray pourtraict & , ſimulachre de Dieu {f}: & ſa face for-",
+   "note": "'Lictance' sic: at 8x the second letter is a clearly dotted i, not an a (pages/strips/p053/body-3.jpg x~1300-1600 y~15-110). The margin note keyed f spells the same author 'Lactance'."
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "mee à l'image de celle diuine & celeſte beauté {g}:",
+   "note": "the print sets '&,ſimulachre': a comma with a clear descending tail immediately after the ampersand, set tight (sic). Applying the §1 spacing rule mechanically (scripts/normalize_spacing.py) gives '& , ſimulachre', which is what is written here; compare 'P. proinde & .' in transcription/final/p159.json."
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Exẽplúmq; Dei quiſque eſt, in imagine parua {h}",
+   "note": "the -que abbreviation after the q of 'Exẽplúmq' is printed as an ordinary semicolon (round dot above a comma), not the 3-shaped ꝫ of §2; transcribed ';'. The tilde over the first e and the acute over the u are both clear."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "la ſouiller, profaner, & contaminer par impreſſion, &",
+   "note": "'impreſſion' is badly under-inked from the double s to the o. At 10x with levels stretched two full-height ascenders (ſſ) are visible, then a short i, then an o of which only the left arc survives. Reading is confident on the word, less so on ſſ vs ſs."
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "chauſſoit Martin Guerre, depoſe qu'ice-",
+   "note": "'qu'ice-': the mark between qu and ice is a round raised dot rather than the comma-shaped apostrophe this large fount uses in 'qu'à' two lines below; the i carries no separate dot. Read as the apostrophe (it stands clear of the i in pages/strips/p053/margin-3.jpg), but it could be a displaced i-dot."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. ſtigmata-",
+   "note": "a short mid-height stroke follows the complete word 'ſtigmata' at the line end; transcribed as a hyphen per §1 although nothing is broken across the line. Could be a dash used as punctuation."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "Cl. de fabricẽ.",
+   "escalate": true,
+   "note": "an italic l is printed raised (superscript) immediately after the C at the start of this line; §2 gives superscripts as plain letters, so it is written 'Cl.'. The citation is Codex book 11 'de fabricenſibus' (l. Stigmata, C. de fabricensib. lib. XI), where a plain 'C.' is expected, so the raised sort may be a stray or a compositor's error. Pointer: pages/strips/p053/margin-1.jpg x~255-385 y~365-485, 14x."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "ſib lib. xj.",
+   "note": "the first sort of 'ſib' is read as long ſ (the word is the tail of 'fabricẽ-ſib.'); in this italic fount ſ and f are near-identical, so an f cannot be excluded from the shape alone. §2 says to decide by the word."
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "metallnm. C.",
+   "note": "'metallnm.' sic: the letter before the final m has a clear top arch (n), not the open bowl of the u in 'quis' on the line above; a turned u for 'metallum'. Note i on the same page sets the same word correctly as 'metallum'."
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "Geneſee. j.",
+   "note": "'Geneſee. j.': two round sorts follow the long ſ, both apparently e. The second could be a c ('Geneſec. j.', i.e. Genèse chap. j.); the ink is thick and the counters are filled at 15x."
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "iij. de l'Aſtio.",
+   "note": "'l'Aſtio.' ends the line with a round baseline point although the word runs on into 'nomie.' on the next line; transcribed as the point that is printed, not as a hyphen (note d on this page ends a line with an unmistakable dash, so the shapes are distinguishable)."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+# Report: annot-027
+
+- Output: `translation/sections/annot-027.md` — `check_markers.py annot-027`: 1 sections ok, 0 failed.
+- Word counts: French 177, English 187. 3 keyed notes (a, b on p049; c on p050). The alphabet is complete for this annotation, but its note *c* falls on p050, where the alphabet restarts for Annotation XXVIII, so p050 carries two notes lettered *c* (the second keyed c2 in annot-028); headnote added.
+- Glossary additions: *tesmoins entiers / reprochables* → "witnesses entire / objectionable"; *supplier le defaut* → "to supply the defect"; *faire preuve* → "to make proof"; *Iean Imola* → "Johannes de Imola"; *Alexandre en son conseil* → "Alexander Tartagnus, *Consilia*".
+- `[unclear]` passages: none. Bracketed gloss on *entiers*.
+- Choices to review: *en opinion de plus d'integrité enuers le monde* → "in the opinion of greater integrity toward the world"; *le numeroſité* (sic) → "the multitude" per annot-021; *ne ſeroit autrement ſuffiſance pour faire preuue* → "would not otherwise be sufficient to make proof"; *le nombre qui eſt de ſurplus* → "the number that is over".
+- Citations: {a} D. 22.5.3.2 (§ *Eiusdem*, the rescript on the number and dignity of witnesses) is identified with confidence; c. *In nostra* in X 2.20 by title only, chapter unverified. {b} Accursius on the same paragraph; the transcription flags the reading *au dit* and an unidentified mark after *eiuſdem* as HARD/ESCALATE — noted in the entry, no emendation. {c} Johannes de Imola on l. *Qui testamento* (cf. D. 28.1.20, number unverified); Alexander Tartagnus, *Consilia* I.93, unverified.

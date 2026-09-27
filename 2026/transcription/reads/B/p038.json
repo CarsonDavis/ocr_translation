@@ -1,0 +1,128 @@
+{
+ "id": "p038",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "38",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſterité & rudeſſe (en ayant fait peut eſtre au parauant",
+    "experience) elle doit eſtre commiſe à quelque femme",
+    "de bien, & honneſte, iuſqu'à la fin du proces {i}. Et quand",
+    "le mari craint que la femme qu'il demande ne ſoit ſu-",
+    "bornée contre luy, le Iuge la doit faire loger, & collo-",
+    "quer en vne maiſon, où elle ne redoute force, ni violen",
+    "ce. comme iadis on faiſoit à vn conuent de nonnains,",
+    "& religieuſes. {l}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Si fait en ſon audition ample diſcours",
+    "& veritable (comme depuis a apparu)",
+    "de la partie des Baſcouz, des pere, me-",
+    "re, freres, ſeurs, & autres parens de Mar-",
+    "tin Guerre: de l'annee, mois, & iour de",
+    "ſes nopces: de ſes beaux-pere, & mere:",
+    "des perſonnes qui y eſtoient, & qui trai-",
+    "terẽt le mariage: des robes, & veſtemens,",
+    "deſquels chacun pour lors eſtoit accou-",
+    "tré: du preſtre qui les eſpouſa: de tous les",
+    "actes particuliers, qui y entreuindrent:",
+    "tant au iour des nopces, que deuant &",
+    "& apres. iuſqu'à conſigner les perſonnes",
+    "qui ſur la minuit des nopces, l'allerent vi-",
+    "ſiter dans ſon lit. En outre, de ſon preten",
+    "du enfant Sanxi Guerre, & du iour qu'il",
+    "naſquit: de la cauſe de ſon departement:",
+    "des perſonnes qu'il trouua en chemin, &",
+    "des propos qu'ils auoient eu enſemble:",
+    "des lieux où il ſ'eſtoit tenu durant ſon",
+    "abſence, tant en Eſpaigne, qu'en Fran-",
+    "ce: & des perſonnes, auſquelles il ſ'eſt"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "i",
+   "beside_line": "de bien, & honneſte, iuſqu'à la fin du proces {i}. Et quand",
+   "lines": [
+    "c. ex tranſ-",
+    "miſſa. c. lite-",
+    "ras. P. fin. de",
+    "reſt. ſpel."
+   ]
+  },
+  {
+   "key": "k",
+   "beside_line": "ce. comme iadis on faiſoit à vn conuent de nonnains,",
+   "lines": [
+    "c. cum lo-",
+    "cum, de ſponſ."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "& religieuſes. {l}",
+   "lines": [
+    "c. penultsi-",
+    "me de prob."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[1]",
+   "text": "c. cum lo- / cum, de ſponſ.",
+   "note": "note key 'k' has no {k} marker anywhere in the body. Every line of the annotation paragraph was checked at 4x–8x on the strips and on raw/img060.jpg; the only markers printed are {i} (line 3, after 'proces') and {l} (line 8, after 'religieuſes.'). The note stands beside 'ce. comme iadis…', so the omitted marker most likely belonged near 'ni violen-ce.' Compositor omission, not a reading doubt.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. penultsi-",
+   "note": "the cluster after 'c. penul' is hard: I read t + round s + i + hyphen ('penultsi-', continued 'me' = penultsime). Alternatives the reconciler should weigh: 'penulti-' (penultime), 'penultie-' (penultieme), 'penulisi-'. Checked at 900–1400% on raw/img060.jpg; the letter before the hyphen carries a dot (i) and the one before it is a round s.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "c. ex tranſ-",
+   "note": "the line-end hyphen after 'tranſ' is only partly inked — a faint broken stroke at x-height, much lighter than the solid hyphens of 'lite-' and 'lo-'. Read as a hyphen; could be an ink speck with the hyphen simply absent (which the conventions allow without comment).",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "reſt. ſpel.",
+   "note": "third letter of 'ſpel.' is ink-filled; it shows a crossbar so I read 'e', but the expected abbreviation is 'ſpol.' (de restitutione spoliatorum). Could be 'ſpol.'",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "terẽt le mariage: des robes, & veſtemens,",
+   "note": "the mark over the second 'e' of 'terẽt' is a thick wavy horizontal stroke (tilde), not the thin slanted acute the same page uses in 'ſterité' and 'tré'. Read as ẽ = 'terent'; a reader could take it for 'terét'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "& apres. iuſqu'à conſigner les perſonnes",
+   "note": "sic: the '&' at the end of the previous line is repeated at the start of this one ('que deuant &' / '& apres.'). Transcribed as printed. The mark after 'apres' is a round dot on the baseline (period, not comma).",
+   "escalate": false
+  }
+ ]
+}

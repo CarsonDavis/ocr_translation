@@ -1,0 +1,153 @@
+{
+ "id": "p021",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "21",
+ "signature": "B iij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Si neſcis, oculi ſunt in amore duces."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et voila pourquoy Iuuenal eſtime vne choſe prodigi-",
+    "euſe & trop eſtrange, qu'vn Aueugle ſoit amoureux. Et",
+    "Martial ſe mocque de Codrus, lequel priué de la veuë,",
+    "neantmoins depuis deuint extremement paſſiõné pour",
+    "l'amour d'vne femme."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Plus credit nemo, quam tota Codrus in vrbe,",
+    "Cùm ſit tam pauper, quomodo! cæcus amat. {c}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et à laquelle ledit du Tilh auoit don",
+    "né pluſieurs priuées & particulieres en-",
+    "ſeignes. Meſmes des actes & propos qui",
+    "interuiennent le plus ſecrettement en-",
+    "tre mariez, & qu'autres ne peuuent bon",
+    "nemét ſçauoir, ou entédre: Iuſques à luy",
+    "enſeigner les lieux, temps, & heures des",
+    "actes ſecrets de mariage (plus aiſez beau",
+    "coup à comprendre, qu'honneſte à reci-",
+    "ter, ou eſcrire) & les propos qu'auant, a-",
+    "pres, & en l'acte, ils auroyent tenuz. S'e-",
+    "ſtoit auſsi perſuadée auec les autres, que",
+    "ledit du Tilh eſtoit certainement Mar-",
+    "tin Guerre ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La femme de Q. Sertorius à Rome, & Ieanne fille",
+    "du comte Balduin de Flandres, furẽt vn peu mieux aui-",
+    "ſées: car quand celuy qui ſe diſoit fils de Q., Sertorius,",
+    "& de pluſieurs ſuiuy comme tel à Rome, vn iour ſe pre",
+    "ſenta à la femme de Sertorius cõme à ſa mere, luy don-",
+    "nãt des enſeignes fort familieres, & neãtmoins ſecrettes",
+    "& veritables: elle d'vne grande pertinacité, & vertueuſe"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "beside_line": "Et voila pourquoy Iuuenal eſtime vne choſe prodigi-",
+   "lines": [
+    "Properce au",
+    "liure ij. des ele",
+    "gies."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "Cùm ſit tam pauper, quomodo! cæcus amat. {c}",
+   "lines": [
+    "Martial au",
+    "iij. des Epigr."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "Si neſcis, oculi ſunt in amore duces.",
+   "note": "block type: this italic Latin verse line (the pentameter closing a distich whose hexameter stands at the foot of p020) is recorded as a paragraph with continues_prev, following transcription/final/p009.json, where verse quotations are paragraph blocks; transcription/final/p010.json made an analogous single verse line a heading block. Reconciler should pick one practice. Same question for blocks[2] (the Martial couplet)."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "Cùm ſit tam pauper, quomodo! cæcus amat. {c}",
+   "note": "'quomodo!': the mark is a straight vertical stroke over a dot, read as an exclamation mark; it could be a worn question mark (Martial prints 'quomodo? caecus amat')"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "nemét ſçauoir, ou entédre: Iuſques à luy",
+   "note": "'nemét' (= bonnement) and 'entédre' (= entendre): both abbreviation marks are short slanted strokes shaped like the acute of 'né' and 'priuées' in this same large type, not the broad flat tilde used in 'paſſiõné', 'furẽt', 'cõme' on this page; transcribed as printed acutes, but they stand for the omitted n and a reader following §2 would write 'nemẽt' and 'entẽdre'"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "ſtoit auſsi perſuadée auec les autres, que",
+   "note": "'auſsi' printed with long s + round s (ſs), not the ſſ used elsewhere in the book; transcribed as printed per §2, but the two glyphs are close at this size"
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "ſées: car quand celuy qui ſe diſoit fils de Q., Sertorius,",
+   "note": "after 'Q' there are two marks, a low dot and a comma, before 'Sertorius'; read as 'Q.,' but the second mark could be an ink speck or the tail of the Q (line 0 of this block has a plain 'Q. Sertorius')"
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "ſenta à la femme de Sertorius cõme à ſa mere, luy don-",
+   "note": "the line-end word-break sign after 'don' sits low and looks like a period rather than a hyphen; transcribed as '-' per §1 (any line-end word-break sign is a single hyphen)"
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Properce au / liure ij. des ele / gies.",
+   "note": "note key b has no {b} marker anywhere in this page's body: the marker is printed on the facing page p020, whose last body line ends '...cteurs {b}.' (visible in the gutter strip of pages/read/p021.jpg); the note has drifted onto the top of this page's margin. Recorded here, marker b not on p021"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "liure ij. des ele",
+   "note": "'des ele': could be 'de ſes ele' (cf. transcription/final/p006.json note h, 'Properce au / liure ij. de ſes / elegies'); the italic is small and the word division is tight"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Martial au",
+   "note": "the italic t with the curled top makes this look like 'Marſial'/'Marsial'; read as 'Martial' per §2 and the body text 'Martial ſe mocque de Codrus'. 'au' could be read 'an' in this italic; read 'au' by sense and by p006 note h"
+  }
+ ]
+}

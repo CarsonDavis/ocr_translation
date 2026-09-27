@@ -4,3 +4,22 @@ output*/
 data/
 .env
 **__pycache__
+2026/raw/
+2026/pages/full/
+2026/pages/strips/
+.DS_Store
+2026/pages/read/
+2026/site/img/
+!2026/site/data/
+
+2026/transcription/arbitration/crops/
+.pytest_cache/
+
+# No image files in git, ever (repo-wide)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.tif
+*.tiff

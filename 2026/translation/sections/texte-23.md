@@ -1,0 +1,8 @@
+---
+id: texte-23
+pages: [p044]
+---
+⟦p044⟧At the end of the said nine years she was unbewitched, and to this end instructed to have four masses said, which she did; and she names the priests, and says that one of them (whom she set down by name) made her eat some hosts and *fouaces* [hearth cakes], from which she and her said husband found themselves so well that she conceived, immediately afterwards, a son, still living, called Sanxi Guerre.
+
+## Notes
+- (none: this section carries no marginal citations.)

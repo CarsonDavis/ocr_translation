@@ -1,0 +1,58 @@
+{
+ "generated": "2026-09-21T23:00:00",
+ "sections": [
+  {
+   "id": "annot-001",
+   "kind": "annotation",
+   "number": 1,
+   "label": "ANNOTATION I.",
+   "pages": ["p004", "p005"],
+   "text": "⟦p004⟧Les mariages ainſi contractez auant l'aage legitime {a}, ne peuuent eſtre agreables à Dieu {b}.\n\nEt l'iſſuë en eſt le plus ſouuent miſerable, iuſqu'à la fem⟦p005⟧me du iour ſuyuant {a}.",
+   "notes": [
+    {"key": "a", "page": "p004", "text": "L. minorem D. de rit. nup"},
+    {"key": "b", "page": "p004", "text": "Ariſtote au v. de la nature des animaux x. c. v."},
+    {"key": "a", "page": "p005", "text": "Macrobe au ſonge de Scipion c. vi."},
+    {"key": "c", "page": "p005", "text": "Pline au vij liure de la naturelle hiſtoire. c. iij."}
+   ],
+   "starts_mid_page": false,
+   "ends_mid_page": true,
+   "complete": true
+  },
+  {
+   "id": "texte-02",
+   "kind": "texte",
+   "number": 2,
+   "label": "TEXTE.",
+   "pages": ["p005"],
+   "text": "⟦p005⟧Auec lequel auroit demeuré neuf, ou dix ans, & de ſes œuures procreé vn fils appelé Sanxi.",
+   "notes": [],
+   "starts_mid_page": true,
+   "ends_mid_page": true,
+   "complete": true
+  },
+  {
+   "id": "annot-002",
+   "kind": "annotation",
+   "number": 2,
+   "label": "ANNOTATION II.",
+   "pages": ["p006"],
+   "text": "⟦p006⟧Ceſte diuturnité, & longue abſence du mari.",
+   "notes": [],
+   "starts_mid_page": true,
+   "ends_mid_page": true,
+   "complete": true
+  },
+  {
+   "id": "texte-03",
+   "kind": "texte",
+   "number": 3,
+   "label": "TEXTE.",
+   "pages": ["p041"],
+   "text": "⟦p041⟧Ledit du Tilh, ainſi recognu, fut ouy de rechef {a}.",
+   "notes": [{"key": "a", "page": "p041", "text": "Pline au liure xi. c. xxxvij."}],
+   "starts_mid_page": true,
+   "ends_mid_page": false,
+   "complete": true
+  }
+ ]
+}

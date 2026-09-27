@@ -1,0 +1,208 @@
+{
+ "id": "p031",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE TOLOSE.",
+ "folio": "31",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "du ſeruice de ſon maiſtre {b}, A plus grãde raiſon, de gaſter,",
+    "& ſeduire par dons, preſens, blãdices, Promeſſes, & autre",
+    "tels alechemens, vne perſonne franche, & libre: meſme-",
+    "ment ſi coniointe, qu'vne fẽme, ou vn enfãt {c}, plus chers",
+    "ſans cõparaiſon au mari, ou au pere, qu'a toutes les cho-",
+    "ſes les plus precieuſes du monde {d}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et diſcourant mieux encor le faict, deſ-",
+    "duiſoit, qu'ayant demeuré ſept ou huict",
+    "ans, au ſeruice du Roy à la guerre, & quel",
+    "ques mois aux Eſpaignes pour voir le",
+    "pays, deſireux de reuoir ſes parens, ſa pa-",
+    "trie, Sanxi ſon enfant, & plus encor ladite",
+    "de Rols ſa femme: ſ'en ſeroit trois ans y",
+    "a & d'auantage, retourné audit lieu d'Ar-",
+    "tigat."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ces trois eſguillions ici, eſtoyent à la verité biens",
+    "poignans, pour faire reuenir vn perſonnage de loing",
+    "tain pais: à ſçauoir La douceur de la partie, La charité",
+    "des enfans, & L'amour de la femme. Car quant à la pa-",
+    "trie: à peine pourroit-on exprimer (dit en quelque lieu",
+    "Ciceron) ce qu'elle contient de douceur, de plaiſir d'a-",
+    "mour, & de volupté {a}. laquelle infiniment grande, fait",
+    "qu'vn autre pays, bien qu'il ſoit plus beau, plaiſant, &",
+    "fertile, ne ſera pourtant iamais trouué ſi gracieux, ni",
+    "delectable {b2}. teſmoing Vliſſes, lequel iadis oſa bien pre",
+    "ferer Ithaque (d'ou il eſtoit natif) pierreuſe aſsiſe com",
+    "me vn petit nid parmi les apres rochers, & preſqu' in-",
+    "acceſſible à l'ĩmortalité, que Calypſo la nymphe luy a-",
+    "uoit offerte {c2}. Auquel propos Ouide dit {q},"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Neſcio qua natale ſolum, dulcedine cunctos",
+    "Ducit, & immemores, non ſinit eſſe ſui."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "beside_line": "du ſeruice de ſon maiſtre {b}, A plus grãde raiſon, de gaſter,",
+   "lines": [
+    "l. j. & autres",
+    "au meſme rit-",
+    "tre. D. de ſer.",
+    "cor."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ment ſi coniointe, qu'vne fẽme, ou vn enfãt {c}, plus chers",
+   "lines": [
+    "l. ſi. C. ad I.",
+    "Falc. de plag.",
+    "l. & tantum",
+    "P. j. D. de ſcr.",
+    "cer."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": null,
+   "lines": [
+    "l. iſti qui-",
+    "dem. D. quod",
+    "met. can."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "Ces trois eſguillions ici, eſtoyent à la verité biens",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon qu'il",
+    "eut ad Quiri",
+    "tes poſt reditũ."
+   ]
+  },
+  {
+   "key": "b2",
+   "beside_line": "poignans, pour faire reuenir vn perſonnage de loing",
+   "lines": [
+    "l. qui habe-",
+    "bat. D. de leg.",
+    "ij. Accurſe en",
+    "la l. finale. C.",
+    "ſi ſeru. expor.",
+    "ven."
+   ]
+  },
+  {
+   "key": "c2",
+   "beside_line": "mour, & de volupté {a}. laquelle infiniment grande, fait",
+   "lines": [
+    "Homere au",
+    "v. de l'Odiſ-",
+    "ſee.",
+    "Cicerõ au. j.",
+    "de Oratore."
+   ]
+  },
+  {
+   "key": "d2",
+   "beside_line": "ferer Ithaque (d'ou il eſtoit natif) pierreuſe aſsiſe com",
+   "lines": [
+    "Ouid. au j.",
+    "de Ponto."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "uoit offerte {c2}. Auquel propos Ouide dit {q},",
+   "note": "the marker printed after 'Ouide dit' is unmistakably an italic q (bowl plus straight descender, no ascender), so it is transcribed {q}; there is no margin note keyed q. The note keyed d2 ('Ouid. au j. de Ponto.') is plainly the note for it, so the sort is almost certainly a misprint for d. Recorded as printed per §7.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[6]",
+   "text": "Ouid. au j.",
+   "note": "note key d2 has no matching {d2} marker in the body: its marker is the one printed as {q} on blocks[4].lines[13]. See that entry.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes",
+   "note": "key numbering: the alphabet restarts on this page at the ANNOTAT. XVI. head, so the page carries two b/c/d notes. The first set (for the annotation continued from the previous page) keeps b, c, d; the restarted set is a, b2, c2, d2 per §4. Reader B may have keyed them plainly."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ſi. C. ad I.",
+   "note": "the last sort is shaped like an italic capital I (flat serifs top and bottom, shorter than the lowercase l earlier in the same line); the sense of the citation wants 'ad l. Falc.' (ad legem Falcidiam). Transcribed as printed, 'I.'"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "Falc. de plag.",
+   "note": "a small isolated ink mark sits above the baseline between 'Falc.' and 'de'. It has no foot or descender, so it is read as stray ink / a failed sort and not transcribed; it could be a badly printed 'l.'"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "la l. finale. C.",
+   "note": "the punctuation after 'finale' is faint and worn; read as a period, but a comma or colon is possible."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "met. can.",
+   "note": "reads 'can.' (c-a-n); the citation is D. quod metus causa, so 'cau.' would be expected. Transcribed as printed; sic."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "trie: à peine pourroit-on exprimer (dit en quelque lieu",
+   "note": "the word-break sign in 'pourroit-on' is printed as a raised round dot rather than the usual hyphen; transcribed as '-' per §2."
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "Ciceron) cequ'elle contient de douceur, de plaiſir d'a-",
+   "note": "'cequ'elle' is set solid with no gap; kept closed up as a contraction of the period (§1), but it could equally be normalized to 'ce qu'elle'."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "ment ſi coniointe, qu'vne fẽme, ou vn enfãt {c}, plus chers",
+   "note": "the mark over the e of 'fẽme' is a flat wavy bar, read as a tilde (= femme) and not as the acute of 'féme'; the tilde over the a of 'enfãt' on the same line has the same shape."
+  }
+ ]
+}

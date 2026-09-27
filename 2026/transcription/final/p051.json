@@ -1,0 +1,210 @@
+{
+ "id": "p051",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "PARLEMENT DE TOLOSE,",
+ "folio": "51",
+ "signature": "D ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Outre, qu'il n'eſt vray ſemblable pour la proximité",
+    "du ſang, que l'oncle ne congnoiſſe ſon propre ne pueu",
+    "{a}, ou qu'il ſoit ſi brutal & deſnaturé de vouloir anean-",
+    "tir & deſtruire ſon propre ſang. Il eſt certain auſsi que",
+    "perſonne (ſi elle n'eſt plus felonne que les beſtes ſau-",
+    "uages) n'eut oncques en haine ſa chair: mais l'entre-",
+    "tient, nourriſt & conſeque, de ſon pouuoir {b}. Dont",
+    "ſainct Paul appeloit celuy pire que infidelle, qui n'a",
+    "ſoin des ſiens {ſ}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ce que ledit Barreau oncle, monſtra",
+    "bien à l'exhibition qui luy fut faite du",
+    "priſonnier ſon nepueu, tant deuant ledit",
+    "Iuge de Rieux, qu'apres en la cour: car le",
+    "voyant entre les mains de Iuſtice, les",
+    "gros fers aux iambes, & en danger de ſa",
+    "vie, ſe mit incontinẽt à pleurer, & gemir",
+    "amerement."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "Encor que quelquesfois les hommes larmoyent",
+    "par vne grande, & trop exceſsiue ioye, qui ſoudain ſe",
+    "preſente, comme fit Ptolomee Philadelphe, quand on",
+    "luy offrit les loix des Iuifs eſcrites en lettres d'or {a2}:",
+    "toutesfois le plus ſouuent aduient, que l'homme ne",
+    "pleure que de malancholie, faſcherie, & triſteſſe, & lors",
+    "y a grande raiſon: car l'eſprit qui eſt extremement affli",
+    "ge d'ẽnuy & engoiſſe, eſt apporté iuſqu'à la pellicule du",
+    "cerueau, où il preſſe l'humeur qu'il y trouue: tellemẽt",
+    "qu'il la contrainct ſortir dehors: & voila pourquoy les",
+    "Latins appellent l'humeur, qui decoule des yeux, LA-",
+    "CRIMA: c'eſt à dire Larme: mot tiré de laceration,",
+    "qui vaut autant à dire, que briſer, rompre, & conſom-",
+    "mer: car du rõpement, & triſteſſe de l'eſprit, les larmes",
+    "ſont eſmeuës, & prouoquees. Alexander Aphrodiſee"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "{a}, ou qu'il ſoit ſi brutal & deſnaturé de vouloir anean-",
+   "lines": [
+    "l. octaui, D.",
+    "vnde cog. l. de",
+    "tutela. C de in",
+    "integ. reſt."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "uages) n'eut oncques en haine ſa chair: mais l'entre-",
+   "lines": [
+    "Epheſiens.",
+    "c. v"
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ſainct Paul appeloit celuy pire que infidelle, qui n'a",
+   "lines": [
+    "La i. de Ti-",
+    "moth. c. v."
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "luy offrit les loix des Iuifs eſcrites en lettres d'or {a2}:",
+   "lines": [
+    "Ioſephe au",
+    "liure xij. des",
+    "Antiquitez Iu-",
+    "daiques c. ij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "ſoin des ſiens {ſ}.",
+   "note": "ESCALATE: marker/key mismatch. The body marker is printed as a small raised ſ-shaped sort (body-3.jpg, first line, x~425-470; hooked head to the right, stem, foot at lower left; no lower bowl, no right-facing opening), transcribed {ſ} as printed. The margin note beside the passage (La i. de Ti- / moth. c. v.) is keyed with a clear italic c, and the page's alphabet runs a, b, c: the sort is presumably a wrong sort standing for c. Reader A read {c}, reader B {s}. Neither the marker nor the key has been emended; a human should confirm the sort at the original.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[1].lines[3]",
+   "text": "tir & deſtruire ſon propre ſang. Il eſt certain auſsi que",
+   "note": "the point after 'ſang' is small and imperfectly inked; at 16x it sits on the baseline without the descending tail the page's commas have (cf. 'tient,'), so read as a period, but a comma cannot be excluded."
+  },
+  {
+   "where": "blocks[5].lines[2]",
+   "text": "preſente, comme fit Ptolomee Philadelphe, quand on",
+   "note": "a dot-sized speck with a short hair stands over the final e of 'preſente' (body-5.jpg, last line); it is far smaller than the slanted acute sort of 'apporté' and 'deſnaturé' on this page and is read as a speck or a broken sort, not an accent. Reader A read preſenté.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "Antiquitez Iu-",
+   "note": "the last glyph of the line is blotted; read as a word-break hyphen after 'Iu', but it could be part of a letter. The line-break is confirmed by 'dai…' opening the next line."
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "daiques c. ij.",
+   "note": "HARD / ESCALATE. The letters between 'dai' and 's' are not legible as shapes: pages/strips/p051/margin-3.jpg x~340-470, y~550-610. At 20x: a wedge below the baseline (a descender), two battered looped bodies of u-like shape, and a small dot at x-height over a dot on the baseline, then s. Read as q u e from the citation (Josephus, Antiquitez Iudaiques, liure xij, c. ij), with the q's bowl broken, the u sound, and the e reduced to fragments; reader B wrote dai[??]s. The mark after 'ij' is a ring-shaped blob sitting slightly below the baseline with a faint tail to the lower left (x~540-580); read as the period both readers saw, but a comma is possible.",
+   "escalate": true
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE TOLOSE,",
+   "note": "printed 'TOLOSE' without the H (sic; other rectos have THOLOSE), spaced capitals closed up per §3. The final mark is a comma: about twice the height of the period after XXIX., round at the top, tapering down to the left and descending below the baseline of the E (body-1.jpg x~1360-1420, 16x). Reader B read a period. A separate speck sits high above it."
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "La i. de Ti-",
+   "note": "this note's key is a clear italic c (margin-1.jpg), but no {c} is printed in the body: its marker is the ſ-shaped sort on blocks[1].lines[8] (see that entry). Key kept as printed.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[5].lines[10]",
+   "text": "Latins appellent l'humeur, qui decoule des yeux, LA-",
+   "note": "the e of 'yeux' is barely inked (reads almost as 'yux'); reading confirmed by the surrounding letters and sense."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "c. v",
+   "note": "a very faint speck follows the v; it may be a period ('c. v.') or a paper fibre. Left off."
+  },
+  {
+   "where": "blocks[1].lines[6]",
+   "text": "tient, nourriſt & conſeque, de ſon pouuoir {b}. Dont",
+   "note": "'conſeque' is what is printed (c-o-n-ſ-e-q-u-e, checked at 8x), where the sense wants 'conſerue'; sic."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[1].lines[8]",
+   "A": "ſoin des ſiens {c}.",
+   "B": "ſoin des ſiens {s}.",
+   "chose": "neither",
+   "text": "ſoin des ſiens {ſ}.",
+   "reason": "At 16x and 24x (pages/strips/p051/body-3.jpg, first line, x~425-470) the marker is a small raised sort with a thick head hooking to the right at the top, a stem running down to the left and a short foot at the lower left: a miniature long ſ. It has no lower bowl curving right, so it is not the round s of 'ſiens' beside it (B), and no right-facing opening, so it is not the raised italic c of p018 'mariage {c}' (A). Transcribed as printed, {ſ}; the margin note beside it is keyed c (kept as printed) and the mismatch is escalated."
+  },
+  {
+   "where": "blocks[5].lines[2]",
+   "A": "preſenté, comme fit Ptolomee Philadelphe, quand on",
+   "B": "preſente, comme fit Ptolomee Philadelphe, quand on",
+   "chose": "B",
+   "text": "preſente, comme fit Ptolomee Philadelphe, quand on",
+   "reason": "At 10x (body-5.jpg, last line, x~215-305) the mark over the final e is a dot-sized speck with a hair rising from it, a quarter the length of the long slanted acute of 'apporté' (body-6.jpg, line 5) and of 'deſnaturé'; not this fount's acute sort. 'ſe preſente' (present) is also what the sentence wants. Read as e; the speck is noted."
+  },
+  {
+   "where": "running_head",
+   "A": "PARLEMENT DE TOLOSE,",
+   "B": "PARLEMENT DE TOLOSE.",
+   "chose": "A",
+   "text": "PARLEMENT DE TOLOSE,",
+   "reason": "At 16x (body-1.jpg x~1360-1420, y~195-262) the final mark is about twice the height of the period after XXIX. on the line below, round at the top and tapering down to the left, and its foot is well below the baseline of the E; the period is a compact round dot on the baseline. A comma, as on p041's head. The separate speck high above it is dirt."
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "A": "daiques c. ij.",
+   "B": "dai[??]s c. ij.",
+   "chose": "A",
+   "text": "daiques c. ij.",
+   "reason": "Between 'dai' and 's' (margin-3.jpg x~340-470, y~550-610, at 20x) stand two battered bodies, each a looped stem pair of u-like shape, then a small dot at x-height above a dot on the baseline, with a wedge below the baseline before the first body; three sort positions, consistent with a q (descender printed, bowl broken), a u, and an e reduced to fragments. The citation (Josephus, Antiquitez Iudaiques, liure xij, c. ij) fixes the word; transcribed daiques as the best reading, escalated because the letter shapes themselves are not legible."
+  }
+ ]
+}

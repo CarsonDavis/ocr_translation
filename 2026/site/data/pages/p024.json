@@ -1,0 +1,340 @@
+{
+ "id": "p024",
+ "page": 24,
+ "folio": "24",
+ "side": "verso",
+ "image": "p024",
+ "source": {
+  "kind": "cudl",
+  "image_no": 46,
+  "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/46"
+ },
+ "running_head": "ARREST DV",
+ "prev": "p023",
+ "next": "p025",
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "ment of the true owner and master of the parcel sold, the contract has no force; for what is ours cannot be taken from us without our will <sup class=\"mk\" data-key=\"g\">g</sup>. And certainly it would be a thing far too iniquitous and unreasonable that another should retain and enjoy my property against my will <sup class=\"mk\" data-key=\"h\">h</sup>. Added to which, neither by the delivery of a thing nor by any agreement can more right be transferred than he who delivered it had in it <sup class=\"mk\" data-key=\"i\">i</sup>, whether by testamentary dispositions, <sup class=\"mk\" data-key=\"k\">k</sup> gifts, sales or other contracts <sup class=\"mk\" data-key=\"l\">l</sup>. Therefore, to our purpose, it must undoubtedly be believed that the contracts made by this cheat du Tilh can in no way prejudice Martin Guerre, who without difficulty will recover from the purchasers the lands themselves. But as to the fruits, they will remain with the said purchasers, provided however that they bought, and have always possessed, in good faith, that is to say, thinking that the said du Tilh, the seller, was Martin Guerre. And to understand it clearly, it is to be considered that the good faith of him who buys, or otherwise contracts, with one whom everyone thought to be the true owner and master of the thing, produces two singular and notable effects. The first: that he who possesses the parcel by title of purchase, or the like, and in good faith — that is to say, thinking that he from whom he had the parcel, by purchase or otherwise, was its true master — will gain the fruits of the parcel so long as he holds it with this good faith; for as to the fruits, he stands in the place of the owner and represents him <sup class=\"mk\" data-key=\"m\">m</sup>. The second effect: that he might possess it so long with this good faith that in time he would prescribe it — that is to say, would acquire it in ownership, and irrevocably, by long usage <sup class=\"mk\" data-key=\"n\">n</sup>: unless the contract of sale should by chance have been made of the property of a ward <sup class=\"mk\" data-key=\"o\">o</sup>, or against the prohibition of the law or of the testator <sup class=\"mk\" data-key=\"p\">p</sup>, in which case the purchaser (though he had more good faith and probity than a Scipio Nasica) could not acquire the parcel by prescription, or by possession however long it might be <sup class=\"mk\" data-key=\"q\">q</sup>. Now there is no doubt that he is called in our law a possessor in good faith who has title either from the man he believes to be the owner of the parcel, or from his attorney, guardian or curator <sup class=\"mk\" data-key=\"r\">r</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "g",
+     "citation": "Digest 50.17.11 (<i>De diversis regulis iuris antiqui</i>, l. <i>Id quod nostrum</i>)",
+     "original": "l. Id quod noſtrum. D. de reg. iur.",
+     "gloss": "Pomponius: what is ours cannot be transferred to another without our act."
+    },
+    {
+     "key": "h",
+     "citation": "Digest 24.3 (<i>Soluto matrimonio dos quemadmodum petatur</i>), l. <i>Si filio</i>, § 11; fragment not identified",
+     "original": "l. ſi filio. Pa rag. xi. D. So lut. mat.",
+     "gloss": null
+    },
+    {
+     "key": "i",
+     "citation": "Digest 41.1.20 pr. (<i>De adquirendo rerum dominio</i>, l. <i>Traditio</i>)",
+     "original": "l. traditio D. de acquir. rer. do.",
+     "gloss": "Ulpian: delivery can transfer no more to the receiver than the deliverer had."
+    },
+    {
+     "key": "k",
+     "citation": "Digest 50.17.59 (l. <i>Heredem</i>) and 50.17.54 (l. <i>Nemo plus</i>), both <i>De diversis regulis iuris antiqui</i>",
+     "original": "l. haredẽ. l. nemo plus. D. de reg. iur.",
+     "gloss": "The heir has the same power and right as the deceased; no one can transfer to another more right than he himself has."
+    },
+    {
+     "key": "l",
+     "citation": "Code 7.26 (<i>De usucapione pro emptore vel transactione</i>), l. 2; Code 8.53 (<i>De donationibus</i>), l. <i>Si filius</i> (fragment not identified); and l. <i>Rem alienam</i> (D. 18.1.28) as at {d}",
+     "original": "l ij. C. de vſusap. pẽp. l. ſi filius C. de do na. l rẽ alienã deſ. alleguee.",
+     "gloss": null
+    },
+    {
+     "key": "m",
+     "citation": "Digest 41.1.48 (<i>De adquirendo rerum dominio</i>, l. <i>Bonae fidei</i>)",
+     "original": "l bona fidei D. de ac. do,",
+     "gloss": "Paulus: the good-faith buyer makes the fruits his own by gathering them, even from another's property, because as to the fruits he stands in the owner's place."
+    },
+    {
+     "key": "n",
+     "citation": "Digest 41.3 (<i>De usurpationibus et usucapionibus</i>), l. <i>Si fur</i>, § 1; fragment not identified",
+     "original": "l. ſi fur. Pa rag. i. D. de vſucapio.",
+     "gloss": null
+    },
+    {
+     "key": "o",
+     "citation": "Digest 41.1.48 (l. <i>Bonae fidei</i>) as at {m}",
+     "original": "l bona fidei. allegue.",
+     "gloss": "The ward's property as an exception to the good-faith rule."
+    },
+    {
+     "key": "p",
+     "citation": "Code 7.26 (<i>De usucapione pro emptore vel transactione</i>), l. 2",
+     "original": "l. ij. C. de vſuc. pro empt.",
+     "gloss": "Constitution number not verified."
+    },
+    {
+     "key": "q",
+     "citation": "Code 7.26, l. 2, as at {p}",
+     "original": "l ij. præalleguee.",
+     "gloss": null
+    },
+    {
+     "key": "r",
+     "citation": "Digest 6.2 (<i>De Publiciana in rem actione</i>), l. <i>Quaecunque</i>, last paragraph (fragment not identified); Digest 50.16.109 (<i>De verborum significatione</i>, l. <i>Bonae fidei</i>)",
+     "original": "l. quæcunqꝫ Para. dernier. D. de publicia l. bona fidei. D. de verb. ſi.",
+     "gloss": "Modestinus: a buyer in good faith is one who did not know the thing was another's, or thought the seller had the right to sell — for instance that he was the owner's procurator or guardian. Coras's definition follows this closely."
+    },
+    {
+     "key": "f",
+     "citation": "Code 8.15 (<i>Si aliena res pignori data sit</i>), l. <i>fin.</i>, with Baldus there; Accursius on Code 4.29 (<i>Ad senatus consultum Velleianum</i>), l. <i>Si sine</i> (fragment not identified)",
+     "original": "l. finale &amp; illec le Balde C. ſi res alie. pi. dat. ſit. Ac curſe en la l. ſi ſine. C. ad Velleya.",
+     "gloss": "Evidently belongs to \"to the detriment of the true owner … the contract has no force.\""
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ge du vray ſeigneur & maiſtre de la piece vendue, le cõ",
+    "tract n'a aucune vertu. car ce qui eſt à nous, ne nous",
+    "peut eſtre oſté ſans noſtre vouloir {g}. Et certes ce ſeroit",
+    "vne choſe par trop inique & deſraiſonnable, qu'vn au-",
+    "tre retinſt & iouiſt de mon bien, mal gré moy {h}. Ioinct",
+    "que ni par le bail d'vne choſe, ni par aucune conuen-",
+    "tion, ne peut eſtre transferé, plus de droict que celuy",
+    "qui l'a baillée en auoit {i}. ſoit par diſpoſitions teſtamen-",
+    "taires, {k} donations, ventes, ou autres contracts {l}. Donc",
+    "à noſtre propos, faut indubitablement croire, que les",
+    "contracts faits par cet affronteur du Tilh, ne pourront",
+    "aucunement preiudicier à Martin Guerre, qui ſans dif-",
+    "ficulté, recouurera des achepteurs, les fonds des terres.",
+    "Mais quant aux fruicts, ils demeureronr auſd. ache-",
+    "pteurs, pourueu toutesfois qu'ils ayent achepté, & tou-",
+    "ſiours poſſedé auec bonne foy, c'eſt à dire penſant que",
+    "ledict du Tilh venditeur, fuſt Martin Guerre. Et pour",
+    "clairement l'entendre, eſt à conſiderer, que la bonne foy",
+    "de cil qui achepte, ou autrement contracte auec celuy",
+    "que chacun penſoit eſtre le vray ſeigneur & maiſtre de",
+    "la choſe, produit deux effects ſinguliers & notables.",
+    "Le premier, car celuy qui poſſede la piece auec titre d'a-",
+    "chept, ou ſemblable, & à la bonne foy, c'eſt à dire pen-",
+    "ſant que celuy duquel il ha eu par achept, ou autre",
+    "ment la piece, en fut le vray maiſtre, gagnera les fruicts",
+    "de la piece, tandis qu'il la tiendra, auec ceſte bonne foy",
+    "car quant aux fruicts, il eſt au lieu du ſeigneur & le",
+    "repreſente {m}. Le ſecond effect, qu'il la pourroit ſi lon-",
+    "guement poſſeder auec ceſte bonne foy, que par temps",
+    "il la preſcriroit: c'eſt à dire l'acquerroit en proprieté",
+    "& irreuocablement, par long vſage {n}. ſi ce n'eſt que le",
+    "contract de vente, par fortune fuſt fait des biens d'vn",
+    "pupille {o}, ou contre la prohibition de la lcy, ou du teſta",
+    "teur {p}: auquel cas ne pourroit l'achepteur (bien qu'il",
+    "euſt de bonne foy & de probité, plus qu'vn Scipion Na",
+    "ſica acquerir la piece, par perſcription, ou poſſeſſion",
+    "tant lõgue qu'elle fuſt {q}. Or il n'y a point de doute que",
+    "celuy la en noſtre droit eſt appelé poſſeſſeur de bonne",
+    "foy, qui ha titre, ou de celuy qui eſtime le ſeigneur de",
+    "la piece, ou de ſon procureur, tuteur, ou curateur {r}."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. finale &",
+    "illec le Balde",
+    "C. ſi res alie.",
+    "pi. dat. ſit. Ac",
+    "curſe en la l.",
+    "ſi ſine. C. ad",
+    "Velleya."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. Id quod",
+    "noſtrum. D.",
+    "de reg. iur."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. ſi filio. Pa",
+    "rag. xi. D. So",
+    "lut. mat."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. traditio",
+    "D. de acquir.",
+    "rer. do."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. haredẽ. l.",
+    "nemo plus. D.",
+    "de reg. iur."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l ij. C. de v-",
+    "ſusap. pẽp. l. ſi",
+    "filius C. de do",
+    "na. l rẽ alienã",
+    "deſ. alleguee."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "l bona fidei",
+    "D. de ac. do,"
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "l. ſi fur. Pa",
+    "rag. i. D. de",
+    "vſucapio."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "l bona fidei.",
+    "allegue."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "l. ij. C. de v-",
+    "ſuc. pro empt."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "l ij. præalle-",
+    "guee."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "l. quæcunqꝫ",
+    "Para. dernier.",
+    "D. de publicia",
+    "l. bona fidei.",
+    "D. de verb. ſi."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "l. finale &",
+   "note": "note keyed f has no {f} marker on this page: the alphabet runs on from p023, whose last marker is {e} at its foot. On blocks[0].lines[1] a blank of about two to four letter-widths stands between 'vertu' and the period, where a marker sort may have failed to print; nothing is visible there, so nothing is transcribed. Kept with key f per the standing ruling."
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "Mais quant aux fruicts, ils demeureronr auſd. ache-",
+   "note": "'demeureronr' sic: the final sort is r, not t (both readers, high magnification)"
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "text": "pupille {o}, ou contre la prohibition de la lcy, ou du teſta",
+   "note": "'lcy' sic for 'loy': the second letter is an open c (both readers); 'teſta' breaks to the next line without a hyphen"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "teur {p}: auquel cas ne pourroit l'achepteur (bien qu'il",
+   "note": "a thin reddish vertical stroke stands between 'teur' and the marker p; stray ink or offset, not a letter (reader B)"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "ſica acquerir la piece, par perſcription, ou poſſeſſion",
+   "note": "'perſcription' sic (metathesis for 'preſcription'); the print sets 'pe rſcription' with a gap, normalized to one word per §1"
+  },
+  {
+   "where": "blocks[0]",
+   "note": "continues_next false: the last line ends with a full stop and short of the measure, and p025 opens with the heading TEXTE., so the paragraph ends here"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "de reg. iur.",
+   "note": "the point after 'reg' is a faint speck; read as a period on the parallel of note k"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "l. haredẽ. l.",
+   "note": "'haredẽ': plain a, no æ ligature visible; tilde over the final e"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "l ij. C. de v-",
+   "note": "the letter before the hyphen is read as italic v; could be u. No stop after the leading 'l'"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "ſusap. pẽp. l. ſi",
+   "note": "third letter read as round s, not c, by both readers; the expected citation form is 'ſucap.' (vſucap. pro empt.). Transcribed as printed"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "text": "na. l rẽ alienã",
+   "note": "at 6x the mark after 'na' is a round dot sitting against the foot of the italic l (the apparent tail is the l's foot), read as a period; no point is printed after the following 'l'"
+  },
+  {
+   "where": "margin_notes[5].lines[4]",
+   "text": "deſ. alleguee.",
+   "note": "second letter could be f rather than ſ ('def.'); read 'deſ.' on sense and on the absence of a full crossbar"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "l bona fidei",
+   "note": "printed closed up as 'bonafidei', split per §1 word division (also notes o and r); no point visible after 'fidei' on this line"
+  },
+  {
+   "where": "margin_notes[10].lines[0]",
+   "text": "l ij. præalle-",
+   "note": "at 4x the glyph after 'pr' is the æ ligature (a with an attached e loop) followed by a separate a: seven glyphs 'præalle'; ink is heavy"
+  },
+  {
+   "where": "margin_notes[11].lines[0]",
+   "text": "l. quæcunqꝫ",
+   "note": "the vowel after 'qu' is the æ ligature at 4x; the word ends with q plus the small 3-shaped -que sign hanging below the baseline, rendered ꝫ (U+A76B) per §2"
+  },
+  {
+   "where": "margin_notes[11].lines[4]",
+   "text": "D. de verb. ſi.",
+   "note": "the last group is blotted (margin-3.jpg x~540-650 y~905-975): at 6x a long ſ joined to a small closed loop, with no g bowl or descender, read as the ſi ligature (= ſi[gnificatione]); 'ſig.' remains possible"
+  }
+ ]
+}

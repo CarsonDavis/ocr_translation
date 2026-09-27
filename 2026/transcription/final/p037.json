@@ -1,0 +1,302 @@
+{
+ "id": "p037",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "37",
+ "signature": "C iij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Et que ſes femme, & ſeurs, luy fuſſent",
+    "'accarez: ſ'aſſeurant qu'elles, qui ſont tou",
+    "tes femmes de bien, & honeſtes, le recog",
+    "noiſtront: & que ce pendant ladite de",
+    "Rols, ores eſtant en la puiſſance. dudit",
+    "Pierre Guerre, demeurant en ſa maiſon,",
+    "fuſt ſequeſtrée, & miſe en quelque mai-",
+    "ſon de gens de bien, ou ne peuſt eſtre ſe-",
+    "duite, ni ſubornée. Au reſte, concluant",
+    "aux fins abſolutoires."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XX,",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Si par les vulgaires & communes reigles de droict, il",
+    "eſt à grande raiſon defendu ſequeſtrer les biens {a}: c'eſt",
+    "à dire les ſeparer de la main & puiſſance du poſſeſſeur,",
+    "pour les mettre és mains tierces {b}. parce qu'on ne doit",
+    "pas facilement, ni ſans vrgentes raiſon, & cognoiſſance",
+    "de cauſe priuer aucun de la poſſeſſion de ſon bien {c}.",
+    "A plus forte raiſon, la ſequeſtration & ſeparation des",
+    "perſonnes doit eſtre prohibee: meſmement, quand ou",
+    "les veult oſter de la compagnie de ceux qui luy appar-",
+    "tiennent de bien pres: comme ſont peres, & meres",
+    "enfans ou autre prochains parẽs {d}. Et au contraire auſſi,",
+    "tout ainſi que quand il y a bonne & ſuffiſante cauſe,",
+    "(comme eſt vne crainte que les parties ne viennent",
+    "aux armes {e}, & ſoupçon de fuite, ou de poureté {f}.) il eſt",
+    "indubitalement permis ſequeſter le bien meuble, &",
+    "les fruis de l'immeuble {g}: pareillement aux perſonnes,",
+    "ne fault faire difficulté, que quand il y a quelque ſoup",
+    "çon, & crainte de ſeduction, ou autre cauſe legitime,",
+    "le Iuge ne puiſſe iuſtement proceder à la ſequeſtration",
+    "d'vn homme, ou d'vne femme: & la mettre en la cõpa-",
+    "gnie de gens de bien, qui la gardent de parler, & con-",
+    "uerſer auec perſonnes ſuſpects {h}. Comme par",
+    "exemple', ſi le mari demande eſtre reintegré de ſa",
+    "femme, laquelle toutesfois iuſtement craint ſon au"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "Si par les vulgaires & communes reigles de droict, il",
+   "lines": [
+    "l. e. C. de ꝓ-",
+    "hib. ſeq. pec."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "eſt à grande raiſon defendu ſequeſtrer les biens {a}: c'eſt",
+   "lines": [
+    "l. licet. D.",
+    "depoſ."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "à dire les ſeparer de la main & puiſſance du poſſeſſeur,",
+   "lines": [
+    "c. i. vt lis",
+    "pend."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "pas facilement, ni ſans vrgentes raiſon, & cognoiſſance",
+   "lines": [
+    "l ſi domus",
+    "P. qui confi",
+    "tetur. D. de",
+    "leg. i l. poſſeſ-",
+    "ſionum. C.",
+    "comi. vtr. ind"
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "tiennent de bien pres: comme ſont peres, & meres",
+   "lines": [
+    "l. aquiſſi-",
+    "mun. D. de",
+    "vſufru. l. der-",
+    "nier. D. de of",
+    "fi proc. ca-",
+    "ſar."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "indubitalement permis ſequeſter le bien meuble, &",
+   "lines": [
+    "l. ſi fide iuſ-",
+    "ſor. P. final",
+    "qui ſatiſd. co"
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "çon, & crainte de ſeduction, ou autre cauſe legitime,",
+   "lines": [
+    "l. Impp. P.",
+    "dernier. D.",
+    "app. l a. l. ab.",
+    "executione.",
+    "C. quor. app.",
+    "non recip."
+   ]
+  },
+  {
+   "key": "h",
+   "beside_line": "uerſer auec perſonnes ſuſpects {h}. Comme par",
+   "lines": [
+    "l. ijs. P ſi ve",
+    "rò v. raque.",
+    "D. de liber. ex",
+    "hib."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[1].lines[1]",
+   "text": "'accarez: ſ'aſſeurant qu'elles, qui ſont tou",
+   "note": "a thin slanted comma-shaped mark stands at cap height immediately left of 'accarez', on the column's left edge, clear of the letter (pages/strips/p037/body-2.jpg, top left). It is much lighter than the apostrophes of 'ſ'aſſeurant' and 'qu'elles' on the same line and than the raised sort after 'exemple' (blocks[3].lines[22]), so it may be a stray sort or offset ink rather than type; kept as printed as an apostrophe. Line ends 'tou' with no hyphen (continues 'tes')"
+  },
+  {
+   "where": "blocks[3].lines[22]",
+   "text": "exemple', ſi le mari demande eſtre reintegré de ſa",
+   "note": "a small raised comma-shaped sort, clearly inked, stands between 'exemple' and the comma at ascender height (pages/strips/p037/body-8.jpg, line 3, at 6x). Transcribed as an apostrophe; its purpose is unclear, probably a stray sort"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Et que ſes femme, & ſeurs, luy fuſſent",
+   "note": "sic: 'ſes femme' (plural determiner, singular noun); 'fuſſent' is ſſ"
+  },
+  {
+   "where": "blocks[1].lines[4]",
+   "text": "Rols, ores eſtant en la puiſſance. dudit",
+   "note": "the mark after 'puiſſance' is a compact round dot on the baseline with no descending tail (both readers, 8x-9x), so a period, not a comma; sic mid-sentence"
+  },
+  {
+   "where": "blocks[2].text",
+   "text": "ANNOTAT. XX,",
+   "note": "at 6x the mark after XX is a wedge with a tail descending below the baseline, unlike the round dot after ANNOTAT: a comma, sic for the usual period"
+  },
+  {
+   "where": "blocks[3].lines[10]",
+   "text": "enfans ou autre prochains parẽs {d}. Et au contraire auſſi,",
+   "note": "'parẽs': the mark over the e is a thick nearly horizontal wavy bar (tilde), not the thin slanted acute of 'reintegré' on line 22; easy to misread as 'parés'"
+  },
+  {
+   "where": "blocks[3].lines[19]",
+   "text": "d'vn homme, ou d'vne femme: & la mettre en la cõpa-",
+   "note": "the line-end break sign after 'cõpa' is a short raised blob rather than a clean dash; transcribed '-'"
+  },
+  {
+   "where": "blocks[3].lines[23]",
+   "text": "femme, laquelle toutesfois iuſtement craint ſon au",
+   "note": "the page ends mid-word: 'au' has no hyphen and continues on p038; no catchword is printed"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. e. C. de ꝓ-",
+   "note": "the last sort is a p with an abbreviation stroke: at 10x (pages/strips/p037/margin-2.jpg, note a line 1) the stroke curls off the descender to the right as a flourish rather than a straight bar crossing it, i.e. ꝓ (pro); the continuation 'hib.' (= prohib.) confirms pro. A ꝑ with a blotted bar cannot be wholly excluded"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "hib. ſeq. pec.",
+   "note": "first letter read as h, not b (open arch at bottom right, unlike the closed bowl of the b two glyphs later); citation resolves to C. de prohibita sequestratione pecuniae"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. i. vt lis",
+   "note": "at 8x (pages/strips/p037/margin-2.jpg, note c line 1) the letter after v has a short ascender with a hooked crossbar and a curved foot, the same sort as the t of the agreed 'vtr.' in note d: 'vt'. An italic e is the alternative. The last word is an over-inked blob read 'lis' (vt lis pend. = ut lite pendente); its last letter could be 'a'"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l ſi domus",
+   "note": "'l' carries no period here (contrast 'l.licet' in note b); transcribed as printed"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "P. qui confi",
+   "note": "'confi' with an fi ligature (clear crossbar, so f not ſ; continues 'tetur'); line ends without a hyphen"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "app. l a. l. ab.",
+   "note": "the points in this citation line are faint; the isolated tall sort after 'app.' carries no dot and is read as l (could be a b with a thin bowl); the mark after 'app' may be a colon"
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "text": "l. ijs. P ſi ve",
+   "note": "'ijs' is printed with the italic fount's ij sort (two dots over the pair); transcribed 'ijs' per house practice. No period is printed after the P"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "rò v. raque.",
+   "note": "at 4x (pages/strips/p037/margin-4.jpg, note h line 2) a slanted grave stroke sits directly over the o of 'ro', at accent height and clear of the line above (the 'l.' above it has no descender): read as a printed grave, 'ſi ve-rò' = si vero. Reader B took it for a stray mark"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "D. de liber. ex",
+   "note": "the word before the line end is an over-inked blot about two sorts wide, read 'ex' since the next line is 'hib.' (D. de liberis exhibendis); at 8x there is only a very faint grey smear to its right, far lighter than the printed hyphens of this margin, so no hyphen is transcribed (a break without a hyphen is normal in this print). The blot could also be read 'exe' or 'œ'"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Si par les vulgaires & communes reigles de droict, il",
+   "note": "validator long-s warning: 'Si' opens the annotation with a roman capital S, so the short s is correct"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[1].lines[1]",
+   "A": "accarez: ſ'aſſeurant qu'elles, qui ſont tou",
+   "B": "'accarez: ſ'aſſeurant qu'elles, qui ſont tou",
+   "chose": "B",
+   "text": "'accarez: ſ'aſſeurant qu'elles, qui ſont tou",
+   "reason": "at 6x a thin slanted comma-shaped mark is printed at cap height on the column's left edge before 'accarez'; it is lightly inked but has the shape and position of a raised sort, so it is kept as printed with an uncertain[] note (may be a stray sort)"
+  },
+  {
+   "where": "blocks[2].text",
+   "A": "ANNOTAT. XX,",
+   "B": "ANNOTAT. XX.",
+   "chose": "A",
+   "text": "ANNOTAT. XX,",
+   "reason": "at 6x (pages/strips/p037/body-4.jpg) the mark after XX is a wedge with a tail descending below the baseline, unlike the round dot after ANNOTAT: comma"
+  },
+  {
+   "where": "blocks[3].lines[22]",
+   "A": "exemple, ſi le mari demande eſtre reintegré de ſa",
+   "B": "exemple', ſi le mari demande eſtre reintegré de ſa",
+   "chose": "B",
+   "text": "exemple', ſi le mari demande eſtre reintegré de ſa",
+   "reason": "at 6x (pages/strips/p037/body-8.jpg) a clearly inked raised comma-shaped sort stands between 'exemple' and the comma; it is type, so it is transcribed as an apostrophe"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "A": "c. i. vt lis",
+   "B": "c. i. ve lis",
+   "chose": "A",
+   "text": "c. i. vt lis",
+   "reason": "at 8x the letter after v has a short ascender with a hooked crossbar and curved foot, matching the t of the agreed 'vtr.' in note d, not the closed loop of an italic e"
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "A": "l. ÿs. P ſi ve",
+   "B": "l. ijs. P ſi ve",
+   "chose": "B",
+   "text": "l. ijs. P ſi ve",
+   "reason": "the sort is the italic fount's dotted ij pair, transcribed 'ij' per house practice (cf. 'vij', 'xij' elsewhere), not a y with diaeresis"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "A": "rò v. raque.",
+   "B": "ro v. raque.",
+   "chose": "A",
+   "text": "rò v. raque.",
+   "reason": "at 4x a slanted grave stroke sits directly over the o at accent height; nothing on the line above descends to that point (the 'l.' of 'l. ijs' has no descender), so it is a printed grave: verò"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "A": "D. de liber. ex",
+   "B": "D. de liber. ex-",
+   "chose": "A",
+   "text": "D. de liber. ex",
+   "reason": "at 8x only a very faint grey smear follows the 'ex' blot, far lighter than every printed hyphen in this margin ('cogni-', 'lo-'); no hyphen is transcribed, an unhyphenated break being normal in this print"
+  }
+ ]
+}

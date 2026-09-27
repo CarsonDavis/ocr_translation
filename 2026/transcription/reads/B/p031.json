@@ -1,0 +1,203 @@
+{
+ "id": "p031",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE TOLOSE.",
+ "folio": "31",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "du ſeruice de ſon maiſtre {b}, A plus grãde raiſon, de gaſter,",
+    "& ſeduire par dons, preſens, blãdices, Promeſſes, & autre",
+    "tels alechemens, vne perſonne franche, & libre: meſme-",
+    "ment ſi coniointe, qu'vne fẽme, ou vn enfãt {c}, plus chers",
+    "ſans cõparaiſon au mari, ou au pere, qu'a toutes les cho-",
+    "ſes les plus precieuſes du monde {d}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et diſcourant mieux encor le faict, deſ-",
+    "duiſoit, qu'ayant demeuré ſept ou huict",
+    "ans, au ſeruice du Roy à la guerre, & quel",
+    "ques mois aux Eſpaignes pour voir le",
+    "pays, deſireux de reuoir ſes parens, ſa pa-",
+    "trie, Sanxi ſon enfant, & plus encor ladite",
+    "de Rols ſa femme: ſ'en ſeroit trois ans y",
+    "a & d'auantage, retourné audit lieu d'Ar-",
+    "tigat."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ces trois eſguillions ici, eſtoyent à la verité biens",
+    "poignans, pour faire reuenir vn perſonnage de loing",
+    "tain pais; à ſçauoir La douceur de la partie, La charité",
+    "des enfans, & L'amour de la femme. Car quant à la pa-",
+    "trie: à peine pourroit-on exprimer (dit en quelque lieu",
+    "Ciceron) ce qu'elle contient de douceur, de plaiſir d'a-",
+    "mour, & de volupté {a}. laquelle infiniment grande, fait",
+    "qu'vn autre pays, bien qu'il ſoit plus beau, plaiſant, &",
+    "fertile, ne ſera pourtant iamais trouué ſi gracieux, ni",
+    "delectable {b2}. teſmoing Vliſſes, lequel iadis oſa bien pre",
+    "ferer Ithaque (d'ou il eſtoit natif) pierreuſe aſsiſe com",
+    "me vn petit nid parmi les apres rochers, & preſqu' in-",
+    "acceſſible à l'ĩmortalité, que Calypſo la nymphe luy a-",
+    "uoit offeret {c2}. Auquel propos Ouide dit {q},"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Neſcio qua natale ſolum, dulcedine cunctos",
+    "Ducit, & immemores, non ſinit eſſe ſui."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "beside_line": "du ſeruice de ſon maiſtre {b}, A plus grãde raiſon, de gaſter,",
+   "lines": [
+    "l. j. & autres",
+    "au meſme tit-",
+    "tre. D. de ſer.",
+    "cor."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ment ſi coniointe, qu'vne fẽme, ou vn enfãt {c}, plus chers",
+   "lines": [
+    "l. ſi. C. ad I.",
+    "Falc. de plag.",
+    "l. & tantum",
+    "P. j. D. de ſcr.",
+    "cer."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "ſes les plus precieuſes du monde {d}.",
+   "lines": [
+    "l. iſti qui-",
+    "dem. D. quod",
+    "met. can."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "Ces trois eſguillions ici, eſtoyent à la verité biens",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon qu'il",
+    "eut ad Quiri",
+    "tes poſt reditũ."
+   ]
+  },
+  {
+   "key": "b2",
+   "beside_line": "poignans, pour faire reuenir vn perſonnage de loing",
+   "lines": [
+    "l. qui habe-",
+    "bat. D. de leg.",
+    "ij. Accurſe en",
+    "la l. finale. C.",
+    "ſi ſeru. expor.",
+    "ven."
+   ]
+  },
+  {
+   "key": "c2",
+   "beside_line": "mour, & de volupté {a}. laquelle infiniment grande, fait",
+   "lines": [
+    "Homere au",
+    "v. de l'Odiſ",
+    "ſee.",
+    "Cicerõ au. j.",
+    "de Oratore."
+   ]
+  },
+  {
+   "key": "d2",
+   "beside_line": "ferer Ithaque (d'ou il eſtoit natif) pierreuſe aſsiſe com",
+   "lines": [
+    "Ouid. au j.",
+    "de Ponto."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "uoit offeret {c2}. Auquel propos Ouide dit {q},",
+   "note": "the marker after 'dit' is printed as an italic q with a full descender, so it is transcribed {q}; but the matching citation in the margin is keyed d (transcribed d2 here, 'Ouid. au j. de Ponto.'), and the annotation's other markers run a, b, c. Almost certainly a compositor's wrong sort for d. So marker q has no note, and note key d2 has no marker. Escalating for the reconciler.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "uoit offeret {c2}. Auquel propos Ouide dit {q},",
+   "note": "sic: the word before the marker reads o-ff-e-r-e-t at 14x, i.e. 'offeret' where the sense wants 'offerte' (Calypso had offered it to him). Looks like a transposed e/t. Transcribed as printed.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "tain pais; à ſçauoir La douceur de la partie, La charité",
+   "note": "punctuation after 'pais' checked at 9x: upper dot plus a comma with a tail below the baseline, i.e. a semicolon, not the colon the sense would suggest. Compare 'trie:' on blocks[4].lines[4], which is two round dots."
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "me vn petit nid parmi les apres rochers, & preſqu' in-",
+   "note": "the compositor sets a clear word space after the apostrophe of 'preſqu'', with 'in-' hyphenated to 'acceſſible' on the next line. Kept as printed ('preſqu' in-') rather than closed up to 'preſqu'in-'."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ſi. C. ad I.",
+   "note": "the final letter of 'ad I.' is a straight stroke with top and bottom serifs (italic capital I), unlike the looped italic lowercase l that opens the same line. The citation is 'C. ad l. Falcidiam', so the sense wants lowercase l; transcribed as the capital shape printed."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "Falc. de plag.",
+   "note": "a small raised tick stands between 'Falc.' and 'de' at ascender height. It may be a badly inked 'l.' (a further citation) or a broken sort; not transcribable as a letter, so omitted from the line."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "met. can.",
+   "note": "last abbreviation read at 9x as 'can.' (the final letter arches over at the top, so n rather than u); the citation is D. quod metus causa, where 'cau.' would be expected. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "la l. finale. C.",
+   "note": "the mark after 'finale' is a low round dot with an ink speck above it; read as a period, but a colon cannot be ruled out."
+  },
+  {
+   "where": "margin_notes",
+   "note": "the marker alphabet restarts at 'a' with ANNOTAT. XVI, so the page carries two runs: b, c, d in the paragraph continued from p030, then a, b, c, (q) in the annotation. Per §4 the repeated letters are keyed b2, c2, d2 in both the body and the notes; the first 'a' of the second run keeps the plain key a."
+  }
+ ]
+}

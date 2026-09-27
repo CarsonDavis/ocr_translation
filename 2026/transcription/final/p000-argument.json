@@ -1,0 +1,190 @@
+{
+ "id": "p000-argument",
+ "reader": "final",
+ "model": "fable",
+ "running_head": null,
+ "folio": null,
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "ARGVMENT ET SOM-",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "MAIRE DV FAICT.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "MArtin Guerre, du lieu d'Artigat en Gaſcongne, ayant vne belle ieune",
+    "fẽme, appellee Bertrande de Rols, ſ'en va à la guerre. & demeure huict",
+    "ans abſent: paſſez leſquels, Arnault du Tilh, ſoy diſant Martin Guer-",
+    "re, ſe preſente aux ſeurs, oncle, & parẽs dudit. Martin, enſemble à ladite",
+    "de Rols, femme: qui tous, pour la raiſon de la grande ſimilitude qui eſtoit",
+    "entre luy & ledit Martin abſent, & pour les veritables enſeignes, qu il dõnoit à chacũ",
+    "de toutes choſes, facilement ſe perſuadent qu'il eſt Martin Guerre, & pour tel le reçoy-",
+    "uent: & eſt recognu de tous les habitans. dud. Artigat, meſmement de lad. de Rols. auec",
+    "laquelle il cohabite trois ans comme mari, & de ſes œuures a deux enfans. Apres l'im-",
+    "poſture quelque peu deſcouuerte, il eſt fait priſonnier par authorité du iuge de Rieux, &",
+    "en fin condamné perdre la teſte. dequoy appelle au Parlement de Tholoſe, ou il eſt ame-",
+    "ne & ouy: ſoutenãt touſiours, qu'il eſtoit Martin Guerre, comme auſsi faiſoient faire les",
+    "quatre ſeurs, & leurs maris, beaux freres dud. Martin, enſemble trente ou quarente teſ-",
+    "moins. Mais par ce que pluſieurs autres au contraire, l'aſſeuroyent eſtre Arnault du",
+    "Tilh, ou bien en doutoient, n'oſoyent affermer ni l'vn ni l'autre, pour la reſſemblance",
+    "grãde du priſonniér, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+    "plexité. Et comme on vouloit iuger le procez, Martin Guerre arriue: lequel neant-moins",
+    "confronté aud. du Tilh, demeure preſque vaincu: tãt mieulx ſçauoit l'impoſteur farder",
+    "ſes menſonges, que l'autre ſ'aider de la verité. Dont les Iuges encor plus incertains, font",
+    "venir les ſeurs, & certains autres teſmoins: par leſquels le nouueau venu eſt remarqué.",
+    "& recognu pour Martin Guerre: & l'impoſture faite euidente. Dont ſ'en enſuit arreſt,",
+    "que led. du Tilh ſera pendu, & ſon corps bruſlé: les enfans neant-moins procreez de ſes",
+    "œuures, & de. lad. de Rols declarez legitimes. A l'execution duquel ledit du Tilh, con-",
+    "damné, confeſſe au long l'impoſture,"
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [
+  "decorated initial M, 5 lines, white-on-black foliate woodcut, opening 'MArtin Guerre'"
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "ARGVMENT ET SOM-",
+   "note": "widely letterspaced roman capitals, transcribed closed up with spaced_caps true per §3. The word-break sign after SOM is a small mark set high, near the cap line; read as a hyphen. A faint speck sits over the E of ET (offset/show-through, not an accent)."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "MAIRE DV FAICT.",
+   "note": "the last letter of FAICT is heavily inked and its top bar merges into the stem, so the glyph can be mistaken for a Y; the serifed horizontal top bar and the centred stem with a foot serif make it a T, and the word is FAICT"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "MArtin Guerre, du lieu d'Artigat en Gaſcongne, ayant vne belle ieune",
+   "note": "the M is the 5-line decorated initial; the type after it sets a capital A ('Artin'), kept as printed."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "fẽme, appellee Bertrande de Rols, ſ'en va à la guerre. & demeure huict",
+   "note": "'fẽme' carries a clear tilde over the e; the same word is set in full as 'femme' on lines[4]. Both are transcribed as printed. The print sets a space before the comma of 'Rols ,' which is normalized away per §1"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "re, ſe preſente aux ſeurs, oncle, & parẽs dudit. Martin, enſemble à ladite",
+   "note": "a small round point is printed on the baseline between 'dudit' and 'Martin' although 'dudit' is not abbreviated; transcribed as printed (reader A omitted it as a speck)."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "de Rols, femme: qui tous, pour la raiſon de la grande ſimilitude qui eſtoit",
+   "note": "in 'ſimilitude' the l is almost entirely unprinted, leaving a visible gap between 'ſimi' and 'itude'; a faint ghost of the ascender is still visible under high magnification, so the word is read as 'ſimilitude'"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "entre luy & ledit Martin abſent, & pour les veritables enſeignes, qu il dõnoit à chacũ",
+   "note": "'qu il' is printed with a word space and no apostrophe (sic); contrast 'qu'il' on lines[6] and lines[11], where the apostrophe is clear. Also the grave over the a of 'à chacũ' is light and sits amid show-through; read as a grave because the parallel 'a deux enfans' on lines[8] has no such mark"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "uent: & eſt recognu de tous les habitans. dud. Artigat, meſmement de lad. de Rols. auec",
+   "note": "a point is printed both before and after 'dud.' ('habitans. dud.'), both equally inked; the parallel 'de lad. de Rols' later in the line has no point before 'lad.'. Reader A omitted the first point."
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "poſture quelque peu deſcouuerte, il eſt fait priſonnier par authorité du iuge de Rieux, &",
+   "note": "'deſcouuerte' with a plain o (reader A read œ). 'iuge de' is set solid in the print; word division normalized per §1."
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "grãde du priſonnier, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+   "note": "'merueillieuſe' (sic): there is a clearly dotted i between the double l and 'euſe', so the word is not 'merueilleuſe'. Transcribed as printed."
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "grãde du priſonniér, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+   "note": "'priſonniér' carries a clear acute over the final e (sic); the same word is set without the accent on lines[9]"
+  },
+  {
+   "where": "blocks[2].lines[22]",
+   "text": "œuures, & de. lad. de Rols declarez legitimes. A l'execution duquel ledit du Tilh, con-",
+   "note": "cluster of marks around 'de lad. de': a raised acute-shaped tick above and right of the e of the first 'de', a round dot on the baseline right after that e (transcribed as a point, 'de.'), and after 'lad' a low tailed mark sitting below the baseline with a second small stroke beside it, transcribed as the point of 'lad.' (both readers) though it could be a comma or a dropped sort. Pointer: pages/full/p000-argument.jpg, x~640-870, y~2050-2120 (body strip holding the line 'œuures, & de lad. de Rols'). Low confidence on which of these marks are printed sorts. | Carson-session 2026-09-21: kept `de. lad.` as both readers read; the raised tick after de is a stray mark, the baseline point is printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2]",
+   "note": "the paragraph breaks off mid-sentence on its last line ('confeſſe au long l'impoſture,') with a comma and no terminal punctuation; the lower two thirds of the page are blank and the facing recto begins the main text (p001), so nothing continues it. continues_next is therefore set false"
+  },
+  {
+   "where": "page",
+   "note": "the whole leaf is crossed by heavy show-through/offset from the printed index table on the other side of the leaf (mirrored roman type and column figures), which produces ghost letters between and beneath the italic lines; none of it belongs to this page and none has been transcribed"
+  },
+  {
+   "where": "margin_notes / foot_notes",
+   "note": "the page has no letter markers in the body, no marginal notes (the outer margin is blank for its whole height), no foot citation block, no running head, no printed folio, no signature and no catchword"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[2].lines[0]",
+   "A": "MArtin Guerre, du lieu d'Artigat en Gaſcongne, ayant vne belle ieune",
+   "B": "Martin Guerre, du lieu d'Artigat en Gaſcongne, ayant vne belle ieune",
+   "chose": "A",
+   "text": "MArtin Guerre, du lieu d'Artigat en Gaſcongne, ayant vne belle ieune",
+   "reason": "after the decorated initial the print sets a capital A ('Artin', pages/full/p000-argument.jpg y~690, 4x); the letters printed after the initial are kept as printed"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "A": "re, ſe preſente aux ſeurs, oncle, & parẽs dudit Martin, enſemble à ladite",
+   "B": "re, ſe preſente aux ſeurs, oncle, & parẽs dudit. Martin, enſemble à ladite",
+   "chose": "B",
+   "text": "re, ſe preſente aux ſeurs, oncle, & parẽs dudit. Martin, enſemble à ladite",
+   "reason": "a round point is printed on the baseline between 'dudit' and 'Martin' (pages/full/p000-argument.jpg y~880, 4x); smaller than the point after 'dud.' on line 7 but a printed sort, not a speck"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "A": "uent: & eſt recognu de tous les habitans dud. Artigat, meſmement de lad. de Rols. auec",
+   "B": "uent: & eſt recognu de tous les habitans. dud. Artigat, meſmement de lad. de Rols. auec",
+   "chose": "B",
+   "text": "uent: & eſt recognu de tous les habitans. dud. Artigat, meſmement de lad. de Rols. auec",
+   "reason": "a point of the same weight as the one after 'dud.' is printed after 'habitans' (pages/full/p000-argument.jpg y~1130, 4x); no point before 'lad.' later in the line"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "A": "poſture quelque peu deſcœuuerte, il eſt fait priſonnier par authorité du iugede Rieux, &",
+   "B": "poſture quelque peu deſcouuerte, il eſt fait priſonnier par authorité du iugede Rieux, &",
+   "chose": "neither",
+   "text": "poſture quelque peu deſcouuerte, il eſt fait priſonnier par authorité du iuge de Rieux, &",
+   "reason": "'deſcouuerte': the sort after ſc is a single round bowl (o) at 8x (pages/full/p000-argument.jpg y~1260), not the two-bowled œ ligature of 'œuures'; B's reading. 'iugede' is set solid but 'iuge' and 'de' are distinct words, so split per §1 (both readers had it fused)"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "A": "ne & ouy: ſoutenãt touſiours, qu'il eſtoit Martin Guerre, comme auſsi faiſoient faire les",
+   "B": "ne & ouy: ſoutenãt touſiours, qu'il eſtoit Martin Guerre, comme auſſi faiſoient faire les",
+   "chose": "A",
+   "text": "ne & ouy: ſoutenãt touſiours, qu'il eſtoit Martin Guerre, comme auſsi faiſoient faire les",
+   "reason": "'auſsi' is set with the italic ſs ligature (long ſ joined to a round s, pages/full/p000-argument.jpg y~1385, 5x); §2 keeps ſs as printed"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "A": "grãde du priſonniér, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+   "B": "grãde du priſonnier, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+   "chose": "A",
+   "text": "grãde du priſonniér, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+   "reason": "a clear detached acute stands over the final e of 'priſonniér' (pages/full/p000-argument.jpg y~1640, 4x); sic"
+  },
+  {
+   "where": "blocks[2].lines[22]",
+   "A": "œuures, & de lad. de Rols declarez legitimes. A l'execution duquel ledit du Tilh, con-",
+   "B": "œuures, & de. lad. de Rols declarez legitimes. A l'execution duquel ledit du Tilh, con-",
+   "chose": "B",
+   "text": "œuures, & de. lad. de Rols declarez legitimes. A l'execution duquel ledit du Tilh, con-",
+   "reason": "a well-inked round dot sits on the baseline immediately after the first 'de', below a raised tick over the e (pages/full/p000-argument.jpg y~2085, 7x); read as a printed point, the tick as a speck or displaced acute. Escalated with the rest of the cluster (see uncertain[])"
+  }
+ ]
+}

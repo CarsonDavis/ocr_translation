@@ -1,0 +1,132 @@
+{
+ "id": "p014",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "AREST DV",
+ "folio": "14",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Duc Charles, que le peuple conſtamment aſſeuroit que",
+    "le Duc n'eſtoit point mort, & que celuy la eſtoit verita-",
+    "blement le Duc Charles, combien que luy-meſme aſſer",
+    "maſt le contraire, & viuement niaſt qu'il le fuſt {g}. Fran-",
+    "çois Sforce Duc de Milan, auoit à ſon ſeruice vn ieune",
+    "ſoldat, qui le reſſembloit ſi bien, que tous les autres ſol-",
+    "dats, prins argument de telle ſimilitude, appeloyent ce",
+    "ieune homme ſouuentesfois le Prince, auquel comme",
+    "dans vn miroir, le Duc ſe delectoit ſouuent voir ſon ima",
+    "ge, ſes geſtes, & contenances: recognoiſtre ſa voix, & ſe",
+    "contempler ſoy-meſmes. En meſmes temps & pays, ce",
+    "Duc Sforce auoit vn plaiſanteur, nõmé Marcheſin, qu'il",
+    "appeloit le ſeigneur Sigiſmond Malareſte ſon fils, pour",
+    "ce qu'ils eſtoyent entierement ſemblables. De quoy ice-",
+    "luy Malateſte auoit ſi grand honte, que quand il vouloit",
+    "aller à Milan voir le Duc, ſon beau pere, il l'enuoyoit",
+    "premierement ſupplier, de mander ailleurs Marcheſin.",
+    "{h} Des ſimilitudes qui ont eſté cauſe de pluſieurs impoſtu",
+    "res, factions grandes, & entrepriſes memorables, nous",
+    "en parlerons plus commodément ci bas en quelque lieu",
+    "s'il plaiſt au Seigneur, Mais icy peut eſtre que quel-",
+    "qu'vn voudra recercher, & entendre la cauſe; pour la-",
+    "quelle on voit ſouuent les hommes procréez de diuers",
+    "parens, & en diuers lointains lieux, neantmoins ſe rap-",
+    "porter ſi bien, & proprement des traicts du viſage, & de",
+    "la compoſition du corps, que facilemeut ne ſe peuuent",
+    "diſcerner les vns des autres. Auquel ie diray premiere-",
+    "ment, qu'il faut auec l'honneur, & la reuerence qu'il ap-",
+    "partient, rapporter la ſource, & la cauſe de tels faicts, à",
+    "l'entendement de ce grand ouurier de nature (qui eſt le",
+    "Dieu tout puiſſant) lequel ne s'aſſeruiſt aux races, ni aux",
+    "pays, ny aux affections des perſonnes, mais par ſon infi-",
+    "nie & incomprehenſible prouidence, ſecrets, hauts & in-",
+    "ſcrutables iugemens, proiette ſes idées, & forme ſes crea-",
+    "tures, cõme il luy ſemble: toutesfois, voit on aduenir le",
+    "plus ſouuent, que les ſemblances des hommes, paſſent",
+    "iuſqu'aux races: & que tout animal, non ſeulement pro-",
+    "crée ſon ſemblable: mais encor luy depart ſes propres, &",
+    "naturelles vertus."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "g",
+   "beside_line": "blement le Duc Charles, combien que luy-meſme aſſer",
+   "lines": [
+    "Mũſter au",
+    "liure ij. de la",
+    "coſmographie",
+    "vniuerſelle,"
+   ]
+  },
+  {
+   "key": "h",
+   "beside_line": "{h} Des ſimilitudes qui ont eſté cauſe de pluſieurs impoſtu",
+   "lines": [
+    "Raphael fu",
+    "goſe au liure",
+    "ix, des choſes",
+    "memorables c.",
+    "xv."
+   ]
+  },
+  {
+   "key": "i",
+   "beside_line": "qu'vn voudra recercher, & entendre la cauſe; pour la-",
+   "lines": [
+    "En l'anno-",
+    "tatio, lxxxj."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "AREST DV",
+   "note": "printed with a single R in spaced small capitals (A R E S T  D V), i.e. AREST not ARREST; kept as printed, sic"
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "{h} Des ſimilitudes qui ont eſté cauſe de pluſieurs impoſtu",
+   "note": "the marker glyph (and the matching margin key) looks like an italic b: a stem with a closed bowl. Read as h because the letter series runs continuously: p013 has e, f and p015 has k, l, m, so p014 must carry g, h, i. Escalate if the reconciler reads it as b.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "En l'anno-",
+   "note": "note key i: no {i} marker is visible anywhere in the body. Every body line was checked at native resolution; lines 18-22 (where the note sits) carry no marker. Either the marker was not printed or it has dropped out."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "tatio, lxxxj.",
+   "note": "heavily inked: the third letter is either the italic 'odd t' or an r, so the word is 'tatio' or 'tario'; read as tatio for sense (l'anno-tatio[n]). The mark after the final o is read as a comma, not a tilde."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Raphael fu",
+   "note": "the name is printed 'fu' / 'goſe' (Raphael Fugoſe) with no l and no line-end hyphen; sic for Fulgose (Battista Fulgosus)"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "appeloit le ſeigneur Sigiſmond Malareſte ſon fils, pour",
+   "note": "printed Malareſte here but Malateſte two lines later (line 15); both kept as printed, sic"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "la compoſition du corps, que facilemeut ne ſe peuuent",
+   "note": "facilemeut: turned n, sic for facilement"
+  },
+  {
+   "where": "blocks[0]",
+   "note": "continues_next set false: the page ends with a full stop at 'naturelles vertus.' and p015 opens with four display lines of Latin verse before the prose resumes"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "id": "p013",
+ "reader": "final",
+ "model": "carson-session",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "13",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "triumuirat, Thoranius auoit vendu deux ieunes garçõs,",
+    "pour gemeaux: pource qu'ils ſe reſſembloyent du tout,",
+    "bien que l'vn fuſt de France, & l'autre d'Aſie. Quoy en-",
+    "tendu par M. Antoine qui en auoit payé trois cens ſeſter",
+    "ces, reuenans à trois mille ſept cens cinquante eſcus de",
+    "noſtre monnoye, (car le ſeſterce, ſelon la ſupputation",
+    "de Budé, & autres perſonnes doctes, & fait la redu-",
+    "ction à la mõnoye de France, valoit enuiron vintcinq eſ-",
+    "cuz, lequel multiplié trois cẽs fois, reuient peu plus, peu",
+    "moins, à la dite ſõme de 3750. eſcus) il en fut du premier",
+    "front vn peu faſché, mais Thoranius luy remonſtra q̃ ce",
+    "de quoy il ſe plaignoit, deuoit eſtre par luy eſtimé, le",
+    "plus precieux de ſon achapt. Car ſi les enfans euſſent eſté",
+    "beſſons, il n'y euſt eu rien d'eſmerueillable, s'ils euſſent",
+    "eſté ſemblables, pour eſtre procreez d'vne meſmes ſe-",
+    "mence, ſous meſmes aſtres & conſtellatiõs: Mais de voir",
+    "deux enfans, naiz de diuers parens, en diuers pays, & ſi",
+    "loingtains, l'vn en l'Aſie, l'autre en l'Europe, eſtoit cho-",
+    "ſe prodigieuſe, & grãdemẽt admirable. Laquelle reſpon",
+    "ſe contenta tellement Marc Antoine, qu'il ſouloit dire,",
+    "n'auoir en la grandeur de ſes facultez, rien ſi cher, ne ſi",
+    "precieux, que ces deux garçons {e}. Iadis en Sicile, y auoit",
+    "vn peſcheur, tellement ſemblable à Sura Romain, pour",
+    "lors illec Proconſul: qu'il eſtoyent, non ſeulement pa-",
+    "reils de ſimilitude corporelle, mais encor de la maniere",
+    "de parler. Car tous deux eſtoyent begues: auquel Sura",
+    "dit vne fois par ieu, s'esbahir grandement, comme il",
+    "luy eſtoit ſi ſemblable, veu que mon pere (diſoit Sura)",
+    "ne fut iamais en ce pays, voulant par là taxer l'honneur",
+    "& la chaſteté de la mere du pauure peſcheur: lequel pour",
+    "tant, ne ſe monſtra lourdaut à luy reſpondre, diſant que",
+    "Sura n'auoit occaſion s'en eſmerueiller, car ſon pere a-",
+    "uoit eſté ſouuent à Rome: reiettant par ce moyen ſur la",
+    "mere de Sura, ce que Sura auoit voulu empraindre à la",
+    "ſienne {f}. Sebaſtien Munſter, homme de leçon grande, en",
+    "ſa coſmographie recite, qu'apres la troiſieme deſconfitu",
+    "re des Bourguignons, (où leur Duc Charles fut tué) fai",
+    "te par les Suiſſes: qui fut enuiron l'année, mil quatre cẽs",
+    "ſoixante & dix ſept, vint vn homme à Bruxelles, ville du",
+    "dioceſe de Spire, qui reſſembloit ſi naifuement le feu"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "e",
+   "beside_line": "precieux, que ces deux garçons {e}. Iadis en Sicile, y auoit",
+   "lines": [
+    "Solin & Pli-",
+    "ne: aux lieux",
+    "prealleguez."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "ſienne {f}. Sebaſtien Munſter, homme de leçon grande, en",
+   "lines": [
+    "Pline, Solin,",
+    "& Valere",
+    "aux lieux que",
+    "deſſus"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "note": "page quality: this is a clean, well-inked copy (CUDL), far easier than the Gallica microfilm pages. Body type is sharp throughout; the only real difficulty is the small italic margin font, whose x/z and final letters are at the limit of the scan's resolution."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "triumuirat, Thoranius auoit vendu deux ieunes garçõs,",
+   "note": "the page opens mid-sentence; p012 is not yet transcribed, so 'triumuirat' is read on its own (the second triumvirate, the setting of the Thoranius anecdote) and not from the preceding page. continues_prev is set true on that basis."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "bien que l'vn fuſt de France, & l'autre d'Aſie. Quoy en-",
+   "note": "the mark between 'France' and '&' is a small round blob that dips just below the baseline. Read as a comma (it sits lower than the certain points on this line, e.g. after 'd'Aſie', and the sense wants a comma), but its tail is not formed, so it could be read as a point. Reader B may read 'France.'."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "tendu par M. Antoine qui en auoit payé trois cens ſeſter",
+   "note": "the 'M' of 'M. Antoine' is printed as a small capital. Transcribed as an ordinary capital per §3; 'M.' and 'Antoine' are kept as separate tokens. The print sets the point tight against 'Antoine' ('par M .Antoine'); normalized per §1."
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "front vn peu faſché, mais Thoranius luy remonſtra q̃ ce",
+   "note": "the abbreviation after 'remonſtra' is a q with a short stroke above it; the stroke is slanted rather than wavy, so it reads almost as an acute. Transcribed as q + combining tilde (q̃ = que) per §2, since the sense requires 'que'."
+  },
+  {
+   "where": "blocks[0].lines[23]",
+   "text": "lors illec Proconſul: qu'il eſtoyent, non ſeulement pa-",
+   "note": "sic: 'qu'il eſtoyent' for 'qu'ils eſtoyent'. Checked at high magnification — no s is printed after 'qu'il'."
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "dit vne fois par ieu, s'esbahir grandement, comme il",
+   "note": "'s'esbahir' is printed with round s twice — once for the elided pronoun and once before the b, as §2 expects before b/f/k. Flagged only because the validator warns on ſ-free s-words; the reading is certain."
+  },
+  {
+   "where": "blocks[0].lines[37]",
+   "text": "te par les Suiſſes: qui fut enuiron l'année, mil quatre cẽs",
+   "note": "'l'année' is set with a visible gap before the final e ('l'anné e'), which at reading size looks like two words. At native resolution it is one word loosely spaced; normalized to 'l'année' per §1."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "spacing: the compositor repeatedly sets a comma or colon with no following space ('ces,reuenans', 'moins,à', 'tant,ne', 'mence,ſous', 'Rome:reiettant', 'Suiſſes:qui', 'Munſter,homme') and sometimes a space before a mark ('d'Aſie .', 'parens ,en', 'pays ,', 'parler .', 'admirable .', 'ieu ,'). All normalized to single spaces per §1; nothing added or removed beyond spacing. Parentheses likewise: '(car', 'eſcus)il', 'tué)fai' are set tight and normalized."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "five line breaks are printed with no word-break hyphen and are transcribed as printed: lines[3] 'ſeſter' + lines[4] 'ces'; lines[18] 'reſpon' + lines[19] 'ſe'; lines[35] 'deſconfitu' + lines[36] 're'; lines[36] 'fai' + lines[37] 'te'. Hyphens are printed normally elsewhere on the page ('en-', 'redu-', 'eſ-', 'ſe-', 'cho-', 'pa-', 'a-'), so these are compositor omissions, not lost ink. Per §1 no entry is strictly required; recorded for the reconciler."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "prealleguez.",
+   "note": "the final letter before the point is at the limit of the scan. Compared side by side with the certain italic x of 'aux lieux' in this same note and in note f, the two glyphs are near-identical in shape, so the letter could be an x. Read as z because 'prealleguez' is a word and 'prealleguex' is not. Reader B may read 'prealleguex.' or 'preallegués.'."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "ne: aux lieux",
+   "note": "'ne:' — two dots are stacked after 'ne' (the continuation of 'Pli-|ne'), so a colon is transcribed. Note f gives the same citation formula without any mark after the author names, so this could be a point with a speck above it."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "& Valere",
+   "note": "the capital of 'Valere' (Valère Maxime) is the italic swash form, which in this font reads as either V or U. Transcribed V from the name."
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "text": "deſſus",
+   "note": "no point is printed after the final 'deſſus', or it is lost at the edge of the type; transcribed as printed. Note e ends with a clear point."
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "the head is set in spaced capitals and is closed up here per §3. It ends with a point, matching the conventions' recto example."
+  },
+  {
+   "where": "signature",
+   "note": "no signature, no catchword and no foot citation block are printed. The leaf is blank from just below the last body line to the foot of the page (checked on foot.jpg, which shows the untrimmed bottom margin), so nothing is lost to the crop."
+  },
+  {
+   "where": "margin_notes",
+   "note": "only two margin notes on the page, keyed e and f, and both markers are present in the body (lines[21] and lines[34]). The alphabet therefore runs a–d on the preceding pages of this annotation and continues past f on the next; nothing is missing here. The top of the margin column (margin-1.jpg) and its foot (margin-4.jpg) are blank apart from show-through from the verso."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "page",
+   "A": "",
+   "B": "",
+   "chose": "A",
+   "text": "",
+   "reason": "single disagreement: l'année is printed with a justification gap inside the word (l'anné e); reader B took the gap for an extra letter; Carson-session at 1.3x"
+  }
+ ]
+}

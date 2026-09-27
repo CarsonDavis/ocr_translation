@@ -1,0 +1,146 @@
+{
+ "id": "p063",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "63",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "vn faict fort ambigu, monſtrueux, & perplex: eſquels",
+    "actes, d'autant que la certitude des choſes ne ſe peut",
+    "recouurer qu'auec grande difficulté, le bruit & fame",
+    "fait ſuffiſante preuue {a}. cõme pour monſtrer qu'Antoi",
+    "ne ſoit fils de Pierre, ou q̃ Frãçois ſoit fils de Ieã, ou au",
+    "tre filiatiõ {b}. ou biẽ pour prouuer la mort de quelq'vn."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Quatriemement, preſque tous les teſ-",
+    "moins qui ſont ouys, aſſeurent que le",
+    "priſonnier, quand fut arriué à Artigat,",
+    "ſalüoit de leur nom tous ceux qu'il ren",
+    "controit de la cognoiſſance de Martin",
+    "Guerre, ſans autrement les auoir onc-",
+    "ques veuz ni cognuz: & ſ'ils faiſoyent",
+    "quelque difficulté à le cognoiſtre, leur",
+    "ramenteuoit toutes choſes paſſées: & di",
+    "ſoit à chacun particulierement: Ne te",
+    "ſouuient-il pas quand nous eſtions à vn",
+    "tel lieu, il a dix douze, quinze, ou vingt",
+    "ans, que nous faiſions vne telle, & telle",
+    "choſe en la preſence de tel, & tel: où tinſ",
+    "mes vn tel, & tel propos: meſmes à ladi-",
+    "te de Rols ſa pretendue femme diſcou-",
+    "roit, comme a eſté deſſus remonſtré, les",
+    "plus priuez & particuliers actes qui peu-",
+    "uent interuenir entre mari & femme:",
+    "& de premiere rencontre luy dit, Va-",
+    "moy querir les chauſſes blanches, dou-",
+    "bles de taffetas blanc, que ie laiſſay dans",
+    "vn tel coffre quand ie parti: ce que fut"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "vn faict fort ambigu, monſtrueux, & perplex: eſquels",
+   "lines": [
+    "Les Do-",
+    "cteurs au c.",
+    "veniens. i. &",
+    "au c. præterea.",
+    "de teſtibus."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ne ſoit fils de Pierre, ou q̃ Frãçois ſoit fils de Ieã, ou au",
+   "lines": [
+    "c. per tuas.",
+    "de proba."
+   ]
+  },
+  {
+   "key": "o",
+   "beside_line": "tre filiatiõ {b}. ou biẽ pour prouuer la mort de quelq'vn.",
+   "lines": [
+    "Bartole en",
+    "la. ij. P. ſi du-",
+    "bitetur. D.",
+    "quẽ ad. teſt.",
+    "aper,"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[22]",
+   "text": "vn tel coffre quand ie parti: ce que fut",
+   "note": "sic / defective sort: the second letter of the first word prints as two bare stems with no shoulder arch at the top and no bow at the bottom (body-7.jpg, 12x and again contrast-boosted). Compared side by side with the page's other 'vn' spellings (blocks[2].lines[10] 'eſtions à vn', blocks[0].lines[5] 'quelq'vn') the n's shoulder is a solid thick arch, and with the 'u' of 'quand' five words later on this same line the bow is a solid connected curve; here neither is present, so what is on the paper is literally 'v' + two undotted stems. Read as 'vn' because the sense requires it and because the thin apex of an n is the part that fails first; a reader taking the shape at face value would write 'vu'. Flagged for the reconciler.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "Bartole en",
+   "note": "the key letter printed before 'Bartole' is a fully closed round o (margin-1.jpg, 9x: the bowl closes on the right), not the open italic c of 'c. per tuas' directly above it, although the page's marker run a, b calls for c here. Recorded as the shape printed, key {o}, per §4/§7; a wrong sort (o for c) is the likely explanation, so the reconciler may prefer key c. There is in any case no marker for it in the body: the annotation paragraph ends 'de quelq'vn.' with a plain period and no raised letter (checked at 6x), so this note has no {o} and no {c} marker on the page. It may belong to text carried over from p062 or to a marker the compositor dropped.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "ne ſoit fils de Pierre, ou q̃ Frãçois ſoit fils de Ieã, ou au",
+   "note": "abbreviation marks on this line: the q carries a straight horizontal bar (= que), transcribed q + U+0303 per §2; the marks over the a of 'Frãçois' and the a of 'Ieã' are short slanted strokes rather than the wavy tilde of 'cõme' on the line above, but French has no á, and the words are François and Iean, so all three are read as nasal tildes."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "au c. præterea.",
+   "note": "the vowel after 'pr' is the æ ligature, not a plain a: at 14x (margin-1.jpg) it shows a left bowl joined to an e with its crossbar. The following glyph is the italic 'odd t' with the curled top (§2), which at reading size makes the word look like 'praterea'."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "la. ij. P. ſi du-",
+   "note": "the capital P here is the same sort the printer uses for the paragraph sign § elsewhere in these citations (compare p058 'P rogo', 'l. ſi cui. P.'); transcribed as the P that is printed. 'ij' is the italic ÿ-shaped ij sort, decomposed. The citation reads Bartole on the ij. § ſi dubitetur, D. quemadmodum teſtamenta aperiantur."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "TEXTE.",
+   "note": "spaced capitals, closed up per §3. The final E is set from a noticeably smaller sort than the first four letters and stands after a wider gap (body-2.jpg, 8x); it is still a capital E, so the heading is transcribed TEXTE."
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Quatriemement, preſque tous les teſ-",
+   "note": "the paragraph opens with a large swash Q about two lines deep with its tail running under 'uatrieme'. It is an oversize type capital, not a woodcut or decorated initial, so no ornament entry is recorded; transcribed as the plain capital per §3."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "ſalüoit de leur nom tous ceux qu'il ren",
+   "note": "the line ends 'ren' and runs on to 'controit' with no word-break sign printed; normal for this print per §1, recorded here only so the reconciler does not read a lost hyphen. The same happens at blocks[2].lines[13] 'tinſ' / 'mes'. The u of 'ſalüoit' carries a diaeresis."
+  },
+  {
+   "where": "margin_notes[2]",
+   "note": "beside_line placement: the margin is set in a smaller face with tighter leading than the body, so the notes drift. Measured on margin-1.jpg, note a's first line sits level with body line 1, note b's with body line 5, and note {o}'s first line sits in the blank just below the last line of the annotation paragraph and beside the TEXTE heading; the nearest body line, given above, is the paragraph's last line."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "page furniture and general: recto, folio '63' printed top right of the margin column (matches the manifest), running head PARLEMENT DE THOLOSE. in spaced capitals closed up, no signature, no catchword, no foot citation block and no ornament (foot.jpg and body-8.jpg are blank paper). Three margin notes only, all beside the annotation paragraph; the TEXTE paragraph carries no markers. The page's marker run starts at a, consistent with a restart at the section boundary; no preceding page's final transcription was supplied with this task, so the run could not be checked against p062. Light brown damp staining across the head and the top right of the body column and a few foxing specks; none of it touches or obscures type, and the ink is even and strong throughout. Spacing normalized per §1 throughout: the compositor sets 'Pierre,ou', 'filiatiõb.ou', 'Quatriemement,preſque', 'eſtionsà', 'le s chauſſes', 'blesde taffetas', 'c.per', 'c.præterea', 'la.ij.P.', 'quẽ ad.teſt.' tight, and sets a space before the comma in 'ambigu ,' and before the colon in 'cognuz :', 'particulierement :', 'parti :' and the period in 'quelq'vn .'.",
+   "escalate": false
+  }
+ ]
+}

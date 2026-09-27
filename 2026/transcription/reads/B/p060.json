@@ -1,0 +1,274 @@
+{
+ "id": "p060",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "60",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Entre leſquels y a auſsi trois ou quatre",
+    "qualitez de teſmoins, qui ſont en grãde",
+    "conſideration. Preniierement, les qua-",
+    "tre ſeurs, deſquelles nous auõs ci deuant",
+    "parlé: femmes de bien, & hõneſtes, ſ'il en",
+    "y à en la Gaſcogne: leſquelles ont touſ-",
+    "iours conſtamment ſouſtenu que le pri-",
+    "ſonnier eſtoit certainement Martin",
+    "Cuerre leur frere, & mari de ladite de",
+    "Rols: & qu'elles le cognoiſſoyent parfai",
+    "tement eſtre tel. Et pareille aſſeurance",
+    "ont dõnee deux des beaux-freres dudit",
+    "Martin, mariez à deux deſdites ſœurs."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Le teſmoignage des parens, ou alliez, & meſmement",
+    "des peres, meres, enfans, freres & ſeurs, beaux fils, & be-",
+    "aux freres, pour l'affection grande qu'ils ont naturelle-",
+    "ment à leur & ſi prochain ſang, n'eſt, ni ne doit par rai-",
+    "ſon eſtre receu {a}, ſi ce n'eſt en certains cas diſcourus ail",
+    "leurs par nos interpretes, deſquels deux ou trois ſeule-",
+    "ment nous ſeruent. Le premier, quand ſ'agiroit de",
+    "prouuer vne ehoſe, en laquelle la foy des parens ſeroit",
+    "plus requiſe que de tous autres {b}. comme de prouuer",
+    "l'aage, ou de recognoiſtre (qui eſt noſtre faict) ſi quel-",
+    "qu'vn eſt de leur parenté ou alliance {c}. Le ſecond, quand",
+    "le parent ne ſeroit point produit par la partie parente",
+    "mais auroit eſté prins, (comme en ce faict ici) par le iu-",
+    "ge d'office {d}. La troiſieme, quand ſa depoſition profite-",
+    "roit aux parẽs & ne nuiroit à perſonne: comme'quand",
+    "le teſmoin depoſeroit (ainſi qu'en ce cas font leſdits",
+    "teſmoins) pour l'innocence d'vn ſien parent, & fuſt il",
+    "ſon propre frere, voire & preuenu d'hereſie {e}. Dont plu-",
+    "ſieurs ont penſé, & enſeigné que le preuenu d'homici-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ſon eſtre receu {a}, ſi ce n'eſt en certains cas diſcourus ail",
+   "lines": [
+    "l 'parentes.",
+    "C. de teſti."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "plus requiſe que de tous autres {b}. comme de prouuer",
+   "lines": [
+    "l etiam ma-",
+    "tris. C. de pro-",
+    "ba."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "qu'vn eſt de leur parenté ou alliance {c}. Le ſecond, quand",
+   "lines": [
+    "l etiam pre-",
+    "alleguét. Ac-",
+    "curſe & Bar-",
+    "tole en la l. ij.",
+    "au commence-",
+    "ment. D. de ex",
+    "cuſ. tut."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "ſon propre frere, voire & preuenu d'hereſie {e}. Dont plu-",
+   "lines": [
+    "c. literas. de",
+    "præſump."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "ſieurs ont penſé, & enſeigné que le preuenu d'homici-",
+   "lines": [
+    "aud. c. literas"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks",
+   "note": "counts for the reconciler: 2 headings (TEXTE., ANNOTAT. XXXIX.), 2 paragraphs — 13 body lines of large TEXTE type and 19 lines of the smaller annotation type, 32 printed body lines in all. 5 markers (a b c d e), each with a margin note; 5 margin notes, each with a marker, 15 note lines in all. No foot citation block, no signature, no catchword, no ornament, no decorated initial. The lower third of the leaf below the last body line is blank.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0]",
+   "note": "page quality: the leaf is clean, well inked and in sharp focus in the type area. A pale brown stain runs along the head and outer edge of the blank top margin (visible on margin-1.jpg and at the head of body-1.jpg) but touches no type. Faint show-through of the recto is visible behind the running head and in the blank foot; it is offset, not type. Nothing is lost to damage or to the crop. The narrow strip of the facing page along the right (gutter) edge of every crop has been ignored throughout. The doubts below concern letterforms and compositor's spacing, not legibility, except margin_notes[4] which is at the resolution limit.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1]",
+   "note": "continues_prev set false: the TEXTE heading stands above the first line and 'Entre leſquels y a auſsi trois ou quatre qualitez de teſmoins' opens a new sentence (it refers back to matter on p059 but does not continue a sentence or a word). continues_next false: the paragraph closes with 'ſœurs.' and the ANNOTAT. heading follows on the same page. blocks[3] continues_next is true: the last line ends 'd'homici-' with a word-break hyphen, running on to p061. No preceding pages were available as context, so both judgements rest on this page alone.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[2]",
+   "text": "conſideration. Preniierement, les qua-",
+   "note": "sic, wrong sorts: the print reads 'Preniierement' for 'Premierement'. Checked at 8x: after 'Pre' there is an n (two stems joined by one arch at the top) followed by two separate dotted i's — four stems with a single arch, and two dots. An m+i would show two arches and one dot. Transcribed as printed per §7.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Entre leſquels y a auſsi trois ou quatre",
+   "note": "'auſsi' is long s + round s (checked at 4x: the second sort is the short round s, clearly below the height of the first). Not 'auſſi'. By contrast 'cognoiſſoyent' (lines[9]) and 'aſſeurance' (lines[10]) are the ſſ ligature, two full-height long s.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "Cuerre leur frere, & mari de ladite de",
+   "note": "sic: the surname is printed 'Cuerre' for 'Guerre' — an unambiguous capital C at 3x, with no trace of the G's bar. Transcribed as printed, not emended.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[4]",
+   "text": "parlé: femmes de bien, & hõneſtes, ſ'il en",
+   "note": "the print sets 'parlé:femmes' and 'hõneſtes,ſ'il' tight; the space after the colon and the comma is supplied per §1. 'ſ'il' carries a clear raised apostrophe between the long s and the i (checked at 4x).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[5]",
+   "text": "y à en la Gaſcogne: leſquelles ont touſ-",
+   "note": "printed 'Gaſcogne:leſquelles' with no space after the colon; normalized per §1. Same for 'Rols:&' in lines[9], normalized to 'Rols: & '.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[9]",
+   "text": "Rols: & qu'elles le cognoiſſoyent parfai",
+   "note": "the line ends 'parfai' with no word-break hyphen and runs on to 'tement'. Normal for this print (§1); listed only so the reconciler does not treat a missing hyphen as an omission. Same in blocks[3].lines[4] ('ail' / 'leurs').",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[11]",
+   "text": "ont dõnee deux des beaux-freres dudit",
+   "note": "'dõnee' read at 3.5x: o with a nasal bar, then n, then two e's (both with a closed bowl and a mid bar). Not 'dõnce'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[1]",
+   "text": "des peres, meres, enfans, freres & ſeurs, beaux fils, & be-",
+   "note": "the print sets 'desperes' with no gap at all, but the s is the ROUND s, not the long ſ (checked at 7x against the interior long s of 'deſquels' and 'deſdites'). A word-internal s in this fount would be long, so the round s shows the compositor set the two words 'des' + 'peres' tight; normalized to 'des peres' per §1. Reader A may well write 'deſperes' as a single word on the model of 'deſprit'; flagging so the reconciler decides. The same line prints '&ſeurs' and 'fils,&' tight; spaces supplied per §1.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[3].lines[6]",
+   "text": "ment nous ſeruent. Le premier, quand ſ'agiroit de",
+   "note": "the print sets a wide space before the point ('ſeruent .') and around the comma ('premier , quand'); normalized per §1. The final sorts of 'ment' and 'ſeruent' are t, not r: each has the t's crossbar and curved foot, matching 'eſt' and 'doit' on lines[3] at the same magnification. 'ſ'agiroit' carries a clear raised apostrophe after the long s (checked at 9x).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[7]",
+   "text": "prouuer vne ehoſe, en laquelle la foy des parens ſeroit",
+   "note": "sic, wrong sort: the print reads 'ehoſe' for 'choſe'. At 4.5x the first sort has the closed bowl and horizontal mid-bar of an e (compare the c of 'ce' two words later, an open bowl with no bar). Transcribed as printed per §7.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[11]",
+   "text": "le parent ne ſeroit point produit par la partie parente",
+   "note": "the third sort of 'partie' is a damaged or under-inked a: the top curl is detached from the bowl, so the glyph reads almost as a question-mark shape at 4.5x. Read as a from the bowl and the foot serif, and from the width, which matches the a of 'par la' on the same line. Reader A may query it.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[14]",
+   "text": "roit aux parẽs & ne nuiroit à perſonne: comme'quand",
+   "note": "'parẽs': the mark over the e is a long, thick, horizontal bar spanning the whole letter — the nasal bar — not the acute, which in this fount is a short stroke over the right half of the letter rising to the right (compare 'parenté' on lines[10] and 'eſté' on lines[12], checked side by side at 7x). Read as ẽ = parens. Reader A may read 'parés'.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[3].lines[14]",
+   "text": "roit aux parẽs & ne nuiroit à perſonne: comme'quand",
+   "note": "'comme'quand': a clear raised comma-shaped apostrophe sort stands between 'comme' and 'quand' with no word space (checked at 8x — it is the same sort as the apostrophe of 'qu'en' and 'd'vn'). Transcribed as printed per §2; it is presumably a foul case or a space-filler, since the sense wants plain 'comme quand'. The print also sets 'perſonne:comme' tight; the space after the colon is supplied per §1.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[3].lines[8]",
+   "text": "plus requiſe que de tous autres {b}. comme de prouuer",
+   "note": "markers: all five are the small italic sorts a, b, c, d, e, set tight against the preceding word and followed by their punctuation ('receu a,', 'autres b.', 'alliance c.', 'office d.', 'hereſie e.'). Spacing normalized per §4 (one space before the marker, punctuation attached after). The alphabet restarts at a with this annotation, and no earlier a–e occurs on the page, so the keys are plain a…e (no a2). No preceding page was available to check the sequence against.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l 'parentes.",
+   "note": "between the l and 'parentes' there is a small solid mark set at ascender height, well above the baseline — NOT a point (checked at 12x; the baseline under the gap is clean, and the points of 'C.de teſti.' on the next line and of 'tris.' in note b sit firmly on the baseline). Notes b and c print the same abbreviation as a bare 'l' with no point, which supports reading this as an extra raised sort rather than as 'l.'. Transcribed as an apostrophe, the nearest sort in shape. Reader A will most likely read 'l. parentes.' — this is the reading I am least sure of on the page.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "C. de teſti.",
+   "note": "printed 'C.de teſti.' with no space after the point; normalized per §1. Same normalization in margin_notes[1].lines[1] ('tris.C. de pro-'), margin_notes[2].lines[6] ('cuſ.tut.') and margin_notes[4].lines[0] ('aud.c.literas').",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l etiam pre-",
+   "note": "a short raised word-break stroke is printed after 'pre' (checked at 12x; it is the same mark as after 'ma' and 'pro' in note b, and is set at mid height, unlike the baseline point of 'ba.'). Transcribed as a hyphen per §1.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "alleguét. Ac-",
+   "note": "the sort before the point is the italic fount's odd t — an ascending stroke with a curled top and no descender — transcribed as t per §2. An italic z would carry a descender below the baseline, and there is none at 9x. The reading 'alleguét' is nevertheless odd for the sense (pre-alleguez / prealleguées), so reader A may read 'alleguéz'. The acute over the preceding e is clear.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "curſe & Bar-",
+   "note": "the ampersand is the italic script form (an e-shaped bowl with a curl); transcribed '&' per §2, as on p018 ('Accurſe & Bartole'). The citation runs 'Ac-curſe & Bar-tole'.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "tole en la l. ij.",
+   "note": "the numeral is the italic fount's single ij sort (two dots over one body), transcribed 'ij' per §2 and the house practice on p018.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "aud. c. literas",
+   "note": "this last citation is the faintest and smallest on the page and is at the limit of the scan: at 10x the three sorts before the first point read a, u, d, giving 'aud.', but 'ead.' (eadem) and a split 'au d.' (au dit) are both possible readings of the same ink, and the sense would suit either. Escalating rather than guessing silently. The note stands below the last body line of the page, so its beside_line is the nearest line above it, not a line it is level with.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes",
+   "note": "beside_line values: the margin is crowded and the notes drift down from their markers. Notes a, b and c begin level with the body line that carries their marker. Note d begins level with 'ſon propre frere…' although its marker {d} is five lines higher, and note e's single line falls below the last body line altogether (verified on foot.jpg, where 'd c. literas. de' is level with 'ſon propre frere…' and 'præſump.' with 'ſieurs ont penſé…'). A one-line disagreement with reader A here is not substantive.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes",
+   "note": "the key letters a, b, c, d, e printed at the head of each note's first line are recorded as `key` and are not part of `lines`, per §9. All five are legible at 6x.",
+   "escalate": false
+  },
+  {
+   "where": "foot_notes",
+   "note": "there is no foot citation block: all five citations fit in the outer margin, the last of them ending just below the final body line. foot.jpg shows the bottom third of the leaf entirely blank apart from a few paper flecks — no signature (this is a verso), no catchword, no rule, no ornament.",
+   "escalate": false
+  }
+ ]
+}

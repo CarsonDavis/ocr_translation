@@ -1,0 +1,143 @@
+{
+ "id": "p011",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "11",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "dernier ſoupir de la vie, d'autãt que les mœurs, & affectiõs",
+    "des hõmes, ſouuentesfois ſe changent, on pour proſperi",
+    "tez, ou pour aduerſitez: ou pour la peſãteur du vieux aa-",
+    "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+    "& noiſes, ou pour quelque bien, profit & cõmodité, à la-",
+    "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {e}.",
+    "Mais que pour telle ſeparation d'amitié, on vienne apres",
+    "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+    "ſ'eſtoit au parauant communiquées, cela à mon aduis ne",
+    "ſe fait point, qu'entre perſonnes miſerables, & deplorées."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ledit du Tilh, ſe confiant en ce qu'il",
+    "rapportoit entierement des traits & li-",
+    "neamens du viſage, ledit Martin, violant",
+    "en premier lieu toutes loix d'amitié, & a-",
+    "pres vſant d'vne nouuelle eſpece d'affrõ-",
+    "tement, & piperie: ſe ſeroit preſenté aux",
+    "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+    "tin, & à ladite Bertrande de Rols, voire à",
+    "tous ceux du lieu d'Artigat: donnant à",
+    "tous pluſieurs particulierés, & ſi proches",
+    "enſeignes, que non ſeulement les eſtran-",
+    "gers, mais encor tous leſdits parens, voi-",
+    "re la ſupliant, ſe perſuaderent, que c'eſtoit",
+    "veritablement Martin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. V.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "C'eſt le faict en ſon eſpece, le plus grand, prodigieux",
+    "& eſmerueillable, qu'on puiſſe lire en Annales quelcon-",
+    "ques, ſoyent Grecques ou Latines, antiques ou moder-",
+    "nes: eſquelles on entendra bien pluſieurs exemples de",
+    "certaines perſonnes, entre elles ſi ſemblables, que ceux",
+    "qui les voyoient, reſtoyent errans. & confuz, ne les ſça-",
+    "chant diſcerner ne recognoiſtre: & prenant ſouuentes-",
+    "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "e",
+   "lines": [
+    "Cicero. au li",
+    "de Amicitia."
+   ],
+   "beside_line": "Mais que pour telle ſeparation d'amitié, on vienne apres"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "dernier ſoupir de la vie, d'autãt que les mœurs, & affectiõs",
+   "note": "the mark over the a of 'autãt' is the same short slanted bar as over the a of 'peſãteur' (line 2), where the word must be 'pesanteur'; read as a tilde, not an acute. 'lavie' is set tight and split per §1."
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "des hõmes, ſouuentesfois ſe changent, on pour proſperi",
+   "note": "sic: the word before 'pour' is 'on' (a clear n at 4x, two full stems with an arch), where the sense wants 'ou'; the genuine 'ou' twice on the next line has a visibly different second letter"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+   "note": "final letter of 'departẽr' read as r (stem + top-right shoulder, no crossbar, unlike the t of 'depart-' in the same word); sense would want 'departẽt'. Printed 'quelque foisles' and 'departẽrpour'; word division normalized per §1, with the compositor's only gap after 'quelque'."
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "note": "a small irregular mark sits between 'manifeſter' and '&', well below the baseline (a comma in this fount sits on the baseline); taken as an ink speck and not transcribed"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+   "note": "the mark over the e of 'parẽs' is a thick wavy bar (tilde), unlike the thin slanted acute of 'amitié' two lines above; the word is spelled out 'parens' in line 11 of this block"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "tous pluſieurs particulierés, & ſi proches",
+   "note": "sic: a thin slanted acute stands over the e before the final s of 'particulierés' (shape of an acute, not of this fount's tilde); sense wants 'particulieres'"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "ques, ſoyent Grecques ou Latines, antiques ou moder-",
+   "note": "the initial a of 'antiques' is broken and lightly inked, so at reading size it can look accented; at 9x there is no separate mark above it, only the letter's own top stroke"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "qui les voyoient, reſtoyent errans. & confuz, ne les ſça-",
+   "note": "the mark between 'errans' and '&' is a round dot sitting on the baseline, the size of the page's periods and with no tail, so read as a period (compare the clearly tailed comma of 'l'autre,' two lines below); it may be stray type"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ",
+   "note": "a looping ink smear runs under and through 'ceſte' (probably offset or a pen mark); the letters read 'ceſte' and the line ends 'reſ' with no hyphen, continuing as reſ-/ſemblance on p012"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Cicero. au li",
+   "note": "the last two letters after 'au' are blotted into one mass; read as 'li' (tall stroke + short stroke), could be 'liu'; no period is visible after them"
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "e",
+   "note": "the key printed before the note and the marker at the end of blocks[0].lines[5] are both a small italic e; this is the only marker and the only note on the page"
+  }
+ ]
+}

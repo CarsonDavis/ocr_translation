@@ -1,0 +1,179 @@
+{
+ "id": "p028",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "ARREST DV",
+ "folio": "28",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+    "pourtant n'eſt pas des plus certeines, d'autant que capi-",
+    "tale peine ſe peut rapporter & à la mort ciuile & à la",
+    "mort naturelle {l}. En quoy i'ay eſté touſiours d'auis laiſ-",
+    "ſer & commettre à l'arbitre du Iuge, l'eſpece de la mort",
+    "lequel poiſées les qualitez des perſonnes & balancées",
+    "toutes circonſtances, pourra alleger, aggrauer la pei-",
+    "ne {m}. ſingulierement en noſtre France, où l'on ne co-",
+    "gnoit point de crimes qu'extraordinerement: auquel",
+    "cas, la grauité & legiereté des peines ſemblent depen-",
+    "dre entierement du Iuge {n}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Elle en auroit fait informer par autho",
+    "rité du Iuge de Rieux: & pretendant le",
+    "tout eſtre verifié, cõcluoit a l'encontre.",
+    "dudit du Tilh à double amẽde: honora-",
+    "ble, à demander pardon à Dieu, au Roy,",
+    "& à icelle de Rols demandereſſe: teſte",
+    "& pieds nuds, en chemiſe, tenant vne tor",
+    "che ardente en ſes mains: diſant que fauſ",
+    "ſement, temerairement, & proditoire-",
+    "mẽt, l'a deceuë, abuſee, trahie & circonue",
+    "nuë, en prenãt le nom & ſuppoſãt la per",
+    "ſonne de Martin Guerre ſon vray mari.",
+    "Dõt ſ'en repent, & luy en requiert merci",
+    "& pour la proffitable, en deux mille li-",
+    "ures, & aux deſpens dommages & inte-",
+    "reſts."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Le procureur du Roy en France, eſt celuy qui pourſuit",
+    "les crimes, quant à la vengence publique, & vn particu-",
+    "lier intereſſé, ne peut pourſuyure, que ciuilement,",
+    "pour ſon intereſt {a}. & par ainſi ne peut conclure à peine"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "k",
+   "beside_line": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "lines": [
+    "l. j. C. de",
+    "falſ."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "tale peine ſe peut rapporter & à la mort ciuile & à la",
+   "lines": [
+    "l. edicto. D.",
+    "de bon. poſſe",
+    "l ſi nesem. P.",
+    "ſs deportat",
+    "D. de bon li.",
+    "berto."
+   ]
+  },
+  {
+   "key": "m",
+   "beside_line": "gnoit point de crimes qu'extraordinerement: auquel",
+   "lines": [
+    "l. j. P. D.",
+    "de effract."
+   ]
+  },
+  {
+   "key": "n",
+   "beside_line": "dre entierement du Iuge {n}.",
+   "lines": [
+    "l. hodie. D.",
+    "de pœn."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "& pour la proffitable, en deux mille li-",
+   "lines": [
+    "Guillaume",
+    "Benedict. au",
+    "ch. Raynutius",
+    "ſur ceſte pa-",
+    "role, mortuo",
+    "itaq; teſt. i.",
+    "& nõbre 159.",
+    "de teſta."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "note": "the italic marker k is blotted (a smudge above it); the mark after it, at 5x, is a compact round dot sitting on the baseline with no tail below it, unlike the commas of this line's neighbours ('certeines,'), so it is read as a period although the sentence runs on into 'pourtant'; a worn comma cannot be wholly excluded"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "l ſi nesem. P.",
+   "note": "abbreviated citation read as 'nesem' with a short round s (could be 'necem', lex si necem); the opening 'l' carries no point, unlike the 'l.' of the other citations; the capital after it is 'P.' (same sort as the 'P.' of note m), not 'D.'"
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "text": "ſs deportat",
+   "note": "the line-initial siglum is a long ſ followed by a short round s, no point; certainly the Digest siglum usually printed 'ff.', but the sorts do not match the 'ff' ligature of 'effract.' below, so it is transcribed as printed; it sits at the key column but has no marker in the body and is a continuation line of note l"
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "D. de bon li.",
+   "note": "'liberto' is broken across lines and the break is printed as a round dot ('li.' / 'berto.'), not a hyphen; transcribed as printed"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "ch. Raynutius",
+   "note": "first letter read as 'c' ('ch.' = chapitre, cap. Raynutius); at this size it could be read as 'eh.'"
+  },
+  {
+   "where": "margin_notes[4].lines[5]",
+   "text": "itaq; teſt. i.",
+   "note": "the -que sign after 'itaq' is printed as a semicolon shape, not the 3-shaped ꝫ; transcribed ';' per the standing ruling"
+  },
+  {
+   "where": "margin_notes[4].lines[6]",
+   "text": "& nõbre 159.",
+   "note": "digits read as 1-5-9 in old-style figures; the 5 is worn"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "tout eſtre verifié, cõcluoit a l'encontre.",
+   "note": "the stop after 'l'encontre' is a round dot on the baseline (a period) although the sentence runs on into 'dudit du Tilh'; sic. 'a' carries no grave, sic. The accent on 'verifié' is a small wedge, read as acute"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[0].lines[0]",
+   "A": "ne de ce crime, iaçoit que l'empereur la face capitale {k},",
+   "B": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "chose": "B",
+   "text": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "reason": "at 5x (pages/strips/p028/body-1.jpg, right end of line 1) the mark after the blotted italic k is a compact round dot on the baseline with no descending tail; the commas on the same strip ('certeines,') all show a clear tail: period"
+  }
+ ]
+}

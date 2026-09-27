@@ -1,0 +1,213 @@
+{
+ "id": "p021",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "21",
+ "signature": "B iij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Si neſcis, oculi ſunt in amore duces."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et voila pourquoy Iuuenal eſtime vne choſe prodigi-",
+    "euſe & trop eſtrange, qu'vn Aueugle ſoit amoureux. Et",
+    "Martial ſe mocque de Codrus, lequel priué de la veuë,",
+    "neantmoins depuis deuint extremement paſſiõné pour",
+    "l'amour d'vne femme."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Plus credit nemo, quam tota Codrus in vrbe,",
+    "Cùm ſit tam pauper, quomodo! cæcus amat. {c}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et à laquelle ledit du Tilh auoit don",
+    "né pluſieurs priuées & particulieres en-",
+    "ſeignes. Meſmes des actes & propos qui",
+    "interuiennent le plus ſecrettement en-",
+    "tre mariez, & qu'autres ne peuuent bon",
+    "nemẽt ſçauoir, ou entẽdre: Iuſques à luy",
+    "enſeigner les lieux, temps, & heures des",
+    "actes ſecrets de mariage (plus aiſez beau",
+    "coup à comprendre, qu'honneſte à reci-",
+    "ter, ou eſcrire) & les propos qu'auant, a-",
+    "pres, & en l'acte, ils auroyent tenuz. S'e-",
+    "ſtoit auſsi perſuadée auec les autres, que",
+    "ledit du Tilh eſtoit certainement Mar-",
+    "tin Guerre ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La femme de Q. Sertorius à Rome, & Ieanne fille",
+    "du comte Balduin de Flandres, furẽt vn peu mieux aui-",
+    "ſées: car quand celuy qui ſe diſoit fils de Q., Sertorius,",
+    "& de pluſieurs ſuiuy comme tel à Rome, vn iour ſe pre",
+    "ſenta à la femme de Sertorius cõme à ſa mere, luy don-",
+    "nãt des enſeignes fort familieres, & neãtmoins ſecrettes",
+    "& veritables: elle d'vne grande pertinacité, & vertueuſe"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "lines": [
+    "Properce an",
+    "liure ij. des ele",
+    "gies."
+   ],
+   "beside_line": "Et voila pourquoy Iuuenal eſtime vne choſe prodigi-"
+  },
+  {
+   "key": "c",
+   "lines": [
+    "Martial an",
+    "iij. des Epigr."
+   ],
+   "beside_line": "Cùm ſit tam pauper, quomodo! cæcus amat. {c}"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "Si neſcis, oculi ſunt in amore duces.",
+   "note": "Both reads set continues_prev true, assuming the hexameter of the Propertius couplet stood at the foot of p020. p020's final line is prose ('me dit Properce, ſont les guides, chefs & cõducteurs {b}.'), so this pentameter is quoted alone after a full stop; continues_prev set false. Paragraph block per §6"
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Properce an",
+   "note": "No marker b in the body of this page: the note with key b is printed at the top of the margin, beside body line 2. Its marker {b} is the last marker on p020 (final line 'me dit Properce, ſont les guides, chefs & cõducteurs {b}.'). Recorded here as a note without a body marker"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Properce an",
+   "note": "Printed 'an' (sic): the sort after 'a' is joined at the top (arch) and open at the foot, unlike the italic u of 'liure' on the next line. A turned u for 'au liure ij.'; transcribed as printed. B read 'au' by sense; reconciled from the glyph",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Martial an",
+   "note": "Same word as in note b, heavily inked; the top join is the likeliest reading, so 'an' (sic, turned u for 'au') as in note b. 'au' remains possible under the blot. Pointer: pages/full/p021.jpg x≈2150-2450, y≈1030-1090 (margin beside the Martial couplet)",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "Cùm ſit tam pauper, quomodo! cæcus amat. {c}",
+   "note": "'quomodo!' — the mark is a vertical stroke over a point, i.e. an exclamation, not the question mark the received text of Martial III.15 has. Transcribed as printed (sic); could conceivably be a damaged '?'."
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "ſées: car quand celuy qui ſe diſoit fils de Q., Sertorius,",
+   "note": "After 'Q' the print sets a point and then a comma ('Q.,Sertorius,'), both clearly inked; normalized for spacing to 'Q., Sertorius,'. The comma looks like a compositor's slip; transcribed as printed. Line 1 of the same paragraph has plain 'Q. Sertorius'."
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "nemẽt ſçauoir, ou entẽdre: Iuſques à luy",
+   "note": "The marks over the e of 'nemẽt' and 'entẽdre' are flat bars (tildes for the omitted n); B read them as acutes. Checked at 6x against the sloped acute of 'né' and 'priuées' in the same large fount; transcribed ẽ"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "ſtoit auſsi perſuadée auec les autres, que",
+   "note": "'auſsi' printed with long s + round s (both reads); as printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "ſenta à la femme de Sertorius cõme à ſa mere, luy don-",
+   "note": "the line-end word-break sign after 'don' sits low and looks like a point; transcribed '-' per §1 (both reads)",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "liure ij. des ele",
+   "note": "'des ele' as printed (round s, then a word space); B wondered about 'de ſes ele' as on p006 note h; checked at 2.2x",
+   "escalate": false
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[4].lines[5]",
+   "A": "nemẽt ſçauoir, ou entẽdre: Iuſques à luy",
+   "B": "nemét ſçauoir, ou entédre: Iuſques à luy",
+   "chose": "A",
+   "text": "nemẽt ſçauoir, ou entẽdre: Iuſques à luy",
+   "reason": "at 6x (full page y≈1845-1945, TEXTE line 6) both marks are near-horizontal bars with a thickened end, the nasal tilde; the acute of 'né' and 'priuées' in the same large fount (TEXTE line 2) is a thin stroke sloped about 60°"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "A": "Properce an",
+   "B": "Properce au",
+   "chose": "A",
+   "text": "Properce an",
+   "reason": "at 2.2x (full page x≈2093-2677, y≈250-950) the two stems of the sort after 'a' are joined at the top by an arch and open at the foot, unlike the u of 'liure' on the next line (joined at the foot). Printed 'an', a turned u for 'au'; transcribed as printed, sic"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "A": "Martial an",
+   "B": "Martial au",
+   "chose": "A",
+   "text": "Martial an",
+   "reason": "at 3x (full page y≈950-1250) the sort is heavily inked; the top join is the likelier reading, the same form as in note b. Transcribed 'an', sic for 'au'; recorded as uncertain"
+  },
+  {
+   "where": "blocks[0], blocks[2]",
+   "A": "paragraph",
+   "B": "paragraph",
+   "chose": "A",
+   "text": "",
+   "reason": "both reads have the Propertius pentameter and the Martial couplet as paragraph blocks; confirmed per §6 (verse quotations are paragraphs, never headings); B's question about p010's practice is settled that way"
+  },
+  {
+   "where": "margin_notes[0]",
+   "A": "note b, no marker",
+   "B": "note b, no marker",
+   "chose": "A",
+   "text": "",
+   "reason": "agreed: marker {b} stands at the end of p020's last line ('cõducteurs {b}.'); the note is kept here with an uncertain entry"
+  },
+  {
+   "where": "blocks[0].continues_prev",
+   "A": "true",
+   "B": "true",
+   "chose": "neither",
+   "text": "false",
+   "reason": "both reads assumed the couplet's hexameter ended p020; p020 (now final) ends with prose and the marker {b}, so the verse line starts a new quotation block"
+  }
+ ]
+}

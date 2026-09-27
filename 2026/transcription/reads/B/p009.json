@@ -1,0 +1,166 @@
+{
+ "id": "p009",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "9",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "re dudit Martin, & d'iceluy (ſouz pretexte",
+    "d'amitié) entendu pluſieurs choſes pri-",
+    "uées, & particulieres de luy, & de ſa",
+    "femme."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. IIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Vn des plus ſinguliers fruicts, & plus precieux ef-",
+    "fects de l'amitié: eſt la douceur, & le plaiſir qu'on ha de",
+    "pouuoir librement deſcouurir ſes ſecrets, & ſes penſées",
+    "à ſon ami: qui eſt vn autre ſoy-meſmes. Y a-il rien au",
+    "monde plus ſingulier (dit en quelque lieu Ciceron) qu'a",
+    "uoir vn homme, auec lequel tu puiſſes, & oſes parler, com",
+    "me à toy-meſme {a}, & duquel diſoit Plaute, tu ne ſe-",
+    "ras iamais deceu {b}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Decipitur nemo, mea quidem ſententia,",
+    "Qui ſuis amicis, narrat rectè res ſuas."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "O que c'eſt vn grand bien, (adiouſtoit Seneque) quand",
+    "les cœurs ſont ſi bien preparez, que tout ſecret y deſcẽd",
+    "en aſſeurance: deſquels la conſcience tu craignes moins",
+    "que la tienne: le parler t'oſte & appaiſe l'inquietu",
+    "de de ton eſprit: l'aduis te donne conſeil, & la veuë te re",
+    "ſiouit, & conſole {c}. Certes l'heur, & bien, eſt ſi grand, que",
+    "Socrates & Darius diſoient, que toutes les terres & fa-",
+    "cultez de ce monde, ne ſe peuuent parangonner à vn",
+    "bon, vray & prudent ami. Alexandre le Grand, paſſant",
+    "par Troye, couronna la ſtatue d'Achilles, & ne le loua de",
+    "rien tant fortune, que d'auoir eu Patrocle pour ami. O",
+    "toy Achilles heureux (dit-il) qui eus en ta vie, vn ſi loyal",
+    "& entier ami, que Patrocle {d}. Vray eſt que tels & ſi par",
+    "faits amis, comme vn Achilles, & Patrocle: vn Pylade,",
+    "& Oreſte: vn Damõ, & Pythie: vn Theſée, & Pyrithoê",
+    "ne ſe trouuent point pour le iourd'huy, tant eſt mal-heu",
+    "reux noſtre ſiecle."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Illud amicitiæ quondam venerabile nomen",
+    "Proſtat: & in quæſtu, pro meretrice ſedet.",
+    "Diligitur nemo, niſi cui fortuna ſecunda eſt."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "me à toy-meſme {a}, & duquel diſoit Plaute, tu ne ſe-",
+   "lines": [
+    "Ciceron en",
+    "ſon liure de l'a",
+    "mitiê."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "Decipitur nemo, mea quidem ſententia,",
+   "lines": [
+    "Plaute en",
+    "la comedie in",
+    "ſcripte, Pœnus",
+    "lus."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ſiouit, & conſole {c}. Certes l'heur, & bien, eſt ſi grand, que",
+   "lines": [
+    "Seneca ou",
+    "liure de la trã",
+    "quillite de la",
+    "vie."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "& entier ami, que Patrocle {d}. Vray eſt que tels & ſi par",
+   "lines": [
+    "Plutarqne",
+    "en la vie d'A",
+    "lexandre."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "les cœurs ſont ſi bien preparez, que tout ſecret y deſcẽd",
+   "note": "last word: the mark over the e is a wide wavy stroke (tilde), not the steep acute used in 'penſées'/'Theſée' on this page, so read 'deſcẽd' (= descend); could be misread as 'deſcéd'."
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "que la tienne: le parler t'oſte & appaiſe l'inquietu",
+   "note": "line ends 'l'inquietu' with no hyphen; the word runs on as 'inquietu-de' into the next line, so the following 'de de' is not a dittography. Do not 'correct'."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "mitiê.",
+   "note": "the accent over the final e is printed as a caret/circumflex, not the acute; the word is 'l'amitié'. Read 'mitiê' as printed; reader A will probably give 'mitié'. Needs a human eye.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "ſcripte, Pœnus",
+   "note": "the last word reads P-œ-n-u-s and the next line reads 'lus.', giving 'Pœnus / lus' for Pœnulus; transcribed as printed (sic). The final glyph is a round s, not a break-hyphen."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "Seneca ou",
+   "note": "second word is a round o plus one more letter; read 'ou'. Sense requires 'au' (Seneca au liure de la tranquillité de la vie), and 'on' is also possible at this size."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "quillite de la",
+   "note": "after 'de l' there is a small baseline dot and then a heavily inked letter; read 'a' on the sense ('de la vie' on the next line), but the glyph could be taken for a round 's' and the dot for a period.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "Plutarqne",
+   "note": "sic: the letter after 'q' is a turned u, printed as an n; kept as printed ('Plutarqne' for 'Plutarque')."
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "id": "p005",
+ "page": 5,
+ "folio": "5",
+ "side": "recto",
+ "image": "p005",
+ "source": {
+  "kind": "cudl",
+  "image_no": 27,
+  "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/27"
+ },
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "prev": "p004",
+ "next": "p006",
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "led Sanxi, still living: but for some slight theft of wheat, which this Martin had committed against his father, he had absented himself from the country, and remained eight years abroad, without the supplicant, during that time, having heard any news whatever of him.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION II"
+  },
+  {
+   "type": "paragraph",
+   "html": "This long duration and lengthy absence of the husband made him, at first sight, greatly culpable, and almost beyond all excuse, as having given the occasion for the misfortune and disaster which has since followed from it: witness Saint Augustine, when he says, IF YOU abstain for long without the will of your wife, you give her licence to fornicate: and if she goes astray, her sin will be imputed to your abstinence <sup class=\"mk\" data-key=\"a\">a</sup>. Whence some have even dared to say that a Judge might justly absolve a wife accused by her husband of adultery, if she is not convicted of having squandered her honour and abandoned herself except after having been long forsaken by her husband <sup class=\"mk\" data-key=\"b\">b</sup>; inasmuch as the husband, who has furnished the occasions, and has thereby made himself guilty of the misdeed <sup class=\"mk\" data-key=\"c\">c</sup>, cannot upbraid her with it, nor object it against his wife <sup class=\"mk\" data-key=\"d\">d</sup>. As in a like case also, the husband, who by the old laws could repudiate his consort if without his leave she had slept outside the house <sup class=\"mk\" data-key=\"e\">e</sup>, nevertheless, if he himself had driven her out, and on that occasion she remained all night outside, cannot repudiate her, because (says Justinian) he himself is the author of this fault <sup class=\"mk\" data-key=\"f\">f</sup>. But if this opinion were true, women, licentious enough of themselves, might seize upon a great pretext to prostitute themselves with impunity, covering themselves with the cloak of the husband's absence: to which, so far from our being bound to lend a hand, on the contrary everyone ought to reject this opinion as impious, unworthy of a Christian, and so barbarous that even the Gentiles and Pagans did not think it good that a wife (whose husband had remained long absent) should remarry, until after having heard",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Augustine, <i>De adulterinis coniugiis</i>; transcribed in the Decretum Gratiani as c. <i>Si tu abstines</i>, C. 28 q. 2 (as Coras cites it; locus not verified)",
+     "original": "S. Auguſt au liure De adulterinis cõiugiis, les paroles duquel ſont tranſcrites au c. ſi tu abſtines xxviij. q. ij.",
+     "gloss": "The words quoted in the text: a husband who abstains against his wife's will answers for her fornication."
+    },
+    {
+     "key": "b",
+     "citation": "Petrus Ravennas (<i>Pierre de Ravenne</i>, Pietro da Ravenna, c. 1448–1508), <i>Alphabetum aureum</i>",
+     "original": "Pierre de Rauenne en ſon Alphabet.",
+     "gloss": "The opinion that a long-deserted wife may be absolved of adultery."
+    },
+    {
+     "key": "c",
+     "citation": "Decretum Gratiani, c. <i>Si tu abstines</i>, C. 28 q. 2 again (the note is garbled in the print: <i>eſt tabuſtines xxvij. c. ij.</i>)",
+     "original": "eſt tabuſtines xxvij. c. ij.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "citation": "Novel 117 (<i>Ut liceat matri et aviae</i>, Authenticum coll. 8), c. 9, § <i>Si ergo contigerit</i>",
+     "original": "Paragra. Si ergo contigerit vt lic. ma. &amp; auiæ. aux nouuelles de Iuſtiniẽ, ſous la collation vſ.",
+     "gloss": "The grounds on which a husband may repudiate his wife; the paragraph number and Coras's collation numeral (\"vſ\", elsewhere \"vij\") are not verified; the standard division puts Nov. 117 in the eighth collatio."
+    },
+    {
+     "key": "e",
+     "citation": "Code 5.17.8 (<i>De repudiis</i>, l. <i>Consensu</i>) § <i>Vir quoque</i> (C. 5.17.8.2)",
+     "original": "L. Conſensu para. vir quoque. C. de rep",
+     "gloss": "Theodosius II and Valentinian III: a husband may repudiate a wife who, against his will, has passed the night outside his house."
+    },
+    {
+     "key": "f",
+     "citation": "Novel 117 c. 9, § <i>Si ergo</i> (the same paragraph as {d}), as an <i>authentica</i>",
+     "original": "Aud. Para ſi ergo.",
+     "gloss": "Justinian: the husband who has himself turned his wife out cannot repudiate her for staying out."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "lé Sanxi, encore viuant: mais pour quel-",
+    "que leger larçin de Blé, qu'iceluy Martin",
+    "auoit fait à ſon pere, ſe ſeroit abſenté du",
+    "pays, & demeuré huit ans dehors, ſans",
+    "que la ſuppliãt, pendant ce temps, en ayt",
+    "entendu nouuelles aucunes."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION II.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ceſte diuturnité, & longue abſence du mari, le rendoit",
+    "de prime face grandement coulpable, & preſque hors de",
+    "toute excuſe, comme ayant dõné l'occaſion au malheur",
+    "& deſaſtre, qui depuis s'en eſt enſuyui: teſmoin ſainct Au-",
+    "guſtin, quand il dit, SI TV t'abſtiens longuement ſans la",
+    "volõté de ta femme, tu luy dõnes licence de paillarder:",
+    "& ſi elle mal-verſe, ſon peché ſera reputé à tõ abſtinẽce {a}.",
+    "Dont quelques vns ont biẽ oſé dire, qu vn Iuge pourroit",
+    "iuſtemẽt abſouldre la femme, accuſée par le mari d'adul-",
+    "tere, ſi elle n'eſt cõuaincue d'auoir prodigué ſon hõneur,",
+    "& s'eſtre abandõnée: qu'apres auoir eſté lõguement de-",
+    "laiſſée de ſon mari {b} d'autãt que le mari, qui ha baillé les",
+    "occaſiõs, & par ainſi s'eſt rẽdu luy meſmes coulpable du",
+    "forfait {c}, ne le peut exprobrer, ni reprocher à ſa femme {d}.",
+    "Cõme en pareil cas auſsi, le mari, qui par les vieilles loix",
+    "pouuoit repudier ſa conſorte, ſi ſans ſon cõgé, elle auoit",
+    "couché hors la maiſõ {e}. Toutesfois ſi luy meſmes l'auoit",
+    "chaſſée, & à ceſte occaſion elle a demeuré toute la nuict",
+    "dehors, ne la peut repudier, par ce (dit Iuſtinien) que luy",
+    "meſmes eſt autheur de ceſte faute {f}. Mais ſi ceſte opiniõ",
+    "eſtoit veritable, les femmes aſſez d'elles meſmes licẽtieu",
+    "ſes, pourroyent empoigner vn grãd pretexte de ſe proſti",
+    "tuer auec impunité, ſe couurans du manteau de l'abſence",
+    "du mari: à qui tant s'en faut que nous deuions preſter la",
+    "main: qu'au cõtraire, chacun doit reietter ceſte ſentence,",
+    "comme impie, indigne d'vn Chreſtien, & ſi barbare,",
+    "que meſmes les Ethniques & Payens, n'ont pas trouué",
+    "bon, que la femme (de laquelle le mari à demeuré",
+    "longuemẽt abſent) ſe remariaſt, iuſqu'apres auoir entẽdu"
+   ],
+   "spaced_caps": true
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "S. Auguſt",
+    "au liure De",
+    "adulterinis cõ",
+    "iugiis, les paro",
+    "les duquel ſont",
+    "tranſcrites au",
+    "c. ſi tu abſti",
+    "nes xxviij. q.",
+    "ij."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Pierre de Ra",
+    "venne en ſon",
+    "Alphabet."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "eſt tabuſtines",
+    "xxvij. c. ij."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Paragra. Si",
+    "ergo contige-",
+    "rit vt lis. ma.",
+    "& auiæ. aux",
+    "nouuelles de Iu",
+    "ſtiniẽ, ſous Ia",
+    "collation vſ."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "L. Conſenu-",
+    "para. vir quo.",
+    "que. C. de rep"
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Aud. Para",
+    "ſi ergo."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "lé Sanxi, encore viuant: mais pour quel-",
+   "note": "these six lines are set in the larger roman of the quoted TEXTE and continue p004's 'vn fils appe-'; 'lé' and 'Sanxi' are set touching and are spaced per §1."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "auoit fait à ſon pere, ſe ſeroit abſenté du",
+   "note": "the accent on the final e of 'abſenté' is an acute (reader B read a grave)."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "guſtin, quand il dit, SI TV t'abſtiens longuement ſans la",
+   "note": "'S I  T V' is set in spaced capitals; closed up to 'SI TV' per §3 and spaced_caps set on the block. The letter before the apostrophe is a roman 't' (short crossbar), not 'r'"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "& ſi elle mal-verſe, ſon peché ſera reputé à tõ abſtinẽce {a}.",
+   "note": "the break sign in 'mal-verſe' is printed as a raised mid dot at x-height, not the usual hyphen; transcribed as '-' per §2 since a period would force different punctuation spacing"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "Dont quelques vns ont biẽ oſé dire, qu vn Iuge pourroit",
+   "note": "'qu vn' is printed with a space and no apostrophe (sic); at 4x there is no mark between the u and the space"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "occaſiõs, & par ainſi s'eſt rẽdu luy meſmes coulpable du",
+   "note": "'luy meſmes' is set touching in the print; spaced per §1."
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "dehors, ne la peut repudier, par ce (dit Iuſtinien) que luy",
+   "note": "the print sets 'ce(dit' with no space before the parenthesis; spaced per the §1 parenthesis rule."
+  },
+  {
+   "where": "blocks[2].lines[27]",
+   "text": "bon, que la femme (de laquelle le mari à demeuré",
+   "note": "the print sets '( de laquelle' with a space inside the parenthesis and '(' is widely spaced from 'femme'; closed per the §1 parenthesis rule. Same on the next line, where 'abſent)ſe' is set tight."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "S. Auguſt",
+   "note": "the mark after the S dips below the baseline and could be a comma rather than a period; either way the spacing rule prints it the same."
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "text": "les duquel ſont",
+   "note": "'duquel' and 'ſont' are set touching; spaced per §1."
+  },
+  {
+   "where": "margin_notes[0].lines[7]",
+   "text": "nes xxviij. q.",
+   "note": "the numeral is set as x-x-v-i plus a single 'y-with-diaeresis' sort used for 'ij'; transcribed 'xxviij' per §2 (Roman numerals as printed, lowercase iij/vij). The dotted i before the ÿ-sort is clear at 8x"
+  },
+  {
+   "where": "margin_notes[0].lines[8]",
+   "text": "ij.",
+   "note": "same 'y-with-diaeresis' sort standing alone for 'ij'; this one short line is the tail of note a and sits beside 'Cõme en pareil cas auſsi'"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Pierre de Ra",
+   "note": "'de' and 'Ra' are set touching at the line end; spaced per §1. Petrus Ravennas, Alphabetum."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "Alphabet.",
+   "note": "a free-standing dot is printed about eight letter-widths to the right of 'Alphabet.'; taken as stray type and not transcribed"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "eſt tabuſtines",
+   "note": "hard reading. After the key c a raised squarish mark (broken point or blot), then e, long ſ, a short curled sort read as t (could be i), then 'tabuſtines'. The line is plainly a garbled setting of note a's 'c. ſi tu abſtines'; transcribed as the glyphs print. Pointer: pages/full/p005.jpg x~2090-2300, y~2500-2555 (margin strip, note c first line). | Carson-session 2026-09-21: garbled type; glyphs read e-ſ-i/t then tabuſtines; evidently a botched setting of `ſi tu abſtines` (cf. note a); transcribed as printed"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "xxvij. c. ij.",
+   "note": "both numerals use the 'ij' sort (y with diaeresis). This reads xxvij where note a's parallel citation reads xxviij, and 'c.' where note a has 'q.'; transcribed as printed, sic"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "& auiæ. aux",
+   "note": "final glyph is the æ ligature; reader A read 'auie', reader B 'auia'."
+  },
+  {
+   "where": "margin_notes[3].lines[4]",
+   "text": "nouuelles de Iu",
+   "note": "'nouuelles' and 'de' set touching, spaced per §1. The two letters hanging at the right edge are read 'Iu' (completing 'Iuſtiniẽ'); at 4x only the u is certain, the I a faint short stroke."
+  },
+  {
+   "where": "margin_notes[3].lines[5]",
+   "text": "ſtiniẽ, ſous Ia",
+   "note": "the sort before the final a is the capital-I sort (straight stroke, serifs both ends), not the looped italic l; sense is 'la' (ſous la collation). The a is squeezed below the line at the right edge."
+  },
+  {
+   "where": "margin_notes[3].lines[6]",
+   "text": "collation vſ.",
+   "note": "the numeral after 'collation' reads 'vſ.' (a long s, not a j: no dot, and the top hooks left). A small raised dash is printed after the period at the right edge, although the note ends here and nothing continues; taken as stray type, like the loose dot after 'Alphabet.' in note b, and not transcribed"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "L. Conſenu-",
+   "note": "only one long ſ is printed ('Conſenu'); the citation is C. de repudiis, l. Conſenſu, § Vir quoque, so a letter has dropped. Reader B read 'Conſenſu-'. The hyphen is printed although the next line begins a new word ('para.')."
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "para. vir quo.",
+   "note": "a period is printed after 'quo' at the line end, although the word continues as 'que.' on the next line ('vir quoque'); transcribed as printed. 'vir' is set in lowercase italic, not as 'Vir'."
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "ſi ergo.",
+   "note": "the last letter of 'ergo' is a small bowl whose right half is under a heavy ink blot; o (reader A) or a (reader B) cannot be distinguished from the glyph. Read 'ergo' from the citation (note d 'Si ergo contigerit'). Pointer: pages/full/p005.jpg x~2090-2280, y~3345-3400 (margin strip, last note line). | Carson-session 2026-09-21: last bowl under a blot; `ergo.` per the standard citation form"
+  }
+ ]
+}

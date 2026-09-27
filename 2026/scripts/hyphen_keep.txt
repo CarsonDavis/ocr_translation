@@ -1,0 +1,6 @@
+# Compound words whose hyphen belongs to the word, so that stitch_text.py keeps
+# it when the printed line breaks there (`grand-` / `mere` -> `grand-mere`, not
+# `grandmere`). One word per line; comments start with #. Entries are matched
+# lowercased and letters-only, so `c'eſt-à-dire` and `ceſtàdire` are the same
+# entry. A break before a capital already keeps its hyphen and needs no entry.
+# The list starts empty and grows during translation review.

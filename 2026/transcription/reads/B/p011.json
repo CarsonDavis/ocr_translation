@@ -1,0 +1,159 @@
+{
+ "id": "p011",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "11",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "dernier ſoupir de la vie, d'autãt que les mœurs, & affectiõs",
+    "des hõmes, ſouuentesfois ſe changent, on pour proſperi",
+    "tez, ou pour aduerſitez: ou pour la peſãteur du vieux aa-",
+    "ge, & quelque fois les amitiez ſe departẽt pour contẽtions",
+    "& noiſes, ou pour quelque bien, profit & cõmodité, à la-",
+    "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {a}.",
+    "Mais que pour telle ſeparation d'amitié, on vienne apres",
+    "manifeſter, & ſ'entrereprocher les choſes ſecrettes, qu'on",
+    "ſ'eſtoit au parauant communiquées, cela à mon aduis ne",
+    "ſe fait point, qu'entre perſonnes miſerables, & deplorées."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ledit du Tilh, ſe confiant en ce qu'il",
+    "rapportoit entierement des traits & li-",
+    "neamens du viſage, ledit Martin, violant",
+    "en premier lieu toutes loix d'amitié, & a-",
+    "pres vſant d'vne nouuelle eſpece d'affrõ-",
+    "tement, & piperie: ſe ſeroit preſenté aux",
+    "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+    "tin, & à ladite Bertrande de Rols, voire à",
+    "tous ceux du lieu d'Artigat: donnant à",
+    "tous pluſieurs particulieres, & ſi proches",
+    "enſeignes, que non ſeulement les eſtran-",
+    "gers, mais encor tous leſdits parens, voi-",
+    "re la ſupliant, ſe perſuaderent, que c'eſtoit",
+    "veritablement Martin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. V.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "C'eſt le faict en ſon eſpece, le plus grand, prodigieux",
+    "& eſmerueillable, qu'on puiſſe lire en Annales quelcon-",
+    "ques, ſoyent Grecques ou Latines, antiques ou moder-",
+    "nes: eſquelles on entendra bien pluſieurs exemples de",
+    "certaines perſonnes, entre elles ſi ſemblables, que ceux",
+    "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+    "chant diſcerner ne recognoiſtre: & prenant ſouuentes-",
+    "fois l'vn pour l'autre. & que ſouz le pretexte de ceſte reſ"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "Mais que pour telle ſeparation d'amitié, on vienne apres",
+   "lines": [
+    "Cicero. au li",
+    "de Amicitia."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "des hõmes, ſouuentesfois ſe changent, on pour proſperi",
+   "note": "'on pour' (sic for 'ou pour'): the second letter is badly over-inked, the counter almost filled. At 8x with levels stretched (body-1.jpg, line 2, x~1200) the top of the letter is a solid arch and a notch separates the two feet at the baseline, i.e. closed above / open below = 'n'; the certain 'ou' of line 3 on the same strip shows the reverse (joined feet, counter open upward). Read 'on'; conventions §1 list 'on' for 'ou' as a known sic of this print. Escalated because the glyph is genuinely blotted.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "ge, & quelque fois les amitiez ſe departẽt pour contẽtions",
+   "note": "'departẽt': the final 't' printed with only the right half of its crossbar (a detached tick beside the stem) and a weak bottom hook, so it can look like 'r'. Read 't' (bottom curves right, unlike the 'r' of 'depar-'); sense requires 'departent'. Also 'foisles' and 'departẽtpour' are set with no space; word division normalized per §1.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {a}.",
+   "note": "the marker after 'ſoy' is a small raised italic letter printed as a solid blob (body-2.jpg, x~1650; at 14x only a hair-thin white sliver survives). Shape is a small round bowl with a short right stem = italic 'a', and it is the first marker on the page, so keyed 'a'. The margin note's own key letter is the same blob. If the reconciler can show the printer's marker alphabet runs on through an annotation rather than restarting each page, this key may need to be a later letter.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Cicero. au li",
+   "note": "the last word of the note's first line is two over-inked strokes fused into a single blob (margin-1.jpg, x~375-410, y~730), a tall ascender plus a short letter, with nothing printed to its right: read 'li' (= livre, continued by 'de Amicitia.' on the next line). Only two letter-widths of ink are present, so the fuller 'liur.' used in other margin notes of this edition is excluded, but a point merged into the blob ('li.') cannot be.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "the page has exactly one margin note. margin-2.jpg, margin-3.jpg and margin-4.jpg are blank, and foot.jpg shows no foot citation block, no signature and no catchword. The note's first line stands beside body line 7 of block 0 ('Mais que pour telle ſeparation d'amitié, on vienne apres'), one line below its marker.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+   "note": "'parẽs': the mark over the 'e' is a long flat wavy bar (tilde), clearly unlike the short slanted acute of 'amitié' and 'preſenté' on the neighbouring lines; = parens. The same word is spelled out 'parens' at blocks[2].lines[11].",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+   "note": "'d'iceluy': at 12x the letter after the apostrophe is an 'i' with a top-left serif and a left-extending foot serif sitting on the baseline (no descender), not a 'j'; the low-resolution impression of a hooked tail is the foot serif. Read 'i'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "tin, & à ladite Bertrande de Rols, voire à",
+   "note": "'Rols' is set in the large TEXTE type with a capital R and lowercase o l s (the l ascends above x-height); it is NOT the small-capital 'ROLS' of page 44. Transcribed as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "ques, ſoyent Grecques ou Latines, antiques ou moder-",
+   "note": "the initial 'a' of 'antiques' is defectively inked: only the top arm and the right stem printed, the bowl is a faint ghost, so at reading size it can look like a tilde over a broken letter. No tilde is present at 5x; read 'antiques'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+   "note": "a small ink speck sits between 'errans' and '&'. At 12x it lies at mid x-height, well above the baseline, unlike the true period after 'l'autre' on the last line, which sits on the baseline. Read as a speck, so no point transcribed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "fois l'vn pour l'autre. & que ſouz le pretexte de ceſte reſ",
+   "note": "'ceſte' is crossed by a diagonal stroke and a curved smear (offset/show-through from the facing leaf, visible as a loop below the baseline). The five letters c e ſ t e are still legible at 8x. The line ends 'reſ' with no hyphen; the word runs on to page 12, so continues_next is true.",
+   "escalate": false
+  },
+  {
+   "where": "folio",
+   "text": "11",
+   "note": "the folio is set in old-style figures whose '1' is a serifed vertical stroke, so it reads as two I-like strokes at the outer top corner; it matches the manifest's expected folio 11.",
+   "escalate": false
+  }
+ ]
+}

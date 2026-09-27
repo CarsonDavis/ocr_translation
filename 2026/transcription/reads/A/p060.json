@@ -1,0 +1,159 @@
+{
+ "id": "p060",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "60",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Entre leſquels y a auſsi trois ou quatre",
+    "qualitez de teſmoins, qui ſont en grãde",
+    "conſideration. Preniierement, les qua-",
+    "tre ſeurs, deſquelles nous auõs ci deuant",
+    "parlé: femmes de bien, & hõneſtes, ſ'il en",
+    "y à en la Gaſcogne: leſquelles ont touſ-",
+    "iours conſtamment ſouſtenu que le pri-",
+    "ſonnier eſtoit certainement Martin",
+    "Cuerre leur frere, & mari de ladite de",
+    "Rols: & qu'elles le cognoiſſoyent parfai",
+    "tement eſtre tel. Et pareille aſſeurance",
+    "ont dõnce deux des beaux-freres dudit",
+    "Martin, mariez à deux deſdites œurs."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Le teſmoignage des parens, ou alliez, & meſmement",
+    "des peres, meres, enfans, freres & ſeurs, beaux fils, & be-",
+    "aux freres, pour l'affection grande qu'ils ont naturelle-",
+    "ment à leur & ſi prochain ſang, n'eſt, ni ne doit par rai-",
+    "ſon eſtre receu {a}, ſi ce n'eſt en certains cas diſcourus ail",
+    "leurs par nos interpretes, deſquels deux ou trois ſeule-",
+    "ment nous ſeruent. Le premier, quand ſ'agiroit de",
+    "prouuer vnc ehoſe, en laquelle la foy des parens ſeroit",
+    "plus requiſe que de tous autres {b}. comme de prouuer",
+    "l'aage, ou de recognoiſtre (qui eſt noſtre faict) ſi quel-",
+    "qu'vn eſt de leur parenté ou alliance {c}. Le ſecond, quand",
+    "le parent ne ſeroit point produit par la partie parente",
+    "mais auroit eſté prins, (comme en ce faict ici) par le iu-",
+    "ge d'office {d}. La troiſieme, quand ſa depoſition profite-",
+    "roit aux parẽs & ne nuiroit à perſonne: comme quand",
+    "le teſmoin depoſeroit (ainſi qu'en ce cas font leſdits",
+    "teſmoins) pour l'innocence d'vn ſien parent, & fuſt il",
+    "ſon propre frere, voire & preuenu d'hereſie {e}. Dont plu-",
+    "ſieurs ont penſé, & enſeigné que le preuenu d'homici-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ſon eſtre receu {a}, ſi ce n'eſt en certains cas diſcourus ail",
+   "lines": [
+    "l. parentes.",
+    "C. de teſti."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "l'aage, ou de recognoiſtre (qui eſt noſtre faict) ſi quel-",
+   "lines": [
+    "l etiam ma-",
+    "tris. C. de pro-",
+    "ba."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "le parent ne ſeroit point produit par la partie parente",
+   "lines": [
+    "l etiam pre-",
+    "alleguéz. Ac-",
+    "curſe & Bar-",
+    "tole en la l. ij.",
+    "au commence-",
+    "ment. D. de ex",
+    "cuſ. tut."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "ſon propre frere, voire & preuenu d'hereſie {e}. Dont plu-",
+   "lines": [
+    "c. literas. de",
+    "præſump."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "ſieurs ont penſé, & enſeigné que le preuenu d'homici-",
+   "lines": [
+    "aud. c. literas"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[1].lines[2]",
+   "text": "conſideration. Preniierement, les qua-",
+   "note": "sic: the print sets 'Preniierement' for 'Premierement'. At 8x the group after 'Pre' is a two-legged n with a clear top arch, then two dotted i's; not an m. Wrong sort, transcribed as printed."
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "Cuerre leur frere, & mari de ladite de",
+   "note": "sic: 'Cuerre' for 'Guerre'. At 6x the capital is a plain C with no bar or spur. Wrong sort, transcribed as printed."
+  },
+  {
+   "where": "blocks[1].lines[11]",
+   "text": "ont dõnce deux des beaux-freres dudit",
+   "note": "sic: 'dõnce' for 'dõnee'. At 10x the first of the two final round letters has an open counter and no crossbar (c); the second has a full crossbar (e). Wrong sort, transcribed as printed."
+  },
+  {
+   "where": "blocks[3].lines[7]",
+   "text": "prouuer vnc ehoſe, en laquelle la foy des parens ſeroit",
+   "note": "sic, ESCALATE: the print reads 'vnc ehoſe' where sense wants 'vne choſe' — the c and e look transposed across the word space. At 12x with contrast the letter closing 'vn' has no crossbar (c) and the letter opening 'ehoſe' has a full crossbar (e); the word space between them is clear. Transcribed as printed; a human should confirm on the original.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[3].lines[14]",
+   "text": "roit aux parẽs & ne nuiroit à perſonne: comme quand",
+   "note": "a small raised wedge sits between 'comme' and 'quand' (body-6.jpg x~1330, y~500), at apostrophe height, not on the baseline. Read as an ink speck or stray sort and not transcribed; it could also be a printed apostrophe."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. parentes.",
+   "note": "the mark between 'l' and 'parentes' (margin-2.jpg x~400, y~1085) is a small blob at ascender height, far above the baseline periods of the same note; read as a period after the abbreviation 'l.', but notes b and c print 'l etiam' with no point, so 'l parentes.' is possible."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "alleguéz. Ac-",
+   "note": "the last letter of 'alleguéz' is small and blurred at the resolution of the margin strip (margin-3.jpg x~500, y~575); read as italic z on sense ('pre-alleguez'), but an italic ſ/s cannot be ruled out."
+  },
+  {
+   "where": "blocks[3].lines[1]",
+   "text": "des peres, meres, enfans, freres & ſeurs, beaux fils, & be-",
+   "note": "'des peres' is set tight in the print ('desperes'); separated per conventions §1 because they are two distinct words (round s, as word-final 'des'), not a period contraction."
+  }
+ ]
+}

@@ -1,0 +1,207 @@
+{
+ "id": "p015",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "15",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Fortes creantur fortibus, & bonis,",
+    "Eſt in iuuencis, eſt in equis patrum",
+    "Virtus. nec imbellem feroces",
+    "Progenerant, aquilæ columbam {k}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+    "les cicatrices, ores quelconques autres marques de ſes",
+    "anceſtres, & de ſon origine, teſmoins les Lepides Ro-",
+    "mains, deſquels y en eut trois d'vne maiſon, ayant cha-",
+    "cun l'œil couuert d'vne petite peau. Et Nice Bizantin,",
+    "qui naſquit noir comme vn more, rapportant pluttoſt",
+    "ſon ayeul, que ſa mere belle & blanche, engendrée tou-",
+    "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de",
+    "la nature, ni des races, ne peuuent pas tant, que nous ne",
+    "voyons quelquefois la poſterité degenerer, & diſſembla",
+    "ble à ſes progeniteurs: cõme des beaux, naiſtre des laids",
+    "& difformes: des robuſtes & forts, iſſir des impuiſſans,",
+    "& foibles: des bons & vertueux, proceder des vicieux, &",
+    "meſchans {m}. Autrement, ſi par fois, cela n'aduenoit ain-",
+    "ſi faudroit pour le bien public defendre par loy gene-",
+    "rale & inuiolable, aux laids, debiles, & meſchans, le ma-",
+    "riage, & compagnie charnelle des femmes: afin que tous",
+    "infalliblement, naſquiſſent beaux, puiſſans, & robuſtes.",
+    "Sur quoy Alexandre Aphrodiſée, ſe trauaille fort à ſon-",
+    "der, & monſtrer la cauſe, pour laquelle on voit aduenir",
+    "ſouuent, qu'vn homme ſtupide, groſſier, & ſot, voire vn",
+    "nyés, produira des enfans accors, prudẽs; ſages, & diſcrets",
+    "Et conclud la raiſon eſtre, pour autant qu'vn badaut, en",
+    "l'acte venerien, ſe laiſſe tellement ſurmonter, & vaincre",
+    "à la volupté preſente, qu'il ne penſe lors à autre choſe:",
+    "ayant volontairement plongé l'eſprit, & l'ame dans le",
+    "corps, dont la ſemence eſt puiſée & tirée de ce corps",
+    "parmy lequel l'eſprit ſe trouue, participe grandement",
+    "de la vertu raiſonnable: & fait que les enfans, qui en",
+    "deſcendent, ſont plus prudens, & ſpirituels que le pere.",
+    "Comme au contraire, ceux qui ſont ingenieux, diſcrets,",
+    "ou ſçauans, par ce que leur eſprit inceſſammẽt trauaille,",
+    "& ſ'occupe ailleurs qu'au plaiſir de la chair: voire meſ-",
+    "mes ſur l'inſtãt de l'acte, auquel du tout ne ſe laiſſe vain"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "k",
+   "beside_line": "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+   "lines": [
+    "Horace au",
+    "iij. li. des Car-",
+    "mes."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de",
+   "lines": [
+    "Pline au li-",
+    "ure vij. c. xij."
+   ]
+  },
+  {
+   "key": "m",
+   "beside_line": "ſi faudroit pour le bien public defendre par loy gene-",
+   "lines": [
+    "Plutarche",
+    "au v. linre de",
+    "placitis philo-",
+    "ſophor. c. xij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "Fortes creantur fortibus, & bonis,",
+   "note": "four lines of Latin verse (Horace, Odes IV.4) set in the larger italic and indented; a paragraph block, not headings, being a quotation carrying the marker {k} (§6). 'Virtus.nec' set tight, spaced per §1. continues_prev false: p014 ends with a full stop."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+   "note": "the line is set with a paragraph indent, so continues_prev is false per §6, although the sentence reads on from the end of p014 across the verse."
+  },
+  {
+   "where": "blocks[1].lines[5]",
+   "text": "qui naſquit noir comme vn more, rapportant pluttoſt",
+   "note": "'pluttoſt' is set with two ordinary t sorts (both crossbarred, short ascenders) where 'pluſtoſt' would be expected; transcribed as printed, sic. Reader B may read 'pluſtoſt'"
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "la nature, ni des races, ne peuuent pas tant, que nous ne",
+   "note": "'pas' — round final s with a small detached ink mark sitting above it; read as a flyspeck/offset, not as an accent or tilde"
+  },
+  {
+   "where": "blocks[1].lines[10]",
+   "text": "ble à ſes progeniteurs: cõme des beaux, naiſtre des laids",
+   "note": "the mark over the o of 'cõme' is a short, only slightly wavy bar; read as the nasal tilde (= comme)"
+  },
+  {
+   "where": "blocks[1].lines[31]",
+   "text": "ou ſçauans, par ce que leur eſprit inceſſammẽt trauaille,",
+   "note": "'inceſſammẽt' — the mark over the e is a short slightly tilted bar, read as nasal tilde (= incessamment), not an acute accent"
+  },
+  {
+   "where": "blocks[1].lines[33]",
+   "text": "mes ſur l'inſtãt de l'acte, auquel du tout ne ſe laiſſe vain",
+   "note": "'l'inſtãt' — straight bar over the a read as nasal tilde (= instant); last body line, the word 'vain' runs on to the next page"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "iij. li. des Car-",
+   "note": "numeral read as 'iij' (three dots, third minim descends as j) at 9x; at reading size it can look like 'ij'. Horace's Carmina book for this stanza is in fact IV, so the print may be in error, but 'iij' is what is set"
+  },
+  {
+   "where": "signature",
+   "note": "a very faint blind/offset impression of three or four short marks sits below the last body line at the left, where a signature would fall; it is illegible even at 6x with contrast stretched and folio 15 would not normally be signed, so signature is recorded as null"
+  },
+  {
+   "where": "blocks[1].lines[21]",
+   "text": "nyés, produira des enfans accors, prudẽs; ſages, & diſcrets",
+   "note": "'prudẽs' with a straight bar over the e read as nasal tilde. The mark after it is printed as two pieces, a dot over a comma wedge, read as a semicolon (reader A read a comma). The line ends after 'diſcrets' with no punctuation although a new sentence follows (sic)."
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "text": "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de",
+   "note": "'tesfois' has a round short s before the crossbarred f. 'ſorces': at 8x the initial sort has a hooked top and a left nub only, no crossbar to the right, unlike the f of 'forts' four lines below: a long ſ set for f, sic for 'forces' (both readers)."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Horace au",
+   "note": "the note's key letter is printed as an italic CAPITAL K followed by a period ('K. Horace au'); the body marker is a raised lowercase k. Recorded as key k."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "au v. linre de",
+   "note": "the third letter of the word after 'v.' prints with its stems joined at the top (italic n), so 'linre': a turned or wrong sort for 'liure' (reader A read 'liure'). Pointer: pages/full/p015.jpg x~2355-2420, y~1928-1985."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "placitis philo-",
+   "note": "at 6x two dots are visible, the second over the letter before the final s: 'placitis' (De placitis philosophorum), not 'placitus'."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[1].lines[5]",
+   "A": "qui naſquit noir comme vn more, rapportant pluttoſt",
+   "B": "qui naſquit noir comme vn more, rapportant pluſtoſt",
+   "chose": "A",
+   "text": "qui naſquit noir comme vn more, rapportant pluttoſt",
+   "reason": "at 8x both sorts after 'plu' are t: short pointed ascender with a crossbar on both sides of the stem; the ſ of 'oſt' in the same word is tall and hooked. 'pluttoſt', sic"
+  },
+  {
+   "where": "blocks[1].lines[21]",
+   "A": "nyés, produira des enfans accors, prudẽs, ſages, & diſcrets",
+   "B": "nyés, produira des enfans accors, prudẽs; ſages, & diſcrets",
+   "chose": "B",
+   "text": "nyés, produira des enfans accors, prudẽs; ſages, & diſcrets",
+   "reason": "the mark after 'prudẽs' is two separate pieces at 4x, a round dot above a comma wedge: a semicolon, unlike the single wedge of 'accors,' on the same line"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "A": "iij. li. des Car-",
+   "B": "ij. li. des Car-",
+   "chose": "A",
+   "text": "iij. li. des Car-",
+   "reason": "at 6x the numeral has three strokes and three dots (an i sort followed by the dotted ij sort): 'iij.'"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "A": "au v. liure de",
+   "B": "au v. linre de",
+   "chose": "B",
+   "text": "au v. linre de",
+   "reason": "at 6x (full/p015.jpg x~2355-2420, y~1928-1985) the third letter's two stems are joined by an arch at the top and open at the foot, the italic n, not the u of 'au' earlier in the line: 'linre', a turned sort for 'liure'"
+  },
+  {
+   "where": "blocks[0]/blocks[1] continues_prev",
+   "A": "block0 false, block1 true",
+   "B": "block0 true, block1 false",
+   "chose": "neither",
+   "text": "block0 continues_prev=false, block1 continues_prev=false",
+   "reason": "p014 ends 'naturelles vertus.' with a full stop and its final has continues_next=false, so the verse block does not continue a sentence (A); 'Iuſques à voir' is set with a clear paragraph indent (2x), so per §6 it opens a new paragraph and continues_prev is false (B), although the sense runs on from p014 across the verse"
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "id": "p020",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "ARREST DV",
+ "folio": "20",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "madoüant par infinis moyens laſcifs & impudiques. Et",
+    "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+    "ſemblent quelquesfois les peres, & d'autresfois les me-",
+    "res. Ie diray auec le Philoſophe, que ſi la vertu de l'hõme",
+    "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+    "traire, ſi la ſemence de la femme ſurmonte, l'enfant",
+    "prendra la forme, & ſimulacre de la mere. Et ſ'il y a",
+    "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+    "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+    "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+    "goras, quand il diſoit, que l'enfant reſſemblera celuy des",
+    "parens, qui aura mis plus de ſemence."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Dont ne faloit ſ'esbahir, ſi la ſuppliãt",
+    "incroyablement enuieuſe de voir & re-",
+    "couurer ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La femme chaſte & pudique, qui aime bien ſon mary:",
+    "n'a rien ſi cher ne ſi precieux que ſa preſence, & rien ſi",
+    "faſcheux & lamentable que ſon abſcence: teſmoins les",
+    "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+    "pourtraict & exemplaire de chaſtete) pour ſon Vliſſes,",
+    "d'Hermione, pour ſõ Oreſte: de Deianira, pour ſon Her",
+    "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+    "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+    "qu'il auoit eſté occis par Hector: ſur priſe d'vne fureur",
+    "& impatience extreme, ſortit hors des gens de raiſon",
+    "& comme tranſportee, ne voulant plus viute, demãda",
+    "aux dieux pour ſeul reconfort & ſoulagement de ſa",
+    "douleur, qu'elle peut voir l'eſprit de ſon ami treſpaſſé.",
+    "Ce qu'elle impetra & entre les bras de ceſte ombre rea",
+    "dit l'ame. Et ne fault douter que le ſouuerain deſir qui",
+    "aime, ne ſoit de voir & contempler la choſe aimee",
+    "pour le grand & incroyable plaiſir qu'il pretend en la",
+    "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+    "gard, naiſt, & ſe cauſe l'amour, de laquelle les yeux, com",
+    "me dit Properce, ſont les guides, chefs & cõducteurs {b}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "n",
+   "beside_line": "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+   "lines": [
+    "Ariſtote au",
+    "liure de la ge-",
+    "neration des",
+    "animaux."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+   "lines": [
+    "Ouide aux",
+    "epiſtres."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "note": "page quality: clean, well-inked CUDL copy; the body type is sharp throughout. The only hard spots are one over-inked sort (blocks[4].lines[13]) and one unidentified vertical stroke (blocks[4].lines[0]). The small italic margin font is legible at native resolution."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "madoüant par infinis moyens laſcifs & impudiques. Et",
+   "note": "the page opens mid-word: 'madoüant' is the continuation of 'a-' on p019 (amadoüant). p019 is not transcribed, so the word is read on its own; continues_prev is set true on that basis."
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+   "note": "'pour quoy' is set with a gap of the same width as the gap in 'la cauſe' on the same line, so it is transcribed as two words. Reader B may read 'pourquoy'. The comma after 'cauſe' is set with a space before it in the print; normalized per §1."
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+   "note": "the marker after 'corps' is a clear small italic n (checked at 12x); it is the only marker of this annotation on the page and fits the alphabet running on from p019. Its note is the first margin note."
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Dont ne faloit ſ'esbahir, ſi la ſuppliãt",
+   "note": "the TEXTE quotation is set in larger type but as running prose, so it is a paragraph block, not headings, following p011/p044. 'faloit' is printed with a single l (sic); 'ſ'esbahir' has long s for the elided pronoun and round s before b, as §2 expects; 'ſuppliãt' carries a tilde over the a."
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "La femme chaſte & pudique, qui aime bien ſon mary:",
+   "note": "between 'chaſte' and '&' the print shows a thick vertical bar the full height of the type body (ascender line to below the baseline), unslanted, unserifed, tight against the e: a risen space that took ink, not a sort. Both reads gave [?] here; the reconciler omits it (pointer: pages/full/p020.jpg x≈1160-1200, y≈1830-1910; body strip holding annotation line 1)",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+   "note": "'Proteſilaë': two dots are printed over the final e (the left one lightly inked), so a diaeresis is transcribed. At reading size it looks like an acute; reader B may read 'Proteſilaé'."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+   "note": "sic: 'qu'ayanr' for 'qu'ayant'. Checked at 17x — the final letter is an r (shoulder, no crossbar), unlike the t of 'tant,' earlier on the same line. Transcribed as printed per §7."
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "& comme tranſportee, ne voulant plus viute, demãda",
+   "note": "sic: 'viute' where the sense wants 'viure' (vivre). The fourth letter has a clear crossbar and a curved foot, so it is a t, not an r — a turned or wrong sort. Transcribed as printed."
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "Ce qu'elle impetra & entre les bras de ceſte ombre rea",
+   "note": "the last sort of the line is heavily inked. Read as 'a' (hooked top, closed bowl, single right stem) against 'n' of 'entre' on the same line; both readers gave 'ren' on the sense ('rendit', continued by 'dit' on the next line). Transcribed as printed, sic. Human check wanted: pages/full/p020.jpg x≈2290-2340, y≈2870-2945 (annotation line 14, line end)",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "text": "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+   "note": "Greek word set in a small greek fount: epsilon with a breathing mark, rho, omega with a circumflex, final sigma — transcribed ἐρῶς (for ἔρως). The breathing over the epsilon is a small c-shaped mark; whether it is psili or dasia cannot be told at this resolution, and the accent placement is the printer's, not classical. Reader B may read ἔρως or ἐρως."
+  },
+  {
+   "where": "margin_notes",
+   "note": "marker {b} on the last body line (blocks[4].lines[19]) has NO margin note and NO foot note anywhere on this page: the margin beside and below that line is blank (checked on margin-3.jpg and margin-4.jpg) and the foot of the leaf carries no citation block (foot.jpg). The citation for marker b presumably stands in the margin of p021. Recorded per §4."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "note n is printed low in the margin, beside body lines 8–11, i.e. slightly below the line carrying its marker; beside_line records the marker's own line. The key letter 'n' printed at the head of its first line is not included in lines, per §9."
+  },
+  {
+   "where": "margin_notes[1]",
+   "text": "epiſtres.",
+   "note": "note a sits beside blocks[4].lines[3]; the alphabet restarts at 'a' with ANNOTAT. VI, the previous annotation having reached n. 'epiſtres.' is printed without an accent on the first e and ends with a clear point."
+  },
+  {
+   "where": "running_head",
+   "text": "ARREST DV",
+   "note": "the head is set in spaced capitals (A R R E S T  D V) and is closed up here per §3; no point is printed after DV. The folio 20 stands at the outer (left) edge of the same line, as expected on a verso, and matches the manifest."
+  },
+  {
+   "where": "signature",
+   "note": "no signature, no catchword and no foot citation block. The leaf is blank from just below the last body line to the foot (foot.jpg shows the untrimmed bottom margin), so nothing is lost to the crop. The narrow strip of the facing recto along the right (gutter) edge of every crop has been ignored."
+  },
+  {
+   "where": "blocks[4]",
+   "note": "four line ends are printed with no word-break hyphen and are transcribed as printed per §1: lines[5] 'Her' + lines[6] 'cule'; lines[13] 'ren' + lines[14] 'dit'; lines[18] 'com' + lines[19] 'me'. Hyphens are printed normally elsewhere on the page ('l'ab-', 're-'), so these are compositor omissions."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "spacing: the compositor repeatedly sets a mark tight against the following word ('res.Ie', 'pere.&', 'toutesfois,&', 'goras,quand', 'parens,qui', 'abſcence:teſmoins', 'Ouide a,de', 'Penelope(vray', 'chaſtete)pour', 'Oreſte:de', 'cule:&', 'Proteſilaë:l'ab-', 'douleur,qu'elle', 'Hector:ſur', 'voyant,dont', 'yeux,com', 'Properce,ſont', 'guides,chefs', 'ἐρῶς:car', 'gard,naiſt,&') and sometimes leaves a space before one ('cauſe ,', 'ſurmonte ,', 'forme ,', 'mere .', 'ſemence ,', 'corps n .', 'preſence ,', 'extreme ,', 'aime ,'). All normalized to the §1 rule; no letter added or removed."
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+   "note": "round s in \"s'eſloignoit\" as printed (A read ſ); reconciled",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+   "note": "sic raporrera (r for t), wrong sort",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+   "note": "sic cſgalle (c for e), wrong sort",
+   "escalate": false
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[0].lines[9]",
+   "A": "quelle ſentence ne ſ'eſloignoit pas grandement Anaxa-",
+   "B": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+   "chose": "B",
+   "text": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+   "reason": "at 3x (full page y≈980-1070) the elided pronoun is set with a round s; 'eſloignoit' has long s"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "A": "La femme chaſte [?] & pudique, qui aime bien ſon mary:",
+   "B": "La femme chaſte [?] & pudique, qui aime bien ſon mary:",
+   "chose": "neither",
+   "text": "La femme chaſte & pudique, qui aime bien ſon mary:",
+   "reason": "the full-height stroke between 'chaſte' and '&' (both reads [?]) examined at 8x: a thick unslanted bar with ragged edges and no serif, running from ascender height to below the baseline, i.e. the full type body, set tight against the e with no side-bearing. Not a comma (too tall), not a virgule (not slanted), not a letter: a risen space (work-up) that took ink. Not text, so omitted; recorded in uncertain[]"
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "A": "…ombre ren",
+   "B": "…ombre ren",
+   "chose": "neither",
+   "text": "Ce qu'elle impetra & entre les bras de ceſte ombre rea",
+   "reason": "both reads chose 'ren' on sense (rendit) while noting the sort could be 'a'. At 10x beside the n of 'entre' and the a of 'chaſte': the final sort has a thin hooked top and a closed rounded bowl at the foot with one full-height stem at the right, the a-form; the n-form (two stems, open foot) is absent. Transcribed 'rea' as printed, sic for 'ren'; escalated for a human check because the sort is heavily inked"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "A": "pour quoy",
+   "B": "pour quoy",
+   "chose": "A",
+   "text": "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+   "reason": "agreed; checked at 3x: a full word space stands between 'pour' and 'quoy', equal to the other word spaces of the line; kept as two words as printed"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "A": "Proteſilaë",
+   "B": "Proteſilaë",
+   "chose": "A",
+   "text": "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+   "reason": "agreed; checked at 4x: two dots over the final e (left lighter), a diaeresis"
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "A": "ἐρῶς",
+   "B": "ἐρῶς",
+   "chose": "A",
+   "text": "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+   "reason": "agreed; B escalated the breathing: at 9x it is a small hooked mark over the epsilon whose direction the scan cannot resolve; the omega carries a clear circumflex; kept ἐρῶς, escalation closed (no better reading possible from this scan)"
+  },
+  {
+   "where": "margin_notes",
+   "A": "no note for b",
+   "B": "no note for b",
+   "chose": "A",
+   "text": "",
+   "reason": "margin-3.jpg and margin-4.jpg blank, no foot block: marker {b} kept, its note stands on p021"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "A": "raportera",
+   "B": "raportera",
+   "chose": "carson-session",
+   "text": "raporrera",
+   "reason": "spot-check found a shared reader error; Carson-session at 2x: the sort after rapor is r (no crossbar); wrong sort, transcribed as printed"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "A": "eſgalle",
+   "B": "eſgalle",
+   "chose": "carson-session",
+   "text": "cſgalle",
+   "reason": "spot-check found a shared reader error; confirmed at 2x: open c sort for e; transcribed as printed"
+  }
+ ]
+}

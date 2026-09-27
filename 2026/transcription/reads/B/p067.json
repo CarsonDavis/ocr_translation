@@ -1,0 +1,185 @@
+{
+ "id": "p067",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "67",
+ "signature": "E ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "lines": [
+    "ble en ſa peau: & qu'elle l'auoit bien co",
+    "gnu: & que ſi quelqu'vn eſtoit deſormais",
+    "ſi fol de dire le contraire, elle le feroit",
+    "mourir."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "A la verité, ceſt vne forte raiſon, & coniecture grãde",
+    "pour perſuader que le priſonier eſtoit calõnieuſement",
+    "accuſé d'entendre que la dite de Rols, ayant eſté aduer.",
+    "tie que le priſõnier n'eſtoit point ſon mari, neãtmoins",
+    "elle aſſeuroit & defendoit le contraire: & apres, ſans",
+    "nouuelles preuues, venoit contre ſa propre confeſſion,",
+    "& ſon aſſeurance choſe par trop indigne, & pleine de",
+    "grand ſoupçon {a}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Se plaignant en outre à pluſieurs, de ce",
+    "que ledit Pierre Guerre, & ſa femme,",
+    "mere de ladi. de Rols, la vouloyẽt forcer",
+    "& contraindre accuſer ledit priſonnier,",
+    "& dire, que ce n'eſtoit point ſon mari, iuſ",
+    "qu'à la menaſſer de la tirer hors de la",
+    "maiſon, ſi ne le diſoit."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_next": true,
+   "lines": [
+    "Ce point auſſi donnoit grand argument de pẽſer qu'",
+    "il y auoit de la fourbe dreſſee contre le preuenu & que",
+    "ce que ladite de Rols faiſoit, eſtoit par cõrrainte, force,",
+    "& reuerance deſdits Pierre Guerre, & ſa mere: a la mai",
+    "ſon deſquels elle ſe tenoit: car bien qu'on ne doyuq pas",
+    "facilement preſumer vn acte auoir eſté fait par terreur,",
+    "ou crainte {a2}: toutesfois quand il appert de telle ſollici-",
+    "tations, importunitez, & menaces, la crainte eſt ſuffi-",
+    "ſamment prouuee {b}, attendu meſmement la qualité de",
+    "ceux qui vſoyent de telles intimidations, qui eſtoyent,",
+    "le paratre, & la mere {c}: & conſideré le lieu auſſi: car",
+    "c'eſtoit en leur maiſon, où ladite de Rols eſtoit nour-",
+    "rie, & tenue en captiuité {d}. & attendu encor la qua"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "accuſé d'entendre que la dite de Rols, ayant eſté aduer.",
+   "lines": [
+    "l. generali",
+    "ter. C. de non",
+    "nu. pec. c. per",
+    "tuas. de ob."
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "Ce point auſſi donnoit grand argument de pẽſer qu'",
+   "lines": [
+    "l. merito. D",
+    "pro ſoc. l. quo",
+    "ries. P. qui do",
+    "lo D. de regu.",
+    "iur."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "& reuerance deſdits Pierre Guerre, & ſa mere: a la mai",
+   "lines": [
+    "Innocent",
+    "au c. petitio.",
+    "de iure iu."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ou crainte {a2}: toutesfois quand il appert de telle ſollici-",
+   "lines": [
+    "l... P. quæ",
+    "onerande. D.",
+    "quar. rer. car.",
+    "cerẽ D. quod",
+    "met. cau."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "accuſé d'entendre que la dite de Rols, ayant eſté aduer.",
+   "note": "sic: the word aduer-/tie is broken at the line end but the print sets a round period on the baseline, not a hyphen (checked at 8x); transcribed as printed. Reconciler may prefer 'aduer-'.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "mere de ladi. de Rols, la vouloyẽt forcer",
+   "note": "the mark over the e of vouloyẽt is a heavy wedge; read as a tilde (vouloyẽt = vouloyent, and the corpus has many -oyẽt forms, no -oyét), but in this larger type it could be read as an acute 'vouloyét'."
+  },
+  {
+   "where": "blocks[5]",
+   "text": "ANNOTAT. XLI.",
+   "note": "sic: the printed numeral is X L I with a small raised mark (risen space or wrong sort) between the X and the L; the sequence after ANNOTAT. XLV. suggests XLVI was meant. Transcribed as printed.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "ce que ladite de Rols faiſoit, eſtoit par cõrrainte, force,",
+   "note": "sic: cõrrainte is printed with two r (wrong sort, r for t; verified at 7x against the t of the same word's ending) where cõtrainte is meant."
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "ce que ladite de Rols faiſoit, eſtoit par cõrrainte, force,",
+   "note": "an ink blot sits over the t of 'ladite'; reading 'ladite' is from the surviving strokes and the parallel at blocks[6].lines[11]."
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "ſon deſquels elle ſe tenoit: car bien qu'on ne doyuq pas",
+   "note": "doyuq: the last letter is a bowl with a right stem running below the baseline (q) rather than the crossbarred e of 'doyue'; a brown stain overlaps that descender, so the wrong sort is not certain. Transcribed as printed.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[3]",
+   "note": "the key letter of this note is printed as a short dash, not a letter; keyed 'c' from the body marker {c} and from its position after note b. Escalated so the reconciler can confirm.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l... P. quæ",
+   "note": "after 'l' the print sets three separate baseline dots (possibly under-inked sorts); and the final ligature of 'quæ' is heavily inked and could be a plain 'que'."
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "quar. rer. car.",
+   "note": "the word carcerẽ is broken across these two note lines and the break is printed as a period, not a hyphen (same anomaly as blocks[2].lines[2]); transcribed as printed."
+  },
+  {
+   "where": "margin_notes",
+   "note": "marker d (body, last line) has no note: the margin block ends with note c and the rest of the margin and the foot of the page are blank. No foot citation block on this page.",
+   "escalate": true
+  },
+  {
+   "where": "signature",
+   "text": "E ij",
+   "note": "the signature reads 'E ij' on folio 67, which does not fit an alphabetical gathering sequence at this folio; transcribed as printed."
+  }
+ ]
+}

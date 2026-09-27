@@ -1,0 +1,188 @@
+{
+ "id": "p054",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "54",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "tre appelé Valentin Rougié, qui le nom",
+    "moit, & recognoiſſoit pour du Tilh, luy",
+    "fit ſigne du doigt qu'il ſe teuſt. Au troi-",
+    "ſieme, appelé Pelegrin de Liberos, luy",
+    "fit pareil & ſigne en outre, donna deux",
+    "mouchoirs', à la charge d'en bailler vn à",
+    "Iean du Tilh ſon frere."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, XXXII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Si ces teſmoins n'euſſent eſté ſinguliers, chacun de-",
+    "poſant de ſon faict, & bien reprochez, ceſte ſeule preu-",
+    "ue eut bien eſté ſuffiſante à luy bailler le géine. car",
+    "bien qu'vne confeſſion de crime, hors iugement faite,",
+    "ne ſoit pas ſuffiſante pour condemner vn homme, ſans",
+    "nouueau proces, ou ſoit extraordinairement à l'ar-",
+    "bitre du Iuge cõme fol, glorieux & outre cuidé, ſ'eſtãt",
+    "vanté de mal faire {a}: toutesfois elle fait ſuffiſant indi-",
+    "ce, pour mettre vn tel ruſtre, qui a cõfeſſe, à la torture {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Sixiément, deux autres teſmoins depo",
+    "ſent, qu'vn ſoldat de Rochefort, n'a pas",
+    "longtemps, paſſa au lieu d'Artigat, lequel,",
+    "esbahi de voir ledit du Tilh, ſoy dire, Mar",
+    "tin Guerre, dit tout haut, qu il eſtoit vn",
+    "trompeur: car Martin Guerre eſtoit en",
+    "Flãdres, n'ayãt qu'vne iãbe, & l'autre de",
+    "bois, pour auoir perdu l'vne. d'vn coup",
+    "de boulet deuant S. Quentin, à la iour-",
+    "nee de S. Laurens."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XXXIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En cor que ceſte preuue n'euſt pas eſté fort neceſſai",
+    "re, par ce qu'vn teſmoignage d'auoir cuy dire ne preu-",
+    "ue point {a2} toutesfois quãd le vray Martin Guerre arri-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "vanté de mal faire {a}: toutesfois elle fait ſuffiſant indi-",
+   "lines": [
+    "c. quàm ſit",
+    "graue. de ex. -",
+    "ceſ. prelato"
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": null,
+   "lines": [
+    "Accurſe en",
+    "la l. capite",
+    "quinto- D. de",
+    "adult,"
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": null,
+   "lines": [
+    "c. iam lite-",
+    "ris. c, licet ex",
+    "quadam, de-",
+    "ſti. c. rutela. de",
+    "conſan. & af-",
+    "fini,"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "mouchoirs', à la charge d'en bailler vn à",
+   "note": "an apostrophe (raised comma) is printed after 'mouchoirs' and before the comma; transcribed as printed, sic. Could also be a stray sort."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "longtemps, paſſa au lieu d'Artigat, lequel,",
+   "note": "the final comma after 'lequel' is small and fused to the foot of the l; read as a comma at 10x, but faint."
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "esbahi de voir ledit du Tilh, ſoy dire, Mar",
+   "note": "the line-end 'Mar' (of Martin, continued on the next line) is set in the smaller annotation type, not the large text type; a comma is printed before it ('dire, Mar'). Transcribed as ordinary capital M + lowercase."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "tin Guerre, dit tout haut, qu il eſtoit vn",
+   "note": "'qu il' is printed without an apostrophe; sic."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "bois, pour auoir perdu l'vne. d'vn coup",
+   "note": "a round period is printed on the baseline after 'l'vne' in mid-sentence; transcribed as printed, sic."
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "de boulet deuant S. Quentin, à la iour-",
+   "note": "the word-break sign after 'iour' (iour-/nee) is printed as a small rounded blob at mid-height, not the clean dash used at 'troi-'; transcribed as a hyphen per §1."
+  },
+  {
+   "where": "blocks[6].lines[1]",
+   "text": "re, par ce qu'vn teſmoignage d'auoir cuy dire ne preu-",
+   "note": "'cuy' for 'ouy': at 9x the first glyph is an open c with serif terminals, not a closed o; transcribed as printed, sic (wrong sort). The line-end sign after 'preu' is the same rounded blob as at 'iour-'."
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "ue point {a2} toutesfois quãd le vray Martin Guerre arri-",
+   "note": "marker keyed a2: the alphabet restarts at 'a' with ANNOT. XXXIII (§4). The line-end sign after 'arri' is the same rounded blob as at 'iour-', read as a hyphen."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "graue. de ex. -",
+   "note": "the print sets 'ex.' then a small gap then the line-end hyphen; spacing normalized per §1."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "ceſ. prelato",
+   "note": "'prelato' is printed with a plain e, not the æ ligature (prælato); sic."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "quinto- D. de",
+   "note": "a hyphen, not a period, is printed between 'quinto' and 'D.' (same dash shape as the line-end hyphens in this italic font), with a visible gap before the D; transcribed as printed, sic."
+  },
+  {
+   "where": "margin_notes[1]",
+   "note": "note b is printed beside the TEXTE heading, not beside a body line, so beside_line is null."
+  },
+  {
+   "where": "margin_notes[2]",
+   "note": "note a2 starts in the gap between 'nee de S. Laurens.' and the ANNOT. XXXIII heading, ahead of its marker line, so beside_line is null. Its key letter is a heavily inked italic a."
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "ſti. c. rutela. de",
+   "note": "'rutela' for 'tutela': the first glyph is a short italic r with a shoulder, not the tall crossed t that follows it in the same word; transcribed as printed, sic."
+  }
+ ]
+}

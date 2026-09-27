@@ -1,0 +1,171 @@
+{
+ "id": "p044",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "24",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ceſte de ROLS ici) ſans faire ſemblant aucun de ſe plain-",
+    "dre du peu de deuoir que le mari luy rendoit, ſ'appro-",
+    "chant d'elle. Sur quoy puis n'agueres i'apprins d'hõme",
+    "digne de foy, que peu deuant que i'eſcriuiſſe ces choſes,",
+    "fut par ſentence de l'official d'Albi, ſeparé le mariage",
+    "d'vn mari qui auoit demeuré dixhuit ans ſans ſ'eſtre peu",
+    "onques approcher de ſa fẽme, laquelle viſitee, ſe trou-",
+    "ua encor pucelle. & neãtmoins elle n'auoit fait onques",
+    "ſemblant ſ'en faſcher ou plaindre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Au bout deſdits neuf ans, elle fut deſ-",
+    "ſorcelee, & à ces fins inſtruite de faire",
+    "dire quatre meſſes, ce qu'elle fit. & nõme",
+    "les preſtres, & que l'vn d'eux (qu'elle con",
+    "ſignoit) luy fit manger quelques hoſties,",
+    "& fouaſſes, dequoy elle & ſondit mari",
+    "ſe trouuerent ſi bien, qu'elle conceutin-",
+    "continent apres vn fils, encore viuant,",
+    "appelé Sanxi Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Incroyable certes eſt la ruſe & cautelle de Satan",
+    "lequel comme vn lion bruyant, touſiours chemine à",
+    "l'entour des hommes, pour en atraper & deceuoir",
+    "quelqu'vn, {a} ſe transfigurant ſouuentesfois en Ange de",
+    "lumiere, pour mieux l'enueloper, & attaire {b}, voire",
+    "embelliſt, & orne ſi bien ſes tenebres par ſes couleurs,",
+    "qu'il ſemble à pluſieurs la meſme nuict, & obſcurité",
+    "eſtre vne ſplendeur & parfaite lumiere, comme en",
+    "ceſt deſſorcellement, auquel ſous le pretexte de pieté,",
+    "& des ceremonies eccleſiaſtiques, il enta vne horrible",
+    "& cruelle poyſon, perſuadant à ces poures mariez, qu'il",
+    "n'y auoit autre moyen, pour deſſorceller, que la ſuper-",
+    "ſtition de manger hoſties, & fouaſſes, ainſi laiſſant à",
+    "part la contrition du cœur, humiliation deſprit, les",
+    "aumoſnes, les ieunes, & les oraiſons, qui ſont les vrays",
+    "& excellens exorciſmes pour preſenter à Dieu {c}, collo-",
+    "quant en luy toute ſon eſperance, & non point en"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "lumiere, pour mieux l'enueloper, & attaire{b}, voire",
+   "lines": [
+    "A la pre-",
+    "miere des S.",
+    "Pierre. c. v."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "qu'il ſemble à pluſieurs la meſme nuict, & obſcurité",
+   "lines": [
+    "A la ſecon",
+    "de des Corin",
+    "tans. c. xi."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "& excellens exorciſmes pour preſenter à Dieu {c},collo-",
+   "note": "marker c: no marginal note keyed c is printed anywhere on this page (margin-3/margin-4 show blank margin below note b, and foot.jpg shows no foot citation block, no signature, no catchword). The note for c presumably stands on the facing recto. Recorded as a marker with no note.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "& excellens exorciſmes pour preſenter à Dieu {c},collo-",
+   "note": "the punctuation mark immediately after the italic marker c is small and sits at/just below the baseline; read as a comma (grammar wants 'à Dieu, colloquant en luy'), but it could be a period. No space is printed between it and 'collo-'."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ceſte de ROLS ici) ſans faire ſemblant aucun de ſe plain-",
+   "note": "ROLS is set in small capitals (R full height, OLS smaller) — transcribed as plain capitals. The space between ')' and 'ſans' is very narrow (a hair space); normalized to one space per §1, but reader B may have read 'ici)ſans'."
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "dre du peu de deuoir que le mari luy rendoit, ſ'appro-",
+   "note": "a justification space is printed before the comma ('rendoit , ſ'appro-'); normalized away per §1. Same on blocks[4].lines[16] ('eſperance , &')."
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "ſe trouuerent ſi bien,qu'elle conceutin-",
+   "note": "'conceut' and 'in-' are printed with no space between them ('conceutin-'); transcribed as printed. sic."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "digne de foy,que peu deuant que i'eſcriuiſſe ces choſes,",
+   "note": "no space is printed after the comma; transcribed as printed. Same case at blocks[2].lines[2] ('meſſes,ce'), blocks[2].lines[6] ('bien,qu'elle'), blocks[4].lines[10] ('poyſon,perſuadant'), blocks[4].lines[12] ('fouaſſes,ainſi'), and blocks[2].lines[3] ('d'eux(qu'elle')."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "dire quatre meſſes,ce qu'elle fit. & nõme",
+   "note": "the gap between the full stop after 'fit' and the '&' is very tight; read as a space ('fit. & nõme')."
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Incroyable certes eſt la ruſe & cautelle de Satan",
+   "note": "the 'a' of 'Satan' is very faintly inked (looks at first like a gap, 'S tan'); at high magnification the letter is there. Reading is secure."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "Pierre.c.v.",
+   "note": "a narrow gap is printed between 'Pierre' and the first point ('Pierre .c.v.'); treated as compositor spacing and closed up. Note a = 1 Peter, chapter 5."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "tans.c.xi.",
+   "note": "this last margin line is heavily over-inked and the letters run together; read as 'tans.c.xi.' (continuing 'Corin|tans' = Corinthiens, chapter 11). The initial t and the n are the least certain letters."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "A la ſecon",
+   "note": "the line breaks 'ſecon|de' and 'Corin|tans' carry no printed hyphen, unlike note a's 'pre-|miere'; transcribed without hyphens as printed."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "placement: note a's first line stands beside the body line 'lumiere, pour mieux l'enueloper, & attaire{b}, voire', i.e. one line below its own marker a and beside marker b. Note b's first line stands beside 'qu'il ſemble à pluſieurs la meſme nuict, & obſcurité'. The notes have drifted down from their markers; keys are legible and unambiguous."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "chant d'elle. Sur quoy puis n'agueres i'apprins d'hõme",
+   "note": "validator warning checked against the image: 'Sur' is printed with a roman CAPITAL S (capitals never take long s), so no normalization occurred. Reading confirmed at high magnification."
+  },
+  {
+   "where": "blocks[3]",
+   "text": "A N N O T.  X X I I I I.",
+   "note": "the annotation number is printed XXIIII (four I's), i.e. 24; transcribed as printed."
+  }
+ ]
+}

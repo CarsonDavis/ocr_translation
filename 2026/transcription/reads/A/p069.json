@@ -1,0 +1,188 @@
+{
+  "id": "p069",
+  "reader": "A",
+  "model": "opus",
+  "running_head": "PARLEMENT DE THOLOSE.",
+  "folio": "69",
+  "signature": "E iij",
+  "catchword": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "continues_prev": true,
+      "continues_next": true,
+      "lines": [
+        "tres digne: eſtant vn autre Phrinondas, duquel Ariſto-",
+        "phanes parle, ou vn vray Syſiphe,"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "continues_prev": true,
+      "continues_next": false,
+      "lines": [
+        "Syſiphus in terris, quo non aſtutior alter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "continues_prev": false,
+      "continues_next": false,
+      "lines": [
+        "D'autant que la ſuppoſition eſtant ia deſcouuerte, il",
+        "ſçeut neantmoins ſi bien impoſer aux Iuges, voire en-",
+        "cor à ladite de Rols, de laquelle ſe diſoit touſiours ma",
+        "ri: que les Iuges le relaxerent en effect, par vn appoin",
+        "tement de contraires. Et la femme encor le receut pour",
+        "Martin Guerre ſon mari."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "TEXTE.",
+      "spaced_caps": true
+    },
+    {
+      "type": "paragraph",
+      "continues_prev": false,
+      "continues_next": false,
+      "lines": [
+        "Et neantmoins le lendemain de",
+        "grand matin ledit Pierre Guerre, com-",
+        "procureur de ladite de Rols, accompa-",
+        "gné de ſes beaux fils, tous armez, le fit",
+        "conſtituer priſonnier, bien que pour lors",
+        "ni peuſt auoir nouuelles charges, & que",
+        "ladite de Rols n'euſt encor fait procu-",
+        "reur ledit Pierre Guerre à ces fins. car la",
+        "procure ne fut faite ce iour-la, iuſques",
+        "au ſoir apres veſpres, comme iceluy Pier",
+        "re Guerre meſme depuis a confeſſé."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "ANNOTAT. XVIII.",
+      "spaced_caps": true
+    },
+    {
+      "type": "paragraph",
+      "continues_prev": false,
+      "continues_next": true,
+      "lines": [
+        "Ceſtoit doncques vn faux procureur, car tel eſt ap",
+        "pellé en noſtre droict, non ſeulement celuy qui n'ha eu",
+        "iamais ni auant, ni apres charge de la perſonne, de",
+        "laquelle il ſe dit procureur {a}: ou bien qui d'aultresfois",
+        "l'ha euë reuoquee, comme il ſçauoit bien {b}. mais en",
+        "cor celuy qui a outrepaſſé les fins & bornes de ſa puiſ-",
+        "ſance, ou qui n'auoit point de charge au temps de l'exe-",
+        "cution {c}. voyre celuy qui auroit eſté bien & legitime-",
+        "ment conſtitué ſil ne ſçauoit point & neantmoins il fai-",
+        "ſoit les actes de procureut {d}. vray eſt qu'en ce fait,",
+        "Pierre Guerre du commencement, faux procureur, a"
+      ]
+    }
+  ],
+  "margin_notes": [
+    {
+      "key": "a",
+      "beside_line": "au ſoir apres veſpres, comme iceluy Pier",
+      "lines": [
+        "l. ſi procura",
+        "tori falſo. & i",
+        "lec Accurſe,",
+        "D. de cõd. ca.",
+        "dau. l. licet. C.",
+        "de procu."
+      ]
+    },
+    {
+      "key": "b",
+      "beside_line": "Ceſtoit doncques vn faux procureur, car tel eſt ap",
+      "lines": [
+        "c. ex parte",
+        "Decani. de re."
+      ]
+    },
+    {
+      "key": "c",
+      "beside_line": "iamais ni auant, ni apres charge de la perſonne, de",
+      "lines": [
+        "l ſulſus. & il",
+        "lec les gloſe &",
+        "docteurs. C. de",
+        "fur. la Glo &",
+        "les maiſtres au",
+        "c. ex parte."
+      ]
+    },
+    {
+      "key": "d",
+      "beside_line": "ſance, ou qui n'auoit point de charge au temps de l'exe-",
+      "lines": [
+        "l. quæro. D.",
+        "de eo qui pro",
+        "tutor. l. iij. Ꝑ.",
+        "ſed & ſi qui-",
+        "dem. D. Iud.",
+        "ſol."
+      ]
+    }
+  ],
+  "foot_notes": [],
+  "ornaments": [],
+  "uncertain": [
+    {
+      "where": "blocks[6].lines[9]",
+      "text": "ſoit les actes de procureut {d}. vray eſt qu'en ce fait,",
+      "note": "sic: 'procureut' — the final sort is a t (clear crossbar and curved foot) where 'procureur' is meant; wrong sort, transcribed as printed"
+    },
+    {
+      "where": "blocks[6].lines[4]",
+      "text": "l'ha euë reuoquee, comme il ſçauoit bien {b}. mais en",
+      "note": "'euë': the final e carries two marks (a round dot left, a slanted stroke right); read as a tréma, but 'eué' is possible"
+    },
+    {
+      "where": "margin_notes[0].lines[3]",
+      "text": "D. de cõd. ca.",
+      "note": "the stop between 'cõd' and 'ca' is a faint low dot crossed by a paper fibre; could be read 'cõdica.' as one word"
+    },
+    {
+      "where": "margin_notes[0].lines[4]",
+      "text": "dau. l. licet. C.",
+      "note": "'dau.' — third letter is two minims joined below (u), no crossbar, so not 'dat.'; the abbreviation is not one I can resolve, reading given as printed"
+    },
+    {
+      "where": "margin_notes[2].lines[0]",
+      "text": "l ſulſus. & il",
+      "note": "'ſulſus' is not a Latin form I can resolve and there is no stop after the opening 'l'; glyphs read ſ-u-l-ſ-u-s, a period may be lost between 'ſul' and 'ſus'",
+      "escalate": true
+    },
+    {
+      "where": "margin_notes[2].lines[1]",
+      "text": "lec les gloſe &",
+      "note": "second letter of 'lec' is broken/under-inked and looks like an a; read 'lec' because note a has the same word ('& i' / 'lec Accurſe'), i.e. 'illec'"
+    },
+    {
+      "where": "margin_notes[2].lines[3]",
+      "text": "fur. la Glo &",
+      "note": "'fur.' — f has a full crossbar and the third letter has an r shoulder; 'fuſ.' cannot be ruled out at this resolution"
+    },
+    {
+      "where": "margin_notes[3].lines[2]",
+      "text": "tutor. l. iij. Ꝑ.",
+      "note": "numeral: three dots are visible but the middle minim is worn, so 'ij' is possible instead of 'iij'"
+    },
+    {
+      "where": "margin_notes[3].lines[2]",
+      "text": "tutor. l. iij. Ꝑ.",
+      "note": "final sign is a capital P with a stroke through the descender, used here as the paragraph abbreviation before the § incipit 'ſed & ſi quidem'; transcribed Ꝑ (U+A750), could be intended as §"
+    },
+    {
+      "where": "margin_notes[3].lines[0]",
+      "text": "l. quæro. D.",
+      "note": "'quæro' — the ligature is inked heavily; a plain 'a' ('quaro') is just possible"
+    }
+  ]
+}

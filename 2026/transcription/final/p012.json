@@ -1,0 +1,137 @@
+{
+ "id": "p012",
+ "reader": "final",
+ "model": "script",
+ "running_head": "ARRET DV",
+ "folio": "12",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "ſemblance, accompagnée de mille fraudes & menſonges",
+    "quelques vns naiz de pauure, bas & hũble lieu, ont ſceu",
+    "ſi bien pratiquer, qu'ils perſuadoyent à tout vn peuple,",
+    "d'eſtre iſſuz de race grãde, noble & illuſtre: comme vn",
+    "Smerdes, Archelae, Equice: Helophile, & autres pluſieurs",
+    "deſquels l'hiſtoire ci deſſouz en lieu plus commode, ſera",
+    "narrée: toutesfois, ſi les circonſtances ſont meſurées à",
+    "droite aulne, & poiſées à iuſte balance, ce faict apparoi-",
+    "ſtra incomparablement plus monſtrueux & admirable,",
+    "que tous les autres: en nul deſquelz ſe trouuera, que tel-",
+    "le ſimilitude, bien qu'elle fuſt fardée, & reueſtuë de mil-",
+    "le neceſſaires menſonges, aye eſte ſi puiſſante d'impoſer",
+    "à tous les parens, & meſmes à quatre ſœurs, & à l'oncle",
+    "qui auoit nourri le nepueu dés ſon enfance, cõme en ce",
+    "faict ici (voire) qui doit tirer chacun en plus grande ad-",
+    "miration, à la propre femme, ayant receu vn autre pour",
+    "ſon mari, & auec iceluy familierement conuerſé, com-",
+    "me mary & femme font, l'eſpace de trois ans, & d'auan-",
+    "tage: ſans iamais ſ'apperceuoir, non pas ſeulement ſoup-",
+    "çonner de la fraude. Bien qu'en autres ſuppoſitions les",
+    "femmes ſe ſoyent monſtrées ſouuent plus aigües, viues,",
+    "& perſpicaces à les deſcouurir & cognoiſtre, que les hõ-",
+    "mes. Comme teſmoignera bien l'hiſtoire de la femme de",
+    "Q. Sertorius à Rome, & de Ieanne, fille du comte Bal-",
+    "duin en Flandres: ainſi que nous dirõs apres plus ample-",
+    "ment {a}. Et touchant les ſimilitudes grandes, qui ont eſté",
+    "entre quelques hõmes, il en y a eu, pour le paſſé pluſieurs",
+    "dont les vnes eſtoyent entretenues ſans fraude, & les au",
+    "tres produiſoyent de grandes & notables impoſtures.",
+    "Quant aux premieres, iadis à Rome, Vibien, & Publice,",
+    "perſonnes de fort baſſe & ville condition, rapportoyent",
+    "ſi bien ce grand Pompee, que les Romains les appeloiẽt",
+    "Pompées, & à Pompée quelque fois le nommoient Vi-",
+    "bien, ou Publice {b}. Pareille reſſemblance fut entre",
+    "Cornele Scipion & vn porcher (ou ſelon les autres victi",
+    "maire) c'eſt à dire, reuendeur de beſtes pour ſacrifier qui",
+    "ſ'appeloit Serapion {c}. De meſmes, entre Hibreas Mile-",
+    "ſien, ce grand & renõmé orateur: & vn Serf, que l'hiſtoi-",
+    "re ne nomme point. tellemẽt que les Anciens, croyoyent",
+    "fermement: qu'ils fuſſent freres {d}. A M. Antoine, en ſon"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ment {a}. Et touchant les ſimilitudes grandes, qui ont eſté",
+   "lines": [
+    "En l'annota",
+    "tion lxxxi."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "perſonnes de fort baſſe & ville condition, rapportoyent",
+   "lines": [
+    "Pline au li",
+    "ure vij. c. xij.",
+    "Solin en ſon",
+    "Polihiſto. c. v."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "Cornele Scipion & vn porcher (ou ſelon les autres victi",
+   "lines": [
+    "Valere le",
+    "Grand au li,",
+    "ix. c. xv. Pline",
+    "& Sol. ou deſ",
+    "ſus."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "ſien, ce grand & renõmé orateur: & vn Serf, que l'hiſtoi-",
+   "lines": [
+    "Valere au",
+    "lieu deſſus al-",
+    "legue."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARRET DV",
+   "note": "sic: the spaced-capital head is set A R R E T   D V, without the S of ARREST; transcribed as printed and closed up"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "droite aulne, & poiſées à iuſte balance, ce faict apparoi-",
+   "note": "'poiſées': the tall glyph after 'poi' shows no clear ſ flag and could be read as 'l' ('poilées'); read as long s from the word (poiser = to weigh), cf. the clear ſ of 'iuſte' on the same line"
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "text": "re ne nomme point. tellemẽt que les Anciens, croyoyent",
+   "note": "a small low dot sits between 'point' and 'tellemẽt'; read as a period, but it could be a comma or an ink speck"
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "fermement: qu'ils fuſſent freres {d}. AM. Antoine, en ſon",
+   "note": "printed 'A M .': a full-size capital A, a space, a small-capital M, a space, a period. Closed up to 'AM.' by the spaced-capitals rule (§3) and the validator, but sense suggests two tokens, the preposition A (capitals carry no accent) plus the abbreviation M. for Marc Antoine — reconciler should decide"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "legue.",
+   "note": "printed without an accent (sic for 'allegué'); the italic margin type shows no acute over the final e"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "page",
+   "A": "",
+   "B": "",
+   "chose": "A",
+   "text": "",
+   "reason": "reads agree on every printed line"
+  }
+ ]
+}

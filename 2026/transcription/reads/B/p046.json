@@ -1,0 +1,196 @@
+{
+ "id": "p046",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "46",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "verificatiõ & recognoiſſãce dudit priſon",
+    "nier, ſoy diſant Martin Guerre, que ſur la",
+    "vie & fame des teſmoins confrontez. le",
+    "monitoire publié, les reuelations reſu-",
+    "mees, les enqueſtes d'office faites, reſulte",
+    "entre autres choſes lad. de Rols auoir",
+    "tout le temps de ſa vie, & meſmes durant",
+    "l'abſence dud. Martin ſon mari, vertueu-",
+    "ſement, & honorablement veſcu."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ceſte preuue & circonſtance n'eſtoit pas de poids",
+    "pour l'excuſe de ladite de Rols. & qu'elle n'entẽdoit riẽ",
+    "à la fraude: car outre que la nature, & la loy preſume",
+    "de chacũ qu'il eſt bon, honneſte, & bien viuãt {a}, & qu'il",
+    "ne voudroit penſer aucune fraude ou meſchancé con-",
+    "tre ſon prochain {b}: la bõne opiniõ encor l'augmente de",
+    "beaucoup, quand par la paſſée il appert d'vn perſonna",
+    "ge, qu'il a touſiours veſcu en homme de bien, & eſt en",
+    "uers tous, qu'il cognoiſſent pour tel eſtimé & reputé {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et quant au Preuenu, il y a enuiron",
+    "cent cinquante teſmoins ouys, deſquels",
+    "xxx. ou xl. aſſeurent, qu'il eſt veritable-",
+    "ment Martin Guerre. pour l'auoir veu",
+    "& hanté, & frequenté dés ſon enfance.",
+    "& recongnoiſſent en luy certaines mar-",
+    "ques & cicatrices que ledit Martin auoit",
+    "D'autres, & en plus grand nombre de-",
+    "poſent que c'eſt Arnauld du Tilh, dit",
+    "panſette. & par meſmes raiſons, de l'a-",
+    "uoir cognu dés le Berçeau: le reſte des teſ",
+    "moins iuſqu'à lx. & d'auãtage qu'il y a ſi"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "de chacũ qu'il eſt bon, honneſte, & bien viuãt {a}, & qu'il",
+   "lines": [
+    "c. dudũ. de",
+    "præſu. Gl. auc.",
+    "j. de ſcruti.",
+    "q l. merito. D.",
+    "proſo. Accurſe",
+    "en la l. final.",
+    "D. quod me",
+    "cauſ."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": null,
+   "lines": [
+    "l. non omnes",
+    "P. à barbaris.",
+    "D. de re milit."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "cent cinquante teſmoins ouys, deſquels",
+   "lines": [
+    "mandata de",
+    "præſum"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "tre ſon prochain {b}: la bõne opiniõ encor l'augmente de",
+   "note": "ESCALATE. 'l'augmente': the sense wants 'ſ'augmente' (s'augmente), but the glyph printed before the apostrophe is an 'l', not a long ſ. Checked at 13x-16x on body-4.jpg against two controls on the SAME printed line: the ſ of 'ſon' (x~150) has a top hook that swings right over the next letter and ends at the baseline with a small left-only spur; the l of 'la' (x~560, in 'b: la bõne') has a top-left serif and a broad two-sided foot serif. The disputed glyph (x~1215) matches the l of 'la' exactly (top-left serif, broad T-foot) and does not match the ſ. Transcribed as printed per §7 ('never correct the print'); most likely a wrong sort set by the compositor. Reconciler should decide whether to keep 'l'augmente' or emend.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "ment Martin Guerre. pour l'auoir veu",
+   "note": "ESCALATE. The mark after 'Guerre' read as a period, against the sense (which wants a comma). At 10x-13x (body-6.jpg) it is a small round blob sitting on the baseline with at most a tiny point at the lower right; compared side by side with the comma after 'hanté' on the next line (clear head plus long curved tail well below the baseline) and the period after 'enfance.' on the same line (round dot on the baseline) it matches the period, not the comma. The page does use mid-sentence periods freely ('confrontez. le', 'panſette. & par', 'lad. de Rols'). Reconciler may prefer a comma on sense.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[1]",
+   "note": "ESCALATE. Key letters of the second and third margin entries are not securely printed. Only the first entry carries an unmistakable key: an italic 'a' at the hanging position, with no period, followed by the citation 'c. dudũ.'. The second entry (line 9 of the margin block) and the third (line 12) each begin instead with an x-height round glyph followed by a period, and that glyph matches, shape for shape, the 'c.' of 'c. dudũ' in entry a. Measured at 16x on margin-2.jpg: both glyphs are ~28px tall, i.e. x-height, whereas the italic 'b' of 'barbaris' two lines below is ~42px (full ascender), so neither glyph can be an italic 'b'. Two readings are possible: (i) they are the key letters b and c, printed with a following period (adopted here, because the body has exactly three markers a/b/c and the three citation groups line up with them); (ii) they are the citation abbreviation 'c.' (capitulum) and the keys b and c were simply not printed, in which case the lines of notes b and c should begin 'c. l. non omnes' and 'c. mandata de' and both markers would be noteless. Reading (ii) is attractive for note c ('c. mandata de præſum' is a natural decretal citation, parallel to 'c. dudũ. de præſu.') but awkward for note b ('c.' before 'l. non omnes' is not idiomatic). Keys a/b/c assigned here from the body marker sequence; the leading glyph+period has been treated as the key and excluded from lines[] per §4. Needs a human decision.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[1]",
+   "note": "Grouping of the margin block into notes. The 13 printed lines form one justified column with no blank line between entries. The break after 'cauſ.' is certain (that line is very short, ending about 230px left of the column's right edge), so note a = lines 1-8. The break between note b and note c is less certain: 'D. de re milit.' runs nearly the full measure, so line 12 ('[c.] mandata de') could be a continuation of the same citation string rather than a new note. Grouped 8 / 3 / 2 here because there are exactly three body markers and because 'l. non omnes, P. à barbaris, D. de re milit.' is a single complete Digest citation. An alternative grouping is 8 / 5 (two notes only, marker c then noteless).",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1]",
+   "note": "Placement: the notes drift well below their markers. Note a's first line stands beside the body line holding marker a ('de chacũ qu'il eſt bon...'). Note b's first line stands beside the blank band around the 'TEXTE.' heading, i.e. below the last line of the annotation, so beside_line is null. Note c's first line stands beside 'cent cinquante teſmoins ouys, deſquels', ten lines below its marker.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "ne voudroit penſer aucune fraude ou meſchancé con-",
+   "note": "The line-end sign after 'con' is a short worn stroke. At 9x it sits at mid-x-height (the same height as the hyphen in 'veritable-' and 'vertueu-'), not on the baseline where every period on the page sits, so it is read as a hyphen. The word continues 'tre' on the next line. Also sic: 'meſchancé' (for meſchanceté); transcribed as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "tout le temps de ſa vie, & meſmes durant",
+   "note": "Printed 'toutle' with no gap; word division normalized to 'tout le' per §1. Same treatment applied to 'deRols' (blocks[2].lines[1] -> 'de Rols'), 'Rolsauoir' (blocks[0].lines[5] -> 'Rols auoir'), 'ily' (blocks[4].lines[0] -> 'il y'), 'désle' (blocks[4].lines[10] -> 'dés le'), 'Berçeau:le' (blocks[4].lines[10] -> 'Berçeau: le'), 'b:la' (blocks[2].lines[5] -> '{b}: la'), and 'deremilit.' in margin_notes[1].lines[2] -> 'de re milit.'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "uoir cognu dés le Berçeau: le reſte des teſ",
+   "note": "Printed 'desteſ' as one tight group at the line end. At 9x the third letter is a round s and the last is a long ſ, i.e. 'des' + 'teſ' (teſ|moins); word division normalized to 'des teſ'. No line-end hyphen is printed, which is normal for this print. 'dés' carries an acute, sic for 'dès'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "verificatiõ & recognoiſſãce dudit priſon",
+   "note": "Double-s check at 4x-8x: 'recognoiſſãce' is long ſ + long ſ (two tall strokes with the joined ligature form), not ſs. Same check made and same result for 'paſſée' (blocks[2].lines[6]), 'cognoiſſent' (blocks[2].lines[8]), 'aſſeurent' (blocks[4].lines[2]) and 'recongnoiſſent' (blocks[4].lines[5]). No ſs spelling occurs on this page. Tildes verified on 'verificatiõ', 'recognoiſſãce', 'n'entẽdoit', 'riẽ', 'chacũ', 'viuãt', 'bõne', 'opiniõ', 'auãtage' and 'dudũ' (margin).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "entre autres choſes lad. de Rols auoir",
+   "note": "'Rols' is set in ordinary roman upper-and-lower case here (capital R, x-height o, ascending l, round s at 4x), NOT in the small capitals used on page 44 ('ROLS'). Same at blocks[2].lines[1].",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "à la fraude: car outre que la nature, & la loy preſume",
+   "note": "The mark after 'fraude' verified as a colon at 9x (two dots, one at x-height and one on the baseline); likewise after 'prochain {b}' (blocks[2].lines[5]) and after 'Berçeau' (blocks[4].lines[10]). A justification space is printed before the comma in 'nature , &'; normalized away per §1.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "pour l'excuſe de ladite de Rols. & qu'elle n'entẽdoit riẽ",
+   "note": "Punctuation spacing normalized throughout per §1 where the print sets it tight: 'Rols.&', 'bon,honneſte,&', 'poyſon'-type runs, 'mees,les', 'faites,reſulte', 'ouys,deſquels', 'Tilh,dit', 'raiſons,de', 'præſu.Gl.auc.', 'j.de', 'l.merito.D.', 'proſo.Accurſe', 'P.à', 'D.de'. A space before the comma in 'publié , les' (blocks[0].lines[3]), 'hanté , &' and 'D'autres , &' is likewise normalized away.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "ques & cicatrices que ledit Martin auoit",
+   "note": "No punctuation is printed after 'auoit' at the line end (checked at 9x); the next line begins 'D'autres'. Transcribed as printed.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "q l. merito. D.",
+   "note": "The line opens with an italic 'q' (bowl plus straight descender, verified at 11x); it is not a key letter but part of the citation, and no period follows it. Likewise 'j.' opens margin_notes[0].lines[2]. Both are transcribed as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1]",
+   "text": "ANNOTAT. XXV.",
+   "note": "Spaced capitals, closed up per §3 with spaced_caps true; the annotation number is printed XXV. Same treatment for the running head 'ARREST DV' and for the heading 'TEXTE.' (which carries a printed period).",
+   "escalate": false
+  }
+ ]
+}

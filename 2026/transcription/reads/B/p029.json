@@ -1,0 +1,106 @@
+{
+ "id": "p029",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "29",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "capitale de ſang, ou de mort: mais ſeulement à amen-",
+    "des, ou pecuniaires, en argent: ou honorables, à deman-",
+    "der pardon."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "De la partie dudit du Tilh preuenu,",
+    "eſtoit au contraire remonſtré, que ſi ia-",
+    "mais parent, ne mari fut mal traitté, &",
+    "calomnieuſement pourſuyui de ſes pro-",
+    "pres parens, il eſtoit certes iniuſtement.",
+    "Car bien que chacun ſceuſt & entendiſt",
+    "qu'il eſtoit veritablemẽt Martin Guerre,",
+    "du lieu d'Artigat: toutesfois pour luy vo",
+    "ler quelque peu de bien qu'il auoit, de la",
+    "valeur de ſept à huit mille liures tenu, &",
+    "poſſedé long temps ya, par Pierre Guer-",
+    "re ſon oncle, qui ſe faſchoit par trop de",
+    "le laiſſer: ayãt eſté pieça mis en inſtance,",
+    "pour raiſon d'iceluy & rendu compte,",
+    "& preſtation de reliqua, deuant ledit Iu-",
+    "ge de Rieux, par ledit Martin ſon nep-",
+    "ueu, & defendeur. Iceluy Pierre Guerre,",
+    "& ſes beaux fils, auroyẽt pourpenſe, & in",
+    "uenté contre luy, vne nouuelle, & deuãt",
+    "ce iour inouye eſpece de crime."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "Ceſte deffence auoit quelque veriſimilitude: car com",
+    "me diſoit Ieſus fils de Sirach', IL N'EST choſe plus",
+    "inique au mõde, que d'aimer l'argent, & deſirer le bien",
+    "d'autruy: & rien plus meſchant que l'auaricieux {a} lequel",
+    "inſatiable, n'eſt iamais aſſouui, ni raſſaſié, & pour aſſem",
+    "bler richeſſes, & agrandir ſa fortune, ne trouue rien"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "lines": [
+    "Eccleſiaſtique",
+    "c. x."
+   ],
+   "beside_line": "d'autruy: & rien plus meſchant que l'auaricieux {a} lequel"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "me diſoit Ieſus fils de Sirach', IL N'EST choſe plus",
+   "note": "after 'Sirach' the print sets a small raised wedge-and-tail sort, then a comma on the baseline; transcribed as an apostrophe. Its shape matches the apostrophe of 'l'argent' three lines below, not an italic marker letter, but it makes no sense as an elision — it may be an inverted comma opening the quoted sententia, or a stray sort. Could also be read as a raised comma."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Eccleſiaſtique / c. x.",
+   "note": "the margin note carries NO printed key letter before 'Eccleſiaſtique'; keyed 'a' from the body marker it stands beside. Marker alphabet could not be checked against a preceding page (none transcribed yet), so the restart at 'a' under ANNOTAT. XIIII. is inferred."
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "le laiſſer: ayãt eſté pieça mis en inſtance,",
+   "note": "the abbreviation sort over the 'a' of 'ayãt' is a thick slanted stroke that resembles an acute; compared at 6x with the true acute of 'uenté' (short, steep) and with the tilde of 'deuãt' (long, shallow, wavy) — it matches the tilde. Same sort over the 'e' of 'auroyẽt' in blocks[2].lines[17]."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "calomnieuſement pourſuyui de ſes pro-",
+   "note": "the first letter of 'calomnieuſement' is inked heavily and reads nearly as 'e' at low magnification; taken as 'c' on the sense and on the letter's open right side."
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "id": "p044",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "24",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ceſte de Rols ici) ſans faire ſemblant aucun de ſe plain-",
+    "dre du peu de deuoir que le mari luy rendoit, ſ'appro-",
+    "chant d'elle. Sur quoy puis n'agueres i'apprins d'hõme",
+    "digne de foy, que peu deuant que i'eſcriuiſſe ces choſes,",
+    "fut par ſentence de l'official d'Albi, ſeparé le mariage",
+    "d'vn mari qui auoit demeuré dixhuit ans ſans ſ'eſtre peu",
+    "onques approcher de ſa fẽme, laquelle viſitee, ſe trou-",
+    "ua encor pucelle. & neãtmoins elle n'auoit fait onques",
+    "ſemblant ſ'en faſcher ou plaindre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Au bout deſdits neuf ans, elle fut deſ-",
+    "ſorcelee, & à ces fins inſtruite de faire",
+    "dire quatre meſſes, ce qu'elle fit. & nõme",
+    "les preſtres, & que l'vn d'eux (qu'elle con",
+    "ſignoit) luy fit manger quelques hoſties,",
+    "& fouaſſes, dequoy elle & ſondit mari",
+    "ſe trouuerent ſi bien, qu'elle conceutin-",
+    "continent apres vn fils, encore viuant,",
+    "appelé Sanxi Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Incroyable certes eſt la ruſe & cautelle de Satan",
+    "lequel comme vn lion bruyant, touſiours chemine à",
+    "l'entour des hommes, pour en atraper & deceuoir",
+    "quelqu'vn, {a} ſe transfigurant ſouuentesfois en Ange de",
+    "lumiere, pour mieux l'enueloper, & attaire {b}, voire",
+    "embelliſt, & orne ſi bien ſes tenebres par ſes couleurs,",
+    "qu'il ſemble à pluſieurs la meſme nuict, & obſcurité",
+    "eſtre vne ſplendeur & parfaite lumiere, comme en",
+    "ceſt deſſorcellement, auquel ſous le pretexte de pieté,",
+    "& des ceremonies eccleſiaſtiques, il enta vne horrible",
+    "& cruelle poyſon, perſuadant à ces poures mariez, qu'il",
+    "n'y auoit autre moyen, pour deſſorceller, que la ſuper-",
+    "ſtition de manger hoſties, & fouaſſes, ainſi laiſſant à",
+    "part la contrition du cœur, humiliation deſprit, les",
+    "aumoſnes, les ieunes, & les oraiſons, qui ſont les vrays",
+    "& excellens exorciſmes pour preſenter à Dieu {c}. collo-",
+    "quant en luy toute ſon eſperance, & non point en"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "lumiere, pour mieux l'enueloper, & attaire{b}, voire",
+   "lines": [
+    "A la pre-",
+    "miere des S.",
+    "Pierre. c. v."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "qu'il ſemble à pluſieurs la meſme nuict, & obſcurité",
+   "lines": [
+    "A la ſecon",
+    "de des Corin",
+    "tans. c. xi."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ceſte de Rols ici)ſans faire ſemblant aucun de ſe plain-",
+   "note": "'Rols' (the wife's surname) is set with a capital R and what look like ordinary lowercase 'ols'; at reading size it can look like small capitals ROLS. Read as 'Rols'."
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "ſe trouuerent ſi bien,qu'elle conceutin-",
+   "note": "sic: 'conceut' and 'in-' are printed with no space between them ('conceutin-'); transcribed as printed."
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "& fouaſſes, dequoy elle & ſondit mari",
+   "note": "sic: 'ſondit' (= ſon dit) printed as a single word; no space visible at native resolution."
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "part la contrition du cœur, humiliation deſprit, les",
+   "note": "sic: 'deſprit' printed without apostrophe (not 'd'eſprit'); checked at 6x, no apostrophe present."
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "& excellens exorciſmes pour preſenter à Dieu{c}. collo-",
+   "note": "The mark after marker {c} is a small round dot on the baseline with no descender, so read as a period; commas elsewhere on this page (e.g. 'du cœur,') clearly descend. A comma would fit the sense better, so this could be a comma whose tail failed to print. escalate."
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "& excellens exorciſmes pour preſenter à Dieu{c}. collo-",
+   "note": "Marker {c} has no corresponding margin note: the margin is blank beside and below note 'b', there is no foot block, and nothing is printed lower on the page. The note for key 'c' is missing from this page (presumably it runs on to the next page)."
+  },
+  {
+   "where": "blocks[4].lines[16]",
+   "text": "quant en luy toute ſon eſperance , & non point en",
+   "note": "Last word of the page: the final letter is an over-inked blob; read as 'n' ('en'), but 'ea'/'ez' cannot be fully excluded. No hyphen is printed, so the word may or may not continue on the next page."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "tans.c.xi.",
+   "note": "Heavily over-inked line in small italic: read 'tans' (giving 'Corin/tans' for Corinthiens), but the blotted middle could be 'tiens' or 'thiens'. Spacing before the first period is tighter than in note 'a' ('Pierre .c.v.'). escalate."
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+---
+id: annot-026
+pages: [p048]
+---
+⟦p048⟧Let the judges here contemplate a little, and singularly the sovereign judges, how dangerous it is, and full of perils, to found a judgment, even of honour and of life, upon the saying of witnesses; who very often depose on credit [*à credit*: lightly, upon no ground], or to serve the affection of the party who produces and furnishes them, more than the truth of the business: whence we often see it happen that upon contrary facts, divers inquiries being made, there result repugnant proofs, each serving the intention of its master. Wherein the judge must needs be prudent and well advised; to whom the law, by the mouth of Callistratus, commits the whole, saying: THOU OUGHTEST, and canst, better know what faith is to be given to witnesses, of what quality, in what opinion they are, and whether they have deposed simply, or things premeditated, and all in one same language, and whether, on the instant when they were interrogated, they wavered, or answered things probable {a}. But of these proofs by witnesses we shall say some word more below, with the help of God {b}.
+
+## Notes
+The print heads this annotation ANNOTAT. XXVI. on p048, correctly. *TV DOIS* is set in small capitals in the print and is kept in capitals here. The print's *mct* (for *mot*, "word") is a wrong sort recorded sic in the French and translated by sense.
+
+- {a} (p048): **Digest 22.5.3 (*De testibus*, l. *Testium fides*, Callistratus), § 2 as printed: the rescript of Hadrian to Vivius Varus, *Tu magis scire potes, quanta fides habenda sit testibus…* (D. 22.5.3.1 in the modern division; the print's paragraph count differs)** — l. iij. P. ij. D. de teſt. [Coras's *Tu dois, & peux mieux sçavoir… de quelle qualité, en quelle opinion… simplement ou choses pourpensées… tous d'un mesme langage… chancelé ou respondu choses vray-semblables* renders the rescript almost word for word: *qui et cuius dignitatis et cuius existimationis sint, et qui simpliciter visi sint dicere, utrum unum eundemque meditatum sermonem attulerint an ad ea quae interrogaveras ex tempore verisimilia responderint*. The *P.* is the print's sort for the paragraph sign §.]
+- {b} (p048): **Coras, Annotation LXXIII (cross-reference, printed *lXXiij*), on proof by witnesses** — En l'anno tation lXXiij

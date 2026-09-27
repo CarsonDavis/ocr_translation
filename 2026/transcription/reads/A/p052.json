@@ -1,0 +1,142 @@
+{
+ "id": "p052",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "52",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "pourtant aſſigne la raiſon en tous les deux, c'eſt à ſça-",
+    "uoir, en ceux qui ſe deulent, & en ceux qui ſ'eſiouiſſent.",
+    "auſsi pourquoy & les vns, & les autres larmoyent, &",
+    "pleurent: car en ceux, qui ſe deulent, cela procede, dit-",
+    "il, de l'eſpeſſeur des petis conduits de la veuë, qui viẽt",
+    "à preſſer l'humeur des yeux: & ceux qui ſ'eſgayent,",
+    "pour la rarité d'iceux paſſages, & cõduits, eſpandent",
+    "telle humidité {b}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "En ſecond lieu, y a des teſmoins, qui",
+    "d'autresfois ont contracté auec ledit du",
+    "Tilh, ou aſsiſté à ſes contracts, comme",
+    "teſmoins numeraires: & les inſtrumens",
+    "ſont produits. Pour le troiſieme, tous ces",
+    "teſmoins, preſqu'accordent que Martin",
+    "Guerre eſtoit plus haut, & plus noir, hom",
+    "me greſle de corps, & des iãbes: vn peu",
+    "voulté, portant la teſte entre deux eſpau",
+    "les, le mẽton fourchu, & vn peu eſleué en",
+    "haut, auquel la leûre deſſous tõboit vn",
+    "peu en bas, ayant petites dents, le nez lar-",
+    "ge & camus, vne vlcere au viſage, & vne",
+    "cicatrice ſur le ſourcil droit: où touteſfois",
+    "le priſonnier eſt petit, trappe, & fourni",
+    "de corps, ayant la iambe groſſe, n'eſt ca-",
+    "mus ni voulté, & moins ha toutes leſd.",
+    "cicatrices."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Sur la cognoiſſance d'vne perſonne, c'eſt vn riche",
+    "teſmoignage, preuue grande, & preſque certaine, que",
+    "du viſage, pour l'auoir veu & recognu tel pieça {a} mais",
+    "encor eſt il plus aſſeuré quand on conſigne les cicatri"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "beside_line": "telle humidité {b}",
+   "lines": [
+    "Alexandre",
+    "Aphrodiſée",
+    "au c. xxxÿ. des",
+    "problemes."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "teſmoignage, preuue grande, & preſque certaine, que",
+   "lines": [
+    "l cùm in di",
+    "uerſis. D. de re",
+    "ligioſ."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "il, de l'eſpeſſeur des petis conduits de la veuë, qui viẽt",
+   "note": "'viẽt': the mark over the e is set high and is a thick, slightly wavy stroke, matching the tildes in 'cõduits' and 'tõboit' rather than the thin steep acutes in 'rarité'/'voulté'; read as tilde (= vient), not acute."
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "les, le mẽton fourchu, & vn peu eſleué en",
+   "note": "'mẽton': same judgement as 'viẽt' — mark sits high and is thick/wavy, so tilde not acute. Could be misread as 'méton'."
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "cicatrice ſur le ſourcil droit: où touteſfois",
+   "note": "'touteſfois': the first of the two tall glyphs has only a left nub at x-height (long ſ) while the second has a full crossbar (f); but at this resolution 'touteffois' cannot be excluded."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "du viſage, pour l'auoir veu & recognu tel pieça {a} mais",
+   "note": "the marker after 'pieça' is a small, heavily inked italic letter sitting above the baseline; read as 'a' on the strength of the margin note keyed a. Shape is blotted; could conceivably be read as punctuation."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "Aphrodiſée",
+   "note": "the acute is printed detached, above and to the right of the final e (a separate accent sort); read as 'Aphrodiſée'. Could be transcribed 'Aphrodiſee' plus a stray mark."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "au c. xxxÿ. des",
+   "note": "the numeral after 'xxx' is a single italic sort shaped like ÿ (y-form with descender and two dots), i.e. the common italic 'ij'; transcribed as printed. Another reader may write 'xxxij' or 'xxxv'."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l cùm in di",
+   "note": "no period is visible after the abbreviation 'l' (the mark at its foot reads as the italic l's foot serif, unlike the clearly separated periods in 'uerſis. D.'); the expected form would be 'l.'."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "uerſis. D. de re",
+   "note": "first letter read as 'u' (continuation of 'di-uerſis'); italic u and n are near-identical in this fount."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l cùm in di",
+   "note": "the key letter 'a' is printed with a small ink speck above it; read as a plain key 'a', not 'à'."
+  }
+ ]
+}

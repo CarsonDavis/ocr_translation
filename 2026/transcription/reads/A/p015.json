@@ -1,0 +1,145 @@
+{
+ "id": "p015",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "15",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Fortes creantur fortibus, & bonis,",
+    "Eſt in iuuencis, eſt in equis patrum",
+    "Virtus. nec imbellem feroces",
+    "Progenerant, aquilæ columbam {k}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+    "les cicatrices, ores quelconques autres marques de ſes",
+    "anceſtres, & de ſon origine, teſmoins les Lepides Ro-",
+    "mains, deſquels y en eut trois d'vne maiſon, ayant cha-",
+    "cun l'œil couuert d'vne petite peau. Et Nice Bizantin,",
+    "qui naſquit noir comme vn more, rapportant pluttoſt",
+    "ſon ayeul, que ſa mere belle & blanche, engendrée tou-",
+    "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de",
+    "la nature, ni des races, ne peuuent pas tant, que nous ne",
+    "voyons quelquefois la poſterité degenerer, & diſſembla",
+    "ble à ſes progeniteurs: cõme des beaux, naiſtre des laids",
+    "& difformes: des robuſtes & forts, iſſir des impuiſſans,",
+    "& foibles: des bons & vertueux, proceder des vicieux, &",
+    "meſchans {m}. Autrement, ſi par fois, cela n'aduenoit ain-",
+    "ſi faudroit pour le bien public defendre par loy gene-",
+    "rale & inuiolable, aux laids, debiles, & meſchans, le ma-",
+    "riage, & compagnie charnelle des femmes: afin que tous",
+    "infalliblement, naſquiſſent beaux, puiſſans, & robuſtes.",
+    "Sur quoy Alexandre Aphrodiſée, ſe trauaille fort à ſon-",
+    "der, & monſtrer la cauſe, pour laquelle on voit aduenir",
+    "ſouuent, qu'vn homme ſtupide, groſſier, & ſot, voire vn",
+    "nyés, produira des enfans accors, prudẽs, ſages, & diſcrets",
+    "Et conclud la raiſon eſtre, pour autant qu'vn badaut, en",
+    "l'acte venerien, ſe laiſſe tellement ſurmonter, & vaincre",
+    "à la volupté preſente, qu'il ne penſe lors à autre choſe:",
+    "ayant volontairement plongé l'eſprit, & l'ame dans le",
+    "corps, dont la ſemence eſt puiſée & tirée de ce corps",
+    "parmy lequel l'eſprit ſe trouue, participe grandement",
+    "de la vertu raiſonnable: & fait que les enfans, qui en",
+    "deſcendent, ſont plus prudens, & ſpirituels que le pere.",
+    "Comme au contraire, ceux qui ſont ingenieux, diſcrets,",
+    "ou ſçauans, par ce que leur eſprit inceſſammẽt trauaille,",
+    "& ſ'occupe ailleurs qu'au plaiſir de la chair: voire meſ-",
+    "mes ſur l'inſtãt de l'acte, auquel du tout ne ſe laiſſe vain"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "k",
+   "beside_line": "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+   "lines": [
+    "Horace au",
+    "iij. li. des Car-",
+    "mes."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de",
+   "lines": [
+    "Pline au li-",
+    "ure vij. c. xij."
+   ]
+  },
+  {
+   "key": "m",
+   "beside_line": "ſi faudroit pour le bien public defendre par loy gene-",
+   "lines": [
+    "Plutarche",
+    "au v. liure de",
+    "placitis philo-",
+    "ſophor. c. xij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[1].lines[5]",
+   "text": "qui naſquit noir comme vn more, rapportant pluttoſt",
+   "note": "'pluttoſt' is set with two ordinary t sorts (both crossbarred, short ascenders) where 'pluſtoſt' would be expected; transcribed as printed, sic. Reader B may read 'pluſtoſt'"
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "text": "tesfois, par adultere, d'vn Ethiopien {l}. Mais les ſorces de",
+   "note": "'ſorces' (= forces): at 10x the glyph is a long s (tall right-curving hook, no crossbar at all), clearly a different sort from the crossbarred f in 'forts' and 'faudroit' on the same page. Transcribed as printed; wrong sort, sic"
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "la nature, ni des races, ne peuuent pas tant, que nous ne",
+   "note": "'pas' — round final s with a small detached ink mark sitting above it; read as a flyspeck/offset, not as an accent or tilde"
+  },
+  {
+   "where": "blocks[1].lines[10]",
+   "text": "ble à ſes progeniteurs: cõme des beaux, naiſtre des laids",
+   "note": "the mark over the o of 'cõme' is a short, only slightly wavy bar; read as the nasal tilde (= comme)"
+  },
+  {
+   "where": "blocks[1].lines[21]",
+   "text": "nyés, produira des enfans accors, prudẽs, ſages, & diſcrets",
+   "note": "'prudẽs' — straight bar over the e read as nasal tilde (= prudens); the mark after it is low and slightly detached, read as a comma rather than a period"
+  },
+  {
+   "where": "blocks[1].lines[21]",
+   "text": "nyés, produira des enfans accors, prudẽs, ſages, & diſcrets",
+   "note": "the line ends 'diſcrets' with no terminal punctuation before 'Et conclud' on the next line; nothing is visible at the line end, so no point is supplied. sic"
+  },
+  {
+   "where": "blocks[1].lines[31]",
+   "text": "ou ſçauans, par ce que leur eſprit inceſſammẽt trauaille,",
+   "note": "'inceſſammẽt' — the mark over the e is a short slightly tilted bar, read as nasal tilde (= incessamment), not an acute accent"
+  },
+  {
+   "where": "blocks[1].lines[33]",
+   "text": "mes ſur l'inſtãt de l'acte, auquel du tout ne ſe laiſſe vain",
+   "note": "'l'inſtãt' — straight bar over the a read as nasal tilde (= instant); last body line, the word 'vain' runs on to the next page"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "iij. li. des Car-",
+   "note": "numeral read as 'iij' (three dots, third minim descends as j) at 9x; at reading size it can look like 'ij'. Horace's Carmina book for this stanza is in fact IV, so the print may be in error, but 'iij' is what is set"
+  },
+  {
+   "where": "signature",
+   "note": "a very faint blind/offset impression of three or four short marks sits below the last body line at the left, where a signature would fall; it is illegible even at 6x with contrast stretched and folio 15 would not normally be signed, so signature is recorded as null"
+  }
+ ]
+}

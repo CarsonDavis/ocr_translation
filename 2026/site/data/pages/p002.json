@@ -1,0 +1,254 @@
+{
+ "id": "p002",
+ "page": 2,
+ "folio": "2",
+ "side": "verso",
+ "image": "p002",
+ "source": {
+  "kind": "cudl",
+  "image_no": 24,
+  "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/24"
+ },
+ "running_head": "ARREST DV",
+ "prev": "p001",
+ "next": "p003",
+ "english": [
+  {
+   "type": "heading",
+   "text": "ANNOTATION I"
+  },
+  {
+   "type": "paragraph",
+   "html": "Marriages thus contracted before the lawful age ordained by nature, or by the civil laws, cannot be (if it is permissible to sound the secret and inscrutable judgments of the divinity) pleasing or agreeable to God: and the issue of them is most often pitiful and wretched, and (as one sees daily by example) full of a thousand repentances: inasmuch as in such precocious and premature unions, those who have plotted and planned the whole have in no way respected the honour and glory of God, and still less the end for which this holy and venerable estate of Marriage was instituted by Him from the beginning of the world <sup class=\"mk\" data-key=\"a\">a</sup> (which was, before the offence of our first Father, to fill the earth, to increase, multiply and preserve the human race by the generation of children and of posterity; <sup class=\"mk\" data-key=\"b\">b</sup> and after the stumbling of Adam, to avoid the lecheries and dissolutions into which many, destitute of company, were constrained to throw themselves <sup class=\"mk\" data-key=\"c\">c</sup>); but on the contrary, their whole aim and design has fixed upon some ambition, private profit, or other worldly vanity, by which, however, a thing so grave, so holy and so honourable as Marriage does not deserve to be soiled or contaminated in any way. I leave aside that a youth so tender, so flighty and so frolicsome cannot well be held within bounds by judgment or discretion, so as to consent <sup class=\"mk\" data-key=\"d\">d</sup> to an act of such greatness and importance: without which, however, everyone knows well that so venerable a union cannot lawfully be contracted <sup class=\"mk\" data-key=\"e\">e</sup>. And so far is it from being the case that men before fourteen years feel their virility, or that women before twelve are apt to conceive, that at that age, so delicate, neither the one nor the other can well be stirred by any goad of incontinence <sup class=\"mk\" data-key=\"f\">f</sup>: nor indeed even until the sixteenth year, if we believe the Egyptians, who in their Hieroglyphs, to signify sensual pleasure, were wont to carve and paint the number sixteen: inasmuch as at that age young boys begin to feel the kindlings of the flesh catch fire at the delights of the world, and sometimes to give too long a rein to their disordered affections. I well foresee here that there will be set against me I know not what old and common examples of certain children",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Decretals of Gregory IX, X 4.15 (<i>De frigidis et maleficiatis et impotentia coeundi</i>), last chapter; and Liber Sextus, VI 3.15 (<i>De voto et voti redemptione</i>), c. 1",
+     "original": "Chap. dernier au titre de frigid. &amp; malefic. aux Decretales. &amp; au chap. 1. de vot. &amp; vot. redemp. au 6.",
+     "gloss": "Cited for the ends of marriage: the title on impotence treats marriage as ordered to procreation, the Sext chapter on vows treats it as a remedy against incontinence; chapter numbers not verified against a printed text."
+    },
+    {
+     "key": "b",
+     "citation": "Genesis 1 (v. 28, \"increase and multiply\"); Decretum Gratiani C. 32 q. 2, c. <i>Quicquid</i>",
+     "original": "Gen. chap. 1. &amp; canõ qui ſe commence quicquid, xxxii. q. ii. au Decret.",
+     "gloss": "The chapter number of <i>Quicquid</i> within C. 32 q. 2 has not been verified."
+    },
+    {
+     "key": "c",
+     "citation": "1 Corinthians 7 (vv. 2, 9: \"it is better to marry than to burn\"); Decretum Gratiani C. 32 q. 2, cc. <i>Nemo</i> and <i>Quicquid</i>",
+     "original": "Premiere des Cor. c. vii. &amp; c. nemo, &amp; c. quicquid xxxii. q. ii.",
+     "gloss": "The remedy against incontinence as the second end of marriage."
+    },
+    {
+     "key": "d",
+     "citation": "Code 9.24.1 (<i>De falsa moneta</i>), l. 1, at the end; Decretum Gratiani C. 22 q. 5, c. <i>Pueri</i>",
+     "original": "Loy i. ſur la fin au Code, de falſa moneta c. pueri xxii. q. v.",
+     "gloss": "Both cited for the want of judgment in children: the Code law excuses those who could not know; the canon exempts children under fourteen from swearing oaths. Chapter number of <i>Pueri</i> not verified (cf. C. 22 q. 5 c. 15)."
+    },
+    {
+     "key": "e",
+     "citation": "Digest 23.2.2 (<i>De ritu nuptiarum</i>, l. 2)",
+     "original": "L. 2. aux Digeſtes, de ritu nuptiar.",
+     "gloss": "Paulus: \"Marriage cannot exist unless all consent, that is, those who come together and those in whose power they are.\""
+    },
+    {
+     "key": "f",
+     "citation": "Decretals, X 4.2 (<i>De desponsatione impuberum</i>), cc. 2 and 3; Digest 23.2.4 (<i>De ritu nuptiarum</i>, l. <i>Minorem</i>)",
+     "original": "c. 2, &amp; 3. de deſponſ. impub. l. minore. Dig. de ritu nupt.",
+     "gloss": "Pomponius: a girl under twelve married becomes a lawful wife only when she reaches twelve."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "heading",
+   "text": "ANNOTATION I.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Les mariages ainſi contractez auant l'aage legitime",
+    "ordonné de nature, ou par les loix politiques, ne peuuent",
+    "eſtre (s'il eſt loiſible de ſonder iuſques aux ſecrets & in-",
+    "ſcrutables iugemẽs de la diuinité) plaiſans, ny agreables",
+    "à Dieu: & l'iſſuë en eſt le plus ſouuent piteuſe, & miſera",
+    "ble, & (comme on void iournellement par exemple) plei",
+    "ne de mille repentances: partant qu'en telles precoces &",
+    "deuãcées conionctiõs, ceux qui ont tramé & proietté le",
+    "tout, n'ont aucunemẽt reſpecté l'honneur & la gloire de",
+    "Dieu: & moins la fin, pour laquelle ce ſainct & venerable",
+    "eſtat de Mariage, a eſté par luy inſtitué du cõmencement",
+    "du monde. {a} (qui fut deuãt l'offence de noſtre premier Pe",
+    "re, pour remplir la terre, augmẽter, multiplier, & conſer",
+    "uer le genre humain, par generation d'enfans & de poſte",
+    "rité: {b} & apres le choppement d'Adã, pour euiter paillar-",
+    "diſes & diſſolutions, auſquelles pluſieurs deſtituez de cõ",
+    "pagnie, eſtoyent cõtrains ſe precipiter {c}) mais au contrai-",
+    "re, tout leur but & deſſeing s'eſt arreſté à quelque ambi-",
+    "tion, proufit particulier, ou autre vanité mondaine, de la-",
+    "quelle pourtãt, choſe tãt graue, tant ſaincte, & tant hono",
+    "rable, que le Mariage, ne merite eſtre ſouillée, ni cõtami-",
+    "née aucunemẽt. Ie laiſſe à part, qu'vne ieuneſſe ſi tẽdre, ſi",
+    "volage, & ſi folaſtre, ne peut eſtre bõnement bornée de",
+    "iugemẽt, ou diſcretion, pour cõſentir {d} à vn acte de tel-",
+    "le grandeur & importance: ſans quoy toutesfois, chacun",
+    "ſçait bien, qu'vne ſi venerable conionction, ne ſe peut cõ",
+    "tracter iuſtement {e}. Et tant s'en faut, que les hommes de-",
+    "uant quatorze ans, ſe reſſentẽt de leur virilité, ni les fem",
+    "mes, deuãt les douze ſoyent aptes à cõceuoir, qu'en ceſt",
+    "aage là ſi douillet, ne l'vn ne l'autre, ne peuuẽt eſtre bon",
+    "nemẽt excitez d'aucun eſguillõ d'incontinence {f}: voire",
+    "ni iuſqu'à l'an ſeizieme, ſi nous croyõs aux Egyptiẽs, leſ-",
+    "quels en leurs Hieroglyphes, pour ſignifier volupté, ſou",
+    "loyẽt grauer & peindre le nombre de ſeize: partãt qu'en",
+    "ceſt aage, les ieunes garçons cõmencent de ſentir les al",
+    "lumettes de la chair, s'embraſer aux delices du monde: &",
+    "quelquefois laſcher la bride trop lõgue à leurs affectiõs",
+    "deſordonnées. Ie preuoy biẽ ici, qu'on m'oppoſera ie ne",
+    "ſçay quels vieux & vulgaires exẽples, de certains enfans"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Chap. der-",
+    "nier au titre",
+    "de frigid. &",
+    "malefic. aux",
+    "Decretales. &",
+    "au chap. 1. de",
+    "vot. & vot. re",
+    "demp. au 6."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Gen. chap.",
+    "1. & canõ qui",
+    "ſe commence",
+    "quicquid, xx-",
+    "xii. q. ii. au",
+    "Decret."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Premiere",
+    "des Cor. c. vii.",
+    "& c. nemo, &",
+    "c. quicquid",
+    "xxxii. q. ii."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Loy i. ſur",
+    "la fin au Co-",
+    "de, de falſa",
+    "moneta c. pue.",
+    "ri xxii. q. v."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "L. 2. aux",
+    "Digeſtes, de",
+    "ritu nuptiar."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "c. 2, & 3. de",
+    "deſponſ. im-",
+    "pub. l. minore.",
+    "Dig. de ritu",
+    "nupt."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[1].lines[3]",
+   "text": "ſcrutables iugemẽs de la diuinité) plaiſans, ny agreables",
+   "note": "the sign after 'diuinité' is not the curved ) of this fount (compare 'exemple)' two lines below): it is a single straight oblique stroke, x-height and above, leaning top-left to bottom-right like a backslash. Syntax requires the closing bracket of the parenthesis opened at 'eſtre(', so it is transcribed as ')'; it is probably a battered or turned parenthesis. Could alternatively be a virgule set upside down. | Carson-session 2026-09-21: accepted the reconciler's `)`: the sort is a damaged or substituted closing parenthesis; syntax requires it"
+  },
+  {
+   "where": "blocks[1].lines[3]",
+   "text": "ſcrutables iugemẽs de la diuinité) plaiſans, ny agreables",
+   "note": "the mark over the e of 'iugemẽs' is a thick, near-horizontal, slightly wavy bar, quite unlike the thin steep acute on 'diuinité' in the same line (checked side by side at 12x). Read as a tilde: iugemẽs = iugemens. Reading 'iugemés' cannot be excluded."
+  },
+  {
+   "where": "blocks[1].lines[9]",
+   "text": "Dieu: & moins la fin, pour laquelle ce ſainct & venerable",
+   "note": "a small mark sits at the baseline immediately after 'ſainct', smaller than this fount's full stops and touching the foot of the t (body-3.jpg y~200). Both readers omit it as a speck / part of the ct sort; the final follows. If it is a point the line reads 'ce ſainct. & venerable'."
+  },
+  {
+   "where": "blocks[1].lines[15]",
+   "text": "diſes & diſſolutions, auſquelles pluſieurs deſtituez de cõ",
+   "note": "'pluſieurs' has an ink blob bridging the u and the long s, so the u could be misread as a or as u with a mark. Read as 'pluſieurs' from sense and letter shapes; no tilde is intended."
+  },
+  {
+   "where": "blocks[1].lines[36]",
+   "text": "quelquefois laſcher la bride trop lõgue à leurs affectiõs",
+   "note": "two small dots stand above the first a of 'affectiõs' (body-7.jpg y~120). Lighter than the type; read as specks or a rising space, a transcribed plain. Both readers agree."
+  },
+  {
+   "where": "blocks[1].lines[37]",
+   "text": "deſordonnées. Ie preuoy biẽ ici, qu'on m'oppoſera ie ne",
+   "note": "a small raised mark shaped like an apostrophe or dot stands after 'm'oppoſera' before 'ie' (body-7.jpg y~185). Not a marker letter, no sense requires it; omitted as a stray sort. Both readers agree."
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Les mariages ainſi contractez auant l'aage legitime",
+   "note": "reader B: the final e of 'legitime' carries an ink blot on its upper-right terminal that could be taken for an acute; read as plain e."
+  },
+  {
+   "where": "margin_notes[0].lines[5]",
+   "text": "au chap. 1. de",
+   "note": "dotless hooked figure, read as arabic 1 (same sort as '1. & canõ' in note b); the figure in note d 'Loy i.' is dotted and is roman i."
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "xii. q. ii. au",
+   "note": "the mark between 'ii' and 'au' is small, low and faint (margin-2.jpg y~790); could be a comma or a weak full stop. Read as full stop."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "malefic. aux",
+   "note": "the tall letter in 'malefic.' has a crossbar on both sides of the stem in the italic fount, so it is f, not long ſ; the citation is the Decretals title 'de frigidis et maleficiatis'."
+  },
+  {
+   "where": "margin_notes[5].lines[2]",
+   "text": "pub. l. minore.",
+   "note": "two small dots float above and to the right of the final e of 'minore', at different heights and sizes. They may be an ill-set or broken abbreviation mark (lex 'minorem', Dig. de ritu nuptiarum), but they are nothing like the flat tilde of 'canõ' in note b, so they are read as specks and the word is transcribed 'minore.' | Carson-session 2026-09-21: `minore.` kept; the two dots are not a legible abbreviation mark"
+  },
+  {
+   "where": "blocks[1]",
+   "text": "whole paragraph",
+   "note": "the compositor sets many word pairs tight ('par lesloix', 'onvoid', 'nede mille', 'deMariage', 'leMariage', 'delicesdu') and sets the round brackets hard against the neighbouring word ('eſtre(s'il', '&(comme', 'exemple)plei', 'diuinité)plaiſans', 'monde.a(qui', 'precipiter c)mais'). Per conventions §1 the compositor's spacing is not reproduced, so all of these are transcribed with a single ordinary word space, which is also what scripts/validate_page.py enforces."
+  },
+  {
+   "where": "blocks[0]",
+   "text": "ANNOTATION I.",
+   "note": "set in widely letterspaced capitals like the running head above it, hence spaced_caps. The final I. is a roman numeral one, printed as a capital I with a full stop."
+  }
+ ]
+}

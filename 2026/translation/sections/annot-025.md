@@ -1,0 +1,12 @@
+---
+id: annot-025
+pages: [p046]
+---
+⟦p046⟧This proof and circumstance was of no small weight [unclear: the print has *n'eſtoit pas de poids*, "was not of weight"; the sense requires the contrary, and a word seems to have dropped] for the excuse of the said de Rols, and to show that she understood nothing of the fraud: for, besides that nature and the law presume of every man that he is good, honest and of good life {a}, and that he would not think any fraud or wickedness against his neighbour {b}, the good opinion is further much increased when by the past it appears of a person that he has always lived as a man of worth, and is, toward all who know him, esteemed and reputed as such {c}.
+
+## Notes
+The print heads this annotation ANNOTAT. XXV. on p046, correctly. The print's marker alphabet is defective on p046: the body runs {a} {b} {c}, but only the note keyed *a* is printed with a key; a second margin block with no key letter (*c. l. non omnes § à barbaris D. de re milit. c. mandata de præſum.*) stands below it and evidently serves {b} and/or {c}. The transcription records that unkeyed block under the following TEXT section (texte-25, p046, key `_`), where it is also listed; its citations are given here at the markers they evidently serve. Markers are kept exactly as printed.
+
+- {a} (p046): **Decretals, X 2.23 (*De praesumptionibus*), c. *Dudum* (chapter number unverified); the Gloss on Decretals, X 1.12.1 (*De scrutinio in ordine faciendo*, c. 1); Digest 17.2 (*Pro socio*), l. *Merito* (number unverified); Accursius (*Accurse*) on the last law of Digest 4.2 (*Quod metus causa gestum erit*, D. 4.2.23)** — c. dudũ. de præſu. Gl. auc. j. de ſcruti. q l. merito. D. proſo. Accurſe en la l. final. D. quod me cauſ. [The presumption that every man is good until the contrary is proved; the print's *q* before *l. merito* is read as *&*.]
+- {b} (p046) — marker with no keyed note; evidently served by the unkeyed margin block: **Digest 49.16.5 (*De re militari*, l. *Non omnes*), § *A barbaris* (cf. 5.6, the soldier sent back by the barbarians is restored if his previous life bears him out; paragraph number unverified)** — c. l. non omnes P. à barbaris. D. de re milit. [The opening *c.* is the print's abbreviation, not a key.]
+- {c} (p046) — marker with no keyed note; evidently served by the same unkeyed margin block: **Decretals, X 2.23 (*De praesumptionibus*), c. *Mandata* (chapter number unverified)** — c. mandata de præſum

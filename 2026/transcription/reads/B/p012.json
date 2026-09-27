@@ -1,0 +1,143 @@
+{
+ "id": "p012",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARRET DV",
+ "folio": "12",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "ſemblance, accompagnée de mille fraudes & menſonges",
+    "quelques vns naiz de pauure, bas & hũble lieu, ont ſceu",
+    "ſi bien pratiquer, qu'ils perſuadoyent à tout vn peuple,",
+    "d'eſtre iſſuz de race grãde, noble & illuſtre: comme vn",
+    "Smerdes, Archelae, Equice: Helophile, & autres pluſieurs",
+    "deſquels l'hiſtoire ci deſſouz en lieu plus commode, ſera",
+    "narrée: toutesfois, ſi les circonſtances ſont meſurées à",
+    "droite aulne, & poiſées à iuſte balance, ce faict apparoi-",
+    "ſtra incomparablement plus monſtrueux & admirable,",
+    "que tous les autres: en nul deſquelz ſe trouuera, que tel-",
+    "le ſimilitude, bien qu'elle fuſt fardée, & reueſtuë de mil-",
+    "le neceſſaires menſonges, aye eſte ſi puiſſante d'impoſer",
+    "à tous les parens, & meſmes à quatre ſœurs, & à l'oncle",
+    "qui auoit nourri le nepueu dés ſon enfance, cõme en ce",
+    "faict ici (voire) qui doit tirer chacun en plus grande ad-",
+    "miration, à la propre femme, ayant receu vn autre pour",
+    "ſon mari, & auec iceluy familierement conuerſé, com-",
+    "me mary & femme font, l'eſpace de trois ans, & d'auan-",
+    "tage: ſans iamais ſ'apperceuoir, non pas ſeulement ſoup-",
+    "çonner de la fraude. Bien qu'en autres ſuppoſitions les",
+    "femmes ſe ſoyent monſtrées ſouuent plus aigües, viues,",
+    "& perſpicaces à les deſcouurir & cognoiſtre, que les hõ-",
+    "mes. Comme teſmoignera bien l'hiſtoire de la femme de",
+    "Q. Sertorius à Rome, & de Ieanne, fille du comte Bal-",
+    "duin en Flandres: ainſi que nous dirõs apres plus ample-",
+    "ment {a}. Et touchant les ſimilitudes grandes, qui ont eſté",
+    "entre quelques hõmes, il en y a eu, pour le paſſé pluſieurs",
+    "dont les vnes eſtoyent entretenues ſans fraude, & les au",
+    "tres produiſoyent de grandes & notables impoſtures.",
+    "Quant aux premieres, iadis à Rome, Vibien, & Publice,",
+    "perſonnes de fort baſſe & ville condition, rapportoyent",
+    "ſi bien ce grand Pompee, que les Romains les appeloiẽt",
+    "Pompées, & à Pompée quelque fois le nommoient Vi-",
+    "bien, ou Publice {b}. Pareille reſſemblance fut entre",
+    "Cornele Scipion & vn porcher (ou ſelon les autres victi",
+    "maire) c'eſt à dire, reuendeur de beſtes pour ſacrifier qui",
+    "ſ'appeloit Serapion {c}. De meſmes, entre Hibreas Mile-",
+    "ſien, ce grand & renõmé orateur: & vn Serf, que l'hiſtoi-",
+    "re ne nomme point. tellemẽt que les Anciens, croyoyent",
+    "fermement: qu'ils fuſſent freres {d}. A M. Antoine, en ſon"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ment {a}. Et touchant les ſimilitudes grandes, qui ont eſté",
+   "lines": [
+    "En l'annota",
+    "tion lxxxi."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "perſonnes de fort baſſe & ville condition, rapportoyent",
+   "lines": [
+    "Pline au li",
+    "ure vij. c. xij.",
+    "Solin en ſon",
+    "Polihiſto. c. v."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "Cornele Scipion & vn porcher (ou ſelon les autres victi",
+   "lines": [
+    "Valere le",
+    "Grand au li,",
+    "ix. c. xv. Pline",
+    "& Sol. ou deſ",
+    "ſus."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "re ne nomme point. tellemẽt que les Anciens, croyoyent",
+   "lines": [
+    "Valere au",
+    "lieu deſſus al-",
+    "legue."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARRET DV",
+   "note": "sic: the spaced capitals of the running head are A R R E T   D V, five letters before the space — no S. Checked at high magnification; the E is followed directly by T. Kept as printed per §5."
+  },
+  {
+   "where": "blocks[0].lines[31]",
+   "text": "ſi bien ce grand Pompee, que les Romains les appeloiẽt",
+   "note": "the mark over the e of the last word is a straight, near-horizontal bar rather than a steep acute; read as a tilde (appeloiẽt = appeloient). A reader could take it for 'appeloiét'."
+  },
+  {
+   "where": "blocks[0].lines[20]",
+   "text": "femmes ſe ſoyent monſtrées ſouuent plus aigües, viues,",
+   "note": "the compositor sets the word as 'ſouuen t', with a full space before the final t (justification space). Normalized to one word per §1 (whitespace/word division normalized). The small dot that appears after the t at low magnification is a paper speck, not a period."
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "text": "re ne nomme point. tellemẽt que les Anciens, croyoyent",
+   "note": "the mark between 'point' and 'tellemẽt' is a small round dot on the baseline, smaller than the page's other periods; transcribed as a period. It could be a lightly inked comma (sense would favour a comma) or a speck. Escalated for the reconciler.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "fermement: qu'ils fuſſent freres {d}. A M. Antoine, en ſon",
+   "note": "the M of 'A M.' is set in small capitals and the print leaves a space before its period; transcribed as an ordinary capital with the space closed up per §2–3, and left as two tokens 'A M.' per §3."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "ure vij. c. xij.",
+   "note": "the letter between 'vij.' and 'xij.' is over-inked, its counter filled, so it reads like a '6' at low magnification; compared with the clean italic c of 'Polihiſto. c. v.' on the fourth line it is the same sort, i.e. 'c' (chapitre). Pliny NH vii.12 supports the reading."
+  },
+  {
+   "where": "margin_notes[2].key",
+   "text": "c",
+   "note": "the note's leading key letter is a blot with the counter filled; read as 'c' from its shape and from the marker sequence a–b–c–d (the body marker after 'Serapion' is a clear italic c)."
+  },
+  {
+   "where": "margin_notes[3].beside_line",
+   "text": "re ne nomme point. tellemẽt que les Anciens, croyoyent",
+   "note": "note d's first line sits between body lines 38 and 39, slightly above the line given here; placement approximate."
+  }
+ ]
+}

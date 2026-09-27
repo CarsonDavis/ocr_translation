@@ -1,0 +1,145 @@
+{
+ "id": "p022",
+ "reader": "final",
+ "model": "script",
+ "running_head": "ARREST DV",
+ "folio": "22",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "conſtance, aſſeuroit contre tous que ce n'eſtoit point",
+    "le fils de Q. Sertorius, ni le ſien, & ſeule par ce moyen",
+    "deſcouurir l'affrontement temeraire & l'impudence",
+    "outrecuidée de ceſt impoſteur {a}. Pareillement, quand a-",
+    "pres la mort de Balduin conte de Flandres, & Empe-",
+    "reur de Conſtantinohle, qui auoit eſté occis en Grece,",
+    "quelqu'vn ſe preſenta en Flandres, ſoy diſant Balduin:",
+    "combien que pour la ſimilitude grande qu'il auoit auec",
+    "le feu comte, & la numeroſité des enſeignes qu'il don-",
+    "noit, il ſceuſt ſi bien partiquer la faueur, & la grace du",
+    "peuple, que les Flammens l'euſſent deſia receu pour",
+    "leur vray & naturel prince: toutesfois Ieanne fille de",
+    "Balduin, qui par la mort de ſon pere lors gouuernoit,",
+    "ne le voulut iamais recognoiſtre pour ſon pere, ni rece",
+    "uoir pour comte: ains ſoupçonnant la fraude, ſagement",
+    "implora l'aide du Roy Loys huitiéme ſon oncle, par le",
+    "moyen duquel l'impoſture vint en euidence {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ce fait ledit du Tilh ſe ſeroit premie-",
+    "rement emparé de la perſonne de la ſup",
+    "pliant, vſant d'elle familierement en tou",
+    "tes choſes, par l'eſpace de trois ans, com-",
+    "me de ſa femme. & apres de tout le bien",
+    "dudit Martin, tant de celuy d'Artigat,",
+    "qu'autre, que ledit Martin auoit en An-",
+    "daye, pays des Baſcouz, d'où iceluy Mar-",
+    "tin eſtoit natif."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Iadis à Rome Trebellius Calca, ſoy diſant eſtre fils",
+    "de Clodius, & comme tel receu preſque de tous, & fa-",
+    "uoriſé du peuple, ſe vouloit de meſme emparer des biẽs",
+    "de feu Clodius, ſon pretendu pere: tellemẽt qu'empeſ-",
+    "ché par les heritiers teſtamentaires, il fut bien ſi petu-",
+    "lant & outrecuidé de les mettre en proces. mais en fin",
+    "par ſentence de ces grans iuges appelez Centumuires,",
+    "il ſuccomba, & perdit ſa cauſe {a2}. Ainſi quelqu'vn que"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "outrecuidée de ceſt impoſteur {a}. Pareillement, quand a-",
+   "lines": [
+    "Valere au",
+    "li. ix. des faits",
+    "& dits memo",
+    "rables c. xvi."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "moyen duquel l'impoſture vint en euidence {b}.",
+   "lines": [
+    "Paule Æ-",
+    "mile."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "reur de Conſtantinohle, qui auoit eſté occis en Grece,",
+   "note": "Conſtantinohle: sic, h for p (Constantinople); checked at high magnification, the letter is clearly h"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "noit, il ſceuſt ſi bien partiquer la faueur, & la grace du",
+   "note": "partiquer: sic, metathesis for 'pratiquer'; final letter checked at high magnification and is r, not z"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "moyen duquel l'impoſture vint en euidence {b}.",
+   "note": "euidence: a small mark sits under the second c, which could be a cedilla (euidençe) or an ink speck; read as plain c"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "il ſuccomba, & perdit ſa cauſe {a2}. Ainſi quelqu'vn que",
+   "note": "marker a2: the marker is a clear italic a, keyed a2 because the alphabet restarts with the new section ANNOTAT. VIII; there is NO margin note and NO foot note for {a2} anywhere on this page (the margin beside the ANNOTAT paragraph is blank and there is no foot block), so the note presumably falls on the facing page"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Paule Æ-",
+   "note": "ink broken and faint; the glyph after 'Paule' is read as the Æ ligature, giving 'Paule Æ-' / 'mile.' = Paule Æmile (Paulus Aemilius). Could conceivably be lowercase æ; the glyph is x-height but the ligature form is damaged"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "rables c. xvi.",
+   "note": "chapter numeral: read xvi, but the italic v is round-bottomed and could be read as u (xui); the leading letter is c (chapitre), not e"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Valere au",
+   "note": "italic capital is the swash U/V form; transcribed V (Valere = Valerius Maximus)"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "page",
+   "A": "",
+   "B": "",
+   "chose": "A",
+   "text": "",
+   "reason": "reads agree on every printed line"
+  }
+ ]
+}

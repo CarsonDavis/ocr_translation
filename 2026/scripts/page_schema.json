@@ -1,0 +1,287 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://github.com/cdavis/translator/2026/scripts/page_schema.json",
+ "title": "Transcribed page",
+ "description": "One page of Coras, Arrest memorable du Parlement de Tholose (1572), transcribed line by line per docs/conventions.md.",
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "id",
+  "reader",
+  "running_head",
+  "folio",
+  "blocks",
+  "margin_notes",
+  "foot_notes",
+  "uncertain"
+ ],
+ "properties": {
+  "id": {
+   "type": "string",
+   "minLength": 1
+  },
+  "reader": {
+   "enum": [
+    "A",
+    "B",
+    "final",
+    "spotcheck"
+   ]
+  },
+  "model": {
+   "type": "string"
+  },
+  "running_head": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "folio": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "signature": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "catchword": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "blocks": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/block"
+   }
+  },
+  "margin_notes": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/note"
+   }
+  },
+  "foot_notes": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/note"
+   }
+  },
+  "ornaments": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "uncertain": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/uncertain"
+   }
+  },
+  "decisions": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/decision"
+   }
+  }
+ },
+ "$defs": {
+  "block": {
+   "oneOf": [
+    {
+     "$ref": "#/$defs/heading_block"
+    },
+    {
+     "$ref": "#/$defs/paragraph_block"
+    },
+    {
+     "$ref": "#/$defs/ornament_block"
+    },
+    {
+     "$ref": "#/$defs/blank_block"
+    }
+   ]
+  },
+  "heading_block": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "type",
+    "text"
+   ],
+   "properties": {
+    "type": {
+     "const": "heading"
+    },
+    "text": {
+     "type": "string"
+    },
+    "spaced_caps": {
+     "type": "boolean",
+     "default": false
+    }
+   }
+  },
+  "paragraph_block": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "type",
+    "lines"
+   ],
+   "properties": {
+    "type": {
+     "const": "paragraph"
+    },
+    "lines": {
+     "type": "array",
+     "minItems": 1,
+     "items": {
+      "type": "string"
+     }
+    },
+    "continues_prev": {
+     "type": "boolean",
+     "default": false
+    },
+    "continues_next": {
+     "type": "boolean",
+     "default": false
+    },
+    "spaced_caps": {
+     "type": "boolean",
+     "default": false
+    }
+   }
+  },
+  "ornament_block": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "type",
+    "text"
+   ],
+   "properties": {
+    "type": {
+     "const": "ornament"
+    },
+    "text": {
+     "type": "string"
+    }
+   }
+  },
+  "blank_block": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "type"
+   ],
+   "properties": {
+    "type": {
+     "const": "blank"
+    },
+    "text": {
+     "type": "string"
+    }
+   }
+  },
+  "note": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "key",
+    "lines"
+   ],
+   "properties": {
+    "key": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "lines": {
+     "type": "array",
+     "minItems": 1,
+     "items": {
+      "type": "string"
+     }
+    },
+    "beside_line": {
+     "type": [
+      "string",
+      "null"
+     ]
+    }
+   }
+  },
+  "uncertain": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "where",
+    "note"
+   ],
+   "properties": {
+    "where": {
+     "type": "string"
+    },
+    "text": {
+     "type": "string"
+    },
+    "note": {
+     "type": "string"
+    },
+    "escalate": {
+     "type": "boolean",
+     "default": false
+    }
+   }
+  },
+  "decision": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "where",
+    "chose"
+   ],
+   "properties": {
+    "where": {
+     "type": "string"
+    },
+    "A": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "B": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "chose": {
+     "enum": [
+      "A",
+      "B",
+      "neither",
+      "carson-session"
+     ]
+    },
+    "text": {
+     "type": "string"
+    },
+    "reason": {
+     "type": "string"
+    }
+   }
+  }
+ }
+}

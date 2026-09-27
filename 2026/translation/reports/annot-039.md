@@ -1,0 +1,8 @@
+# Report: annot-039
+
+- Output: `translation/sections/annot-039.md` — `check_markers.py annot-039`: 1 sections ok, 0 failed.
+- Word counts: French 245, English 278. Markers a–g across p060–p061, all keyed and served; {g} after the final full stop kept as printed. Page break inside *homici|de* placed at "homi⟦p061⟧cide".
+- Glossary additions: *parens ou alliez / parenté ou alliance*; *prins par le iuge d'office* → "taken by the judge on his own motion"; *le fiſque* → "the fisc [the royal treasury]"; *faire la partie à* → "to be the party against"; *iacture* → "loss"; *gain penal & odieux*; *outre (le fiſque)* → "against".
+- `[unclear]` passages: none, but one reading to review: *outre, le fiſque, où le Roy qui ſeul luy fait la partie* is translated "against the fisc, or the King, who alone is the party against him" — *outre* taken in its old sense "against" (as *outre son gré*); "besides" makes no sense of the clause. *Où* with a grave read as *ou*.
+- Wrong sorts translated by sense and recorded in the headnote: *ehoſe*; *comme'quand* (a stray comma-shaped sort); margin *prealleguét.* (for *prealleguee*), the high point in *l. parentes.*, *aud.* = *audit*, the italic *P* for §, and *D. de fut.* for *de fur.* (*De furtis*).
+- Citations: {a} C. 4.20 l. *Parentes* (cf. C. 4.20.6, unverified); {b} C. 4.19 l. *Etiam matris* (cf. C. 4.19.10, unverified); {c} Accursius and Bartolus on D. 27.1.2 pr.; {d}/{e} X 2.23 c. *Litteras*, chapter number unverified — several chapters *Litteras* exist; {f} Baldus on C. 4.20 l. *Parentes*; {g} D. 47.2 l. *Si quis uxori* § penult. (cf. D. 47.2.52, unverified) and l. *Si cui* § *Si* (not identified).

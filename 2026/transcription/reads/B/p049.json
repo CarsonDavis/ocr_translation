@@ -1,0 +1,123 @@
+{
+ "id": "p049",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE TOLOSE.",
+ "folio": "49",
+ "signature": "D",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Dequoy eſt aiſé à recueillir, & enten-",
+    "dre, que les iuges eſtoyent en grande",
+    "perplexité, voyant l'eſtat & le peril de la",
+    "cauſe, pour le conflict des coniectures &",
+    "contradiction des preuues. Car d'vn co-",
+    "ſté, que ce ne fuſt point Martin Guerre,",
+    "mais bien Arnauld du Tilh, ou quelque",
+    "autre inſigne impoſteur, y auoit cinq ou",
+    "ſix raiſons, & coniectures grandes. Le",
+    "premiere, vn grãd nombre de teſmoins,",
+    "iuſqu'à quarante cinq, & d'auantage,",
+    "qui aſſeuroient le preuenu eſtre Ar-",
+    "nauld du Tilh, ou bien n'eſtre point Mar",
+    "tin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Où les teſmoins du demãdeur, & du defendeur depo",
+    "ſent choſes contraires, faut premierement aduiſer à la",
+    "qualité des teſmoins: & donner foy à ceux qui ſont en",
+    "opinion de plus d'integrité enuers le monde: & apres,",
+    "à ceux qui depoſent choſes plus vray-ſemblables: &",
+    "quand par fortune tous ſeroyent eſgaux en toutes cir-",
+    "conſtances, comme eſtimez autant gens de bien les",
+    "vns les autres: & depoſans choſes de pareille veri-",
+    "ſimilitude: le nombre plus grand, ſans difficulté ſur-",
+    "monteroit le moindre, & ſeroit plus croyable, {a} voire",
+    "quelquesfois le numeroſité des teſmoins, ſupplie le",
+    "defaut d'vne partie d'iceux, qui ne ſeroit autrement ſu",
+    "ffiſance pour faire preuue {b}. Comme par exemple, ſi en",
+    "vn teſtament où ne ſont neceſſaires que ſept teſmoins,",
+    "ſ'en trouuent eſcrits huit: deux deſquels ne ſont point",
+    "entiers ains fort reprochables: le teſtament ſelon l'ad",
+    "uis de quelques perſonnes doctes, neantmoins eſt va-",
+    "lable: car ces deux, de ſoy inſuffiſans, en font vn pour"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "monteroit le moindre, & ſeroit plus croyable, {a} voire",
+   "lines": [
+    "l. ij. P. eiuſ-",
+    "dem. D. de te,",
+    "c. in noſtra. il-",
+    "lo titul."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ffiſance pour faire preuue {b}. Comme par exemple, ſi en",
+   "lines": [
+    "Accurſe au",
+    "dit P. eiuſdem."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].text",
+   "text": "ANNOTAT. XXVII.",
+   "note": "the numeral is set in spaced capitals X X V I I. and the gap between the two I sorts is slightly wider than the other letter gaps, so it can be misread as 'XXVI I.'; at 8x (pages/strips/p049/body-4.jpg, y~425-505) five sorts are visible, X X V I I, followed by one full stop, and the sequence p039 = ANNOTAT. XXI. supports XXVII here"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Où les teſmoins du demãdeur, & du defendeur depo",
+   "note": "a faint light speck sits over the final 'o' of 'depo' (pages/strips/p049/body-5.jpg, 6x); it is much lighter and smaller than the solid tilde of 'demãdeur' on the same line and is read as paper/offset, not a tilde — the word runs on as 'depo|ſent'. 'defendeu r' is set with a visible gap before the r; word division normalized per §1"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. ij. P. eiuſ-",
+   "note": "the sort transcribed 'P' is the italic paragraph/§ mark of the citation founts (a bowl with a curled top-left entry serif, matching the italic D of the next line); transcribed 'P' for consistency with the same sort in transcription/final/p031.json (note c 'P. j. D. de ſcr.') and p037.json (note d 'P. qui confi tetur'). Could alternatively be rendered ¶ or ꝑ. Periods are set tight in the print ('l.ij. P.eiuſ-'); spaced per §1"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "dem. D. de te,",
+   "note": "a heavy ink blot covers the 'm' of 'dem' and whatever follows it, so the full stop after 'dem' is inferred from the citation pattern rather than seen. The mark closing the line sits low, is round with a tail below the baseline, and is clearly unlike the horizontal double-stroke hyphens that end lines 1 and 3 of this note, so it is read as a comma, not a break sign; 'te,' is then an abbreviation (de te[ſtibus]) and does not run on into line 3"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Accurſe au",
+   "note": "a round dot is printed between the key letter 'b' and 'Accurſe'; excluded from lines as belonging to the key, per §4. After 'au' the final stem of the italic u carries a rising exit flourish that at 10x can be taken for a following 't' (i.e. 'aut'); read as 'au' because the note continues 'dit' on the next line and because transcription/final/p027.json note m has the identical wording 'Accurſe au' / 'dit Parag. j de'",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "dit P. eiuſdem.",
+   "note": "the sort closing the note is a small curled mark at x-height after the m of 'eiuſdem', not the plain round dot used at the end of margin_notes[0] ('lo titul.'); read as a full stop but it could be a comma or an abbreviation sign, and there may be a tilde over the final m. 'P' is the same paragraph/§ sort as in margin_notes[0].lines[0]",
+   "escalate": true
+  }
+ ]
+}

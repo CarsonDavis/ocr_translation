@@ -1,0 +1,167 @@
+{
+ "id": "p059",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "59",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "bonnes, & grandes, comme de l'auoir cõ",
+    "gnu, hanté, & frequenté depuis ſes pre-",
+    "miers ans: mangé, & beu ſouuentesfois",
+    "auec luy: & les ſeurs, pour auoir eſté nour",
+    "ries touſiours enſemble."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XXXVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ces teſmoins, encor qu'ils n'eſgalaſſent le nombre",
+    "des autres, neantmoins ſembloit eſtre plus croiable",
+    "par pluſieurs conſiderations. La premiere, car ils affer",
+    "moyen que le priſonnier eſtoit Martin Guerre, & les",
+    "autres le nioyẽt. Or eſt il certain, qu'à deux ſeuls teſ-",
+    "moins qui afferment quelque choſe, eſt donné plus de",
+    "foy, qu'à mille qui niẽt {a}. La ſecõde, car les principaux",
+    "de ces teſmoins ſont les propres, & plus prochains pa-",
+    "rens: & meſme quatre ſeurs, qui obſtineement affer-",
+    "moyẽt le priſonnier eſtre leur frere. Et chacun ſçait biẽ",
+    "que les parens, ſingulierement les ſeurs, ont ſans com",
+    "paraiſon meillieure & plus parfaite cognoiſſance de",
+    "ceux qui leur appartiennent de ſi prochain degré de pa-",
+    "renté, que toutes autres perſonnes {b}. La troiſieme, car",
+    "les teſmoins qui depoſent pour le priſonnier, teſmoi-",
+    "gnent de choſes plus approchantes de veriſimilitude.",
+    "Partant qu'il auroit eſté receu pour Martin Guerre de",
+    "tous ceux de la ville: & meſme de ſeſdites ſeurs, & plus",
+    "prochains parens. Voire de la femme dudit Martin,",
+    "auec laquelle auroit cohabité troys ans, & eu deulx",
+    "enfans: dans lequel interualle ſi long, n'eſt vray ſem",
+    "blable que ladite de Rols ne l'euſt recognu pour",
+    "eſtranger, ſi le priſonnier n'euſt eſté veritablement",
+    "Martin Guerre. La quatrieme & derniere, car ces teſ",
+    "moins depoſent pour le deffendeur, & en faueur tant",
+    "du mariage, que des enfans qui en ſont yſſus auſ-",
+    "quels cas ſi pluſieurs Iuges eſtoyent en conflicte d'o-",
+    "pinions, preuaudroit touſiours l'aduis & la ſentence",
+    "de ceux qui fauoriſeroyent ou le premeuu, ou le {c}. ma",
+    "riage, & ainſi ſemble qu'Hermogenien Iuriſconſul-",
+    "te l'ayt eſcrit & enſeigné, quand il y a contradiction de",
+    "teſmoins. {d}"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "de ces teſmoins ſont les propres, & plus prochains pa-",
+   "lines": [
+    "Aecurſe en",
+    "la l. diem pro",
+    "ferre. P. ſi plu",
+    "res. D. de re",
+    "cep. arb."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ceux qui leur appartiennent de ſi prochain degré de pa-",
+   "lines": [
+    "l. octui. p D.",
+    "vnd. cog. l. de",
+    "tutela. D. d-",
+    "in integ. reſt."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "Martin Guerre. La quatrieme & derniere, car ces teſ",
+   "lines": [
+    "l. inter pa.",
+    "res. D. de re.",
+    "di. c. ſi. au meſ",
+    "me titre."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "pinions, preuaudroit touſiours l'aduis & la ſentence",
+   "lines": [
+    "l. lege iulia",
+    "D. de manu",
+    "miſsio."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "par pluſieurs conſiderations. La premiere, car ils affer",
+   "note": "line ends 'affer' with no hyphen and the next line begins 'moyen', giving 'affermoyen'; the expected word is 'affermoyent'. Both halves checked at high magnification: the final glyph of this line is r (identical to the r of 'car' on the same line), and 'moyen' on the next line carries no tilde. Transcribed as printed; sic."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "moyen que le priſonnier eſtoit Martin Guerre, & les",
+   "note": "'moyen' as printed (no tilde over the e); continues 'affer' from the previous line. sic — see the entry on blocks[2].lines[2]."
+  },
+  {
+   "where": "blocks[2].lines[28]",
+   "text": "de ceux qui fauoriſeroyent ou le premeuu, ou le {c}. ma",
+   "note": "'premeuu' as printed — p-r-e-m-e-u-u, checked at 9x; a wrong sort (probably for 'premeut' or similar). sic."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Aecurſe en",
+   "note": "'Aecurſe' as printed: the second letter has a clear horizontal crossbar (e), the third does not (c). A wrong sort for 'Accurſe' (Accursius). sic."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "ferre. P. ſi plu",
+   "note": "the final 'u' of 'plu' carries a heavy ink blot at its top right; it may conceal a line-end hyphen (the word continues 'res' on the next line). No hyphen transcribed."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. octui. p D.",
+   "note": "'octui' as printed (o + ct ligature + u + i), probably a wrong sort for 'octaui'. The 'p' before 'D.' is transcribed as a plain p; at this resolution it cannot be ruled out that it is ꝑ (p with stroke)."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. inter pa.",
+   "note": "the mark after 'pa' is read as a period (round, on the baseline, like the period after 'l.'), not as a hyphen (this print's hyphens are elongated and sit at mid height, e.g. 'd-' two lines below); but the word continues as 'res' on the next line, so a hyphen is possible."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "res. D. de re.",
+   "note": "the mark between 'res' and 'D.' is faint and set high; read as a period by analogy with margin_notes[0].lines[3], but it may be a speck."
+  },
+  {
+   "where": "margin_notes[2]",
+   "note": "placement, not a reading: notes with key c and key d are printed well above their markers. Note c's first line is beside body line 24 though marker {c} is on line 29; note d's first line is beside body line 28 though marker {d} is on line 32. The seven margin lines of notes c and d sit one-to-one against body lines 24-30."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "ANNOT. XXXVIII.",
+   "note": "the head is printed 'ANNOT.' here, not 'ANNOTAT.' as on neighbouring pages (cf. p055 'ANNOTAT. XXXV.'); letters counted at 7x: A N N O T . X X X V I I I . Transcribed as printed."
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "renté, que toutes autres perſonnes {b}. La troiſieme, car",
+   "note": "a round ink blot sits under the 'ſo' of 'perſonnes'; it does not obscure any letter."
+  }
+ ]
+}

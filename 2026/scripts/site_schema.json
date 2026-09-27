@@ -1,0 +1,290 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://github.com/CarsonDavis/ocr_translation/2026/scripts/site_schema.json",
+ "title": "Site page record",
+ "description": "One file of site/data/pages/<id>.json: the layers of one printed page as the viewer reads them. Written by scripts/split_pages.py from manifest.json, transcription/final/<id>.json and (later) the English sections. See docs/site-design.md §4.",
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "id",
+  "page",
+  "folio",
+  "side",
+  "image",
+  "source",
+  "running_head",
+  "prev",
+  "next",
+  "english",
+  "french",
+  "french_notes",
+  "uncertain"
+ ],
+ "properties": {
+  "id": {
+   "type": "string",
+   "minLength": 1,
+   "description": "page id, e.g. p004 or p000-title"
+  },
+  "page": {
+   "type": [
+    "integer",
+    "null"
+   ],
+   "minimum": 0,
+   "description": "true page number; null for the front matter, which is addressed by name"
+  },
+  "folio": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "the folio number as printed, which may disagree with `page`"
+  },
+  "side": {
+   "enum": [
+    "recto",
+    "verso",
+    null
+   ]
+  },
+  "image": {
+   "type": "string",
+   "minLength": 1,
+   "description": "image basename; the viewer builds book.images.base + image + book.images.ext"
+  },
+  "source": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "kind",
+    "image_no",
+    "url"
+   ],
+   "properties": {
+    "kind": {
+     "enum": [
+      "cudl",
+      "gallica"
+     ]
+    },
+    "image_no": {
+     "type": [
+      "integer",
+      "null"
+     ],
+     "description": "scan number in the source viewer; null when the source has no such number"
+    },
+    "url": {
+     "type": "string",
+     "minLength": 1
+    }
+   }
+  },
+  "running_head": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "prev": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "next": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "english": {
+   "type": [
+    "array",
+    "null"
+   ],
+   "items": {
+    "$ref": "#/$defs/block"
+   },
+   "description": "null while the translation is pending"
+  },
+  "french": {
+   "type": [
+    "array",
+    "null"
+   ],
+   "items": {
+    "$ref": "#/$defs/block"
+   },
+   "description": "null while the transcription is pending"
+  },
+  "french_notes": {
+   "type": [
+    "array",
+    "null"
+   ],
+   "items": {
+    "$ref": "#/$defs/note"
+   },
+   "description": "[] when the page has no notes, null when the French layer is pending"
+  },
+  "uncertain": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/uncertain"
+   }
+  }
+ },
+ "$defs": {
+  "block": {
+   "type": "object",
+   "additionalProperties": true,
+   "required": [
+    "type"
+   ],
+   "properties": {
+    "type": {
+     "type": "string",
+     "minLength": 1
+    },
+    "text": {
+     "type": "string"
+    },
+    "lines": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "html": {
+     "type": "string"
+    },
+    "notes": {
+     "type": "array",
+     "items": {
+      "$ref": "#/$defs/english_note"
+     },
+     "description": "sidenotes of an English paragraph, in the order their markers print"
+    },
+    "continued": {
+     "type": "boolean"
+    },
+    "continues_prev": {
+     "type": "boolean"
+    },
+    "continues_next": {
+     "type": "boolean"
+    },
+    "spaced_caps": {
+     "type": "boolean"
+    }
+   },
+   "if": {
+    "properties": {
+     "type": {
+      "const": "paragraph"
+     }
+    },
+    "required": [
+     "type"
+    ]
+   },
+   "then": {
+    "anyOf": [
+     {
+      "required": [
+       "lines"
+      ]
+     },
+     {
+      "required": [
+       "html"
+      ]
+     }
+    ]
+   }
+  },
+  "english_note": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "key",
+    "citation",
+    "original",
+    "gloss"
+   ],
+   "properties": {
+    "key": {
+     "type": "string",
+     "minLength": 1,
+     "description": "the letter printed as the marker, matching the French note key"
+    },
+    "citation": {
+     "type": "string",
+     "description": "the citation in English, may contain <i>"
+    },
+    "original": {
+     "type": "string",
+     "description": "the citation as Coras printed it"
+    },
+    "gloss": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "a sentence of context, or null"
+    }
+   }
+  },
+  "note": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "key",
+    "kind",
+    "lines"
+   ],
+   "properties": {
+    "key": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "kind": {
+     "enum": [
+      "margin",
+      "foot"
+     ]
+    },
+    "lines": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "uncertain": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "where",
+    "note"
+   ],
+   "properties": {
+    "where": {
+     "type": "string",
+     "minLength": 1
+    },
+    "text": {
+     "type": "string"
+    },
+    "note": {
+     "type": "string"
+    }
+   }
+  }
+ }
+}

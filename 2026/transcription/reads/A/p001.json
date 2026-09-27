@@ -1,0 +1,104 @@
+{
+ "id": "p001",
+ "reader": "A",
+ "model": "opus",
+ "running_head": null,
+ "folio": "1",
+ "signature": "A",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "ornament",
+   "text": "woodcut headpiece: grotesques, foliage and a central vase, full width above the title"
+  },
+  {
+   "type": "heading",
+   "text": "ARREST",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "DV. PARLEMENT DE",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Tholoſe, contenant vne hiſtoire"
+  },
+  {
+   "type": "heading",
+   "text": "memorable, & prodigieuſe, auec"
+  },
+  {
+   "type": "heading",
+   "text": "cét & onze belles & doctes anno-"
+  },
+  {
+   "type": "heading",
+   "text": "tations, de monſieur maiſtre Iean"
+  },
+  {
+   "type": "heading",
+   "text": "de Coras, rapporteur du procés."
+  },
+  {
+   "type": "heading",
+   "text": "Texte de la Toile du procés,"
+  },
+  {
+   "type": "heading",
+   "text": "& de l'arreſt."
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "AV MOIS de Ianuier, mil",
+    "cinq cens cinquante neuf,",
+    "Bertrande de Rols, du lieu",
+    "d'Artigat, au dioceſe de",
+    "Rieux, ſe rend ſuppliant, &",
+    "plaintiue deuant le iuge de Rieux, diſant,",
+    "que vingt ans peuuent eſtre paſſez, ou en-",
+    "uiron, qu'elle eſtant ieune fille, de neuf à",
+    "dix ans, fut mariée auec Martin Guerre,",
+    "pour lors auſsi fort ieune, & preſque de",
+    "meſme aage que la ſuppliant."
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [
+  "woodcut headpiece above the title (grotesques, foliage, central vase)",
+  "fleuron (aldine leaf) printed before 'Texte de la Toile du procés'",
+  "decorated initial A, 5 lines, floral woodcut, opening 'AV MOIS'"
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[1]",
+   "note": "structural: the title is set as seven printed lines in three sizes; each printed line is recorded as its own heading block (§6 lists 'the title-page lines' as headings). Reader B may have grouped them differently."
+  },
+  {
+   "where": "blocks[2]",
+   "text": "D V.  P A R L E M E N T  D E",
+   "note": "a point is clearly printed after DV (checked at high magnification); the line is in spaced capitals, so the point is kept on the V with a double space before PARLEMENT."
+  },
+  {
+   "where": "blocks[6]",
+   "text": "tations, de monſieur maiſtre Iean",
+   "note": "a small hook-shaped mark sits above the o of 'tations'; read as a plain o (stray ink / show-through from the verso), not a tilde or circumflex — 'annotations' takes no abbreviation mark."
+  },
+  {
+   "where": "blocks[10].lines[0]",
+   "text": "AV MOIS de Ianuier, mil",
+   "note": "MOIS is set with a little letterspacing after the decorated initial, much less than the title's spaced capitals; transcribed as ordinary capitals, no spaced_caps. The A is the woodcut initial."
+  },
+  {
+   "where": "blocks[10].lines[3]",
+   "text": "d'Artigat, au dioceſe de",
+   "note": "justification space printed before the comma ('d'Artigat , au'); normalized away per §1. Same case on lines[8] ('dix ans , fut') and lines[9] ('fort ieune , &'), and no space is printed after the comma in 'Ianuier,mil', 'Tholoſe,contenant', 'tations,de'."
+  }
+ ]
+}

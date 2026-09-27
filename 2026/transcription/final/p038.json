@@ -1,0 +1,154 @@
+{
+ "id": "p038",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "ARREST DV",
+ "folio": "38",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſterité & rudeſſe (en ayant fait peut eſtre au parauant",
+    "experience) elle doit eſtre commiſe à quelque femme",
+    "de bien, & honneſte, iuſqu'à la fin du proces {i}. Et quand",
+    "le mari craint que la femme qu'il demande ne ſoit ſu-",
+    "bornée contre luy, le Iuge la doit faire loger, & collo-",
+    "quer en vne maiſon, où elle ne redoute force, ni violen",
+    "ce. comme iadis on faiſoit à vn conuent de nonnains,",
+    "& religieuſes. {l}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Si fait en ſon audition ample diſcours",
+    "& veritable (comme depuis a apparu)",
+    "de la partie des Baſcouz, des pere, me-",
+    "re, freres, ſeurs, & autres parens de Mar-",
+    "tin Guerre: de l'annee, mois, & iour de",
+    "ſes nopces: de ſes beaux-pere, & mere:",
+    "des perſonnes qui y eſtoient, & qui trai-",
+    "terẽt le mariage: des robes, & veſtemens,",
+    "deſquels chacun pour lors eſtoit accou-",
+    "tré: du preſtre qui les eſpouſa: de tous les",
+    "actes particuliers, qui y entreuindrent:",
+    "tant au iour des nopces, que deuant &",
+    "& apres. iuſqu'à conſigner les perſonnes",
+    "qui ſur la minuit des nopces, l'allerent vi-",
+    "ſiter dans ſon lit. En outre, de ſon preten",
+    "du enfant Sanxi Guerre, & du iour qu'il",
+    "naſquit: de la cauſe de ſon departement:",
+    "des perſonnes qu'il trouua en chemin, &",
+    "des propos qu'ils auoient eu enſemble:",
+    "des lieux où il ſ'eſtoit tenu durant ſon",
+    "abſence, tant en Eſpaigne, qu'en Fran-",
+    "ce: & des perſonnes, auſquelles il ſ'eſt"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "i",
+   "beside_line": "de bien, & honneſte, iuſqu'à la fin du proces {i}. Et quand",
+   "lines": [
+    "c. ex tranſ-",
+    "miſſa. c. lite-",
+    "ras. P. fin. de",
+    "reſt. ſpel."
+   ]
+  },
+  {
+   "key": "k",
+   "beside_line": "quer en vne maiſon, où elle ne redoute force, ni violen",
+   "lines": [
+    "c. cum lo-",
+    "cum, de ſponſ."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "& religieuſes. {l}",
+   "lines": [
+    "c. penultsi-",
+    "me de prob."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[1]",
+   "text": "c. cum lo-",
+   "note": "note key k has no {k} marker anywhere in the body; both readers checked every line at 3x-8x. The only markers printed are {i} (annotation line 3) and {l} (line 8). The note's key sits beside 'quer en vne maiſon, où elle ne redoute force, ni violen', so the omitted marker most likely belonged near 'ni violen-ce.' Compositor omission; note kept without a marker (standing ruling)"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. penultsi-",
+   "note": "pages/strips/p038/margin-1.jpg, note l line 1. At 6x and 10x the sorts after 'penu' are: a tall italic l, then ONE short letter with a small hook at its top and no clear dot above (read as italic t, cf. the t of 'reſt' in note i; an italic i is the alternative), then round s, dotted i, hyphen: 'penultsi-' + 'me' on the next line. There is no second glyph between the l and the s, so A's 'penultisi-' has one letter too many. The expected citation is 'c. penultime de prob.'; the printed form is odd either way and is transcribed as printed",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "c. ex tranſ-",
+   "note": "the line-end hyphen after 'tranſ' is only partly inked, a faint broken stroke at x-height, much lighter than the solid hyphens of 'lite-' and 'lo-'; read as a hyphen, could be an ink speck with the hyphen absent"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "reſt. ſpel.",
+   "note": "pages/strips/p038/margin-1.jpg, note i line 4. At 6x the third letter has a bowl crossed by a horizontal bar with an open lower loop, matching the italic e of 'reſt' and 'de' rather than the plain oval o of 'ſponſ.' and 'prob.': read as 'ſpel.', sic for the expected 'ſpol.' (de restitutione spoliatorum); the letter is ink-filled and 'ſpol.' cannot be wholly excluded"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "terẽt le mariage: des robes, & veſtemens,",
+   "note": "the mark over the second e of 'terẽt' is a thick, nearly horizontal, wavy stroke (tilde), unlike the thin slanted acute of 'tré:' two lines below and of 'ſterité'; read as ẽ (= terent)"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "tant au iour des nopces, que deuant &",
+   "note": "'&' is printed at the end of this line and again at the start of the next ('& apres.'); the ampersand is set twice; transcribed as printed, sic"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "& apres. iuſqu'à conſigner les perſonnes",
+   "note": "sic, repeated '&' (see previous entry); the mark after 'apres' is a round dot on the baseline (period, not comma)"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[2].lines[7]",
+   "A": "terét le mariage: des robes, & veſtemens,",
+   "B": "terẽt le mariage: des robes, & veſtemens,",
+   "chose": "B",
+   "text": "terẽt le mariage: des robes, & veſtemens,",
+   "reason": "at 4x (pages/strips/p038/body-4.jpg, line 4) the mark over the second e is a thick nearly horizontal wavy stroke, a tilde; the acute of 'tré:' on the same strip is a thin slanted hairline: ẽ"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "A": "reſt. ſpol.",
+   "B": "reſt. ſpel.",
+   "chose": "B",
+   "text": "reſt. ſpel.",
+   "reason": "at 6x (pages/strips/p038/margin-1.jpg, note i line 4) the letter after ſp has a crossbar through its bowl and an open lower loop like the italic e of 'reſt' and 'de'; the o sorts of 'ſponſ.' and 'prob.' are plain ovals: the sort printed is e, sic for 'ſpol.'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "A": "c. penultisi-",
+   "B": "c. penultsi-",
+   "chose": "B",
+   "text": "c. penultsi-",
+   "reason": "at 6x and 10x (pages/strips/p038/margin-1.jpg, note l line 1) only one glyph stands between the tall l and the round s: a short letter with a hooked top and no clear dot, read as italic t; A's extra i is not there. Ambiguity (t vs i) recorded in uncertain[]"
+  }
+ ]
+}

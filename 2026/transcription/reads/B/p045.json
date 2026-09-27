@@ -1,0 +1,197 @@
+{
+ "id": "p045",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "44",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "vaines ſupperſtitions, & autres telles choſes inutilles. {d}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TFXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ledit du Tilh ouy ſur cet enſorcelle-",
+    "ment & malefice, nom de preſtres, & ce-",
+    "remonies gardées, reſpond en tout",
+    "comme ladite de Rols, ſans en rien fail-",
+    "lir, adiouſter, ni diminuer. Procedant",
+    "aux confrontemẽs, iceluy du Tilh requi-",
+    "ert que ladite de Rols ſoit miſe en ſeque",
+    "ſtre, & liberté, pour euiter ſubornation:",
+    "ce qui eſt ordonné, & executé."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, XXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Nous auons monſtré ci deſſus, que la ſequeſtration",
+    "des biens, & plus encor des perſonnes, eſt odieuſe &",
+    "prohibée: ſi ce n'eſt pour quelque grande & legitime",
+    "cauſe, comme eſt en ce faict la crainte de ſeduction, &",
+    "ſubornation. {a}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Les confrontemens paracheuez, &",
+    "baillez reproches par ledit du Tilh, &",
+    "requeſte, pour luy eſtre permis publier",
+    "monitoire, ſur les articles y attachez",
+    "concernans la pretendue ſubornation",
+    "de ladite de Rols. Par ordõnance il eſt",
+    "receu à verifier les reproches par luy",
+    "deduits. Et neantmoins, attẽdu la matie",
+    "re dont eſt queſtion, faire publier led.",
+    "monitoire, pour mieux ſçauoir la verité:",
+    "& ordõné, ſera enquis d'office, tant aux",
+    "lieux du Pin, Sagias, & Artigat, que a au-",
+    "tres circõuoiſins, & neceſſaires, tãt ſur la"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ſubornation. {a}",
+   "lines": [
+    "l. iij. §. ſi ve",
+    "rò vtraque.",
+    "D. de lib. ex-",
+    "hib. c. ex tran",
+    "miſſa. c. literas",
+    "de reſtit. ſpol.",
+    "c. penul. de",
+    "probã."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "vaines ſupperſtitions, & autres telles choſes inutilles. {d}",
+   "note": "marker {d} has no note anywhere on this page: margin-1.jpg (the whole upper margin, beside this line and the TEXTE block) is blank, margin-2.jpg carries only note a, margin-3.jpg is blank below it, and foot.jpg shows no foot citation block. p044 recorded the same for its marker {c}. So markers c and d both stand without citations, and the alphabet then restarts at a with ANNOTAT, XXIIII. The marker glyph itself is unambiguous: a small italic d with a full ascender at 4x, and it follows p044's {c}. Needs a human eye on whether the printer simply dropped these two citations.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[1]",
+   "text": "TFXTE.",
+   "note": "sic: the second sort of this display line is an F, not an E. At 4x it has the top bar and the middle bar but no bottom bar, and its stem ends in a plain foot serif; compared on the same page with the E of the second TEXTE. (blocks[5]), which shows a clear bottom bar, and with the final E of this same line. Transcribed as printed; the word intended is TEXTE. Spaced capitals closed up per §3.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "aux confrontemẽs, iceluy du Tilh requi-",
+   "note": "the mark over the second e of 'confrontemẽs' is a flat, slightly wavy bar (tilde for the omitted n), not an acute: compared at 6x with the true acutes of 'gardées' two lines above and of 'monſtré' in blocks[4].lines[0], which are short strokes slanting up to the right. The same word is set out in full as 'confrontemens' at blocks[6].lines[0]. Not expanded, per §2.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3]",
+   "text": "ANNOTAT, XXIIII.",
+   "note": "two points. (1) The mark after ANNOTAT is a comma, not the point p044 shows after ANNOT.: at 4x the stroke descends clearly below the baseline of the capitals and is 15px wide, against 9px for the points in the line. (2) The numeral was segmented glyph by glyph (body-3.jpg, y 430-500): two glyphs 32-33px wide (X, X) then four glyphs 17-19px wide (I, I, I, I), then the point. So the head prints XXIIII = 24, the same number as p044's ANNOT. XXIIII, although a new annotation begins here and XXV would be expected. Transcribed as printed (§7); a printer's error is likely.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "ſubornation. {a}",
+   "note": "the marker is a small italic a, unambiguous at 6x (round bowl with the italic's right stem and foot). The alphabet therefore restarts at a with this new ANNOTAT section, after {d} on blocks[0].lines[0]; only one a is printed on the page, so no a2 is needed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "des biens, & plus encor des perſonnes, eſt odieuſe &",
+   "note": "the compositor sets a justification space before both commas ('biens , &', 'perſonnes , eſt'); normalized away per §1. The same normalization was applied at blocks[2].lines[2] ('gardées , reſpond'), blocks[2].lines[4] ('lir , adio uſter , ni diminuer . Procedant'), blocks[6].lines[1] ('Tilh , &'), blocks[6].lines[3] ('monitoire , ſur'), blocks[6].lines[8] ('queſtion , faire') and blocks[6].lines[10] ('office ,tant'). Conversely no space is printed after the comma in blocks[4].lines[3] ('cauſe,comme'), blocks[6].lines[2] ('neantmoins,attẽdu'), blocks[6].lines[9] ('monitoire,pour'), blocks[6].lines[10] ('ordõné,ſera') and blocks[6].lines[12] ('neceſſaires,tãt'); one space supplied per §1. 'adiouſter' is set 'adio uſter' and 'circõuoiſins' is set 'circõuoiſin s'; both closed up per the word-division rule.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "Les confrontemens paracheuez, &",
+   "note": "a small detached ink blob stands at ascender height between the h and the e of 'paracheuez' (body-4.jpg, 5x). It is not an accent (the fount sets none there and the blob is round, not a stroke); read as a speck or show-through and not transcribed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[9]",
+   "text": "monitoire, pour mieux ſçauoir la verité:",
+   "note": "the a of 'la' carries a thin hairline stroke rising from its top-right terminal (body-6.jpg, 10x). It is much lighter and thinner than the two acutes of 'verité' on the same line, and the plain a of 'la matie' three lines above shows no such stroke. Read as an ink filament or a damaged sort, not a grave; transcribed 'la'. Reader A may read 'là'. The final mark is a colon (two clearly separated dots at 5x).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[12]",
+   "text": "tres circõuoiſins, & neceſſaires, tãt ſur la",
+   "note": "last line of the page. Checked for the ſſ/ſs trap at 4.5x: 'neceſſaires' is set with two long s (both stems rise to the ascender line and the first carries the long-s nub), so ſſ, not ſs. Same check on 'deſſus' and 'miſſa': both ſſ. The page breaks off mid-sentence with no hyphen after 'la', so continues_next is true.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij. §. ſi ve",
+   "note": "HARD READING, needs a human. The sign between 'l. iij.' and 'ſi ve' (margin-2.jpg x 403-441, y 639-674) is a heavily over-inked blob whose counters are filled. Measured, it is an x-height glyph (h 35px, the same as the neighbouring 'a'; it neither ascends to the 'l' nor descends), about 38px wide, showing a top bar, a small bowl open to the left at the upper left, a solid middle mass and a foot stroke to the lower left. To the eye it reads as a bold italic B, but a capital B would reach the ascender line and it does not. Transcribed '§' because the citation form is the standard 'l. iij. § ſi verò vtraque. D. de liberis exhibendis'; the alternatives are 'B' and 'ß'. Note that no line anywhere in transcription/final/ uses '§' (the corpus spells the sign out as 'parag.', e.g. p004, p006), so this sort may be unprecedented in this book. Also on this line: 'l.' then three strokes with three dots, i.e. 'iij' (i, i, j with descender) at 12x, not 'ij'; and the last word is broken 've|rò' without a hyphen.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "D. de lib. ex-",
+   "note": "the line-end break sign after 'ex' is a small wedge-shaped mark set at x-height, not the slanting hyphen this fount usually cuts (margin-2.jpg, 10x). Transcribed '-' per §2 and the corpus precedent for raised mid-dot break signs, since the word continues as 'hib.' on the next line ('exhib.'). It could be read as a point.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "text": "miſſa. c. literas",
+   "note": "two small specks stand above and to the right of the final s of 'literas' (margin-2.jpg, 10x); they sit well above the x-height and are read as ink specks, so no punctuation is transcribed after 'literas'. The line before breaks 'tran|miſſa' with no hyphen (= transmiſſa).",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[7]",
+   "text": "probã.",
+   "note": "the abbreviation mark over the final a of 'proba' is a short, nearly upright stroke rather than a wavy tilde (margin-2.jpg, 10x); transcribed as the tilde ã per §2, the expansion being 'probationibus'. Not expanded.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "placement: the note's first line (margin-2.jpg y 627-693) stands beside the body line 'ſubornation. {a}', i.e. beside its own marker, and the note runs down past the TEXTE. heading to the level of 'concernans la pretendue ſubornation'. The key letter a at the head of line 1 is clear and is not included in lines, per §9. It is the only note on the page: margin-1.jpg and margin-3.jpg are blank.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[12]",
+   "text": "tres circõuoiſins, & neceſſaires, tãt ſur la",
+   "note": "page furniture: foot.jpg shows the last two body lines and then blank paper to the trimmed edge, with no foot citation block, no gathering signature and no catchword; body-8.jpg is blank. The running head is spaced roman capitals with a final point (PARLEMENT DE THOLOSE.), closed up per §3, and the folio 44 stands at the outer (right) edge of the same line, matching the manifest.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Nous auons monſtré ci deſſus, que la ſequeſtration",
+   "note": "validator long-s warning on 'Nous' checked against the image: printed with a roman capital N, and the word's only s is word-final and round. No normalization occurred. Same for 'Les' at blocks[6].lines[0] and 'Sagias' at blocks[6].lines[11], whose S is a roman capital.",
+   "escalate": false
+  }
+ ]
+}

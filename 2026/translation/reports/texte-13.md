@@ -1,0 +1,7 @@
+# Report: texte-13
+
+- Output: `translation/sections/texte-13.md` — `check_markers.py texte-13`: 1 sections ok, 0 failed.
+- Word counts: French 106, English 119. No marginal citations.
+- Glossary additions: *faire informer* → "to have a preliminary inquiry made" (per §5 *information*); *conclure à* → "to conclude for"; *double amende: honorable … profitable* → "a double amend: the honourable (*amende honorable*, public penance) … the profitable"; *teste & pieds nuds* → "bareheaded and barefoot"; *torche ardente* → "burning torch"; *despens, dommages & interests* → "costs, damages and interest"; *requerir merci* → "to ask mercy".
+- Choices to review: first occurrence of *amende honorable* in the running text — the French is given in parentheses with the §5 gloss "public penance", and *amende* is rendered "amend" (Ringold: "honorable amend") so that the pairing with the *amende profitable* survives; *deceuë, abuſee, trahie & circonuenuë* → "deceived, abused, betrayed and circumvented" per §9; *temerairement & proditoirement* → "rashly and treacherously" per §9. Ringold: "she ended by asking double penance against the said du Tilh: making atonement by asking forgiveness of God, of the King, and of de Rols … and for the material penance she asks two thousand livres with interest and the expenses of the trial."
+- `[unclear]` passages: none. Read-through: *autho rité*, *tor che*, *fauſ ſement*, *circonue nuë*, *per ſonne* are reflow gaps.

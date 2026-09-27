@@ -1,0 +1,108 @@
+{
+ "id": "p013",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "13",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "triumuirat, Thoranius auoit vendu deux ieunes garçõs,",
+    "pour gemeaux: pource qu'ils ſe reſſembloyent du tout,",
+    "bien que l'vn fuſt de France, & l'autre d'Aſie. Quoy en-",
+    "tendu par M. Antoine qui en auoit payé trois cens ſeſter",
+    "ces, reuenans à trois mille ſept cens cinquante eſcus de",
+    "noſtre monnoye, (car le ſeſterce, ſelon la ſupputation",
+    "de Budé, & autres perſonnes doctes, & fait la redu-",
+    "ction à la mõnoye de France, valoit enuiron vintcinq eſ-",
+    "cuz, lequel multiplié trois cẽs fois, reuient peu plus, peu",
+    "moins, à la dite ſõme de 3750. eſcus) il en fut du premier",
+    "front vn peu faſché, mais Thoranius luy remonſtra q̃ ce",
+    "de quoy il ſe plaignoit, deuoit eſtre par luy eſtimé, le",
+    "plus precieux de ſon achapt. Car ſi les enfans euſſent eſté",
+    "beſſons, il n'y euſt eu rien d'eſmerueillable, s'ils euſſent",
+    "eſté ſemblables, pour eſtre procreez d'vne meſmes ſe-",
+    "mence, ſous meſmes aſtres & conſtellatiõs: Mais de voir",
+    "deux enfans, naiz de diuers parens, en diuers pays, & ſi",
+    "loingtains, l'vn en l'Aſie, l'autre en l'Europe, eſtoit cho-",
+    "ſe prodigieuſe, & grãdemẽt admirable. Laquelle reſpon",
+    "ſe contenta tellement Marc Antoine, qu'il ſouloit dire,",
+    "n'auoir en la grandeur de ſes facultez, rien ſi cher, ne ſi",
+    "precieux, que ces deux garçons {e}. Iadis en Sicile, y auoit",
+    "vn peſcheur, tellement ſemblable à Sura Romain, pour",
+    "lors illec Proconſul: qu'il eſtoyent, non ſeulement pa-",
+    "reils de ſimilitude corporelle, mais encor de la maniere",
+    "de parler. Car tous deux eſtoyent begues: auquel Sura",
+    "dit vne fois par ieu, s'esbahir grandement, comme il",
+    "luy eſtoit ſi ſemblable, veu que mon pere (diſoit Sura)",
+    "ne fut iamais en ce pays, voulant par là taxer l'honneur",
+    "& la chaſteté de la mere du pauure peſcheur: lequel pour",
+    "tant, ne ſe monſtra lourdaut à luy reſpondre, diſant que",
+    "Sura n'auoit occaſion s'en eſmerueiller, car ſon pere a-",
+    "uoit eſté ſouuent à Rome: reiettant par ce moyen ſur la",
+    "mere de Sura, ce que Sura auoit voulu empraindre à la",
+    "ſienne {f}. Sebaſtien Munſter, homme de leçon grande, en",
+    "ſa coſmographie recite, qu'apres la troiſieme deſconfitu",
+    "re des Bourguignons, (où leur Duc Charles fut tué) fai",
+    "te par les Suiſſes: qui fut enuiron l'année e, mil quatre cẽs",
+    "ſoixante & dix ſept, vint vn homme à Bruxelles, ville du",
+    "dioceſe de Spire, qui reſſembloit ſi naifuement le feu"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "e",
+   "beside_line": "precieux, que ces deux garçons {e}. Iadis en Sicile, y auoit",
+   "lines": [
+    "Solin & Pli-",
+    "ne: aux lieux",
+    "prealleguez."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "ſienne {f}. Sebaſtien Munſter, homme de leçon grande, en",
+   "lines": [
+    "Pline, Solin,",
+    "& Valere",
+    "aux lieux que",
+    "deſſus"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "bien que l'vn fuſt de France, & l'autre d'Aſie. Quoy en-",
+   "note": "the mark after 'France' is a small round blob with a faint tail; read as a comma, but it could be a period"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "tendu par M. Antoine qui en auoit payé trois cens ſeſter",
+   "note": "'M' is set as a small capital; transcribed as an ordinary capital per §3. The print sets 'par M .Antoine' (point after the space); punctuation spacing normalized"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "front vn peu faſché, mais Thoranius luy remonſtra q̃ ce",
+   "note": "abbreviation for 'que': the stroke over the q is a thin slanted bar rather than a full tilde; transcribed q + U+0303"
+  },
+  {
+   "where": "blocks[0].lines[37]",
+   "text": "te par les Suiſſes: qui fut enuiron l'année e, mil quatre cẽs",
+   "note": "sic: the print sets 'l'année e,' — 'année' complete, then a clear space and a stray 'e' before the comma; transcribed as printed"
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "dioceſe de Spire, qui reſſembloit ſi naifuement le feu",
+   "note": "'dioceſe' has no accent; the dot under the first 'e' is an ink speck / show-through, not a printed mark"
+  }
+ ]
+}

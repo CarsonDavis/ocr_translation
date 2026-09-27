@@ -1,0 +1,111 @@
+{
+ "id": "p001",
+ "reader": "B",
+ "model": "opus",
+ "running_head": null,
+ "folio": "1",
+ "signature": "A",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "ornament",
+   "text": "woodcut headpiece: a broad grotesque-and-foliage band with facing beasts and a central basket/urn, filling the head of the page above the title"
+  },
+  {
+   "type": "heading",
+   "text": "ARREST",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "DV PARLEMENT DE"
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Tholoſe, contenant vne hiſtoire",
+    "memorable, & prodigieuſe, auec",
+    "cẽt & onze belles & doctes anno-",
+    "tations, de monſieur maiſtre Iean",
+    "de Coras, rapporteur du procés."
+   ],
+   "continues_prev": true,
+   "continues_next": false
+  },
+  {
+   "type": "heading",
+   "text": "Texte de la Toile du procés,"
+  },
+  {
+   "type": "heading",
+   "text": "& de l'arreſt."
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "AV MOIS de Ianuier, mil",
+    "cinq cens cinquante neuf,",
+    "Bertrande de Rols, du lieu",
+    "d'Artigat, au dioceſe de",
+    "Rieux, ſe rend ſuppliant, &",
+    "plaintiue deuant le iuge de Rieux, diſant,",
+    "que vingt ans peuuent eſtre paſſez, ou en-",
+    "uiron, qu'elle eſtant ieune fille, de neuf à",
+    "dix ans, fut mariée auec Martin Guerre,",
+    "pour lors auſsi fort ieune, & preſque de",
+    "meſme aage que la ſuppliant."
+   ],
+   "continues_prev": false,
+   "continues_next": false
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [
+  "woodcut headpiece band above the title (grotesques, foliage, central urn)",
+  "decorated initial A, 5 lines, white-on-black foliate block, opening AV MOIS",
+  "typographic fleuron printed before the italic heading Texte de la Toile du procés,"
+ ],
+ "uncertain": [
+  {
+   "where": "folio",
+   "text": "1",
+   "note": "the folio glyph is a serifed vertical stroke that looks like a roman I; read as the arabic figure 1 because the same shape is used twice for folio 11 on p011 and the book foliates in arabic figures (p002 = 2)"
+  },
+  {
+   "where": "blocks[2]",
+   "text": "DV PARLEMENT DE",
+   "note": "a small round dot sits on the baseline immediately after DV; it is lighter and smaller than the page's printed points, so it may be a printed full stop (DV.) or an ink speck. Transcribed without it."
+  },
+  {
+   "where": "blocks[3].lines[1]",
+   "text": "memorable, & prodigieuſe, auec",
+   "note": "both e's of 'memorable' print with almost no crossbar, so the word reads as 'mcmorablc' on the sheet; read as 'memorable' from sense and from the same weak e elsewhere on the page"
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "cẽt & onze belles & doctes anno-",
+   "note": "the mark over the e of 'cẽt' is broad, horizontal and wavy (a tilde: cẽt = cent, i.e. cent & onze annotations), clearly unlike the short steep acute of 'procés' on the next-but-one line; a reader could take it for 'cét'"
+  },
+  {
+   "where": "blocks[3].lines[3]",
+   "text": "tations, de monſieur maiſtre Iean",
+   "note": "a faint thin caret/tilde-shaped mark is printed over the o of 'tations'; it is much lighter than the surrounding type and the n is set in full, so it looks accidental (rising quad or offset) rather than a nasal abbreviation. Transcribed as a plain o."
+  },
+  {
+   "where": "blocks[6].lines[9]",
+   "text": "pour lors auſsi fort ieune, & preſque de",
+   "note": "'auſsi' is set with a long s followed by a round s (not ſſ); transcribed as printed per §2"
+  },
+  {
+   "where": "signature",
+   "text": "A",
+   "note": "a single 'A' stands alone below the last body line, right of centre rather than at the usual left/centre signature position; read as the gathering signature and not a catchword, because p002 opens with the heading ANNOTATION I. and the word 'Les'"
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "AV MOIS de Ianuier, mil",
+   "note": "MOIS is set with light letterspacing between its capitals, much narrower than the wide spacing of A R R E S T; treated as an ordinary word, not as spaced capitals"
+  }
+ ]
+}

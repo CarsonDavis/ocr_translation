@@ -1,0 +1,147 @@
+{
+ "id": "p063",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "63",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "vn faict fort ambigu, monſtrueux, & perplex: eſquels",
+    "actes, d'autant que la certitude des choſes ne ſe peut",
+    "recouurer qu'auec grande difficulté, le bruit & fame",
+    "fait ſuffiſante preuue {a}. cõme pour monſtrer qu'Antoi",
+    "ne ſoit fils de Pierre, ou q̃ Frãçois ſoit fils de Ieã, ou au",
+    "tre filiatiõ {b}. ou biẽ pour prouuer la mort de quelq'vn."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Quatriemement, preſque tous les teſ-",
+    "moins qui ſont ouys, aſſeurent que le",
+    "priſonnier, quand fut arriué à Artigat,",
+    "ſalüoit de leur nom tous ceux qu'il ren",
+    "controit de la cognoiſſance de Martin",
+    "Guerre, ſans autrement les auoir onc-",
+    "ques veuz ni cognuz: & ſ'ils faiſoyent",
+    "quelque difficulté à le cognoiſtre, leur",
+    "ramenteuoit toutes choſes paſſées: & di",
+    "ſoit à chacun particulierement: Ne te",
+    "ſouuient-il pas quand nous eſtions à vn",
+    "tel lieu, il a dix douze, quinze, ou vingt",
+    "ans, que nous faiſions vne telle, & telle",
+    "choſe en la preſence de tel, & tel: où tinſ",
+    "mes vn tel, & tel propos: meſmes à ladi-",
+    "te de Rols ſa pretendue femme diſcou-",
+    "roit, comme a eſté deſſus remonſtré, les",
+    "plus priuez & particuliers actes qui peu-",
+    "uent interuenir entre mari & femme:",
+    "& de premiere rencontre luy dit, Va-",
+    "moy querir les chauſſes blanches, dou-",
+    "bles de taffetas blanc, que ie laiſſay dans",
+    "vu tel coffre quand ie parti: ce que fut"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "vn faict fort ambigu, monſtrueux, & perplex: eſquels",
+   "lines": [
+    "Les Do-",
+    "cteurs au c.",
+    "veniens. i. &",
+    "au c. præterea.",
+    "de teſtibus."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "tre filiatiõ {b}. ou biẽ pour prouuer la mort de quelq'vn.",
+   "lines": [
+    "c. per tuas.",
+    "de proba."
+   ]
+  },
+  {
+   "key": "o",
+   "beside_line": "Quatriemement, preſque tous les teſ-",
+   "lines": [
+    "Bartole en",
+    "la. ij. P. ſi du-",
+    "bitetur. D.",
+    "quẽ ad. teſt.",
+    "aper,"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[22]",
+   "text": "vu tel coffre quand ie parti: ce que fut",
+   "note": "sic, wrong sort: the word is 'vn' (un tel coffre) but the print sets 'vu'. At 12x with contrast (body-7.jpg, and again on foot.jpg) the second letter has two separate top serifs with clean white between them and the connecting stroke at the foot, exactly like the u of 'quand' four words later; the n of 'quand', of 'dans' on the line above and of 'vn' at blocks[2].lines[10] and lines[14] all show a solid arch springing from the top of the left stem. Transcribed as printed. The reconciler should confirm on the full-resolution scan.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "Bartole en",
+   "note": "key 'o': the note's leading letter is a fully closed oval with a visible counter (margin-1.jpg, 14x, normalized), unlike the open italic c of 'au c.' and 'c. per tuas.' in the two notes above it. There is NO marker {o} anywhere in the body of this page, and the printer's alphabet would give c after the page's a and b, so this is most likely a wrong sort for a key 'c' whose marker is also missing (or which belongs to the run continuing on the next page). Recorded as printed with the key 'o'; the missing marker for key o is what this entry documents.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "ſouuient-il pas quand nous eſtions à vn",
+   "note": "the print sets 'eſtionsà' with no gap (body-4.jpg, 4x): 'eſtions' and 'à' are distinct words, so one space is set between them per §1 word division. Same normalization applied at 'les chauſſes' (lines[20], printed 'le s chauſſes' with the gap inside the word) and 'bles de' (lines[22], printed 'blesde')."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "ne ſoit fils de Pierre, ou q̃ Frãçois ſoit fils de Ieã, ou au",
+   "note": "the marks over q, over the a of 'Frãçois' and over the final a of 'Ieã' are all the same flat, slightly wavy bar with hooked ends (6x, body-2.jpg), not the steep short wedge of the acute at 'difficulté' and 'arriué'; read as nasal tildes (que, François, Iean). Same bar over 'cõme' (lines[3]), 'filiatiõ' and 'biẽ' (lines[5])."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "au c. præterea.",
+   "note": "'præterea' carries a true æ ligature (9x). Two marks follow the final a: a round point on the baseline and a smaller point raised above it. Read as a period plus an ink speck; a colon is the alternative. Also in this note: 'veniens . i.&' is set with a space before the period and none after 'i.', normalized per §1 to 'veniens. i. &'."
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "quẽ ad. teſt.",
+   "note": "the third letter is a plain e carrying a flat bar, not an æ ligature (compare the unmistakable æ of 'præterea' in note a); read as the nasal tilde, quẽ = quem, which with 'aper,' on the next line gives the Digest title 'quemadmodum testamenta aperiantur' (D. 29.3). 'quæ' is the alternative reading. 'teſt.' uses the italic curled-top t of §2."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "la. ij. P. ſi du-",
+   "note": "'ij' is the italic ÿ-shaped ij sort, transcribed decomposed as on p058. 'P.' is an italic capital P with no stroke through the stem and no descender, standing where the citation wants the paragraph sign §; transcribed as printed, following the same decision on p058 ('P rogo', 'l. ſi cui. P.'). 'ſi' is long ſ + i, which in this italic looks like an fi ligature."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "TEXTE.",
+   "note": "page furniture: running head 'PARLEMENT DE THOLOSE.' and the TEXTE heading are both set in spaced capitals, closed up per §3 with spaced_caps true; folio '63' at the top right, matching the manifest. No signature, no catchword, no ornament and no foot citation block — foot.jpg and body-8.jpg are blank below the last body line, and margin-2/3/4.jpg carry no notes (all three notes sit at the head of the margin). Punctuation spacing normalized throughout per §1 (the print sets 'perplex:eſquels', 'paſſées:& di', 'propos:meſmes', 'parti : ce' and commas tight or with a space before)."
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "choſe en la preſence de tel, & tel: où tinſ",
+   "note": "the line ends with a long ſ (no crossbar at 4.5x), word-final and with no hyphen, running on to 'mes' — tinſ/mes = tinsmes. The page breaks four more words without a hyphen: 'ren'/'controit', 'qu'Antoi'/'ne', 'di'/'ſoit', and 'au'/'tre' across the page head. Per §1 these need no further note."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "moins qui ſont ouys, aſſeurent que le",
+   "note": "double-s check at 4x: 'aſſeurent' (lines[1]), 'cognoiſſance' (lines[4]), 'paſſées' (lines[8]), 'deſſus' (lines[16]), 'chauſſes' (lines[20]) and 'laiſſay' (lines[21]) are all ſſ — both sorts are tall with no bowl — not ſs. 'fils', 'Rols', 'les', 'dans' and 'ouys' use the round s, as printed."
+  }
+ ]
+}

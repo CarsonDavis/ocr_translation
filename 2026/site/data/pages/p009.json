@@ -1,0 +1,289 @@
+{
+ "id": "p009",
+ "page": 9,
+ "folio": "9",
+ "side": "recto",
+ "image": "p009",
+ "source": {
+  "kind": "cudl",
+  "image_no": 31,
+  "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/31"
+ },
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "prev": "p008",
+ "next": "p010",
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "r to the said Martin, and having heard from him (under pretext of friendship) several private and particular things about him and about his wife.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION IIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "One of the most singular fruits and most precious effects of friendship is the sweetness and the pleasure one has in being able freely to disclose one's secrets and one's thoughts to one's friend, who is another self. Is there anything in the world more singular (says Cicero somewhere) than to have a man with whom you can, and dare, speak as to yourself <sup class=\"mk\" data-key=\"a\">a</sup>, and by whom, said Plautus, you will never be deceived <sup class=\"mk\" data-key=\"b\">b</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Cicero, <i>De amicitia</i> (<i>Laelius</i>) 22",
+     "original": "Ciceron en ſon liure de l'amitiê.",
+     "gloss": "\"What is sweeter than to have someone with whom you may dare to speak of everything as with yourself?\""
+    },
+    {
+     "key": "b",
+     "citation": "Plautus, <i>Poenulus</i>, as Coras cites it; the distich has not been located in the play",
+     "original": "Plaute en la comedie inſcripte, Pœnulus.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "No one is deceived, in my opinion at least, who tells his affairs frankly to his friends (<i>Decipitur nemo, mea quidem sententia, / qui suis amicis narrat recte res suas</i>).",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "O what a great good it is (added Seneca) when hearts are so well prepared that every secret descends into them in safety: whose conscience you fear less than your own; whose talk removes and calms the disquiet of your mind, whose opinion gives you counsel, and whose sight rejoices and consoles you <sup class=\"mk\" data-key=\"c\">c</sup>. Certainly the happiness and good is so great that Socrates and Darius said that all the lands and goods of this world cannot be compared with a good, true and prudent friend. Alexander the Great, passing by Troy, crowned the statue of Achilles, and praised him as fortunate in nothing so much as in having had Patroclus for a friend. O happy Achilles (said he), who had in your life so loyal and entire a friend as Patroclus <sup class=\"mk\" data-key=\"d\">d</sup>. True it is that such and so perfect friends as an Achilles and Patroclus, a Pylades and Orestes, a Damon and Pythias, a Theseus and Pirithous, are not to be found today, so unhappy is our age.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "c",
+     "citation": "Seneca, <i>De tranquillitate animi</i> 7.3",
+     "original": "Seneca ou liure de la trãquillite de la vie.",
+     "gloss": "<i>Quantum bonum est, ubi sunt praeparata pectora in quae tuto secretum omne descendat …</i> — Coras translates the passage closely."
+    },
+    {
+     "key": "d",
+     "citation": "Plutarch, <i>Life of Alexander</i> 15",
+     "original": "Plutarqne en la vie d'Aalexandre.",
+     "gloss": "Alexander at Troy garlands the tomb of Achilles and calls him happy for having had a faithful friend in life and a great herald after death; Coras makes it a statue."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "That once venerable name of friendship is prostituted, and sits for hire like a harlot. No one is loved unless fortune favours him;",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "re dudit Martin, & d'iceluy (ſouz pretexte",
+    "d'amitié) entendu pluſieurs choſes pri-",
+    "uées, & particulieres de luy, & de ſa",
+    "femme."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. IIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Vn des plus ſinguliers fruicts, & plus precieux ef-",
+    "fects de l'amitié: eſt la douceur, & le plaiſir qu'on ha de",
+    "pouuoir librement deſcouurir ſes ſecrets, & ſes penſées",
+    "à ſon ami: qui eſt vn autre ſoy-meſmes. Y a-il rien au",
+    "monde plus ſingulier (dit en quelque lieu Ciceron) qu'a",
+    "uoir vn homme, auec lequel tu puiſſes, & oſes parler, com",
+    "me à toy-meſme {a}, & duquel diſoit Plaute, tu ne ſe-",
+    "ras iamais deceu {b}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Decipitur nemo, mea quidem ſententia,",
+    "Qui ſuis amicis, narrat rectè res ſuas."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "O que c'eſt vn grand bien, (adiouſtoit Seneque) quand",
+    "les cœurs ſont ſi bien preparez, que tout ſecret y deſcẽd",
+    "en aſſeurance: deſquels la conſcience tu craignes moins",
+    "que la tienne: le parler t'oſte & appaiſe l'inquietu",
+    "de de ton eſprit: l'aduis te donne conſeil, & la veuë te re",
+    "ſiouit, & conſole {c}. Certes l'heur, & bien, eſt ſi grand, que",
+    "Socrates & Darius diſoient, que toutes les terres & fa-",
+    "cultez de ce monde, ne ſe peuuent parangonner à vn",
+    "bon, vray & prudent ami. Alexandre le Grand, paſſant",
+    "par Troye, couronna la ſtatue d'Achilles, & ne le loua de",
+    "rien tant fortune, que d'auoir eu Patrocle pour ami. O",
+    "toy Achilles heureux (dit-il) qui eus en ta vie, vn ſi loyal",
+    "& entier ami, que Patrocle {d}. Vray eſt que tels & ſi par",
+    "faits amis, comme vn Achilles, & Patrocle: vn Pylade,",
+    "& Oreſte: vn Damõ, & Pythie: vn Theſée, & Pyrithoê",
+    "ne ſe trouuent point pour le iourd'huy, tant eſt mal-heu",
+    "reux noſtre ſiecle."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Illud amicitiæ quondam venerabile nomen",
+    "Proſtat: & in quæſtu, pro meretrice ſedet.",
+    "Diligitur nemo, niſi cui fortuna ſecunda eſt."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Ciceron en",
+    "ſon liure de l'a",
+    "mitiê."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Plaute en",
+    "la comedie in",
+    "ſcripte, Pœnus",
+    "lus."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Seneca ou",
+    "liure de la trã",
+    "quillite de la",
+    "vie."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Plutarqne",
+    "en la vie d'A",
+    "alexandre."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "note": "page quality: this leaf is clean, well inked and in sharp focus; nothing on it is lost to damage, show-through or the crop. The body is legible throughout and the four margin citations are only slightly lighter than the body. The doubts recorded below are about letterforms and compositor's spacing, not about legibility."
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "set in spaced capitals and closed up here per §3. The fifth letter is a full E (three arms, checked at high magnification), so PARLEMENT, not PARLIMENT; the head ends with a point, not the comma found on some rectos. The folio '9' stands at the outer right, as the manifest expects."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "continues_prev: the page opens mid-sentence, in the large TEXTE type, with 're dudit Martin' — the tail of 'anco-|re dudit Martin' or similar from p008, which is not yet transcribed. The reading rests on the sense and on the type size, not on the preceding page. The block ends at 'femme.' and the TEXTE closes there, so continues_next is false."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "re dudit Martin, & d'iceluy (ſouz pretexte",
+   "note": "a small broken speck sits above the r of 'pretexte'. Read as stray ink, not an accent: it is off-centre over the r rather than over a vowel, and it lacks the clean stroke of the real accents on this page ('amitié', 'uées'). Reader B may read 'prétexte'."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "à ſon ami: qui eſt vn autre ſoy-meſmes. Y a-il rien au",
+   "note": "the break sign in 'a-il' is a raised mid dot, the same sort the compositor uses for the hyphen in 'ſoy-meſmes' on this line and in 'mal-heu' at blocks[4].lines[15]. Transcribed as a plain '-' per §2."
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "me à toy-meſme {a}, & duquel diſoit Plaute, tu ne ſe-",
+   "note": "the marker after 'meſme' is a small italic a, clear at high magnification; it precedes the comma, and that order is kept. The line-end break sign after 'ſe' is again the raised mid dot, transcribed '-'."
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "les cœurs ſont ſi bien preparez, que tout ſecret y deſcẽd",
+   "note": "the mark over the e of 'deſcẽd' is a tilde/macron (a flat bar for the omitted n), not an acute: checked at high magnification against the true acutes on this page ('penſées', 'Theſée'), which are short slanted strokes. Expanded form would be 'deſcend'; not expanded per §2. Reader B may read 'deſcéd'."
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "par Troye, couronna la ſtatue d'Achilles, & ne le loua de",
+   "note": "the print sets 'nele' with no gap. Normalized to 'ne le' per §1 (two distinct words, not a contraction of the period)."
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "toy Achilles heureux (dit-il) qui eus en ta vie, vn ſi loyal",
+   "note": "the print sets 'vnſi' closed up; normalized to 'vn ſi' per §1. Same on lines[12], where 'tels&ſi' is set tight and normalized to 'tels & ſi'."
+  },
+  {
+   "where": "blocks[4]",
+   "note": "five line breaks are printed with no word-break hyphen and are transcribed as printed: lines[3] 'l'inquietu' + lines[4] 'de'; lines[4] 're' + lines[5] 'ſiouit'; lines[15] 'mal-heu' + lines[16] 'reux'. In blocks[2] the same happens at lines[4] 'qu'a' + lines[5] 'uoir' and lines[5] 'com' + lines[6] 'me'. Hyphens are printed normally elsewhere on the page ('ef-', 'fa-', 'ſe-', 'pri-'), so these are compositor omissions, not lost ink. No entry is required by §1; listed here for the reconciler."
+  },
+  {
+   "where": "blocks[3]",
+   "note": "blocks[3] (two lines) and blocks[5] (three lines) are Latin verse set in the italic body font, indented, not in larger or display type. Recorded as paragraph blocks, not headings, per §6 ('italic as a title rather than as running prose'). In blocks[5].lines[1] the sign after 'Proſtat:' is the italic et-ligature; transcribed '&' with a space each side per §1."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "mitié.",
+   "note": "the accent over the final e is caret-shaped — two strokes meeting at an apex — and so reads as a circumflex, 'mitiê', rather than the acute the word wants. The italic margin font gives no other accented e on this page for comparison, but the roman 'Pyrithoê' at blocks[4].lines[14] shows the same caret shape for a true circumflex. Transcribed 'mitié' from the word; reader B may read 'mitiê'."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "ſon liure de l'a",
+   "note": "the line ends 'l'a' with no hyphen and runs on to 'mitié.' — the same unhyphenated break as in the body. Nothing is lost at the margin's outer edge: the leaf is blank beyond it."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "Seneca ou",
+   "note": "sic: the second word is o + u, checked at high magnification; the sense ('Seneca au liure de la tranquillité de la vie') wants 'au'. Transcribed as printed. Reader B may read 'au'."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "liure de la trã",
+   "note": "printed 'latrã' with no gap; normalized to 'la trã' per §1. The tilde over the a is clear. The word runs on unhyphenated to 'quillite' ( = tranquillite)."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "quillite de la",
+   "note": "a small baseline dot is printed between 'del' and the following letter, and the three characters are set tight ('del.a'). Read as 'de la' with the dot treated as a speck or the foot of a damaged l: 'de la vie' completes the title on the next line. Reader B may transcribe the dot as a point."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "Plutarqne",
+   "note": "sic, turned letter: the sort after the q is an n (arch at the top), not a u, checked at high magnification against the u of 'Plut'. Transcribed as printed per §7."
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "alexandre.",
+   "note": "the note's second line ends with an italic swash capital A after 'd'' ('en la vie d'A'), and this third line then gives a full nine-letter word, so the A appears to be duplicated: 'd'A' + 'alexandre.'. The first letter of this line is a round sort with a filled bowl; read as 'a', but it could be 'e' ('elexandre'), in which case the anomaly is a wrong sort rather than a duplication. Either way the printed text is not simply 'd'A|lexandre'. Transcribed as printed, not emended."
+  },
+  {
+   "where": "foot_notes",
+   "note": "there is no foot citation block, no signature and no catchword. All four citations fit in the margin. Below 'Diligitur nemo…' the lower third of the leaf is blank to the edge of the frame (checked on the untrimmed source image), so nothing is lost to the crop; folio 9 is a middle leaf of gathering B, where no signature is expected."
+  },
+  {
+   "where": "blocks",
+   "note": "counts for the reconciler: 34 printed body lines in 6 blocks (4 large-type TEXTE lines, 1 heading, 8 + 2 + 17 + 3 annotation lines); 4 markers a b c d, each with a margin note; no foot notes; no ornament or decorated initial."
+  }
+ ]
+}

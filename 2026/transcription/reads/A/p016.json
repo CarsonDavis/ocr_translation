@@ -1,0 +1,146 @@
+{
+ "id": "p016",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "16",
+ "signature": null,
+ "catchword": "ment",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "lines": [
+    "cre, fait que la ſemẽce, qui vient à decouler apres, n'ayant",
+    "riẽ que du corps, (car l'eſprit vagoit ailleurs) n'a pas auſſi",
+    "beaucoup de vertu raiſonnable, & naturelle {n}: qui fut",
+    "(au iugement de pluſieurs) la cauſe; qu'Ariſtarchus Ale-",
+    "xandrin, homme de ſinguliere, & recommendable crudi",
+    "tion, procrea neantmoins Ariſtagoras, & Ariſtarchus, ſes",
+    "enfans hebetez, ſtolides, & preſque niez {o}. A ce propos,",
+    "le lecteur prendra en bonne part, ſi ie tranſcris les parol-",
+    "les de Spartian, lequel eſcriuãt à Diocletian l'Empereur:",
+    "Il eſt certain (diſoit-il) Auguſte, qu'il n'y a eu preſqu'au-",
+    "cun, de ces grãs, & illuſtres perſonnages, qui ayent laiſſé",
+    "des enfans bons, & vtiles à la republique: car ou ils ſont",
+    "decedez ſans en auoir, ou bien les ont euz tels, qu'il leur",
+    "euſt eſté meilleur ſans cõparaiſon, de n'en auoir eu onc-",
+    "ques. Et pour commencer à Romulus, il n'eut point de",
+    "poſterité. Numa Pompilius ſon ſucceſſeur, n'eut rien qui",
+    "peuſt profiter au publicq. Et puis Camillus: eut-il enfans",
+    "à luy ſemblables? Et Scipion, quoy? Les Catons quoy?",
+    "qui furent perſonnes excellentes, & rares. Mais que di-",
+    "ray-ié d'Homere, Demoſthene, Vergile, Salluſte, Plaute,",
+    "Terence? Mais encore de Ceſar? Et quoy de Ciceron?",
+    "auquel ſeul, il eut eſté meilleur n'auoir point des enfans.",
+    "Quoy d'Auguſte; qui n'eut pas ſeulement bon ſon fils",
+    "adoptif: bien qu'il euſt la faculté d'en eſlire vn bon en-",
+    "tre cent mille. Trajan ne fut-il pas deceu, au chois qu'il",
+    "fit d'Adrian ſon neueu? Mais venons aux fils naturels.",
+    "Quel heur pouuoit aduenir plus grand à Marc Antonin",
+    "Philoſophe, & Empereur, que s'il n'euſt point laiſſé Cõ-",
+    "modus ſon heritier? & à Seuerus Septimus, s'il n'euſt",
+    "point engendré Baſſian {p}? Mais pour reuenir à nos bri-",
+    "ſées, & recercher curieuſement la cauſe des ſimilitudes.",
+    "Ie ne trouue pas mauuais l'opinion d'Empedocles, &",
+    "des Phyſiciens, qui penſent cela proceder de l'imagina-",
+    "tion que la femme peut auoir cõceuë ſur l'heure, qu'elle",
+    "engendre. laquelle ha tant de puiſſance ſur le fruict qui",
+    "ſe vient à former, que le caractere de l'image en demeu-",
+    "re perpetuellement graué ſur luy {q}. Dont on a veu iadis",
+    "pluſieurs fois les enfans eſtre nez ſemblables aux pour-",
+    "traits, que les meres tenoyent pour delices en leurs chã-",
+    "bres & cabinets {r}. teſmoin celle, qui ayant ententiue-"
+   ],
+   "continues_prev": true,
+   "continues_next": true
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "n",
+   "lines": [
+    "Alexandre",
+    "Aphrodiſee",
+    "au c. xxix. des",
+    "problemes."
+   ],
+   "beside_line": "beaucoup de vertu raiſonnable, & naturelle {n}: qui fut"
+  },
+  {
+   "key": "o",
+   "lines": [
+    "Pierre Cri-",
+    "nit au li. xxi.",
+    "de l'honneſte",
+    "diſcipline c. x"
+   ],
+   "beside_line": "enfans hebetez, ſtolides, & preſque niez {o}. A ce propos,"
+  },
+  {
+   "key": "p",
+   "lines": [
+    "Pierre Cri-",
+    "nit au lieu",
+    "preallegue."
+   ],
+   "beside_line": "point engendré Baſſian {p}? Mais pour reuenir à nos bri-"
+  },
+  {
+   "key": "q",
+   "lines": [
+    "Accurſe en",
+    "la loy quæret a",
+    "tiquus. D. de",
+    "verbo. ſigni.",
+    "& en la l. nõ",
+    "ſunt liberi. D.",
+    "de ſtat. ho."
+   ],
+   "beside_line": "des Phyſiciens, qui penſent cela proceder de l'imagina-"
+  },
+  {
+   "key": "r",
+   "lines": [
+    "Plutar. au",
+    "v. liure de pla",
+    "cit. philoſopho.",
+    "c. x."
+   ],
+   "beside_line": "bres & cabinets {r}. teſmoin celle, qui ayant ententiue-"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "(au iugement de pluſieurs) la cauſe; qu'Ariſtarchus Ale-",
+   "note": "punctuation after 'cauſe' read as a semicolon; the upper dot is faint and could be a speck, making it a comma"
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "Quel heur pouuoit aduenir plus grand à Marc Antonin",
+   "note": "line read as ending with no punctuation after 'Antonin'; there are small ink specks at the right edge that could be a comma"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "tiquus. D. de",
+   "note": "'tiquus' (continuation of 'a-/tiquus'); final letters blurred, could be 'tiquũ'"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "c. x.",
+   "note": "printed as 'c.x' followed by a widely spaced full stop; normalized to 'c. x.'"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "xandrin, homme de ſinguliere, & recommendable crudi",
+   "note": "final word printed 'crudi' (= 'crudition' with line 5 'tion'): the letter has no crossbar and matches a 'c', not an 'e'; sic for 'erudition'"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "le lecteur prendra en bonne part, ſi ie tranſcris les parol-",
+   "note": "print sets 'bonnepart' completely closed up; split to 'bonne part' per the word-division rule"
+  }
+ ]
+}

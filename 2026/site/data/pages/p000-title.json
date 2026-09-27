@@ -1,0 +1,278 @@
+{
+ "id": "p000-title",
+ "page": null,
+ "folio": null,
+ "side": "recto",
+ "image": "p000-title",
+ "source": {
+  "kind": "cudl",
+  "image_no": 7,
+  "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/7"
+ },
+ "running_head": null,
+ "prev": null,
+ "next": "p000-argument",
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "MEMORABLE",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "DECISION",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "OF THE PARLEMENT",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "OF THOLOSE.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Containing",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "A prodigious History of a supposed",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "husband, which befell in our time: en-",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "riched with one hundred and eleven fine",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "and learned annota-",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "tions.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "By Master Jean de Coras, Counsellor in the",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Court, and reporting judge of the case.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Pronounced at the general sessions, the twelfth of",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "September. 1560.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "AT PARIS,",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "For Galliot du Pré, at the first pillar",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "of the great hall of the Palace.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "With the King's Privilege.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "M. D. LXXII.",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "heading",
+   "text": "ARREST",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "MEMORABLE"
+  },
+  {
+   "type": "heading",
+   "text": "DV PARLEMENT"
+  },
+  {
+   "type": "heading",
+   "text": "DE THOLOSE."
+  },
+  {
+   "type": "heading",
+   "text": "Contenant"
+  },
+  {
+   "type": "heading",
+   "text": "Vne Hiſtoire prodigieuſe d'vn ſuppoſé"
+  },
+  {
+   "type": "heading",
+   "text": "mary, aduenüe de noſtre temps: en-"
+  },
+  {
+   "type": "heading",
+   "text": "richie de cent & onze belles"
+  },
+  {
+   "type": "heading",
+   "text": "& doctes annota-"
+  },
+  {
+   "type": "heading",
+   "text": "tions."
+  },
+  {
+   "type": "heading",
+   "text": "Par M. Iean de Coras, Conſeiller en la"
+  },
+  {
+   "type": "heading",
+   "text": "court, & rapporteur du procés."
+  },
+  {
+   "type": "heading",
+   "text": "Prononcé és Arreſtz generaux, le xij."
+  },
+  {
+   "type": "heading",
+   "text": "Septembre. 1560."
+  },
+  {
+   "type": "heading",
+   "text": "A PARIS,",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Pour Galliot du Pré, au premier pillier"
+  },
+  {
+   "type": "heading",
+   "text": "de la grand' ſalle du Palais."
+  },
+  {
+   "type": "heading",
+   "text": "Auec Priuilege du Roy."
+  },
+  {
+   "type": "heading",
+   "text": "M. D. LXXII.",
+   "spaced_caps": true
+  }
+ ],
+ "french_notes": [],
+ "uncertain": [
+  {
+   "where": "page head (above the border)",
+   "text": "N.º 277",
+   "note": "manuscript shelf/accession number written in brown ink in a later cursive hand in the blank margin above the woodcut border; NOT printed and so not entered as a block. Best reading 'N.º 277'; the last figure carries a curl and a dot above it, so it could be read as '2771', '2772' or '277.' — the digits are looped cursive and the '2' could also be a '9'."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "MEMORABLE",
+   "note": "set in the largest capitals on the page with light letterspacing (gap roughly a quarter of a letter width), far narrower than the wide spacing of A R R E S T, A  P A R I S and M.  D.  L X X I I.; treated as an ordinary capital word, spaced_caps not set. Reconciler may wish to make this uniform across blocks[1]-[3]."
+  },
+  {
+   "where": "blocks[2]",
+   "text": "DV PARLEMENT",
+   "note": "moderately letterspaced capitals, between MEMORABLE and A R R E S T in width; spaced_caps not set, on the same judgement as blocks[1]"
+  },
+  {
+   "where": "blocks[3]",
+   "text": "DE THOLOSE.",
+   "note": "the most strongly letterspaced of the three smaller capital lines (gap near half a letter width); borderline for §3 spaced capitals, but transcribed as an ordinary capital word for consistency with blocks[1]-[2]"
+  },
+  {
+   "where": "blocks[5]",
+   "text": "Vne Hiſtoire prodigieuſe d'vn ſuppoſé",
+   "note": "a small faint caret/grave-shaped mark stands over the 'o' of 'prodigieuſe'; it is much lighter than the type and the word needs no nasal bar, so it is read as an ink speck or offset and transcribed as a plain o"
+  },
+  {
+   "where": "blocks[6]",
+   "text": "mary, aduenüe de noſtre temps : en-",
+   "note": "a faint tilde/caret-shaped mark is printed over the 'm'/'a' of 'mary'; 'mary' (= mari) needs no abbreviation and the mark is lighter than the surrounding type, so it is taken as a speck or offset. 'aduenüe' carries a clear diaeresis on the u. A space is printed before the colon in 'temps :' and has been kept."
+  },
+  {
+   "where": "blocks[8]",
+   "text": "& doctes annota-",
+   "note": "the word-break sign after 'annota' is printed as a short double stroke, the lower stroke dropping below the line so that it can be mistaken for a comma; transcribed as a single '-' per §1"
+  },
+  {
+   "where": "blocks[13]",
+   "text": "Septembre. 1560.",
+   "note": "the four figures are set with visible spaces between them (1 5 6 0); normalized to '1560' per §1 since they are numerals, not spaced capitals. The third figure is a 6 (1560 is the date the arrêt was pronounced, the book being of 1572)."
+  },
+  {
+   "where": "blocks[14]",
+   "text": "A  P A R I S,",
+   "note": "the comma is set clear of the final S with a space before it; attached to the S here per the whitespace rule in §1"
+  },
+  {
+   "where": "blocks[15]",
+   "text": "Pour Galliot du Pré, au premier pillier",
+   "note": "the final 'r' of 'pillier' is faint and partly broken away at the right edge of the printed panel; read as 'pillier' from sense"
+  },
+  {
+   "where": "blocks[18]",
+   "text": "M.  D.  L X X I I.",
+   "note": "widely letterspaced; read as M. D. LXXII. = 1572. The five numerals after D. are L X X I I with no sign of a further stroke."
+  },
+  {
+   "where": "page",
+   "note": "the title panel is crossed throughout by heavy show-through/offset from the printed text on the other side of the leaf (the privilege), which produces ghost lines of type behind and between the title lines; none of it belongs to this page and none has been transcribed"
+  },
+  {
+   "where": "running_head / folio / signature / catchword",
+   "note": "the title page has no running head, no printed folio (the manifest gives folio null), no signature and no catchword; the space below the border is blank"
+  }
+ ]
+}

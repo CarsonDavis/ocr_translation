@@ -1,0 +1,134 @@
+{
+ "id": "p056",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV.",
+ "folio": "56",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "lines": [
+    "tellement difficile, que pluſieurs ont penſé qu'elle ne ſe",
+    "pouuoit exprimer par aucuns caractaires de lettres:",
+    "toutesfois n'eſt-il vray ſemblable, qu' vn Baſcouz na-",
+    "turel ne ſçache parler ſa langue: car d'ignorer ou d'auoir",
+    "oublié ſon ramage, ne peut proceder, qu'ou bien de",
+    "ſotiſe, & niaiſerie, ou d'accident de maladie, ou de vieil-",
+    "lieſſe. De ſtolidité, & ſotiſe: cõme à vn Amphyſtides, ſi",
+    "lourdault & idiot, qu'il ne ſçauoit dire ſ'il auoit eſté né",
+    "de pere ou de mere: & Attique, fils d'Herode Sophyſte,",
+    "qui fut ſi niais & hebeſté, de ne ſçauoir oncques appren-",
+    "dre, ni retenir, les noms des elemens. Par accident de",
+    "quelque grande maladie: comme vn Meſſale Coruin,",
+    "orateur excellent, à qui les reliques d'vne forte & vehe-",
+    "mente maladie firent oublier ſon propre nom: & à",
+    "certains autres, pour eſtre tõbez du hault d'vne maiſon,",
+    "ou auoir receu quelques coups de pierre, faire oublier",
+    "les lettres, & meſcongnoiſtre ſes plus proches parens",
+    "& amis {a}. Par extreme viellieſſe, & decrepitude: cõme à",
+    "Frãçoys Barbare, qui en ſes caduques ans, mit en oubli",
+    "les lettres Grecques, eſquelles au parauãt il excelloit: &",
+    "Georges Trapezonce, en ſon dernier aage oublia, & les",
+    "Grecques, & les Latines. Et de mõ temps Philippe Dece",
+    "Iuriſconſulte excellẽt, eſtoit ſi accablé de vieilleſſe, l'an",
+    "1536. (auquel tẽps il m'honnora du degré de Doctorat",
+    "a Siẽne) qu'il ne ſe ſouuenoit d'aucune loy, ou Paragra",
+    "phe de noſtre droict: voire à peine ſçanoit il exprimer",
+    "vn petit mot de Latin, tellement que lors qu'il me vou",
+    "lut donner les inſignes du degré, & dire ces trois mots,",
+    "Et locus, & tempus poſtulãt, Vt paucis rem ab-",
+    "ſoluamus, qui eſtoit le commencement de ſon orai-",
+    "ſon: il demeura preſque demi quart d'heure, dont con-",
+    "uint qu'vn autre docteur du college priſt la parole.",
+    "Mais ce ruſtre ici du Thil, duquel nous traittons n'e-",
+    "ſtoit ſot, ni vieux, ni malade."
+   ],
+   "continues_prev": true,
+   "continues_next": false
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "La qua trieme, par pluſieurs teſmoins,",
+    "reſulte, que ledit du Tilh a eſté dés ſon",
+    "enfance, cõfit & cõſommé en tous vices:"
+   ],
+   "continues_prev": false,
+   "continues_next": true
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "& amis {a}. Par extreme viellieſſe, & decrepitude: cõme à",
+   "lines": [
+    "Pline au li.",
+    "vij. c. xiiij. So-",
+    "lin en ſon Po",
+    "lihiſt. c. vij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "the head is followed by a clear round period on the baseline, checked at 450%. Other versos of this gathering set it without one (p052 verified in its own image, and transcription/final gives 'ARREST DV' for p040/042/044/046/048/050/052). Transcribed as printed; the reconciler may want to decide this page-furniture point across the run.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "toutesfois n'eſt-il vray ſemblable, qu' vn Baſcouz na-",
+   "note": "a small dark dot stands between 'vray' and 'ſemblable'. At 700% it sits well above the baseline (about mid x-height) and is smaller than this page's periods (compared with the period after 'elemens.'), so I read it as an ink speck and did NOT transcribe it. If it is a printed point the line reads 'vray. ſemblable'."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "qu' vn Baſcouz na-",
+   "note": "the print sets a full word space after the apostrophe in 'qu' vn'; elsewhere on the page the same elision is set solid ('qu'vn' in lines 27 and 32). Transcribed as printed, since §1 leaves apostrophes as they are."
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "lieſſe. De ſtolidité, & ſotiſe: cõme à vn Amphyſtides, ſi",
+   "note": "a small dot sits at x-height between 'De' and 'ſtolidité' (checked at 600%). It is higher and lighter than the page's periods; read as an ink speck and not transcribed."
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "& amis {a}. Par extreme viellieſſe, & decrepitude: cõme à",
+   "note": "the marker letter after 'amis' is a small italic sort badly filled with ink; the bowl and x-height-only body fit italic 'a', which also matches the key of the one margin note. Read as 'a'; it is not certain from the glyph alone."
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "viellieſſe",
+   "note": "sic: the print sets 'viellieſſe' (v-i-e-l-l-i-e-ſſ-e), verified at 300%; the same page sets 'vieilleſſe' correctly at blocks[0].lines[22]."
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "phe de noſtre droict: voire à peine ſçanoit il exprimer",
+   "note": "sic, wrong sort: 'ſçanoit' for 'ſçauoit'. At 350% the letter after 'ça' is an n (arched top joining both stems), matching the n of 'peine' on the same line, not a u. Transcribed as printed."
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "ſçanoit il",
+   "note": "a faint small mark sits between 'ſçanoit' and 'il'. At 700% it is light, irregular and above the baseline, unlike the page's periods; read as an ink speck and not transcribed."
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "La qua trieme, par pluſieurs teſmoins,",
+   "note": "'quatrieme' is set as two words with a full word space ('qua trieme') in the large TEXTE type; transcribed as printed."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "a",
+   "note": "the note's leading key letter is heavily blotted; read as italic 'a' to match the body marker. The numerals were checked at 400%: 'vij. c. xiiij.' (seven, fourteen) and 'lihiſt. c. vij.'"
+  }
+ ]
+}

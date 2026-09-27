@@ -1,0 +1,8 @@
+---
+id: texte-18
+pages: [p033, p034]
+---
+⟦p033⟧At last he was constrained to su⟦p034⟧e him, and to pursue by justice the recovery of his property; but as to the fruits and the rendering of accounts, the said Pierre Guerre, the uncle, would in no way hear of it, but rather, in hatred of this, both he and his sons-in-law had sought out all possible means to ruin and destroy him. And the first attempt was to kill him; and to this end they had often lain in wait for him and assailed him, and even one day (so hard did avarice drive them), before the said de Rols his wife, beaten him and almost killed him with a blow of a bar, which laid him flat on the ground, where he would have been struck dead, but for the said de Rols his wife, who, being unable to save him otherwise, stretched herself over him to receive the blows.
+
+## Notes
+- (none: this section carries no marginal citations.)

@@ -1,0 +1,180 @@
+{
+ "id": "p023",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "23",
+ "signature": "B iiij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "l'hiſtoire ne nomme point, ſoy diſant fils de Cn. Aſſidio",
+    "peu ſen falut, qu'au temps de Cornelius Sylla, ne fiſt",
+    "priuer le vray enfant d'Aſſidio, des biens paternels: car",
+    "il auoit ſi bien affuſté l'artillerie de ſes ruſes, que le iu-",
+    "gement ſ'en eſtoit enſuyui en ſa faueur. mais Auguſte",
+    "Ceſar empereur ſage, prudent, & heureux prince, ayant",
+    "ſubtilement mis l'impoſture en lumiere, fit rendre le",
+    "le bien au fils legitime, & mourir l'affronteur en pri-",
+    "ſon {b}. Au meſme temps, en la ville de Milan, vne fem-",
+    "me fort opulente, appellée Rubrie: par grand deſaſtre",
+    "ſe bruſla: apres la mort de laquelle, comme ſes heritiers",
+    "auoient deſia vendu la meilleure partie du bien, vne au",
+    "tre femme ſe preſenta, ſoy diſant eſtre Rubrie, deman-",
+    "dant que ſon bien luy fuſt rendu: à laquelle pluſieurs",
+    "meſmes des ſoldats d'Auguſte aſſiſtoient, perſuadez,",
+    "pour la ſimilitude qu'elle auoit, & du viſage & des",
+    "meurs, auec la defuncte, que ce fuſt veritablement Ru-",
+    "brie. mais l'incomparable prudence de ce renommé",
+    "& generenx Empereur, empeſcha l'execution de la",
+    "fraude. {c}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Lequel bien, depuis iceluy du Tilh au-",
+    "roit vendu à pluſieurs & diuers perſon-",
+    "nages."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. IX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "De ce faict, à l'aduenir pourra naiſtre vne queſtion,",
+    "ſi le vray mari ſuruenant, pourra retracter les aliena-",
+    "tions de ſon bien, & non ſeulement les piecẽs vendues",
+    "mais encore recouurer les fruicts recueillis, & perceus",
+    "par les achepteurs depuis le tẽps des contracts. pour la",
+    "deciſion duquel doute, faut preſuppoſer, qu'vn chacum",
+    "peut librement vendre, non ſeulement ſon bien propre",
+    "duquel il eſt maiſtre & ſeigneur: mais auſsi le bien",
+    "d'autruy. & la vente eſt bonne & vallable {d}: en ce tou-",
+    "tesfois qui concerne le preiudice du venditeur, qui par",
+    "ce cõtract eſt obligé, bailler la choſe vendue, ou payer",
+    "l'intereſt: & en outre, ſi la piece eſt euincee par vn tiers,",
+    "à garantir, & indemniſer l'achepteur {e}. mais au domma-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "l'hiſtoire ne nomme point, ſoy diſant fils de Cn. Aſſidio",
+   "lines": [
+    "Valere au",
+    "li, ix. des faits",
+    "& dicts memo",
+    "rables c. xvi."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ſon {b}. Au meſme temps, en la ville de Milan, vne fem-",
+   "lines": [
+    "Valere an",
+    "liure ix. ſ. xvi"
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "fraude. {c}",
+   "lines": [
+    "Valere au",
+    "lieu prealle-",
+    "gué."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "d'autruy. & la vente eſt bonne & vallable {d}: en ce tou-",
+   "lines": [
+    "l. rem alie-",
+    "nam. D. d. cõ",
+    "trah. empt."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "ce cõtract eſt obligé, bailler la choſe vendue, ou payer",
+   "lines": [
+    "l ex empt.",
+    "au commence",
+    "ment D. de",
+    "actio. empe."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "Valere au",
+   "note": "note key a is printed in the margin but no {a} marker appears anywhere in the body of this page; the marker presumably stands on p022, which is not yet transcribed"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "peu ſen falut, qu'au temps de Cornelius Sylla, ne fiſt",
+   "note": "printed 'ſen' with no apostrophe: at 6x the only mark between ſ and e is the long-s nub, unlike the clear raised apostrophe of 'ſ'en' in lines[4]; sic"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "ſubtilement mis l'impoſture en lumiere, fit rendre le",
+   "note": "the line ends 'rendre le' and the next line opens 'le bien': the article is set twice, sic, transcribed as printed on both lines"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "& generenx Empereur, empeſcha l'execution de la",
+   "note": "'generenx' sic for 'genereux': at 4x the penultimate letter is unmistakably n (shoulder and two feet), a turned u"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "tions de ſon bien, & non ſeulement les piecẽs vendues",
+   "note": "'piecẽs' sic: a clear tilde stands over the final e of 'pieces'"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "deciſion duquel doute, faut preſuppoſer, qu'vn chacum",
+   "note": "'chacum' sic for 'chacun': the last letter is a three-legged m at 4x"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Valere an",
+   "note": "'an' sic for 'au': the final letter has the n shoulder, not the u bowl (cf. 'Valere au' in notes a and c)"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "liure ix. ſ. xvi",
+   "note": "the letter between 'ix.' and 'xvi' is not the round baseline c of note a's 'c. xvi.': it has a hook top and a tail below the baseline, i.e. an italic long ſ, presumably a wrong sort for 'c.' (chapitre); transcribed as printed. Also no period after the final xvi"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "gué.",
+   "note": "an acute stroke rises clearly above the final e, unlike the flat-topped e of 'prealle-' on the line before; read 'gué.', though the same citation is set 'legue.' without accent elsewhere in the book"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "actio. empe.",
+   "note": "the last letter before the period is round (e, possibly c), not the stemmed t of 'empt.' in lines[0] of this same note; sense would want 'empt.'"
+  }
+ ]
+}

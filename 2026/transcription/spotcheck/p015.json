@@ -1,0 +1,161 @@
+{
+ "id": "p015",
+ "reader": "spotcheck",
+ "model": "claude-fable-5-1",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "15",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Fortes creantur fortibus, & bonis,",
+    "Eſt in iuuencis, eſt in equis patrum",
+    "Virtus. nec imbellem feroces",
+    "Progenerant, aquilæ columbam {k}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+    "les cicatrices, ores quelconques autres marques de ſes",
+    "anceſtres, & de ſon origine, teſmoins les Lepides Ro-",
+    "mains, deſquels y en eut trois d'vne maiſon, ayant cha-",
+    "cun l'œil couuert d'vne petite peau. Et Nice Bizantin,",
+    "qui naſquit noir comme vn more, rapportant pluſtoſt",
+    "ſon ayeul, que ſa mere belle & blanche, engendrée tou-",
+    "tesfois, par adultere, d'vn Ethiopien {l}. Mais les forces de",
+    "la nature, ni des races, ne peuuent pas tant, que nous ne",
+    "voyons quelquefois la poſterité degenerer, & diſſembla",
+    "ble à ſes progeniteurs: cõme des beaux, naiſtre des laids",
+    "& difformes: des robuſtes & forts, iſſir des impuiſſans,",
+    "& foibles: des bons & vertueux, proceder des vicieux, &",
+    "meſchans {m}. Autrement, ſi par fois, cela n'aduenoit ain-",
+    "ſi faudroit pour le bien public defendre par loy gene-",
+    "rale & inuiolable, aux laids, debiles, & meſchans, le ma-",
+    "riage, & compagnie charnelle des femmes: afin que tous",
+    "infalliblement, naſquiſſent beaux, puiſſans, & robuſtes.",
+    "Sur quoy Alexandre Aphrodiſée, ſe trauaille fort à ſon-",
+    "der, & monſtrer la cauſe, pour laquelle on voit aduenir",
+    "ſouuent, qu'vn homme ſtupide, groſſier, & ſot, voire vn",
+    "nyés, produira des enfans accors, prudẽs, ſages, & diſcrets",
+    "Et conclud la raiſon eſtre, pour autant qu'vn badaut, en",
+    "l'acte venerien, ſe laiſſe tellement ſurmonter, & vaincre",
+    "à la volupté preſente, qu'il ne penſe lors à autre choſe:",
+    "ayant volontairement plongé l'eſprit, & l'ame dans le",
+    "corps, dont la ſemence eſt puiſée & tirée de ce corps",
+    "parmy lequel l'eſprit ſe trouue, participe grandement",
+    "de la vertu raiſonnable: & fait que les enfans, qui en",
+    "deſcendent, ſont plus prudens, & ſpirituels que le pere.",
+    "Comme au contraire, ceux qui ſont ingenieux, diſcrets,",
+    "ou ſçauans, par ce que leur eſprit inceſſammẽt trauaille,",
+    "& ſ'occupe ailleurs qu'au plaiſir de la chair: voire meſ-",
+    "mes ſur l'inſtãt de l'acte, auquel du tout ne ſe laiſſe vain"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "k",
+   "beside_line": "Iuſques à voir la poſterité, porter ores les nerfs, ores",
+   "lines": [
+    "Horace au",
+    "iij. li. des Car-",
+    "mes."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "tesfois, par adultere, d'vn Ethiopien {l}. Mais les forces de",
+   "lines": [
+    "Pline au li-",
+    "ure vij. c. xij."
+   ]
+  },
+  {
+   "key": "m",
+   "beside_line": "ſi faudroit pour le bien public defendre par loy gene-",
+   "lines": [
+    "Plutarche",
+    "au v. liure de",
+    "placitis philo-",
+    "ſophor. c. xij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "note": "four lines of italic Latin verse (Horace, Odes IV.4) set as a quotation; transcribed as a paragraph block per §6, not as headings. The marker k is a superscript italic k after 'columbam', with the point following it. p014 ends with a full stop, so continues_prev is false; the quotation ends with a point, so continues_next is false. The body paragraph 'Iuſques' is indented and is a new paragraph."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "Virtus. nec imbellem feroces",
+   "note": "the mark after 'Virtus' is a round dot on the baseline with no tail (3x): a point, set tight against 'nec' and normalized per §1."
+  },
+  {
+   "where": "blocks[1].lines[5]",
+   "text": "qui naſquit noir comme vn more, rapportant pluſtoſt",
+   "note": "the fourth letter of 'pluſtoſt' is an ascender-height stroke with only a faint top hook and no left nub (6x), taller than the t beside it; it lacks the crossbar of a t. Read ſ from the word (pluſtoſt = plustost); a reader could take it for 'pluttoſt' or 'plultoſt'."
+  },
+  {
+   "where": "blocks[1].lines[21]",
+   "text": "nyés, produira des enfans accors, prudẽs, ſages, & diſcrets",
+   "note": "the mark after 'prudẽs' is a round dot at the baseline with a detached comma-tail below it (6x). Read as a comma (worn sort, and the list continues 'ſages, & diſcrets'), but the two-piece shape could be a semicolon set low. No mark at all is printed after the final 'diſcrets' (line end); the sentence continues with a capital 'Et' on the next line."
+  },
+  {
+   "where": "blocks[1].lines[17]",
+   "text": "infalliblement, naſquiſſent beaux, puiſſans, & robuſtes.",
+   "note": "final mark after 'robuſtes' is a round dot on the baseline (4x): a point, and 'Sur' follows with a capital."
+  },
+  {
+   "where": "blocks[1].lines[33]",
+   "text": "mes ſur l'inſtãt de l'acte, auquel du tout ne ſe laiſſe vain",
+   "note": "the last word 'vain' is broken at the line end with no hyphen (vain-cre continues on p016); its final letter is heavily inked, read n by width. continues_next true."
+  },
+  {
+   "where": "blocks[1]",
+   "note": "every double s on the page was checked at 3x-4x: diſſembla (lines[9]), iſſir and impuiſſans (lines[11]), naſquiſſent and puiſſans (lines[17]), groſſier (lines[20], heavily inked), laiſſe (lines[23] and lines[33]), inceſſammẽt (lines[31]) all show two ascender-height strokes, i.e. the ſſ ligature; no ſs was found."
+  },
+  {
+   "where": "blocks[1]",
+   "note": "spacing: the compositor sets many commas and colons tight ('origine,teſmoins', 'mains,deſquels', 'ayeul,que', 'tesfois,par', 'nature,ni', 'degenerer,&', 'progeniteurs:cõme', 'beaux,naiſtre', 'forts,iſſir', 'vertueux,proceder', 'vicieux,&', 'inuiolable,aux', 'riage,&', 'femmes:afin', 'infalliblement,naſquiſſent', 'der,&', 'ſouuent,qu'vn', 'nyés,produira', 'venerien,ſe', 'ingenieux,diſcrets', 'ſçauans,par', 'l'acte,auquel') and some with a space before ('nerfs ,', 'anceſtres ,', 'maiſon ,', 'more ,', 'blanche ,', 'tant ,', 'cauſe ,', 'ſtupide ,', 'puiſſans ,', 'corps ,', 'chair :', 'peau .'). All normalized per §1."
+  },
+  {
+   "where": "blocks[1]",
+   "note": "line breaks without a hyphen, transcribed as printed: lines[9] 'diſſembla' + lines[10] 'ble'; lines[33] 'vain' + p016. Hyphens are printed at 'Ro-', 'cha-', 'tou-', 'ain-', 'gene-', 'ma-', 'ſon-', 'meſ-'."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Horace au",
+   "note": "the key letter printed before 'Horace' is a large italic swash K that reads as a capital, while the body marker after 'columbam' is a small superscript k. Keyed k (lowercase, continuing p014's g, h, i). The book numeral on the second line is 'iij.' (i + ij ligature with two dots, 6x); Horace's ode is in book IV, but the print reads iij and is kept as printed. Note is set beside body lines 0-2, below the verse."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "ure vij. c. xij.",
+   "note": "'vij' is set with the italic swash v; the ij ligature carries its two dots. Points after 'vij', 'c' and 'xij' are all printed."
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "Plutarche",
+   "note": "note m is set beside body lines 14-17 ('ſi faudroit' to 'infalliblement'), three lines below its marker in lines[13]; the margin was free there. 'au v.' uses the swash italic v; 'placitis' is printed with a round final s; 'ſophor.' with long s."
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "spaced capitals, closed up per §3; ends with a point."
+  },
+  {
+   "where": "signature",
+   "note": "no signature, catchword or foot citations: foot.jpg shows the untrimmed blank lower margin under the last body line. A faint show-through of the verso's type is visible under the last line and at the left; not text of this page."
+  }
+ ]
+}

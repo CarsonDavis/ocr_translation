@@ -1,0 +1,162 @@
+{
+ "id": "p065",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "65",
+ "signature": "E",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "car on peut bien enſeigner certains pro",
+    "pos, donner des enſeignes, & marques:",
+    "mais de bailler la congoiſſance de tant,",
+    "& tant de diuerſes perſonnes, non ia-",
+    "mais veuës ni cognues: cela eſt impoſsi-",
+    "ble, autrement que par Magie, ou quel-",
+    "que art reprouué. Et voila pour le faict",
+    "de la preuue par teſmoins. En ſecond",
+    "lieu, faite ſommaire appriſe ſur la ſem-",
+    "blãce du preuenu, auec les ſeurs de Mar",
+    "tin Guerre, eſt rapporté & mieux en-",
+    "cor par pluſieurs teſmoins ouys és en-",
+    "queſtes d'office, que les œufs ne ſont",
+    "par entre eux plus ſemblables."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Les prouerbes anciẽs des choſes ſẽblables ont eſté le",
+    "plus ſouuẽt prins des œufs, ou du laict de l'eau, ou des",
+    "mouſches à miel. veux-tu pas (dit en quelque lieu Ci-",
+    "ceron) le prouerbe eſtre veritable, de la ſimilitude des",
+    "œufs, ſi grand qu'il eſt biẽ malaiſé diſcerner & entre-",
+    "congnoiſtre l'vn de l'autre. Et peu apres Comme ſont",
+    "ſemblables, dit. il, les œufs aux œufs, & les mouſches à",
+    "miel entre elles {a}. Et Soſia dans Plaute, voyant Mercu-",
+    "re auoir prins ſa forme, & le rapporter en tout, di-",
+    "ſoit, Le laict n'eſt pas plus ſemblable au laict, qu'eſt ce",
+    "lui-la à moy {b}. Meſſenio auſsi parlãt à Menechmus de",
+    "Soſides: L'eau, dit'il, n'eſt pas ſi ſemblable à l'eau, ni le",
+    "laict au laict, que Soſides eſt à toy, & toy à luy {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En troiſieme lieu, ladite de Rols qui",
+    "a ſi vertueuſement pourſuyui ledit pre-",
+    "enu, quand fut confrontee audit du"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ceron) le prouerbe eſtre veritable, de la ſimilitude des",
+   "lines": [
+    "Ciceron au",
+    "ij. liure des A-",
+    "cademiques."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "congnoiſtre l'vn de l'autre. Et peu apres Comme ſont",
+   "lines": [
+    "Plaute en",
+    "la premiere",
+    "comedie, in-",
+    "ſcripte Am-",
+    "phytrion."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ſoit, Le laict n'eſt pas plus ſemblable au laict, qu'eſt ce",
+   "lines": [
+    "Plaute en",
+    "la comedie de",
+    "Menechmus."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "mais de bailler la congoiſſance de tant,",
+   "note": "sic: the print sets 'congoiſſance' (c-o-n-g-o-i-ſſ-a-n-c-e) where the sense requires 'cognoiſſance'; the g and the o are transposed. Verified at 300%; the double s is a true ſſ (both sorts long), unlike 'impoſsi-' two lines above."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "mais veuës ni cognues: cela eſt impoſsi-",
+   "note": "'impoſsi-' is long s + round s, not ſſ. Verified at 400% and again on margin-1.jpg where the same word falls at the crop edge; the second sort is plainly the short round s."
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "blãce du preuenu, auec les ſeurs de Mar",
+   "note": "the mark over the a of 'blãce' is a tilde, not an acute: it is a broad, slightly wavy horizontal stroke, whereas the acute of 'rapporté' / 'reprouué' in the same size of type is a thin near-vertical wedge (both compared at 500%). Reading is 'ſemblãce' broken 'ſem-' / 'blãce'."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "mouſches à miel. veux-tu pas (dit en quelque lieu Ci-",
+   "note": "sic / turned sort: the first letter of 'mouſches' is an m lying on its side (rotated 90 degrees), which is why the print shows a wide gap after it. Transcribed as an upright m because the turned form cannot be represented; verified at 400%."
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "ſemblables, dit. il, les œufs aux œufs, & les mouſches à",
+   "note": "the print really sets 'dit. il,' with a period between the two words (round dot on the baseline, matching the other periods on the page), not a comma. Verified at 450%."
+  },
+  {
+   "where": "blocks[2].lines[8]",
+   "text": "re auoir prins ſa forme, & le rapporter en tout, di-",
+   "note": "the line-end break sign after 'di' is printed as a small round dot sitting on the baseline, not as the short slanted stroke used for the hyphens of 'Ci-', 'entre-' and 'Mercu-' on the same strip (all four compared at 600-1000%). Transcribed as '-' per the convention that any line-end word-break sign is written '-' (the word is 'diſoit'), but it could equally be read as a period sort set in error: 'di.'"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "Soſides: L'eau, dit'il, n'eſt pas ſi ſemblable à l'eau, ni le",
+   "note": "'dit'il' is printed with an apostrophe, not a hyphen; verified at 600%. Transcribed as printed."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "enu, quand fut confrontee audit du",
+   "note": "sic: the word is broken 'pre-' (end of the previous line) / 'enu,' here, so the print gives 'pre-enu' where the sense requires 'preuenu'; the u is missing. Both line ends verified at 500%; there is no u and no second hyphen."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "ij. liure des A-",
+   "note": "the numeral is the italic 'ij' (short i plus a j with descender, one dot); at reading size it can look like a single 'y'. Read as 'ij.' (= Cicero, Academica II) at 1000%."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "Menechmus.",
+   "note": "the final stop is a round dot on the baseline with a faint second mark just above and right of it; most likely a period plus ink, but a worn colon cannot be ruled out. Transcribed as a period."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "",
+   "note": "a stray vertical ink stroke (roughly ascender height, no identifiable letterform) stands in the margin beside the first line of the annotation, 'Les prouerbes anciẽs … ont eſté le', well above the first margin note. It is not transcribed; it may be an offset, a bit of furniture or a reader's mark."
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "id": "p011",
+ "reader": "final",
+ "model": "fable",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "11",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "dernier ſoupir de la vie, d'autãt que les mœurs, & affectiõs",
+    "des hõmes, ſouuentesfois ſe changent, on pour proſperi",
+    "tez, ou pour aduerſitez: ou pour la peſãteur du vieux aa-",
+    "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+    "& noiſes, ou pour quelque bien, profit & cõmodité, à la-",
+    "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {o}.",
+    "Mais que pour telle ſeparation d'amitié, on vienne apres",
+    "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+    "ſ'eſtoit au parauant communiquées, cela à mon aduis ne",
+    "ſe fait point, qu'entre perſonnes miſerables, & deplorées."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ledit du Tilh, ſe confiant en ce qu'il",
+    "rapportoit entierement des traits & li-",
+    "neamens du viſage, ledit Martin, violant",
+    "en premier lieu toutes loix d'amitié, & a-",
+    "pres vſant d'vne nouuelle eſpece d'affrõ-",
+    "tement, & piperie: ſe ſeroit preſenté aux",
+    "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+    "tin, & à ladite Bertrande de Rols, voire à",
+    "tous ceux du lieu d'Artigat: donnant à",
+    "tous pluſieurs particulieres, & ſi proches",
+    "enſeignes, que non ſeulement les eſtran-",
+    "gers, mais encor tous leſdits parens, voi-",
+    "re la ſupliant, ſe perſuaderent, que c'eſtoit",
+    "veritablement Martin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. V.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "C'eſt le faict en ſon eſpece, le plus grand, prodigieux",
+    "& eſmerueillable, qu'on puiſſe lire en Annales quelcon-",
+    "ques, ſoyent Grecques ou Latines, antiques ou moder-",
+    "nes: eſquelles on entendra bien pluſieurs exemples de",
+    "certaines perſonnes, entre elles ſi ſemblables, que ceux",
+    "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+    "chant diſcerner ne recognoiſtre: & prenant ſouuentes-",
+    "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "o",
+   "lines": [
+    "Cicero. au li",
+    "de Amicitia."
+   ],
+   "beside_line": "Mais que pour telle ſeparation d'amitié, on vienne apres"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {o}.",
+   "note": "the marker after 'ſoy' and the key before the margin note are both printed as a solid round ink blob (body-2.jpg x~1650; margin-1.jpg x~90 y~740); reader A read e, reader B a. Keyed o from the sequence: the marker alphabet runs continuously through an annotation across pages (p002 a-f / p003 g-r; p005 a-f / p006 g-n; p009 a-d / p010 e-n) and this block ends the annotation whose last marker on p010 is {n}. The blob's closed round outline is consistent with o.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Cicero. au li",
+   "note": "the last word is two over-inked strokes fused into one mass (margin-1.jpg x~375-410 y~730): a tall stroke and a short one, nothing printed to the right. Read 'li' (= livre, continued by 'de Amicitia.'); a point merged into the blob ('li.') cannot be excluded. A stray dot sits above the C of 'Cicero'.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "the only margin note on the page; its first line stands beside blocks[0].lines[6], one line below the marker. margin-2/3/4.jpg are blank; no foot citations, signature or catchword.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "dernier ſoupir de la vie, d'autãt que les mœurs, & affectiõs",
+   "note": "the mark over the a of 'autãt' is the same short bar as over 'peſãteur' on line 2; tilde, not acute. 'lavie' set tight, divided per §1.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "des hõmes, ſouuentesfois ſe changent, on pour proſperi",
+   "note": "sic 'on' for 'ou' before 'pour': the second letter is over-inked but its top is a closed arch and the feet are separated at the baseline (body-1.jpg x~1150-1420 y~340-415 at 4x); the true 'ou' on line 3 has the counter open above. Both readers read 'on'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+   "note": "'departẽr' sic (see decisions); printed 'quelque foisles' and 'departẽrpour' with no gaps, word division normalized per §1.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "note": "small mark below the baseline between 'manifeſter' and '&', taken as a speck (see decisions).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "quatre ſœurs, oncle, & parẽs d'iceluy Mar",
+   "note": "'parẽs': the mark over the e is a flat wavy bar (tilde), unlike the slanted acute of 'amitié' above (body-4.jpg y~420-505 at 4x); spelled out 'parens' at blocks[2].lines[11]. The i of 'd'iceluy' has a foot serif and no descender; i, not j.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "tin, & à ladite Bertrande de Rols, voire à",
+   "note": "'Rols' is set with a capital R and lower-case o l s in the TEXTE type, not small capitals.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "ques, ſoyent Grecques ou Latines, antiques ou moder-",
+   "note": "the initial a of 'antiques' is defectively inked (bowl a faint ghost) and can look accented at reading size; no separate mark above it.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+   "note": "a round period-sized dot is printed between 'errans' and '&' at mid x-height (body-7.jpg x~1000-1130 y~310-400); reader A transcribed it as a period. Not transcribed here because it does not sit on the baseline like the fount's periods; probably a raised or misplaced sort.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ",
+   "note": "a looping smear (offset or pen mark) runs through 'ceſte'; the letters remain legible. The line ends 'reſ' without a hyphen and the word runs on to p012, so continues_next is true.",
+   "escalate": false
+  },
+  {
+   "where": "folio",
+   "text": "11",
+   "note": "old-style figures; the two 1s print as serifed strokes. Matches the manifest.",
+   "escalate": false
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[0].lines[3]",
+   "A": "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+   "B": "ge, & quelque fois les amitiez ſe departẽt pour contẽtions",
+   "chose": "A",
+   "text": "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+   "reason": "body-2.jpg y~15-95 at 4x: the glyph after ẽ reaches only x-height and has a right shoulder, the same sort as the r of 'pour' that follows; the t of 'depart-' in the same word rises higher and carries a crossbar. 'departẽr' sic for departent"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "A": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {o}.",
+   "B": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {a}.",
+   "chose": "neither",
+   "text": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {o}.",
+   "reason": "body-2.jpg x~1600-1700 y~165-255 at 5x: the marker is a solid round blob with no legible stem or open counter, so the glyph cannot decide between a, e, o. The marker alphabet runs on through an annotation across pages (p009 a-d, p010 e-n) and this block is the tail of that annotation, so the next key is o; the margin key (margin-1.jpg x~60-120 y~740) is the same round blob"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "A": "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "B": "manifeſter, & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "chose": "A",
+   "text": "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "reason": "body-2.jpg y~325-405 at 4x: the mark after 'manifeſter' is a small tick entirely below the baseline with no head on the baseline; the fount's commas sit on the baseline. Speck, not a comma"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "A": "tous pluſieurs particulieres, & ſi proches",
+   "B": "tous pluſieurs particulieres, & ſi proches",
+   "chose": "B",
+   "text": "tous pluſieurs particulieres, & ſi proches",
+   "reason": "body-5.jpg x~1040-1220 y~200-300 at 8x: no ink above the e before the final s; the only mark nearby is a light-brown paper fibre above the r. 'particulieres'"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "A": "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+   "B": "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+   "chose": "B",
+   "text": "qui les voyoient, reſtoyent errans & confuz, ne les ſça-",
+   "reason": "body-7.jpg x~1000-1130 y~310-400 at 8x: a round period-sized dot stands between 'errans' and '&' but at mid x-height, well above the baseline where this fount's periods sit (cf. 'l'autre,' two lines down). Taken as a raised or stray sort, not transcribed; recorded in uncertain[]"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "A": "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ",
+   "B": "fois l'vn pour l'autre. & que ſouz le pretexte de ceſte reſ",
+   "chose": "A",
+   "text": "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ",
+   "reason": "body-7.jpg x~520-720 y~470-560 at 8x: the mark after 'l'autre' has a head on the baseline and a tail curving below it: a comma"
+  },
+  {
+   "where": "margin_notes[0].key",
+   "A": "e",
+   "B": "a",
+   "chose": "neither",
+   "text": "o",
+   "reason": "see blocks[0].lines[5]"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "planPath": "docs/site-plan.md",
+ "tasks": [
+  {
+   "id": 1,
+   "subject": "Task 1: Site schema and split_pages.py (French layer)",
+   "status": "completed",
+   "description": "See docs/site-plan.md Task 1."
+  },
+  {
+   "id": 2,
+   "subject": "Task 2: English layer from translation sections",
+   "status": "completed",
+   "blockedBy": [
+    1
+   ],
+   "description": "See docs/site-plan.md Task 2."
+  },
+  {
+   "id": 3,
+   "subject": "Task 3: site_images.py and repo housekeeping",
+   "status": "completed",
+   "blockedBy": [
+    1
+   ],
+   "description": "See docs/site-plan.md Task 3."
+  },
+  {
+   "id": 4,
+   "subject": "Task 4: Viewer shell: routing, loading, header, footer, toggles, theme",
+   "status": "completed",
+   "blockedBy": [
+    1
+   ],
+   "description": "See docs/site-plan.md Task 4."
+  },
+  {
+   "id": 5,
+   "subject": "Task 5: Text panel: English sidenotes, French lines, pending states",
+   "status": "completed",
+   "blockedBy": [
+    4
+   ],
+   "description": "See docs/site-plan.md Task 5."
+  },
+  {
+   "id": 6,
+   "subject": "Task 6: Image panel: fit, zoom, pan, prefetch, jump menu",
+   "status": "completed",
+   "blockedBy": [
+    4
+   ],
+   "description": "See docs/site-plan.md Task 6."
+  },
+  {
+   "id": 7,
+   "subject": "Task 7: Landing page",
+   "status": "completed",
+   "blockedBy": [
+    4
+   ],
+   "description": "See docs/site-plan.md Task 7."
+  },
+  {
+   "id": 8,
+   "subject": "Task 8: Browser verification pass and spec checklist",
+   "status": "completed",
+   "blockedBy": [
+    5,
+    6,
+    7
+   ],
+   "description": "See docs/site-plan.md Task 8."
+  },
+  {
+   "id": 9,
+   "subject": "Task 9: CDK: Translations bucket, distribution, domain, grants, outputs",
+   "status": "completed",
+   "description": "See docs/site-plan.md Task 9."
+  },
+  {
+   "id": 10,
+   "subject": "Task 10: deploy-translations.yml and assemble.sh",
+   "status": "completed",
+   "blockedBy": [
+    7,
+    9
+   ],
+   "description": "See docs/site-plan.md Task 10."
+  },
+  {
+   "id": 11,
+   "subject": "Task 11: Documentation and logs",
+   "status": "completed",
+   "blockedBy": [
+    8,
+    10
+   ],
+   "description": "See docs/site-plan.md Task 11."
+  },
+  {
+   "id": 12,
+   "subject": "Task 12: Go-live (Carson)",
+   "status": "pending",
+   "blockedBy": [
+    11
+   ],
+   "description": "See docs/site-plan.md Task 12."
+  }
+ ],
+ "lastUpdated": "2026-09-22T00:09:46.942486"
+}

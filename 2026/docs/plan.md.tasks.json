@@ -1,0 +1,121 @@
+{
+ "planPath": "2026/docs/plan.md",
+ "tasks": [
+  {
+   "id": 1,
+   "subject": "Task 1: Manifest",
+   "status": "completed",
+   "blockedBy": [],
+   "description": "**Goal:** `manifest.json` with 162 correct page records.\n\nSee plan.md Task 1.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 2,
+   "subject": "Task 2: Acquire full-resolution scans",
+   "status": "completed",
+   "blockedBy": [
+    1
+   ],
+   "description": "**Goal:** `raw/imgNNN.jpg` at 2941\u00d74711 for every CUDL image in the manifest, plus `raw/gallica-p041.jpg`, and an agent-verified folio check.\n\nSee plan.md Task 2.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 3,
+   "subject": "Task 3: Crop decision, crops, and reading strips",
+   "status": "completed",
+   "blockedBy": [
+    2
+   ],
+   "description": "**Goal:** Cropped page images for the site and near-native-resolution strips for the readers.\n\nSee plan.md Task 3.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 4,
+   "subject": "Task 4: Conventions, schema, validator, diff tool, and reader prompts",
+   "status": "completed",
+   "blockedBy": [
+    3
+   ],
+   "description": "**Goal:** Everything an agent needs to read a page consistently, and the tools to check and compare its output.\n\nSee plan.md Task 4.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 5,
+   "subject": "Task 5: Transcription pilot and reader-model decision",
+   "status": "completed",
+   "blockedBy": [
+    4
+   ],
+   "description": "**Goal:** A tuned reading process proven on five graded pages, with a documented choice of reader model.\n\nSee plan.md Task 5.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 6,
+   "subject": "Task 6: Full transcription in waves with spot checks",
+   "status": "in_progress",
+   "blockedBy": [
+    5
+   ],
+   "description": "**Goal:** `transcription/final/` complete for all 162 pages, every page validated, spot-checked at the agreed rate, no open escalations.\n\nSee plan.md Task 6.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 7,
+   "subject": "Task 7: Stitch into logical sections",
+   "status": "completed",
+   "blockedBy": [
+    6
+   ],
+   "description": "**Goal:** `text/sections.json`: the whole book as ordered sections with reflowed text and page markers, computed from `final/` by script.\n\nSee plan.md Task 7.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 8,
+   "subject": "Task 8: Case file",
+   "status": "in_progress",
+   "blockedBy": [
+    5
+   ],
+   "description": "**Goal:** `docs/case-file.md`, the factual backbone every translator and reviewer receives.\n\nSee plan.md Task 8.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 9,
+   "subject": "Task 9: Translation",
+   "status": "in_progress",
+   "blockedBy": [
+    8
+   ],
+   "description": "**Goal:** `translation/sections/*.md` for every section, in order, with markers intact.\n\nSee plan.md Task 9.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 10,
+   "subject": "Task 10: Review passes and fixes",
+   "status": "pending",
+   "blockedBy": [
+    9
+   ],
+   "description": "**Goal:** Every section reviewed for fidelity, consistency, and (for TEXTE) divergence from Ringold & Lewis, with findings resolved.\n\nSee plan.md Task 10.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 11,
+   "subject": "Task 11: Split translation per page and emit site data",
+   "status": "pending",
+   "blockedBy": [
+    10
+   ],
+   "description": "**Goal:** `translation/pages/pNNN.json` and `site/data/pages/pNNN.json` for every page.\n\nSee plan.md Task 11.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 12,
+   "subject": "Task 12: The site",
+   "status": "pending",
+   "blockedBy": [
+    11
+   ],
+   "description": "**Goal:** A static viewer that opens instantly, shows page image left and translation right with sidenotes in place, has a French toggle, and works on a phone.\n\nSee plan.md Task 12.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  },
+  {
+   "id": 13,
+   "subject": "Task 13: README and log finalization",
+   "status": "pending",
+   "blockedBy": [
+    12
+   ],
+   "description": "**Goal:** `2026/README.md` explaining what this is, how to regenerate every stage, the conventions in brief, the source and its quirks, the status, and credits. The root `README.md` gets a two-line pointer to `2026/` and a correction of the edition (1572 Paris, not 1561 Lyon).\n\nSee plan.md Task 13.\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"\", \"acceptanceCriteria\": []}\n```"
+  }
+ ],
+ "lastUpdated": "2026-09-21T23:21:12.621811"
+}

@@ -1,0 +1,174 @@
+{
+ "id": "p028",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "28",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+    "pourtant n'eſt pas des plus certeines, d'autant que capi-",
+    "tale peine ſe peut rapporter & à la mort ciuile & à la",
+    "mort naturelle {l}. En quoy i'ay eſté touſiours d'auis laiſ-",
+    "ſer & commettre à l'arbitre du Iuge, l'eſpece de la mort",
+    "lequel poiſées les qualitez des perſonnes & balancées",
+    "toutes circonſtances, pourra alleger, aggrauer la pei-",
+    "ne {m}. ſingulierement en noſtre France, où l'on ne co-",
+    "gnoit point de crimes qu'extraordinerement: auquel",
+    "cas, la grauité & legiereté des peines ſemblent depen-",
+    "dre entierement du Iuge {n}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Elle en auroit fait informer par autho",
+    "rité du Iuge de Rieux: & pretendant le",
+    "tout eſtre verifié, cõcluoit a l'encontre.",
+    "dudit du Tilh à double amẽde: honora-",
+    "ble, à demander pardon à Dieu, au Roy,",
+    "& à icelle de Rols demandereſſe: teſte",
+    "& pieds nuds, en chemiſe, tenant vne tor",
+    "che ardente en ſes mains: diſant que fauſ",
+    "ſement, temerairement, & proditoire-",
+    "mẽt, l'a deceuë, abuſee, trahie & circonue",
+    "nuë, en prenãt le nom & ſuppoſãt la per",
+    "ſonne de Martin Guerre ſon vray mari.",
+    "Dõt ſ'en repent, & luy en requiert merci",
+    "& pour la proffitable, en deux mille li-",
+    "ures, & aux deſpens dommages & inte-",
+    "reſts."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Le procureur du Roy en France, eſt celuy qui pourſuit",
+    "les crimes, quant à la vengence publique, & vn particu-",
+    "lier intereſſé, ne peut pourſuyure, que ciuilement,",
+    "pour ſon intereſt {a}. & par ainſi ne peut conclure à peine"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "k",
+   "beside_line": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "lines": [
+    "l. j. C. de",
+    "falſ."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "tale peine ſe peut rapporter & à la mort ciuile & à la",
+   "lines": [
+    "l. edicto. D.",
+    "de bon. poſſe",
+    "l ſi nesem. P.",
+    "ſs deportat",
+    "D. de bon li.",
+    "berto."
+   ]
+  },
+  {
+   "key": "m",
+   "beside_line": "toutes circonſtances, pourra alleger, aggrauer la pei-",
+   "lines": [
+    "l. j. P. D.",
+    "de effract."
+   ]
+  },
+  {
+   "key": "n",
+   "beside_line": "gnoit point de crimes qu'extraordinerement: auquel",
+   "lines": [
+    "l. hodie. D.",
+    "de pœn."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "& pour la proffitable, en deux mille li-",
+   "lines": [
+    "Guillaume",
+    "Benedict. au",
+    "ch. Raynutius",
+    "ſur ceſte pa-",
+    "role, mortuo",
+    "itaq; teſt. i.",
+    "& nõbre 159.",
+    "de teſta."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "note": "the mark after marker {k} is a round blob on the baseline, read as a period; at 8x it could also be a tailless comma. Sense would favour a comma."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "tout eſtre verifié, cõcluoit a l'encontre.",
+   "note": "two doubts on this line: (a) the accent on 'verifié' is a small wedge, acute is the likely reading but grave 'verifiè' is possible; (b) the line ends with a clear round dot (period) mid-sentence where a hyphen or comma would be expected before 'dudit'. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "l ſi nesem. P.",
+   "note": "abbreviated citation; 'nesem' has a round s and no clear suspension mark, the leading 'l' carries no visible period. Could be 'l. ſi neceſſ.' expanded differently."
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "text": "ſs deportat",
+   "note": "the line-initial siglum is a long ſ with a small round s beside it (no crossbars, so not 'ff'; the second stroke has no descender, so not 'ſſ'). Almost certainly the Digest siglum. It sits at the key column but has no marker in the body, so it is treated as a continuation line of note l, not a key."
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "D. de bon li.",
+   "note": "'liberto' is broken across lines and the break is printed as a round dot ('li.' / 'berto.'), not a hyphen. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "ch. Raynutius",
+   "note": "first letter read as 'c' (matching the 'c' of 'ceſte' two lines down) giving 'ch.' = chapitre, the usual citation of Benedicti on cap. Raynutius; at this size it could be read as 'eh.'"
+  },
+  {
+   "where": "margin_notes[4].lines[5]",
+   "text": "itaq; teſt. i.",
+   "note": "the -que sign after 'itaq' is printed as a roman semicolon, not the 3-shaped ꝫ, so transcribed ';'."
+  },
+  {
+   "where": "margin_notes[4].lines[6]",
+   "text": "& nõbre 159.",
+   "note": "digits read as 1-5-9 in old-style figures; the 5 is worn."
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "pour ſon intereſt {a}. & par ainſi ne peut conclure à peine",
+   "note": "'par ainſi' is set tight as one token in the print; split per the word-division rule."
+  }
+ ]
+}

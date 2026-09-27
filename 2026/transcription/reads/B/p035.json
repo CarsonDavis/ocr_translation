@@ -1,0 +1,190 @@
+{
+ "id": "p035",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "35",
+ "signature": "C ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "lines": [
+    "coniuré. deſquelles (dit Horace {b}) ſ'en trouua qu'vne",
+    "Hypermeneſtra, qui pardonnaſt à ſon cõſort, & mari."
+   ],
+   "continues_prev": true,
+   "continues_next": false
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Vna de multis face nuptali",
+    "Digna, periurum fuit in parentem,",
+    "Splendide mendax, & in omne virgo",
+    "Nobilis æuum."
+   ],
+   "continues_prev": false,
+   "continues_next": false
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Et ſe voyans fruſtrez de leur mau-",
+    "uaiſe intention en cet endroit, forgent",
+    "l'accuſation du crime prodigieux & horri",
+    "ble, duquel a eſté parlé. & lequel prouue",
+    "partant qu'il meriteroit auſsi vne cruel-",
+    "le, & monſtrueuſe peine, requeroit de",
+    "meſmes, que iuſtice luy fuſt faite, de pa-",
+    "reil ſupplice contre les calomniateurs."
+   ],
+   "continues_prev": false,
+   "continues_next": false
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "C'eſt droitement la peine des calomniateurs, (ceſt",
+    "à dire de ceux, qui fauſſement, & à malice pourpẽſee,",
+    "deferent vn autre de quelque crime) que de la ſouffrir",
+    "pareille à celle, que le preuenu deuroit endurer, ſil",
+    "eſtoit attainct, & conuaincu du crime à luy impoſé {a}.",
+    "Coulpe certes inhumaine, deteſtable, & grande, &",
+    "qui a eſté de tout temps aux bons Empereuts ſi o-",
+    "dieuſe, qu'ils n'ont voulu, qu'aucune couleur de",
+    "droit, abolition publique ou priuée, voire ni permiſ-",
+    "ſion ſpeciale du prince, la peuſt garantir {b2}. Et nos ca-",
+    "noniſtes ont iuſtement iugé les calomniateurs, eſtre",
+    "dignes de peines plus cruelles, & griefuës, que les",
+    "accuſez, ſils eſtoyent conuaincus des crimes {c}: & la",
+    "raiſon me ſemble eſtre aſſez patente: car les autres",
+    "crimes, bien ſouuent ſe commettent ſans intention,",
+    "& deliberation precedente de mal faire, par quel-",
+    "que legiere & inconſiderée paſſion {d}. Comme vn",
+    "meurtre, par celuy qui ſurmonté de colere, vn lar-"
+   ],
+   "continues_prev": false,
+   "continues_next": true
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "lines": [
+    "Horace au",
+    "liure iij. des",
+    "Carmes, Ode.",
+    "xj."
+   ],
+   "beside_line": "coniuré. deſquelles (dit Horace {b}) ſ'en trouua qu'vne"
+  },
+  {
+   "key": "a",
+   "lines": [
+    "l. fin. C. de",
+    "accuſa. C. quiſ",
+    "quis. iij. q. viij",
+    "c. Paulum. ij.",
+    "q. iij."
+   ],
+   "beside_line": "eſtoit attainct, & conuaincu du crime à luy impoſé {a}."
+  },
+  {
+   "key": "b2",
+   "lines": [
+    "l. fallaciter.",
+    "C. de calũnia."
+   ],
+   "beside_line": "ſion ſpeciale du prince, la peuſt garantir {b2}. Et nos ca-"
+  },
+  {
+   "key": "c",
+   "lines": [
+    "c. ſi. & illec",
+    "Innocens &",
+    "Panorme de",
+    "calumniator."
+   ],
+   "beside_line": "dignes de peines plus cruelles, & griefuës, que les"
+  },
+  {
+   "key": "d",
+   "lines": [
+    "l. j. D. de le-",
+    "gat."
+   ],
+   "beside_line": "& deliberation precedente de mal faire, par quel-"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[2].key",
+   "text": "b2",
+   "note": "the page carries two notes keyed b: the Horace note at the head (last letter of the previous annotation's run) and the first-run-restart note under ANNOT. XIX. (a b c d). The second is keyed b2 per §4's a2/a3 rule so the keys stay unique; the print shows a plain b in both body and margin. Reader A may have keyed them differently.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Horace au",
+   "note": "the final u carries a heavy mark above it; read as plain 'au' (sense requires it), but it could be a damaged sort or a tilde (aũ)."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "Carmes, Ode.",
+   "note": "a stroke sits over the final e of 'Ode'; read as plain e, but it may be an acute (Odé) or ink offset."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "quis. iij. q. viij",
+   "note": "the roman numerals are very small and partly blotted at native resolution; iij could be ij and viij could be vij."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. fin. C. de",
+   "note": "printed 'l. fin .C. de' with the point set before the C; spacing normalized per §1."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "c. ſi. & illec",
+   "note": "last word read 'illec'; the canonical citation would be 'illic' and the letter before the final c is ambiguous."
+  },
+  {
+   "where": "blocks[5].lines[6]",
+   "text": "qui a eſté de tout temps aux bons Empereuts ſi o-",
+   "note": "'Empereuts' sic — the letter before the final s is clearly a t, a misprint for 'Empereurs'."
+  },
+  {
+   "where": "blocks[5].lines[14]",
+   "text": "crimes, bien ſouuent ſe commettent ſans intention,",
+   "note": "a faint speck sits over the first e of 'intention'; read as plain e (unlike the solid tilde of 'cõſort'), but a tilde (intẽtion) cannot be excluded."
+  },
+  {
+   "where": "blocks[5].lines[4]",
+   "text": "eſtoit attainct, & conuaincu du crime à luy impoſé {a}.",
+   "note": "the mark after marker a is a compact square dot on the baseline, read as a period; it matches the marks after markers b2 and d on this page."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "coniuré. deſquelles (dit Horace {b}) ſ'en trouua qu'vne",
+   "note": "the marker b is set tight against 'Horace' and inside the closing parenthesis ('Horaceb)'); spacing normalized per §4."
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "l'accuſation du crime prodigieux & horri",
+   "note": "line ends without a hyphen ('horri' / 'ble'); as printed."
+  }
+ ]
+}

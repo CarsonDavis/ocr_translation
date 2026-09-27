@@ -1,0 +1,138 @@
+{
+ "id": "p020",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "20",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "madoüant par infinis moyens laſcifs & impudiques. Et",
+    "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
+    "ſemblent quelquesfois les peres, & d'autresfois les me-",
+    "res. Ie diray auec le Philoſophe, que ſi la vertu de l'hõme",
+    "eſt plus abondante, l'enfant raportera le pere. & au con-",
+    "traire, ſi la ſemence de la femme ſurmonte, l'enfant",
+    "prendra la forme, & ſimulacre de la mere. Et ſ'il y a",
+    "eſgalle quãtité de ſemence, reſſemblera tous les deux,",
+    "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+    "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+    "goras, quand il diſoit, que l'enfant reſſemblera celuy des",
+    "parens, qui aura mis plus de ſemence."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Dont ne faloit ſ'esbahir, ſi la ſuppliãt",
+    "incroyablement enuieuſe de voir & re-",
+    "couurer ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. VI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La femme chaſte [?] & pudique, qui aime bien ſon mary:",
+    "n'a rien ſi cher ne ſi precieux que ſa preſence, & rien ſi",
+    "faſcheux & lamentable que ſon abſcence: teſmoins les",
+    "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+    "pourtraict & exemplaire de chaſtete) pour ſon Vliſſes,",
+    "d'Hermione, pour ſõ Oreſte: de Deianira, pour ſon Her",
+    "cule: & ſur tout, de Laodamia, pour ſon Proteſilaë: l'ab-",
+    "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+    "qu'il auoit eſté occis par Hector: ſur priſe d'vne fureur",
+    "& impatience extreme, ſortit hors des gens de raiſon",
+    "& comme tranſportee, ne voulant plus viute, demãda",
+    "aux dieux pour ſeul reconfort & ſoulagement de ſa",
+    "douleur, qu'elle peut voir l'eſprit de ſon ami treſpaſſé.",
+    "Ce qu'elle impetra & entre les bras de ceſte ombre ren",
+    "dit l'ame. Et ne fault douter que le ſouuerain deſir qui",
+    "aime, ne ſoit de voir & contempler la choſe aimee",
+    "pour le grand & incroyable plaiſir qu'il pretend en la",
+    "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+    "gard, naiſt, & ſe cauſe l'amour, de laquelle les yeux, com",
+    "me dit Properce, ſont les guides, chefs & cõducteurs {b}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "n",
+   "beside_line": "en diuers lieux toutesfois, & parties du corps {n}. De la-",
+   "lines": [
+    "Ariſtote au",
+    "liure de la ge-",
+    "neration des",
+    "animaux."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "triſtes regrets qu'õ liſt dans Ouide {a}, de Penelope (vray",
+   "lines": [
+    "Ouide aux",
+    "epiſtres."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+   "note": "the s of \"s'\" is a round s in the print (checked at native resolution), while \"eſloignoit\" has long s; transcribed as printed."
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "La femme chaſte [?] & pudique, qui aime bien ſon mary:",
+   "note": "[?] = an upright vertical bar set tight between \"chaſte\" and \"&\" (printed \"chaſte|&\"). Full x-height, slightly serifed, inked solid. Probably a damaged or turned comma sort, possibly a virgule; not confidently identifiable, so not transcribed as ',' or '/'.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "ſence duquel elle deploroit tant, qu'ayanr apres entend",
+   "note": "\"qu'ayanr\" sic — the final letter is clearly r, not t (verified at native resolution); misprint for \"qu'ayant\"."
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "& comme tranſportee, ne voulant plus viute, demãda",
+   "note": "\"viute\" sic — letters read v-i-u-t-e at native resolution; misprint for \"viure\". Flagged because A may normalize to \"viure\"."
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "Ce qu'elle impetra & entre les bras de ceſte ombre ren",
+   "note": "line-end \"ren\" (word \"rendit\" broken without hyphen across lines 13/14). The last letter is heavily inked and could be misread as 'a' (\"rea\"); \"ren\" is preferred on sense and letterform."
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "text": "voyant, dont l'amour en grec eſt appelé ἐρῶς: car du re-",
+   "note": "Greek word: epsilon with a breathing mark (smooth vs rough not distinguishable at this resolution, no acute visible), rho, omega with perispomeni/tilde, final sigma. Transcribed ἐρῶς; the classical form would be ἔρως.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "me dit Properce, ſont les guides, chefs & cõducteurs {b}.",
+   "note": "marker b has no corresponding note: the margin beside the last body lines is blank (margin-3, margin-4 empty) and there is no foot block, so key \"b\" has no note on this page; its citation presumably falls on p021."
+  }
+ ]
+}

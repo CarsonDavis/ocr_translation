@@ -1,0 +1,6264 @@
+{
+ "item": "PR-MONTAIGNE-00001-00007-00022",
+ "edition": "Paris: Galliot du Pré, 1572",
+ "native_size": [
+  2941,
+  4711
+ ],
+ "pages": [
+  {
+   "id": "p000-title",
+   "page": null,
+   "image": 7,
+   "side": "recto",
+   "folio": null,
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00007.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "done",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     229,
+     2767,
+     4179
+    ],
+    "body": [
+     90,
+     2761
+    ],
+    "margin": null,
+    "tilt": -0.7,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p000-argument",
+   "page": null,
+   "image": 22,
+   "side": "verso",
+   "folio": null,
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00022.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     152,
+     249,
+     2941,
+     4215
+    ],
+    "body": [
+     367,
+     2315
+    ],
+    "margin": [
+     132,
+     427
+    ],
+    "tilt": 0.8,
+    "mode": "detected"
+   },
+   "agreement": 73.1
+  },
+  {
+   "id": "p001",
+   "page": 1,
+   "image": 23,
+   "side": "recto",
+   "folio": "1",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00023.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     229,
+     2771,
+     4191
+    ],
+    "body": [
+     424,
+     2223
+    ],
+    "margin": [
+     2163,
+     2649
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   },
+   "agreement": 90.0
+  },
+  {
+   "id": "p002",
+   "page": 2,
+   "image": 24,
+   "side": "verso",
+   "folio": "2",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00024.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     169,
+     241,
+     2941,
+     4207
+    ],
+    "body": [
+     613,
+     2347
+    ],
+    "margin": [
+     279,
+     651
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p003",
+   "page": 3,
+   "image": 25,
+   "side": "recto",
+   "folio": "3",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00025.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     237,
+     2775,
+     4199
+    ],
+    "body": [
+     393,
+     2135
+    ],
+    "margin": [
+     2085,
+     2478
+    ],
+    "tilt": 1.1,
+    "mode": "detected"
+   },
+   "agreement": 92.3
+  },
+  {
+   "id": "p004",
+   "page": 4,
+   "image": 26,
+   "side": "verso",
+   "folio": "4",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00026.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     136,
+     229,
+     2941,
+     4191
+    ],
+    "body": [
+     647,
+     2380
+    ],
+    "margin": [
+     301,
+     680
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.4
+  },
+  {
+   "id": "p005",
+   "page": 5,
+   "image": 27,
+   "side": "recto",
+   "folio": "5",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00027.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     233,
+     2767,
+     4199
+    ],
+    "body": [
+     380,
+     2113
+    ],
+    "margin": [
+     2066,
+     2437
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.2
+  },
+  {
+   "id": "p006",
+   "page": 6,
+   "image": 28,
+   "side": "verso",
+   "folio": "6",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00028.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     128,
+     225,
+     2941,
+     4195
+    ],
+    "body": [
+     674,
+     2401
+    ],
+    "margin": [
+     337,
+     715
+    ],
+    "tilt": 0.7,
+    "mode": "detected"
+   },
+   "agreement": 94.7
+  },
+  {
+   "id": "p007",
+   "page": 7,
+   "image": 29,
+   "side": "recto",
+   "folio": "7",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00029.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     229,
+     2771,
+     4195
+    ],
+    "body": [
+     415,
+     2150
+    ],
+    "margin": [
+     2090,
+     2489
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   },
+   "agreement": 86.8
+  },
+  {
+   "id": "p008",
+   "page": 8,
+   "image": 30,
+   "side": "verso",
+   "folio": "8",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00030.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     124,
+     225,
+     2941,
+     4183
+    ],
+    "body": [
+     630,
+     2367
+    ],
+    "margin": [
+     131,
+     690
+    ],
+    "tilt": -0.9,
+    "mode": "detected"
+   },
+   "agreement": 97.3
+  },
+  {
+   "id": "p009",
+   "page": 9,
+   "image": 31,
+   "side": "recto",
+   "folio": "9",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00031.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     249,
+     2780,
+     4219
+    ],
+    "body": [
+     510,
+     2222
+    ],
+    "margin": [
+     2181,
+     2468
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p010",
+   "page": 10,
+   "image": 32,
+   "side": "verso",
+   "folio": "10",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00032.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "done",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     136,
+     233,
+     2941,
+     4191
+    ],
+    "body": [
+     543,
+     2278
+    ],
+    "margin": [
+     217,
+     584
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   },
+   "agreement": 97.4,
+   "spotcheck": {
+    "date": "2026-09-22",
+    "model": "fable",
+    "body_agreement": 92.3,
+    "substantive_master_errors": 2,
+    "fixed": true
+   }
+  },
+  {
+   "id": "p011",
+   "page": 11,
+   "image": 33,
+   "side": "recto",
+   "folio": "11",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00033.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     241,
+     2784,
+     4203
+    ],
+    "body": [
+     542,
+     2274
+    ],
+    "margin": [
+     2214,
+     2650
+    ],
+    "tilt": 1.2,
+    "mode": "detected"
+   },
+   "agreement": 82.4
+  },
+  {
+   "id": "p012",
+   "page": 12,
+   "image": 34,
+   "side": "verso",
+   "folio": "12",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00034.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     124,
+     241,
+     2941,
+     4199
+    ],
+    "body": [
+     514,
+     2247
+    ],
+    "margin": [
+     121,
+     574
+    ],
+    "tilt": -0.3,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p013",
+   "page": 13,
+   "image": 35,
+   "side": "recto",
+   "folio": "13",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00035.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     261,
+     2796,
+     4227
+    ],
+    "body": [
+     514,
+     2246
+    ],
+    "margin": [
+     2186,
+     2664
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.5
+  },
+  {
+   "id": "p014",
+   "page": 14,
+   "image": 36,
+   "side": "verso",
+   "folio": "14",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00036.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     181,
+     229,
+     2941,
+     4191
+    ],
+    "body": [
+     545,
+     2266
+    ],
+    "margin": [
+     127,
+     605
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   },
+   "agreement": 94.9
+  },
+  {
+   "id": "p015",
+   "page": 15,
+   "image": 37,
+   "side": "recto",
+   "folio": "15",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00037.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "done",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     265,
+     2800,
+     4227
+    ],
+    "body": [
+     479,
+     2207
+    ],
+    "margin": [
+     2147,
+     2672
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 94.7,
+   "spotcheck": {
+    "date": "2026-09-22",
+    "model": "fable",
+    "body_agreement": 92.1,
+    "substantive_master_errors": 0,
+    "fixed": false
+   }
+  },
+  {
+   "id": "p016",
+   "page": 16,
+   "image": 38,
+   "side": "verso",
+   "folio": "16",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00038.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     185,
+     233,
+     2941,
+     4203
+    ],
+    "body": [
+     593,
+     2309
+    ],
+    "margin": [
+     260,
+     627
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.5
+  },
+  {
+   "id": "p017",
+   "page": 17,
+   "image": 39,
+   "side": "recto",
+   "folio": "17",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00039.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     245,
+     2796,
+     4207
+    ],
+    "body": [
+     454,
+     2151
+    ],
+    "margin": [
+     2091,
+     2661
+    ],
+    "tilt": -0.6,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p018",
+   "page": 18,
+   "image": 40,
+   "side": "verso",
+   "folio": "18",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00040.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     185,
+     217,
+     2941,
+     4183
+    ],
+    "body": [
+     641,
+     2341
+    ],
+    "margin": [
+     324,
+     691
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   },
+   "agreement": 97.5
+  },
+  {
+   "id": "p019",
+   "page": 19,
+   "image": 41,
+   "side": "recto",
+   "folio": "19",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00041.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     237,
+     2808,
+     4195
+    ],
+    "body": [
+     458,
+     2145
+    ],
+    "margin": [
+     2108,
+     2464
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.4
+  },
+  {
+   "id": "p020",
+   "page": 20,
+   "image": 42,
+   "side": "verso",
+   "folio": "20",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00042.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "done",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     189,
+     217,
+     2941,
+     4183
+    ],
+    "body": [
+     632,
+     2352
+    ],
+    "margin": [
+     124,
+     692
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   },
+   "agreement": 97.3,
+   "spotcheck": {
+    "date": "2026-09-22",
+    "model": "fable",
+    "body_agreement": 89.2,
+    "substantive_master_errors": 2,
+    "fixed": true
+   }
+  },
+  {
+   "id": "p021",
+   "page": 21,
+   "image": 43,
+   "side": "recto",
+   "folio": "21",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00043.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     233,
+     2816,
+     4191
+    ],
+    "body": [
+     476,
+     2153
+    ],
+    "margin": [
+     2093,
+     2677
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 96.8
+  },
+  {
+   "id": "p022",
+   "page": 22,
+   "image": 44,
+   "side": "verso",
+   "folio": "22",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00044.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     233,
+     225,
+     2941,
+     4187
+    ],
+    "body": [
+     628,
+     2316
+    ],
+    "margin": [
+     125,
+     688
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p023",
+   "page": 23,
+   "image": 45,
+   "side": "recto",
+   "folio": "23",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00045.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     225,
+     2812,
+     4187
+    ],
+    "body": [
+     494,
+     2302
+    ],
+    "margin": [
+     2242,
+     2511
+    ],
+    "tilt": 1.2,
+    "mode": "detected"
+   },
+   "agreement": 97.4
+  },
+  {
+   "id": "p024",
+   "page": 24,
+   "image": 46,
+   "side": "verso",
+   "folio": "24",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00046.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     233,
+     233,
+     2941,
+     4195
+    ],
+    "body": [
+     599,
+     2303
+    ],
+    "margin": [
+     273,
+     659
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p025",
+   "page": 25,
+   "image": 47,
+   "side": "recto",
+   "folio": "25",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00047.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     229,
+     2808,
+     4187
+    ],
+    "body": [
+     486,
+     2172
+    ],
+    "margin": [
+     2128,
+     2496
+    ],
+    "tilt": 0.9,
+    "mode": "detected"
+   },
+   "agreement": 94.3
+  },
+  {
+   "id": "p026",
+   "page": 26,
+   "image": 48,
+   "side": "verso",
+   "folio": "26",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00048.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     221,
+     229,
+     2941,
+     4195
+    ],
+    "body": [
+     610,
+     2306
+    ],
+    "margin": [
+     285,
+     670
+    ],
+    "tilt": 0.6,
+    "mode": "detected"
+   },
+   "agreement": 94.9
+  },
+  {
+   "id": "p027",
+   "page": 27,
+   "image": 49,
+   "side": "recto",
+   "folio": "27",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00049.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     249,
+     2808,
+     4215
+    ],
+    "body": [
+     495,
+     2190
+    ],
+    "margin": [
+     2130,
+     2512
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   },
+   "agreement": 92.1
+  },
+  {
+   "id": "p028",
+   "page": 28,
+   "image": 50,
+   "side": "verso",
+   "folio": "28",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00050.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     205,
+     233,
+     2941,
+     4195
+    ],
+    "body": [
+     587,
+     2276
+    ],
+    "margin": [
+     250,
+     615
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.0
+  },
+  {
+   "id": "p029",
+   "page": 29,
+   "image": 51,
+   "side": "recto",
+   "folio": "29",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00051.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     249,
+     2816,
+     4211
+    ],
+    "body": [
+     524,
+     2211
+    ],
+    "margin": [
+     2151,
+     2678
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p030",
+   "page": 30,
+   "image": 52,
+   "side": "verso",
+   "folio": "30",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00052.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "done",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     213,
+     233,
+     2941,
+     4191
+    ],
+    "body": [
+     590,
+     2284
+    ],
+    "margin": [
+     267,
+     650
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   },
+   "agreement": 85.7,
+   "spotcheck": {
+    "date": "2026-09-22",
+    "model": "fable",
+    "body_agreement": 88.6,
+    "substantive_master_errors": 0,
+    "fixed": false,
+    "undecidable": 2
+   }
+  },
+  {
+   "id": "p031",
+   "page": 31,
+   "image": 53,
+   "side": "recto",
+   "folio": "31",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00053.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     249,
+     2836,
+     4207
+    ],
+    "body": [
+     514,
+     2209
+    ],
+    "margin": [
+     2149,
+     2534
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 93.9
+  },
+  {
+   "id": "p032",
+   "page": 32,
+   "image": 54,
+   "side": "verso",
+   "folio": "32",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00054.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     132,
+     213,
+     2941,
+     4167
+    ],
+    "body": [
+     546,
+     2327
+    ],
+    "margin": [
+     312,
+     606
+    ],
+    "tilt": -0.9,
+    "mode": "detected"
+   },
+   "agreement": 97.3
+  },
+  {
+   "id": "p033",
+   "page": 33,
+   "image": 55,
+   "side": "recto",
+   "folio": "33",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00055.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     237,
+     2771,
+     4199
+    ],
+    "body": [
+     395,
+     2148
+    ],
+    "margin": [
+     2088,
+     2631
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.0
+  },
+  {
+   "id": "p034",
+   "page": 34,
+   "image": 56,
+   "side": "verso",
+   "folio": "34",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00056.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     128,
+     209,
+     2941,
+     4171
+    ],
+    "body": [
+     656,
+     2379
+    ],
+    "margin": [
+     124,
+     716
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 96.9
+  },
+  {
+   "id": "p035",
+   "page": 35,
+   "image": 57,
+   "side": "recto",
+   "folio": "35",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00057.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     245,
+     2763,
+     4211
+    ],
+    "body": [
+     293,
+     2068
+    ],
+    "margin": [
+     2008,
+     2645
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.1
+  },
+  {
+   "id": "p036",
+   "page": 36,
+   "image": 58,
+   "side": "verso",
+   "folio": "36",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00058.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     140,
+     213,
+     2941,
+     4171
+    ],
+    "body": [
+     719,
+     2470
+    ],
+    "margin": [
+     413,
+     779
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.5
+  },
+  {
+   "id": "p037",
+   "page": 37,
+   "image": 59,
+   "side": "recto",
+   "folio": "37",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00059.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     241,
+     2780,
+     4207
+    ],
+    "body": [
+     309,
+     2182
+    ],
+    "margin": [
+     2122,
+     2359
+    ],
+    "tilt": -0.5,
+    "mode": "detected"
+   },
+   "agreement": 91.7
+  },
+  {
+   "id": "p038",
+   "page": 38,
+   "image": 60,
+   "side": "verso",
+   "folio": "38",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00060.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     144,
+     217,
+     2941,
+     4171
+    ],
+    "body": [
+     714,
+     2428
+    ],
+    "margin": [
+     132,
+     774
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 96.8
+  },
+  {
+   "id": "p039",
+   "page": 39,
+   "image": 61,
+   "side": "recto",
+   "folio": "39",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00061.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     233,
+     2780,
+     4199
+    ],
+    "body": [
+     431,
+     2124
+    ],
+    "margin": [
+     2064,
+     2654
+    ],
+    "tilt": 0.7,
+    "mode": "detected"
+   },
+   "agreement": 97.3
+  },
+  {
+   "id": "p040",
+   "page": 40,
+   "image": 62,
+   "side": "verso",
+   "folio": "40",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00062.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     148,
+     217,
+     2941,
+     4175
+    ],
+    "body": [
+     648,
+     2330
+    ],
+    "margin": [
+     130,
+     708
+    ],
+    "tilt": -0.5,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p041",
+   "page": 41,
+   "image": null,
+   "side": "recto",
+   "folio": "41",
+   "source": "gallica",
+   "iiif": null,
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop_override": [
+    540,
+    620,
+    2040,
+    2970
+   ],
+   "crop": {
+    "box": [
+     540,
+     620,
+     2040,
+     2970
+    ],
+    "body": [
+     78,
+     1080
+    ],
+    "margin": [
+     1020,
+     1287
+    ],
+    "tilt": 0.8,
+    "mode": "override"
+   },
+   "agreement": 97.1
+  },
+  {
+   "id": "p042",
+   "page": 42,
+   "image": 64,
+   "side": "verso",
+   "folio": "42",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00064.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     152,
+     225,
+     2941,
+     4183
+    ],
+    "body": [
+     574,
+     2272
+    ],
+    "margin": [
+     240,
+     597
+    ],
+    "tilt": 0.9,
+    "mode": "detected"
+   },
+   "agreement": 97.5
+  },
+  {
+   "id": "p043",
+   "page": 43,
+   "image": 63,
+   "side": "recto",
+   "folio": "43",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00063.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     221,
+     2788,
+     4195
+    ],
+    "body": [
+     567,
+     2266
+    ],
+    "margin": [
+     2219,
+     2595
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   },
+   "agreement": 92.5
+  },
+  {
+   "id": "p044",
+   "page": 44,
+   "image": 66,
+   "side": "verso",
+   "folio": "24",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00066.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     148,
+     225,
+     2941,
+     4183
+    ],
+    "body": [
+     492,
+     2202
+    ],
+    "margin": [
+     135,
+     552
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 94.6
+  },
+  {
+   "id": "p045",
+   "page": 45,
+   "image": 65,
+   "side": "recto",
+   "folio": "44",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00065.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     217,
+     2792,
+     4187
+    ],
+    "body": [
+     608,
+     2292
+    ],
+    "margin": [
+     2232,
+     2650
+    ],
+    "tilt": -0.7,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p046",
+   "page": 46,
+   "image": 68,
+   "side": "verso",
+   "folio": "46",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00068.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     156,
+     229,
+     2941,
+     4191
+    ],
+    "body": [
+     504,
+     2206
+    ],
+    "margin": [
+     149,
+     564
+    ],
+    "tilt": 1.5,
+    "mode": "detected"
+   },
+   "agreement": 96.9
+  },
+  {
+   "id": "p047",
+   "page": 47,
+   "image": 67,
+   "side": "recto",
+   "folio": "47",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00067.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     217,
+     2747,
+     4187
+    ],
+    "body": [
+     448,
+     2150
+    ],
+    "margin": [
+     2090,
+     2610
+    ],
+    "tilt": -1.0,
+    "mode": "detected"
+   },
+   "agreement": 96.6
+  },
+  {
+   "id": "p048",
+   "page": 48,
+   "image": 70,
+   "side": "verso",
+   "folio": "58",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00070.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     225,
+     241,
+     2941,
+     4195
+    ],
+    "body": [
+     591,
+     2294
+    ],
+    "margin": [
+     129,
+     651
+    ],
+    "tilt": 0.7,
+    "mode": "detected"
+   },
+   "agreement": 93.9
+  },
+  {
+   "id": "p049",
+   "page": 49,
+   "image": 69,
+   "side": "recto",
+   "folio": "49",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00069.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     233,
+     2715,
+     4195
+    ],
+    "body": [
+     352,
+     2055
+    ],
+    "margin": [
+     1995,
+     2592
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.1
+  },
+  {
+   "id": "p050",
+   "page": 50,
+   "image": 72,
+   "side": "verso",
+   "folio": "50",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00072.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     152,
+     197,
+     2941,
+     4171
+    ],
+    "body": [
+     697,
+     2386
+    ],
+    "margin": [
+     366,
+     748
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p051",
+   "page": 51,
+   "image": 71,
+   "side": "recto",
+   "folio": "51",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00071.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     237,
+     2719,
+     4195
+    ],
+    "body": [
+     351,
+     2036
+    ],
+    "margin": [
+     1976,
+     2598
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 94.3
+  },
+  {
+   "id": "p052",
+   "page": 52,
+   "image": 74,
+   "side": "verso",
+   "folio": "52",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00074.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     181,
+     201,
+     2941,
+     4175
+    ],
+    "body": [
+     664,
+     2369
+    ],
+    "margin": [
+     121,
+     724
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p053",
+   "page": 53,
+   "image": 73,
+   "side": "recto",
+   "folio": "53",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00073.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     233,
+     2719,
+     4195
+    ],
+    "body": [
+     356,
+     2031
+    ],
+    "margin": [
+     1985,
+     2357
+    ],
+    "tilt": -0.5,
+    "mode": "detected"
+   },
+   "agreement": 100.0
+  },
+  {
+   "id": "p054",
+   "page": 54,
+   "image": 76,
+   "side": "verso",
+   "folio": "54",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00076.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     169,
+     213,
+     2941,
+     4191
+    ],
+    "body": [
+     609,
+     2365
+    ],
+    "margin": [
+     365,
+     669
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 90.6
+  },
+  {
+   "id": "p055",
+   "page": 55,
+   "image": 75,
+   "side": "recto",
+   "folio": "55",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00075.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     217,
+     2751,
+     4175
+    ],
+    "body": [
+     430,
+     2126
+    ],
+    "margin": [
+     2066,
+     2622
+    ],
+    "tilt": 1.1,
+    "mode": "detected"
+   },
+   "agreement": 96.7
+  },
+  {
+   "id": "p056",
+   "page": 56,
+   "image": 78,
+   "side": "verso",
+   "folio": "56",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00078.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     160,
+     221,
+     2941,
+     4191
+    ],
+    "body": [
+     590,
+     2304
+    ],
+    "margin": [
+     120,
+     650
+    ],
+    "tilt": -0.5,
+    "mode": "detected"
+   },
+   "agreement": 97.4
+  },
+  {
+   "id": "p057",
+   "page": 57,
+   "image": 77,
+   "side": "recto",
+   "folio": "57",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00077.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     241,
+     2755,
+     4207
+    ],
+    "body": [
+     407,
+     2098
+    ],
+    "margin": [
+     2038,
+     2628
+    ],
+    "tilt": -0.6,
+    "mode": "detected"
+   },
+   "agreement": 97.4
+  },
+  {
+   "id": "p058",
+   "page": 58,
+   "image": 80,
+   "side": "verso",
+   "folio": "58",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00080.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     165,
+     225,
+     2941,
+     4199
+    ],
+    "body": [
+     620,
+     2333
+    ],
+    "margin": [
+     282,
+     680
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.1
+  },
+  {
+   "id": "p059",
+   "page": 59,
+   "image": 79,
+   "side": "recto",
+   "folio": "59",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00079.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     229,
+     2755,
+     4195
+    ],
+    "body": [
+     452,
+     2138
+    ],
+    "margin": [
+     2175,
+     2457
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.4
+  },
+  {
+   "id": "p060",
+   "page": 60,
+   "image": 82,
+   "side": "verso",
+   "folio": "60",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00082.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     160,
+     229,
+     2941,
+     4211
+    ],
+    "body": [
+     613,
+     2287
+    ],
+    "margin": [
+     376,
+     610
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 88.2
+  },
+  {
+   "id": "p061",
+   "page": 61,
+   "image": 81,
+   "side": "recto",
+   "folio": "61",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00081.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     217,
+     2755,
+     4183
+    ],
+    "body": [
+     456,
+     2136
+    ],
+    "margin": [
+     2076,
+     2633
+    ],
+    "tilt": -0.3,
+    "mode": "detected"
+   },
+   "agreement": 96.9
+  },
+  {
+   "id": "p062",
+   "page": 62,
+   "image": 84,
+   "side": "verso",
+   "folio": "62",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00084.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     148,
+     245,
+     2941,
+     4215
+    ],
+    "body": [
+     639,
+     2299
+    ],
+    "margin": [
+     134,
+     699
+    ],
+    "tilt": 0.6,
+    "mode": "detected"
+   },
+   "agreement": 93.3
+  },
+  {
+   "id": "p063",
+   "page": 63,
+   "image": 83,
+   "side": "recto",
+   "folio": "63",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00083.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     229,
+     2780,
+     4191
+    ],
+    "body": [
+     469,
+     2140
+    ],
+    "margin": [
+     2102,
+     2410
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 96.7
+  },
+  {
+   "id": "p064",
+   "page": 64,
+   "image": 86,
+   "side": "verso",
+   "folio": "64",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00086.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     144,
+     249,
+     2941,
+     4215
+    ],
+    "body": [
+     643,
+     2331
+    ],
+    "margin": [
+     320,
+     695
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p065",
+   "page": 65,
+   "image": 85,
+   "side": "recto",
+   "folio": "65",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00085.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2784,
+     4179
+    ],
+    "body": [
+     421,
+     2101
+    ],
+    "margin": [
+     2041,
+     2653
+    ],
+    "tilt": 0.9,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p066",
+   "page": 66,
+   "image": 88,
+   "side": "verso",
+   "folio": "66",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00088.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     148,
+     237,
+     2941,
+     4195
+    ],
+    "body": [
+     710,
+     2412
+    ],
+    "margin": [
+     395,
+     758
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p067",
+   "page": 67,
+   "image": 87,
+   "side": "recto",
+   "folio": "67",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00087.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2792,
+     4179
+    ],
+    "body": [
+     430,
+     2234
+    ],
+    "margin": [
+     2174,
+     2443
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p068",
+   "page": 68,
+   "image": 90,
+   "side": "verso",
+   "folio": "68",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00090.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     124,
+     237,
+     2941,
+     4199
+    ],
+    "body": [
+     700,
+     2394
+    ],
+    "margin": [
+     360,
+     718
+    ],
+    "tilt": -0.6,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p069",
+   "page": 69,
+   "image": 89,
+   "side": "recto",
+   "folio": "69",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00089.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     221,
+     2800,
+     4187
+    ],
+    "body": [
+     375,
+     2058
+    ],
+    "margin": [
+     1998,
+     2662
+    ],
+    "tilt": -0.8,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p070",
+   "page": 70,
+   "image": 92,
+   "side": "verso",
+   "folio": "70",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00092.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     140,
+     245,
+     2941,
+     4199
+    ],
+    "body": [
+     709,
+     2394
+    ],
+    "margin": [
+     368,
+     665
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p071",
+   "page": 71,
+   "image": 91,
+   "side": "recto",
+   "folio": "71",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00091.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2796,
+     4183
+    ],
+    "body": [
+     429,
+     2128
+    ],
+    "margin": [
+     2088,
+     2479
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p072",
+   "page": 72,
+   "image": 94,
+   "side": "verso",
+   "folio": "72",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00094.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     193,
+     237,
+     2941,
+     4199
+    ],
+    "body": [
+     604,
+     2307
+    ],
+    "margin": [
+     280,
+     640
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p073",
+   "page": 73,
+   "image": 93,
+   "side": "recto",
+   "folio": "73",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00093.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     205,
+     2788,
+     4183
+    ],
+    "body": [
+     489,
+     2184
+    ],
+    "margin": [
+     2151,
+     2529
+    ],
+    "tilt": 0.9,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p074",
+   "page": 74,
+   "image": 96,
+   "side": "verso",
+   "folio": "74",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00096.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     185,
+     245,
+     2941,
+     4207
+    ],
+    "body": [
+     540,
+     2239
+    ],
+    "margin": [
+     124,
+     600
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p075",
+   "page": 75,
+   "image": 95,
+   "side": "recto",
+   "folio": "75",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00095.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "dispatched",
+    "readB": "dispatched",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     197,
+     2792,
+     4167
+    ],
+    "body": [
+     553,
+     2253
+    ],
+    "margin": [
+     2193,
+     2663
+    ],
+    "tilt": 0.8,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p076",
+   "page": 76,
+   "image": 98,
+   "side": "verso",
+   "folio": "76",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00098.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     189,
+     245,
+     2941,
+     4203
+    ],
+    "body": [
+     501,
+     2183
+    ],
+    "margin": [
+     131,
+     561
+    ],
+    "tilt": -0.9,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p077",
+   "page": 77,
+   "image": 97,
+   "side": "recto",
+   "folio": "78",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00097.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     193,
+     2800,
+     4163
+    ],
+    "body": [
+     549,
+     2245
+    ],
+    "margin": [
+     2185,
+     2677
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p078",
+   "page": 78,
+   "image": 100,
+   "side": "verso",
+   "folio": "78",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00100.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     169,
+     245,
+     2941,
+     4203
+    ],
+    "body": [
+     566,
+     2275
+    ],
+    "margin": [
+     237,
+     626
+    ],
+    "tilt": -0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p079",
+   "page": 79,
+   "image": 99,
+   "side": "recto",
+   "folio": "79",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00099.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     193,
+     2824,
+     4159
+    ],
+    "body": [
+     549,
+     2280
+    ],
+    "margin": [
+     2220,
+     2607
+    ],
+    "tilt": 1.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p080",
+   "page": 80,
+   "image": 102,
+   "side": "verso",
+   "folio": "80",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00102.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     169,
+     249,
+     2941,
+     4207
+    ],
+    "body": [
+     615,
+     2304
+    ],
+    "margin": [
+     280,
+     646
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p081",
+   "page": 81,
+   "image": 101,
+   "side": "recto",
+   "folio": "81",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00101.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     193,
+     2840,
+     4163
+    ],
+    "body": [
+     473,
+     2165
+    ],
+    "margin": [
+     2130,
+     2491
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p082",
+   "page": 82,
+   "image": 104,
+   "side": "verso",
+   "folio": "82",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00104.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     193,
+     245,
+     2941,
+     4215
+    ],
+    "body": [
+     712,
+     2398
+    ],
+    "margin": [
+     125,
+     772
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p083",
+   "page": 83,
+   "image": 103,
+   "side": "recto",
+   "folio": "83",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00103.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     189,
+     2840,
+     4155
+    ],
+    "body": [
+     486,
+     2173
+    ],
+    "margin": [
+     2124,
+     2507
+    ],
+    "tilt": 0.7,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p084",
+   "page": 84,
+   "image": 106,
+   "side": "verso",
+   "folio": "84",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00106.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     197,
+     253,
+     2941,
+     4211
+    ],
+    "body": [
+     648,
+     2352
+    ],
+    "margin": [
+     327,
+     686
+    ],
+    "tilt": -0.8,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p085",
+   "page": 85,
+   "image": 105,
+   "side": "recto",
+   "folio": "85",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00105.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     193,
+     2780,
+     4167
+    ],
+    "body": [
+     408,
+     2096
+    ],
+    "margin": [
+     2052,
+     2414
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p086",
+   "page": 86,
+   "image": 108,
+   "side": "verso",
+   "folio": "86",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00108.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     193,
+     249,
+     2941,
+     4207
+    ],
+    "body": [
+     665,
+     2348
+    ],
+    "margin": [
+     340,
+     712
+    ],
+    "tilt": -0.5,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p087",
+   "page": 87,
+   "image": 107,
+   "side": "recto",
+   "folio": "87",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00107.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     189,
+     2780,
+     4163
+    ],
+    "body": [
+     368,
+     2374
+    ],
+    "margin": [
+     2314,
+     2780
+    ],
+    "tilt": 0.9,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p088",
+   "page": 88,
+   "image": 110,
+   "side": "verso",
+   "folio": "88",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00110.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     169,
+     217,
+     2941,
+     4183
+    ],
+    "body": [
+     693,
+     2377
+    ],
+    "margin": [
+     131,
+     753
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p089",
+   "page": 89,
+   "image": 109,
+   "side": "recto",
+   "folio": "89",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00109.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     185,
+     2780,
+     4163
+    ],
+    "body": [
+     502,
+     2200
+    ],
+    "margin": [
+     2140,
+     2653
+    ],
+    "tilt": 0.8,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p090",
+   "page": 90,
+   "image": 112,
+   "side": "verso",
+   "folio": "90",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00112.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     185,
+     253,
+     2941,
+     4215
+    ],
+    "body": [
+     585,
+     2247
+    ],
+    "margin": [
+     121,
+     645
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p091",
+   "page": 91,
+   "image": 111,
+   "side": "recto",
+   "folio": "91",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00111.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     185,
+     2767,
+     4155
+    ],
+    "body": [
+     446,
+     2143
+    ],
+    "margin": [
+     2083,
+     2466
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p092",
+   "page": 92,
+   "image": 114,
+   "side": "verso",
+   "folio": "92",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00114.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     165,
+     217,
+     2941,
+     4183
+    ],
+    "body": [
+     608,
+     2290
+    ],
+    "margin": [
+     288,
+     642
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p093",
+   "page": 93,
+   "image": 113,
+   "side": "recto",
+   "folio": "93",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00113.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     181,
+     2747,
+     4147
+    ],
+    "body": [
+     423,
+     2126
+    ],
+    "margin": [
+     2066,
+     2441
+    ],
+    "tilt": -0.9,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p094",
+   "page": 94,
+   "image": 116,
+   "side": "verso",
+   "folio": "94",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00116.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     181,
+     253,
+     2941,
+     4215
+    ],
+    "body": [
+     644,
+     2310
+    ],
+    "margin": [
+     324,
+     685
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p095",
+   "page": 95,
+   "image": 115,
+   "side": "recto",
+   "folio": "95",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00115.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     209,
+     2767,
+     4183
+    ],
+    "body": [
+     486,
+     2153
+    ],
+    "margin": [
+     2115,
+     2412
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p096",
+   "page": 96,
+   "image": 118,
+   "side": "verso",
+   "folio": "96",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00118.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     148,
+     249,
+     2941,
+     4219
+    ],
+    "body": [
+     618,
+     2300
+    ],
+    "margin": [
+     131,
+     678
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p097",
+   "page": 97,
+   "image": 117,
+   "side": "recto",
+   "folio": "97",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00117.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     201,
+     2796,
+     4163
+    ],
+    "body": [
+     431,
+     2105
+    ],
+    "margin": [
+     2061,
+     2422
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p098",
+   "page": 98,
+   "image": 120,
+   "side": "verso",
+   "folio": "98",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00120.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     160,
+     257,
+     2941,
+     4207
+    ],
+    "body": [
+     695,
+     2377
+    ],
+    "margin": [
+     136,
+     755
+    ],
+    "tilt": -0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p099",
+   "page": 99,
+   "image": 119,
+   "side": "recto",
+   "folio": "99",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00119.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     197,
+     2788,
+     4155
+    ],
+    "body": [
+     376,
+     2096
+    ],
+    "margin": [
+     2036,
+     2660
+    ],
+    "tilt": 0.6,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p100",
+   "page": 100,
+   "image": 122,
+   "side": "verso",
+   "folio": "100",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00122.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     189,
+     241,
+     2941,
+     4195
+    ],
+    "body": [
+     738,
+     2418
+    ],
+    "margin": [
+     397,
+     770
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p101",
+   "page": 101,
+   "image": 121,
+   "side": "recto",
+   "folio": "101",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00121.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     189,
+     2792,
+     4151
+    ],
+    "body": [
+     420,
+     2115
+    ],
+    "margin": [
+     2055,
+     2439
+    ],
+    "tilt": 1.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p102",
+   "page": 102,
+   "image": 124,
+   "side": "verso",
+   "folio": "102",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00124.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     152,
+     233,
+     2941,
+     4199
+    ],
+    "body": [
+     694,
+     2380
+    ],
+    "margin": [
+     364,
+     717
+    ],
+    "tilt": -1.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p103",
+   "page": 103,
+   "image": 123,
+   "side": "recto",
+   "folio": "103",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00123.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2763,
+     4187
+    ],
+    "body": [
+     394,
+     2106
+    ],
+    "margin": [
+     2046,
+     2388
+    ],
+    "tilt": 1.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p104",
+   "page": 104,
+   "image": 126,
+   "side": "verso",
+   "folio": "104",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00126.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     169,
+     241,
+     2941,
+     4203
+    ],
+    "body": [
+     615,
+     2344
+    ],
+    "margin": [
+     134,
+     675
+    ],
+    "tilt": -1.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p105",
+   "page": 105,
+   "image": 125,
+   "side": "recto",
+   "folio": "105",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00125.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     205,
+     2767,
+     4183
+    ],
+    "body": [
+     475,
+     2158
+    ],
+    "margin": [
+     2098,
+     2640
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p106",
+   "page": 106,
+   "image": 128,
+   "side": "verso",
+   "folio": "106",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00128.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     120,
+     241,
+     2941,
+     4195
+    ],
+    "body": [
+     600,
+     2281
+    ],
+    "margin": [
+     126,
+     660
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p107",
+   "page": 107,
+   "image": 127,
+   "side": "recto",
+   "folio": "107",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00127.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     201,
+     2775,
+     4171
+    ],
+    "body": [
+     494,
+     2218
+    ],
+    "margin": [
+     2158,
+     2651
+    ],
+    "tilt": -0.7,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p108",
+   "page": 108,
+   "image": 130,
+   "side": "verso",
+   "folio": "108",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00130.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     120,
+     221,
+     2941,
+     4183
+    ],
+    "body": [
+     595,
+     2277
+    ],
+    "margin": [
+     119,
+     655
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p109",
+   "page": 109,
+   "image": 129,
+   "side": "recto",
+   "folio": "109",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00129.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     193,
+     2788,
+     4159
+    ],
+    "body": [
+     522,
+     2215
+    ],
+    "margin": [
+     2155,
+     2664
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p110",
+   "page": 110,
+   "image": 132,
+   "side": "verso",
+   "folio": "110",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00132.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     132,
+     225,
+     2941,
+     4183
+    ],
+    "body": [
+     591,
+     2274
+    ],
+    "margin": [
+     254,
+     630
+    ],
+    "tilt": -0.9,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p111",
+   "page": 111,
+   "image": 131,
+   "side": "recto",
+   "folio": "111",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00131.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     181,
+     2767,
+     4151
+    ],
+    "body": [
+     462,
+     2150
+    ],
+    "margin": [
+     2090,
+     2461
+    ],
+    "tilt": 0.6,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p112",
+   "page": 112,
+   "image": 134,
+   "side": "verso",
+   "folio": "112",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00134.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     152,
+     225,
+     2941,
+     4191
+    ],
+    "body": [
+     634,
+     2316
+    ],
+    "margin": [
+     129,
+     694
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p113",
+   "page": 113,
+   "image": 133,
+   "side": "recto",
+   "folio": "113",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00133.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     189,
+     2771,
+     4151
+    ],
+    "body": [
+     379,
+     2084
+    ],
+    "margin": [
+     2024,
+     2650
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p114",
+   "page": 114,
+   "image": 136,
+   "side": "verso",
+   "folio": "114",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00136.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     156,
+     229,
+     2941,
+     4191
+    ],
+    "body": [
+     632,
+     2334
+    ],
+    "margin": [
+     120,
+     692
+    ],
+    "tilt": -0.5,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p115",
+   "page": 115,
+   "image": 135,
+   "side": "recto",
+   "folio": "115",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00135.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     185,
+     2780,
+     4151
+    ],
+    "body": [
+     325,
+     2082
+    ],
+    "margin": [
+     2022,
+     2647
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p116",
+   "page": 116,
+   "image": 138,
+   "side": "verso",
+   "folio": "116",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00138.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     209,
+     245,
+     2941,
+     4211
+    ],
+    "body": [
+     682,
+     2400
+    ],
+    "margin": [
+     364,
+     742
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p117",
+   "page": 117,
+   "image": 137,
+   "side": "recto",
+   "folio": "117",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00137.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     181,
+     2820,
+     4143
+    ],
+    "body": [
+     431,
+     2133
+    ],
+    "margin": [
+     2073,
+     2700
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p118",
+   "page": 118,
+   "image": 140,
+   "side": "verso",
+   "folio": "118",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00140.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     148,
+     213,
+     2941,
+     4175
+    ],
+    "body": [
+     616,
+     2426
+    ],
+    "margin": [
+     400,
+     668
+    ],
+    "tilt": -1.2,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p119",
+   "page": 119,
+   "image": 139,
+   "side": "recto",
+   "folio": "119",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00139.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     201,
+     2792,
+     4171
+    ],
+    "body": [
+     424,
+     2128
+    ],
+    "margin": [
+     2083,
+     2467
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p120",
+   "page": 120,
+   "image": 142,
+   "side": "verso",
+   "folio": "120",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00142.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     148,
+     241,
+     2941,
+     4199
+    ],
+    "body": [
+     681,
+     2374
+    ],
+    "margin": [
+     334,
+     718
+    ],
+    "tilt": -0.8,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p121",
+   "page": 121,
+   "image": 141,
+   "side": "recto",
+   "folio": "121",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00141.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     193,
+     2763,
+     4159
+    ],
+    "body": [
+     458,
+     2155
+    ],
+    "margin": [
+     2095,
+     2476
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p122",
+   "page": 122,
+   "image": 144,
+   "side": "verso",
+   "folio": "122",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00144.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     173,
+     209,
+     2941,
+     4163
+    ],
+    "body": [
+     621,
+     2320
+    ],
+    "margin": [
+     287,
+     660
+    ],
+    "tilt": -1.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p123",
+   "page": 123,
+   "image": 143,
+   "side": "recto",
+   "folio": "123",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00143.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     189,
+     2780,
+     4159
+    ],
+    "body": [
+     502,
+     2217
+    ],
+    "margin": [
+     2157,
+     2548
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p124",
+   "page": 124,
+   "image": 146,
+   "side": "verso",
+   "folio": "124",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00146.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     156,
+     241,
+     2941,
+     4203
+    ],
+    "body": [
+     578,
+     2280
+    ],
+    "margin": [
+     239,
+     619
+    ],
+    "tilt": -0.7,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p125",
+   "page": 125,
+   "image": 145,
+   "side": "recto",
+   "folio": "125",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00145.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     193,
+     2767,
+     4163
+    ],
+    "body": [
+     451,
+     2168
+    ],
+    "margin": [
+     2108,
+     2509
+    ],
+    "tilt": 0.5,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p126",
+   "page": 126,
+   "image": 148,
+   "side": "verso",
+   "folio": "126",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00148.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     169,
+     221,
+     2941,
+     4175
+    ],
+    "body": [
+     553,
+     2272
+    ],
+    "margin": [
+     222,
+     613
+    ],
+    "tilt": -1.5,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p127",
+   "page": 127,
+   "image": 147,
+   "side": "recto",
+   "folio": "127",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00147.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     201,
+     2771,
+     4163
+    ],
+    "body": [
+     399,
+     2095
+    ],
+    "margin": [
+     2054,
+     2433
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p128",
+   "page": 128,
+   "image": 150,
+   "side": "verso",
+   "folio": "128",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00150.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     181,
+     233,
+     2941,
+     4195
+    ],
+    "body": [
+     608,
+     2308
+    ],
+    "margin": [
+     125,
+     668
+    ],
+    "tilt": -0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p129",
+   "page": 129,
+   "image": 149,
+   "side": "recto",
+   "folio": "129",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00149.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     217,
+     2788,
+     4171
+    ],
+    "body": [
+     410,
+     2103
+    ],
+    "margin": [
+     2060,
+     2432
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p130",
+   "page": 130,
+   "image": 152,
+   "side": "verso",
+   "folio": "130",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00152.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     165,
+     233,
+     2941,
+     4187
+    ],
+    "body": [
+     726,
+     2412
+    ],
+    "margin": [
+     133,
+     786
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p131",
+   "page": 131,
+   "image": 151,
+   "side": "recto",
+   "folio": "131",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00151.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     193,
+     2848,
+     4147
+    ],
+    "body": [
+     493,
+     2218
+    ],
+    "margin": [
+     2158,
+     2715
+    ],
+    "tilt": 1.2,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p132",
+   "page": 132,
+   "image": 154,
+   "side": "verso",
+   "folio": "132",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00154.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     156,
+     241,
+     2941,
+     4195
+    ],
+    "body": [
+     703,
+     2400
+    ],
+    "margin": [
+     356,
+     746
+    ],
+    "tilt": -0.9,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p133",
+   "page": 133,
+   "image": 153,
+   "side": "recto",
+   "folio": "133",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00153.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     189,
+     2792,
+     4139
+    ],
+    "body": [
+     449,
+     2152
+    ],
+    "margin": [
+     2107,
+     2495
+    ],
+    "tilt": 1.1,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p134",
+   "page": 134,
+   "image": 156,
+   "side": "verso",
+   "folio": "134",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00156.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     160,
+     241,
+     2941,
+     4195
+    ],
+    "body": [
+     661,
+     2354
+    ],
+    "margin": [
+     318,
+     692
+    ],
+    "tilt": -1.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p135",
+   "page": 135,
+   "image": 155,
+   "side": "recto",
+   "folio": "135",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00155.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     205,
+     2852,
+     4159
+    ],
+    "body": [
+     494,
+     2181
+    ],
+    "margin": [
+     2140,
+     2508
+    ],
+    "tilt": 1.5,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p136",
+   "page": 136,
+   "image": 158,
+   "side": "verso",
+   "folio": "136",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00158.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     140,
+     237,
+     2941,
+     4191
+    ],
+    "body": [
+     625,
+     2324
+    ],
+    "margin": [
+     291,
+     661
+    ],
+    "tilt": -1.5,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p137",
+   "page": 137,
+   "image": 157,
+   "side": "recto",
+   "folio": "137",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00157.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     201,
+     2844,
+     4171
+    ],
+    "body": [
+     505,
+     2221
+    ],
+    "margin": [
+     2161,
+     2586
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p138",
+   "page": 138,
+   "image": 160,
+   "side": "verso",
+   "folio": "138",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00160.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     124,
+     249,
+     2941,
+     4199
+    ],
+    "body": [
+     598,
+     2298
+    ],
+    "margin": [
+     275,
+     638
+    ],
+    "tilt": -0.6,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p139",
+   "page": 139,
+   "image": 159,
+   "side": "recto",
+   "folio": "139",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00159.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     181,
+     2864,
+     4147
+    ],
+    "body": [
+     566,
+     2261
+    ],
+    "margin": [
+     2201,
+     2864
+    ],
+    "tilt": 1.1,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p140",
+   "page": 140,
+   "image": 162,
+   "side": "verso",
+   "folio": "140",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00162.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     140,
+     233,
+     2941,
+     4191
+    ],
+    "body": [
+     612,
+     2308
+    ],
+    "margin": [
+     0,
+     653
+    ],
+    "tilt": -0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p141",
+   "page": 141,
+   "image": 161,
+   "side": "recto",
+   "folio": "141",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00161.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2856,
+     4179
+    ],
+    "body": [
+     573,
+     2612
+    ],
+    "margin": [
+     2552,
+     2856
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p142",
+   "page": 142,
+   "image": 164,
+   "side": "verso",
+   "folio": "142",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00164.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     156,
+     217,
+     2941,
+     4175
+    ],
+    "body": [
+     635,
+     2322
+    ],
+    "margin": [
+     0,
+     333
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p143",
+   "page": 143,
+   "image": 163,
+   "side": "recto",
+   "folio": "143",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00163.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2864,
+     4179
+    ],
+    "body": [
+     594,
+     2338
+    ],
+    "margin": [
+     2278,
+     2586
+    ],
+    "tilt": 1.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p144",
+   "page": 144,
+   "image": 166,
+   "side": "verso",
+   "folio": "144",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00166.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     156,
+     213,
+     2941,
+     4191
+    ],
+    "body": [
+     619,
+     2305
+    ],
+    "margin": [
+     295,
+     647
+    ],
+    "tilt": -0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p145",
+   "page": 145,
+   "image": 165,
+   "side": "recto",
+   "folio": "145",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00165.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     209,
+     2840,
+     4163
+    ],
+    "body": [
+     469,
+     2187
+    ],
+    "margin": [
+     2127,
+     2711
+    ],
+    "tilt": 0.9,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p146",
+   "page": 146,
+   "image": 168,
+   "side": "verso",
+   "folio": "146",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00168.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     156,
+     205,
+     2941,
+     4191
+    ],
+    "body": [
+     626,
+     2356
+    ],
+    "margin": [
+     129,
+     686
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p147",
+   "page": 147,
+   "image": 167,
+   "side": "recto",
+   "folio": "147",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00167.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2792,
+     4163
+    ],
+    "body": [
+     408,
+     2108
+    ],
+    "margin": [
+     2048,
+     2668
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p148",
+   "page": 148,
+   "image": 170,
+   "side": "verso",
+   "folio": "148",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00170.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     136,
+     269,
+     2941,
+     4243
+    ],
+    "body": [
+     655,
+     2362
+    ],
+    "margin": [
+     336,
+     715
+    ],
+    "tilt": -1.2,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p149",
+   "page": 149,
+   "image": 169,
+   "side": "recto",
+   "folio": "149",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00169.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     205,
+     2800,
+     4159
+    ],
+    "body": [
+     486,
+     2182
+    ],
+    "margin": [
+     2122,
+     2676
+    ],
+    "tilt": 0.6,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p150",
+   "page": 150,
+   "image": 172,
+   "side": "verso",
+   "folio": "150",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00172.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     152,
+     209,
+     2941,
+     4187
+    ],
+    "body": [
+     651,
+     2352
+    ],
+    "margin": [
+     319,
+     696
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p151",
+   "page": 151,
+   "image": 171,
+   "side": "recto",
+   "folio": "151",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00171.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     205,
+     2804,
+     4159
+    ],
+    "body": [
+     483,
+     2174
+    ],
+    "margin": [
+     2125,
+     2499
+    ],
+    "tilt": 1.5,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p152",
+   "page": 152,
+   "image": 174,
+   "side": "verso",
+   "folio": "152",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00174.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     169,
+     213,
+     2941,
+     4179
+    ],
+    "body": [
+     642,
+     2340
+    ],
+    "margin": [
+     314,
+     694
+    ],
+    "tilt": -1.2,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p153",
+   "page": 153,
+   "image": 173,
+   "side": "recto",
+   "folio": "153",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00173.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     209,
+     2808,
+     4171
+    ],
+    "body": [
+     511,
+     2206
+    ],
+    "margin": [
+     2146,
+     2532
+    ],
+    "tilt": 0.4,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p154",
+   "page": 154,
+   "image": 176,
+   "side": "verso",
+   "folio": "154",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00176.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     104,
+     217,
+     2941,
+     4175
+    ],
+    "body": [
+     625,
+     2330
+    ],
+    "margin": [
+     286,
+     685
+    ],
+    "tilt": 0.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p155",
+   "page": 155,
+   "image": 175,
+   "side": "recto",
+   "folio": "155",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00175.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2808,
+     4171
+    ],
+    "body": [
+     513,
+     2199
+    ],
+    "margin": [
+     2159,
+     2537
+    ],
+    "tilt": 1.3,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p156",
+   "page": 156,
+   "image": 178,
+   "side": "verso",
+   "folio": "156",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00178.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     128,
+     213,
+     2941,
+     4171
+    ],
+    "body": [
+     607,
+     2313
+    ],
+    "margin": [
+     266,
+     647
+    ],
+    "tilt": -0.6,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p157",
+   "page": 157,
+   "image": 177,
+   "side": "recto",
+   "folio": "157",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00177.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     217,
+     2816,
+     4175
+    ],
+    "body": [
+     491,
+     2088
+    ],
+    "margin": [
+     2028,
+     2564
+    ],
+    "tilt": -0.7,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p158",
+   "page": 158,
+   "image": 180,
+   "side": "verso",
+   "folio": "158",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00180.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     120,
+     221,
+     2941,
+     4175
+    ],
+    "body": [
+     592,
+     2278
+    ],
+    "margin": [
+     256,
+     640
+    ],
+    "tilt": -0.6,
+    "mode": "detected"
+   }
+  },
+  {
+   "id": "p159",
+   "page": 159,
+   "image": 179,
+   "side": "recto",
+   "folio": "159",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00179.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     213,
+     2828,
+     4171
+    ],
+    "body": [
+     512,
+     2189
+    ],
+    "margin": [
+     2129,
+     2513
+    ],
+    "tilt": 1.3,
+    "mode": "detected"
+   },
+   "agreement": 94.4
+  },
+  {
+   "id": "p160",
+   "page": 160,
+   "image": 182,
+   "side": "verso",
+   "folio": "160",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00182.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     120,
+     225,
+     2941,
+     4179
+    ],
+    "body": [
+     625,
+     2295
+    ],
+    "margin": [
+     136,
+     685
+    ],
+    "tilt": -1.4,
+    "mode": "detected"
+   }
+  }
+ ]
+}

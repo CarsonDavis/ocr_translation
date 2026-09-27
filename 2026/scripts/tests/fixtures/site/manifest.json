@@ -1,0 +1,178 @@
+{
+ "item": "PR-MONTAIGNE-00001-00007-00022",
+ "edition": "Paris: Galliot du Pré, 1572",
+ "native_size": [
+  2941,
+  4711
+ ],
+ "pages": [
+  {
+   "id": "p004",
+   "page": 4,
+   "image": 26,
+   "side": "verso",
+   "folio": "4",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00026.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     136,
+     229,
+     2941,
+     4191
+    ],
+    "body": [
+     647,
+     2380
+    ],
+    "margin": [
+     301,
+     680
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.4
+  },
+  {
+   "id": "p005",
+   "page": 5,
+   "image": 27,
+   "side": "recto",
+   "folio": "5",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00027.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     0,
+     233,
+     2767,
+     4199
+    ],
+    "body": [
+     380,
+     2113
+    ],
+    "margin": [
+     2066,
+     2437
+    ],
+    "tilt": 0.0,
+    "mode": "detected"
+   },
+   "agreement": 97.2
+  },
+  {
+   "id": "p006",
+   "page": 6,
+   "image": 28,
+   "side": "verso",
+   "folio": "6",
+   "source": "cudl",
+   "iiif": "https://images.lib.cam.ac.uk/iiif/PR-MONTAIGNE-00001-00007-00022-000-00028.jp2",
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "pending",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop": {
+    "box": [
+     128,
+     225,
+     2941,
+     4195
+    ],
+    "body": [
+     674,
+     2401
+    ],
+    "margin": [
+     337,
+     715
+    ],
+    "tilt": 0.7,
+    "mode": "detected"
+   },
+   "agreement": 94.7
+  },
+  {
+   "id": "p041",
+   "page": 41,
+   "image": null,
+   "side": "recto",
+   "folio": "41",
+   "source": "gallica",
+   "iiif": null,
+   "status": {
+    "acquired": "done",
+    "cropped": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
+    "final": "done",
+    "spotchecked": "pending",
+    "translated": "pending",
+    "reviewed": "pending"
+   },
+   "crop_override": [
+    540,
+    620,
+    2040,
+    2970
+   ],
+   "crop": {
+    "box": [
+     540,
+     620,
+     2040,
+     2970
+    ],
+    "body": [
+     78,
+     1080
+    ],
+    "margin": [
+     1020,
+     1287
+    ],
+    "tilt": 0.8,
+    "mode": "override",
+    "foot_override": [
+     0,
+     1947,
+     1500,
+     2277
+    ]
+   },
+   "agreement": 97.1
+  }
+ ]
+}

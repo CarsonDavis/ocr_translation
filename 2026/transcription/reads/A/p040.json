@@ -1,0 +1,94 @@
+{
+ "id": "p040",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "40",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "lines": [
+    "enfance. enſemble les propos qu'il auoit tenus ſans ia-",
+    "mais faillir d'vn trauers d'ongle {e}. cõme auſsi faiſoit",
+    "noſtre ruſtre de tous les actes & propos dudit Martin."
+   ],
+   "continues_prev": true,
+   "continues_next": false
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "La matiere miſe en droit ſur la manie-",
+    "re de proceder, ſ'en enſuit Ordõnãce de",
+    "confrontemens contre ledit du Tilh. &",
+    "neãtmoins, q̃ ladite de Rols ſe preſẽtera",
+    "en perſõne pour eſtre ouye, & accaree",
+    "ſi beſoin eſt. & que certains teſmoins",
+    "comprins & nommez en l'audition du-",
+    "dis du Tilh, ſoy diſant Martin Guerre,",
+    "& autres qui ſeront baillez par declara-",
+    "tion, ſerõt ouys ſur certains faicts, reſul",
+    "tãs du proces. Ladite de Rols ouye, reſ-",
+    "põd de meſmes, & ſ'accorde du tout aux",
+    "reſponſes dudit du Tilh. hors mis, qu'elle",
+    "adiouſte, que peu apres ſ'eſtre mariee",
+    "auec Martin Guerre, demeurerent huit",
+    "ou neuf ans liez, & maleficiez ſans pou",
+    "uoir cohabiter charnellement enſem-",
+    "ble. dont ſes plus prochains parens luy",
+    "conſeilloyent requerir ſeparation de",
+    "mariage: à quoy pourtant elle ne voulut",
+    "oncques entendre."
+   ],
+   "continues_prev": false,
+   "continues_next": false
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. V.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Cet acte ſeul faiſoit (cõme vne vraye pierre de touche)",
+    "grãd preuue de l'hõneſteté de ladite de Rols, qui ne vou"
+   ],
+   "continues_prev": false,
+   "continues_next": true
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "e",
+   "lines": [
+    "Seneque au",
+    "prologue des",
+    "Declamatiõs."
+   ],
+   "beside_line": "mais faillir d'vn trauers d'ongle {e}. cõme auſsi faiſoit"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "grãd preuue de l'hõneſteté de ladite de Rols, qui ne vou",
+   "note": "line ends with the word 'vouloit' broken WITHOUT a printed hyphen (checked at high zoom to the right edge of the type page). The compositor set 'ne' and 'vou' very tight; transcribed as two words per the word-division rule (cf. 'conceut in-'), but docs/conventions.md §1 gives the illustrative example 'qui nevou-'. Reconciler should settle both the spacing and the absent hyphen.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "re de proceder, ſ'en enſuit Ordõnãce de",
+   "note": "the mark over the 'a' of 'Ordõnãce' is lightly inked and reads as a slanted stroke; taken as a tilde (= Ordonnance), matching the clearly wavy tilde over the 'o' of the same word."
+  }
+ ]
+}

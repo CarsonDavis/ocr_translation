@@ -1,0 +1,192 @@
+{
+ "id": "p048",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "58",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſur certains faicts, & ouys autres teſ-",
+    "moins que ceux des enqueſtes faites par",
+    "le premier iuge. Mais quoy? ces enqueſtes",
+    "par authorité de la cour faites, les iuges",
+    "furent plus incertains que iamais: car de",
+    "vingt cinq ou trente teſmoins ouys d'of-",
+    "fice, les neuf ou dix aſſeuroyent que c'eſt",
+    "oit Martin Guerre: & ſept ou huit, que ce",
+    "eſtoit Arnauld de Tilb: & le reſte, pour le",
+    "conflict des circonſtances, & de la ſimili-",
+    "tude du priſonnier en doutoyent, n'o.",
+    "ſans aſſeurer que ce fuſt l'vn pluſtoſt que",
+    "l'autre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Contemplent vn peu les iuges ici, & ſingulierement",
+    "les ſouuerains, combien il eſt dangereux, & plein de pe",
+    "rils, d'aſſeoir vn iugement, meſmes de l'honneur, & de",
+    "la vie, ſur le dire des teſmoins: leſquels, bien ſouuent",
+    "depoſent à credit: ou pour ſeruir à l'affectiõ de la partie",
+    "qui les produit, & miniſtre, plus qu'à la verité du nego-",
+    "ce: dont voyons ſouuentesfois aduenir, que ſur con-",
+    "traires faicts, diuerſes enqueſtes faites, reſultent preu-",
+    "ues repugnantes, ſeruant chacune à l'intention de ſon",
+    "maiſtre. Sur quoy faut bien que le iuge ſoit prudent, &",
+    "aduiſé: auquel la loy, par la bouche de Calliſtrat, remet",
+    "le tout diſant, TV DOIS, & peux mieux ſçauoir",
+    "quelle foy on doit adiouſter aux teſmoins, de q̃lle qua",
+    "lité, en quelle opinion ils ſont: & ſ'ils ont depoſé ſim-",
+    "plemẽt, ou choſes pourpẽſees, & tous d'vn meſme lan-",
+    "gage, & ſi ſur l'inſtant qu'ont eſté interroguez ils ont",
+    "chãcelé, ou reſpondu choſes vray-ſemblables {a}. Mais de",
+    "ces preuues par teſmoins, nous en dirons quelque mot",
+    "d'auantage ci bas, auec l'aide de Dieu {b}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "chãcelé, ou reſpondu choſes vray-ſemblables {a}. Mais de",
+   "lines": [
+    "l. iij. P. ij. D.",
+    "de teſt."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ces preuues par teſmoins, nous en dirons quelque mot",
+   "lines": [
+    "En l'anno",
+    "tation lXXiij"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "tude du priſonnier en doutoyent, n'o.",
+   "note": "line-end mark after \"n'o\": the word runs on as \"n'o|ſans\" (blocks[0].lines[11]), yet a mark is printed after the o. At 5x (body-3.jpg, fifth line, right edge) it is a small round dot sitting on the baseline with no tail; the comma after 'doutoyent' on the same line has a clear descending tail, and the dot matches the period after \"l'autre.\" and after \"iuge.\". Read as a period, sic, printed inside a word broken across lines. It is not a hyphen (hyphens on this page, e.g. 'teſ-', 'd'of-', 'ſimili-', sit at mid height and are strokes, not dots).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "eſtoit Arnauld de Tilb: & le reſte, pour le",
+   "note": "the print sets 'lereſte' as one word (no gap between 'le' and 'reſte'); two distinct words, so normalized to 'le reſte' per conventions §1 (word division normalized). Also 'Tilb:&' is set tight and 'reſte,pour' has no space after the comma; both normalized.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "le premier iuge. Mais quoy? ces enqueſtes",
+   "note": "'iuge.Mais' and 'quoy?ces' are printed with no space after the point and the question mark; normalized to one space per conventions §1. The mark after 'iuge' is a round baseline dot (period), checked at 4.5x.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "par authorité de la cour faites, les iuges",
+   "note": "a justification space is printed before the comma ('faites , les iuges'); normalized away per §1. Same at blocks[2].lines[2] ('l'honneur , & de') and blocks[2].lines[6] ('aduenir , que').",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Contemplent vn peu les iuges ici, & ſingulierement",
+   "note": "a small tilde-shaped tick is printed above the final 't' of 'ſingulierement' at the right margin (body-4.jpg, 9x). The word is complete without it and no nasal can be supplied, so it is not transcribed as a tilde; most likely a stray inked sort or a damaged kern. The same kind of tick appears over the final 't' of 'mot' at blocks[2].lines[17], also at the right margin.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "ces preuues par teſmoins, nous en dirons quelque mot",
+   "note": "last word 'mot': at 12x (body-7.jpg) the middle letter is under-inked on its right side and at reading size can look like 'c' ('mct'); the bowl is round and o-wide, with faint ink at the top-right and bottom-right, so it is an 'o'. The final 't' is over-inked and carries the same stray tick as 'ſingulierement'. Read 'mot'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "d'auantage ci bas, auec l'aide de Dieu {b}.",
+   "note": "the print sets 'd'a uantage' with a clear space after 'd'a' (body-7.jpg, 6x); a single word, so the space is closed up per conventions §1 (word division normalized). Reader A may transcribe 'd'a uantage'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "d'auantage ci bas, auec l'aide de Dieu {b}.",
+   "note": "punctuation after marker b at the end of the annotation: at 14x (body-7.jpg) there is a round dot on the baseline plus a much smaller wedge-shaped tick immediately above it. Compared with the colons on this page ('ſont:', 'Tilb:', 'credit:'), whose two marks are equal round dots set about a dot-width apart, the upper mark here is neither round nor the right size, and no descender from the line above reaches this point. Read as a period; a badly inked colon cannot be completely excluded.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "quelle foy on doit adiouſter aux teſmoins, de q̃lle qua",
+   "note": "'TV DOIS' is set in spaced capitals (T V  D O I S); closed up per conventions §3 and the paragraph flagged spaced_caps. The mark after 'DOIS' is a comma (descending tail visible at 6x), not a semicolon.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "lité, en quelle opinion ils ſont: & ſ'ils ont depoſé ſim-",
+   "note": "'q̃lle' = 'quelle': a 'q' with a tilde/macron above it followed by 'lle' (body-6.jpg, 6x). Transcribed as q + U+0303 per conventions §2 and not expanded. The line ends 'qua' with no hyphen; it continues as 'lité' on the next line.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "depoſent à credit: ou pour ſeruir à l'affectiõ de la partie",
+   "note": "'l'affectiõ': the mark over the final o is a straight bar (macron-shaped) rather than a wavy tilde; transcribed as õ per conventions §2. Same shape over the e of 'plemẽt' and 'pourpẽſees' (blocks[2].lines[14]) and over the a of 'chãcelé' (blocks[2].lines[16]). 'credit:ou' is printed tight; spacing normalized.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij. P. ij. D.",
+   "note": "citation read at 9x and 12x (margin-3.jpg). Glyphs: 'l' point, 'iij' (i + the italic ij pair, two dots and a descender), point, italic capital 'P', point, the same italic 'ij' pair, point, italic capital 'D', point. 'P.' is presumably the paragraph reference (§/parag.) but is printed as a P; transcribed as printed, not expanded. The points are set tight ('l.iij.P.ij.D.'); spacing normalized per §1. The second numeral could conceivably be a single 'j' if one of the two dots is ink, but two dots are clearly separated.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "En l'anno",
+   "note": "a small hook-shaped mark is printed above the final 'o' of 'anno' (margin-4.jpg, 7x). The word runs on to 'tation' on the next line ('l'annotation'), so no nasal abbreviation is possible; treated as a stray mark or an italic exit stroke and NOT transcribed as a tilde. Reader A may read 'õ'.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "tation lXXiij",
+   "note": "the annotation number: the two X glyphs are cap-height, clearly taller than the x-height letters ('a', 'o', 'n') of 'tation' on the same line and about the height of the 't' ascender, so they are capital (or small-capital) X and are transcribed as capitals per §3; the first letter is a plain lowercase 'l' and the ending is the italic 'ij' pair, giving 'lXXiij' (= lxxiij, 73). Reader A is likely to read 'lxxiij'; the difference is letter-case only.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "placement: note a's first line stands beside the body line holding marker a ('chãcelé, ou reſpondu choſes vray-ſemblables {a}. Mais de'); note b's first line stands beside the next body line ('ces preuues par teſmoins, nous en dirons quelque mot'), one line above its own marker. Both keys are legible. No foot citation block, no signature and no catchword: foot.jpg is blank below the last body line, and body-8.jpg is entirely blank.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "chãcelé, ou reſpondu choſes vray-ſemblables {a}. Mais de",
+   "note": "marker a is printed hard against the preceding word ('ſemblables{a}.Mais') with no space; spacing normalized per §4. The marker is the italic letter a; the alphabet restarts at a with this ANNOTAT. XXVI.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "les ſouuerains, combien il eſt dangereux, & plein de pe",
+   "note": "line ends 'de pe' with no hyphen and continues 'rils' (= perils) on the next line; a missing line-end hyphen, normal for this print. Same at blocks[0].lines[6]/[7] ('c'eſt'/'oit') and blocks[2].lines[12]/[13] ('qua'/'lité'). 'ils ſont:' and 'ſ'ils' checked at 6x: colon (two round dots) and an apostrophe after the long s.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "maiſtre. Sur quoy faut bien que le iuge ſoit prudent, &",
+   "note": "validator long-s warning on 'Sur' checked against the image (body-6.jpg, second line, 4x): printed with a roman capital S, which never takes long s in this fount; no normalization occurred. The print sets 'maiſtre.Sur' tight; spacing normalized per §1.",
+   "escalate": false
+  }
+ ]
+}

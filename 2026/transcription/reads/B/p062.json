@@ -1,0 +1,107 @@
+{
+ "id": "p062",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "62",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "c'eſt à dire raboteux & plein de verrues. Ce que teſ-",
+    "moigne aſſez Q. Serenus le poete, quand il dit,"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Interdum exiſtit turpi verruca papilla:",
+    "Hinc quondam Fabio, Verum cognomen ad",
+    "hæſit,",
+    "Qui ſolus patriæ, cunctando reſtituit rem."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "En outre pluſieurs teſmoius deſcou-",
+    "urent la cõiuration faite par ledit Pierre",
+    "Guerre, ſes femme & beaux fils, de faire",
+    "mourir; & perdre le priſonnier. iuſqu'à",
+    "auoir marchandé auec Iean Loze con-",
+    "ſul de Palhé ſ'il vouloit fournir certaine",
+    "ſomme d'argent de ſa part, que Pierre",
+    "Guerre frayeroit le reſte, pour faire mou",
+    "rir le priſonnier. ce que ledit Loze reffu-",
+    "ſa diſant que il bailleroit pluſtoſt argent",
+    "pour le ſauuer: car il eſtoit ſon parẽt, ain-",
+    "ſi que Pierre Guerre meſmes luy auoit",
+    "pluſieurs fois dit & aſſeuré. En outre, de-",
+    "poſent que le bruit eſt à Artigat, que",
+    "Pierre Guerre & ſes gendres font ceſte",
+    "pourſuite contre la volonte de ladit. de",
+    "Rols: & que quelques vns d'iceux ont",
+    "ſouuent ouy dire aud. Pierre Guerre,",
+    "que ledit priſonnier eſtoit veritablemẽt",
+    "Martin Guerre, ſon nepueu."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En ce faict, ſemble qu'vne preuue par bruit & fame",
+    "ne doit pas eſtre de petite vertu: car nous ſommes en"
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST DV",
+   "note": "a small faint speck sits at baseline between ARREST and DV; far lighter and smaller than the printed sorts, so read as an ink speck / offset, not a period. p056 does print 'ARREST DV.' with a final point, so the reconciler may want a second look."
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "En outre pluſieurs teſmoius deſcou-",
+   "note": "sic: 'teſmoius' for 'teſmoins'. At 12x the seventh glyph is unambiguously a round-bottomed u, not an n. Wrong sort, transcribed as printed."
+  },
+  {
+   "where": "blocks[3].lines[8]",
+   "text": "rir le priſonnier. ce que ledit Loze reffu-",
+   "note": "'reffu-' read as ff, not ſſ: a single horizontal crossbar runs through both stems and projects to the right of the second stem, unlike the ſſ in 'aſſez' (line 2 of the page) and 'aſſeuré' (blocks[3].lines[12]), where each tall letter carries only a left-hand nub."
+  },
+  {
+   "where": "blocks[3].lines[15]",
+   "text": "pourſuite contre la volonte de ladit. de",
+   "note": "'volonte' printed without an acute on the final e (checked at 7x with contrast enhancement; nothing above the e). The l is an under-inked sort, printing as a broken vertical. Reading is certain, spelling noted because A may normalize to 'volonté'."
+  },
+  {
+   "where": "blocks[3].lines[15]",
+   "text": "pourſuite contre la volonte de ladit. de",
+   "note": "the point after 'ladit' is very lightly inked; read as the abbreviation point of 'ladit(e)', at baseline with no descending tail, so a period rather than a comma."
+  }
+ ]
+}

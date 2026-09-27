@@ -1,0 +1,133 @@
+{
+ "id": "p055",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "55",
+ "signature": "D iiij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ua en tel equipage, à ſçauoir ayant vne iambe de bois,",
+    "& portant atteſtatoire, d'auoir perdu le pied d'vn coup",
+    "de bouler deuant S. Quentin: les Iuges commencerent",
+    "d'eſt eſpoinçonnez d'vn fort eſguillon, pour entrer en",
+    "quelque ſoupçon de l'impoſture."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La ſecõde raiſon, eſtoit vne ſommaire",
+    "appriſe, faite par le Iuge de Rieux, ſur la",
+    "ſemblance du priſonnier auec Sãxi Guer",
+    "re, fils de Martin, par laquelle eſt rappor",
+    "té, cõme a eſté dit, n'y auoir aucune ſimili",
+    "tude: ce que pluſieurs des teſmoins, ouys",
+    "eſdictes enqueſtes, confirment auſsi."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ceſte preuue auſſi n'eſtoit pas fort concluante: car",
+    "ſouuentesfois aduiẽt que les vrais & legitimes enfans",
+    "rapportent mieux vn eſtranger, que leur naturel pere,",
+    "comme nous auons ci deuant remonſtré. Dont me",
+    "contenteray pour le preſent, renuoyer le lecteur à ce",
+    "qu'en a eſcrit Plutarque."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La troiſieme, Martin Guerre eſtoit du",
+    "pays des Baſcouz, chacun ſcait bien, qu'",
+    "on parle vn langage fort different du Frã",
+    "çois, & Gaſcon, peu enten dible, ſi ce n'eſt",
+    "à ceux qui ſont du pays: & neantmoins",
+    "ledit du Tilh priſonnier n'en ſcait parler",
+    "que quelques mots deſrobez."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Bien que la langue des Baſcouz ſoit fort obſcure &"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "lines": [
+    "Plutarque",
+    "au liure v. de",
+    "placit. Philoſ."
+   ],
+   "beside_line": "qu'en a eſcrit Plutarque."
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "a Plutarque / au liure v. de / placit. Philoſ.",
+   "note": "Note with key a has NO corresponding marker {a} in the body. The whole body column was checked at high magnification, in particular 'qu'en a eſcrit Plutarque.' and the two lines above it; no raised or italic 'a' is printed anywhere. The note is the first of the page and keys the Plutarch citation at the end of ANNOTAT. XXXIIII. Marker omitted by the printer, or lost in inking.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "de bouler deuant S. Quentin: les Iuges commencerent",
+   "note": "sic: 'bouler' — the final glyph is unmistakably r (shoulder, no crossbar), a wrong sort for 'boulet'. Transcribed as printed."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "d'eſt eſpoinçonnez d'vn fort eſguillon, pour entrer en",
+   "note": "sic: 'd'eſt' (d + apostrophe + e + ſt ligature), checked at 8x. Sense wants 'd'eſtre'; nothing follows the ſt before the word space. Transcribed as printed."
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "çois, & Gaſcon, peu enten dible, ſi ce n'eſt",
+   "note": "sic: 'entendible' is set with a full word space, 'enten dible'; the gap equals the neighbouring word spaces, so it is not a hairline. Transcribed as printed."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ua en tel equipage, à ſçauoir ayant vne iambe de bois,",
+   "note": "Page opens mid-word: 'ua' completes a word broken at the foot of p054 (presumably 'arri-'/'ua'). No preceding page transcription was available to confirm the break."
+  }
+ ]
+}

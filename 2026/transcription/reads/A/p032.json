@@ -1,0 +1,210 @@
+{
+ "id": "p032",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "32",
+ "signature": null,
+ "catchword": "en",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "lines": [
+    "De l'affection paternelle, enuers l'enfant nul ne",
+    "ſçait (ou ſeroit plus felon, brutal, & deſnaturé que les",
+    "beſtes) qu'elle ne ſoit extremement grande, iuſqu'à",
+    "ſurmonter l'amour, que chacun porte à ſoy-meſmes.",
+    "Dont Vergile parlant d'Aeneas, & d'Aſcanius ſon fils",
+    "ne diſoit pas ſans cauſe {e},"
+   ],
+   "continues_prev": false,
+   "continues_next": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Omnis in Aſcanio, chari ſtat cura parentis."
+   ],
+   "continues_prev": true,
+   "continues_next": false
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Et le Roy Dauid, bien qu'il euſt eſté outrageuſe-",
+    "ment, & en pluſieurs ſortes offenſé de ſon fils Abſa-",
+    "lon, tant par ce quil auoit fait tuer Amnon ſon au-",
+    "tre fils, & apres abuſé, de ces concubines: que pour",
+    "autant auſſi, qu'il luy auoit machiné ſa mort: toutesfois",
+    "quand Dauid entendit la teſte d'Abſalon ſon fils,",
+    "auoir eſté retenue d'vn cheſne, luy illec demeuré",
+    "pendu, il ne ſe peut contenir de crier & dire ainſi:",
+    "Mon FILS Abſalom, mon fils, mon fils Abſa-",
+    "lom, à la mienne volonté que ie fuſſe mort pour toy,",
+    "Abſalom mon fils, mon fils {f}. Et touchant l'amour con-",
+    "iugalle, chacun eſt aſſez perſuadé, Properce {g}. qu'elle",
+    "ſurmonte toutes les autres."
+   ],
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Omnis amor magnꝰ, ſed apertè in cõiuge maior."
+   ],
+   "continues_prev": false,
+   "continues_next": false
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Dequoy parmi infinis autres, en ſçauroit bien reſpon-",
+    "dre Pericles Athenien, qui aimoit Aſpaſie ſa femme,",
+    "que iamais ne la vouloit abandonner, ni ſortir de ſa",
+    "maiſon, quelque temps que ce fut, ſans l'auoir premie-",
+    "remẽt baiſee {h}. Ie laiſſe à part Periandre Corinthien,",
+    "qui aima ſi follement ſon eſpouſe qu'il eut affaire auec",
+    "elle toute morte Et Orphee, lequel ſe hazarda biẽ (ainſi",
+    "que les pœtes deuiſent) deſcendre aux enfers, pour de-",
+    "mãder ſa femme, qu'vn ſerpent auoit tuée. & fit tant",
+    "que Pluton & Proſerpine la luy rendirent, à condition",
+    "toutesfois, qu'il ne ſceut d'impatience d'amour garder",
+    "apres."
+   ],
+   "continues_prev": false,
+   "continues_next": false
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "lines": [
+    "Ou iaçoit que l'interualle du temps euſt",
+    "fait quelque changement en ſon viſage,",
+    "meſmes qu'a ſon partement n'auoit poil"
+   ],
+   "continues_prev": false,
+   "continues_next": true
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "e",
+   "lines": [
+    "vergile au",
+    "i. des Aeneid."
+   ],
+   "beside_line": "beſtes) qu'elle ne ſoit extremement grande, iuſqu'à"
+  },
+  {
+   "key": "f",
+   "lines": [
+    "Au liure ij.",
+    "des Rois cha.",
+    "xiij. xvi. xvij.",
+    "& xviii."
+   ],
+   "beside_line": "Mon FILS Abſalom, mon fils, mon fils Abſa-"
+  },
+  {
+   "key": "g",
+   "lines": [
+    "Properce",
+    "au iiii. des Ele",
+    "gies."
+   ],
+   "beside_line": "iugalle, chacun eſt aſſez perſuadé, Properce {g}. qu'elle"
+  },
+  {
+   "key": "h",
+   "lines": [
+    "Plutarque",
+    "en la vie de",
+    "Pericles."
+   ],
+   "beside_line": "que iamais ne la vouloit abandonner, ni ſortir de ſa"
+  },
+  {
+   "key": "i",
+   "lines": [
+    "vergile. au",
+    "iiij. des Geor-",
+    "giques, & Oui",
+    "de aux de la",
+    "Metarmor-",
+    "phoſe."
+   ],
+   "beside_line": "remẽt baiſee {h}. Ie laiſſe à part Periandre Corinthien,"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "folio",
+   "text": "32",
+   "note": "the first digit is very faintly inked and nearly gone; the surviving top curve and lower bowl fit '3', and the second digit is a clear '2'. Read as '32', which matches the manifest's expected folio."
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "ſçait (ou ſeroit plus felon, brutal, & deſnaturé que les",
+   "note": "'felon': the initial glyph has a crossbar that crosses the stem (f), unlike the long s of 'ſeroit' two words earlier; sense ('plus felon, brutal, & deſnaturé') supports f. Could be misread as 'ſelon'."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "De l'affection paternelle, enuers l'enfant nul ne",
+   "note": "a small raised ink speck follows 'ne' at the right edge of the line (also after 'fils' on lines[4]); judged to be stray ink / show-through, not type, so no punctuation transcribed."
+  },
+  {
+   "where": "blocks[2].lines[8]",
+   "text": "Mon FILS Abſalom, mon fils, mon fils Abſa-",
+   "note": "'FILS' is set in letterspaced small capitals (F I L S); transcribed closed up as ordinary capitals per conventions §3. Block flagged spaced_caps."
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Dequoy parmi infinis autres, en ſçauroit bien reſpon-",
+   "note": "'Dequoy' is set with no gap at all between 'De' and 'quoy' (unlike the clear word spaces elsewhere on the line); kept as a single word."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "que les pœtes deuiſent) deſcendre aux enfers, pour de-",
+   "note": "a narrow vertical ink bar, running from above x-height to below the baseline, stands between 'pœtes' and 'deuiſent'. It has no serifs, dot or letter shape (probably a rising space or a pen stroke), so it is not transcribed. If the reconciler judges it to be type it would be the only candidate for a marker here."
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "que Pluton & Proſerpine la luy rendirent, à condition",
+   "note": "a small raised ink mark stands between 'Pluton' and '&'. At native resolution it is an irregular blob roughly the size and height of a raised marker letter; it may be an effaced/over-inked marker {i} (see the margin_notes[4] entry) or simply a rising space. Not transcribed."
+  },
+  {
+   "where": "margin_notes[4]",
+   "text": "i",
+   "note": "MISSING MARKER: margin note keyed 'i' (Vergil Georgics iiij + Ovid Metamorphoses = the Orpheus passage) has no legible {i} marker anywhere in the body. Every line of the Orpheus sentence (blocks[4].lines[5]-[11]) was checked at high magnification. The most likely effaced position is the raised mark between 'Pluton' and '&' on blocks[4].lines[9].",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[4].key",
+   "text": "i",
+   "note": "the note's own key letter is heavily over-inked into a blob; read as 'i' from the running alphabet on this page (e, f, g, h, → i)."
+  },
+  {
+   "where": "margin_notes[4].lines[4]",
+   "text": "Metarmor-",
+   "note": "sic, for 'Metamor-'; transcribed as printed."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "vergile au",
+   "note": "'vergile' is printed with a lower-case italic v (x-height), not a capital; same in margin_notes[4].lines[0]. Kept as printed."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "au iiii. des Ele",
+   "note": "the numeral is four plain minims with four dots and no descender on the last, so 'iiii' rather than the 'iiij' used in margin_notes[4].lines[1]. Worth a second look."
+  }
+ ]
+}

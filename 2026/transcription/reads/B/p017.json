@@ -1,0 +1,110 @@
+{
+ "id": "p017",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PALEMENT DE THOLOSE.",
+ "folio": "17",
+ "signature": "B",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "ment regardé, ſur l'inſtãt qu'elle engroſſiſſoit, vne pein-",
+    "cture de more, eſtant autour de ſon lict, fit l'enfant noir",
+    "comme vn Ethiopien. S. Hierome en quelque lieu reci-",
+    "te, qu'vne laide femme, mariée à vn hydeux & difforme",
+    "mary, ayant enfanté vn beau garçon, fut à ceſte occa-",
+    "ſion grandement ſoupçonnée & accuſée d'adultere: &",
+    "neantmoins ſauuée par le conſeil & prudence de ce ſou",
+    "uerain medecin Hippocrates, lequel fit auiſer ſi en la",
+    "chambre de la femme y auoit quelque belle peincture,",
+    "ſemblable à l'enfant: ce que fut trouué, & ainſi la fem-",
+    "me deliurée du crime & ſoupçon {ſ}. Les liures des Philo",
+    "ſophes en ſont plains, que les choſes veuës par la fem-",
+    "me, ſur le poinct de la conception, ont grande vertu",
+    "pour donner forme & imprimer caracteres à la creatu-",
+    "re qui ſ'engendre. Où prendront enſeignement tous les",
+    "mariez, qui ſe plaiſent aux peictures, de n'ẽ tenir point",
+    "en leurs chambres des laides, monſtrueuſes, ou diffor-",
+    "mes, pour obuier à tels ſcandales. Sur quoy nul ne ſçait",
+    "(comme ie croy) l'hiſtoire de Iacob, lequel ayant con-",
+    "uenu auec Laban, que toute beſte des troupeaux, mar-",
+    "quetée de quelques taches de couleur diuerſe, ſeroiét à",
+    "luy pour ſon ſalaire, fit peler des verges verdes de di-",
+    "uers arbres, & les mettre à l'abreuuoir, enſemble les eſ-",
+    "corces, à fin que les cheures & brebis du troupeau, re-",
+    "gardans les verges, & les eſcorces de couleur differen-",
+    "te, formaſſent auſſi les faons marquetez de diſſembla-",
+    "bles taches {t}. Du temps de l'Empereur Charles iiij. quel",
+    "ques vns atteſtent qu'vne femme, pour auoir trop fixe-",
+    "ment regardé, ſur l'heure qu'elle engendroit, vne effigie",
+    "de ſainct Iean, veſtuë de peaux, enfanta vne fille toute",
+    "veluë comme vu ours. Loys viues homme bien lettré,",
+    "& verſé en toutes diſciplines, recite que Marguerite fil-",
+    "le de Maximilian l'Empereur, faiſoit de ſon temps vn",
+    "conte à Iean Lamuze, homme docte, & ambaſſadeur du",
+    "Roy Ferdinand d'Hongrie, qu'en vne ville de Brabant,",
+    "qu'il nomme Buſcunducis: comme on faiſoit vne pro-",
+    "ceſſion generale à l'honneur de quelque ſainct, & ſelon",
+    "leurs vieiles ceremonies, les vns fuſſent accouſtrez en",
+    "forme d'Anges, & les autres en habit de diables: l'vn de",
+    "ceux-cy bondiſſant, & ſautellant par les rues tout eſ-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "ſ",
+   "beside_line": "uerain medecin Hippocrates, lequel fit auiſer ſi en la",
+   "lines": [
+    "S. Hieroſ. aux",
+    "queſt. ſuo Ge-",
+    "neſe."
+   ]
+  },
+  {
+   "key": "t",
+   "beside_line": "bles taches {t}. Du temps de l'Empereur Charles iiij. quel",
+   "lines": [
+    "Geneſe. cha.",
+    "xxx."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PALEMENT DE THOLOSE.",
+   "note": "sic: printed P A L E M E N T in spaced capitals, without the R of PARLEMENT; checked at high magnification, the letter-spacing between A and L matches the other gaps, so no letter has merely failed to ink"
+  },
+  {
+   "where": "margin_notes[0].key",
+   "note": "the note has no printed key letter before 'S. Hieroſ.'; key 'ſ' taken from the body marker after 'ſoupçon' (an italic long s) and from the alphabet running ſ then t on this page"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "queſt. ſuo Ge-",
+   "note": "'ſuo' read as printed (long s, u, round o); expected sense would be 'ſur'/'ſup.' (super Genesim), so the word may be a misprint or a form I am misreading"
+  },
+  {
+   "where": "blocks[0].lines[20]",
+   "text": "quetée de quelques taches de couleur diuerſe, ſeroiét à",
+   "note": "'ſeroiét': the mark over the e is a clear acute, not the tilde one would expect in 'ſeroiẽt'; transcribed as printed"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "veluë comme vu ours. Loys viues homme bien lettré,",
+   "note": "'vu' for 'vn' (turned letter) transcribed as printed, sic; 'lettré' has a battered double t but the reading is not in doubt"
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "text": "le de Maximilian l'Empereur, faiſoit de ſon temps vn",
+   "note": "last word blotted at the line end; the final letter could be read 'a' ('va'), read as 'vn' from the sense ('faiſoit ... vn conte')"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "item": "TEST",
+ "pages": [
+  {
+   "id": "p018",
+   "page": 18,
+   "image": 40,
+   "side": "verso",
+   "folio": "18",
+   "status": {
+    "acquired": "done",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "pending",
+    "final": "pending"
+   }
+  },
+  {
+   "id": "p019",
+   "page": 19,
+   "image": 41,
+   "side": "recto",
+   "folio": "19",
+   "status": {
+    "acquired": "done",
+    "readA": "pending",
+    "readB": "pending",
+    "diffed": "pending",
+    "final": "pending"
+   }
+  }
+ ]
+}

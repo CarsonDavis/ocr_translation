@@ -1,0 +1,9 @@
+# Report: annot-017
+
+- Output: `translation/sections/annot-017.md` — `check_markers.py annot-017`: 1 sections ok, 0 failed.
+- Word counts: French 177, English 189. 7 notes (a–g); the body carries only {c}–{g}. Notes *a* and *b* (both on p033, flagged `orphan` in `sections.json`) have no marker in the print; they are listed as orphan notes at the head of the Notes with a headnote, and the body keeps the markers as printed.
+- Glossary additions: *appeler en jugement* → "to call into judgment"; *entrer en procès* → "to enter into suit"; *admonester & interpeller* → "to admonish and call upon"; *payer & satisfaire* → "to pay and satisfy"; *mettre en plaids* → "to bring to law"; *ressentir son Christianisme* → "to savour of Christianity"; *prendre debat à* → "to take up a quarrel with"; *reprendre & corriger* → "to reprove and correct".
+- Choices to review: *il le reuiroit a part* read as *retiroit à part* → "he would take him aside"; *auant que le mettre en places* read as *en plaids* → "before bringing him to law"; the sentence *que ſi noſtre voiſin … de parler à luy* lacks a governing verb and "[we ought]" is supplied in brackets; *Hybere* → "Hiberus" (the Digest's *Hiberus*); *IE VEVX* small capitals kept as "I WISH"; the Digest's *rem illicitam* appears in Coras as *choſe iniuſte* → "an unjust thing", and the note gives the Latin.
+- Citations confidently identified: {b} D. 13.7.4 (the three notices before selling a pledge); {c} D. 8.2.13 pr. (Proculus, *Quidam Hiberus*); {d} Sir. 19:13–17; {e} Titus 3:2; {f} 2 Thess. 3:15; {g} Matt. 18:15, Luke 17:3, Lev. 19:17.
+- Not verified: {a} the passage of *Pro Cluentio* and the fragment *Debitores* in Code 8.13 (*De pignoribus*).
+- Read-through: *familiere mẽt* = *familierement*; *Iuriſcõ ſulte* = *Jurisconsulte*; *cho ſe* = *chose*; *hõ mes* = *hommes*; *de bitores* = *debitores*; *pi gno.* = *pigno.*

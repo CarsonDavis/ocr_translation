@@ -1,0 +1,205 @@
+{
+ "id": "p049",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE TOLOSE.",
+ "folio": "49",
+ "signature": "D",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Dequoy eſt aiſé à recueillir, & enten-",
+    "dre, que les iuges eſtoyent en grande",
+    "perplexité, voyant l'eſtat & le peril de la",
+    "cauſe, pour le conflict des coniectures &",
+    "contradiction des preuues. Car d'vn co-",
+    "ſté, que ce ne fuſt point Martin Guerre,",
+    "mais bien Arnauld du Tilh, ou quelque",
+    "autre inſigne impoſteur, y auoit cinq ou",
+    "ſix raiſons, & coniectures grandes. Le",
+    "premiere, vn grãd nombre de teſmoins,",
+    "iuſqu'à quarante cinq, & d'auantage,",
+    "qui aſſeuroient le preuenu eſtre Ar-",
+    "nauld du Tilh, ou bien n'eſtre point Mar",
+    "tin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Où les teſmoins du demãdeur, & du defendeur depo",
+    "ſent choſes contraires, faut premierement aduiſer à la",
+    "qualité des teſmoins: & donner foy à ceux qui ſont en",
+    "opinion de plus d'integrité enuers le monde: & apres,",
+    "à ceux qui depoſent choſes plus vray-ſemblables: &",
+    "quand par fortune tous ſeroyent eſgaux en toutes cir-",
+    "conſtances, comme eſtimez autant gens de bien les",
+    "vns les autres: & depoſans choſes de pareille veri-",
+    "ſimilitude: le nombre plus grand, ſans difficulté ſur-",
+    "monteroit le moindre, & ſeroit plus croyable, {a} voire",
+    "quelquesfois le numeroſité des teſmoins, ſupplie le",
+    "defaut d'vne partie d'iceux, qui ne ſeroit autrement ſu",
+    "ffiſance pour faire preuue {b}. Comme par exemple, ſi en",
+    "vn teſtament où ne ſont neceſſaires que ſept teſmoins,",
+    "ſen trouuent eſcrits huit: deux deſquels ne ſont point",
+    "entiers ains fort reprochables: le teſtament ſelon l'ad",
+    "uis de quelques perſonnes doctes, neantmoins eſt va-",
+    "lable: car ces deux, de ſoy inſuffiſans, en font vn pour"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "monteroit le moindre, & ſeroit plus croyable, {a} voire",
+   "lines": [
+    "l. iij. §. eiuſ-",
+    "dem. D. de te.",
+    "c. in noſtra. il-",
+    "lo titul."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ffiſance pour faire preuue {b}. Comme par exemple, ſi en",
+   "lines": [
+    "Accurſe au",
+    "dit §. eiuſdem[?]"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2]",
+   "text": "ANNOTAT. XXVII.",
+   "note": "spaced capitals, closed up per §3 with spaced_caps true. The numeral is set X X V I  I with a noticeably wider gap between the fourth and fifth sorts than between the others (body-4.jpg, checked at 4x and 10x); all five sorts are clear (two X, one V, two I) and the terminal point follows the last I, so the numeral is XXVII (= annotation 27), not 'XXVI I.'. The wide gap is compositor spacing only.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Accurſe au",
+   "note": "HARD / ESCALATE. After 'Accurſe' the line ends in an over-inked cluster. Measured on the raw scan (raw/img069.jpg, y 3266-3292 = x-height band): three ink runs, x 2238-2262 (w 24), x 2268-2280 (w 12), x 2282-2298 (w 16), the last carrying a thin faded stroke rising 11 px above x-height at columns 2290-2292 (full ascenders on this line, the key 'b' and the 'ſ' of Accurſe, rise 21 px). Reference widths on the note's second line: d = 27, i = 13, t = 14, u = 27. Read as 'au' (the 30 px span 2268-2298 matching the 27 px 'u' of 'Accurſe', the faint raised stroke taken as a speck or the tip of a broken sort), which gives 'Accurſe au | dit §. eiuſdem', i.e. 'audit §. eiuſdem', referring back to the '§. eiuſdem' of note a. The competing readings are 'aud' (the third run a d with a faded ascender, which would double the d of line 2) and 'ait' (a + dotted i + t), neither of which yields sense. Reader B may well read 'aud'; a human should confirm at the original.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "dit §. eiuſdem[?]",
+   "note": "the mark after 'eiuſdem' cannot be identified. Measured on the raw scan: x 2282-2297 (w 15), top y 3334 (= x-height, 3331), bottom y 3362 (6 px below the baseline, 3356); the clean period after '§' on the same line is w 8 and sits y 3350-3357. So the mark is letter-sized and descends: too tall and wide for a period, and it rises to x-height, unlike a comma. Possibly a comma with ink spread, a broken sort, or the 3-shaped ꝫ. Transcribed [?]. The three sorts before it are 'd i t' (d with a full ascender and bowl, i with its dot, t with crossbar) at 10-20x, so the line begins 'dit', not 'ict'.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij. §. eiuſ-",
+   "note": "the sort between 'iij.' and 'eiuſ-' is the same over-inked paragraph sign read as § on p045 (a small loop opening left at the top, a straight top bar, bowls to the right and a tail below the foot); transcribed § for consistency with transcription/final/p045.json margin_notes[0]. The numeral is 'i' plus the italic ij-sort (one dot over the first stem, two dots over the second, which descends), i.e. iij, checked at 20x.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "dem. D. de te.",
+   "note": "'dem.' has a badly over-inked m (a solid blob at reading size; three humps resolve at 12x). The title is abbreviated very short, 'de te.' (t with crossbar then e, at 20x) — presumably D. de teſtibus, which suits the annotation's subject. A faint speck sits above the final point, so the mark could be a colon rather than a period; the lower dot is round, on the baseline and much darker, and is read as a period.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "c. in noſtra. il-",
+   "note": "the first sort is heavily inked; read as c (canon-law 'c.' = capitulum, as in 'c. ex tranſmiſſa' on p045), giving the decretal incipit 'c. in noſtra' under the same title. It could be read as ſ. The line-end hyphen after 'il' is clear.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "lo titul.",
+   "note": "two very faint specks sit in the space between 'lo' and 'titul' (checked at 22x); they are much lighter and more irregular than the printed points elsewhere in the note and are read as dirt, not as a point. If they are a point the line would read 'lo. titul.'",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Où les teſmoins du demãdeur, & du defendeur depo",
+   "note": "the print sets 'defendeu r' with a clear gap before the final r and 'demãdeur,&' with none after the comma; both normalized per §1. The tilde over the a of 'demãdeur' is confirmed at 6x. The line ends 'depo', broken without a hyphen ('depo|ſent').",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[8]",
+   "text": "ſimilitude: le nombre plus grand, ſans difficulté ſur-",
+   "note": "the print sets 'ſimilitude :le nombre' (space before the colon, none after) and 'grand , ſans'; normalized per §1. The colon is unambiguous (two dots) at 8x.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[10]",
+   "text": "quelquesfois le numeroſité des teſmoins, ſupplie le",
+   "note": "sic: 'le numeroſité' with the masculine article, checked at 8x (l + e, no a). 'quelquesfois' has round s before f, as §2 expects.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[13]",
+   "text": "vn teſtament où ne ſont neceſſaires que ſept teſmoins,",
+   "note": "double-s check at 12x: 'neceſſaires' is set with two tall long s (ſſ ligature), not ſs. Same check made on 'aſſeuroient' (blocks[1].lines[11], ſſ) and on 'inſuffiſans' (blocks[3].lines[17], which is ſ + ff + i + ſ, no double s).",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[14]",
+   "text": "ſen trouuent eſcrits huit: deux deſquels ne ſont point",
+   "note": "sic: 'ſen' printed with long s and no apostrophe (= ſ'en); no apostrophe present at 10x. Transcribed as printed per §1.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[16]",
+   "text": "uis de quelques perſonnes doctes, neantmoins eſt va-",
+   "note": "the word-break sign after 'va' is a short thick stroke set near mid height, easily mistaken for a point (body-7.jpg, checked at 10x); transcribed as a single '-' per §1, the word continuing 'lable' on the next line. The preceding line ends 'l'ad' with no break sign at all, which is normal for this print.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[3].lines[17]",
+   "text": "lable: car ces deux, de ſoy inſuffiſans, en font vn pour",
+   "note": "last line of the page; the paragraph runs on to p050, so continues_next is true. The final r is the tailed line-end r of this fount, transcribed as an ordinary r. 'font' has a true f (full crossbar), not long s. The print sets 'lable:car', 'deux,de' and 'de ſoy' tight; normalized per §1.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "ſix raiſons, & coniectures grandes. Le",
+   "note": "the print sets a justification space before the final point ('grandes . Le') and before the comma ('raiſons , &'); normalized away per §1. The mark after 'grandes' is a round dot on the baseline (period), checked at 4x against the commas on the same line.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[3]",
+   "text": "cauſe, pour le conflict des coniectures &",
+   "note": "'conflict' is set with the fl and ct ligatures and is decomposed per §2; the c of 'ct' is clear at 10x, so the word is conflict, not conflit. 'coniectures' and 'contradiction' likewise carry the ct ligature.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[9]",
+   "text": "premiere, vn grãd nombre de teſmoins,",
+   "note": "the mark over the a of 'grãd' is a tilde (flat bar for the omitted n), clear at 6x; not expanded per §2. 'premiere' is printed without an accent (sic).",
+   "escalate": false
+  },
+  {
+   "where": "signature",
+   "text": "D",
+   "note": "the only thing in the foot block is a plain roman capital D, with no numeral and no point, set below the last line and right of centre (foot.jpg, 10x). Read as the gathering signature: the corpus shows gatherings of 16 leaves signed on the first four rectos (A on f.1, A ij on f.3 … B on f.17, C on f.33), so f.49 is D. There are no foot citations and no catchword.",
+   "escalate": false
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE TOLOSE.",
+   "note": "spaced roman capitals, closed up per §3 and §5; printed TOLOSE (not THOLOSE) on this recto, kept as printed. The folio 49 stands at the outer right of the head line.",
+   "escalate": false
+  }
+ ]
+}
