@@ -18,6 +18,7 @@
     <div><kbd>4</kbd> unknown: neither reading is confirmed</div>
     <div><kbd>←</kbd><kbd>→</kbd> prev / next</div>
     <div><kbd>u</kbd> undo last</div>
+    <div><kbd>p</kbd> whole page (<kbd>Esc</kbd> closes)</div>
     <div class="small">edit: <kbd>Enter</kbd> save, <kbd>Shift+Enter</kbd> new line, <kbd>Esc</kbd> cancel</div>
   </div>
 </aside>
@@ -47,10 +48,15 @@
       <button data-k="1">1 · A</button><button data-k="2">2 · B</button>
       <button data-k="e">e · edit</button><button data-k="3" title="either: it is one of these two">3 · either</button>
       <button data-k="4" title="unknown: neither reading is confirmed">4 · unknown</button><button data-k="u">u · undo</button>
+      <button data-k="p">p · whole page</button>
     </nav>
   </section>
   <section id="empty">Choose a page on the left.</section>
 </main>
+<div id="overlay" hidden>
+  <img id="pageimg" alt="the whole page" draggable="false">
+  <div id="ovhelp">drag to pan · scroll or <kbd>+</kbd> <kbd>-</kbd> to zoom · <kbd>0</kbd> fit · <kbd>p</kbd> / <kbd>Esc</kbd> close</div>
+</div>
 <script src="app.js"></script>
 </body>
 </html>

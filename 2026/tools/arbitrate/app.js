@@ -137,7 +137,8 @@ function render() {
     if (it.a_blocks) extra += `\n\nA blocks:\n  ${it.a_blocks.join("\n  ")}\n\nB blocks:\n  ${it.b_blocks.join("\n  ")}`;
     extra += it.field === "blocks" ? "\n\n1 = build the page on A's block structure, 2 = on B's." : "";
   }
-  if (it.kind === "flagged") extra = "Both reads agree. Flagged:\n" + (it.flags || []).join("\n");
+  if (it.kind === "note-structure") extra = it.hint || "";
+  if (it.kind === "flagged") extra = it.hint || ("Both readers agree on this line. Flagged:\n" + (it.flags || []).join("\n"));
   $("#extra").textContent = extra;
 
   const d = it.decision;
@@ -231,7 +232,68 @@ function move(delta) {
   render();
 }
 
+// ---- whole-page overlay ---------------------------------------------------------
+// pages/read/<id>.jpg fitted to the window height; drag to pan, wheel or +/- to zoom.
+// While it is open the decision keys do nothing.
+const ov = { open: false, z: 1, x: 0, y: 0, fit: 1, drag: null };
+
+function ovApply() {
+  $("#pageimg").style.transform = `translate(${ov.x}px, ${ov.y}px) scale(${ov.z})`;
+}
+function ovFit() {
+  const img = $("#pageimg");
+  if (!img.naturalHeight) return;
+  ov.fit = ov.z = innerHeight / img.naturalHeight;
+  ov.x = (innerWidth - img.naturalWidth * ov.z) / 2;
+  ov.y = 0;
+  ovApply();
+}
+function ovZoom(factor, cx = innerWidth / 2, cy = innerHeight / 2) {
+  const z = Math.min(ov.fit * 8, Math.max(ov.fit * 0.5, ov.z * factor));
+  ov.x = cx - (cx - ov.x) * (z / ov.z);
+  ov.y = cy - (cy - ov.y) * (z / ov.z);
+  ov.z = z;
+  ovApply();
+}
+function openOverlay() {
+  if (!state.page) return;
+  ov.open = true;
+  $("#overlay").hidden = false;
+  const img = $("#pageimg");
+  const src = `/read/${encodeURIComponent(state.page)}.jpg`;
+  if (img.getAttribute("src") !== src) { img.onload = ovFit; img.src = src; } else ovFit();
+}
+function closeOverlay() { ov.open = false; $("#overlay").hidden = true; }
+
+const ovEl = $("#overlay");
+ovEl.addEventListener("wheel", (ev) => {
+  ev.preventDefault();
+  ovZoom(ev.deltaY < 0 ? 1.15 : 1 / 1.15, ev.clientX, ev.clientY);
+}, { passive: false });
+ovEl.addEventListener("mousedown", (ev) => {
+  ov.drag = { x: ev.clientX - ov.x, y: ev.clientY - ov.y };
+  ovEl.classList.add("drag");
+});
+window.addEventListener("mousemove", (ev) => {
+  if (!ov.drag) return;
+  ov.x = ev.clientX - ov.drag.x;
+  ov.y = ev.clientY - ov.drag.y;
+  ovApply();
+});
+window.addEventListener("mouseup", () => { ov.drag = null; ovEl.classList.remove("drag"); });
+window.addEventListener("resize", () => { if (ov.open) ovFit(); });
+
 document.addEventListener("keydown", (ev) => {
+  if (ov.open) {
+    // only the overlay's own keys; decisions are off while it is open
+    if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
+    const k = ev.key;
+    const act = { Escape: closeOverlay, p: closeOverlay, "+": () => ovZoom(1.25), "=": () => ovZoom(1.25),
+                  "-": () => ovZoom(0.8), "_": () => ovZoom(0.8), "0": ovFit }[k];
+    if (act) act();
+    ev.preventDefault();          // every other key (1, 2, e, arrows...) is swallowed
+    return;
+  }
   if (!state.queue || !state.queue.items.length) return;
   if (state.editing) {
     if (ev.key === "Escape") { ev.preventDefault(); closeEditor(); }
@@ -240,7 +302,7 @@ document.addEventListener("keydown", (ev) => {
   }
   if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
   const act = { "1": () => decide("A"), "2": () => decide("B"), "3": () => decide("either"),
-                "4": () => decide("unknown"), "e": openEditor, "u": undo,
+                "4": () => decide("unknown"), "e": openEditor, "u": undo, "p": openOverlay,
                 "ArrowLeft": () => move(-1), "ArrowRight": () => move(1) }[ev.key];
   if (act) { ev.preventDefault(); act(); }
 });

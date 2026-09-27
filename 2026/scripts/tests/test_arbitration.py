@@ -1,6 +1,7 @@
 # scripts/tests/test_arbitration.py
 """Queue builder and apply script for human arbitration (arbitrate_queue.py,
 apply_arbitration.py). Crops are skipped with --no-crops."""
+import copy
 import json
 import pathlib
 import subprocess
@@ -34,7 +35,11 @@ def test_queue_items_and_pointers(queue):
     _, q = queue
     it = items_by_id(q)
     # the punctuation-spacing difference on line 0 is normalized away, never an item
-    assert set(it) == {"b-002", "u-a-004", "u-b-005", "n-a-1", "s-folio"}
+    # flagged lines are in by default: A's "sic" entry flags a line both reads agree on
+    assert set(it) == {"b-002", "u-a-004", "u-b-005", "n-a-1", "s-folio", "f-b-003"}
+    f = it["f-b-003"]
+    assert f["hint"] == ("Both readers agree on this line; flagged by A.\n"
+                         "A: sic: commune could be comune")
     b = it["b-002"]
     assert (b["kind"], b["where_a"], b["where_b"], b["index"]) == \
         ("body", "blocks[1].lines[1]", "blocks[1].lines[1]", 2)
@@ -61,14 +66,19 @@ def test_space_only_difference_is_not_an_item(tmp_path):
     (tmp_path / "a.json").write_text(json.dumps(a, ensure_ascii=False))
     (tmp_path / "b.json").write_text(json.dumps(b, ensure_ascii=False))
     r = run("arbitrate_queue.py", "t001", "--a", tmp_path / "a.json", "--b", tmp_path / "b.json",
-            "--out-dir", tmp_path, "--no-crops")
+            "--out-dir", tmp_path, "--no-crops", "--no-flagged")
     assert r.returncode == 0, r.stderr
     assert json.loads((tmp_path / "queue" / "t001.json").read_text())["items"] == []
 
 
-def test_include_flagged(tmp_path):
+def test_flagged_default_and_no_flagged(tmp_path):
+    r = run("arbitrate_queue.py", "t001", "--a", A, "--b", B, "--out-dir", tmp_path / "off",
+            "--no-crops", "--no-flagged")
+    assert r.returncode == 0, r.stderr
+    q = json.loads((tmp_path / "off" / "queue" / "t001.json").read_text())
+    assert q["include_flagged"] is False and not [i for i in q["items"] if i["kind"] == "flagged"]
     r = run("arbitrate_queue.py", "t001", "--a", A, "--b", B, "--out-dir", tmp_path,
-            "--no-crops", "--include-flagged")
+            "--no-crops")
     assert r.returncode == 0, r.stderr
     it = items_by_id(json.loads((tmp_path / "queue" / "t001.json").read_text()))
     f = it["f-b-003"]
@@ -87,7 +97,7 @@ def apply(tmp, decisions, *extra):
 
 
 def all_(choice, **over):
-    ids = ["b-002", "u-a-004", "u-b-005", "n-a-1", "s-folio"]
+    ids = ["b-002", "u-a-004", "u-b-005", "n-a-1", "s-folio", "f-b-003"]
     d = {i: {"choice": choice} for i in ids}
     d.update(over)
     return d
@@ -107,7 +117,7 @@ def test_apply_all_A(queue):
     assert page["folio"] == "12"
     assert page["margin_notes"][0]["lines"] == ["l. prima. D. de", "iure iur."]
     assert (page["reader"], page["model"]) == ("final", "arbitration")
-    assert len(page["decisions"]) == 5
+    assert len(page["decisions"]) == 6       # 5 differences + 1 flagged line
     d = {x["where"]: x for x in page["decisions"]}["blocks[1].lines[1]"]
     assert d == {"where": "blocks[1].lines[1]", "A": "vne ligne que A lit ainſi,",
                  "B": "vne ligne que B lit ainſi,", "chose": "carson-session",
@@ -179,7 +189,7 @@ def test_apply_unknown_is_a_decision(queue):
     assert ub["escalate"] is True
     assert all(u["escalate"] for u in arb.values())
     assert {d["reason"] for d in page["decisions"]} == {"arbitration: unknown"}
-    assert len(page["decisions"]) == 5
+    assert len(page["decisions"]) == 6       # 5 differences + 1 flagged line
 
 
 def test_apply_undecided_fails_and_legacy_values(queue):
@@ -236,7 +246,7 @@ def _variant(tmp, mutate_b):
     (tmp / "a.json").write_text(json.dumps(a, ensure_ascii=False))
     (tmp / "b.json").write_text(json.dumps(b, ensure_ascii=False))
     r = run("arbitrate_queue.py", "t001", "--a", tmp / "a.json", "--b", tmp / "b.json",
-            "--out-dir", tmp, "--no-crops")
+            "--out-dir", tmp, "--no-crops", "--no-flagged")
     assert r.returncode == 0, r.stderr
     return json.loads((tmp / "queue" / "t001.json").read_text())
 
@@ -318,3 +328,91 @@ def test_server_next_page_in_manifest_order(tmp_path):
     prog = store.decide("p002", "x", "clear", None)
     assert (prog["done"], prog["next_page"], prog["all_done"]) == (False, None, False)
     assert store.next_page("zz") == "p002"
+
+
+# p057's shape: A reads note a as 7 lines; B keeps 3 in note a and puts the other 4 in a
+# separate unkeyed note. That is one decision, never five.
+P057_A7 = ["Iean d'Ana", "nie au fina.", "de maled.", "S. Tcmas en", "ſa ij. ſecund.",
+           "quaſtion xiij.", "article xiij."]
+
+
+def _p057_shape(tmp):
+    def split(b):
+        b["margin_notes"] = [
+            {"key": "a", "lines": ["Iean d'[??]"] + P057_A7[1:3],
+             "beside_line": "Le premier ligne {a}, & la ſuite"},
+            {"key": None, "lines": P057_A7[3:], "beside_line": "ligne commune au milieu"}]
+        b["uncertain"] = [{"where": "margin_notes[0].lines[0]", "text": "Iean d'[??]",
+                           "note": "blotted"}]
+
+    a = json.loads(A.read_text())
+    a["margin_notes"] = [{"key": "a", "lines": list(P057_A7),
+                          "beside_line": "Le premier ligne {a}, & la ſuite"}]
+    a["uncertain"] = []
+    b = copy.deepcopy(a)
+    b["reader"] = "B"
+    split(b)
+    (tmp / "a.json").write_text(json.dumps(a, ensure_ascii=False))
+    (tmp / "b.json").write_text(json.dumps(b, ensure_ascii=False))
+    r = run("arbitrate_queue.py", "t001", "--a", tmp / "a.json", "--b", tmp / "b.json",
+            "--out-dir", tmp, "--no-crops", "--no-flagged")
+    assert r.returncode == 0, r.stderr
+    return json.loads((tmp / "queue" / "t001.json").read_text())
+
+
+def _all_note_lines(page):
+    return [t for k in ("margin_notes", "foot_notes") for n in page[k] for t in n["lines"]]
+
+
+def test_p057_shape_is_one_note_structure_item(tmp_path):
+    q = _p057_shape(tmp_path)
+    it = items_by_id(q)
+    assert set(it) == {"n-a-0", "ns-a"}          # no un-* items for the split lines
+    ns = it["ns-a"]
+    assert ns["kind"] == "note-structure"
+    assert (ns["notes_a"], ns["notes_b"]) == (["margin_notes[0]"], ["margin_notes[0]", "margin_notes[1]"])
+    assert ns["a"] == "[a] " + "\n".join(P057_A7)
+    assert ns["b"] == "[a] Iean d'[??]\nnie au fina.\nde maled.\n[–] " + "\n".join(P057_A7[3:])
+
+
+@pytest.mark.parametrize("choice", ["A", "B"])
+def test_p057_shape_apply_never_duplicates(tmp_path, choice):
+    _p057_shape(tmp_path)
+    r, page = _apply_variant(tmp_path, {"n-a-0": {"choice": "neither", "text": "Iean d'Ana"},
+                                        "ns-a": {"choice": choice}})
+    assert r.returncode == 0, r.stdout + r.stderr
+    lines = _all_note_lines(page)
+    assert sorted(lines) == sorted(P057_A7)       # every line exactly once
+    assert len(lines) == len(set(lines)) == 7
+    notes = [(n["key"], n["lines"]) for n in page["margin_notes"]]
+    if choice == "A":
+        assert notes == [("a", P057_A7)]
+    else:
+        assert notes == [("a", P057_A7[:3]), (None, P057_A7[3:])]
+        # the line decision inside the region still applies, and its pointer follows it
+        d = {x["reason"]: x for x in page["decisions"]}["arbitration: neither"]
+        assert d["where"] == "margin_notes[0].lines[0]"
+    ns = [x for x in page["decisions"] if x["reason"] == f"arbitration: {choice}"]
+    assert len(ns) == 1 and ns[0]["where"] == "margin_notes[0]"
+
+
+def test_p057_shape_unknown_and_neither(tmp_path):
+    _p057_shape(tmp_path)
+    r, page = _apply_variant(tmp_path, {"n-a-0": {"choice": "A"}, "ns-a": {"choice": "unknown"}})
+    assert r.returncode == 0, r.stdout + r.stderr
+    assert [(n["key"], n["lines"]) for n in page["margin_notes"]] == [("a", P057_A7)]
+    e = [u for u in page["uncertain"] if u["note"].startswith("arbitration: unknown")]
+    assert len(e) == 1 and e[0]["escalate"] is True and e[0]["where"] == "margin_notes[0]"
+    typed = "[a] Iean d'Ana\nnie au fina.\nde maled.\n[b2] S. Tcmas en\nſa ij. ſecund."
+    r, page = _apply_variant(tmp_path, {"n-a-0": {"choice": "A"},
+                                        "ns-a": {"choice": "neither", "text": typed}})
+    # b2 has no marker in the body, so the page is (rightly) invalid, but the notes are exact
+    assert [(n["key"], n["lines"]) for n in page["margin_notes"]] == \
+        [("a", P057_A7[:3]), ("b2", P057_A7[3:5])]
+
+
+def test_single_unmatched_note_line_stays_single(tmp_path):
+    def extra(b):
+        b["margin_notes"][0]["lines"].append("C. de iure iur.")
+    q = _variant(tmp_path, extra)
+    assert [i["id"] for i in q["items"]] == ["un-a-b2"]

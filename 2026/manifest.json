@@ -2661,9 +2661,9 @@
     "acquired": "done",
     "cropped": "done",
     "readA": "done",
-    "readB": "dispatched",
+    "readB": "done",
     "diffed": "pending",
-    "final": "pending",
+    "final": "done",
     "spotchecked": "pending",
     "translated": "pending",
     "reviewed": "pending"
@@ -2698,10 +2698,10 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
+    "readA": "done",
+    "readB": "done",
     "diffed": "pending",
-    "final": "pending",
+    "final": "done",
     "spotchecked": "pending",
     "translated": "pending",
     "reviewed": "pending"
@@ -2774,7 +2774,7 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
+    "readA": "done",
     "readB": "dispatched",
     "diffed": "pending",
     "final": "pending",

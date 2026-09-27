@@ -19,7 +19,10 @@ Item kinds
     unmatched   a body line, note line or whole note that only one reader has
     structural  a furniture field (running_head/folio/signature/catchword) or the block
                 structure differs
-    flagged     (--include-flagged) a line both reads agree on that either reader's
+    note-structure  the same note text keyed or split differently (A: one 7-line note; B:
+                a 3-line note + a 4-line unkeyed note): one decision for the whole region,
+                instead of one unmatched item per line
+    flagged     (on by default; --no-flagged turns it off) a line both reads agree on that either reader's
                 uncertain[] flags as sic / wrong sort / could be / may be
 
 Crop geometry (no line segmentation; proportional placement):
@@ -183,11 +186,13 @@ def build_items(a, b, include_flagged=False):
     # --- notes -------------------------------------------------------------
     na, nb = note_table(a), note_table(b)
     order_b = list(nb)
+    aligned = {k: diff_reads.align_body(na[k].lines, nb[k].lines) for k in na if k in nb}
+    groups, grouped = note_groups(na, nb, aligned)
     for key in list(na) + [k for k in nb if k not in na]:
         in_a, in_b = key in na, key in nb
         if in_a and in_b:
             A, B = na[key], nb[key]
-            npairs, nun = diff_reads.align_body(A.lines, B.lines)
+            npairs, nun = aligned[key]
             wa = [f"{A.where}.lines[{i}]" for i in range(len(A.lines))]
             wb = [f"{B.where}.lines[{i}]" for i in range(len(B.lines))]
             for ai, bi, ta, tb in npairs:
@@ -198,6 +203,8 @@ def build_items(a, b, include_flagged=False):
                                   "context_before": A.lines[ai - 1] if ai else None,
                                   "context_after": A.lines[ai + 1] if ai + 1 < len(A.lines) else None})
             for side, idx, text in nun:
+                if (side, key, idx) in grouped:
+                    continue            # part of a note-structure item
                 if side == "A":
                     aft, bef = _anchor(npairs, 0, 1, idx, wb)
                     items.append({"id": f"un-{_safe(key)}-a{idx}", "kind": "unmatched",
@@ -213,6 +220,8 @@ def build_items(a, b, include_flagged=False):
         else:
             N = na[key] if in_a else nb[key]
             side = "A" if in_a else "B"
+            if (side, key, None) in grouped:
+                continue                # part of a note-structure item
             item = {"id": f"un-{_safe(key)}-{side.lower()}", "kind": "unmatched", "side": side,
                     "key": key, "line": None, "note_kind": N.kind, "whole_note": True,
                     "where_a": N.where if in_a else None, "where_b": None if in_a else N.where,
@@ -224,6 +233,8 @@ def build_items(a, b, include_flagged=False):
                 prev = [k for k in order_b[:order_b.index(key)] if k in na]
                 item["a_after"] = na[prev[-1]].where if prev else None
             items.append(item)
+    # after the line items: apply rewrites line texts first, then the note layout
+    items.extend(note_structure_item(g, na, nb, aligned) for g in groups)
 
     # --- structure -----------------------------------------------------------
     for field in FURNITURE:
@@ -244,6 +255,149 @@ def build_items(a, b, include_flagged=False):
     if include_flagged:
         items.extend(_flagged(a, b, ca, pa, pairs, na, nb))
     return items
+
+
+# --- note-structure groups ------------------------------------------------------
+
+GROUP_RATIO = 0.85      # joined texts this similar are the same material, split differently
+GROUP_MAX_RUN = 3       # at most this many consecutive fragments on the other side
+
+
+def _fragments(side, mine, other, aligned):
+    """Material of one read's notes that has no partner line in the other read: a whole
+    note whose key the other read lacks, or a run of consecutive unmatched lines inside a
+    note both reads have. [(side, key, line indices or None, texts)] in file order."""
+    out = []
+    for key, note in mine.items():
+        if key not in other:
+            out.append((side, key, None, list(note.lines)))
+            continue
+        nun = aligned[key][1]
+        idx = sorted(i for s_, i, _ in nun if s_ == side)
+        run = []
+        for i in idx + [None]:
+            if run and (i is None or i != run[-1] + 1):
+                out.append((side, key, run, [note.lines[j] for j in run]))
+                run = []
+            if i is not None:
+                run.append(i)
+    return out
+
+
+def _similar(t1, t2):
+    import difflib
+    k1, k2 = pagelib.align_key(" ".join(t1)), pagelib.align_key(" ".join(t2))
+    if not k1 or not k2:
+        return 0.0
+    return difflib.SequenceMatcher(None, k1, k2, autojunk=False).ratio()
+
+
+def note_groups(na, nb, aligned):
+    """Unmatched note material that is the same text on both sides under a different key or
+    split (p057: A's note a lines 3-6 = B's separate unkeyed note). Each group is one
+    decision. Returns ([(a_fragments, b_fragments)], {(side, key, line or None)})."""
+    fa = _fragments("A", na, nb, aligned)
+    fb = _fragments("B", nb, na, aligned)
+    used_a, used_b, groups = set(), set(), []
+
+    def match(one, many, used_one, used_many):
+        for i, f in enumerate(one):
+            if i in used_one:
+                continue
+            best = None
+            for s0 in range(len(many)):
+                for n in range(1, GROUP_MAX_RUN + 1):
+                    run = list(range(s0, s0 + n))
+                    if run[-1] >= len(many) or any(j in used_many for j in run):
+                        break
+                    frags = [many[j] for j in run]
+                    if all(g[1] == f[1] for g in frags):
+                        continue        # same note on both sides: a line difference, not a split
+                    r = _similar(f[3], [t for g in frags for t in g[3]])
+                    if r >= GROUP_RATIO and (best is None or r > best[0]):
+                        best = (r, run)
+            if best:
+                used_one.add(i)
+                used_many.update(best[1])
+                yield f, [many[j] for j in best[1]]
+
+    for f, frags in list(match(fa, fb, used_a, used_b)):
+        groups.append(([f], frags))
+    for f, frags in list(match(fb, fa, used_b, used_a)):
+        groups.append((frags, [f]))
+    grouped = set()
+    for fas, fbs in groups:
+        for side, key, idx, _ in fas + fbs:
+            for i in (idx or [None]):
+                grouped.add((side, key, i))
+    return groups, grouped
+
+
+def region_text(notes):
+    """Whole notes as one editable string: `[key] first line` then the other lines; an
+    unkeyed note is `[–]`. apply_arbitration.parse_region reads it back."""
+    out = []
+    for n in notes:
+        for j, t in enumerate(n.lines):
+            out.append(f"[{'–' if n.key is None else n.key}] {t}" if j == 0 else t)
+    return "\n".join(out)
+
+
+def note_structure_item(group, na, nb, aligned):
+    """One item for a group: the region is every note holding grouped material, closed over
+    real keys (a region note's key-mate on the other side belongs to the region too)."""
+    fas, fbs = group
+    keys_a = {f[1] for f in fas}
+    keys_b = {f[1] for f in fbs}
+    while True:
+        real = {k for k in keys_a | keys_b if not k.startswith("_unkeyed_")}
+        new_a = keys_a | {k for k in real if k in na}
+        new_b = keys_b | {k for k in real if k in nb}
+        if (new_a, new_b) == (keys_a, keys_b):
+            break
+        keys_a, keys_b = new_a, new_b
+    notes_a = [na[k] for k in na if k in keys_a]      # file order
+    notes_b = [nb[k] for k in nb if k in keys_b]
+
+    def layout(target, target_tbl_side, src_tbl, frag_pairs):
+        """Target read's region notes, each line saying which source-read line it reuses."""
+        out = []
+        for key, n in target:
+            lines = []
+            for j, t in enumerate(n.lines):
+                src, keep = None, False
+                if key in src_tbl and key in aligned:
+                    for ai, bi, _, _ in aligned[key][0]:
+                        tj, sj = (bi, ai) if target_tbl_side == "B" else (ai, bi)
+                        if tj == j:
+                            src, keep = f"{src_tbl[key].where}.lines[{sj}]", True
+                if src is None and (key, j) in frag_pairs:
+                    src = frag_pairs[(key, j)]
+                lines.append({"text": t, "from": src, "keep_text": keep})
+            out.append({"where": n.where, "kind": n.kind, "key": n.key,
+                        "beside_line": n.beside_line, "lines": lines})
+        return out
+
+    def frag_map(tgt_frags, src_frags, src_tbl):
+        """Positional line pairs between matched fragments of equal length."""
+        tl = [(f[1], i) for f in tgt_frags for i in (f[2] or range(len(f[3])))]
+        sl = [(f[1], i) for f in src_frags for i in (f[2] or range(len(f[3])))]
+        if len(tl) != len(sl):
+            return {}
+        return {t: f"{src_tbl[s[0]].where}.lines[{s[1]}]" for t, s in zip(tl, sl)}
+
+    lay_b = layout([(k, nb[k]) for k in nb if k in keys_b], "B", na, frag_map(fbs, fas, na))
+    lay_a = layout([(k, na[k]) for k in na if k in keys_a], "A", nb, frag_map(fas, fbs, nb))
+    first = notes_a[0] if notes_a else notes_b[0]
+    return {"id": f"ns-{_safe(first.key if first.key is not None else 'unkeyed')}",
+            "kind": "note-structure",
+            "where_a": notes_a[0].where if notes_a else None,
+            "where_b": notes_b[0].where if notes_b else None,
+            "notes_a": [n.where for n in notes_a], "notes_b": [n.where for n in notes_b],
+            "a": region_text(notes_a), "b": region_text(notes_b),
+            "layout_a": lay_a, "layout_b": lay_b,
+            "hint": "the same note text is split or keyed differently; 1/2 takes that read's "
+                    "note layout (line differences inside are decided by their own items)"}
 
 
 def _block_summary(page):
@@ -277,6 +431,11 @@ def _flagged(a, b, ca, pa, pairs, na, nb):
                     found.append(f"{side}: {note}")
         return found
 
+    def hint(found):
+        by = sorted({f[0] for f in found})
+        return ("Both readers agree on this line; flagged by " + " and ".join(by) + ".\n"
+                + "\n".join(f"{f[0]}: {f[3:]}" for f in found))
+
     for ai, bi, ta, tb in pairs:
         if ta != tb:
             continue
@@ -284,7 +443,7 @@ def _flagged(a, b, ca, pa, pairs, na, nb):
         found = notes_for(pa[ai], pbw, ta)
         if found:
             items.append({"id": f"f-b-{ai:03d}", "kind": "flagged", "where_a": pa[ai],
-                          "where_b": pbw, "index": ai, "a": ta, "b": tb, "flags": found,
+                          "where_b": pbw, "index": ai, "a": ta, "b": tb, "flags": found, "hint": hint(found),
                           "context_before": ca[ai - 1] if ai else None,
                           "context_after": ca[ai + 1] if ai + 1 < len(ca) else None})
     for key in na:
@@ -300,7 +459,9 @@ def _flagged(a, b, ca, pa, pairs, na, nb):
             if found:
                 items.append({"id": f"f-n-{_safe(key)}-{ai}", "kind": "flagged", "key": key,
                               "line": ai, "note_kind": A.kind, "where_a": wa, "where_b": wb,
-                              "a": ta, "b": tb, "flags": found})
+                              "a": ta, "b": tb, "flags": found, "hint": hint(found),
+                              "context_before": A.lines[ai - 1] if ai else None,
+                              "context_after": A.lines[ai + 1] if ai + 1 < len(A.lines) else None})
     return items
 
 
@@ -513,6 +674,25 @@ class Geometry:
         _save_window(self.full, x0, x1, yc, MARGIN_WINDOW_LINES * mh, path)
         return "pages/strips/%s/%s" % (self.pid, best_strip(self.margin_strips, yc))
 
+    def region_window(self, page, wheres, path):
+        """A window over whole notes (a note-structure item): first to last line."""
+        _, _, mpos, mh = self.for_page(page)
+        ys = []
+        for w in wheres:
+            m = re.match(r"(margin_notes|foot_notes)\[(\d+)\]", w)
+            kind, ni = m.group(1), int(m.group(2))
+            ys += [y for (k, i, _), y in mpos.items() if k == kind and i == ni]
+        if not ys or not self.margin:
+            return self.page_image(path)
+        mx0, mx1 = self.margin
+        if self.side == "verso":
+            x0, x1 = mx0 - SIDE_PAD, mx1 + MARGIN_INTO_BODY
+        else:
+            x0, x1 = mx0 - MARGIN_INTO_BODY, mx1 + SIDE_PAD
+        top, bottom = min(ys), max(ys)
+        _save_window(self.full, x0, x1, (top + bottom) / 2, bottom - top + 3 * mh, path)
+        return "pages/strips/%s/%s" % (self.pid, best_strip(self.margin_strips, (top + bottom) / 2))
+
     def foot_window(self, page, ni, li, path):
         h = self.full.height
         y_lo = int(h * (1 - FOOT_FRAC))
@@ -551,7 +731,10 @@ def add_crops(items, a, b, page_id, out_dir, manifest_path, pages_dir):
             it["crop"] = f"crops/{page_id}/page.jpg"
             it["strip"] = f"pages/read/{page_id}.jpg"
             continue
-        if where and where.startswith("blocks"):
+        if it["kind"] == "note-structure":
+            wheres = it["notes_a"] if it.get("notes_a") else it["notes_b"]
+            it["strip"] = geo.region_window(a if it.get("notes_a") else b, wheres, path)
+        elif where and where.startswith("blocks"):
             idx = column_pointers(page).index(where)
             it["strip"] = geo.body_window(page, idx, path)
         elif where and where.startswith(("margin_notes", "foot_notes")):
@@ -565,7 +748,7 @@ def add_crops(items, a, b, page_id, out_dir, manifest_path, pages_dir):
 # driver
 # =========================================================================
 
-def build_queue(page_id, a_path, b_path, include_flagged=False):
+def build_queue(page_id, a_path, b_path, include_flagged=True):
     a, b = load_pair(a_path, b_path)
     items = build_items(a, b, include_flagged)
     return {"page": page_id, "a": str(a_path), "b": str(b_path),
@@ -578,7 +761,11 @@ def main(argv=None):
     ap.add_argument("--a")
     ap.add_argument("--b")
     ap.add_argument("--out-dir", default="transcription/arbitration")
-    ap.add_argument("--include-flagged", action="store_true")
+    ap.add_argument("--no-flagged", dest="include_flagged", action="store_false",
+                    help="leave out lines both reads agree on but a reader flagged")
+    ap.add_argument("--include-flagged", dest="include_flagged", action="store_true",
+                    help="(the default) add flagged lines")
+    ap.set_defaults(include_flagged=True)
     ap.add_argument("--no-crops", action="store_true")
     ap.add_argument("--manifest", default=str(ROOT / "manifest.json"))
     ap.add_argument("--pages", default=str(ROOT / "pages"))

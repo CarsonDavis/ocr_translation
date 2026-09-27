@@ -62,3 +62,11 @@ kbd { font: 11px var(--mono); border: 1px solid var(--line); border-bottom-width
 #buttons button { font: 13px system-ui, sans-serif; padding: 4px 10px; border-radius: 5px; cursor: pointer;
                   border: 1px solid var(--line); background: var(--panel); color: var(--fg); }
 #empty { color: var(--muted); padding: 40px; }
+
+#overlay { position: fixed; inset: 0; background: rgba(0, 0, 0, .88); z-index: 10;
+           overflow: hidden; cursor: grab; user-select: none; }
+#overlay.drag { cursor: grabbing; }
+#pageimg { position: absolute; left: 0; top: 0; transform-origin: 0 0; max-width: none; }
+#ovhelp { position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%);
+          color: #ddd; background: rgba(0, 0, 0, .6); padding: 4px 10px; border-radius: 6px;
+          font-size: 12px; pointer-events: none; }

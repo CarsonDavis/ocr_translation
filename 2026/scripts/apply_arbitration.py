@@ -12,7 +12,8 @@ and applies every decision at its `where` pointer:
 
     A / B     take that read's text (for a line only one read has: keep it / drop it, or
               insert it from the other read)
-    neither   the typed text (empty text removes the line)
+    neither   the typed text (empty text removes the line; for a note-structure item, the
+              whole region typed as `[key] first line` / following lines, `[–]` = unkeyed)
     either    "it is one of these two": keep the base text (A's) and add an uncertain[]
               entry "arbitration: undecided; alternatives: <A> ||| <B>", escalate false;
               the translator chooses from context (stitch_text renders ⟨alt:…⟩)
@@ -20,6 +21,10 @@ and applies every decision at its `where` pointer:
               read has and for structure, A's structure) and add an uncertain[] entry
               "arbitration: unknown; alternatives: <A> ||| <B>", escalate true
               (stitch_text renders ⟨alt?:…⟩). It is a decision: the page can be finalized.
+
+A note-structure item (the same note text keyed or split differently) is applied after the
+line items, in one step: A/B take that read's note layout for the whole region, reusing the
+base read's lines rather than copying them, so no line can appear twice.
 
 An item with no decision fails the run with a list of the undecided items. A legacy
 decisions file is read leniently: "both" means either, "skip" means undecided.
@@ -289,7 +294,8 @@ def apply(page_id, a, b, queue, decisions):
         # either / unknown both keep the base read as it is
         eff = "keep" if choice in ("either", "unknown") else choice
         text_a, text_b = it.get("a"), it.get("b")
-        typed = _norm(typed) if eff == "neither" else None
+        typed_raw = typed if eff == "neither" else None
+        typed = _norm(typed) if eff == "neither" and it["kind"] != "note-structure" else None
         kind = it["kind"]
         target, final = None, None
 
@@ -349,6 +355,9 @@ def apply(page_id, a, b, queue, decisions):
                                                 heading=bool(it.get("b_is_heading")) and has == "B")
                 final = new_text if want_present else ""
                 where = it.get("where_" + bk) or it.get("where_" + ok)
+        elif kind == "note-structure":
+            final, target = apply_note_structure(ed, it, eff, typed_raw, base_side, bk, ok)
+            where = it.get("where_" + bk) or it.get("where_" + ok)
         else:
             raise ArbitrationError(f"unknown item kind {kind!r}")
         if choice in ("either", "unknown") and target is None and not present_in_base_of(it, base_side):
@@ -377,6 +386,8 @@ def apply(page_id, a, b, queue, decisions):
                  "escalate": choice == "unknown"}
             if isinstance(target, Entry) and not target.deleted:
                 kept = target.text           # an absent line points at its nearest line
+            elif isinstance(target, dict) and target.get("lines"):
+                kept = target["lines"][0].text
             if kept:
                 e["text"] = kept.split("\n")[0] if "\n" in kept else kept
             arb_uncertain.append(e)
@@ -396,6 +407,74 @@ def apply(page_id, a, b, queue, decisions):
     base["decisions"] = decisions_out
     normalize_spacing.normalize_page(base)
     return base
+
+
+def parse_region(text):
+    """`[key] line` starts a note (`[–]` = unkeyed), other lines continue it; the inverse of
+    arbitrate_queue.region_text. Returns [(key, [lines])]."""
+    notes = []
+    for raw in (text or "").split("\n"):
+        line = raw.strip()
+        if not line:
+            continue
+        m = re.match(r"^\[([^\]]*)\]\s*(.*)$", line)
+        if m:
+            key = m.group(1).strip()
+            notes.append((None if key in ("", "–", "-") else key, []))
+            line = m.group(2).strip()
+            if not line:
+                continue
+        elif not notes:
+            raise ArbitrationError("typed note text must start with [key] (e.g. `[a] l. prima.`)")
+        notes[-1][1].append(_norm(line))
+    return [(k, ls) for k, ls in notes if ls]
+
+
+def apply_note_structure(ed, it, eff, typed, base_side, bk, ok):
+    """Rewrite a note region in one step: the base read's region notes are replaced by the
+    other read's layout (reusing, never copying, the base lines it maps to) or by the typed
+    notes. Returns (final text, first record of the region)."""
+    region = [ed.by_where[w] for w in it.get("notes_" + bk) or [] if w in ed.by_where]
+    if eff in ("keep", base_side) or (eff not in ("neither",) and not it.get("layout_" + ok)):
+        return it.get(bk) or "", (region[0] if region else None)
+    kind0 = region[0]["kind"] if region else "margin_notes"
+    new = []
+    if eff == "neither":
+        old = {r["note"].get("key"): r["note"] for r in region}
+        parsed = parse_region(typed)
+        if not parsed:
+            raise ArbitrationError(f"{it['id']}: the typed notes are empty")
+        for key, lines in parsed:
+            note = {"key": key, "lines": lines}
+            if key in old and "beside_line" in old[key]:
+                note["beside_line"] = old[key]["beside_line"]
+            new.append({"kind": kind0, "note": note, "id": next(_ids), "deleted": False,
+                        "where": None, "lines": [Entry(t, None, "note") for t in lines]})
+        final = typed
+    else:
+        used = set()
+        for spec in it["layout_" + ok]:
+            entries = []
+            for ln in spec["lines"]:
+                src = ed.by_where.get(ln["from"]) if ln.get("from") else None
+                if isinstance(src, Entry) and src.id not in used:
+                    used.add(src.id)
+                    if not ln.get("keep_text"):
+                        src.text = _norm(ln["text"])
+                    entries.append(src)
+                else:
+                    entries.append(Entry(_norm(ln["text"]), None, "note"))
+            note = {"key": spec["key"], "lines": [e.text for e in entries]}
+            if "beside_line" in spec:
+                note["beside_line"] = spec["beside_line"]
+            new.append({"kind": spec["kind"], "note": note, "id": next(_ids), "deleted": False,
+                        "where": None, "lines": entries})
+        final = it.get(ok) or ""
+    pos = ed.notes.index(region[0]) if region else len(ed.notes)
+    for r in region:
+        r["deleted"] = True
+    ed.notes[pos:pos] = new
+    return final, new[0]
 
 
 def present_in_base_of(it, base_side):

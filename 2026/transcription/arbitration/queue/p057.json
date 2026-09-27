@@ -2,7 +2,7 @@
  "page": "p057",
  "a": "transcription/pilot/opus/A/p057.json",
  "b": "transcription/pilot/opus/B/p057.json",
- "include_flagged": false,
+ "include_flagged": true,
  "items": [
   {
    "id": "b-028",
@@ -46,74 +46,6 @@
    "context_after": "nie au fina.",
    "strip": "pages/strips/p057/margin-2.jpg",
    "crop": "crops/p057/n-a-0.jpg"
-  },
-  {
-   "id": "un-a-a3",
-   "kind": "unmatched",
-   "side": "A",
-   "key": "a",
-   "line": 3,
-   "note_kind": "margin_notes",
-   "where_a": "margin_notes[0].lines[3]",
-   "where_b": null,
-   "a": "S. Tcmas en",
-   "b": null,
-   "b_after": "margin_notes[0].lines[2]",
-   "b_before": null,
-   "b_note": "margin_notes[0]",
-   "strip": "pages/strips/p057/margin-2.jpg",
-   "crop": "crops/p057/un-a-a3.jpg"
-  },
-  {
-   "id": "un-a-a4",
-   "kind": "unmatched",
-   "side": "A",
-   "key": "a",
-   "line": 4,
-   "note_kind": "margin_notes",
-   "where_a": "margin_notes[0].lines[4]",
-   "where_b": null,
-   "a": "ſa ij. ſecund.",
-   "b": null,
-   "b_after": "margin_notes[0].lines[2]",
-   "b_before": null,
-   "b_note": "margin_notes[0]",
-   "strip": "pages/strips/p057/margin-2.jpg",
-   "crop": "crops/p057/un-a-a4.jpg"
-  },
-  {
-   "id": "un-a-a5",
-   "kind": "unmatched",
-   "side": "A",
-   "key": "a",
-   "line": 5,
-   "note_kind": "margin_notes",
-   "where_a": "margin_notes[0].lines[5]",
-   "where_b": null,
-   "a": "quaſtion xiij.",
-   "b": null,
-   "b_after": "margin_notes[0].lines[2]",
-   "b_before": null,
-   "b_note": "margin_notes[0]",
-   "strip": "pages/strips/p057/margin-2.jpg",
-   "crop": "crops/p057/un-a-a5.jpg"
-  },
-  {
-   "id": "un-a-a6",
-   "kind": "unmatched",
-   "side": "A",
-   "key": "a",
-   "line": 6,
-   "note_kind": "margin_notes",
-   "where_a": "margin_notes[0].lines[6]",
-   "where_b": null,
-   "a": "article xiij.",
-   "b": null,
-   "b_after": "margin_notes[0].lines[2]",
-   "b_before": null,
-   "b_note": "margin_notes[0]",
-   "strip": "pages/strips/p057/margin-2.jpg",
-   "crop": "crops/p057/un-a-a6.jpg"
   },
   {
    "id": "n-f-1",
@@ -176,22 +108,156 @@
    "crop": "crops/p057/n-i-2.jpg"
   },
   {
-   "id": "un-_unkeyed_0-b",
-   "kind": "unmatched",
-   "side": "B",
-   "key": "_unkeyed_0",
-   "line": null,
-   "note_kind": "margin_notes",
-   "whole_note": true,
-   "where_a": null,
-   "where_b": "margin_notes[1]",
-   "a": null,
-   "b": "S. Tcmas en\nſa ij. ſecund.\nquaſtion xiij.\narticle xiij.",
-   "note_key": null,
-   "beside_line": "à part l'interpretation des Hebrieux, & Cabaliſtes, qui",
-   "a_after": "margin_notes[0]",
+   "id": "ns-a",
+   "kind": "note-structure",
+   "where_a": "margin_notes[0]",
+   "where_b": "margin_notes[0]",
+   "notes_a": [
+    "margin_notes[0]"
+   ],
+   "notes_b": [
+    "margin_notes[0]",
+    "margin_notes[1]"
+   ],
+   "a": "[a] Iean d'Ana\nnie au fina.\nde maled.\nS. Tcmas en\nſa ij. ſecund.\nquaſtion xiij.\narticle xiij.",
+   "b": "[a] Iean d'[??]\nnie au fina.\nde maled.\n[–] S. Tcmas en\nſa ij. ſecund.\nquaſtion xiij.\narticle xiij.",
+   "layout_a": [
+    {
+     "where": "margin_notes[0]",
+     "kind": "margin_notes",
+     "key": "a",
+     "beside_line": "detraire de ce que luy appartient {a}. combien qu'à la ve-",
+     "lines": [
+      {
+       "text": "Iean d'Ana",
+       "from": "margin_notes[0].lines[0]",
+       "keep_text": true
+      },
+      {
+       "text": "nie au fina.",
+       "from": "margin_notes[0].lines[1]",
+       "keep_text": true
+      },
+      {
+       "text": "de maled.",
+       "from": "margin_notes[0].lines[2]",
+       "keep_text": true
+      },
+      {
+       "text": "S. Tcmas en",
+       "from": "margin_notes[1].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "ſa ij. ſecund.",
+       "from": "margin_notes[1].lines[1]",
+       "keep_text": false
+      },
+      {
+       "text": "quaſtion xiij.",
+       "from": "margin_notes[1].lines[2]",
+       "keep_text": false
+      },
+      {
+       "text": "article xiij.",
+       "from": "margin_notes[1].lines[3]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[0]",
+     "kind": "margin_notes",
+     "key": "a",
+     "beside_line": "detraire de ce que luy appartient {a}. combien qu'à la ve-",
+     "lines": [
+      {
+       "text": "Iean d'[??]",
+       "from": "margin_notes[0].lines[0]",
+       "keep_text": true
+      },
+      {
+       "text": "nie au fina.",
+       "from": "margin_notes[0].lines[1]",
+       "keep_text": true
+      },
+      {
+       "text": "de maled.",
+       "from": "margin_notes[0].lines[2]",
+       "keep_text": true
+      }
+     ]
+    },
+    {
+     "where": "margin_notes[1]",
+     "kind": "margin_notes",
+     "key": null,
+     "beside_line": "à part l'interpretation des Hebrieux, & Cabaliſtes, qui",
+     "lines": [
+      {
+       "text": "S. Tcmas en",
+       "from": "margin_notes[0].lines[3]",
+       "keep_text": false
+      },
+      {
+       "text": "ſa ij. ſecund.",
+       "from": "margin_notes[0].lines[4]",
+       "keep_text": false
+      },
+      {
+       "text": "quaſtion xiij.",
+       "from": "margin_notes[0].lines[5]",
+       "keep_text": false
+      },
+      {
+       "text": "article xiij.",
+       "from": "margin_notes[0].lines[6]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
    "strip": "pages/strips/p057/margin-2.jpg",
-   "crop": "crops/p057/un-_unkeyed_0-b.jpg"
+   "crop": "crops/p057/ns-a.jpg"
+  },
+  {
+   "id": "f-b-022",
+   "kind": "flagged",
+   "where_a": "blocks[2].lines[18]",
+   "where_b": "blocks[2].lines[18]",
+   "index": 22,
+   "a": "noſtre Sauuenr Ieſus-chriſt, ils diſoiẽt le lapider, nõ pas",
+   "b": "noſtre Sauuenr Ieſus-chriſt, ils diſoiẽt le lapider, nõ pas",
+   "flags": [
+    "A: sic, wrong sort: 'Sauuenr' for 'Sauueur' (n for u in the second-last position). Lowercase c in 'chriſt' as printed.",
+    "B: sic, wrong sort: 'Sauuenr' for 'Sauueur' (the second-last letter reads as n). 'chriſt' is lowercase c as printed. The d of 'lapider' is blotted."
+   ],
+   "hint": "Both readers agree on this line; flagged by A and B.\nA: sic, wrong sort: 'Sauuenr' for 'Sauueur' (n for u in the second-last position). Lowercase c in 'chriſt' as printed.\nB: sic, wrong sort: 'Sauuenr' for 'Sauueur' (the second-last letter reads as n). 'chriſt' is lowercase c as printed. The d of 'lapider' is blotted.",
+   "context_before": "iniures {c}. Ainſi quãd les Iuifs iettoient des pierres cõtre",
+   "context_after": "pour bonnes œuures (comme le Seigneur iuſtemẽt ſe",
+   "strip": "pages/strips/p057/body-5.jpg",
+   "crop": "crops/p057/f-b-022.jpg"
+  },
+  {
+   "id": "f-b-032",
+   "kind": "flagged",
+   "where_a": "blocks[2].lines[28]",
+   "where_b": "blocks[2].lines[28]",
+   "index": 32,
+   "a": "tirer à peine de mort trop facilemeot vn gliſſement, &",
+   "b": "tirer à peine de mort trop facilemeot vn gliſſement, &",
+   "flags": [
+    "A: sic?: 'facilemeot' — the letter after 'facileme' looks like an o rather than n; could be a worn/damaged n. Transcribed as seen.",
+    "B: sic, wrong sort: 'facilemeot' for 'facilement' (the second-last letter reads as o, not n)."
+   ],
+   "hint": "Both readers agree on this line; flagged by A and B.\nA: sic?: 'facilemeot' — the letter after 'facileme' looks like an o rather than n; could be a worn/damaged n. Transcribed as seen.\nB: sic, wrong sort: 'facilemeot' for 'facilement' (the second-last letter reads as o, not n).",
+   "context_before": "deux & trois fois, la loy ne les fait pas mourir (ne voulãt",
+   "context_after": "lubricité de langage {h}:) mais les puniſt extraordinaire-",
+   "strip": "pages/strips/p057/body-7.jpg",
+   "crop": "crops/p057/f-b-032.jpg"
   }
  ]
 }

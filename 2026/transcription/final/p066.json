@@ -1,0 +1,207 @@
+{
+ "id": "p066",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "ARREST DV",
+ "folio": "66",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Tilh priſonnier, (qui l'en voulut croire à",
+    "ſon ſerment, ſe ſuſmettãt à mille morts",
+    "cruelles, ſi elle iuroit, qu'il ne fuſt point",
+    "Martin Guerre ſon mari (n'oſa iamais",
+    "iurer: mais aſſez creuëment diſoit, qu'",
+    "elle ne vouloit iurer, ni l'en croire auſsi.",
+    "en quoy ne pouuoit eſtre plus patem-",
+    "ment deſcouuerte la fraude, ni la calom",
+    "nie de ladite de Rols."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "C'eſt vne grande honte & vilennie (diſoit le Iuriſ-",
+    "conſulte Paule) & patente confeſſion, du faict duquel",
+    "ſ'agit, ne vouloir iurer, ni deferer le ſerment {a}, car meſ-",
+    "mes, où toutes autres preuues defaudroyent {b}, voire où",
+    "il y auroit quelque preſumptioo cõtre celuy qui le de-",
+    "fere, & qu'il fuſt chargé de la preuue, il luy ſeroit tou-",
+    "tesfois loiſible pour couper & recercher la verité, defe",
+    "rer le ſerment à ſa partie {c}. qui ne peut auoir aucune iu-",
+    "ſte raiſon, de ne iurer point: d'autant que de partie, il eſt",
+    "fait iuge du vouloir & conſentement de ſon aduerſai-",
+    "re {d}. Ie di ceci, ſauf ce que nos Interpretes en diſcou-",
+    "rent plus amplement ès lieux communs, & ce que nous",
+    "en eſcrirons peu apres {e}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Quatriemement, durant trois ou qua-",
+    "tre années, que le preuenu & ladite de",
+    "Rols ont eſté enſemble, elle ne ſ'en eſt",
+    "oncques plainte: ains au contraire, quãd",
+    "quelqu'vn diſoit que le priſonnier n'e-",
+    "ſtoit point ſon mari, elle le deſmentoit",
+    "rudement, aſſeurant que c'eſtoit Mar-",
+    "tin Guerre ſon mari, ou quelque dia-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "lines": [
+    "I. manife.",
+    "ſta. D. de iu-",
+    "re iuran."
+   ],
+   "beside_line": "conſulte Paule) & patente confeſſion, du faict duquel"
+  },
+  {
+   "key": "b",
+   "lines": [
+    "l. ſi. P. licen",
+    "tia. C. de iur.",
+    "de lib. l. tutor",
+    "pupilli. D. de",
+    "iure iu."
+   ],
+   "beside_line": "mes, où toutes autres preuues defaudroyent {b}, voire où"
+  },
+  {
+   "key": "c",
+   "lines": [
+    "l fin. C. de",
+    "fideicom."
+   ],
+   "beside_line": "rer le ſerment à ſa partie {c}. qui ne peut auoir aucune iu-"
+  },
+  {
+   "key": "d",
+   "lines": [
+    "Les Do-",
+    "cteurs en la l.",
+    "manifeſta al",
+    "leguee."
+   ],
+   "beside_line": "fait iuge du vouloir & conſentement de ſon aduerſai-"
+  },
+  {
+   "key": "e",
+   "lines": [
+    "En l'anno-",
+    "tation.. xv."
+   ],
+   "beside_line": "en eſcrirons peu apres {e}."
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "Tilh priſonnier, (qui l'en voulut croire à",
+   "note": "continues_prev set true: the page opens mid-name (Arnaud du Tilh) and mid-sentence, but p065 is not yet transcribed, so the join could not be checked against the preceding page."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "il y auroit quelque preſumptioo cõtre celuy qui le de-",
+   "note": "sic: the last letter of preſumptioo is printed as a closed round sort (o), not the n used elsewhere on the page (compare eſcrirons, defaudroyent) — a wrong sort, transcribed as printed."
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "rent plus amplement ès lieux communs, & ce que nous",
+   "note": "accent on ès is a near-vertical wedge; measured slant is between the page's clear acute (verité, chargé) and its clear grave (à, où). Read as grave; 'és' is possible."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "I. manife.",
+   "note": "sic: the citation opens with an italic capital I (flat serifs top and bottom) where the lex-abbreviation l. is expected; compare the clearly different lowercase l of notes b and c. Also, manife. ends in a round period, not a hyphen, before ſta. on the next line."
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "leguee.",
+   "note": "worn and over-inked; read as 'leguee' (continuing 'al' from the line above, i.e. alleguee). A mark above the middle letters could be an accent or ink."
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "tation.. xv.",
+   "note": "the print reads 'tation. .xv.' (period after tation, then the numeral's own leading point); the §1 spacing rule closes the gap before the second point, which is why the two points are adjacent here."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "il y auroit quelque preſumptioo cõtre celuy qui le de-",
+   "note": "sic: the last sort of 'preſumptioo' is a fully closed o, not n. Checked at 8x and on a thresholded bitmap (body-4.jpg, x≈968-1018, y≈185-240): the counter is enclosed top and bottom, unlike the open-bottomed n of 'nos' (body-5.jpg) or of 'defaudroyent' on the line above. Wrong sort (o for n), transcribed as printed."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "il y auroit quelque preſumptioo cõtre celuy qui le de-",
+   "note": "the mark over the o of 'cõtre' is a flat, slightly wavy bar (body-4.jpg at 5x); read as a tilde per §2 (cõtre = contre), not a circumflex."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "I. manife.",
+   "note": "sic: the first sort is an italic CAPITAL I (flat serifs top and bottom, margin-2.jpg at 11x), not the lowercase l of notes b and c ('l. ſi.', 'l fin.'), although the citation wants l. (lex) manifeſta, D. de iureiurando. Wrong sort, transcribed as printed."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "I. manife.",
+   "note": "the line-end word-break in manife|ſta is printed as a round point on the baseline, not as the raised dash used at the end of the next line ('iu-'); transcribed as the point that is printed. A worn hyphen sort cannot be ruled out."
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "l fin. C. de",
+   "note": "the note's key letter is a heavily inked blob (margin-3.jpg at 9x) whose counter is closed; read c from the marker alphabet a b c d e and from the {c} marker in the body. No point is printed after the 'l' of 'l fin.' (unlike 'l.' in note b)."
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "leguee.",
+   "note": "faint, broken inking; the three sorts after 'leg' are only partly printed. Read 'leguee.' (with 'al' ending the previous line: 'la l. manifeſta alleguee'; 'alleguee' occurs in the margin notes of p041). 'legate.' cannot be excluded. Human check wanted: pages/strips/p066/margin-3.jpg x≈420-560, y≈343-400."
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "tation.. xv.",
+   "note": "the print sets 'tation.' then a space then '.xv.' (margin-3.jpg at 7x); §1 removes the space before a point and adds one after it, giving 'tation.. xv.'. Both points are printed."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[2].lines[0]",
+   "A": "C'eſt vne grande honte & vilennie (diſoit le Iuriſ.",
+   "B": "C'eſt vne grande honte & vilennie (diſoit le Iuriſ-",
+   "chose": "carson-session",
+   "text": "C'eſt vne grande honte & vilennie (diſoit le Iuriſ-",
+   "reason": "arbitration: B"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "A": "rent plus amplement ès lieux communs, & ce que nous",
+   "B": "rent plus amplement és lieux communs, & ce que nous",
+   "chose": "carson-session",
+   "text": "rent plus amplement ès lieux communs, & ce que nous",
+   "reason": "arbitration: A"
+  }
+ ]
+}
