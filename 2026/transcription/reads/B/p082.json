@@ -1,0 +1,144 @@
+{
+ "id": "p082",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "82",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "n'eſt pas choſe nouuelle, que deux per-",
+    "ſonnes ſe rapportent, non ſeulement",
+    "des traicts, & lineamens du viſaige: mais",
+    "encore de quelques ſignes particuliers",
+    "du corps."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Qu'il ſoit ainſi, Sura Romain, eſtant procouſul en",
+    "Sicile, trouua illec vn pauure peſcheur, du tout à luy",
+    "ſemblable: non ſeulement de la groſſeur & grandeur",
+    "du corps, des traicts de la bouche, & lineamens du viſa-",
+    "ge: mais auſſi des geſtes, & contenances, & de ie ne ſçay",
+    "quelle ouuerture de bouche, qu'iceluy Sura auoit pro",
+    "pre & particuliere en riant, ou en parlant. voire d'eſtre",
+    "begue, comme luy {a}. Ainſi eſtoit du pere du grand Põ-",
+    "pée, auec ſon cuiſinier. Comme nous dirons ci apres {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et de dire, que par les enqueſtes eſt rap",
+    "porté le bruit eſtre audit lieu d'Artigat,",
+    "que Pierre Guerre, & ſes gendres, con-",
+    "traignoyent ladite de Rols faire la pour-",
+    "ſuite: eſt reſpondu, que la preuue par",
+    "bruit & fame n'eſt pas receuë, ſinon en",
+    "certains cas, qui ne ſe pourroient accom-",
+    "moder ici."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Partant que les mauuais, trop licencieux, & virulẽts",
+    "n'ont iamais eſpargné leur puante & infecte langue, à",
+    "detracter des gens de bien & de vertu, on a veu ſou-",
+    "uent aduenir, que par leurs venimeuſes maledicences,",
+    "vn homme de bien a eſté diffamé d'vn fait, auquel il",
+    "n'euſt voulu penſer pour ſa vie. & neantmoins tel bruit",
+    "iniuſtement eſpandu, le notoit enuers pluſieurs perſon-",
+    "nes trop procliues à mal ſentir de leur prochain: ſelon",
+    "l'opinion ſeule deſquelles pourtant ne ſeroit raiſonna-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "lines": [
+    "Pline au li.",
+    "vij. c. xxiij. Va",
+    "lere au liu. ix.",
+    "c. vx."
+   ],
+   "beside_line": "begue, comme luy {a}. Ainſi eſtoit du pere du grand Põ-"
+  },
+  {
+   "key": "b",
+   "lines": [
+    "En l'annota",
+    "tion lxiij."
+   ],
+   "beside_line": "Et de dire, que par les enqueſtes eſt rap"
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "n'eſt pas choſe nouuelle, que deux per-",
+   "note": "apostrophe after n is printed slanting like a grave accent; transcribed as '"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "des traicts, & lineamens du viſaige: mais",
+   "note": "a small dot sits between 'lineamens' and 'du'; read as a stray spacing mark, not a period; could be 'lineamens. du'"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Qu'il ſoit ainſi, Sura Romain, eſtant procouſul en",
+   "note": "sic: 'procouſul' (u for n, = proconſul) as printed"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "ſemblable: non ſeulement de la groſſeur & grandeur",
+   "note": "raised dot between 'la' and 'groſſeur', treated as spacing material; 'groſſeur' read as ſſ"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "ge: mais auſſi des geſtes, & contenances, & de ie ne ſçay",
+   "note": "'ge:' punctuation after ge looks like a colon (two dots); 'auſſi' read as ſſ ligature"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "c. vx.",
+   "note": "sic: 'vx' as printed (presumably for xv)"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "tion lxiij.",
+   "note": "final 'ij' could be read as 'ÿ'-like sort; transcribed lxiij"
+  }
+ ]
+}

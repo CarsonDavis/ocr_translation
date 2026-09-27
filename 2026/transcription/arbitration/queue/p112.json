@@ -1,0 +1,22 @@
+{
+ "page": "p112",
+ "a": "transcription/reads/A/p112.json",
+ "b": "transcription/reads/B/p112.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-029",
+   "kind": "body",
+   "where_a": "blocks[0].lines[29]",
+   "where_b": "blocks[0].lines[29]",
+   "index": 29,
+   "index_b": 29,
+   "a": "peuple perſuadè que ceſte recommendation procedaſt",
+   "b": "peuple perſuadé que ceſte recommendation procedaſt",
+   "context_before": "& luy recommandaſt ſa femme & ſes enfans. Dont le",
+   "context_after": "d'Antiochus (auquel le peuple eſtoit deuotieux, &",
+   "strip": "pages/strips/p112/body-5.jpg",
+   "crop": "crops/p112/b-029.jpg"
+  }
+ ]
+}

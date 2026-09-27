@@ -1,0 +1,36 @@
+{
+ "page": "p145",
+ "a": "transcription/reads/A/p145.json",
+ "b": "transcription/reads/B/p145.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-003",
+   "kind": "body",
+   "where_a": "blocks[0].lines[3]",
+   "where_b": "blocks[0].lines[3]",
+   "index": 3,
+   "index_b": 3,
+   "a": "quitaine. Les Celtes ſont ſeparez des Aquitains par lè",
+   "b": "quitaine. Les Celtes ſont ſeparez des Aquitains par le",
+   "context_before": "tres en trois: à ſçauoir, en la Belgique, Celtique, & A-",
+   "context_after": "fleuue de Garomne, deſcendant des mõtaignes de Co-",
+   "strip": "pages/strips/p145/body-2.jpg",
+   "crop": "crops/p145/b-003.jpg"
+  },
+  {
+   "id": "b-033",
+   "kind": "body",
+   "where_a": "blocks[0].lines[33]",
+   "where_b": "blocks[0].lines[33]",
+   "index": 33,
+   "index_b": 33,
+   "a": "mencement de l'vſage des picques.",
+   "b": "mencement de l'vſage des pieques.",
+   "context_before": "nommez ainſi, partant que de ce peuple eſt venu le cõ-",
+   "context_after": "TEXTE.",
+   "strip": "pages/strips/p145/body-6.jpg",
+   "crop": "crops/p145/b-033.jpg"
+  }
+ ]
+}

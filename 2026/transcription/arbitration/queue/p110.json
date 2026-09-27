@@ -1,0 +1,81 @@
+{
+ "page": "p110",
+ "a": "transcription/reads/A/p110.json",
+ "b": "transcription/reads/B/p110.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-023",
+   "kind": "body",
+   "where_a": "blocks[4].lines[6]",
+   "where_b": "blocks[4].lines[6]",
+   "index": 23,
+   "index_b": 23,
+   "a": "des autres {b2}: cela toutesfois ſ'entend auec bonne foy,",
+   "b": "des autres {b2}: cela toutesfois ſ'entend auec bonne foy;",
+   "context_before": "pour recognoiſtre les perſonnes, & diſcerner les vnes",
+   "context_after": "& ſans intention de frauder, ou endommager autruy {c2}.",
+   "strip": "pages/strips/p110/body-5.jpg",
+   "crop": "crops/p110/b-023.jpg"
+  },
+  {
+   "id": "b-034",
+   "kind": "body",
+   "where_a": "blocks[4].lines[17]",
+   "where_b": "blocks[4].lines[17]",
+   "index": 34,
+   "index_b": 34,
+   "a": "lement changer de nom, mais encore du ſu nom, & d'ar",
+   "b": "lement changer de nom, mais encore du ſu nom, & d'ar-",
+   "context_before": "ques que la volonté ne ſoit mauuaiſe, on peut, non ſeu-",
+   "context_after": "moiries {e2}, & ſe dire d'vn autre pays: comme quand S.",
+   "strip": "pages/strips/p110/body-7.jpg",
+   "crop": "crops/p110/b-034.jpg"
+  },
+  {
+   "id": "n-c2-3",
+   "kind": "note",
+   "key": "c2",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[6].lines[3]",
+   "where_b": "margin_notes[6].lines[3]",
+   "a": "notarion, xij.",
+   "b": "notation, xij.",
+   "context_before": "deſſus en l'a-",
+   "context_after": null,
+   "strip": "pages/strips/p110/margin-3.jpg",
+   "crop": "crops/p110/n-c2-3.jpg"
+  },
+  {
+   "id": "n-d2-1",
+   "kind": "note",
+   "key": "d2",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[7].lines[1]",
+   "where_b": "margin_notes[7].lines[1]",
+   "a": "nit. ru iij. de",
+   "b": "nit. ru iiij. de",
+   "context_before": "Pierre Cri-",
+   "context_after": "honeſta diſci-",
+   "strip": "pages/strips/p110/margin-3.jpg",
+   "crop": "crops/p110/n-d2-1.jpg"
+  },
+  {
+   "id": "n-d2-3",
+   "kind": "note",
+   "key": "d2",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[7].lines[3]",
+   "where_b": "margin_notes[7].lines[3]",
+   "a": "pli. c. x.",
+   "b": "pli. c. x,",
+   "context_before": "honeſta diſci-",
+   "context_after": null,
+   "strip": "pages/strips/p110/margin-3.jpg",
+   "crop": "crops/p110/n-d2-3.jpg"
+  }
+ ]
+}

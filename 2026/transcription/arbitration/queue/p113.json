@@ -1,0 +1,36 @@
+{
+ "page": "p113",
+ "a": "transcription/reads/A/p113.json",
+ "b": "transcription/reads/B/p113.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-005",
+   "kind": "body",
+   "where_a": "blocks[0].lines[5]",
+   "where_b": "blocks[0].lines[5]",
+   "index": 5,
+   "index_b": 5,
+   "a": "ſement vſurpé le nom & tirre de fils de Roy, & eſmeu",
+   "b": "ſement vſurpé le nom & titre de fils de Roy, & eſmeu",
+   "context_before": "iij. parlant d'vn preſtre ſeditieux, lequel apres auoir fau",
+   "context_after": "le peuple à guerres ciuiles, fut condamné premiere-",
+   "strip": "pages/strips/p113/body-2.jpg",
+   "crop": "crops/p113/b-005.jpg"
+  },
+  {
+   "id": "b-036",
+   "kind": "body",
+   "where_a": "blocks[0].lines[36]",
+   "where_b": "blocks[0].lines[36]",
+   "index": 36,
+   "index_b": 36,
+   "a": "Rome: vray eſt qu'apres la mort de Ceſar; partant qu'il",
+   "b": "Rome: vray eſt qu'apres la mort de Ceſar, partant qu'il",
+   "context_before": "quelque ſedition de peuple, le bannit ſeulement de",
+   "context_after": "retourna à Rome, & menaçoit le Senat, il fut par le",
+   "strip": "pages/strips/p113/body-6.jpg",
+   "crop": "crops/p113/b-036.jpg"
+  }
+ ]
+}

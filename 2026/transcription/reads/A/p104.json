@@ -1,0 +1,189 @@
+{
+ "id": "p104",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "104",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "me auſſi Lucrece, & Porcie Romaines: l'vne par trop",
+    "faſchee de l'outrage receu du Roy Tarquin, qui l'auoit",
+    "violee: l'autre grandemẽt troublee d'entendre la mort",
+    "de Brutus ſon mari. Et que d'autres auſſi fachez de ne-",
+    "gocier aux traffiques de ce monde, ont executé le meſ-",
+    "me, pour deſcharger l'eſprit de ce mortel fardeau, & de",
+    "le mettre en repos, à la beatitude qu'ils eſperoyent,",
+    "comme, les Gymnoſophiſtes, & Brachmanes aux In-",
+    "des: comme Cleombrot, Ambraciote Philoſophe: le-",
+    "quel apres auoir léu le Phædon de Platon ſur l'im-",
+    "mortalité de l'ame, eſcrit en la perſonne de Socrates,",
+    "pour cercher vn repos plus aſſeuré ſe precipita d'vne",
+    "haute muraille dans la mer, pour gaigner pluſtoſt la",
+    "compagnie des eternellement heureux {g}: duquel par-",
+    "lant Ouide diſoit {h}:"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Vel de præcipiti, venias in tartara ſaxo,",
+    "Vt qui Socraticum, de nece legit opus."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et Callimachus poëte Grec, en faict vn elegant epi-",
+    "gramme, depuis par quelque docte homme rendu en",
+    "Latin, comme ſ'enſuyt:"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Vita vale, muro præceps delapſus ab alto,",
+    "Dixiſti moriens, Ambraciota puer.",
+    "Nullum in morte malum, docti, ſed ſcripta",
+    "Platonis,",
+    "Non ita erant animo percipienda tuo."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "D'autres pour vne oſtentation & vaine eſperance d'e-",
+    "ternizer leur memoire, & ſe baſtir quelque trophee",
+    "d'honneur aux ſiecles futurs, comme Cleanthes, Chri-",
+    "ſippus, & Zeno en Grece {i}. Les Deces & Curſes à Ro-",
+    "me, Meneceus à Thebes, Codrus Roy en Athenes."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Codrus pro patria, non timidus mori {k}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et pluſieurs autres, entre leſquels Empedocles ce grãd",
+    "Philoſophe, qui pour ſe faire eſtimer Dieu, eſtant pres",
+    "le mõt Ethna en Sicile, qui touſiours bruſle, ſe deſroba",
+    "de ſes compagnons, & à cachettes ſe lança au feu, en in-",
+    "tention que n'apparoiſſant apres, il fuſt mis au nombre",
+    "des dieux immortels, duquel Horace {l},"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "g",
+   "beside_line": "compagnie des eternellement heureux {g}: duquel par-",
+   "lines": [
+    "Ciceron au",
+    "liure j. des Tu",
+    "ſculanes. La-",
+    "ctance au iij.",
+    "de falſæ ſa.",
+    "pientia."
+   ]
+  },
+  {
+   "key": "h",
+   "beside_line": "Et Callimachus poëte Grec, en faict vn elegant epi-",
+   "lines": [
+    "Ouide in",
+    "Ibin."
+   ]
+  },
+  {
+   "key": "i",
+   "beside_line": "ſippus, & Zeno en Grece {i}. Les Deces & Curſes à Ro-",
+   "lines": [
+    "Lactance au",
+    "iij. de falſa ſa-",
+    "pieria. c. xviij."
+   ]
+  },
+  {
+   "key": "k",
+   "beside_line": "Codrus pro patria, non timidus mori {k}.",
+   "lines": [
+    "Horace au",
+    "iij. des Car-",
+    "mes."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "tention que n'apparoiſſant apres, il fuſt mis au nombre",
+   "lines": [
+    "Horace en",
+    "l'art poetique."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "le mettre en repos, à la beatitude qu'ils eſperoyent,",
+   "note": "mark after 'repos' is a small low blob set apart, between a comma and a period in shape; read as comma. 'le mettre' (not 'ſe') as printed"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "gocier aux traffiques de ce monde, ont executé le meſ-",
+   "note": "'traffiques' read from ffi ligature; could be 'trafiques' with fi ligature"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Ciceron au",
+   "note": "initial capital is damaged/blotted (looks like an A-stroke); read C from the sense of the citation (Tusculanes)"
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "text": "de falſæ ſa.",
+   "note": "sic: 'falſæ' printed with æ ligature (note i has 'falſa'); line-end mark after 'ſa' looks like a period rather than a hyphen"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "ctance au iij.",
+   "note": "numeral printed as i + ij ligature (iÿ); read iij, could be ij"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "pieria. c. xviij.",
+   "note": "sic: 'ſa-pieria' for 'ſapientia' as printed (letters read p-i-e-r-i-a; could be 'pietia'); wrong sort / omitted letters"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "iij. des Car-",
+   "note": "numeral printed as i + ij ligature (iÿ); read iij, could be ij"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "l'art poetique.",
+   "note": "final mark is a raised dot, possibly a hyphen-like mark; read as period"
+  }
+ ]
+}

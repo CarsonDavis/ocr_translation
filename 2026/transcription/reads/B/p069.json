@@ -1,0 +1,204 @@
+{
+ "id": "p069",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "69",
+ "signature": "E iij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "tres digne: eſtant vn autre Phrinondas, duquel Ariſto-",
+    "phanes parle, ou vn vray Syſiphe,"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Syſiphus in terris, quo non aſtutior alter."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "D'autant que la ſuppoſition eſtant ia deſcouuerte, il",
+    "ſçeut neantmoins ſi bien impoſer aux Iuges, voire en-",
+    "cor à ladite de Rols, de laquelle ſe diſoit touſiours ma",
+    "ri: que les Iuges le relaxerent en effect, par vn appoin",
+    "tement de contraires. Et la femme encor le receut pour",
+    "Martin Guerre ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et neantmoins le lendemain de",
+    "grand marin ledit Pierre Guerre, com-",
+    "procureur de ladite de Rols, accompa-",
+    "gné de ſes beaux fils, tous armez, le fit",
+    "conſtituer priſonnier, bien que pour lors",
+    "ni peuſt auoir nouuelles charges, & que",
+    "ladite de Rols n'euſt encor fait procu-",
+    "reur ledit Pierre Guerre à ces fins. car la",
+    "procure ne fut faite ce iour-la, iuſques",
+    "au ſoir apres veſpres, comme iceluy Pier",
+    "re Guerre meſme depuis a confeſſé."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ceſtoit doncques vn faux procureur, car tel eſt ap",
+    "pellé en noſtre droict, non ſeulement celuy qui n'ha eu",
+    "iamais ni auant, ni apres charge de la perſonne, de",
+    "laquelle il ſe dit procureur {a}: ou bien qui d'aultresfois",
+    "l'ha euë reuoquee, comme il ſçauoit bien {b}. mais en",
+    "cor celuy qui a outrepaſſé les fins & bornes de ſa puiſ-",
+    "ſance, ou qui n'auoit point de charge au temps de l'exe-",
+    "cution {c}. voyre celuy qui auroit eſté bien & legitime-",
+    "ment conſtitué ſ'il ne ſçauoit point & neantmoins il fai-",
+    "ſoit les actes de procureut {d}. vray eſt qu'en ce fait,",
+    "Pierre Guerre du commencement, faux procureur, a"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "au ſoir apres veſpres, comme iceluy Pier",
+   "lines": [
+    "l. ſi procura",
+    "tori falſo. & i",
+    "lec Accurſe,",
+    "D. de cõd. ca.",
+    "dau. l. licet. C.",
+    "de procu."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "Ceſtoit doncques vn faux procureur, car tel eſt ap",
+   "lines": [
+    "c. ex parte",
+    "Decani. de re."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "iamais ni auant, ni apres charge de la perſonne, de",
+   "lines": [
+    "l ſulſus. & il",
+    "lac les gloſe &",
+    "docteurs. C. de",
+    "fu[?]. la Glo &",
+    "les maiſtres au",
+    "c. ex partc."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "cution {c}. voyre celuy qui auroit eſté bien & legitime-",
+   "lines": [
+    "l. quæro. D.",
+    "de eo qui pro",
+    "tutor. l. iij. P.",
+    "ſed & ſi qui-",
+    "dem. D. Iud.",
+    "ſol."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "phanes parle, ou vn vray Syſiphe,",
+   "note": "the print sets 'v n' with a wide gap (spacing sort risen or loose); read as the single word 'vn' and closed up."
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "grand marin ledit Pierre Guerre, com-",
+   "note": "sic? the third letter of 'matin' looks like an r (no ascender/crossbar visible), so transcribed 'marin' as printed; could be a worn t. Reconciler should check.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "reur ledit Pierre Guerre à ces fins. car la",
+   "note": "the mark after 'fins' sits slightly above the baseline; read as a period (no tail), could be a damaged comma or colon."
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "procure ne fut faite ce iour-la, iuſques",
+   "note": "the first letter of 'fut' is damaged (curled top, crossbar faint); read as f, could be ſ ('ſut')."
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "iamais ni auant, ni apres charge de la perſonne, de",
+   "note": "the print sets 'ap res' with a gap inside the word; closed up as one word."
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "cor celuy qui a outrepaſſé les fins & bornes de ſa puiſ-",
+   "note": "the line-end sign after 'puiſ' is a small dot-like mark, possibly a period rather than a hyphen; transcribed as the word-break sign '-'."
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "ſance, ou qui n'auoit point de charge au temps de l'exe-",
+   "note": "'point' is poorly printed (the n looks like 'a' or a damaged sort, 'poiat'); read as 'point'."
+  },
+  {
+   "where": "blocks[6].lines[9]",
+   "text": "ſoit les actes de procureut {d}. vray eſt qu'en ce fait,",
+   "note": "sic? the last letter of 'procureur' appears as a t ('procureut'); transcribed as printed; could be a worn r.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[6].lines[8]",
+   "text": "ment conſtitué ſ'il ne ſçauoit point & neantmoins il fai-",
+   "note": "the print sets 'ſç auoit' with a gap and 'point&' tight; word division normalized."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "D. de cõd. ca.",
+   "note": "between 'cõd' and 'ca.' there is a small vertical mark, read as a period; could be a stray mark with no punctuation intended. The D is a swash italic capital."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l ſulſus. & il",
+   "note": "no period visible after 'l'; 'ſulſus' as printed (expected 'falſus'), sic."
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "fu[?]. la Glo &",
+   "note": "the letter after 'fu' is blotted (looks like r or ſ with a dot); probably 'fal.'/'fuſ.' for de falſis; unreadable at this resolution."
+  },
+  {
+   "where": "margin_notes[2].lines[5]",
+   "text": "c. ex partc.",
+   "note": "sic: the last letter of 'parte' looks like a c; could be a worn e."
+  }
+ ]
+}

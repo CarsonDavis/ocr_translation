@@ -1,0 +1,37 @@
+{
+ "page": "p096",
+ "a": "transcription/reads/A/p096.json",
+ "b": "transcription/reads/B/p096.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-032",
+   "kind": "body",
+   "where_a": "blocks[2].lines[2]",
+   "where_b": "blocks[2].lines[2]",
+   "index": 32,
+   "index_b": 32,
+   "a": "auoient affermé le priſonnier eſtre Mar-",
+   "b": "auoienr affermé le priſonnier eſtre Mar-",
+   "context_before": "donne que les principaux teſmoins qui",
+   "context_after": "tin Guerre, viendroient en perſonne. &",
+   "strip": "pages/strips/p096/body-7.jpg",
+   "crop": "crops/p096/b-032.jpg"
+  },
+  {
+   "id": "n-x17f-1",
+   "kind": "note",
+   "key": "ſ",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[1]",
+   "where_b": "margin_notes[1].lines[1]",
+   "a": "de maleſi. &",
+   "b": "de malefi. &",
+   "context_before": "l. ij. iij. iiij. C.",
+   "context_after": "mathema.",
+   "strip": "pages/strips/p096/margin-1.jpg",
+   "crop": "crops/p096/n-x17f-1.jpg"
+  }
+ ]
+}

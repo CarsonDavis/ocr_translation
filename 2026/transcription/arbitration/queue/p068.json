@@ -1,0 +1,51 @@
+{
+ "page": "p068",
+ "a": "transcription/reads/A/p068.json",
+ "b": "transcription/reads/B/p068.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-003",
+   "kind": "body",
+   "where_a": "blocks[0].lines[3]",
+   "where_b": "blocks[0].lines[3]",
+   "index": 3,
+   "index_b": 3,
+   "a": "tu, que menaces, ou force {f}. Ioinct auſſi qu'elle en fai-",
+   "b": "tu; que menaces, ou force {f}. Ioinct auſſi qu'elle en fai-",
+   "context_before": "ſuader. & en elle, les perſuaſions n'ont pas moins de ver",
+   "context_after": "ſoit iournellemẽt plainte cõtre ſeſd. paraſtre & mere {g}.",
+   "strip": "pages/strips/p068/body-1.jpg",
+   "crop": "crops/p068/b-003.jpg"
+  },
+  {
+   "id": "b-022",
+   "kind": "body",
+   "where_a": "blocks[2].lines[16]",
+   "where_b": "blocks[2].lines[16]",
+   "index": 22,
+   "index_b": 22,
+   "a": "Rols le receut, & careſſa commẽ mari: &",
+   "b": "Rols le receut, & careſſa comme mari: &",
+   "context_before": "eſtant de retour à Artigat, ladicte de",
+   "context_after": "dés qu'il fut arriué, luy bailla chemiſe blã",
+   "strip": "pages/strips/p068/body-6.jpg",
+   "crop": "crops/p068/b-022.jpg"
+  },
+  {
+   "id": "n-g-1",
+   "kind": "note",
+   "key": "g",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[1]",
+   "where_b": "margin_notes[2].lines[1]",
+   "a": "aliena. P. fin.",
+   "b": "alienæ. P. fin.",
+   "context_before": "l. qui in",
+   "context_after": "D. de aquir.",
+   "strip": "pages/strips/p068/margin-1.jpg",
+   "crop": "crops/p068/n-g-1.jpg"
+  }
+ ]
+}

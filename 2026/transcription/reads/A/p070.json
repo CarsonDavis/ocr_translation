@@ -1,0 +1,161 @@
+{
+ "id": "p070",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "70",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "eſté ratifié par ladite de Rols: & par ainſi tout ce qu'a-",
+    "uoit eſté fait par luy cõfirmé, & approuué {e}. attendu ſin",
+    "gulierement que les actes de procureur, faits par ledit",
+    "Guerre, auant la charge ou procuration de ladite de",
+    "Rols, ont eſté faits par authorité du Iuge de Rieux: ce",
+    "que vient en quelque conſideration: car ſ'ils auoiẽt eſté",
+    "faits par authorité de la cour, cela euſt peu receuoir",
+    "quelque doute: partant que la loy a en ſi grande horreur",
+    "& deteſtation l'obreption, & faute cõmiſe au cõſiſtoire",
+    "du prince {f}, que ce qui eſt fait par vn procueur faux en",
+    "l'auditoire du prince, ne peut eſtre (ainſi que pluſieurs",
+    "penſent) confirmé par aucune ratification ſuyuante {g},"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ce que vray-ſemblablement ne pro-",
+    "cedoit de ladite de Rols, pour les raiſons",
+    "que deſſus: & attendu meſmement les",
+    "offices, deſquelles elle auoit vſé enuers",
+    "le priſonnier la nuict au parauant. Car in",
+    "continent apres qu'il fut reprins, elle luy",
+    "enuoya ſes accouſtremens, & de l'ar-",
+    "gent pour viure."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ce n'eſtoit pas donc ſigne que ladite de Rols vou-",
+    "luſt pour lors faire partie audit preuenu: ni qu'elle le",
+    "penſaſt autre que Martin Guerre, puis qu'elle le ſecou-",
+    "roit ſi officieuſement."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE,",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et en ceſte ſentence, que le priſon-",
+    "nier fuſt Martin Guerre, la cour a-",
+    "uoit grande raiſon d'incliner: non ſeu-",
+    "lement pource que dit eſt, mais pour",
+    "autant encor, que ceſte opinion fauori-",
+    "ſoit le mariage, les enfans qui en ſont"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "e",
+   "beside_line": "uoit eſté fait par luy cõfirmé, & approuué {e}. attendu ſin",
+   "lines": [
+    "l. licet. D. de",
+    "Iud. l. iij. P. fal",
+    "ſus. D. rem ra.",
+    "hab."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "Rols, ont eſté faits par authorité du Iuge de Rieux: ce",
+   "lines": [
+    "l. finale. C.",
+    "de ius qui à nõ",
+    "do. man."
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "faits par authorité de la cour, cela euſt peu receuoir",
+   "lines": [
+    "Balde en la",
+    "l. falſus. C. de",
+    "fur. Panorme",
+    "au c. nonnul-",
+    "li. P. ſunt & a",
+    "iij. de reſcrip."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "e",
+   "note": "key letter of the first margin note is blotted; read as 'e' from the body marker after 'approuué'"
+  },
+  {
+   "where": "margin_notes[0].lines",
+   "text": "D.",
+   "note": "swash italic D (Digest siglum) transcribed as plain D; P is the swash paragraph sort as printed"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "faits par authorité de la cour, cela euſt peu receuoir",
+   "note": "first letter of 'faits' looks like a broken f resembling 't' ('taits'); read as 'faits'"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "du prince {f}, que ce qui eſt fait par vn procueur faux en",
+   "note": "sic: 'procueur' for 'procureur'"
+  },
+  {
+   "where": "blocks[3].text",
+   "text": "ANNOTAT. XLIX.",
+   "note": "the I of XLIX is printed as a damaged sort resembling '!'; numeral read as XLIX"
+  },
+  {
+   "where": "blocks[5].text",
+   "text": "TEXTE,",
+   "note": "final point of the heading looks like a comma, not a period"
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "uoit grande raiſon d'incliner: non ſeu-",
+   "note": "line-end break sign is a raised dot rather than a clear hyphen"
+  },
+  {
+   "where": "margin_notes[2].lines[4]",
+   "text": "li. P. ſunt & a",
+   "note": "'&' is the italic et-sign; 'a' could be 'à' (accent not visible)"
+  }
+ ]
+}

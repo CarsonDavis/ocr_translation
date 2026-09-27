@@ -1,0 +1,22 @@
+{
+ "page": "p129",
+ "a": "transcription/reads/A/p129.json",
+ "b": "transcription/reads/B/p129.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-026",
+   "kind": "body",
+   "where_a": "blocks[9].lines[4]",
+   "where_b": "blocks[9].lines[4]",
+   "index": 26,
+   "index_b": 26,
+   "a": "infame: don[?] les Poetes ont appelé telle mort vilaine,",
+   "b": "infame: dont les Poetes ont app elé telle mort vilaine,",
+   "context_before": "ont peu excogiter, le plus ord, ignominieux, vilain, &",
+   "context_after": "ſale, laide, informe, & malheureuſe. comme Vergile, par",
+   "strip": "pages/strips/p129/body-6.jpg",
+   "crop": "crops/p129/b-026.jpg"
+  }
+ ]
+}

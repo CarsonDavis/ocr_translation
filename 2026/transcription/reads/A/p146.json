@@ -1,0 +1,157 @@
+{
+ "id": "p146",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "146",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "de Mane, le preuoyãt pour Martin Guer",
+    "re: duquel pourtant ils auoyent eſté fa-",
+    "miliers, & intimes amys."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Voici vn cas bien eſtrange, que les plus priuez & pe-",
+    "culiers amis qu'euſt eu Martin Guerre, en ſon ieune",
+    "aage, fuſſent conſtituez en tel erreur, qu'ils prinſſent le-",
+    "dit du Tilh, pour iceluy Guerre: vray que la meilleure",
+    "eſt encore plus admirable, d'entendre que les prochains",
+    "parẽs, meſmes les quatre ſœurs fuſſent en pareil erreur,",
+    "& encor plus prodigieuſe, & preſqu'incroyable, que la-",
+    "dite Bertrande de Rols, femme dudict Martin Guerre,",
+    "ayant veſcu & conuerſé dix ou douze ans auec iceluy",
+    "Martin Guerre ſon mary, euſt vn ſemblable bandeau",
+    "deuant ſes yeux."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Quoy voyant & conſiderant, que puis",
+    "que les plus priuez, & peculiers amis du-",
+    "dit Martin Guerre, eſtoyent deceuz en",
+    "luy, il en pourroit bien auec quelque ai-",
+    "de deceuoir, & circonuenir beaucoup",
+    "d'autres: ſ'aduiſa de iouër la tragedie que",
+    "auez ci deuant entendue."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. CIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "C'eſtoit veritablement tragedie, pour ce gentil ruſtre:",
+    "d'autant que l'iſſue en fut fort funeſte, & miſerable,",
+    "pour luy. Surquoy nul ne ſçait la differẽce entre trage-",
+    "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+    "ces de fable {a}: la comedie pourtant deſcrit & repreſen-",
+    "te en ſtile bas, & humble, la fortune priuée des hom-",
+    "mes, cõmme des amours, & rauiſſemens de pucelles, à",
+    "fin que par là on apprẽne ce qu'on doit imiter & ſuiure",
+    "en cette vie, & ce qu'on doit euiter auſſi: dõt Cicerõ en",
+    "quelque lieu appelle la comedie, imitatiõ de vie, miroir",
+    "de couſtume, & image de verité {b}, ainſi nõmee à κομαι"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+   "lines": [
+    "Ciceron au",
+    "premier liure",
+    "des offices."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "en cette vie, & ce qu'on doit euiter auſſi: dõt Cicerõ en",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon pro",
+    "Sext. Roſcio."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [
+  "decorated/swash initial Q (Quoy), text-height, after TEXTE."
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "dit du Tilh, pour iceluy Guerre: vray que la meilleure",
+   "note": "print clearly reads 'meilleure'; sense wants 'merueille' — probable wrong word/sort, sic"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "dite Bertrande de Rols, femme dudict Martin Guerre,",
+   "note": "'R ols' set with a gap after R; closed up as 'Rols'"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "culiers amis qu'euſt eu Martin Guerre, en ſon ieune",
+   "note": "wide space before the comma after 'Guerre' in print; normalized"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "auez ci deuant entendue.",
+   "note": "final t of 'deuant' is damaged/looks like a z-shaped sort; read as t"
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+   "note": "'eſpe-': the ſ looks like 'l' (broken long s?); could be printed 'elpe-' (sic)"
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "mes, cõmme des amours, & rauiſſemens de pucelles, à",
+   "note": "mark over o of 'cõmme' is faint (circumflex-like); may be tilde or ink speck, i.e. 'comme'"
+  },
+  {
+   "where": "blocks[6].lines[10]",
+   "text": "de couſtume, & image de verité {b}, ainſi nõmee à κομαι",
+   "note": "'nõmee' — second e looks like c ('nõmce'), possible wrong sort; 'ainſi' n/u unclear"
+  },
+  {
+   "where": "blocks[6].lines[10]",
+   "text": "de couſtume, & image de verité {b}, ainſi nõmee à κομαι",
+   "note": "Greek word in small Greek type at line end, read κομαι; second letter looks like omicron but may be omega (κωμαι); no accents discernible; word likely continues on next page"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Ciceron en",
+   "note": "'en' is blotted, reads like 'cn'"
+  }
+ ]
+}

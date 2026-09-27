@@ -1,0 +1,247 @@
+{
+ "id": "p083",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "83",
+ "signature": "F ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ble iuger ou condamner ceſt homme. Et ainſi és matie-",
+    "res ciuiles: car vn meſchant homme, facilement pour-",
+    "roit faire ſemer vn bruit de choſes fauſſes, pour ſeruir",
+    "à ſa cauſe. Dont nos loix ont ſainctement ordonné, la",
+    "preuue par bruit & fame n'eſtre pas entiere {a}, ſi n'eſt",
+    "en certains cas aſſemblez par nos interpretes és lieux",
+    "communs {b}. comme quand il eſt queſtion de prouuer",
+    "les bornes & limites des terres {c}. Ou de monſtrer quel",
+    "ques faicts vieux & anciens, excedans la memoire des",
+    "hommes {d}. Ou bien de faire apparoir, que Iean eſt fils",
+    "d'Antoine,: Pierre fils de François: ou autre filation {e}.",
+    "Ou de prouuer la mort de quelqu'vn {f}. Ou de mettre",
+    "en euidence quelque autre choſe, qui ne ſe peut prou-",
+    "uer qu'à grande difficulté. Et bien qu'és matieres ciuiles",
+    "ſoit receu, que le bruit & renommee fait vne demie",
+    "preuue: toutesfois és cauſes criminelles (deſquelles",
+    "nous parlons) ou bien és ciuiles, hautes, & graues, cela",
+    "n'a point de lieu {h}. Dont lors ne pourroit le iuge con-",
+    "ioindre ceſte demie preuue auec vn teſmoin, pour la",
+    "rendre pleine & entiere {i}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Auſsi ne ſe pouuoit on perſonnément",
+    "fonder a la cognoiſſance que le priſor-",
+    "nier auoit, de tous ceux qu'il rencontra",
+    "la premiere fois: car outre la magie, de",
+    "laquelle il eſtoit fort ſoupçonné: depuis,",
+    "en l'execution a-il confeſſe, que quel-",
+    "ques vns luy auoyent dõné certaines in-",
+    "telligences, & auiſemens. Moins ſe peut",
+    "on aider de la ſimilitude des ſeurs dudit",
+    "Martin, auec ledit priſonnier. par ce que,",
+    "çomme ſouuent a eſté dit, le Iugement",
+    "par ſemblance n'eſt pas aſſeuré: dequoy"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "preuue par bruit & fame n'eſtre pas entiere {a}, ſi n'eſt",
+   "lines": [
+    "l. iij P eiuſ",
+    "dé D de teſti.",
+    "Gloſe au c. il-",
+    "lud. de cleri.",
+    "excom."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ques faicts vieux & anciens, excedans la memoire des",
+   "lines": [
+    "Felin au c.",
+    "veniens. i de",
+    "teſti."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "d'Antoine,: Pierre fils de François: ou autre filation {e}.",
+   "lines": [
+    "c. cum cau-",
+    "ſam. de teſti."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "en euidence quelque autre choſe, qui ne ſe peut prou-",
+   "lines": [
+    "Innocent",
+    "aud. c. veniẽs."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "ſoit receu, que le bruit & renommee fait vne demie",
+   "lines": [
+    "c. per tuas.",
+    "de proba."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "preuue: toutesfois és cauſes criminelles (deſquelles",
+   "lines": [
+    "Bartole en",
+    "la l. iij. P. ſi du",
+    "bitetur. D quẽ",
+    "admod. teſta.",
+    "aper."
+   ]
+  },
+  {
+   "key": "g",
+   "lines": [
+    "Accurſe en",
+    "la l. iij P. eiuſ-",
+    "dé. D. de teſt.",
+    "Salicet en la",
+    "l. ea quidé. P.",
+    "fin ſur la fin.",
+    "C. de accuſa."
+   ]
+  },
+  {
+   "key": "h",
+   "lines": [
+    "c. tam lite.",
+    "ris. c. veniens;",
+    "de teſti."
+   ]
+  },
+  {
+   "key": "i",
+   "lines": [
+    "c. tam lite-",
+    "ris. alleguee;",
+    "Felin. aud. c.",
+    "veniens."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "{g}",
+   "note": "no marker g found in the body text; margin note g (Accurse ... Salicet) is printed below note f. Marker perhaps omitted by the printer, or a faint letter missed near 'graues, cela' or 'teſmoin'"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "d'Antoine,: Pierre fils de François: ou autre filation {e}.",
+   "note": "'Antoine' set with a capital-like/small-capital form ('ANtoine'); ',:' printed as comma followed by colon, sic; P of Pierre damaged; 'filation' sic"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "preuue: toutesfois és cauſes criminelles (deſquelles",
+   "note": "'toutesfois' t's worn, reads almost 'rourefois'; round s before f as printed"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "communs {b}. comme quand il eſt queſtion de prouuer",
+   "note": "lowercase 'comme' after period, as printed"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "fonder a la cognoiſſance que le priſor-",
+   "note": "'priſor-' as it appears (expected 'priſon-'); sic, or a damaged n; line-end hyphen is a short heavy dash"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Auſsi ne ſe pouuoit on perſonnément",
+   "note": "long s + round s in 'Auſsi' as read"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "en l'execution a-il confeſſe, que quel-",
+   "note": "'confeſſe' printed without accent as far as visible"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "Martin, auec ledit priſonnier. par ce que,",
+   "note": "period after 'priſonnier' (round dot) then lowercase 'par', as printed"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "çomme ſouuent a eſté dit, le Iugement",
+   "note": "a hook under the c looks like a cedilla; sic, or a stray mark"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij P eiuſ",
+   "note": "'iij' printed with dotted/ÿ-like final; a small mark after 'eiuſ' (possibly a raised abbreviation sign or hyphen) not transcribed"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "dé D de teſti.",
+   "note": "mark over e of 'dé' looks acute but may be a tilde (eiuſdem); D is a swash D"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "lud. de cleri.",
+   "note": "line-end sign after 'cleri' is a raised dot; could be a hyphen ('cleri-/excom.')"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "veniens. i de",
+   "note": "'i' possibly 'i.' (no point seen)"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "text": "admod. teſta.",
+   "note": "final point may be a colon"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "dé. D. de teſt.",
+   "note": "final point may be a colon; accent on 'dé' may be a tilde"
+  },
+  {
+   "where": "margin_notes[6].lines[4]",
+   "text": "l. ea quidé. P.",
+   "note": "accent on 'quidé' may be a tilde (quidem)"
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "text": "c. tam lite.",
+   "note": "line-end sign after 'lite' is a dot; probably a hyphen for 'lite-/ris'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "ris. alleguee;",
+   "note": "'alleguee;' uncertain: ending could be 'alleguez.' or 'allegué:'"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "Felin. aud. c.",
+   "note": "punctuation after 'c' may be a semicolon"
+  }
+ ]
+}

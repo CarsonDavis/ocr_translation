@@ -1,0 +1,66 @@
+{
+ "page": "p081",
+ "a": "transcription/reads/A/p081.json",
+ "b": "transcription/reads/B/p081.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-002",
+   "kind": "body",
+   "where_a": "blocks[0].lines[2]",
+   "where_b": "blocks[0].lines[2]",
+   "index": 2,
+   "index_b": 2,
+   "a": "poſent ſepareement de diuers actes, deſquels peut e.",
+   "b": "poſent ſepareement de diuers actes, deſquels peut e-",
+   "context_before": "pour en faire apparoir ne ſuffit pas que les teſmoins de-",
+   "context_after": "ſtre introduite la couſtume, ſ'il n'en y a deux pour le",
+   "strip": "pages/strips/p081/body-1.jpg",
+   "crop": "crops/p081/b-002.jpg"
+  },
+  {
+   "id": "b-011",
+   "kind": "body",
+   "where_a": "blocks[0].lines[11]",
+   "where_b": "blocks[0].lines[11]",
+   "index": 11,
+   "index_b": 11,
+   "a": "de circonſpection, & prudence, traitez & diffiniz {n}. Et",
+   "b": "de circonſpection, & prudence; traitez & diffiniz {n}. Et",
+   "context_before": "& horribles, de tant fault il qu'ils ſoyent auec plus grã",
+   "context_after": "partant fault conclure, qu'en quelconque crime, tant",
+   "strip": "pages/strips/p081/body-3.jpg",
+   "crop": "crops/p081/b-011.jpg"
+  },
+  {
+   "id": "n-n-2",
+   "kind": "note",
+   "key": "n",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[2]",
+   "where_b": "margin_notes[2].lines[2]",
+   "a": "maieſta. c. vbi",
+   "b": "maieſta. e. vbi",
+   "context_before": "D. ad l. Iuli.",
+   "context_after": "periculum de",
+   "strip": "pages/strips/p081/margin-2.jpg",
+   "crop": "crops/p081/n-n-2.jpg"
+  },
+  {
+   "id": "n-x17f-1",
+   "kind": "note",
+   "key": "ſ",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[7].lines[1]",
+   "where_b": "margin_notes[7].lines[1]",
+   "a": "nus. preallé",
+   "b": "nus. preallé-",
+   "context_before": "c. nihilomi",
+   "context_after": "gué.",
+   "strip": "pages/strips/p081/margin-3.jpg",
+   "crop": "crops/p081/n-x17f-1.jpg"
+  }
+ ]
+}

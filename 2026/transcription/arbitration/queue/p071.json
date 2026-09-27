@@ -1,0 +1,177 @@
+{
+ "page": "p071",
+ "a": "transcription/reads/A/p071.json",
+ "b": "transcription/reads/B/p071.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-015",
+   "kind": "body",
+   "where_a": "blocks[2].lines[13]",
+   "where_b": "blocks[2].lines[13]",
+   "index": 15,
+   "index_b": 15,
+   "a": "tere {d}. Troiſiemement, la cauſe du preuenu à ſ[?]e de",
+   "b": "tere {d}. Troiſiemement, la cauſe du preuenu à [?]ſ[?]e de",
+   "context_before": "dubitablement nez de paillardiſe & procreez d'adul-",
+   "context_after": "tout temps ſi fauorable, que les autheurs de nos loix",
+   "strip": "pages/strips/p071/body-3.jpg",
+   "crop": "crops/p071/b-015.jpg"
+  },
+  {
+   "id": "b-032",
+   "kind": "body",
+   "where_a": "blocks[2].lines[30]",
+   "where_b": "blocks[2].lines[30]",
+   "index": 32,
+   "index_b": 32,
+   "a": "ſeconde, car tout ainſi qu'vn pelerin en voyageanr, doit",
+   "b": "ſeconde, car tout ainſi qu'vn pelerin en voyageant, doit",
+   "context_before": "pal poinct de ſa deffence, & de la iuſtice de ſa cauſe. La",
+   "context_after": "touſiours choiſir, & prendre le chemin, ou le ſentier",
+   "strip": "pages/strips/p071/body-6.jpg",
+   "crop": "crops/p071/b-032.jpg"
+  },
+  {
+   "id": "n-c-2",
+   "kind": "note",
+   "key": "c",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[2]",
+   "where_b": "margin_notes[2].lines[2]",
+   "a": "not. qui ſi.",
+   "b": "not. qui fi.",
+   "context_before": "rente, c. ex l.",
+   "context_after": "ſint leg. Glo-",
+   "strip": "pages/strips/p071/margin-1.jpg",
+   "crop": "crops/p071/n-c-2.jpg"
+  },
+  {
+   "id": "n-c-5",
+   "kind": "note",
+   "key": "c",
+   "line": 5,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[5]",
+   "where_b": "margin_notes[2].lines[5]",
+   "a": "inhibitio. P. ſi",
+   "b": "inhibitio. P. fi",
+   "context_before": "ſe au. c. cum",
+   "context_after": "nal. de clan-",
+   "strip": "pages/strips/p071/margin-1.jpg",
+   "crop": "crops/p071/n-c-5.jpg"
+  },
+  {
+   "id": "n-d-0",
+   "kind": "note",
+   "key": "d",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[3].lines[0]",
+   "where_b": "margin_notes[3].lines[0]",
+   "a": "l. iij. C. ſo-",
+   "b": "l. ij. C. ſo-",
+   "context_before": null,
+   "context_after": "ma t. c. ſi gens.",
+   "strip": "pages/strips/p071/margin-2.jpg",
+   "crop": "crops/p071/n-d-0.jpg"
+  },
+  {
+   "id": "ns-l",
+   "kind": "note-structure",
+   "where_a": "margin_notes[10]",
+   "where_b": "margin_notes[10]",
+   "notes_a": [
+    "margin_notes[10]"
+   ],
+   "notes_b": [
+    "margin_notes[10]",
+    "foot_notes[0]"
+   ],
+   "a": "[l] l. vbĩ enim\nD. de reb. du.\nGloſe au c. ij.\nde re. iu. aut.\nau Decret.",
+   "b": "[l] l. vbĩ enim\nD. de reb. du.\nGloſe au c. ij.\nde re. iu. aut.\n[–] au Decret.",
+   "layout_a": [
+    {
+     "where": "margin_notes[10]",
+     "kind": "margin_notes",
+     "key": "l",
+     "beside_line": "moins de danger, & peril {l}. Et nul ne doute qu il ne",
+     "lines": [
+      {
+       "text": "l. vbĩ enim",
+       "from": "margin_notes[10].lines[0]",
+       "keep_text": true
+      },
+      {
+       "text": "D. de reb. du.",
+       "from": "margin_notes[10].lines[1]",
+       "keep_text": true
+      },
+      {
+       "text": "Gloſe au c. ij.",
+       "from": "margin_notes[10].lines[2]",
+       "keep_text": true
+      },
+      {
+       "text": "de re. iu. aut.",
+       "from": "margin_notes[10].lines[3]",
+       "keep_text": true
+      },
+      {
+       "text": "au Decret.",
+       "from": "foot_notes[0].lines[0]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[10]",
+     "kind": "margin_notes",
+     "key": "l",
+     "beside_line": null,
+     "lines": [
+      {
+       "text": "l. vbĩ enim",
+       "from": "margin_notes[10].lines[0]",
+       "keep_text": true
+      },
+      {
+       "text": "D. de reb. du.",
+       "from": "margin_notes[10].lines[1]",
+       "keep_text": true
+      },
+      {
+       "text": "Gloſe au c. ij.",
+       "from": "margin_notes[10].lines[2]",
+       "keep_text": true
+      },
+      {
+       "text": "de re. iu. aut.",
+       "from": "margin_notes[10].lines[3]",
+       "keep_text": true
+      }
+     ]
+    },
+    {
+     "where": "foot_notes[0]",
+     "kind": "foot_notes",
+     "key": null,
+     "beside_line": null,
+     "lines": [
+      {
+       "text": "au Decret.",
+       "from": "margin_notes[10].lines[4]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
+   "strip": "pages/strips/p071/margin-4.jpg",
+   "crop": "crops/p071/ns-l.jpg"
+  }
+ ]
+}

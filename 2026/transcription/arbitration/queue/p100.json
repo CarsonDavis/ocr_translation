@@ -1,0 +1,37 @@
+{
+ "page": "p100",
+ "a": "transcription/reads/A/p100.json",
+ "b": "transcription/reads/B/p100.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-025",
+   "kind": "body",
+   "where_a": "blocks[4].lines[9]",
+   "where_b": "blocks[4].lines[9]",
+   "index": 25,
+   "index_b": 25,
+   "a": "ſe commestẽt ſans dol, & mauuaiſe intention {e}: & apres",
+   "b": "ſe commeſtẽt ſans dol, & mauuaiſe intention {e}: & apres",
+   "context_before": "faux teſmoignage, & choſes ſemblables, leſquelles ne",
+   "context_after": "l'execution ſont imperdonnables, & irremiſſibles quãt",
+   "strip": "pages/strips/p100/body-6.jpg",
+   "crop": "crops/p100/b-025.jpg"
+  },
+  {
+   "id": "n-b-0",
+   "kind": "note",
+   "key": "b",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[0]",
+   "where_b": "margin_notes[2].lines[0]",
+   "a": "l. j & ij. D.",
+   "b": "l j & ij. D.",
+   "context_before": null,
+   "context_after": "de legib.",
+   "strip": "pages/strips/p100/margin-3.jpg",
+   "crop": "crops/p100/n-b-0.jpg"
+  }
+ ]
+}

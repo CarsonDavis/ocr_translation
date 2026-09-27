@@ -1,0 +1,183 @@
+{
+ "id": "p065",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "65",
+ "signature": "E",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "car on peut bien enſeigner certains pro",
+    "pos, donner des enſeignes, & marques:",
+    "mais de bailler la congoiſſance de tant,",
+    "& tant de diuerſes perſonnes, non ia-",
+    "mais veuës ni cognues: cela eſt impoſsi-",
+    "ble, autrement que par Magie, ou quel-",
+    "que art reprouué. Et voila pour le faict",
+    "de la preuue par teſmoins. En ſecond",
+    "lieu, faite ſommaire appriſe ſur la ſem-",
+    "blãce du preuenu, auec les ſeurs de Mar",
+    "tin Guerre, eſt rapporté & mieux en-",
+    "cor par pluſieurs teſmoins ouys és en-",
+    "queſtes d'office, que les œufs ne ſont",
+    "par entre eux plus ſemblables."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Les prouerbes anciẽs des choſes ſẽblables ont eſté le",
+    "plus ſouuẽt prins des œufs, ou du laict de l'eau, ou des",
+    "mouſches à miel. veux-tu pas (dit en quelque lieu Ci-",
+    "ceron) le prouerbe eſtre veritable, de la ſimilitude des",
+    "œufs, ſi grand qu'il eſt biẽ malaiſé diſcerner & entre-",
+    "congnoiſtre l'vn de l'autre. Et peu apres Comme ſont",
+    "ſemblables, dit. il, les œuſs aux œufs, & les mouſches à",
+    "miel entre elles {a}. Et Soſia dans Plaute, voyant Mercu-",
+    "re auoir prins ſa forme, & le rapporter en tout, di-",
+    "ſoit, Le laict n'eſt pas plus ſemblable au laict, qu'eſt ce",
+    "lui-la à moy {b}. Meſſenio auſsi parlãt à Menechmus de",
+    "Soſides: L'eau, dit'il, n'eſt pas ſi ſemblable à l'eau, ni le",
+    "laict au laict, que Soſides eſt à toy, & toy à luy {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En troiſieme lieu, ladite de Rols qui",
+    "a ſi vertueuſement pourſuyui ledit pre-",
+    "enu, quand fut confrontee audit du"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ceron) le prouerbe eſtre veritable, de la ſimilitude des",
+   "lines": [
+    "Ciceron au",
+    "ij. liure des A-",
+    "cademiques."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "congnoiſtre l'vn de l'autre. Et peu apres Comme ſont",
+   "lines": [
+    "Plaute en",
+    "la premiere",
+    "comedie, in-",
+    "ſcripte Am-",
+    "phytrion."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "lui-la à moy {b}. Meſſenio auſsi parlãt à Menechmus de",
+   "lines": [
+    "Plaute en",
+    "la comedie de",
+    "Menechmus."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "mais de bailler la congoiſſance de tant,",
+   "note": "sic: printed 'congoiſſance' (n before g), not 'cognoiſſance'; ſſ ligature."
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "blãce du preuenu, auec les ſeurs de Mar",
+   "note": "the mark over the a of 'blãce' is a short curved stroke (breve-like) rather than a wavy tilde; read as the nasal tilde (= blance/blāce for 'semblance')."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "mais veuës ni cognues: cela eſt impoſsi-",
+   "note": "diaeresis printed over the e of 'veuës'; 'impoſsi-' is long s + round s; the stop after 'cognues' read as a colon (two dots), set tight."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "ANNOTAT. XLIII.",
+   "note": "spaced capitals closed up; the stop after ANNOTAT is a small raised dot (could be read as ':' or '.'), transcribed as a period."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "mouſches à miel. veux-tu pas (dit en quelque lieu Ci-",
+   "note": "sic / wrong sort: the initial m of 'mouſches' is set turned sideways (looks like a stacked 'E' or 'ш' standing on its side, at the left edge of the line); transcribed as m. The line is also slightly out-dented. Lowercase 'veux' after the period as printed.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "ceron) le prouerbe eſtre veritable, de la ſimilitude des",
+   "note": "the u of 'ſimilitude' is a damaged or wrong sort (shaped like a Greek mu / 'ų' with a descender); read as u. The closing parenthesis after 'ceron' is printed as a curled stroke."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "œufs, ſi grand qu'il eſt biẽ malaiſé diſcerner & entre-",
+   "note": "'qu'il': the l prints short, looking like 'qu'ii'; read as qu'il. Line-end hyphen after 'entre' is a small raised stroke."
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "ſemblables, dit. il, les œuſs aux œufs, & les mouſches à",
+   "note": "sic: the first 'œuſs' appears to have a long s (no crossbar) where f is expected, the second 'œufs' a proper f; transcribed as seen. 'dit. il' with a period as printed (period is a round dot on the baseline)."
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "miel entre elles {a}. Et Soſia dans Plaute, voyant Mercu-",
+   "note": "marker a is a small raised italic a set tight against 'elles'. The word-break sign after 'Mercu' is an angled stroke like '¬'; transcribed as '-'."
+  },
+  {
+   "where": "blocks[2].lines[8]",
+   "text": "re auoir prins ſa forme, & le rapporter en tout, di-",
+   "note": "the line-end sign after 'di' is a short raised stroke that looks almost like a dot; read as a hyphen (word 'diſoit' breaks here). A space is printed before the comma after 'forme'; normalized."
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "ſoit, Le laict n'eſt pas plus ſemblable au laict, qu'eſt ce",
+   "note": "the stop after 'ſoit' is set tight; in the strip it shows a small tail (comma), though at reading size it resembles a period. Read as comma."
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "laict au laict, que Soſides eſt à toy, & toy à luy {c}.",
+   "note": "marker c is a small raised italic c tight against 'luy'. Also 'Meſſenio' (blocks[2].lines[10]) uses the ſſ ligature and 'auſsi' long s + round s."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Ciceron au",
+   "note": "a grave-like mark over the u of 'au' (and over the n of 'en' in notes b and c); probably a stray/defective mark rather than an accent; not transcribed. 'ij' is the italic ÿ-shaped ij sort, decomposed."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "Menechmus.",
+   "note": "the final stop is a small dot, possibly with a tail; read as period."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "page furniture: recto, folio '65' (the 5 printed as a tailed 5), running head spaced caps closed up, signature 'E' at the foot below the last body line (right of centre), no catchword visible, no foot citation block, no ornament. Marker run restarts at a with ANNOTAT. XLIII; a, b, c each have a margin note. No final transcription of p064 was supplied as context, so continuity of the opening line ('car on peut...') could not be checked. Spacing normalized per §1 ('pos,donner', 'enſeignes ,', 'cognues:cela', 'lieu ,', 'œufs,ſi', 'dit.il,les', 'ſoit,Le', 'Soſides:L'eau', 'à l'eau,ni' etc.)."
+  }
+ ],
+ "decisions": []
+}

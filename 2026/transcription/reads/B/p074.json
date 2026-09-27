@@ -1,0 +1,114 @@
+{
+ "id": "p074",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "74",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "les teſmoins rapportent: car par ce deſ-",
+    "ſus eſt ſuffiſamment reſpondu, que les",
+    "teſmoins ont eſté valablement repro-",
+    "chez. Ioint, qu'il y a bien peu d'enſeignes",
+    "données par eux, qui ne ſe trouuent au-",
+    "dit preuenu: reſerué de la longueur, &",
+    "groſſeur: mais quant à ce, la reſponſe eſt",
+    "aiſée: partant, que comme d'autres teſ-",
+    "moins non reprochez depoſent, bien",
+    "que le preuenu, quand partit, reſſemblaſt",
+    "plus haut, plus long, & plus greſle: tou-",
+    "tesfois, depuis par le cours des ans, ſe ſe-",
+    "roit il rempli de corps, & renforcé de",
+    "iambes."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "Les frequentes experiences, garderont le lecteur de",
+    "ſ'eſbahir ici. car iournellement nous voyons pluſieurs",
+    "hommes & femmes greſles, linges, & dolietz en leur ieu",
+    "neſſe: leſquels pourtant par ſuccez de temps, & auance",
+    "mẽt d'aage, deuiennẽt gros, gras, & importuns. & par ce",
+    "que les exemples de ce temps, pourroyẽt eſtre odieux à",
+    "quelques vns; ie recouuray aux plus memorables de l'ã-",
+    "tiquité. Leon Bizantin ſophiſte, fort maigre en ſes pre-",
+    "miers ans, deuint tellement gras ſur ſon mediocre aage,",
+    "qu'eſtant ambaſſadeur en Athenes, & monté ſur vne",
+    "haute chaire, pour appaiſer quelque ſeditiõ: tout le peu-",
+    "ple le voyant ſi exceſſiuement gros & ventru, ſe print à",
+    "rire, auquel Leon commença de parler ainſi, QV'EST-",
+    "CE que vous riez, ô Atheniens de me voir ſi gras! ſça-",
+    "chez que ma femme eſt encore plus graſſe. Et toutesfois",
+    "quand nous ſommes d'accord, nous pouuons biens",
+    "tous deux dans vn petit lict: mais au contraire, quand",
+    "nous ſommes courroucez, toute la maiſon n'y ſuffit pas",
+    "lequel langage eut tant de grace & de force enuers ce"
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "plus haut, plus long, & plus greſle: tou-",
+   "note": "line-end break sign printed as a raised dot, transcribed as '-'"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "tesfois, depuis par le cours des ans, ſe ſe-",
+   "note": "'tesfois' with round s as printed"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "hommes & femmes greſles, linges, & dolietz en leur ieu",
+   "note": "'dolietz' as printed (expected 'douilletz'?); 'ieu' / 'neſſe' broken without hyphen"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "neſſe: leſquels pourtant par ſuccez de temps, & auance",
+   "note": "colon followed by a stray raised mark before 'leſquels'; ignored"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "quelquesvns; ie recouuray aux plus memorables de l'ã-",
+   "note": "';' after 'quelquesvns' could be ':'; 'recouuray' sic (for recourray); line-end break sign printed as a dot, transcribed '-'"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "rire, auquel Leon commença de parler ainſi, QV'EST-",
+   "note": "QV'EST-CE set in spaced small capitals across the line break"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "quand nous ſommes d'accord, nous pouuons biens",
+   "note": "'biens' sic (for 'bien'); a word ('coucher'?) seems omitted before 'tous deux'"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "nous ſommes courroucez, toute la maiſon n'y ſuffit pas",
+   "note": "no punctuation printed after 'pas' at line end"
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "lequel langage eut tant de grace & de force enuers ce",
+   "note": "a dot/comma sits below the baseline under the end of 'enuers' (displaced sort?), not transcribed; 'ce' is set in heavier type at the line end and may be a catchword run into the last line; catchword left null"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "id": "p099",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "99",
+ "signature": "G ij",
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "auant auoyent ſi fermement ſouſtenu",
+    "le priſonnier eſtre Martin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXIIII,",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Aduiſent ici les iuges combien il eſt dangereux, &",
+    "plein de peril, ſingulierement és matieres criminelles,",
+    "où ſe traitte de l'honneur & de la vie de l'homme: d'aſ-",
+    "ſeoir iugement ſur la depoſition des teſmoins: leſquels",
+    "ſouuentesfois aſſeurent pertinacement choſes fauſſes",
+    "pour veritables {a}, dont apres ſont contraints ſe depar-",
+    "tir. Voyent auſſi les iuges combien il eſt plus aſſeuré,",
+    "meſmes à vn iugement ſouuerain ne ſ'arreſter point",
+    "ſimplement au dire des teſmoins, ni à leur depoſition",
+    "qu'on trouue eſcrite: mais de les faire venir en perſon-",
+    "ne, les ouyr, voir & contempler leurs geſtes & conte-",
+    "nances, les interroguer, leur faire rendre raiſon du tout",
+    "exactement: car ie cuide qu'ainſi faiſant, ſeroit retren-",
+    "ché le chemin à beaucoup de malignitez, calomnies &",
+    "conſpirations des teſmoins, qui ne ſe rendroyent ſi fa-",
+    "ciles & procliues à fauſſement depoſer, pour la reue-",
+    "rence, honneur & majeſté d'vne court ſouueraine, de-",
+    "uant laquelle conuiendroit reſpondre: & c'eſt ce que",
+    "l'Empereur Adrian eſcriuit à Iune Ruffin, proconſul de",
+    "Macedoine, Qu'il vouloit croire aux teſmoins; & non",
+    "point à leur teſmoignage ni depoſitions: car la foy &",
+    "l'authorité des teſmoios qui ſont preſens eſt autre, &",
+    "plus grande ſans comparaiſon, que des depoſitions qui",
+    "ſon ſeulement leuës, & recitées {b}: & le plus ſouuent eſ",
+    "crites, & dictées, plus à l'appetit d'vn mauuais garçon",
+    "de commiſſaire, ou d'vn brouillaçon de greffier, que ſe-",
+    "lon l'intention & volonté du teſmoin. Et Callittrat Iu-",
+    "riſconſulte. pourſuyuant l'argumẽt d'Adrian à ces pro-",
+    "pos dit, que ſur l'accuſation que faiſoit Alexandre con-",
+    "tre vn appellé Aper, de ie ne ſçay quels crimes, pour-",
+    "tant qu'Alexandre ne produiſoit point teſmoins, mais",
+    "vouloit vſer ſeulement de leurs depſitions: Adrian re-",
+    "ſpondit, que les teſmoignages n'auoyẽt point lieu en-",
+    "uers luy, & qu'il n'y donneroit point de foy car ie veux",
+    "moy-meſmes, dit-il, interroguer les teſmoings {c}. Et",
+    "c'eſt à mon aduis; ce que noſtre Iuſtinien a laiſſé eſcrit,"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "pour veritables {a}, dont apres ſont contraints ſe depar-",
+   "lines": [
+    "Soit veüe",
+    "l'annotation",
+    "xxvj."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ſon ſeulement leuës, & recitées {b}: & le plus ſouuent eſ",
+   "lines": [
+    "l. iij. P. idem",
+    "diuus D. de",
+    "teſtib."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "moy-meſmes, dit-il, interroguer les teſmoings {c}. Et",
+   "lines": [
+    "add. P. idem",
+    "Diuus:"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[1].text",
+   "text": "ANNOTAT. LXXIIII,",
+   "note": "final mark after the numeral has a tail like a comma; expected a period"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "text": "Macedoine, Qu'il vouloit croire aux teſmoins; & non",
+   "note": "mark after 'teſmoins' looks like a semicolon (dot over comma); could be a comma with a spot"
+  },
+  {
+   "where": "blocks[2].lines[21]",
+   "text": "l'authorité des teſmoios qui ſont preſens eſt autre, &",
+   "note": "sic 'teſmoios' (for teſmoins) as printed; 'ſont' n poorly inked"
+  },
+  {
+   "where": "blocks[2].lines[23]",
+   "text": "ſon ſeulement leuës, & recitées {b}: & le plus ſouuent eſ",
+   "note": "sic 'ſon' (for ſont); no hyphen visible after line-end 'eſ'"
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "text": "de commiſſaire, ou d'vn brouillaçon de greffier, que ſe-",
+   "note": "line-end sign after 'ſe' looks like a dot, taken as the print's short hyphen (same shape at Iu-, pro-, con-)"
+  },
+  {
+   "where": "blocks[2].lines[26]",
+   "text": "lon l'intention & volonté du teſmoin. Et Callittrat Iu-",
+   "note": "mark after 'teſmoin' raised dot, could be colon; 'Callittrat' as it appears (possibly misprint for Calliſtrat, or ſt ligature badly inked) - sic?"
+  },
+  {
+   "where": "blocks[2].lines[27]",
+   "text": "riſconſulte. pourſuyuant l'argumẽt d'Adrian à ces pro-",
+   "note": "mark after 'riſconſulte' reads as a period at native resolution; whole-page view suggests a comma"
+  },
+  {
+   "where": "blocks[2].lines[29]",
+   "text": "tre vn appellé Aper, de ie ne ſçay quels crimes, pour-",
+   "note": "a mark over the A of 'Aper' (accent or ink spot); transcribed plain A"
+  },
+  {
+   "where": "blocks[2].lines[31]",
+   "text": "vouloit vſer ſeulement de leurs depſitions: Adrian re-",
+   "note": "sic 'depſitions' (for depoſitions) as printed"
+  },
+  {
+   "where": "blocks[2].lines[35]",
+   "text": "c'eſt à mon aduis; ce que noſtre Iuſtinien a laiſſé eſcrit,",
+   "note": "mark after 'aduis' looks like a semicolon; could be a comma"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "l'annotation",
+   "note": "final letters smudged/overinked; could carry a tilde ('l'annotatiõ')"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. iij. P. idem",
+   "note": "'idem' final m overinked; possibly 'idẽ'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "add. P. idem",
+   "note": "'idem' overinked; possibly 'idẽ'"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "Diuus:",
+   "note": "final mark faint, colon or period"
+  }
+ ]
+}

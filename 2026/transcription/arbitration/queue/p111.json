@@ -1,0 +1,136 @@
+{
+ "page": "p111",
+ "a": "transcription/reads/A/p111.json",
+ "b": "transcription/reads/B/p111.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-005",
+   "kind": "body",
+   "where_a": "blocks[0].lines[5]",
+   "where_b": "blocks[0].lines[5]",
+   "index": 5,
+   "index_b": 5,
+   "a": "ne de faux {x}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+   "b": "ne de faux {k}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+   "context_before": "qui change de nom, doit eſtre puni & reprimé par pei",
+   "context_after": "ſulte Vlpien qu'il en ſoit) autres aux exemple {l}.",
+   "strip": "pages/strips/p111/body-2.jpg",
+   "crop": "crops/p111/b-005.jpg"
+  },
+  {
+   "id": "b-019",
+   "kind": "body",
+   "where_a": "blocks[4].lines[9]",
+   "where_b": "blocks[4].lines[9]",
+   "index": 19,
+   "index_b": 19,
+   "a": "ne ſe trouue aucun texte qui puiſſe proprement apparte",
+   "b": "ne ſe trouue aucun texte qui puiſſe propremẽt apparte",
+   "context_before": "nons, ayent fort ſobrement, & ſi rarement parlé, qu'il",
+   "context_after": "nir à ce fait. Il eſt vray, que Modeſtin parlant de celuy",
+   "strip": "pages/strips/p111/body-4.jpg",
+   "crop": "crops/p111/b-019.jpg"
+  },
+  {
+   "id": "b-027",
+   "kind": "body",
+   "where_a": "blocks[4].lines[17]",
+   "where_b": "blocks[4].lines[17]",
+   "index": 27,
+   "index_b": 27,
+   "a": "teau, prins les armes, & excité vne grande ſedition: de la",
+   "b": "teau. prins les armes, & excité vne grande ſedition: de la",
+   "context_before": "prins le nom, & le titre de fils de Roy, & ſous ce man-",
+   "context_after": "peine, n'en dit pas vn ſeul mot {c}. Il eſt auſſi parlé de ie ne",
+   "strip": "pages/strips/p111/body-5.jpg",
+   "crop": "crops/p111/b-027.jpg"
+  },
+  {
+   "id": "b-038",
+   "kind": "body",
+   "where_a": "blocks[4].lines[28]",
+   "where_b": "blocks[4].lines[28]",
+   "index": 38,
+   "index_b": 38,
+   "a": "terminé, que pour autant auſſi, que les anciens ont",
+   "b": "terminé. que pour autant auſſi, que les anciens ont",
+   "context_before": "ſur la peine: tant par ce que noz loix n'en ont rien de",
+   "context_after": null,
+   "strip": "pages/strips/p111/body-7.jpg",
+   "crop": "crops/p111/b-038.jpg"
+  },
+  {
+   "id": "n-g-1",
+   "kind": "note",
+   "key": "g",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[1]",
+   "where_b": "margin_notes[0].lines[1]",
+   "a": "c. xi",
+   "b": "c. xi.",
+   "context_before": "S. Mathieu",
+   "context_after": null,
+   "strip": "pages/strips/p111/margin-1.jpg",
+   "crop": "crops/p111/n-g-1.jpg"
+  },
+  {
+   "id": "ns-x",
+   "kind": "note-structure",
+   "where_a": "margin_notes[3]",
+   "where_b": "margin_notes[3]",
+   "notes_a": [
+    "margin_notes[3]"
+   ],
+   "notes_b": [
+    "margin_notes[3]"
+   ],
+   "a": "[x] l. falſi. D. de\nfalſ.",
+   "b": "[k] l. falſi. D. de\nfalſ.",
+   "layout_a": [
+    {
+     "where": "margin_notes[3]",
+     "kind": "margin_notes",
+     "key": "x",
+     "beside_line": "ne de faux {x}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+     "lines": [
+      {
+       "text": "l. falſi. D. de",
+       "from": "margin_notes[3].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "falſ.",
+       "from": "margin_notes[3].lines[1]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[3]",
+     "kind": "margin_notes",
+     "key": "k",
+     "beside_line": "ne de faux {k}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+     "lines": [
+      {
+       "text": "l. falſi. D. de",
+       "from": "margin_notes[3].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "falſ.",
+       "from": "margin_notes[3].lines[1]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
+   "strip": "pages/strips/p111/margin-1.jpg",
+   "crop": "crops/p111/ns-x.jpg"
+  }
+ ]
+}

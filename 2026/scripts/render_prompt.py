@@ -1,11 +1,35 @@
 """Fill an agent prompt template for one page.
 
 usage: render_prompt.py read|read_single|reconcile|spotcheck PAGE_ID [--reader A|B] [--model NAME] [--context N] [--out-dir DIR]
-Prints the rendered prompt to stdout. Context = the N preceding pages (manifest order) that
-already have transcription/final/<id>.json; listed as paths, or "none" for the first pages.
+Prints the rendered prompt to stdout. Context = the N preceding pages (manifest order),
+each as transcription/final/<id>.json when it exists. For the reader prompts (read,
+read_single) a preceding page with no final yet falls back to transcription/reads/A/<id>.json,
+then reads/B, so readers beyond the finals frontier keep continuity; such files are labelled
+"(unreconciled read)" in the list. Pages with neither are left out; "none" if nothing is left.
 """
 import argparse, json, pathlib, sys
 ROOT = pathlib.Path(__file__).resolve().parents[1]
+
+READER_KINDS = ("read", "read_single")
+
+
+def context_files(prev_ids, reads_ok=True, root=None):
+    """The context list for the pages `prev_ids` (manifest order): the final if present,
+    else (reads_ok) read A, else read B, labelled as an unreconciled read."""
+    root = pathlib.Path(root or ROOT)
+    out = []
+    for pid in prev_ids:
+        if (root / "transcription/final" / f"{pid}.json").exists():
+            out.append(f"transcription/final/{pid}.json")
+            continue
+        if not reads_ok:
+            continue
+        for rd in ("A", "B"):
+            if (root / "transcription/reads" / rd / f"{pid}.json").exists():
+                out.append(f"transcription/reads/{rd}/{pid}.json (unreconciled read)")
+                break
+    return out
+
 
 def main():
     ap = argparse.ArgumentParser()
@@ -20,8 +44,7 @@ def main():
     ids = [r["id"] for r in m["pages"]]
     rec = next(r for r in m["pages"] if r["id"] == a.page_id)
     i = ids.index(a.page_id)
-    ctx = [f"transcription/final/{pid}.json" for pid in ids[max(0, i - a.context):i]
-           if (ROOT / "transcription/final" / f"{pid}.json").exists()]
+    ctx = context_files(ids[max(0, i - a.context):i], reads_ok=a.kind in READER_KINDS)
     slim = {k: rec[k] for k in ("id", "page", "image", "side", "folio", "source")}
     tpl = (ROOT / "scripts/prompts" / f"{a.kind}.md").read_text()
     out = (tpl.replace("{PAGE_ID}", a.page_id).replace("{READER}", a.reader)

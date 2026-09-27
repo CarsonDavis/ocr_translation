@@ -1,0 +1,180 @@
+{
+ "id": "p138",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "138",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "les trauerſes, tãt pour luy auoir oſté vne iambe, & fait",
+    "perdre vne bonne partie de ſon bien, (que ce beliſtre",
+    "du Tilh luy a deuoré & dependu) que pour luy auoir",
+    "repreſenté à ſon retour les horribles miſeres & calami-",
+    "tez de ce prodigieux fait. Dont le ſurcharger encore de",
+    "peine, euſt plus reſenti l'odeur de quelque cruauté, que",
+    "de integrité de iuſtice."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Bertrande de Rols."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XCVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Plus grande certes eſtoit la difficulté, pour le regard",
+    "de ladite Bertrãde de Rols, par pluſieurs conſideratiõs.",
+    "La premiere, pour la trop grande facilité, de laquelle",
+    "elle a vſé à receuoir ſi imprudẽment ceſt affronteur du",
+    "Tilh, pour ſon mari & l'ayant creu trop de leger {a}, meſ-",
+    "mes ayant conuerſé, beu, mangé, & dormi auec luy l'eſ-",
+    "pace de trois ans, ſous le manteau de tel erreur. lequel",
+    "elle approuuoit aſſez, en n'y contrediſant point {b}. Ioint",
+    "auſſi (qui ſera pour la ſeconde raiſon) que durant ces",
+    "trois ans, elle entendoit ſouuentefois murmurer, &",
+    "pluſieurs luy en donnerent des atraintes: voire nõme-",
+    "ment luy dirent, que ce perſonnage n'eſtoit point Mar-",
+    "tin Guerre: contre leſquels (bien qu'elle euſt raiſon de",
+    "les croire, ou pour le moins en douter) elle neãtmoins",
+    "viuement combatoit, aſſeurant le contraire. en quoy",
+    "ſembloit manifeſtement deſcouurir ſa coulpe: car tout",
+    "ainſi qu'vn poſſeſſeur eſt appelé de bõne foy, iuſqu'à tãt",
+    "qu'il ſçait, ou doute ſi la piece qu'il a acquiſe eſt d'au-",
+    "tre que de celuy qui la luy a baillee {c}. ainſi vne fẽme qui",
+    "couche auec autre que ſon mari eſt excuſee tãdis qu'el-",
+    "le l'ignore. & penſe auoir affaire auecques ſon conſort,",
+    "& eſpoux. mais des qu'elle vient à ſçauoir le contraire,",
+    "ou bien ſ'en douter, & neantmoins participe auec luy,",
+    "& ſouffre eſtre cogneuë de luy, elle eſt inexcuſable {d}. car",
+    "dés lors qu'elle commence ſ'apperceuoir, ou ſe douter",
+    "de la fraude, ſe doit incontinent ſeparer de luy {e}. En",
+    "troiſieme lieu prenant vn faict non pas trop diſſem-",
+    "blable: Loth apres auoir bien beu, engroſſit ſes",
+    "deux filles, qui ſ'eſtoient ſecretement couchees dans"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "lines": [
+    "l. i. P. i. D. de",
+    "eo per quem",
+    "fac. er. c. ſi qd",
+    "lxxxvi. diſt."
+   ],
+   "beside_line": "Tilh, pour ſon mari & l'ayant creu trop de leger {a}, meſ-"
+  },
+  {
+   "key": "b",
+   "lines": [
+    "c. error.",
+    "lxxxiij. diſt."
+   ],
+   "beside_line": "elle approuuoit aſſez, en n'y contrediſant point {b}. Ioint"
+  },
+  {
+   "key": "c",
+   "lines": [
+    "l. bona fidei.",
+    "D. de acq. rer.",
+    "do. l. fi. C. vn-",
+    "de vi."
+   ],
+   "beside_line": "tre que de celuy qui la luy a baillee {c}. ainſi vne fẽme qui"
+  },
+  {
+   "key": "d",
+   "lines": [
+    "c. ſi virgo.",
+    "xxxiij q. i."
+   ],
+   "beside_line": "& ſouffre eſtre cogneuë de luy, elle eſt inexcuſable {d}. car"
+  },
+  {
+   "key": "e",
+   "lines": [
+    "l. qui cõtra.",
+    "ſur la fin. C.",
+    "de inceſt. nu."
+   ],
+   "beside_line": "dés lors qu'elle commence ſ'apperceuoir, ou ſe douter"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "note": "running head set in spaced capitals (A R R E S T  D V), transcribed closed up per §3."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "les trauerſes, tãt pour luy auoir oſté vne iambe, & fait",
+   "note": "'auoir': final r is a broken sort looking like 'z' or ':'; read as r (same shape in 'auoir' on line 3)."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "La premiere, pour la trop grande facilité, de laquelle",
+   "note": "'laquelle': the first e after qu looks like 'c' (worn e or wrong sort 'laquclle'); arbiter to check, possibly sic."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "Tilh, pour ſon mari & l'ayant creu trop de leger {a}, meſ-",
+   "note": "line-end break sign after 'meſ' prints like a period/dot; transcribed as hyphen. Marker a is a small raised italic letter, partly blotted."
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "pace de trois ans, ſous le manteau de tel erreur. lequel",
+   "note": "punctuation after 'erreur' read as period (round dot, no tail); could be a comma."
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "tin Guerre: contre leſquels (bien qu'elle euſt raiſon de",
+   "note": "'contre' prints like 'contie' (r damaged or wrong sort); colon after Guerre is faint."
+  },
+  {
+   "where": "blocks[4].lines[20]",
+   "text": "le l'ignore. & penſe auoir affaire auecques ſon conſort,",
+   "note": "punctuation after 'l'ignore' looks like a period with a faint tail; could be a comma."
+  },
+  {
+   "where": "blocks[4].lines[25]",
+   "text": "de la fraude, ſe doit incontinent ſeparer de luy {e}. En",
+   "note": "mark after 'fraude' is a comma with a dot above it; could be a semicolon ';'."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "fac. er. c. ſi qd",
+   "note": "'qd' has a mark below the q (abbreviation stroke through descender); possibly q̃d / quod abbreviation."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. bona fidei.",
+   "note": "printed tight as 'bonafidei', separated per word-division rule."
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "xxxiij q. i.",
+   "note": "printed like 'xxxiij q-ı.': the mark between q and i looks like a hyphen or low dot; read as period. Numeral could be xxxiiij."
+  }
+ ]
+}

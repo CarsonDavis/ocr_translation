@@ -1,0 +1,160 @@
+{
+ "id": "p107",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "107",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Nil moueor lachrymis, iſta ſum capus ab arte.",
+    "Semper ab inſidiis, Cynthia flere ſoles."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et à la verité, par ce que les femmes ſemblent eſtre",
+    "nées pour plourer, & l'armoyent quand il leur plaiſt &",
+    "bon leur ſemble {b},"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Diſcunt lachrymare decenter,",
+    "Quóq; volunt plorant tempore, quóq; modo {c}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il ne faut point donner du tout foy à leurs larmes le",
+    "plus ſouuent feintes, ſimulees, & pleines d'hypocriſie,",
+    "ni a leus paroles auſſi: car les femmes ont (dit Plau-",
+    "te) en leurs langues miel: mais leur cœur eſt tout cou",
+    "uet de fiel, arrouſé de vinaigre, plein de toute amer-",
+    "tume {d}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et ne vous excuſez en mes ſeurs, ni en",
+    "mõ Oncle: car il n'y a pere, mere, Vncle,",
+    "ſeurs ni freres, qui doyuent mieux co-",
+    "gnoiſtre leur fils, nepueu, ou frere que la",
+    "femme doit cognoiſtre le mari. Et du",
+    "deſaſtre qui eſt auenu à noſtre maiſon,",
+    "nul a le tort que vous. Sur quoy les com",
+    "miſſaires ſ'eſſayerent excuſer ladite de",
+    "Rols: mais en cette premiere rencon-",
+    "tre, ne peurent oncques amolir ſon",
+    "cueur, ni le diuertir de ſon auſterité.",
+    "Ainſi l'impoſture dudit du Tilh, eſtant",
+    "entierement deſcouuerte, & le nou-",
+    "neau venu de tous vniquement receu,",
+    "& recognu pour Martin Guerre: & le",
+    "procez par ce moyen du tout inſtruir,"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "beside_line": "Diſcunt lachrymare decenter,",
+   "lines": [
+    "Euripides",
+    "in Medea."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "Quóq; volunt plorant tempore, quóq; modo {c}.",
+   "lines": [
+    "Ouid. au iiij",
+    "de arte amãd."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "uet de fiel, arrouſé de vinaigre, plein de toute amer-",
+   "lines": [
+    "Plaure en",
+    "ſon Tuſcul."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "Nil moueor lachrymis, iſta ſum capus ab arte.",
+   "note": "'y' of lachrymis broken/barely inked; 'capus' printed without t (for captus), sic"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "Semper ab inſidiis, Cynthia flere ſoles.",
+   "note": "C of Cynthia damaged, prints like '('"
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "ni a leus paroles auſſi: car les femmes ont (dit Plau-",
+   "note": "'leus' for 'leurs', sic; line-end sign after Plau is a faint short mark, read as hyphen; colon after auſſi set with space before"
+  },
+  {
+   "where": "blocks[3].lines[3]",
+   "text": "te) en leurs langues miel: mais leur cœur eſt tout cou",
+   "note": "a raised dot between cœur and eſt, probably a spacing sort inked; omitted"
+  },
+  {
+   "where": "blocks[5].lines[1]",
+   "text": "mõ Oncle: car il n'y a pere, mere, Vncle,",
+   "note": "initial of Vncle damaged, prints like a broken U/O; read as V"
+  },
+  {
+   "where": "blocks[5].lines[13]",
+   "text": "neau venu de tous vniquement receu,",
+   "note": "'neau' for 'ueau' (nouueau), sic, likely turned u"
+  },
+  {
+   "where": "blocks[5].lines[15]",
+   "text": "procez par ce moyen du tout inſtruir,",
+   "note": "last letter looks like r (sic for inſtruit); could be a damaged t"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "Plaure en",
+   "note": "'Plaure' for 'Plaute', sic (r-shaped t in italic); 'en' final letter heavily inked, could be 'em'"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Ouid. au iiij",
+   "note": "final j of iiij carries a stroke above; read as iiij"
+  },
+  {
+   "where": "margin_notes",
+   "text": "b c d",
+   "note": "no marker a on this page; first marker is b, alphabet presumably continues from p106 (not available as context)"
+  }
+ ]
+}

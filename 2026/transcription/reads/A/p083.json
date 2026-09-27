@@ -1,0 +1,212 @@
+{
+ "id": "p083",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "83",
+ "signature": "F ij",
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ble iuger ou condamner ceſt homme. Et ainſi és matie-",
+    "res ciuiles: car vn meſchant homme, facilement pour-",
+    "roit faire ſemer vn bruit de choſes fauſſes, pour ſeruir",
+    "à ſa cauſe. Dont nos loix ont ſainctement ordonné, la",
+    "preuue par bruit & fame n'eſtre pas entiere {a}, ſi n'eſt",
+    "en certains cas aſſemblez par nos interpretes és lieux",
+    "communs {b}. comme quand il eſt queſtion de prouuer",
+    "les bornes & limites des terres {c}. Ou de monſtrer quel",
+    "ques faicts vieux & anciens, excedans la memoire des",
+    "hommes {d}. Ou bien de faire apparoir, que Iean eſt fils",
+    "d'Antoine,: Pierre fils de François: ou autre filation {e}.",
+    "Ou de prouuer la mort de quelqu'vn {f}. Ou de mettre",
+    "en euidence quelque autre choſe, qui ne ſe peut prou-",
+    "uer qu'à grande difficulté. Et bien qu'és matieres ciuiles",
+    "ſoit receu, que le bruit & renommee fait vne demie",
+    "preuue: toutesfois és cauſes criminelles (deſquelles",
+    "nous parlons) ou bien és ciuiles, hautes, & graues, cela",
+    "n'a point de lieu {h}. Dont lors ne pourroit le iuge con-",
+    "ioindre ceſte demie preuue auec vn teſmoin, pour la",
+    "rendre pleine & entiere {i}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Auſsi ne ſe pouuoit on perſonnément",
+    "fonder a la cognoiſſance que le priſor-",
+    "nier auoit, de tous ceux qu'il rencontra",
+    "la premiere fois: car outre la magie, de",
+    "laquelle il eſtoit fort ſoupçonné: depuis,",
+    "en l'execution a-il confeſſe, que quel-",
+    "ques vns luy auoyent dõné certaines in-",
+    "telligences, & auiſemens. Moins ſe peut",
+    "on aider de la ſimilitude des ſeurs dudit",
+    "Martin, auec ledit priſonnier. par ce que,",
+    "çomme ſouuent a eſté dit, le Iugement",
+    "par ſemblance n'eſt pas aſſeuré: dequoy"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "preuue par bruit & fame n'eſtre pas entiere {a}, ſi n'eſt",
+   "lines": [
+    "l. iij P eiuſ",
+    "dé D de teſti.",
+    "Gloſe au c. il-",
+    "lud. de cleri.",
+    "excom."
+   ]
+  },
+  {
+   "key": "b",
+   "lines": [
+    "Felin au c.",
+    "veniens. i de",
+    "teſti."
+   ]
+  },
+  {
+   "key": "c",
+   "lines": [
+    "c. cum cau-",
+    "ſam. de teſti."
+   ]
+  },
+  {
+   "key": "d",
+   "lines": [
+    "Innocent",
+    "aud. c. veniẽs."
+   ]
+  },
+  {
+   "key": "e",
+   "lines": [
+    "c. per tuas.",
+    "de proba."
+   ]
+  },
+  {
+   "key": "f",
+   "lines": [
+    "Bartole en",
+    "la l. iij. P. ſi du",
+    "bitetur. D quẽ",
+    "admod. teſta.",
+    "aper."
+   ]
+  },
+  {
+   "key": "g",
+   "lines": [
+    "Accurſe en",
+    "la l. iij P. eiuſ-",
+    "dé. D. de teſt.",
+    "Salicet en la",
+    "l. ea quidẽ. P.",
+    "fin ſur la fin.",
+    "C. de accuſa."
+   ]
+  },
+  {
+   "key": "h",
+   "lines": [
+    "c. tam lite.",
+    "ris. c. veniens;",
+    "de teſti."
+   ]
+  },
+  {
+   "key": "i",
+   "lines": [
+    "c. tam lite-",
+    "ris. alleguee;",
+    "Felin. aud. c;",
+    "veniens."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[6]",
+   "text": "Accurſe en",
+   "note": "marker g: no {g} visible anywhere in the body; note g is printed in the margin between notes f and h (beside the 'preuue: toutesfois' to 'n'a point de lieu' lines). Marker probably omitted by the printer or lost; arbiter should check the print near 'demie / preuue' and 'graues, cela'."
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "d'Antoine,: Pierre fils de François: ou autre filation {e}.",
+   "note": "',:' after Antoine as printed (sic); 'Antoine' set with an odd capital A, possibly small capitals; 'filation' sic (for filiation); mark after {e} read as period (round dot)"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "preuue: toutesfois és cauſes criminelles (deſquelles",
+   "note": "mark after 'preuue' could be ';' or ':'; 'toutesfois' first t damaged, round s before f"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "fonder a la cognoiſſance que le priſor-",
+   "note": "last letter before the hyphen looks like 'r' not 'n' (priſor- for priſon-); sic or damaged n; line-end hyphen printed as an odd blotted mark"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "çomme ſouuent a eſté dit, le Iugement",
+   "note": "first c appears to carry a cedilla (sic); could be a spot"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "en l'execution a-il confeſſe, que quel-",
+   "note": "'confeſſe' with no visible accent on final e"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij P eiuſ",
+   "note": "no hyphen visible after 'eiuſ'; a small raised mark after it may be a 'd' or hyphen (eiuſ/dé = eiuſdem); first line of note a"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "lud. de cleri.",
+   "note": "points after 'lud' and 'cleri' printed as raised/middle dots; transcribed as periods"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "veniens. i de",
+   "note": "'i de' as printed (stray i? possibly for 'de' or a misprint); sic"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "text": "admod. teſta.",
+   "note": "final point may be ':'"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "dé. D. de teſt.",
+   "note": "final point may be ':'"
+  },
+  {
+   "where": "margin_notes[6].lines[4]",
+   "text": "l. ea quidẽ. P.",
+   "note": "mark over e in 'quidẽ' could be tilde or acute"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "Felin. aud. c;",
+   "note": "point after 'c' read as ';', could be ':' or '.'"
+  }
+ ]
+}

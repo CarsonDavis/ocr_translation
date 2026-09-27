@@ -1,0 +1,263 @@
+{
+ "page": "p073",
+ "a": "transcription/reads/A/p073.json",
+ "b": "transcription/reads/B/p073.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-001",
+   "kind": "body",
+   "where_a": "blocks[0].lines[1]",
+   "where_b": "blocks[0].lines[1]",
+   "index": 1,
+   "index_b": 1,
+   "a": "ſemble {e}.",
+   "b": "ſemble {c}.",
+   "context_before": "doncques, quand toutes ces faueurs ſe preſentent en-",
+   "context_after": "TEXTE.",
+   "strip": "pages/strips/p073/body-1.jpg",
+   "crop": "crops/p073/b-001.jpg"
+  },
+  {
+   "id": "b-018",
+   "kind": "body",
+   "where_a": "blocks[4].lines[5]",
+   "where_b": "blocks[4].lines[5]",
+   "index": 18,
+   "index_b": 18,
+   "a": "touteſfois n'eſt pas ſuffiſant à faire preuue {c}. Ou fuſt",
+   "b": "touteſfois n'eſt pas ſuffiſant à faire preuue {c2}. Ou fuſt",
+   "context_before": "ſe à vn autre, bien que face telle quelle preſumptiou {b}:",
+   "context_after": "pour monſtrer la parenté ou alliance, aux fins d'em-",
+   "strip": "pages/strips/p073/body-5.jpg",
+   "crop": "crops/p073/b-018.jpg"
+  },
+  {
+   "id": "b-022",
+   "kind": "body",
+   "where_a": "blocks[4].lines[9]",
+   "where_b": "blocks[4].lines[9]",
+   "index": 22,
+   "index_b": 22,
+   "a": "ble d'autres adminiculés, & circonſtances {e2}. Ou bien,",
+   "b": "ble d'autres adminiculés, & circonſtances {e}. Ou bien,",
+   "context_before": "teſmoignage ſoit accompagné de bruit & fame, enſem-",
+   "context_after": "pour faire apparoir de quelque faict fort vieux & an-",
+   "strip": "pages/strips/p073/body-5.jpg",
+   "crop": "crops/p073/b-022.jpg"
+  },
+  {
+   "id": "b-032",
+   "kind": "body",
+   "where_a": "blocks[4].lines[19]",
+   "where_b": "blocks[4].lines[19]",
+   "index": 32,
+   "index_b": 32,
+   "a": "eſt queſtion de ce mariage entre Camille & Lucrece {l}.",
+   "b": "eſt queſtion de ce mariage entre Camille & Lucrece {i}.",
+   "context_before": "Lucrece a fiancé par paroles de preſent, Camille, & ores",
+   "context_after": "TEXTE.",
+   "strip": "pages/strips/p073/body-7.jpg",
+   "crop": "crops/p073/b-032.jpg"
+  },
+  {
+   "id": "n-b-3",
+   "kind": "note",
+   "key": "b",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[3]",
+   "where_b": "margin_notes[1].lines[3]",
+   "a": "allegue.",
+   "b": "allegué.",
+   "context_before": "videtur. pre-",
+   "context_after": null,
+   "strip": "pages/strips/p073/margin-1.jpg",
+   "crop": "crops/p073/n-b-3.jpg"
+  },
+  {
+   "id": "ns-c",
+   "kind": "note-structure",
+   "where_a": "margin_notes[2]",
+   "where_b": "margin_notes[2]",
+   "notes_a": [
+    "margin_notes[2]"
+   ],
+   "notes_b": [
+    "margin_notes[2]"
+   ],
+   "a": "[c] c. tam lite-\nris. c. licet cx\nquadam. de\nteſtib. c. tua.\nde conſang.\n& affinit.",
+   "b": "[c2] c. tam lite-\nris. c. licet ex\nquadam. de\nteſtib. c. tua.\nde conſang.\n& affinit.",
+   "layout_a": [
+    {
+     "where": "margin_notes[2]",
+     "kind": "margin_notes",
+     "key": "c",
+     "beside_line": null,
+     "lines": [
+      {
+       "text": "c. tam lite-",
+       "from": "margin_notes[2].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "ris. c. licet cx",
+       "from": "margin_notes[2].lines[1]",
+       "keep_text": false
+      },
+      {
+       "text": "quadam. de",
+       "from": "margin_notes[2].lines[2]",
+       "keep_text": false
+      },
+      {
+       "text": "teſtib. c. tua.",
+       "from": "margin_notes[2].lines[3]",
+       "keep_text": false
+      },
+      {
+       "text": "de conſang.",
+       "from": "margin_notes[2].lines[4]",
+       "keep_text": false
+      },
+      {
+       "text": "& affinit.",
+       "from": "margin_notes[2].lines[5]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[2]",
+     "kind": "margin_notes",
+     "key": "c2",
+     "beside_line": "dit priſonnier, ils ont eſté viuement, &",
+     "lines": [
+      {
+       "text": "c. tam lite-",
+       "from": "margin_notes[2].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "ris. c. licet ex",
+       "from": "margin_notes[2].lines[1]",
+       "keep_text": false
+      },
+      {
+       "text": "quadam. de",
+       "from": "margin_notes[2].lines[2]",
+       "keep_text": false
+      },
+      {
+       "text": "teſtib. c. tua.",
+       "from": "margin_notes[2].lines[3]",
+       "keep_text": false
+      },
+      {
+       "text": "de conſang.",
+       "from": "margin_notes[2].lines[4]",
+       "keep_text": false
+      },
+      {
+       "text": "& affinit.",
+       "from": "margin_notes[2].lines[5]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
+   "strip": "pages/strips/p073/margin-1.jpg",
+   "crop": "crops/p073/ns-c.jpg"
+  },
+  {
+   "id": "ns-e2",
+   "kind": "note-structure",
+   "where_a": "margin_notes[4]",
+   "where_b": "margin_notes[4]",
+   "notes_a": [
+    "margin_notes[4]"
+   ],
+   "notes_b": [
+    "margin_notes[4]"
+   ],
+   "a": "[e2] c. præterea.\nde teſt. Panor\nme au c. licet\nex quadam.\nallegue.",
+   "b": "[e] c. præterea.\nde teſt. Panor\nme au c. licet\nex quadam.\nallegue.",
+   "layout_a": [
+    {
+     "where": "margin_notes[4]",
+     "kind": "margin_notes",
+     "key": "e2",
+     "beside_line": null,
+     "lines": [
+      {
+       "text": "c. præterea.",
+       "from": "margin_notes[4].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "de teſt. Panor",
+       "from": "margin_notes[4].lines[1]",
+       "keep_text": false
+      },
+      {
+       "text": "me au c. licet",
+       "from": "margin_notes[4].lines[2]",
+       "keep_text": false
+      },
+      {
+       "text": "ex quadam.",
+       "from": "margin_notes[4].lines[3]",
+       "keep_text": false
+      },
+      {
+       "text": "allegue.",
+       "from": "margin_notes[4].lines[4]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[4]",
+     "kind": "margin_notes",
+     "key": "e",
+     "beside_line": null,
+     "lines": [
+      {
+       "text": "c. præterea.",
+       "from": "margin_notes[4].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "de teſt. Panor",
+       "from": "margin_notes[4].lines[1]",
+       "keep_text": false
+      },
+      {
+       "text": "me au c. licet",
+       "from": "margin_notes[4].lines[2]",
+       "keep_text": false
+      },
+      {
+       "text": "ex quadam.",
+       "from": "margin_notes[4].lines[3]",
+       "keep_text": false
+      },
+      {
+       "text": "allegue.",
+       "from": "margin_notes[4].lines[4]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
+   "strip": "pages/strips/p073/margin-2.jpg",
+   "crop": "crops/p073/ns-e2.jpg"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "page": "p131",
+ "a": "transcription/reads/A/p131.json",
+ "b": "transcription/reads/B/p131.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-e-1",
+   "kind": "note",
+   "key": "e",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[1]",
+   "where_b": "margin_notes[2].lines[1]",
+   "a": "au xx. liu. c j.",
+   "b": "au xx. liu. c. j.",
+   "context_before": "Aule Gelle",
+   "context_after": null,
+   "strip": "pages/strips/p131/margin-3.jpg",
+   "crop": "crops/p131/n-e-1.jpg"
+  },
+  {
+   "id": "n-f-2",
+   "kind": "note",
+   "key": "f",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[3].lines[2]",
+   "where_b": "margin_notes[3].lines[2]",
+   "a": "Q fratrem.",
+   "b": "Q. fratrem.",
+   "context_before": "l'epiſtre i. ad",
+   "context_after": null,
+   "strip": "pages/strips/p131/margin-3.jpg",
+   "crop": "crops/p131/n-f-2.jpg"
+  }
+ ]
+}

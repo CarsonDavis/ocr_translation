@@ -1,0 +1,36 @@
+{
+ "page": "p084",
+ "a": "transcription/reads/A/p084.json",
+ "b": "transcription/reads/B/p084.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-022",
+   "kind": "body",
+   "where_a": "blocks[4].lines[2]",
+   "where_b": "blocks[4].lines[2]",
+   "index": 22,
+   "index_b": 22,
+   "a": "refuſa iurer, car cela ne peut changer rien",
+   "b": "refuſa iurer',. car cela ne peut changer rien",
+   "context_before": "ladite de Rols confrontee au preuenu,",
+   "context_after": "de la verité.",
+   "strip": "pages/strips/p084/body-5.jpg",
+   "crop": "crops/p084/b-022.jpg"
+  },
+  {
+   "id": "b-030",
+   "kind": "body",
+   "where_a": "blocks[6].lines[5]",
+   "where_b": "blocks[6].lines[5]",
+   "index": 30,
+   "index_b": 30,
+   "a": "eſtre rëuerſee, & bien qu'elle n'aye aucun protecteur,",
+   "b": "eſtre rẽuerſee, & bien qu'elle n'aye aucun protecteur,",
+   "context_before": "engin, ou machine quelconques d'homme, elle n'ha peu",
+   "context_after": "qui prenne ſa defenſe, elle ſe defend aſſez de ſoy-meſme",
+   "strip": "pages/strips/p084/body-6.jpg",
+   "crop": "crops/p084/b-030.jpg"
+  }
+ ]
+}

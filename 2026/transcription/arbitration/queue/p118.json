@@ -1,0 +1,76 @@
+{
+ "page": "p118",
+ "a": "transcription/reads/A/p118.json",
+ "b": "transcription/reads/B/p118.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-e-0",
+   "kind": "note",
+   "key": "e",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[5].lines[0]",
+   "where_b": "margin_notes[5].lines[0]",
+   "a": "l. edicto P j.",
+   "b": "l. edicto P. j.",
+   "context_before": null,
+   "context_after": "D. de bono.",
+   "strip": "pages/strips/p118/margin-3.jpg",
+   "crop": "crops/p118/n-e-0.jpg"
+  },
+  {
+   "id": "s-blocks",
+   "kind": "structural",
+   "field": "blocks",
+   "where_a": "blocks",
+   "where_b": "blocks",
+   "a": null,
+   "b": null,
+   "text": "block types: A=['paragraph', 'heading', 'heading', 'heading', 'paragraph'] B=['paragraph', 'heading', 'paragraph', 'heading', 'paragraph']; headings: A=['TEXTE.', 'Adultere.', 'ANNOTAT. LXXXIII.'] B=['TEXTE.', 'ANNOTAT. LXXXIII.']",
+   "a_blocks": [
+    "paragraph (32 lines): à la dignité Papale, laquelle elle tint deux ans, vn mois",
+    "heading: TEXTE.",
+    "heading: Adultere.",
+    "heading: ANNOTAT. LXXXIII.",
+    "paragraph (2 lines): Il n'eſt beſoin expliquer plus clairement l'adultere"
+   ],
+   "b_blocks": [
+    "paragraph (32 lines): à la dignité Papale, laquelle elle tint deux ans, vn mois",
+    "heading: TEXTE.",
+    "paragraph (1 line): Adultere.",
+    "heading: ANNOTAT. LXXXIII.",
+    "paragraph (2 lines): Il n'eſt beſoin expliquer plus clairement l'adultere"
+   ],
+   "block_rows": [
+    {
+     "a": null,
+     "b": null,
+     "status": "gap"
+    },
+    {
+     "a": "heading: TEXTE.",
+     "b": "heading: TEXTE.",
+     "status": "same"
+    },
+    {
+     "a": "heading: Adultere.",
+     "b": "paragraph (1 line): Adultere.",
+     "status": "diff"
+    },
+    {
+     "a": "heading: ANNOTAT. LXXXIII.",
+     "b": "heading: ANNOTAT. LXXXIII.",
+     "status": "same"
+    },
+    {
+     "a": null,
+     "b": null,
+     "status": "gap"
+    }
+   ],
+   "crop": "crops/p118/page.jpg",
+   "strip": "pages/read/p118.jpg"
+  }
+ ]
+}

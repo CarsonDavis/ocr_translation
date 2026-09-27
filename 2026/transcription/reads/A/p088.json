@@ -1,0 +1,153 @@
+{
+ "id": "p088",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "88",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "TEXTE,",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Lequel arriué des Eſpagnes, ayant",
+    "vne iambe de bois, comme vn an au-",
+    "parauant auoit eſté conſigné par le ſol-",
+    "dat, (duquel a eſté ci deſſus parlé) pre-",
+    "ſente requeſte narratine de toute l'im-",
+    "poſture: requerant eſtre ouy. La cour",
+    "ordonne qu'il ſe feroit ouyr, luy tenant",
+    "l'arreſt clos chez la garde du palais."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ceſte diction Arreſt, en noſtre langue Françoiſe, ſe",
+    "prent en deux ſortes. La premiere, pour vn dernier iuge",
+    "ment, & decret d'vne cour ſouueraine: & ainſi pluſieurs",
+    "penſent, que ſoit tirée du Grec ἄρεστον, qui vaut autant à",
+    "dire, comme ordonnãce de magiſtrat. Dõt ſemble auſ-",
+    "ſi, dit ce grãd Budée, que nous faillons en l'eſcriuant, &",
+    "prononçant par double R. veu que ἄρεστον d'où il eſt ti",
+    "ré, ne ſ'eſcrit qu'auec R. ſimple {a}. La ſeconde, pour vne",
+    "eſpece de priſon, procedant du commandement & in-",
+    "ionction du magiſtrat fait à quelque perſonnage de ne",
+    "bouger d'vn certain lieu, qu'il luy aſſigne {b}. comme en",
+    "noſtre contexte."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Neantmoins qu'il ſera confronté aud.",
+    "du Tilh priſonnier, Pierre Guerre, Ber-",
+    "trande de Rols, & ſeurs dudit Martin:",
+    "enſemble à autres certains teſmoins qui",
+    "eſtoyent les principaux de ceux qui a-",
+    "uoient ſi pertinacement aſſeuré, que le",
+    "priſonnier eſtoit veritablement Martin",
+    "Guerre. Il eſt ouy: conſigne, & baille en-",
+    "ſeignes ſur les meſmes interrogatoires"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ré, ne ſ'eſcrit qu'auec R. ſimple {a}. La ſeconde, pour vne",
+   "lines": [
+    "Guil. Budée",
+    "en la Loy fin.",
+    "ſur la fin. D.",
+    "de ſenator."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "bouger d'vn certain lieu, qu'il luy aſſigne {b}. comme en",
+   "lines": [
+    "l. ij. D. de",
+    "lib. exhib. l.",
+    "P. Tirio cen-",
+    "tũ. D. de con.",
+    "& demon."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].text",
+   "text": "TEXTE,",
+   "note": "final point looks like a comma (tail below baseline), not a period"
+  },
+  {
+   "where": "blocks[1].lines[4]",
+   "text": "ſente requeſte narratine de toute l'im-",
+   "note": "sic? reads 'narratine' (n for u) as printed; expected 'narratiue'"
+  },
+  {
+   "where": "blocks[1].lines[3]",
+   "text": "dat, (duquel a eſté ci deſſus parlé) pre-",
+   "note": "'deſſus' printed with ſſ ligature; could be ſs"
+  },
+  {
+   "where": "blocks[3].lines[3]",
+   "text": "penſent, que ſoit tirée du Grec ἄρεστον, qui vaut autant à",
+   "note": "Greek word small and blurred: best reading ἄρεστον (possibly printed with στ ligature or as ἄρεσον); 'penſent' badly inked (looks 'penlenr')"
+  },
+  {
+   "where": "blocks[3].lines[6]",
+   "text": "prononçant par double R. veu que ἄρεστον d'où il eſt ti",
+   "note": "Greek word same uncertain reading as line 3"
+  },
+  {
+   "where": "blocks[3].lines[10]",
+   "text": "bouger d'vn certain lieu, qu'il luy aſſigne {b}. comme en",
+   "note": "'aſſigne' ſſ vs ſs uncertain; point after marker b read as period"
+  },
+  {
+   "where": "blocks[5].lines[6]",
+   "text": "priſonnier eſtoit veritablement Martin",
+   "note": "ſ in 'priſonnier' poorly inked, looks like 't' ('pritonnier')"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "lib. exhib. l.",
+   "note": "printed looks like 'li.bo exhib.l.'; the point may fall after 'li' and the 'o' may be a blot"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "P. Tirio cen-",
+   "note": "swash P (paragraph sign) followed by a comma-like mark; read as period"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ij. D. de",
+   "note": "marker letter b blurred; 'ij' printed as ÿ-like ligature"
+  }
+ ]
+}

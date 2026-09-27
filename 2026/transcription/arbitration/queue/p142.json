@@ -1,0 +1,66 @@
+{
+ "page": "p142",
+ "a": "transcription/reads/A/p142.json",
+ "b": "transcription/reads/B/p142.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-003",
+   "kind": "body",
+   "where_a": "blocks[2].text",
+   "where_b": "blocks[2].text",
+   "index": 3,
+   "index_b": 3,
+   "a": "ANNOTAT, XCIX.",
+   "b": "ANNOTAT. XCIX.",
+   "context_before": "dudit Martin.",
+   "context_after": "Il y auoit grande raiſon, de mettre ce pauure Pierre",
+   "strip": "pages/strips/p142/body-2.jpg",
+   "crop": "crops/p142/b-003.jpg"
+  },
+  {
+   "id": "b-021",
+   "kind": "body",
+   "where_a": "blocks[7].lines[3]",
+   "where_b": "blocks[7].lines[3]",
+   "index": 21,
+   "index_b": 21,
+   "a": "ce faict. Ioinct qu'il appartient grandement â la digni-",
+   "b": "ce faict. Ioinct qu'il appartient grandement à la digni-",
+   "context_before": "cher par tous honneſtes moyens de Iuſtice, la verité de",
+   "context_after": "té des cours ſouueraines, de maintenir, & cõſeruer l'au-",
+   "strip": "pages/strips/p142/body-5.jpg",
+   "crop": "crops/p142/b-021.jpg"
+  },
+  {
+   "id": "n-a-3",
+   "kind": "note",
+   "key": "a",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[3]",
+   "where_b": "margin_notes[0].lines[3]",
+   "a": "e. vt debitus.",
+   "b": "c. vt debitus.",
+   "context_before": "non eſt nece.",
+   "context_after": "de appel.",
+   "strip": "pages/strips/p142/margin-2.jpg",
+   "crop": "crops/p142/n-a-3.jpg"
+  },
+  {
+   "id": "n-b-1",
+   "kind": "note",
+   "key": "b",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[1]",
+   "where_b": "margin_notes[1].lines[1]",
+   "a": "D. depoſt. l.",
+   "b": "D. depoſit. l.",
+   "context_before": "l. i. P. caſum",
+   "context_after": "obſeruandum",
+   "strip": "pages/strips/p142/margin-2.jpg",
+   "crop": "crops/p142/n-b-1.jpg"
+  }
+ ]
+}

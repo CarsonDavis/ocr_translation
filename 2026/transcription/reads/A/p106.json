@@ -1,0 +1,147 @@
+{
+ "id": "p106",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "106",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "reſtée) pour remõſtrer l'outrage que luy",
+    "a eſté fait, & le pourſuyure,"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ceci faiſoit grande euidence de la bonne foy de la-",
+    "dite de Rols, & qu'elle n'euſt onc volonté ſe foruoyer",
+    "de ſon vray conſort, & mari: ni violer aucunement la",
+    "foy qu'elle luy deuoit, biẽ qu'elle euſt de faict charnel-",
+    "lement cohabité auec iceluy du Tilh. car ſi vne femme",
+    "conuerſe auec vn autre, penſant qu'il ſoit ſon mari, tan-",
+    "dis qu'elle l'ignore ne pourra eſtre dite adultere. mais",
+    "dés l'heure ſeulement qu'elle le ſçaura, & n'en dira mot",
+    "{a}. Ce que ladite de Rols ne fit pas, ains, au contraire dés",
+    "lors qu'elle commença deſcouurir. & ſ'aperceuoir de la",
+    "prodigieuſe fraude, en laquelle ledit du Tilh, caut, ſub-",
+    "til, malicieux, & le plus diſſimulé paillard, qui fut onc-",
+    "ques, ſi finement l'auoit endormie, le pourſuyuit",
+    "vertueuſement, ſans pardonner à ſes biens, ni à ſes",
+    "peines."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Sur quoy ne ſera hors de propros, re-",
+    "citer la contenance du nouueau venu, le-",
+    "quel ayant larmoyé au confrontement,",
+    "& rencontré de ſes ſeurs, toutesfois aux",
+    "grans pleurs & gemiſſemens extremes",
+    "de ladite de Rols, ne monſtra oncques",
+    "vn ſeul ſigne de douleur, & triſteſſe: ains",
+    "au contraire d'vne auſtere, & farouche",
+    "contenance, & ne daignant preſque la re",
+    "garder, luy dit: laiſſez à part ces pleurs,",
+    "deſquels ie ne me puis, ni ne me dois eſ-",
+    "mouuoir."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXVIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ceſtuy diſoit, auec Properce."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "{a}. Ce que ladite de Rols ne fit pas, ains, au contraire dés",
+   "lines": [
+    "c ſi virgo.",
+    "xxxiij. q. ij."
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "mouuoir.",
+   "lines": [
+    "Properce au",
+    "iij. liure, Ele-",
+    "gie dernier."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "c ſi virgo.",
+   "note": "no stop visible after the 'c'; the small letter is read as c (canon), could be e"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "xxxiij. q. ij.",
+   "note": "numeral reads x-x-x-i-ij; the final ij of the first numeral and of 'ij.' carry diaeresis-like dots; count of minims uncertain (could be xxxiiij)"
+  },
+  {
+   "where": "margin_notes[1]",
+   "text": "Properce au",
+   "note": "note keyed 'a' (alphabet restarts; keyed a2) printed beside 'mouuoir.' but no marker a2 is visible in the body, neither after 'mouuoir.' nor in 'Ceſtuy diſoit, auec Properce.'; marker missing"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Sur quoy ne ſera hors de propros, re-",
+   "note": "sic: 'propros' for 'propos', as printed"
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "citer la contenance du nouueau venu, le-",
+   "note": "'venu' final u damaged (reads like 'venc'); the 'l' of 'le-' is only a faint raised stroke, reading from the continuation 'quel'"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "vn ſeul ſigne de douleur, & triſteſſe: ains",
+   "note": "'ſigne' — the n is broken and looks like 'r.'; reading 'ſigne'"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "dis qu'elle l'ignore ne pourra eſtre dite adultere. mais",
+   "note": "'eſtre' — the ſt ligature is damaged (looks like eſ'tre)"
+  },
+  {
+   "where": "blocks[0]",
+   "text": "a eſté fait, & le pourſuyure,",
+   "note": "TEXTE fragment ends with a comma before the annotation head; continues_next set false because the next TEXTE begins a new sentence 'Sur quoy'"
+  }
+ ]
+}

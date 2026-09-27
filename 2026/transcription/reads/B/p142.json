@@ -1,0 +1,179 @@
+{
+ "id": "p142",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "142",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Enſemble ledit Pierre Guerre, oncle",
+    "dudit Martin."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XCIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il y auoit grande raiſon, de mettre ce pauure Pierre",
+    "Guerre hors de procez, & d'inſtance: lequel tant ſ'en",
+    "faut qu'il deuſt eſtre puni, qu'il eſtoit digne de recom-",
+    "penſe, & meritoit louange double, pour vn œuure ſi",
+    "bon, ſi vertueux, & ſi charitable, d'auoir deſpendu par-",
+    "tie de ſon bien, & expoſé ſa perſonne à grand peril &",
+    "danger de ſa vie, pour deſcouurir ce faict, & mettre vne",
+    "ſi prodigieuſe impoſture en euidence."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et a renuoyé, & renuoye ledit du Tilh",
+    "audit Iuge de Rieux, pour faire mettre",
+    "ce preſent arreſt à execution, ſelon ſa",
+    "forme, & teneur."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. C.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il eſtoit conuenable renuoyer l'execution de l'arreſt",
+    "au Iuge de Rieux, lequel ne ſ'eſtoit eſpargné à recher-",
+    "cher par tous honneſtes moyens de Iuſtice, la verité de",
+    "ce faict. Ioinct qu'il appartient grandement à la digni-",
+    "té des cours ſouueraines, de maintenir, & cõſeruer l'au-",
+    "thorité des inferieurs {a}: & faire de maniere, qu'à leur",
+    "exemple, & pour le bien public, tous Iuges (chacun en",
+    "ſon degré) ſoyent de tous, & par tout reuerez, comme",
+    "auſſi nos Loix ſouuent le commandent {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE DV PROCES",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "de l'execution."
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Depuis pour executer ledict arreſt, ice-",
+    "luy du Tilh fut ramené de la concierge-",
+    "rie au lieu d'Artigat, où l'executiõ ſe de-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "té des cours ſouueraines, de maintenir, & cõſeruer l'au-",
+   "lines": [
+    "l. omnẽ. C.",
+    "quand. prouo",
+    "non eſt nece.",
+    "c. vt debitus.",
+    "de appel."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "auſſi nos Loix ſouuent le commandent {b}.",
+   "lines": [
+    "l. i. P. caſum",
+    "D. depoſit. l.",
+    "obſeruandum",
+    "D. de officio",
+    "præſ."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].text",
+   "text": "ANNOTAT. XCIX.",
+   "note": "the point after ANNOTAT looks like a comma or damaged period in the strip; read as period"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Il y auoit grande raiſon, de mettre ce pauure Pierre",
+   "note": "a mark like a diaeresis/tilde over the final e of 'Pierre'; probably stray ink, not transcribed"
+  },
+  {
+   "where": "blocks[7].lines[3]",
+   "text": "ce faict. Ioinct qu'il appartient grandement à la digni-",
+   "note": "the accent on 'à' looks almost circumflex-shaped; read as grave. Line-end hyphen printed as a raised dot"
+  },
+  {
+   "where": "blocks[7].lines[4]",
+   "text": "té des cours ſouueraines, de maintenir, & cõſeruer l'au-",
+   "note": "line-end word-break sign printed as a raised dot after 'au'"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "non eſt nece.",
+   "note": "margin strips truncate the right edge of the notes; read from the whole-page image only; could be 'nec.' or 'neceſ.'"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "c. vt debitus.",
+   "note": "first letter could be 'e.' or 'c.'; small italic at reading size"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. omnẽ. C.",
+   "note": "note lines read from the whole-page image; margin strips are cut off at the right; tilde over e as seen"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. i. P. caſum",
+   "note": "'i' could be '1'; read from whole-page image and partial strip"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "D. depoſit. l.",
+   "note": "strip truncated after 'depoſ'; whole-page image suggests 'depoſt.' or 'depoſit.'"
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "præſ.",
+   "note": "could be 'praeſ.' or 'praſi.'; ligature not clear at this size"
+  }
+ ]
+}

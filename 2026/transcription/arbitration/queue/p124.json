@@ -1,0 +1,23 @@
+{
+ "page": "p124",
+ "a": "transcription/reads/A/p124.json",
+ "b": "transcription/reads/B/p124.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-l-0",
+   "kind": "note",
+   "key": "l",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[9].lines[0]",
+   "where_b": "margin_notes[9].lines[0]",
+   "a": "l. fœdiſsi-",
+   "b": "l. fœdiſſi-",
+   "context_before": null,
+   "context_after": "mam. C. de",
+   "strip": "pages/strips/p124/margin-3.jpg",
+   "crop": "crops/p124/n-l-0.jpg"
+  }
+ ]
+}

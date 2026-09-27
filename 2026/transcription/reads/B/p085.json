@@ -1,0 +1,182 @@
+{
+ "id": "p085",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "85",
+ "signature": "F iij",
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Meſmement és matieres criminelles,",
+    "eſquelles la preuue par ſerment n'eſt",
+    "legitime,"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Es cauſes criminelles, par ce qu'il conuient les preu",
+    "ues eſtre certaines, indubitables, & plus claires que le",
+    "iour, la delation de ſerment n'eſt pas receuë {a}. attendu",
+    "meſmement que ſi elle auoit lieu en ces matieres, ad-",
+    "uiendroit facilement que les crimes, & les calomnies,",
+    "par la colluſion des parties ſe couuriroient, & demeu-",
+    "reroyent impunies {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ioinct qu'il y a des perſonnes, qui ſont",
+    "ſi ſuperſtitieuſes, qu'ils n'oſeroyent iu-",
+    "rer, & fuſt-il pour choſes euidemment",
+    "veritables."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, LXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Vlpian en quelque lieu, parlãt d'vn lais fait par vn te-",
+    "ſtateur, à condition, ſi le legataire iuroit, dit que telle",
+    "cõdition doit eſtre reiettée, & que le legataire peut har",
+    "diment demander le legat, ſans faire le ſerment, duquel",
+    "le teſtateur le chargeoit: à fin, dit il que ne voulãt iurer,",
+    "il ne perde le legat: ou ſe periurant, il le gagne. car il en",
+    "y a quelques vns, dit le Iuriſcõſulte, trop faciles à iurer,",
+    "en meſpris de la religion. d'autres craintifs de la puiſſan",
+    "ce diuine, iuſqu'à ſuperſtition de ſorte, que des choſes",
+    "meſmes qu'ils ſçauent & ſont bien aſſeurez, ils ne",
+    "voudroient pourtant, ni oſeroient iurer {a2}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et par meſme moyen, eſt reſpondu",
+    "à ce que pendant leſd. trois ans, lad. de",
+    "Rols ne ſ'en eſt plainte: ains defendoit",
+    "obſtineement contre ceux qui diſoyent"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "iour, la delation de ſerment n'eſt pas receuë {a}. attendu",
+   "lines": [
+    "l. fin. C. de",
+    "proba."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "par la colluſion des parties ſe couuriroient, & demeu-",
+   "lines": [
+    "c j. & tout",
+    "le titre, de col",
+    "luſ. detegend"
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "voudroient pourtant, ni oſeroient iurer {a2}.",
+   "lines": [
+    "l. quæ ſub",
+    "conditione. D",
+    "de cond. inſt"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[6].text",
+   "text": "ANNOTAT, LXVI.",
+   "note": "comma after ANNOTAT as printed (expected period); sic"
+  },
+  {
+   "where": "blocks[5].lines[1]",
+   "text": "ſi ſuperſtitieuſes, qu'ils n'oſeroyent iu-",
+   "note": "a mark sits above the i of qu'ils (may be a diaeresis 'qu'ïls' or a stray/damaged apostrophe); read as qu'ils"
+  },
+  {
+   "where": "blocks[7].lines[3]",
+   "text": "diment demander le legat, ſans faire le ſerment, duquel",
+   "note": "the first e of 'demander' is misshapen (looks like a damaged or wrong sort, 'dęmander'); read as e"
+  },
+  {
+   "where": "blocks[7].lines[5]",
+   "text": "il ne perde le legat: ou ſe periurant, il le gagne. car il en",
+   "note": "punctuation after 'legat' faint: colon or period; 'per de' set with a gap, taken as one word 'perde'"
+  },
+  {
+   "where": "blocks[7].lines[4]",
+   "text": "le teſtateur le chargeoit: à fin, dit il que ne voulãt iurer,",
+   "note": "'nevoulãt' set tight; divided as two words per conventions"
+  },
+  {
+   "where": "blocks[9].lines[3]",
+   "text": "obſtineement contre ceux qui diſoyent",
+   "note": "'obſtineement' as printed (double e); possibly sic for obſtinement"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "c j. & tout",
+   "note": "key printed 'b.' with a period; 'c j.' shows no visible period after c (could be 'c. j.')"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "luſ. detegend",
+   "note": "no final period visible after detegend; last letters heavily inked"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "conditione. D",
+   "note": "the D is an ornate/swash capital (digest siglum), transcribed as plain D"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "a2",
+   "note": "marker alphabet restarts at a in ANNOTAT. LXVI on this page; second a keyed a2"
+  }
+ ]
+}

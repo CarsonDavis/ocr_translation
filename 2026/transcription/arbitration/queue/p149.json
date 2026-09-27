@@ -1,0 +1,36 @@
+{
+ "page": "p149",
+ "a": "transcription/reads/A/p149.json",
+ "b": "transcription/reads/B/p149.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-012",
+   "kind": "body",
+   "where_a": "blocks[2].lines[2]",
+   "where_b": "blocks[2].lines[2]",
+   "index": 12,
+   "index_b": 12,
+   "a": "eſtoit aidée de Necromantie, ou quelque autre art re-",
+   "b": "eſtoit aidée de Necromantie, ou quelque au[??] art re-",
+   "context_before": "deſſus monſtré {a}: que cette prodigieuſe impoſture",
+   "context_after": "prouué: d'autant qu'il eſtoit impoſſible par nature, di-",
+   "strip": "pages/strips/p149/body-4.jpg",
+   "crop": "crops/p149/b-012.jpg"
+  },
+  {
+   "id": "b-029",
+   "kind": "body",
+   "where_a": "blocks[2].lines[19]",
+   "where_b": "blocks[2].lines[19]",
+   "index": 29,
+   "index_b": 29,
+   "a": "milier, duquel il ſ'eſtoit aidé en ce fait. & où eſt-ce qu'il",
+   "b": "milier, duquel il ſ'eſtoit aidé en ce fait, & où eſt-ce qu'il",
+   "context_before": "demanda (cõme par aſſeurãce) d'où il auoit l'eſprit fa-",
+   "context_after": "auoit appriſes les inuocations diaboliques. Car alors",
+   "strip": "pages/strips/p149/body-6.jpg",
+   "crop": "crops/p149/b-029.jpg"
+  }
+ ]
+}

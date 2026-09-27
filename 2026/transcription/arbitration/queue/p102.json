@@ -1,0 +1,37 @@
+{
+ "page": "p102",
+ "a": "transcription/reads/A/p102.json",
+ "b": "transcription/reads/B/p102.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-026",
+   "kind": "body",
+   "where_a": "blocks[9].lines[0]",
+   "where_b": "blocks[9].lines[0]",
+   "index": 26,
+   "index_b": 26,
+   "a": "Illa malis requiem finemq́; laboribus affert.",
+   "b": "Illa malis requiem finemq; laboribus affert.",
+   "context_before": "ce monde.",
+   "context_after": "Et par ainſi ne doyue eſtre reformidee d'vn homme de",
+   "strip": "pages/strips/p102/body-6.jpg",
+   "crop": "crops/p102/b-026.jpg"
+  },
+  {
+   "id": "n-c-3",
+   "kind": "note",
+   "key": "c",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[3]",
+   "where_b": "margin_notes[2].lines[3]",
+   "a": "ſous la colla-",
+   "b": "ſous ta colla-",
+   "context_before": "aux nouuelles",
+   "context_after": "tion vij.",
+   "strip": "pages/strips/p102/margin-2.jpg",
+   "crop": "crops/p102/n-c-3.jpg"
+  }
+ ]
+}

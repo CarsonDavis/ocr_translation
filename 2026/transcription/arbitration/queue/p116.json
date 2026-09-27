@@ -1,0 +1,36 @@
+{
+ "page": "p116",
+ "a": "transcription/reads/A/p116.json",
+ "b": "transcription/reads/B/p116.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-012",
+   "kind": "body",
+   "where_a": "blocks[0].lines[12]",
+   "where_b": "blocks[0].lines[12]",
+   "index": 12,
+   "index_b": 12,
+   "a": "à toute eſpece de voluptez, & paillardiſe, que les ſuiets",
+   "b": "à toure eſpece de voluptez, & paillardiſe, que les ſuiets",
+   "context_before": "té non repriſe, le corrompirent, & captiuerent tellemẽt",
+   "context_after": "meſme d'Antioche, par leſques il auoit eſté fait roy, le",
+   "strip": "pages/strips/p116/body-3.jpg",
+   "crop": "crops/p116/b-012.jpg"
+  },
+  {
+   "id": "b-014",
+   "kind": "body",
+   "where_a": "blocks[0].lines[14]",
+   "where_b": "blocks[0].lines[14]",
+   "index": 14,
+   "index_b": 14,
+   "a": "voyans precipiré en ceſt abyſme, & confuz labyrinthe",
+   "b": "voyans precipité en ceſt abyſme, & confuz labyrinthe",
+   "context_before": "meſme d'Antioche, par leſques il auoit eſté fait roy, le",
+   "context_after": "de vices, ſe reuolterent, & ſe rendirẽt au fils de feu De-",
+   "strip": "pages/strips/p116/body-3.jpg",
+   "crop": "crops/p116/b-014.jpg"
+  }
+ ]
+}

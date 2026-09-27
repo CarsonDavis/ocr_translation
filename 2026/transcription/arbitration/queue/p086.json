@@ -1,0 +1,67 @@
+{
+ "page": "p086",
+ "a": "transcription/reads/A/p086.json",
+ "b": "transcription/reads/B/p086.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-000",
+   "kind": "body",
+   "where_a": "blocks[0].lines[0]",
+   "where_b": "blocks[0].lines[0]",
+   "index": 0,
+   "index_b": 0,
+   "a": "le contraire, qu'icceluy du Tilh eſtoit",
+   "b": "le contraire, qu'iceluy du Tilh eſtoit",
+   "context_before": null,
+   "context_after": "Martin Guerre ſon mari voire luy eſtant",
+   "strip": "pages/strips/p086/body-1.jpg",
+   "crop": "crops/p086/b-000.jpg"
+  },
+  {
+   "id": "n-c-0",
+   "kind": "note",
+   "key": "c",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[0]",
+   "where_b": "margin_notes[2].lines[0]",
+   "a": "l eum qui.",
+   "b": "l. eum qui.",
+   "context_before": null,
+   "context_after": "D. de probat.",
+   "strip": "pages/strips/p086/margin-2.jpg",
+   "crop": "crops/p086/n-c-0.jpg"
+  },
+  {
+   "id": "n-e-0",
+   "kind": "note",
+   "key": "e",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[4].lines[0]",
+   "where_b": "margin_notes[4].lines[0]",
+   "a": "c literis. de",
+   "b": "c. literis. de",
+   "context_before": null,
+   "context_after": "præſumpti. c.",
+   "strip": "pages/strips/p086/margin-3.jpg",
+   "crop": "crops/p086/n-e-0.jpg"
+  },
+  {
+   "id": "n-e-6",
+   "kind": "note",
+   "key": "e",
+   "line": 6,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[4].lines[6]",
+   "where_b": "margin_notes[4].lines[6]",
+   "a": "illec Balae C.",
+   "b": "illec Balde C.",
+   "context_before": "l. in ipſius &",
+   "context_after": "famil. erciſ c.",
+   "strip": "pages/strips/p086/margin-3.jpg",
+   "crop": "crops/p086/n-e-6.jpg"
+  }
+ ]
+}

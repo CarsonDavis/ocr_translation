@@ -1,0 +1,209 @@
+{
+ "id": "p081",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "81",
+ "signature": "F",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "d'vne cité, d'vn pays, ou d'vne prouince {l}, & toutesfois",
+    "pour en faire apparoir ne ſuffit pas que les teſmoins de-",
+    "poſent ſepareement de diuers actes, deſquels peut e-",
+    "ſtre introduite la couſtume, ſ'il n'en y a deux pour le",
+    "moins qui ayent enſemblément veu chacun deſdicts a-",
+    "ctes {m}. La contraire opinion donques eſt la plus ſaine,",
+    "& iuſtement receuë des cours ſouueraines, qui ne veu",
+    "lent temerairement iuger: mais compaſſer & meſurer",
+    "toutes choſes à droite aulné, & poiſer à iuſte balance:",
+    "meſmement és crimes, leſquels de tant ſont plus grans",
+    "& horribles, de tant fault il qu'ils ſoyent auec plus grã",
+    "de circonſpection, & prudence; traitez & diffiniz {n}. Et",
+    "partant fault conclure, qu'en quelconque crime, tant",
+    "ſoit-il enorme, les teſmoins ſinguliers ne preuuẽt point.",
+    "ains eſt neceſſaire, pour auoir certaine & concluante",
+    "preuue, que deux (pour le moins) depoſẽt en particulier",
+    "d'vn meſme acte {o}. voire par le droit, pluſieurs teſmo-",
+    "ins ſinguliers ne ſuffiroyent pas à condemner vn hõme",
+    "d'hereſie: bien qu'il en fut diffamé {p}. Et à la verité, de",
+    "tant que ce crime ici eſt le plus grief, & ſur tous execra",
+    "ble, regardant droitement la maieſté diuine, d'autant",
+    "fault il que les Iuges y auiſent de plus pres, à ce qu'il",
+    "ne ſoit point iugé par opinion & à la legere: mais droi-",
+    "tement & en verité {q}. pour obuier auſſi aux eſtranges",
+    "& prodigieuſes conſpirations, calomnies, & vengence,",
+    "que pluſieurs meſchans iournellement exercent contre",
+    "les gens de bien, ſous le manteau & pretexte de la reli-",
+    "giõ {r}: de laquelle ſe maſquẽt, pour couurir leurs diſſo-",
+    "lutions, paillardiſes, larrecins, concuſſions, & autres",
+    "mille eſpeces de mechancetez, & impietez mal heureu-",
+    "ſes. Reuenant doncques au propos duquel nous ſom-",
+    "mes iſſus, ne ſeroit raiſonnable, que les depoſitions",
+    "des teſmoins, leſquels n'ont peu eſtre enſemble au",
+    "faict duquel ils depoſent, ſoyent receuës, comme de",
+    "pluſieurs {ſ}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et quant aux autres marques, com-",
+    "me des ſoubre-dents, & ſemblables: co"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "l",
+   "beside_line": "d'vne cité, d'vn pays, ou d'vne prouince {l}, & toutesfois",
+   "lines": [
+    "l. de quibus.",
+    "D. de legibus."
+   ]
+  },
+  {
+   "key": "m",
+   "beside_line": "poſent ſepareement de diuers actes, deſquels peut e-",
+   "lines": [
+    "Pierre de",
+    "Bella per. &",
+    "Cyne en la l.",
+    "ij. C. quæ ſit",
+    "long. conſue."
+   ]
+  },
+  {
+   "key": "n",
+   "beside_line": "& horribles, de tant fault il qu'ils ſoyent auec plus grã",
+   "lines": [
+    "l. fameſi.",
+    "D. ad l. Iuli.",
+    "maieſta. e. vbi",
+    "periculum de",
+    "elec. au vj."
+   ]
+  },
+  {
+   "key": "o",
+   "beside_line": "ains eſt neceſſaire, pour auoir certaine & concluante",
+   "lines": [
+    "Panorme",
+    "au cõſeil pre-",
+    "allegue."
+   ]
+  },
+  {
+   "key": "p",
+   "beside_line": "d'hereſie: bien qu'il en fut diffamé {p}. Et à la verité, de",
+   "lines": [
+    "c. tam lite-",
+    "ris. c. veniens.",
+    "de teſ. Boyer",
+    "deciſion ccc-",
+    "xlij."
+   ]
+  },
+  {
+   "key": "q",
+   "beside_line": "tement & en verité {q}. pour obuier auſſi aux eſtranges",
+   "lines": [
+    "l. fameſi.",
+    "alleguee."
+   ]
+  },
+  {
+   "key": "r",
+   "beside_line": "les gens de bien, ſous le manteau & pretexte de la reli-",
+   "lines": [
+    "Clem. j ſur",
+    "le commencé",
+    "ment de haré."
+   ]
+  },
+  {
+   "key": "ſ",
+   "beside_line": "ſes. Reuenant doncques au propos duquel nous ſom-",
+   "lines": [
+    "c. nihilomi",
+    "nus. preallé-",
+    "gué."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "poſent ſepareement de diuers actes, deſquels peut e-",
+   "note": "line-end break sign printed like a low dot ('e.'); transcribed as hyphen per conventions (word e-/ſtre)"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "moins qui ayent enſemblément veu chacun deſdicts a-",
+   "note": "line-end break sign is a small raised dot; transcribed as hyphen"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "de circonſpection, & prudence; traitez & diffiniz {n}. Et",
+   "note": "'prudence;' looks like a semicolon (dot over tailed comma); could be a plain comma"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "partant fault conclure, qu'en quelconque crime, tant",
+   "note": "'quelconque': the u is broken/looks like 'n' or 'ıı'; possible wrong sort 'quelconqne'"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "ne ſoit point iugé par opinion & à la legere: mais droi-",
+   "note": "a stray dot before '&' after 'opinion' (possibly a period); omitted as likely ink speck; 'legere:mais' set tight"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "me des ſoubre-dents, & ſemblables: co",
+   "note": "line ends 'co' (word continues on next page); the in-line hyphen in 'ſoubre-dents' is faint/double-stroke; no separate catchword seen"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "D. de legibus.",
+   "note": "final punctuation could be a colon ('legibus:'); also first line may end in colon"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. fameſi.",
+   "note": "sic? expected 'famoſi'; print shows 'e' (same in note q)"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "maieſta. e. vbi",
+   "note": "the 'e.' could be 'c.' (capitulum); letter spacing tight ('maieſta.e.vbi')"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "ment de haré.",
+   "note": "'haré' reading doubtful (expected 'hære.'?); 'commencé' accent faint"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "nus. preallé-",
+   "note": "line-end sign after 'preallé' could be a colon or hyphen; accents over é faint; first line 'nihilomi' letters partly blotted"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTE.",
+   "note": "final E damaged/blotted in print"
+  }
+ ]
+}

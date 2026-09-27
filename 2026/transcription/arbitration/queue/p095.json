@@ -1,0 +1,50 @@
+{
+ "page": "p095",
+ "a": "transcription/reads/A/p095.json",
+ "b": "transcription/reads/B/p095.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-002",
+   "kind": "body",
+   "where_a": "blocks[0].lines[2]",
+   "where_b": "blocks[0].lines[2]",
+   "index": 2,
+   "index_b": 2,
+   "a": "gouſté du ſacrifice, que les Arcades faiſoyent à Lycee",
+   "b": "gouſté du ſacrifice, qae les Arcades faiſoyent à Lycee",
+   "context_before": "(ou ſi tu veux croire à Pauſanias {k}) Demarchus: ayant",
+   "context_after": "leur Dieu d'vn ieune enfant, fut conuerti en loup: & au",
+   "strip": "pages/strips/p095/body-1.jpg",
+   "crop": "crops/p095/b-002.jpg"
+  },
+  {
+   "id": "b-028",
+   "kind": "body",
+   "where_a": "blocks[2].lines[15]",
+   "where_b": "blocks[2].lines[15]",
+   "index": 28,
+   "index_b": 28,
+   "a": "non, que par quelque accident de maladie, ou autre-",
+   "b": "non, que par quelqne accident de maladie, ou autre-",
+   "context_before": "mes. Il ne faut donc pour faire ladite conuerſion, ſi-",
+   "context_after": "ment, le membre de l'homme ſe retire dedans le corps,",
+   "strip": "pages/strips/p095/body-5.jpg",
+   "crop": "crops/p095/b-028.jpg"
+  },
+  {
+   "id": "b-038",
+   "kind": "body",
+   "where_a": "blocks[2].lines[25]",
+   "where_b": "blocks[2].lines[25]",
+   "index": 38,
+   "index_b": 38,
+   "a": "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme.",
+   "b": "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme-",
+   "context_before": "mais touſiours en meilleur. Il y a pluſieurs autres eſ-",
+   "context_after": null,
+   "strip": "pages/strips/p095/body-7.jpg",
+   "crop": "crops/p095/b-038.jpg"
+  }
+ ]
+}

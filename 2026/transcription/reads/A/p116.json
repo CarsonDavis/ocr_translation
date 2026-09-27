@@ -1,0 +1,175 @@
+{
+ "id": "p116",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "116",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "rent tuer dans le palais royal {ſ}. Le pareil deſaſtre vint à",
+    "Prompalus, lequel eſtant ſuborné par Ptolemée Roy",
+    "d'Egypte, Artalus Roy d'Aſie, Ariarathes Roy de Cap-",
+    "padoce, & ceux d'Antioche, de ſoy nommer, & dire",
+    "Alexandre, fils du Roy Antiochus: & comme tel de",
+    "mander le royaume paternel la Demetrius, qui auoit",
+    "occupé la Syrie, il l'entreprit, & luy fut ſi fauorable la",
+    "fortune, qu'il la vainquit en fin, & tua Demetrius, &",
+    "poſſeda paiſiblement le royaume de Syrie. vray qu'a-",
+    "pres la douceur de ce ſceptre, l'affluence de tant de",
+    "biens & d'honneurs, accõpagnée d'vne licence & liber-",
+    "té non repriſe, le corrompirent, & captiuerent tellemẽt",
+    "à toute eſpece de voluptez, & paillardiſe, que les ſuiets",
+    "meſme d'Antioche, par leſques il auoit eſté fait roy, le",
+    "voyans precipiré en ceſt abyſme, & confuz labyrinthe",
+    "de vices, ſe reuolterent, & ſe rendirẽt au fils de feu De-",
+    "metrius, appelé Demetrius auſſi, & depuis Nicator:",
+    "partant il vainquit ce gentil Prompalus, roy baſtard",
+    "& le chaſſa en Arabie, où fut occis {t}. Archelaus de meſ-",
+    "mes, ſe feignit eſtre fils du roy Mithridates, ce qu'il per-",
+    "ſuada ſi bien à Ptolemee roy d'Egypte, qu'il luy donna",
+    "ſa fille, & ſi le fit apres ſon ſucceſſeur du royaume d'E-",
+    "gypte: mais en fin, Gabinius le vainquit en camp de ba-",
+    "taille, & le tua {u}. De ſemblable impoſture iadis au tẽps",
+    "d'Othõ l'Empereur, vſa vn harpeur, ſoy diſant eſtre Ne",
+    "ron, par ce qu'il le rapportoit des lineamens, & traicts",
+    "du viſage, lõgueur & groſſeur du corps: adiouſtant que",
+    "lors que le bruit fuſt eſpandu à Rome, que Neron ſ'e-",
+    "ſtoit luy meſme tué, vn autre auoit eſté occis en ſa pla-",
+    "ce: qui fut cauſe, que ſouz le nom de Neron, il aſſembla",
+    "pluſieurs ſeditieux, auec leſquels ſ'en alloit en Syrie, &",
+    "en Egypte: d'où, par la diſgrace des vents, fut apporté",
+    "en l'iſle de Cynthus, entre les Ciclades, là ou il vſoit",
+    "d'authorité ſur les ſoldats qui venoyent d'Orient, & les",
+    "contraignoit luy obeir: quoy entendu, toute l'Aſie preſ-",
+    "que branſloit, iuſqu'à tant qu'Othon enuoya deux gale",
+    "res: per leſquelles celle (ou ce faux Neron eſtoit) fut cõ",
+    "batue. & vaincue. & ce nouueau Neron tué, & ſon corps",
+    "enuoyé à Rome {x}. Aux annales de France, on lit qu'en",
+    "l'an mille 225, ayãt eſté Balduin, cõte de Flãdres, & pre-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "ſ",
+   "beside_line": "rent tuer dans le palais royal {ſ}. Le pareil deſaſtre vint à",
+   "lines": [
+    "Herodote au",
+    "iij. li. inſcript",
+    "Thalia. Iuſtin",
+    "au i. liure."
+   ]
+  },
+  {
+   "key": "t",
+   "beside_line": "& le chaſſa en Arabie, où fut occis {t}. Archelaus de meſ-",
+   "lines": [
+    "Appian Ale",
+    "xandrin in Sy",
+    "riacis."
+   ]
+  },
+  {
+   "key": "u",
+   "beside_line": "taille, & le tua {u}. De ſemblable impoſture iadis au tẽps",
+   "lines": [
+    "Baptiſte Ful",
+    "goſ. au liure",
+    "ix. des dicts et",
+    "faicts memora",
+    "bles c. xvi."
+   ]
+  },
+  {
+   "key": "x",
+   "beside_line": "res: per leſquelles celle (ou ce faux Neron eſtoit) fut cõ",
+   "lines": [
+    "Sueton. en",
+    "la vie de Ne-",
+    "ron, & Bapti-",
+    "ſte Fulgoſe au",
+    "lieu preallegué"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "vint",
+   "note": "the n of 'vint' is oddly formed (could read 'vimt'/'virnt'); read as 'vint'"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "Ptolemée",
+   "note": "second letter looks like r in the strip ('Prolemée'); read 't'. Check print"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "mander le royaume paternel la Demetrius",
+   "note": "'manderle' set tight, split per word-division rule; 'la' as printed (sense 'à')"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "corrompirent",
+   "note": "printed with a wide gap 'corrompiren t'; one word, closed up"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "leſques",
+   "note": "sic (for 'leſquels')"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "precipiré",
+   "note": "sic, wrong sort r for t ('precipité')"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "rendirẽt",
+   "note": "mark over e looks acute-like, read as tilde (rendirent); followed by a stray mark before 'au'"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "meſ-",
+   "note": "line-end break sign printed as a raised dot, transcribed as '-'"
+  },
+  {
+   "where": "blocks[0].lines[34]",
+   "text": "preſ-",
+   "note": "line-end break sign printed as a raised dot, transcribed as '-'"
+  },
+  {
+   "where": "blocks[0].lines[36]",
+   "text": "per leſquelles celle",
+   "note": "'per' and 'celle' as printed (sic, sense 'par', 'cela'?)"
+  },
+  {
+   "where": "blocks[0].lines[37]",
+   "text": "nouueau",
+   "note": "could be 'noueau' (letters crowded); read 'nouueau'"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "u",
+   "note": "body marker reads italic 'u'; the note's key letter looks like 'v' (italic form). Keyed 'u' following alphabet ſ, t, u, x"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "la vie de Ne-",
+   "note": "line-end break sign printed as a dot ('Ne.'), transcribed as '-'"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "Sueton. en",
+   "note": "period printed with space before ('Sueton . en'), normalized"
+  }
+ ]
+}

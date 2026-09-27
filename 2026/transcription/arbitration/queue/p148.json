@@ -1,0 +1,37 @@
+{
+ "page": "p148",
+ "a": "transcription/reads/A/p148.json",
+ "b": "transcription/reads/B/p148.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-005",
+   "kind": "body",
+   "where_a": "blocks[2].lines[3]",
+   "where_b": "blocks[2].lines[3]",
+   "index": 5,
+   "index_b": 5,
+   "a": "auſquelles ils appartiennent par droit de parenté, ami-",
+   "b": "auſquelbes ils appartiennent par droit de parenté, ami-",
+   "context_before": "munemẽt, ſçauent, & entendent les actes des perſonnes,",
+   "context_after": "tié, familiarité ou voiſinage. Les parens (diſent nos Iu-",
+   "strip": "pages/strips/p148/body-2.jpg",
+   "crop": "crops/p148/b-005.jpg"
+  },
+  {
+   "id": "n-g-0",
+   "kind": "note",
+   "key": "g",
+   "line": 0,
+   "note_kind": "foot_notes",
+   "where_a": "foot_notes[0].lines[0]",
+   "where_b": "foot_notes[0].lines[0]",
+   "a": "l. ſi vicinus C. de nup.",
+   "b": "l. ſi vicinu C. de nup.",
+   "context_before": null,
+   "context_after": null,
+   "strip": "pages/strips/p148/foot.jpg",
+   "crop": "crops/p148/n-g-0.jpg"
+  }
+ ]
+}

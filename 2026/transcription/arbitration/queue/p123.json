@@ -1,0 +1,149 @@
+{
+ "page": "p123",
+ "a": "transcription/reads/A/p123.json",
+ "b": "transcription/reads/B/p123.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-014",
+   "kind": "body",
+   "where_a": "blocks[0].lines[14]",
+   "where_b": "blocks[0].lines[14]",
+   "index": 14,
+   "index_b": 14,
+   "a": "l'adultere {r}, lequel il veut eſtre (comme nous auons ia",
+   "b": "l'adultere {r}. lequel il veut eſtre (comme nous auons ia",
+   "context_before": "deffend toute polution, & paillardiſe, ſingulierement",
+   "context_after": "ſouuentesfois dit) puni de mort {ſ}. ou fuſt, que les circõ-",
+   "strip": "pages/strips/p123/body-3.jpg",
+   "crop": "crops/p123/b-014.jpg"
+  },
+  {
+   "id": "b-035",
+   "kind": "body",
+   "where_a": "blocks[4].lines[10]",
+   "where_b": "blocks[4].lines[10]",
+   "index": 35,
+   "index_b": 35,
+   "a": "cu. iceluy Rapt, auoit eſté commis en vne fem-",
+   "b": "cu. iceluy Rapt, auoir eſté commis en vne fem-",
+   "context_before": "du Tilh demeure ſuffiſamment attaint & conuain",
+   "context_after": "me mariee, & par ainſi indubitablement digne de",
+   "strip": "pages/strips/p123/body-7.jpg",
+   "crop": "crops/p123/b-035.jpg"
+  },
+  {
+   "id": "n-t-1",
+   "kind": "note",
+   "key": "t",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[4].lines[1]",
+   "where_b": "margin_notes[4].lines[1]",
+   "a": "xix. c. i. P. ꝙ",
+   "b": "xix. c. i. P. ꝗ",
+   "context_before": "Geneſe c.",
+   "context_after": "autẽ xxix. q. i.",
+   "strip": "pages/strips/p123/margin-2.jpg",
+   "crop": "crops/p123/n-t-1.jpg"
+  },
+  {
+   "id": "n-t-4",
+   "kind": "note",
+   "key": "t",
+   "line": 4,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[4].lines[4]",
+   "where_b": "margin_notes[4].lines[4]",
+   "a": "virgo. xxxiij.",
+   "b": "virgo. xxxiiij.",
+   "context_before": "c. in lectũ. c. ſi",
+   "context_after": "q. i",
+   "strip": "pages/strips/p123/margin-2.jpg",
+   "crop": "crops/p123/n-t-4.jpg"
+  },
+  {
+   "id": "n-u-4",
+   "kind": "note",
+   "key": "u",
+   "line": 4,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[5].lines[4]",
+   "where_b": "margin_notes[5].lines[4]",
+   "a": "fœdiſſimam.",
+   "b": "fædiſſimam.",
+   "context_before": "D. de adult. l.",
+   "context_after": "C. au meſme",
+   "strip": "pages/strips/p123/margin-2.jpg",
+   "crop": "crops/p123/n-u-4.jpg"
+  },
+  {
+   "id": "n-a-1",
+   "kind": "note",
+   "key": "a",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[8].lines[1]",
+   "where_b": "margin_notes[8].lines[1]",
+   "a": "P. fi, D. de vi",
+   "b": "P. ſi, D. de vi",
+   "context_before": "l. qui cœtu",
+   "context_after": "pub. l. vn. C.",
+   "strip": "pages/strips/p123/margin-3.jpg",
+   "crop": "crops/p123/n-a-1.jpg"
+  },
+  {
+   "id": "s-blocks",
+   "kind": "structural",
+   "field": "blocks",
+   "where_a": "blocks",
+   "where_b": "blocks",
+   "a": null,
+   "b": null,
+   "text": "block types: A=['paragraph', 'heading', 'paragraph', 'heading', 'paragraph'] B=['paragraph', 'heading', 'heading', 'heading', 'paragraph']; headings: A=['TEXTE.', 'ANNOT. LXXXIII.'] B=['TEXTE.', 'Rapt.', 'ANNOT. LXXXIII.']",
+   "a_blocks": [
+    "paragraph (22 lines): goſt endurer, & patiemment ſouffrir toutes les calami-",
+    "heading: TEXTE.",
+    "paragraph (1 line): Rapt.",
+    "heading: ANNOT. LXXXIII.",
+    "paragraph (13 lines): Ceux qui ſe donnent en proye à l'impudique amour"
+   ],
+   "b_blocks": [
+    "paragraph (22 lines): goſt endurer, & patiemment ſouffrir toutes les calami-",
+    "heading: TEXTE.",
+    "heading: Rapt.",
+    "heading: ANNOT. LXXXIII.",
+    "paragraph (13 lines): Ceux qui ſe donnent en proye à l'impudique amour"
+   ],
+   "block_rows": [
+    {
+     "a": null,
+     "b": null,
+     "status": "gap"
+    },
+    {
+     "a": "heading: TEXTE.",
+     "b": "heading: TEXTE.",
+     "status": "same"
+    },
+    {
+     "a": "paragraph (1 line): Rapt.",
+     "b": "heading: Rapt.",
+     "status": "diff"
+    },
+    {
+     "a": "heading: ANNOT. LXXXIII.",
+     "b": "heading: ANNOT. LXXXIII.",
+     "status": "same"
+    },
+    {
+     "a": null,
+     "b": null,
+     "status": "gap"
+    }
+   ],
+   "crop": "crops/p123/page.jpg",
+   "strip": "pages/read/p123.jpg"
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "id": "p146",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "146",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "de Mane, le preuoyãt pour Martin Guer",
+    "re: duquel pourtant ils auoyent eſté fa-",
+    "miliers, & intimes amys."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Voici vn cas bien eſtrange, que les plus priuez & pe-",
+    "culiers amis qu'euſt eu Martin Guerre, en ſon ieune",
+    "aage, fuſſent conſtituez en tel erreur, qu'ils prinſſent le-",
+    "dit du Tilh, pour iceluy Guerre: vray que la meilleure",
+    "eſt encore plus admirable, d'entendre que les prochains",
+    "parẽs, meſmes les quatre ſœurs fuſſent en pareil erreur,",
+    "& encor plus prodigieuſe, & preſqu'incroyable, que la-",
+    "dite Bertrande de Rols, femme dudict Martin Guerre,",
+    "ayant veſcu & conuerſé dix ou douze ans auec iceluy",
+    "Martin Guerre ſon mary, euſt vn ſemblable bandeau",
+    "deuant ſes yeux."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Quoy voyant & conſiderant, que puis",
+    "que les plus priuez, & peculiers amis du-",
+    "dit Martin Guerre, eſtoyent deceuz en",
+    "luy, il en pourroit bien auec quelque ai-",
+    "de deceuoir, & circonuenir beaucoup",
+    "d'autres: ſ'aduiſa de iouër la tragedie que",
+    "auez ci deuant entendue."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. CIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "C'eſtoit veritablement tragedie, pour ce gentil ruſtre:",
+    "d'autant que l'iſſue en fut fort funeſte, & miſerable,",
+    "pour luy. Surquoy nul ne ſçait la differẽce entre trage-",
+    "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+    "ces de fable {a}: la comedie pourtant deſcrit & repreſen-",
+    "te en ſtile bas, & humble, la fortune priuée des hom-",
+    "mes, cõmme des amours, & rauiſſemens de pucelles, à",
+    "fin que par là on apprẽne ce qu'on doit imiter & ſuiure",
+    "en cette vie, & ce qu'on doit euiter auſſi: dõt Cicerõ en",
+    "quelque lieu appelle la comedie, imitatiõ de vie, miroir",
+    "de couſtume, & image de verité {b}, ainſi nõmee à KOMAI"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+   "lines": [
+    "Ciceron au",
+    "premier liure",
+    "des offices."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "en cette vie, & ce qu'on doit euiter auſſi: dõt Cicerõ en",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon pro",
+    "Sext. Roſcio."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "d'autant que l'iſſue en fut fort funeſte, & miſerable,",
+   "note": "line-final comma after 'miſerable' faint; may be a stray mark"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+   "note": "'eſpe-' — the long s looks like 'l' (no visible nub); could be misprint 'elpe-'"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "mes, cõmme des amours, & rauiſſemens de pucelles, à",
+   "note": "mark over o of 'cõmme' could be a circumflex rather than tilde"
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "de couſtume, & image de verité {b}, ainſi nõmee à KOMAI",
+   "note": "'ainſi' reads more like 'aiuſi' (possible wrong sort, sic); 'nõmee' without accent as seen; 'KOMAI' is set in small capitals, possibly Greek ΚΩΜΑΙ / κῶμαι type — letters transcribed as they appear; word continues on next page"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Quoy voyant & conſiderant, que puis",
+   "note": "opening Q is a large swash capital, not a woodcut initial"
+  }
+ ]
+}

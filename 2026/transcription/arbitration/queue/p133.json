@@ -1,0 +1,162 @@
+{
+ "page": "p133",
+ "a": "transcription/reads/A/p133.json",
+ "b": "transcription/reads/B/p133.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-016",
+   "kind": "body",
+   "where_a": "blocks[0].lines[16]",
+   "where_b": "blocks[0].lines[16]",
+   "index": 16,
+   "index_b": 16,
+   "a": "bien aucũ en proprieté, ſon corps doit eſtre d[?]terré du",
+   "b": "bien aucũ en proprieté, ſon corps doit eſtre deterré du",
+   "context_before": "de pauureté, eſt deſcouuert apres ſa mort auoir poſſedé",
+   "context_after": "ſepulchre, & ietté ſur vn fumier, ou biẽ dans vn priué {z}.",
+   "strip": "pages/strips/p133/body-3.jpg",
+   "crop": "crops/p133/b-016.jpg"
+  },
+  {
+   "id": "n-x17f-0",
+   "kind": "note",
+   "key": "ſ",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[0]",
+   "where_b": "margin_notes[0].lines[0]",
+   "a": "l. j. P. i. D. de",
+   "b": "l. j P. i. D. de",
+   "context_before": null,
+   "context_after": "effractor.",
+   "strip": "pages/strips/p133/margin-1.jpg",
+   "crop": "crops/p133/n-x17f-0.jpg"
+  },
+  {
+   "id": "n-t-1",
+   "kind": "note",
+   "key": "t",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[1]",
+   "where_b": "margin_notes[1].lines[1]",
+   "a": "& Dec. en la",
+   "b": "& Dec[?]. en la",
+   "context_before": "Balde Iaſon",
+   "context_after": "l. ij. C. qui teſt.",
+   "strip": "pages/strips/p133/margin-1.jpg",
+   "crop": "crops/p133/n-t-1.jpg"
+  },
+  {
+   "id": "n-t-2",
+   "kind": "note",
+   "key": "t",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[2]",
+   "where_b": "margin_notes[1].lines[2]",
+   "a": "l. ij. C. qui teſt.",
+   "b": "l. ij. C. qui teſt",
+   "context_before": "& Dec. en la",
+   "context_after": "fac. poſſ.",
+   "strip": "pages/strips/p133/margin-1.jpg",
+   "crop": "crops/p133/n-t-2.jpg"
+  },
+  {
+   "id": "n-x-0",
+   "kind": "note",
+   "key": "x",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[3].lines[0]",
+   "where_b": "margin_notes[3].lines[0]",
+   "a": "l. ij. D. de ca",
+   "b": "l. ij D. de ca",
+   "context_before": null,
+   "context_after": "dauer. punito.",
+   "strip": "pages/strips/p133/margin-1.jpg",
+   "crop": "crops/p133/n-x-0.jpg"
+  },
+  {
+   "id": "n-e-4",
+   "kind": "note",
+   "key": "e",
+   "line": 4,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[10].lines[4]",
+   "where_b": "margin_notes[10].lines[4]",
+   "a": "do. & agna.",
+   "b": "do. & agn.",
+   "context_before": "contro. inter",
+   "context_after": null,
+   "strip": "pages/strips/p133/margin-4.jpg",
+   "crop": "crops/p133/n-e-4.jpg"
+  },
+  {
+   "id": "s-blocks",
+   "kind": "structural",
+   "field": "blocks",
+   "where_a": "blocks",
+   "where_b": "blocks",
+   "a": null,
+   "b": null,
+   "text": "block count: A=7 B=5; headings: A=['TEXTE.', 'Adiuge les biens dudit du Tilh, a la fil-', 'le, procreée de ſes œuures, & de ladite', 'de Rols.', 'ANNOTAT. XCV.'] B=['TEXTE.', 'ANNOTAT. XCV.']",
+   "a_blocks": [
+    "paragraph (18 lines): ne diſcourir les crimes, qui pour leur enorminé, meri-",
+    "heading: TEXTE.",
+    "heading: Adiuge les biens dudit du Tilh, a la fil-",
+    "heading: le, procreée de ſes œuures, & de ladite",
+    "heading: de Rols.",
+    "heading: ANNOTAT. XCV.",
+    "paragraph (15 lines): Ci deſſus, nous auons ſuffiſamment, ce me ſemble"
+   ],
+   "b_blocks": [
+    "paragraph (18 lines): ne diſcourir les crimes, qui pour leur enorminé, meri-",
+    "heading: TEXTE.",
+    "paragraph (3 lines): Adiuge les biens dudit du Tilh, a la fil-",
+    "heading: ANNOTAT. XCV.",
+    "paragraph (15 lines): Ci deſſus, nous auons ſuffiſamment, ce me ſemble"
+   ],
+   "block_rows": [
+    {
+     "a": null,
+     "b": null,
+     "status": "gap"
+    },
+    {
+     "a": "heading: TEXTE.",
+     "b": "heading: TEXTE.",
+     "status": "same"
+    },
+    {
+     "a": "heading: Adiuge les biens dudit du Tilh, a la fil-",
+     "b": "paragraph (3 lines): Adiuge les biens dudit du Tilh, a la fil-",
+     "status": "diff"
+    },
+    {
+     "a": "heading: le, procreée de ſes œuures, & de ladite",
+     "b": null,
+     "status": "diff"
+    },
+    {
+     "a": "heading: de Rols.",
+     "b": null,
+     "status": "diff"
+    },
+    {
+     "a": "heading: ANNOTAT. XCV.",
+     "b": "heading: ANNOTAT. XCV.",
+     "status": "same"
+    },
+    {
+     "a": null,
+     "b": null,
+     "status": "gap"
+    }
+   ],
+   "crop": "crops/p133/page.jpg",
+   "strip": "pages/read/p133.jpg"
+  }
+ ]
+}

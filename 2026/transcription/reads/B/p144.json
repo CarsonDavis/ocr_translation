@@ -1,0 +1,177 @@
+{
+ "id": "p144",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "144",
+ "signature": null,
+ "catchword": "eſtoit",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "(choſe que les purs philoſophes ont eſtimee ſur toutes",
+    "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+    "chans {m}) infiniement trauaillé & affligé, le ſeroit enco-",
+    "re d'auantage, ſ'il ſe trouuoit preſſé, ſe ſouuenir de tant",
+    "& tant de choſes, deſquelles pourroit eſtre trop curieu-",
+    "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+    "(diſoit Ciceron) duquel la mort approchant, le ſang ne",
+    "ſe retire, & ne blanchiſſe de frayeur & crainte?"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Quis eſt, aut quotuſquiſque, cui mors cùm non",
+    "appropinquet,",
+    "Non refugiat timido ſanguis, atque exalbeſ-",
+    "cat metu {o}?"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et en quelque autre lieu, Qui eſt celuy (dit-il) lequel e-",
+    "ſtant ſur le poinct de mourir, a ſon Eſprit tranquille, &",
+    "en repos {p}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Deuant lequel, le xvj. Septembre audit",
+    "an 1560. confeſſa bien au long ſon im-",
+    "pudent, & temeraire forfaict. neant-",
+    "moins declara ce que luy auoit donné",
+    "la premiere occaſion, de proietter ſon ef",
+    "frontee & monſtrueuſe entreprinſe, a-",
+    "uoir eſté, que ſept ou huit ans au para-",
+    "uant, eſtant il de retour du camp de Pi-",
+    "cardie."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Picardie, eſt vne partie de la Gaule Belgique. Suquoy",
+    "faut entendre, que la Gaule fut iadis diuiſee principale-",
+    "ment en deux: à ſçauoir en la tranſalpine, & Ciſalpine.",
+    "La Ciſalpine, fut appelee des Romains celle qui prenoit",
+    "ſon commencement à la racine des Alpes, & ſ'eſtendoit",
+    "iuſqu'au fleuue de Rubicon, ancienne borne d'Italie,",
+    "& qui deſcend de l'Appẽnin, & paſſant à Riminy, & Ra",
+    "uenne, entre dans la mer Adriatique. La Tranſalpine"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "l",
+   "lines": [
+    "Ariſtote au",
+    "iij. liure des",
+    "Ethiques."
+   ],
+   "beside_line": "autrés horrible & eſpouuentable {l}: meſmes aux meſ-"
+  },
+  {
+   "key": "m",
+   "lines": [
+    "Cicerõ aux",
+    "Paradoxes."
+   ],
+   "beside_line": "re d'auantage, ſ'il ſe trouuoit preſſé, ſe ſouuenir de tant"
+  },
+  {
+   "key": "n",
+   "lines": [
+    "P. ad cũ hu",
+    "mana, deſſus",
+    "allegué."
+   ],
+   "beside_line": "ſement, & prolixement recherché {n}. Car qui eſt celuy,"
+  },
+  {
+   "key": "o",
+   "lines": [
+    "Ciceron au",
+    "v. de finib."
+   ],
+   "beside_line": "cat metu {o}?"
+  },
+  {
+   "key": "p",
+   "lines": [
+    "Ciceron de",
+    "Senectute."
+   ],
+   "beside_line": "en repos {p}."
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+   "note": "'autrés': a mark like an acute sits over the e; could be a stray/damaged sort ('autres'). Line-end hyphen is a dot-like mark after 'meſ'."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "& tant de choſes, deſquelles pourroit eſtre trop curieu-",
+   "note": "'eſtre': a faint accent-like mark over the final e ('eſtré'?); read as plain e."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+   "note": "line-end punctuation after 'celuy' blotted; comma or semicolon."
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Quis eſt, aut quotuſquiſque, cui mors cùm non",
+   "note": "grave over u of 'cùm' seen in one strip, not clearly in the overlap; may be plain 'cum'."
+  },
+  {
+   "where": "blocks[5].lines[0]",
+   "text": "Picardie, eſt vne partie de la Gaule Belgique. Suquoy",
+   "note": "sic: 'Suquoy' for 'Surquoy' as printed; also comma after 'Picardie' is blotted."
+  },
+  {
+   "where": "blocks[5].lines[6]",
+   "text": "& qui deſcend de l'Appẽnin, & paſſant à Riminy, & Ra",
+   "note": "tilde over e in 'Appẽnin' as printed (not an acute); no hyphen after 'Ra'."
+  },
+  {
+   "where": "catchword",
+   "text": "eſtoit",
+   "note": "the final word 'eſtoit' is set alone at the foot right below the last full line; treated as catchword, not a body line."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "P. ad cũ hu",
+   "note": "swash paragraph sign read as 'P' per house ruling."
+  }
+ ]
+}

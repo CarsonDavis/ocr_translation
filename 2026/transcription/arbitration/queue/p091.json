@@ -1,0 +1,65 @@
+{
+ "page": "p091",
+ "a": "transcription/reads/A/p091.json",
+ "b": "transcription/reads/B/p091.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-017",
+   "kind": "body",
+   "where_a": "blocks[0].lines[17]",
+   "where_b": "blocks[0].lines[17]",
+   "index": 17,
+   "index_b": 17,
+   "a": "ſapience, ſageſſe, & congnoiſſance des choſes vni-",
+   "b": "ſapience, ſageſſe, & cognoiſſance des choſes vni-",
+   "context_before": "Magie de ſoy ne ſignifie rien de mauuais, ains toute",
+   "context_after": "uerſellement, tant humaines que diuines. Mais on",
+   "strip": "pages/strips/p091/body-4.jpg",
+   "crop": "crops/p091/b-017.jpg"
+  },
+  {
+   "id": "b-021",
+   "kind": "body",
+   "where_a": "blocks[0].lines[21]",
+   "where_b": "blocks[0].lines[21]",
+   "index": 21,
+   "index_b": 21,
+   "a": "eſt vn excellent ſçauoir, & parfaicte congnoiſſance des",
+   "b": "eſt vn excellent ſçauoir, & parfaicte cognoiſſance des",
+   "context_before": "l'autre ceremoniale & reprouuee. Magie naturelle",
+   "context_after": "vertus ſecrettes de nature, ſoyent en influxions cele-",
+   "strip": "pages/strips/p091/body-4.jpg",
+   "crop": "crops/p091/b-021.jpg"
+  },
+  {
+   "id": "b-024",
+   "kind": "body",
+   "where_a": "blocks[0].lines[24]",
+   "where_b": "blocks[0].lines[24]",
+   "index": 24,
+   "index_b": 24,
+   "a": "thagore, Empedocle, & Democrite ſe bannirent vo-",
+   "b": "thagore, Fmpedocle, & Democrite ſe bannirent vo-",
+   "context_before": "ſtes, pierres, ou herbes: pour laquelle apprendre, Pi-",
+   "context_after": "lontairement de leur patrie, errerent vagabons par",
+   "strip": "pages/strips/p091/body-5.jpg",
+   "crop": "crops/p091/b-024.jpg"
+  },
+  {
+   "id": "n-f-0",
+   "kind": "note",
+   "key": "f",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[5].lines[0]",
+   "where_b": "margin_notes[5].lines[0]",
+   "a": "Caſiodore",
+   "b": "Caſſiodore",
+   "context_before": null,
+   "context_after": "aux liures va",
+   "strip": "pages/strips/p091/margin-3.jpg",
+   "crop": "crops/p091/n-f-0.jpg"
+  }
+ ]
+}

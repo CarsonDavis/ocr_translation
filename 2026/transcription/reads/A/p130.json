@@ -1,0 +1,188 @@
+{
+ "id": "p130",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "130",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "de luy, de ſa poſterité, & de tels tyrans, pendu les pieds",
+    "contremont, & la teſte pendente ſur le fleuue de Pacto",
+    "lus, duquel le ſablon eſt d'or. Ce qu'Ouide diſertemẽt",
+    "exprime, quand il dit {e}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Morte vel intereas, capti ſuſpenſus Achæi,",
+    "Qui miſer aurifera, reſte pependit aqua."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et aux liures des Pontifes Romains, entre autres cho-",
+    "ſes eſtoit ordonné, que les corps des penduz, comme a-",
+    "bominables, n'euſſent point de ſepulture: ains fuſſent",
+    "comme par deſdain iettez ſur la terre, pour eſtre man-",
+    "gez, & deuorez des oiſeaux, chiens, & autres beſtes affa",
+    "mées."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Et ſon corps apres bruſlé."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XCIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La rigueur euſt certainement commandé de le fai-",
+    "re bruſler vif {a}, mais pour obuier à quelque deſeſpoir",
+    "qui euſt peu ſurmonter la temerité de ceſt impo-",
+    "ſteur: forcené, & plein de rage, la cour ordonna qu'il",
+    "fuſt au parauant eſtranglé. En quoy tous iuges ſeront",
+    "admõneſtez, de n'exercer point, ſans quelque grande &",
+    "notable cauſe, ces cruelles & brutales feritez, de bruſler,",
+    "ou deſmembrer les malfaicteurs, tous vifs. auquel car-",
+    "nage toutesfois quelques vns ſanguinaires, & inhumai",
+    "nement deſnaturez, & nez comme il ſemble à toute ri",
+    "gueur, & ferité, ſe plaiſent tellement qu'on ne les ver-",
+    "roit iamais aiſes, ni contens, que quand ils ont ainſi",
+    "combatu nature, & cruellement eſpandu par nouueaux",
+    "& inouys ſupplices, le ſang de leur prochain: & ſi furieu",
+    "ſement quelquefois, que les plus barbares & cruels ty-",
+    "rans auroyent horreur d'exercer actes ſemblables. Ce",
+    "que procede le plus ſouuent d'vne nature brutale, mais",
+    "quelquesfois d'ignorance, ou de mauuaiſtié: car (outre",
+    "que"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "Homine imperito, nunquam quicquam iniu-",
+    "ſtius {b})."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "comme les imperites, ſous ce pretexte penſent couurir",
+    "leur imperfection & ignorance. Les meſchans auſſi ne"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "e",
+   "beside_line": "exprime, quand il dit {e}.",
+   "lines": [
+    "Onide in Ib."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "qui euſt peu ſurmonter la temerité de ceſt impo-",
+   "lines": [
+    "l. ſacrilegij.",
+    "D. ad l. Iul. pe",
+    "cul."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "Homine imperito, nunquam quicquam iniu-",
+   "lines": [
+    "Terẽce aux",
+    "Adelphes."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "exprime, quand il dit {e}.",
+   "note": "marker key: the small raised letter after 'dit' and the key letter before the margin note ('Onide in Ib.') are both a small round/3-shaped italic sort; read as 'e', but 'z' (italic z) or 'c' are possible. No preceding page available to check the running alphabet; the annotation below restarts at a.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "exprime, quand il dit {e}.",
+   "note": "'quand': an ink blot covers the 'ua' of the word; reading from the visible q and 'nd' and sense"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Onide in Ib.",
+   "note": "second letter printed as n (two minims joined at the top), not u; transcribed as printed for 'Ouide' (sic, or small italic u read as n at this size)"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Morte vel intereas, capti ſuſpenſus Achæi,",
+   "note": "'vel': the initial is a large swash italic V-shaped sort; read as the word-initial lowercase v of the italic, but it may be intended as capital 'Vel'"
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "admõneſtez, de n'exercer point, ſans quelque grande &",
+   "note": "the 'm' before õ is broken and prints like 'ın' ('adınõneſtez'); read as admõneſtez"
+  },
+  {
+   "where": "blocks[6].lines[8]",
+   "text": "nage toutesfois quelques vns ſanguinaires, & inhumai",
+   "note": "the h of 'inhumai' is broken (prints like 'ıl.'); read as h"
+  },
+  {
+   "where": "blocks[6].lines[10]",
+   "text": "gueur, & ferité, ſe plaiſent tellement qu'on ne les ver-",
+   "note": "the comma after 'ferité' is set with a wide space before it; spacing normalized"
+  },
+  {
+   "where": "blocks[8].lines[1]",
+   "text": "leur imperfection & ignorance. Les meſchans auſſi ne",
+   "note": "print sets the word space misplaced: 'meſchansa uſſi'; word division normalized to 'meſchans auſſi'; the ſſ ligature is partly worn"
+  },
+  {
+   "where": "blocks[7].lines[1]",
+   "text": "ſtius {b}).",
+   "note": "the closing parenthesis follows the raised roman 'b' marker; the matching open parenthesis is 'car (outre' in the preceding paragraph"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ſacrilegij.",
+   "note": "final 'ij' printed as a y-shaped sort with two dots (ÿ); read as ij"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "Adelphes.",
+   "note": "a blot or stray sort (like 'w') precedes the A; the ending prints like 'phei' with a worn s; read 'Adelphes.'"
+  }
+ ]
+}

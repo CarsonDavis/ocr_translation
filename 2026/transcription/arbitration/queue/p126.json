@@ -1,0 +1,81 @@
+{
+ "page": "p126",
+ "a": "transcription/reads/A/p126.json",
+ "b": "transcription/reads/B/p126.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-005",
+   "kind": "body",
+   "where_a": "blocks[0].lines[5]",
+   "where_b": "blocks[0].lines[5]",
+   "index": 5,
+   "index_b": 5,
+   "a": "gneur) aucun de ſes freres; & apres vendu, ou autremẽt",
+   "b": "gneur) aucun de ſes freres. & apres vendu, ou autremẽt",
+   "context_before": "par la loy de Dieu. QVI AVRA deſrobé (dit le Sei-",
+   "context_after": "en aura abuſé, il moura de mort {c} ce que ſingulieremẽt",
+   "strip": "pages/strips/p126/body-2.jpg",
+   "crop": "crops/p126/b-005.jpg"
+  },
+  {
+   "id": "b-008",
+   "kind": "body",
+   "where_a": "blocks[0].lines[8]",
+   "where_b": "blocks[0].lines[8]",
+   "index": 8,
+   "index_b": 8,
+   "a": "che, & fort coniointe à vne autre: par quelque grand",
+   "b": "che, & fort conioincte à vne autre: par quelque grand",
+   "context_before": "a lieu; quãd tel larrecin a eſté faict d'vne perſonne pro-",
+   "context_after": "lien de nature, comme de l'enfant ou de la femme {d}. Et",
+   "strip": "pages/strips/p126/body-2.jpg",
+   "crop": "crops/p126/b-008.jpg"
+  },
+  {
+   "id": "n-f-0",
+   "kind": "note",
+   "key": "f",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[5].lines[0]",
+   "where_b": "margin_notes[5].lines[0]",
+   "a": "l. iij. P. ſi ꝗs",
+   "b": "l. iij. P. ſiqs",
+   "context_before": null,
+   "context_after": "volentem. D.",
+   "strip": "pages/strips/p126/margin-2.jpg",
+   "crop": "crops/p126/n-f-0.jpg"
+  },
+  {
+   "id": "n-a2-3",
+   "kind": "note",
+   "key": "a2",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[6].lines[3]",
+   "where_b": "margin_notes[6].lines[3]",
+   "a": "liure iij. c. xiij.",
+   "b": "liure iij. c. xij.",
+   "context_before": "Pierre Crinit",
+   "context_after": null,
+   "strip": "pages/strips/p126/margin-2.jpg",
+   "crop": "crops/p126/n-a2-3.jpg"
+  },
+  {
+   "id": "n-b2-1",
+   "kind": "note",
+   "key": "b2",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[7].lines[1]",
+   "where_b": "margin_notes[7].lines[1]",
+   "a": "li iu. aux nou",
+   "b": "li ius. aux nou",
+   "context_before": "P fi. vt nul",
+   "context_after": "uelles coll. ix.",
+   "strip": "pages/strips/p126/margin-2.jpg",
+   "crop": "crops/p126/n-b2-1.jpg"
+  }
+ ]
+}

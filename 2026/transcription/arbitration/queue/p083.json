@@ -1,0 +1,38 @@
+{
+ "page": "p083",
+ "a": "transcription/reads/A/p083.json",
+ "b": "transcription/reads/B/p083.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-g-4",
+   "kind": "note",
+   "key": "g",
+   "line": 4,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[6].lines[4]",
+   "where_b": "margin_notes[6].lines[4]",
+   "a": "l. ea quidẽ. P.",
+   "b": "l. ea quidé. P.",
+   "context_before": "Salicet en la",
+   "context_after": "fin ſur la fin.",
+   "strip": "pages/strips/p083/margin-2.jpg",
+   "crop": "crops/p083/n-g-4.jpg"
+  },
+  {
+   "id": "n-i-2",
+   "kind": "note",
+   "key": "i",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[8].lines[2]",
+   "where_b": "margin_notes[8].lines[2]",
+   "a": "Felin. aud. c;",
+   "b": "Felin. aud. c.",
+   "context_before": "ris. alleguee;",
+   "context_after": "veniens.",
+   "strip": "pages/strips/p083/margin-3.jpg",
+   "crop": "crops/p083/n-i-2.jpg"
+  }
+ ]
+}

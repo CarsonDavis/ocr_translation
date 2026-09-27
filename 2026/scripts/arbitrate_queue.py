@@ -22,7 +22,7 @@ Item kinds
     note-structure  the same note text keyed or split differently (A: one 7-line note; B:
                 a 3-line note + a 4-line unkeyed note): one decision for the whole region,
                 instead of one unmatched item per line
-    flagged     (on by default; --no-flagged turns it off) a line both reads agree on that either reader's
+    flagged     (off by default; --include-flagged turns it on) a line both reads agree on that either reader's
                 uncertain[] flags as sic / wrong sort / could be / may be
 
 Crop geometry (no line segmentation; proportional placement):
@@ -245,12 +245,17 @@ def build_items(a, b, include_flagged=False):
                           "text": f"{field}: A={a.get(field)!r} B={b.get(field)!r}"})
     block_diffs = [s for s in diff_reads.structural_diffs(a, b)
                    if not s.split(":")[0] in FURNITURE]
+    if pagelib.block_types(a) == pagelib.block_types(b):
+        # same blocks, only a heading's text differs: the heading is a column line, so its
+        # body item already decides it; a structural item would ask the same thing twice
+        block_diffs = [s for s in block_diffs if not s.startswith("headings:")]
     if block_diffs:
         # block count / types / headings are one decision: whose block structure is the base
+        sa, sb = _block_summary(a), _block_summary(b)
         items.append({"id": "s-blocks", "kind": "structural", "field": "blocks",
                       "where_a": "blocks", "where_b": "blocks", "a": None, "b": None,
                       "text": "; ".join(block_diffs),
-                      "a_blocks": _block_summary(a), "b_blocks": _block_summary(b)})
+                      "a_blocks": sa, "b_blocks": sb, "block_rows": block_rows(sa, sb)})
 
     if include_flagged:
         items.extend(_flagged(a, b, ca, pa, pairs, na, nb))
@@ -400,11 +405,39 @@ def note_structure_item(group, na, nb, aligned):
                     "note layout (line differences inside are decided by their own items)"}
 
 
+def block_rows(sa, sb, context=1):
+    """The two block lists aligned, reduced to the blocks that differ plus `context`
+    unchanged blocks above and below each difference; the rest collapses to gap rows.
+    [{"a": text or None, "b": text or None, "status": "same" | "diff" | "gap"}]."""
+    import difflib
+    rows = []
+    for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, sa, sb, autojunk=False).get_opcodes():
+        if tag == "equal":
+            rows += [{"a": sa[i], "b": sb[j1 + k], "status": "same"} for k, i in enumerate(range(i1, i2))]
+        else:
+            n = max(i2 - i1, j2 - j1)
+            for k in range(n):
+                rows.append({"a": sa[i1 + k] if i1 + k < i2 else None,
+                             "b": sb[j1 + k] if j1 + k < j2 else None, "status": "diff"})
+    diff_at = [n for n, r in enumerate(rows) if r["status"] == "diff"]
+    keep = {m for n in diff_at for m in range(n - context, n + context + 1) if 0 <= m < len(rows)}
+    out = []
+    for n, r in enumerate(rows):
+        if n in keep:
+            out.append(r)
+        elif not out or out[-1]["status"] != "gap":
+            out.append({"a": None, "b": None, "status": "gap"})
+    return out
+
+
 def _block_summary(page):
     out = []
     for blk in pagelib.blocks(page):
         if blk.get("type") == "paragraph":
-            out.append(f"paragraph ({len(blk.get('lines') or [])} lines)")
+            lines = blk.get("lines") or []
+            n = len(lines)
+            first = lines[0] if lines and isinstance(lines[0], str) else ""
+            out.append(f"paragraph ({n} line{'s' if n != 1 else ''}): {first}")
         else:
             out.append(f"{blk.get('type')}: {blk.get('text', '')}")
     return out
@@ -748,7 +781,7 @@ def add_crops(items, a, b, page_id, out_dir, manifest_path, pages_dir):
 # driver
 # =========================================================================
 
-def build_queue(page_id, a_path, b_path, include_flagged=True):
+def build_queue(page_id, a_path, b_path, include_flagged=False):
     a, b = load_pair(a_path, b_path)
     items = build_items(a, b, include_flagged)
     return {"page": page_id, "a": str(a_path), "b": str(b_path),
@@ -762,10 +795,10 @@ def main(argv=None):
     ap.add_argument("--b")
     ap.add_argument("--out-dir", default="transcription/arbitration")
     ap.add_argument("--no-flagged", dest="include_flagged", action="store_false",
-                    help="leave out lines both reads agree on but a reader flagged")
+                    help="(the default) leave out flagged-but-agreed lines")
     ap.add_argument("--include-flagged", dest="include_flagged", action="store_true",
-                    help="(the default) add flagged lines")
-    ap.set_defaults(include_flagged=True)
+                    help="add lines both reads agree on but a reader flagged (off by default)")
+    ap.set_defaults(include_flagged=False)
     ap.add_argument("--no-crops", action="store_true")
     ap.add_argument("--manifest", default=str(ROOT / "manifest.json"))
     ap.add_argument("--pages", default=str(ROOT / "pages"))

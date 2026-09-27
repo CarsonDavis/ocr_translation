@@ -1,0 +1,67 @@
+{
+ "page": "p139",
+ "a": "transcription/reads/A/p139.json",
+ "b": "transcription/reads/B/p139.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-027",
+   "kind": "body",
+   "where_a": "blocks[0].lines[27]",
+   "where_b": "blocks[0].lines[27]",
+   "index": 27,
+   "index_b": 27,
+   "a": "nombrables enſeignes, qu'iceluy du Tilh luy auoit dõ-",
+   "b": "nombrables enſeignes, qu'iceluy du Tilh lüy auoit dõ-",
+   "context_before": "leſdits du Tilh, & Martin Guerre, accompagnee d'in",
+   "context_after": "nees, des plꝰ priuees, enſemble aux ſeurs & oncle dudit",
+   "strip": "pages/strips/p139/body-5.jpg",
+   "crop": "crops/p139/b-027.jpg"
+  },
+  {
+   "id": "n-l-2",
+   "kind": "note",
+   "key": "l",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[5].lines[2]",
+   "where_b": "margin_notes[5].lines[2]",
+   "a": "xxxiiij. diſt.",
+   "b": "xxxiij. diſt.",
+   "context_before": "ſi quis viduã",
+   "context_after": null,
+   "strip": "pages/strips/p139/margin-1.jpg",
+   "crop": "crops/p139/n-l-2.jpg"
+  },
+  {
+   "id": "n-m-5",
+   "kind": "note",
+   "key": "m",
+   "line": 5,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[6].lines[5]",
+   "where_b": "margin_notes[6].lines[5]",
+   "a": "nouuelles col-",
+   "b": "nouuelles col",
+   "context_before": "lita. dot. Aux",
+   "context_after": "lation vij.",
+   "strip": "pages/strips/p139/margin-1.jpg",
+   "crop": "crops/p139/n-m-5.jpg"
+  },
+  {
+   "id": "n-p-0",
+   "kind": "note",
+   "key": "p",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[9].lines[0]",
+   "where_b": "margin_notes[9].lines[0]",
+   "a": "Gene. c. xx.",
+   "b": "Gene. c xx.",
+   "context_before": null,
+   "context_after": "c. nemo. xxxij.",
+   "strip": "pages/strips/p139/margin-1.jpg",
+   "crop": "crops/p139/n-p-0.jpg"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "page": "p104",
+ "a": "transcription/reads/A/p104.json",
+ "b": "transcription/reads/B/p104.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-g-4",
+   "kind": "note",
+   "key": "g",
+   "line": 4,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[4]",
+   "where_b": "margin_notes[0].lines[4]",
+   "a": "de falſæ ſa.",
+   "b": "de falſæ ſa-",
+   "context_before": "ctance au iij.",
+   "context_after": "pientia.",
+   "strip": "pages/strips/p104/margin-2.jpg",
+   "crop": "crops/p104/n-g-4.jpg"
+  },
+  {
+   "id": "n-i-2",
+   "kind": "note",
+   "key": "i",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[2]",
+   "where_b": "margin_notes[2].lines[2]",
+   "a": "pieria. c. xviij.",
+   "b": "pietia. c. xviij.",
+   "context_before": "iij. de falſa ſa-",
+   "context_after": null,
+   "strip": "pages/strips/p104/margin-3.jpg",
+   "crop": "crops/p104/n-i-2.jpg"
+  }
+ ]
+}

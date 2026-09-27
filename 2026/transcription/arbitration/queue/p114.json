@@ -1,0 +1,22 @@
+{
+ "page": "p114",
+ "a": "transcription/reads/A/p114.json",
+ "b": "transcription/reads/B/p114.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-002",
+   "kind": "body",
+   "where_a": "blocks[0].lines[2]",
+   "where_b": "blocks[0].lines[2]",
+   "index": 2,
+   "index_b": 2,
+   "a": "& promit mariage à Laodice, vefue dudit Ariarathes.",
+   "b": "& promit mariage à Laodice, veſue dudit Ariarathes.",
+   "context_before": "d'Ariarathes Roy de Cappadoce, inuada ſon royaume,",
+   "context_after": "de quoy irrité Mithridates, frere de Laodice, chaſſa",
+   "strip": "pages/strips/p114/body-1.jpg",
+   "crop": "crops/p114/b-002.jpg"
+  }
+ ]
+}

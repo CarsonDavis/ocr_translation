@@ -1,0 +1,66 @@
+{
+ "page": "p107",
+ "a": "transcription/reads/A/p107.json",
+ "b": "transcription/reads/B/p107.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-011",
+   "kind": "body",
+   "where_a": "blocks[3].lines[4]",
+   "where_b": "blocks[3].lines[4]",
+   "index": 11,
+   "index_b": 11,
+   "a": "uert de fiel, arrouſé de vinaigre, plein de toute amer-",
+   "b": "uet de fiel, arrouſé de vinaigre, plein de toute amer-",
+   "context_before": "te) en leurs langues miel: mais leur cœur eſt tout cou",
+   "context_after": "tume {d}.",
+   "strip": "pages/strips/p107/body-3.jpg",
+   "crop": "crops/p107/b-011.jpg"
+  },
+  {
+   "id": "b-015",
+   "kind": "body",
+   "where_a": "blocks[5].lines[1]",
+   "where_b": "blocks[5].lines[1]",
+   "index": 15,
+   "index_b": 15,
+   "a": "mõ Oncle: car il n'y a pere, mere, Oncle,",
+   "b": "mõ Oncle: car il n'y a pere, mere, Vncle,",
+   "context_before": "Et ne vous excuſez en mes ſeurs, ni en",
+   "context_after": "ſeurs ni freres, qui doyuent mieux co-",
+   "strip": "pages/strips/p107/body-4.jpg",
+   "crop": "crops/p107/b-015.jpg"
+  },
+  {
+   "id": "n-c-0",
+   "kind": "note",
+   "key": "c",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[0]",
+   "where_b": "margin_notes[1].lines[0]",
+   "a": "Ouid. au iij",
+   "b": "Ouid. au iiij",
+   "context_before": null,
+   "context_after": "de arte amãd.",
+   "strip": "pages/strips/p107/margin-1.jpg",
+   "crop": "crops/p107/n-c-0.jpg"
+  },
+  {
+   "id": "n-d-0",
+   "kind": "note",
+   "key": "d",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[0]",
+   "where_b": "margin_notes[2].lines[0]",
+   "a": "Plaute en",
+   "b": "Plaure en",
+   "context_before": null,
+   "context_after": "ſon Tuſcul.",
+   "strip": "pages/strips/p107/margin-2.jpg",
+   "crop": "crops/p107/n-d-0.jpg"
+  }
+ ]
+}

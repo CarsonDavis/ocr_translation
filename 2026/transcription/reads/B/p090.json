@@ -1,0 +1,117 @@
+{
+ "id": "p090",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV.",
+ "folio": "90",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "nouueau venu, quelqes choſes des plus",
+    "cachees, & deſquelles ny l'vn ny l'autre",
+    "n'euſt eſté encor interrogué, ni de choſe",
+    "qui en approchaſt. ce que fut fait, & par",
+    "luy veritablement (comme depuis fut ve-",
+    "rifié) reſpondu. Apres l'ayant fait tirer,",
+    "font venir le priſonnier, auquel font les",
+    "meſmes, & iuſqu'au nombre de dix ou",
+    "douze interrogatoires, qui reſpond en",
+    "tout comme l'autre. Ce que fit esbahir",
+    "la compagnie, & tomber en opinion, que",
+    "le priſonnier euſt quelque choſe de la",
+    "magie: comme auſſi il en eſtoit diffamé",
+    "eſdits lieux d'Artigat, du Pin, de Sagias,",
+    "& autres circonuoiſins."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Il y auoit certes grande raiſon, de penſer que ce pre-",
+    "uenu euſt quelque eſprit familier, veu qu'il ſçauoit ſi",
+    "bien & veritablement reſpondre de toutes choſes, meſ-",
+    "mement des plus ſecrettes, & priuees, ſans iamais fail-",
+    "lir d'vn trauers d'ongle. Et (qui eſt bien plus à admi-",
+    "rer) cognoiſſoit tous ceux qui ſe preſenterent à luy",
+    "du commencement, & apres ſans les auoir veuz onc-",
+    "ques. Ce que ne pouuoit tomber en inſtructiõs, ni me-",
+    "moires qui luy euſſent eſté baillées par autre: & ſingu-",
+    "lierement qu'il n'auoit iamais eſté au lieu d'Artigat",
+    "(qu'on ſceut) ni conuerſé auec les habitans de ce lieu.",
+    "Et ne faut douter qu'entre les prodigieuſes & abomi-",
+    "nables tyrannies, que Satan depuis la creation du mon",
+    "de a cruellement exercees contre les hommes, pour les",
+    "enlacer & attirer à ſon regne, il n'ayt tenu vn grãd ma-",
+    "gazin de magie, ouuert la boutique de telle marchan-",
+    "diſe, & departi à infinis hommes ſi largement qu'il ſ'eſt"
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "running head letterspaced; D of DV is a damaged/odd sort"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "nouueau venu, quelqes choſes des plus",
+   "note": "sic: 'quelqes' (no u) as printed"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "qui en approchaſt. ce que fut fait, & par",
+   "note": "period after approchaſt set tight, lowercase 'ce' follows; stray mark above 'par'"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "font venir le priſonnier, auquel font les",
+   "note": "both 'font' read as f with crossbar; ſont not excluded but sense favours font"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "tout comme l'autre. Ce que fit esbahir",
+   "note": "'esbahir' printed with round s as far as visible"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "uenu euſt quelque eſprit familier, veu qu'il ſçauoit ſi",
+   "note": "first letter looks like 'n' (nenu); read as u continuing pre-uenu"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "bien & veritablement reſpondre de toutes choſes, meſ-",
+   "note": "line-end break sign printed as a small dot-like mark, not a clear hyphen"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "ques. Ce que ne pouuoit tomber en inſtructiõs, ni me-",
+   "note": "line-end break sign dot-like"
+  },
+  {
+   "where": "blocks[2].lines[8]",
+   "text": "moires qui luy euſſent eſté baillées par autre: & ſingu-",
+   "note": "line-end break sign dot-like; colon after autre could be a comma-colon, read as colon"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "diſe, & departi à infinis hommes ſi largement qu'il ſ'eſt",
+   "note": "'infinis' and 'hommes' damaged sorts (look like 'iafinis', 'homnies'); possible wrong sort in hommes; 'ſ'eſt' with long s + apostrophe"
+  }
+ ]
+}

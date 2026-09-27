@@ -1,0 +1,134 @@
+{
+ "id": "p077",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "78",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ay eſté des ſa ieuneſſe diſſolu, de mauuai-",
+    "ſe vie, & adonné à toute eſpece de meſ-",
+    "chancetez: car il n'appert point que le",
+    "priſonnier ſoit celuy la, ains plus toſt",
+    "Martin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Es matieres criminelles auant que le iuge puiſſe ve-",
+    "nir à condemnation, faut qu'il luy apparoiſſe de deux",
+    "choſes principalement. La premiere, que le crime du",
+    "quel ſ'agiſt, ayt eſté veritablement commis & perpetré",
+    "{a}. La ſeconde, que la perſonne qui veut punir, ſoit celle",
+    "qui a commis le delict, ou eſt autrement coulpable du",
+    "faict"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Vray auſsi, que d'ailleurs ne ſemble",
+    "pas fort malaiſé reſpondre aux raiſons",
+    "deduites par le preuenu. car de dire pre-",
+    "mierement qu'il faut donner plus de foy",
+    "aux teſmoins qui depoſent pour le pri-",
+    "ſonnier, par ce qu'ils afferment: cette rai-",
+    "ſon ne peut eſtre accommodée à ce faict,",
+    "car auſsi les autres teſmoins, ou la pluſ-",
+    "part aſſeurent, à ſçauoir que le preue-",
+    "nu eſt Arnauld du Tilh. ioint que la",
+    "negation qu'ils font, que le priſonnier",
+    "n'eſt point Martin Guerre, vient",
+    "aiſéement en preuue. d'autant qu'ils",
+    "ſe reſtraignent ſi bien aux lieux, temps,",
+    "& perſonnes, que nous ſommes",
+    "hors des termes de ceſte vulgaire rei-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "choſes principalement. La premiere, que le crime du",
+   "lines": [
+    "l. j. P. item",
+    "illud. D. ad",
+    "Silania l. j. C.",
+    "vbi cauſ. fiſcæ."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "faict",
+   "lines": [
+    "l. ſancimus.",
+    "C. de pœn."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "faict",
+   "note": "no marker b visible after 'faict' (paragraph ends without a period); margin note b has no body marker on this page. Marker b expected here."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "nir à condemnation, faut qu'il luy apparoiſſe de deux",
+   "note": "ink blot between 'il' and 'luy'; 'appar oiſſe' set with a gap, closed up as one word"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "car auſsi les autres teſmoins, ou la pluſ-",
+   "note": "a hyphen-like mark between 'auſsi' and 'les' ('auſsi-les'); read as spacing/ink artifact"
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "aiſéement en preuue. d'autant qu'ils",
+   "note": "'t' of 'd'autant' damaged, appears as a raised dash ('d'au-ant')"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "ſonnier, par ce qu'ils afferment: cette rai-",
+   "note": "colon after 'afferment' set tight; colon vs period faint"
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "hors des termes de ceſte vulgaire rei-",
+   "note": "line-end break sign printed as a small raised dot/short stroke; transcribed as hyphen"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "vbi cauſ. fiſcæ.",
+   "note": "'fiſcæ' ligature and final punctuation (period vs colon) uncertain"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ſancimus.",
+   "note": "'l.' blotted"
+  }
+ ]
+}

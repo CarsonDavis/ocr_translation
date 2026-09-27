@@ -1,0 +1,51 @@
+{
+ "page": "p092",
+ "a": "transcription/reads/A/p092.json",
+ "b": "transcription/reads/B/p092.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-011",
+   "kind": "body",
+   "where_a": "blocks[2].lines[6]",
+   "where_b": "blocks[2].lines[6]",
+   "index": 11,
+   "index_b": 11,
+   "a": "ſprits des treſpaſſez: appellee Necromance, à νεκρος, qui",
+   "b": "ſprits des treſpaſſez: appellee Necromance, à νικρος, qui",
+   "context_before": "tout vn, ſignifiant l'art de deuiner par inuocation d'e-",
+   "context_after": "veut dire mort: & μαντεία, diuination {l}: & Goetie, à plan-",
+   "strip": "pages/strips/p092/body-3.jpg",
+   "crop": "crops/p092/b-011.jpg"
+  },
+  {
+   "id": "b-029",
+   "kind": "body",
+   "where_a": "blocks[2].lines[24]",
+   "where_b": "blocks[2].lines[24]",
+   "index": 29,
+   "index_b": 29,
+   "a": "uines: ce qù on attribue à Appolonius Thianeus, du-",
+   "b": "uines: ce qu'on attribue à Appolonius Thianeus, du-",
+   "context_before": "ſé pouuoir attraire les puiſſances celeſtes, & vertus di-",
+   "context_after": "quel on recite choſes merueilleuſes: meſmement qu'il",
+   "strip": "pages/strips/p092/body-6.jpg",
+   "crop": "crops/p092/b-029.jpg"
+  },
+  {
+   "id": "n-o-1",
+   "kind": "note",
+   "key": "o",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[6].lines[1]",
+   "where_b": "margin_notes[6].lines[1]",
+   "a": "des Rou c.",
+   "b": "des Rois c.",
+   "context_before": "Au premier",
+   "context_after": "xxviij.",
+   "strip": "pages/strips/p092/margin-2.jpg",
+   "crop": "crops/p092/n-o-1.jpg"
+  }
+ ]
+}

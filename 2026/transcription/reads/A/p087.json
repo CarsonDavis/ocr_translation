@@ -1,0 +1,153 @@
+{
+ "id": "p087",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "87",
+ "signature": "F iiij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "raſt caché & impuni: ſur le poinct qu'on",
+    "vouloit iuger le proces fait comme par",
+    "vn miracle apparoiſtre le vray Martin",
+    "Guerre,"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Grande certes eſt, & eſmerueillable la bonté, grace,",
+    "& miſericorde de noſtre Dieu: laquelle quand il luy",
+    "plaiſt reſpandre ſur nous, il n'y a ruſe, aſtuce, ni maligni",
+    "té des hommes, inuentions, cautelle, ou malice de Satã,",
+    "qui la puiſſe empeſcher, ou luy faire aucune reſiſtance:",
+    "cõme ce faict ici. Apres infinis autres met en euidence",
+    "deux pauures innocẽs, tels qu'eſtoiẽt Bertrande de Rols,",
+    "& Pierre Guerre, leſquelz par la main forte du tout puiſ",
+    "ſant furent deliurez de l'eminẽt peril de la mort, ou ils",
+    "(cõme calomniateurs) eſtoient poſez, & l'impudẽment",
+    "deſmeſurée impoſture de ce mal-heureux affrõteur du",
+    "Tilh, comme, par vn miracle manifeſtée & deſcouuer-",
+    "te. & à la verité ce fut bien vn miracle, de faire apparoir",
+    "Martin Guerre: aux deſpẽs duquel tous ces piteux ieux",
+    "auoiẽt eſté iouëz, ſur le poinct qu'on vouloit iuger ce",
+    "procez, auquel les iuges ſe trouuent en incroyable per-",
+    "plexiré, & peut eſtre en danger de faire vn iugemẽt qui",
+    "n'euſt pas du tout reſpõdu à la iuſtice de la cauſe, par ce",
+    "que les affaires (ſelon l'auis de pluſieurs) eſtoient plus",
+    "diſpoſez à l'auantage du priſonnier, & contre leſd. Pier",
+    "re Guerre, & de Rols: mais le tout bon & puiſſant Dieu",
+    "qui de ſon œil aigu & perſpicace voit toutes choſes."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "(Oculus Dei acutus eſt, videt omnia)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Et eſtant ſeul ſcrutateur des hõmes, ſonde leurs faicts,",
+    "contemple & balance leurs œuures, {a}. & qui a laiſſé eſ-",
+    "crit par la docte plume de ſes Prophetes & Euangeli-",
+    "ſtes, qu'il n'y a rien ſi couuert, ſi ſecret, ne ſi caché, qu'en",
+    "fin il ne reuele, & ne mette en euidence {b}. ne voulut per",
+    "mettre qu'vne ſi eſtrange & impudemment effrontée",
+    "piperie, vn ſi ſcandaleux affrontemẽt, vne ſi horrible &",
+    "monſtrueuſe impoſture demeuraſt celée & incogneuë."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "(Oculus Dei acutus eſt, videt omnia)",
+   "lines": [
+    "Actes c. xv",
+    "la j des Ther",
+    "ſaloniſsiens. c.",
+    "ij."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "crit par la docte plume de ſes Prophetes & Euangeli-",
+   "lines": [
+    "Ieremie c.",
+    "xxiij. Eccleſia-",
+    "ſtique xvj. &",
+    "xxiij. S. Mat",
+    "thieu v. S.",
+    "Marc iij. S.",
+    "Luc ij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Guerre,",
+   "note": "final stop has a short tail, read as a comma; a period would be expected at the end of the TEXTE passage"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "plexiré, & peut eſtre en danger de faire vn iugemẽt qui",
+   "note": "sic? the letter after 'plexi' looks like r rather than t (no crossbar visible); 'plexité' meant. Could be under-inked t"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "deſmeſurée impoſture de ce mal-heureux affrõteur du",
+   "note": "the hyphen in 'mal-heureux' is printed as a raised dot-like stroke"
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "contemple & balance leurs œuures, {a}. & qui a laiſſé eſ-",
+   "note": "the stop after 'œuures' is faint and could be a semicolon or comma; marker a is italic and sits on the baseline, followed by a period"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Actes c. xv",
+   "note": "'Actes' printed with the italic ct ligature; the last numeral after 'xv' is blotted and a further letter may be lost at the line end"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "la j des Ther",
+   "note": "sic? 'Ther' + 'ſaloniſsiens' for Theſſaloniciens; the fourth letter of 'Ther' looks like r (possibly a ſ damaged); 'la j' unclear, perhaps the end of a chapter numeral from the previous line"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "ſaloniſsiens. c.",
+   "note": "sic: 'ſaloniſsiens' (ſs) where 'ſalonicieus/-ciens' expected; stop after 'ſiens' could be a colon"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "Marc iij. S.",
+   "note": "numeral could be 'iiij' (three or four minims before the final j); the final 'S.' is heavily blotted"
+  },
+  {
+   "where": "margin_notes[1].lines[6]",
+   "text": "Luc ij.",
+   "note": "numeral is a single ij-ligature-like glyph, read 'ij'"
+  }
+ ]
+}

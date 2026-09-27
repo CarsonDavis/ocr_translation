@@ -1,0 +1,88 @@
+{
+ "id": "p108",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "108",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [
+  "decorated initial V, 3 lines"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "pour eſtre iugé diffinitiuement, & ice-",
+    "luy veu, La cour à grande, & meure deli-",
+    "beration prononça l'arreſt qui ſ'enſuit."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ARREST.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "VEV le procés fait par le Iuge de Rieux",
+    "à Arnauld du Tilh, dit Panſette, ſoy di",
+    "ſant Martin Guerre, priſonnier à la",
+    "conciergerie, appelant dudit Iuge, & c. Dit a eſté",
+    "que la cour a mis, & met l'appellation dudit du",
+    "Tilh, & ce dont a eſté appelé, au neant. Et pour",
+    "punitiõ & reparatiõ de l'impoſture, fauſſeté, ſup",
+    "poſition de nom, & perſonne, adultere, rapt, ſa-",
+    "crilege, plage, larrecin, & autres cas par ledit du",
+    "Tilh priſonnier commis, reſultans dudit procez.",
+    "La cour l'a condemné, & condemne à faire a-",
+    "mende honnorable au deuant de l'Egliſe du lieu",
+    "d'Artigat, & illec à genoux, en chemiſe, teſte,",
+    "& pieds nuds, ayant la hart au col, & tenant",
+    "en ſes mains vne torche de cire ardente, deman-",
+    "der pardon à Dieu, au Roy, à Iuſtice, auſdits",
+    "Martin Guerre, & de Rols mariez: & ce fait,",
+    "ſera ledit du Tilh deliuré és mains de l'execu-",
+    "teur de la haute Iuſtice, qui luy fera faire les",
+    "tours par les rues, & carrefours accouſtumez",
+    "dudit lieu d'Artigat: & la hart au col, l'amene-",
+    "ra au deuant la maiſon dudit Martin Guerre,"
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "VEV le procés fait par le Iuge de Rieux",
+   "note": "decorated initial V (3 lines) followed by spaced small capitals E V; transcribed closed up as VEV"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "Tilh, & ce dont a eſté appelé, au neant. Et pour",
+   "note": "accent on final e of 'appelé' looks circumflex-like (appelê?); read as acute. Stop after 'neant' sits slightly high but read as period"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "Martin Guerre, & de Rols mariez: & ce fait,",
+   "note": "the 'a' of 'mariez' is a malformed/odd sort (possibly a wrong or damaged sort); read as a"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "ſera ledit du Tilh deliuré és mains de l'execu-",
+   "note": "an apostrophe-like mark between n and s of 'mains' (main's); taken as damage/stray mark, not transcribed"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "pour eſtre iugé diffinitiuement, & ice-",
+   "note": "'diffinitiuement' as printed (ffi ligature); sic spelling"
+  }
+ ]
+}

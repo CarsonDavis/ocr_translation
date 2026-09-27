@@ -1,0 +1,50 @@
+{
+ "page": "p105",
+ "a": "transcription/reads/A/p105.json",
+ "b": "transcription/reads/B/p105.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-000",
+   "kind": "body",
+   "where_a": "blocks[0].lines[0]",
+   "where_b": "blocks[0].lines[0]",
+   "index": 0,
+   "index_b": 0,
+   "a": "Dicam, Sicculíque pœtæ",
+   "b": "Dicam, Sicculique pœtæ",
+   "context_before": null,
+   "context_after": "Narrabo interitum: Deus immortalus haberi",
+   "strip": "pages/strips/p105/body-1.jpg",
+   "crop": "crops/p105/b-000.jpg"
+  },
+  {
+   "id": "b-013",
+   "kind": "body",
+   "where_a": "blocks[1].lines[8]",
+   "where_b": "blocks[1].lines[8]",
+   "index": 13,
+   "index_b": 13,
+   "a": "gaide l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+   "b": "garde l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+   "context_before": "que le Seigneur nous appelle: duquel nous auons en",
+   "context_after": "der de l'argent, ou des bagues, ou autres choſes de ton",
+   "strip": "pages/strips/p105/body-3.jpg",
+   "crop": "crops/p105/b-013.jpg"
+  },
+  {
+   "id": "b-019",
+   "kind": "body",
+   "where_a": "blocks[1].lines[14]",
+   "where_b": "blocks[1].lines[14]",
+   "index": 19,
+   "index_b": 19,
+   "a": "& balliee en garde.",
+   "b": "& ballice en garde.",
+   "context_before": "ſe ſi precieuſe, qu'eſt l'ame, laquelle Dieu t'a commiſe,",
+   "context_after": "TEXTE.",
+   "strip": "pages/strips/p105/body-4.jpg",
+   "crop": "crops/p105/b-019.jpg"
+  }
+ ]
+}

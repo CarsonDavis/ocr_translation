@@ -1,0 +1,22 @@
+{
+ "page": "p146",
+ "a": "transcription/reads/A/p146.json",
+ "b": "transcription/reads/B/p146.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-034",
+   "kind": "body",
+   "where_a": "blocks[6].lines[10]",
+   "where_b": "blocks[6].lines[10]",
+   "index": 34,
+   "index_b": 34,
+   "a": "de couſtume, & image de verité {b}, ainſi nõmee à κομαι",
+   "b": "de couſtume, & image de verité {b}, ainſi nõmee à KOMAI",
+   "context_before": "quelque lieu appelle la comedie, imitatiõ de vie, miroir",
+   "context_after": null,
+   "strip": "pages/strips/p146/body-7.jpg",
+   "crop": "crops/p146/b-034.jpg"
+  }
+ ]
+}

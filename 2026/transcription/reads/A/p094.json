@@ -1,0 +1,167 @@
+{
+ "id": "p094",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "94",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "vn baſſin plein d'eau: & là où auec certains charmes on",
+    "fait venir vn eſprit, qui du commencement treſſaillit,",
+    "& ſautelle dedans l'eau. & apres en ſifflant, iette vne pe-",
+    "tite voix, par laquelle reſpõd à ce qu'on luy demãde {d}.",
+    "Geomance, eſt vne diuination, qui ſe faiſoit iadis deuãt",
+    "qu'on euſt trouué l'vſage du papier & de l'encre, par",
+    "poincts iettez en terre: dont a prins, & encores en re-",
+    "tient le nom: mais ores ne ſ'exerce plus en terre, ains en",
+    "papier blanc, ou ſur autre choſe apte à receuoir les",
+    "poincts, & lignes: deſquelles ſe fait apres le iugement.",
+    "Chiromance, eſt diuination qui ſe fait par inſpection",
+    "des lineatures de la main. Outre les ſuſdites eſpeces de",
+    "Magie, quelques vns en mettent vn autre, qui ſ'appelle",
+    "Pharmacie {e}, mal toutesfois à mon aduis, attendu qu'el",
+    "le ne conſiſte point ſeulement en drogues, bruuages, &",
+    "empoiſonnemens, pour faire mourir, ou aimer, ou biẽ",
+    "hayr: comme quand à Fauſtine fille d'Antonin, & fem-",
+    "me de M. Antonin Philoſophe, & Empereur, pour luy",
+    "faire perdre la deſmeſuree amour qu'elle portoit à ie",
+    "ne ſçay quel gladiateur, pour l'amour duquel elle mou",
+    "roit, & incontinent apres coucher auec ſon mary: ce",
+    "qu'elle fit, & perdit ainſi l'amour de ce gentil eſpada-",
+    "çin: vray eſt qu'elle engroſſiſt ſur l'heure d'Antonius",
+    "Commodus, prince qui fut apres ſi cruel & ſanguinai-",
+    "re, qu'il meritoit mieux le nom & le titre de gladia-",
+    "teur, que d'Empereur, ou de prince {f}. Et bien que tels",
+    "bruuages ſe donnent pour l'amour, ſi eſt-ce qu'ils ſont",
+    "fort dangereux, & deſquels ſ'en enſuit ſouuent, ou la",
+    "mort, ou vne extreme rage {g}: comme en Lucrece (ce",
+    "grand & excellent Poëte) lequel apres auoir mangé ce",
+    "que Lucile ſa femme trop ialouſe luy auoit preparé,",
+    "pour l'attraire à ſon amour, deuint tellement enragé,",
+    "qu'il ſe tua ſoy-meſmes {h}. Voila pourquoy Ouide diſ-",
+    "ſuade fort l'vſage de tels amatoires, diſant {i}:"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Nec data profuerint, pallentia phyltra puellis.",
+    "Phyltra nocent animis, vimque furoris habẽt."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ie ne veux pourtant nier, que lors que par morceaux",
+    "ou bruuages ſ'en enſuyuroit quelque fait prodigieux,",
+    "que Pharmacie ne peuſt eſtre colloquee parmy les eſ-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "d",
+   "beside_line": "tite voix, par laquelle reſpõd à ce qu'on luy demãde {d}.",
+   "lines": [
+    "Pierre Cri-",
+    "nit au vj. liu.",
+    "de honeſta di",
+    "ſcipli. c. xj."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "Magie, quelques vns en mettent vn autre, qui ſ'appelle",
+   "lines": [
+    "Cœle Rho-",
+    "digin au liure",
+    "ix. c. xxiij."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "teur, que d'Empereur, ou de prince {f}. Et bien que tels",
+   "lines": [
+    "Iule Capito-",
+    "lin en la vie",
+    "de M. Anto-",
+    "nin philoſop."
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "mort, ou vne extreme rage {g}: comme en Lucrece (ce",
+   "lines": [
+    "l. ſi quis ali",
+    "quid P. qui",
+    "abortionis. D.",
+    "de pœn."
+   ]
+  },
+  {
+   "key": "h",
+   "beside_line": "pour l'attraire à ſon amour, deuint tellement enragé,",
+   "lines": [
+    "Euſeb. Ce-",
+    "ſarien. liure",
+    "vj. de l'hiſto.",
+    "eccleſi. Hiero.",
+    "in diſſuaſorio",
+    "contra Ruf-",
+    "finum."
+   ]
+  },
+  {
+   "key": "i",
+   "beside_line": "Ie ne veux pourtant nier, que lors que par morceaux",
+   "lines": [
+    "Ouid liu. ij.",
+    "de Ponto."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "tite voix, par laquelle reſpõd à ce qu'on luy demãde {d}.",
+   "note": "marker d not visible: blank gap before the final period where the marker should sit (not inked or lost); placed from the gap and margin note d"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "& ſautelle dedans l'eau. & apres en ſifflant, iette vne pe-",
+   "note": "'ſifflant': the ff/fl ligature is cramped; could be read 'ſiſflant'"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "fait venir vn eſprit, qui du commencement treſſaillit,",
+   "note": "'fait' t looks like c ('faic'), taken as the print's worn t; 'commencement' second m slightly malformed"
+  },
+  {
+   "where": "blocks[1].lines[1]",
+   "text": "Phyltra nocent animis, vimque furoris habẽt.",
+   "note": "'animis' could be 'animus' (italic minims unclear); tilde/macron over e in 'habẽt'"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "de pœn.",
+   "note": "final period faint, may be absent"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "abortionis. D.",
+   "note": "'abortionis' o after t looks like e ('abortienis'); best reading"
+  }
+ ]
+}

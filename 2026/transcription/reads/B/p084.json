@@ -1,0 +1,204 @@
+{
+ "id": "p084",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARRSET DV",
+ "folio": "84",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſe pourroyent citer pluſieurs exemples."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Au commencement de ce diſcours ont eſté recitez",
+    "pluſieurs exẽples des ſimilitudes {a}. outre leſquels, puis",
+    "que le propos ſe preſente, Cn. Pompee, depuis appelé",
+    "Strabo, pere du grand Pompee, auoit vn cuyſinier, nõ-",
+    "mé Menogenes, lequel par ce qu'il eſtoit louſche, on",
+    "l'appeloit de ſurnom Strabo, ſi viuement reſſemblant",
+    "ſõ maiſtre, qu'en fin le maiſtre, par la voix du peuple, ap-",
+    "porta le ſurnom de ſon cuiſinier, & fut appelé Cn. Pom-",
+    "pee Strabõ. c'eſt à dire le Bigle {b}. De meſmes nous liſons",
+    "auſſi, Publius Cornelius Lentulus, & Quintus Metel-",
+    "lus Nepos, eſtans Conſuls de Rome, en l'annee 697.",
+    "de Rome baſtie: furent ſi ſemblables à deux iouëurs",
+    "de comedie, deſquels l'vn ſe nommoit Spynther, ſem-",
+    "blable à Lentule: & l'autre Pamphyle, ſemblable à Me-",
+    "telle: qu'en fin Lentule fut ſurnõmé Spynther: & Metel-",
+    "le pareillement euſt prins le ſurnom de Pamphyle, ſi",
+    "au parauant ne luy euſt eſté donné le ſurnom de Pie {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il eſt aiſé auſsi de reſpondre, à ce que",
+    "ladite de Rols confrontee au preuenu,",
+    "refuſa iurer',. car cela ne peut changer rien",
+    "de la verité."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La ſentence du Philoſophe, refriquee en nos loix",
+    "eſt, que pour noſtre affermer, ou nier, la verité ne ſe",
+    "change point {a2}. laquelle comme dit en quelque lieu",
+    "Ciceron, a eu touſiours tant de puiſſance, que par art,",
+    "engin, ou machine quelconques d'homme, elle n'ha peu",
+    "eſtre rẽuerſee, & bien qu'elle n'aye aucun protecteur,",
+    "qui prenne ſa defenſe, elle ſe defend aſſez de ſoy-meſme",
+    "{b2}. Et en autre lieu, O que la force de la verité dit il, eſt",
+    "grande, laquelle contre l'eſperit, ruſes, & cauteles",
+    "de l'homme ſe defend aiſeement, ſans aide ni ſecours",
+    "d'autruy {c2}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "pluſieurs exẽples des ſimilitudes {a}. outre leſquels, puis",
+   "lines": [
+    "En l'anno",
+    "tation v."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "porta le ſurnom de ſon cuiſinier, & fut appelé Cn. Pom-",
+   "lines": [
+    "Pline au",
+    "liu. vij. c. xij."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "le pareillement euſt prins le ſurnom de Pamphyle, ſi",
+   "lines": [
+    "Pline aud.",
+    "lib. vij. c. xij."
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "change point {a2}. laquelle comme dit en quelque lieu",
+   "lines": [
+    "l. aſſum-",
+    "ptio. D. ad",
+    "municipa."
+   ]
+  },
+  {
+   "key": "b2",
+   "beside_line": "eſtre rẽuerſee, & bien qu'elle n'aye aucun protecteur,",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon con",
+    "tre vatin."
+   ]
+  },
+  {
+   "key": "c2",
+   "beside_line": "{b2}. Et en autre lieu, O que la force de la verité dit il, eſt",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon pro",
+    "M. Cœlio."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARRSET DV",
+   "note": "sic: letters printed A R R S E T (transposed S and E), not ARREST"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ſe pourroyent citer pluſieurs exemples.",
+   "note": "final punctuation unclear: a colon-like pair of dots with a further dot on the baseline; read as period, could be ':' or ':.'"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "auſſi, Publius Cornelius Lentulus, & Quintus Metel-",
+   "note": "line-end break sign printed as a heavy dot rather than a hyphen; transcribed '-'"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "lus Nepos, eſtans Conſuls de Rome, en l'annee 697.",
+   "note": "digits printed spaced '6 9 7.' and closed up"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "refuſa iurer',. car cela ne peut changer rien",
+   "note": "after 'iurer' the print shows a raised apostrophe-like mark, a comma below the baseline and a period; transcribed as seen; possibly a displaced/doubled punctuation sort or a stray marker"
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "La ſentence du Philoſophe, refriquee en nos loix",
+   "note": "sic? 'refriquee' as printed (expected sense unclear, perhaps 'rubriquee'); f vs ſ checked by crossbar, reads f"
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "eſtre rẽuerſee, & bien qu'elle n'aye aucun protecteur,",
+   "note": "'rẽuerſee': a tilde/macron is printed over the e; sic"
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "qui prenne ſa defenſe, elle ſe defend aſſez de ſoy-meſme",
+   "note": "hyphen in 'ſoy-meſme' printed as a raised dot"
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "change point {a2}. laquelle comme dit en quelque lieu",
+   "note": "marker alphabet restarts at a in ANNOTAT. LXIIII.: keys a2, b2, c2"
+  },
+  {
+   "where": "margin_notes[5]",
+   "text": "Ciceron en",
+   "note": "note key printed as roman 'c.' with a period at the start of the line; key c2"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "ptio. D. ad",
+   "note": "'D' is a swash italic capital (Digest sign), printed tight 'D.ad'"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "liu. vij. c. xij.",
+   "note": "printed 'vÿ' and 'xÿ' (ij with dots), set tight 'c.xÿ.'"
+  }
+ ]
+}

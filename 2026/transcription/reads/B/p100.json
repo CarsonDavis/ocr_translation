@@ -1,0 +1,259 @@
+{
+ "id": "p100",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "100",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "qu'és matieres criminelles, où le peril eſt plus grand",
+    "(car ſ'agiſt de l'honneur, & de la vie de l'homme) les",
+    "teſmoings doyuẽt eſtre repreſentez, & offerts perſon-",
+    "nellement au iuge {d}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "On fait apres venir ladite de Rols, la-",
+    "quelle ſoudain apres auoir ietté les yeux",
+    "ſur ledit nouueau venu, toute eſploree,",
+    "& tremblante comme la fueille agitee",
+    "des vents, ayant ſa face toute baignee de",
+    "larmes, accourut l'embraſſer, luy deman-",
+    "dant pardon de la faute, que par impru-",
+    "dence, & ſurmontee des ſeductions, im-",
+    "poſtures, & cautelles dudit du Tilh, elle",
+    "auoit commiſe."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Pour entendre ſi cette faute eſtoit excuſable à l'en-",
+    "droit de ladite de Rols, faut preſuppoſer que comme",
+    "toutes autres actions humaines, ſont ou volontaires ou",
+    "inuolontaires {a}, auſſi les crimes ſe commettent ou vo-",
+    "lontoiremeut, ou non volontairement {b}. Les crimes",
+    "volontairemẽt faits, ſont ceux qui ſont executez à pro-",
+    "pos deliberé de les commettre {c}, comme de tuer vn hõ",
+    "me de guet à pens {d2}, violer vne femme, deſrober, porter",
+    "faux teſmoignage, & choſes ſemblables, leſquelles ne",
+    "ſe commeſtẽt ſans dol, & mauuaiſe intention {e}: & apres",
+    "l'execution ſont imperdonnables, & irremiſſibles quãt",
+    "aux hommes {f}, bien que celuy qui a commis l'acte, a-",
+    "pres ſ'en repente {g}. Autrement, nul ne ſeroit iamais pu-",
+    "ni. Car qui eſt celuy qui pour euiter la mort, peine cor",
+    "porelle, ou ignominie, ne diroit, Ie me repens? Vo-",
+    "lontairement auſſi peuuent eſtre dits commis les cri-",
+    "mes, qui par quelque colere, & ſoudaine paſſion, ſont",
+    "executez, cõme ſi ie tuois celuy que ie trouue abuſant",
+    "de ma femme {h}: ou qui ſe met au deuoir de me tuer {i}."
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "d",
+   "beside_line": "qu'és matieres criminelles, où le peril eſt plus grand",
+   "lines": [
+    "P. hæc om-",
+    "nia. aux nou",
+    "uelles de Inſt.",
+    "Sous la vij.",
+    "collatiõ, aut.",
+    "apud eloquen",
+    "tiſſimum. C.",
+    "de fid. inſtr."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "Pour entendre ſi cette faute eſtoit excuſable à l'en-",
+   "lines": [
+    "Ariſtote au",
+    "j. des Ethiq."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "Pour entendre ſi cette faute eſtoit excuſable à l'en-",
+   "lines": [
+    "l j & ij. D.",
+    "de legib."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "toutes autres actions humaines, ſont ou volontaires ou",
+   "lines": [
+    "l. reſpicien-",
+    "dum. P. final.",
+    "D. de pœn."
+   ]
+  },
+  {
+   "key": "d2",
+   "beside_line": "lontoiremeut, ou non volontairement {b}. Les crimes",
+   "lines": [
+    "l. j. C. de ho-",
+    "micid. au vj."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "pos deliberé de les commettre {c}, comme de tuer vn hõ",
+   "lines": [
+    "l. penultieme",
+    "D. de adul."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "faux teſmoignage, & choſes ſemblables, leſquelles ne",
+   "lines": [
+    "l iij. c. de e-",
+    "piſ. au c. i. c. de",
+    "homicid. aux",
+    "Decretales."
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "aux hommes {f}, bien que celuy qui a commis l'acte, a-",
+   "lines": [
+    "l. qui ea mẽ-",
+    "te. D. de fur.",
+    "c cum non ab",
+    "hom. de Iud."
+   ]
+  },
+  {
+   "key": "h",
+   "beside_line": "porelle, ou ignominie, ne diroit, Ie me repens? Vo-",
+   "lines": [
+    "l. Gracchus.",
+    "C de adult."
+   ]
+  },
+  {
+   "key": "i",
+   "beside_line": "mes, qui par quelque colere, & ſoudaine paſſion, ſont",
+   "lines": [
+    "l. vt vim. D.",
+    "de iuſt. & in",
+    "c. final. xxxv.",
+    "diſt."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "lontoiremeut, ou non volontairement {b}. Les crimes",
+   "note": "sic: 'lontoiremeut' as printed (o for a in 'lontaire', and u for n in the ending); wrong sorts, transcribed as printed"
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "ſe commeſtẽt ſans dol, & mauuaiſe intention {e}: & apres",
+   "note": "sic?: the sort after 'comme' is taller than t and looks like an ſt ligature, read 'commeſtẽt' (misprint for 'commettẽt'); could be 'commettẽt'. The mark over the second e may be a tilde or an acute"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "toutes autres actions humaines, ſont ou volontaires ou",
+   "note": "print sets 'volontairesou' with no visible space; separated per word-division rule"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "volontairemẽt faits, ſont ceux qui ſont executez à pro-",
+   "note": "punctuation after 'faits' is small and low; read as comma, could be a period"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "aux hommes {f}, bien que celuy qui a commis l'acte, a-",
+   "note": "'hommes': the second m is damaged and looks like 'rr' ('homrres'); read as hommes"
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "pres ſ'en repente {g}. Autrement, nul ne ſeroit iamais pu-",
+   "note": "'nul': last letter short and broken, could be read 'nui'"
+  },
+  {
+   "where": "blocks[4]",
+   "text": "de ma femme {h}: ou qui ſe met au deuoir de me tuer {i}.",
+   "note": "continues_next set false because the page ends with a full stop; the annotation may well continue on p101"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "nia. aux nou",
+   "note": "print shows a gap 'n ou' inside 'nouuelles' (broken over the line); closed up as one word"
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "text": "collatiõ, aut.",
+   "note": "the 'll' is damaged (looks like 'coxatiõ'); tilde over o"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l j & ij. D.",
+   "note": "no stop visible between 'l' and 'j'; could be 'l. j'"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "l iij. c. de e-",
+   "note": "no stop visible between 'l' and 'iij'; could be 'l. iij.'"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "Decretales.",
+   "note": "letters blurred (looks like 'Decrcalcs'); read as Decretales"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "c cum non ab",
+   "note": "no stop visible after 'c'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "C de adult.",
+   "note": "no stop visible after 'C'"
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "text": "c. final. xxxv.",
+   "note": "the first sort is set out into the left margin and is small; read 'c' (capitulum), could be 'e'; stop between it and 'final' is set before 'final'"
+  },
+  {
+   "where": "margin_notes[4]",
+   "text": "d2",
+   "note": "alphabet restarts at a with ANNOTAT. LXXV.; the second d on the page is keyed d2 (first series has only d on this page)"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "micid. au vj.",
+   "note": "'au vj.' — italic v, possibly 'au vi.'"
+  }
+ ]
+}

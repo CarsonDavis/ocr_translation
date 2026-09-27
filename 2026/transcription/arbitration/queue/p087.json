@@ -1,0 +1,37 @@
+{
+ "page": "p087",
+ "a": "transcription/reads/A/p087.json",
+ "b": "transcription/reads/B/p087.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-029",
+   "kind": "body",
+   "where_a": "blocks[4].lines[1]",
+   "where_b": "blocks[4].lines[1]",
+   "index": 29,
+   "index_b": 29,
+   "a": "contemple & balance leurs œuures, {a}. & qui a laiſſé eſ-",
+   "b": "contemple & balance leurs œuures {a}. & qui a laiſſé eſ-",
+   "context_before": "Et eſtant ſeul ſcrutateur des hõmes, ſonde leurs faicts,",
+   "context_after": "crit par la docte plume de ſes Prophetes & Euangeli-",
+   "strip": "pages/strips/p087/body-8.jpg",
+   "crop": "crops/p087/b-029.jpg"
+  },
+  {
+   "id": "n-a-1",
+   "kind": "note",
+   "key": "a",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[1]",
+   "where_b": "margin_notes[0].lines[1]",
+   "a": "la j des Ther",
+   "b": "la j des Theſ",
+   "context_before": "Actes c. xv",
+   "context_after": "ſaloniſsiens. c.",
+   "strip": "pages/strips/p087/margin-1.jpg",
+   "crop": "crops/p087/n-a-1.jpg"
+  }
+ ]
+}

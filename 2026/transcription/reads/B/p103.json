@@ -1,0 +1,178 @@
+{
+ "id": "p103",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "103",
+ "signature": "G iiij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "doiue fuir {b}. Et que ſainct Paul, bruſlant d'vn deſir cõ-",
+    "tinuel, ardent zele de paruenir au celeſte heritage, &",
+    "d'eſtre ſeparé du corps, pour habiter auec Ieſus Chriſt {c}:",
+    "toutesfois ſouhaitter en certains temps, & pour quel",
+    "que faſcherie occurrente, le dernier ſouſpir & periode",
+    "de ſa vie, eſt parole d'vne perſonne, ſuiette par trop à",
+    "ſes paſſions: & au reſte, mal inſtituee en la loy de Dieu.",
+    "duquel nous eſtans vaſſaux, & ſeruiteurs treſ-obligez,",
+    "deuons attendre en tous ſes commandemens. & cõme",
+    "diſoit Egeſippe, ne vouloir partir pluſtoſt de ce mon-",
+    "de, ne y demeurer auſſi plus longuement que le bon",
+    "Dieu qui nous a donné l'eſtre & la vie, le veut & le",
+    "commande. & n'eſt loyſible trencher le filet de la vie,",
+    "ou diſſoudre l'ame du corps, à autre qu'à celuy qui l'a",
+    "conioinre. & tout ainſi dit Platon, que ceux qui par au-",
+    "thorité du magiſtrat ſont faits priſonniers, ne ſ'en doy-",
+    "uent pluſtoſt aller de la priſon, que le magiſtrat par",
+    "authorité de qui ils ont eſté mis dedans ne l'ordonne:",
+    "ne deuons nous auſſi ſans le vouloir du ſeigneur Dieu",
+    "qui nous a donné l'ame, la chaſſer de nous, la tirer, ni",
+    "ſortit hors de la priſon de ce corps mortel & miſera-",
+    "ble {c2}. Sainct Auguſtin en quelque lieu ſ'occupe & tra-",
+    "uaille fort a monſtrer la faute grande que commettẽt",
+    "ceux qui deſirent, & encores pis qui executẽt vne mort",
+    "volõtaire en leurs perſonnes. ſingulierement quand ils",
+    "le font pour crainte de peine, ou d'infamie {d}. Ce que de",
+    "uant luy Ariſtote auoit doctement diſcouru, diſant que",
+    "ce n'eſt point acte d'vn homme conſtant & vertueux,",
+    "mais pluſtoſt d'vn craintif, & laſche, pour fuir peine.",
+    "pauureté, ou pour quelque autre meſcontentement,",
+    "ſ'occir de ſes propres mains, & ſe rendre cruel miniſtre",
+    "de ſa mort {e}. Ie ſçay bien que le temps paſſé, Annibal,",
+    "Caton, Caſſius, Brutus, Nerõ, Diocletian, Sardanapale,",
+    "Cleopatra, & pluſieurs autres, pour ne tõber és mains",
+    "de leurs ennemis, ſe ſont eux-meſme tuez, ou fait tuer",
+    "à leurs miniſtres Et d'autres, n'en ont pas moius fait",
+    "par vne impatience de douleur, ennuyez du martire de",
+    "quelque triſte & lamentable paſſion {f}. cõme Adrian",
+    "l'Empereur, & Syllius Italicus, excellent pœte, tous",
+    "deux ſurmõtez d'incroiables tormẽs de maladie, com-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "beside_line": "tinuel, ardent zele de paruenir au celeſte heritage, &",
+   "lines": [
+    "Ciceron au",
+    "liure xi. deſd.",
+    "epiſtres."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "toutesfois ſouhaitter en certains temps, & pour quel",
+   "lines": [
+    "Philippexſ.",
+    "c. i."
+   ]
+  },
+  {
+   "key": "c2",
+   "beside_line": "ble {c2}. Sainct Auguſtin en quelque lieu ſ'occupe & tra-",
+   "lines": [
+    "Platon au",
+    "Phædon."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "le font pour crainte de peine, ou d'infamie {d}. Ce que de",
+   "lines": [
+    "S-Auguſtin",
+    "au i. liure de",
+    "ciuita. Dei c.",
+    "xvij. inſque",
+    "au xxviij."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "de ſa mort {e}. Ie ſçay bien que le temps paſſé, Annibal,",
+   "lines": [
+    "Ariſtote au",
+    "iiij. des Ethi-",
+    "ques c. vij."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "quelque triſte & lamentable paſſion {f}. cõme Adrian",
+   "lines": [
+    "l. iii. D. de",
+    "bon. eo. qui",
+    "mort. ſibi cõſ."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "Ciceron au",
+   "note": "key letter printed in the margin looks like 'c', not 'b'; body marker at 'fuir' reads as b (blotted). Keyed b here; the page then has three c-looking keys (Ciceron, Philippiens, Platon)"
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "text": "ble {c2}. Sainct Auguſtin en quelque lieu ſ'occupe & tra-",
+   "note": "marker printed as 'c' a second time (after 'Chriſt c'); margin note 'Platon au Phædon' also keyed 'c'. Printer's duplicate; keyed c2 here to keep keys unique"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Philippexſ.",
+   "note": "sic? the letter before ſ looks like x (wrong sort for n, 'Philippenſ.'); a semicolon-like mark follows the key c"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "Phædon.",
+   "note": "could be 'Phadon.'; second letter blotted, æ or a"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "conioinre. & tout ainſi dit Platon, que ceux qui par au-",
+   "note": "sic? reads 'conioinre' (expected 'conioincte'/'coniointe'); letter before final e could be a damaged t"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "duquel nous eſtans vaſſaux, & ſeruiteurs treſ-obligez,",
+   "note": "hyphen in 'treſ-obligez' printed as a raised dot/short stroke with space after"
+  },
+  {
+   "where": "blocks[0].lines[20]",
+   "text": "ſortit hors de la priſon de ce corps mortel & miſera-",
+   "note": "sic: 'ſortit' for 'ſortir'"
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "mais pluſtoſt d'vn craintif, & laſche, pour fuir peine.",
+   "note": "period after 'peine' faint; could be a stray mark, or a comma"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "à leurs miniſtres Et d'autres, n'en ont pas moius fait",
+   "note": "sic: 'moius' (turned n for 'moins'); no punctuation printed after 'miniſtres'"
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "deux ſurmõtez d'incroiables tormẽs de maladie, com-",
+   "note": "'tormẽs': mark over e could be tilde or acute ('tormés'); 'incroiables' c blotted"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "xvij. inſque",
+   "note": "sic: 'inſque' for 'uſque'; also 'S-Auguſtin' printed with hyphen"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "doiue fuir {b}. Et que ſainct Paul, bruſlant d'vn deſir cõ-",
+   "note": "line-end hyphen printed as a dot-like mark"
+  }
+ ]
+}

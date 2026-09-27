@@ -1,0 +1,207 @@
+{
+ "id": "p144",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "144",
+ "signature": null,
+ "catchword": "eſtoit",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "(choſe que les purs philoſophes ont eſtimee ſur toutes",
+    "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+    "chans {m}) infiniement trauaillé & affligé, le ſeroit enco-",
+    "re d'auantage, ſ'il ſe trouuoit preſſé, ſe ſouuenir de tant",
+    "& tant de choſes, deſquelles pourroit eſtré trop curieu-",
+    "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+    "(diſoit Ciceron) duquel la mort approchant, le ſang ne",
+    "ſe retire, & ne blanchiſſe de frayeur & crainte?"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Quis eſt, aut quotuſquiſque, cui mors cùm non",
+    "appropinquet,",
+    "Non refugiat timido ſanguis, atque exalbeſ-",
+    "cat metu {o}?"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et en quelque autre lieu, Qui eſt celuy (dit-il) lequel e-",
+    "ſtant ſur le poinct de mourir, a ſon Eſprit tranquille, &",
+    "en repos {p}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Deuant lequel, le xvj. Septembre audit",
+    "an 1560. confeſſa bien au long ſon im-",
+    "pudent, & temeraire forfaict. neant-",
+    "moins declara ce que luy auoit donné",
+    "la premiere occaſion, de proietter ſon ef",
+    "frontee & monſtrueuſe entreprinſe, a-",
+    "uoir eſté, que ſept ou huit ans au para-",
+    "uant, eſtant il de retour du camp de Pi-",
+    "cardie."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Picardie, eſt vne partie dé la Gaule Belgique. Suquoy",
+    "faut entendre, que la Gaulé fut iadis diuiſee principale-",
+    "ment en deux: à ſçauoir en la tranſalpine, & Ciſalpine.",
+    "La Ciſalpine, fut appelee des Romains cellé qui prenoit",
+    "ſon commencement à la racine des Alpes, & ſ'eſtendoit",
+    "iuſqu'au fleuue de Rubicon, ancienne borne d'Italie,",
+    "& qui deſcend de l'Appẽnin, & paſſant à Riminy, & Ra",
+    "uenne, entre dans la mer Adriatique. La Tranſalpine"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "l",
+   "beside_line": "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+   "lines": [
+    "Ariſtote au",
+    "iij. liure des",
+    "Ethiques."
+   ]
+  },
+  {
+   "key": "m",
+   "beside_line": "re d'auantage, ſ'il ſe trouuoit preſſé, ſe ſouuenir de tant",
+   "lines": [
+    "Cicerõ aux",
+    "Paradoxes."
+   ]
+  },
+  {
+   "key": "n",
+   "beside_line": "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+   "lines": [
+    "P. ad cũ hu",
+    "mana, deſſus",
+    "allegué."
+   ]
+  },
+  {
+   "key": "o",
+   "beside_line": "cat metu {o}?",
+   "lines": [
+    "Ciceron au",
+    "v. de finib."
+   ]
+  },
+  {
+   "key": "p",
+   "beside_line": "en repos {p}.",
+   "lines": [
+    "Ciceron de",
+    "Senectute."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+   "note": "'autrés': a small acute-like mark stands over the e; transcribed as seen, may be a stray mark or damaged sort (sense wants 'autres')"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+   "note": "line-end sign after 'meſ' is a small raised dot rather than a clear hyphen; transcribed as '-' per the word-break rule, could be read as a period"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "chans {m}) infiniement trauaillé & affligé, le ſeroit enco-",
+   "note": "sic 'infiniement' as printed"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "& tant de choſes, deſquelles pourroit eſtré trop curieu-",
+   "note": "'eſtré': acute-like mark over the final e; transcribed as seen, possibly a stray mark (expected 'eſtre')"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+   "note": "line-end punctuation after 'celuy' has a tail plus a faint dot; read as comma, could be a semicolon"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Quis eſt, aut quotuſquiſque, cui mors cùm non",
+   "note": "'cùm': grave mark over u visible in one strip, faint in the overlapping strip"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Et en quelque autre lieu, Qui eſt celuy (dit-il) lequel e-",
+   "note": "'Qui' appears underlined by a stroke (probably a later hand or ink mark, not print); not transcribed"
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "Picardie, eſt vne partie dé la Gaule Belgique. Suquoy",
+   "note": "sic 'Suquoy' (for 'Surquoy') as printed; also 'dé' shows an acute-like mark, transcribed as seen, may be a stray mark"
+  },
+  {
+   "where": "blocks[6].lines[1]",
+   "text": "faut entendre, que la Gaulé fut iadis diuiſee principale-",
+   "note": "'Gaulé': acute-like mark over the final e, transcribed as seen, may be a stray mark"
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "La Ciſalpine, fut appelee des Romains cellé qui prenoit",
+   "note": "'cellé': acute-like mark over the final e, transcribed as seen, may be a stray mark"
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "& qui deſcend de l'Appẽnin, & paſſant à Riminy, & Ra",
+   "note": "'Appẽnin': a tilde/macron-like mark over the e; could be an acute or stray mark"
+  },
+  {
+   "where": "catchword",
+   "text": "eſtoit",
+   "note": "'eſtoit' set alone flush right on the line below the last body line; treated as catchword, but it may be the end of the final body line turned down; last letter damaged"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "iij. liure des",
+   "note": "numeral printed as 'iÿ' (two i with a j-descender); read 'iij.'; the period sits tight against the l of 'liure'"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "allegué.",
+   "note": "'allegué': u/n ambiguous, read u"
+  }
+ ]
+}

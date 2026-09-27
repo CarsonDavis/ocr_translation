@@ -1,0 +1,200 @@
+{
+ "id": "p095",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "95",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "peces de Magie: comme quand Demœnetus Parrhaſius",
+    "(ou ſi tu veux croire à Pauſanias {k}) Demarchus: ayant",
+    "gouſté du ſacrifice, qae les Arcades faiſoyent à Lycee",
+    "leur Dieu d'vn ieune enfant, fut conuerti en loup: & au",
+    "bout de dix ans reprint la forme d'homme {l}. Dequoy",
+    "S. Auguſtin diſpute doctement {m}, & monſtre ces cho-",
+    "ſes n'eſtre pas moins fabuleuſes, que ce qu'on eſcrit des",
+    "compagnõs de Diomedes Roy d'Aetolie, leſques apres",
+    "la deſtruction de Troye furent tranſmuez en oyſeaux:",
+    "& de Circé, laquelle on feint auoir tranſmué Scilla",
+    "(de qui elle eſtoit ialouſe) en vn monſtre marin: & les",
+    "compagnons d'Vliſſes en porceaux."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Carminibus Circe, ſocios mutauit Vliſsis {n}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En tels prodiges nous approuuons ſeulement l'hi-",
+    "ſtoire de Nabuchodonoſor Roy de Babylone, qui par",
+    "la volonté de Dieu fut tranſmué en bœuf, & demeura",
+    "ainſi ſept ans parmi les autres beſtes, mangeant l'herbe:",
+    "& apres par la miſericorde de Dieu, la figure d'homme",
+    "luy fut rendue {o}. Non que ie vueille du tout nier la cõ-",
+    "uerſion entre les hommes d'vn ſexe en autre: car outre",
+    "les exemples recitez par Pline, & Gelle {p}, il y a raiſon",
+    "aſſez apparente, que cela ſe puiſſe faire ſans Magie, ou",
+    "aucun artifice: car l'homme & la femme ont les in-",
+    "ſtrumens pour engendrer du tout ſemblabes: hors",
+    "mis que celuy de l'homme ſ'eſtend par dehors: & ce-",
+    "luy de la femme par dedans, & que les teſticules (ou",
+    "ſi mieux aimez, genitoires) ne pendent point aux fem",
+    "mes. Il ne faut donc pour faire ladite conuerſion, ſi-",
+    "non, que par quelqne accident de maladie, ou autre-",
+    "ment, le membre de l'homme ſe retire dedans le corps,",
+    "& il deuiendra femme: ou que celuy de la femme ſ'a-",
+    "uance par dehors, & voila vn homme {q}. Vray eſt qu'il",
+    "ne me ſouuient point d'auoir oncques léu exemple",
+    "qu'vn homme ſe tranſmuaſt en femme: mais ſeulement",
+    "des femmes, qu'elles ſe transforment quelquesfois en",
+    "hommes: enquoy nature monſtre ſa clemence & be-",
+    "nignité, de ne vouloir point changer les choſes en pis:",
+    "mais touſiours en meilleur. Il y a pluſieurs autres eſ-",
+    "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "k",
+   "lines": [
+    "Pauſanias",
+    "in Eliacis."
+   ],
+   "beside_line": "(ou ſi tu veux croire à Pauſanias {k}) Demarchus: ayant"
+  },
+  {
+   "key": "l",
+   "lines": [
+    "Pline au li.",
+    "viij. c. xxij."
+   ],
+   "beside_line": "gouſté du ſacrifice, qae les Arcades faiſoyent à Lycee"
+  },
+  {
+   "key": "m",
+   "lines": [
+    "S. Augu-",
+    "ſtin au viij."
+   ],
+   "beside_line": "bout de dix ans reprint la forme d'homme {l}. Dequoy"
+  },
+  {
+   "key": "n",
+   "lines": [
+    "Vergile x."
+   ],
+   "beside_line": "Carminibus Circe, ſocios mutauit Vliſsis {n}."
+  },
+  {
+   "key": "o",
+   "lines": [
+    "Daniel",
+    "c. iiij."
+   ],
+   "beside_line": "luy fut rendue {o}. Non que ie vueille du tout nier la cõ-"
+  },
+  {
+   "key": "p",
+   "lines": [
+    "Pline liure",
+    "vij. c. iiij. Au-",
+    "le Gelle liure",
+    "ix. c. iiij."
+   ],
+   "beside_line": "les exemples recitez par Pline, & Gelle {p}, il y a raiſon"
+  },
+  {
+   "key": "q",
+   "lines": [
+    "Galeotus",
+    "Mar. au li-",
+    "ure de doctri-",
+    "na promiſcua",
+    "c. xxiij."
+   ],
+   "beside_line": "uance par dehors, & voila vn homme {q}. Vray eſt qu'il"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "gouſté du ſacrifice, qae les Arcades faiſoyent à Lycee",
+   "note": "the second letter of 'que' looks like an 'a' (closed bowl), not 'u'; transcribed as printed, probable wrong sort or damaged u. sic?",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "non, que par quelqne accident de maladie, ou autre-",
+   "note": "'quelqne': the letter after the second q reads as 'n' (turned u?); transcribed as seen, sic? Could be a worn 'u'.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "compagnõs de Diomedes Roy d'Aetolie, leſques apres",
+   "note": "'DiomedesRoy' set with no visible space, separated per word-division rule. 'Aetolie' read as A + e, not Æ. 'leſques' (for leſquels) as printed, sic."
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Carminibus Circe, ſocios mutauit Vliſsis {n}.",
+   "note": "italic verse line; 'Vliſsis' printed with the italic long-s + round-s ligature (ß-shaped), transcribed ſs. Marker n is a raised italic n after the word. Set as a centred italic quotation, recorded as a paragraph block per §6."
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "ſtrumens pour engendrer du tout ſemblabes: hors",
+   "note": "'ſemblabes' as printed (for ſemblables), sic."
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "text": "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme-",
+   "note": "the line-end mark after 'meſme' is a heavy dot at mid-height, the same shape this page uses for its line-end hyphens ('in', 'ſi', 'autre', 'eſ'); read as a word break (meſme-|ment on the next page), so continues_next true. Could instead be a period ending the sentence.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "aucun artifice: car l'homme & la femme ont les in-",
+   "note": "line-end break signs here and on lines 14, 15, 24 are printed as a small raised dot/stroke rather than a clear hyphen; transcribed as '-'."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "S. Auguſtin diſpute doctement {m}, & monſtre ces cho-",
+   "note": "marker m is a small blotted italic m; the break sign after 'cho' is set after a space and looks like a dot; transcribed '-'."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Pauſanias",
+   "note": "ending blotted; could be read 'Pauſaniæ' or 'Pauſaniæs'; best reading 'Pauſanias'."
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "Galeotus",
+   "note": "italic, faint; could read 'Galeorus' (t vs r). Next line 'Mar.' has a stray apostrophe-like mark after r ('Mar'.'); treated as noise."
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "na promiſcua",
+   "note": "the 'c' in 'promiſcua' is faint and looks like a dot ('promiſ.ua'); read as c."
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "Daniel",
+   "note": "the i may carry a diaeresis ('Danïel'); ink blotted."
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "id": "p098",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "98",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "mes iadis eſtre morts d'vne ſoudaine & exceſſiue ioye,",
+    "on ne trouuera pas à mon aduis nouueau, qu'vne per-",
+    "ſonne de grand ioye pleure, & iette larmes en abondã-",
+    "ce, teſmoin Ptolemee Roy d'Egypte, lequel quand on",
+    "luy fit preſent des loix de Iudee, eſcrites en lettres d'or",
+    "ſe mit par vne extreme ioye à lamenter & pleurer {a}:",
+    "car comme dit Ioſephe recitant cette hiſtoire, nature",
+    "ſouuẽtesfois, pour vn ſouuerain plaiſir, ſouffrez ce que",
+    "le plus ſouuent aduient à ceux qui ſont bien dolens &",
+    "marriz {b}. Surquoy on pourroit amener infiniz beaux e-",
+    "xemples, recitez par graues autheurs & dignes de foy:",
+    "de ceux qui ſurprins d'vne deſmeſuree ioye, nõ ſeule-",
+    "ment ont plouré, mais encore ſont morts ſoudainemẽt",
+    "ſur la place {c}. deſquels ie ne prẽdray que Diagoras Rho",
+    "dien, lequel voyant ſes trois enfans en vn meſme iour",
+    "comme victorieux en l'art de bien luitter, eſtre couron",
+    "nez, & prendre leurs couronnes, pour les poſer ſur ſa te-",
+    "ſte, en le baiſant: & le peuple apres ſe reſiouiſſant auec",
+    "luy, de toutes pars luy lãcer des fleurs: d'vne incõpara-",
+    "ble ioye rendit l'ame entre les bras de ſes enfans {d}. Ie",
+    "laiſſe à part le Poëte Philemon, lequel voyant vn aſne",
+    "mãger les figues qu'õ auoit preparees pour le diſner, ſe",
+    "print à rire ſi vehemẽtemẽt qu'il en mourut ſur l'heure"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Diſant aux Commiſſaires, voicy mon",
+    "frere Martin Guerre, & confeſſe frãche-",
+    "ment l'erreur, auquel ce proditeur abo-",
+    "minable (monſtrant ledit du Tilh, illec",
+    "preſent par fauſſes enſeignes, m'auoit, &",
+    "mes autres ſœurs, voire à tout le peuple",
+    "d'Artigat conſtitué & longuemẽt enrte-",
+    "tenu. Surquoy ledit nouueau venu ſe mit",
+    "à plourer auſsi. Apres les autres ſœurs de",
+    "meſmes le recognoiſſoient, & pour faire",
+    "brief, tous les autres teſmoins qui aupar"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ſe mit par vne extreme ioye à lamenter & pleurer {a}:",
+   "lines": [
+    "Ioſephe au",
+    "liure xij. des",
+    "antiquités Iu",
+    "daiques c. ij."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "marriz {b}. Surquoy on pourroit amener infiniz beaux e-",
+   "lines": [
+    "Soit veuë",
+    "l'annotation",
+    "xxx."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ſur la place {c}. deſquels ie ne prẽdray que Diagoras Rho",
+   "lines": [
+    "Pline au li.",
+    "vij. c. iiij. Aul.",
+    "Gelle au liure",
+    "iij. c. xv."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "luy, de toutes pars luy lãcer des fleurs: d'vne incõpara-",
+   "lines": [
+    "Ciceron au",
+    "j. des Tuſcul."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "mes iadis eſtre morts d'vne ſoudaine & exceſſiue ioye,",
+   "note": "a mark (circumflex- or tilde-like) stands over the final e of 'ioye'; probably a stray/blot, transcribed plain 'ioye'. Could be read 'ioyẽ'."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "ce, teſmoin Ptolemee Roy d'Egypte, lequel quand on",
+   "note": "a mark appears over the o of 'Ptolemee' (possibly 'Ptölemee' or a blot); transcribed plain"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "ſouuẽtesfois, pour vn ſouuerain plaiſir, ſouffrez ce que",
+   "note": "'ſouffrez' as printed (sense expects 'ſouffre'); sic. 'ſouuẽtesfois' has round s before f as printed"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "print à rire ſi vehemẽtemẽt qu'il en mourut ſur l'heure",
+   "note": "no terminal punctuation printed before the TEXTE heading"
+  },
+  {
+   "where": "blocks[1]",
+   "text": "TEXTE",
+   "note": "heading printed without a period"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "mes autres ſœurs, voire à tout le peuple",
+   "note": "'autres' is damaged: the t looks broken ('aur:es'); read as 'autres'"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "d'Artigat conſtitué & longuemẽt enrte-",
+   "note": "sic: print appears to read 'enrte-' (for 'entre-'); could be 'entte-'"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "vij. c. iiij. Aul.",
+   "note": "numeral 'iiij' read from small italic; could be 'iij'"
+  }
+ ]
+}

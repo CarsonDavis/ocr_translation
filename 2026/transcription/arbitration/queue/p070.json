@@ -1,0 +1,22 @@
+{
+ "page": "p070",
+ "a": "transcription/reads/A/p070.json",
+ "b": "transcription/reads/B/p070.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-021",
+   "kind": "body",
+   "where_a": "blocks[3].text",
+   "where_b": "blocks[3].text",
+   "index": 21,
+   "index_b": 21,
+   "a": "ANNOTAT. XLIX.",
+   "b": "ANNOTAT. XLIX,",
+   "context_before": "gent pour viure.",
+   "context_after": "Ce n'eſtoit pas donc ſigne que ladite de Rols vou-",
+   "strip": "pages/strips/p070/body-5.jpg",
+   "crop": "crops/p070/b-021.jpg"
+  }
+ ]
+}

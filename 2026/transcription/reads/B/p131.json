@@ -1,0 +1,188 @@
+{
+ "id": "p131",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "131",
+ "signature": "I ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "euident pas moins, que ſous ce manteau de rigueur, &",
+    "ſeuerité de peine, effacer du tout, ou pour le moins pur",
+    "ger en partie, & nettoyer quelque peu la ſalleté de leur",
+    "vie mauuaiſe, corruptions, & vices deteſtables: ſans pẽ",
+    "ſer, que nous ſommes tous Chreſtiens, & enfans d'vn",
+    "pere celeſte, regenerez d'vn Bapteſme, & par iceluy in-",
+    "corporez en l'Egliſe de Dieu, rachetez d'vn ſãg de Ieſus",
+    "Chriſt, noſtre chef, duquel nous ſõmes tous mẽbres, &",
+    "ſous ſon enſeigne, bataillons contre Satan, cõmun enne",
+    "mi de uature, lequel nous enuirõne iour & nuict, pour",
+    "nous deuorer. dont ſ'il en attrape quelqu'vn, tous ſe de-",
+    "uroient eſſayer à porter ſon fardeau, & ſa charge, par pi-",
+    "tié, douceur, compaſſion, & miſericorde {c}. & ſi deurions",
+    "conſiderer d'auantage, que des iugemens, eſt comme",
+    "des victoires, deſquelles celle qui ſ'acquiert ſans effu-",
+    "ſion de ſang humain, eſt touſiours la plus noble & la",
+    "plus acceptable deuant Dieu. Non que par là ie vueil-",
+    "le oſter le glaiue, que ie ſçay bien eſtre donné aux ma-",
+    "giſtrats, à la vengeance des malfaicteurs, & pour faire",
+    "iuſtice en ire (dit l'Apoſtre) de celuy qui fait mal {d}. car",
+    "ie n'ignore pas, que comme Publius Mimus a laiſſé eſ",
+    "crit: Quiconques pardõne aux mauuais, nuit aux bõs."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Bonis nocet, quiſquis pepercerit malis."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et que l'aigreur, & ſeuerité des peines, quelquesfois",
+    "eſt l'enſeignement & diſcipline de bien viure. {e} Mais",
+    "ie veux dire, que cela doit eſtre fait auecques gran-",
+    "de circonſpection, & prndence, & que les iuges ne ſe",
+    "doyuent rendre facilement prodigues du ſang de",
+    "leur frere Chreſtien: ains ſ'exerciter plus à l'huma-",
+    "nité, & clemence, qu'à rigueur & cruauté: & meſme-",
+    "ment les ſouuerains: tant par ce qu'il n'y a rien ſi laid,",
+    "ſi vilain, ne ſi difforme, que d'adiouſter à vne ſouue",
+    "raine puiſſance, vne aigreur & acerbité de nature {f}:",
+    "que pourautant auſſi, qu'ils doyuent ſeruir d'exem-",
+    "ples aux inferieurs, & comme les lampes, eſclairer à",
+    "tous les autres. Dont quand il conuiendra faire mou-",
+    "rir le malfaicteur, pour ſes demerites, que ce ſoit ſans",
+    "horreur, & confuſion de ces cruels, & barbares ſpe-",
+    "ctacles, ou ſoit pour quelque grand, horrible, & enor-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "c",
+   "lines": [
+    "Galatiens c.",
+    "vi."
+   ],
+   "beside_line": "tié, douceur, compaſſion, & miſericorde {c}. & ſi deurions"
+  },
+  {
+   "key": "d",
+   "lines": [
+    "La premiere",
+    "S. Pierre c. ij."
+   ],
+   "beside_line": "giſtrats, à la vengeance des malfaicteurs, & pour faire"
+  },
+  {
+   "key": "e",
+   "lines": [
+    "Aule Gelle",
+    "au xx. liu. c. j."
+   ],
+   "beside_line": "eſt l'enſeignement & diſcipline de bien viure. {e} Mais"
+  },
+  {
+   "key": "f",
+   "lines": [
+    "Ciceron en",
+    "l'epiſtre i. ad",
+    "Q. fratrem."
+   ],
+   "beside_line": "ſi vilain, ne ſi difforme, que d'adiouſter à vne ſouue"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "note": "running head set in spaced capitals (P A R L E M E N T  D E  T H O L O S E.), transcribed closed up per §3."
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "mi de uature, lequel nous enuirõne iour & nuict, pour",
+   "note": "the first letter of 'uature' is printed as a u-shape (probably a turned n); transcribed as printed. sic."
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "nous deuorer. dont ſ'il en attrape quelqu'vn, tous ſe de-",
+   "note": "the mark after 'deuorer' is a round dot on the baseline with no tail, so read as a period although the sense wants a comma."
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "tié, douceur, compaſſion, & miſericorde {c}. & ſi deurions",
+   "note": "the marker is small and faint; read as 'c' (the note in the margin begins with a matching c-shape). The page's first marker is c; no earlier-page context was available to confirm the alphabet."
+  },
+  {
+   "where": "blocks[1]",
+   "note": "italic Latin verse line set on its own (Publilius Syrus); shown as a paragraph per §6. 'nocet' read with a faint c/t shape; 'quiſquis' has long s."
+  },
+  {
+   "where": "blocks[2]",
+   "note": "continues_prev set false because the paragraph begins with an indent, although grammatically 'Et que ...' continues 'ie n'ignore pas, que ...' from before the verse line."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "eſt l'enſeignement & diſcipline de bien viure. {e} Mais",
+   "note": "the third letter of 'diſcipline' is damaged and looks like t or l (possibly 'ditcipline'); best reading ſ. The marker e sits raised before 'Mais', after the period."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "de circonſpection, & prndence, & que les iuges ne ſe",
+   "note": "'prndence' as printed (n where the sense wants u, probably a turned u). sic."
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "ment les ſouuerains: tant par ce qu'il n'y a rien ſi laid,",
+   "note": "the mark after 'ſouuerains' looks like two dots (colon), set tight; could be a damaged comma."
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "que pourautant auſſi, qu'ils doyuent ſeruir d'exem-",
+   "note": "'doyuent' has a damaged n that looks like o ('doyueot'); read as doyuent."
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "tous les autres. Dont quand il conuiendra faire mou-",
+   "note": "'quandil' set tight, split per §1; a stray mark after 'conuiendra' is ink, not a letter."
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "horreur, & confuſion de ces cruels, & barbares ſpe-",
+   "note": "a stray accent-like mark over the second a of 'barbares' is not transcribed; 'ces' is faint at its start."
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "ctacles, ou ſoit pour quelque grand, horrible, & enor-",
+   "note": "a stray slash-like mark after 'horrible' before the comma, probably a furniture or ink mark, not a virgule; not transcribed."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "note c: 'Galatiens' has an accent-like mark over the second a (likely ink); 'c.' is blotted and could be 'e.' or '6.'."
+  },
+  {
+   "where": "margin_notes[1]",
+   "note": "note d: 'premiere' is partly blotted in the middle ('prem..re'); a large ink blot sits just above the note beside the 'ma-' line."
+  },
+  {
+   "where": "margin_notes[2]",
+   "note": "note e: 'Aule' read as printed (u shaped like n, 'Anle'?) for Aulu-Gelle; the last line reads 'au xx. liu. c. j.' but the point after c is doubtful ('c j.')."
+  },
+  {
+   "where": "margin_notes[3]",
+   "note": "note f: 'Q.' is a swash capital Q with a long tail; a period after it is not clearly visible ('Q fratrem.' possible). 'ad' blotted."
+  }
+ ]
+}

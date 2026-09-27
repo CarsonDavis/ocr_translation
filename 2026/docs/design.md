@@ -124,6 +124,15 @@ disagreements go to a Fable reconciliation agent that sees both reads and the im
 must decide every disputed line, citing what it sees. Lines it cannot decide are marked
 `uncertain` and escalated to me; I read those crops personally in the main session.
 
+**Update 2026-09-26: reconciliation is now human arbitration.** Each page is read once by
+two Opus agents with `scripts/prompts/read_single.md` (native-resolution strips, no zooming).
+`arbitrate_queue.py` turns every remaining disagreement into a queue item with an image crop;
+Carson decides each item in a local page (`arbitrate_server.py`); `apply_arbitration.py`
+writes the final. There is no model reconciler. Sonnet was tried as a reader and rejected
+(pair agreement 80–90%, silently normalizes wrong sorts); see
+`docs/checks/pilot-2026-09-24.md`. Runbook: `docs/pipeline-log.md`, "Runbook (single-pass +
+arbitration)".
+
 Hard pages get a **margin-column crop** as a second image so citations are read at
 the largest possible scale.
 
@@ -224,6 +233,10 @@ The master is **fully diplomatic and line-faithful**:
 
 ## 7. Agents and models
 
+- *Update 2026-09-26:* page reads are two single-pass Opus reads per page (at most 12
+  readers at a time); Sonnet was rejected as reader; the Fable reconciler below is replaced
+  by Carson's arbitration of the queued disagreements (`docs/checks/pilot-2026-09-24.md`,
+  §4 Stage 3). Translation runs in batches of 10–12 sections per Fable agent.
 - Page reads: Opus, two per page, run in parallel batches of about eight pages.
 - Reconciliation: Fable, but only on pages with disagreements, and only on the disputed and
   uncertain lines (agreed lines are not re-read). Pages with full agreement are finalized

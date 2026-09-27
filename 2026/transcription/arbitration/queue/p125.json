@@ -1,0 +1,106 @@
+{
+ "page": "p125",
+ "a": "transcription/reads/A/p125.json",
+ "b": "transcription/reads/B/p125.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-b-2",
+   "kind": "note",
+   "key": "b",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[2]",
+   "where_b": "margin_notes[0].lines[2]",
+   "a": "q. iij. c. ſi quis",
+   "b": "q. iiij. c. ſi quis",
+   "context_before": "crilegium. xvj.",
+   "context_after": "contumax. ia",
+   "strip": "pages/strips/p125/margin-1.jpg",
+   "crop": "crops/p125/n-b-2.jpg"
+  },
+  {
+   "id": "n-d-0",
+   "kind": "note",
+   "key": "d",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[0]",
+   "where_b": "margin_notes[2].lines[0]",
+   "a": "c. ſi quis cõ-",
+   "b": "c. ſi quis, cõ-",
+   "context_before": null,
+   "context_after": "tumax. prealle",
+   "strip": "pages/strips/p125/margin-1.jpg",
+   "crop": "crops/p125/n-d-0.jpg"
+  },
+  {
+   "id": "n-i-0",
+   "kind": "note",
+   "key": "i",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[7].lines[0]",
+   "where_b": "margin_notes[7].lines[0]",
+   "a": "Plutarque",
+   "b": "Plutarqne",
+   "context_before": null,
+   "context_after": "en la vie de",
+   "strip": "pages/strips/p125/margin-2.jpg",
+   "crop": "crops/p125/n-i-0.jpg"
+  },
+  {
+   "id": "s-blocks",
+   "kind": "structural",
+   "field": "blocks",
+   "where_a": "blocks",
+   "where_b": "blocks",
+   "a": null,
+   "b": null,
+   "text": "block types: A=['paragraph', 'heading', 'paragraph', 'heading', 'paragraph'] B=['paragraph', 'heading', 'heading', 'heading', 'paragraph']; headings: A=['TEXTE.', 'ANNOTAT. LXXXVI.'] B=['TEXTE.', 'Plaige.', 'ANNOTAT. LXXXVI.']",
+   "a_blocks": [
+    "paragraph (34 lines): les Sacrileges. Ainſi Ouide en, quelque lieu, nomme",
+    "heading: TEXTE.",
+    "paragraph (1 line): Plaige.",
+    "heading: ANNOTAT. LXXXVI.",
+    "paragraph (1 line): Le crime du Plaige reſulte de ce faict auſſi, duquel"
+   ],
+   "b_blocks": [
+    "paragraph (34 lines): les Sacrileges. Ainſi Ouide en, quelque lieu, nomme",
+    "heading: TEXTE.",
+    "heading: Plaige.",
+    "heading: ANNOTAT. LXXXVI.",
+    "paragraph (1 line): Le crime du Plaige reſulte de ce faict auſſi, duquel"
+   ],
+   "block_rows": [
+    {
+     "a": null,
+     "b": null,
+     "status": "gap"
+    },
+    {
+     "a": "heading: TEXTE.",
+     "b": "heading: TEXTE.",
+     "status": "same"
+    },
+    {
+     "a": "paragraph (1 line): Plaige.",
+     "b": "heading: Plaige.",
+     "status": "diff"
+    },
+    {
+     "a": "heading: ANNOTAT. LXXXVI.",
+     "b": "heading: ANNOTAT. LXXXVI.",
+     "status": "same"
+    },
+    {
+     "a": null,
+     "b": null,
+     "status": "gap"
+    }
+   ],
+   "crop": "crops/p125/page.jpg",
+   "strip": "pages/read/p125.jpg"
+  }
+ ]
+}

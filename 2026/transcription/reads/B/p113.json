@@ -1,0 +1,164 @@
+{
+ "id": "p113",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "113",
+ "signature": "H",
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "defendit tous ſes actes {k} Iaçoit que telle maniere de",
+    "ſerfs ſi temeraires de ſingerer par ſemblables ſuppoſi-",
+    "tions aux dignite, l'Empereur Auguſte ait commandé",
+    "les punir de peines conuenables {l}. Le Pontife Clement",
+    "iij. parlant d'vn preſtre ſeditieux, lequel apres auoir fau",
+    "ſement vſurpé le nom & titre de fils de Roy, & eſmeu",
+    "le peuple à guerres ciuiles, fut condamné premiere-",
+    "ment au fouët, & apres eſtre pendu à vn gibet, où fut",
+    "executé, reuoque en doute, ſi ceux qui l'ont fait mourir,",
+    "ſont excommuniez {m}. Dequoy n'euſſe douté, ſi la ſeule",
+    "ſuppoſition euſt merité la mort. On lit bien d'auanta-",
+    "ge, que Trebellius Calca ſuppoſa le nom & la per-",
+    "ſonne du fils de Clodius, pour rauir & ſ'emparer de ſes",
+    "biens, & que la fraude ne ſceut eſtre ſi finement couuer",
+    "te, qu'en fin la lumiere de la verité nè la miſt en euiden",
+    "ce, dont il perdit ſa cauſe: mais qu'il fuſt puni de telle",
+    "fraude, & ſuppoſition, l'hiſtoire n'en parle point {n}. Ain-",
+    "ſi de la femme Milanoiſe, qui ſe diſoit Rubrie, pour",
+    "occuper & enuahir les biens de la vraye Rubrie defun-",
+    "cte. On lit bien qu'elle ſuccõba par la prudence d'Octa",
+    "uian Auguſte: mais qu'elle fut punie, n'y a aucũ autheur",
+    "qui en parole {o}. Ie n'ignore pas auſſi que d'autres n'ayẽt",
+    "eſté punis pour telles ſuppoſitions, aſſez douteuſes",
+    "toutesfois. Herophile medecin, qui ſe diſoit fils du ieu",
+    "ne Marius acquiſt tant de faueur & grace enuers le peu",
+    "ple, pour la memoire de Caius Marius, ſon ayeul pretẽ-",
+    "du, qui auoit eſté ſept fois conſul a Rome, que pluſi-",
+    "eurs compagnies des vieux ſoldats, & des villes, le ſuy-",
+    "uoyent comme leur ancien patron & protecteur: voi-",
+    "re quand Ceſar fut retourné d'Eſpagne victorieux,",
+    "contre les enfans de Pompée, ceux qui le venoyent",
+    "feliciter de ſa victoire, ne faiſoyent pas moins d'hon-",
+    "neur à Herophile qu'à Ceſar, duquel pourtant les tro-",
+    "phées & monumens eſtoyent ia grauez par tous les",
+    "anglets de la terre: dont Ceſar indigné, & craignant",
+    "quelque ſedition de peuple, le bannit ſeulement de",
+    "Rome: vray eſt qu'apres la mort de Ceſar, partant qu'il",
+    "retourna à Rome, & menaçoit le Senat, il fut par le",
+    "commandement des Senateurs fait priſonnier, &",
+    "dans la maiſon executé à mort {p}. En outre, nous li-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "k",
+   "beside_line": "defendit tous ſes actes {k} Iaçoit que telle maniere de",
+   "lines": [
+    "l. ij. D. de",
+    "offi. prætor."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "les punir de peines conuenables {l}. Le Pontife Clement",
+   "lines": [
+    "l. ij. C. ſi cer.",
+    "ad decur. aſp."
+   ]
+  },
+  {
+   "key": "m",
+   "beside_line": "ſont excommuniez {m}. Dequoy n'euſſe douté, ſi la ſeule",
+   "lines": [
+    "c. perpen-",
+    "dimus. de ſen-",
+    "ten. excom."
+   ]
+  },
+  {
+   "key": "n",
+   "beside_line": "ce, dont il perdit ſa cauſe: mais qu'il fuſt puni de telle",
+   "lines": [
+    "Valere au",
+    "liure ix. c. xvi"
+   ]
+  },
+  {
+   "key": "o",
+   "beside_line": "uian Auguſte: mais qu'elle fut punie, n'y a aucũ autheur",
+   "lines": [
+    "Valere, au",
+    "lieu que deſ-",
+    "ſus."
+   ]
+  },
+  {
+   "key": "p",
+   "beside_line": "retourna à Rome, & menaçoit le Senat, il fut par le",
+   "lines": [
+    "Valere au",
+    "lieu prealegué."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "defendit tous ſes actes {k} Iaçoit que telle maniere de",
+   "note": "p112 catchword is 'deffendit' but the page prints 'defendit' (sic); the k marker has a small tail/dot at its foot that may be a period ('{k}. Iaçoit'); read no period"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "ſerfs ſi temeraires de ſingerer par ſemblables ſuppoſi-",
+   "note": "'ſingerer' (s'ingerer) without apostrophe as printed; line-end break sign printed as a dot-like stroke, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſement vſurpé le nom & titre de fils de Roy, & eſmeu",
+   "note": "'titre' is damaged/wide-spaced and looks like 'tirre'; read 'titre'"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "te, qu'en fin la lumiere de la verité nè la miſt en euiden",
+   "note": "accent on 'nè' appears printed (grave-like); could be a stray mark on 'ne'"
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "text": "qui en parole {o}. Ie n'ignore pas auſſi que d'autres n'ayẽt",
+   "note": "sic: 'parole' for 'parle' as printed; marker o is a small round letter"
+  },
+  {
+   "where": "blocks[0].lines[36]",
+   "text": "Rome: vray eſt qu'apres la mort de Ceſar, partant qu'il",
+   "note": "punctuation after 'Ceſar' could be a comma or semicolon; read comma. 'partant' as printed (possibly for 'pourtant')"
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "du, qui auoit eſté ſept fois conſul a Rome, que pluſi-",
+   "note": "'a' without grave as printed"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. perpen-",
+   "note": "'c.' printed with an e-like shape; read 'c.' (capitulum)"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "liure ix. c. xvi",
+   "note": "'c.' looks like 'e.'; no final period visible after 'xvi'"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "Valere au",
+   "note": "'V' of Valere is a swash italic capital in notes n, o, p"
+  }
+ ]
+}

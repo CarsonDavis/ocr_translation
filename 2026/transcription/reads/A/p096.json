@@ -1,0 +1,133 @@
+{
+ "id": "p096",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "96",
+ "signature": null,
+ "catchword": "freres,",
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ment que toutes ſont vaines & ridicules, procedãtes des",
+    "aſtuces de Satan, & reiettees non ſeulemẽt par l'expres,",
+    "& en cent lieux reiteré commandement de Dieu ſur",
+    "commination de mort {r}: mais encor par les loix humai",
+    "nes (deſquelles pourtant la plus part des autheurs ont",
+    "eſté ethniques) ſur pareille peine {ſ}. Ce treſgrand, treſbõ,",
+    "& treſpuiſſant Dieu, nous a donné la parole de ſon E-",
+    "uangile, à laquelle puiſſions en noz aduerſitez nous",
+    "retirer, conſeiller, & conſoler: & non pas ſ'enquerir",
+    "des choſes qui ne nous appartiennent point, comme",
+    "reſpondit Abrahã, tenant le Lazare en ſon ſein: au mau-",
+    "uais Riche eſtant és tourmens d'enfer, qui le prioit en-",
+    "uoyer le Lazare à ſes freres. Ils ont Moyſe (dit Abrahã)",
+    "& les Prophetes, auſquels ſi tes freres ne veulent croire",
+    "auſſi ne croiront-ils pas, quand aucun des morts reſu-",
+    "ſciteroit {t}. Ne permettons point doncques que Satan,",
+    "qui dreſſe les cornes iour & nuict, & tend ces dangereu-",
+    "ſes panthieres, pour nous enlacer par ce moyen en ſes fi-",
+    "letz, deſquels Ieſus Chriſt fils de Dieu viuant nous a ſi",
+    "cherement, par incomprehenſibles peines & tourmens",
+    "de ſa paſſion, racheptez, nous impoſe en ceſt endroit, &",
+    "nous ſeduiſe: mais en telle, ou pareille tentation reti-",
+    "rons-nous touſiours à noſtre redempteur, & ſupplions-",
+    "le treshublemẽt qu'il vueille dreſſer nos cueurs, & nous",
+    "acheminer en ſes voyes, à ce que nous puiſſions par la",
+    "lumiere de ſa parole chaſſer de nous toutes illuſions,",
+    "preſtiges & impoſtures (deſquelles le diable qui cerche",
+    "touſiours de nous attrapper) fait inceſſamment nouuel",
+    "les embuſches contre les enfans de Dieu, & ſon Egliſe."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Dont la cour, pour mieux ſ'aſſeurer, or-",
+    "donne que les principaux teſmoins qui",
+    "auoient affermé le priſonnier eſtre Mar-",
+    "tin Guerre, viendroient en perſonne. &",
+    "meſmement les quatre ſeurs, & beaux-",
+    "freres dudit Martin, enſemble l'oncle,"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "r",
+   "beside_line": "nes (deſquelles pourtant la plus part des autheurs ont",
+   "lines": [
+    "Deutereno-",
+    "me c. xviij. Le",
+    "uitique c. xix.",
+    "& xx."
+   ]
+  },
+  {
+   "key": "ſ",
+   "beside_line": "uangile, à laquelle puiſſions en noz aduerſitez nous",
+   "lines": [
+    "l. ij. iij. iiij. C.",
+    "de maleſi. &",
+    "mathema."
+   ]
+  },
+  {
+   "key": "t",
+   "beside_line": "ſciteroit {t}. Ne permettons point doncques que Satan,",
+   "lines": [
+    "S. Luc",
+    "c. xvj."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[20]",
+   "text": "de ſa paſſion, racheptez, nous impoſe en ceſt endroit, &",
+   "note": "'racheptez': the letter after p is broken/damaged, printed shape looks like a dotless i with a gap ('rachepı ez'); read as t"
+  },
+  {
+   "where": "blocks[0].lines[23]",
+   "text": "le treshublemẽt qu'il vueille dreſſer nos cueurs, & nous",
+   "note": "sic 'treshublemẽt' (no m before b), round s in 'tres'; 'vueille' i also looks damaged"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "eſté ethniques) ſur pareille peine {ſ}. Ce treſgrand, treſbõ,",
+   "note": "marker {ſ} printed as italic long s, raised; 'treſgrand' d is slightly malformed"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "auoient affermé le priſonnier eſtre Mar-",
+   "note": "type damaged: 'auoient' final t looks like r ('auoıenr'), 'affermé' ff blotted, 'eſtre' long s looks like l; read as expected words"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Deutereno-",
+   "note": "sic? print appears to read 'Deutereno-' (for Deuterono-); italic e/o ambiguous"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTE.",
+   "note": "E of heading is heavily inked/blotted; final stop reads as period"
+  },
+  {
+   "where": "catchword",
+   "text": "freres,",
+   "note": "catchword damaged, first r looks like g ('fgeres')"
+  }
+ ]
+}

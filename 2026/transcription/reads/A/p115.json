@@ -1,0 +1,125 @@
+{
+ "id": "p115",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "115",
+ "signature": "H ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "royal, pour demander à l'Empereur Auguſte ſa part du",
+    "royaume, où luy fut faite entrée ſolẽnelle par les Iuifs,",
+    "qui pour lors reſidoyent à Rome: leſquels le portoient",
+    "dans vne chaire par les rues, & carrefours, à la mode Iu",
+    "daique: & le monſtroyent cõme vn miracle. mais Augu",
+    "ſte, qui naturellement abhorroit telle maniere de pipe-",
+    "ries, & ſuppoſitions, ſoupçonnant qu'il y auoit quelque",
+    "anguille ſous roche: pour ſentir au vray ce qui en eſtoit",
+    "le retira à part, & l'interroga ſi ſubtilement, & toucha",
+    "de ſi pres au marteau de ſa conſcience, qu'en fin luy tira",
+    "les vers du nez, & luy fit confeſſer franchement l'impo-",
+    "ſture, & qui l'auoit induit à ce faire: toutesfois ne fut",
+    "Ceſar ſi ſeuere contre luy, que la grandeur du crime",
+    "meritoit, condamna ſeulement aux galeres. vray que ce",
+    "luy qui auoit ourdy la toile, & ſi bien inſtruit le Sido-",
+    "nien, fut condamné à mort, & executé {r}. Ie ſçay bien",
+    "auſſi, que pluſieurs pour pareilles ſuppoſitions, en ont",
+    "ſouffert mort naturelle: comme Smerdes, ou ſelon",
+    "Trogue Pompée, Oropaſtes, lequel eſtant du tout ſem",
+    "blable a Smerdes (d'autres l'appeloyent Mergides) fre-",
+    "re de Cambyſes roy des Aſſyriens, qu'iceluy Cambyſes",
+    "effrayé d'vn ſonge qu'il auoit fait, & craignãt eſtre par",
+    "luy chaſſé de ſon royaume, auoit fait occir par Pre-",
+    "xaſpes: facilement perſuada à chacun qu'il eſtoit Smer",
+    "des fils de Cyrus, & frere de Cãbiſes. ce qui eſtoit enco-",
+    "re rẽdu plus vray-ſemblable, d'autãt que Prexaſpes aſ-",
+    "ſeuroit apres, n'auoir point tué Smerdes, quoy que luy",
+    "euſt eſté commandé: mais de compaſſion luy auoit ſau",
+    "ué la vie. Dont en fin Smerdes, ou ſi mieux aimez O-",
+    "ropaſtes, fut creé roy, & reueré pour tel l'eſpace de ſept",
+    "mois. mais ſur le huitieme, fut deſcouuert par Phedi-",
+    "ma, vne des concubines royales, laquelle (auertie par",
+    "Othanes ſon pere) eſtant couchée auec Smerdes, com-",
+    "me il eſtoit endormi, maniant ſa teſte, trouua qu'il a-",
+    "uoit les oreilles couppees (execution en luy iadis fai-",
+    "te, pour certain malefice par la commandement de",
+    "Cyrus) quoy entendu, ſept de principaux du pays, in-",
+    "dignez outre meſure, d'vne generoſité, & vertu re-",
+    "commandable, ayans coniuré auec grans ſermens",
+    "ſa mort, portans les glaiues ſous leurs robes, l'alle-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "r",
+   "beside_line": "nien, fut condamné à mort, & executé {r}. Ie ſçay bien",
+   "lines": [
+    "Ioſephe au",
+    "liure xvij. des",
+    "antiquitez Iu",
+    "daiques. c. x[?]",
+    "vij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "spaced capitals; final letter of THOLOSE looks damaged/X-like, read as E"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "qui pour lors reſidoyent à Rome: leſquels le portoient",
+   "note": "punctuation after 'Rome' faint; colon vs semicolon"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "luy qui auoit ourdy la toile, & ſi bien inſtruit le Sido-",
+   "note": "'auoit' shows specks like a diaeresis over i; 'inſtruit' final t could be r"
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "ſeuroit apres, n'auoir point tué Smerdes, quoy que luy",
+   "note": "'luy' printed with weak/broken l, looks like 'iu y'"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "mois. mais ſur le huitieme, fut deſcouuert par Phedi-",
+   "note": "'deſcouuert' r damaged, looks like 'deſcouueit'"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "me il eſtoit endormi, maniant ſa teſte, trouua qu'il a-",
+   "note": "middle of 'trouua' badly inked; reading from context of letter shapes"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "te, pour certain malefice par la commandement de",
+   "note": "'par la commandement' sic as printed; mark over final 'de' may be an accent (dé) or a speck"
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "ſa mort, portans les glaiues ſous leurs robes, l'alle-",
+   "note": "'leurs' u looks like a (leats/lears); read as leurs"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "daiques. c. x[?]",
+   "note": "chapter numeral smudged after 'c. x'; possibly 'xi-' continuing to 'vij.' (c. xvij?)"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Ioſephe au",
+   "note": "'au' smudged, could be 'an'; line 3 'Iu' could be 'In'"
+  }
+ ]
+}

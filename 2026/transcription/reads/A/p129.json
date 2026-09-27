@@ -1,0 +1,231 @@
+{
+ "id": "p129",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "129",
+ "signature": "I",
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "beſoin eſt de mort naturelle {a}: de laquelle iuſtice, parce",
+    "que les Bourreaux ſont executeurs, ils ſont appelez en",
+    "France, Executeurs de la haute iuſtice."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Au deuant la maiſon dudit Martin"
+  },
+  {
+   "type": "heading",
+   "text": "Guerre."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XCII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Il eſtoit auſſi conuenable, que ceſt abominable &",
+    "prodigieux impoſteur, miniſtre infame de la ruine de",
+    "la maiſon dudit Martin, fut executé, au deuãt de celle,",
+    "où il auoit commis, & ſi longuement continué ſa pro-",
+    "dition {a2}. Sur quoy les paroles de'Calliſtrat, Iuriſconſu-",
+    "te, ſont dignes d'eſtre ici tranſcrites. LES brigans, &",
+    "fameux larrons, dit-il, doyuent eſtre pendus au lieu, où",
+    "ils ont exercé leur brigaudage, à fin qu'en les voyant",
+    "les autres ſoyent deſtournez de ſemblable malefices, &",
+    "les parens des meurtris, offenſez, reçoyuent quelque",
+    "allegement & conſolation, voyans la iuſtice eſtre iuſte-",
+    "ment renduë, & la peine executée, au lieu du malefice {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Eſtre pendu & eſtranglé."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XCIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Peine certes, cõme deſſus a eſté demonſtré, digne d'vn",
+    "ſi deteſtable paillard, & flagitieux prodireur {a3}. car le pé",
+    "dement au gibet, eſt de tous les ſupplices que les anciẽs",
+    "ont peu excogiter, le plus ord, ignominieux, vilain, &",
+    "infame: don[?] les Poetes ont appelé telle mort vilaine,",
+    "ſale, laide, informe, & malheureuſe. comme Vergile, par",
+    "lant d'Amata, mere des Lauinia, laquelle indignée con",
+    "tre ſa fille, qu'auoit eſpouſé Eneas) bien qu'elle, & le",
+    "Roy Latin ſon pere, l'euſſent dediee à Turnus) ſe pen-",
+    "dit elle meſme, & eſtrangla: diſant {b2},"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Et nondum informis lethi, trabe nectit ab alta."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Achæus auſſi roy de Lydie, par ce qu'il ſurchargeoit",
+    "ſon peuple de grans tributs, & importables charges:",
+    "fut en vne ſeditiõ populaire, en perpetuelle ignominie"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "beſoin eſt de mort naturelle {a}: de laquelle iuſtice, parce",
+   "lines": [
+    "l. iij. D. de",
+    "iuriſdi."
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "dition {a2}. Sur quoy les paroles de'Calliſtrat, Iuriſconſu-",
+   "lines": [
+    "l. capitaliũ.",
+    "P. famoſos. D.",
+    "de pœn. Aut.",
+    "qua in prouin",
+    "cia. C. vbi de",
+    "crim. ag. op."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ment renduë, & la peine executée, au lieu du malefice {b}.",
+   "lines": [
+    "P. famoſos.",
+    "allegué."
+   ]
+  },
+  {
+   "key": "a3",
+   "beside_line": "ſi deteſtable paillard, & flagitieux prodireur {a3}. car le pé",
+   "lines": [
+    "Accurſe en",
+    "la l. iij. D. de",
+    "re mili. Baldé",
+    "en la l. cũ qui",
+    "dã. de iureiur."
+   ]
+  },
+  {
+   "key": "b2",
+   "beside_line": "Roy Latin ſon pere, l'euſſent dediee à Turnus) ſe pen-",
+   "lines": [
+    "Vergil. au",
+    "xij. de Aenei."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "France, Executeurs de la haute iuſtice.",
+   "note": "mark after 'France' could be a comma or semicolon; blotted"
+  },
+  {
+   "where": "blocks[5].lines[4]",
+   "text": "dition {a2}. Sur quoy les paroles de'Calliſtrat, Iuriſconſu-",
+   "note": "second marker 'a' on the page (alphabet restarts with ANNOT. XCII), keyed a2; apostrophe in de'Calliſtrat as printed, sic; line-end sign looks like a raised dot, taken as hyphen"
+  },
+  {
+   "where": "blocks[5].lines[5]",
+   "text": "te, ſont dignes d'eſtre ici tranſcrites. LES brigans, &",
+   "note": "'LES' set in spaced capitals/small capitals; final letter may be a lowercase s ('LEs')"
+  },
+  {
+   "where": "blocks[5].lines[7]",
+   "text": "ils ont exercé leur brigaudage, à fin qu'en les voyant",
+   "note": "'brigaudage' as printed (for brigandage), sic"
+  },
+  {
+   "where": "blocks[5].lines[8]",
+   "text": "les autres ſoyent deſtournez de ſemblable malefices, &",
+   "note": "possible accent over first e of 'malefices' (maléfices); faint"
+  },
+  {
+   "where": "blocks[9].lines[1]",
+   "text": "ſi deteſtable paillard, & flagitieux prodireur {a3}. car le pé",
+   "note": "'prodireur' as printed (for proditeur), sic; mark over e of 'pé' looks acute, could be tilde (pẽ); marker keyed a3 (third a on page)"
+  },
+  {
+   "where": "blocks[9].lines[2]",
+   "text": "dement au gibet, eſt de tous les ſupplices que les anciẽs",
+   "note": "mark over e of 'anciẽs' read as tilde; could be acute"
+  },
+  {
+   "where": "blocks[9].lines[4]",
+   "text": "infame: don[?] les Poetes ont appelé telle mort vilaine,",
+   "note": "ink blot covers the last letter of 'dont'; 'appelé' printed with a wide gap 'app elé', closed up"
+  },
+  {
+   "where": "blocks[9].lines[6]",
+   "text": "lant d'Amata, mere des Lauinia, laquelle indignée con",
+   "note": "'des' as printed (for de), sic"
+  },
+  {
+   "where": "blocks[9].lines[9]",
+   "text": "dit elle meſme, & eſtrangla: diſant {b2},",
+   "note": "second marker b on the page, keyed b2"
+  },
+  {
+   "where": "blocks[10].lines[0]",
+   "text": "Et nondum informis lethi, trabe nectit ab alta.",
+   "note": "'nondum' as printed (Vergil: nodum), sic"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "re mili. Baldé",
+   "note": "mark over final e of 'Baldé' unclear (acute or tilde or dot)"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "xij. de Aenei.",
+   "note": "final point of 'Aenei.' may be a colon"
+  },
+  {
+   "where": "signature",
+   "text": "I",
+   "note": "single capital I centred below the last line, read as signature"
+  }
+ ]
+}

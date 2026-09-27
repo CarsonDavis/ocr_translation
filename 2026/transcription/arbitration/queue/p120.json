@@ -1,0 +1,22 @@
+{
+ "page": "p120",
+ "a": "transcription/reads/A/p120.json",
+ "b": "transcription/reads/B/p120.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-003",
+   "kind": "body",
+   "where_a": "blocks[0].lines[3]",
+   "where_b": "blocks[0].lines[3]",
+   "index": 3,
+   "index_b": 3,
+   "a": "prendre en deux ſortes, Narurellement, & Ciuillemẽt.",
+   "b": "prendre en deux ſortes, Naturellement, & Ciuillemẽt.",
+   "context_before": "Droict, n'ignorent pas que la peine du glaiue ſe peut",
+   "context_after": "La peine du glaiue naturelle, couppe & fait diſſection",
+   "strip": "pages/strips/p120/body-2.jpg",
+   "crop": "crops/p120/b-003.jpg"
+  }
+ ]
+}

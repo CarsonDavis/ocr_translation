@@ -1,0 +1,130 @@
+{
+ "id": "p147",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "147",
+ "signature": "K ij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "vocable Grec, qui ſignifie, ce q̃ les Latins appellent PA-",
+    "GVS: c'eſt à dire vn bourg & village: & ODE qui ſignifie",
+    "chant, qu'eſt autant à dire comme chant des villages, &",
+    "villageois. Car du commẽcement les Grecs, lors qu'ils",
+    "vouloyẽt increper & taxer les vices, & mauuaiſe vie de",
+    "quelques vns, ils ſouloyent ſ'aſſembler par les villages,",
+    "& carrefours des villes: & illec en chantant, publier la",
+    "vie de ceux qu'ils vouloyẽt obiurguer, & reprendre. En",
+    "cette eſpece de fable & poëſie, bien que le commence-",
+    "mẽt fuſt faſcheux, & triſte: l'iſſuë toutesfois eſtoit heu-",
+    "reuſe, plaiſante & aggreable: comme demonſtrent tou-",
+    "tes les Comedies de Plaute, & de Terence. Mais en la",
+    "Tragedie, ſont repreſentees par vn ſtyle haut, & graue,",
+    "les mœurs, aduerſitez, & vie calamiteuſe des capitai-",
+    "nes, Ducs, Roys, & Princes: ayant touſiours eſté ainſi",
+    "appellée, par ce que le premier prix qui fut propoſé",
+    "aux meilleurs iouëurs de cette eſpece de poëſie, fut vn",
+    "BOVC, que les Grecs nomment TRAGOS."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Carmine qui tragico, Vilem, certauit ob",
+    "hircum {c}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Ou bien vne peau de Bouc, pleine de vin: & ODE, qui",
+    "ſignifie chant, c'eſt à dire chant de Bouc. Et cette eſpece",
+    "de fable a touſiours l'iſſuë triſte, malheureuſe & lamen-",
+    "table: dont eſt ores tiree & priſe la maniere de parler:",
+    "de laquelle pluſieurs en ce temps vſent, d'appeller les",
+    "actes infelices & malheureux (bien que ſont traittez",
+    "entre perſonnes viles & abiectes) ieux de tragedie."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et pour paruenir plus commodement",
+    "ſ'aduiſa de ſ'enquerir, & informer le plus",
+    "cautement qu'il pourroit, auec leſdits Pu-",
+    "iol, Quillet, & autres amis familiers, &",
+    "voiſins, de l'eſtat dud. Martin Guerre: de",
+    "ſes pere, femme, ſœurs, oncle, & autres pa",
+    "rens: enſemble de ce qu'iceluy Martin"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "c",
+   "beside_line": "hircum {c}.",
+   "lines": [
+    "Horace au",
+    "liure de l'art",
+    "poëtique."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "vocable Grec, qui ſignifie, ce q̃ les Latins appellent PA-",
+   "note": "abbreviation mark over q read as tilde (q̃ = que); PAGVS in spaced small capitals across the line break"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "chant, qu'eſt autant à dire comme chant des villages, &",
+   "note": "'qu'eſt': the long s is damaged, prints like 'qu'eit'/'qu'elt'"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "reuſe, plaiſante & aggreable: comme demonſtrent tou-",
+   "note": "punctuation after 'aggreable' read as colon; lower dot is slightly tailed, could be semicolon"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "appellée, par ce que le premier prix qui fut propoſé",
+   "note": "a small curved stray mark (tilde-like, probably a displaced sort or ink) sits below the space between 'ce' and 'que'; not transcribed"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Carmine qui tragico, Vilem, certauit ob",
+   "note": "'Vilem' begins with a swash italic V-shaped letter; could be a swash lowercase v ('vilem')"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "rens: enſemble de ce qu'iceluy Martin",
+   "note": "punctuation after 'rens' set with space before; read as colon, could be semicolon"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Horace au",
+   "note": "'au' shows dot/accent-like marks above (àu / aü?); probably ink specks; read plain 'au'"
+  }
+ ]
+}

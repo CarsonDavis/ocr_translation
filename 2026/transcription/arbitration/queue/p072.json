@@ -1,0 +1,94 @@
+{
+ "page": "p072",
+ "a": "transcription/reads/A/p072.json",
+ "b": "transcription/reads/B/p072.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-025",
+   "kind": "body",
+   "where_a": "blocks[7].text",
+   "where_b": "blocks[7].text",
+   "index": 25,
+   "index_b": 25,
+   "a": "ANNOT. LII.",
+   "b": "ANNOT. LII,",
+   "context_before": "enfans, & du preuenu.",
+   "context_after": "Ces trois poincts eſtoyent en grande conſideration",
+   "strip": "pages/strips/p072/body-6.jpg",
+   "crop": "crops/p072/b-025.jpg"
+  },
+  {
+   "id": "n-a-2",
+   "kind": "note",
+   "key": "a",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[2]",
+   "where_b": "margin_notes[0].lines[2]",
+   "a": "c & in noſtra",
+   "b": "c. & in noſtra",
+   "context_before": "ſam. de prob.",
+   "context_after": "de teſtib.",
+   "strip": "pages/strips/p072/margin-2.jpg",
+   "crop": "crops/p072/n-a-2.jpg"
+  },
+  {
+   "id": "ns-c",
+   "kind": "note-structure",
+   "where_a": "margin_notes[4]",
+   "where_b": "margin_notes[4]",
+   "notes_a": [
+    "margin_notes[4]"
+   ],
+   "notes_b": [
+    "margin_notes[4]"
+   ],
+   "a": "[c] Aud. itaque.\nC. con. de ſuc.",
+   "b": "[c2] Aud. itaque.\nC. con. de ſuc.",
+   "layout_a": [
+    {
+     "where": "margin_notes[4]",
+     "kind": "margin_notes",
+     "key": "c",
+     "beside_line": "ont quelque doute, la faueur, ou du mariage ou des",
+     "lines": [
+      {
+       "text": "Aud. itaque.",
+       "from": "margin_notes[4].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "C. con. de ſuc.",
+       "from": "margin_notes[4].lines[1]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[4]",
+     "kind": "margin_notes",
+     "key": "c2",
+     "beside_line": "ont quelque doute, la faueur, ou du mariage ou des",
+     "lines": [
+      {
+       "text": "Aud. itaque.",
+       "from": "margin_notes[4].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "C. con. de ſuc.",
+       "from": "margin_notes[4].lines[1]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
+   "strip": "pages/strips/p072/margin-3.jpg",
+   "crop": "crops/p072/ns-c.jpg"
+  }
+ ]
+}

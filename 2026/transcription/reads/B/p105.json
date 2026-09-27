@@ -1,0 +1,138 @@
+{
+ "id": "p105",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "105",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Dicam, Sicculique pœtæ",
+    "Narrabo interitum: Deus immortalus haberi",
+    "Dum cupit Empedocles, ardentem frigidus",
+    "Aethnam.",
+    "Inſiluit ius, liceátque perire pœtis."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Toutesfois il fuſt bien fruſtré de ſon eſperance: car",
+    "l'impetuoſité du feu reietta dehors les petites pantouf-",
+    "fles detain qu'il ſouloit porter. ce que deſcouurit toute",
+    "ſon ambition & impoſture. Or reuenans à nos moutõs",
+    "c'eſt vne choſe fort villaine, laſche, indigne d'vn Chre-",
+    "ſtien, & treſdeſplaiſante à Dieu, de vouloir deuancer ſes",
+    "iours, ſe maſſacrer, & deffaire de ſes propres mains auãt",
+    "que le Seigneur nous appelle: duquel nous auons en",
+    "garde l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+    "der de l'argent, ou des bagues, ou autres choſes de ton",
+    "amy, ſi tu en vſes mal, tu es à fort bonne raiſon eſtimé",
+    "meſchant, deſloyal, & peruers: à plus grande occaſion",
+    "doncques, ſi tu abuſes, reiettes & chaſſes de toy vne cho",
+    "ſe ſi precieuſe, qu'eſt l'ame, laquelle Dieu t'a commiſe,",
+    "& ballice en garde."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Voyant que ce proditeur luy auoit deſ-",
+    "robé ſon honneur, & l'opinion de ſa cha",
+    "ſteté, elle incontinent mit en Iuſtice le",
+    "priſonnier: & l'a ſi viuement pourſuyui,",
+    "que par ſentence du Iuge de Rieux fut",
+    "condemné perdre la teſte, & eſtre mis &",
+    "quatre quartiers, & non contente, apres",
+    "l'appel par luy interietté au parlemẽt de",
+    "Tholoſe, elle preſenta requeſte à ladite",
+    "cour, à ce qu'il luy fuſt permis ſ'en venir:",
+    "(car elle demeuroit par l'appel encor ar-"
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "final E of THOLOSE and the stop after it are poorly inked (E looks like a broken sort, stop looks like a small comma/curl); read as 'THOLOSE.'"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "Dicam, Sicculique pœtæ",
+   "note": "'Sicculique' sic (double c) as printed; 'pœtæ' read with œ ligature, could be 'poetæ'"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "Narrabo interitum: Deus immortalus haberi",
+   "note": "'immortalus' as printed (Horace has 'immortalis'); the final glyph pair is the same italic 'us' shape as in 'Deus'; possibly an 'is' ligature misread, sic otherwise"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Aethnam.",
+   "note": "sic, 'Aethnam' for Aetnam; line printed indented as a turnover of the preceding verse line but it is a separate printed line"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "Inſiluit ius, liceátque perire pœtis.",
+   "note": "'Inſiluit' read with long s; 'ius' as printed (Horace: 'sit ius'); accent on 'liceátque' as printed"
+  },
+  {
+   "where": "blocks[1].lines[2]",
+   "text": "fles detain qu'il ſouloit porter. ce que deſcouurit toute",
+   "note": "'detain' as printed (for d'eſtain), sic; stop after 'porter' read as a period, followed by lowercase 'ce'"
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "text": "que le Seigneur nous appelle: duquel nous auons en",
+   "note": "the stop after 'appelle' is an odd shape (two dots slightly offset, lower one tailed); read as colon, could be a semicolon"
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "garde l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+   "note": "'garde': the r is broken and looks like an undotted i ('gaide'); read as damaged r. 'donnée' accent sits over the second e"
+  },
+  {
+   "where": "blocks[1].lines[11]",
+   "text": "meſchant, deſloyal, & peruers: à plus grande occaſion",
+   "note": "a small stray mark (apostrophe- or ſ-like) is printed between 'grande' and 'occaſion'; treated as a stray/spacing sort, not transcribed"
+  },
+  {
+   "where": "blocks[1].lines[14]",
+   "text": "& ballice en garde.",
+   "note": "'ballice' as printed, sic (for baillee); the letter before the final e could be c or e"
+  },
+  {
+   "where": "blocks[3].lines[1]",
+   "text": "robé ſon honneur, & l'opinion de ſa cha",
+   "note": "h of 'cha' broken, looks like 'cla'; read as 'cha'"
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "ſteté, elle incontinent mit en Iuſtice le",
+   "note": "'Iuſtice' poorly inked, u and ſ partly broken"
+  },
+  {
+   "where": "blocks[3].lines[5]",
+   "text": "condemné perdre la teſte, & eſtre mis &",
+   "note": "'mis &' as printed (sense wants 'mis à quatre quartiers'); sic"
+  }
+ ]
+}

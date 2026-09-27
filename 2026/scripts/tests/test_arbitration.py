@@ -14,6 +14,9 @@ SCRIPTS = ROOT / "scripts"
 FIX = pathlib.Path(__file__).resolve().parent / "fixtures" / "arbitration"
 A, B = FIX / "A" / "t001.json", FIX / "B" / "t001.json"
 
+sys.path.insert(0, str(SCRIPTS))
+import arbitrate_queue as aq  # noqa: E402
+
 
 def run(script, *args):
     return subprocess.run([sys.executable, str(SCRIPTS / script), *map(str, args)],
@@ -22,7 +25,8 @@ def run(script, *args):
 
 @pytest.fixture
 def queue(tmp_path):
-    r = run("arbitrate_queue.py", "t001", "--a", A, "--b", B, "--out-dir", tmp_path, "--no-crops")
+    r = run("arbitrate_queue.py", "t001", "--a", A, "--b", B, "--out-dir", tmp_path, "--no-crops",
+            "--include-flagged")
     assert r.returncode == 0, r.stderr
     return tmp_path, json.loads((tmp_path / "queue" / "t001.json").read_text())
 
@@ -35,7 +39,7 @@ def test_queue_items_and_pointers(queue):
     _, q = queue
     it = items_by_id(q)
     # the punctuation-spacing difference on line 0 is normalized away, never an item
-    # flagged lines are in by default: A's "sic" entry flags a line both reads agree on
+    # with --include-flagged, A's "sic" entry flags a line both reads agree on
     assert set(it) == {"b-002", "u-a-004", "u-b-005", "n-a-1", "s-folio", "f-b-003"}
     f = it["f-b-003"]
     assert f["hint"] == ("Both readers agree on this line; flagged by A.\n"
@@ -71,14 +75,14 @@ def test_space_only_difference_is_not_an_item(tmp_path):
     assert json.loads((tmp_path / "queue" / "t001.json").read_text())["items"] == []
 
 
-def test_flagged_default_and_no_flagged(tmp_path):
+def test_flagged_off_by_default_and_include_flagged(tmp_path):
     r = run("arbitrate_queue.py", "t001", "--a", A, "--b", B, "--out-dir", tmp_path / "off",
-            "--no-crops", "--no-flagged")
+            "--no-crops")
     assert r.returncode == 0, r.stderr
     q = json.loads((tmp_path / "off" / "queue" / "t001.json").read_text())
     assert q["include_flagged"] is False and not [i for i in q["items"] if i["kind"] == "flagged"]
     r = run("arbitrate_queue.py", "t001", "--a", A, "--b", B, "--out-dir", tmp_path,
-            "--no-crops")
+            "--no-crops", "--include-flagged")
     assert r.returncode == 0, r.stderr
     it = items_by_id(json.loads((tmp_path / "queue" / "t001.json").read_text()))
     f = it["f-b-003"]
@@ -416,3 +420,50 @@ def test_single_unmatched_note_line_stays_single(tmp_path):
         b["margin_notes"][0]["lines"].append("C. de iure iur.")
     q = _variant(tmp_path, extra)
     assert [i["id"] for i in q["items"]] == ["un-a-b2"]
+
+
+def test_heading_text_only_is_a_line_item_not_structural(tmp_path):
+    # p070's shape: same blocks, only a heading's punctuation differs
+    q = _variant(tmp_path, lambda b: b["blocks"][0].update(text="TEXTE,"))
+    it = items_by_id(q)
+    assert set(it) == {"b-000"}                      # no s-blocks duplicate
+    assert (it["b-000"]["where_a"], it["b-000"]["a"], it["b-000"]["b"]) == \
+        ("blocks[0].text", "TEXTE.", "TEXTE,")
+    for choice, want in (("A", "TEXTE."), ("B", "TEXTE,")):
+        r, page = _apply_variant(tmp_path, {"b-000": {"choice": choice}})
+        assert r.returncode == 0, r.stdout + r.stderr
+        assert page["blocks"][0] == {"type": "heading", "text": want}
+        assert len(page["decisions"]) == 1
+
+
+def test_heading_text_with_a_furniture_difference_keeps_only_the_furniture_item(tmp_path):
+    def both(b):
+        b["blocks"][0]["text"] = "TEXTE,"
+        b["folio"] = "13"
+    assert set(items_by_id(_variant(tmp_path, both))) == {"b-000", "s-folio"}
+
+
+def test_block_type_difference_keeps_structural_item_with_compact_rows(tmp_path):
+    def retype(b):              # B reads the first paragraph line as its own heading
+        lines = b["blocks"][1]["lines"]
+        b["blocks"][1:2] = [{"type": "heading", "text": lines[0]},
+                            {"type": "paragraph", "lines": lines[1:]}]
+    it = items_by_id(_variant(tmp_path, retype))
+    s = it["s-blocks"]
+    assert s["kind"] == "structural" and s["text"].startswith("block count: A=2 B=3")
+    rows = s["block_rows"]
+    assert rows[0] == {"a": "heading: TEXTE.", "b": "heading: TEXTE.", "status": "same"}
+    assert [r["status"] for r in rows] == ["same", "diff", "diff"]
+    assert rows[1]["a"].startswith("paragraph (5 lines): Le premier ligne")
+    assert rows[1]["b"] == "heading: Le premier ligne {a}, & la ſuite"
+    assert rows[2]["a"] is None and rows[2]["b"].startswith("paragraph (4 lines): vne ligne")
+
+
+def test_block_rows_keep_one_block_of_context_and_collapse_the_rest():
+    sa = ["heading: T", "p1", "p2", "p3", "heading: X", "p4", "p5", "p6"]
+    sb = ["heading: T", "p1", "p2", "p3", "heading: Y", "p4", "p5", "p6"]
+    rows = aq.block_rows(sa, sb)
+    assert [(r["status"], r["a"], r["b"]) for r in rows] == [
+        ("gap", None, None), ("same", "p3", "p3"), ("diff", "heading: X", "heading: Y"),
+        ("same", "p4", "p4"), ("gap", None, None)]
+    assert aq.block_rows(sa, sa) == [{"a": None, "b": None, "status": "gap"}]

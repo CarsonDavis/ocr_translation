@@ -1,13 +1,30 @@
-# Translator prompt (one logical section)
+# Translator prompt (one logical section, or a batch of consecutive sections)
 
-You are translating one section of Jean de Coras, *Arrest memorable du Parlement de
+<!-- render note: scripts/render_translate.py keeps the "single" blocks for one section and
+the "batch" blocks for a batch, and drops the other mode's blocks and this note. -->
+
+<!-- single -->You are translating one section<!-- /single --><!-- batch -->You are translating a batch of consecutive sections<!-- /batch --> of Jean de Coras, *Arrest memorable du Parlement de
 Tholose* (Paris, 1572), from sixteenth-century French into modern English. Coras was the
 reporting judge in the Martin Guerre case; the book alternates the court record (`TEXTE`)
 with his 111 learned annotations. This is the first English translation of the annotations.
 Accuracy of meaning comes first; readable, natural English second; nothing is omitted.
 
+<!-- single -->
 Section: `{SECTION_ID}`. Output file: `translation/sections/{SECTION_ID}.md` (write only this
 file, plus the report file named at the end).
+<!-- /single -->
+<!-- batch -->
+Sections, in book order ({BATCH_SIZE}): {SECTION_IDS}.
+Output: one file per section, `translation/sections/<id>.md`, each in the format below
+(write only these files, the glossary rows in the case file, and the one batch report named
+at the end).
+
+**Read before you write.** Before translating any of it, read the French of every section
+in the batch, start to finish, and skim the rest of `text/sections.json` (the stitched
+French of the whole book so far) so you know where the argument is going and what comes
+back later. `text/sections.json` is read-only context: never edit it. Then translate the
+sections in order, one file each.
+<!-- /batch -->
 
 ## Inputs (under /Users/cdavis/github/translator/2026/)
 
@@ -19,10 +36,11 @@ file, plus the report file named at the end).
 2. `docs/conventions.md` §2 — how to read the diplomatic French (`ſ` = s, `u/v` and `i/j`
    as printed, `ẽ` = en/em, `õ` = on/om, `q̃` = que, `&` = et, `{a}` = a marginal citation
    marker).
-3. The section itself: `text/sections.json`, entry with `"id": "{SECTION_ID}"`. Its `text`
+3. <!-- single -->The section itself: `text/sections.json`, entry with `"id": "{SECTION_ID}"`.<!-- /single --><!-- batch -->The sections themselves: the `text/sections.json` entries with the ids listed above
+   (the whole file is the French so far; read-only).<!-- /batch --> <!-- single -->Its<!-- /single --><!-- batch -->Each entry's<!-- /batch --> `text`
    is reflowed diplomatic French containing `⟦pNNN⟧` page markers and `{x}` note markers;
    its `notes` are the marginal citations keyed by letter.
-4. Context: the previous sections' French and English: {CONTEXT_SECTIONS} (files under
+4. Context: the previous <!-- batch -->batch's<!-- /batch --><!-- single -->sections'<!-- /single --> French and English: {CONTEXT_SECTIONS} (files under
    `translation/sections/` and the same `sections.json` entries). Match their terminology,
    names, and tone.
 
@@ -30,7 +48,7 @@ file, plus the report file named at the end).
 
 ```
 ---
-id: {SECTION_ID}
+id: <!-- single -->{SECTION_ID}<!-- /single --><!-- batch --><section id><!-- /batch -->
 pages: [p040, p041]
 ---
 ⟦p040⟧English prose… with {a} markers exactly where the French has them… ⟦p041⟧…
@@ -79,6 +97,7 @@ Rules:
 
 ## Finish
 
+<!-- single -->
 Run: `uv run python scripts/check_markers.py {SECTION_ID}` and fix until it passes.
 Write a short report to `translation/reports/{SECTION_ID}.md`: word counts (French,
 English), glossary additions, any `[unclear]` passages with the French, citations you could
@@ -87,3 +106,15 @@ not identify, and anything the reviewer should look at. Then return the same rep
 RETURN ONLY a three-line summary to the coordinator (the full report lives in the file you
 saved): line 1 the output path and validator/checker result; line 2 the counts; line 3 the
 escalations or open questions, or "none".
+<!-- /single -->
+<!-- batch -->
+After writing each section's file, run `uv run python scripts/check_markers.py <id>` for
+that section and fix until it passes, before moving to the next section.
+Write ONE report for the batch to `{REPORT_PATH}`: per section, word counts (French,
+English), `⟨alt⟩` choices, any `[unclear]` passages with the French, citations you could
+not identify; then the glossary additions and anything the reviewer should look at.
+
+RETURN ONLY a three-line summary to the coordinator (the full report lives in the file you
+saved): line 1 the sections written and the check_markers result for each (e.g. `12/12 ok`);
+line 2 the counts; line 3 the escalations or open questions, or "none".
+<!-- /batch -->

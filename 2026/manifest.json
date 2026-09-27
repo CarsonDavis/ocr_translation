@@ -2584,9 +2584,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2609,7 +2609,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.6
   },
   {
    "id": "p065",
@@ -2623,8 +2624,8 @@
     "acquired": "done",
     "cropped": "done",
     "readA": "done",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2647,7 +2648,8 @@
     ],
     "tilt": 0.9,
     "mode": "detected"
-   }
+   },
+   "agreement": 96.9
   },
   {
    "id": "p066",
@@ -2736,9 +2738,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2761,7 +2763,8 @@
     ],
     "tilt": -0.6,
     "mode": "detected"
-   }
+   },
+   "agreement": 93.5
   },
   {
    "id": "p069",
@@ -2775,8 +2778,8 @@
     "acquired": "done",
     "cropped": "done",
     "readA": "done",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2799,7 +2802,8 @@
     ],
     "tilt": -0.8,
     "mode": "detected"
-   }
+   },
+   "agreement": 93.9
   },
   {
    "id": "p070",
@@ -2812,9 +2816,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2837,7 +2841,8 @@
     ],
     "tilt": -0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.0
   },
   {
    "id": "p071",
@@ -2850,9 +2855,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2875,7 +2880,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.9
   },
   {
    "id": "p072",
@@ -2888,9 +2894,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2913,7 +2919,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.0
   },
   {
    "id": "p073",
@@ -2926,9 +2933,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2951,7 +2958,8 @@
     ],
     "tilt": 0.9,
     "mode": "detected"
-   }
+   },
+   "agreement": 88.6
   },
   {
    "id": "p074",
@@ -2964,9 +2972,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -2989,7 +2997,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p075",
@@ -3002,9 +3011,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "dispatched",
-    "readB": "dispatched",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3027,7 +3036,8 @@
     ],
     "tilt": 0.8,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.1
   },
   {
    "id": "p076",
@@ -3040,9 +3050,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3065,7 +3075,8 @@
     ],
     "tilt": -0.9,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.4
   },
   {
    "id": "p077",
@@ -3078,9 +3089,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3103,7 +3114,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p078",
@@ -3116,9 +3128,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3141,7 +3153,8 @@
     ],
     "tilt": -0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.7
   },
   {
    "id": "p079",
@@ -3154,9 +3167,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3179,7 +3192,8 @@
     ],
     "tilt": 1.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 88.9
   },
   {
    "id": "p080",
@@ -3192,9 +3206,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3217,7 +3231,8 @@
     ],
     "tilt": -0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.2
   },
   {
    "id": "p081",
@@ -3230,9 +3245,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3255,7 +3270,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.7
   },
   {
    "id": "p082",
@@ -3268,9 +3284,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3293,7 +3309,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p083",
@@ -3306,9 +3323,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3331,7 +3348,8 @@
     ],
     "tilt": 0.7,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p084",
@@ -3344,9 +3362,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3369,7 +3387,8 @@
     ],
     "tilt": -0.8,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.4
   },
   {
    "id": "p085",
@@ -3382,9 +3401,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3407,7 +3426,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p086",
@@ -3420,9 +3440,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3445,7 +3465,8 @@
     ],
     "tilt": -0.5,
     "mode": "detected"
-   }
+   },
+   "agreement": 96.9
   },
   {
    "id": "p087",
@@ -3458,9 +3479,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3483,7 +3504,8 @@
     ],
     "tilt": 0.9,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.2
   },
   {
    "id": "p088",
@@ -3496,9 +3518,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3521,7 +3543,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 93.8
   },
   {
    "id": "p089",
@@ -3534,9 +3557,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3559,7 +3582,8 @@
     ],
     "tilt": 0.8,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p090",
@@ -3572,9 +3596,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3597,7 +3621,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p091",
@@ -3610,9 +3635,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3635,7 +3660,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 92.5
   },
   {
    "id": "p092",
@@ -3648,9 +3674,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3673,7 +3699,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.7
   },
   {
    "id": "p093",
@@ -3686,9 +3713,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3711,7 +3738,8 @@
     ],
     "tilt": -0.9,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.4
   },
   {
    "id": "p094",
@@ -3724,9 +3752,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3749,7 +3777,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p095",
@@ -3762,9 +3791,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3787,7 +3816,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 92.3
   },
   {
    "id": "p096",
@@ -3800,9 +3830,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3825,7 +3855,8 @@
     ],
     "tilt": 0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.2
   },
   {
    "id": "p097",
@@ -3838,9 +3869,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3863,7 +3894,8 @@
     ],
     "tilt": 0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p098",
@@ -3876,9 +3908,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3901,7 +3933,8 @@
     ],
     "tilt": -0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p099",
@@ -3914,9 +3947,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3939,7 +3972,8 @@
     ],
     "tilt": 0.6,
     "mode": "detected"
-   }
+   },
+   "agreement": 87.2
   },
   {
    "id": "p100",
@@ -3952,9 +3986,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -3977,7 +4011,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.1
   },
   {
    "id": "p101",
@@ -3990,9 +4025,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4015,7 +4050,8 @@
     ],
     "tilt": 1.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 89.7
   },
   {
    "id": "p102",
@@ -4028,9 +4064,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4053,7 +4089,8 @@
     ],
     "tilt": -1.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.0
   },
   {
    "id": "p103",
@@ -4066,9 +4103,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4091,7 +4128,8 @@
     ],
     "tilt": 1.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p104",
@@ -4104,9 +4142,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4129,7 +4167,8 @@
     ],
     "tilt": -1.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p105",
@@ -4142,9 +4181,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4167,7 +4206,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 90.6
   },
   {
    "id": "p106",
@@ -4180,9 +4220,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4205,7 +4245,8 @@
     ],
     "tilt": 0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p107",
@@ -4218,9 +4259,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4243,7 +4284,8 @@
     ],
     "tilt": -0.7,
     "mode": "detected"
-   }
+   },
+   "agreement": 93.3
   },
   {
    "id": "p108",
@@ -4256,9 +4298,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4281,7 +4323,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p109",
@@ -4294,9 +4337,9 @@
    "status": {
     "acquired": "done",
     "cropped": "done",
-    "readA": "pending",
-    "readB": "pending",
-    "diffed": "pending",
+    "readA": "done",
+    "readB": "done",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4319,7 +4362,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p110",
@@ -4334,7 +4378,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4357,7 +4401,8 @@
     ],
     "tilt": -0.9,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.7
   },
   {
    "id": "p111",
@@ -4372,7 +4417,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4395,7 +4440,8 @@
     ],
     "tilt": 0.6,
     "mode": "detected"
-   }
+   },
+   "agreement": 89.7
   },
   {
    "id": "p112",
@@ -4410,7 +4456,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4433,7 +4479,8 @@
     ],
     "tilt": 0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.5
   },
   {
    "id": "p113",
@@ -4448,7 +4495,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4471,7 +4518,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 95.0
   },
   {
    "id": "p114",
@@ -4486,7 +4534,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4509,7 +4557,8 @@
     ],
     "tilt": -0.5,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.5
   },
   {
    "id": "p115",
@@ -4524,7 +4573,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4547,7 +4596,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p116",
@@ -4562,7 +4612,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4585,7 +4635,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 95.0
   },
   {
    "id": "p117",
@@ -4600,7 +4651,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4623,7 +4674,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p118",
@@ -4638,7 +4690,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4661,7 +4713,8 @@
     ],
     "tilt": -1.2,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p119",
@@ -4676,7 +4729,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4699,7 +4752,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 90.0
   },
   {
    "id": "p120",
@@ -4714,7 +4768,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4737,7 +4791,8 @@
     ],
     "tilt": -0.8,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.5
   },
   {
    "id": "p121",
@@ -4752,7 +4807,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4775,7 +4830,8 @@
     ],
     "tilt": 0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p122",
@@ -4790,7 +4846,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4813,7 +4869,8 @@
     ],
     "tilt": -1.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 95.0
   },
   {
    "id": "p123",
@@ -4828,7 +4885,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4851,7 +4908,8 @@
     ],
     "tilt": 0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.7
   },
   {
    "id": "p124",
@@ -4866,7 +4924,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4889,7 +4947,8 @@
     ],
     "tilt": -0.7,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p125",
@@ -4904,7 +4963,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4927,7 +4986,8 @@
     ],
     "tilt": 0.5,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p126",
@@ -4942,7 +5002,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -4965,7 +5025,8 @@
     ],
     "tilt": -1.5,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.6
   },
   {
    "id": "p127",
@@ -4980,7 +5041,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5003,7 +5064,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.4
   },
   {
    "id": "p128",
@@ -5018,7 +5080,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5041,7 +5103,8 @@
     ],
     "tilt": -0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p129",
@@ -5056,7 +5119,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5079,7 +5142,8 @@
     ],
     "tilt": 0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.2
   },
   {
    "id": "p130",
@@ -5094,7 +5158,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5117,7 +5181,8 @@
     ],
     "tilt": 0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.7
   },
   {
    "id": "p131",
@@ -5132,7 +5197,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5155,7 +5220,8 @@
     ],
     "tilt": 1.2,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p132",
@@ -5170,7 +5236,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5193,7 +5259,8 @@
     ],
     "tilt": -0.9,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.9
   },
   {
    "id": "p133",
@@ -5208,7 +5275,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5231,7 +5298,8 @@
     ],
     "tilt": 1.1,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.4
   },
   {
    "id": "p134",
@@ -5246,7 +5314,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5269,7 +5337,8 @@
     ],
     "tilt": -1.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 100.0
   },
   {
    "id": "p135",
@@ -5284,7 +5353,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5307,7 +5376,8 @@
     ],
     "tilt": 1.5,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.7
   },
   {
    "id": "p136",
@@ -5322,7 +5392,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5345,7 +5415,8 @@
     ],
     "tilt": -1.5,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.2
   },
   {
    "id": "p137",
@@ -5360,7 +5431,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5383,7 +5454,8 @@
     ],
     "tilt": 0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 95.0
   },
   {
    "id": "p138",
@@ -5398,7 +5470,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5421,7 +5493,8 @@
     ],
     "tilt": -0.6,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.9
   },
   {
    "id": "p139",
@@ -5436,7 +5509,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5459,7 +5532,8 @@
     ],
     "tilt": 1.1,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.5
   },
   {
    "id": "p140",
@@ -5474,7 +5548,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5497,7 +5571,8 @@
     ],
     "tilt": -0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 95.0
   },
   {
    "id": "p141",
@@ -5512,7 +5587,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5535,7 +5610,8 @@
     ],
     "tilt": 0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.9
   },
   {
    "id": "p142",
@@ -5550,7 +5626,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5573,7 +5649,8 @@
     ],
     "tilt": 0.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 93.8
   },
   {
    "id": "p143",
@@ -5588,7 +5665,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5611,7 +5688,8 @@
     ],
     "tilt": 1.0,
     "mode": "detected"
-   }
+   },
+   "agreement": 92.1
   },
   {
    "id": "p144",
@@ -5626,7 +5704,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5649,7 +5727,8 @@
     ],
     "tilt": -0.3,
     "mode": "detected"
-   }
+   },
+   "agreement": 88.2
   },
   {
    "id": "p145",
@@ -5664,7 +5743,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5687,7 +5766,8 @@
     ],
     "tilt": 0.9,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.7
   },
   {
    "id": "p146",
@@ -5702,7 +5782,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5725,7 +5805,8 @@
     ],
     "tilt": 0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.1
   },
   {
    "id": "p147",
@@ -5740,7 +5821,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5763,7 +5844,8 @@
     ],
     "tilt": 0.4,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.1
   },
   {
    "id": "p148",
@@ -5778,7 +5860,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5801,7 +5883,8 @@
     ],
     "tilt": -1.2,
     "mode": "detected"
-   }
+   },
+   "agreement": 97.0
   },
   {
    "id": "p149",
@@ -5816,7 +5899,7 @@
     "cropped": "done",
     "readA": "pending",
     "readB": "pending",
-    "diffed": "pending",
+    "diffed": "done",
     "final": "pending",
     "spotchecked": "pending",
     "translated": "pending",
@@ -5839,7 +5922,8 @@
     ],
     "tilt": 0.6,
     "mode": "detected"
-   }
+   },
+   "agreement": 94.3
   },
   {
    "id": "p150",

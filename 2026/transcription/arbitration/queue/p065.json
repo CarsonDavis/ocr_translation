@@ -1,0 +1,22 @@
+{
+ "page": "p065",
+ "a": "transcription/reads/A/p065.json",
+ "b": "transcription/reads/B/p065.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-021",
+   "kind": "body",
+   "where_a": "blocks[2].lines[6]",
+   "where_b": "blocks[2].lines[6]",
+   "index": 21,
+   "index_b": 21,
+   "a": "ſemblables, dit. il, les œufs aux œufs, & les mouſches à",
+   "b": "ſemblables, dit. il, les œuſs aux œufs, & les mouſches à",
+   "context_before": "congnoiſtre l'vn de l'autre. Et peu apres Comme ſont",
+   "context_after": "miel entre elles {a}. Et Soſia dans Plaute, voyant Mercu-",
+   "strip": "pages/strips/p065/body-5.jpg",
+   "crop": "crops/p065/b-021.jpg"
+  }
+ ]
+}

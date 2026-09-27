@@ -1,0 +1,117 @@
+{
+ "id": "p145",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "145",
+ "signature": "K",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "eſtoit nommée celle qui eſt deça les Alpes, laquelle à",
+    "nous eſt Ciſalpine, & diuiſée par Iules Ceſar, & les au-",
+    "tres en trois: à ſçauoir, en la Belgique, Celtique, & A-",
+    "quitaine. Les Celtes ſont ſeparez des Aquitains par lè",
+    "fleuue de Garomne, deſcendant des mõtaignes de Co-",
+    "menge, & des Belges, par les fleuues de Marne (ainſi ap-",
+    "pellé de Marneuf, village à vne lieuë de Langres, d'où",
+    "il vient) & Seine venant de la Duché de Bourgongne.",
+    "Les Belges ſont ſeparez des Germains, que nous appel-",
+    "lons Allemans, par le fleuue du Rhein. En la Gaule Bel-",
+    "gique, ſont les prouinces de Flandres, Lorraine, Picar-",
+    "die, & Normandie. La Picardie prend ſa ſource aux fins",
+    "de la Duché de Valois, & eſt auſſi diuiſee en trois par-",
+    "ties: en la vraye, en la Baſſe, & en la Haute. La Vraye",
+    "commence a Creuecœur, contenant la Vidamie d'A-",
+    "miens, Corbie, Piquigny, Comtez de Vermandois, & de",
+    "Retelois, & la Duché de Tierache, de laquelle Guyſe eſt",
+    "la ville principale. La baſſe Picardie, commẽce au pays",
+    "de Santerre, ſuyuant la vraye France, & Duché de Va-",
+    "lois, comprenant les Comtez de Põthieu, de Montreul,",
+    "de Guynes, de Boulenois, & le pays d'Oye. La haute Pi-",
+    "cardie, prend commencement au delà de la riuiere de",
+    "Somme, & contient le Cambreſis, Torneſis, Comtez",
+    "de Hainaut, de Namur, pays de Treues, duchez de Lu-",
+    "xembour, & de Brabant: voire la Comté de Flandres",
+    "eſtoit anciennement de la haute Picardie. Mais d'où la",
+    "Picardie puiſſe auoir tiré ſon nõ, il eſt encor incertain,",
+    "ſi ne voulons ſuyure la coniecture de quelques vns,",
+    "qui cõme les Lombars ſont ainſi appellez, de ce qu'ils",
+    "ſouloyent porter longues barbes, ou bien, parce que",
+    "d'eux eſt premierement venu l'vſage des longues Ia-",
+    "uelines de Barde: auſſi penſent les Picards auoir eſté",
+    "nommez ainſi, partant que de ce peuple eſt venu le cõ-",
+    "mencement de l'vſage des picques."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Quelques vns, entre leſquels nomme",
+    "principalement maiſtre Dominique Pi-",
+    "uol, & Pierre de Guilher, hoſte du lieu"
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "spaced capitals in the head; the E sorts of PARLEMENT look damaged/odd (could be read as I), transcribed as E"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "tres en trois: à ſçauoir, en la Belgique, Celtique, & A-",
+   "note": "'à' before ſçauoir: accent faint, could be plain 'a'"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "quitaine. Les Celtes ſont ſeparez des Aquitains par lè",
+   "note": "line-final 'lè' shows an accent-like mark over e; possibly a blot on plain 'le'"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "fleuue de Garomne, deſcendant des mõtaignes de Co-",
+   "note": "'Garomne' as printed (sic); line-end hyphen printed as a raised dot"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "ties: en la vraye, en la Baſſe, & en la Haute. La Vraye",
+   "note": "punctuation after 'vraye' (comma, low) and after 'Haute' (looks like a point, possibly a comma) doubtful"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "commence a Creuecœur, contenant la Vidamie d'A-",
+   "note": "'commence a' set tight, no accent visible on a"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "de Santerre, ſuyuant la vraye France, & Duché de Va-",
+   "note": "line-end break sign printed as a mid dot, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[0].lines[29]",
+   "text": "ſouloyent porter longues barbes, ou bien, parce que",
+   "note": "final 'que' could be a turned-letter 'qne' (sic); read as que"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "mencement de l'vſage des picques.",
+   "note": "'picques': the c looks like e ('pieques'); possible wrong sort"
+  }
+ ]
+}

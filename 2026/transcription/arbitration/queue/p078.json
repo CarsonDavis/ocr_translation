@@ -1,0 +1,63 @@
+{
+ "page": "p078",
+ "a": "transcription/reads/A/p078.json",
+ "b": "transcription/reads/B/p078.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-016",
+   "kind": "body",
+   "where_a": "blocks[2].lines[13]",
+   "where_b": "blocks[2].lines[13]",
+   "index": 16,
+   "index_b": 16,
+   "a": "eſçolier, l'approuuer au degre de Doctorat, ſont neceſ-",
+   "b": "eſcolier, l'approuuer au degre de Doctorat, ſont neceſ-",
+   "context_before": "Exemple, à vn college d'vniuerſité, pour examiner vn",
+   "context_after": "ſaires ſept docteurs pour le moins {e}, deſquels ſi les trois",
+   "strip": "pages/strips/p078/body-4.jpg",
+   "crop": "crops/p078/b-016.jpg"
+  },
+  {
+   "id": "b-032",
+   "kind": "body",
+   "where_a": "blocks[2].lines[29]",
+   "where_b": "blocks[2].lines[29]",
+   "index": 32,
+   "index_b": 32,
+   "a": "tre, car ils le virenr ce iour la à Paris: ſ'ils ſont en pareil",
+   "b": "tre, car ils le virent ce iour la à Paris: ſ'ils ſont en pareil",
+   "context_before": "cõtraire, d'autres diſent qu'Antoine ne fit pas ce meur-",
+   "context_after": "nombre, ils ſont auſſi croyables (& d'auantage par ce qu'",
+   "strip": "pages/strips/p078/body-6.jpg",
+   "crop": "crops/p078/b-032.jpg"
+  },
+  {
+   "id": "n-d-1",
+   "kind": "note",
+   "key": "d",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[3].lines[1]",
+   "where_b": "margin_notes[3].lines[1]",
+   "a": "cti. & illec les",
+   "b": "ſti. & illec les",
+   "context_before": "c. propoſui",
+   "context_after": "Docteurs, de",
+   "strip": "pages/strips/p078/margin-2.jpg",
+   "crop": "crops/p078/n-d-1.jpg"
+  },
+  {
+   "id": "s-running_head",
+   "kind": "structural",
+   "field": "running_head",
+   "where_a": "running_head",
+   "where_b": "running_head",
+   "a": "ARREST DV",
+   "b": "ARREST DV.",
+   "text": "running_head: A='ARREST DV' B='ARREST DV.'",
+   "crop": "crops/p078/page.jpg",
+   "strip": "pages/read/p078.jpg"
+  }
+ ]
+}

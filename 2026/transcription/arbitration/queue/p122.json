@@ -1,0 +1,51 @@
+{
+ "page": "p122",
+ "a": "transcription/reads/A/p122.json",
+ "b": "transcription/reads/B/p122.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-018",
+   "kind": "body",
+   "where_a": "blocks[0].lines[18]",
+   "where_b": "blocks[0].lines[18]",
+   "index": 18,
+   "index_b": 18,
+   "a": "Ie ne ſçay pourtant, ſi de ceſte peine de mort, ordonnee",
+   "b": "Ie ne ſcay pourtant, ſi de ceſte peine de mort, ordonnee",
+   "context_before": "de Paris, pronõcé en May 1551. fut pẽdu & eſtrãglé {m}.",
+   "context_after": "contre les adulteres, on pouroit iuſtemẽt exempter, ſi-",
+   "strip": "pages/strips/p122/body-4.jpg",
+   "crop": "crops/p122/b-018.jpg"
+  },
+  {
+   "id": "b-031",
+   "kind": "body",
+   "where_a": "blocks[0].lines[31]",
+   "where_b": "blocks[0].lines[31]",
+   "index": 31,
+   "index_b": 31,
+   "a": "mangeaille, pour l'appaiſer {n}. Mais ceſte opiniõ eſt plei",
+   "b": "mangeaille, pour l'appaiſer {n}. Mais ceſte opiniõ eſt plei-",
+   "context_before": "me celuy lequel cõtraint de la faim, deſrobe vn peu de",
+   "context_after": "ne d'impieté, & la raiſon biẽ froide. d'autant en premi-",
+   "strip": "pages/strips/p122/body-6.jpg",
+   "crop": "crops/p122/b-031.jpg"
+  },
+  {
+   "id": "n-o-2",
+   "kind": "note",
+   "key": "o",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[6].lines[2]",
+   "where_b": "margin_notes[6].lines[2]",
+   "a": "Gloſe au c. ſi-",
+   "b": "Gloſe au c. ſi.",
+   "context_before": "de in ius voc.",
+   "context_after": "cut. de de cõ-",
+   "strip": "pages/strips/p122/margin-3.jpg",
+   "crop": "crops/p122/n-o-2.jpg"
+  }
+ ]
+}

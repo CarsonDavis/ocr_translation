@@ -1,0 +1,234 @@
+{
+ "id": "p097",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "97",
+ "signature": "G",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "freres, & certains parẽs dudit Tilh, pour",
+    "leur eſtre reſpectiuement & enſemblé-",
+    "ment exhibez, & choiſir d'iceux celuy",
+    "qu'ils recognoiſtroyent eſtre veritable-",
+    "ment Martin Guerre. Tous leſdits teſ-",
+    "moins viennẽt, reſeruez les freres dudit",
+    "du Tilh: leſquels par multiplication de",
+    "peines, lettres & cõmandemens, ne peu-",
+    "rent eſtre forcez à venir depoſer contre",
+    "leur frere."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ces perſonnes cy meritoyent certainement quelque",
+    "excuſe, de ne vouloir depoſer contre leur propre frere:",
+    "à quoy auſſi la loy ne les a pas voulu cõtraindre {a}, meſ-",
+    "mes quand ſ'agiſt de choſe ſi importante, que d'vn cri-",
+    "me capital {b}. Et à la verité, ce ſeroit choſe trop appro-",
+    "chante de l'inhumanité, de forcer vn homme à ruiner",
+    "& deſtruire ſes os, ſon ſang, & ſa propre chair {c}: laquelle",
+    "perſonne, dit l'Apoſtre, n'euſt oncques en haine {d}, eſti-",
+    "mant celuy qui n'a ſoin des ſiẽs, eſtre pire qu'infidelle {e}.",
+    "Ce qu'a eſmeu nos Interpretes à enſeigner que celuy",
+    "qui a promis preſter au Prince quelque chaſteau, ou",
+    "fortereſſe, generalement contre tous, n'eſt pourtant te-",
+    "nu la preſter contre ſoy-meſmes {f}, ny contre ſes pere,",
+    "mere, enfans, freres, & autres prochains parens qui par",
+    "nature ne luy ſõt gueres moins chers, que ſoymeſme {g}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La ſœur aiſnee arriue la premiere, la-",
+    "quelle apres auoir quelque peu contem-",
+    "plé le nouueau venu, le recognoiſt pour",
+    "ſon frere, & en pleurant le va embraſſer."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXXIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Puis que Pline, Plutarque, Valere & autres hiſtorio",
+    "graphes, nous teſmoignent pluſieurs hommes & fem"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "à quoy auſſi la loy ne les a pas voulu cõtraindre {a}, meſ-",
+   "lines": [
+    "l. lege Iulia.",
+    "D. de teſti. c ſi",
+    "teſtes. P. lege",
+    "Iulia, & P. pe.",
+    "iiij. q. iij."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "& deſtruire ſes os, ſon ſang, & ſa propre chair {c}: laquelle",
+   "lines": [
+    "l. ſi magnũ.",
+    "l. ſi ſororem.",
+    "C. qui acq.",
+    "non poſ."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "Ce qu'a eſmeu nos Interpretes à enſeigner que celuy",
+   "lines": [
+    "l. humani-",
+    "tatis. C. de ex-",
+    "cuſ. tuto."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "fortereſſe, generalement contre tous, n'eſt pourtant te-",
+   "lines": [
+    "Epheſiens",
+    "c. v."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "mere, enfans, freres, & autres prochains parens qui par",
+   "lines": [
+    "La j. de Ti-",
+    "moth. c. v."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": null,
+   "lines": [
+    "Gloſe au c.",
+    "petitio, de iu-",
+    "reiu Barto in",
+    "la l. j. D. de ſe-",
+    "nator."
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "quelle apres auoir quelque peu contem-",
+   "lines": [
+    "Balde en la",
+    "l. cũ accutiſsi-",
+    "mi C. de fidei",
+    "com. Les mai-",
+    "ſtres en la l.",
+    "frater à fra-",
+    "tre. D. de cõd.",
+    "Indebiti."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Ces perſonnes cy meritoyent certainement quelque",
+   "note": "the r of 'meritoyent' prints like an i ('meiitoyent'); possibly a damaged r or a wrong sort",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "à quoy auſſi la loy ne les a pas voulu cõtraindre {a}, meſ-",
+   "note": "'auſſi' read as ſſ ligature (could be ſs); the line-end break sign after 'meſ' is a raised dot-like mark, transcribed as hyphen",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "& deſtruire ſes os, ſon ſang, & ſa propre chair {c}: laquelle",
+   "note": "marker c is blotted and run into a colon-like mark before 'laquelle'; read as {c}: (the punctuation could be a comma or period)",
+   "escalate": false
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "nature ne luy ſõt gueres moins chers, que ſoymeſme {g}.",
+   "note": "marker g is set full size on the baseline rather than raised",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "D. de teſti. c ſi",
+   "note": "'c ſi' read from a ligature-like cluster at the line end; letters uncertain",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "teſtes. P. lege",
+   "note": "'P.' is the swash italic paragraph-sign capital",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "text": "non poſ.",
+   "note": "final period after 'poſ' faint; may be absent",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "tatis. C. de ex-",
+   "note": "'de' prints like 'd:' (e faint or broken); 'tatis' ending blurred",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[5]",
+   "text": "Gloſe au c.",
+   "note": "the key letter of this note prints like 't' rather than 'f'; keyed f to match body marker {f}. beside_line omitted: note drifts below the marker's line",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[5].lines[2]",
+   "text": "reiu Barto in",
+   "note": "'reiu' read as printed (abbreviation of iureiurando?); no visible period after it",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "l. cũ accutiſsi-",
+   "note": "sic: 'accutiſsi' with double c as printed, apparently for 'acutiſsimi'; ſs read as long s + round s",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[6].lines[6]",
+   "text": "tre. D. de cõd.",
+   "note": "'D' is set in a small roman capital, not italic",
+   "escalate": false
+  }
+ ]
+}

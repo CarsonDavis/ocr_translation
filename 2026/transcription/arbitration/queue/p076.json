@@ -1,0 +1,51 @@
+{
+ "page": "p076",
+ "a": "transcription/reads/A/p076.json",
+ "b": "transcription/reads/B/p076.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-013",
+   "kind": "body",
+   "where_a": "blocks[1].text",
+   "where_b": "blocks[1].text",
+   "index": 13,
+   "index_b": 13,
+   "a": "TEXTE.",
+   "b": "TEXTE,",
+   "context_before": "tel qu'eſtoit ledit priſonnier.",
+   "context_after": "Et de dire que ledit priſonnier ne ſçait",
+   "strip": "pages/strips/p076/body-3.jpg",
+   "crop": "crops/p076/b-013.jpg"
+  },
+  {
+   "id": "b-016",
+   "kind": "body",
+   "where_a": "blocks[2].lines[2]",
+   "where_b": "blocks[2].lines[2]",
+   "index": 16,
+   "index_b": 16,
+   "a": "faict apporte la reſponſe. car reſu[?]te. par",
+   "b": "faict apporte la reſponſe. car reſulte. par",
+   "context_before": "parler la langue de Baſcouz, la verité du",
+   "context_after": "les enqueſtes, que Martin Guerre fut ap-",
+   "strip": "pages/strips/p076/body-4.jpg",
+   "crop": "crops/p076/b-016.jpg"
+  },
+  {
+   "id": "n-b-1",
+   "kind": "note",
+   "key": "b",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[1]",
+   "where_b": "margin_notes[0].lines[1]",
+   "a": "item quacun-",
+   "b": "itam quæcun-",
+   "context_before": "l. in rem. P.",
+   "context_after": "que. D. de re.",
+   "strip": "pages/strips/p076/margin-1.jpg",
+   "crop": "crops/p076/n-b-1.jpg"
+  }
+ ]
+}

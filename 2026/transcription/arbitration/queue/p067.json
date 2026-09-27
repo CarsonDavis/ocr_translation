@@ -2,7 +2,7 @@
  "page": "p067",
  "a": "transcription/reads/A/p067.json",
  "b": "transcription/reads/B/p067.json",
- "include_flagged": true,
+ "include_flagged": false,
  "items": [
   {
    "id": "b-007",
@@ -60,77 +60,6 @@
    "context_after": "quar. rer. car.",
    "strip": "pages/strips/p067/margin-3.jpg",
    "crop": "crops/p067/n-c-1.jpg"
-  },
-  {
-   "id": "f-b-016",
-   "kind": "flagged",
-   "where_a": "blocks[4].lines[2]",
-   "where_b": "blocks[4].lines[2]",
-   "index": 16,
-   "a": "mere de ladi. de Rols, la vouloyẽt forcer",
-   "b": "mere de ladi. de Rols, la vouloyẽt forcer",
-   "flags": [
-    "B: the mark over the e of vouloyẽt is a heavy wedge; read as a tilde (vouloyẽt = vouloyent, and the corpus has many -oyẽt forms, no -oyét), but in this larger type it could be read as an acute 'vouloyét'."
-   ],
-   "hint": "Both readers agree on this line; flagged by B.\nB: the mark over the e of vouloyẽt is a heavy wedge; read as a tilde (vouloyẽt = vouloyent, and the corpus has many -oyẽt forms, no -oyét), but in this larger type it could be read as an acute 'vouloyét'.",
-   "context_before": "que ledit Pierre Guerre, & ſa femme,",
-   "context_after": "& contraindre accuſer ledit priſonnier,",
-   "strip": "pages/strips/p067/body-4.jpg",
-   "crop": "crops/p067/f-b-016.jpg"
-  },
-  {
-   "id": "f-b-021",
-   "kind": "flagged",
-   "where_a": "blocks[5].text",
-   "where_b": "blocks[5].text",
-   "index": 21,
-   "a": "ANNOTAT. XLI.",
-   "b": "ANNOTAT. XLI.",
-   "flags": [
-    "B: sic: the printed numeral is X L I with a small raised mark (risen space or wrong sort) between the X and the L; the sequence after ANNOTAT. XLV. suggests XLVI was meant. Transcribed as printed."
-   ],
-   "hint": "Both readers agree on this line; flagged by B.\nB: sic: the printed numeral is X L I with a small raised mark (risen space or wrong sort) between the X and the L; the sequence after ANNOTAT. XLV. suggests XLVI was meant. Transcribed as printed.",
-   "context_before": "maiſon, ſi ne le diſoit.",
-   "context_after": "Ce point auſſi donnoit grand argument de pẽſer qu'",
-   "strip": "pages/strips/p067/body-5.jpg",
-   "crop": "crops/p067/f-b-021.jpg"
-  },
-  {
-   "id": "f-b-026",
-   "kind": "flagged",
-   "where_a": "blocks[6].lines[4]",
-   "where_b": "blocks[6].lines[4]",
-   "index": 26,
-   "a": "ſon deſquels elle ſe tenoit: car bien qu'on ne doyuq pas",
-   "b": "ſon deſquels elle ſe tenoit: car bien qu'on ne doyuq pas",
-   "flags": [
-    "A: 'doyuq' sic for 'doyue': the final sort has a closed bowl and a right stem descending below the baseline, identical to the q of 'qu'on' earlier in the same line and unlike any e on the page (checked at 9x). A rust-coloured foxing stain sits under the descender but the black descender itself is printed. Wrong sort, transcribed as printed.",
-    "B: doyuq: the last letter is a bowl with a right stem running below the baseline (q) rather than the crossbarred e of 'doyue'; a brown stain overlaps that descender, so the wrong sort is not certain. Transcribed as printed."
-   ],
-   "hint": "Both readers agree on this line; flagged by A and B.\nA: 'doyuq' sic for 'doyue': the final sort has a closed bowl and a right stem descending below the baseline, identical to the q of 'qu'on' earlier in the same line and unlike any e on the page (checked at 9x). A rust-coloured foxing stain sits under the descender but the black descender itself is printed. Wrong sort, transcribed as printed.\nB: doyuq: the last letter is a bowl with a right stem running below the baseline (q) rather than the crossbarred e of 'doyue'; a brown stain overlaps that descender, so the wrong sort is not certain. Transcribed as printed.",
-   "context_before": "& reuerance deſdits Pierre Guerre, & ſa mere: a la mai",
-   "context_after": "facilement preſumer vn acte auoir eſté fait par terreur,",
-   "strip": "pages/strips/p067/body-6.jpg",
-   "crop": "crops/p067/f-b-026.jpg"
-  },
-  {
-   "id": "f-n-c-0",
-   "kind": "flagged",
-   "key": "c",
-   "line": 0,
-   "note_kind": "margin_notes",
-   "where_a": "margin_notes[3].lines[0]",
-   "where_b": "margin_notes[3].lines[0]",
-   "a": "l... P. quæ",
-   "b": "l... P. quæ",
-   "flags": [
-    "B: after 'l' the print sets three separate baseline dots (possibly under-inked sorts); and the final ligature of 'quæ' is heavily inked and could be a plain 'que'."
-   ],
-   "hint": "Both readers agree on this line; flagged by B.\nB: after 'l' the print sets three separate baseline dots (possibly under-inked sorts); and the final ligature of 'quæ' is heavily inked and could be a plain 'que'.",
-   "context_before": null,
-   "context_after": "onerandæ. D.",
-   "strip": "pages/strips/p067/margin-3.jpg",
-   "crop": "crops/p067/f-n-c-0.jpg"
   }
  ]
 }

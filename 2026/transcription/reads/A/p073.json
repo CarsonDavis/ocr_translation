@@ -1,0 +1,270 @@
+{
+ "id": "p073",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "73",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "doncques, quand toutes ces faueurs ſe preſentent en-",
+    "ſemble {e}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et quant à Corbon Barrau, oncle du-",
+    "dit du Tilh, & autres teſmoins, qui par-",
+    "ticulariſent de ſi pres les faicts contre le-",
+    "dit priſonnier, ils ont eſté viuement, &",
+    "vallablement reprochez, & les obiects",
+    "trouuez. bons, & bien prouuez. Le dire",
+    "du ſoldat n'y fait rien auſsi: car il n'a poi",
+    "nt eſté ouy, mais ce ſont d'autres qui de-",
+    "poſent le luy auoir ouy dire."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Partant qu'vn teſmoin doit depoſer de ce qu'il peut",
+    "perceuoir, & comprendre, par quelqu'vn de ſes ſens",
+    "corporels: & non point par ce qu'il a entendu d'au",
+    "truy {a} Le teſemoignage d'auoir ouy dire quelque cho-",
+    "ſe à vn autre, bien que face telle quelle preſumptiou {b}:",
+    "touteſfois n'eſt pas ſuffiſant à faire preuue {c}. Ou fuſt",
+    "pour monſtrer la parenté ou alliance, aux fins d'em-",
+    "peſcher quelque mariage {d}: & lors, pourueu que tel",
+    "teſmoignage ſoit accompagné de bruit & fame, enſem-",
+    "ble d'autres adminiculés, & circonſtances {e2}. Ou bien,",
+    "pour faire apparoir de quelque faict fort vieux & an-",
+    "cien {f} comme de prouuer les limites, & bornes bien an-",
+    "tiques de ſes terres {g}. Et ce deſſus, fault ſainement en-",
+    "tendre, du teſmoignage d'auoir ouy dire à vn tiers., car",
+    "de l'auoir ouy dire à vne des parties plaidante, le teſ-",
+    "moignage ſeroit treſbon {h}: comme d'auoir ouy qu'An",
+    "toine a promis cent eſcus à Pierre, leſquels à preſent",
+    "Pierre les luy demande. Ou bien d'auoir ouy, que",
+    "Lucrece a fiancé par paroles de preſent, Camille, & ores",
+    "eſt queſtion de ce mariage entre Camille & Lucrece {l}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "N'y ſont rien auſsi les enſeignes, que"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "Et quant à Corbon Barrau, oncle du-",
+   "lines": [
+    "l. teſtium",
+    "C. de teſtib. c.",
+    "hoc videtur.",
+    "xxij. q. v."
+   ]
+  },
+  {
+   "key": "b",
+   "lines": [
+    "Archiadia.",
+    "de auc. hoc",
+    "videtur. pre-",
+    "allegue."
+   ]
+  },
+  {
+   "key": "c",
+   "lines": [
+    "c. tam lite-",
+    "ris. c. licet cx",
+    "quadam. de",
+    "teſtib. c. tua.",
+    "de conſang.",
+    "& affinit."
+   ]
+  },
+  {
+   "key": "d",
+   "lines": [
+    "c. licet ex",
+    "quadam. pre-",
+    "allegué."
+   ]
+  },
+  {
+   "key": "e2",
+   "lines": [
+    "c. præterea.",
+    "de teſt. Panor",
+    "me au c. licet",
+    "ex quadam.",
+    "allegue."
+   ]
+  },
+  {
+   "key": "f",
+   "lines": [
+    "l. ſi arbitrer.",
+    "D. de proba-",
+    "tio."
+   ]
+  },
+  {
+   "key": "g",
+   "lines": [
+    "Balde en",
+    "la l. conuen-",
+    "ticulam. C. de.",
+    "epiſ. & cler."
+   ]
+  },
+  {
+   "key": "h",
+   "lines": [
+    "Accurſe en",
+    "la l ij. P. Idem",
+    "Labeo. D. de",
+    "aq. pluu. Glo",
+    "ſe au c. hoc vi",
+    "detur. xxij. q",
+    "v."
+   ]
+  },
+  {
+   "key": "i",
+   "lines": [
+    "Les Do-",
+    "cteurs en la",
+    "l. ſi arbitrer &",
+    "au c. tam lite-",
+    "ris. deſſus al-",
+    "leguez."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "ſemble {e}.",
+   "note": "marker e continues the alphabet of the previous page (p072); its note is not on this page (presumably in p072's margin). The alphabet restarts at a in ANNOT. LIII, so the second e on this page is keyed e2.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "ble d'autres adminiculés, & circonſtances {e2}. Ou bien,",
+   "note": "second e of the page (restarted alphabet), keyed e2 in body and margin per the a2 rule.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "eſt queſtion de ce mariage entre Camille & Lucrece {l}.",
+   "note": "the marker prints as an italic l, but the sequence runs a..h and the margin note is keyed i; probably a wrong sort (l for i). Marker {l} has no note with key l; the note with key i has no marker {i}.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "trouuez. bons, & bien prouuez. Le dire",
+   "note": "a small baseline dot after 'trouuez'; read as a period (sic), could be a speck.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "truy {a} Le teſemoignage d'auoir ouy dire quelque cho-",
+   "note": "'teſemoignage' sic; no period printed after marker a.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "ſe à vn autre, bien que face telle quelle preſumptiou {b}:",
+   "note": "'preſumptiou' sic (u for n); punctuation after b could be ':' or ';'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "touteſfois n'eſt pas ſuffiſant à faire preuue {c}. Ou fuſt",
+   "note": "'touteſfois': the s/f pair is crowded; could be 'toutesfois' or 'touteſſois'.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "tendre, du teſmoignage d'auoir ouy dire à vn tiers., car",
+   "note": "after 'tiers' a dot followed by a comma appear to be printed; transcribed as seen.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "cien {f} comme de prouuer les limites, & bornes bien an-",
+   "note": "marker f set tight against 'cien' with no punctuation.",
+   "escalate": false
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "N'y ſont rien auſsi les enſeignes, que",
+   "note": "first letter of 'ſont' read as long s; faint, could look like f.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Archiadia.",
+   "note": "sic as read ('Archiadia' for 'Archidia.'); initial in small capitals; also 'allegue' last line lacks accent as read.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "ris. c. licet cx",
+   "note": "'cx' for 'ex' appears printed (sic); first line 'c. tam' — the c resembles a 6.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "la l ij. P. Idem",
+   "note": "no period visible after 'l'; 'P.' is the swash P paragraph sign.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[7].lines[3]",
+   "text": "aq. pluu. Glo",
+   "note": "'pluu.' faint, could be 'pluus'.",
+   "escalate": false
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "ex quadam.",
+   "note": "a stray raised apostrophe-like mark before 'quadam' ignored as a speck.",
+   "escalate": false
+  }
+ ]
+}

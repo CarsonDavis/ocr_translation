@@ -1,0 +1,22 @@
+{
+ "page": "p147",
+ "a": "transcription/reads/A/p147.json",
+ "b": "transcription/reads/B/p147.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-018",
+   "kind": "body",
+   "where_a": "blocks[1].lines[0]",
+   "where_b": "blocks[1].lines[0]",
+   "index": 18,
+   "index_b": 18,
+   "a": "Carmine qui tragico, vilem, certauit ob",
+   "b": "Carmine qui tragico, Vilem, certauit ob",
+   "context_before": "BOVC, que les Grecs nomment TRAGOS.",
+   "context_after": "hircum {c}.",
+   "strip": "pages/strips/p147/body-4.jpg",
+   "crop": "crops/p147/b-018.jpg"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "page": "p127",
+ "a": "transcription/reads/A/p127.json",
+ "b": "transcription/reads/B/p127.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-000",
+   "kind": "body",
+   "where_a": "blocks[0].lines[0]",
+   "where_b": "blocks[0].lines[0]",
+   "index": 0,
+   "index_b": 0,
+   "a": "ſ'intention de ſ'enrichir, ou nuire à ſon prochain {e}. I'en",
+   "b": "l'intention de ſ'enrichir, ou nuire á ſon prochain {e}. I'en",
+   "context_before": null,
+   "context_after": "ay excepté ſeulement Dracon, l'ancien legiſlateur d'A-",
+   "strip": "pages/strips/p127/body-1.jpg",
+   "crop": "crops/p127/b-000.jpg"
+  },
+  {
+   "id": "n-e-0",
+   "kind": "note",
+   "key": "e",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[0].lines[0]",
+   "where_b": "margin_notes[0].lines[0]",
+   "a": "c. ſi quis ꝓ",
+   "b": "e ſi quis ꝓ",
+   "context_before": null,
+   "context_after": "pter neceſsita",
+   "strip": "pages/strips/p127/margin-1.jpg",
+   "crop": "crops/p127/n-e-0.jpg"
+  },
+  {
+   "id": "n-i-4",
+   "kind": "note",
+   "key": "i",
+   "line": 4,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[4].lines[4]",
+   "where_b": "margin_notes[4].lines[4]",
+   "a": "ſos. D. de pa.",
+   "b": "ſos. D. de pæ.",
+   "context_before": "lium. P. famo",
+   "context_after": null,
+   "strip": "pages/strips/p127/margin-2.jpg",
+   "crop": "crops/p127/n-i-4.jpg"
+  },
+  {
+   "id": "n-k-8",
+   "kind": "note",
+   "key": "k",
+   "line": 8,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[5].lines[8]",
+   "where_b": "margin_notes[5].lines[8]",
+   "a": "guee.",
+   "b": "guee-",
+   "context_before": "culari, alle-",
+   "context_after": null,
+   "strip": "pages/strips/p127/margin-2.jpg",
+   "crop": "crops/p127/n-k-8.jpg"
+  }
+ ]
+}

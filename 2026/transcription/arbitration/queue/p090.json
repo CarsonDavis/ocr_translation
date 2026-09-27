@@ -1,0 +1,20 @@
+{
+ "page": "p090",
+ "a": "transcription/reads/A/p090.json",
+ "b": "transcription/reads/B/p090.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "s-running_head",
+   "kind": "structural",
+   "field": "running_head",
+   "where_a": "running_head",
+   "where_b": "running_head",
+   "a": "ARREST DV",
+   "b": "ARREST DV.",
+   "text": "running_head: A='ARREST DV' B='ARREST DV.'",
+   "crop": "crops/p090/page.jpg",
+   "strip": "pages/read/p090.jpg"
+  }
+ ]
+}

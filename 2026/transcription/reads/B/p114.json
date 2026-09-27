@@ -1,0 +1,121 @@
+{
+ "id": "p114",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "114",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "spaced_caps": false,
+   "lines": [
+    "ſons que Nicomedes Roy de Bithynie, apres la mort",
+    "d'Ariarathes Roy de Cappadoce, inuada ſon royaume,",
+    "& promit mariage à Laodice, veſue dudit Ariarathes.",
+    "de quoy irrité Mithridates, frere de Laodice, chaſſa",
+    "Nicomedes de Cappadoce, & le rendit a vn autre Aria-",
+    "rathes, fils de Laodice: lequel toutesfois il fit apres tuer",
+    "par vn nommé Gordius, dont Nicomedes craignãt que",
+    "Mithridates, ſ'eſtant rendu plus fort, par l'acceſſion de",
+    "Cappadoce, n'inuadaſt apres la Bithynie, ſuborne vn",
+    "ieune homme de fort bonne grace, pour ſe preſenter",
+    "comme vn autre fils d'Ariarathes au peuple Romain,",
+    "& luy demander le royaume de Cappadoce: & à fin",
+    "que la choſe ſe rendit plus vray ſemblable, enuoya a-",
+    "uec luy Laodice ſa femme (laquelle auſſi, comme",
+    "auons dit deſſus, auoit eſté mariée iadis, au premier A-",
+    "riarathes) pour teſmoigner, que c'eſtoit ſon enfant, &",
+    "d'Ariarathes ſon premier mari: mais pour empeſcher,",
+    "que ſon deſir ne produiſiſt ſon effect, Mithridates en-",
+    "uoya le ſuſnommé Gordius, qui (par le commandemẽt",
+    "de Mithridates auoit tué le premier Ariarathes) pour",
+    "aſſeurer le contraire au peuple Romain: lequel ayant",
+    "deſcouuert la fraude, & temerité de l'vn & de l'autre,",
+    "priua ſeulement Mithridates de la Cappadocie,",
+    "& Nicomedes de la Paphlagonie, & donna liber-",
+    "té à tous les deux peuples. Toutesfois les Cappa-",
+    "dociens la reffuſerent, diſant n'eſtre poſſible, qu'au-",
+    "cun peuple viue ſans Roy. Dont le Senat luy con-",
+    "ſtitua Roy Ariobarzanes {q}. Vn Iuif de Sidoine, re-",
+    "ſembloit ſi bien de corps, de viſage, de parole, & de",
+    "contenances Alexandre fils d'Herode Antipas, roy des",
+    "Iuifz (que le pere auoit fait tuer) qu'il fit entendre à",
+    "pluſieurs qu'il eſtoit Alexandre, fils d'Herode. don-",
+    "nant pluſieurs enſeignes d'Alexandre, & des choſes pri-",
+    "uées de la maiſon d'Herode, inſtruit de quelqu'vn qui",
+    "luy tenoit la main. Et pour mieux colorer l'impo-",
+    "ſture, diſoit que les ſoldats qui auoyent prins charge",
+    "de le tuer, luy donnerent chemin pour ſe ſauuer, & en",
+    "tuerent vn autre en ſa place: en quoy il ſceut ſi bien",
+    "pratiquer, & impoſer à la pluſpart des Iuifz, qu'ils le",
+    "ſuyuoient comme roy, & ſ'en vint à Rome en apparat"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "q",
+   "beside_line": "ſtitua Roy Ariobarzanes {q}. Vn Iuif de Sidoine, re-",
+   "lines": [
+    "Iuſtin. au",
+    "xxxij. liure",
+    "de l'hiſtoire",
+    "de Trogue",
+    "Pompee."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ſons que Nicomedes Roy de Bithynie, apres la mort",
+   "note": "'ſons' is the tail of a word broken across the page boundary (preceding page p113 not available as context); 'mort' final t blotted"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "par vn nommé Gordius, dont Nicomedes craignãt que",
+   "note": "final s of 'Gordius' broken/faint; the following mark is a small dot, read as comma (could be period)"
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "Cappadoce, n'inuadaſt apres la Bithynie, ſuborne vn",
+   "note": "the a in 'inuadaſt' is damaged (looks like a dotted sort); read as a"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "comme vn autre fils d'Ariarathes au peuple Romain,",
+   "note": "line-end mark after 'Romain' is a heavy dot with slight tail; read as comma, could be period; 'au' carries a stray mark above u"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "uec luy Laodice ſa femme (laquelle auſſi, comme",
+   "note": "'auſſi' read as ſſ ligature, not ſs"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "dociens la reffuſerent, diſant n'eſtre poſſible, qu'au-",
+   "note": "'reffuſerent' with double f as printed, sic; 'poſſible' read as ſſ ligature"
+  },
+  {
+   "where": "blocks[0].lines[29]",
+   "text": "contenances Alexandre fils d'Herode Antipas, roy des",
+   "note": "mark after 'Antipas' is a small raised comma-like sign set close to 'roy'; read as comma"
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "ſuyuoient comme roy, & ſ'en vint à Rome en apparat",
+   "note": "no catchword visible at the foot; last line ends mid-sentence ('apparat'), continues on next page"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "xxxij. liure",
+   "note": "numeral printed like 'xxxy' (italic ij); could be 'xxxiij'; read 'xxxij'. Marker letter q: preceding page p113 unavailable to confirm alphabet sequence (p112 ended at i)"
+  }
+ ]
+}

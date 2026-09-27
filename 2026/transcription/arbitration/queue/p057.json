@@ -2,7 +2,7 @@
  "page": "p057",
  "a": "transcription/pilot/opus/A/p057.json",
  "b": "transcription/pilot/opus/B/p057.json",
- "include_flagged": true,
+ "include_flagged": false,
  "items": [
   {
    "id": "b-028",
@@ -222,42 +222,6 @@
    "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
    "strip": "pages/strips/p057/margin-2.jpg",
    "crop": "crops/p057/ns-a.jpg"
-  },
-  {
-   "id": "f-b-022",
-   "kind": "flagged",
-   "where_a": "blocks[2].lines[18]",
-   "where_b": "blocks[2].lines[18]",
-   "index": 22,
-   "a": "noſtre Sauuenr Ieſus-chriſt, ils diſoiẽt le lapider, nõ pas",
-   "b": "noſtre Sauuenr Ieſus-chriſt, ils diſoiẽt le lapider, nõ pas",
-   "flags": [
-    "A: sic, wrong sort: 'Sauuenr' for 'Sauueur' (n for u in the second-last position). Lowercase c in 'chriſt' as printed.",
-    "B: sic, wrong sort: 'Sauuenr' for 'Sauueur' (the second-last letter reads as n). 'chriſt' is lowercase c as printed. The d of 'lapider' is blotted."
-   ],
-   "hint": "Both readers agree on this line; flagged by A and B.\nA: sic, wrong sort: 'Sauuenr' for 'Sauueur' (n for u in the second-last position). Lowercase c in 'chriſt' as printed.\nB: sic, wrong sort: 'Sauuenr' for 'Sauueur' (the second-last letter reads as n). 'chriſt' is lowercase c as printed. The d of 'lapider' is blotted.",
-   "context_before": "iniures {c}. Ainſi quãd les Iuifs iettoient des pierres cõtre",
-   "context_after": "pour bonnes œuures (comme le Seigneur iuſtemẽt ſe",
-   "strip": "pages/strips/p057/body-5.jpg",
-   "crop": "crops/p057/f-b-022.jpg"
-  },
-  {
-   "id": "f-b-032",
-   "kind": "flagged",
-   "where_a": "blocks[2].lines[28]",
-   "where_b": "blocks[2].lines[28]",
-   "index": 32,
-   "a": "tirer à peine de mort trop facilemeot vn gliſſement, &",
-   "b": "tirer à peine de mort trop facilemeot vn gliſſement, &",
-   "flags": [
-    "A: sic?: 'facilemeot' — the letter after 'facileme' looks like an o rather than n; could be a worn/damaged n. Transcribed as seen.",
-    "B: sic, wrong sort: 'facilemeot' for 'facilement' (the second-last letter reads as o, not n)."
-   ],
-   "hint": "Both readers agree on this line; flagged by A and B.\nA: sic?: 'facilemeot' — the letter after 'facileme' looks like an o rather than n; could be a worn/damaged n. Transcribed as seen.\nB: sic, wrong sort: 'facilemeot' for 'facilement' (the second-last letter reads as o, not n).",
-   "context_before": "deux & trois fois, la loy ne les fait pas mourir (ne voulãt",
-   "context_after": "lubricité de langage {h}:) mais les puniſt extraordinaire-",
-   "strip": "pages/strips/p057/body-7.jpg",
-   "crop": "crops/p057/f-b-032.jpg"
   }
  ]
 }

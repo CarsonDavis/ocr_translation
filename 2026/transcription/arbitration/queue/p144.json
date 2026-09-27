@@ -1,0 +1,64 @@
+{
+ "page": "p144",
+ "a": "transcription/reads/A/p144.json",
+ "b": "transcription/reads/B/p144.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-004",
+   "kind": "body",
+   "where_a": "blocks[0].lines[4]",
+   "where_b": "blocks[0].lines[4]",
+   "index": 4,
+   "index_b": 4,
+   "a": "& tant de choſes, deſquelles pourroit eſtré trop curieu-",
+   "b": "& tant de choſes, deſquelles pourroit eſtre trop curieu-",
+   "context_before": "re d'auantage, ſ'il ſe trouuoit preſſé, ſe ſouuenir de tant",
+   "context_after": "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+   "strip": "pages/strips/p144/body-2.jpg",
+   "crop": "crops/p144/b-004.jpg"
+  },
+  {
+   "id": "b-026",
+   "kind": "body",
+   "where_a": "blocks[6].lines[0]",
+   "where_b": "blocks[6].lines[0]",
+   "index": 26,
+   "index_b": 26,
+   "a": "Picardie, eſt vne partie dé la Gaule Belgique. Suquoy",
+   "b": "Picardie, eſt vne partie de la Gaule Belgique. Suquoy",
+   "context_before": "ANNOTAT. CII.",
+   "context_after": "faut entendre, que la Gaulé fut iadis diuiſee principale-",
+   "strip": "pages/strips/p144/body-6.jpg",
+   "crop": "crops/p144/b-026.jpg"
+  },
+  {
+   "id": "b-027",
+   "kind": "body",
+   "where_a": "blocks[6].lines[1]",
+   "where_b": "blocks[6].lines[1]",
+   "index": 27,
+   "index_b": 27,
+   "a": "faut entendre, que la Gaulé fut iadis diuiſee principale-",
+   "b": "faut entendre, que la Gaule fut iadis diuiſee principale-",
+   "context_before": "Picardie, eſt vne partie dé la Gaule Belgique. Suquoy",
+   "context_after": "ment en deux: à ſçauoir en la tranſalpine, & Ciſalpine.",
+   "strip": "pages/strips/p144/body-6.jpg",
+   "crop": "crops/p144/b-027.jpg"
+  },
+  {
+   "id": "b-029",
+   "kind": "body",
+   "where_a": "blocks[6].lines[3]",
+   "where_b": "blocks[6].lines[3]",
+   "index": 29,
+   "index_b": 29,
+   "a": "La Ciſalpine, fut appelee des Romains cellé qui prenoit",
+   "b": "La Ciſalpine, fut appelee des Romains celle qui prenoit",
+   "context_before": "ment en deux: à ſçauoir en la tranſalpine, & Ciſalpine.",
+   "context_after": "ſon commencement à la racine des Alpes, & ſ'eſtendoit",
+   "strip": "pages/strips/p144/body-6.jpg",
+   "crop": "crops/p144/b-029.jpg"
+  }
+ ]
+}

@@ -132,14 +132,13 @@ function render() {
   if (it.b == null) { tb.innerHTML = '<span class="none">(no line)</span>'; } else renderMarked(tb, cb, mb);
 
   let extra = "";
-  if (it.kind === "structural") {
-    extra = it.text;
-    if (it.a_blocks) extra += `\n\nA blocks:\n  ${it.a_blocks.join("\n  ")}\n\nB blocks:\n  ${it.b_blocks.join("\n  ")}`;
-    extra += it.field === "blocks" ? "\n\n1 = build the page on A's block structure, 2 = on B's." : "";
-  }
+  if (it.kind === "structural" && it.field !== "blocks") extra = it.text;
   if (it.kind === "note-structure") extra = it.hint || "";
   if (it.kind === "flagged") extra = it.hint || ("Both readers agree on this line. Flagged:\n" + (it.flags || []).join("\n"));
   $("#extra").textContent = extra;
+  renderBlocks(it);
+  const isBlocks = it.kind === "structural" && it.field === "blocks";
+  $("#ra").hidden = $("#rb").hidden = isBlocks;
 
   const d = it.decision;
   const st = $("#state");
@@ -147,6 +146,36 @@ function render() {
   st.textContent = d ? `decided: ${LABEL[d.choice] || d.choice}` + (d.choice === "neither" ? ` → ${JSON.stringify(d.text)}` : "") : "";
   closeEditor();
 }
+
+// structural "blocks" item: only the blocks that differ, side by side, with one block of
+// context; the full lists sit behind a toggle
+function renderBlocks(it) {
+  const box = $("#blocks");
+  if (it.kind !== "structural" || it.field !== "blocks") { box.hidden = true; box.innerHTML = ""; return; }
+  box.hidden = false;
+  const cell = (t, other, side) => {
+    if (t == null) return '<td class="none">(no block)</td>';
+    if (other == null) return `<td class="d${side}"><mark>${Array.from(t).map(glyph).join("")}</mark></td>`;
+    const ca = chars(t), cb = chars(other);
+    const [m] = charDiff(ca, cb);
+    let h = "", on = false;
+    ca.forEach((c, k) => { if (m[k] !== on) { h += m[k] ? "<mark>" : "</mark>"; on = m[k]; } h += glyph(c); });
+    if (on) h += "</mark>";
+    return `<td class="d${side}">${h}</td>`;
+  };
+  let rows = "";
+  for (const r of it.block_rows || []) {
+    if (r.status === "gap") rows += '<tr class="gap"><td>⋯</td><td>⋯</td></tr>';
+    else if (r.status === "same") rows += `<tr class="same"><td>${Array.from(r.a).map(glyph).join("")}</td><td>${Array.from(r.b).map(glyph).join("")}</td></tr>`;
+    else rows += `<tr class="diff">${cell(r.a, r.b, "a")}${cell(r.b, r.a, "b")}</tr>`;
+  }
+  const full = (xs) => (xs || []).map((x) => Array.from(x).map(glyph).join("")).join("<br>");
+  box.innerHTML = `<div class="small">${esc2(it.text)}</div>
+    <table><thead><tr><th>A</th><th>B</th></tr></thead><tbody>${rows}</tbody></table>
+    <div class="small">1 = build the page on A's block structure, 2 = on B's.</div>
+    <details><summary>show all blocks</summary><table><tr><td>${full(it.a_blocks)}</td><td>${full(it.b_blocks)}</td></tr></table></details>`;
+}
+const esc2 = (t) => Array.from(t || "").map(esc).join("");
 
 // ---- actions -------------------------------------------------------------------
 // POSTs run one after another, in key order; the UI moves on without waiting for them

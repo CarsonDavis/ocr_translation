@@ -1,0 +1,51 @@
+{
+ "page": "p138",
+ "a": "transcription/reads/A/p138.json",
+ "b": "transcription/reads/B/p138.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-012",
+   "kind": "body",
+   "where_a": "blocks[4].lines[2]",
+   "where_b": "blocks[4].lines[2]",
+   "index": 12,
+   "index_b": 12,
+   "a": "La premiere, pour la trop grande facilité, de laquclle",
+   "b": "La premiere, pour la trop grande facilité, de laquelle",
+   "context_before": "de ladite Bertrãde de Rols, par pluſieurs conſideratiõs.",
+   "context_after": "elle a vſé à receuoir ſi imprudẽment ceſt affronteur du",
+   "strip": "pages/strips/p138/body-3.jpg",
+   "crop": "crops/p138/b-012.jpg"
+  },
+  {
+   "id": "b-030",
+   "kind": "body",
+   "where_a": "blocks[4].lines[20]",
+   "where_b": "blocks[4].lines[20]",
+   "index": 30,
+   "index_b": 30,
+   "a": "le l'ignore, & penſe auoir affaire auecques ſon conſort,",
+   "b": "le l'ignore. & penſe auoir affaire auecques ſon conſort,",
+   "context_before": "couche auec autre que ſon mari eſt excuſee tãdis qu'el-",
+   "context_after": "& eſpoux. mais des qu'elle vient à ſçauoir le contraire,",
+   "strip": "pages/strips/p138/body-6.jpg",
+   "crop": "crops/p138/b-030.jpg"
+  },
+  {
+   "id": "n-d-1",
+   "kind": "note",
+   "key": "d",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[3].lines[1]",
+   "where_b": "margin_notes[3].lines[1]",
+   "a": "xxxiij. q. i.",
+   "b": "xxxiij q. i.",
+   "context_before": "c. ſi virgo.",
+   "context_after": null,
+   "strip": "pages/strips/p138/margin-3.jpg",
+   "crop": "crops/p138/n-d-1.jpg"
+  }
+ ]
+}

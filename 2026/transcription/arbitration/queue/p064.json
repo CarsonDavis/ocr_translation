@@ -1,0 +1,51 @@
+{
+ "page": "p064",
+ "a": "transcription/reads/A/p064.json",
+ "b": "transcription/reads/B/p064.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-010",
+   "kind": "body",
+   "where_a": "blocks[2].lines[6]",
+   "where_b": "blocks[2].lines[6]",
+   "index": 10,
+   "index_b": 10,
+   "a": "tous le noms de ſes ſouldats, & genſdarmes: & faiſanr",
+   "b": "tous le noms de ſes ſouldats, & genſdarmes: & faiſant",
+   "context_before": "en ſon exercite grand, & nombreux, ſçauoit bien dire",
+   "context_after": "la reueuë de ſon armee, parloit à chaſcũ par ſon nom {b}.",
+   "strip": "pages/strips/p064/body-3.jpg",
+   "crop": "crops/p064/b-010.jpg"
+  },
+  {
+   "id": "b-031",
+   "kind": "body",
+   "where_a": "blocks[2].lines[27]",
+   "where_b": "blocks[2].lines[27]",
+   "index": 31,
+   "index_b": 31,
+   "a": "auoir eſcrit, auec la proteſtation qu'ay ci deuant faite {k},",
+   "b": "auoir eſcrit, auec la proteſtation qu'ay ci deuant faite {k}.",
+   "context_before": "ſaires, qu'il euſt failli d'vn ſeul iota. Ce que i'entens",
+   "context_after": "de ne vouloir entrer en comparaiſon d'vn ſi impudent",
+   "strip": "pages/strips/p064/body-6.jpg",
+   "crop": "crops/p064/b-031.jpg"
+  },
+  {
+   "id": "n-i-1",
+   "kind": "note",
+   "key": "i",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[8].lines[1]",
+   "where_b": "margin_notes[8].lines[1]",
+   "a": "vj. c. xxiiij. ci",
+   "b": "vj c. xxiiij. ci",
+   "context_before": "Pline au lieu",
+   "context_after": "ceron au ij. de",
+   "strip": "pages/strips/p064/margin-3.jpg",
+   "crop": "crops/p064/n-i-1.jpg"
+  }
+ ]
+}

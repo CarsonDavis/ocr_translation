@@ -13,6 +13,7 @@
   }
 }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html, body { margin: 0; height: 100%; }
 body { background: var(--bg); color: var(--fg); font: 14px/1.4 system-ui, sans-serif;
        display: grid; grid-template-columns: 210px 1fr; overflow: hidden; }
@@ -70,3 +71,16 @@ kbd { font: 11px var(--mono); border: 1px solid var(--line); border-bottom-width
 #ovhelp { position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%);
           color: #ddd; background: rgba(0, 0, 0, .6); padding: 4px 10px; border-radius: 6px;
           font-size: 12px; pointer-events: none; }
+
+#blocks { font-size: 13px; max-height: 30vh; overflow: auto; }
+#blocks table { border-collapse: collapse; width: 100%; table-layout: fixed; margin: 4px 0; }
+#blocks th { text-align: left; font-weight: 700; padding: 2px 8px; }
+#blocks th:first-child { color: var(--a); } #blocks th:last-child { color: var(--b); }
+#blocks td { padding: 3px 8px; vertical-align: top; font-family: var(--serif); border-top: 1px solid var(--line); }
+#blocks tr.same td, #blocks tr.gap td { color: var(--muted); }
+#blocks tr.gap td { text-align: center; border: 0; }
+#blocks td.none { color: var(--muted); font-style: italic; font-family: system-ui, sans-serif; }
+#blocks td.da mark { background: var(--hl-a); color: inherit; outline: 1px solid var(--a); }
+#blocks td.db mark { background: var(--hl-b); color: inherit; outline: 1px solid var(--b); }
+#blocks .ls { font-family: var(--serif); color: var(--ls); }
+#blocks summary { cursor: pointer; color: var(--muted); }

@@ -1,0 +1,51 @@
+{
+ "page": "p088",
+ "a": "transcription/reads/A/p088.json",
+ "b": "transcription/reads/B/p088.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-000",
+   "kind": "body",
+   "where_a": "blocks[0].text",
+   "where_b": "blocks[0].text",
+   "index": 0,
+   "index_b": 0,
+   "a": "TEXTE,",
+   "b": "TEXTE.",
+   "context_before": null,
+   "context_after": "Lequel arriué des Eſpagnes, ayant",
+   "strip": "pages/strips/p088/body-1.jpg",
+   "crop": "crops/p088/b-000.jpg"
+  },
+  {
+   "id": "b-005",
+   "kind": "body",
+   "where_a": "blocks[1].lines[4]",
+   "where_b": "blocks[1].lines[4]",
+   "index": 5,
+   "index_b": 5,
+   "a": "ſente requeſte narratine de toute l'im-",
+   "b": "ſente requeſte narratiue de toute l'im-",
+   "context_before": "dat, (duquel a eſté ci deſſus parlé) pre-",
+   "context_after": "poſture: requerant eſtre ouy. La cour",
+   "strip": "pages/strips/p088/body-2.jpg",
+   "crop": "crops/p088/b-005.jpg"
+  },
+  {
+   "id": "n-b-1",
+   "kind": "note",
+   "key": "b",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[1]",
+   "where_b": "margin_notes[1].lines[1]",
+   "a": "lib. exhib. l.",
+   "b": "li. ho exhib. l.",
+   "context_before": "l. ij. D. de",
+   "context_after": "P. Tirio cen-",
+   "strip": "pages/strips/p088/margin-3.jpg",
+   "crop": "crops/p088/n-b-1.jpg"
+  }
+ ]
+}

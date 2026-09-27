@@ -1,0 +1,129 @@
+{
+ "id": "p117",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "117",
+ "signature": "H iij",
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "mier Empereur de Conſtantinople, tué des Grecs en",
+    "bataille, (ou toutesfois ne fut onc poſſible trouuer le",
+    "corps: dont pluſieurs penſoyent qu'il fuſt encore en vie",
+    "peu apres ſe preſentant vn pelerin en Flandres, reſſem-",
+    "bloit ſi bien au feu comte Balduin: & en outre auoit",
+    "ie ne ſçay quel charme naturel, qui gaignoit les cœurs",
+    "d'vn chacun: meſmes qu'il donnoi ſi bonnes & verita-",
+    "bles enſeignes, que la plus part ſouſtenoient conſtam-",
+    "ment, que c'eſtoit le vray comte Balduin, & comme tel",
+    "pluſieurs villes le receurent. Mais Ieanne, fille du com-",
+    "te (qui commandoit de ce temps- la comme heritiere",
+    "du pere en Flandres) ne le voulut oncques recognoi-",
+    "ſtre pour pere, ni receuoir pour comte. & demanda con",
+    "ſeil, aide, & ſecours au roy Loys viij. ſon oncle. lequel",
+    "curieux d'entendre de plus pres la verité, le manda ve-",
+    "nir à Peronne, ou le roy fut de premiere rencontre fort",
+    "eſtonné, le voyant du tout ſemblable au feu cõte. mais",
+    "ſe ſouuenant, que Philippes Auguſte ſon pere auoit",
+    "donné l'ordre à iceluy comte, l'accoſta de plus pres, luy",
+    "demandant le iour, le lieu, & comment il fut fait che-",
+    "ualier de l'ordre, & ou il auoit premierement fiancé ſa",
+    "femme. A quoy ce faux Balduin le voyãt prins, deman-",
+    "da delay pour reſpondre: qui luy fut ottroye. & par là",
+    "(& peu apres encore mieux ſa fraude deſcouuerte) fut",
+    "trouué dans vn cabaret, & peu apres pendu {y}. D'auanta",
+    "ge ie n'ignore pas qu'il n'en y ayt eu quelques vns par",
+    "le paſſé, qui ſur la deſcouuerte du faict, ou peu deuant,",
+    "ſurprins de la mort, ont euité la cruauté des peines que",
+    "Iuſtice leur euſt iuſtement preparees: comme Ieanne",
+    "l'Angloiſe, laquelle accouſtrée en homme, & condui-",
+    "re en Athenes par vn eſcolier, qui l'entretenoit, prou-",
+    "fita tellement aux lettres, meſmement aux ſainctes,",
+    "qu'eſtant de retour à Rome, ne trouuoit pareil: fuſt",
+    "à doctement interpreter, & lire, ou a ſubtilement",
+    "diſputer. dont elle accompagnée d'vne infinité de",
+    "graces, deſquelles le ciel prodigue l'auoit fauoriſée,",
+    "& eſtimée de tous hommes, gaigna tant d'opinion,",
+    "& authorité enuers le peuple, ſingulierement à l'en-",
+    "droit des plus grans, qu'apres la mort du Pape Leon",
+    "iij. fut eſleuë du conſentement de tous. Les Romains"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "y",
+   "beside_line": "trouué dans vn cabaret, & peu apres pendu {y}. D'auanta",
+   "lines": [
+    "Paule Aemi",
+    "le, au vij. de re",
+    "bus geſtis Frã",
+    "corum."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "bataille, (ou toutesfois ne fut onc poſſible trouuer le",
+   "note": "poſſible: double long s (ligature) read as ſſ, not ſs"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "d'vn chacun: meſmes qu'il donnoi ſi bonnes & verita-",
+   "note": "punctuation after 'chacun' faint, read as colon (could be a period or stray mark); 'donnoi' sic (for donnoit)"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "te (qui commandoit de ce temps-la comme heritiere",
+   "note": "print sets 'temps- la' with a space after the hyphen; closed up"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "du pere en Flandres) ne le voulut oncques recognoi-",
+   "note": "a faint stray mark (like a comma or parenthesis) between 'pere' and 'en'; ignored as not a sort"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "ſtre pour pere, ni receuoir pour comte. & demanda con",
+   "note": "mark after 'comte' read as period; faint"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "ſeil, aide, & ſecours au roy Loys viij. ſon oncle. lequel",
+   "note": "numeral read as 'viij.' (final stroke descends like j); could be 'viii.'"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "eſtonné, le voyant du tout ſemblable au feu cõte. mais",
+   "note": "'cõte' poorly inked; tilde over o not clearly visible, could be 'cote' or damaged 'comte'"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "da delay pour reſpondre: qui luy fut ottroye. & par là",
+   "note": "'ottroye' without accent as printed; mark after it read as period"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "à doctement interpreter, & lire, ou a ſubtilement",
+   "note": "second 'a' (before ſubtilement) may carry a faint grave accent; read as 'a'"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "bus geſtis Frã",
+   "note": "'geſtis' italic ligature could be read 'geſtu'; read as geſtis"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Paule Aemi",
+   "note": "italic swash capital A; could be an Æ ligature 'Æmi'"
+  }
+ ]
+}

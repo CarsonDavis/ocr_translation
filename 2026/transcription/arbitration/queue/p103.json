@@ -1,0 +1,23 @@
+{
+ "page": "p103",
+ "a": "transcription/reads/A/p103.json",
+ "b": "transcription/reads/B/p103.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-c-0",
+   "kind": "note",
+   "key": "c",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[0]",
+   "where_b": "margin_notes[1].lines[0]",
+   "a": "Philippenſ.",
+   "b": "Philippexſ.",
+   "context_before": null,
+   "context_after": "c. i.",
+   "strip": "pages/strips/p103/margin-1.jpg",
+   "crop": "crops/p103/n-c-0.jpg"
+  }
+ ]
+}

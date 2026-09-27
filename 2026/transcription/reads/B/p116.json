@@ -1,0 +1,170 @@
+{
+ "id": "p116",
+ "reader": "B",
+ "model": "opus",
+ "running_head": "ARREST DV",
+ "folio": "116",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "rent tuer dans le palais royal {ſ}. Le pareil deſaſtre vint à",
+    "Prompalus, lequel eſtant ſuborné par Ptolemée Roy",
+    "d'Egypte, Artalus Roy d'Aſie, Ariarathes Roy de Cap-",
+    "padoce, & ceux d'Antioche, de ſoy nommer, & dire",
+    "Alexandre, fils du Roy Antiochus: & comme tel de",
+    "mander le royaume paternel la Demetrius, qui auoit",
+    "occupé la Syrie, il l'entreprit, & luy fut ſi fauorable la",
+    "fortune, qu'il la vainquit en fin, & tua Demetrius, &",
+    "poſſeda paiſiblement le royaume de Syrie. vray qu'a-",
+    "pres la douceur de ce ſceptre, l'affluence de tant de",
+    "biens & d'honneurs, accõpagnée d'vne licence & liber-",
+    "té non repriſe, le corrompirent, & captiuerent tellemẽt",
+    "à toure eſpece de voluptez, & paillardiſe, que les ſuiets",
+    "meſme d'Antioche, par leſques il auoit eſté fait roy, le",
+    "voyans precipité en ceſt abyſme, & confuz labyrinthe",
+    "de vices, ſe reuolterent, & ſe rendirẽt au fils de feu De-",
+    "metrius, appelé Demetrius auſſi, & depuis Nicator:",
+    "partant il vainquit ce gentil Prompalus, roy baſtard",
+    "& le chaſſa en Arabie, où fut occis {t}. Archelaus de meſ-",
+    "mes, ſe feignit eſtre fils du roy Mithridates, ce qu'il per-",
+    "ſuada ſi bien à Ptolemee roy d'Egypte, qu'il luy donna",
+    "ſa fille, & ſi le fit apres ſon ſucceſſeur du royaume d'E-",
+    "gypte: mais en fin, Gabinius le vainquit en camp de ba-",
+    "taille, & le tua {u}. De ſemblable impoſture iadis au tẽps",
+    "d'Othõ l'Empereur, vſa vn harpeur, ſoy diſant eſtre Ne",
+    "ron, par ce qu'il le rapportoit des lineamens, & traicts",
+    "du viſage, lõgueur & groſſeur du corps: adiouſtant que",
+    "lors que le bruit fuſt eſpandu à Rome, que Neron ſ'e-",
+    "ſtoit luy meſme tué, vn autre auoit eſté occis en ſa pla-",
+    "ce: qui fut cauſe, que ſouz le nom de Neron, il aſſembla",
+    "pluſieurs ſeditieux, auec leſquels ſ'en alloit en Syrie, &",
+    "en Egypte: d'où, par la diſgrace des vents, fut apporté",
+    "en l'iſle de Cynthus, entre les Ciclades, là ou il vſoit",
+    "d'authorité ſur les ſoldats qui venoyent d'Orient, & les",
+    "contraignoit luy obeir: quoy entendu, toute l'Aſie preſ-",
+    "que branſloit, iuſqu'à tant qu'Othon enuoya deux gale",
+    "res: per leſquelles celle (ou ce faux Neron eſtoit) fut cõ",
+    "batue. & vaincue. & ce nouueau Neron tué, & ſon corps",
+    "enuoyé à Rome {x}. Aux annales de France, on lit qu'en",
+    "l'an mille 225, ayãt eſté Balduin, cõte de Flãdres, & pre-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "ſ",
+   "beside_line": "rent tuer dans le palais royal {ſ}. Le pareil deſaſtre vint à",
+   "lines": [
+    "Herodote au",
+    "iij. li. inſcript",
+    "Thalia. Iuſtin",
+    "au i. liure."
+   ]
+  },
+  {
+   "key": "t",
+   "beside_line": "& le chaſſa en Arabie, où fut occis {t}. Archelaus de meſ-",
+   "lines": [
+    "Appian Ale",
+    "xandrin in Sy",
+    "riacis."
+   ]
+  },
+  {
+   "key": "u",
+   "beside_line": "taille, & le tua {u}. De ſemblable impoſture iadis au tẽps",
+   "lines": [
+    "Baptiſte Ful",
+    "goſ. au liure",
+    "ix. des dicts et",
+    "faicts memora",
+    "bles c. xvi."
+   ]
+  },
+  {
+   "key": "x",
+   "beside_line": "res: per leſquelles celle (ou ce faux Neron eſtoit) fut cõ",
+   "lines": [
+    "Sueton. en",
+    "la vie de Ne-",
+    "ron, & Bapti-",
+    "ſte Fulgoſe au",
+    "lieu preallegué"
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "rent tuer dans le palais royal {ſ}. Le pareil deſaſtre vint à",
+   "note": "'vint': the n looks damaged or a wrong sort (reads like 'virıt'); read as 'vint'"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "mander le royaume paternel la Demetrius, qui auoit",
+   "note": "'la Demetrius' as printed (sense wants 'à'); sic"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "té non repriſe, le corrompirent, & captiuerent tellemẽt",
+   "note": "print sets 'corrompiren t' with a gap inside the word; closed up as one word. 'le' (for 'les') as printed"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "à toure eſpece de voluptez, & paillardiſe, que les ſuiets",
+   "note": "'toure' as printed (for 'toute'); sic, wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "meſme d'Antioche, par leſques il auoit eſté fait roy, le",
+   "note": "'leſques' as printed (for 'leſquels'); sic"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "de vices, ſe reuolterent, & ſe rendirẽt au fils de feu De-",
+   "note": "'rendirẽt': mark over e looks more like an acute than a tilde; read as tilde (rendirent)"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "& le chaſſa en Arabie, où fut occis {t}. Archelaus de meſ-",
+   "note": "line-end break sign after 'meſ' printed as a raised dot rather than a hyphen"
+  },
+  {
+   "where": "blocks[0].lines[34]",
+   "text": "contraignoit luy obeir: quoy entendu, toute l'Aſie preſ-",
+   "note": "line-end break sign after 'preſ' printed as a raised dot"
+  },
+  {
+   "where": "blocks[0].lines[36]",
+   "text": "res: per leſquelles celle (ou ce faux Neron eſtoit) fut cõ",
+   "note": "'per' (for 'par') and 'celle' (for 'celuy'?) as printed; sic"
+  },
+  {
+   "where": "blocks[0].lines[37]",
+   "text": "batue. & vaincue. & ce nouueau Neron tué, & ſon corps",
+   "note": "the marks after 'batue' and 'vaincue' look like periods (round dots on baseline), not commas"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "xandrin in Sy",
+   "note": "the last letter of 'xandrin' may carry an abbreviation sign (xandrinus?); 'in' and 'Sy' set tight"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "Baptiſte Ful",
+   "note": "key letter printed in the margin looks like italic 'v'; body marker reads 'u'; keyed 'u'"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "la vie de Ne-",
+   "note": "break sign after 'Ne' printed as a dot; 'Sueton. en' has a dot after Sueton"
+  }
+ ]
+}

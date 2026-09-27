@@ -1,0 +1,65 @@
+{
+ "page": "p143",
+ "a": "transcription/reads/A/p143.json",
+ "b": "transcription/reads/B/p143.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-017",
+   "kind": "body",
+   "where_a": "blocks[4].lines[4]",
+   "where_b": "blocks[4].lines[4]",
+   "index": 17,
+   "index_b": 17,
+   "a": "Heli, Heli, lam [?]ſabathani? Mon Dieu, mon Dieu, pour-",
+   "b": "Heli, Heli, lam aſabathani? Mon Dieu, mon Dieu, pour-",
+   "context_before": "douloir & preſque plaindre de Dieu ſon pere, diſant,",
+   "context_after": "quoy m'as tu delaiſſé {e}? Toutesfois, la cõtraire opinion",
+   "strip": "pages/strips/p143/body-4.jpg",
+   "crop": "crops/p143/b-017.jpg"
+  },
+  {
+   "id": "b-022",
+   "kind": "body",
+   "where_a": "blocks[4].lines[9]",
+   "where_b": "blocks[4].lines[9]",
+   "index": 22,
+   "index_b": 22,
+   "a": "autre eſpece de diſpoſition, ſoit entre vifs, ou à cauſe de",
+   "b": "autre eſpece de diſpoſition, ſoit entre vifs, où à cauſe de",
+   "context_before": "biens par teſtament, vente, donnaiſon, & quelconque",
+   "context_after": "mort {f}. (eſquelles pourtãt, l'integrité du ſens, & de l'en",
+   "strip": "pages/strips/p143/body-5.jpg",
+   "crop": "crops/p143/b-022.jpg"
+  },
+  {
+   "id": "b-028",
+   "kind": "body",
+   "where_a": "blocks[4].lines[15]",
+   "where_b": "blocks[4].lines[15]",
+   "index": 28,
+   "index_b": 28,
+   "a": "ſoyent entendués {h}. Pourquoy eſt-ce que par meſmes",
+   "b": "ſoyent entendues {h}. Pourquoy eſt-ce que par meſmes",
+   "context_before": "pourueu que d'ailleurs ſes conceptions & volontez",
+   "context_after": "raiſons (où le cas le requerra) le moribunde ne pourra",
+   "strip": "pages/strips/p143/body-6.jpg",
+   "crop": "crops/p143/b-028.jpg"
+  },
+  {
+   "id": "n-b-1",
+   "kind": "note",
+   "key": "b",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[1]",
+   "where_b": "margin_notes[1].lines[1]",
+   "a": "ſultiſſima. P.",
+   "b": "ſultißima. P.",
+   "context_before": "l. hac con-",
+   "context_after": "at cũ huma-",
+   "strip": "pages/strips/p143/margin-2.jpg",
+   "crop": "crops/p143/n-b-1.jpg"
+  }
+ ]
+}

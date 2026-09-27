@@ -1,0 +1,22 @@
+{
+ "page": "p075",
+ "a": "transcription/reads/A/p075.json",
+ "b": "transcription/reads/B/p075.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-011",
+   "kind": "body",
+   "where_a": "blocks[2].lines[0]",
+   "where_b": "blocks[2].lines[0]",
+   "index": 11,
+   "index_b": 11,
+   "a": "Moins peut-on alleguer la diſsimili-",
+   "b": "Moins peut-on alleguer la diſſimili-",
+   "context_before": "TEXTE.",
+   "context_after": "tude entre ledit preuenu, & Sanxi Guer",
+   "strip": "pages/strips/p075/body-3.jpg",
+   "crop": "crops/p075/b-011.jpg"
+  }
+ ]
+}

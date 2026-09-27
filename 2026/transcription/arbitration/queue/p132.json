@@ -1,0 +1,81 @@
+{
+ "page": "p132",
+ "a": "transcription/reads/A/p132.json",
+ "b": "transcription/reads/B/p132.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-008",
+   "kind": "body",
+   "where_a": "blocks[0].lines[8]",
+   "where_b": "blocks[0].lines[8]",
+   "index": 8,
+   "index_b": 8,
+   "a": "loy cõmande, quelque malfaicteur eſtre bruſlé, il le cõ-",
+   "b": "loy cõmande. quelque malfaicteur eſtre bruſlé, il le cõ-",
+   "context_before": "bruſlé vif, & non pas apres ſa mort {h}. D'autant qu'où la",
+   "context_after": "uient bruſler tout vif {i}. Ioint qu'apres la mort du pre-",
+   "strip": "pages/strips/p132/body-2.jpg",
+   "crop": "crops/p132/b-008.jpg"
+  },
+  {
+   "id": "b-027",
+   "kind": "body",
+   "where_a": "blocks[2].lines[1]",
+   "where_b": "blocks[2].lines[1]",
+   "index": 27,
+   "index_b": 27,
+   "a": "grande, qu'en deteſtation d'iceluy il appartient à l'exẽ-",
+   "b": "grande, qu'en deteſtation d'iceluy il appartient à l'exé-",
+   "context_before": "L'horreur & enormité du crime toutesfois peut eſtre ſi",
+   "context_after": "ple & à la grandeur d'vne Republique bien policée,",
+   "strip": "pages/strips/p132/body-5.jpg",
+   "crop": "crops/p132/b-027.jpg"
+  },
+  {
+   "id": "n-i-1",
+   "kind": "note",
+   "key": "i",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[1]",
+   "where_b": "margin_notes[2].lines[1]",
+   "a": "C. vbi cauſ. fi",
+   "b": "C vbi cauſ. fi",
+   "context_before": "l. vniuerſi.",
+   "context_after": "ſcal. l. ſi quis",
+   "strip": "pages/strips/p132/margin-1.jpg",
+   "crop": "crops/p132/n-i-1.jpg"
+  },
+  {
+   "id": "n-l-3",
+   "kind": "note",
+   "key": "l",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[4].lines[3]",
+   "where_b": "margin_notes[4].lines[3]",
+   "a": "poſ. Ange. l. fi.",
+   "b": "poſ. Ange. l. [?].",
+   "context_before": "qui teſt. face.",
+   "context_after": "C. ſi reus, vel",
+   "strip": "pages/strips/p132/margin-2.jpg",
+   "crop": "crops/p132/n-l-3.jpg"
+  },
+  {
+   "id": "n-m-1",
+   "kind": "note",
+   "key": "m",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[5].lines[1]",
+   "where_b": "margin_notes[5].lines[1]",
+   "a": "dã. xxiij. q j.",
+   "b": "dã. xxiij. q. j.",
+   "context_before": "c. quorum",
+   "context_after": null,
+   "strip": "pages/strips/p132/margin-2.jpg",
+   "crop": "crops/p132/n-m-1.jpg"
+  }
+ ]
+}

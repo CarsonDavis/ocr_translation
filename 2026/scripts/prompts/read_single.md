@@ -6,8 +6,8 @@ the account of the Martin Guerre case with Coras's numbered annotations. Accurac
 far more than speed, but this is a **single-pass read with a fixed tool budget**: you look
 at each image once, at the resolution given, and transcribe what you see. You are one of
 two independent readers; your output is diffed against the other reader's line by line and
-every disagreement is settled by a separate reconciler, so do not skip anything and do not
-tidy anything.
+every disagreement is settled by a human arbiter looking at the print, so do not skip
+anything and do not tidy anything.
 
 Page: `{PAGE_ID}` (manifest record below). Reader: `{READER}`. Model: `{MODEL}`.
 Output file: `{OUT_DIR}/{PAGE_ID}.json`
@@ -24,9 +24,10 @@ Output file: `{OUT_DIR}/{PAGE_ID}.json`
 4. `pages/strips/{PAGE_ID}/margin-1.jpg` … — the margin column at native resolution.
 5. `pages/strips/{PAGE_ID}/foot.jpg` — the bottom of the page (foot citations, signature,
    catchword).
-6. Context: the final transcriptions of the preceding pages, so you know which sentence,
+6. Context: the transcriptions of the preceding pages (finals where they exist), so you know which sentence,
    paragraph and section this page continues (`continues_prev`, a word broken across the
-   page boundary, the running marker alphabet). Never copy from them.
+   page boundary, the running marker alphabet). Never copy from them. Files under
+   `transcription/reads/` are unreconciled reads, use them only for continuity.
    Preceding pages: {CONTEXT_PAGES}
 7. Manifest record: {MANIFEST_RECORD}
 

@@ -1,0 +1,215 @@
+{
+ "page": "p101",
+ "a": "transcription/reads/A/p101.json",
+ "b": "transcription/reads/B/p101.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-004",
+   "kind": "body",
+   "where_a": "blocks[0].lines[4]",
+   "where_b": "blocks[0].lines[4]",
+   "index": 4,
+   "index_b": 4,
+   "a": "paſſion {k}., ſe pardonne aiſement {l}, meſmes qu'il eſt",
+   "b": "paſſion {k}, ſe pardonne aiſement {l}, meſmes qu'il eſt",
+   "context_before": "penſee, ni deliberee, ains pluſtoſt forcee & cõtrainte de",
+   "context_after": "fort difficile à vn homme ſi iuſtement irrité, ſe retenir,",
+   "strip": "pages/strips/p101/body-2.jpg",
+   "crop": "crops/p101/b-004.jpg"
+  },
+  {
+   "id": "b-011",
+   "kind": "body",
+   "where_a": "blocks[0].lines[11]",
+   "where_b": "blocks[0].lines[11]",
+   "index": 11,
+   "index_b": 11,
+   "a": "gnorance ſ'excuſent {o}, comme quand Telegonus fils",
+   "b": "gnorance l'excuſent {o}, comme quand Telegonus fils",
+   "context_before": "fortuitement, & par quelque deſaſtre d'erreur ou d'i-",
+   "context_after": "d'Vliſſes, & de Circé, caſuellement tua ſon pere, ne le",
+   "strip": "pages/strips/p101/body-3.jpg",
+   "crop": "crops/p101/b-011.jpg"
+  },
+  {
+   "id": "b-017",
+   "kind": "body",
+   "where_a": "blocks[0].lines[17]",
+   "where_b": "blocks[0].lines[17]",
+   "index": 17,
+   "index_b": 17,
+   "a": "autre beſte ſauuage, on rencontroit vn homme. que de",
+   "b": "autre belte ſauuage, on rencontroit vn homme. que de",
+   "context_before": "penſant eſlancer le dart contre vn cheureul, ſanglier, ou",
+   "context_after": "ce coup mouruſt, ou fut bleſſé {q}. Et au faict, qui ſe pre-",
+   "strip": "pages/strips/p101/body-4.jpg",
+   "crop": "crops/p101/b-017.jpg"
+  },
+  {
+   "id": "b-032",
+   "kind": "body",
+   "where_a": "blocks[0].lines[32]",
+   "where_b": "blocks[0].lines[32]",
+   "index": 32,
+   "index_b": 32,
+   "a": "eſtoit corrumpue & deprauee. comme par exemple",
+   "b": "eſtoit corrumpue & deprauee. comme par exemple,",
+   "context_before": "reprouué. dont ſon intention, attendu le cõmencemẽt",
+   "context_after": "Si i'ay volonté de meurtrir Antoine, & le pẽſant occire",
+   "strip": "pages/strips/p101/body-6.jpg",
+   "crop": "crops/p101/b-032.jpg"
+  },
+  {
+   "id": "n-n-1",
+   "kind": "note",
+   "key": "n",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[3].lines[1]",
+   "where_b": "margin_notes[2].lines[1]",
+   "a": "la vie des pa-",
+   "b": "la vie des Pa-",
+   "context_before": "Platina en",
+   "context_after": "pes.",
+   "strip": "pages/strips/p101/margin-1.jpg",
+   "crop": "crops/p101/n-n-1.jpg"
+  },
+  {
+   "id": "n-t-3",
+   "kind": "note",
+   "key": "t",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[9].lines[3]",
+   "where_b": "margin_notes[8].lines[3]",
+   "a": "allegué.",
+   "b": "allegue.",
+   "context_before": "quil. c. lator",
+   "context_after": null,
+   "strip": "pages/strips/p101/margin-3.jpg",
+   "crop": "crops/p101/n-t-3.jpg"
+  },
+  {
+   "id": "n-u-4",
+   "kind": "note",
+   "key": "u",
+   "line": 4,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[10].lines[4]",
+   "where_b": "margin_notes[9].lines[4]",
+   "a": "D. ad l. Aqui.",
+   "b": "D. ad l Aqui.",
+   "context_before": "fornicarius.",
+   "context_after": "c. contine la-",
+   "strip": "pages/strips/p101/margin-3.jpg",
+   "crop": "crops/p101/n-u-4.jpg"
+  },
+  {
+   "id": "ns-k",
+   "kind": "note-structure",
+   "where_a": "margin_notes[0]",
+   "where_b": "margin_notes[0]",
+   "notes_a": [
+    "margin_notes[0]",
+    "margin_notes[1]"
+   ],
+   "notes_b": [
+    "margin_notes[0]"
+   ],
+   "a": "[k] l. ſi mulier\nP. penult. D.\nquod met. ca.\n[l] l. verum. D.\nde fur. l. vt vĩ\nalleguee.",
+   "b": "[k] l. ſi mulier\nP. penult. D.\nquod met. ca.\nl. verum. D.\nde fur. l. vt vĩ\nalleguee.",
+   "layout_a": [
+    {
+     "where": "margin_notes[0]",
+     "kind": "margin_notes",
+     "key": "k",
+     "beside_line": "Et telle maniere de coulpe, bien qu'a l'execution y",
+     "lines": [
+      {
+       "text": "l. ſi mulier",
+       "from": "margin_notes[0].lines[0]",
+       "keep_text": true
+      },
+      {
+       "text": "P. penult. D.",
+       "from": "margin_notes[0].lines[1]",
+       "keep_text": true
+      },
+      {
+       "text": "quod met. ca.",
+       "from": "margin_notes[0].lines[2]",
+       "keep_text": true
+      }
+     ]
+    },
+    {
+     "where": "margin_notes[1]",
+     "kind": "margin_notes",
+     "key": "l",
+     "beside_line": "paſſion: toutesfois par ce que telle volõté n'eſtoit pour",
+     "lines": [
+      {
+       "text": "l. verum. D.",
+       "from": "margin_notes[0].lines[3]",
+       "keep_text": false
+      },
+      {
+       "text": "de fur. l. vt vĩ",
+       "from": "margin_notes[0].lines[4]",
+       "keep_text": false
+      },
+      {
+       "text": "alleguee.",
+       "from": "margin_notes[0].lines[5]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[0]",
+     "kind": "margin_notes",
+     "key": "k",
+     "beside_line": "Et telle maniere de coulpe, bien qu'a l'execution y",
+     "lines": [
+      {
+       "text": "l. ſi mulier",
+       "from": "margin_notes[0].lines[0]",
+       "keep_text": true
+      },
+      {
+       "text": "P. penult. D.",
+       "from": "margin_notes[0].lines[1]",
+       "keep_text": true
+      },
+      {
+       "text": "quod met. ca.",
+       "from": "margin_notes[0].lines[2]",
+       "keep_text": true
+      },
+      {
+       "text": "l. verum. D.",
+       "from": "margin_notes[1].lines[0]",
+       "keep_text": false
+      },
+      {
+       "text": "de fur. l. vt vĩ",
+       "from": "margin_notes[1].lines[1]",
+       "keep_text": false
+      },
+      {
+       "text": "alleguee.",
+       "from": "margin_notes[1].lines[2]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
+   "strip": "pages/strips/p101/margin-1.jpg",
+   "crop": "crops/p101/ns-k.jpg"
+  }
+ ]
+}

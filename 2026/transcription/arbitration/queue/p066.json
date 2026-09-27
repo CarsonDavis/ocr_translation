@@ -2,7 +2,7 @@
  "page": "p066",
  "a": "transcription/reads/A/p066.json",
  "b": "transcription/reads/B/p066.json",
- "include_flagged": true,
+ "include_flagged": false,
  "items": [
   {
    "id": "b-010",
@@ -31,63 +31,6 @@
    "context_after": "en eſcrirons peu apres {e}.",
    "strip": "pages/strips/p066/body-5.jpg",
    "crop": "crops/p066/b-021.jpg"
-  },
-  {
-   "id": "f-b-014",
-   "kind": "flagged",
-   "where_a": "blocks[2].lines[4]",
-   "where_b": "blocks[2].lines[4]",
-   "index": 14,
-   "a": "il y auroit quelque preſumptioo cõtre celuy qui le de-",
-   "b": "il y auroit quelque preſumptioo cõtre celuy qui le de-",
-   "flags": [
-    "A: sic: the last letter of preſumptioo is printed as a closed round sort (o), not the n used elsewhere on the page (compare eſcrirons, defaudroyent) — a wrong sort, transcribed as printed.",
-    "B: sic: the last sort of 'preſumptioo' is a fully closed o, not n. Checked at 8x and on a thresholded bitmap (body-4.jpg, x≈968-1018, y≈185-240): the counter is enclosed top and bottom, unlike the open-bottomed n of 'nos' (body-5.jpg) or of 'defaudroyent' on the line above. Wrong sort (o for n), transcribed as printed."
-   ],
-   "hint": "Both readers agree on this line; flagged by A and B.\nA: sic: the last letter of preſumptioo is printed as a closed round sort (o), not the n used elsewhere on the page (compare eſcrirons, defaudroyent) — a wrong sort, transcribed as printed.\nB: sic: the last sort of 'preſumptioo' is a fully closed o, not n. Checked at 8x and on a thresholded bitmap (body-4.jpg, x≈968-1018, y≈185-240): the counter is enclosed top and bottom, unlike the open-bottomed n of 'nos' (body-5.jpg) or of 'defaudroyent' on the line above. Wrong sort (o for n), transcribed as printed.",
-   "context_before": "mes, où toutes autres preuues defaudroyent {b}, voire où",
-   "context_after": "fere, & qu'il fuſt chargé de la preuue, il luy ſeroit tou-",
-   "strip": "pages/strips/p066/body-4.jpg",
-   "crop": "crops/p066/f-b-014.jpg"
-  },
-  {
-   "id": "f-n-a-0",
-   "kind": "flagged",
-   "key": "a",
-   "line": 0,
-   "note_kind": "margin_notes",
-   "where_a": "margin_notes[0].lines[0]",
-   "where_b": "margin_notes[0].lines[0]",
-   "a": "I. manife.",
-   "b": "I. manife.",
-   "flags": [
-    "A: sic: the citation opens with an italic capital I (flat serifs top and bottom) where the lex-abbreviation l. is expected; compare the clearly different lowercase l of notes b and c. Also, manife. ends in a round period, not a hyphen, before ſta. on the next line.",
-    "B: sic: the first sort is an italic CAPITAL I (flat serifs top and bottom, margin-2.jpg at 11x), not the lowercase l of notes b and c ('l. ſi.', 'l fin.'), although the citation wants l. (lex) manifeſta, D. de iureiurando. Wrong sort, transcribed as printed."
-   ],
-   "hint": "Both readers agree on this line; flagged by A and B.\nA: sic: the citation opens with an italic capital I (flat serifs top and bottom) where the lex-abbreviation l. is expected; compare the clearly different lowercase l of notes b and c. Also, manife. ends in a round period, not a hyphen, before ſta. on the next line.\nB: sic: the first sort is an italic CAPITAL I (flat serifs top and bottom, margin-2.jpg at 11x), not the lowercase l of notes b and c ('l. ſi.', 'l fin.'), although the citation wants l. (lex) manifeſta, D. de iureiurando. Wrong sort, transcribed as printed.",
-   "context_before": null,
-   "context_after": "ſta. D. de iu-",
-   "strip": "pages/strips/p066/margin-2.jpg",
-   "crop": "crops/p066/f-n-a-0.jpg"
-  },
-  {
-   "id": "f-n-d-3",
-   "kind": "flagged",
-   "key": "d",
-   "line": 3,
-   "note_kind": "margin_notes",
-   "where_a": "margin_notes[3].lines[3]",
-   "where_b": "margin_notes[3].lines[3]",
-   "a": "leguee.",
-   "b": "leguee.",
-   "flags": [
-    "A: worn and over-inked; read as 'leguee' (continuing 'al' from the line above, i.e. alleguee). A mark above the middle letters could be an accent or ink."
-   ],
-   "hint": "Both readers agree on this line; flagged by A.\nA: worn and over-inked; read as 'leguee' (continuing 'al' from the line above, i.e. alleguee). A mark above the middle letters could be an accent or ink.",
-   "context_before": "manifeſta al",
-   "context_after": null,
-   "strip": "pages/strips/p066/margin-3.jpg",
-   "crop": "crops/p066/f-n-d-3.jpg"
   }
  ]
 }

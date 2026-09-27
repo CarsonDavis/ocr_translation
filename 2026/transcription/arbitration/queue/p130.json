@@ -1,0 +1,83 @@
+{
+ "page": "p130",
+ "a": "transcription/reads/A/p130.json",
+ "b": "transcription/reads/B/p130.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-003",
+   "kind": "body",
+   "where_a": "blocks[0].lines[3]",
+   "where_b": "blocks[0].lines[3]",
+   "index": 3,
+   "index_b": 3,
+   "a": "exprime, quand il dit {e}.",
+   "b": "exprime, quand il dit {t}.",
+   "context_before": "lus, duquel le ſablon eſt d'or. Ce qu'Ouide diſertemẽt",
+   "context_after": "Morte vel intereas, capti ſuſpenſus Achæi,",
+   "strip": "pages/strips/p130/body-2.jpg",
+   "crop": "crops/p130/b-003.jpg"
+  },
+  {
+   "id": "b-004",
+   "kind": "body",
+   "where_a": "blocks[1].lines[0]",
+   "where_b": "blocks[1].lines[0]",
+   "index": 4,
+   "index_b": 4,
+   "a": "Morte vel intereas, capti ſuſpenſus Achæi,",
+   "b": "Morte Vel intereas, capti ſuſpenſus Achæi,",
+   "context_before": "exprime, quand il dit {e}.",
+   "context_after": "Qui miſer aurifera, reſte pependit aqua.",
+   "strip": "pages/strips/p130/body-2.jpg",
+   "crop": "crops/p130/b-004.jpg"
+  },
+  {
+   "id": "ns-e",
+   "kind": "note-structure",
+   "where_a": "margin_notes[0]",
+   "where_b": "margin_notes[0]",
+   "notes_a": [
+    "margin_notes[0]"
+   ],
+   "notes_b": [
+    "margin_notes[0]"
+   ],
+   "a": "[e] Onide in Ib.",
+   "b": "[t] Ouide in Ib.",
+   "layout_a": [
+    {
+     "where": "margin_notes[0]",
+     "kind": "margin_notes",
+     "key": "e",
+     "beside_line": "exprime, quand il dit {e}.",
+     "lines": [
+      {
+       "text": "Onide in Ib.",
+       "from": "margin_notes[0].lines[0]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[0]",
+     "kind": "margin_notes",
+     "key": "t",
+     "beside_line": "exprime, quand il dit {t}.",
+     "lines": [
+      {
+       "text": "Ouide in Ib.",
+       "from": "margin_notes[0].lines[0]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
+   "strip": "pages/strips/p130/margin-1.jpg",
+   "crop": "crops/p130/ns-e.jpg"
+  }
+ ]
+}

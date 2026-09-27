@@ -1,0 +1,185 @@
+{
+ "id": "p086",
+ "reader": "A",
+ "model": "opus",
+ "running_head": "ARREST DV.",
+ "folio": "86",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "le contraire, qu'icceluy du Tilh eſtoit",
+    "Martin Guerre ſon mari voire luy eſtant",
+    "en preuention de meſme faict deuant le",
+    "Seneſchal de Toloſe, l'alloit voir ſou-",
+    "uent, luy donnant ſecours d'argent, &",
+    "d'autres choſes neceſſaires, demeurant,",
+    "comme eſt à preſumer, touſiours en ceſt",
+    "erreur."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "On ne preſume point volontiers, & ſans cauſe vne",
+    "erreur en perſonne quelconque {a}. toutesfois depuis",
+    "qu'vn homme eſt en quelque erreur, il eſt à preſumer",
+    "qu'il perſuere en iceluy ſ'il n'appert du contraire {b}.",
+    "car le changement de volõté, n'eſt à preſumer, & moins",
+    "auſſi qu'aucuns nouueaux accidens ſuruiennent, qui le",
+    "puiſſent cauſer. Ains pluſtoſt au contraire, on preſume",
+    "du paſſé au temps preſent {d}. comme qu'vn ennemi, vn",
+    "pariure, vn riche, vn pauure, vn ſuiet, vn excõmunié, le",
+    "ſoit encore pour ce iourd'huy {e}. Dont lad. de Rols cir-",
+    "conuenue de ſes belles ſeurs & oncle, qui luy auoient ſi",
+    "bien obmurmuré, & ſi ſouuẽt aſſeuré que le priſonnier",
+    "eſtoit veritablement Martin Guerre: ayant priſe telle",
+    "perſuaſion, elle iuſtement eſtoit occaſionnée de l'aimer",
+    "receuoir & defendre comme ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Au conflict de tant & diuerſes raiſons,",
+    "& repugnance de coniectures & preu-",
+    "ues, chacun peut apperceuoir que la",
+    "cour eſtoit en perplexité grande: mais",
+    "le bon & tout-puiſſant Dieu, monſtrant",
+    "qu'il veut touſiours aſsiſter à la iuſtice,",
+    "& qu'vn ſi prodigieux faict ne demeu-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "On ne preſume point volontiers, & ſans cauſe vne",
+   "lines": [
+    "l. ſi poſt di-",
+    "uiſionẽ. C. de",
+    "iur. et fact. ig."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "qu'vn homme eſt en quelque erreur, il eſt à preſumer",
+   "lines": [
+    "c. fi. de ſuc-",
+    "ceſ. ab inteſt."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "car le changement de volõté, n'eſt à preſumer, & moins",
+   "lines": [
+    "l eum qui.",
+    "D. de probat.",
+    "Accurſe, en la",
+    "l. ſi vero. P.",
+    "qui pro rei. D",
+    "qui ſatiſ. cog."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "ſoit encore pour ce iourd'huy {e}. Dont lad. de Rols cir-",
+   "lines": [
+    "l. ſiue poſsi",
+    "detis. C. de pro",
+    "ba."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "bien obmurmuré, & ſi ſouuẽt aſſeuré que le priſonnier",
+   "lines": [
+    "c literis. de",
+    "præſumpti. c.",
+    "paruuli. xxij.",
+    "q. v. c. præter-",
+    "ea l. ij. de teſt.",
+    "l. in ipſius &",
+    "illec Balae C.",
+    "famil. erciſ c.",
+    "ſicut nobis.",
+    "de ſent. ex con.",
+    "Les maiſtres",
+    "en la l. ij. D.",
+    "de excep."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "letterspaced; final point after DV printed"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "le contraire, qu'icceluy du Tilh eſtoit",
+   "note": "read 'icceluy' with two c (sic?); could be 'iceluy' if the first c is a blotted i-dot/e"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "car le changement de volõté, n'eſt à preſumer, & moins",
+   "note": "marker c missing in body: margin note c (l eum qui. ... qui ſatiſ. cog.) stands beside this line but no c marker is visible in the text; final t of 'changement' broken"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "du paſſé au temps preſent {d}. comme qu'vn ennemi, vn",
+   "note": "period after marker d set tight against 'comme'"
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "perſuaſion, elle iuſtement eſtoit occaſionnée de l'aimer",
+   "note": "a mark over the a of 'perſuaſion' (possibly acute, á, or ink); transcribed without accent"
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "receuoir & defendre comme ſon mari.",
+   "note": "'l'aimer' at end of previous line followed by no comma before 'receuoir'"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "q. v. c. præter-",
+   "note": "æ in 'præter-' blotted, could be 'prater-'; note printed 'q.v.c' tight"
+  },
+  {
+   "where": "margin_notes[4].lines[6]",
+   "text": "illec Balae C.",
+   "note": "read 'Balae' as printed (sic? for Balde); the d/a glyph is blotted"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "c literis. de",
+   "note": "no point after key-following 'c'; 'literis' i possibly dotless"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l eum qui.",
+   "note": "no point after 'l' as printed"
+  }
+ ]
+}
