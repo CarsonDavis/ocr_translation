@@ -28,3 +28,18 @@ def test_alternative_readings_do_not_count_as_markers(tmp_path, monkeypatch):
            "notes": [{"key": "a"}, {"key": "b"}]}
     write(tmp_path, monkeypatch, "---\nid: annot-005\n---\n⟦p040⟧The text {a} goes on ⟦p041⟧and ends {b}.\n\n## Notes\n- {a}\n- {b}\n")
     assert check_markers.check("annot-005", {"annot-005": sec}) == []
+
+
+def test_all_prints_one_line_per_failure_and_count(tmp_path, monkeypatch):
+    write(tmp_path, monkeypatch, "---\nid: annot-005\n---\n⟦p040⟧x {a} ⟦p041⟧y {b}\n\n## Notes\n- {a}\n- {b}\n")
+    (tmp_path / "translation/sections/annot-006.md").write_text(
+        "---\nid: annot-006\n---\n⟦p041⟧x\n", encoding="utf-8")
+    sections = {"annot-004": dict(SEC, id="annot-004"), "annot-005": SEC,
+                "annot-006": dict(SEC, id="annot-006")}           # annot-004: no file, not checked
+    out = []
+    assert check_markers.check_all(sections, out=out.append) == 1
+    assert len(out) == 2 and out[0].startswith("FAIL annot-006: ") and "page markers" in out[0]
+    assert out[-1] == "1/2 ok"
+    (tmp_path / "translation/sections/annot-006.md").unlink()
+    out = []
+    assert check_markers.check_all(sections, out=out.append) == 0 and out == ["1/1 ok"]

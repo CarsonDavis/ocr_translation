@@ -496,6 +496,16 @@ def test_apply_by_default_and_passthrough(queue):
                for u in page["uncertain"])
 
 
+def test_apply_reviewer_reason(queue):
+    tmp, _ = queue
+    r, page = apply(tmp, all_("A", **{
+        "b-002": {"choice": "B", "by": "reviewer", "reason": "the whole book reads B"}}))
+    assert r.returncode == 0, r.stdout + r.stderr          # validates against the schema
+    d = {x["where"]: x for x in page["decisions"]}
+    assert (d["blocks[1].lines[1]"]["by"], d["blocks[1].lines[1]"]["reason"]) == \
+        ("reviewer", "arbitration: B (reviewer: the whole book reads B)")
+
+
 def _decision_validator():
     import jsonschema
     schema = json.loads((SCRIPTS / "page_schema.json").read_text())
@@ -507,7 +517,7 @@ def test_schema_decision_by_and_extra_fields():
     base = {"where": "blocks[0].lines[0]", "A": "x", "B": "y", "chose": "carson-session",
             "text": "x", "reason": "arbitration: either (auto-deferred)"}
     assert v.is_valid(base)                                   # by is optional
-    for by in ("carson", "auto", "translator"):
+    for by in ("carson", "auto", "translator", "reviewer"):
         assert v.is_valid(dict(base, by=by))
     assert not v.is_valid(dict(base, by="robot"))
     assert not v.is_valid(dict(base, by="auto", who="auto"))  # still no extra fields

@@ -198,7 +198,8 @@ The schema is `scripts/site_schema.json`; it is enforced on every run.
   - `by` is who decided: `carson` (the editor; the viewer says "editor"), `reconciler`
     (the first pipeline run's reconciliation model; "reconciliation model (first pass)"),
     `translator` (the translation model, choosing from context; "translation model (from
-    context)"), or `auto` (deferred; "undecided, showing reader A"); `null` for an open
+    context)"), `reviewer` (the review model, reading the whole book in one pass; "review
+    model (whole-book pass)"), or `auto` (deferred; "undecided, showing reader A"); `null` for an open
     `uncertain[]` arbitration with no decision entry. A decision with no `by` in the final
     is `reconciler` when it chose `A`, `B` or `neither` (the first run left `by` off) and
     `carson` otherwise, `carson-session` included.

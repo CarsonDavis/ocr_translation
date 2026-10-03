@@ -303,3 +303,30 @@ def test_conflicting_choices_on_one_line_fail(tmp_path, calls):
     out = []
     assert atc.apply([f], root=root, out=out.append) == 1
     assert any("conflicting choices" in line for line in out)
+
+
+def test_by_reviewer_writes_reviewer_and_replaces_translator(tmp_path, calls):
+    prior = {"choice": "A", "by": "translator", "at": "t0", "reason": "first pass"}
+    carson = {"choice": "A", "by": "carson", "at": "t0"}
+    root = feedback_root(tmp_path, {"p001": {"b-001": prior, "b-002": carson, "n-a-0": AUTO}})
+    f = choices_file(tmp_path, [
+        {"alt_id": "p001-b1l0-1", "choice": "B", "reason": "trahir, as at annot-040"},
+        {"alt_id": "p001-b2l0-1", "choice": "B", "reason": "no"}], name="review.json")
+    out = []
+    assert atc.apply([f], root=root, now="t2", out=out.append, by="reviewer") == 0
+    d1 = decisions(root, "p001")
+    assert d1["b-001"] == {"choice": "B", "by": "reviewer", "at": "t2",
+                           "reason": "trahir, as at annot-040"}
+    assert d1["b-002"] == carson                                # carson still protected
+    assert any("reviewer B" in line for line in out if line.startswith("SKIPPED"))
+    assert any("-> B (reviewer)" in line for line in out)
+
+
+def test_by_flag_parses_and_defaults_to_translator(tmp_path, monkeypatch):
+    assert atc.apply([], by="robot", out=lambda s: None) == 1
+    seen = {}
+    monkeypatch.setattr(atc, "apply", lambda paths, **kw: seen.update(kw) or 0)
+    assert atc.main(["x.json"]) == 0 and seen["by"] == "translator"
+    assert atc.main(["--by", "reviewer", "x.json"]) == 0 and seen["by"] == "reviewer"
+    with pytest.raises(SystemExit):
+        atc.main(["--by", "robot", "x.json"])

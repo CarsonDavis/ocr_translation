@@ -26,10 +26,10 @@ A note-structure item (the same note text keyed or split differently) is applied
 line items, in one step: A/B take that read's note layout for the whole region, reusing the
 base read's lines rather than copying them, so no line can appear twice.
 
-A decisions entry may carry `by` (carson | auto | translator; absent = carson) and a
+A decisions entry may carry `by` (carson | auto | translator | reviewer; absent = carson) and a
 `reason`; both pass into the final's decisions[] entry: `by` as is, the reason folded
 into `reason`, e.g. "arbitration: either (auto-deferred)" or
-"arbitration: B (translator: <reason>)".
+"arbitration: B (translator: <reason>)" or "arbitration: A (reviewer: <reason>)".
 
 An item with no decision fails the run with a list of the undecided items. A legacy
 decisions file is read leniently: "both" means either, "skip" means undecided.
@@ -57,7 +57,7 @@ import normalize_spacing  # noqa: E402
 import pagelib  # noqa: E402
 
 CHOICES = ("A", "B", "neither", "either", "unknown")
-BY = ("carson", "auto", "translator")           # who decided; absent = carson
+BY = ("carson", "auto", "translator", "reviewer")           # who decided; absent = carson
 LEGACY = {"both": "either", "skip": None}     # older decisions files
 SIGNS = ("[?]", "[??]", "[...]", "[abbr:")
 _ids = itertools.count()
@@ -423,13 +423,13 @@ def apply(page_id, a, b, queue, decisions):
 
 
 def reason_suffix(by, why):
-    """The provenance tail of a decisions[] reason: (auto-deferred), (translator: why),
+    """The provenance tail of a decisions[] reason: (auto-deferred), (translator: why), (reviewer: why),
     (carson: why), or nothing for Carson without a reason."""
     if by == "auto":
         return " (auto-deferred)" if not why or why.startswith("auto-deferred") \
             else f" (auto-deferred: {why})"
-    if by == "translator":
-        return f" (translator: {why})" if why else " (translator)"
+    if by in ("translator", "reviewer"):
+        return f" ({by}: {why})" if why else f" ({by})"
     return f" (carson: {why})" if why else ""
 
 

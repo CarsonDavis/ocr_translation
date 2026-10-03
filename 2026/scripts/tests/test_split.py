@@ -753,6 +753,25 @@ def test_session_reason_gives_the_real_choice_and_drops_the_provenance():
         (None, "open", None), (None, "open", None)]
 
 
+def test_reviewer_passes_through_and_validates():
+    line = "aliena. P. fin."
+    d = {"where": "blocks[0].lines[0]", "A": "aliena. P. fin.", "B": "alienæ. P. fin.",
+         "chose": "carson-session", "text": line}
+    final = _final([line], decisions=[
+        dict(d, by="reviewer", reason="arbitration: A (reviewer: same form at annot-040)"),
+        dict(d, chose="A", by="reviewer", reason="plain")])
+    rs = split_pages.contested_readings(final)
+    assert [(r["by"], r["chose"], r["status"], r["reason"]) for r in rs] == [
+        ("reviewer", "A", "decided", "same form at annot-040"),
+        ("reviewer", "A", "decided", "plain")]
+    schema = read(ROOT / "scripts" / "site_schema.json")
+    reading = dict(schema["$defs"]["reading"], **{"$defs": schema["$defs"]})
+    for r in rs:
+        jsonschema.validate(r, reading)
+    with pytest.raises(jsonschema.ValidationError):
+        jsonschema.validate(dict(rs[0], by="robot"), reading)
+
+
 def test_agreed_entries_are_not_contested():
     final = _final(["pour quoy les enfans"], decisions=[
         {"where": "blocks[0].lines[0]", "A": "pour quoy", "B": "pour quoy",

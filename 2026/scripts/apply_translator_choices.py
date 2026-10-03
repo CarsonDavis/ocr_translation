@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Feed the translator's ⟨alt⟩ choices back into the arbitration decisions.
 
-    uv run python scripts/apply_translator_choices.py [--dry-run] [--no-refinalize] CHOICES.json...
+    uv run python scripts/apply_translator_choices.py [--by translator|reviewer] [--dry-run] [--no-refinalize] CHOICES.json...
 
 Each CHOICES file (translation/alt-choices/<id>.json, written by the translator, see
 scripts/prompts/translate.md) is a JSON list of {"alt_id", "choice": "A"|"B"|"either",
@@ -10,11 +10,12 @@ its page, `where` and the two line readings, and matched to the one item of
 transcription/arbitration/queue/<page>.json whose readings are the same (narrowed by
 `where` when several are). For choice A or B the decision in
 transcription/arbitration/decisions/<page>.json becomes
-{"choice", "by": "translator", "at", "reason"}:
+{"choice", "by": BY, "at", "reason"}, BY being --by (translator, the default, or
+reviewer for the whole-book review model, whose choices file has the same format):
 
   - a decision by Carson (`"by": "carson"`, or no `by` at all) is never overwritten; it is
     reported as skipped;
-  - an `auto` (or earlier `translator`) decision is replaced;
+  - an `auto` (or earlier `translator` / `reviewer`) decision is replaced;
   - "either" changes nothing: the auto decision stays and the French keeps reading A.
 
 Nothing is written when any alt_id is unknown, any queue match is missing or ambiguous, or
@@ -28,6 +29,7 @@ SCRIPTS = pathlib.Path(__file__).resolve().parent
 ROOT = SCRIPTS.parent
 CHOICES = ("A", "B", "either")
 PROTECTED = "carson"
+BYS = ("translator", "reviewer")
 
 
 def run(args, **kw):
@@ -129,8 +131,12 @@ def plan(choices, alts, root=ROOT):
     return out, unmatched, errors
 
 
-def apply(choice_paths, root=ROOT, dry_run=False, refinalize=True, now=None, out=print):
+def apply(choice_paths, root=ROOT, dry_run=False, refinalize=True, now=None, out=print,
+          by="translator"):
     """Returns the process exit code."""
+    if by not in BYS:
+        out(f"ERROR: --by must be one of {', '.join(BYS)}, not {by!r}")
+        return 1
     root = pathlib.Path(root)
     alts_file = root / "text/alts.json"
     if not alts_file.exists():
@@ -165,16 +171,16 @@ def apply(choice_paths, root=ROOT, dry_run=False, refinalize=True, now=None, out
                 continue
             if cur and cur.get("choice") and cur.get("by", PROTECTED) == PROTECTED:
                 skipped.append(f"{pid} {item_id} ({', '.join(alt_ids)}): carson chose "
-                               f"{cur.get('choice')}, translator {choice}")
+                               f"{cur.get('choice')}, {by} {choice}")
                 continue
-            if cur and cur.get("by") == "translator" and cur.get("choice") == choice \
+            if cur and cur.get("by") == by and cur.get("choice") == choice \
                     and cur.get("reason") == reason:
                 n_same += 1
                 continue
-            new = {"choice": choice, "by": "translator", "at": at, "reason": reason}
+            new = {"choice": choice, "by": by, "at": at, "reason": reason}
             out(f"{'would set' if dry_run else 'set'} {pid} {item_id}: "
                 f"{(cur or {}).get('choice', '-')} ({(cur or {}).get('by', 'none')}) -> "
-                f"{choice} (translator)  [{', '.join(alt_ids)}]")
+                f"{choice} ({by})  [{', '.join(alt_ids)}]")
             dec[item_id] = new
             n_set += 1
         summary.append(f"{pid}\t{n_set} applied\t{n_either} either (kept)\t{n_same} unchanged")
@@ -205,12 +211,15 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("choices", nargs="+", help="translation/alt-choices/*.json files")
+    ap.add_argument("--by", choices=BYS, default="translator",
+                    help="who made the choices (default translator)")
     ap.add_argument("--dry-run", action="store_true", help="print what would change")
     ap.add_argument("--no-refinalize", action="store_true",
                     help="write decisions but do not run wave.py refinalize")
     ap.add_argument("--root", default=ROOT, help=argparse.SUPPRESS)
     a = ap.parse_args(argv)
-    return apply(a.choices, root=a.root, dry_run=a.dry_run, refinalize=not a.no_refinalize)
+    return apply(a.choices, root=a.root, dry_run=a.dry_run, refinalize=not a.no_refinalize,
+                 by=a.by)
 
 
 if __name__ == "__main__":

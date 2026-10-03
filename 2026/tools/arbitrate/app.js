@@ -51,6 +51,8 @@ async function openPage(pid) {
 // ---- helpers -------------------------------------------------------------------
 const CHOICES = ["A", "B", "neither", "either", "unknown"];
 const LABEL = { either: "either: it is one of these two", unknown: "unknown: neither reading is confirmed" };
+// who decided, as shown beside a decision not made by Carson
+const BY_LABEL = { reviewer: "review model (whole-book pass)" };
 const decided = (it) => !!(it.decision && CHOICES.includes(it.decision.choice));
 const chars = (s) => {
   if (s == null) return [];
@@ -144,7 +146,7 @@ function render() {
   const st = $("#state");
   st.className = d && decided(it) ? d.choice : "";
   st.textContent = d ? `decided: ${LABEL[d.choice] || d.choice}` + (d.choice === "neither" ? ` → ${JSON.stringify(d.text)}` : "")
-    + (d.by && d.by !== "carson" ? ` [${d.by}]` : "") : "";
+    + (d.by && d.by !== "carson" ? ` [${BY_LABEL[d.by] || d.by}]` : "") : "";
   closeEditor();
 }
 

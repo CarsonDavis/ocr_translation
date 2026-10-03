@@ -605,7 +605,7 @@ def uncertain(final: dict | None) -> list[dict]:
 ALT_PREFIXES = ("arbitration: undecided; alternatives: ",
                 "arbitration: unknown; alternatives: ")
 ALT_SEP = " ||| "
-DECIDERS = ("carson", "translator", "auto")
+DECIDERS = ("carson", "translator", "reviewer", "auto")
 # A decision with no `by` whose choice is one of these was the first run's
 # reconciliation model's; the site names it `reconciler`.
 RECONCILER_CHOICES = ("A", "B", "neither")
@@ -613,7 +613,7 @@ RECONCILER_CHOICES = ("A", "B", "neither")
 # "arbitration: either (auto-deferred)", "arbitration: neither (carson: why)".
 SESSION_REASON_RE = re.compile(
     r"^arbitration:\s*(A|B|neither|either|unknown|undecided)\b"
-    r"(?:\s*\((?:carson|translator|auto-deferred)(?::\s*(.*))?\))?\s*$", re.S)
+    r"(?:\s*\((?:carson|translator|reviewer|auto-deferred)(?::\s*(.*))?\))?\s*$", re.S)
 OPEN_CHOICES = ("either", "unknown", "undecided")
 LINE_TARGET_RE = re.compile(r"^(blocks|margin_notes|foot_notes)\[(\d+)\]\.lines\[(\d+)\]$")
 HEADING_TARGET_RE = re.compile(r"^blocks\[(\d+)\]\.text$")
@@ -866,7 +866,7 @@ def _default_by(chose) -> str:
 def contested_readings(final: dict | None) -> list[dict]:
     """Every reading the two passes disagreed on, decided or open, in file order.
 
-    From a decisions[] entry: `by` is carson | translator | auto; absent or
+    From a decisions[] entry: `by` is carson | translator | reviewer | auto; absent or
     unknown, it is reconciler for a first-run choice of A, B or neither, else
     carson (see `_default_by`); an arbitration-session entry ("chose": "carson-session")
     takes its real choice from the reason ("arbitration: B"), whose provenance

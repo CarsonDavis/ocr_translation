@@ -1,6 +1,8 @@
 """Verify that a section translation keeps its page and letter markers.
 
-usage: check_markers.py SECTION_ID | --all
+usage: check_markers.py SECTION_ID... | --all
+--all checks every section with a translation file: one FAIL line per failing section,
+then `N/M ok`; exit 1 on any failure.
 Rules: the sequence of ⟦pNNN⟧ page markers in the English body must equal the French
 section's; the sequence of {x} letter markers must be equal too; every note key in the
 French section has a Notes entry `- {x}`; the front matter's id matches.
@@ -49,17 +51,35 @@ def check(section_id, sections):
     return [f"{section_id}: {p}" for p in problems]
 
 
-def main():
+def check_all(sections, out=print):
+    """Check every section that has a translation file, in book order: one line per failing
+    section, then `N/M ok`. Returns the exit code (1 on any failure)."""
+    ids = [s for s in sections if (ROOT / "translation/sections" / f"{s}.md").exists()]
+    failed = 0
+    for sid in ids:
+        problems = check(sid, sections)
+        if problems:
+            failed += 1
+            prefix = f"{sid}: "
+            out(f"FAIL {sid}: " + "; ".join(p[len(prefix):] if p.startswith(prefix) else p
+                                          for p in problems))
+    out(f"{len(ids) - failed}/{len(ids)} ok")
+    return 1 if failed else 0
+
+
+def main(argv=None):
+    argv = sys.argv[1:] if argv is None else argv
     sections = {s["id"]: s for s in json.loads((ROOT / "text/sections.json").read_text())["sections"]}
-    if len(sys.argv) < 2:
-        print(__doc__); sys.exit(2)
-    ids = [s for s in sections if (ROOT / "translation/sections" / f"{s}.md").exists()] if sys.argv[1] == "--all" else sys.argv[1:]
-    problems = [p for sid in ids for p in check(sid, sections)]
+    if not argv:
+        print(__doc__); return 2
+    if argv[0] == "--all":
+        return check_all(sections)
+    problems = [p for sid in argv for p in check(sid, sections)]
     for p in problems: print("PROBLEM:", p)
-    ok = len(ids) - len({p.split(":")[0] for p in problems})
-    print(f"{ok} sections ok, {len(ids) - ok} failed")
-    sys.exit(1 if problems else 0)
+    ok = len(argv) - len({p.split(":")[0] for p in problems})
+    print(f"{ok} sections ok, {len(argv) - ok} failed")
+    return 1 if problems else 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

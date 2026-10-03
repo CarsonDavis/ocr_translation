@@ -372,10 +372,11 @@
       "carson",
       "reconciler",
       "translator",
+      "reviewer",
       "auto",
       null
      ],
-     "description": "who decided: carson (the editor), reconciler (the first run's reconciliation model), translator (the translation model, from context), auto (deferred, open); null for an open arbitration with no decision entry"
+     "description": "who decided: carson (the editor), reconciler (the first run's reconciliation model), translator (the translation model, from context), reviewer (the review model, whole-book pass), auto (deferred, open); null for an open arbitration with no decision entry"
     },
     "status": {
      "enum": [
