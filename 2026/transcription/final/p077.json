@@ -169,6 +169,12 @@
    "where": "margin_notes[0].lines[3]",
    "text": "vbi cauſ. fiſcæ.",
    "note": "final punctuation may be ':' or ';' rather than '.'"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "{a}. La ſeconde, que la perſonne qui veut punir, ſoit celle",
+   "note": "sic: 'qui veut punir' as printed (page image, body-3: q-u-i, clear), where the sense wants 'qu'on veut punir'; transcribed as printed.",
+   "escalate": false
   }
  ],
  "decisions": []

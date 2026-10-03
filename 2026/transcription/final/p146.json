@@ -167,6 +167,12 @@
    "where": "blocks[4].lines[0]",
    "text": "Quoy voyant & conſiderant, que puis",
    "note": "opening Q is a large swash capital, not a woodcut initial"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "de Mane, le preuoyãt pour Martin Guer",
+   "note": "sic: 'preuoyãt' as printed (page image, body-1: u and ã are clear), wrong sort for 'prenoyẽt' (prenoient, 'took him for'); transcribed as printed.",
+   "escalate": false
   }
  ],
  "decisions": [

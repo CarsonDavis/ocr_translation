@@ -287,6 +287,12 @@
    "where": "margin_notes[8].lines[2]",
    "text": "Felin. aud. c.",
    "note": "punctuation after 'c' may be a semicolon"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Auſsi ne ſe pouuoit on perſonnément",
+   "note": "sic: 'perſonnément' as printed (page image, body-5: p-e-r-ſ-o-n-n-é-m-e-n-t, clear), not a misreading; the sense may want 'pertinemment' (wrong word), though Middle French 'personnement' (in person) is also possible. Transcribed as printed.",
+   "escalate": false
   }
  ],
  "decisions": [

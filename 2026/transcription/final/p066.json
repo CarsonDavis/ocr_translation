@@ -184,6 +184,12 @@
    "where": "margin_notes[4].lines[1]",
    "text": "tation.. xv.",
    "note": "the print sets 'tation.' then a space then '.xv.' (margin-3.jpg at 7x); §1 removes the space before a point and adds one after it, giving 'tation.. xv.'. Both points are printed."
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "tation.. xv.",
+   "note": "sic: 'xv.' as printed (page image, margin-3: 'tation. .xv.' in the outer margin, nothing lost to the gutter); the cross-reference is to Annotation LXV (delation of the oath), so the compositor dropped the l; transcribed as printed.",
+   "escalate": false
   }
  ],
  "decisions": [

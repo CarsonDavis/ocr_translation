@@ -292,6 +292,12 @@
   {
    "where": "margin_notes",
    "note": "the margin is badly crowded on this page and every note after g starts well below its marker — h beside body line 9 (marker on line 6), l beside line 21 (marker on line 11), p beside line 36 (marker on line 24) — until note r is driven off the margin into the foot block. beside_line values were fixed by measuring the row positions of both columns (body pitch 45.2 px, margin pitch 36.5 px in pages/read/p003.jpg) and checked against the page image; the placements for m (line 25) and q (line 38) fall close to midway between two body lines."
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "chaz eut Ezechiel {l}. Mais quoy? biẽ que l'vn enfant (ſainct",
+   "note": "sic: 'Ezechiel' as printed (page image, body-3), where Ahaz's son is Ezechias (Hezekiah); author's or compositor's error, transcribed as printed.",
+   "escalate": false
   }
  ],
  "decisions": [
