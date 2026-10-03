@@ -14,3 +14,8 @@
 ## Ringold–Lewis
 
 - Ringold and Lewis agree in substance ('exhibited … individually and together'); 'summonses' for *lettres*. No divergence.
+
+## pass-3-q3
+
+- Fidelity: *pour leur eſtre reſpectiuement & enſemblément exhibez* has no noun; the supplied subject must be bracketed.: so that the two men might be exhibited → so that [the two men] might be exhibited
+- R&L agree ("by no multiplication of penalties, summonses or orders"). The subject of *exhibez* is supplied in both translations; ours now brackets it.

@@ -2,7 +2,7 @@
 id: texte-80
 pages: [p107, p108, p109]
 ---
-⟦p107⟧And do not excuse yourself by my sisters, nor by my Uncle: for there is no father, mother, Uncle, sisters nor brothers who ought better to know their son, nephew or brother than the wife ought to know the husband. And of the disaster which has befallen our house, no one is to blame but you. Whereupon the commissioners tried to excuse the said de Rols: but at this first meeting could never soften his heart, nor turn him from his austerity. Thus the imposture of the said du Tilh being entirely discovered, and the newcomer received by all as the only one, and recognised as Martin Guerre: and the trial by this means fully instructed ⟦p108⟧so as to be judged definitively, and the same having been reviewed, the Court, upon great and mature deliberation, pronounced the decision which follows.
+⟦p107⟧And do not excuse yourself by my sisters, nor by my Uncle: for there is no father, mother, Uncle, sisters nor brothers who ought better to know their son, nephew or brother than the wife ought to know the husband. And of the disaster which has befallen our house, no one is to blame but you. Whereupon the commissioners tried to excuse the said de Rols: but at this first meeting could never soften his heart, nor turn him from his austerity. Thus the imposture of the said du Tilh being entirely discovered, and the newcomer received and recognised by all as the sole Martin Guerre: and the trial by this means fully instructed ⟦p108⟧so as to be judged definitively, and the same having been reviewed, the Court, upon great and mature deliberation, pronounced the decision which follows.
 
 DECISION.
 

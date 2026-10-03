@@ -10,3 +10,7 @@
 ## Flagged, not changed
 
 - The missing predicate after *luy ſembloit pour vn ſi prodigieux … proditeur* keeps its [unclear] flag — a fidelity point.
+
+## pass-3-q3
+
+- The [unclear] stays: *ceſte eſpece de mort luy ſembloit pour vn ſi prodigieux … proditeur …* has no predicate in the print; "too honourable" is the evident sense and the whole book gives no better.

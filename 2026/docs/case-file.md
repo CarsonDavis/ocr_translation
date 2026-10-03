@@ -775,7 +775,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | paillarder / mal-verser / malversation | to fornicate / to go astray / misconduct | Of a wife. (annot-002) |
 | exprobrer / reprocher (à sa femme) | to upbraid / to object (against his wife) | The legal sense of *reprocher*, per §5. (annot-002) |
 | maquereau | pander | The husband guilty of *lenocinium*. (annot-002) |
-| bruit & renommée / bruit & fame | rumour and common repute / rumour and repute | Per §9 *bruit / fame*. (annot-002) |
+| bruit & renommée / bruit & fame | rumour and renown / rumour and common repute | Per §9 *bruit / fame*; *renommée* → renown as at annot-062; annot-002 had the two swapped (pass-3-q3). (annot-002) |
 | nouvelles certaines | certain news | Of an absent husband's death. (annot-002) |
 | certificatoire | certificate | Of a soldier's death, from his captain. (annot-002) |
 | Ethniques & Payens | Gentiles and Pagans | (annot-002) |
@@ -1254,12 +1254,12 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | Boyer | Nicolas Bohier (Boerius), *Decisiones Burdegalenses* | (annot-060) |
 | ſoubre-dents | supernumerary teeth | Modern *surdents*; one of the identifying marks. (texte-61) |
 | ſe rapporter (deux perſonnes ſe rapportent) | to resemble each other | (texte-61) |
-| Et de dire, que … eſt reſpondu | And as to the argument that … it is answered | The record's formula for taking up a point for the appellant. (texte-62) |
+| Et de dire, que … eſt reſpondu | And as to saying that … it is answered | The record's formula for taking up a point for the appellant; texte-56 and texte-58 have the literal form, texte-62 brought in line (pass-3-q3). (texte-56, texte-58, texte-62) |
 | preuue entiere / demie preuue | full proof / half-proof | *Fama* as half-proof, completed by one witness only in civil causes. (annot-062) |
 | bruit & renommee | rumour and renown | Kept distinct from *bruit & fame* → "rumour and common repute". (annot-062) |
 | cauſes ciuiles, hautes, & graues | civil causes that are high and grave | The *causae arduae* of the doctors. (annot-062) |
 | noter (le notoit enuers pluſieurs) | to mark (with a note of infamy) | Latin *notare*. (annot-062) |
-| ſainctement ordonné | wisely ordained | Of a law well made; reviewer may prefer "holily". (annot-062) |
+| ſainctement ordonné | holily ordained | Of a law well made; brought in line with *ſainctement* → "holily" at annot-083 (pass-3-q3). (annot-062) |
 | intelligences, & auiſemens | information and advice | Secret information passed to the impostor. (texte-63) |
 | Iugement par ſemblance | judgment by likeness | (texte-63) |
 | louſche / le Bigle | squinting / the Squinter | Latin *strabo*. (annot-063) |
@@ -1270,7 +1270,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | delation de ſerment | tendering of the oath | *Delatio iurisiurandi*; as *deferer le ſerment* at annot-044. (annot-065) |
 | plus claires que le iour | clearer than the day | C. 4.19.25 *luce clarioribus*. (annot-065) |
 | colluſion des parties | collusion of the parties | X 5.22. (annot-065) |
-| Ioinct que | Added to which | Formula for a further ground. (texte-66) |
+| Ioinct que | Added to which | Formula for a further ground; *ioint que* at texte-58 brought in line (pass-3-q3). (texte-58, texte-66) |
 | lais / legat | legacy | *Lais* = Old French *legs*; *legat* = *legatum*. (annot-066) |
 | legataire | legatee | (annot-066) |
 | hardiment | boldly | (annot-066) |
@@ -1996,3 +1996,7 @@ numbers in the translation and note the aggregate in the apparatus.
 - pass-2-q2: ſoubredens / ſoubre-dents → "supernumerary teeth" (texte-40, texte-61); one English for the one word, and the record's register takes the technical term over "extra teeth"; sections touched: texte-40.
 - pass-2-q2: pourtant → context decides between "for that reason" and "nevertheless"; the §9 row's "not however" overstated the 16th-c. usage, annot-054 (*leſquels pourtant … deuiennẽt gros*) being plainly adversative while annot-030 reads either way; sections touched: none (§9 row amended).
 - pass-2-q2: Palhe (§3, §4) → Palhé, our print's form at p062; the English already reads "Palhé [Pailhès]"; sections touched: none (§3, §4 amended).
+- pass-3-q3: bruit & fame → "rumour and common repute", bruit & renommée → "rumour and renown" wherever either pair recurs; the §9 seed row, annot-041, annot-053, annot-062 and texte-62 already read so, annot-002 had the two swapped and annot-060 dropped "common"; sections touched: annot-002, annot-060
+- pass-3-q3: Et de dire que … → "And as to saying that …" (the record's formula for taking up the appellant's point, texte-56, texte-58, texte-62); the literal majority form, texte-62's "as to the argument that" brought in line; sections touched: texte-62
+- pass-3-q3: ſainctement → "holily" (annot-062, annot-083); Coras's word is religious and annot-083 already had it, annot-062's "wisely" lost the colour; sections touched: annot-062
+- pass-3-q3: Ioinct que / ioint que → "Added to which" (texte-58, texte-66); one English for the record's formula introducing a further ground; sections touched: texte-58

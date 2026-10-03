@@ -14,3 +14,7 @@
 ## Ringold–Lewis
 
 - Ringold and Lewis: 'the justices' for *les commiſſaires*; ours 'the commissioners' per the glossary. No divergence of meaning.
+
+## pass-3-q3
+
+- R&L: "the justices" for *les commiſſaires*; ours keeps "commissioners" (§9, annot-021). Otherwise agree.
