@@ -26,3 +26,7 @@
 ## pass-1-q1
 
 - R&L: "and the decision announced to the said de Rols" for *amplié l'arreſt à lad. de Rols*; *amplier* is to grant (her conclusions). We are right. Otherwise R&L and we agree on the numbers (150; 30–40; 60 and more; 25–30; 9–10; 7–8).
+
+## sweep-opus
+
+- [check 3] House-rule/sense clash. French: 'led. du Tilh priſõnier eſt cõdẽné perdre la teſte, & eſtre mis en iiij. quartiers. & amplié l'arreſt à lad. de Rols.' English: 'and the decision extended [*amplié*: her conclusions granted] in favour of the said de Rols.' This is the judge of Rieux's *sentence*, so *arreſt* cannot be the Parlement's 'decision' (§5: a lower judge gives a 'judgment'); the likelier reading is case-file §5's second sense, detention: 'and the arrest extended to the said de Rols' (she too to be held). Reviewer should decide; the current gloss and 'decision' look wrong either way.

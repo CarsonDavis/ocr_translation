@@ -10,3 +10,7 @@
 ## Flagged, not changed
 
 - None.
+
+## sweep-opus
+
+- [check 4] 'Quid non mortalia pectora cogis, Auri ſacra fames?' (one printed line) → EN 'To what do you not drive mortal hearts, accursed hunger for gold?' with the Latin only in the note {f}; the rule for one-line quotations is parentheses in the text. Consistency only.

@@ -42,3 +42,7 @@
 - Fidelity to the Horace line (*nullis polluitur casta domus stupris*; the print's *Nullus* is a misprint): *casta* qualifies *domus*, and *stupris* are the defilements, not "unchaste".: No house is polluted by unchaste defilements; custom and law have tamed the spotted sin → The chaste house is polluted by no defilements; custom and law have tamed the spotted sin
 - Coras's arithmetic (300 sesterces at 25 écus = 3,750 écus) does not compute (it would be 7,500); his, not ours. *Bruxelles, ville du dioceſe de Spire* is probably Münster's Bruchsal; kept as printed. Marchesino is called Malatesta's *fils* and the Duke Malatesta's *beau pere* in the same sentence; both kept literally.
 - French note {a} cites *l'annotation lxxxi* for the Sertorius/Baldwin stories, which stand at our annot-007 and annot-082; the Notes are a later pass's and were not touched.
+
+## sweep-opus
+
+- [check 3] Name silently changed: FR 'comme vn Smerdes, Archelae, Equice: Helophile' → EN 'a Smerdis, an Archelaus, an Equitius, a Herophilus'. Helophile → Herophilus (the false Marius of Valerius Maximus IX.15) is probably right but is not recorded in the notes; likewise Thoranius → 'Toranius'.

@@ -1,0 +1,118 @@
+{
+  "pass": "sweep-opus",
+  "case_file": [],
+  "decision_log": [],
+  "sections": [
+    {
+      "id": "annot-031",
+      "old": "And each man is a pattern of God, in a small image {h}",
+      "new": "And each man is a pattern of God, in a small image (*Exemplumque Dei quisque est, in imagine parva*) {h}",
+      "reason": "Short one-line Latin verse (Manilius) translated but the Latin dropped; the translate rule keeps short quotations in parentheses, as done for the one-line Sisyphus verse in annot-047 and the couplets in annot-002. French: 'Exẽplúmq; Dei quiſque eſt, in imagine parua {h}'."
+    },
+    {
+      "id": "annot-020",
+      "old": "some woman of worth and honest until",
+      "new": "some woman of worth, and honest, until",
+      "reason": "Grammar slip introduced by review pass 1 (f7e42b3): replacing 'good and honest woman' with the glossary 'woman of worth' left 'honest' dangling with no noun ('committed to some woman of worth and honest until the end of the suit'). Punctuating it as an apposition, as the French does (*quelque femme de bien, & honneſte*), restores the grammar and keeps the glossary rendering."
+    }
+  ],
+  "findings": [
+    {
+      "id": "annot-004",
+      "note": "[check 6] Paragraph count FR 8 / EN 7: the Ovid quatrain 'Illud amicitiæ quondam venerabile nomen … Diligitur nemo, niſi cui fortuna ſecunda eſt.' / '⟦p010⟧Quæ ſimul intonuit, proxima quæque fugat.' is split across the page break into two FR paragraphs; EN renders it as one paragraph with ⟦p010⟧ inside ('No one is loved unless fortune favours him; ⟦p010⟧and as soon as she thunders…'). Benign (one verse unit, marker kept); no fix proposed."
+    },
+    {
+      "id": "annot-008",
+      "note": "[check 3] Name silently changed: FR 'ſoy diſant fils de Cn. Aſſidio … le vray enfant d'Aſſidio' → EN 'the son of Gnaeus Asinius Dio … the true child of Asinius Dio'. Nothing in the section notes records the emendation; either note it (source: Valerius Maximus IX.15) or keep 'Assidius'."
+    },
+    {
+      "id": "annot-005",
+      "note": "[check 3] Name silently changed: FR 'comme vn Smerdes, Archelae, Equice: Helophile' → EN 'a Smerdis, an Archelaus, an Equitius, a Herophilus'. Helophile → Herophilus (the false Marius of Valerius Maximus IX.15) is probably right but is not recorded in the notes; likewise Thoranius → 'Toranius'."
+    },
+    {
+      "id": "annot-016",
+      "note": "[check 4] One-line Latin quotations given only in English in the text, Latin relegated to the notes, against the translate rule (one line → original in parentheses): 'Omnis in Aſcanio, chari ſtat cura parentis.' → 'All the care of the loving father rests upon Ascanius.'; 'Omnis amor magnꝰ, ſed apertè in cõiuge maior.' → 'All love is great, but plainly greater in a spouse.' (also the couplet 'Neſcio qua natale ſolum…'). Compare annot-006, where one-liners keep the Latin in parentheses. Translations present; consistency only."
+    },
+    {
+      "id": "annot-014",
+      "note": "[check 4] 'Quid non mortalia pectora cogis, Auri ſacra fames?' (one printed line) → EN 'To what do you not drive mortal hearts, accursed hunger for gold?' with the Latin only in the note {f}; the rule for one-line quotations is parentheses in the text. Consistency only."
+    },
+    {
+      "id": "texte-26",
+      "note": "[check 3] House-rule/sense clash. French: 'led. du Tilh priſõnier eſt cõdẽné perdre la teſte, & eſtre mis en iiij. quartiers. & amplié l'arreſt à lad. de Rols.' English: 'and the decision extended [*amplié*: her conclusions granted] in favour of the said de Rols.' This is the judge of Rieux's *sentence*, so *arreſt* cannot be the Parlement's 'decision' (§5: a lower judge gives a 'judgment'); the likelier reading is case-file §5's second sense, detention: 'and the arrest extended to the said de Rols' (she too to be held). Reviewer should decide; the current gloss and 'decision' look wrong either way."
+    },
+    {
+      "id": "annot-031",
+      "note": "[check 1] Last sentence garbled in English. French: 'Où fuſt ſelõ nos Canoniſtes, le crime ſi grand & execrable, comme d'auoir, diſent-ils, falſifié le ſeau du prince {k}.' English: 'Even were, according to our Canonists, the crime as great and execrable as having, they say, counterfeited the seal of the prince {k}.' 'Even were …' has no main clause and reverses the logic; the sense is 'Whereby, according to our Canonists, the crime was as great and execrable as having, they say, counterfeited the seal of the prince {k}.'"
+    },
+    {
+      "id": "annot-040",
+      "note": "[check 4] Three-line Latin verse of Serenus ('Interdum exiſtit turpi verruca papilla: Hinc quondam Fabio, Verum cognomen ad hæſit, Qui ſolus patriæ, cunctando reſtituit rem.') is translated but the Latin is not kept in parentheses. Probably within the 'short only' rule, but annot-002 keeps two-line couplets; check for consistency."
+    },
+    {
+      "id": "annot-042",
+      "note": "[check 5] Concessive turned into alternative. French: 'mais la memoire de ce du Thil ici, bien qu'il euſt gaigné par aut, ou par vſage, ſurpaſſoit' (although he had gained it by art or by practice). English: 'whether he had gained it by art or by practice, surpassed [theirs]'. 'bien que' = although, not whether."
+    },
+    {
+      "id": "annot-039",
+      "note": "[check 1] Silent emendation. French: 'peut produire ſon propre frere: outre, le fiſque, où le Roy' — English: 'may produce his own brother against the fisc [the royal treasury], or the King'. *outre* is read as *contre* without the usual [unclear]/note; the sense is probably right but the reading should be flagged in the Notes."
+    },
+    {
+      "id": "annot-043",
+      "note": "[check 3] Name changed from the print: French 'Meſſenio auſsi parlãt à Menechmus de Soſides' / '…que Soſides eſt à toy'; English 'Sosicles' (twice). Plautus's character is Sosicles, so the correction is defensible, but it alters Coras's name without a bracket; confirm it is covered by the classical-names rule (cf. glossary 'Amphytrio / Sosias' entry)."
+    },
+    {
+      "id": "annot-071",
+      "note": "[check 5] Negation reversed without a note. French: 'quelques vns en mettent vn autre, qui s'appelle Pharmacie {e}, mal toutesfois à mon aduis, attendu qu'elle ne consiste point seulement en drogues, bruuages, & empoisonnemens' (= 'does not consist only in drugs'). English: 'wrongly, however, in my opinion, seeing that it consists in nothing but drugs, potions and poisonings'. The English sense ('only drugs, so not magic') fits the concession that follows ('Ie ne veux pourtant nier que ... Pharmacie ne peust estre colloquee parmy les especes de Magie'), so it may be a deliberate correction of the print, but the section Notes do not record it. Either add a note/[bracket] saying the print reads 'ne ... point seulement', or render literally."
+    },
+    {
+      "id": "annot-083",
+      "note": "[check 5] Negation and restriction possibly inverted. French: 'Il semble à plusieurs qu'ils n'ayent point fait la peine de ce crime capitale: voire que ne l'ayent voulu punir d'vn simple bannissement: si ce n'est quand l'adultere estoit conioint auec inceste'. English: 'nay, that they wished to punish it only with a simple banishment, unless when the adultery was joined with incest'. Read literally, the French says they would not punish it even with simple banishment except when incest was involved ('voire' is building up the point). The English says banishment was the ordinary penalty and incest the exception. The English matches Roman law (relegation under the lex Iulia) and works if a 'que' (ne ... que) has dropped out, but nothing in the Notes records that reading. A reviewer should decide."
+    },
+    {
+      "id": "annot-083",
+      "note": "[check 5] Ambiguous negation scope. French: '(ausquels tous, le Seigneur Dieu n'a point desparti la grace de se pouuoir contenir)' means God has not given all of them the grace of continence. English: '(to all of whom the Lord God has not dispensed the grace of being able to contain themselves)' reads naturally as 'none of them has it'. Suggest '(not all of whom has the Lord God granted the grace ...)' or '(to whom, not to all, the Lord God has dispensed ...)'."
+    },
+    {
+      "id": "annot-104",
+      "note": "[check 5] Negation deliberately reversed by review pass 4 (4ad996a): French *Surquoy nul ne ſçait la differẽce entre tragedie, & comedie* now reads 'Whereupon, no one is ignorant of the difference between tragedy and comedy' (was 'Whereupon: no one knows the difference'), per the new case-file idiom row *nul ne ſçait* -> 'no one is ignorant of'. The section's own ## Notes still say it 'is rendered literally, \"Whereupon: no one knows the difference\" ... the print says *nul* and the English keeps it' — the note now contradicts the prose and should be updated (or the ruling reconsidered: here, unlike annot-016, there is no *que … ne*)."
+    },
+    {
+      "id": "annot-104",
+      "note": "[check 4] Horace line: English 'He who in tragic song competed for a paltry goat {c} (*Carmine qui tragico, vilem, certauit ob hircum*).' — the Latin in parentheses keeps the print's u/v (*certauit*) and comma, whereas other in-text Latin parentheticals in this quarter are normalised (annot-093 *leti*, annot-094 *raptaverat*, annot-101 *modis*), and the citation marker {c} stands before the parenthesis instead of after it as elsewhere (annot-094 '... (*Ter circum ...*) {o}'). The section notes give *certavit*. Suggest '(*Carmine qui tragico vilem certavit ob hircum*) {c}.'"
+    },
+    {
+      "id": "annot-106",
+      "note": "[check 4] Ovid line: English parenthesis is the diplomatic French-print spelling '(*Heu, quàm difficile eſt crimen non prodere vultu!*)' with long s and accent, unlike the normalised Latin used in every other in-text parenthesis in this quarter; the section notes give *Heu quam difficile est crimen non prodere vultu!*. Mechanical normalisation candidate."
+    },
+    {
+      "id": "annot-098",
+      "note": "[check 1] French *Loth n'a eſté iugé onc coulpable d'auoir participé auec ſes fils* -> English 'with his daughters'. Silent in the prose but documented in the Notes as a print slip (*fils* for *filles*); no action, recorded for completeness."
+    },
+    {
+      "id": "annot-101",
+      "note": "[check 4] Cicero couplet {o} (*Quis eſt, aut quotuſquiſque ...*) is translated in the prose without the Latin in parentheses (Latin given in the Notes, with the print's displaced *non* corrected). Consistent with the section's stated rule (two lines -> Notes), but annot-093 keeps a two-line Ovid couplet in parentheses in the prose; the threshold for 'short' is applied inconsistently across sections."
+    },
+    {
+      "id": "texte-105",
+      "note": "[check 3] Names per case-file §3 (Pivol, Guilher, with p147 *Puiol*, *Quillet* in brackets) — correct. But case-file §4 'Mane' row still says 'home of Pierre de Guilhet', contradicting §3's settled 'Pierre de Guilher'; case-file inconsistency, not a prose error."
+    },
+    {
+      "id": "annot-083",
+      "note": "[check 7] Review pass 4 (4ad996a) reversed an explicit negation: old 'nay, that they did not wish to punish it with a simple banishment' became 'nay, that they wished to punish it only with a simple banishment'. The French *voire que ne l'ayent voulu punir d'vn ſimple banniſſement* has no *que* to make it *ne … que*. The reviewer's legal reasoning (relegation under the lex Iulia) may be right, but the literal reading also makes sense: not capital, not even banishment, except when incest was joined (incestuous adultery → deportation). Either restore the negation or keep the emendation and record in the Notes that the print reads *ne … d'vn*. Also see the q3 finding above."
+    },
+    {
+      "id": "texte-20",
+      "note": "[check 7] The same pass-1 glossary swap as annot-020: 'they, who are all women of worth and honest, will recognise him' (French *qui ſont toutes femmes de bien & honneſtes*). It is grammatical as a predicate but awkward. Commas, 'women of worth, and honest,', would match the annot-020 fix."
+    },
+    {
+      "id": "annot-104",
+      "note": "[check 7] The pass-4 swap 'no one knows' → 'no one is ignorant of' applied the annot-005 *nul ne ſçait* idiom ruling here, and the section's Notes now contradict the prose (they still say it is rendered literally). Either update the Notes or revert. The sense here is arguable: Coras goes on to explain the difference, which supports the ruling."
+    },
+    {
+      "id": "annot-082",
+      "note": "[no action] 'the one in which this false Nero was was fought' is a grammatical double 'was' (French *la ſienne*), and it predates the review. 'in the year one thousand 225' mirrors the print's *l'an mille 225*, so it is faithful. A reader may take either for a slip; consider 'the galley carrying this false Nero was fought'."
+    }
+  ],
+  "uncertain": []
+}

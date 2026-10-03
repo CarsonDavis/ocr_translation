@@ -4,7 +4,7 @@ pages: [p052, p053]
 ---
 ⟦p052⟧Upon the knowledge of a person, it is a rich testimony, a great and almost certain proof, that of the face, for having seen and recognised it such long since {a}; but it is still more assured when one sets down the sca⟦p053⟧rs and marks imprinted on the face, or other parts of the body {b}: as of old, when, in order to recognise the men bound to the service of some public work, it was the custom to imprint signs and marks upon their arms, or to engrave them upon their hands {c}. For as to the face, so far was it from being the case that anyone dared touch it, that to make ugly and disfigure in any way the face of a man (even were he a slave) by a scar was reputed a thing greatly unworthy, nay cruel and barbarous {d}, even though it were in punishment of some crime, which the ancients commanded to be [set] upon the face {e}. For man being, as Lactantius says, the true portrait and image of God {f}, and his face formed in the image of that divine and celestial beauty {g}:
 
-And each man is a pattern of God, in a small image {h}
+And each man is a pattern of God, in a small image (*Exemplumque Dei quisque est, in imagine parva*) {h}
 
 it would be a kind of sacrilege, and of lese-majesty, to soil, profane and contaminate it by the impression and burning-in of scars. {i} Even were, according to our Canonists, the crime as great and execrable as having, they say, counterfeited the seal of the prince {k}.
 

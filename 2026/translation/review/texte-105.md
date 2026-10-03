@@ -18,3 +18,7 @@
 ## pass-4-q4
 
 - Ringold–Lewis and we both supply the missing verb (*ce qu'iceluy Martin [ſouloit] dire, & faire*); ours keeps the [unclear] flag. They render *cautement* "as cleverly as possible", we "as warily as he could"; *caut* is cunning/wary, interpretive.
+
+## sweep-opus
+
+- [check 3] Names per case-file §3 (Pivol, Guilher, with p147 *Puiol*, *Quillet* in brackets) — correct. But case-file §4 'Mane' row still says 'home of Pierre de Guilhet', contradicting §3's settled 'Pierre de Guilher'; case-file inconsistency, not a prose error.
