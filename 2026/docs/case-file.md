@@ -2012,3 +2012,4 @@ numbers in the translation and note the aggregate in the apparatus.
 - pass-4-q4: M. Cicerõ → "Marcus Cicero"; the pass-0 praenomen rule, annot-109 had dropped the praenomen; sections touched: annot-109
 - pass-4-q4: la ſentence du iuge (generic) → "the judgment of the judge"; §5's rule that *sentence* is never "sentence" in English; sections touched: annot-111
 - pass-4-q4: le xvj. Septembre → "the sixteenth of September"; the record's dates are spelled out at texte-01 and texte-80; sections touched: texte-102
+- sweep-opus: *arreſt* said of the judge of Rieux's own sentence (texte-26 *amplié l'arreſt à lad. de Rols*) → "judgment", the lower-court level of §5, with the French bracketed; it is neither the Parlement's decision nor the detention sense, and the two levels must stay distinct in English; sections touched: texte-26

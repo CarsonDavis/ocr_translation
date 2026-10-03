@@ -6,7 +6,7 @@ pages: [p052, p053]
 
 And each man is a pattern of God, in a small image (*Exemplumque Dei quisque est, in imagine parva*) {h}
 
-it would be a kind of sacrilege, and of lese-majesty, to soil, profane and contaminate it by the impression and burning-in of scars. {i} Even were, according to our Canonists, the crime as great and execrable as having, they say, counterfeited the seal of the prince {k}.
+it would be a kind of sacrilege, and of lese-majesty, to soil, profane and contaminate it by the impression and burning-in of scars. {i} And this even were the crime, according to our Canonists, as great and execrable as having, they say, counterfeited the seal of the prince {k}.
 
 ## Notes
 The print heads this annotation ANNOTAT. XXXI. on p052, correctly. The alphabet restarts at this annotation and runs a–k (no j), all keyed and all with markers; the print sets {i} after the full stop of "cicatrices." and it is kept there. The Latin verse (Manilius) is translated in the text and given in the note. Wrong sorts translated by sense: *Lictance* for *Lactance* (the margin note has *Lactance*), *gtandement* for *grandement*, *metallnm* for *metallum* in note *e*, *Geneſee* for *Geneſe* in note *g*; the print sets a stray comma after the *&* of "& , ſimulachre", ignored. "Où fuſt ſelõ nos Canoniſtes" is read as the concessive *or fust* / *ores fust*, "even were … the crime as great", continuing the sentence before it. The bracketed "[set]" supplies the verb the French leaves understood in "commandoyent eſtre au viſage". *Pieça* (long since) is kept in its sense; *inuſtion* is the Latin *inustio*, branding by burning.
