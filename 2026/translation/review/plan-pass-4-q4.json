@@ -1,0 +1,227 @@
+{
+  "pass": "pass-4-q4",
+  "case_file": [
+    {
+      "old": "| Ioinct que | Added to which | Formula for a further ground; *ioint que* at texte-58 brought in line (pass-3-q3). (texte-58, texte-66) |",
+      "new": "| Ioinct que / Ioint auſſi que | Added to which / Added to which also | Formula for a further ground; *ioint que* at texte-58 brought in line (pass-3-q3); the remaining \"Joined (also) that\" renderings brought in line (pass-4-q4). (texte-54, texte-58, texte-66, annot-046, annot-098, annot-100) |",
+      "reason": "The formula now reads one way everywhere, including the five places the pass-3 ruling did not reach."
+    },
+    {
+      "old": "| Et de dire, que … eſt reſpondu | And as to saying that … it is answered | The record's formula for taking up a point for the appellant; texte-56 and texte-58 have the literal form, texte-62 brought in line (pass-3-q3). (texte-56, texte-58, texte-62) |",
+      "new": "| Et de dire, que … eſt reſpondu | And as to saying that … it is answered | The record's formula for taking up a point for the appellant; texte-56 and texte-58 have the literal form, texte-62 brought in line (pass-3-q3); the annotations' *Et de dire que* brought in line (pass-4-q4). (texte-56, texte-58, texte-62, annot-095, annot-097, annot-109) |",
+      "reason": "Coras uses the same formula in the annotations; three variants (\"as to the argument that\", \"as for saying that\", \"to say that\") are brought to the settled form."
+    },
+    {
+      "old": "| Mais quoy? | But what! | Coras's exclamation; cf. §2. (texte-26) |",
+      "new": "| Mais quoy? | But what! | Coras's exclamation; cf. §2; annot-001 and annot-110 had \"But what of it?\" (pass-4-q4). (texte-26, annot-001, annot-082, annot-083, annot-110) |",
+      "reason": "One English for Coras's exclamation wherever it occurs."
+    },
+    {
+      "old": "| autres cas … reſultans dudit procez | other offences … resulting from the said trial | (texte-80) |",
+      "new": "| autres cas … reſultans dudit procez / Et autre cas | other offences … resulting from the said trial / And other offences | *Cas* as a word of the decision is \"offences\" wherever it recurs; texte-89 and annot-088 had \"cases\" (pass-4-q4). (texte-80, texte-89, annot-088) |",
+      "reason": "texte-89 quotes the decision's word and must match texte-80; annot-088 expounds it."
+    },
+    {
+      "old": "| nul ne ſçait (… que … ne) | no one is ignorant of / there is no one who does not know | Coras's idiom with the force of *nul n'ignore*; annot-016 has the full form with *que … ne*, annot-005 the elliptical one. (annot-005, annot-016) |",
+      "new": "| nul ne ſçait (… que … ne) | no one is ignorant of / there is no one who does not know | Coras's idiom with the force of *nul n'ignore*; annot-016 has the full form with *que … ne*, annot-005 the elliptical one; annot-104 brought in line (pass-4-q4). (annot-005, annot-016, annot-104) |",
+      "reason": "annot-104 is a third occurrence of the idiom (Coras goes on to expound the difference, as he tells the Jacob story at annot-005)."
+    },
+    {
+      "old": "| il n'y fait rien de dire | it is nothing to say | (annot-086) |",
+      "new": "| il n'y fait rien de dire / ne fait rien auſſi dire | it is nothing to say / nor is it anything to say | One English for the formula of an argument that does not avail; annot-108 and annot-109 brought in line (pass-4-q4). (annot-086, annot-108, annot-109) |",
+      "reason": "Three renderings of one formula within three annotations."
+    },
+    {
+      "old": "| affrontemens (countable) | acts of cheating | Cf. *affronter / affrontement*. (annot-088) |",
+      "new": "| affrontemens (countable) | acts of cheating | Cf. *affronter / affrontement*; texte-107 brought in line (pass-4-q4). (annot-088, texte-107) |",
+      "reason": "texte-107's \"cheats\" was the only departure from the row."
+    },
+    {
+      "old": "*Cn. Pompee* → Gnaeus Pompeius. (annot-005, annot-007, annot-008, annot-014, annot-040, annot-063) |",
+      "new": "*Cn. Pompee* → Gnaeus Pompeius, *M. Cicerõ* → Marcus Cicero. (annot-005, annot-007, annot-008, annot-014, annot-040, annot-063, annot-077, annot-109) |",
+      "reason": "annot-109 dropped the praenomen altogether; annot-077 already expands *Marc Cicerõ*."
+    },
+    {
+      "old": "| executeur (de teſtament) | executor | (texte-111, annot-111) |",
+      "new": "| executeur (de teſtament) | executor | (texte-111, annot-111) |\n| la ſentence du iuge (generic) | the judgment of the judge | Per §5: *sentence* is \"judgment\" at every level below the *arrest*. (annot-111) |",
+      "reason": "annot-111 had \"sentence of the judge\", the one place the §5 rule was not applied."
+    },
+    {
+      "old": "| confeſſer bien au long | to confess at full length | (texte-102) |",
+      "new": "| confeſſer bien au long | to confess at full length | (texte-102) |\n| le xvj. Septembre | the sixteenth of September | The record's day-numbers are spelled out, as at texte-01 and texte-80. (texte-102) |",
+      "reason": "texte-102 had the numeral \"16th\" against \"the twelfth\" at texte-01 and texte-80."
+    }
+  ],
+  "decision_log": [
+    "- pass-4-q4: Ioinct que / Ioint auſſi que → \"Added to which\" / \"Added to which also\" everywhere; the pass-3 ruling covered texte-58 and texte-66 only and five places still read \"Joined (also) that\"; sections touched: texte-54, annot-046, annot-098, annot-100",
+    "- pass-4-q4: Et de dire que → \"And as to saying that\" in the annotations as in the record; one English for the formula; sections touched: annot-095, annot-097, annot-109",
+    "- pass-4-q4: Mais quoy? → \"But what!\" everywhere; the §9 row's form, texte-26, annot-082 and annot-083 already so, annot-001 and annot-110 read \"But what of it?\"; sections touched: annot-001, annot-110",
+    "- pass-4-q4: cas (as a word of the decision) → \"offences\"; texte-80's rendering, which texte-89 quotes and annot-088 expounds, both of which read \"cases\"; sections touched: texte-89, annot-088",
+    "- pass-4-q4: nul ne ſçait → \"no one is ignorant of\" at annot-104; the pass-1 ruling applied to the one occurrence it missed; sections touched: annot-104",
+    "- pass-4-q4: n'y fait rien (de) dire que → \"it is nothing to say that\" / \"nor is it anything to say that\"; one English for the formula of an argument that does not avail, annot-086's form; sections touched: annot-108, annot-109",
+    "- pass-4-q4: affrontemens (countable) → \"acts of cheating\" (texte-107); the §9 row, which texte-107's \"cheats\" departed from; sections touched: texte-107",
+    "- pass-4-q4: M. Cicerõ → \"Marcus Cicero\"; the pass-0 praenomen rule, annot-109 had dropped the praenomen; sections touched: annot-109",
+    "- pass-4-q4: la ſentence du iuge (generic) → \"the judgment of the judge\"; §5's rule that *sentence* is never \"sentence\" in English; sections touched: annot-111",
+    "- pass-4-q4: le xvj. Septembre → \"the sixteenth of September\"; the record's dates are spelled out at texte-01 and texte-80; sections touched: texte-102"
+  ],
+  "sections": [
+    {
+      "id": "annot-083",
+      "old": "nay, that they did not wish to punish it with a simple banishment, unless when the adultery was joined with incest",
+      "new": "nay, that they wished to punish it only with a simple banishment, unless when the adultery was joined with incest",
+      "reason": "Fidelity: *voire que ne l'ayent voulu punir d'vn ſimple banniſſement* intensifies \"not capital\" — the ordinary Roman penalty was relegation, capital only where incest was joined (note d); the English inverted it so that incest earned mere banishment."
+    },
+    {
+      "id": "texte-89",
+      "old": "And other cases,",
+      "new": "And other offences,",
+      "reason": "Consistency: the word of the decision, rendered \"other offences\" at texte-80 (decision cas → offences)."
+    },
+    {
+      "id": "annot-088",
+      "old": "The other cases are several other acts of cheating",
+      "new": "The other offences are several other acts of cheating",
+      "reason": "Consistency: expounds the decision's *autres cas* → \"other offences\" (texte-80, texte-89)."
+    },
+    {
+      "id": "annot-095",
+      "old": "such children succeed to father, mothers and their other kinsfolk {d}",
+      "new": "such children succeed to father and mother, and to their other kinsfolk {d}",
+      "reason": "Fidelity/readability: the print's *pere, meres* is a slipped plural; \"father, mothers\" reads as an error in English and the sense is not in doubt."
+    },
+    {
+      "id": "annot-095",
+      "old": "And as to the argument that between the said du Tilh and de Rols there was no true marriage",
+      "new": "And as to saying that between the said du Tilh and de Rols there was no true marriage",
+      "reason": "Consistency: *Et de dire que* → \"And as to saying that\" (decision, extended to the annotations)."
+    },
+    {
+      "id": "annot-097",
+      "old": "And as for saying that the said Martin gave occasion to the said de Rols his wife",
+      "new": "And as to saying that the said Martin gave occasion to the said de Rols his wife",
+      "reason": "Consistency: *Et de dire que* → \"And as to saying that\"."
+    },
+    {
+      "id": "annot-098",
+      "old": "Joined also (which will serve for the second reason) that during these three years she often heard murmuring",
+      "new": "Added to which also (which will serve for the second reason), during these three years she often heard murmuring",
+      "reason": "Consistency: *Ioint auſſi … que* → \"Added to which also\" (decision)."
+    },
+    {
+      "id": "annot-098",
+      "old": "Joined that, as St Ambrose says, a man of worth believes easily {n}",
+      "new": "Added to which, as St Ambrose says, a man of worth believes easily {n}",
+      "reason": "Consistency: *Ioint que* → \"Added to which\" (pass-3 decision, extended)."
+    },
+    {
+      "id": "annot-100",
+      "old": "Joined that it greatly befits the dignity of the sovereign courts",
+      "new": "Added to which, it greatly befits the dignity of the sovereign courts",
+      "reason": "Consistency: *Ioinct que* → \"Added to which\"."
+    },
+    {
+      "id": "texte-54",
+      "old": "Joined, that there are very few tokens given by them",
+      "new": "Added to which, there are very few tokens given by them",
+      "reason": "Consistency (outside quarter): *Ioint, que* → \"Added to which\"."
+    },
+    {
+      "id": "annot-046",
+      "old": "Joined also that she daily made complaint of it against her said stepfather and mother {g}",
+      "new": "Added to which also, she daily made complaint of it against her said stepfather and mother {g}",
+      "reason": "Consistency (outside quarter): *Ioinct auſſi qu'* → \"Added to which also\"."
+    },
+    {
+      "id": "annot-104",
+      "old": "Whereupon: no one knows the difference between tragedy and comedy.",
+      "new": "Whereupon, no one is ignorant of the difference between tragedy and comedy.",
+      "reason": "Consistency: *nul ne ſçait* is Coras's idiom for *nul n'ignore* (pass-1 decision); he then expounds the difference exactly as he tells the Jacob story after the same opener at annot-005. \"No one knows\" made him contradict himself."
+    },
+    {
+      "id": "annot-109",
+      "old": "And to say that the confession of a debt, made by the testator and fortified by oath, makes sufficient proof {ſ} — that is understood where deceit and fraud are absent",
+      "new": "And as to saying that the confession of a debt, made by the testator and fortified by oath, makes sufficient proof {ſ}: that is understood where deceit and fraud are absent",
+      "reason": "Consistency: *Et de dire que … Cela ſ'entẽd* → the record's formula \"And as to saying that …\"."
+    },
+    {
+      "id": "annot-109",
+      "old": "On which subject Cicero somewhere says that when someone has once perjured himself",
+      "new": "On which subject Marcus Cicero somewhere says that when someone has once perjured himself",
+      "reason": "Consistency: *M. Cicerõ*; the pass-0 praenomen rule (annot-077 has \"Marcus Cicero\")."
+    },
+    {
+      "id": "annot-109",
+      "old": "Nor does it avail to say that a gift made between married persons",
+      "new": "Nor is it anything to say that a gift made between married persons",
+      "reason": "Consistency: *Ne fait rien auſſi dire, qu'* → the formula of annot-086 (\"it is nothing to say\")."
+    },
+    {
+      "id": "annot-108",
+      "old": "And it avails nothing to say that the civil law",
+      "new": "And it is nothing to say that the civil law",
+      "reason": "Consistency: *Et n'y fait riẽ dire que* → \"And it is nothing to say that\" (annot-086)."
+    },
+    {
+      "id": "annot-110",
+      "old": "But what of it? In France we are outside this dispute",
+      "new": "But what! In France we are outside this dispute",
+      "reason": "Consistency: *Mais quoy?* → \"But what!\" (§9 row; texte-26, annot-082, annot-083)."
+    },
+    {
+      "id": "annot-001",
+      "old": "But what of it? Although for the one child",
+      "new": "But what! Although for the one child",
+      "reason": "Consistency (outside quarter): *Mais quoy?* → \"But what!\"."
+    },
+    {
+      "id": "annot-111",
+      "old": "those who bring to an end and effect the sentence of the judge {a2}",
+      "new": "those who bring to an end and effect the judgment of the judge {a2}",
+      "reason": "Consistency: §5 house rule, *sentence* → \"judgment\" below the level of the *arrest*."
+    },
+    {
+      "id": "texte-102",
+      "old": "Before whom, on the 16th of September in the said year 1560",
+      "new": "Before whom, on the sixteenth of September in the said year 1560",
+      "reason": "Consistency: the record's dates are spelled out (\"the twelfth day of September\", texte-80; \"the twelfth of September\", texte-01)."
+    },
+    {
+      "id": "texte-107",
+      "old": "even to having committed several thefts and cheats.",
+      "new": "even to having committed several thefts and acts of cheating.",
+      "reason": "Consistency: *affrontemens* (countable) → \"acts of cheating\" (§9 row, annot-088); cf. texte-36 *larrecins & affrontemens* → \"theft and cheating\"."
+    }
+  ],
+  "findings": [
+    {"id": "annot-083", "note": "[unclear] left on *ſemblẽt peu, ou point meriter quelque excuſe*: the opinion Coras reports (and then rejects as impious) needs \"seem to deserve some excuse\"; the whole book offers no parallel to fix the dropped word. Possibly *peine* fell out before *quelque excuſe* (\"little or no penalty, [but] some excuse\")."},
+    {"id": "annot-083", "note": "The heading of the next annotation (annot-084) is printed ANNOT. LXXXIII. for LXXXIV; the French keeps it, our numbering follows the true count."},
+    {"id": "annot-089", "note": "[unclear] left: *faiſant le premier miracle, diſant à ſes Apoſtres {a2}* breaks off; note a2 is John 2 (Cana), and no words of Christ follow. Nothing in the book supplies them."},
+    {"id": "annot-092", "note": "*les parens des meurtris, offenſez, reçoyuent quelque allegement* is rendered \"the kinsfolk of the murdered and the injured may receive\". Callistratus (D. 48.19.28.15: *solacio sit cognatis et adfinibus interemptorum*) suggests *offenſez* qualifies the kinsfolk (\"the kinsfolk of the murdered, [thus] wronged\") rather than adding a class; the French comma allows either. Left for the reviewer."},
+    {"id": "annot-093", "note": "The print's Virgil reads *Et nondum informis lethi*; the English parenthesis gives the correct *nodum* (Aen. 12.603) silently, as the translators normalised Latin quotations elsewhere. A compositor's error, not a transcription doubt."},
+    {"id": "annot-094", "note": "*Les meſchans auſſi ne euident pas moins* — *euident* is *cuident* (believe), so translated; logged in the misreadings file."},
+    {"id": "annot-094", "note": "Note p (*P. interdũ: et illec Accurſe*) has no marker in the body; not a translation matter."},
+    {"id": "annot-097", "note": "The 1555 [unclear] on Saint-Quentin stands per pass-0; the battle was 10 August 1557."},
+    {"id": "annot-097", "note": "*l'inſtabilité auſſi, diſcretion, & temerité, eſt peculiere à la ieuneſſe*: the print's *diſcretion* is rendered \"indiscretion\", the only sense the list allows (cf. *indiſcretement* earlier in the same annotation)."},
+    {"id": "annot-098", "note": "*d'auoir participé auec ſes fils* (p141) is translated \"daughters\", which the story requires; logged in the misreadings file."},
+    {"id": "annot-098", "note": "Davis's reading rests on this annotation and annot-097 (case file §10); both were checked sentence by sentence and found faithful, hesitations and all. Nothing was smoothed."},
+    {"id": "annot-110", "note": "*ceux qui ſuruiennent à l'execution de la peine* is translated \"survive\"; the print's *ſuruiennent* is probably *ſuruiuent*; logged in the misreadings file."},
+    {"id": "annot-111", "note": "[unclear] on *telles defenſes ſont priuées* left. The maxim *privatorum conventio iuri publico non derogat* and the following clause (*ne peuuent empeſcher la force des loix equitables*) support \"private\" as printed — a private man's prohibition cannot bar the bishop's legal duty — so the next pass may fairly remove the flag; *praves* remains possible."},
+    {"id": "annot-111", "note": "Note q (*P. ſi quis igitur non implens*) has no marker in the body; not a translation matter."},
+    {"id": "texte-88", "note": "Ringold–Lewis: \"robbery\" for *Larrecin*; ours \"Theft\" per §9. Interpretive; ours matches texte-80 and annot-087."},
+    {"id": "texte-89", "note": "Ringold–Lewis: \"other such offenses\" for *autres cas*; supports the decision cas → offences."},
+    {"id": "texte-98", "note": "Ringold–Lewis: \"excluded and excludes from the case\" for *met hors de procez, & d'inſtance*; ours \"dismisses from the case and suit\" per §5. Same meaning."},
+    {"id": "texte-101", "note": "Ringold–Lewis: \"has dismissed and sends this to the said judge\" for *a renuoyé, & renuoye*; ours \"has remanded, and remands\". Theirs loses the technical sense of remanding for execution; ours right."},
+    {"id": "texte-102", "note": "Ringold–Lewis agree in substance (\"confessed at great length his impudent and daring misdeed\")."},
+    {"id": "texte-103", "note": "Ringold–Lewis: \"Pierre de Guilhet, inhabitant of Mane\" for *hoſte du lieu de Mane*; *hoſte* is innkeeper (as at texte-32, *hoſte de Touges*), and our print reads *Guilher* (§3). Ours right on both; they also drop *maiſtre*."},
+    {"id": "texte-105", "note": "Ringold–Lewis and we both supply the missing verb (*ce qu'iceluy Martin [ſouloit] dire, & faire*); ours keeps the [unclear] flag. They render *cautement* \"as cleverly as possible\", we \"as warily as he could\"; *caut* is cunning/wary, interpretive."},
+    {"id": "texte-107", "note": "Ringold–Lewis: \"a rascal in many ways, even having committed several thefts and outrages\"; *affrontemens* is cheating, not outrage. Ours right."},
+    {"id": "texte-108", "note": "Ringold–Lewis: \"whom in this way he had already placed in authority\" for *lequel au moyen de ce, il a ia mis en inſtance*; *mettre en inſtance* is to sue (texte-14, texte-18). Ours right. Their \"hundredweights\" for *quintaux* is equivalent."},
+    {"id": "texte-110", "note": "Ringold–Lewis agree (\"resident of Pin\", \"guardians\")."},
+    {"id": "texte-111", "note": "Ringold–Lewis: \"executors of his will\"; ours \"testament\" per §9 (*testament* throughout annot-110)."},
+    {"id": "annot-100", "note": "The embedded TEXTE (*Depuis pour executer ledict arreſt … ouy par ledit Iuge de Rieux*) agrees with Ringold–Lewis in substance."},
+    {"id": "annot-086", "note": "Alts in the body and margin resolved from the book's own usage (p126-b0l8-1, p126-m5l0-1); see the alt-choices file."},
+    {"id": "annot-094", "note": "Punctuation-only alts in the margins of annot-083, 094, 095, 096, 097, 098, 101, 107, 108, 109 and 110 (a pointed vs unpointed abbreviation, comma vs point) were left unchosen except where the same citation elsewhere in the book gives the form; none affects the English."},
+    {"id": "annot-104", "note": "*tragedie* kept throughout per §10; *ieux de tragedie* → \"plays of tragedy\"."}
+  ],
+  "uncertain": []
+}

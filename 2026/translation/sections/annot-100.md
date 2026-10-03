@@ -2,7 +2,7 @@
 id: annot-100
 pages: [p142, p143]
 ---
-⟦p142⟧It was fitting to remand the execution of the decision to the Judge of Rieux, who had not spared himself in searching out, by all honest means of Justice, the truth of this deed. Joined that it greatly befits the dignity of the sovereign courts to maintain and preserve the authority of the inferior ones {a}, and so to act that, by their example and for the public good, all Judges (each in his degree) be by all and everywhere revered, as our Laws also often command {b}.
+⟦p142⟧It was fitting to remand the execution of the decision to the Judge of Rieux, who had not spared himself in searching out, by all honest means of Justice, the truth of this deed. Added to which, it greatly befits the dignity of the sovereign courts to maintain and preserve the authority of the inferior ones {a}, and so to act that, by their example and for the public good, all Judges (each in his degree) be by all and everywhere revered, as our Laws also often command {b}.
 
 TEXT OF THE RECORD
 

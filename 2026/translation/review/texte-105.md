@@ -14,3 +14,7 @@
 ## Ringold–Lewis
 
 - Ringold and Lewis: 'Pivol, de Gullhet' (their *Guilhet* against our print's *Guilher*); they supply the missing verb silently. See the §3 row.
+
+## pass-4-q4
+
+- Ringold–Lewis and we both supply the missing verb (*ce qu'iceluy Martin [ſouloit] dire, & faire*); ours keeps the [unclear] flag. They render *cautement* "as cleverly as possible", we "as warily as he could"; *caut* is cunning/wary, interpretive.

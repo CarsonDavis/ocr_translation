@@ -984,7 +984,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | amplié (l'arreſt à) | (the decision) extended in favour of | Her conclusions granted; glossed in brackets. (texte-26) |
 | en pleine chambre | in full chamber | The criminal chamber sitting together. (texte-26) |
 | accouſtumee prouidence | accustomed providence | Of the Court. (texte-26) |
-| Mais quoy? | But what! | Coras's exclamation; cf. §2. (texte-26) |
+| Mais quoy? | But what! | Coras's exclamation; cf. §2; annot-001 and annot-110 had "But what of it?" (pass-4-q4). (texte-26, annot-001, annot-082, annot-083, annot-110) |
 | deposer à credit | to depose on credit [*à credit*: lightly, upon no ground] | Glossed in brackets on first use. (annot-026) |
 | asseoir un jugement | to found a judgment | (annot-026) |
 | preuves repugnantes | repugnant proofs | Conflicting proofs from opposed inquiries. (annot-026) |
@@ -1254,7 +1254,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | Boyer | Nicolas Bohier (Boerius), *Decisiones Burdegalenses* | (annot-060) |
 | ſoubre-dents | supernumerary teeth | Modern *surdents*; one of the identifying marks. (texte-61) |
 | ſe rapporter (deux perſonnes ſe rapportent) | to resemble each other | (texte-61) |
-| Et de dire, que … eſt reſpondu | And as to saying that … it is answered | The record's formula for taking up a point for the appellant; texte-56 and texte-58 have the literal form, texte-62 brought in line (pass-3-q3). (texte-56, texte-58, texte-62) |
+| Et de dire, que … eſt reſpondu | And as to saying that … it is answered | The record's formula for taking up a point for the appellant; texte-56 and texte-58 have the literal form, texte-62 brought in line (pass-3-q3); the annotations' *Et de dire que* brought in line (pass-4-q4). (texte-56, texte-58, texte-62, annot-095, annot-097, annot-109) |
 | preuue entiere / demie preuue | full proof / half-proof | *Fama* as half-proof, completed by one witness only in civil causes. (annot-062) |
 | bruit & renommee | rumour and renown | Kept distinct from *bruit & fame* → "rumour and common repute". (annot-062) |
 | cauſes ciuiles, hautes, & graues | civil causes that are high and grave | The *causae arduae* of the doctors. (annot-062) |
@@ -1270,7 +1270,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | delation de ſerment | tendering of the oath | *Delatio iurisiurandi*; as *deferer le ſerment* at annot-044. (annot-065) |
 | plus claires que le iour | clearer than the day | C. 4.19.25 *luce clarioribus*. (annot-065) |
 | colluſion des parties | collusion of the parties | X 5.22. (annot-065) |
-| Ioinct que | Added to which | Formula for a further ground; *ioint que* at texte-58 brought in line (pass-3-q3). (texte-58, texte-66) |
+| Ioinct que / Ioint auſſi que | Added to which / Added to which also | Formula for a further ground; *ioint que* at texte-58 brought in line (pass-3-q3); the remaining "Joined (also) that" renderings brought in line (pass-4-q4). (texte-54, texte-58, texte-66, annot-046, annot-098, annot-100) |
 | lais / legat | legacy | *Lais* = Old French *legs*; *legat* = *legatum*. (annot-066) |
 | legataire | legatee | (annot-066) |
 | hardiment | boldly | (annot-066) |
@@ -1486,7 +1486,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | Dit a eſté que | It has been declared that | The formula introducing the disposition. (texte-80) |
 | a mis, & met … au neant | has set aside and sets aside … as null | The §5 formula, so phrased that *ce dont a eſté appelé, au neant* can be quoted alone. (texte-80, texte-81) |
 | punition & reparation | punishment and reparation | (texte-80) |
-| autres cas … reſultans dudit procez | other offences … resulting from the said trial | (texte-80) |
+| autres cas … reſultans dudit procez / Et autre cas | other offences … resulting from the said trial / And other offences | *Cas* as a word of the decision is "offences" wherever it recurs; texte-89 and annot-088 had "cases" (pass-4-q4). (texte-80, texte-89, annot-088) |
 | torche de cire ardente | burning wax taper | As §2. (texte-80) |
 | faire les tours par les rues & carrefours accouſtumez | to go the rounds through the accustomed streets and crossroads | The execution procession, §5 s.v. *criée*. (texte-80) |
 | potence … dreſſée | gallows … erected | (texte-80) |
@@ -1597,7 +1597,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | Plaige | Enslavement [*plaige*: the Roman *plagium*] | Per §9 *plage / plagiat*; the French and Latin in brackets on first use as a word of the decision. (texte-87, annot-086) |
 | eſtre obligé (d'vn crime) | to be bound under (a crime) | Liable to its penalty. (annot-086) |
 | receler | to conceal | Of a stolen person. (annot-086) |
-| il n'y fait rien de dire | it is nothing to say | (annot-086) |
+| il n'y fait rien de dire / ne fait rien auſſi dire | it is nothing to say / nor is it anything to say | One English for the formula of an argument that does not avail; annot-108 and annot-109 brought in line (pass-4-q4). (annot-086, annot-108, annot-109) |
 | contredire | to gainsay | The Digest's *contradicere*. (annot-086) |
 | pillement | pillage | Paired with *larrecin* → theft. (annot-087) |
 | gourmander (le bien) | to devour | (annot-087) |
@@ -1611,7 +1611,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | à cachetes | by stealth | Cf. *à la desrobbée*. (annot-087) |
 | ſols | *sols* | Untranslated and italicised per §8. (annot-087) |
 | paix & tranquilité publique | public peace and tranquillity | (annot-087) |
-| affrontemens (countable) | acts of cheating | Cf. *affronter / affrontement*. (annot-088) |
+| affrontemens (countable) | acts of cheating | Cf. *affronter / affrontement*; texte-107 brought in line (pass-4-q4). (annot-088, texte-107) |
 | demeurer conuaincu | to stand convicted | (annot-088) |
 | ſainct eſtat de mariage | holy estate of marriage | (annot-089) |
 | parquet de l'audience | the bar of the audience chamber (*parquet de l'audience*) | Where the *arrest* was pronounced; French kept on first use. (annot-090) |
@@ -1699,6 +1699,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | integrité du ſens, & de l'entendement | integrity of sense and understanding | D. 28.1.2's *integritas mentis*. (annot-101) |
 | diuulſion | tearing asunder | Of body and soul. (annot-101) |
 | confeſſer bien au long | to confess at full length | (texte-102) |
+| le xvj. Septembre | the sixteenth of September | The record's day-numbers are spelled out, as at texte-01 and texte-80. (texte-102) |
 | forfaict impudent, & temeraire | impudent and rash crime | (texte-102) |
 | entreprinſe effrontee & monſtrueuſe | brazen and monstrous enterprise | (texte-102) |
 | le camp de Picardie | the camp of Picardy | The army in Picardy. (texte-102) |
@@ -1826,6 +1827,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | clerc / iuge lay | clerk / lay judge | (annot-110) |
 | faute de iuriſdiction | want of jurisdiction | (annot-110) |
 | executeur (de teſtament) | executor | (texte-111, annot-111) |
+| la ſentence du iuge (generic) | the judgment of the judge | Per §5: *sentence* is "judgment" at every level below the *arrest*. (annot-111) |
 | executeurs Teſtamentaires, Legitimes, Donnez | Testamentary, Legitimate, Dative executors | *Donnez* glossed in brackets on first use. (annot-111) |
 | dernieres volontez | last wills | (annot-111) |
 | lais ou clercs, ſeculiers ou reguliers | laymen or clerks, secular or regular | (annot-111) |
@@ -1841,12 +1843,12 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | Eueſque / Metropolitain | Bishop / Metropolitan | (annot-111) |
 | ſainctes conſtitutions | holy constitutions | Justinian's Novels on pious bequests. (annot-111) |
 | S. (the print's abbreviation) / ſainct, Sainct | St / Saint | The print's abbreviation is kept as "St", its spelled-out form as "Saint": *S. Auguſtin* → St Augustine, *ſainct Gregoire* → Saint Gregory. (pass-0 rule; annot-005, annot-071, annot-083, annot-109 brought into line) |
-| M. / Q. / Cn. (Roman praenomina) | Marcus / Quintus / Gnaeus | Expanded in the English, where "M." would read as a courtesy title: *M. Antoine* → Mark Antony, *M. Antonin* → Marcus Antoninus, *Q. Sertorius* → Quintus Sertorius, *Cn. Pompee* → Gnaeus Pompeius. (annot-005, annot-007, annot-008, annot-014, annot-040, annot-063) |
+| M. / Q. / Cn. (Roman praenomina) | Marcus / Quintus / Gnaeus | Expanded in the English, where "M." would read as a courtesy title: *M. Antoine* → Mark Antony, *M. Antonin* → Marcus Antoninus, *Q. Sertorius* → Quintus Sertorius, *Cn. Pompee* → Gnaeus Pompeius, *M. Cicerõ* → Marcus Cicero. (annot-005, annot-007, annot-008, annot-014, annot-040, annot-063, annot-077, annot-109) |
 | la cour, la court (the Parlement) | the Court | Capitalised wherever it is the Parlement, per §5; lower-case only in the formula "on the court's own motion" and in generic uses. (argument, texte-26, texte-59 brought into line) |
 | du Thil / dudit Tilh (print variants) | du Tilh / the said [du] Tilh | The name is spelt one way in the English wherever the print varies (*Thil* p056, p064, p079; *dudit Tilh* p097). (annot-035, annot-042, texte-60, texte-72) |
 | Arnault / Arnauld | Arnauld | Per §3. (argument, texte-03) |
 | Loys Viues | Juan Luis Vives | Standard English form per §7; Coras's French in the Notes. (annot-005) |
-| nul ne ſçait (… que … ne) | no one is ignorant of / there is no one who does not know | Coras's idiom with the force of *nul n'ignore*; annot-016 has the full form with *que … ne*, annot-005 the elliptical one. (annot-005, annot-016) |
+| nul ne ſçait (… que … ne) | no one is ignorant of / there is no one who does not know | Coras's idiom with the force of *nul n'ignore*; annot-016 has the full form with *que … ne*, annot-005 the elliptical one; annot-104 brought in line (pass-4-q4). (annot-005, annot-016, annot-104) |
 
 ---
 
@@ -2000,3 +2002,13 @@ numbers in the translation and note the aggregate in the apparatus.
 - pass-3-q3: Et de dire que … → "And as to saying that …" (the record's formula for taking up the appellant's point, texte-56, texte-58, texte-62); the literal majority form, texte-62's "as to the argument that" brought in line; sections touched: texte-62
 - pass-3-q3: ſainctement → "holily" (annot-062, annot-083); Coras's word is religious and annot-083 already had it, annot-062's "wisely" lost the colour; sections touched: annot-062
 - pass-3-q3: Ioinct que / ioint que → "Added to which" (texte-58, texte-66); one English for the record's formula introducing a further ground; sections touched: texte-58
+- pass-4-q4: Ioinct que / Ioint auſſi que → "Added to which" / "Added to which also" everywhere; the pass-3 ruling covered texte-58 and texte-66 only and five places still read "Joined (also) that"; sections touched: texte-54, annot-046, annot-098, annot-100
+- pass-4-q4: Et de dire que → "And as to saying that" in the annotations as in the record; one English for the formula; sections touched: annot-095, annot-097, annot-109
+- pass-4-q4: Mais quoy? → "But what!" everywhere; the §9 row's form, texte-26, annot-082 and annot-083 already so, annot-001 and annot-110 read "But what of it?"; sections touched: annot-001, annot-110
+- pass-4-q4: cas (as a word of the decision) → "offences"; texte-80's rendering, which texte-89 quotes and annot-088 expounds, both of which read "cases"; sections touched: texte-89, annot-088
+- pass-4-q4: nul ne ſçait → "no one is ignorant of" at annot-104; the pass-1 ruling applied to the one occurrence it missed; sections touched: annot-104
+- pass-4-q4: n'y fait rien (de) dire que → "it is nothing to say that" / "nor is it anything to say that"; one English for the formula of an argument that does not avail, annot-086's form; sections touched: annot-108, annot-109
+- pass-4-q4: affrontemens (countable) → "acts of cheating" (texte-107); the §9 row, which texte-107's "cheats" departed from; sections touched: texte-107
+- pass-4-q4: M. Cicerõ → "Marcus Cicero"; the pass-0 praenomen rule, annot-109 had dropped the praenomen; sections touched: annot-109
+- pass-4-q4: la ſentence du iuge (generic) → "the judgment of the judge"; §5's rule that *sentence* is never "sentence" in English; sections touched: annot-111
+- pass-4-q4: le xvj. Septembre → "the sixteenth of September"; the record's dates are spelled out at texte-01 and texte-80; sections touched: texte-102
