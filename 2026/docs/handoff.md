@@ -1,9 +1,11 @@
 # Handoff — Coras *Arrest memorable* (1572) transcription + translation
 
-Written 2026-09-27 at the end of a long session. Read this first, then `docs/pipeline-log.md`
-(last three sections: "Token audit and single-pass pilot", "Runbook", "Single-pass wave, resume
-point"), then `docs/checks/pilot-2026-09-24.md` if you need the evidence behind the process.
-`docs/design.md` is the original design; §4 Stage 3 and §7 carry dated notes on what changed.
+Updated 2026-10-03 at the end of the review stage (first written 2026-09-27). Read this first,
+then `docs/pipeline-log.md` (last sections: "Runbook", "2026-10-03 Auto-defer to translator",
+"2026-10-03 (later): review stage" with its review runbook). `docs/checks/pilot-2026-09-24.md`
+has the evidence behind the single-pass reads. `docs/design.md` is the original design; §4
+Stage 3 and §7 carry dated notes on what changed. `docs/case-file.md` is the shared memory
+(glossary, people, conventions); §12 is the review decision log.
 
 ## What this project is
 
@@ -13,61 +15,70 @@ first English translation of the whole text including the 111 annotations and ev
 citation, and a static side-by-side site. Everything lives under `2026/`; the repo-root pipeline
 is dead legacy. Carson owns decisions; never commit or push without his say-so.
 
-## Where things stand (2026-09-27)
+## Where things stand (2026-10-03)
 
 | stage | state |
 |---|---|
-| Reads (two independent Opus single-pass reads per page) | done for every page through **p149**; **p150–p160 not read** (prompts already rendered in the scratchpad, or re-render with `wave.py next`) |
-| Finals (`transcription/final/`) | 68: title, argument, p001–p063, p066, p067, p159 |
-| Arbitration queues (`transcription/arbitration/queue/`) | 88 pages, ~290 items, waiting for Carson: p030, p057 (pilot), p064–p149 |
-| Decisions made | p030, p057, p066, p067 (plus a few on p070) |
-| Stitched French (`text/sections.json`) | 83 sections, stops at p064 (needs finals from arbitration) |
-| Translation (`translation/sections/`) | 82 sections, through annot-041 / p063 |
-| Review passes | not started |
-| Site | built, not deployed; `docs/site-plan.md` Task 12 is go-live, Carson's call |
-| Git | 3 local commits ahead of origin/main (af46f4d, de9dffa, 4c29997… latest `7ef3d72`); **not pushed**. Working tree clean except root-level junk (`example_data/`, `new_instructions.md`, `requirements.txt`, `2026/arst.md`) that is deliberately uncommitted |
+| Reads (two Opus single-pass reads per page) | done, all 162 pages (p150–p160 read 2026-10-03) |
+| Arbitration | no longer by hand: every undecided item auto-deferred to the translator (`wave.py defer`); 36 Carson decisions kept |
+| Finals (`transcription/final/`) | every page; re-finalized after translator and reviewer choices |
+| Stitched French (`text/sections.json`, `text/alts.json`) | 225 sections (112 texte, 111 annot) after the heading-misprint re-cut; texte-112 `complete: false` |
+| Translation (`translation/sections/`) | 224 of 225; only texte-112 missing |
+| Review | done: pass-0-glossary, pass-1-q1 … pass-4-q4 (Fable), reviewer alt choices applied, Opus omission sweep, page-image pass, five sweep fixes. Findings in `translation/review/<id>.md` |
+| Checks | `check_markers --all` 224/224; 356 tests; site readings by provenance: reconciler 270, translator 162, auto 84, carson 36, reviewer 15 |
+| Site | `site/data` rebuilt (162 pages, french + english); **not deployed** (`docs/site-plan.md` Task 12, Carson's call). Viewer code is in `~/github/code-by-carson/translations/viewer/`, untracked there |
+| Git | latest commit `958d631`; **nothing pushed to origin**. Root-level junk (`example_data/`, `new_instructions.md`, `requirements.txt`, `2026/arst.md`) deliberately uncommitted |
 
 ## The process now (why it changed)
 
 The first run (Sept 21–22) cost ≈$1,264 API-equivalent for 66 pages: Opus readers zoomed on
-every word (77 turns, 82 image reads, 9M cached tokens per read) and the Fable coordinator's
-context reached 937k. A pilot on five verified pages showed a **single-pass read** (13 native
-strips, no cropping, ~20 tool calls) costs $0.66 instead of $6.90 with comparable accuracy but a
-different error profile: it finds wrong sorts the zoom pipeline normalized, and misses fine glyph
-calls (period/comma, h/b, e/c, hyphen vs speck). Sonnet was rejected as reader (80–90% pair
-agreement, silently normalizes). Fable reconciliation was replaced by **Carson arbitrating**
-in a local page, because a human is best at exactly the fine-glyph class.
+every word and the Fable coordinator's context reached 937k. A pilot showed a **single-pass
+read** (13 native strips, no cropping, ~20 tool calls) costs $0.66 instead of $6.90 with
+comparable accuracy but a different error profile (finds wrong sorts the zoom pipeline
+normalized, misses fine glyph calls). Sonnet was rejected as reader. Model reconciliation was
+dropped; Carson arbitrated by hand for a few pages, then (2026-10-03) stopped.
 
-Pipeline per page: `read_single.md` prompt → two Opus subagents write `reads/A|B/<id>.json` →
-`normalize_spacing` + `auto_resolve` + `diff_reads` → `arbitrate_queue.py` builds items with crops
-→ Carson decides in `tools/arbitrate/` (served by `arbitrate_server.py`) → `apply_arbitration.py`
-writes the final → `stitch_text.py` → Fable translates in 10–12-section batches with the whole
-French as context → (later) Opus fidelity review; Fable spot-check every 10th page.
+Now: **auto-defer + translator feedback + review passes.** Every reader disagreement Carson has
+not decided is deferred (`wave.py defer`, `by: auto`): the final keeps reading A and the stitch
+carries both readings into the French as `⟨alt:…⟩` / `⟨alt?:…⟩`. The Fable translator, who sees
+the whole French, picks A, B or either for each alt and writes a choices file;
+`apply_translator_choices.py` feeds those back as decisions (`by: translator`; Carson's are never
+overwritten) and re-finalizes the pages. Then whole-book **review passes** on Fable, one after
+another so each inherits the last one's glossary decisions, read the full render and emit a plan
+JSON that `apply_review_plan.py` applies (exact-substring edits, marker sequence protected,
+findings to `translation/review/`, decisions to case-file §12); their alt choices go back into
+the French with `--by reviewer`. An Opus omission sweep and a page-image check against the print
+closed the stage.
+
+Pipeline per page: `read_single.md` → two Opus reads `reads/A|B/<id>.json` → `wave.py queue`
+(normalize, auto_resolve, diff, queue) → `wave.py defer` → `wave.py apply` (finals, stitch) →
+Fable translation batches + `apply_translator_choices.py` → review passes.
 
 ## Runbook (exact commands, from `2026/`)
 
 ```
 uv run python scripts/wave.py status                 # per-page reads / queue / decided / final
-uv run python scripts/wave.py next --size 10         # render read_single prompts for the next pages
-#   dispatch one Opus subagent per prompt with:
-#   "Read the file <prompt path> and carry out the task it describes exactly, including where to
-#    save your output and the hard rules on tools (no image cropping, zooming or processing of any
-#    kind; read each image once). Work from /Users/cdavis/github/translator/2026. Do not run git
-#    commands. Return only the three-line summary the prompt asks for."
-#   cap 12 concurrent; each takes 1–3 min and ~$0.66; backfill as they return.
-uv run python scripts/wave.py queue                  # diff + queue for pages with both reads
-uv run python scripts/arbitrate_server.py --port 8766   # Carson: http://127.0.0.1:8766/ (NOT localhost: another
-                                                     # project's server sits on 8765 and localhost resolves there)
-uv run python scripts/wave.py apply                  # finals for fully decided pages, manifest sync, restitch
-uv run python scripts/render_prompt.py spotcheck p070 --model fable   # Fable spot-check every 10th page (p070 first)
-uv run python scripts/render_translate.py --batch texte-40 --size 12  # next Fable translation batch
-uv run --with pytest --with jsonschema --with pillow python -m pytest scripts/tests -q   # 268 tests
+uv run python scripts/wave.py defer                  # defer every undecided item to the translator
+uv run python scripts/wave.py apply                  # finals for decided pages, manifest sync, restitch
+uv run python scripts/render_translate.py --batch <id> --size 12 > $CORAS_SCRATCH/translate-<id>.md
+#   one Fable agent: "Your entire task is written in the prompt file <path>. Read it and follow it
+#   exactly, then return only the summary it asks for. Do not spawn sub-agents."
+uv run python scripts/apply_translator_choices.py translation/alt-choices/batch-<first>--<last>.json
+# review pass (details: pipeline-log "Runbook addendum: review pass")
+uv run python scripts/render_review.py --out $CORAS_SCRATCH/review-book.md --quarters 4
+#   fill {PASS_NAME} {PASS_SCOPE} {RENDER_PATH} {PLAN_PATH} {ALT_CHOICES_PATH} {MISREADINGS_PATH}
+#   in a copy of scripts/prompts/review.md; one Fable agent; passes run one at a time
+uv run python scripts/apply_review_plan.py translation/review/plan-<pass>.json --dry-run   # then --apply
+uv run python scripts/apply_translator_choices.py --by reviewer translation/alt-choices/review-<pass>.json
+uv run --with jsonschema python scripts/split_pages.py                 # rebuild site/data
+uv run python scripts/check_markers.py --all                           # 224/224
+uv run --with pytest --with jsonschema --with pillow python -m pytest scripts/tests -q   # 356 tests
+uv run python scripts/arbitrate_server.py --port 8766   # only if Carson wants to decide by hand:
+                                                     # http://127.0.0.1:8766/ (NOT localhost)
 ```
 
-Arbitration keys: `1` A, `2` B, `e` type the text, `3` either (both readings kept for the
-translator as `word⟨alt:other⟩`), `4` unknown (kept + escalated, `⟨alt?:…⟩`), `u` undo, `p` whole
-page, arrows move. Flagged-but-agreed lines are OFF by default (`--include-flagged` restores).
-Auto-advances to the next page when a page is done.
+Arbitration keys (if used): `1` A, `2` B, `e` type the text, `3` either, `4` unknown, `u` undo,
+`p` whole page. A decision made there is stored `by: carson` and overrides auto/translator.
 
 ## Rules Carson set (do not relitigate)
 
@@ -80,38 +91,51 @@ Auto-advances to the next page when a page is done.
 - **No image files in git, ever** (root `.gitignore` ignores all image extensions; QA screenshots
   go to S3 if wanted). Check `git diff --cached --name-only` before every commit.
 - **Never commit or push without his go-ahead.** Commits are authored by Carson only.
-- Fable translates (it is cheap there: ~$0.37/section); Opus does the fidelity review; keep
+- Fable translates (it is cheap there: ~$0.37/section); Opus does the fidelity review (in practice
+  the review passes ran on Fable, with an Opus omission sweep after); keep
   some spot-checking so no error class creeps in unseen.
 - Human arbitration replaces model reconciliation; he does not want to see lines both readers
-  agree on.
+  agree on. (Since 2026-10-03 he no longer arbitrates; undecided items are auto-deferred to the
+  translator.)
 
-## Known issues and open items
+## Known issues and open items (2026-10-03)
 
-- p142: both readers report the margin strips are clipped on the right; note readings on that
-  page are low confidence (use the whole-page view when arbitrating).
-- Three errors found in existing finals during the pilot, **not yet applied**: p010 `toures`,
-  p010 `noſtré`, p159 `noraire` (finals normalized wrong sorts). Carson has not said to fix them.
-- The margin-note crop window is placed by ink-row matching; on a page where rows don't match
-  the note lines it can be a line off — the crop links to the native strip as fallback.
-- `wave.py next` skips pages with a read on disk, so it will correctly pick p150–p160 only.
-- Stitch: `text/sections.json` stops at p064 until finals exist; translation waits on it.
-- `docs/reference/ringold-lewis-1982.txt` (the 1982 published translation) is committed; check
+- **texte-112** (last section, p160) is `complete: false` and untranslated. Cause: the stitch
+  closes a section only at the next heading, and the book ends after the colophon on p160, so
+  the last section never closes. Needs an end-of-book close in `stitch_text.py`, then one
+  translation.
+- `[unclear]` flags still standing in the English: texte-63 *perſonnément*, annot-050
+  *ignorons*, annot-025 *de poids*, annot-071 Faustina, texte-105 dropped verb.
+- p073 e2 key vs conventions §4: a Carson-session decision, left as is.
+- p071 foot note m is filed as an orphan under texte-48 by the stitch.
+- p159 note q has no body marker.
+- p137 `incon-ſtãce`: undecidable from the print (page-image pass).
+- The translators' `## Notes` citation identifications were never reviewed (the review render
+  omits them); many say "unverified" / "unidentified".
+- 71 alt markers left as either (both readings mean the same); the French keeps reading A.
+- Stale translator notes in annot-023 / annot-036 / annot-050 still say they carry the following
+  TEXTE block (split off by the re-cut). Reports written before the re-cut use old ids in their text.
+- Three errors found in old finals during the pilot (p010 `toures`, `noſtré`; p159 `noraire`):
+  check whether the page-image pass covered them before assuming they are fixed.
+- Site not deployed (site-plan Task 12); viewer code untracked in
+  `~/github/code-by-carson/translations/viewer/`.
+- Nothing pushed to origin. Root-level junk deliberately uncommitted.
+- `docs/reference/ringold-lewis-1982.txt` (the 1982 published translation) is committed: check
   copyright before any push to a public remote.
-- The API drivers `scripts/api_read.py` / `api_reconcile.py` work (dry-run) but the account has no
-  API credits, and Carson prefers the prepaid harness anyway.
+- Future review/sweep prompts must forbid sub-agents (the Opus sweep fanned out to 6 on its own).
 
-## Cost reference
+## Cost reference (2026-10-03)
 
 | item | measured |
 |---|---|
 | single-pass Opus read (harness) | $0.66, ~20 tool calls, 1–3 min |
-| Fable reconciler (harness, no longer used) | $1.30/page |
 | Fable translator | ~$0.37/section |
-| whole first run | $1,264 for 66 pages |
+| whole-book Fable review pass | ≈520–530k tokens, ~30 tool calls; almost all is the one-time read-in (render read in ~28 chunks); edit count barely changes it |
+| whole first run (Sept 21–22) | $1,264 for 66 pages |
 | pilot + tool-building session (Sept 24–26) | ~$49 |
 
-Estimated remainder: reads p150–p160 ≈ $15; translation ~140 sections ≈ $50–80 Fable; review
-~230 sections ≈ $120 Opus; coordination small if the coordinator stays lean.
+A further review pass costs one full read-in regardless of scope; narrow fixes are far cheaper
+with a small Fable fixer given only the affected sections (as for 958d631).
 
 ## Files to know
 
@@ -122,4 +146,7 @@ Estimated remainder: reads p150–p160 ≈ $15; translation ~140 sections ≈ $5
   `apply_arbitration.py`, `stitch_text.py` (turns "either/unknown" into `⟨alt:…⟩` markers),
   `pilot_compare.py`, `diff_reads.py`, `normalize_spacing.py`, `auto_resolve.py`, `validate_page.py`.
 - `tools/arbitrate/` the arbitration page (no build step).
+- Review: `scripts/prompts/review.md`, `render_review.py`, `apply_review_plan.py`,
+  `apply_translator_choices.py` (`--by translator|reviewer`), `auto_defer.py`; outputs in
+  `translation/review/` and `translation/alt-choices/`.
 - Memory notes for Claude Code live in `~/.claude-mine/projects/-Users-cdavis-github-translator/memory/`.

@@ -231,3 +231,27 @@ error naming the file. Covered by `test_unkeyed_notes_verse_and_noteless_markers
 `test_a_keyed_line_with_text_but_no_citation_still_errors`. Regenerate with
 `uv run --with jsonschema python scripts/split_pages.py` (writes `site/data`): 162 pages
 written (162 french, 162 english); 332 tests pass.
+
+## 2026-10-03 (later): review stage
+- Earlier today (above): reads p150–p160 done; auto-defer replaced human arbitration; translation completed in 11 Fable batches; heading-misprint re-cut and renumbering (texte +1..+3 from texte-24, annot +1 from annot-060). Reports written before the re-cut keep old ids in their text.
+- **Design.** Whole-book reviewer passes on Fable, run sequentially so each inherits the previous pass's glossary decisions. A pass reads the whole book once and emits a plan JSON (`translation/review/plan-<pass>.json`) plus alt choices (`translation/alt-choices/review-<pass>.json`) and misreadings (`translation/review/misreadings-<pass>.json`); it edits nothing. `scripts/apply_review_plan.py` applies the plan: exact-substring, unique replacements in case-file and section prose; any edit that changes a section's ⟦pNNN⟧/{x} marker sequence reverts that file; findings become bullets in `translation/review/<id>.md`; decisions are appended to case-file §12 (Review decision log). Prompt `scripts/prompts/review.md`; render `scripts/render_review.py` (whole book, French + notes + English prose, no translator `## Notes`, ~184k tokens; `--quarters 4` adds a table of four contiguous runs for the pass scopes).
+- **Passes.**
+  - pass-0-glossary (dcc886d): edited files directly, before plan mode existed; 26 sections, 30 decisions.
+  - pass-1-q1 (f7e42b3): 8 fixes, 3 decisions, 22 findings.
+  - pass-2-q2 (f1e702d): 2 fixes, 3 decisions, 23 findings, 6 alt choices.
+  - pass-3-q3 (c67d844): 13 fixes, 4 decisions, 30 findings, 3 alt choices.
+  - pass-4-q4 (4ad996a): 21 fixes, 10 decisions, 29 findings, 11 alt choices; stalled once at read-in and was resumed.
+- **Reviewer alt choices** (28) applied to the French with `apply_translator_choices.py --by reviewer` (80d3380): 10 pages refinalized. 71 alt markers remain where both readings mean the same; left as either.
+- **Opus omission sweep** (9ac838a), findings-only plan `plan-sweep-opus.json`: 2 fixes (annot-020, annot-031), 24 findings. It fanned out to 6 sub-agents on its own; future prompts forbid sub-agents.
+- **Page-image pass** (fa65531): 46 doubts checked against the strips. The print agrees with the transcription everywhere; 15 finals gained sic notes; 3 English flags cleared. Undecidable: p137 `incon-ſtãce`.
+- **Sweep judgment fixes** (958d631), narrow Fable fixer: annot-083 and annot-071 negations that review had reversed are undone; annot-031 orphan clause; texte-26 *arrest* = the Rieux judge's "judgment" (logged §12); annot-104 note.
+- **State at end of day:** `check_markers --all` 224/224 ok; 356 tests pass; `site/data` rebuilt, 162 pages (162 french, 162 english); readings by provenance reconciler 270, translator 162, auto 84, carson 36, reviewer 15. texte-112 (last section, p160) is still `complete: false` and untranslated: the stitch closes a section only at the next heading, and the book ends after the colophon, so the last section never closes.
+- **Cost.** Each whole-book Fable pass ≈ 520–530k tokens and ~30 tool calls, almost all of it the one-time read-in (the render is read in ~28 chunks); the number of edits barely changes it.
+
+### Runbook addendum: review pass (from `2026/`)
+1. `uv run python scripts/render_review.py --out $CORAS_SCRATCH/review-book.md --quarters 4`
+2. Copy `scripts/prompts/review.md` to `$CORAS_SCRATCH/review-<pass>.md` and fill `{PASS_NAME}`, `{PASS_SCOPE}` (quarter's section run, from the `--quarters` table), `{RENDER_PATH}`, `{PLAN_PATH}` (`translation/review/plan-<pass>.json`), `{ALT_CHOICES_PATH}` (`translation/alt-choices/review-<pass>.json`), `{MISREADINGS_PATH}` (`translation/review/misreadings-<pass>.json`).
+3. One Fable agent: "Your entire task is written in the prompt file `<path>`. Read it and follow it exactly. Do not spawn sub-agents." Run passes one at a time.
+4. `uv run python scripts/apply_review_plan.py translation/review/plan-<pass>.json --dry-run`, fix or drop MISSING/AMBIGUOUS/MARKERS_CHANGED entries, then `--apply`.
+5. `uv run python scripts/apply_translator_choices.py --by reviewer translation/alt-choices/review-<pass>.json` (refinalizes and re-stitches the changed pages).
+6. `uv run --with jsonschema python scripts/split_pages.py` (rebuilds `site/data`), then `check_markers.py --all` and the test suite.
