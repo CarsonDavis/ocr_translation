@@ -6,7 +6,7 @@ pages: [p029, p030]
 
 To what do you not drive mortal hearts, accursed hunger for gold?
 
-That is why the Emperor M. Antoninus, a prince generous and excellent in every virtue, dreaded nothing in his life so much as the name and repute of an avaricious man, nor ever detested anything with such great vehemence as avarice, {g} mother, source and root of all evils {h}, and which, as Sallust says in some place, overturns faith, probity and every virtue {i}.
+That is why the Emperor Marcus Antoninus, a prince generous and excellent in every virtue, dreaded nothing in his life so much as the name and repute of an avaricious man, nor ever detested anything with such great vehemence as avarice, {g} mother, source and root of all evils {h}, and which, as Sallust says in some place, overturns faith, probity and every virtue {i}.
 
 ## Notes
 - {a} (p029): **Ecclesiasticus 10:9–10 (Vulgate: *nihil est iniquius quam amare pecuniam … avaro autem nihil est scelestius*)** — Eccleſiaſtique c. x.
