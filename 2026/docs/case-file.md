@@ -201,7 +201,7 @@ Spellings in the left column are Coras's own (verified against the French text).
 | **Catherine Boëre** | Present at the wedding; brought the midnight *réveil* (Coras: *resueil*) to the bridal bed; "obstinately assured" the court the prisoner was the man she had seen bedded with Bertrande. Davis spells her **Boëri**. | Catherine Boëre (Davis: Boëri) |
 | **Jean Espagnol** | Innkeeper of **Touges** in the Savès (our 1572 print reads *Touges*, p053; the *Tonges* of some later editions and of the secondary literature is a misreading); the impostor confessed the fraud to him and begged his silence, saying Martin Guerre was dead and had left him his property. | Jean Espagnol |
 | **Valentin Rougié**, **Pelegrin de Liberos** | Two men who recognised him as du Tilh and were silenced. | as given |
-| **Jean Loze** | Consul of Coras's "Palhe" — **Pailhès**, about 4 km from Artigat; refused to put up money to have the prisoner killed, saying he would sooner pay to save him, since the prisoner was his kinsman as Pierre Guerre himself had often said. | Jean Loze |
+| **Jean Loze** | Consul of Coras's "Palhé" (p062) — **Pailhès**, about 4 km from Artigat; refused to put up money to have the prisoner killed, saying he would sooner pay to save him, since the prisoner was his kinsman as Pierre Guerre himself had often said. | Jean Loze |
 | **Dominique Piuol**, **Pierre de Guilher** (of Mane) | The two men who first mistook du Tilh for Martin Guerre on his return from Picardy, c. 1552–53, and from whom he then gathered his information. Our print has *Piuol* and *Guilher* at p145–146 and *Puiol* and *Quillet* at p147; Ringold and Lewis and the literature have *Guilhet* (also *Guilhem*, *Quilliet*). | **Dominique Pivol**, **Pierre de Guilher** in both places; the p147 spellings given in brackets there (texte-105) |
 | **Dominique Rebendaire** | Of Toulouse; co-guardian and co-executor. | Dominique Rebendaire |
 | **le Cadet Jean d'Escornebœuf** | Sieur de Lanoux; brought the separate prosecution before the Seneschal of Toulouse. *Cadet* here is a by-name (younger son), not a rank. | Jean d'Escornebœuf, called the Cadet |
@@ -249,7 +249,7 @@ through the press is **[unverified]**.
 | **Le Pin** (Coras: *du Pin*) | **Le Pin-Murelet**, Haute-Garonne — about 3 km from Sajas, in the Savès, i.e. **in du Tilh country, not near Artigat**. Home of Jean du Tilh; the du Tilh patrimony lay here. Coras names it first in the list of places where the *monitoire* was published ("du Pin, Sagias, Artigat"), which is why it is easy to mistake for a neighbour of Artigat. It is not. | "Le Pin", or "Pin" following Coras's *du Pin*. |
 | **Sajas** (Coras: **Sagias**) | Arnaud du Tilh's native village, in the **Comminges / Savès**, province of Gascony, now Haute-Garonne — a different diocese and a different speech-community from Artigat. **Gascon**-speaking. | Coras consistently writes *Sagias*; modern form *Sajas*. Use the modern form in apparatus and keep *Sagias* in quoted text. |
 | **Touges** | In the Savès near Sajas; home of Jean Espagnol the innkeeper. Our print reads *Touges* (p053); *Tonges* in later editions is a misreading. | "Touges". |
-| **Pailhès** (Coras: **Palhe**) | About 4 km from Artigat; Jean Loze was its consul. | "Pailhès (Coras: *Palhe*)" |
+| **Pailhès** (Coras: **Palhé**, p062) | About 4 km from Artigat; Jean Loze was its consul. | "Palhé [Pailhès]" in the text (texte-41); "Pailhès (Coras: *Palhé*)" in the apparatus |
 | **Lanoux** | About 2 km from Artigat; the seigneurie of Jean d'Escornebœuf. | "Lanoux" |
 | **Mane** | In the Comminges; home of Pierre de Guilhet. | "Mane" |
 | **Rieux** | Seat of the bishopric of Rieux and of the *siège* of the judge of first instance. On the Arize, downstream of Artigat. | "Rieux"; "the judge of Rieux." |
@@ -1005,7 +1005,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | exhibition (du prisonnier) | exhibition | Glossed in brackets: the presenting of the prisoner to a witness. (texte-30) |
 | gros fers | heavy irons | (texte-30) |
 | larmoyer / pleurer | to shed tears / to weep | (annot-030) |
-| pourtant (16th-c. sense) | for that reason | Not "however". (annot-030) |
+| pourtant (16th-c. sense) | for that reason / nevertheless | Both senses are live in Coras: causal at annot-030, adversative at annot-054 (*leſquels pourtant … deuiennẽt gros*). Context decides. (annot-030, annot-054) |
 | tesmoins numeraires | instrumentary witnesses (*tesmoins numeraires*) | Glossed in brackets: the witnesses required by law to make up the number for an instrument. (texte-31) |
 | camus / voulté / trappe & fourni de corps | flat-nosed / stooped / stocky and thickset of body | The body-shape evidence; cf. §10. (texte-31) |
 | inuſtion de cicatrices | burning-in of scars | Latin *inustio*, branding. (annot-031) |
@@ -1064,7 +1064,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | gain penal & odieux | penal and odious gain | (annot-039) |
 | outre (le fiſque) | against | *Outre* in its old sense, as in *outre son gré*. (annot-039) |
 | reſueil | the *réveil* | Coras's spelling of the *réveille* above; glossed in brackets on first use. (texte-40) |
-| ſoubredens | extra teeth | Supernumerary teeth (*surdents*). (texte-40) |
+| ſoubredens | supernumerary teeth | Modern *surdents*; the same English as *ſoubre-dents* at texte-61. (texte-40) |
 | marques & coniectures inuincibles | marks and conjectures that are invincible | (texte-40) |
 | verrues | warts | Latin *verruca*; Annotation XL turns on the word. (texte-40, annot-040) |
 | raboteux | rough | Of a knobbly surface. (annot-040) |
@@ -1993,3 +1993,6 @@ numbers in the translation and note the aggregate in the apparatus.
 - pass-1-q1: nul ne ſçait (annot-005, annot-016) → "no one is ignorant of" / "there is no one who does not know"; Coras's idiom carries the force of *nul n'ignore*, as the *que … ne* clause of annot-016 shows, and annot-005's [unclear] flag is resolved on it; sections touched: annot-005.
 - pass-1-q1: femmes de bien & honneſtes → "women of worth and honest" wherever the phrase recurs; the §9 row settled texte-39 and the two earlier places still read "good and honest"; sections touched: texte-20, annot-020.
 - pass-1-q1: enſorcellement & malefice → "bewitchment and sorcery" (texte-24, annot-022); the §9 row settled the pair at annot-022 and texte-24 read "bewitchment and spell"; sections touched: texte-24.
+- pass-2-q2: ſoubredens / ſoubre-dents → "supernumerary teeth" (texte-40, texte-61); one English for the one word, and the record's register takes the technical term over "extra teeth"; sections touched: texte-40.
+- pass-2-q2: pourtant → context decides between "for that reason" and "nevertheless"; the §9 row's "not however" overstated the 16th-c. usage, annot-054 (*leſquels pourtant … deuiennẽt gros*) being plainly adversative while annot-030 reads either way; sections touched: none (§9 row amended).
+- pass-2-q2: Palhe (§3, §4) → Palhé, our print's form at p062; the English already reads "Palhé [Pailhès]"; sections touched: none (§3, §4 amended).

@@ -1,0 +1,70 @@
+{
+  "pass": "pass-2-q2",
+  "case_file": [
+    {
+      "old": "| ſoubredens | extra teeth | Supernumerary teeth (*surdents*). (texte-40) |",
+      "new": "| ſoubredens | supernumerary teeth | Modern *surdents*; the same English as *ſoubre-dents* at texte-61. (texte-40) |",
+      "reason": "One English for the one word; texte-61 already read 'supernumerary teeth' and the record's formal register takes the technical term."
+    },
+    {
+      "old": "| pourtant (16th-c. sense) | for that reason | Not \"however\". (annot-030) |",
+      "new": "| pourtant (16th-c. sense) | for that reason / nevertheless | Both senses are live in Coras: causal at annot-030, adversative at annot-054 (*leſquels pourtant … deuiennẽt gros*). Context decides. (annot-030, annot-054) |",
+      "reason": "The row's 'not however' is too strong: annot-054 uses pourtant adversatively and the translator rightly rendered it 'nevertheless'."
+    },
+    {
+      "old": "| **Pailhès** (Coras: **Palhe**) | About 4 km from Artigat; Jean Loze was its consul. | \"Pailhès (Coras: *Palhe*)\" |",
+      "new": "| **Pailhès** (Coras: **Palhé**, p062) | About 4 km from Artigat; Jean Loze was its consul. | \"Palhé [Pailhès]\" in the text (texte-41); \"Pailhès (Coras: *Palhé*)\" in the apparatus |",
+      "reason": "Our 1572 print reads *Palhé* with the accent at p062; the case file's *Palhe* came from the secondary literature."
+    },
+    {
+      "old": "Consul of Coras's \"Palhe\" — **Pailhès**",
+      "new": "Consul of Coras's \"Palhé\" (p062) — **Pailhès**",
+      "reason": "Same correction in the §3 row."
+    }
+  ],
+  "decision_log": [
+    "- pass-2-q2: ſoubredens / ſoubre-dents → \"supernumerary teeth\" (texte-40, texte-61); one English for the one word, and the record's register takes the technical term over \"extra teeth\"; sections touched: texte-40.",
+    "- pass-2-q2: pourtant → context decides between \"for that reason\" and \"nevertheless\"; the §9 row's \"not however\" overstated the 16th-c. usage, annot-054 (*leſquels pourtant … deuiennẽt gros*) being plainly adversative while annot-030 reads either way; sections touched: none (§9 row amended).",
+    "- pass-2-q2: Palhe (§3, §4) → Palhé, our print's form at p062; the English already reads \"Palhé [Pailhès]\"; sections touched: none (§3, §4 amended)."
+  ],
+  "sections": [
+    {
+      "id": "texte-40",
+      "old": "two extra teeth in the upper jaw",
+      "new": "two supernumerary teeth in the upper jaw",
+      "reason": "Consistency: *ſoubredens* → supernumerary teeth, as *ſoubre-dents* at texte-61 (glossary decision pass-2-q2)."
+    },
+    {
+      "id": "annot-033",
+      "old": "Although this proof was not very necessary, because",
+      "new": "Although this proof was not very cogent [*neceſſaire*: compelling], because",
+      "reason": "Fidelity: *preuve necessaire* is the schools' compelling proof (probatio necessaria); 'necessary' reads as 'needed' and breaks the link with the following 'because hearsay proves nothing'."
+    }
+  ],
+  "findings": [
+    {"id": "texte-29", "note": "R&L: 'especially because, without any motive, this would bring about the ignominious death'. French *ſi auant mentir, que ſans occaſion aucune procuraſt la mort* is a result clause ('lie so far as to procure'); ours is right."},
+    {"id": "texte-31", "note": "R&L: 'the chin cleft and a little thrust forward'. French *le mẽton fourchu, & vn peu eſleué en haut* = forked and a little raised upward; ours is literal, theirs interpretive. Otherwise the two descriptions agree."},
+    {"id": "texte-32", "note": "R&L: 'innkeeper from Tonges'. Our print reads *Touges* (p053), as §3 and §4 record; ours is right."},
+    {"id": "texte-40", "note": "R&L: 'two broken teeth in his lower jaw'. French *deux ſoubredens à la machoire de deſſus* = two supernumerary teeth in the upper jaw; R&L are wrong on both the kind of tooth and the jaw. R&L 'an ingrown nail on a forefinger' for *vne ongle du premier doigt enfoncée* is interpretive; ours ('sunken') is literal."},
+    {"id": "texte-42", "note": "R&L: 'twelve, fifteen or twenty years ago' drops *dix*; ours keeps 'ten, twelve, fifteen or twenty'."},
+    {"id": "texte-43", "note": "R&L's last sentence ('the sum of the testimony … was affirmed and more than that by several witnesses heard to say at the official inquiry that eggs are nor more similar') is garbled; the French has the summary inquiry reporting, 'and better still' several witnesses in the ex officio inquiries, that eggs are not more alike. Ours is right."},
+    {"id": "texte-44", "note": "R&L put the oath-offer in Bertrande's mouth: '(telling whoever was willing to believe her word that she would undergo a thousand cruel deaths rather than swear …)'. The French *qui l'en voulut croire à ſon ſerment, ſe ſouſmettãt à mille morts cruelles, ſi elle iuroit* has du Tilh offering to abide by her oath and staking his life on it; she then refuses to swear 'nor believe him upon it either' (*ni l'en croire auſsi*). Ours is right."},
+    {"id": "texte-47", "note": "R&L: 'released … by virtue of the reversed judgment of the Seneschal' for *l'apointement de contraires* (an interlocutory order, not a reversal) — already noted in §2/§5; ours is right. R&L also reverse the direction of *ſouſminiſtrant touſiours par deſſouz main toute faueur & aide ledit Pierre Guerre* ('the Cadet … acting always under the authority and protection and with the help of the said Pierre Guerre'): it is Pierre Guerre who underhandedly supplies favour and aid. R&L omit *on luy auança ce fait auſsi* (this charge too was advanced against him)."},
+    {"id": "texte-48", "note": "R&L: 'as if he were co-guardian … guardian … guardianship' for *comprocureur / procureur / procure*; attorney and procuration per §5 (pass-0). Ours is right on the office. But *comprocureur* itself may be the print's *cõme procureur* ('as attorney'), which is how R&L read it and which fits Coras's irony (he acted as attorney before being made one); logged in the misreadings file for the image."},
+    {"id": "texte-53", "note": "R&L: 'they were promptly and validly excused, and the reasons found good and well-proved' — *reprochez* is 'objected to' (§5), and *les obiects* are the grounds of objection, not 'reasons'; the same error recurs in their texte-54 ('the witnesses have been validly excused'). Ours is right in both."},
+    {"id": "texte-54", "note": "R&L: 'setting aside the height and weight' for *longueur, & groſſeur*; 'bulk' is nearer. Interpretive, not wrong."},
+    {"id": "texte-35", "note": "The English supplies 'where' (*Martin Guerre eſtoit du pays des Baſcouz, chacun ſcait bien, qu'on parle vn langage …*) without brackets. It is the connective the French syntax implies rather than a supplied fact; left."},
+    {"id": "texte-41", "note": "Our print reads *Palhé* (with the accent) at p062, not the *Palhe* of §3/§4; case file amended, English already 'Palhé [Pailhès]'."},
+    {"id": "annot-029", "note": "*l'entretient, nourriſt & conſeque, de ſon pouuoir*: *conſeque* is no word; the translator rendered it as *conſerue* ('preserves'), which is surely the sense. Logged in the misreadings file for a check against the image (printer's error or transcription)."},
+    {"id": "annot-030", "note": "*Alexander Aphrodiſee pourtant aſſigne la raiſon en tous les deux* is rendered 'for that reason' per the §9 row. The adversative 'however' would read as naturally here (Alexander, unlike the preceding account, explains both grief and joy). Left as settled; the row is amended to let context decide."},
+    {"id": "annot-031", "note": "*Encor que ce fuſt en peine de quelque crime, que les anciẽs cõmandoyent eſtre au viſage*: the relative is elliptical. The translator's '[set]' is a fair minimum; the sense is that even penal branding of the face was reputed barbarous (cf. Constantine's law in C. 9.47.17). Left."},
+    {"id": "annot-033", "note": "Edited 'necessary' → 'cogent [*neceſſaire*]'. Also the print's *commencerent d'eſt eſpoinçonnez* for *d'eſtre*; the English already reads 'began to be spurred'."},
+    {"id": "annot-036", "note": "*Par ces lettres, & caracteres faut entendre que Blaſpheme, eſt vn nom tiré du Grec*: the capital P may open a new sentence ('By these letters and characters [of the Greek] it must be understood …') rather than close the Tetragrammaton clause as the English takes it. Either construal is defensible; left."},
+    {"id": "annot-044", "note": "The margin cross-reference {e} *En l'annotation.. xv.* must be *lxv*: the tendering of the oath in criminal matters is treated at annot-065 (ANNOTAT. LXV, p085), not annot-015. A Notes matter; logged in the misreadings file."},
+    {"id": "annot-050", "note": "The [unclear] on *ſi nous ignorons par la verité de la choſe* is left. Nothing elsewhere in the book repeats the phrase; annot-095 restates the conclusion (the daughter legitimate by Bertrande's good faith) without it. *iugeons* remains the likeliest intent; logged in the misreadings file. The render also shows a stray note {m} (*l. abſente D. de pœn.*) attached to texte-50 that belongs to annot-050's {m}; a Notes matter."},
+    {"id": "annot-042", "note": "Cross-reference {k} *En l'annotation xxj* → annot-021 (the protestation about comparing du Tilh to Scipio etc.) verified against the true count."},
+    {"id": "annot-055", "note": "Sanxi 'aged thirteen years only' in 1560 agrees with §2's birth c. 1547–48; two sisters near the prisoner's thirty-five."},
+    {"id": "texte-39", "note": "Print misprints normalised silently in the English, as the house does: *Martin Cuerre* (p060), *premeuu* for *preuenu* (annot-038, p059), *Corbon Barrau* (texte-53, p073), *Barreau* (texte-30, p051)."}
+  ],
+  "uncertain": []
+}

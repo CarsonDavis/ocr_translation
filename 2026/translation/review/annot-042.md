@@ -10,3 +10,7 @@
 ## Flagged, not changed
 
 - None.
+
+## pass-2-q2
+
+- Cross-reference {k} *En l'annotation xxj* → annot-021 (the protestation about comparing du Tilh to Scipio etc.) verified against the true count.
