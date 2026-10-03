@@ -154,7 +154,7 @@
    "beside_line": "diſent ils, combien que ſoyent par diuers noms deſi-",
    "lines": [
     "Panorme",
-    "au cõſil xlij.",
+    "au cõſeil xlij.",
     "du j. Volume."
    ]
   },
@@ -251,11 +251,6 @@
    "note": "'auſſi' could be 'auſsi'"
   },
   {
-   "where": "margin_notes[8].lines[1]",
-   "text": "au cõſil xlij.",
-   "note": "a mark between ſ and il (possibly a hyphen or broken letter)"
-  },
-  {
    "where": "running_head",
    "text": "ARREST. DV",
    "note": "period printed after ARREST; second R is a damaged/odd sort"
@@ -311,16 +306,15 @@
    "note": "letters before the tilde u are faint; may read 'quiiũque'"
   },
   {
+   "where": "margin_notes[8].lines[1]",
+   "text": "au cõſeil xlij.",
+   "note": "the e of 'cõſeil' is faint/broken"
+  },
+  {
    "where": "blocks[2].lines[19]",
    "note": "arbitration: undecided; alternatives: meſchancetè {h}. Mais telle opinion ne ſe pourroit ſou- ||| meſchanceté {h}. Mais telle opinion ne ſe pourroit ſou-",
    "escalate": false,
    "text": "meſchancetè {h}. Mais telle opinion ne ſe pourroit ſou-"
-  },
-  {
-   "where": "margin_notes[8].lines[1]",
-   "note": "arbitration: undecided; alternatives: au cõſil xlij. ||| au cõſeil xlij.",
-   "escalate": false,
-   "text": "au cõſil xlij."
   },
   {
    "where": "margin_notes[9].lines[1]",
@@ -371,9 +365,9 @@
    "A": "au cõſil xlij.",
    "B": "au cõſeil xlij.",
    "chose": "carson-session",
-   "by": "auto",
-   "text": "au cõſil xlij.",
-   "reason": "arbitration: either (auto-deferred)"
+   "by": "reviewer",
+   "text": "au cõſeil xlij.",
+   "reason": "arbitration: B (reviewer: 'Panorme au cõſeil xlij. du j. Volume' — the same annotation cites 'Panorme au cõſeil preallegue' (n. o) and the glossary has 'Alexandre en son conseil / au conseil'; cõſil is no word.; Panormitanus's consilia are cited as *cõſeil* in the same annotation's note {o} (*Panorme au cõſeil preallegue*) and as *conseil* at annot-027 and annot-028; *cõſil* has no parallel in the book.)"
   },
   {
    "where": "margin_notes[9].lines[0]",

@@ -61,7 +61,7 @@
    "beside_line": "au nombre & catalogue des plus petis & moindres cri-",
    "lines": [
     "c. at ſi cleri.",
-    "ci. P. i. de iud,"
+    "ci. P. i. de iud."
    ]
   },
   {
@@ -106,7 +106,7 @@
    "lines": [
     "Iean Faure",
     "en la l. i. C.",
-    "que ſit long,",
+    "que ſit long.",
     "conſ. Guil. Be-",
     "ned. au c. Ray",
     "nutius verſic.",
@@ -129,7 +129,7 @@
    "key": "f",
    "beside_line": "cation {e}. Et apres que les paillars & adulteres ont eſté",
    "lines": [
-    "Leuitique c,",
+    "Leuitique c.",
     "xx. Deutero-",
     "nome c xxij."
    ]
@@ -192,11 +192,6 @@
    "note": "line ends with a point where the word 'cleri-ci' is broken; read as period, possibly a hyphen"
   },
   {
-   "where": "margin_notes[0].lines[1]",
-   "text": "ci. P. i. de iud,",
-   "note": "'P.' is the swash paragraph-sign P; final mark after 'iud' has a tail, read as comma"
-  },
-  {
    "where": "margin_notes[1].lines[6]",
    "text": "xxx. q. v.",
    "note": "note a's lines drift down beside the body; placement approximate"
@@ -210,11 +205,6 @@
    "where": "margin_notes[3].lines[3]",
    "text": "ſi clerici & cũ",
    "note": "'&' printed as the italic et-ligature; 'clerici' final i has a tail (possibly 'clericj')"
-  },
-  {
-   "where": "margin_notes[4].lines[2]",
-   "text": "que ſit long,",
-   "note": "mark after 'long' read as comma"
   },
   {
    "where": "margin_notes[4].lines[7]",
@@ -272,6 +262,16 @@
    "note": "marker f set tight after 'mort', no punctuation after it"
   },
   {
+   "where": "margin_notes[0].lines[1]",
+   "text": "ci. P. i. de iud.",
+   "note": "final point after 'iud' could be a comma; 'P' is the swash paragraph sign"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "que ſit long.",
+   "note": "point after 'long' could be a comma"
+  },
+  {
    "where": "margin_notes[4].lines[7]",
    "text": "tro lxij. de teſt.",
    "note": "end of line blotted/cut ('teſt.' partly illegible); 'lxij' read from lx + ij ligature-like glyph"
@@ -287,28 +287,15 @@
    "note": "glyph reads i-i-ij; could be 'iij' if the second i is part of the ij form"
   },
   {
-   "where": "margin_notes[0].lines[1]",
-   "note": "arbitration: undecided; alternatives: ci. P. i. de iud, ||| ci. P. i. de iud.",
-   "escalate": false,
-   "text": "ci. P. i. de iud,"
+   "where": "margin_notes[6].lines[0]",
+   "text": "Leuitique c.",
+   "note": "mark after 'c' looks like point plus comma; read as period"
   },
   {
    "where": "margin_notes[2].lines[2]",
    "note": "arbitration: undecided; alternatives: dic, Panorme ||| dic. Panorme",
    "escalate": false,
    "text": "dic, Panorme"
-  },
-  {
-   "where": "margin_notes[4].lines[2]",
-   "note": "arbitration: undecided; alternatives: que ſit long, ||| que ſit long.",
-   "escalate": false,
-   "text": "que ſit long,"
-  },
-  {
-   "where": "margin_notes[6].lines[0]",
-   "note": "arbitration: undecided; alternatives: Leuitique c, ||| Leuitique c.",
-   "escalate": false,
-   "text": "Leuitique c,"
   }
  ],
  "decisions": [
@@ -317,9 +304,9 @@
    "A": "ci. P. i. de iud,",
    "B": "ci. P. i. de iud.",
    "chose": "carson-session",
-   "by": "auto",
-   "text": "ci. P. i. de iud,",
-   "reason": "arbitration: either (auto-deferred)"
+   "by": "reviewer",
+   "text": "ci. P. i. de iud.",
+   "reason": "arbitration: B (reviewer: annot-083 note z: the same chapter is cited at annot-110 note a as *c. at ſi cleric. de iud.* with a point; a comma closing a marginal note is otherwise unexampled.)"
   },
   {
    "where": "margin_notes[2].lines[2]",
@@ -335,9 +322,9 @@
    "A": "que ſit long,",
    "B": "que ſit long.",
    "chose": "carson-session",
-   "by": "auto",
-   "text": "que ſit long,",
-   "reason": "arbitration: either (auto-deferred)"
+   "by": "reviewer",
+   "text": "que ſit long.",
+   "reason": "arbitration: B (reviewer: annot-083 note d: the same Code title is cited at annot-060 note m as *C. quæ ſit long. conſue.* with a point after *long*.)"
   },
   {
    "where": "margin_notes[5].lines[4]",
@@ -353,9 +340,9 @@
    "A": "Leuitique c,",
    "B": "Leuitique c.",
    "chose": "carson-session",
-   "by": "auto",
-   "text": "Leuitique c,",
-   "reason": "arbitration: either (auto-deferred)"
+   "by": "reviewer",
+   "text": "Leuitique c.",
+   "reason": "arbitration: B (reviewer: annot-083 note f: notes e and r of the same annotation read *Leuitique c. xx.* with the point.)"
   },
   {
    "where": "margin_notes[7].lines[0]",

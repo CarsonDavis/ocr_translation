@@ -303,12 +303,6 @@
    "where": "margin_notes[7].lines[1]",
    "text": "l'Art poetiq.",
    "note": "'poetiq.' faint and blotted; could be 'pœtiq.'; mark over q possible"
-  },
-  {
-   "where": "margin_notes[4].lines[0]",
-   "note": "arbitration: undecided; alternatives: c. j. xij. q. j. ||| c j. xij. q. j.",
-   "escalate": false,
-   "text": "c. j. xij. q. j."
   }
  ],
  "decisions": [
@@ -353,9 +347,9 @@
    "A": "c. j. xij. q. j.",
    "B": "c j. xij. q. j.",
    "chose": "carson-session",
-   "by": "auto",
+   "by": "reviewer",
    "text": "c. j. xij. q. j.",
-   "reason": "arbitration: either (auto-deferred)"
+   "reason": "arbitration: A (reviewer: annot-097 note f: the same canon is cited in note h of the same annotation as *c. i. xij. q. i.*, with the point after *c*.)"
   },
   {
    "where": "margin_notes[5].lines[3]",

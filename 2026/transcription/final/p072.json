@@ -100,7 +100,7 @@
    "lines": [
     "c. licet cau",
     "ſam. de prob.",
-    "c & in noſtra",
+    "c. & in noſtra",
     "de teſtib."
    ]
   },
@@ -170,11 +170,6 @@
    "note": "read 'font' (make) with f; the glyph has a crossbar"
   },
   {
-   "where": "margin_notes[0].lines[2]",
-   "text": "c & in noſtra",
-   "note": "first sort looks like c with a mark under it (ę-like); may be 'c.'"
-  },
-  {
    "where": "margin_notes[0].lines[0]",
    "text": "c. licet cau",
    "note": "a stray slash-like mark after 'c.' ignored"
@@ -241,6 +236,11 @@
    "note": "'deuant': e looks like c ('dcuant'), possibly damaged sort"
   },
   {
+   "where": "margin_notes[0].lines[2]",
+   "text": "c. & in noſtra",
+   "note": "first glyph of line unclear (c with mark); period uncertain"
+  },
+  {
    "where": "margin_notes[4]",
    "text": "Aud. itaque.",
    "note": "note key c2 has no {c2} marker on this page; marker presumably on p073"
@@ -250,12 +250,6 @@
    "note": "arbitration: undecided; alternatives: ANNOT. LII. ||| ANNOT. LII,",
    "escalate": false,
    "text": "ANNOT. LII."
-  },
-  {
-   "where": "margin_notes[0].lines[2]",
-   "note": "arbitration: undecided; alternatives: c & in noſtra ||| c. & in noſtra",
-   "escalate": false,
-   "text": "c & in noſtra"
   },
   {
    "where": "margin_notes[4]",
@@ -279,9 +273,9 @@
    "A": "c & in noſtra",
    "B": "c. & in noſtra",
    "chose": "carson-session",
-   "by": "auto",
-   "text": "c & in noſtra",
-   "reason": "arbitration: either (auto-deferred)"
+   "by": "reviewer",
+   "text": "c. & in noſtra",
+   "reason": "arbitration: B (reviewer: 'c. & in noſtra de teſtib.' — the chapter abbreviation carries its point everywhere else in the notes (annot-038 n. a 'c. in noſtra', annot-060 n. a 'c. licet ex quadã').; *c.* for *capitulum* is pointed everywhere else in this print, including the same canon at annot-027 n. a (*c. in noſtra*).)"
   },
   {
    "where": "margin_notes[4]",

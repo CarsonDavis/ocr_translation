@@ -332,12 +332,6 @@
    "text": "l. j. P. i. D. de"
   },
   {
-   "where": "margin_notes[1].lines[2]",
-   "note": "arbitration: undecided; alternatives: l. ij. C. qui teſt. ||| l. ij. C. qui teſt",
-   "escalate": false,
-   "text": "l. ij. C. qui teſt."
-  },
-  {
    "where": "margin_notes[3].lines[0]",
    "note": "arbitration: undecided; alternatives: l. ij. D. de ca ||| l. ij D. de ca",
    "escalate": false,
@@ -389,9 +383,9 @@
    "A": "l. ij. C. qui teſt.",
    "B": "l. ij. C. qui teſt",
    "chose": "carson-session",
-   "by": "auto",
+   "by": "reviewer",
    "text": "l. ij. C. qui teſt.",
-   "reason": "arbitration: either (auto-deferred)"
+   "reason": "arbitration: A (reviewer: annot-094 note t cites the same title as note l of the same annotation, which reads *C. qui teſt. face. poſ.* with the point.)"
   },
   {
    "where": "margin_notes[3].lines[0]",

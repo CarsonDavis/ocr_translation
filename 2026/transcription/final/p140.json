@@ -353,18 +353,6 @@
    "note": "arbitration: undecided; alternatives: l. iij. P. ſi & ||| l. iij P. ſi &",
    "escalate": false,
    "text": "l. iij. P. ſi &"
-  },
-  {
-   "where": "margin_notes[11].lines[0]",
-   "note": "arbitration: undecided; alternatives: c. ſi tu abſti ||| c ſi tu abſti",
-   "escalate": false,
-   "text": "c. ſi tu abſti"
-  },
-  {
-   "where": "margin_notes[11].lines[1]",
-   "note": "arbitration: undecided; alternatives: nes xxvij. q. ij. ||| nes xxvij. q. ij",
-   "escalate": false,
-   "text": "nes xxvij. q. ij."
   }
  ],
  "decisions": [
@@ -427,18 +415,18 @@
    "A": "c. ſi tu abſti",
    "B": "c ſi tu abſti",
    "chose": "carson-session",
-   "by": "auto",
+   "by": "reviewer",
    "text": "c. ſi tu abſti",
-   "reason": "arbitration: either (auto-deferred)"
+   "reason": "arbitration: A (reviewer: annot-098 note d: the same canon is cited at annot-097 notes b, k and q as *c. ſi tu abſtines* / *c. tu abſtines*, always with the point after *c*.)"
   },
   {
    "where": "margin_notes[11].lines[1]",
    "A": "nes xxvij. q. ij.",
    "B": "nes xxvij. q. ij",
    "chose": "carson-session",
-   "by": "auto",
+   "by": "reviewer",
    "text": "nes xxvij. q. ij.",
-   "reason": "arbitration: either (auto-deferred)"
+   "reason": "arbitration: A (reviewer: annot-098 note d: the same canon at annot-097 notes b and q ends *xxvij. q. ij.* with the final point.)"
   }
  ]
 }

@@ -260,12 +260,6 @@
    "note": "'quils' without clear apostrophe; a faint mark over the i could be a dieresis or apostrophe"
   },
   {
-   "where": "margin_notes[4].lines[1]",
-   "note": "arbitration: undecided; alternatives: xix. c. i. P. ꝙ ||| xix. c. i. P. ꝗ",
-   "escalate": false,
-   "text": "xix. c. i. P. ꝙ"
-  },
-  {
    "where": "blocks",
    "note": "arbitration: unknown; alternatives: block types: A=['paragraph', 'heading', 'paragraph', 'heading', 'paragraph'] B=['paragraph', 'heading', 'heading', 'heading', 'paragraph']; headings: A=['TEXTE.', 'ANNOT. LXXXIII.'] B=['TEXTE.', 'Rapt.', 'ANNOT. LXXXIII.']",
    "escalate": true,
@@ -296,9 +290,9 @@
    "A": "xix. c. i. P. ꝙ",
    "B": "xix. c. i. P. ꝗ",
    "chose": "carson-session",
-   "by": "auto",
+   "by": "reviewer",
    "text": "xix. c. i. P. ꝙ",
-   "reason": "arbitration: either (auto-deferred)"
+   "reason": "arbitration: A (reviewer: annot-083 note t cites *§ quod autem* of c. 1, C. 29 q. 1; annot-098 note q spells the same paragraph out as *c. j. P. quod aut. xxix. q. j.*, so the sign is the *quod* abbreviation ꝙ, not ꝗ (*qui*).)"
   },
   {
    "where": "margin_notes[4].lines[4]",

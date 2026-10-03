@@ -105,7 +105,7 @@
     "Ant. Bu. an",
     "c. ij. & c. ꝗ no",
     "bis. & c. pen.",
-    "q fil. ſint leg."
+    "ꝗ fil. ſint leg."
    ]
   },
   {
@@ -251,11 +251,6 @@
    "note": "the sign after 'c.' is a q with a stroke through the descender, transcribed ꝗ; could be ꝙ. 'ij' has dots over both letters (ïj shape)"
   },
   {
-   "where": "margin_notes[5].lines[3]",
-   "text": "q fil. ſint leg.",
-   "note": "the q has a mark under/through it, probably an abbreviation (q̃ or ꝗ = qui); read as plain q"
-  },
-  {
    "where": "margin_notes[6].lines[1]",
    "text": "D. de pẽca, Bar",
    "note": "'pẽca': mark over the e read as a tilde (de precario?); reading of the abbreviation uncertain"
@@ -370,12 +365,6 @@
    "note": "arbitration: undecided; alternatives: de ri. nup. ||| de rit. nup.",
    "escalate": false,
    "text": "de ri. nup."
-  },
-  {
-   "where": "margin_notes[5].lines[3]",
-   "note": "arbitration: undecided; alternatives: q fil. ſint leg. ||| ꝗ fil. ſint leg.",
-   "escalate": false,
-   "text": "q fil. ſint leg."
   }
  ],
  "decisions": [
@@ -420,9 +409,9 @@
    "A": "q fil. ſint leg.",
    "B": "ꝗ fil. ſint leg.",
    "chose": "carson-session",
-   "by": "auto",
-   "text": "q fil. ſint leg.",
-   "reason": "arbitration: either (auto-deferred)"
+   "by": "reviewer",
+   "text": "ꝗ fil. ſint leg.",
+   "reason": "arbitration: B (reviewer: annot-095 note l: the same line abbreviates *qui* with the ꝗ sign (*ꝗ no bis*), so *ꝗ fil. ſint leg.* is the consistent reading; the title is *qui filii sint legitimi* (cf. note b *qui fil ſint legi.*).)"
   },
   {
    "where": "margin_notes[10].lines[1]",

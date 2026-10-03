@@ -121,7 +121,7 @@
    "lines": [
     "Lactance au",
     "iij. de falſa ſa-",
-    "pieria. c. xviij."
+    "pietia. c. xviij."
    ]
   },
   {
@@ -164,11 +164,6 @@
    "where": "margin_notes[0].lines[3]",
    "text": "ctance au iij.",
    "note": "numeral printed as i + ij ligature (iÿ); read iij, could be ij"
-  },
-  {
-   "where": "margin_notes[2].lines[2]",
-   "text": "pieria. c. xviij.",
-   "note": "sic: 'ſa-pieria' for 'ſapientia' as printed (letters read p-i-e-r-i-a; could be 'pietia'); wrong sort / omitted letters"
   },
   {
    "where": "margin_notes[3].lines[1]",
@@ -226,15 +221,14 @@
    "note": "marker i printed at the start of the note; key letter excluded"
   },
   {
+   "where": "margin_notes[2].lines[2]",
+   "text": "pietia. c. xviij.",
+   "note": "sic? reads 'pietia' (or 'pieria'), apparently a misprint for 'pientia'; third letter from end unclear"
+  },
+  {
    "where": "margin_notes[4].lines[1]",
    "text": "l'art poetique.",
    "note": "final mark is a raised dot; taken as a period"
-  },
-  {
-   "where": "margin_notes[2].lines[2]",
-   "note": "arbitration: undecided; alternatives: pieria. c. xviij. ||| pietia. c. xviij.",
-   "escalate": false,
-   "text": "pieria. c. xviij."
   }
  ],
  "decisions": [
@@ -252,9 +246,9 @@
    "A": "pieria. c. xviij.",
    "B": "pietia. c. xviij.",
    "chose": "carson-session",
-   "by": "auto",
-   "text": "pieria. c. xviij.",
-   "reason": "arbitration: either (auto-deferred)"
+   "by": "reviewer",
+   "text": "pietia. c. xviij.",
+   "reason": "arbitration: B (reviewer: The work is Lactantius, *De falsa sapientia* (Inst. III), printed correctly as *de falſæ ſapientia* in note {g} of the same annotation; *ſapietia* is *ſapiẽtia* with the tilde lost, a common print feature, whereas *ſapieria* requires a t/r error.)"
   }
  ]
 }

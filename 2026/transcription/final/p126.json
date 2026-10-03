@@ -306,18 +306,6 @@
    "note": "last two lines 'Gelle au liure / xi. c. xviij.' attached to d2; may be a separate unkeyed note or belong elsewhere"
   },
   {
-   "where": "blocks[0].lines[8]",
-   "note": "arbitration: undecided; alternatives: che, & fort coniointe à vne autre: par quelque grand ||| che, & fort conioincte à vne autre: par quelque grand",
-   "escalate": false,
-   "text": "che, & fort coniointe à vne autre: par quelque grand"
-  },
-  {
-   "where": "margin_notes[5].lines[0]",
-   "note": "arbitration: undecided; alternatives: l. iij. P. ſi ꝗs ||| l. iij. P. ſiqs",
-   "escalate": false,
-   "text": "l. iij. P. ſi ꝗs"
-  },
-  {
    "where": "margin_notes[6].lines[3]",
    "note": "arbitration: undecided; alternatives: liure iij. c. xiij. ||| liure iij. c. xij.",
    "escalate": false,
@@ -339,18 +327,18 @@
    "A": "che, & fort coniointe à vne autre: par quelque grand",
    "B": "che, & fort conioincte à vne autre: par quelque grand",
    "chose": "carson-session",
-   "by": "auto",
+   "by": "reviewer",
    "text": "che, & fort coniointe à vne autre: par quelque grand",
-   "reason": "arbitration: either (auto-deferred)"
+   "reason": "arbitration: A (reviewer: annot-086 body: the book elsewhere spells the word *coniointe* (annot-015 *ſi coniointe*) and *conionctiõ(s)* (annot-001, annot-096); *conioincte* occurs nowhere else. No effect on the English.)"
   },
   {
    "where": "margin_notes[5].lines[0]",
    "A": "l. iij. P. ſi ꝗs",
    "B": "l. iij. P. ſiqs",
    "chose": "carson-session",
-   "by": "auto",
+   "by": "reviewer",
    "text": "l. iij. P. ſi ꝗs",
-   "reason": "arbitration: either (auto-deferred)"
+   "reason": "arbitration: A (reviewer: annot-086 note f cites the same law as annot-084 note g, which reads *l iij P. ſi. qs volentem* — two tokens, *ſi* and the abbreviated *quis*.)"
   },
   {
    "where": "margin_notes[6].lines[3]",
