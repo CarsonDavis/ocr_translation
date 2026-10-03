@@ -274,5 +274,20 @@
    "where": "running_head / folio / signature / catchword",
    "note": "the title page has no running head, no printed folio (the manifest gives folio null), no signature and no catchword; the space below the border is blank"
   }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "all 19 lines identical in both reads; B keeps the border and device in the ornaments list rather than as ornament blocks, which is the ruling for the title page (ornament blocks are for ornaments inside the text column)"
+  }
  ]
 }

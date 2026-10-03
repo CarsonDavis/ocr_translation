@@ -1,0 +1,10 @@
+---
+id: annot-045
+pages: [p067]
+---
+⟦p067⟧In truth, this is a strong reason and a great conjecture to persuade that the prisoner was calumniously accused: to understand that the said de Rols, having been advised that the prisoner was not her husband, nevertheless assured and defended the contrary; and afterwards, without new proofs, came against her own confession and her assurance — a thing far too unworthy, and full of great suspicion {a}.
+
+## Notes
+The print heads this annotation ANNOTAT. XLV. on p067. The marker alphabet restarts at *a*: one note, keyed and served, on p067. Wrong sorts and slips translated by sense: *ceſt* for *c'eſt*; *priſonier* and *priſõnier* for *priſonnier*; *calõnieuſement* for *calomnieuſement*; *aduer. tie*, a point in a reflow gap (*aduertie*); the print has no punctuation before *choſe par trop indigne*, rendered by a dash. *Forte raiſon, & coniecture grãde* → "a strong reason and a great conjecture" (*conjecture* per the glossary); *calomnieuſement accuſé* → "calumniously accused" (cf. *calomnieusement poursuyvi* at texte-14); *d'entendre que* → "to understand that" (the ground of the conjecture, stated as an infinitive in the French); *aduertie* → "advised" per the glossary (*advertie (de)* at texte-12); *aſſeuroit & defendoit le contraire* → "assured and defended the contrary"; *ſans nouuelles preuues* → "without new proofs" — the phrase the case file §10 notes Davis's argument turns on; *venoit contre ſa propre confeſſion* → "came against her own confession"; *par trop indigne* → "far too unworthy"; *pleine de grand ſoupçon* → "full of great suspicion".
+
+- {a} (p067): **Code 4.30 (*De non numerata pecunia*), l. *Generaliter* (cf. C. 4.30.13, Justinian; number unverified); a chapter *Per tuas* under a title printed *de ob.* — **unidentified** (a c. *Per tuas* is cited at annot-041 {b} under *De probationibus*, X 2.19; the title abbreviation here is not resolved)** — l. generali ter. C. de non nu. pec. c. per tuas. de ob. [Cited for the rule that one is not heard to come against one's own acknowledgment; the print's *generali ter* is *generaliter* with a reflow gap.]

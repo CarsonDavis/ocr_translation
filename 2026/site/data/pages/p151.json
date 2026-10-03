@@ -9,11 +9,374 @@
   "image_no": 171,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/171"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p150",
  "next": "p152",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "questing that the said creditors be satisfied out of the property that he still has at the place of Le Pin, as much from his late father Arnauld Guilhem du Tilh as from others — now possessed and occupied by Carbon Barrau his maternal uncle, whom, by reason of this, he has already sued.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION CVIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "This suit and demand for property which the said du Tilh was making against the said Carbon Barrau his uncle (inasmuch as the matter here was criminal and capital, where the witnesses and proofs must be entire, and clearer and more shining than the sun <sup class=\"mk\" data-key=\"a\">a</sup>) gave great colour to finding good the objection which the same du Tilh had, at the confrontations, proposed against the said Carbon his uncle. And it avails nothing to say that the civil law, which has rejected the testimony of one against whom we have a suit in a criminal matter, does not for that reason reprove it if the suit is brought civilly, in a civil and pecuniary matter <sup class=\"mk\" data-key=\"b\">b</sup>, as was the case between the said du Tilh and Barrau. For to this there are two answers. The first: that this ruling has no place where the objection is proposed by one accused of a crime <sup class=\"mk\" data-key=\"c\">c</sup>, especially if the crime is capital, and so the head is at stake. For besides that, as we have said above, the proofs in criminal causes must be clean, must shine clearer than the sun <sup class=\"mk\" data-key=\"d\">d</sup>, and be exempt from all suspicion <sup class=\"mk\" data-key=\"e\">e</sup>, it is both certain and reasonable that where the peril is greater, affairs must be handled more warily and with greater circumspection <sup class=\"mk\" data-key=\"f\">f</sup>. The second answer: where the suit between the parties should be for all their goods, or for the greater part, the ruling above would have no place <sup class=\"mk\" data-key=\"g\">g</sup>; because a suit so weighty (for goods are esteemed as the second blood and the life of a man <sup class=\"mk\" data-key=\"h\">h</sup>) seems to nourish and produce I know not what enmity, and no small one <sup class=\"mk\" data-key=\"i\">i</sup>; and a great enemy cannot (where it is objected against him) be a witness against his",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 4.19.25 (<i>De probationibus</i>, last law); Code 7.62 (<i>De appellationibus et consultationibus</i>), l. <i>Addictos</i> — the constitution beginning <i>Addictos supplicio</i>, whose place in the title is unverified (some editions carry it under C. 7.65, <i>Quorum appellationes non recipiantur</i>)",
+     "original": "l. derniere C. de proba. l. addictos. C. de ap pellatio.",
+     "gloss": "C. 4.19.25 (Constantine): accusers must bring proofs \"supported by competent witnesses, or by the plainest documents, or by indications beyond doubt and <i>clearer than light</i>\" — the source of Coras's \"clearer than the sun\"."
+    },
+    {
+     "key": "b",
+     "citation": "Authentica <i>Si testis</i> in Code 4.20 (<i>De testibus</i>), at the end; Authenticum, seventh collation, title <i>De testibus</i> (Novel 90), § <i>Si vero dicatur</i> — chapter unverified",
+     "original": "Autentique ſi teſtis, à la fin. C. de teſti. P. ſi verò dica tur. de teſtib. col. vij.",
+     "gloss": "The Novel-derived rule that the testimony of one's adversary in a suit is excluded in criminal, not in civil, causes — the objection Coras answers."
+    },
+    {
+     "key": "c",
+     "citation": "Decretals, X 2.20 (<i>De testibus</i>), c. <i>Testimonium</i> and the last chapter of the title — chapter numbers unverified",
+     "original": "c. teſtimoniũ c. denier de te.",
+     "gloss": "<i>denier</i> is a wrong sort for <i>dernier</i>."
+    },
+    {
+     "key": "d",
+     "citation": "Code 4.19.25 and the law <i>Addictos</i>, cited above at {a}",
+     "original": "l. derniere &amp; l. addictos. deſ ſus alleg.",
+     "gloss": null
+    },
+    {
+     "key": "e",
+     "citation": "Code 9.47.16 (<i>De poenis</i>, l. <i>Qui sententiam</i>); the law <i>Addictos</i>, Code <i>De appellationibus</i>, as at {a}",
+     "original": "l. qui ſenten t am. C. de pæ. l. addictos, C. de appel.",
+     "gloss": "C. 9.47.16: the judge is to pronounce no capital or severe sentence unless the accused is convicted by his own confession or by the concordant evidence of all who were examined, \"so caught in the crime that he can scarcely himself deny it\"."
+    },
+    {
+     "key": "f",
+     "citation": "Digest 37.10.1 (<i>De Carboniano edicto</i>, l. 1), § <i>Sed et si quis</i> — paragraph unverified; Liber Sextus, VI 1.6.3 (<i>De electione</i>, c. <i>Ubi periculum</i>)",
+     "original": "l. j P, ſed, &amp; ſi quis. D. de Carb. edict. c. vbi periculũ de electio.",
+     "gloss": "<i>Ubi periculum maius intenditur, ibi procul dubio est plenius consulendum</i> — the opening of Gregory X's constitution on the conclave (Lyon, 1274): where the peril is greater, fuller precaution is to be taken."
+    },
+    {
+     "key": "g",
+     "citation": "Accursius (<i>Accurſe</i>), the gloss on the Authentica <i>Si testis</i> (C. 4.20), cited above at {b}",
+     "original": "Accurſe en l'Autenti. ſi te ſtis, deſſus alleguee.",
+     "gloss": null
+    },
+    {
+     "key": "h",
+     "citation": "Code 2.7.14 (<i>De advocatis diversorum iudiciorum</i>, l. <i>Advocati</i>)",
+     "original": "l. aduocati C. de aduoc. diuer. iud.",
+     "gloss": "Advocates who settle the doubtful fortunes of causes \"provide for mankind no less than if they saved their country and their kin by battles and wounds\" — the equation of goods with life."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "querant leſdits creanciers eſtre ſatisfaits",
+    "du bien qu'il a encore au lieu du Pin, tãt",
+    "de ſon feu pere Arnauld Guilhem du",
+    "Tilh, que autres: ores poſſedé, & occupé,",
+    "par Carbon Barrau ſon oncle maternel.",
+    "lequel au moyen de ce, il a ia mis en in-",
+    "ſtance."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ce procez, & demande de biens, que ledit du Tilh fai",
+    "ſoit andit Carbon Barrau ſon oncle, (d'autãt que ſ'agiſ-",
+    "ſoit ici de matiere criminelle, & capitale: où les teſ-",
+    "moins, & preuues doyuẽt eſtre entieres, & plus claires,",
+    "& reluyſantes que le ſoleil {a}) donnoit grãde couleur, à",
+    "faire trouuer bon l'obiect qu'iceluy du Tilk auoit és",
+    "confrontemens propoſez cõtre ledict Carbon ſon on",
+    "cle. Et n'y fait riẽ dire que le droit ciuil, qui a reiette le",
+    "teſmoignage de celuy, contre qui nous auons procez,",
+    "en matiere criminelle, ne le reprouue pourtant, ſi le",
+    "procez eſt introduit ciuilement en matiere ciuile, & pe-",
+    "cuniaire {b}: cõme eſtoit entre leſdits du Tilh & Barrau.",
+    "Car à cela y à deux reſponſes: La premiere. ceſte deci",
+    "ſion n'auoir lieu, où l'obiect eſt propoſé par vn preue-",
+    "nu de crime {c}. meſmes ſi le crime eſt capital. & par ainſi",
+    "ſ'agiſt de la teſte. Car outre que comme nous auons dit",
+    "deſſus, les preuues és cauſes criminelles, doyuent eſtre",
+    "nettes, reluire plus clair que le ſoleil {d}, & eſtre exẽptes",
+    "de tout ſoupçõ {e}. Il eſt & certain & raiſonnable, qu'où",
+    "le peril eſt plus grand, les affaires doyuent eſtre traitees",
+    "plus cautement, & auec plus grãde circonſpection {f}. La",
+    "ſeconde reſponce, ou le proces ſeroit entre les parties",
+    "de tous leurs biens, ou de la plus grande partie, la de-",
+    "ciſiõ que deſſus n'auroit point de lieu {g}. par ce qu'vn pro",
+    "ces ſi importãt (car les biens ſont eſtimez cõme le ſecõd",
+    "ſang, & la vie de l'hõme {h}), ſemble nourrir, & produire ie",
+    "ne ſçay quelle, nõ petite inimitié {i}. & vn grand ennemy",
+    "ne peut (où luy ſera oppoſé) eſtre teſmoin contre ſon"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. derniere C.",
+    "de proba. l. ad-",
+    "dictos. C. de ap",
+    "pellatio."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Autentique",
+    "ſi teſtis, à la",
+    "fin. C. de teſti.",
+    "P. ſi verò dica",
+    "tur. de teſtib.",
+    "col. vij."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "c. teſtimoniũ",
+    "c. denier de te."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. derniere &",
+    "l. addictos. deſ",
+    "ſus alleg."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. qui ſenten",
+    "t am. C. de pæ.",
+    "l. addictos, C.",
+    "de appel."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. j P, ſed, &",
+    "ſi quis. D. de",
+    "Carb. edict. c.",
+    "vbi periculũ",
+    "de electio."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Accurſe en",
+    "l'Autenti. ſi te",
+    "ſtis, deſſus al-",
+    "leguee."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. aduocati",
+    "C. de aduoc.",
+    "diuer. iud."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "final E of THOLOSE is a damaged/odd sort (looks like a Z-shaped E)"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Tilh, que autres: ores poſſedé, & occupé,",
+   "note": "print sets 'autres:ores' tight with a colon-like mark between s and o (autresores = autrefois?); spacing normalized per validator; could be a damaged hyphen or other sort. 'poſſedé' ſſ could be ſs"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "lequel au moyen de ce, il a ia mis en in-",
+   "note": "'il' printed with dotless i ('ıl'); print has a space before the comma"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "ſoit andit Carbon Barrau ſon oncle, (d'autãt que ſ'agiſ-",
+   "note": "sic: 'andit' for audit"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "faire trouuer bon l'obiect qu'iceluy du Tilk auoit és",
+   "note": "sic: 'Tilk' (final letter printed as k, for Tilh)"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "cuniaire {b}: cõme eſtoit entre leſdits du Tilh & Barrau.",
+   "note": "'entre' r damaged (looks like 'entıe'); mark after {b} read as colon, could be semicolon"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "Car à cela y à deux reſponſes: La premiere. ceſte deci",
+   "note": "'deux' x has a stray stroke below; point after 'premiere' is a round dot (period), set tight against 'ceſte'"
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "ſion n'auoir lieu, où l'obiect eſt propoſé par vn preue-",
+   "note": "sic: 'n'auoir' for n'auoit (final letter looks like r)"
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "nu de crime {c}. meſmes ſi le crime eſt capital. & par ainſi",
+   "note": "'meſmes' m poorly formed (could read 'meſines'); both points read as periods"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "nettes, reluire plus clair que le ſoleil {d}, & eſtre exẽptes",
+   "note": "mark after 'nettes' read as comma (tail below baseline)"
+  },
+  {
+   "where": "blocks[2].lines[21]",
+   "text": "ſeconde reſponce, ou le proces ſeroit entre les parties",
+   "note": "'parties' t looks like r ('parries'), possible wrong sort; print has a space before the comma"
+  },
+  {
+   "where": "blocks[2].lines[26]",
+   "text": "ne ſçay quelle, nõ petite inimitié {i}. & vn grand ennemy",
+   "note": "a stray mark (like a broken ſ or parenthesis) is printed between '{i}.' and '&'; omitted. Marker i has NO visible margin note: margin ends with h; note i possibly on next page or omitted by printer"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "col. vij.",
+   "note": "'ij' printed as ÿ-shaped sort"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "c. denier de te.",
+   "note": "sic? 'denier' (for dernier) as printed"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "t am. C. de pæ.",
+   "note": "continuation of 'ſenten' printed as 't am.' (letter lost after t?); 'pæ' could be 'pœ'"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "l. j P, ſed, &",
+   "note": "P is the swash paragraph sign; '&' is the italic &-ligature"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "ſtis, deſſus al-",
+   "note": "line-end break sign printed as a star-like mark, transcribed '-'"
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "text": "l. aduocati",
+   "note": "c looks like e ('aduoeati'), possible wrong sort or worn type"
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "final E of THOLOSE blotted/odd sort (looks like a crossed B); read as E"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Tilh, que autres: ores poſſedé, & occupé,",
+   "note": "sic: 'autres:ores' printed with a colon-like mark (could be semicolon) set tight between the words, perhaps for 'autresfois'; spacing normalized"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "lequel au moyen de ce, il a ia mis en in-",
+   "note": "'il' printed with a dotless i"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "ſoit andit Carbon Barrau ſon oncle, (d'autãt que ſ'agiſ-",
+   "note": "sic: 'andit' for 'audit'; comma then parenthesis set tight 'oncle,('"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "faire trouuer bon l'obiect qu'iceluy du Tilk auoit és",
+   "note": "sic: 'Tilk' for 'Tilh' (wrong sort, clearly a k)"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "cuniaire {b}: cõme eſtoit entre leſdits du Tilh & Barrau.",
+   "note": "marker b raised and followed by colon (could be semicolon); 'entre' r badly inked (looks 'entıc')"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "Car à cela y à deux reſponſes: La premiere. ceſte deci",
+   "note": "mark after 'premiere' is a round dot on the baseline (period), not comma; 'y à' grave as printed"
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "ſion n'auoir lieu, où l'obiect eſt propoſé par vn preue-",
+   "note": "sic: 'n'auoir' (expected 'n'auoit'); final letter looks like r"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "deſſus, les preuues és cauſes criminelles, doyuent eſtre",
+   "note": "'deſſus' could be 'deſſus' or 'deſsus'; ligature reads ſſ; 'doyuent' u slightly damaged"
+  },
+  {
+   "where": "blocks[2].lines[26]",
+   "text": "ne ſçay quelle, nõ petite inimitié {i}. & vn grand ennemy",
+   "note": "after marker i a period and a stray bracket-like sort (resembling 'ſ' or '[') before '&', not transcribed; marker i has no visible margin note on this page (margin ends with note h); note i may be missing or carried to the next page"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "col. vij.",
+   "note": "'vij' printed with diaeresis-like dots ('vÿ')"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. teſtimoniũ",
+   "note": "key letter c followed by 'c.' (canon); first c read as key"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "t am. C. de pæ.",
+   "note": "gap after t: probably 'tiam' with the i missing or unprinted; 'pæ' ligature reading uncertain"
+  },
+  {
+   "where": "margin_notes[7]",
+   "text": "l. aduocati",
+   "note": "note h printed beside the last two body lines; no note for marker i visible"
+  }
+ ],
+ "readings": []
 }

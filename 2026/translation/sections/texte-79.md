@@ -1,0 +1,10 @@
+---
+id: texte-79
+pages: [p106]
+---
+⟦p106⟧Whereupon it will not be out of place to recount the countenance of the newcomer, who, having shed tears at the confrontation and at the meeting with his sisters, nevertheless at the great weeping and extreme lamentations of the said de Rols never showed a single sign of grief or sadness: but on the contrary, with an austere and fierce countenance, and scarcely deigning to look at her, said to her: Put aside these tears, by which I cannot, nor ought I to, be moved.
+
+## Notes
+The print heads this section TEXTE. on p106, after Annotation LXXVIII (our annot-077; from here the print's annotation numbers run one ahead of the section ids, until the print repeats LXXXIII and the two fall back into step). The body carries no marker. The margin of p106 carries one note, keyed *a2* (p106 already has a note *a* belonging to Annotation LXXVIII), which the transcription marks an orphan and attaches to this section: by its content (Propertius) it serves the first words of the following annotation, "This man said, with Propertius", which begin on this same page; it is listed below as an orphan. Reflow gap read through: *re garder*. Wrong sort translated by sense: *propros* for *propos*. *Reciter la contenance* → "recount the countenance" (*contenance* → countenance per the glossary); *larmoyé* → "shed tears" (*larmoyer*, annot-030); *rencontré de ſes ſeurs* → "at the meeting with his sisters" (the recognition scene, texte-75); *grans pleurs & gemiſſemens extremes* → "great weeping and extreme lamentations"; *auſtere, & farouche contenance* → "austere and fierce countenance"; *ie ne me puis, ni ne me dois eſmouuoir* → "I cannot, nor ought I to, be moved" (the case file §2 quotes the same words).
+
+- {a2} (p106) — orphan note: printed in the margin of p106 with the key *a2*, with no marker in the body; by its content it serves the opening line of Annotation LXXIX (annot-078), "This man said, with Propertius": **Propertius, *Elegies*, book 3, the last elegy (3.25, lines 5–6)** — Properce au iij. liure, Elegie dernier. [The couplet quoted at the head of the next annotation.]

@@ -9,11 +9,484 @@
   "image_no": 145,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/145"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p124",
  "next": "p126",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "led Sacrilegious. Thus Ovid, in some place, calls Lycurgus Sacrilegious, because he had despised the sacrifices of the god Bacchus. In the same way the Christians have generally called sacrilege every pollution and profanation of a sacred thing, every contempt and irreverence toward God, or toward the things instituted by him <sup class=\"mk\" data-key=\"b\">b</sup>: as for example, an abuse committed upon the sacrament of Baptism is rightly called Sacrilege <sup class=\"mk\" data-key=\"c\">c</sup>; so too a violence done to the Ministers of the Church <sup class=\"mk\" data-key=\"d\">d</sup>. Likewise a piece of magic, inasmuch as the magician abuses holy words in the invocation of spirits <sup class=\"mk\" data-key=\"e\">e</sup>. Thus he who traffics and makes merchandise of spiritual things is with good reason said to be Sacrilegious <sup class=\"mk\" data-key=\"f\">f</sup>; nay, he who disputes the power of the Prince, and calls into doubt whether the man whom he has chosen and called to his service is sufficient and worthy, deserves the title of Sacrilegious <sup class=\"mk\" data-key=\"g\">g</sup>. We read also that Sallust called Terentia, Cicero's wife, Sacrilegious <sup class=\"mk\" data-key=\"h\">h</sup>, because she was so troublesome, and so depraved in her manners, that Cicero, on his return from exile, was constrained to repudiate her <sup class=\"mk\" data-key=\"i\">i</sup>. Wherefore there is no doubt that those who despise, abuse and profane a thing so holy and sacred as marriage deserve to be called and judged Sacrilegious, and as such are worthy of death <sup class=\"mk\" data-key=\"k\">k</sup>, the ordinary penalty of the sacrilegious, who have been at all times so odious that the ancients at times burned them alive <sup class=\"mk\" data-key=\"l\">l</sup>. And although pity and compassion for age, in other crimes and even in this one, ought to incline the judges to some gentleness and moderation of penalty <sup class=\"mk\" data-key=\"m\">m</sup>, nevertheless Aelian relates of a young child who of old had taken a gold plate from the crown of the goddess Diana: because, when afterwards there were set before him dolls and other little things (in which little children delight), he chose the plate again, he was condemned by the Athenians to death <sup class=\"mk\" data-key=\"n\">n</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "The Gloss on c. <i>Sacrilegium</i> (the gloss's definition: <i>sacrilegium committitur auferendo sacrum de sacro, vel non sacrum de sacro, sive sacrum de non sacro</i>), printed as C. 16 q. 3 (or q. 4 — the two readings of the print); the sacrilege canons stand in C. 17 q. 4, where note <i>a</i> cites them, and the print's <i>xvj.</i> is probably <i>xvij.</i>; c. <i>Si quis contumax</i>, already cited at {a}",
+     "original": "Gloſe. c. ſa crilegium. xvj. q. iij. c. ſi quis contumax. ia allegué.",
+     "gloss": null
+    },
+    {
+     "key": "c",
+     "citation": "Decretum, C. 23 q. 5, c. <i>Si vos</i> (canon not identified; its bearing on an abuse of baptism unverified)",
+     "original": "c. ſi vos xxiij. q. v.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "citation": "Decretum, C. 17 q. 4, c. <i>Si quis contumax</i>, cited above at {a}",
+     "original": "c. ſi quis cõtumax. prealle gué.",
+     "gloss": "The canon on violence done to clerics and to churches."
+    },
+    {
+     "key": "e",
+     "citation": "Decretum, C. 26 q. 2 (the <i>causa</i> on divination and sorcery), c. <i>Illud</i>, toward the end (canon number unverified)",
+     "original": "c. illud. ſur la fin. xxvi. q. ij.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Decretum, C. 1 q. 2 (on simony), c. <i>Audivimus</i> (canon number unverified)",
+     "original": "c. audiuimus i. q. ij.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "citation": "Code 9.29 (<i>De crimine sacrilegii</i>), l. 2 (C. 9.29.2, Gratian, Valentinian and Theodosius)",
+     "original": "l. ij. C. de cri. ſacrileg.",
+     "gloss": "<i>Disputare de principali iudicio non oportet: sacrilegii enim instar est dubitare, an is dignus sit, quem elegerit imperator</i> — it is in the nature of sacrilege to doubt whether the man the emperor has chosen is worthy."
+    },
+    {
+     "key": "h",
+     "citation": "Pseudo-Sallust, <i>Invective against Cicero</i> (<i>In M. Tullium Ciceronem invectiva</i>), c. 2",
+     "original": "Saluſte contre Ciceron.",
+     "gloss": "<i>uxor sacrilega ac periuriis delibuta</i> — \"a wife sacrilegious and steeped in perjuries\"."
+    },
+    {
+     "key": "i",
+     "citation": "Plutarch, <i>Life of Cicero</i>, c. 41 (the divorce of Terentia)",
+     "original": "Plutarque en la vie de Ciceron.",
+     "gloss": "Plutarch gives Terentia's neglect of Cicero during the civil war, not her depravity, as the ground; the print's <i>Plutarqne</i> is a turned sort."
+    },
+    {
+     "key": "k",
+     "citation": "Code 9.9 (<i>Ad legem Iuliam de adulteriis et de stupro</i>), l. <i>Quamvis</i> (C. 9.9.29 = vulgate 9.9.30, Constantine), with the print's <i>la ij.</i>, which is obscure (perhaps <i>l. ij.</i>, a second law of the title); Decretum, C. 11 q. 3, c. <i>Non solum</i> (canon number unverified)",
+     "original": "l. quamuis. la ij. C. de adult. c. non ſolũ. xi. q. iij.",
+     "gloss": "C. 9.9.29: <i>sacrilegos autem nuptiarum gladio puniri oportet</i> — the sacrilegious violators of marriage are to be punished with the sword; this is the text that makes adultery \"sacrilege\" and so carries Coras's whole annotation."
+    },
+    {
+     "key": "l",
+     "citation": "Digest 48.13 (<i>Ad legem Iuliam peculatus</i>), l. <i>Sacrilegii</i> (D. 48.13.7 = vulgate 48.13.6, Ulpian)",
+     "original": "l. ſacrilegij. D. ad l. Iuli. pecul.",
+     "gloss": "The governor fixes the penalty of sacrilege according to the person, the thing, the time, age and sex: Ulpian knows of many condemned to the beasts, some burned alive (<i>nonnullos etiam vivos exussisse</i>), others hanged on the fork."
+    },
+    {
+     "key": "m",
+     "citation": "Digest 4.4 (<i>De minoribus viginti quinque annis</i>), l. <i>Auxilium</i>, § <i>In delictis</i> (D. 4.4.9.2, Ulpian); l. <i>Sacrilegii</i>, as at {l}",
+     "original": "l. auxilium. P. in dailect. D. de mino. l. ſacrilegij. alleg.",
+     "gloss": "<i>In delictis autem minor annis viginti quinque non meretur in integrum restitutionem … nisi quatenus interdum miseratio aetatis ad mediocrem poenam iudicem produxerit</i> — a minor has no restitution for his delicts, save that pity for his age may sometimes lead the judge to a moderate penalty. The print's <i>dailect.</i> is <i>delict.</i>"
+    },
+    {
+     "key": "n",
+     "citation": "Aelian, <i>Varia historia</i> (<i>Historical Miscellany</i>), book 5, c. 16",
+     "original": "Aelian au liure v de var. hiſtor. c. xvi",
+     "gloss": "The boy who took a gold leaf from the crown of Artemis; offered the leaf again among knucklebones and toys, he chose the leaf, and the Athenians put him to death as a sacrilegious person."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Enslavement [<i>plaige</i>: the Roman <i>plagium</i>, the stealing of a free person].",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXXVI"
+  },
+  {
+   "type": "paragraph",
+   "html": "The crime of Enslavement also results from this deed; under which are bound",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "les Sacrileges. Ainſi Ouide en, quelque lieu, nomme",
+    "Licurgus Sacrilege, partant qu'il auoit meſpriſé les ſa-",
+    "crifices du dieu Bachus. De meſmes les chreſtiens ont",
+    "generalement appelé ſacrilege, toute polution, & pro-",
+    "fanatiõ de choſe ſacree, meſpris, & irreuerẽce de Dieu,",
+    "ou des choſes par luy inſtituees {b}: comme par exemple,",
+    "vn abus commis au ſacrement de Bapteſme, eſt à bon",
+    "droit appelé Sacrilege {c}. vne violence auſſi faite aux Mi",
+    "niſtres de l'Egliſe {d}. Pareillement vne magie, d'autant",
+    "que le magicien abuſe des paroles ſainctes en inuoca-",
+    "tion d'eſprits {e}. Ainſi celuy qui traffique & fait marchã-",
+    "diſe des choſes ſpirituelles, à bõne raiſon eſt dit Sacri-",
+    "lege {f}. voire qui diſpute de la puiſſance du Prince, & re-",
+    "uoque en doute, ſi celuy eſt ſuffiſant, & digne, qui a eſté",
+    "par luy choiſi, & appelé à ſon ſeruice, merite le titre de",
+    "Sacrilege {g}, Nous liſons auſſi, que Saluſte appeloit Te-",
+    "rence, femme de Ciceron, Sacrilege {h}, par ce qu'elle e-",
+    "ſtoit faſcheuſe, & ſi deprauee en ſes meurs, qu'eſtant",
+    "Ciceron retourné d'exil, fut contraint la repudier {i}.",
+    "Dont ne faut doubter, que ceux qui meſpriſent, abu-",
+    "ſent, & profanent vne choſe ſi ſaincte & ſacree, qu'eſt le",
+    "mariage, ne meritent d'eſtre appellez, & iugez Sacrile-",
+    "ges: & comme tels, ne ſoyent dignes de mort {k}. peine",
+    "ordinaire des ſacrileges, leſquels ont eſté de tout tẽps",
+    "ſi odieux, que les anciens les õt toutesfois bruſlez tout",
+    "vifs {l}. Et bien que la pitié, & compaſſion de l'aage és",
+    "autres crimes, & meſmes en ceſtuy-ci, doyue incliner",
+    "les iuges à quelque douceur, & moderatiõ de peine {m}:",
+    "toutesfois Aelian recite d'vn ieune enfant, qui iadis",
+    "auoit prins vne tablete d'or de la couronne de la deeſ-",
+    "ſe Diane: par ce qu'en luy preſentant apres ces poupees",
+    "& autres petites choſes (auſquelles les petis enfans ſe",
+    "plaiſent il) choiſit de rechef la tablete, fut condamné",
+    "par les Atheniens à mort {n}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Plaige."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Le crime du Plaige reſulte de ce faict auſſi, duquel"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Gloſe. c. ſa",
+    "crilegium. xvj.",
+    "q. iiij. c. ſi quis",
+    "contumax. ia",
+    "allegué."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "c. ſi vos xxi-",
+    "ij. q. v."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "c. ſi quis cõ-",
+    "tumax. prealle",
+    "gué."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "c. illud. ſur",
+    "la fin. xxvi. q.",
+    "ij."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "c. audiuimus",
+    "i. q. ij."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. ij. C. de cri.",
+    "ſacrileg."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "Saluſte con-",
+    "tre Ciceron."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "Plutarque",
+    "en la vie de",
+    "Ciceron."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. quamuis.",
+    "la ij. C. de ad-",
+    "ult. c. non ſolũ.",
+    "xi. q. iij."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. ſacrilegij.",
+    "D. ad l. Iuli.",
+    "pecul."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "l. auxilium.",
+    "P. in dailect.",
+    "D. de mino. l.",
+    "ſacrilegij. al-",
+    "leg."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "Aelian au",
+    "liure v de var.",
+    "hiſtor. c. xvi"
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "les Sacrileges. Ainſi Ouide en, quelque lieu, nomme",
+   "note": "print sets 'O uide' with a gap (one word, closed up); a stray comma-like mark sits before 'quelque' (printed 'en ,quelque'), and 'lieu ,nomme'; transcribed as commas"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "generalement appelé ſacrilege, toute polution, & pro-",
+   "note": "mark after 'polution' looks like ';' or ',' with an extra dot; read as comma"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "fanatiõ de choſe ſacree, meſpris, & irreuerẽce de Dieu,",
+   "note": "print has 'Dieu ,' and a second comma-like mark at the column edge before the margin note b; one comma transcribed"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "vn abus commis au ſacrement de Bapteſme, eſt à bon",
+   "note": "an apostrophe-like mark above the comma after 'Bapteſme'; ignored"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "par luy choiſi, & appelé à ſon ſeruice, merite le titre de",
+   "note": "mark after 'ſeruice' looks like ',;' (comma with extra dot); read as comma"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "Sacrilege {g}, Nous liſons auſſi, que Saluſte appeloit Te-",
+   "note": "punctuation after marker g looks like a comma (tail below baseline) although a capital follows; could be a period"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "ſe Diane: par ce qu'en luy preſentant apres ces poupees",
+   "note": "punctuation after 'Diane' could be ';' or ':'; read as colon"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "par les Atheniens à mort {n}.",
+   "note": "marker glyph looks like 'u' (possibly turned n); keyed to margin note n, which follows m in the alphabet"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Plaige.",
+   "note": "TEXTE lemma set in larger type on its own line; treated as a paragraph (quoted text of the arrest) rather than a heading"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Gloſe. c. ſa",
+   "note": "no hyphen visible after 'ſa'"
+  },
+  {
+   "where": "margin_notes[10].lines[1]",
+   "text": "P. in dailect.",
+   "note": "sic? reads 'dailect' (for 'delict'); first letters unclear"
+  },
+  {
+   "where": "margin_notes[11].lines[1]",
+   "text": "liure v de var.",
+   "note": "printed 'liurev' tight; 'var' may be 'vær'"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "les Sacrileges. Ainſi Ouide en, quelque lieu, nomme",
+   "note": "'les' has a mark above the e (blemish or accent 'lés'?); 'O uide' set with a gap, closed up; comma after 'en' is a small raised mark, may be a stray sort rather than a comma"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "generalement appelé ſacrilege, toute polution, & pro-",
+   "note": "mark after 'polution' could be a comma or semicolon"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ou des choſes par luy inſtituees {b}: comme par exemple,",
+   "note": "marker a absent from this page (first marker is b); 'comme' has a stray mark over the first m"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "vn abus commis au ſacrement de Bapteſme, eſt à bon",
+   "note": "an apostrophe-like raised mark sits before the comma after 'Bapteſme'; ignored as a blemish"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "par luy choiſi, & appelé à ſon ſeruice, merite le titre de",
+   "note": "punctuation after 'ſeruice' looks like comma plus a raised mark; could be a semicolon"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "Sacrilege {g}, Nous liſons auſſi, que Saluſte appeloit Te-",
+   "note": "punctuation after marker g read as a comma (tail below baseline); could be a period given the capital N"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "ſe Diane: par ce qu'en luy preſentant apres ces poupees",
+   "note": "colon vs semicolon after 'Diane' not certain"
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "text": "plaiſent il) choiſit de rechef la tablete, fut condamné",
+   "note": "print sets 'plaiſentil)' tight; separated per word-division rule"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "par les Atheniens à mort {n}.",
+   "note": "the marker's shape looks like 'u' (possibly a turned n); keyed n to match the margin note n and the alphabet after m"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "c. ſi vos xxi-",
+   "note": "line-end sign after 'xxi' could be a hyphen or a point"
+  },
+  {
+   "where": "margin_notes[8].lines[0]",
+   "text": "l. quamuis.",
+   "note": "final letters of 'quamuis' faint"
+  },
+  {
+   "where": "margin_notes[10].lines[1]",
+   "text": "P. in dailect.",
+   "note": "reads 'dailect.' as printed (for 'delict.'?); sic or misread"
+  },
+  {
+   "where": "margin_notes[11].lines[1]",
+   "text": "liure v de var.",
+   "note": "print sets 'liurev' and 'devar.' tight; separated"
+  }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[0].lines[2]",
+   "target": "margin_notes[0].lines[2]",
+   "spans": [
+    [
+     3,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "q. iij. c. ſi quis",
+   "b": "q. iiij. c. ſi quis",
+   "text": "q. iiij. c. ſi quis",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "The sacrilege canons, including c. Si quis contumax cited in the same note, stand in C. 17 q. 4, which note a cites as xvij. q. iiij.; q. iiij. keeps the questio consistent (the print's xvj. is itself probably a slip for xvij.). Translation unaffected."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "target": "margin_notes[2].lines[0]",
+   "spans": [
+    [
+     6,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "c. ſi quis cõ-",
+   "b": "c. ſi quis, cõ-",
+   "text": "c. ſi quis cõ-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "The canon's incipit is Si quis contumax; the comma inside it in B is a stray sort. Translation unaffected."
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "target": "margin_notes[7].lines[0]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "Plutarque",
+   "b": "Plutarqne",
+   "text": "Plutarque",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Plutarque is the name; Plutarqne is a turned u."
+  },
+  {
+   "where": "blocks",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

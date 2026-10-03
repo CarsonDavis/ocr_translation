@@ -380,5 +380,97 @@
    "text": "k",
    "note": "the note's key letter is the italic k of this fount, whose two strokes look like 'lz' (margin-3.jpg y~150-200); the body marker at blocks[3].lines[23] is a roman small-capital K and the alphabet runs ...i, k, so the key is k"
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[3].lines[4]",
+   "target": "blocks[3].lines[4]",
+   "spans": [
+    [
+     42,
+     51
+    ]
+   ],
+   "aligned": true,
+   "a": "de conſentement, ni de volonté {a}: & que melefices ne ſe",
+   "b": "de conſentement, ni de volonté {a}: & que meleſices ne ſe",
+   "text": "de conſentement, ni de volonté {a}: & que melefices ne ſe",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 3x the letter after 'mele' has a full crossbar and forms the fi ligature, unlike the nubbed ſ of 'diſons' on the line above: f"
+  },
+  {
+   "where": "blocks[3].lines[18]",
+   "target": "blocks[3].lines[18]",
+   "spans": [
+    [
+     28,
+     30
+    ]
+   ],
+   "aligned": true,
+   "a": "auec elle, cuidant que ſoit ſa femme eſt, auſſi excuſé {h}.",
+   "b": "auec elle, cuidant que ſoit la femme eſt, auſſi excuſé {h}.",
+   "text": "auec elle, cuidant que ſoit ſa femme eſt, auſſi excuſé {h}.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the letter before 'a' has the hooked long-s top identical to the ſ of 'ſoit' on the same line; an l would have a flat serifed top"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     7,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "rigra. penule.",
+   "b": "rigra. penult.",
+   "text": "rigra. penule.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the final sort is round and x-height, matching the e of the same word; the t of 'penult.' on the next line has a stem and curled top. Escalated"
+  },
+  {
+   "where": "margin_notes[7].lines[3]",
+   "target": "margin_notes[7].lines[3]",
+   "spans": [
+    [
+     8,
+     16
+    ]
+   ],
+   "aligned": true,
+   "a": "Infect. xxxiiij.",
+   "b": "Infect. xxxiij.",
+   "text": "Infect. xxxiiij.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x four minims follow xxx (i, i, and a joined ij pair); matches note e's xxxiiij. Escalated as a minim count"
+  },
+  {
+   "where": "margin_notes[7].lines[4]",
+   "target": "margin_notes[7].lines[4]",
+   "spans": [
+    [
+     3,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "q. j.",
+   "b": "q. j,",
+   "text": "q. j,",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the final mark has a descending tail: a comma"
+  }
  ]
 }

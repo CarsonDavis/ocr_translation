@@ -1,0 +1,357 @@
+{
+ "id": "p078",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "ARREST DV",
+ "folio": "78",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "gle, que deux teſmoins qui afferment,",
+    "ſont plus croyables que mille qui nient."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ceſt vne ſentence eſpandue en toute les parties de",
+    "droict, Qu'on doit donner plus de foy à deux teſmoins",
+    "qui aſſeurent, & afferment quelque choſe, qu'a ſix cẽs",
+    "ou à mille, qui nient {a} d'autant, que comme dit le Phi-",
+    "loſophe, celuy ſçait mieux, & auec plus grande certi-",
+    "tude, qui entend ce dequoy il eſt queſtion par affirma-",
+    "tion & aſſeurãce, que celuy qui le ſçait par niement {b}.",
+    "car auſſi par la nature des choſes, il eſt preſque impoſi-",
+    "ble prouuer vne negation: car comme ſe pouroit prou-",
+    "uer, qu'Antoine n'euſt eſté iamais à Tholoſe? Au con-",
+    "traire doncques, quand la difficulté de preuue n'y eſ-",
+    "cherroit point, cete reigle auſſi n'auroit point de lieu {d}.",
+    "Exemple, à vn college d'vniuerſité, pour examiner vn",
+    "eſcolier, l'approuuer au degre de Doctorat, ſont neceſ-",
+    "ſaires ſept docteurs pour le moins {e}, deſquels ſi les trois",
+    "aſſeurent la ſuffiſance, & l'appreuuent, & les quatre au-",
+    "tres, la nient, & le reprouuent: le teſmoignage de ceux",
+    "ci, comme eſtans plus en nombre, indubitablement",
+    "preuaudra {f}. D'auantage on doit entendre la deciſion",
+    "d'Accurſe {g}, quand les teſmoins depoſeroyent d'vne ne-",
+    "gation vague, & incertaine: car ſ'ils la reſtraignoyent à",
+    "certains lieux, temps & perſonnes, d'autant que par ce",
+    "moyen coarctee, elle ſe peut facilement prouuer {h}: les",
+    "teſmoins auſſi qui en depoſeroyent, ne ſeroyent pas",
+    "moins croyables, que ceux qui depoſeroyent de l'affir-",
+    "mation {i}. Comme par exemrle, ſi Antoine eſt accuſé",
+    "d'auoit meurtri Pierre dans Tholoſe, ce premier iour",
+    "d'octobre 1560. & des teſmoins le depoſent ainſi: & au",
+    "cõtraire, d'autres diſent qu'Antoine ne fit pas ce meur-",
+    "tre, car ils le virent ce iour la à Paris: ſ'ils ſont en pareil",
+    "nombre, ils ſont auſſi croyables (& d'auantage par ce qu'",
+    "ils depoſent pour l'innocence {k}) que ceux qui teſmoi-",
+    "gneroyent pour l'accuſation & la charge {l}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et pour vn ſecond, qui eſt principal"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "ſont plus croyables que mille qui nient.",
+   "lines": [
+    "Accurſe en",
+    "la l. diem. P.",
+    "ſi plures. D. de",
+    "arbitr."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "droict, Qu'on doit donner plus de foy à deux teſmoins",
+   "lines": [
+    "Ariſtote au",
+    "iij. de la me",
+    "taphyſique."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "loſophe, celuy ſçait mieux, & auec plus grande certi-",
+   "lines": [
+    "l actor C.",
+    "de proba. c.",
+    "ſuper hoc. de.",
+    "renuncia. c.",
+    "quoniam con",
+    "tra. de pro,"
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "ble prouuer vne negation: car comme ſe pouroit prou-",
+   "lines": [
+    "c. propoſui",
+    "ſti. & illec les",
+    "Docteurs, de",
+    "pro."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "Exemple, à vn college d'vniuerſité, pour examiner vn",
+   "lines": [
+    "l penultie-",
+    "me. C. de pro",
+    "feſſo. & med.",
+    "lib. xij."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "aſſeurent la ſuffiſance, & l'appreuuent, & les quatre au-",
+   "lines": [
+    "c. in noſtra.",
+    "de teſt."
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "tres, la nient, & le reprouuent: le teſmoignage de ceux",
+   "lines": [
+    "Accurſe au",
+    "P. ſi plures.",
+    "preallegué."
+   ]
+  },
+  {
+   "key": "h",
+   "beside_line": "d'Accurſe {g}, quand les teſmoins depoſeroyent d'vne ne-",
+   "lines": [
+    "l. optimam.",
+    "ſur la fin. C.",
+    "de cont. ſtip.",
+    "c. tertio loco.",
+    "de præſump."
+   ]
+  },
+  {
+   "key": "i",
+   "beside_line": "teſmoins auſſi qui en depoſeroyent, ne ſeroyent pas",
+   "lines": [
+    "Les Inter-",
+    "pretes en la l.",
+    "In illa. D. de",
+    "verbo. oblig."
+   ]
+  },
+  {
+   "key": "k",
+   "beside_line": "d'auoit meurtri Pierre dans Tholoſe, ce premier iour",
+   "lines": [
+    "c. ex literis.",
+    "de probatio.",
+    "c. inter de fi.",
+    "inſtru."
+   ]
+  },
+  {
+   "key": "l",
+   "beside_line": "tre, car ils le virenr ce iour la à Paris: ſ'ils ſont en pareil",
+   "lines": [
+    "Accurſe en",
+    "la l. j. D. de I-",
+    "tin. actuque",
+    "pri."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[2]",
+   "text": "{c}",
+   "note": "marker c missing: margin note c (l actor C. de proba. ...) has no visible marker in the body; its expected place is between markers b ('niement') and d ('lieu'), probably after 'negation' or 'impoſi-/ble prouuer vne negation', but no letter is printed there"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "ANNOT. LVIII.",
+   "note": "printed tight as 'ANNOT.LVIII.' in spaced capitals; space after period added per normalization"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Ceſt vne ſentence eſpandue en toute les parties de",
+   "note": "'Ceſt' without apostrophe and 'toute les' as printed (sic)"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "car auſſi par la nature des choſes, il eſt preſque impoſi-",
+   "note": "'impoſi-' read with a single long s (ſi ligature); could be 'impoſſi-'"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "uer, qu'Antoine n'euſt eſté iamais à Tholoſe? Au con-",
+   "note": "'Au' set in small capitals (A and u/V small caps); could be transcribed 'AV'"
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "text": "mation {i}. Comme par exemrle, ſi Antoine eſt accuſé",
+   "note": "sic: 'exemrle' - the p appears as an r (wrong or damaged sort)"
+  },
+  {
+   "where": "blocks[2].lines[26]",
+   "text": "d'auoit meurtri Pierre dans Tholoſe, ce premier iour",
+   "note": "sic: 'd'auoit' for d'auoir as printed"
+  },
+  {
+   "where": "blocks[2].lines[32]",
+   "text": "gneroyent pour l'accuſation & la charge {l}.",
+   "note": "the r of 'gneroyent' is damaged and looks like a dotless i ('gneıoyent'); read as r"
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "text": "verbo. oblig.",
+   "note": "the e of 'verbo' is damaged/unclear (looks 'v·rbo')"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "de probatio.",
+   "note": "initial p of 'probatio' looks like r (damaged sort)"
+  },
+  {
+   "where": "margin_notes[7].lines[3]",
+   "text": "c. tertio loco.",
+   "note": "initial 'c' could be read '6'; read as c."
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "Docteurs, de",
+   "note": "'DOcteurs' set with small capital D-O; transcribed as ordinary"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Ceſt vne ſentence eſpandue en toute les parties de",
+   "note": "'Ceſt' printed without apostrophe; 'toute les' as printed (sic)"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "car auſſi par la nature des choſes, il eſt preſque impoſi-",
+   "note": "'impoſi-' with a single long s as read (ſi ligature); could be 'impoſſi-'"
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "text": "mation {i}. Comme par exemrle, ſi Antoine eſt accuſé",
+   "note": "sic: 'exemrle', the p prints like r (broken or wrong sort)"
+  },
+  {
+   "where": "blocks[2].lines[26]",
+   "text": "d'auoit meurtri Pierre dans Tholoſe, ce premier iour",
+   "note": "sic: 'd'auoit' for d'auoir; 'meurtri' letters partly broken"
+  },
+  {
+   "where": "blocks[2].lines[32]",
+   "text": "gneroyent pour l'accuſation & la charge {l}.",
+   "note": "'gneroyent' damaged in print: r looks like a dotless i and final t is malformed; reading from context of shape"
+  },
+  {
+   "where": "blocks[2].lines[30]",
+   "text": "nombre, ils ſont auſſi croyables (& d'auantage par ce qu'",
+   "note": "line ends with apostrophe after qu, word continues 'ils' on next line"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l actor C.",
+   "note": "no period visible after 'l'; key letter c printed like o/c"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "ſuper hoc. de.",
+   "note": "period after 'de' as printed; spacing hoc.de closed in print"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "feſſo. & med.",
+   "note": "first letter f or ſ unclear; ſſ vs ſs uncertain"
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "text": "verbo. oblig.",
+   "note": "the e of verbo is broken, prints like v·rbo"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "de probatio.",
+   "note": "p prints like r/T (broken sort); read as probatio"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "ſi plures. D. de",
+   "note": "'ſiplures' set tight; D is the swash Digest sign"
+  },
+  {
+   "where": "running_head",
+   "note": "arbitration: unknown; alternatives: ARREST DV ||| ARREST DV.",
+   "escalate": true,
+   "text": "ARREST DV"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[2].lines[13]",
+   "A": "eſçolier, l'approuuer au degre de Doctorat, ſont neceſ-",
+   "B": "eſcolier, l'approuuer au degre de Doctorat, ſont neceſ-",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "eſcolier, l'approuuer au degre de Doctorat, ſont neceſ-",
+   "reason": "arbitration: B (translator: eſcolier ('scholar') is the ordinary form; eſçolier with a cedilla before o is no form of the word.)"
+  },
+  {
+   "where": "blocks[2].lines[29]",
+   "A": "tre, car ils le virenr ce iour la à Paris: ſ'ils ſont en pareil",
+   "B": "tre, car ils le virent ce iour la à Paris: ſ'ils ſont en pareil",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "tre, car ils le virent ce iour la à Paris: ſ'ils ſont en pareil",
+   "reason": "arbitration: B (translator: virent = 'they saw him that day at Paris'; virenr is a wrong sort (t read as r).)"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "A": "cti. & illec les",
+   "B": "ſti. & illec les",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "ſti. & illec les",
+   "reason": "arbitration: B (translator: propoſui ſti. = Proposuisti with a reflow gap, the incipit of the chapter cited; propoſui cti. is no word.)"
+  },
+  {
+   "where": "running_head",
+   "A": "ARREST DV",
+   "B": "ARREST DV.",
+   "chose": "carson-session",
+   "by": "auto",
+   "text": "ARREST DV",
+   "reason": "arbitration: unknown (auto-deferred)"
+  }
+ ]
+}

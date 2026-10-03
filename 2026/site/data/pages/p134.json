@@ -9,11 +9,560 @@
   "image_no": 156,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/156"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p133",
  "next": "p135",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "marriage <sup class=\"mk\" data-key=\"f\">f</sup>; and so that they succeed indifferently to all: that is to say, as much to the one who had contracted the marriage unwittingly and in good faith as to the one also who had used fraud and known of the impediment, and to the common kinsfolk also, respectively <sup class=\"mk\" data-key=\"g\">g</sup>. And although some have rather lightly thought that such children are legitimate only with regard to the one alone who contracted through error and in good faith <sup class=\"mk\" data-key=\"h\">h</sup>, nevertheless this opinion has long since, and with great reason, been rejected: for it would be a thing far too ridiculous that a child should be deemed in part legitimate, and in part bastard and illegitimate <sup class=\"mk\" data-key=\"i\">i</sup>. And as to the argument that between the said du Tilh and de Rols there was no true marriage, without which children cannot be called legitimate <sup class=\"mk\" data-key=\"k\">k</sup>: the answer is easy, that the colour and belief of marriage, as to making the children legitimate, has the same force and the same effects as a just, true and perfect marriage <sup class=\"mk\" data-key=\"l\">l</sup>; as also we say that a true possession of a piece of land, or of other things, is well and justly acquired, although the delivery of that thing, and the means of the acquisition, be not real <sup class=\"mk\" data-key=\"m\">m</sup>, but feigned and imaginary. And if someone says here that, although this daughter is legitimate, one ought not for all that to have adjudged to her the goods of her father condemned to death, inasmuch as such a condemnation draws to itself the confiscation of goods <sup class=\"mk\" data-key=\"n\">n</sup>, especially in France, where he who confiscates the body confiscates the goods <sup class=\"mk\" data-key=\"o\">o</sup>: I answer that although the Judge who has the power to confiscate the body, that is to say to condemn it to death, may also confiscate the goods, nevertheless one must not therefore think that he is perpetually bound to do so <sup class=\"mk\" data-key=\"p\">p</sup>. For such a circumstance may arise from the facts, and present itself to the judge, that he may justly not confiscate the goods, in whole or in part, and especially when there are children <sup class=\"mk\" data-key=\"q\">q</sup>. True it is that in France the judge must expressly declare it: for otherwise the mere favour of the children would not prevent the condemnation to death from necessarily carrying with it also the confiscation of the goods <sup class=\"mk\" data-key=\"r\">r</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "f",
+     "citation": "Digest 23.2 (<i>De ritu nuptiarum</i>), the fragment beginning <i>Qui in provincia</i>, § 1 — not identified; cf. D. 23.2.38 § 1 and 23.2.65 § 1 (Paul), where a marriage contracted by an official in his province against the mandates becomes lawful when he lays down his office, and the children are then legitimate",
+     "original": "l. qui in pro uĩcia⟨alt:uicia⟩ P j. D. de ri.⟨alt:rit.⟩ nup.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "citation": "Baldus and Salicetus (Bartholomaeus de Saliceto) on Code 5.5, l. <i>Qui contra</i>, cited above",
+     "original": "Bal. &amp; Sali. in l qui cõtra, ia allegu.",
+     "gloss": "Such children succeed to both parents and to the kin of both."
+    },
+    {
+     "key": "h",
+     "citation": "Code 5.18 (<i>Soluto matrimonio quemadmodum dos petatur</i>), l. 2 as cited (cf. C. 5.18.3, as at annot-011 {f}); Accursius on Code 5.5, l. <i>Qui contra</i>",
+     "original": "l ij.⟨alt:iij.⟩ C. ſol.⟨alt:ſol⟩ mat. Accurſe⟨alt:Accurſè⟩ en lad. l. qui contra.",
+     "gloss": "The opinion that the children are legitimate only in respect of the parent in good faith; the Antoninus text on the woman who married a slave, discussed at annot-011."
+    },
+    {
+     "key": "i",
+     "citation": "Digest 40.12 (<i>De liberali causa</i>), the fragment beginning <i>Duobus</i> — not identified",
+     "original": "l. duobus. D. de libe. cauſ.",
+     "gloss": "For the rule that a status cannot be divided — one cannot be in part free and in part slave, nor a child in part legitimate."
+    },
+    {
+     "key": "k",
+     "citation": "Digest 1.6.6 (<i>De his qui sui vel alieni iuris sunt</i>, l. <i>Filium</i>, Ulpian)",
+     "original": "l filiũ. D. de iis. q ſunt ſui.",
+     "gloss": "<i>Filium eum definimus, qui ex viro et uxore eius nascitur</i>: we define a son as one born of a man and his wife — hence, the objector argues, no marriage, no legitimate child."
+    },
+    {
+     "key": "l",
+     "citation": "Antonius de Butrio (1338–1408) on X 4.17 (<i>Qui filii sint legitimi</i>), c. 2, the chapter beginning <i>Quod nobis</i> (as printed, <i>ꝗ nobis</i>), and the penultimate chapter of the title — chapter numbers unverified",
+     "original": "Ant. Bu. an c. ij. &amp; c. ꝗ no bis. &amp; c. pen. q⟨alt:ꝗ⟩ fil. ſint leg.",
+     "gloss": "The putative marriage has the same effect as a true one for the legitimacy of the children."
+    },
+    {
+     "key": "m",
+     "citation": "Digest, title abbreviated <i>de pẽca</i> — not resolved; the fragment beginning <i>Certe</i>, § 1, not identified; Bartolus on Digest 2.14 (<i>De pactis</i>), l. <i>Ab emptione</i> (D. 2.14.58, Neratius), and on the same l. <i>Certe</i>",
+     "original": "l. certe. P. i. D. de pẽca, Bar to. in l ab emptione. D. de pac. &amp; en lad. l. certe.",
+     "gloss": "For the acquisition of possession by a fictitious delivery."
+    },
+    {
+     "key": "n",
+     "citation": "Digest 28.1 (<i>Qui testamenta facere possunt</i>), l. <i>Eius qui</i>, last paragraph (fragment number unverified); Digest 48.20.1 (<i>De bonis damnatorum</i>, l. 1, Callistratus)",
+     "original": "l. eius qui. P fi. D. de te ſta. l. i. D de bo. damnat,",
+     "gloss": "D. 48.20.1: <i>Damnatione bona publicantur, cum aut vita adimitur aut civitas</i> — on condemnation the goods are confiscated when life or citizenship is taken away."
+    },
+    {
+     "key": "o",
+     "citation": "Guillaume Benoît (<i>Benedicti</i>, c. 1455–1516), <i>Repetitio</i> on the Decretals chapter <i>Raynutius</i> (X 3.26.16, <i>De testamentis</i>), at the word <i>et uxorem</i>, number 836; Barthélemy de Chasseneuz (<i>Chassanée</i>), <i>Commentaria in consuetudines ducatus Burgundiae</i>, title <i>Des confiscations</i>",
+     "original": "Bened. au c Rayn. ver. &amp; uxorẽ nõb. 836. C. baſſane. au titre des confiſ.",
+     "gloss": "The French maxim <i>qui confisque le corps confisque les biens</i>; Benoît was a judge of the Parlement of Toulouse, as Coras was."
+    },
+    {
+     "key": "p",
+     "citation": "Digest 5.1 (<i>De iudiciis</i>), the fragment beginning <i>Non quicquid</i> — not identified; Code 7.43 (<i>Quomodo et quando iudex sententiam proferre debet</i>), l. 1",
+     "original": "l. non quicqd. D. de iud l. i. C. quom. &amp; quãd. iud.",
+     "gloss": "The judge is not bound to pronounce every consequence the law permits."
+    },
+    {
+     "key": "q",
+     "citation": "Code 9.49 (<i>De bonis proscriptorum seu damnatorum</i>), the last law (C. 9.49.10) and the Authentica <i>Bona damnatorum</i> inserted there; Authenticum, collatio 9, Novel 134 (<i>Ut nulli iudicum</i>), the § beginning <i>Si</i>",
+     "original": "l ſi. &amp; aut. bona.⟨alt:bova.⟩ C. de bo. proſcri. P. ſi vt nulli iu. col. ix.",
+     "gloss": "Justinian's Novel 134.13, carried into the Code as the Authentica <i>Bona damnatorum</i>: the goods of a condemned man go to his descendants, and only in default of them to the fisc — the law in favour of children that Coras invokes."
+    },
+    {
+     "key": "r",
+     "citation": "Benoît, at the place cited above ({o})",
+     "original": "benedic. au lieu prealleg.",
+     "gloss": "In France the judge must expressly except the goods from confiscation."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "mariage {f}. & par ainſi qu'ils ſuccedent indifferẽment à",
+    "tous: c'eſt à dire tant à celuy qui auoit contracté le ma-",
+    "riage imprudemment, & à la bonne foy: qu'à celuy auſſi",
+    "qui auoit vſé de fraude, & ſceu l'empeſchement, qu'aux",
+    "parens communs auſſi, reſpectiuement {g}. Et bien que",
+    "quelques vns ayent aſſez legerement penſé, que tels",
+    "enfans ne ſoient legitimes, que pour regard de celuy",
+    "ſeulement qui contractoit par erreur, & à la bonne foy",
+    "{h}. toutes fois ceſte opinion a eſté pieça, & à grande rai-",
+    "ſon reietee. car ſe ſeroit vne choſe par trop ridicule",
+    "qu'vn enfant fuſt eſtimé en partie legitime, & en partie",
+    "baſtard, & illegitime {i}. Et de dire qu'entre leſdits du",
+    "Tilh, & de Rols n'y a point eu vray mariage: ſans le-",
+    "quel enfans ne peuuẽt eſtre dits legitimes {k}. La reſpon-",
+    "ce eſt aiſee, que la couleur, & opinion de mariage, quãt",
+    "à faire les enfans legitimes, a la meſme vertu, & les",
+    "meſmes effects, que le iuſte, vray, & parfait mariage {l}:",
+    "comme auſſi nous diſons, qu'vne vraye poſſeſſion d'v-",
+    "ne terre, ou d'autres choſes ſ'aquiert bien, & iuſtement,",
+    "iaçoit que le bail de ceſte choſe, & moyen de l'acquiſi-",
+    "tion, ne ſoit veritable {m}, ains fainct, & imaginaire. Et ſi",
+    "quelqu'vn dit icy, que bien que ceſte fille ſoit legitime,",
+    "ne luy deuoit-on pourtant adiuger les biens de ſon pe-",
+    "re condemné à mort, d'autant que telle condemnation",
+    "attire à ſoy la confiſcation de biens {n}: meſmement en",
+    "France, où qui confiſque le corps, confiſque les biens {o}.",
+    "Ie reſpons qu'encore que le Iuge qui a l'a puiſſance de",
+    "confiſquer le corps: c'eſt à dire le condemner à mort,",
+    "puiſſe auſſi confiſquer les biens: toutesfois par là ne",
+    "faut penſer qu'il ſoit perpetuellement aſtrainct à ce fai",
+    "re {p}. Car telle circonſtance peut naiſtre du faict, & ſe",
+    "preſenter au iuge, qu'il pourra iuſtement ne confiſquer",
+    "point les biens, du tout, ou en partie, & meſmement",
+    "qunad il y a enfans {q}: vray eſt qu'en France faut que le",
+    "iuge nommement le declare: car autrement, la ſeulle",
+    "faueur des enfans, nempeſcheroit pas que la condem-",
+    "nation de mott, n'importaſt neceſſairement auſſi la",
+    "confiſcation des biens {r}."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. qui in pro",
+    "uĩcia P j. D.",
+    "de ri. nup."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Bal. & Sa-",
+    "li. in l qui cõ-",
+    "tra, ia allegu."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l ij. C. ſol.",
+    "mat. Accurſe",
+    "en lad. l. qui",
+    "contra."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. duobus. D.",
+    "de libe. cauſ."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l filiũ. D. de",
+    "iis. q ſunt ſui."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "Ant. Bu. an",
+    "c. ij. & c. ꝗ no",
+    "bis. & c. pen.",
+    "q fil. ſint leg."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "l. certe. P. i.",
+    "D. de pẽca, Bar",
+    "to. in l ab em-",
+    "ptione. D. de",
+    "pac. & en lad.",
+    "l. certe."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "l. eius qui.",
+    "P fi. D. de te",
+    "ſta. l. i. D de",
+    "bo. damnat,"
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "Bened. au",
+    "c Rayn. ver.",
+    "& uxorẽ nõb.",
+    "836. C. baſſa-",
+    "ne. au titre",
+    "des confiſ."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "l. non quic-",
+    "qd. D. de iud",
+    "l. i. C. quom.",
+    "& quãd. iud."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "l ſi. & aut.",
+    "bona. C. de",
+    "bo. proſcri. P.",
+    "ſi vt nulli iu.",
+    "col. ix."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "benedic. au",
+    "lieu prealleg."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "{h}. toutes fois ceſte opinion a eſté pieça, & à grande rai-",
+   "note": "the marker at line start is printed with a shape like an italic b; keyed h because the sequence runs g, h, i and the margin note beside has key h"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "ne luy deuoit-on pourtant adiuger les biens de ſon pe-",
+   "note": "the sign between 'deuoit' and 'on' is a small raised dot/short stroke, not a clear hyphen; could be a stray mark ('deuoit on')"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "France, où qui confiſque le corps, confiſque les biens {o}.",
+   "note": "'où': the u carries a mark above that I read as a grave accent; could be a tréma or ink speck ('ou')"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "qunad il y a enfans {q}: vray eſt qu'en France faut que le",
+   "note": "sic: 'qunad' for 'quand', transposed sorts, transcribed as printed"
+  },
+  {
+   "where": "blocks[0].lines[36]",
+   "text": "nation de mott, n'importaſt neceſſairement auſſi la",
+   "note": "sic: 'mott' for 'mort' — the third letter looks like a t (crossbar), not r; wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "mariage {f}. & par ainſi qu'ils ſuccedent indifferẽment à",
+   "note": "first note on the page (key f) presumably continues the citation run of the previous page; no preceding page available for context"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "uĩcia P j. D.",
+   "note": "mark over the first i read as a tilde (prouĩcia); could be an acute or plain i"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "de ri. nup.",
+   "note": "after 'ri' there is a small mark (apostrophe or broken period); read as a period"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Bal. & Sa-",
+   "note": "first letter is a swash italic capital that looks like F or P; read as B (Baldus with Salicetus), not certain"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "tra, ia allegu.",
+   "note": "a mark over the g of 'allegu' may be a tilde (alleg̃u.); the letter after g could also be a broken n"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l ij. C. ſol.",
+   "note": "numeral printed as i + j-like form ('iy' shape); read 'ij', 'iij' possible"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "mat. Accurſe",
+   "note": "possible accent mark over the final e of 'Accurſe' (Accurſè); read as a speck"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "iis. q ſunt ſui.",
+   "note": "the q may carry an abbreviation stroke (ꝗ = qui); read as plain q"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "Ant. Bu. an",
+   "note": "the key letter printed before 'Ant.' is a swash-like l; keyed l to match the marker after 'mariage' in body line 17"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "c. ij. & c. ꝗ no",
+   "note": "the sign after 'c.' is a q with a stroke through the descender, transcribed ꝗ; could be ꝙ. 'ij' has dots over both letters (ïj shape)"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "text": "q fil. ſint leg.",
+   "note": "the q has a mark under/through it, probably an abbreviation (q̃ or ꝗ = qui); read as plain q"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "D. de pẽca, Bar",
+   "note": "'pẽca': mark over the e read as a tilde (de precario?); reading of the abbreviation uncertain"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "& uxorẽ nõb.",
+   "note": "'nõb.' — last letter could be o or b ('nõo.'); abbreviation unresolved"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "qd. D. de iud",
+   "note": "the d of 'qd' is raised (superscript); transcribed as a plain letter"
+  },
+  {
+   "where": "margin_notes[10].lines[0]",
+   "text": "l ſi. & aut.",
+   "note": "'aut.' — the last letter could be c or t ('auc.'), ink rough"
+  },
+  {
+   "where": "margin_notes[10].lines[1]",
+   "text": "bona. C. de",
+   "note": "the n of 'bona' looks like a v ('bova'), likely a damaged n"
+  },
+  {
+   "where": "margin_notes[10].lines[2]",
+   "text": "bo. proſcri. P.",
+   "note": "'proſcri' — the c could be read e ('proſeri')"
+  },
+  {
+   "where": "margin_notes[11].lines[1]",
+   "text": "lieu prealleg.",
+   "note": "the letter before g is damaged, with a mark like an accent or apostrophe (preall'g. / prealléq.); read 'prealleg.'"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "ſon reietee. car ſe ſeroit vne choſe par trop ridicule",
+   "note": "stray mark below baseline between 'par' and 'trop' (looks like comma/dot); read as stray ink, not punctuation. Period after 'reietee' read as period"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "ne luy deuoit-on pourtant adiuger les biens de ſon pe-",
+   "note": "between 'deuoit' and 'on' a small mid-height dot/short stroke; read as hyphen, could be a stray point"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "France, où qui confiſque le corps, confiſque les biens {o}.",
+   "note": "accent on 'où' faint; could be 'oü' or 'ou'"
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "Ie reſpons qu'encore que le Iuge qui a l'a puiſſance de",
+   "note": "sic: 'l'a' for 'la' as printed"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "qunad il y a enfans {q}: vray eſt qu'en France faut que le",
+   "note": "sic: 'qunad' for 'quand' (transposed sorts)"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "faueur des enfans, nempeſcheroit pas que la condem-",
+   "note": "sic: 'nempeſcheroit' without apostrophe as printed"
+  },
+  {
+   "where": "blocks[0].lines[36]",
+   "text": "nation de mott, n'importaſt neceſſairement auſſi la",
+   "note": "sic: 'mott' for 'mort' as it appears; r/t could be ink damage"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Bal. & Sa-",
+   "note": "first capital is a swash italic; read B (Baldus), could be P or T"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "tra, ia allegu.",
+   "note": "'allegu.' uncertain; letters after 'alle' blotted"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "en lad. l. qui",
+   "note": "'l.' followed by a hyphen-like stroke ('l-'); read as point"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "D. de pẽca, Bar",
+   "note": "'de pẽca' unclear: mark over p/e, could be 'depca' closed up or 'de pec.'"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "ſta. l. i. D de",
+   "note": "'i' could be arabic '1'"
+  },
+  {
+   "where": "margin_notes[8].lines[5]",
+   "text": "des confiſ.",
+   "note": "first letters blotted: 'des' and 'c' of confiſ. partly unclear"
+  },
+  {
+   "where": "margin_notes[10].lines[2]",
+   "text": "bo. proſcri. P.",
+   "note": "could be 'proſeri.' (c/e ambiguous)"
+  },
+  {
+   "where": "margin_notes[11].lines[1]",
+   "text": "lieu prealleg.",
+   "note": "letter after 'preall' blotted, possibly 'é' or apostrophe"
+  }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "uĩcia P j. D.",
+   "b": "uicia P j. D.",
+   "text": "uĩcia P j. D.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "pro uĩcia = prouincia, the tilde marking the omitted n (l. Qui in provincia); uicia without the tilde is no word."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "target": "margin_notes[0].lines[2]",
+   "spans": [
+    [
+     3,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "de ri. nup.",
+   "b": "de rit. nup.",
+   "text": "de ri. nup.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "target": "margin_notes[2].lines[0]",
+   "spans": [
+    [
+     2,
+     5
+    ],
+    [
+     9,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "l ij. C. ſol.",
+   "b": "l iij. C. ſol",
+   "text": "l ij. C. ſol.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "l. ij. C. soluto matrimonio is the number Coras gives the same law at Annotation XI (l. ij. C. ſol. marr., annot-011 note f); nothing supports iij.; Same line as p134-m2l0-1, so the same choice; ſol. and ſol are the same abbreviation of soluto with or without the point."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     5,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "mat. Accurſe",
+   "b": "mat. Accurſè",
+   "text": "mat. Accurſe",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Accurſe is Coras's usual spelling of Accursius throughout the margins; Accurſè with a grave is a stray accent."
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "target": "margin_notes[5].lines[3]",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "aligned": true,
+   "a": "q fil. ſint leg.",
+   "b": "ꝗ fil. ſint leg.",
+   "text": "q fil. ſint leg.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[10].lines[1]",
+   "target": "margin_notes[10].lines[1]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "bona. C. de",
+   "b": "bova. C. de",
+   "text": "bona. C. de",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "bona. = the Authentica Bona damnatorum in C. de bonis proscriptorum; bova is no word."
+  }
+ ]
 }

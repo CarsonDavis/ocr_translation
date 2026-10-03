@@ -1,10 +1,10 @@
 ---
 id: texte-35
-pages: [p056, p057]
+pages: [p055]
 ---
-⟦p056⟧The fourth: it results from several witnesses that the said du Tilh has been from his childhood steeped and consummate in all vices: ⟦p057⟧given over to every kind of theft and cheating; a habitual denier and blasphemer of the name of God.
+⟦p055⟧The third: Martin Guerre was of the Basque country, where everyone knows well that a language is spoken very different from French and Gascon, little understandable except to those who are of the country: and nevertheless the said du Tilh, prisoner, knows how to speak only a few stolen words of it.
 
 ## Notes
-The print heads this section TEXTE. on p056. The page break falls between "vices:" and *adonné* and is kept there. Reflow gaps read through: *qua trieme* = *quatrieme*, *blaſphe mateur* = *blaſphemateur*. *Confit & conſommé en tous vices* → "steeped and consummate in all vices" (*confit*, literally preserved or pickled in; Ringold and Lewis: "confirmed thoroughly in all vices"). *Larrecins & affrontemens* → "theft and cheating" per the glossary (*larrecin* → theft; *affrontement* → cheating). *Renieur* → "denier": one who "denies God" in oaths (*je renie Dieu*, the common blasphemous oath of the period); Annotation XXXVI explains that the witnesses meant his swearing by the head, body, blood and wounds of our Lord. *Ordinaire* → "habitual". Ringold and Lewis run this TEXT together with the next ("and all this to such an extent that if he had thought up this new impudence…"), which the print sets as a separate TEXTE block after Annotation XXXVI.
+The print heads this section TEXTE. on p055. The French runs "eſtoit du pays des Baſcouz, chacun ſcait bien, qu'on parle vn langage" without a relative; "where" is supplied. *Pays des Baſcouz* → "the Basque country" per the case file §4 and texte-08. *Enten dible* is the reflow's gap inside *entendible*; *ſcait* for *ſçait*. *Quelques mots deſrobez* → "a few stolen words" (so Ringold and Lewis), words picked up by stealth; cf. the glossary's *à la desrobbée* → "by stealth". Case file §4 notes that no witness was asked about the prisoner's accent.
 
 - (none: this section carries no marginal citations.)

@@ -378,5 +378,200 @@
    "text": "A iiij",
    "note": "the foot carries the signature 'A iiij' and no catchword; no foot citation block."
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[4]",
+   "target": "blocks[0].lines[4]",
+   "spans": [
+    [
+     21,
+     26
+    ]
+   ],
+   "aligned": true,
+   "a": "que Porcie, fille de Caron qui diſoit la femme n'eſtre",
+   "b": "que Porcie, fille de Caton qui diſoit la femme n'eſtre",
+   "text": "que Porcie, fille de Caton qui diſoit la femme n'eſtre",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the third sort of the name has a full crossbar at x-height and a curved foot (full/p007.jpg y~610, 2.5x): t, so 'Caton'"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "target": "blocks[2].lines[10]",
+   "spans": [
+    [
+     5,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "ans, ſ'il n'y a nouuelles certaines du mari, ne ſoit",
+   "b": "ans, ſil n'y a nouuelles certaines du mari, ne ſoit",
+   "text": "ans, ſ'il n'y a nouuelles certaines du mari, ne ſoit",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a raised comma-shaped apostrophe stands between the long ſ and the dotted i (2.5x): 'ſ'il'"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "target": "blocks[2].lines[15]",
+   "spans": [
+    [
+     37,
+     46
+    ]
+   ],
+   "aligned": true,
+   "a": "uoyoit certificatoire de ſa mort, ou luy-meſme en per",
+   "b": "uoyoit certificatoire de ſa mort, ou luy. meſme en per",
+   "text": "uoyoit certificatoire de ſa mort, ou luy-meſme en per",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the mark between 'luy' and 'meſme' is a short dot set at mid x-height, where this fount's hyphens sit, not on the baseline where its periods sit (compare the period after 'mort' on line 19): worn hyphen, 'luy-meſme'"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "target": "blocks[2].lines[19]",
+   "spans": [
+    [
+     34,
+     38
+    ]
+   ],
+   "aligned": true,
+   "a": "eſtre par tout repandu de ſa mort {u}. Car bien que la",
+   "b": "eſtre par tout repandu de ſa mort {t}. Car bien que la",
+   "text": "eſtre par tout repandu de ſa mort {u}. Car bien que la",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 3.5x the marker is the two-stroke italic u, the same sort as the marker on line 21 and the margin key u; the margin key t (a single hooked stroke) is a different glyph. Printed u, transcribed {u}; by the alphabet it should be t (see uncertain)"
+  },
+  {
+   "where": "blocks[2].lines[24]",
+   "target": "blocks[2].lines[24]",
+   "spans": [
+    [
+     51,
+     56
+    ]
+   ],
+   "aligned": true,
+   "a": "pays lointain, longuement abſent, telle maniere de preu",
+   "b": "pays lointain, longuement abſent, telle maniere de preu-",
+   "text": "pays lointain, longuement abſent, telle maniere de preu-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a short faint hyphen is printed after 'preu' at the line end (4x), so 'preu-'"
+  },
+  {
+   "where": "running_head",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "PVRLIMENT DE TOLOSE,",
+   "b": "PVRLEMENT DE TOLOSE,",
+   "text": "PVRLIMENT DE TOLOSE,",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 5x the fifth sort is a plain I (single stem, symmetrical top and bottom serifs, no arms), unlike the three-armed E of 'MENT' and 'DE': PVRLIMENT, sic"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     6,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "D. de diuor",
+   "b": "D. de diuor.",
+   "text": "D. de diuor",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the marks after 'diuor', 'nup' and 'vxores'/'ſed e' form a column at one x below the baselines of their lines (2x); they are show-through/set-off, not periods, and 'ſed e' and 'nup' are mid-word anyway. After 'Iuſtin' the mark is a small ring at x-height (a superscript o), not a period"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "target": "margin_notes[2].lines[3]",
+   "spans": [
+    [
+     8,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "tiam de nup",
+   "b": "tiam de nup.",
+   "text": "tiam de nup",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the marks after 'diuor', 'nup' and 'vxores'/'ſed e' form a column at one x below the baselines of their lines (2x); they are show-through/set-off, not periods, and 'ſed e' and 'nup' are mid-word anyway. After 'Iuſtin' the mark is a small ring at x-height (a superscript o), not a period"
+  },
+  {
+   "where": "margin_notes[2].lines[5]",
+   "target": "margin_notes[2].lines[5]",
+   "spans": [
+    [
+     7,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "les de Iuſtin",
+   "b": "les de Iuſtin.",
+   "text": "les de Iuſtin",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the marks after 'diuor', 'nup' and 'vxores'/'ſed e' form a column at one x below the baselines of their lines (2x); they are show-through/set-off, not periods, and 'ſed e' and 'nup' are mid-word anyway. After 'Iuſtin' the mark is a small ring at x-height (a superscript o), not a period"
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "target": "margin_notes[7].lines[0]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "c'veniens. j.",
+   "b": "c. veniens. j.",
+   "text": "c'veniens. j.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the mark after the c is a small raised tick at the top of the letter (4x); the periods of 'veniens.' and 'j.' on the same line sit on the baseline. Transcribed as an apostrophe; the citation intended is c. Veniens (X. de teſtibus)"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "target": "margin_notes[8].lines[2]",
+   "spans": [
+    [
+     4,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "loy Siquidem.",
+   "b": "loy Siquidẽ.",
+   "text": "loy Siquidem.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the word ends in a clear three-legged m before the period (4x); the mark above 'de' is an ink smudge, not a tilde: 'Siquidem.'"
+  }
  ]
 }

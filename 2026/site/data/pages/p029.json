@@ -12,7 +12,41 @@
  "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p028",
  "next": "p030",
- "english": null,
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "of blood or of death, but only for amends, either pecuniary, in money, or honourable, in asking pardon.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "On the part of the said du Tilh, the accused, it was on the contrary represented that if ever kinsman or husband was ill-treated and calumniously prosecuted by his own relatives, he certainly was, and unjustly. For although everyone knew and understood that he was truly Martin Guerre, of the place of Artigat, nevertheless, in order to rob him of the little property he had, of the value of seven to eight thousand <i>livres</i>, held and possessed for a long time past by Pierre Guerre his uncle, who was vexed beyond measure at letting it go — he having some time since been sued, by reason of it, and for the rendering of an account and payment of the balance remaining, before the said Judge of Rieux, by the said Martin his nephew, and defendant — the said Pierre Guerre and his sons-in-law had contrived and invented against him a new kind of crime, unheard of before this day.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XIIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "This defence had some verisimilitude: for, as Jesus son of Sirach said, THERE IS nothing more iniquitous in the world than to love money and to covet the goods of another, and nothing more wicked than the avaricious man <sup class=\"mk\" data-key=\"a\">a</sup>, who, insatiable, is never sated nor satisfied, and to heap up riches and enlarge his fortune finds nothing",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Ecclesiasticus 10:9–10 (Vulgate: <i>nihil est iniquius quam amare pecuniam … avaro autem nihil est scelestius</i>)",
+     "original": "Eccleſiaſtique c. x.",
+     "gloss": null
+    }
+   ]
+  }
+ ],
  "french": [
   {
    "type": "paragraph",
@@ -116,6 +150,21 @@
    "where": "blocks[4].lines[1]",
    "text": "me diſoit Ieſus fils de Sirach', IL N'EST choſe plus",
    "note": "validator long-s warning checked against the image and rejected: 'N'EST' is set in spaced SMALL CAPITALS (N' E S T), so the s is a capital/round S, not long s. Do not change to 'eſt'."
+  }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "reads agree on every printed line"
   }
  ]
 }

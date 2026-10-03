@@ -1,0 +1,271 @@
+{
+ "id": "p102",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "ARREST DV",
+ "folio": "102",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "lement creu, & aſſeuré, que le priſonnier",
+    "eſtoit Martin Guerre leur frere,"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Les femmes ont cela de peculier, dit le Philoſophe,",
+    "qu'elles croyent de leger, & ſont faciles à eſtre deceuës",
+    "par les ruſes & cautelles des hommes {a}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Scilicet iſta fuit, veterum natura virorum,",
+    "Fallere fœmineum, credula corda genus {b}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et l'Empereur Iuſtinien diſoit, nous auons ſuffiſam-",
+    "ment cogneu la foible nature des femmes ſubiectes à",
+    "mille tromperies & circonuentions {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Ioinct l'incroyable enuie qu'icelle de",
+    "Rols auoit de recouurer ſon mary: cho-",
+    "ſes qui luy perſuaderent trop facilement",
+    "que le priſonnier l'eſtoit, meſmes qu'il",
+    "donnoit pluſieurs priuées & particulie-",
+    "res enſeignes: mais déſ lors qu'elle com-",
+    "mẽça ſ'apperceuoir de la fraude, ſouhait-",
+    "ta cent mille fois la mort, laquelle euſt",
+    "ſur ſoy-meſmes executée ſans la crainte",
+    "de Dieu."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Bien que la mort ſoit la fin de tous maux, repos de",
+    "toute miſere, & fort bouleuert contre les calamitez de",
+    "ce monde."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Illa malis requiem finemq́; laboribus affert."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et par ainſi ne doyue eſtre reformidee d'vn homme de",
+    "bien ains pluſtoſt contemnee & meſpriſee {a2} & que Nu",
+    "mantius eſcriuãt à Marc Cicerõ, die qu'on doit ſouuẽt",
+    "deſirer vne mort honneſte, par laquelle l'homme fran-",
+    "chit innombrables perils & trauerſes de l'inconſtante",
+    "fortune de ce monde miſerable: tant ſ'en faut qu'on la"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "qu'elles croyent de leger, & ſont faciles à eſtre deceuës",
+   "lines": [
+    "Ariſtote au",
+    "cõmencement",
+    "du ix. liu. de",
+    "natura auiũ."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "Scilicet iſta fuit, veterum natura virorum,",
+   "lines": [
+    "Fauſtus au",
+    "iiij. de Liuie."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "Fallere fœmineum, credula corda genus {b}.",
+   "lines": [
+    "P. quæſitũ.",
+    "de æqua dor.",
+    "aux nouuelles",
+    "ſous la colla-",
+    "tion vij."
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "bien ains pluſtoſt contemnee & meſpriſee {a2} & que Nu",
+   "lines": [
+    "Ciceron au",
+    "v. & vj. liure",
+    "de ſes epiſt."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Scilicet iſta fuit, veterum natura virorum,",
+   "note": "initial v of 'veterum' and 'virorum' is the large italic swash v (looks like a capital V); transcribed lowercase"
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "que le priſonnier l'eſtoit, meſmes qu'il",
+   "note": "'priſonnier': second-last letter looks like c (priſonnicr), probably a poorly inked e; possible wrong sort"
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "donnoit pluſieurs priuées & particulie-",
+   "note": "'particulie-': the 'li' looks like 'h' (particuhe-), broken or wrong sort"
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "res enſeignes: mais déſ lors qu'elle com-",
+   "note": "'déſ': word-final s appears to be a long s; could be round s ('dés')"
+  },
+  {
+   "where": "blocks[9].lines[0]",
+   "text": "Illa malis requiem finemq́; laboribus affert.",
+   "note": "mark over the q of 'finemq' read as an acute (combining U+0301) before the semicolon sign; 'malis' final letter could be read 'malu'"
+  },
+  {
+   "where": "blocks[10].lines[0]",
+   "text": "Et par ainſi ne doyue eſtre reformidee d'vn homme de",
+   "note": "sic: 'doyue' (for 'doiue') as printed"
+  },
+  {
+   "where": "blocks[10].lines[1]",
+   "text": "bien ains pluſtoſt contemnee & meſpriſee {a2} & que Nu",
+   "note": "'bien': the i is damaged (looks like 'b:en'); marker alphabet restarts at a on this page, keyed a2"
+  },
+  {
+   "where": "blocks[10].lines[2]",
+   "text": "mantius eſcriuãt à Marc Cicerõ, die qu'on doit ſouuẽt",
+   "note": "sic: 'die' (for 'dit') as printed"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Fauſtus au",
+   "note": "reads 'Fauſtus' (us-ligature ending); could be 'Faſtus'/'Faſtorum' intended (Ovid's Fasti); transcribed as seen"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "ſous la colla-",
+   "note": "'la' looks like 'ta' in the print; possible wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "lement creu, & aſſeuré, que le priſonnier",
+   "note": "no preceding page context available; continues_prev assumed from the broken word 'lement'"
+  },
+  {
+   "where": "blocks",
+   "note": "spacing normalized per §1: print sets 'auonsſuffiſam-', 'creu,&', 'leger,&' tight; running head and the three headings are in spaced capitals, closed up. The marker alphabet restarts at 'a' under ANNOTAT. LXXVII, so the second 'a' is keyed a2."
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "res enſeignes: mais déſ lors qu'elle com-",
+   "note": "the word read 'dés' ends in a tall letter that looks like long s (or possibly l) rather than round s; transcribed 'déſ' as seen. sic?"
+  },
+  {
+   "where": "blocks[10].lines[2]",
+   "text": "mantius eſcriuãt à Marc Cicerõ, die qu'on doit ſouuẽt",
+   "note": "'die' appears printed with final e where sense wants 'dit'; wrong sort? sic. Tildes on 'eſcriuãt', 'Cicerõ', 'ſouuẽt' as seen."
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Scilicet iſta fuit, veterum natura virorum,",
+   "note": "italic swash lowercase v in 'veterum' and 'virorum' (not capitals); 'iſta' first letter may be dotless i."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Fauſtus au",
+   "note": "the ending of 'Fauſtus' is small/blotted italic; could be 'Fauſtu' with abbreviation. 'Liuie' read as printed."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "de æqua dor.",
+   "note": "'æqua' read with ae ligature; 'dor.' could be 'dot.'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "P. quæſitũ.",
+   "note": "swash italic P = paragraph sign per house ruling; the key 'c' is small and blotted."
+  },
+  {
+   "where": "blocks[9].lines[0]",
+   "note": "arbitration: undecided; alternatives: Illa malis requiem finemq́; laboribus affert. ||| Illa malis requiem finemq; laboribus affert.",
+   "escalate": false,
+   "text": "Illa malis requiem finemq́; laboribus affert."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[9].lines[0]",
+   "A": "Illa malis requiem finemq́; laboribus affert.",
+   "B": "Illa malis requiem finemq; laboribus affert.",
+   "chose": "carson-session",
+   "by": "auto",
+   "text": "Illa malis requiem finemq́; laboribus affert.",
+   "reason": "arbitration: either (auto-deferred)"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "A": "ſous la colla-",
+   "B": "ſous ta colla-",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "ſous la colla-",
+   "reason": "arbitration: A (translator: ſous la collation vij = 'under the seventh collation' of the Authenticum; ta is a misread of l as t and makes no sense.)"
+  }
+ ]
+}

@@ -149,5 +149,137 @@
    "where": "margin_notes / foot_notes",
    "note": "the page has no letter markers in the body, no marginal notes (the outer margin is blank for its whole height), no foot citation block, no running head, no printed folio, no signature and no catchword"
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].lines[0]",
+   "target": "blocks[2].lines[0]",
+   "spans": [
+    [
+     0,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "MArtin Guerre, du lieu d'Artigat en Gaſcongne, ayant vne belle ieune",
+   "b": "Martin Guerre, du lieu d'Artigat en Gaſcongne, ayant vne belle ieune",
+   "text": "MArtin Guerre, du lieu d'Artigat en Gaſcongne, ayant vne belle ieune",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "after the decorated initial the print sets a capital A ('Artin', pages/full/p000-argument.jpg y~690, 4x); the letters printed after the initial are kept as printed"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "target": "blocks[2].lines[3]",
+   "spans": [
+    [
+     42,
+     48
+    ]
+   ],
+   "aligned": true,
+   "a": "re, ſe preſente aux ſeurs, oncle, & parẽs dudit Martin, enſemble à ladite",
+   "b": "re, ſe preſente aux ſeurs, oncle, & parẽs dudit. Martin, enſemble à ladite",
+   "text": "re, ſe preſente aux ſeurs, oncle, & parẽs dudit. Martin, enſemble à ladite",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a round point is printed on the baseline between 'dudit' and 'Martin' (pages/full/p000-argument.jpg y~880, 4x); smaller than the point after 'dud.' on line 7 but a printed sort, not a speck"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "target": "blocks[2].lines[7]",
+   "spans": [
+    [
+     32,
+     41
+    ]
+   ],
+   "aligned": true,
+   "a": "uent: & eſt recognu de tous les habitans dud. Artigat, meſmement de lad. de Rols. auec",
+   "b": "uent: & eſt recognu de tous les habitans. dud. Artigat, meſmement de lad. de Rols. auec",
+   "text": "uent: & eſt recognu de tous les habitans. dud. Artigat, meſmement de lad. de Rols. auec",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a point of the same weight as the one after 'dud.' is printed after 'habitans' (pages/full/p000-argument.jpg y~1130, 4x); no point before 'lad.' later in the line"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "target": "blocks[2].lines[9]",
+   "spans": [
+    [
+     20,
+     32
+    ],
+    [
+     73,
+     80
+    ]
+   ],
+   "aligned": true,
+   "a": "poſture quelque peu deſcœuuerte, il eſt fait priſonnier par authorité du iugede Rieux, &",
+   "b": "poſture quelque peu deſcouuerte, il eſt fait priſonnier par authorité du iugede Rieux, &",
+   "text": "poſture quelque peu deſcouuerte, il eſt fait priſonnier par authorité du iuge de Rieux, &",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "'deſcouuerte': the sort after ſc is a single round bowl (o) at 8x (pages/full/p000-argument.jpg y~1260), not the two-bowled œ ligature of 'œuures'; B's reading. 'iugede' is set solid but 'iuge' and 'de' are distinct words, so split per §1 (both readers had it fused)"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "target": "blocks[2].lines[11]",
+   "spans": [
+    [
+     64,
+     69
+    ]
+   ],
+   "aligned": true,
+   "a": "ne & ouy: ſoutenãt touſiours, qu'il eſtoit Martin Guerre, comme auſsi faiſoient faire les",
+   "b": "ne & ouy: ſoutenãt touſiours, qu'il eſtoit Martin Guerre, comme auſſi faiſoient faire les",
+   "text": "ne & ouy: ſoutenãt touſiours, qu'il eſtoit Martin Guerre, comme auſsi faiſoient faire les",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "'auſsi' is set with the italic ſs ligature (long ſ joined to a round s, pages/full/p000-argument.jpg y~1385, 5x); §2 keeps ſs as printed"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "target": "blocks[2].lines[15]",
+   "spans": [
+    [
+     9,
+     20
+    ]
+   ],
+   "aligned": true,
+   "a": "grãde du priſonniér, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+   "b": "grãde du priſonnier, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+   "text": "grãde du priſonniér, auec ledit Martin, & du Tilh: la court eſtoit en merueillieuſe per-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a clear detached acute stands over the final e of 'priſonniér' (pages/full/p000-argument.jpg y~1640, 4x); sic"
+  },
+  {
+   "where": "blocks[2].lines[22]",
+   "target": "blocks[2].lines[22]",
+   "spans": [
+    [
+     10,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "œuures, & de lad. de Rols declarez legitimes. A l'execution duquel ledit du Tilh, con-",
+   "b": "œuures, & de. lad. de Rols declarez legitimes. A l'execution duquel ledit du Tilh, con-",
+   "text": "œuures, & de. lad. de Rols declarez legitimes. A l'execution duquel ledit du Tilh, con-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a well-inked round dot sits on the baseline immediately after the first 'de', below a raised tick over the e (pages/full/p000-argument.jpg y~2085, 7x); read as a printed point, the tick as a speck or displaced acute. Escalated with the rest of the cluster (see uncertain[])"
+  }
  ]
 }

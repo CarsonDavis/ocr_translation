@@ -9,11 +9,328 @@
   "image_no": 98,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/98"
  },
- "running_head": null,
+ "running_head": "ARREST DV.",
  "prev": "p075",
  "next": "p077",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "gument from the one to the other is by so much the better as the things have more nearly between them the fitting proportion; whence a rule in our law is drawn by our interpreters, that in things which are alike the argument from the one to the other is easy, as also in things unlike it is very difficult <sup class=\"mk\" data-key=\"b\">b</sup>. Wherefore, returning to the matter begun, between the prisoner and the sisters of Martin Guerre (of whom two were almost of like age with the same prisoner, and the other two came near it), the argument from likeness was without difficulty more proper than from a little child, such as the said Sanxi was, aged thirteen years only, to a man of thirty-five, such as the said prisoner was.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Digest 6.1 (<i>De rei vindicatione</i>), l. <i>In rem</i>, § <i>Item quaecumque</i> (cf. D. 6.1.23.3, Paul, on accessions joined to another thing; fragment identified with fair confidence, paragraph unverified); Digest 37.1 (<i>De bonorum possessionibus</i>), l. <i>Sed cum patrono</i> (fragment not identified)",
+     "original": "l. in rem. P. item quacun- que. D. de re. vend. l. ſed cũ patrono. D. de bono. poſſeſ.",
+     "gloss": "The glossators' rule drawn from these texts: <i>in similibus facilis, in dissimilibus difficilis est argumentatio</i> — argument from like to like is easy, from unlike to unlike hard. The `⟨alt⟩` at <i>item quacun-⟨alt:itam quæcun-⟩que</i> is taken as either: each reading has one wrong letter, and both resolve to <i>Item quaecumque</i>. The <i>P.</i> stands for the paragraph sign."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And as to saying that the said prisoner does not know how to speak the language of the Basques, the truth of the fact supplies the answer: for it results from the inquiries that Martin Guerre was brought a little child from his native land, and that he was then only two years old, or thereabouts",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LVI"
+  },
+  {
+   "type": "paragraph",
+   "html": "A child in Latin is called INFANS until the age of seven years <sup class=\"mk\" data-key=\"a\">a</sup>, as it were unable to speak (<i>quasi nescius fari</i>), that is to say, as not knowing how to speak: because, being in this tender age, he can scarcely yet untie his tongue to pronounce the words distinctly. Whence Chrysippus said that children who are already beginning to babble and to pronounce some words may be said almost to speak, but in truth they say nothing, nor speak at all. Thus one must not be astonished if, in the matter of which we treat, the prisoner, who had been brought very small, and at the age of little more than two years, from the Basque country, had not retained the language, which he never understood nor ever knew how to speak.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Accursius (<i>Accurſe</i>), the Gloss on Code 6.30 (<i>De iure deliberandi</i>), l. <i>Si infanti</i> (cf. C. 6.30.18, Theodosius and Valentinian, on the acquisition of an inheritance by an <i>infans</i>; number unverified); the Gloss on the Liber Sextus, VI 1.9 (<i>De temporibus ordinationum et qualitate ordinandorum</i>), c. <i>Nullus</i> (chapter number unverified)",
+     "original": "Accurſe en la l ſi infanti. C. de iur. de li bro. Gloſe au c. nullus de tẽpor. ordinand. au vj.",
+     "gloss": "Both glosses define <i>infans</i> as a child under seven, <i>qui fari non potest</i>; the print's <i>de li bro</i> is <i>de li[be]r[ando]</i>, <i>De iure deliberandi</i>, with a reflow gap."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Nor is it anything to the purpose, either, that the said du Tilh",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "gument de l'vn à l'autre, de tãt eſt meilleur que les cho",
+    "ſes de plus pres ont entr'elles la proportion cõuenable",
+    "d'où eſt tirée par nos interpretes vne reigle en noſtre",
+    "droict, qu'és choſes qui ſont ſemblables, l'argument",
+    "eſt aiſé de l'vne à l'autre comme auſſi és choſes diſſem-",
+    "blables, fort difficile {b}. Dont reuenant au propos enta-",
+    "mé entre le priſonnier, & les ſeurs de Martin Guerre",
+    "(deſquelles, deux eſtoyent auec iceluy priſonnier, preſ-",
+    "que de pareil aage, & les autres deux ſ'en approchoiẽt)",
+    "l'argument de la ſimilitude eſtoit ſans difficulté plus",
+    "propre que d'vn petit enfant, tel qu'eſtoit ledict Sanxi",
+    "aage de treze ans ſeulement, à vn homme de trentecinq",
+    "tel qu'eſtoit ledit priſonnier."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et de dire que ledit priſonnier ne ſçait",
+    "parler la langue de Baſcouz, la verité du",
+    "faict apporte la reſponſe. car reſulte. par",
+    "les enqueſtes, que Martin Guerre fut ap-",
+    "porté petit enfant de ſa patrie, & qu'il",
+    "n'auoit pour lors q̃ deux ans, ou enuiron"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Vn enfant en Latin eſt appelé INFANS iuſqu'a l'aa",
+    "ge de ſept ans {a}, quaſi neſcius fari c'eſt à dire comme ne",
+    "ſçachant parler: par ce qu'eſtant en ce bas aage, à peine",
+    "peut-il encore deſnouër ſa langue pour prononcer di-",
+    "ſertement les mots. Dont Chryſippe diſoit, que les en-",
+    "fans qui commencent deia à gazouiller, & prononcer",
+    "quelques paroles, peuuent eſtre dits preſque parler:",
+    "mais veritablement ils ne diſent rien, ni ne parlent",
+    "point. Par ainſi ne ſe faut eſbahir, ſi au fait duquel nous",
+    "traittons, le priſonnier qui auoit eſté apporté fort pe-",
+    "tit, & de l'aage peu plus de deux ans du pays des Baſ-",
+    "couz, n'auoit retenu le langage, qui n'entendit, ni ne",
+    "ſceut iamais parler."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ny fait rien auſsi, que ledit du Tilh"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. in rem. P.",
+    "item quacun-",
+    "que. D. de re.",
+    "vend. l. ſed cũ",
+    "patrono. D.",
+    "de bono. poſſeſ."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Accurſe en",
+    "la l ſi infanti.",
+    "C. de iur. de li",
+    "bro. Gloſe au",
+    "c. nullus de tẽ-",
+    "por. ordinand.",
+    "au vj."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "period printed after DV; kept as printed"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTE.",
+   "note": "final point after first TEXTE looks faintly like a comma in the read image; strip suggests a period"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "n'auoit pour lors q̃ deux ans, ou enuiron",
+   "note": "q with abbreviation mark above (= que); no punctuation after 'enuiron' at the end of the TEXTE passage"
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "ge de ſept ans {a}, quaſi neſcius fari c'eſt à dire comme ne",
+   "note": "'neſcius fari' in italic, blurred; marker a raised italic after 'ans'"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "fans qui commencent deia à gazouiller, & prononcer",
+   "note": "initial f of 'fans' damaged, reads like k; 'fans' taken from continuation 'en-/fans'"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. in rem. P.",
+   "note": "swash capital read as the paragraph sign; looks R-like in this print (house rule: transcribe as P)"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "item quacun-",
+   "note": "'item' first e looks like a turned/odd e; the a of 'quacun-' has a mark under it, could be æ or ę"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "la l ſi infanti.",
+   "note": "no point visible after 'l'"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "gument de l'vn à l'autre, de tãt eſt meilleur que les cho",
+   "note": "'meilleur': the u is malformed and could be a wrong sort (reads almost like 'meillear'); transcribed as the expected u"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "blables, fort difficile {b}. Dont reuenant au propos enta-",
+   "note": "marker b is the first marker on this page; a presumably fell on the preceding page (no context available to confirm)"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "mé entre le priſonnier, & les ſeurs de Martin Guerre",
+   "note": "'ſeurs' printed with a wide gap 'ſe urs'; closed up as one word (sœurs)"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "faict apporte la reſponſe. car reſulte. par",
+   "note": "'reſulte' printed with the l broken to an apostrophe-like stroke ('reſu'te'); a dot on the baseline stands before 'par' (period or stray spacing sort); transcribed as a period"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "n'auoit pour lors q̃ deux ans, ou enuiron",
+   "note": "q with an abbreviation stroke above (looks like an acute/tilde), rendered q̃; the TEXTE passage ends without terminal punctuation"
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "ge de ſept ans {a}, quaſi neſcius fari c'eſt à dire comme ne",
+   "note": "italic 'neſcius fari' poorly inked; initial of 'fari' could be ſ"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "peut-il encore deſnouër ſa langue pour prononcer di-",
+   "note": "line-end break sign printed as a dot-like mark at mid height; transcribed as hyphen"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "fans qui commencent deia à gazouiller, & prononcer",
+   "note": "initial f of 'fans' damaged, looks like a k"
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "point. Par ainſi ne ſe faut eſbahir, ſi au fait duquel nous",
+   "note": "the ſ of 'eſbahir' is damaged (looks like a slash)"
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "tit, & de l'aage peu plus de deux ans du pays des Baſ-",
+   "note": "line-end sign after 'Baſ' looks like a period/dot; taken as the word-break hyphen"
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "Ny fait rien auſsi, que ledit du Tilh",
+   "note": "read as long s + round s ('auſsi'), not ſſ"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. in rem. P.",
+   "note": "the sort after 'rem.' looks like a swash italic R; taken as the house swash P (paragraph sign)"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "C. de iur. de li",
+   "note": "'iur.' could be read 'tur.'; faint"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[1].text",
+   "target": "blocks[1].text",
+   "spans": [
+    [
+     0,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "TEXTE.",
+   "b": "TEXTE,",
+   "text": "TEXTE.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "target": "blocks[2].lines[2]",
+   "spans": [
+    [
+     31,
+     39
+    ]
+   ],
+   "aligned": true,
+   "a": "faict apporte la reſponſe. car reſu[?]te. par",
+   "b": "faict apporte la reſponſe. car reſulte. par",
+   "text": "faict apporte la reſponſe. car reſulte. par",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "reſulte = 'it results' (il resulte par les enquestes); reading A leaves a letter unread and no other word fits."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     0,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "item quacun-",
+   "b": "itam quæcun-",
+   "text": "item quacun-",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

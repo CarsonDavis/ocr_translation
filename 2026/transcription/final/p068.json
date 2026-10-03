@@ -1,0 +1,241 @@
+{
+ "id": "p068",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "ARREST DV",
+ "folio": "68",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "lité ſienne, qui eſtoit femme, laquelle ſ'efraye, & eſpou-",
+    "uante pour peu de choſe {e}, & ſi ſe laiſſe facilement per-",
+    "ſuader. & en elle, les perſuaſions n'ont pas moins de ver",
+    "tu, que menaces, ou force {f}. Ioinct auſſi qu'elle en fai-",
+    "ſoit iournellemẽt plainte cõtre ſeſd. paraſtre & mere {g}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Cinquiememẽt, ayant eſté le preuenu",
+    "pour autres faits conſtitué priſonnier par",
+    "authorité du Seneſchal de Toloſe, & à",
+    "la requeſte du Capdet Iean d'Eſcorne-",
+    "beuf: ſouſminiſtrant touſiours par deſ-",
+    "ſouz main toute faueur & aide ledit Pier",
+    "re Guerre, on luy auança ce fait auſsi: de-",
+    "quoy icelle de Rols, inceſſamment ſe",
+    "plaignoit contre leſd. Pierre Guerre, &",
+    "ſa femme, qui la vouloient contraindre",
+    "d'accuſer iceluy preuenu: deliberez de le",
+    "faire mourir, ou pour le moins, faire",
+    "mettre en Galere. Et quand fut ſorti",
+    "de priſon, en vertu de l'apointement de",
+    "contraires, donné par ledit Seneſchal,",
+    "eſtant de retour à Artigat, ladicte de",
+    "Rols le receut, & careſſa commẽ mari: &",
+    "dés qu'il fut arriué, luy bailla chemiſe blã",
+    "che, voire luy laua les pieds, & apres cou",
+    "cherent enſemble."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XLVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La ruſe de ce paillard eſt eſmerueillable, & telle, que",
+    "ſi iamais mal faicteur pouuoit meriter quelque excu-",
+    "ſe, pour eſtre excellent & ſouuerain en ſon eſpece d'ar-",
+    "tifice & meſchanceté, à ceſtuy-ci en ſeroit ſur tous au-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "e",
+   "beside_line": "uante pour peu de choſe {e}, & ſi ſe laiſſe facilement per-",
+   "lines": [
+    "La gloſe &",
+    "les Docteurs.",
+    "au c. cum locũ",
+    "de ſponſa."
+   ]
+  },
+  {
+   "key": "f",
+   "beside_line": "ſoit iournellemẽt plainte cõtre ſeſd. paraſtre & mere {g}.",
+   "lines": [
+    "l j. P. vſque",
+    "adeo. D. de in",
+    "ius. l. vnique.",
+    "en ces paroles,",
+    "Volẽtibus. C.",
+    "de rap. virgi."
+   ]
+  },
+  {
+   "key": "g",
+   "beside_line": "pour autres faits conſtitué priſonnier par",
+   "lines": [
+    "l. qui in",
+    "aliena. P. fin.",
+    "D. de aquir.",
+    "hære. & les",
+    "Interpretes."
+   ]
+  },
+  {
+   "key": "a",
+   "beside_line": "ſi iamais mal faicteur pouuoit meriter quelque excu-",
+   "lines": [
+    "l. ad beſtias",
+    "D. de pœn."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[4]",
+   "text": "La ruſe de ce paillard eſt eſmerueillable, & telle, que",
+   "note": "margin note with key 'a' (l. ad beſtias D. de pœn.) has no visible marker {a} anywhere in the four lines of ANNOT. XLVII on this page; the marker presumably falls on the next page, or was omitted by the printer.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "tifice & meſchanceté, à ceſtuy-ci en ſeroit ſur tous au-",
+   "note": "between 'ceſtuy' and 'ci' the print sets a small mid-height dot, the same sort used for the line-end hyphens on this page (eſpou·, excu·, d'ar·, au·); read as a hyphen. Could be a stray point."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "tu, que menaces, ou force {f}. Ioinct auſſi qu'elle en fai-",
+   "note": "the mark after 'tu' is small and tight; read as a comma, could be a semicolon."
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "Rols le receut, & careſſa commẽ mari: &",
+   "note": "the final e of 'commẽ' carries a flat bar with an ink blob above it; read as a tilde as printed (commẽ), but it may be an ink spot over a plain 'comme'."
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "dés qu'il fut arriué, luy bailla chemiſe blã",
+   "note": "the mark over the a of 'blã' is short and slanted like an acute; read as a tilde (blã-che = blanche)."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l j. P. vſque",
+   "note": "no point visible between 'l' and 'j'; transcribed as printed."
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "Volẽtibus. C.",
+   "note": "the print leaves a gap 'Volẽtib us' (one word, closed up); the mark over the e is read as a tilde."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "aliena. P. fin.",
+   "note": "the final letter of 'aliena' could be the æ ligature ('alienæ'), as in 'hære' two lines below."
+  },
+  {
+   "where": "margin_notes",
+   "text": "ſoit iournellemẽt plainte cõtre ſeſd. paraſtre & mere {g}.",
+   "note": "the margin run starts with note e; the note for marker d of p067 (last line of that page) does not appear on this page either."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "lité ſienne, qui eſtoit femme, laquelle ſ'efraye, & eſpou-",
+   "note": "line-end word-break sign is a raised dot rather than a dash; transcribed as '-' per §1. Page opens mid-word (qua|lité from p067)."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "ſoit iournellemẽt plainte cõtre ſeſd. paraſtre & mere {g}.",
+   "note": "'ſeſd.' read with long s initial (ses dits); compare 'leſd.' in blocks[2].lines[8]."
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "dés qu'il fut arriué, luy bailla chemiſe blã",
+   "note": "mark over the a of 'blã' is short and slanted, could be read as an acute (blá); taken as the tilde for blanche."
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "mettre en Galere. Et quand fut ſorti",
+   "note": "the t of 'Et' is worn and looks like r ('Er'), as t does elsewhere on this page; read Et."
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "tifice & meſchanceté, à ceſtuy-ci en ſeroit ſur tous au-",
+   "note": "'ceſtuy-ci' is joined by a raised dot (same sort as the line-end hyphens of this page); transcribed as hyphen. Line-end word-break also a raised dot."
+  },
+  {
+   "where": "margin_notes[3]",
+   "text": "l. ad beſtias",
+   "note": "note a (restart of the alphabet for ANNOT. XLVII) is printed beside the second line of the annotation, but no {a} marker is visible in the four body lines of the annotation on this page; the marker probably falls on p069 or was not printed."
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "Volẽtibus. C.",
+   "note": "print shows a gap inside the word ('Volẽtib us'); closed up as one word. Mark over e read as tilde (Volentibus)."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l j. P. vſque",
+   "note": "no point visible after the 'l'."
+  },
+  {
+   "where": "running_head",
+   "text": "ARREST DV",
+   "note": "a small mark (apostrophe-like) above/beside the A of the head; ignored as a speck."
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "note": "arbitration: unknown; alternatives: Rols le receut, & careſſa commẽ mari: & ||| Rols le receut, & careſſa comme mari: &",
+   "escalate": true,
+   "text": "Rols le receut, & careſſa commẽ mari: &"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[0].lines[3]",
+   "A": "tu, que menaces, ou force {f}. Ioinct auſſi qu'elle en fai-",
+   "B": "tu; que menaces, ou force {f}. Ioinct auſſi qu'elle en fai-",
+   "chose": "carson-session",
+   "text": "tu, que menaces, ou force {f}. Ioinct auſſi qu'elle en fai-",
+   "reason": "arbitration: A"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "A": "Rols le receut, & careſſa commẽ mari: &",
+   "B": "Rols le receut, & careſſa comme mari: &",
+   "chose": "carson-session",
+   "text": "Rols le receut, & careſſa commẽ mari: &",
+   "reason": "arbitration: unknown"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "A": "aliena. P. fin.",
+   "B": "alienæ. P. fin.",
+   "chose": "carson-session",
+   "text": "aliena. P. fin.",
+   "reason": "arbitration: A"
+  }
+ ]
+}

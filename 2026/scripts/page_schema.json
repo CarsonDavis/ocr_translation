@@ -275,6 +275,13 @@
       "carson-session"
      ]
     },
+    "by": {
+     "enum": [
+      "carson",
+      "auto",
+      "translator"
+     ]
+    },
     "text": {
      "type": "string"
     },

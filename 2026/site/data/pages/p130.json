@@ -9,11 +9,357 @@
   "image_no": 152,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/152"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p129",
  "next": "p131",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "of himself, of his posterity and of such tyrants, hanged with his feet uppermost and his head hanging over the river Pactolus, whose sand is of gold. Which Ovid eloquently expresses when he says <sup class=\"mk\" data-key=\"e\">e</sup>:",
+   "continued": true,
+   "notes": [
+    {
+     "key": "e",
+     "citation": "Ovid, <i>Ibis</i>, lines 299–300 (the numbering varies by edition)",
+     "original": "Onide in Ib.",
+     "gloss": "<i>Morte vel intereas capti suspensus Achaei, / qui miser aurifera teste pependit aqua</i>: the print's <i>Onide</i> is <i>Ouide</i>, and its <i>reſte</i> is the editions' <i>teste</i>."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Or may you perish by the death of captive Achaeus, hanged, who, wretched, hung by a rope over the gold-bearing water (<i>Morte vel intereas, capti suspensus Achaei, Qui miser aurifera reste pependit aqua</i>).",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "And in the books of the Roman Pontiffs it was ordained, among other things, that the bodies of the hanged, as abominable, should have no burial, but should be, as in disdain, thrown upon the ground, to be eaten and devoured by birds, dogs and other famished beasts.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And afterwards his body burnt.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XCIIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Rigour would certainly have commanded that he be burnt alive <sup class=\"mk\" data-key=\"a\">a</sup>; but to obviate some despair which might have overcome the temerity of this impostor, frantic and full of rage, the Court ordered that he should first be strangled. Wherein all judges shall be admonished not to exercise, without some great and notable cause, those cruel and brutal ferocities of burning or dismembering malefactors while fully alive. In which carnage, nevertheless, some who are bloodthirsty, inhumanly unnatural, and born, as it seems, to all rigour and ferocity, take such pleasure that one would never see them at ease or content except when they have thus fought against nature, and cruelly shed, by new and unheard-of punishments, the blood of their neighbour: and sometimes so furiously that the most barbarous and cruel tyrants would have horror of performing like acts. Which proceeds most often from a brutal nature, but sometimes from ignorance or from wickedness: for (besides that",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 48.13.7 (<i>Ad legem Iuliam peculatus et de sacrilegis</i>, l. <i>Sacrilegii</i>, Ulpian)",
+     "original": "l. ſacrilegij. D. ad l. Iul. pe cul.",
+     "gloss": "The proconsul fixes the penalty of sacrilege by the quality of the person and the circumstances: many have condemned the sacrilegious to the beasts, some have burnt them alive (<i>vivos exussisse</i>), others hanged them on the fork. Cited again at {h}."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Than an unskilled man, nothing is ever more unjust (<i>Homine imperito nunquam quicquam iniustius</i>) <sup class=\"mk\" data-key=\"b\">b</sup>),",
+   "continued": false,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Terence, <i>Adelphoe</i> (<i>The Brothers</i>), lines 98–99",
+     "original": "Terẽce aux Adelphes.",
+     "gloss": "<i>Homine imperito numquam quicquam iniustius, / qui nisi quod ipse fecit nil rectum putat</i>: nothing is more unjust than an ignorant man, who thinks nothing right but what he has done himself."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "just as the unskilled, under this pretext, think to cover their imperfection and ignorance, so the wicked also believe",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "de luy, de ſa poſterité, & de tels tyrans, pendu les pieds",
+    "contremont, & la teſte pendente ſur le fleuue de Pacto",
+    "lus, duquel le ſablon eſt d'or. Ce qu'Ouide diſertemẽt",
+    "exprime, quand il dit {e}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Morte vel intereas, capti ſuſpenſus Achæi,",
+    "Qui miſer aurifera, reſte pependit aqua."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et aux liures des Pontifes Romains, entre autres cho-",
+    "ſes eſtoit ordonné, que les corps des penduz, comme a-",
+    "bominables, n'euſſent point de ſepulture: ains fuſſent",
+    "comme par deſdain iettez ſur la terre, pour eſtre man-",
+    "gez, & deuorez des oiſeaux, chiens, & autres beſtes affa",
+    "mées."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Et ſon corps apres bruſlé."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XCIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La rigueur euſt certainement commandé de le fai-",
+    "re bruſler vif {a}, mais pour obuier à quelque deſeſpoir",
+    "qui euſt peu ſurmonter la temerité de ceſt impo-",
+    "ſteur: forcené, & plein de rage, la cour ordonna qu'il",
+    "fuſt au parauant eſtranglé. En quoy tous iuges ſeront",
+    "admõneſtez, de n'exercer point, ſans quelque grande &",
+    "notable cauſe, ces cruelles & brutales feritez, de bruſler,",
+    "ou deſmembrer les malfaicteurs, tous vifs. auquel car-",
+    "nage toutesfois quelques vns ſanguinaires, & inhumai",
+    "nement deſnaturez, & nez comme il ſemble à toute ri",
+    "gueur, & ferité, ſe plaiſent tellement qu'on ne les ver-",
+    "roit iamais aiſes, ni contens, que quand ils ont ainſi",
+    "combatu nature, & cruellement eſpandu par nouueaux",
+    "& inouys ſupplices, le ſang de leur prochain: & ſi furieu",
+    "ſement quelquefois, que les plus barbares & cruels ty-",
+    "rans auroyent horreur d'exercer actes ſemblables. Ce",
+    "que procede le plus ſouuent d'vne nature brutale, mais",
+    "quelquesfois d'ignorance, ou de mauuaiſtié: car (outre",
+    "que"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "Homine imperito, nunquam quicquam iniu-",
+    "ſtius {b})."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "comme les imperites, ſous ce pretexte penſent couurir",
+    "leur imperfection & ignorance. Les meſchans auſſi ne"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Onide in Ib."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. ſacrilegij.",
+    "D. ad l. Iul. pe",
+    "cul."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Terẽce aux",
+    "Adelphes."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "exprime, quand il dit {e}.",
+   "note": "marker key: the small raised letter after 'dit' and the key letter before the margin note ('Onide in Ib.') are both a small round/3-shaped italic sort; read as 'e', but 'z' (italic z) or 'c' are possible. No preceding page available to check the running alphabet; the annotation below restarts at a."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "exprime, quand il dit {e}.",
+   "note": "'quand': an ink blot covers the 'ua' of the word; reading from the visible q and 'nd' and sense"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Onide in Ib.",
+   "note": "second letter printed as n (two minims joined at the top), not u; transcribed as printed for 'Ouide' (sic, or small italic u read as n at this size)"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Morte vel intereas, capti ſuſpenſus Achæi,",
+   "note": "'vel': the initial is a large swash italic V-shaped sort; read as the word-initial lowercase v of the italic, but it may be intended as capital 'Vel'"
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "admõneſtez, de n'exercer point, ſans quelque grande &",
+   "note": "the 'm' before õ is broken and prints like 'ın' ('adınõneſtez'); read as admõneſtez"
+  },
+  {
+   "where": "blocks[6].lines[8]",
+   "text": "nage toutesfois quelques vns ſanguinaires, & inhumai",
+   "note": "the h of 'inhumai' is broken (prints like 'ıl.'); read as h"
+  },
+  {
+   "where": "blocks[6].lines[10]",
+   "text": "gueur, & ferité, ſe plaiſent tellement qu'on ne les ver-",
+   "note": "the comma after 'ferité' is set with a wide space before it; spacing normalized"
+  },
+  {
+   "where": "blocks[8].lines[1]",
+   "text": "leur imperfection & ignorance. Les meſchans auſſi ne",
+   "note": "print sets the word space misplaced: 'meſchansa uſſi'; word division normalized to 'meſchans auſſi'; the ſſ ligature is partly worn"
+  },
+  {
+   "where": "blocks[7].lines[1]",
+   "text": "ſtius {b}).",
+   "note": "the closing parenthesis follows the raised roman 'b' marker; the matching open parenthesis is 'car (outre' in the preceding paragraph"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ſacrilegij.",
+   "note": "final 'ij' printed as a y-shaped sort with two dots (ÿ); read as ij"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "Adelphes.",
+   "note": "a blot or stray sort (like 'w') precedes the A; the ending prints like 'phei' with a worn s; read 'Adelphes.'"
+  },
+  {
+   "where": "blocks[1].lines[1]",
+   "text": "Qui miſer aurifera, reſte pependit aqua.",
+   "note": "sic: 'reſte' for Ovid's 'teſte' (Ibis 300); comma after aurifera as printed"
+  },
+  {
+   "where": "blocks[3]",
+   "text": "TEXTE.",
+   "note": "last E looks like a damaged/wrong sort (B-like); read as E"
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "admõneſtez, de n'exercer point, ſans quelque grande &",
+   "note": "print shows 'adınõneſtez' (d + broken m/ın); read as admõneſtez"
+  },
+  {
+   "where": "blocks[6].lines[8]",
+   "text": "nage toutesfois quelques vns ſanguinaires, & inhumai",
+   "note": "'inhumai' damaged letters (looks like 'inlumai'); read inhumai"
+  },
+  {
+   "where": "blocks[6].lines[10]",
+   "text": "gueur, & ferité, ſe plaiſent tellement qu'on ne les ver-",
+   "note": "print has wide space before the comma after ferité (normalized)"
+  },
+  {
+   "where": "blocks[6].lines[16]",
+   "text": "que procede le plus ſouuent d'vne nature brutale, mais",
+   "note": "'que' as printed (sense expects 'qui'); not a sort error, kept"
+  },
+  {
+   "where": "blocks[7].lines[1]",
+   "text": "ſtius {b}).",
+   "note": "marker b printed raised inside the closing parenthesis; roman b, not italic"
+  },
+  {
+   "where": "blocks[8].lines[1]",
+   "text": "leur imperfection & ignorance. Les meſchans auſſi ne",
+   "note": "print misspaced 'meſchansa uſſi' (space after the a); word division normalized to 'meſchans auſſi'"
+  },
+  {
+   "where": "margin_notes[1]",
+   "text": "l. ſacrilegij.",
+   "note": "final ij printed as a ligature resembling ÿ"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "Adelphes.",
+   "note": "first letter smudged/doubled ('aAdelphes'?); read Adelphes"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[3]",
+   "target": "blocks[0].lines[3]",
+   "spans": [
+    [
+     22,
+     26
+    ]
+   ],
+   "aligned": true,
+   "a": "exprime, quand il dit {e}.",
+   "b": "exprime, quand il dit {t}.",
+   "text": "exprime, quand il dit {e}.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "The marginal note on p130 is keyed e and there is no note t; {e} matches the margin."
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "target": "blocks[1].lines[0]",
+   "spans": [
+    [
+     6,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "Morte vel intereas, capti ſuſpenſus Achæi,",
+   "b": "Morte Vel intereas, capti ſuſpenſus Achæi,",
+   "text": "Morte vel intereas, capti ſuſpenſus Achæi,",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "vel stands inside Ovid's verse (Morte vel intereas), where a lowercase word is expected; a capital V is unmotivated."
+  },
+  {
+   "where": "margin_notes[0]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "[e] Onide in Ib.",
+   "b": "[t] Ouide in Ib.",
+   "text": "[e] Onide in Ib.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

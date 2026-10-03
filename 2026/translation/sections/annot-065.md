@@ -1,0 +1,11 @@
+---
+id: annot-065
+pages: [p085]
+---
+⟦p085⟧In criminal causes, because the proofs must be certain, indubitable, and clearer than the day, the tendering of the oath is not received {a}; considering especially that if it had place in these matters, it would easily come about that crimes and calumnies, by the collusion of the parties, would be covered over and remain unpunished {b}.
+
+## Notes
+The print heads this annotation ANNOTAT. LXIIII. on p085. The marker alphabet restarts at *a*; the body carries {a} and {b}, both on p085, each served by a keyed note. Reflow gaps read through: *preu ues* (*preuues*), *col luſ.* (*colluſ.*) in the margin. The print's full stop after {a} ("n'eſt pas receuë {a}. attendu") is rendered by a semicolon, since the sentence continues. *Il conuient les preuues eſtre certaines, indubitables, & plus claires que le iour* → "the proofs must be certain, indubitable, and clearer than the day" — the words of the Code law cited (*indubitatis et luce clarioribus*); *la delation de ſerment* → "the tendering of the oath" (the *delatio iurisiurandi*, as at annot-044: one party offers to abide by the other's oath); *n'eſt pas receuë* → "is not received"; *attendu meſmement que* → "considering especially that"; *ſi elle auoit lieu* → "if it had place"; *calomnies* → "calumnies" (false accusations); *colluſion des parties* → "collusion of the parties" (accuser and accused agreeing that the accused shall swear himself clear); *ſe couuriroient* → "would be covered over"; *demeureroyent impunies* → "would remain unpunished".
+
+- {a} (p085): **Code 4.19 (*De probationibus*), the last law, l. *Sciant cuncti* (C. 4.19.25, Constantine)** — l. fin. C. de proba. [Accusers must bring a matter to public cognisance fortified by fit witnesses, or by the plainest documents, or by indications *ad probationem indubitatis et luce clarioribus* — "indubitable for proof and clearer than daylight"; Coras's "clearer than the day" is this phrase.]
+- {b} (p085): **Decretals X 5.22 (*De collusione detegenda*), c. 1 and the whole title** — c j. & tout le titre, de col luſ. detegend [The title on detecting collusion between the parties to a suit, where the accused and accuser agree to a feigned contest; its first chapter annuls a sentence obtained by such collusion.]

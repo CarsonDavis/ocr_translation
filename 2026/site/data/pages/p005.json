@@ -304,5 +304,200 @@
    "text": "ſi ergo.",
    "note": "the last letter of 'ergo' is a small bowl whose right half is under a heavy ink blot; o (reader A) or a (reader B) cannot be distinguished from the glyph. Read 'ergo' from the citation (note d 'Si ergo contigerit'). Pointer: pages/full/p005.jpg x~2090-2280, y~3345-3400 (margin strip, last note line). | Carson-session 2026-09-21: last bowl under a blot; `ergo.` per the standard citation form"
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "léSanxi, encore viuant: mais pour quel-",
+   "b": "léSanxi, encore viuant: mais pour quel-",
+   "text": "lé Sanxi, encore viuant: mais pour quel-",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both readers kept 'lé' and 'Sanxi' fused (set touching); distinct words, one space per §1"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "target": "blocks[0].lines[2]",
+   "spans": [
+    [
+     33,
+     40
+    ]
+   ],
+   "aligned": true,
+   "a": "auoit fait à ſon pere, ſe ſeroit abſenté du",
+   "b": "auoit fait à ſon pere, ſe ſeroit abſentè du",
+   "text": "auoit fait à ſon pere, ſe ſeroit abſenté du",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the accent over the final e rises from lower left to upper right (pages/full/p005.jpg y~580, 5x): an acute, the same orientation as 'demeuré' on the next line"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "target": "blocks[2].lines[12]",
+   "spans": [
+    [
+     33,
+     43
+    ]
+   ],
+   "aligned": true,
+   "a": "… rẽdu luymeſmes coulpable du",
+   "b": "… rẽdu luymeſmes coulpable du",
+   "text": "occaſiõs, & par ainſi s'eſt rẽdu luy meſmes coulpable du",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both readers fused 'luy meſmes' (cf. 'ſi luy meſmes' on line 16 spaced); split per §1"
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "target": "margin_notes[0].lines[4]",
+   "spans": [
+    [
+     4,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "les duquelſont",
+   "b": "les duquelſont",
+   "text": "les duquel ſont",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both readers fused 'duquel' and 'ſont'; distinct words, split per §1"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "target": "margin_notes[1].lines[0]",
+   "spans": [
+    [
+     7,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "Pierre deRa",
+   "b": "Pierre deRa",
+   "text": "Pierre de Ra",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both readers fused 'de' and 'Ra' (line-end squeeze); distinct words, split per §1"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "target": "margin_notes[3].lines[3]",
+   "spans": [
+    [
+     2,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "& auie. aux",
+   "b": "& auia. aux",
+   "text": "& auiæ. aux",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the final glyph is the æ ligature, an a-bowl joined to an e (pages/full/p005.jpg y~2870, 8x): 'auiæ' (aviae)"
+  },
+  {
+   "where": "margin_notes[3].lines[4]",
+   "target": "margin_notes[3].lines[4]",
+   "spans": [
+    [
+     0,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "nouuellesde Iu",
+   "b": "nouuellesde Iu",
+   "text": "nouuelles de Iu",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both readers fused 'nouuelles' and 'de'; distinct words, split per §1"
+  },
+  {
+   "where": "margin_notes[3].lines[5]",
+   "target": "margin_notes[3].lines[5]",
+   "spans": [
+    [
+     13,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "ſtiniẽ, ſous Ia",
+   "b": "ſtiniẽ, ſous la",
+   "text": "ſtiniẽ, ſous Ia",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the sort is a straight upright stroke with top and bottom serifs, the capital I (pages/full/p005.jpg y~2985, 4x), not the looped italic l of 'collation' below; transcribed as the glyph printed, sense 'la'"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "target": "margin_notes[4].lines[0]",
+   "spans": [
+    [
+     3,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "L. Conſenu-",
+   "b": "L. Conſenſu-",
+   "text": "L. Conſenu-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "after 'Conſe' the print has n then a single swashed u and the hyphen; no second long ſ at 8x (pages/full/p005.jpg y~3100). sic for 'Conſenſu'"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "target": "margin_notes[5].lines[1]",
+   "spans": [
+    [
+     3,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "ſi ergo.",
+   "b": "ſi erga.",
+   "text": "ſi ergo.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the last letter is a small bowl whose right side is covered by a heavy blot (pages/full/p005.jpg y~3370, 8x); o or a cannot be told apart from the glyph, so the reading follows the citation ('Si ergo', as in note d). Escalated"
+  },
+  {
+   "where": "margin_notes[3].beside_line",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "dehors, ne la peut repudier, par ce (dit Iuſtinien) que luy",
+   "b": "meſmes eſt autheur de ceſte faute {f}. Mais ſi ceſte opiniõ",
+   "text": "meſmes eſt autheur de ceſte faute {f}. Mais ſi ceſte opiniõ",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the first line of note d ('Paragra. Si') sits nearer the body line 'meſmes eſt autheur' than 'dehors, ne la peut' in pages/read/p005.jpg"
+  }
  ]
 }

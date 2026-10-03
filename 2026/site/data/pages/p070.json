@@ -9,11 +9,274 @@
   "image_no": 92,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/92"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p069",
  "next": "p071",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "been ratified by the said de Rols, and so all that had been done by him was confirmed and approved <sup class=\"mk\" data-key=\"e\">e</sup>; considering singularly that the acts of attorney done by the said Guerre, before the charge or procuration of the said de Rols, were done by authority of the Judge of Rieux — which comes into some consideration: for if they had been done by authority of the Court, that might have admitted of some doubt, inasmuch as the law holds in such great horror and detestation obreption, and a fault committed in the consistory of the prince <sup class=\"mk\" data-key=\"f\">f</sup>, that what is done by a false attorney in the audience-chamber of the prince cannot (as many think) be confirmed by any subsequent ratification <sup class=\"mk\" data-key=\"g\">g</sup>,",
+   "continued": true,
+   "notes": [
+    {
+     "key": "e",
+     "citation": "Digest 5.1 (<i>De iudiciis</i>), l. <i>Licet</i> (fragment not identified); Digest 46.8 (<i>Ratam rem haberi et de ratihabitione</i>), l. 3, § <i>Falsus</i> (cf. D. 46.8.3; paragraph unverified)",
+     "original": "l. licet. D. de Iud. l. iij. P. fal ſus. D. rem ra. hab.",
+     "gloss": "Ratification by the principal cures the acts of a false procurator: <i>ratihabitio mandato comparatur</i>."
+    },
+    {
+     "key": "f",
+     "citation": "Code 7.10 (<i>De his qui a non domino manumissi sunt</i>), the last law (cf. C. 7.10.7, Justinian; unverified)",
+     "original": "l. finale. C. de ius qui à nõ do. man.",
+     "gloss": "The print's <i>de ius qui</i> is <i>de iis qui</i>. Cited for the law's severity towards a fraud practised in the emperor's consistory."
+    },
+    {
+     "key": "g",
+     "citation": "Baldus (<i>Balde</i>) on Code 6.2 (<i>De furtis</i>), l. <i>Falsus</i> (as note <i>c</i>); Panormitanus (<i>Panorme</i>, Niccolò de' Tudeschi) on Decretals X 1.3 (<i>De rescriptis</i>), c. <i>Nonnulli</i> (cf. X 1.3.28; number unverified), § <i>Sunt et alii</i>",
+     "original": "Balde en la l. falſus. C. de fur. Panorme au c. nonnulli. P. ſunt &amp; a iij. de reſcrip.",
+     "gloss": "The print's <i>a iij.</i> is read as <i>alij</i>. On rescripts and acts obtained in the prince's court by obreption, which, in the opinion Coras reports, no later ratification can confirm."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Which in all likelihood did not proceed from the said de Rols, for the reasons above; and considering likewise the good offices she had used towards the prisoner the night before. For immediately after he was retaken, she sent him his clothing, and money to live on.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XLIX"
+  },
+  {
+   "type": "paragraph",
+   "html": "It was not then a sign that the said de Rols wished at that time to be the party against the said accused, nor that she thought him other than Martin Guerre, since she succoured him so obligingly.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE,"
+  },
+  {
+   "type": "paragraph",
+   "html": "And to this opinion, that the prisoner was Martin Guerre, the Court had great reason to incline: not only for what has been said, but moreover because this opinion favoured the marriage, the children who are",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "eſté ratifié par ladite de Rols: & par ainſi tout ce qu'a-",
+    "uoit eſté fait par luy cõfirmé, & approuué {e}. attendu ſin",
+    "gulierement que les actes de procureur, faits par ledit",
+    "Guerre, auant la charge ou procuration de ladite de",
+    "Rols, ont eſté faits par authorité du Iuge de Rieux: ce",
+    "que vient en quelque conſideration: car ſ'ils auoiẽt eſté",
+    "faits par authorité de la cour, cela euſt peu receuoir",
+    "quelque doute: partant que la loy a en ſi grande horreur",
+    "& deteſtation l'obreption, & faute cõmiſe au cõſiſtoire",
+    "du prince {f}, que ce qui eſt fait par vn procueur faux en",
+    "l'auditoire du prince, ne peut eſtre (ainſi que pluſieurs",
+    "penſent) confirmé par aucune ratification ſuyuante {g},"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ce que vray-ſemblablement ne pro-",
+    "cedoit de ladite de Rols, pour les raiſons",
+    "que deſſus: & attendu meſmement les",
+    "offices, deſquelles elle auoit vſé enuers",
+    "le priſonnier la nuict au parauant. Car in",
+    "continent apres qu'il fut reprins, elle luy",
+    "enuoya ſes accouſtremens, & de l'ar-",
+    "gent pour viure."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ce n'eſtoit pas donc ſigne que ladite de Rols vou-",
+    "luſt pour lors faire partie audit preuenu: ni qu'elle le",
+    "penſaſt autre que Martin Guerre, puis qu'elle le ſecou-",
+    "roit ſi officieuſement."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE,",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et en ceſte ſentence, que le priſon-",
+    "nier fuſt Martin Guerre, la cour a-",
+    "uoit grande raiſon d'incliner: non ſeu-",
+    "lement pource que dit eſt, mais pour",
+    "autant encor, que ceſte opinion fauori-",
+    "ſoit le mariage, les enfans qui en ſont"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. licet. D. de",
+    "Iud. l. iij. P. fal",
+    "ſus. D. rem ra.",
+    "hab."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. finale. C.",
+    "de ius qui à nõ",
+    "do. man."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Balde en la",
+    "l. falſus. C. de",
+    "fur. Panorme",
+    "au c. nonnul-",
+    "li. P. ſunt & a",
+    "iij. de reſcrip."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "e",
+   "note": "key letter of the first margin note is blotted; read as 'e' from the body marker after 'approuué'"
+  },
+  {
+   "where": "margin_notes[0].lines",
+   "text": "D.",
+   "note": "swash italic D (Digest siglum) transcribed as plain D; P is the swash paragraph sort as printed"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "faits par authorité de la cour, cela euſt peu receuoir",
+   "note": "first letter of 'faits' looks like a broken f resembling 't' ('taits'); read as 'faits'"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "du prince {f}, que ce qui eſt fait par vn procueur faux en",
+   "note": "sic: 'procueur' for 'procureur'"
+  },
+  {
+   "where": "blocks[3].text",
+   "text": "ANNOTAT. XLIX.",
+   "note": "the I of XLIX is printed as a damaged sort resembling '!'; numeral read as XLIX"
+  },
+  {
+   "where": "blocks[5].text",
+   "text": "TEXTE,",
+   "note": "final point of the heading looks like a comma, not a period"
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "uoit grande raiſon d'incliner: non ſeu-",
+   "note": "line-end break sign is a raised dot rather than a clear hyphen"
+  },
+  {
+   "where": "margin_notes[2].lines[4]",
+   "text": "li. P. ſunt & a",
+   "note": "'&' is the italic et-sign; 'a' could be 'à' (accent not visible)"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "du prince {f}, que ce qui eſt fait par vn procueur faux en",
+   "note": "sic: 'procueur' for 'procureur' as printed"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "que vient en quelque conſideration: car ſ'ils auoiẽt eſté",
+   "note": "'que vient' as printed (sense wants 'qui'); not a doubtful reading"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "cedoit de ladite de Rols, pour les raiſons",
+   "note": "punctuation after 'Rols' is a comma with a speck above; could be read as ';'"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "roit ſi officieuſement.",
+   "note": "final mark read as period; slight tail, could be a comma"
+  },
+  {
+   "where": "blocks[5].text",
+   "text": "TEXTE,",
+   "note": "final mark after TEXTE looks like a comma (sic?), not the usual period"
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "uoit grande raiſon d'incliner: non ſeu-",
+   "note": "line-end break sign printed as a raised dot, transcribed '-'"
+  },
+  {
+   "where": "margin_notes[2].lines[5]",
+   "text": "iij. de reſcrip.",
+   "note": "first letters blotted; 'iij.' probable"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "do. man.",
+   "note": "the point between 'do' and 'man' is faint"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[3].text",
+   "target": "blocks[3].text",
+   "spans": [
+    [
+     9,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "ANNOTAT. XLIX.",
+   "b": "ANNOTAT. XLIX,",
+   "text": "ANNOTAT. XLIX.",
+   "chose": "A",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  }
+ ]
 }

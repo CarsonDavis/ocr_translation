@@ -9,11 +9,232 @@
   "image_no": 104,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/104"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p081",
  "next": "p083",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "is no new thing that two persons should resemble each other, not only in the features and lineaments of the face, but also in certain particular signs of the body.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXI"
+  },
+  {
+   "type": "paragraph",
+   "html": "That it is so: Sura, a Roman, being proconsul in Sicily, found there a poor fisherman altogether like him, not only in the bulk and stature of the body, in the features of the mouth and the lineaments of the face, but also in his gestures and bearing, and in I know not what opening of the mouth which the said Sura had, proper and particular to himself, in laughing or in speaking — nay, even in being a stammerer, like him <sup class=\"mk\" data-key=\"a\">a</sup>. So it was with the father of the great Pompey and his cook, as we shall say hereafter <sup class=\"mk\" data-key=\"b\">b</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Pliny, <i>Natural History</i> VII.10 (§55, the Sicilian fisherman who resembled the proconsul Sura even to the stammer; the chapter is c. 12 in the old division, so the printed c. xxiij is probably a slip); Valerius Maximus, <i>Memorable Doings and Sayings</i> IX.14 (<i>De similitudine formae</i>; Coras's c. 15 in the old numbering, printed <i>vx</i> for <i>xv</i>)",
+     "original": "Pline au li. vij. c. xxiij. Va lere au liu. ix. c. vx.",
+     "gloss": "Pliny: the resemblance extended to the gaping of the mouth and the hesitation of the tongue; Valerius tells the retort about Sura's father (cf. annot-005 {f})."
+    },
+    {
+     "key": "b",
+     "citation": "Coras's own Annotation LXIII, as printed; the matter of Pompey's father and his cook Menogenes is in fact told in Annotation LXII (p084)",
+     "original": "En l'annota tion lxiij.",
+     "gloss": "The cross-reference is off by one; the story is in the annotation numbered LXII in this edition."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And as to the argument that by the inquiries it is reported that the rumour at the said place of Artigat is that Pierre Guerre and his sons-in-law were constraining the said de Rols to carry on the prosecution: it is answered that proof by rumour and common repute is not received, save in certain cases which could not be made to fit here.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Inasmuch as the wicked, the too licentious and the virulent have never spared their stinking and infected tongues to detract from people of worth and virtue, it has often been seen to happen that by their venomous slanders a man of worth has been defamed of a deed which he would not have thought of for his life; and nevertheless such a rumour, unjustly spread abroad, marked him in the eyes of many persons too prone to think ill of their neighbour — upon whose opinion alone, however, it would not be reasona",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "n'eſt pas choſe nouuelle, que deux per-",
+    "ſonnes ſe rapportent, non ſeulement",
+    "des traicts, & lineamens du viſaige: mais",
+    "encore de quelques ſignes particuliers",
+    "du corps."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Qu'il ſoit ainſi, Sura Romain, eſtant procouſul en",
+    "Sicile, trouua illec vn pauure peſcheur, du tout à luy",
+    "ſemblable: non ſeulement de la groſſeur & grandeur",
+    "du corps, des traicts de la bouche, & lineamens du viſa-",
+    "ge: mais auſſi des geſtes, & contenances, & de ie ne ſçay",
+    "quelle ouuerture de bouche, qu'iceluy Sura auoit pro",
+    "pre & particuliere en riant, ou en parlant. voire d'eſtre",
+    "begue, comme luy {a}. Ainſi eſtoit du pere du grand Põ-",
+    "pée, auec ſon cuiſinier. Comme nous dirons ci apres {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et de dire, que par les enqueſtes eſt rap",
+    "porté le bruit eſtre audit lieu d'Artigat,",
+    "que Pierre Guerre, & ſes gendres, con-",
+    "traignoyent ladite de Rols faire la pour-",
+    "ſuite: eſt reſpondu, que la preuue par",
+    "bruit & fame n'eſt pas receuë, ſinon en",
+    "certains cas, qui ne ſe pourroient accom-",
+    "moder ici."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Partant que les mauuais, trop licencieux, & virulẽts",
+    "n'ont iamais eſpargné leur puante & infecte langue, à",
+    "detracter des gens de bien & de vertu, on a veu ſou-",
+    "uent aduenir, que par leurs venimeuſes maledicences,",
+    "vn homme de bien a eſté diffamé d'vn fait, auquel il",
+    "n'euſt voulu penſer pour ſa vie. & neantmoins tel bruit",
+    "iniuſtement eſpandu, le notoit enuers pluſieurs perſon-",
+    "nes trop procliues à mal ſentir de leur prochain: ſelon",
+    "l'opinion ſeule deſquelles pourtant ne ſeroit raiſonna-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Pline au li.",
+    "vij. c. xxiij. Va",
+    "lere au liu. ix.",
+    "c. vx."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "En l'annota",
+    "tion lxiij."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "n'eſt pas choſe nouuelle, que deux per-",
+   "note": "first line of page; continues_prev assumed true (no preceding page context available)"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "des traicts, & lineamens du viſaige: mais",
+   "note": "a small dot sits low between 'lineamens' and 'du'; taken as a stray mark, not a period"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Qu'il ſoit ainſi, Sura Romain, eſtant procouſul en",
+   "note": "sic: 'procouſul' (u for n, = proconſul) as printed"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "ſemblable: non ſeulement de la groſſeur & grandeur",
+   "note": "raised dot between 'la' and 'groſſeur' taken as stray; 'groſſeur' read as ſſ ligature"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "ge: mais auſſi des geſtes, & contenances, & de ie ne ſçay",
+   "note": "'auſſi' read as ſſ ligature, could be 'auſsi'"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "bruit & fame n'eſt pas receuë, ſinon en",
+   "note": "space before comma after 'receuë' in print; normalized"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "c. vx.",
+   "note": "sic: 'vx' as printed (probably for xv)"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "tion lxiij.",
+   "note": "numeral read 'lxiij' (l x i + ij ligature); could be 'lxij'"
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "detracter des gens de bien & de vertu, on a veu ſou-",
+   "note": "line-end sign after 'ſou' looks like a raised dot; transcribed as hyphen"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "n'eſt pas choſe nouuelle, que deux per-",
+   "note": "apostrophe after n is printed slanting like a grave accent; transcribed as '"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "des traicts, & lineamens du viſaige: mais",
+   "note": "a small dot sits between 'lineamens' and 'du'; read as a stray spacing mark, not a period; could be 'lineamens. du'"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "ſemblable: non ſeulement de la groſſeur & grandeur",
+   "note": "raised dot between 'la' and 'groſſeur', treated as spacing material; 'groſſeur' read as ſſ"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "ge: mais auſſi des geſtes, & contenances, & de ie ne ſçay",
+   "note": "'ge:' punctuation after ge looks like a colon (two dots); 'auſſi' read as ſſ ligature"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "c. vx.",
+   "note": "sic: 'vx' as printed (presumably for xv)"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "tion lxiij.",
+   "note": "final 'ij' could be read as 'ÿ'-like sort; transcribed lxiij"
+  }
+ ],
+ "readings": []
 }

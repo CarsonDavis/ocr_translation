@@ -9,11 +9,492 @@
   "image_no": 63,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/63"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p042",
  "next": "p044",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "are worthy of great praise. But taking up again our track and the path of our discourse: the men who have thus their shameful parts cut off, because they are deprived not only of the generative power, but also of being able to approach a woman <sup class=\"mk\" data-key=\"z\">z</sup>, cannot in any way contract marriage <sup class=\"mk\" data-key=\"a\">a</sup>. Secret and hidden impotence is that which proceeds from bewitchment and sorcery <sup class=\"mk\" data-key=\"b\">b</sup>, by which a man is sometimes rendered impotent toward all women, one excepted (she, perhaps, who has given him the morsel or worked the spell), sometimes toward one only, and able to have to do with all the others <sup class=\"mk\" data-key=\"c\">c</sup>: a thing certainly little credible, if by innumerable experiences we had not some certainty of it. Now such an enchantment is not perpetual, because it can be removed, either by an interval of time, or by a contrary bewitchment, or even (and very often in our Gascony) by him who has made and ordained it <sup class=\"mk\" data-key=\"d\">d</sup>; for, as the Philosophers say, in human acts everything that can be bound can be unbound and dissolved <sup class=\"mk\" data-key=\"e\">e</sup>. Whence it must undoubtedly be believed that such an impediment does not suffice to undo a marriage already contracted <sup class=\"mk\" data-key=\"f\">f</sup>, unless it be after three years from the day of the nuptials, from which time, if the marriage has not been able to be consummated by carnal work, the law presumes the impediment to be perpetual <sup class=\"mk\" data-key=\"g\">g</sup>; true it is that some have further doubted whether this impotence was a sufficient cause to dissolve the marriage, seeing that God permits separation only for lechery and adultery <sup class=\"mk\" data-key=\"h\">h</sup>. A great and true reason, where the marriage should once have been consummated by carnal cohabitation <sup class=\"mk\" data-key=\"i\">i</sup>; but before the consummation it is without difficulty lawful for the wife (whose husband has not the power of a man) to leave him and take another <sup class=\"mk\" data-key=\"k\">k</sup>. There are nevertheless found some so well born, modest and honest, and who so well confine the dissolute affections of the flesh, that when any lascivious desire attempts to make a breach in their continence and modesty, it is at once extinguished and deadened; and so much so that several have remained three, four, five, nay eight and nine years (like",
+   "continued": true,
+   "notes": [
+    {
+     "key": "z",
+     "citation": "Institutes 1.11.9 (<i>De adoptionibus</i>, § <i>Sed et illud</i>)",
+     "original": "P. ſed per illud. de adop.",
+     "gloss": "<i>Spadones</i> may adopt, since they can be presumed to beget; <i>castrati</i> cannot. The print's <i>per</i> is <i>et</i>."
+    },
+    {
+     "key": "a",
+     "citation": "Digest 23.3.39.1 (<i>De iure dotium</i>, l. <i>Si serva</i>, § <i>Si spadoni</i>)",
+     "original": "l. ſi ſerua. P. ſi ſpadoni. D. de iur. dot.",
+     "gloss": "Ulpian: if a woman marries a <i>spado</i>, one must distinguish whether he is castrated; if he is, there is no dowry, because there is no marriage."
+    },
+    {
+     "key": "b",
+     "citation": "Decretum, C. 26 q. 5, last canon, at § <i>Ad haec omnia</i> (cf. C. 26 q. 5 c. 14 <i>Nec mirum</i>; number unverified); Decretum, C. 33 q. 1 c. 2 (<i>Si per sortiarias</i>, printed <i>ſociarias</i>)",
+     "original": "c. ſin. P. ad hæc omnia. xxvj. q. v. c. ſi per ſociarias xxxiij. q. j.",
+     "gloss": "The canonical texts on sorcery and on impotence worked by <i>maleficium</i>."
+    },
+    {
+     "key": "c",
+     "citation": "Decretals, X 4.15 (<i>De frigidis et maleficiatis</i>), last chapter, and the Gloss there",
+     "original": "c. fina &amp; il lec la Gloſe de frig. &amp; ma",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "citation": "Decretals, X 4.15, c. <i>Fraternitatis</i> and the Gloss there, and the last chapter of the same title",
+     "original": "c. fraternitatis. &amp; illec la Gloſe. &amp; c. final. de frig. &amp; mal.",
+     "gloss": null
+    },
+    {
+     "key": "e",
+     "citation": "Novel 22 (<i>De nuptiis</i>, coll. 4), § <i>Nuptias</i> (cf. Nov. 22 pr.: what is bound is soluble; number unverified)",
+     "original": "P. nuptias. au titre de nu ptijs. des nou uelles de Iuſti nien. ſous la collation iiij.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Decretals, X 4.15, c. <i>Fraternitatis</i>, cited above, and the Gloss there; and the last chapter of the same title",
+     "original": "c. fraternitatis. preallegué. &amp; illec la Glo. &amp; au cfinal. de frig. &amp; mal.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "citation": "Decretals, X 4.15, last chapter, and Decretum, C. 33 q. 1 c. 2 (<i>Si per sortiarias</i>), cited above (note <i>a</i>)",
+     "original": "Au c. fin &amp; c ſi per ſortia rias. deſſus al leguez.",
+     "gloss": null
+    },
+    {
+     "key": "h",
+     "citation": "Matthew 19 (19:9); 1 Corinthians 7 (7:10–11)",
+     "original": "S. Matth. c. xix. la i. es. Corint. c. vij.",
+     "gloss": "Divorce forbidden except for fornication."
+    },
+    {
+     "key": "i",
+     "citation": "Decretum, C. 33 q. 1 c. 1 (<i>Requisisti</i>)",
+     "original": "c. i. xxxiij. q. i.",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "citation": "Decretum, C. 27 q. 2, c. <i>Quod autem</i> (canon number unverified; the question treats marriage before and after consummation)",
+     "original": "c. quod au tem. P. xxvij q. ij.",
+     "gloss": null
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "ſont dignes de louange grande. Mais reprenans nos",
+    "erres, & le ſentier de noſtre propos, les hommes, qui",
+    "ont ainſi leurs parties honteuſes coupées, par ce qu'il",
+    "ſont priuez non ſeulement de vertu generatiue, mais",
+    "encor de ſe pouuoir approcher de femme {z}, ne peu",
+    "uent contracter aucunement mariage {a}. L'impuiſſance",
+    "ſecrette & cachée, eſt celle qui procede d'enſorcel-",
+    "lement, & malefice {b}, par lequel l'homme eſt rendu",
+    "quelquesfois impuiſſant enuers toutes femmes, vne",
+    "exceptee, (celle peut eſtre qui luy a donné le morceau",
+    "ou fait le malefice.) quelquesfois enuers vne ſeule:",
+    "& puiſſant de participer auec toutes les autres {c}. cho-",
+    "ſe certainement peu croyable, ſi par innombrables ex-",
+    "periences n'en auons quelque certitude. Or tel en-",
+    "chantement n'eſt perpetuel: par ce qu'il peut eſtre",
+    "oſté, ou par interualle de temps, ou par contraire en-",
+    "ſorcellement, ou meſmes (& bien ſouuent en noſtre",
+    "Gaſcongne) par celuy qui la fait & ordonné {d}. car com-",
+    "me diſent les Philoſophes, és actes humains, toute cho",
+    "ſe qui ſe peut lier, ſe peur deſlier, & diſſouldre {e}. Dont",
+    "faut indubitablement croire, que tel empeſchement",
+    "ne ſuffit point pour deffaire le mariage ja contracté {f}.",
+    "ſi ce n'eſt apres trois ans, du iour des nopces, depuis",
+    "lequel temps, ſi le mariage n'a peu eſtre conſommé",
+    "par œuure charnelle, la loy preſume l'empeſchement",
+    "eſtre perpetuel {g}: vray eſt que quelques vns ont en-",
+    "cor doubté, ſi ceſte impuiſſance eſtoit ſuffiſante cau-",
+    "ſe pour! diſſouldre le mariage: attendu que Dieu ne",
+    "permet la ſeparation, que pour paillardiſe & adulte-",
+    "re {h}. Raiſon grande & veritable, ou le mariage auroit",
+    "vne fois conſommé, par cohabitation charnelle {i}:",
+    "mais deuant la conſommation, il eſt ſans difficul-",
+    "té loiſible a la femme (de laquelle le mari n'a puiſſan-",
+    "ce d'hõme) le laiſſer, & en prendre vn autre {k}. Ils ſ'en",
+    "trouuent toutesfois de ſi bien nees, pudiques, &",
+    "honneſtes, & qui bornent ſi bien les affections diſſo.",
+    "lues de la chair, que, quand aucun deſir laſcif ſ'eſſaye",
+    "faire breche à leur cõtinence & pudicité, il eſt ſoudain",
+    "eſtaint & amortie: & tellemẽt que pluſieurs ont demeu-",
+    "ré les trois, quatre, cinq, voire le huit & neuf ans, comme"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "z",
+   "kind": "margin",
+   "lines": [
+    "P. ſed per il-",
+    "lud. de adop."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. ſi ſerua.",
+    "P. ſi ſpadoni.",
+    "D. de iur. dot."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "c. ſin. P. ad",
+    "hæc omnia.",
+    "xxvj. q. v. c. ſi",
+    "per ſociarias",
+    "xxxiij. q. j."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "c. fina & il",
+    "lec la Gloſe",
+    "de frig. & ma"
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "c. fraterni-",
+    "tatis. & illec",
+    "la Gloſe. & c.",
+    "final. de frig.",
+    "& mal."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "P. nuptias.",
+    "au titre de nu",
+    "ptijs. des nou",
+    "uelles de Iuſti",
+    "nien. ſous la",
+    "collation iiij."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "c. fraterni-",
+    "tatis. prealle-",
+    "gué. & illec la",
+    "Glo. & au c-",
+    "final. de frig.",
+    "& mal."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Au c. fin &",
+    "c ſi per ſortia",
+    "rias. deſſus al",
+    "leguez."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "S. Matth.",
+    "c. xix. la i. es.",
+    "Corint. c. vij."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "c. i. xxxiij.",
+    "q. i."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "c. quod au",
+    "tem. P. xxvij",
+    "q. ij."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "note": "page quality: clean CUDL colour scan of the leaf; even ink, no damage, no manuscript marks. Loose brown paper fibres lie on the leaf and imitate accents at low magnification (lines[2], lines[4]). Layout: one running paragraph of 40 lines filling the column, no heading, no foot citation block, no signature, no catchword, no ornament; 11 marginal notes z, a-k continuing p042's alphabet (p042 ends at y)."
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "set in spaced capitals and closed up per §3 (the schema has no spaced_caps field for running_head). It ends with a point, not the comma p041 prints."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "ont ainſi leurs parties honteuſes coupées, par ce qu'il",
+   "note": "'coupées': the acute on the first e is black and of letter weight (4x); a separate long thin brown fibre runs above and to the right of the word and is not an accent. The final e carries no accent."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "encor de ſe pouuoir approcher de femme {z}, ne peu",
+   "note": "the faint mark over the e of the first 'de' is a paper fibre/show-through, not a tilde; and the very faint speck after the line-final 'peu' is not a hyphen (the word runs on 'peu|uent' without a break sign, as does 'cho|ſe' at lines[18]-[19])."
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "ou fait le malefice.) quelquesfois enuers vne ſeule:",
+   "note": "the print sets a space between the point and the closing parenthesis ('malefice . )'); closed up per §1. The mark after 'ſeule' is a colon."
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "Gaſcongne) par celuy qui la fait & ordonné {d}. car com-",
+   "note": "small capitals: the G of 'Gaſcongne' is a small-capital G, transcribed as an ordinary capital per §3. 'Gaſcongne)par' is set with no space after the parenthesis; normalized per §1."
+  },
+  {
+   "where": "blocks[0].lines[19]",
+   "text": "ſe qui ſe peut lier, ſe peur deſlier, & diſſouldre {e}. Dont",
+   "note": "sic: 'ſe peur deſlier' where the sense wants 'ſe peut deſlier' (the same phrase is set correctly as 'ſe peut lier' earlier in the line). Both readers checked the final letter at 5-7x: an r with its shoulder, no crossbar. Transcribed as printed."
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "text": "ne ſuffit point pour deffaire le mariage ja contracté {f}.",
+   "note": "'ja' is printed with a j (dot above, descender hooked left below the baseline), unlike the plain i of 'iour' on the next line. Kept as printed per §2."
+  },
+  {
+   "where": "blocks[0].lines[27]",
+   "text": "ſe pour! diſſouldre le mariage: attendu que Dieu ne",
+   "note": "sic: a sort stands between 'pour' and 'diſſouldre' where nothing belongs. Reconciler's ruling at 10x (pages/strips/p043/body-6.jpg, second line, x about 180-300 of 1699): it is an exclamation-mark sort — a heavy wedge, widest at ascender height, tapering downward to a point just above the baseline, with a separate round dot beneath it on the baseline. It is not a turned i (a turned i would be a stem of even width with a serif at one end and a dot at the other, and this stroke has no serif and tapers steadily), and it is not foul or damaged type (the impression is crisp on all edges). A wrong sort pulled from the case, one of the roughly one-per-page wrong sorts in this print. Transcribed as '!' with §1 spacing (no space before, one after). It is not a marker: the page's markers z a b c d e f g h i k are all accounted for."
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "text": "té loiſible a la femme (de laquelle le mari n'a puiſſan-",
+   "note": "the print sets 'de la quelle' with hairline gaps of about equal width between 'de', 'la' and 'quelle'. Read as 'de' + 'laquelle' per the standing ruling on word division ('laquelle' is one word of the period). 'a la femme' carries no grave, as printed."
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "honneſtes, & qui bornent ſi bien les affections diſſo.",
+   "note": "sic: the line ends 'diſſo.' with a round point on the baseline where the word-break hyphen belongs; the word continues 'lues' on the next line ('diſſo|lues'). Compared at 4x with the true hyphen of 'demeu-' at lines[38] (a horizontal bar at mid x-height). Transcribed as printed. The break sign of 'puiſſan-' at lines[32] is a short but genuine hyphen stub."
+  },
+  {
+   "where": "blocks[0].lines[36]",
+   "text": "lues de la chair, que, quand aucun deſir laſcif ſ'eſſaye",
+   "note": "the final n of 'aucun' is over-inked into a near-solid blob; both readers resolved it as 'aucun' at 4x. 'chair,que,quand' is set with no space after the commas; normalized per §1."
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "text": "eſtaint & amortie: & tellemẽt que pluſieurs ont demeu-",
+   "note": "sic: 'amortie' (feminine) after the masculine 'eſtaint'. Transcribed as printed."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "spacing normalized throughout per §1 (commas, a colon and '&' set tight, words set tight such as 'ont ainſi', 'mariage ja', 'lues de la chair', and parentheses 'Gaſcongne)par', 'd'hõme)le'); occasional spaces before a comma or point ('grande . Mais', 'erres , &') likewise normalized. Nothing added or removed beyond spacing. Two line breaks print with no hyphen and are transcribed as printed: lines[4] 'ne peu' + lines[5] 'uent'; lines[18] 'toute cho' + lines[19] 'ſe'; likewise in the margin, note g 'al' + 'leguez.'."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "placement: the margin column is crowded (42 note lines against 40 body lines), so notes z, a, b, c, d and e begin one to five lines above their markers; f, g, h, i and k sit level with or one line below theirs. beside_line values are the nearest body line by vertical centre and are approximate to about half a line."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "P. ſed per il-",
+   "note": "the line-end sign after 'il' is a short raised slanted stroke, the margin italic's hyphen ('il|lud'). The 'P.' at the head of notes z, a, b, e and k is the italic paragraph/section sign used for Digest and Novels paragraphs; transcribed 'P.' per the practice established in transcription/final/p041.json."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ſi ſerua.",
+   "note": "the last two glyphs of 'ſerua' are somewhat over-inked; 'ſeruo.' or a terminal us-sign cannot be wholly excluded, but the glyph has the two-stroke italic a of 'adop.' on the line above."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. ſin. P. ad",
+   "note": "sic: 'c. ſin.' printed with a long ſ where 'fin.' (capitulo finali) is meant. At 8x the letter has no crossbar and no fi-ligature bar, unlike the clear 'fin' of note g. Wrong sort ſ for f; transcribed as printed."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "xxvj. q. v. c. ſi",
+   "note": "points are printed after the q and after the v ('xxvj. q. v. c. ſi'); they are small and sit low."
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "per ſociarias",
+   "note": "sic: 'ſociarias' (o-c-i) where note g gives the same canon as 'ſortia|rias' ('Si per sortiarias'); at 14x only one narrow round letter, an open c, stands between 'ſo' and 'iarias'. Both notes transcribed as they stand."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "c. fina & il",
+   "note": "sic: 'c. fina & il' where 'final.' is expected (cf. notes d and f 'final. de frig.'). At 11-12x the fi ligature, n and a round a are clear; there is no l, no point, no tilde. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "de frig. & ma",
+   "note": "sic: note c ends on 'ma' with no point and nothing further on the line; the citation ('de frigidis & maleficiatis') is left unfinished and note d begins on the next line. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "Glo. & au c-",
+   "note": "the line ends with a lone c and a clear short hyphen, continued by 'final.' on the next line ('au c-|final' = au chapitre final). Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "c ſi per ſortia",
+   "note": "no point is printed after the leading 'c' (the gap between c and ſi is empty at 4-8x), where the same formula is set 'c.' elsewhere. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "c. xix. la i. es.",
+   "note": "'la i. es.' = 'la premiere ès Corinthiens'; every point on the line is a single low dot; 'es' carries no accent."
+  },
+  {
+   "where": "margin_notes[10]",
+   "text": "c. quod au",
+   "note": "the key letter of this note is set as a ROMAN CAPITAL K, where the body marker at blocks[0].lines[33] is the usual small italic k. Keyed 'k' per the printer's alphabet (…h i k…) and the body marker. Line 1 'tem. P. xxvij' carries no final point; the two low marks after 'tem' and 'P' are read as points (the form this margin uses in the same citation pattern)."
+  },
+  {
+   "where": "signature",
+   "note": "no signature, no catchword and no foot citation block: foot.jpg shows the leaf blank from just below the last body line to the trimmed edge; nothing is lost to the crop. The last body line ends on the complete word 'comme' with no break sign, so the text runs on to p044 mid-sentence but not mid-word."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[2]",
+   "target": "blocks[0].lines[2]",
+   "spans": [
+    [
+     34,
+     42
+    ]
+   ],
+   "aligned": true,
+   "a": "ont ainſi leurs parties honteuſes coupees, par ce qu'il",
+   "b": "ont ainſi leurs parties honteuſes coupées, par ce qu'il",
+   "text": "ont ainſi leurs parties honteuſes coupées, par ce qu'il",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 4x (body-1.jpg, third body line, x 1040-1320) the first e of 'coupees' carries a short thick BLACK acute of the same ink weight as the letters, matching the acutes of 'cachée' and 'donné'. The long thin BROWN fibre that A saw is a separate mark running up and to the right above the word; it is not the acute. Read 'coupées'."
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "target": "blocks[0].lines[21]",
+   "spans": [
+    [
+     41,
+     43
+    ]
+   ],
+   "aligned": true,
+   "a": "ne ſuffit point pour deffaire le mariage ja contracté {f}.",
+   "b": "ne ſuffit point pour deffaire le mariage ia contracté {f}.",
+   "text": "ne ſuffit point pour deffaire le mariage ja contracté {f}.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 4x (body-5.jpg, second line, x 1100-1440) the letter before 'a' has a dot above and a stem that descends well below the baseline and hooks left: a j sort, unlike the short dotted i of 'iour' on the next line. i/j as printed per §2."
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "target": "blocks[0].lines[35]",
+   "spans": [
+    [
+     48,
+     54
+    ]
+   ],
+   "aligned": true,
+   "a": "honneſtes, & qui bornent ſi bien les affections diſſo-",
+   "b": "honneſtes, & qui bornent ſi bien les affections diſſo.",
+   "text": "honneſtes, & qui bornent ſi bien les affections diſſo.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 4x (body-7.jpg, third line, right end) the mark after 'diſſo' is a round dot sitting on the baseline, compared side by side with the line-end hyphen of 'demeu-' three lines below (a solid horizontal bar at mid x-height). It is a point sort set where the word-break hyphen belongs (the word runs on 'diſſo|lues'). Transcribed as printed with a sic note; not the raised mid-dot word-break sign seen on p042."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "target": "margin_notes[2].lines[0]",
+   "spans": [
+    [
+     3,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "c. fin. P. ad",
+   "b": "c. ſin. P. ad",
+   "text": "c. ſin. P. ad",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 8x (margin-1.jpg, x 320-480, y 790-865) the tall letter of the word after 'c.' is a long ſ: a plain hooked top, no crossbar at x-height, no fi-ligature bar, descending below the baseline as the italic ſ does. Note g's 'fin' (margin-2.jpg, 'Au c. fin &') shows the crossbar and ligature bar clearly at the same magnification and is unmistakably f. Wrong sort ſ for f; transcribed as printed, 'c. ſin.'."
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "target": "margin_notes[7].lines[1]",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "aligned": true,
+   "a": "c ſi per ſortia",
+   "b": "c. ſi per ſortia",
+   "text": "c ſi per ſortia",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 4x (margin-2.jpg, y 1115-1260) the space between the leading 'c' and 'ſi' is empty paper; no point is printed, unlike 'Au c. fin' on the line above where the point is clear. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[7].beside_line",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "eſtre perpetuel {g}: vray eſt que quelques vns ont en-",
+   "b": "cor doubté, ſi ceſte impuiſſance eſtoit ſuffiſante cau-",
+   "text": "cor doubté, ſi ceſte impuiſſance eſtoit ſuffiſante cau-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "Placement only (not a key): on margin-2.jpg the first line of note g ('Au c. fin &') is level with body line 26 ('cor doubté … cau-'), one line below its marker on line 25."
+  },
+  {
+   "where": "margin_notes[10].beside_line",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "trouuent toutesfois de ſi bien nees, pudiques, &",
+   "b": "ce d'hõme) le laiſſer, & en prendre vn autre {k}. Ils ſ'en",
+   "text": "ce d'hõme) le laiſſer, & en prendre vn autre {k}. Ils ſ'en",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "Placement only (not a key): on margin-3.jpg the first line of note k ('K c. quod au') is level with body line 33 ('ce d'hõme) le laiſſer … Ils ſ'en'), the line holding its marker."
+  }
+ ]
 }

@@ -250,5 +250,79 @@
    "text": "ANNOTATION I.",
    "note": "set in widely letterspaced capitals like the running head above it, hence spaced_caps. The final I. is a roman numeral one, printed as a capital I with a full stop."
   }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[0].lines[4]",
+   "target": "margin_notes[0].lines[4]",
+   "spans": [
+    [
+     0,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "Decretales. &",
+   "b": "Decretales, &",
+   "text": "Decretales. &",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "round full stop on the baseline after 'les', no comma tail (margin-2.jpg y~250, 4x)"
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "target": "margin_notes[1].lines[4]",
+   "spans": [
+    [
+     8,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "xii. q. ii. au",
+   "b": "xii. q. ii au",
+   "text": "xii. q. ii. au",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a small low mark is printed between 'ii' and 'au' (margin-2.jpg y~790); it is lighter and lower than the neighbouring points but is a printed sort, read as a full stop by analogy with 'xxxii. q. ii.'; noted in uncertain[]"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "target": "margin_notes[3].lines[0]",
+   "spans": [
+    [
+     4,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "Loy 1. ſur",
+   "b": "Loy i. ſur",
+   "text": "Loy i. ſur",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the stroke carries a dot above it at 4x (margin-2.jpg y~1210), unlike the dotless figure of 'chap. 1.' and '1. & canõ' which are arabic 1"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "target": "margin_notes[3].lines[3]",
+   "spans": [
+    [
+     10,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "moneta c. pue.",
+   "b": "moneta c. pue-",
+   "text": "moneta c. pue.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the line ends in a round dot at the baseline, not a hyphen (margin-3.jpg y~100, 4x); the break pue./ri is a word break without hyphen, printed with a point"
+  }
  ]
 }

@@ -211,6 +211,158 @@ def test_status_rows(root):
     assert wave.status_rows(wave.manifest(), show_all=True)[0] == ("p001", "--", "-", "-", "yes")
 
 
+# --- defer ----------------------------------------------------------------------------
+
+def mixed_queue(root, pid):
+    kinds = ["body", "note", "unmatched", "flagged", "structural", "note-structure"]
+    put(root, f"transcription/arbitration/queue/{pid}.json",
+        {"page": pid, "items": [{"id": f"i-{k}", "kind": k} for k in kinds]})
+
+
+def read_dec(root, pid):
+    return json.loads((root / f"transcription/arbitration/decisions/{pid}.json").read_text())
+
+
+def test_defer_dry_run_writes_nothing(root, capsys):
+    mixed_queue(root, "p001")
+    queue_file(root, "p002", 2); decide(root, "p002", ["A"])
+    wave.main(["defer", "--dry-run"])
+    assert not (root / "transcription/arbitration/decisions/p001.json").exists()
+    assert read_dec(root, "p002")["decisions"] == {"b-000": {"choice": "A"}}
+    out = capsys.readouterr().out
+    assert "p001\t4\t2\t0\t" in out and "structural=1" in out and "note-structure=1" in out
+    assert "p002\t1\t0\t1\tbody=1" in out
+    assert "total\t5\t2\t1" in out and "dry run" in out
+
+
+def test_defer_kind_mapping_and_provenance(root):
+    mixed_queue(root, "p001")
+    assert wave.defer_page("p001", now="2026-10-03T12:00:00") == \
+        {"either": 4, "unknown": 2, "decided": 0}
+    dec = read_dec(root, "p001")
+    assert dec["page"] == "p001"
+    got = {k: v["choice"] for k, v in dec["decisions"].items()}
+    assert got == {"i-body": "either", "i-note": "either", "i-unmatched": "either",
+                   "i-flagged": "either", "i-structural": "unknown", "i-note-structure": "unknown"}
+    assert all(v == {"choice": v["choice"], "by": "auto", "at": "2026-10-03T12:00:00",
+                     "reason": "auto-deferred to translator"} for v in dec["decisions"].values())
+    assert wave.progress("p001") == (6, 6)
+    assert wave.select_apply(wave.manifest()) == ["p001"]       # now finalizable
+
+
+def test_defer_never_overwrites_and_is_idempotent(root, capsys):
+    mixed_queue(root, "p001")
+    put(root, "transcription/arbitration/decisions/p001.json", {"page": "p001", "decisions": {
+        "i-body": {"choice": "B", "at": "x"},
+        "i-structural": {"choice": "neither", "text": "12"},
+        "i-note": {"choice": "skip"}}})                           # legacy: undecided
+    assert wave.defer_page("p001") == {"either": 3, "unknown": 1, "decided": 2}
+    dec = read_dec(root, "p001")["decisions"]
+    assert dec["i-body"] == {"choice": "B", "at": "x"}
+    assert dec["i-structural"] == {"choice": "neither", "text": "12"}
+    assert dec["i-note"]["choice"] == "either" and dec["i-note"]["by"] == "auto"
+    before = (root / "transcription/arbitration/decisions/p001.json").read_text()
+    assert wave.defer_page("p001") == {"either": 0, "unknown": 0, "decided": 6}
+    assert (root / "transcription/arbitration/decisions/p001.json").read_text() == before
+
+
+def test_defer_limits_to_named_pages(root, capsys):
+    mixed_queue(root, "p001"); mixed_queue(root, "p002")
+    wave.main(["defer", "p002", "p009"])
+    assert not (root / "transcription/arbitration/decisions/p001.json").exists()
+    assert wave.progress("p002") == (6, 6)
+    out = capsys.readouterr().out
+    assert "SKIPPED p009" in out and "p001" not in out
+
+
+def test_auto_defer_script_is_wave_defer(root, monkeypatch, capsys):
+    ad = load("coras_auto_defer", "auto_defer.py")
+    monkeypatch.setattr(ad.wave, "ROOT", root)
+    mixed_queue(root, "p001")
+    ad.main(["--dry-run"])
+    assert "total\t4\t2\t0" in capsys.readouterr().out
+    assert not (root / "transcription/arbitration/decisions/p001.json").exists()
+
+
+# --- refinalize -----------------------------------------------------------------------
+
+def test_refinalize_replaces_existing_final_and_restitches(root, monkeypatch, capsys):
+    queue_file(root, "p001", 1); decide(root, "p001", ["B"])
+    put(root, "transcription/final/p001.json", {"id": "p001", "old": True})
+    queue_file(root, "p002", 1); decide(root, "p002", ["A"])          # no final yet
+    put(root, "transcription/final/p003.json", {"id": "p003"})          # final, no queue
+    queue_file(root, "p004", 1); decide(root, "p004", ["A"])
+    put(root, "transcription/final/p004.json", {"id": "p004", "old": True})   # apply fails
+
+    def fake_apply(cmd):
+        pid, out = cmd[cmd.index("--out") - 1], pathlib.Path(cmd[cmd.index("--out") + 1])
+        if pid == "p004":
+            return 1, "p004: the reads no longer match the queue (rebuild it)"
+        out.write_text(json.dumps({"id": pid, "new": True}))
+        return 0, f"{pid}: 1 decisions applied"
+
+    fake = FakeRun({"apply_arbitration.py": fake_apply, "stitch_text.py": lambda c: (0, "ok")})
+    monkeypatch.setattr(wave, "run", fake)
+    wave.main(["refinalize", "p001", "p002", "p003", "p004"])
+    applied = [c[c.index("--out") - 1] for c in fake.calls if "--out" in c]
+    assert applied == ["p001", "p004"]
+    assert json.loads((root / "transcription/final/p001.json").read_text()) == {"id": "p001", "new": True}
+    assert json.loads((root / "transcription/final/p004.json").read_text())["old"] is True
+    assert not (root / "transcription/final/p002.json").exists()
+    assert fake.scripts()[-1] == "stitch_text.py"
+    assert not list((root / "transcription").glob(".apply-*"))       # temp dirs cleaned
+    out = capsys.readouterr().out
+    assert "refinalized p001" in out and "SKIPPED p002" in out and "SKIPPED p003" in out
+    assert "FAILED p004" in out and "no longer match" in out
+
+
+def test_refinalize_refuses_undecided(root, monkeypatch, capsys):
+    queue_file(root, "p001", 2); decide(root, "p001", ["A"])
+    put(root, "transcription/final/p001.json", {"id": "p001"})
+    fake = FakeRun()
+    monkeypatch.setattr(wave, "run", fake)
+    wave.main(["refinalize", "p001"])
+    assert fake.calls == [] and "FAILED p001: undecided" in capsys.readouterr().out
+
+
+def test_refinalize_end_to_end_with_staleness(root, monkeypatch, capsys):
+    """Real apply_arbitration on the t001 fixture: a translator re-decision updates the
+    final; a queue that no longer matches the reads keeps the old final."""
+    fix = SCRIPTS / "tests" / "fixtures" / "arbitration"
+    arb = root / "transcription" / "arbitration"
+    r = subprocess.run([wave.PY, SCRIPTS / "arbitrate_queue.py", "t001", "--a", fix / "A/t001.json",
+                        "--b", fix / "B/t001.json", "--out-dir", arb, "--no-crops"],
+                       capture_output=True, text=True)
+    assert r.returncode == 0, r.stderr
+    ids = [i["id"] for i in json.loads((arb / "queue/t001.json").read_text())["items"]]
+    dec = {i: {"choice": "either", "by": "auto", "reason": "auto-deferred to translator"}
+           for i in ids}
+    put(root, "transcription/arbitration/decisions/t001.json", {"page": "t001", "decisions": dec})
+    real = wave.run
+    monkeypatch.setattr(wave, "run", lambda args, **kw: subprocess.CompletedProcess(args, 0, "ok", "")
+                        if str(args[-1]).endswith("stitch_text.py") else real(args, **kw))
+    put(root, "transcription/final/t001.json", {"id": "t001", "old": True})
+    wave.main(["refinalize", "t001"])
+    final = json.loads((root / "transcription/final/t001.json").read_text())
+    assert final["reader"] == "final" and {d["by"] for d in final["decisions"]} == {"auto"}
+    # the translator picks B for b-002; refinalize folds it in
+    dec["b-002"] = {"choice": "B", "by": "translator", "reason": "context"}
+    put(root, "transcription/arbitration/decisions/t001.json", {"page": "t001", "decisions": dec})
+    wave.main(["refinalize", "t001"])
+    final = json.loads((root / "transcription/final/t001.json").read_text())
+    assert final["blocks"][1]["lines"][1] == "vne ligne que B lit ainſi,"
+    assert "arbitration: B (translator: context)" in {d["reason"] for d in final["decisions"]}
+    # a stale queue: apply refuses and the final is left as it was
+    q = json.loads((arb / "queue/t001.json").read_text())
+    q["items"][0]["b"] = "something else"
+    (arb / "queue/t001.json").write_text(json.dumps(q, ensure_ascii=False))
+    before = (root / "transcription/final/t001.json").read_text()
+    capsys.readouterr()
+    wave.main(["refinalize", "t001"])
+    assert "FAILED t001" in capsys.readouterr().out
+    assert (root / "transcription/final/t001.json").read_text() == before
+
+
 # --- render_prompt fallback -----------------------------------------------------------
 
 def test_render_prompt_context_falls_back_to_reads(tmp_path):

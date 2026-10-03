@@ -124,7 +124,7 @@ def test_apply_all_A(queue):
     assert len(page["decisions"]) == 6       # 5 differences + 1 flagged line
     d = {x["where"]: x for x in page["decisions"]}["blocks[1].lines[1]"]
     assert d == {"where": "blocks[1].lines[1]", "A": "vne ligne que A lit ainſi,",
-                 "B": "vne ligne que B lit ainſi,", "chose": "carson-session",
+                 "B": "vne ligne que B lit ainſi,", "chose": "carson-session", "by": "carson",
                  "text": "vne ligne que A lit ainſi,", "reason": "arbitration: A"}
     notes = [u["note"] for u in page["uncertain"]]
     assert "faint ink" in notes                   # A's line is still there
@@ -223,7 +223,7 @@ def test_server_store_choices_and_legacy(tmp_path):
     (tmp_path / "decisions" / "t001.json").write_text(json.dumps(
         {"page": "t001", "decisions": {"x": {"choice": "both"}, "y": {"choice": "skip"}}}))
     store = srv.Store(tmp_path)
-    assert store.decisions("t001") == {"x": {"choice": "either"}}
+    assert store.decisions("t001") == {"x": {"choice": "either", "by": "carson"}}
     assert store.progress("t001")["decided"] == 1
     with pytest.raises(ValueError):
         store.decide("t001", "z", "skip", None)
@@ -467,3 +467,102 @@ def test_block_rows_keep_one_block_of_context_and_collapse_the_rest():
         ("gap", None, None), ("same", "p3", "p3"), ("diff", "heading: X", "heading: Y"),
         ("same", "p4", "p4"), ("gap", None, None)]
     assert aq.block_rows(sa, sa) == [{"a": None, "b": None, "status": "gap"}]
+
+
+# --- decision provenance (by / reason) ------------------------------------------------
+
+def test_apply_by_default_and_passthrough(queue):
+    tmp, _ = queue
+    r, page = apply(tmp, all_("A", **{
+        "b-002": {"choice": "B", "by": "translator", "reason": "the gloss reads B"},
+        "n-a-1": {"choice": "either", "by": "auto", "reason": "auto-deferred to translator"},
+        "s-folio": {"choice": "unknown", "by": "auto", "reason": "auto-deferred to translator"},
+        "u-a-004": {"choice": "A", "by": "carson", "reason": "checked the scan"},
+        "u-b-005": {"choice": "A", "by": "robot"}}))           # unknown by -> carson
+    assert r.returncode == 0, r.stdout + r.stderr          # validates against the schema
+    d = {x["where"]: x for x in page["decisions"]}
+    assert (d["blocks[1].lines[1]"]["by"], d["blocks[1].lines[1]"]["reason"]) == \
+        ("translator", "arbitration: B (translator: the gloss reads B)")
+    assert (d["margin_notes[0].lines[1]"]["by"], d["margin_notes[0].lines[1]"]["reason"]) == \
+        ("auto", "arbitration: either (auto-deferred)")
+    assert {"by": "auto", "reason": "arbitration: unknown (auto-deferred)"}.items() <= \
+        d["folio"].items()
+    reasons = {x["reason"] for x in page["decisions"]}
+    assert "arbitration: A (carson: checked the scan)" in reasons
+    plain = [x for x in page["decisions"] if x["reason"] == "arbitration: A"]
+    assert plain and all(x["by"] == "carson" for x in plain)     # absent / unknown by
+    # the deferral still renders as an alternative for the translator
+    assert any(u["note"] == "arbitration: undecided; alternatives: iure iur. ||| iure iu."
+               for u in page["uncertain"])
+
+
+def _decision_validator():
+    import jsonschema
+    schema = json.loads((SCRIPTS / "page_schema.json").read_text())
+    return jsonschema.Draft202012Validator({"$defs": schema["$defs"], "$ref": "#/$defs/decision"})
+
+
+def test_schema_decision_by_and_extra_fields():
+    v = _decision_validator()
+    base = {"where": "blocks[0].lines[0]", "A": "x", "B": "y", "chose": "carson-session",
+            "text": "x", "reason": "arbitration: either (auto-deferred)"}
+    assert v.is_valid(base)                                   # by is optional
+    for by in ("carson", "auto", "translator"):
+        assert v.is_valid(dict(base, by=by))
+    assert not v.is_valid(dict(base, by="robot"))
+    assert not v.is_valid(dict(base, by="auto", who="auto"))  # still no extra fields
+    assert not v.is_valid(dict(base, chose="auto"))           # chose enum unchanged
+
+
+def test_server_marks_carson_and_reports_by(tmp_path):
+    sys.path.insert(0, str(SCRIPTS))
+    import arbitrate_server as srv
+    (tmp_path / "queue").mkdir()
+    (tmp_path / "queue" / "t001.json").write_text(json.dumps(
+        {"page": "t001", "items": [{"id": "x"}, {"id": "y"}]}))
+    (tmp_path / "decisions").mkdir()
+    (tmp_path / "decisions" / "t001.json").write_text(json.dumps(
+        {"page": "t001", "decisions": {"x": {"choice": "either", "by": "auto",
+                                             "reason": "auto-deferred to translator"},
+                                       "y": {"choice": "A"}}}))
+    store = srv.Store(tmp_path)
+    dec = store.decisions("t001")
+    assert (dec["x"]["by"], dec["y"]["by"]) == ("auto", "carson")
+    store.decide("t001", "x", "B", None)                      # Carson re-decides
+    raw = json.loads((tmp_path / "decisions" / "t001.json").read_text())["decisions"]
+    assert (raw["x"]["choice"], raw["x"]["by"]) == ("B", "carson")
+    assert "reason" not in raw["x"] and raw["y"] == {"choice": "A"}
+
+
+# --- merge_uncertain: reader entries about notes/markers survive ------------
+
+def _mpage(lines, notes, uncertain):
+    return {"blocks": [{"type": "paragraph", "lines": list(lines)}],
+            "margin_notes": [{"key": k, "lines": list(ls)} for k, ls in notes],
+            "uncertain": uncertain}
+
+
+def test_merge_uncertain_keeps_orphan_note_entries_that_quote_no_line():
+    import apply_arbitration as ap
+    import validate_page
+    body = ["alpha {a}. beta", "gamma delta"]
+    notes = [("a", ["l. prima."]), ("c", ["Aud. itaque.", "C. con. de ſuc."])]
+    a = _mpage(body, notes, [
+        {"where": "blocks[0]", "text": "{c}", "note": "marker c missing in the body"},
+        {"where": "margin_notes[1]", "text": "Aud. itaque. / C. con. de ſuc.",
+         "note": "note c: marker presumably on the next page"},
+        {"where": "blocks[0].lines[1]", "text": "gamma", "note": "word read gamma"},
+        {"where": "blocks[0].lines[0]", "text": "zeta", "note": "stale word quote"},
+        {"where": "blocks[0].lines[0]", "text": "line only B had", "note": "gone"}])
+    b = _mpage(body + ["line only B had"], notes, [
+        {"where": "margin_notes[1]", "text": "c", "note": "marker c not found"}])
+    result = copy.deepcopy(a)
+    out = ap.merge_uncertain(result, a, b, "A")
+    texts = [e["text"] for e in out]
+    # marker token, joined note text and an in-line word quote kept (base read);
+    # a stale word quote, a line not in the result and the other read's note entry dropped
+    assert texts == ["{c}", "Aud. itaque. / C. con. de ſuc.", "gamma"]
+    result["uncertain"] = out
+    problems = []
+    validate_page.check_markers(result, problems)
+    assert not [p for p in problems if "'c'" in p]

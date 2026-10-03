@@ -1,0 +1,51 @@
+{
+ "page": "p155",
+ "a": "transcription/reads/A/p155.json",
+ "b": "transcription/reads/B/p155.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-023",
+   "kind": "body",
+   "where_a": "blocks[0].lines[23]",
+   "where_b": "blocks[0].lines[23]",
+   "index": 23,
+   "index_b": 23,
+   "a": "le ſermens eſtre veritable; ne profiteroit rien {r}. Et de di-",
+   "b": "le ſermens eſtre veritable: ne profiteroit rien {r}. Et de di-",
+   "context_before": "confeſſion, biẽ que le mari teſtateur l'aſſeuraſt par mil-",
+   "context_after": "re que la confeſſion d'vne debte, faite par le teſtateur,",
+   "strip": "pages/strips/p155/body-5.jpg",
+   "crop": "crops/p155/b-023.jpg"
+  },
+  {
+   "id": "b-037",
+   "kind": "body",
+   "where_a": "blocks[0].lines[37]",
+   "where_b": "blocks[0].lines[37]",
+   "index": 37,
+   "index_b": 37,
+   "a": "premier interuient ſur ce qu'eſt à aduenir, Car celuy",
+   "b": "premier interuient ſur ce qu'eſt à aduenir. Car celuy",
+   "context_before": "luy qui interuiẽt ſur vne recõgnoiſſance: d'autãt que le",
+   "context_after": null,
+   "strip": "pages/strips/p155/body-7.jpg",
+   "crop": "crops/p155/b-037.jpg"
+  },
+  {
+   "id": "n-q-1",
+   "kind": "note",
+   "key": "q",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[6].lines[1]",
+   "where_b": "margin_notes[6].lines[1]",
+   "a": "ctali C. de ſe-",
+   "b": "ctali. C. de ſe-",
+   "context_before": "l. hac edi-",
+   "context_after": "cund. nup.",
+   "strip": "pages/strips/p155/margin-2.jpg",
+   "crop": "crops/p155/n-q-1.jpg"
+  }
+ ]
+}

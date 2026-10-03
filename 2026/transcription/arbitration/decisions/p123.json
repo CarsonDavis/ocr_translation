@@ -1,0 +1,47 @@
+{
+ "page": "p123",
+ "decisions": {
+  "b-014": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "comma: the relative clause 'lequel il veut estre ... puni de mort' continues the sentence"
+  },
+  "b-035": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "auoit eſté commis is a finite clause after the full stop (iceluy Rapt auoit eſté commis … & par ainſi digne de mort, with eſtoit understood); the infinitive would hang awkwardly from conuaincu; the English is the same either way."
+  },
+  "n-t-1": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-t-4": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "xxxiiij: Causa 34 q. 1 (the wife who takes another husband in error) fits the point on ignorance; Causa 33 q. 1 is on impotence; an inference, flagged for review"
+  },
+  "n-u-4": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "fœdiſſimam, the Latin spelling of C. 9.9.20 (Foedissimam earum nequitiam); æ is a wrong ligature"
+  },
+  "n-a-1": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "fi, = fin., the last paragraph of l. Qui coetu (D. 48.6.5.2, the one on carrying off a married woman); no paragraph of that law begins Si."
+  },
+  "s-blocks": {
+   "choice": "unknown",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  }
+ }
+}

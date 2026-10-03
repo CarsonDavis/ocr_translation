@@ -9,11 +9,579 @@
   "image_no": 154,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/154"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p131",
  "next": "p133",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "mous deed, as against Sodomites, Atheists and brigands, who, being so frantic and enraged as to study nothing but inhuman and unnatural things, well deserve also to be restrained by inhumanity and ferocity of penalty <sup class=\"mk\" data-key=\"g\">g</sup>. But let us recover our breath a little, and the track of our path. Someone perhaps will say here that the Court was necessarily bound to condemn the said du Tilh to be burnt alive, and not after his death <sup class=\"mk\" data-key=\"h\">h</sup>; inasmuch as, where the law commands that some malefactor be burnt, he must be burnt fully alive <sup class=\"mk\" data-key=\"i\">i</sup>. Added to which, after the death of the accused all prosecution of crimes ends and is extinguished <sup class=\"mk\" data-key=\"k\">k</sup>, so that several have written that judges who have the dead bodies and carcasses of executed men fastened or hung upon the gibbets do things unworthy of them, and err greatly <sup class=\"mk\" data-key=\"l\">l</sup>. To resolve which difficulty, I shall confess in the first place that to vex, torment and punish the body of a dead person, whom God has called to himself and to the judgment of his great tribunal, is a very strange thing, and one smacking of I know not what of the barbarity and inhumanity <sup class=\"mk\" data-key=\"m\">m</sup> with which that great name of Achilles remains still stained, when, to avenge the death of Patroclus his great friend (whom Hector son of Priam had killed), not content with having slain Hector, he had his body tied to a chariot and dragged three times around Troy and the tomb of Patroclus <sup class=\"mk\" data-key=\"n\">n</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "g",
+     "citation": "Digest 48.19.28 (<i>De poenis</i>, l. <i>Capitalium</i>, Callistratus), § <i>Famosos</i> (D. 48.19.28.15) — the print's <i>capitum</i> for <i>capitalium</i>",
+     "original": "l. capitum. P. famoſos D. de pœn.",
+     "gloss": "Notorious brigands hanged where they robbed, as at annot-091 {a2}."
+    },
+    {
+     "key": "h",
+     "citation": "Digest 48.13.7 (<i>Ad legem Iuliam peculatus</i>, l. <i>Sacrilegii</i>), cited above at {a}",
+     "original": "l. ſacrilegij. D. ad l. Iul pe cul.",
+     "gloss": "The sacrilegious burnt alive."
+    },
+    {
+     "key": "i",
+     "citation": "Code 3.26 (<i>Ubi causae fiscales vel divinarum domuum hominumque earum agantur</i>), l. <i>Universi</i> — fragment not identified; Code 12.35 (<i>De re militari</i>, book 12), l. <i>Si quis barbaris</i> (C. 12.35.9); and l. <i>Sacrilegii</i> (D. 48.13.7), cited above",
+     "original": "l. vniuerſi. C.⟨alt:C⟩ vbi cauſ. fi ſcal. l. ſi quis Barbaris. C. de re milit. li. xij. l. ſacrilegij al.",
+     "gloss": "C. 12.35.9: whoever gives the barbarians the means of plundering Romans is to be burnt alive (<i>vivus exuratur</i>) — the law reads \"burnt\", and the objector argues that it means burnt alive."
+    },
+    {
+     "key": "k",
+     "citation": "Digest 48.1.6 (<i>De publicis iudiciis</i>, l. <i>Defuncto</i>, Ulpian); Digest 48.4.11 (<i>Ad legem Iuliam maiestatis</i>, the last law, Ulpian); Code 9.6 (<i>Si reus vel accusator mortuus fuerit</i>), ll. 1, 2 and the last",
+     "original": "l. defuncto. D. de pu. iud. l. fina. D. ad l. Iul. maieſt. l. i. l. ij. l. fi. C. ſi re vel accu. mor.",
+     "gloss": "When the accused dies the crime is extinguished with him (<i>extinguitur enim crimen mortalitate</i>) — except, D. 48.4.11 adds, in the case of treason."
+    },
+    {
+     "key": "l",
+     "citation": "Pierre de Belleperche (Petrus de Bellapertica, d. 1308) on Code 6.22 (<i>Qui testamenta facere possunt</i>), l. 2; Angelus (probably Angelus de Ubaldis, Baldus's brother, on the Code) on the last law of Code 9.6 (<i>Si reus vel accusator mortuus fuerit</i>)",
+     "original": "Pierre de Bel le Per. l. ij. C. qui teſt. face. poſ. Ange. l. fi.⟨alt:",
+     "gloss": "?].⟩ C. ſi reus, vel accuſ. [The doctors who hold that hanging up the bodies of executed men is unworthy of a judge."
+    },
+    {
+     "key": "m",
+     "citation": "Decretum of Gratian, Part II, Causa 23, quaestio 1, the chapter beginning <i>Quorum</i> (as printed, <i>c. quorum dã.</i>) — chapter not identified",
+     "original": "c. quorum dã. xxiij. q⟨alt:q.⟩ j.",
+     "gloss": null
+    },
+    {
+     "key": "n",
+     "citation": "Homer, <i>Iliad</i>, books 22 and 24; Cicero, <i>Tusculan Disputations</i>, book 1 (1.105)",
+     "original": "Homere au xxij. &amp; xxiiij. de l'Iliade. Ciceron au liu. j. des Tuſculanes",
+     "gloss": "Achilles drags Hector's body (<i>Iliad</i> 22.395–404, 24.14–18); Cicero, quoting the tragedians on Hector dragged by the chariot, argues that the dead feel nothing."
+    },
+    {
+     "key": "p",
+     "citation": "Institutes 3.1 (<i>De hereditatibus quae ab intestato deferuntur</i>), the § beginning <i>Interdum</i>, and Accursius's gloss there — paragraph number unverified",
+     "original": "P. interdũ: et illec Accurſe de hæredi. quæ ab inteſt. defe.",
+     "gloss": "Belongs, by its content and by the back-reference in note <i>x</i>, to the sentence \"The horror and enormity of the crime may nevertheless be so great…\", where the print set no letter; the Gloss there treats the posthumous condemnation whose effects reach the dead man's estate and memory."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Three times around the walls of Ilium he had dragged Hector (<i>Ter circum Iliacos raptaverat Hectora muros</i>) <sup class=\"mk\" data-key=\"o\">o</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "o",
+     "citation": "Virgil, <i>Aeneid</i>, book 1, line 483",
+     "original": "Vergile au j des Aeneid.",
+     "gloss": "<i>Ter circum Iliacos raptaverat Hectora muros</i>, from the paintings in Dido's temple."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "The horror and enormity of the crime may nevertheless be so great that, in detestation of it, it belongs to the example and to the greatness of a well-ordered Commonwealth to punish, roast and dismember the bodies, the carcasses, of the dead: so that the memory of persons so wretched and abominable may be wholly annihilated and lost, and that by the spectacle of such a penalty these prodigiously wicked men may be frightened and turned away from like evil deeds <sup class=\"mk\" data-key=\"q\">q</sup>. Thus our Accursius admonishes us to do to brigands and highway robbers, after they are hanged and strangled: namely, to expose them to famished beasts, to be torn to pieces and devoured by them <sup class=\"mk\" data-key=\"r\">r</sup>. And inasmuch as it would not be easy to enumerate",
+   "continued": false,
+   "notes": [
+    {
+     "key": "q",
+     "citation": "Code 9.27 (<i>Ad legem Iuliam repetundarum</i>), l. 1 (C. 9.27.1); Decretum of Gratian, Part II, Causa 2, quaestio 7, c. <i>Quapropter</i> — chapter number unverified",
+     "original": "l. i. C. ad l. Iul. repetunda c. quapropter. ij. q. vij.",
+     "gloss": null
+    },
+    {
+     "key": "r",
+     "citation": "Accursius (Glossa ordinaria) on Digest 47.7 (<i>Arborum furtim caesarum</i>), l. 2 (D. 47.7.2, Gaius)",
+     "original": "Accurſe en la l. ij. D. arb. fur. cæſar.",
+     "gloss": "D. 47.7.2 says that those who cut down trees, and above all vines, are punished \"as brigands\" (<i>tamquam latrones</i>), on which the Gloss sets out the brigand's penalty — hanged, and the body left to the beasts."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "me faict, cõme contre Sodomites, Atheiſtes, & brigans",
+    "leſquels eſtant ſi forcenez, & enragez, de ne ſ'eſtudier",
+    "qu'à choſes inhumaines, & deſnaturées: meritent bien",
+    "auſſi d'eſtre cohibez par inhumanité, & ferité de peine",
+    "{g}. Mais reprenõs vn peu l'haleine, & les erres de noſtre",
+    "ſentier. Quelqu'vn peut eſtre ici dira, que la cour de-",
+    "uoit neceſſairement condamner iceluy du Tilh, à eſtre",
+    "bruſlé vif, & non pas apres ſa mort {h}. D'autant qu'où la",
+    "loy cõmande, quelque malfaicteur eſtre bruſlé, il le cõ-",
+    "uient bruſler tout vif {i}. Ioint qu'apres la mort du pre-",
+    "uenu, toute pourſuyte de crimes finit, & eſt eſtainte {k}.",
+    "tellemẽt que pluſieurs ont eſcrit, que les iuges qui font",
+    "attacher, ou pende les corps morts & charongnes des",
+    "executez, aux fourches, fõt choſes indignes d'eux, & fail",
+    "lent grandement {l}. Pour reſoudre laquelle difficulté, ie",
+    "confeſſeray en premier lieu, que de vexer, tourmenter,",
+    "& punir le corps d'vne perſonne morte, laquelle Dieu à",
+    "appellée à ſoy, & au iugemẽt de ſon grand tribunal, eſt",
+    "vn choſe fort eſtrange, & reſſentant ie ne ſçay quoy de",
+    "la barbarie & inhumanité {m}, de laquelle ce grand nom",
+    "d'Achilles demeure encore ſouillé, quand pour venger",
+    "la mort de Patroclus ſon grand ami (que Hector fils de",
+    "Priam auoit tué) non content d'auoir occis Hector, fit",
+    "attacher ſõ corps à vn chariot, & traiſner par trois fois",
+    "à l'entour de Troye, & du ſepulchre de Patroclus {n}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ter circũ Iliacos, raptauerat Hectora muros {o}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "L'horreur & enormité du crime toutesfois peut eſtre ſi",
+    "grande, qu'en deteſtation d'iceluy il appartient à l'exẽ-",
+    "ple & à la grandeur d'vne Republique bien policée,",
+    "de punir, roſtir, & deſmembrer les corps, les charon-",
+    "gnes des treſpaſſez: afin que la memoire de perſonne ſi",
+    "malheureuſes & abominables, ſ'aneantiſſe du tout, & ſe",
+    "perde: que par le ſpectacle d'vne telle peine, ces prodi-",
+    "gieuſement meſchans, ſoient effrayez, & deſtournez de",
+    "pareils malefices {q}. Ainſi nous admonneſte noſtre Ac-",
+    "curſe, de faire aux brigans & guetteurs de chemin, a-",
+    "pres qu'ils ſont pendus & eſtrãglez: à ſçauoir, de les ex",
+    "poſer aux beſtes affamées, pour d'icelles eſtre dilaniez",
+    "& deuorez {r}. Et partant qu'il ne ſeroit pas aiſé recenſer"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. capitum.",
+    "P. famoſos D.",
+    "de pœn."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. ſacrilegij.",
+    "D. ad l. Iul pe",
+    "cul."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. vniuerſi.",
+    "C. vbi cauſ. fi",
+    "ſcal. l. ſi quis",
+    "Barbaris. C. de",
+    "re milit. li. xij.",
+    "l. ſacrilegij al."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. defuncto.",
+    "D. de pu. iud.",
+    "l. fina. D. ad l.",
+    "Iul. maieſt. l. i.",
+    "l. ij. l. fi. C. ſi re",
+    "vel accu. mor."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "Pierre de Bel",
+    "le Per. l. ij. C.",
+    "qui teſt. face.",
+    "poſ. Ange. l. fi.",
+    "C. ſi reus, vel",
+    "accuſ."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "c. quorum",
+    "dã. xxiij. q j."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "Homere au",
+    "xxij. & xxiiij.",
+    "de l'Iliade. Ci-",
+    "ceron au liu. j.",
+    "des Tuſculanes"
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "Vergile au j",
+    "des Aeneid."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "P. interdũ: et",
+    "illec Accurſe",
+    "de hæredi. quæ",
+    "ab inteſt. defe."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "l. i. C. ad l.",
+    "Iul. repetunda",
+    "c. quapropter.",
+    "ij. q. vij."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "Accurſe en",
+    "la l. ij. D. arb.",
+    "fur. cæſar."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[8]",
+   "text": "p",
+   "note": "margin note p (P. interdũ: et / illec Accurſe ...) has no visible marker {p} in the body; the marker was not found anywhere on the page (expected between {o} and {q}, perhaps after 'policée,' or in the first lines of the paragraph beginning L'horreur)"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "auſſi d'eſtre cohibez par inhumanité, & ferité de peine",
+   "note": "print sets 'd'eſtr e' with a gap inside the word and a small raised mark after d'; closed up as one word"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "{g}. Mais reprenõs vn peu l'haleine, & les erres de noſtre",
+   "note": "marker g printed at the start of this line (not at the end of the previous line)"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "uoit neceſſairement condamner iceluy du Tilh, à eſtre",
+   "note": "'ai' in neceſſairement is damaged and looks like 'at'/'ar' (neceſſatrement?); possible wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "loy cõmande, quelque malfaicteur eſtre bruſlé, il le cõ-",
+   "note": "mark after cõmande could be a period rather than a comma"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "uenu, toute pourſuyte de crimes finit, & eſt eſtainte {k}.",
+   "note": "mark after finit may be a period rather than a comma; period after {k} though the sentence continues on the next line"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "attacher, ou pende les corps morts & charongnes des",
+   "note": "sic: 'pende' (for pendre) as printed; space before the comma after attacher normalized"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "vn choſe fort eſtrange, & reſſentant ie ne ſçay quoy de",
+   "note": "sic: 'vn choſe' as printed"
+  },
+  {
+   "where": "blocks[0].lines[19]",
+   "text": "la barbarie & inhumanité {m}, de laquelle ce grand nom",
+   "note": "print sets '&inhumanité' tight; normalized spacing"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Ter circũ Iliacos, raptauerat Hectora muros {o}.",
+   "note": "italic verse; 'rapt auerat' printed with a gap and a damaged a; closed up. Treated as a separate paragraph (quotation)"
+  },
+  {
+   "where": "blocks[2]",
+   "text": "L'horreur & enormité du crime toutesfois peut eſtre ſi",
+   "note": "no visible indent; treated as a new paragraph after the verse"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "gieuſement meſchans, ſoient effrayez, & deſtournez de",
+   "note": "final t of gieuſement looks like r (gieuſemenr?); possible wrong sort, sic"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "curſe, de faire aux brigans & guetteurs de chemin, a-",
+   "note": "print has a space before the comma after curſe (normalized)"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "poſer aux beſtes affamées, pour d'icelles eſtre dilaniez",
+   "note": "beſtes badly inked/damaged ('beſtcs'); reading from context"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "& deuorez {r}. Et partant qu'il ne ſeroit pas aiſé recenſer",
+   "note": "line poorly inked; 'pas' looks like 'p1s'; 'Et' and 'deuorez' faint"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "C. vbi cauſ. fi",
+   "note": "period after C faint or absent"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "Barbaris. C. de",
+   "note": "'de' damaged ('C.'e'); reading from sense (C. de re milit.)"
+  },
+  {
+   "where": "margin_notes[2].lines[4]",
+   "text": "re milit. li. xij.",
+   "note": "'re' could be read 'fe'"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "poſ. Ange. l. fi.",
+   "note": "ink blot over 'fi' at line end; reading uncertain"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "dã. xxiij. q j.",
+   "note": "no period visible between q and j"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "xxij. & xxiiij.",
+   "note": "first letters damaged; final punctuation could be a colon"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "des Aeneid.",
+   "note": "could be Æneid. with ligature"
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "text": "c. quapropter.",
+   "note": "e of quapropter looks like ':' ('quapropt:r'); damaged sort"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "me faict, cõme contre Sodomites, Atheiſtes, & brigans",
+   "note": "final s of 'brigans' is a heavy, odd-shaped sort at the line end; read as plain s, not a marker"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "auſſi d'eſtre cohibez par inhumanité, & ferité de peine",
+   "note": "'d'eſtr e' printed with a gap before the final e and a small raised mark after d'; closed up as one word"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "uoit neceſſairement condamner iceluy du Tilh, à eſtre",
+   "note": "'neceſſairement': the 'ai' looks like 'at' (broken i?); possible wrong sort 'neceſſatrement'"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "uenu, toute pourſuyte de crimes finit, & eſt eſtainte {k}.",
+   "note": "punctuation after 'finit' could be a period or a comma"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "attacher, ou pende les corps morts & charongnes des",
+   "note": "sic: 'pende' for 'pendre'"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "confeſſeray en premier lieu, que de vexer, tourmenter,",
+   "note": "the n of 'confeſſeray' is malformed (looks like D/p), possible wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "vn choſe fort eſtrange, & reſſentant ie ne ſçay quoy de",
+   "note": "sic: 'vn choſe'"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Ter circũ Iliacos, raptauerat Hectora muros {o}.",
+   "note": "'rapt auerat' printed with a gap, closed up; italic verse"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "gieuſement meſchans, ſoient effrayez, & deſtournez de",
+   "note": "'gieuſement' letters after 'gieuſeme' are poorly printed (look like 'nr'/'or')"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "poſer aux beſtes affamées, pour d'icelles eſtre dilaniez",
+   "note": "'beſtes': the 'e' is damaged/broken"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. capitum.",
+   "note": "first letter of 'capitum' looks like e ('eapitum'); read c"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "de pœn.",
+   "note": "œ ligature not certain; could be 'poen' or 'pæn'"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "Barbaris. C. de",
+   "note": "'de' damaged, printed like \"C.'e\""
+  },
+  {
+   "where": "margin_notes[4].lines[4]",
+   "text": "C. ſi reus, vel",
+   "note": "punctuation after 'reus' could be comma or period"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "xxij. & xxiiij.",
+   "note": "first x partly damaged; line-end point could be a colon"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "des Aeneid.",
+   "note": "italic 'Ae' could be ligature Æ"
+  },
+  {
+   "where": "margin_notes[8]",
+   "text": "P. interdũ: et",
+   "note": "margin note p is printed but no marker {p} was seen in the body; expected somewhere between 'muros {o}.' and 'malefices {q}' (e.g. near 'policée,')"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "de hæredi. quæ",
+   "note": "æ in 'hæredi' and 'quæ' uncertain; could be plain a"
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "text": "c. quapropter.",
+   "note": "'quapropter' printed damaged, looks like 'quapropt:r.'"
+  },
+  {
+   "where": "margin_notes[10].lines[2]",
+   "text": "fur. cæſar.",
+   "note": "æ uncertain; could be 'caſar'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[8]",
+   "target": "blocks[0].lines[8]",
+   "spans": [
+    [
+     4,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "loy cõmande, quelque malfaicteur eſtre bruſlé, il le cõ-",
+   "b": "loy cõmande. quelque malfaicteur eſtre bruſlé, il le cõ-",
+   "text": "loy cõmande, quelque malfaicteur eſtre bruſlé, il le cõ-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "cõmande, with a comma: the clause continues (où la loy cõmande, quelque malfaicteur eſtre bruſlé, il le cõuient…); a full stop would cut the sentence in two."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "target": "blocks[2].lines[1]",
+   "spans": [
+    [
+     51,
+     57
+    ]
+   ],
+   "aligned": true,
+   "a": "grande, qu'en deteſtation d'iceluy il appartient à l'exẽ-",
+   "b": "grande, qu'en deteſtation d'iceluy il appartient à l'exé-",
+   "text": "grande, qu'en deteſtation d'iceluy il appartient à l'exẽ-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "l'exẽ-ple = l'exemple, the tilde marking the omitted m; l'exé- with an acute gives no word."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "C. vbi cauſ. fi",
+   "b": "C vbi cauſ. fi",
+   "text": "C. vbi cauſ. fi",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "target": "margin_notes[4].lines[3]",
+   "spans": [
+    [
+     14,
+     17
+    ]
+   ],
+   "aligned": true,
+   "a": "poſ. Ange. l. fi.",
+   "b": "poſ. Ange. l. [?].",
+   "text": "poſ. Ange. l. fi.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "l. fi. = lex finalis, the last law of the title (C. si reus vel accusator), a standard form used again in note k; B is an unread letter."
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "target": "margin_notes[5].lines[1]",
+   "spans": [
+    [
+     11,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "dã. xxiij. q j.",
+   "b": "dã. xxiij. q. j.",
+   "text": "dã. xxiij. q j.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

@@ -11,13 +11,13 @@ Accuracy of meaning comes first; readable, natural English second; nothing is om
 
 <!-- single -->
 Section: `{SECTION_ID}`. Output file: `translation/sections/{SECTION_ID}.md` (write only this
-file, plus the report file named at the end).
+file, the alt-choices file `{ALT_CHOICES_PATH}`, plus the report file named at the end).
 <!-- /single -->
 <!-- batch -->
 Sections, in book order ({BATCH_SIZE}): {SECTION_IDS}.
 Output: one file per section, `translation/sections/<id>.md`, each in the format below
-(write only these files, the glossary rows in the case file, and the one batch report named
-at the end).
+(write only these files, the glossary rows in the case file, the alt-choices file
+`{ALT_CHOICES_PATH}`, and the one batch report named at the end).
 
 **Read before you write.** Before translating any of it, read the French of every section
 in the batch, start to finish, and skim the rest of `text/sections.json` (the stitched
@@ -91,6 +91,18 @@ Rules:
   reading only, and list every such choice in the report (French of both, which you took, why).
   `⟨alt?:…⟩` is the same, except that the transcribers vouch for neither reading: choose the
   likelier one by context as usual, and flag it in the report as unconfirmed.
+- Your choices go back into the French transcription, so record each one machine-readably
+  as well: write `{ALT_CHOICES_PATH}`, a JSON list with one object per `alt_id` in the table
+  below, every one of them, in table order:
+  `[{"alt_id": "p067-b6l2-1", "choice": "A", "reason": "cõtrainte = contrainte, 'constraint'; cõrrainte is not a word"}]`.
+  `choice` is `"A"` (the word(s) before the marker, i.e. the line as `a` gives it), `"B"`
+  (the marker's reading, the line as `b` gives it), or `"either"` when both readings
+  translate the same and you have no basis to choose (the French then keeps reading A).
+  `reason` is one short sentence. Several markers on one line (same `where`) are one choice
+  of a whole line, so give them the same `choice`. Write the file even when the table is
+  empty (then it is `[]`).
+
+{ALT_TABLE}
 - Obscure passages: translate literally and add `[unclear: …]` with a short note. Never
   invent, never smooth over.
 - Do not add commentary beyond the Notes.
@@ -100,7 +112,7 @@ Rules:
 <!-- single -->
 Run: `uv run python scripts/check_markers.py {SECTION_ID}` and fix until it passes.
 Write a short report to `translation/reports/{SECTION_ID}.md`: word counts (French,
-English), glossary additions, any `[unclear]` passages with the French, citations you could
+English), `⟨alt⟩` choices (under a `## ⟨alt⟩ choices` heading, as in `{ALT_CHOICES_PATH}`), glossary additions, any `[unclear]` passages with the French, citations you could
 not identify, and anything the reviewer should look at. Then return the same report.
 
 RETURN ONLY a three-line summary to the coordinator (the full report lives in the file you
@@ -111,7 +123,8 @@ escalations or open questions, or "none".
 After writing each section's file, run `uv run python scripts/check_markers.py <id>` for
 that section and fix until it passes, before moving to the next section.
 Write ONE report for the batch to `{REPORT_PATH}`: per section, word counts (French,
-English), `⟨alt⟩` choices, any `[unclear]` passages with the French, citations you could
+English), `⟨alt⟩` choices (under a `## ⟨alt⟩ choices` heading: French of both readings,
+which you took, why; the same choices as `{ALT_CHOICES_PATH}`), any `[unclear]` passages with the French, citations you could
 not identify; then the glossary additions and anything the reviewer should look at.
 
 RETURN ONLY a three-line summary to the coordinator (the full report lives in the file you

@@ -9,11 +9,214 @@
   "image_no": 165,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/165"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p144",
  "next": "p146",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "was the name of that which is on this side of the Alps — which to us is Cisalpine — and it was divided by Julius Caesar and the others into three: namely into the Belgic, the Celtic and the Aquitanian. The Celts are separated from the Aquitanians by the river Garonne, descending from the mountains of Comminges, and from the Belgians by the rivers Marne (so called from Marneuf, a village one league from Langres, whence it comes) and Seine, coming from the Duchy of Burgundy. The Belgians are separated from the Germans, whom we call <i>Allemans</i>, by the river Rhine. In Belgic Gaul are the provinces of Flanders, Lorraine, Picardy and Normandy. Picardy takes its source at the borders of the Duchy of Valois, and is also divided into three parts: into the True, the Lower and the Upper. The True begins at Crèvecœur, containing the Vidamé of Amiens, Corbie, Picquigny, the Counties of Vermandois and of Rethelois, and the Duchy of Thiérache, of which Guise is the principal town. Lower Picardy begins at the country of Santerre, following True France and the Duchy of Valois, comprising the Counties of Ponthieu, of Montreuil, of Guînes, of the Boulonnais, and the country of Oye. Upper Picardy takes its beginning beyond the river Somme, and contains the Cambrésis, the Tournaisis, the Counties of Hainaut and of Namur, the country of Trier, the duchies of Luxembourg and of Brabant; indeed the County of Flanders was anciently of Upper Picardy. But whence Picardy may have drawn its name is still uncertain, unless we choose to follow the conjecture of some who — just as the Lombards are so called from their having been wont to wear long beards, or else because from them first came the use of the long javelins called <i>bardes</i> — so think the Picards to have been so named because from this people came the beginning of the use of pikes.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Some, among whom he names principally Master Dominique Pivol, and Pierre de Guilher, innkeeper of the place",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "eſtoit nommée celle qui eſt deça les Alpes, laquelle à",
+    "nous eſt Ciſalpine, & diuiſée par Iules Ceſar, & les au-",
+    "tres en trois: à ſçauoir, en la Belgique, Celtique, & A-",
+    "quitaine. Les Celtes ſont ſeparez des Aquitains par le",
+    "fleuue de Garomne, deſcendant des mõtaignes de Co-",
+    "menge, & des Belges, par les fleuues de Marne (ainſi ap-",
+    "pellé de Marneuf, village à vne lieuë de Langres, d'où",
+    "il vient) & Seine venant de la Duché de Bourgongne.",
+    "Les Belges ſont ſeparez des Germains, que nous appel-",
+    "lons Allemans, par le fleuue du Rhein. En la Gaule Bel-",
+    "gique, ſont les prouinces de Flandres, Lorraine, Picar-",
+    "die, & Normandie. La Picardie prend ſa ſource aux fins",
+    "de la Duché de Valois, & eſt auſſi diuiſee en trois par-",
+    "ties: en la vraye, en la Baſſe, & en la Haute. La Vraye",
+    "commence a Creuecœur, contenant la Vidamie d'A-",
+    "miens, Corbie, Piquigny, Comtez de Vermandois, & de",
+    "Retelois, & la Duché de Tierache, de laquelle Guyſe eſt",
+    "la ville principale. La baſſe Picardie, commẽce au pays",
+    "de Santerre, ſuyuant la vraye France, & Duché de Va-",
+    "lois, comprenant les Comtez de Põthieu, de Montreul,",
+    "de Guynes, de Boulenois, & le pays d'Oye. La haute Pi-",
+    "cardie, prend commencement au delà de la riuiere de",
+    "Somme, & contient le Cambreſis, Torneſis, Comtez",
+    "de Hainaut, de Namur, pays de Treues, duchez de Lu-",
+    "xembour, & de Brabant: voire la Comté de Flandres",
+    "eſtoit anciennement de la haute Picardie. Mais d'où la",
+    "Picardie puiſſe auoir tiré ſon nõ, il eſt encor incertain,",
+    "ſi ne voulons ſuyure la coniecture de quelques vns,",
+    "qui cõme les Lombars ſont ainſi appellez, de ce qu'ils",
+    "ſouloyent porter longues barbes, ou bien, parce que",
+    "d'eux eſt premierement venu l'vſage des longues Ia-",
+    "uelines de Barde: auſſi penſent les Picards auoir eſté",
+    "nommez ainſi, partant que de ce peuple eſt venu le cõ-",
+    "mencement de l'vſage des picques."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Quelques vns, entre leſquels nomme",
+    "principalement maiſtre Dominique Pi-",
+    "uol, & Pierre de Guilher, hoſte du lieu"
+   ]
+  }
+ ],
+ "french_notes": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "spaced capitals in the head; the E sorts of PARLEMENT look damaged/odd (could be read as I), transcribed as E"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "tres en trois: à ſçauoir, en la Belgique, Celtique, & A-",
+   "note": "'à' before ſçauoir: accent faint, could be plain 'a'"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "fleuue de Garomne, deſcendant des mõtaignes de Co-",
+   "note": "'Garomne' as printed (sic); line-end hyphen printed as a raised dot"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "ties: en la vraye, en la Baſſe, & en la Haute. La Vraye",
+   "note": "punctuation after 'vraye' (comma, low) and after 'Haute' (looks like a point, possibly a comma) doubtful"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "commence a Creuecœur, contenant la Vidamie d'A-",
+   "note": "'commence a' set tight, no accent visible on a"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "de Santerre, ſuyuant la vraye France, & Duché de Va-",
+   "note": "line-end break sign printed as a mid dot, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[0].lines[29]",
+   "text": "ſouloyent porter longues barbes, ou bien, parce que",
+   "note": "final 'que' could be a turned-letter 'qne' (sic); read as que"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "mencement de l'vſage des picques.",
+   "note": "'picques': the c looks like e ('pieques'); possible wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "tres en trois: à ſçauoir, en la Belgique, Celtique, & A-",
+   "note": "accent on 'à' before ſçauoir faint; could be plain 'a'. 'Celtique' t is a damaged sort; 'la' l broken"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "quitaine. Les Celtes ſont ſeparez des Aquitains par le",
+   "note": "final 'le' shows a mark above the e (lè?); read as ink speck"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "fleuue de Garomne, deſcendant des mõtaignes de Co-",
+   "note": "'Garomne' sic (for Garonne); line-end hyphen printed as a raised dot"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "de la Duché de Valois, & eſt auſſi diuiſee en trois par-",
+   "note": "'auſſi' could be 'auſsi'; 'diuiſee' printed without accent"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "ties: en la vraye, en la Baſſe, & en la Haute. La Vraye",
+   "note": "mark after 'vraye' read as comma; mark after 'Haute' read as period (shape unclear, could be comma)"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "commence a Creuecœur, contenant la Vidamie d'A-",
+   "note": "'a' without visible accent; 'commence' and 'a' set nearly tight"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "de Santerre, ſuyuant la vraye France, & Duché de Va-",
+   "note": "line-end hyphen printed as a dot; mark after 'Santerre' read as comma"
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "xembour, & de Brabant: voire la Comté de Flandres",
+   "note": "'Luxembour' sic (no final g)"
+  },
+  {
+   "where": "blocks[0].lines[31]",
+   "text": "uelines de Barde: auſſi penſent les Picards auoir eſté",
+   "note": "'auſſi' could be 'auſsi'"
+  },
+  {
+   "where": "folio",
+   "text": "145",
+   "note": "final 5 printed in a long-tailed form resembling ſ"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[3]",
+   "target": "blocks[0].lines[3]",
+   "spans": [
+    [
+     52,
+     54
+    ]
+   ],
+   "aligned": true,
+   "a": "quitaine. Les Celtes ſont ſeparez des Aquitains par lè",
+   "b": "quitaine. Les Celtes ſont ſeparez des Aquitains par le",
+   "text": "quitaine. Les Celtes ſont ſeparez des Aquitains par le",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "le, the article (par le fleuue de Garomne); lè is a stray accent."
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "target": "blocks[0].lines[33]",
+   "spans": [
+    [
+     25,
+     33
+    ]
+   ],
+   "aligned": true,
+   "a": "mencement de l'vſage des picques.",
+   "b": "mencement de l'vſage des pieques.",
+   "text": "mencement de l'vſage des picques.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "picques, 'pikes', the weapon from which Coras derives the name Picards; pieques is no word (c misread as e)."
+  }
+ ]
 }

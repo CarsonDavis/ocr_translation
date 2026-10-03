@@ -370,5 +370,222 @@
    "where": "margin_notes",
    "note": "the margin is badly crowded on this page and every note after g starts well below its marker — h beside body line 9 (marker on line 6), l beside line 21 (marker on line 11), p beside line 36 (marker on line 24) — until note r is driven off the margin into the foot block. beside_line values were fixed by measuring the row positions of both columns (body pitch 45.2 px, margin pitch 36.5 px in pages/read/p003.jpg) and checked against the page image; the placements for m (line 25) and q (line 38) fall close to midway between two body lines."
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     3,
+     5
+    ],
+    [
+     15,
+     33
+    ]
+   ],
+   "aligned": true,
+   "a": "en la premiere ieuneſſe deſquels, le deſir de la chair bouil",
+   "b": "en là premiere ieuneſſe-deſquels, le deſir de la chair bouil",
+   "text": "en la premiere ieuneſſe deſquels, le deſir de la chair bouil",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the mark above the a of 'la' is a small detached wedge of the same size as the specks printed above the n of 'en' and the r of 'premiere' on the same line (full/p003.jpg y~300, 6x): ink spatter, not the grave sort. Between 'ieuneſſe' and 'deſquels' there is only a pin-point speck at x-height, not the wedge word-break sign: no hyphen"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "target": "blocks[0].lines[9]",
+   "spans": [
+    [
+     15,
+     21
+    ]
+   ],
+   "aligned": true,
+   "a": "ans eurent des enfaus {k}: car Salomon eut Roboam, & A-",
+   "b": "ans eurent des enfans {k}: car Salomon eut Roboam, & A-",
+   "text": "ans eurent des enfaus {k}: car Salomon eut Roboam, & A-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the letter before the s is open at the top with serifs on both shoulders and closed at the foot: a turned n printing as u (full/p003.jpg y~1010, 5x). sic, transcribed as printed"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "target": "blocks[0].lines[10]",
+   "spans": [
+    [
+     5,
+     17
+    ]
+   ],
+   "aligned": true,
+   "a": "chaz eutEzechiel {l}. …",
+   "b": "chaz eutEzechiel {l}. …",
+   "text": "chaz eut Ezechiel {l}. Mais quoy? biẽ que l'vn enfant (ſainct",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both readers fused 'eut' and 'Ezechiel' because the sorts touch; conventions §1 normalizes word division, so the two words get one space"
+  },
+  {
+   "where": "blocks[0].lines[37]",
+   "target": "blocks[0].lines[37]",
+   "spans": [
+    [
+     37,
+     49
+    ]
+   ],
+   "aligned": true,
+   "a": "…, niAriſtote: à ſçauoir,",
+   "b": "…, niAriſtote: à ſçauoir,",
+   "text": "deuancier, & plus libre, que Platon, ni Ariſtote: à ſçauoir,",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both readers flagged 'niAriſtote' as set tight (already split in the normalized reads); distinct words, one space per §1"
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "target": "blocks[0].lines[38]",
+   "spans": [
+    [
+     48,
+     50
+    ]
+   ],
+   "aligned": true,
+   "a": "en l'an quatorzieme, à l'hõme: & au douzieme, à la fem-",
+   "b": "en l'an quatorzieme, à l'hõme: & au douzieme, à là fem-",
+   "text": "en l'an quatorzieme, à l'hõme: & au douzieme, à là fem-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a heavy short stroke leaning like a grave stands over the a of 'la' (full/p003.jpg y~3260, 6x); it is thicker and blotchier than the clean grave of 'à' two letters before, so it may be a blot rather than an accent sort, but a mark of type weight is printed there. Transcribed as printed, escalated"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "target": "margin_notes[1].lines[1]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "me en vne de",
+   "b": "meen vne de",
+   "text": "me en vne de",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "'me' (end of Hiero-me) and 'en' are distinct words; §1 word division (auto-resolved, recorded)"
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "target": "margin_notes[1].lines[3]",
+   "spans": [
+    [
+     8,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "dreſſee ad Vi-",
+   "b": "dreſſee adVi-",
+   "text": "dreſſee ad Vi-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "'ad' and 'Vi-' are distinct words; §1 word division (auto-resolved, recorded)"
+  },
+  {
+   "where": "margin_notes[6].lines[4]",
+   "target": "margin_notes[6].lines[4]",
+   "spans": [
+    [
+     3,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "c. ego ſolis, en",
+   "b": "c. egoſolis, en",
+   "text": "c. ego ſolis, en",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "'ego' and 'ſolis' are distinct words (c. Ego solis); §1 word division (auto-resolved, recorded)"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "target": "margin_notes[7].lines[1]",
+   "spans": [
+    [
+     5,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "mus. Paragr.",
+   "b": "mus. Paragt.",
+   "text": "mus. Paragt.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the last letter has a tall crossed ascender reaching cap height, the italic t, whereas the r of 'Para' is short (full/p003.jpg y~2850, 4x). sic for Paragr."
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "target": "margin_notes[8].lines[1]",
+   "spans": [
+    [
+     4,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "ea. D, de legi.",
+   "b": "ea. D. de legi.",
+   "text": "ea. D, de legi.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the mark after the swash D has a tail descending below the baseline (full/p003.jpg y~3120, 4x): a comma, unlike the round point after 'ea.'"
+  },
+  {
+   "where": "foot_notes[0]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "key null 'loix.'",
+   "b": "key null 'loix.'",
+   "text": "margin_notes[9] (key q) lines += 'loix.'",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the unkeyed foot word 'loix.' is the continuation of margin note q ('& au vi. des' / 'loix.'), driven off the margin; a note that starts in the margin and continues in the foot block is one note under its key"
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "target": "blocks[0].lines[38]",
+   "spans": [
+    [
+     48,
+     50
+    ]
+   ],
+   "aligned": true,
+   "a": "à la fem-",
+   "b": "à là fem-",
+   "text": "à la fem-",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "at 3x the mark over la is a heavy short blob, unlike the thin slanted grave of the preceding à; ink spatter"
+  }
  ]
 }

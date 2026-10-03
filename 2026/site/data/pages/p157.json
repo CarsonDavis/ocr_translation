@@ -9,11 +9,570 @@
   "image_no": 177,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/177"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p156",
  "next": "p158",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "in the crime of lèse-majesté <sup class=\"mk\" data-key=\"f\">f</sup>; whence, if the fisc is excluded by the heirs ab intestato, with all the more reason it is by the testamentary heirs, who altogether extinguish the force and virtue of intestate succession <sup class=\"mk\" data-key=\"g\">g</sup>. It is true, to say frankly <sup class=\"mk\" data-key=\"h\">h</sup> how matters stand, that these allegations are more acute and subtle than true. For as to what the interpreters of Italy say, that they have never seen the testaments of those condemned to death put in difficulty: they themselves also confess that by the law such dispositions are invalid <sup class=\"mk\" data-key=\"i\">i</sup>. And it may be, too, that they were called into doubt in the very time of those who have so written; nevertheless that did not come to their knowledge. And touching the second reason, it must be considered that the confiscation of goods is not the sole cause for which the faculty of making a testament is forbidden to those condemned to death; but there is another, and more principal: because he who is condemned to death is made a slave of the penalty <sup class=\"mk\" data-key=\"k\">k</sup>, and diminished in his head <sup class=\"mk\" data-key=\"l\">l</sup> — that is to say, he has lost his liberty, his citizenship and his family all together; or else, retaining liberty, has lost his citizenship, as we still see today in those who are confined. And so [they are] incapable of making a testament <sup class=\"mk\" data-key=\"m\">m</sup>; the more so if we confess, with the greater part of the Interpreters, that the testament is of the civil law: the slave can do nothing, nay, is esteemed as a dead thing <sup class=\"mk\" data-key=\"n\">n</sup>. Someone will perhaps be obstinate here <sup class=\"mk\" data-key=\"o\">o</sup> with Justinian, saying that he who is well born — that is to say, who is not in servitude, but of free and freeborn persons — cannot by any penalty of punishment whatever be made a slave <sup class=\"mk\" data-key=\"p\">p</sup>. To whom it will promptly be answered that this new constitution (as Accursius and the others commonly interpret <sup class=\"mk\" data-key=\"q\">q</sup>) is to be understood of those condemned to civil death, or to some other penalty short of natural death, and so of those who survive the execution of the penalty to which they are condemned, and not at all of those who are condemned to suffer natural death, that is to say the separation of body and soul <sup class=\"mk\" data-key=\"r\">r</sup>. True it is that this interpretation has always seemed to me to do too much violence to these general words of Justinian, who in",
+   "continued": true,
+   "notes": [
+    {
+     "key": "f",
+     "citation": "Authentica <i>Bona damnatorum</i> under Code 9.49 (<i>De bonis proscriptorum seu damnatorum</i>); Authenticum, coll. 9, Nov. 134.13, as at {c}",
+     "original": "Autẽt. bo na. C. de bon",
+     "gloss": "abbr: raised mark]⟨alt:bonꝰ⟩ proſcr. P. dernier. vt nullẽ⟨alt:nullĩ⟩ iud. coll. ix. [The raised mark after <i>bon</i> is the <i>-us</i> sign, for <i>bonis</i>."
+    },
+    {
+     "key": "g",
+     "citation": "Digest 29.2 (<i>De adquirenda vel omittenda hereditate</i>), l. <i>Quamdiu</i> (cf. D. 29.2.39, Ulpian)",
+     "original": "l. quandiu D. de aquir. hæred.⟨alt:hared.⟩",
+     "gloss": "<i>Quamdiu potest ex testamento adiri hereditas, ab intestato non defertur</i>: while the inheritance can be entered under the will, there is no intestate succession."
+    },
+    {
+     "key": "h",
+     "citation": "Albericus de Rosate (<i>Alberic</i>) on the Authentica <i>Bona damnatorum</i> and on l. <i>Eius</i> § <i>Si cui</i>, D. 28.1 (<i>De testamentis</i>), as at {b}",
+     "original": "Alberic en lad. auten. bona: &amp; en la l. eius. P. ſi cui D. de teſta.",
+     "gloss": "The \"allegations\" Coras calls more subtle than true."
+    },
+    {
+     "key": "i",
+     "citation": "Digest 28.3 (<i>De iniusto rupto irrito facto testamento</i>), l. <i>Si quis filio</i> § <i>Irritum</i>; Digest 28.1, l. <i>Is cui</i> § 1 (the same law as <i>Si cui</i> at {a}); Institutes 2.17.4 (§ <i>Alio quoque modo</i>); Digest 28.1, l. <i>Eius</i> § 1, cited at {a}",
+     "original": "l. ſi quis filio P. irritum. D. de iniuſt. teſt. l. is cui:⟨alt:cui.⟩ P. j D. de teſta. P. ai lio qui mod. teſta. infir. lẽ⟨alt:lĩ⟩ eius. P. j. alle. guee.",
+     "gloss": "<i>Ai lio qui mod.</i> is <i>alio quomodo</i>; <i>lẽ</i> is <i>l.</i> with a stray tilde. The <i>Si quis filio</i> / <i>Si quis exheredato</i> fragment has not been located."
+    },
+    {
+     "key": "k",
+     "citation": "Digest 48.19 (<i>De poenis</i>), l. <i>Qui ultimo</i> (D. 48.19.29, Gaius; the margin's <i>vimo</i> for <i>vltimo</i>)",
+     "original": "l. qui vimo. D. de pæ.",
+     "gloss": "<i>Qui ultimo supplicio damnantur, statim et civitatem et libertatem perdunt</i>: those condemned to the last penalty at once lose citizenship and liberty, so that the punishment anticipates death."
+    },
+    {
+     "key": "l",
+     "citation": "Institutes 2.17.4, § <i>Alio quoque modo</i> (<i>Quibus modis testamenta infirmantur</i>)",
+     "original": "P. alio qumod. teſt.⟨alt:reſt.⟩ infirm.",
+     "gloss": "A will duly made is undone if the testator suffers <i>capitis deminutio</i>."
+    },
+    {
+     "key": "m",
+     "citation": "Institutes 1.16 (<i>De capitis deminutione</i>), § <i>Maxima</i> (Inst. 1.16.1); Institutes 2.17.4, cited above",
+     "original": "P. maximde cap. diminutio. &amp; P. alio deſſus al gué.",
+     "gloss": "<i>Maxima est capitis deminutio, cum aliquis simul et civitatem et libertatem amittit</i> — the greatest diminution of head, when liberty and citizenship are lost together, as by condemnation to the mines or the beasts; the lesser, when citizenship alone is lost, as by <i>aqua et igni interdictio</i> or deportation — Coras's \"those who are confined\"."
+    },
+    {
+     "key": "n",
+     "citation": "Institutes 2.5 (<i>De usu et habitatione</i>), last §; Accursius (<i>Accurſe</i>) on l. 1, Digest 41.1 (<i>De adquirendo rerum dominio</i>); Guillaume Benoît (<i>Benedict.</i>; Benedictus), <i>Repetitio in cap. Raynutius</i> (Decretals X 3.26, <i>De testamentis</i>), on the word <i>testamentum</i>; Digest 28.1 (<i>De testamentis</i>), l. 1",
+     "original": "P. dernier de vſu &amp; ha bita. Accurſen la l. i. D. de acq. re. do. Be nedict. au. c. Rainutius ſur ce mot teſtamentum. l. i. de teſta.",
+     "gloss": "That the testament is an institution of the civil law (D. 28.1.1 defines it), and that the slave, having no civil standing, is as one dead."
+    },
+    {
+     "key": "o",
+     "citation": "Digest 50.17 (<i>De diversis regulis iuris antiqui</i>), l. <i>Quod attinet</i> (D. 50.17.32, Ulpian); Digest 48.19 (<i>De poenis</i>), l. <i>Quidam</i>",
+     "original": "l. quod attinet. D. de reg iur. l. quidam D. de pan.",
+     "gloss": "<i>Quod attinet ad ius civile, servi pro nullis habentur</i>: as far as the civil law goes, slaves are held as nobody. The <i>Quidam</i> fragment not verified."
+    },
+    {
+     "key": "p",
+     "citation": "Authenticum, coll. 4, Nov. 22 (<i>De nuptiis</i>), c. 8, § <i>Quod autem</i>",
+     "original": "P. quod aũt de nup. coll.",
+     "gloss": "The <i>iiij.</i> that opens the next margin note belongs here: <i>coll. iiij</i>. Nov. 22.8 abolishes <i>servitus poenae</i>: no freeborn person is henceforth made a slave by condemnation to the mines."
+    },
+    {
+     "key": "q",
+     "citation": "Authentica <i>Sed hodie</i> under Code 5.16 (<i>De donationibus inter virum et uxorem</i>; after C. 5.16.24); Bartolus (<i>Bartole</i>) on l. <i>Eius</i> § 1, Digest 28.1 (<i>De testamentis</i>); Digest 17.2 (<i>Pro socio</i>), l. <i>Verum</i> § <i>Societas</i> (cf. D. 17.2.63, Ulpian), and Accursius's gloss there",
+     "original": "iiij. autent ſed hodie. C. de don. inter vir. q Bartole en la l. eius P j. D. de teſt. l. veirum P. ſocietas. &amp; illec Accurſe D. pro ſocio.",
+     "gloss": "<i>Sed hodie nemo liber ex poena servus efficitur</i>: but today no free man is made a slave by a penalty — the authentica drawn from Nov. 22.8. The stray <i>q</i> after <i>vir.</i> is a wrong sort."
+    },
+    {
+     "key": "r",
+     "citation": "no marginal note",
+     "original": "the body carries the marker {r} at *ſeparation du corps, &amp; de l'ame* but the margin of p157 prints no note *r*; the alphabet passes from *q* to *ſ*.",
+     "gloss": null
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "n'eſt en crime de leſe-maieſte {f}. dont, ſi le fiſc eſt exclus",
+    "par les heritiers d'inteſtat: à plus forte raiſon, par les te",
+    "ſtamentaires, leſquels eſtaignent du tout les forces, & la",
+    "vertu de la ſucceſſion d'inteſtat {g} Il eſt vray, à dire fran",
+    "chement {h} ce qu'en eſt, que ces allegations ſont plus ai-",
+    "gues & ſubtiles, que veritables. car à ce que les interpre",
+    "tes d'Italie diſent, n'auoir oncques veu mettre en diffi-",
+    "culté les teſtamens des cõdemnez à mort: eux-meſmes",
+    "confeſſent auſſi par le droit, telles diſpoſitions eſtre in-",
+    "ualables {i}. Et peut eſtre auſſi qu'elles ont eſté reuoquees",
+    "en doute, du temps meſme de ceux qui lõt ainſi eſcrit.",
+    "Toutesfois cela ne vient point à leur cognoiſſance. Et",
+    "touchant la ſeconde raiſon, faut conſiderer que la con-",
+    "fiſcation des biẽs n'eſt pas ſeule cauſe, pour laquelle la",
+    "faculté de teſter eſt interdite aux condemnez à mort.",
+    "Mais il y a vne autre, & plus principale: partant que ce",
+    "luy qui eſt condamné à mort, eſt fait ſerf de la peine {k},",
+    "& diminue de ſon chef {l}. ceſt à dire il a perdu ſa liber",
+    "té, & ſa cité, & ſa famille enſemblement: ou bien rete-",
+    "nant la liberté, a perdu ſa cité. cõme encor nous voy-",
+    "ons ce iourd'huy en ceux qui ſont confinez. Et par ainſi",
+    "incapables à faire teſtament {m}: meſmes, ſi nous confeſ",
+    "ſons auec la plus part des Interpretes, le teſtament e",
+    "ſtre de droit ciuil, le ſerf ne peut rien: voire eſt eſtimé",
+    "comme vne ehoſe morte {n}, Quelcun peut eſtre ſ'obſti-",
+    "nera ici {o} auec Iuſtinien, diſant que celuy qui eſt biẽ né,",
+    "ceſt à dire qui n'eſt point en ſeruitude, mais de perſon-",
+    "nes franches & libres, ne peut eſtre par peine quelcon-",
+    "que de ſupplice, fait ſerf {p}. auquel ſera promptement",
+    "reſpondu, que ceſte nouuelle conſtitution (ainſi qu'Ac-",
+    "curſe, & les autres communement interpretẽt {q}) ſe",
+    "doit entendre des condemnez à mort ciuile, ou au",
+    "tre peine excluſiue de mort naturelle. Et par ainſi",
+    "de ceux qui ſuruiennent à l'execution de la peine, à",
+    "laquelle ſont condemnez, Et non mie de ceux qui",
+    "ſont condemnez à ſouffrir mort naturelle. C'eſt à di-",
+    "re, ſeparation du corps, & de l'ame {r}. Vray que ceſte",
+    "interpretation m'a touſiours ſemblé violenter par",
+    "trop ces paroles generales de Iuſtinien. lequel en"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Autẽt. bo",
+    "na. C. de bonꝰ",
+    "proſcr. P. der-",
+    "nier. vt nullĩ",
+    "iud. coll. ix."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. quandiu",
+    "D. de aquir.",
+    "hæred."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "Alberic",
+    "en lad. auten.",
+    "bona: & en la",
+    "l. eius. P. ſi cui",
+    "D. de teſta."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. ſi quis",
+    "filio",
+    "P. irritum. D.",
+    "de iniuſt. teſt.",
+    "l. is cui: P. j D.",
+    "de teſta. P. ai",
+    "lio qui mod.",
+    "teſta. infir. lẽ",
+    "eius. P. j. alle.",
+    "guee."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. qui vi-",
+    "mo. D. de pæ."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "P. alio qu-",
+    "mod. teſt. in-",
+    "firm."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "P. maxim-",
+    "de cap. dimi-",
+    "nutio. & P. a-",
+    "lio deſſus al",
+    "gué."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "P. dernier",
+    "de vſu & ha",
+    "bita. Accurſ-",
+    "en la l. i. D. de",
+    "acq. re. do. Be",
+    "nedict. au. c.",
+    "Rainutius ſur",
+    "ce mot teſta-",
+    "mentum. l. i. de",
+    "teſta."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "l. quod atti-",
+    "net. D. de reg",
+    "iur. l. quidam",
+    "D. de pan."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "P. quod aũt",
+    "de nup. coll."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "foot",
+   "lines": [
+    "iiij. autent ſed hodie. C. de don. inter vir. q Bartole en la l. eius P j. D. de teſt. l. veirum P.",
+    "ſocietas. & illec Accurſe D. pro ſocio."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "par les heritiers d'inteſtat: à plus forte raiſon, par les te",
+   "note": "colon after inteſtat; could be a semicolon"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "vertu de la ſucceſſion d'inteſtat {g} Il eſt vray, à dire fran",
+   "note": "no punctuation visible after marker g"
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "confeſſent auſſi par le droit, telles diſpoſitions eſtre in-",
+   "note": "small faint mark after 'in' read as break sign '-'; may be a stray dot"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "en doute, du temps meſme de ceux qui lõt ainſi eſcrit.",
+   "note": "'lõt' as printed (for l'õt), sic"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "touchant la ſeconde raiſon, faut conſiderer que la con-",
+   "note": "faint line-end mark after 'con' read as break sign '-'"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "té, & ſa cité, & ſa famille enſemblement: ou bien rete-",
+   "note": "faint line-end mark after 'rete' read as break sign '-'"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "Mais il y a vne autre, & plus principale: partant que ce",
+   "note": "'il' printed with a dotless or broken i"
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "comme vne ehoſe morte {n}, Quelcun peut eſtre ſ'obſti-",
+   "note": "'ehoſe' as printed (wrong sort for choſe), sic; marker printed as a round dark blob, read as n by sequence (m precedes, note n in margin); could be o"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "nera ici {o} auec Iuſtinien, diſant que celuy qui eſt biẽ né,",
+   "note": "between 'ici' and 'auec' a small raised mark like '!' or 'l''; read as marker o by sequence (note o in margin, no other o marker in body); might instead be a broken sort (icy/ici l')"
+  },
+  {
+   "where": "blocks[0].lines[29]",
+   "text": "reſpondu, que ceſte nouuelle conſtitution (ainſi qu'Ac-",
+   "note": "faint line-end mark after 'Ac' read as break sign '-'"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "curſe, & les autres communement interpretẽt {q}) ſe",
+   "note": "tilde over the second e of interpretẽt"
+  },
+  {
+   "where": "blocks[0].lines[34]",
+   "text": "laquelle ſont condemnez, Et non mie de ceux qui",
+   "note": "'ſont' prints like 'iont' (broken long s); also 'ſouffrir' in the next line"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "ſont condemnez à ſouffrir mort naturelle. C'eſt à di-",
+   "note": "faint line-end mark after 'di' read as break sign '-'"
+  },
+  {
+   "where": "blocks[0].lines[36]",
+   "text": "re, ſeparation du corps, & de l'ame {r}. Vray que ceſte",
+   "note": "marker r has no note on this page (margin ends with p, foot block carries q); r note presumably on next page"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "Alberic",
+   "note": "note h has no visible marker h in the body (expected between g and i, around lines 4-8)"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "hæred.",
+   "note": "could be 'hared.'; æ not certain"
+  },
+  {
+   "where": "margin_notes[3].lines[4]",
+   "text": "l. is cui: P. j D.",
+   "note": "after 'cui' a small raised o-like mark over a dot; read as colon"
+  },
+  {
+   "where": "margin_notes[3].lines[7]",
+   "text": "teſta. infir. lẽ",
+   "note": "'lẽ' uncertain; l with a mark above, possibly 'l.'"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "l. qui vi-",
+   "note": "line-end mark after 'vi' unclear (break sign or superscript letter); key k looks like x"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "de cap. dimi-",
+   "note": "end of line unclear (dimi- / dimia); continues 'nutio'"
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "text": "D. de pan.",
+   "note": "'pan.' as printed (for pœn.?), sic"
+  },
+  {
+   "where": "foot_notes[0].lines[0]",
+   "text": "iiij. autent ſed hodie. C. de don. inter vir. q Bartole en la l. eius P j. D. de teſt. l. veirum P.",
+   "note": "foot block: 'iiij. autent ſed hodie. C. de don. inter vir.' is the continuation of margin note p (coll. iiij.); note q begins mid-line at 'q Bartole'; line kept whole as printed. 'veirum' as printed, sic"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "chement {h} ce qu'en eſt, que ces allegations ſont plus ai-",
+   "note": "the h marker is a blotted mark after 'chement' that looks like a semicolon; read as {h} from the alphabet (g before, i after) and the margin note h. The line-end sign after 'ai' is a faint dot/short stroke, taken as a hyphen"
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "confeſſent auſſi par le droit, telles diſpoſitions eſtre in-",
+   "note": "line-end sign is a faint dot/short stroke, taken as a hyphen; the same applies to 'con-' (line 12), 'rete-' (line 18), 'Ac-' (line 29) and 'di-' (line 35)"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "en doute, du temps meſme de ceux qui lõt ainſi eſcrit.",
+   "note": "'lõt' as printed (= l'ont)"
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "comme vne ehoſe morte {n}, Quelcun peut eſtre ſ'obſti-",
+   "note": "'ehoſe' sic for 'choſe'. The marker after 'morte' prints as a round blot; keyed n from the alphabet order (m before, o after), but the n/o assignment of this line and the next is inferred, not read"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "nera ici {o} auec Iuſtinien, diſant que celuy qui eſt biẽ né,",
+   "note": "the marker after 'ici' prints as a small raised mark like '!' or 'l'; keyed o by alphabet order; see previous entry"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "curſe, & les autres communement interpretẽt {q}) ſe",
+   "note": "mark over the second e of 'interpretẽt' could be an acute or a tilde; tilde read (= interpretent)"
+  },
+  {
+   "where": "blocks[0].lines[36]",
+   "text": "re, ſeparation du corps, & de l'ame {r}. Vray que ceſte",
+   "note": "marker r has no visible note in the margin or foot block"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Autẽt. bo",
+   "note": "mark over e of 'Autẽt' read as tilde; a stray hyphen-like mark sits above the line end at the far right, perhaps the hyphen for 'bo'"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "na. C. de bonꝰ",
+   "note": "abbreviation sign after 'bon' is a small raised mark, transcribed as ꝰ; could be another superscript sign"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "nier. vt nullĩ",
+   "note": "mark over the final letter of 'nullĩ' read as tilde over i; could be ẽ"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "l. qui vi-",
+   "note": "the note's key letter prints as 'x', but the body marker between i and l is k; keyed k. The mark after 'vi' is a small raised sign, read as a hyphen (qui vl-/timo?)"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "P. maxim-",
+   "note": "line-end sign after 'maxim' may be a hyphen or a tilde; same for 'dimi-' in the next line"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "bita. Accurſ-",
+   "note": "'Accurſ-' as printed with a line-end hyphen after long s"
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "text": "D. de pan.",
+   "note": "could be 'pæn.'"
+  },
+  {
+   "where": "foot_notes[0].lines[0]",
+   "text": "iiij. autent ſed hodie. C. de don. inter vir. q Bartole en la l. eius P j. D. de teſt. l. veirum P.",
+   "note": "the foot block begins with the continuation of margin note p ('iiij. autent ſed hodie. C. de don. inter vir.'); note q begins at the printed key letter 'q' in mid-line, kept in the line because the line cannot be split. 'veirum' sic, probably for 'verum'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[4]",
+   "target": "blocks[0].lines[4]",
+   "spans": [
+    [
+     0,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "chement; ce qu'en eſt, que ces allegations ſont plus ai-",
+   "b": "chement {h} ce qu'en eſt, que ces allegations ſont plus ai-",
+   "text": "chement {h} ce qu'en eſt, que ces allegations ſont plus ai-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "the margin of p157 prints a note h (Alberic en lad. auten. bona) that fits this sentence, and the body alphabet otherwise skips from g to i; a superscript h read as a semicolon"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     10,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "na. C. de bon[abbr: raised mark]",
+   "b": "na. C. de bonꝰ",
+   "text": "na. C. de bonꝰ",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "the raised mark is the -us sign ꝰ (bonꝰ = bonis, C. de bonis proscriptorum), which Unicode has and the conventions prefer to a description; translation unaffected"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "target": "margin_notes[0].lines[3]",
+   "spans": [
+    [
+     9,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "nier. vt nullẽ",
+   "b": "nier. vt nullĩ",
+   "text": "nier. vt nullĩ",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "the title is vt nulli iudicum (Nov. 134, coll. ix), as note c on p156 prints it: nulli, so the vowel is i; the tilde is stray either way; translation unaffected"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "target": "margin_notes[1].lines[2]",
+   "spans": [
+    [
+     0,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "hæred.",
+   "b": "hared.",
+   "text": "hæred.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "hæred. = hereditate (D. de adquirenda hereditate); hared. is no word"
+  },
+  {
+   "where": "margin_notes[3].lines[4]",
+   "target": "margin_notes[3].lines[4]",
+   "spans": [
+    [
+     6,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "l. is cui: P. j D.",
+   "b": "l. is cui. P. j D.",
+   "text": "l. is cui: P. j D.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[3].lines[7]",
+   "target": "margin_notes[3].lines[7]",
+   "spans": [
+    [
+     14,
+     16
+    ]
+   ],
+   "aligned": true,
+   "a": "teſta. infir. lẽ",
+   "b": "teſta. infir. lĩ",
+   "text": "teſta. infir. lẽ",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "target": "margin_notes[5].lines[1]",
+   "spans": [
+    [
+     5,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "mod. teſt. in-",
+   "b": "mod. reſt. in-",
+   "text": "mod. teſt. in-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "teſt. = testamenta (§ Alio quoque modo testamenta infirmantur, Inst. 2.17.4); reſt. is nothing"
+  }
+ ]
 }

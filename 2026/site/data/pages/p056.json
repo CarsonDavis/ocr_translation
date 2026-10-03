@@ -9,11 +9,251 @@
   "image_no": 78,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/78"
  },
- "running_head": null,
+ "running_head": "ARREST DV.",
  "prev": "p055",
  "next": "p057",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "so difficult that several have thought it could not be expressed by any characters of letters: nevertheless it is not likely that a native Basque should not know how to speak his language: for to be ignorant of, or to have forgotten, one's native tongue [<i>ramage</i>] cannot proceed but either from foolishness and silliness, or from an accident of illness, or from old age. From stolidity and foolishness: as with one Amphistides, so dull and idiotic that he could not say whether he had been born of a father or of a mother; and Atticus, son of Herodes the Sophist, who was so silly and dull-witted that he could never learn, nor retain, the names of the letters. By accident of some great illness: as one Messala Corvinus, an excellent orator, whom the remains of a strong and vehement illness made forget his own name; and certain others, for having fallen from the top of a house, or received some blows of stones, [it made] forget their letters, and fail to recognise their nearest kinsfolk and friends <sup class=\"mk\" data-key=\"a\">a</sup>. By extreme old age and decrepitude: as with Francesco Barbaro, who in his decaying years forgot the Greek letters, in which before he excelled; and George of Trebizond, who in his last age forgot both the Greek and the Latin. And in my time Philippus Decius, an excellent Jurisconsult, was so overwhelmed with old age in the year 1536 (at which time he honoured me with the degree of Doctorate at Siena) that he did not remember any law or paragraph of our law: nay, he could scarcely utter a little word of Latin, so that when he wished to give me the insignia of the degree, and to say these three words — both the place and the time demand that we dispatch the matter in few words (<i>Et locus, &amp; tempus postulant, ut paucis rem absolvamus</i>) — which was the beginning of his oration, he stood almost half a quarter of an hour, so that it was necessary that another doctor of the college take up the speech. But this rustic here, du Thil, of whom we treat, was neither foolish, nor old, nor sick.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Pliny, <i>Natural History</i>, book 7, chapter 14 as printed (the chapter on memory is 7.24 in the old division, 7.88–90 in the modern; the transcription confirms the print reads <i>xiiij</i>); Solinus, <i>Collectanea rerum memorabilium</i> (the <i>Polyhistor</i>), chapter 7 as cited (number unverified; the passage on memory is in chapter 1 of the modern division)",
+     "original": "Pline au li. vij. c. xiiij. Solin en ſon Po lihiſt. c. vij.",
+     "gloss": "Pliny: Messala Corvinus forgot his own name; a man struck by a stone forgot his letters; another, fallen from a roof, no longer knew his mother, kinsfolk and neighbours."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "The fourth: it results from several witnesses that the said du Tilh has been from his childhood steeped and consummate in all vices:",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "tellement difficile, que pluſieurs ont penſé qu'elle ne ſe",
+    "pouuoit exprimer par aucuns caractaires de lettres:",
+    "toutesfois n'eſt-il vray ſemblable, qu' vn Baſcouz na-",
+    "turel ne ſçache parler ſa langue: car d'ignorer ou d'auoir",
+    "oublié ſon ramage, ne peut proceder, qu'ou bien de",
+    "ſotiſe, & niaiſerie, ou d'accident de maladie, ou de vieil-",
+    "lieſſe. De ſtolidité, & ſotiſe: cõme à vn Amphyſtides, ſi",
+    "lourdault & idiot, qu'il ne ſçauoit dire ſ'il auoit eſté né",
+    "de pere ou de mere: & Attique, fils d'Herode Sophyſte,",
+    "qui fut ſi niais & hebeſté, de ne ſçauoir oncques appren-",
+    "dre, ni retenir, les noms des elemens. Par accident de",
+    "quelque grande maladie: comme vn Meſſale Coruin,",
+    "orateur excellent, à qui les reliques d'vne forte & vehe-",
+    "mente maladie firent oublier ſon propre nom: & à",
+    "certains autres, pour eſtre tõbez du hault d'vne maiſon,",
+    "ou auoir receu quelques coups de pierre, faire oublier",
+    "les lettres, & meſcongnoiſtre ſes plus proches parens",
+    "& amis {a}. Par extreme viellieſſe, & decrepitude: cõme à",
+    "Frãçoys Barbare, qui en ſes caduques ans, mit en oubli",
+    "les lettres Grecques, eſquelles au parauãt il excelloit: &",
+    "Georges Trapezonce, en ſon dernier aage oublia, & les",
+    "Grecques, & les Latines. Et de mõ temps Philippe Dece",
+    "Iuriſconſulte excellẽt, eſtoit ſi accablé de vieilleſſe, l'an",
+    "1536. (auquel tẽps il m'honnora du degré de Doctorat",
+    "a Siẽne) qu'il ne ſe ſouuenoit d'aucune loy, ou Paragra",
+    "phe de noſtre droict: voire à peine ſçanoit il exprimer",
+    "vn petit mot de Latin, tellement que lors qu'il me vou",
+    "lut donner les inſignes du degré, & dire ces trois mots,",
+    "Et locus, & tempus poſtulãt, vt paucis rem ab-",
+    "ſoluamus, qui eſtoit le commencement de ſon orai-",
+    "ſon: il demeura preſque demi quart d'heure, dont con-",
+    "uint qu'vn autre docteur du college priſt la parole.",
+    "Mais ce ruſtre ici du Thil, duquel nous traittons n'e-",
+    "ſtoit ſot, ni vieux, ni malade."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "La qua trieme, par pluſieurs teſmoins,",
+    "reſulte, que ledit du Tilh a eſté dés ſon",
+    "enfance, cõfit & cõſommé en tous vices:"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Pline au li.",
+    "vij. c. xiiij. So-",
+    "lin en ſon Po",
+    "lihiſt. c. vij."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks",
+   "note": "counts for the reconciler: 38 printed lines in the body column — 34 in blocks[0] (one paragraph, running on from p055), the display line TEXTE. (blocks[1]), and 3 in blocks[2] (the TEXTE excerpt, running on to p057). One marker ({a}, blocks[0].lines[17]) and one margin note (key a); no foot citation block, no signature, no catchword, no ornament, no decorated initial."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "page quality: the leaf is clean, evenly inked and in sharp focus; no damage, no stain and no faint patch touches the type, and nothing is lost to the gutter. Show-through of the recto is visible but is plainly offset, not text. The narrow strip of the facing page along the right (gutter) edge of the crops has been ignored throughout. The doubts below are about letterforms, compositor's spacing and one over-inked sort, not about legibility."
+  },
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "the head is set in spaced capitals (A R R E S T  D V.) and closed up per §3. NOTE FOR THE RECONCILER: a clear round point IS printed after the V (checked at 10x, a solid round dot on the baseline, the same size as the abbreviation points in the margin). Every other verso in transcription/final records 'ARREST DV' with no point, and p020/p042 note explicitly that none is printed there — so this page differs from house practice and the point is transcribed as printed per §5."
+  },
+  {
+   "where": "folio",
+   "text": "56",
+   "note": "printed at the outer (left) edge of the head line, old-style 5 with a descender; matches the manifest's expected folio 56."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "continues_prev: the page opens mid-sentence with 'tellement difficile, que pluſieurs ont penſé' — the tail of a clause begun on p055, which is not transcribed yet, so the flag rests on the sense alone. continues_next is false: blocks[0] ends 'ni malade.' with a full point and the heading TEXTE. follows. blocks[2] ends 'en tous vices:' with a colon and no terminal point, so that block runs on to p057."
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "pouuoit exprimer par aucuns caractaires de lettres:",
+   "note": "sic, wrong sort: 'caractaires' for 'caracteres'. Checked at 4x — the sixth and seventh sorts are a clear round a followed by i (dotted), not an e. Transcribed as printed per §7."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "toutesfois n'eſt-il vray ſemblable, qu' vn Baſcouz na-",
+   "note": "two points here. (1) A small dark mark sits on the baseline in the wide space between 'vray' and 'ſemblable' (7x). It is slightly irregular and has a second, fainter speck below-left of it; it is smaller and less round than the printed points on this page, so I read it as an ink speck or a risen space, not a period, and transcribe a plain space. A reader who reads it as a point would give 'vray. ſemblable'. (2) The print sets 'qu' vn' with a full word space after the apostrophe; apostrophes are left as printed per §2 and the gap is normalized to one space per §1, giving 'qu' vn'. Reader A may close it to \"qu'vn\"."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "oublié ſon ramage, ne peut proceder, qu'ou bien de",
+   "note": "'qu'ou' as printed (o then u, checked at 4x), without the grave the sense ('qu'où') would want. Not emended, per §2 (do not add accents the print lacks)."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſotiſe, & niaiſerie, ou d'accident de maladie, ou de vieil-",
+   "note": "the word-break hyphen after 'vieil' is printed; the word runs on to 'lieſſe.' on the next line, giving 'vieillieſſe' (sic). See lines[17], where the same word is set 'viellieſſe', and lines[22], where it is correctly 'vieilleſſe'."
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "lieſſe. De ſtolidité, & ſotiſe: cõme à vn Amphyſtides, ſi",
+   "note": "double-s checked at 5x per the reader's checklist: 'lieſſe' is long s + long s (two tall stems, no round s), so ˝ſſ˝ and not 'ſs'. The same check was made and gave ſſ for 'Meſſale' (lines[11]), 'viellieſſe' (lines[17]) and 'vieilleſſe' (lines[22]). No 'ſs' spelling occurs on this page."
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "& amis {a}. Par extreme viellieſſe, & decrepitude: cõme à",
+   "note": "sic: 'viellieſſe' — v, i, e, l, l, i, e, ſſ, e, checked at 5x (the i between the double l and the e is clearly dotted). Not emended to 'vieilleſſe'. The marker {a} is a small italic a immediately after 'amis', with the point following it."
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "a Siẽne) qu'il ne ſe ſouuenoit d'aucune loy, ou Paragra",
+   "note": "three points. (1) 'a' carries no grave; transcribed as printed per §2. (2) 'Siẽne': the mark over the e is the nasal abbreviation sort (fairly straight, slightly thickened at the left), taken as the tilde per §2 and written ẽ, for 'Sienne'; a reader could take it for a plain macron. (3) The print sets 'Siẽne)qu'il' with no gap after the closing parenthesis; normalized to a space outside the parenthesis per §1. The apostrophe of qu'il is faint but present at 11x. The line ends 'Paragra' with no word-break hyphen, running on to 'phe' — normal for this print (§1)."
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "phe de noſtre droict: voire à peine ſçanoit il exprimer",
+   "note": "sic, WRONG SORT: 'ſçanoit' for 'ſçauoit'. At 5x the fourth sort is an n — a shoulder springing from the top of the left stem and closed at the top — and not the open-topped u of 'ſçauoit' in lines[7] of this same block, which was compared directly. Transcribed as printed per §7. A small baseline speck also sits in the wide space between 'ſçanoit' and 'il' (same appearance as the one on lines[2]); read as a risen space or speck, not a point."
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "vn petit mot de Latin, tellement que lors qu'il me vou",
+   "note": "the line ends 'vou' with no word-break hyphen and runs on to 'lut'; likewise lines[24] ends 'Paragra'. No hyphen is missing from the transcription — none is printed (§1)."
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "Et locus, & tempus poſtulãt, vt paucis rem ab-",
+   "note": "lines[28] and the first word of lines[29] ('ſoluamus,') are set in italic: the Latin tag Coras quotes, running on inside the prose rather than set apart, so it stays inside the paragraph block per §6. Both ampersands are the italic swash & (a 'ct'-like form) and are transcribed '&' per §2; 'vt' is the italic v. The nasal mark over the a of 'poſtulãt' is the tilde sort. The line is indented on the page but that is display spacing only, not a heading."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "TEXTE.",
+   "note": "one display line, centred, in spaced capitals (T E X T E .) and closed up per §3; spaced_caps is set. The terminal point is printed."
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "La quatrieme, par pluſieurs teſmoins,",
+   "note": "the compositor sets 'qua trieme' with a thin space inside the single word (checked at 4x; the gap is narrower than the word space in 'trieme, par'). Since it falls inside one word and §1 puts the judging of gaps outside the reader's job and normalizes whitespace, it is closed up here to 'quatrieme'. Flagged because reader A may split it."
+  },
+  {
+   "where": "blocks[2]",
+   "note": "the TEXTE excerpt is set in a larger roman than the annotation above it and is indented on its first line; it is a new sentence, so continues_prev is false. It breaks off at 'en tous vices:' at the foot of the type page, so continues_next is true."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "the key letter printed at the head of the note is over-inked to a near-solid blob (7x); its outline is that of an italic a (round bowl with a right-hand tail), and the body marker on blocks[0].lines[17] is an unambiguous italic a, so the key is read 'a'. It is the only marker and the only note on the page, so the printer's alphabet cannot be checked against a neighbour here: p055 is not transcribed yet, and a single 'a' standing alone suggests the alphabet restarts at this ANNOTAT. section rather than continuing from p055. The reconciler should confirm against p055 when it is done. The key letter is not part of lines, per §9."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "vij. c. xiiij. So-",
+   "note": "the numerals are the italic fount's i/j sorts; 'vij' is v + i + j (the last with a descender), and the second numeral shows one x followed by four dotted minims, the last with a descender, so 'xiiij' (14) and not 'xxiiij' (24). Checked at 14x. Noted because Pliny's memory chapter is usually cited as Nat. hist. vii. 24, so the sense would prefer xxiiij; only one x is printed. The print sets 'vij.c.xiiij.So-' tight; the spaces after the points are supplied per §1. The line-end hyphen after 'So' is printed (the margin fount's short raised stroke) and 'Solin' runs on to the next line."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "lin en ſon Po",
+   "note": "the line ends 'Po' with no hyphen, running on to 'lihiſt.' — the word is Polihiſt(oire), i.e. Solinus, Polyhistor. Normal for this print (§1), no hyphen supplied."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "lihiſt. c. vij.",
+   "note": "set 'lihiſt.c.vij.' tight with a ſt ligature; the spaces after the points are supplied per §1, the ligature decomposed per §2. The final point is printed."
+  },
+  {
+   "where": "foot_notes",
+   "note": "there is no foot citation block: the single citation fits in the outer margin and the whole lower area below the last body line is blank paper. No signature (this is a verso) and no catchword is printed — the lower quarter of the leaf carries nothing but show-through."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "toutesfois n'eſt-il vray ſemblable, qu' vn Baſcouz na-",
+   "note": "validator long-s warning checked against the image: 'toutesfois' is printed with a ROUND s before the f (§2: long s is not used before f), so no normalization has occurred here. 'Baſcouz' has long s. The mid-line hyphen of \"n'eſt-il\" is printed."
+  }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "reads agree on every line but the verse line 'Vt'/'vt' paucis; coordinator checked at 1.5x: x-height italic v, lowercase; B correct"
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "target": "blocks[0].lines[28]",
+   "spans": [
+    [
+     29,
+     31
+    ]
+   ],
+   "aligned": true,
+   "a": "Et locus, & tempus poſtulãt, Vt paucis rem ab-",
+   "b": "Et locus, & tempus poſtulãt, vt paucis rem ab-",
+   "text": "Et locus, & tempus poſtulãt, vt paucis rem ab-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "coordinator checked the 1.5x crop: x-height italic v"
+  }
+ ]
 }

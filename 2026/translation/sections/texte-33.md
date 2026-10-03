@@ -1,10 +1,10 @@
 ---
 id: texte-33
-pages: [p055]
+pages: [p054]
 ---
-⟦p055⟧The second reason was a summary inquiry [*sommaire apprise*], made by the Judge of Rieux upon the likeness of the prisoner with Sanxi Guerre, son of Martin, by which it is reported, as has been said, that there is no likeness: which several of the witnesses heard in the said inquiries also confirm.
+⟦p054⟧Sixthly, two other witnesses depose that a soldier from Rochefort, not long ago, passed through the place of Artigat, who, astonished to see the said du Tilh call himself Martin Guerre, said aloud that he was a trickster: for Martin Guerre was in Flanders, having only one leg, and the other of wood, for having lost the one from a cannon-shot before Saint-Quentin, on St Lawrence's day.
 
 ## Notes
-The print heads this section TEXTE. on p055. *Sommaire appriſe* is rendered "summary inquiry" as in texte-25, with the French in brackets; "as has been said" refers back to texte-25, where the two summary inquiries are first reported. *Semblance / ſimilitude* → "likeness", per the glossary. The reflow leaves gaps inside *Guer re*, *rappor té* and *ſimili tude* where the print broke the words without a hyphen.
+The print heads this section TEXTE. on p054. The print's punctuation is disordered here (*ſoy dire, Mar tin Guerre*; *l'vne. d'vn coup*; *qu il* without apostrophe); it is read through. *Trompeur* → "trickster", matching the glossary's *tromperie* → "trickery". *La iournee de S. Laurens*, St Lawrence's day, 10 August 1557, the battle of Saint-Quentin (case file §2). Ringold and Lewis: "a fraud".
 
 - (none: this section carries no marginal citations.)

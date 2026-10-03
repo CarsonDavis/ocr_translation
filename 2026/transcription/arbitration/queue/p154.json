@@ -1,0 +1,38 @@
+{
+ "page": "p154",
+ "a": "transcription/reads/A/p154.json",
+ "b": "transcription/reads/B/p154.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-g-0",
+   "kind": "note",
+   "key": "g",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[9].lines[0]",
+   "where_b": "margin_notes[9].lines[0]",
+   "a": "l j. ij. & iij.",
+   "b": "l. j. ij. & iij.",
+   "context_before": null,
+   "context_after": "D de donati.",
+   "strip": "pages/strips/p154/margin-4.jpg",
+   "crop": "crops/p154/n-g-0.jpg"
+  },
+  {
+   "id": "n-g-1",
+   "kind": "note",
+   "key": "g",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[9].lines[1]",
+   "where_b": "margin_notes[9].lines[1]",
+   "a": "D de donati.",
+   "b": "D. de donati.",
+   "context_before": "l j. ij. & iij.",
+   "context_after": "inter vir.",
+   "strip": "pages/strips/p154/margin-4.jpg",
+   "crop": "crops/p154/n-g-1.jpg"
+  }
+ ]
+}

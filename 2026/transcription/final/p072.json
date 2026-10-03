@@ -1,0 +1,296 @@
+{
+ "id": "p072",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "ARREST DV.",
+ "folio": "72",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "cent {m}. & par ainſi d'embraſſer l'opinion plus douce.",
+    "plus humaine, & qui tend à la deliurance de l'accuſé {n}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTB.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Suiuant laquelle opinion, comme la",
+    "plus equitable, ſẽble que les cõiectures,",
+    "& argumens deduits au contraire, ne",
+    "ſont rien, ou bien peu. Car quant au pre-",
+    "mier du nombre des teſmoins, la reſpõ-",
+    "ſe eſt claire, par ce que deſſus eſt dit, qu'",
+    "aux teſmoins depoſans pour le priſõnier,",
+    "bien qu'ils ne ſoyent pas en ſi grand nõ-",
+    "bre, neantmoins faut donner plus de",
+    "foy: tant par ce qu'ils depoſent choſes",
+    "plus vray-ſemblables."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il ne fault pas tant regarder à la numeroſité & mul-",
+    "titude des teſmoins, qu'à la veriſimilitude de ce qu'ilz",
+    "depoſent {a}: de maniere, qu'il faut donner plus de foy",
+    "à eux qui depoſent choſes vray-ſemblables, qu'aux au-",
+    "tres: encor qu'ils ſoyent en beaucoup plus grand nom-",
+    "bre {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Que pour autant auſsi qu'ils affermẽt",
+    "& depoſent en faueur du mariage, des",
+    "enfans, & du preuenu."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ces trois poincts eſtoyent en grande conſideration",
+    "pour le preuenu: car en premier lieu, on donne beau-",
+    "coup plus de foy à deux teſmoins qui aſſeurent quel-",
+    "que faict, qu'à mille autres {a2}. Et apres, és choſes qui",
+    "ont quelque doute, la faueur, ou du mariage ou des",
+    "enfans, ou du preuenu font tomber la balance (comme",
+    "peu deuant a eſté dit) de ce coſté {b2}: plus forte raiſon"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "Il ne fault pas tant regarder à la numeroſité & mul-",
+   "lines": [
+    "c. licet cau",
+    "ſam. de prob.",
+    "c & in noſtra",
+    "de teſtib."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "à eux qui depoſent choſes vray-ſemblables, qu'aux au-",
+   "lines": [
+    "l. ob car-",
+    "nem. P fina.",
+    "D. de teſtib."
+   ]
+  },
+  {
+   "key": "a2",
+   "beside_line": "enfans, & du preuenu.",
+   "lines": [
+    "Accurſe en",
+    "la l. diem. P.",
+    "ſi plures. D.",
+    "de recep arb."
+   ]
+  },
+  {
+   "key": "b2",
+   "beside_line": "pour le preuenu: car en premier lieu, on donne beau-",
+   "lines": [
+    "l. Arrianus.",
+    "D de actio &",
+    "oblig. c. fina.",
+    "de re iud."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "ont quelque doute, la faueur, ou du mariage ou des",
+   "lines": [
+    "Aud. itaque.",
+    "C. con. de ſuc."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "cent {m}. & par ainſi d'embraſſer l'opinion plus douce.",
+   "note": "marker m: its note is not on this page (presumably on p071's margin); line-end mark after 'douce' is a heavy dot at mid-height, read as period, could be a defective comma"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "plus humaine, & qui tend à la deliurance de l'accuſé {n}.",
+   "note": "marker n has no note on this page; presumably on p071"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTB.",
+   "note": "sic: last letter prints as B rather than E (wrong sort or damaged E)"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "ſont rien, ou bien peu. Car quant au pre-",
+   "note": "first letter looks close to f; read ſ by the word (ſont = are)"
+  },
+  {
+   "where": "blocks[8].lines[5]",
+   "text": "enfans, ou du preuenu font tomber la balance (comme",
+   "note": "read 'font' (make) with f; the glyph has a crossbar"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "c & in noſtra",
+   "note": "first sort looks like c with a mark under it (ę-like); may be 'c.'"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "c. licet cau",
+   "note": "a stray slash-like mark after 'c.' ignored"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "de recep arb.",
+   "note": "final point could be a comma"
+  },
+  {
+   "where": "margin_notes[4]",
+   "text": "Aud. itaque. / C. con. de ſuc.",
+   "note": "note c has no marker on this page (Annot. LII body shows only a2 and b2); marker c presumably falls on p073; 'Aud.' as printed (Auth.?); 'C.' is a swash capital C"
+  },
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "period printed after DV; kept as printed"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "cent {m}. & par ainſi d'embraſſer l'opinion plus douce.",
+   "note": "marker m: no note on this page, presumably on p071. Line-final mark after 'douce' is a heavy round dot at mid-height, read as period; could be a badly inked comma"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "plus humaine, & qui tend à la deliurance de l'accuſé {n}.",
+   "note": "marker n: no note on this page, presumably on p071"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTB.",
+   "note": "sic? last letter looks like B rather than E (wrong or damaged sort); intended TEXTE.",
+   "escalate": true
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "ſont rien, ou bien peu. Car quant au pre-",
+   "note": "first glyph looks like f with crossbar; read as ſ by the word (ſont)"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Il ne fault pas tant regarder à la numeroſité & mul-",
+   "note": "'tant' final letter looks s-like ('tans'); possible wrong sort. Line-end hyphen printed as a square dot"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "à eux qui depoſent choſes vray-ſemblables, qu'aux au-",
+   "note": "hyphen in vray-ſemblables printed as a raised dot"
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "Que pour autant auſsi qu'ils affermẽt",
+   "note": "auſsi: read long s + round s"
+  },
+  {
+   "where": "blocks[6].lines[1]",
+   "text": "& depoſent en faueur du mariage, des",
+   "note": "f of faueur poorly inked, resembles ſ/t"
+  },
+  {
+   "where": "blocks[8].lines[6]",
+   "text": "peu deuant a eſté dit) de ce coſté {b2}: plus forte raiſon",
+   "note": "'deuant': e looks like c ('dcuant'), possibly damaged sort"
+  },
+  {
+   "where": "margin_notes[4]",
+   "text": "Aud. itaque.",
+   "note": "note key c2 has no {c2} marker on this page; marker presumably on p073"
+  },
+  {
+   "where": "blocks[7].text",
+   "note": "arbitration: undecided; alternatives: ANNOT. LII. ||| ANNOT. LII,",
+   "escalate": false,
+   "text": "ANNOT. LII."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "note": "arbitration: undecided; alternatives: c & in noſtra ||| c. & in noſtra",
+   "escalate": false,
+   "text": "c & in noſtra"
+  },
+  {
+   "where": "margin_notes[4]",
+   "note": "arbitration: unknown; alternatives: [c] Aud. itaque. / C. con. de ſuc. ||| [c2] Aud. itaque. / C. con. de ſuc.",
+   "escalate": true,
+   "text": "Aud. itaque."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[7].text",
+   "A": "ANNOT. LII.",
+   "B": "ANNOT. LII,",
+   "chose": "carson-session",
+   "by": "auto",
+   "text": "ANNOT. LII.",
+   "reason": "arbitration: either (auto-deferred)"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "A": "c & in noſtra",
+   "B": "c. & in noſtra",
+   "chose": "carson-session",
+   "by": "auto",
+   "text": "c & in noſtra",
+   "reason": "arbitration: either (auto-deferred)"
+  },
+  {
+   "where": "margin_notes[4]",
+   "A": "[c] Aud. itaque.\nC. con. de ſuc.",
+   "B": "[c2] Aud. itaque.\nC. con. de ſuc.",
+   "chose": "carson-session",
+   "by": "auto",
+   "text": "[c] Aud. itaque.\nC. con. de ſuc.",
+   "reason": "arbitration: unknown (auto-deferred)"
+  }
+ ]
+}

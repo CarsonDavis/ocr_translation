@@ -9,11 +9,410 @@
   "image_no": 89,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/89"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p068",
  "next": "p070",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "ers: being another Phrynondas, of whom Aristophanes speaks, or a true Sisyphus,",
+   "continued": true,
+   "notes": [
+    {
+     "key": null,
+     "citation": "A Latin hexameter on Sisyphus — source not identified; it adapts Homer, <i>Iliad</i> 6.153, where Sisyphus is \"the craftiest of men\" (<i>ὃ κέρδιστος γένετ' ἀνδρῶν</i>)",
+     "original": "Syſiphus in terris, quo non aſtutior alter.",
+     "gloss": "The line is not in the <i>Ilias Latina</i> in this form; it may be a humanist rendering or Coras's own."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "A Sisyphus on earth, than whom none other more cunning (<i>Sisyphus in terris, quo non astutior alter</i>).",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Inasmuch as the substitution being already discovered, he nevertheless knew so well how to impose upon the Judges, nay, even upon the said de Rols, whose husband he always said he was, that the Judges in effect released him by an interlocutory order upon contrary facts; and the woman again received him as Martin Guerre her husband.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And nevertheless, on the morrow, early in the morning, the said Pierre Guerre, joint attorney of the said de Rols, accompanied by his sons-in-law, all armed, had him made prisoner, although at that time there could be no new charges, and the said de Rols had not yet made the said Pierre Guerre her attorney to those ends: for the procuration [the power of attorney] was not made that day until the evening after vespers, as this same Pierre Guerre has himself since confessed.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XVIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "He was therefore a false attorney; for so is called, in our law, not only he who has never had, either before or after, charge from the person whose attorney he says he is <sup class=\"mk\" data-key=\"a\">a</sup>, or indeed who once had it but has had it revoked, as he well knew <sup class=\"mk\" data-key=\"b\">b</sup>; but also he who has overstepped the ends and bounds of his power, or who had no charge at the time of the execution <sup class=\"mk\" data-key=\"c\">c</sup>; nay, even he who had been well and legitimately appointed, if he did not know it and nevertheless did the acts of an attorney <sup class=\"mk\" data-key=\"d\">d</sup>. True it is that in this case Pierre Guerre, a false attorney at the beginning, has",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 12.4 (<i>De condictione causa data causa non secuta</i>), l. <i>Si procuratori falso</i> (fragment not identified), and Accursius (<i>Accurse</i>) there; Code 2.12 (<i>De procuratoribus</i>), l. <i>Licet</i> (law not identified)",
+     "original": "l. ſi procura tori falſo. &amp; i lec Accurſe, D. de cõd. ca. dau. l. licet. C. de procu.",
+     "gloss": "On one who has never had the mandate of the person he claims to represent; what is paid to a false procurator may be recovered."
+    },
+    {
+     "key": "b",
+     "citation": "Decretals, c. <i>Ex parte decani</i>, under a title printed <i>de re.</i> (perhaps <i>De rescriptis</i>, X 1.3, the title of note <i>g</i>; chapter not identified)",
+     "original": "c. ex parte Decani. de re.",
+     "gloss": "The procurator whose mandate has been revoked, and who knows it."
+    },
+    {
+     "key": "c",
+     "citation": "Code 6.2 (<i>De furtis</i>), l. <i>Falsus</i> (law not identified), and the Gloss and the Doctors there; the Gloss and the Masters on c. <i>Ex parte</i> (as note <i>b</i>)",
+     "original": "l ſulſus. &amp; il lac les gloſe &amp; docteurs. C. de fur. la Glo &amp; les maiſtres au c. ex parte.",
+     "gloss": "The print's <i>ſulſus</i> is a wrong sort for <i>falſus</i>, the law Baldus is cited on at note <i>g</i>. The procurator who exceeds his mandate, or has none at the time he acts."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 27.5 (<i>De eo qui pro tutore prove curatore negotia gessit</i>), l. <i>Quaero</i> (fragment not identified); Digest 46.7 (<i>Iudicatum solvi</i>), l. 3, § <i>Sed et si quidem</i> (paragraph unverified)",
+     "original": "l. quæro. D. de eo qui pro tutor. l. iij. Ꝑ.⟨alt?:P.⟩ ſed &amp; ſi quidem. D. Iud. ſol.",
+     "gloss": "One who acts as guardian or procurator without knowing he has been appointed is treated as acting without mandate."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "tres digne: eſtant vn autre Phrinondas, duquel Ariſto-",
+    "phanes parle, ou vn vray Syſiphe,"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Syſiphus in terris, quo non aſtutior alter."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "D'autant que la ſuppoſition eſtant ia deſcouuerte, il",
+    "ſçeut neantmoins ſi bien impoſer aux Iuges, voire en-",
+    "cor à ladite de Rols, de laquelle ſe diſoit touſiours ma",
+    "ri: que les Iuges le relaxerent en effect, par vn appoin",
+    "tement de contraires. Et la femme encor le receut pour",
+    "Martin Guerre ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et neantmoins le lendemain de",
+    "grand matin ledit Pierre Guerre, com-",
+    "procureur de ladite de Rols, accompa-",
+    "gné de ſes beaux fils, tous armez, le fit",
+    "conſtituer priſonnier, bien que pour lors",
+    "ni peuſt auoir nouuelles charges, & que",
+    "ladite de Rols n'euſt encor fait procu-",
+    "reur ledit Pierre Guerre à ces fins. car la",
+    "procure ne fut faite ce iour-la, iuſques",
+    "au ſoir apres veſpres, comme iceluy Pier",
+    "re Guerre meſme depuis a confeſſé."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ceſtoit doncques vn faux procureur, car tel eſt ap",
+    "pellé en noſtre droict, non ſeulement celuy qui n'ha eu",
+    "iamais ni auant, ni apres charge de la perſonne, de",
+    "laquelle il ſe dit procureur {a}: ou bien qui d'aultresfois",
+    "l'ha euë reuoquee, comme il ſçauoit bien {b}. mais en",
+    "cor celuy qui a outrepaſſé les fins & bornes de ſa puiſ-",
+    "ſance, ou qui n'auoit point de charge au temps de l'exe-",
+    "cution {c}. voyre celuy qui auroit eſté bien & legitime-",
+    "ment conſtitué ſ'il ne ſçauoit point & neantmoins il fai-",
+    "ſoit les actes de procureut {d}. vray eſt qu'en ce fait,",
+    "Pierre Guerre du commencement, faux procureur, a"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. ſi procura",
+    "tori falſo. & i",
+    "lec Accurſe,",
+    "D. de cõd. ca.",
+    "dau. l. licet. C.",
+    "de procu."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "c. ex parte",
+    "Decani. de re."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l ſulſus. & il",
+    "lac les gloſe &",
+    "docteurs. C. de",
+    "fur. la Glo &",
+    "les maiſtres au",
+    "c. ex parte."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. quæro. D.",
+    "de eo qui pro",
+    "tutor. l. iij. Ꝑ.",
+    "ſed & ſi qui-",
+    "dem. D. Iud.",
+    "ſol."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[6].lines[9]",
+   "text": "ſoit les actes de procureut {d}. vray eſt qu'en ce fait,",
+   "note": "sic: 'procureut' — the final sort is a t (clear crossbar and curved foot) where 'procureur' is meant; wrong sort, transcribed as printed"
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "l'ha euë reuoquee, comme il ſçauoit bien {b}. mais en",
+   "note": "'euë': the final e carries two marks (a round dot left, a slanted stroke right); read as a tréma, but 'eué' is possible"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "D. de cõd. ca.",
+   "note": "the stop between 'cõd' and 'ca' is a faint low dot crossed by a paper fibre; could be read 'cõdica.' as one word"
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "text": "dau. l. licet. C.",
+   "note": "'dau.' — third letter is two minims joined below (u), no crossbar, so not 'dat.'; the abbreviation is not one I can resolve, reading given as printed"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l ſulſus. & il",
+   "note": "'ſulſus' is not a Latin form I can resolve and there is no stop after the opening 'l'; glyphs read ſ-u-l-ſ-u-s, a period may be lost between 'ſul' and 'ſus'"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "fur. la Glo &",
+   "note": "'fur.' — f has a full crossbar and the third letter has an r shoulder; 'fuſ.' cannot be ruled out at this resolution"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "tutor. l. iij. Ꝑ.",
+   "note": "numeral: three dots are visible but the middle minim is worn, so 'ij' is possible instead of 'iij'"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "tutor. l. iij. Ꝑ.",
+   "note": "final sign is a capital P with a stroke through the descender, used here as the paragraph abbreviation before the § incipit 'ſed & ſi quidem'; transcribed Ꝑ (U+A750), could be intended as §"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l. quæro. D.",
+   "note": "'quæro' — the ligature is inked heavily; a plain 'a' ('quaro') is just possible"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "phanes parle, ou vn vray Syſiphe,",
+   "note": "the print sets 'v n' with a wide gap (spacing sort risen or loose); read as the single word 'vn' and closed up."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "reur ledit Pierre Guerre à ces fins. car la",
+   "note": "the mark after 'fins' sits slightly above the baseline; read as a period (no tail), could be a damaged comma or colon."
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "procure ne fut faite ce iour-la, iuſques",
+   "note": "the first letter of 'fut' is damaged (curled top, crossbar faint); read as f, could be ſ ('ſut')."
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "iamais ni auant, ni apres charge de la perſonne, de",
+   "note": "the print sets 'ap res' with a gap inside the word; closed up as one word."
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "cor celuy qui a outrepaſſé les fins & bornes de ſa puiſ-",
+   "note": "the line-end sign after 'puiſ' is a small dot-like mark, possibly a period rather than a hyphen; transcribed as the word-break sign '-'."
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "ſance, ou qui n'auoit point de charge au temps de l'exe-",
+   "note": "'point' is poorly printed (the n looks like 'a' or a damaged sort, 'poiat'); read as 'point'."
+  },
+  {
+   "where": "blocks[6].lines[9]",
+   "text": "ſoit les actes de procureut {d}. vray eſt qu'en ce fait,",
+   "note": "sic? the last letter of 'procureur' appears as a t ('procureut'); transcribed as printed; could be a worn r."
+  },
+  {
+   "where": "blocks[6].lines[8]",
+   "text": "ment conſtitué ſ'il ne ſçauoit point & neantmoins il fai-",
+   "note": "the print sets 'ſç auoit' with a gap and 'point&' tight; word division normalized."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "D. de cõd. ca.",
+   "note": "between 'cõd' and 'ca.' there is a small vertical mark, read as a period; could be a stray mark with no punctuation intended. The D is a swash italic capital."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l ſulſus. & il",
+   "note": "no period visible after 'l'; 'ſulſus' as printed (expected 'falſus'), sic."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[1]",
+   "target": "blocks[4].lines[1]",
+   "spans": [
+    [
+     6,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "grand matin ledit Pierre Guerre, com-",
+   "b": "grand marin ledit Pierre Guerre, com-",
+   "text": "grand matin ledit Pierre Guerre, com-",
+   "chose": "A",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "blocks[6].lines[8]",
+   "target": "blocks[6].lines[8]",
+   "spans": [
+    [
+     15,
+     19
+    ]
+   ],
+   "aligned": true,
+   "a": "ment conſtitué ſil ne ſçauoit point & neantmoins il fai-",
+   "b": "ment conſtitué ſ'il ne ſçauoit point & neantmoins il fai-",
+   "text": "ment conſtitué ſ'il ne ſçauoit point & neantmoins il fai-",
+   "chose": "B",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     0,
+     3
+    ]
+   ],
+   "aligned": true,
+   "a": "lec les gloſe &",
+   "b": "lac les gloſe &",
+   "text": "lac les gloſe &",
+   "chose": "B",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "target": "margin_notes[2].lines[3]",
+   "spans": [
+    [
+     0,
+     4
+    ]
+   ],
+   "aligned": true,
+   "a": "fur. la Glo &",
+   "b": "fu[?]. la Glo &",
+   "text": "fur. la Glo &",
+   "chose": "A",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[2].lines[5]",
+   "target": "margin_notes[2].lines[5]",
+   "spans": [
+    [
+     6,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "c. ex parte.",
+   "b": "c. ex partc.",
+   "text": "c. ex parte.",
+   "chose": "A",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "target": "margin_notes[3].lines[2]",
+   "spans": [
+    [
+     15,
+     17
+    ]
+   ],
+   "aligned": true,
+   "a": "tutor. l. iij. Ꝑ.",
+   "b": "tutor. l. iij. P.",
+   "text": "tutor. l. iij. Ꝑ.",
+   "chose": null,
+   "by": "carson",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

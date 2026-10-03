@@ -9,11 +9,437 @@
   "image_no": 122,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/122"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p099",
  "next": "p101",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "that in criminal matters, where the peril is greater (for it concerns the honour and the life of a man), the witnesses must be presented and offered personally to the judge <sup class=\"mk\" data-key=\"d\">d</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "d",
+     "citation": "Novels (the <i>Authenticum</i>), collation 7, the title <i>De testibus</i> (Nov. 90), at the paragraph <i>Haec omnia</i> — the passage which, having regulated written testimony for pecuniary causes, requires that in criminal causes the witnesses be produced in person before the judge; and the Authentica <i>Apud eloquentissimum</i>, the Novel-derived note inserted in Code 4.21 (<i>De fide instrumentorum</i>), on the same point (chapter and paragraph numbers unverified)",
+     "original": "P. hæc omnia. aux nou uelles de Inſt. Sous la vij. collatiõ, aut. apud eloquen tiſſimum. C. de fid. inſtr.",
+     "gloss": "<i>Aux nouuelles de Inſt.</i> = <i>in Novellis Iustiniani</i>; <i>aut.</i> = <i>Authentica</i>. The <i>authenticae</i> inside the Code are the short updating notes described in the case file §6.2."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Afterwards the said de Rols is made to come, who, as soon as she had cast her eyes upon the said newcomer, all in tears, and trembling like the leaf shaken by the winds, having her face all bathed in tears, ran to embrace him, asking his pardon for the fault which, through imprudence, and overcome by the seductions, impostures and wiles of the said du Tilh, she had committed.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXV"
+  },
+  {
+   "type": "paragraph",
+   "html": "To understand whether this fault was excusable in the said de Rols, it must be presupposed that, as all other human actions are either voluntary or involuntary <sup class=\"mk\" data-key=\"a\">a</sup>, so crimes too are committed either voluntarily or not voluntarily <sup class=\"mk\" data-key=\"b\">b</sup>. Crimes voluntarily done are those which are executed with a deliberate purpose of committing them <sup class=\"mk\" data-key=\"c\">c</sup>, as to kill a man by lying in wait <sup class=\"mk\" data-key=\"d2\">d2</sup>, to rape a woman, to steal, to bear false witness, and the like things, which are not committed without fraud and evil intention <sup class=\"mk\" data-key=\"e\">e</sup>: and after the execution they are unpardonable and irremissible as regards men <sup class=\"mk\" data-key=\"f\">f</sup>, even though he who has committed the act afterwards repents of it <sup class=\"mk\" data-key=\"g\">g</sup>. Otherwise, no one would ever be punished. For who is he that, to avoid death, corporal penalty, or ignominy, would not say, \"I repent\"? Those crimes also may be said to be committed voluntarily which are executed through some anger and sudden passion, as if I should kill him whom I find abusing my wife <sup class=\"mk\" data-key=\"h\">h</sup>, or who sets himself to kill me <sup class=\"mk\" data-key=\"i\">i</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Aristotle, <i>Nicomachean Ethics</i>, book I as printed; the division of actions into voluntary and involuntary is at III.1 (1109b30 ff.)",
+     "original": "Ariſtote au j. des Ethiq.",
+     "gloss": null
+    },
+    {
+     "key": "b",
+     "citation": "Digest 1.3.1–2 (<i>De legibus senatusque consultis</i>, l. 1 Papinian, l. 2 Marcian)",
+     "original": "l. j &amp; ij. D. de legib.",
+     "gloss": "D. 1.3.1 defines law as, among other things, <i>delictorum quae sponte vel ignorantia contrahuntur coercitio</i> — \"the restraint of offences committed voluntarily or by ignorance\"; D. 1.3.2 gives Demosthenes' and Chrysippus' definitions."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 48.19.11 (<i>De poenis</i>, l. <i>Perspiciendum</i>, Marcian — <i>Respiciendum</i> is the incipit as the medieval texts read it), § 2, the last paragraph",
+     "original": "l. reſpiciendum. P. final. D. de pœn.",
+     "gloss": "<i>Delinquitur autem aut proposito aut impetu aut casu</i> — offences are committed by design, by impulse, or by chance: Coras's whole threefold scheme in this annotation. The <i>P.</i> is the print's sort for §."
+    },
+    {
+     "key": "d2",
+     "citation": "Liber Sextus, V.4 (<i>De homicidio voluntario vel casuali</i>), c. 1 (<i>au vj.</i> = <i>in VI</i>, the Sext; chapter content unverified)",
+     "original": "l. j. C. de homicid. au vj.",
+     "gloss": "The print's <i>l.</i> and <i>C.</i> are the civil-law sigla, but <i>au vj.</i> marks the Sext of Boniface VIII, whose title <i>De homicidio</i> is V.4; cf. the case file §6.2 on <i>in VI</i>."
+    },
+    {
+     "key": "e",
+     "citation": "Digest 48.5 (<i>Ad legem Iuliam de adulteriis coercendis</i>), the penultimate law (fragment not identified)",
+     "original": "l. penultieme D. de adul.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Code 1.4 (<i>De episcopali audientia</i>), l. 3; and Decretals X 5.12 (<i>De homicidio voluntario vel casuali</i>), c. 1 (chapter content unverified)",
+     "original": "l iij. c. de epiſ. au c. i. c. de homicid. aux Decretales.",
+     "gloss": "<i>Aux Decretales</i> marks the second citation as the Liber Extra; the first <i>c.</i> is the Code."
+    },
+    {
+     "key": "g",
+     "citation": "Digest 47.2.66 (<i>De furtis</i>, l. <i>Qui ea mente</i>, Maecianus; 47.2.65 in some editions); and Decretals X 2.1 (<i>De iudiciis</i>), c. <i>Cum non ab homine</i> (cf. X 2.1.10)",
+     "original": "l. qui ea mẽte. D. de fur. c cum non ab hom. de Iud.",
+     "gloss": "<i>Qui ea mente alienum quid contrectavit ut lucrifaceret, tametsi mutato consilio id domino postea reddidit, fur est: nemo enim tali peccato paenitentia sua nocens esse desinit</i> — \"no one ceases to be guilty of such an offence by his repentance\": Coras's point exactly."
+    },
+    {
+     "key": "h",
+     "citation": "Code 9.9.4 (<i>Ad legem Iuliam de adulteriis</i>, l. <i>Gracchus</i>, Alexander Severus)",
+     "original": "l. Gracchus. C de adult.",
+     "gloss": "Gracchus, caught in adultery by night and killed by Numerius: the husband who kills the adulterer is not punished as a homicide if the man was of the condition the lex Iulia allowed to be killed."
+    },
+    {
+     "key": "i",
+     "citation": "Digest 1.1.3 (<i>De iustitia et iure</i>, l. <i>Ut vim</i>, Florentinus); and Gratian, <i>Decretum</i>, the last chapter of Distinctio 35 as printed (unverified; the <i>c. final.</i> of D. 35 does not obviously treat self-defence, and the number may be a wrong sort)",
+     "original": "l. vt vim. D. de iuſt. &amp; in c. final. xxxv. diſt.",
+     "gloss": "<i>Ut vim atque iniuriam propulsemus… iure hoc evenit, ut quod quisque ob tutelam corporis sui fecerit, iure fecisse existimetur</i> — what a man does in defence of his body he is held to do lawfully."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "qu'és matieres criminelles, où le peril eſt plus grand",
+    "(car ſ'agiſt de l'honneur, & de la vie de l'homme) les",
+    "teſmoings doyuẽt eſtre repreſentez, & offerts perſon-",
+    "nellement au iuge {d}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "On fait apres venir ladite de Rols, la-",
+    "quelle ſoudain apres auoir ietté les yeux",
+    "ſur ledit nouueau venu, toute eſploree,",
+    "& tremblante comme la fueille agitee",
+    "des vents, ayant ſa face toute baignee de",
+    "larmes, accourut l'embraſſer, luy deman-",
+    "dant pardon de la faute, que par impru-",
+    "dence, & ſurmontee des ſeductions, im-",
+    "poſtures, & cautelles dudit du Tilh, elle",
+    "auoit commiſe."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Pour entendre ſi cette faute eſtoit excuſable à l'en-",
+    "droit de ladite de Rols, faut preſuppoſer que comme",
+    "toutes autres actions humaines, ſont ou volontaires ou",
+    "inuolontaires {a}, auſſi les crimes ſe commettent ou vo-",
+    "lontoiremeut, ou non volontairement {b}. Les crimes",
+    "volontairemẽt faits, ſont ceux qui ſont executez à pro-",
+    "pos deliberé de les commettre {c}, comme de tuer vn hõ",
+    "me de guet à pens {d2}, violer vne femme, deſrober, porter",
+    "faux teſmoignage, & choſes ſemblables, leſquelles ne",
+    "ſe commeſtẽt ſans dol, & mauuaiſe intention {e}: & apres",
+    "l'execution ſont imperdonnables, & irremiſſibles quãt",
+    "aux hommes {f}, bien que celuy qui a commis l'acte, a-",
+    "pres ſ'en repente {g}. Autrement, nul ne ſeroit iamais pu-",
+    "ni. Car qui eſt celuy qui pour euiter la mort, peine cor",
+    "porelle, ou ignominie, ne diroit, Ie me repens? Vo-",
+    "lontairement auſſi peuuent eſtre dits commis les cri-",
+    "mes, qui par quelque colere, & ſoudaine paſſion, ſont",
+    "executez, cõme ſi ie tuois celuy que ie trouue abuſant",
+    "de ma femme {h}: ou qui ſe met au deuoir de me tuer {i}."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "P. hæc om-",
+    "nia. aux nou",
+    "uelles de Inſt.",
+    "Sous la vij.",
+    "collatiõ, aut.",
+    "apud eloquen",
+    "tiſſimum. C.",
+    "de fid. inſtr."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Ariſtote au",
+    "j. des Ethiq."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. j & ij. D.",
+    "de legib."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. reſpicien-",
+    "dum. P. final.",
+    "D. de pœn."
+   ]
+  },
+  {
+   "key": "d2",
+   "kind": "margin",
+   "lines": [
+    "l. j. C. de ho-",
+    "micid. au vj."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. penultieme",
+    "D. de adul."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l iij. c. de e-",
+    "piſ. au c. i. c. de",
+    "homicid. aux",
+    "Decretales."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. qui ea mẽ-",
+    "te. D. de fur.",
+    "c cum non ab",
+    "hom. de Iud."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. Gracchus.",
+    "C de adult."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. vt vim. D.",
+    "de iuſt. & in",
+    "c. final. xxxv.",
+    "diſt."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "me de guet à pens {d2}, violer vne femme, deſrober, porter",
+   "note": "Marker alphabet restarts at a under ANNOTAT. LXXV after the d at the top of the page, so this second d (and its note l. j. C. de homicid.) is keyed d2."
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Pour entendre ſi cette faute eſtoit excuſable à l'en-",
+   "note": "'cette' printed with two round t's (not 'ceſte'); 'eſto it' set with a gap, closed up as one word."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "lontoiremeut, ou non volontairement {b}. Les crimes",
+   "note": "sic: 'lontoiremeut' as printed (o for a, u for n, apparently wrong/turned sorts)."
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "inuolontaires {a}, auſſi les crimes ſe commettent ou vo-",
+   "note": "auſſi / irremiſſibles / paſſion: second s is tall (ſſ), not round; could be ſs in this print."
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "aux hommes {f}, bien que celuy qui a commis l'acte, a-",
+   "note": "the m's of 'hommes' are damaged/broken sorts in print; reading clear by sense."
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "pres ſ'en repente {g}. Autrement, nul ne ſeroit iamais pu-",
+   "note": "'nul' - the l is short and could be read 'nui'."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "P. hæc om-",
+   "note": "'hæc' - final letter looks like e; could be misprint 'hæe'. Line 2 'n ou' set with a gap, closed up as 'nou'."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. j & ij. D.",
+   "note": "Printed 'b.l j': a period follows the key letter and none follows 'l'; period placed after l. Similarly note f prints 'l iij.' without period after l (kept as printed)."
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "D. de adul.",
+   "note": "a grave-like mark follows 'de' (dè / de`adul); omitted."
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "Decretales.",
+   "note": "letters blurred; could be a misprint such as 'Decrealts.'"
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "text": "c. final. xxxv.",
+   "note": "printed with a small 'c' set far left and the period before 'final' ('c .final.xxxv.'); read as c. final."
+  },
+  {
+   "where": "margin_notes[1]",
+   "text": "Ariſtote au",
+   "note": "note a sits beside the ANNOTAT. LXXV heading, above the line holding marker {a}."
+  },
+  {
+   "where": "blocks[4]",
+   "note": "last line ends with period after {i}; whether the paragraph continues on p101 cannot be seen here (continues_next set false)."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "lontoiremeut, ou non volontairement {b}. Les crimes",
+   "note": "sic: 'lontoiremeut' as printed (o for a in 'lontaire', and u for n in the ending); wrong sorts, transcribed as printed"
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "ſe commeſtẽt ſans dol, & mauuaiſe intention {e}: & apres",
+   "note": "sic?: the sort after 'comme' is taller than t and looks like an ſt ligature, read 'commeſtẽt' (misprint for 'commettẽt'); could be 'commettẽt'. The mark over the second e may be a tilde or an acute"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "toutes autres actions humaines, ſont ou volontaires ou",
+   "note": "print sets 'volontairesou' with no visible space; separated per word-division rule"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "volontairemẽt faits, ſont ceux qui ſont executez à pro-",
+   "note": "punctuation after 'faits' is small and low; read as comma, could be a period"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "aux hommes {f}, bien que celuy qui a commis l'acte, a-",
+   "note": "'hommes': the second m is damaged and looks like 'rr' ('homrres'); read as hommes"
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "pres ſ'en repente {g}. Autrement, nul ne ſeroit iamais pu-",
+   "note": "'nul': last letter short and broken, could be read 'nui'"
+  },
+  {
+   "where": "blocks[4]",
+   "text": "de ma femme {h}: ou qui ſe met au deuoir de me tuer {i}.",
+   "note": "continues_next set false because the page ends with a full stop; the annotation may well continue on p101"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "nia. aux nou",
+   "note": "print shows a gap 'n ou' inside 'nouuelles' (broken over the line); closed up as one word"
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "text": "collatiõ, aut.",
+   "note": "the 'll' is damaged (looks like 'coxatiõ'); tilde over o"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "l iij. c. de e-",
+   "note": "no stop visible between 'l' and 'iij'; could be 'l. iij.'"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "Decretales.",
+   "note": "letters blurred (looks like 'Decrcalcs'); read as Decretales"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "c cum non ab",
+   "note": "no stop visible after 'c'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "C de adult.",
+   "note": "no stop visible after 'C'"
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "text": "c. final. xxxv.",
+   "note": "the first sort is set out into the left margin and is small; read 'c' (capitulum), could be 'e'; stop between it and 'final' is set before 'final'"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "micid. au vj.",
+   "note": "'au vj.' — italic v, possibly 'au vi.'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[9]",
+   "target": "blocks[4].lines[9]",
+   "spans": [
+    [
+     3,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "ſe commestẽt ſans dol, & mauuaiſe intention {e}: & apres",
+   "b": "ſe commeſtẽt ſans dol, & mauuaiſe intention {e}: & apres",
+   "text": "ſe commeſtẽt ſans dol, & mauuaiſe intention {e}: & apres",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Both readings are the same wrong sort for commettent; medial s is set as long ſ in this print, so commeſtẽt is the likelier form; the translation is unaffected."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "target": "margin_notes[2].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "l. j & ij. D.",
+   "b": "l j & ij. D.",
+   "text": "l. j & ij. D.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

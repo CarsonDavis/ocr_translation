@@ -64,10 +64,10 @@
     "ſi on recerche encor la cauſe, pour quoy les enfans reſ-",
     "ſemblent quelquesfois les peres, & d'autresfois les me-",
     "res. Ie diray auec le Philoſophe, que ſi la vertu de l'hõme",
-    "eſt plus abondante, l'enfant raportera le pere. & au con-",
+    "eſt plus abondante, l'enfant raporrera le pere. & au con-",
     "traire, ſi la ſemence de la femme ſurmonte, l'enfant",
     "prendra la forme, & ſimulacre de la mere. Et ſ'il y a",
-    "eſgalle quãtité de ſemence, reſſemblera tous les deux,",
+    "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
     "en diuers lieux toutesfois, & parties du corps {n}. De la-",
     "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
     "goras, quand il diſoit, que l'enfant reſſemblera celuy des",
@@ -231,6 +231,108 @@
    "where": "blocks[0].lines[9]",
    "text": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
    "note": "round s in \"s'eſloignoit\" as printed (A read ſ); reconciled"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "eſt plus abondante, l'enfant raporrera le pere. & au con-",
+   "note": "sic raporrera (r for t), wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "cſgalle quãtité de ſemence, reſſemblera tous les deux,",
+   "note": "sic cſgalle (c for e), wrong sort"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[9]",
+   "target": "blocks[0].lines[9]",
+   "spans": [
+    [
+     19,
+     31
+    ]
+   ],
+   "aligned": true,
+   "a": "quelle ſentence ne ſ'eſloignoit pas grandement Anaxa-",
+   "b": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+   "text": "quelle ſentence ne s'eſloignoit pas grandement Anaxa-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 3x (full page y≈980-1070) the elided pronoun is set with a round s; 'eſloignoit' has long s"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "target": "blocks[4].lines[0]",
+   "spans": [
+    [
+     9,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "La femme chaſte [?] & pudique, qui aime bien ſon mary:",
+   "b": "La femme chaſte [?] & pudique, qui aime bien ſon mary:",
+   "text": "La femme chaſte & pudique, qui aime bien ſon mary:",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the full-height stroke between 'chaſte' and '&' (both reads [?]) examined at 8x: a thick unslanted bar with ragged edges and no serif, running from ascender height to below the baseline, i.e. the full type body, set tight against the e with no side-bearing. Not a comma (too tall), not a virgule (not slanted), not a letter: a risen space (work-up) that took ink. Not text, so omitted; recorded in uncertain[]"
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "target": "blocks[4].lines[13]",
+   "spans": [
+    [
+     51,
+     54
+    ]
+   ],
+   "aligned": true,
+   "a": "…ombre ren",
+   "b": "…ombre ren",
+   "text": "Ce qu'elle impetra & entre les bras de ceſte ombre rea",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both reads chose 'ren' on sense (rendit) while noting the sort could be 'a'. At 10x beside the n of 'entre' and the a of 'chaſte': the final sort has a thin hooked top and a closed rounded bowl at the foot with one full-height stem at the right, the a-form; the n-form (two stems, open foot) is absent. Transcribed 'rea' as printed, sic for 'ren'; escalated for a human check because the sort is heavily inked"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "target": "blocks[0].lines[4]",
+   "spans": [
+    [
+     29,
+     38
+    ]
+   ],
+   "aligned": true,
+   "a": "raportera",
+   "b": "raportera",
+   "text": "raporrera",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "spot-check found a shared reader error; Carson-session at 2x: the sort after rapor is r (no crossbar); wrong sort, transcribed as printed"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "target": "blocks[0].lines[7]",
+   "spans": [
+    [
+     0,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "eſgalle",
+   "b": "eſgalle",
+   "text": "cſgalle",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "spot-check found a shared reader error; confirmed at 2x: open c sort for e; transcribed as printed"
   }
  ]
 }

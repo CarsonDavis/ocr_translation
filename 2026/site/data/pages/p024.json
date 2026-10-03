@@ -336,5 +336,105 @@
    "text": "D. de verb. ſi.",
    "note": "the last group is blotted (margin-3.jpg x~540-650 y~905-975): at 6x a long ſ joined to a small closed loop, with no g bowl or descender, read as the ſi ligature (= ſi[gnificatione]); 'ſig.' remains possible"
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[1]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "blank block: lower third of the page blank",
+   "b": "(no block)",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "empty space below the last line gets no block (conventions §6; standing ruling)"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "target": "margin_notes[5].lines[3]",
+   "spans": [
+    [
+     4,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "na. l rẽ alienã",
+   "b": "na. l. rẽ alienã",
+   "text": "na. l rẽ alienã",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x no point is printed after the l; the dot after 'na' abuts the l's foot"
+  },
+  {
+   "where": "margin_notes[10].lines[0]",
+   "target": "margin_notes[10].lines[0]",
+   "spans": [
+    [
+     6,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "l ij. præalle-",
+   "b": "l ij. praalle-",
+   "text": "l ij. præalle-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the glyph after 'pr' has the attached e loop of the æ ligature, and a separate a follows it"
+  },
+  {
+   "where": "margin_notes[11].lines[0]",
+   "target": "margin_notes[11].lines[0]",
+   "spans": [
+    [
+     3,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "l. quæcunqꝫ",
+   "b": "l. quacunqꝫ",
+   "text": "l. quæcunqꝫ",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the vowel after 'qu' is the æ ligature (e loop attached to the a); the -que sign ꝫ confirmed"
+  },
+  {
+   "where": "margin_notes[11].lines[4]",
+   "target": "margin_notes[11].lines[4]",
+   "spans": [
+    [
+     12,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "D. de verb. ſig.",
+   "b": "D. de verb. ſi.",
+   "text": "D. de verb. ſi.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x the blotted group is a long ſ joined to a small closed loop with no g bowl or descender: the ſi ligature; escalated"
+  },
+  {
+   "where": "margin_notes[*].beside_line",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "(absent)",
+   "b": "(only note f)",
+   "text": "",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "beside_line filled with the body line carrying each note's marker; note f keeps B's line"
+  }
  ]
 }

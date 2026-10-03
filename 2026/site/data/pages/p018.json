@@ -338,5 +338,61 @@
    "text": "l. liberorũ,",
    "note": "the mark over the final u is short and slightly curved; read as the nasal tilde (both reads)"
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[8]",
+   "target": "blocks[0].lines[8]",
+   "spans": [
+    [
+     50,
+     54
+    ]
+   ],
+   "aligned": true,
+   "a": "Ie m'eſtimeray de leur reſpondre ſuffiſammẽt auec Pli",
+   "b": "Ie m'eſtimeray de leur reſpondre ſuffiſammẽt auec Pli-",
+   "text": "Ie m'eſtimeray de leur reſpondre ſuffiſammẽt auec Pli-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a short word-break hyphen is printed after 'Pli' (body-2.jpg, line 5 of the strip), the word running on to 'ne:'"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "target": "margin_notes[3].lines[2]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "an vi.",
+   "b": "en vi.",
+   "text": "en vi.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 7x the first sort has the closed eye and mid-bar of the italic e (compare 'en la l.' in note y), not the open bowl + right stem of the italic a ('au ver-'); sense agrees: c. qui prior, De reg. iur., in VI (Liber Sextus)"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "target": "margin_notes[4].lines[1]",
+   "spans": [
+    [
+     0,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "ſeule ſi quis",
+   "b": "ſieule ſi quis",
+   "text": "ſieule ſi quis",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x a dotted i stands between ſ and e (margin-3.jpg, first line): 'ver-ſieule' sic for verſicule"
+  }
  ]
 }

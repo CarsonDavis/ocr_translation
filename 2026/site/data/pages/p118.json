@@ -9,11 +9,328 @@
   "image_no": 140,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/140"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p117",
  "next": "p119",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "to the Papal dignity, which she held two years, one month and four days: and would have held it longer, had she not too immodestly abandoned herself to a servant; by whose doings being pregnant, as she was going one day to St John Lateran, pressed by the pains, she gave birth in the middle of the street, between the Colosseum and St Clement's. Whence since then the Roman Pontiff, in horror and detestation of so monstrous and abominable a deed, when he goes to the said St John's, turns aside from this street so as not to pass through it. And moreover, so as not to fall into a like error, as soon as the pope is created, he is placed on the seat of St Peter (pierced for that purpose), where the youngest of the Cardinal Deacons handles his genitals from beneath, and afterwards cries aloud, The Pope has testicles (<i>Papa testiculos habet</i>) <sup class=\"mk\" data-key=\"z\">z</sup>. These are the principal histories of the substitution of persons that I have been able to gather: by which, nevertheless, nor by our laws either, we cannot well determine a certain penalty for this deed. Whether it be by the law of Antoninus <sup class=\"mk\" data-key=\"a\">a</sup>, which wills that the crime of Forgery (of which nevertheless the ordinary penalty is only banishment and confiscation — which is by Justinian taken away, and the goods preserved to the heirs <sup class=\"mk\" data-key=\"c\">c</sup>) when there is substitution of persons be punished capitally <sup class=\"mk\" data-key=\"d\">d</sup>: and although the interpretation of this word, Capitally, which may be referred to civil and to natural death <sup class=\"mk\" data-key=\"e\">e</sup>, must be committed to the discretion of the Judge; who, weighing all the circumstances, will consider whether the deed deserves that the accused be put to death, either naturally or civilly <sup class=\"mk\" data-key=\"f\">f</sup>: nevertheless in the case of our Arnauld du Tilh there are so many capital crimes assembled, each worthy of the last punishment, that there is no great reason to doubt further about it: as by what we shall say hereafter will appear more clearly.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "z",
+     "citation": "Platina (Bartolomeo Sacchi), <i>Lives of the Popes</i> (<i>Liber de vita Christi ac omnium pontificum</i>), the life of John VIII, \"Pope Joan\"",
+     "original": "Platina au liure des vies des papes.",
+     "gloss": "Platina's account, including the pierced chair; he places Joan after Leo IV."
+    },
+    {
+     "key": "a",
+     "citation": "Code 9.22 (<i>Ad legem Corneliam de falsis</i>), l. 1 (C. 9.22.1, a constitution of Antoninus, as Coras says)",
+     "original": "l. j. C. de fal.",
+     "gloss": "The substitution of a child punished capitally; the identification of the fragment rests on Coras's own description."
+    },
+    {
+     "key": "c",
+     "citation": "Novels, <i>Ut nulli iudicum</i> (Nov. 134), last chapter (c. 13), in the ninth <i>collatio</i> of the Authenticum; the <i>authentica</i> <i>Bona damnatorum</i> inserted in Code 9.49 (<i>De bonis proscriptorum seu damnatorum</i>); and Coras's Annotation XCV (cross-reference)",
+     "original": "P. fi. vt nul li iudic. aux nouuel. ſous la collation ix: Aut. bona dã natorum C. de bo. damnat. Soit veue l'an notation xcv",
+     "gloss": "Justinian abolished the confiscation of a condemned man's goods, save for treason, and preserved them to his heirs."
+    },
+    {
+     "key": "d",
+     "citation": "Code 9.22.1, as at {a}",
+     "original": "l j. C. de fal.",
+     "gloss": null
+    },
+    {
+     "key": "e",
+     "citation": "Digest 37.1 (<i>De bonorum possessionibus</i>), l. <i>Edicto</i>, § 1 — fragment not identified",
+     "original": "l. edicto P⟨alt:P.⟩ j. D. de bono. poſſeſ.",
+     "gloss": "For the two senses of \"capital\", civil and natural death."
+    },
+    {
+     "key": "f",
+     "citation": "Digest 47.18 (<i>De effractoribus et expilatoribus</i>), l. 1 § 1 (D. 47.18.1.1, Ulpian)",
+     "original": "l j. P j. D. de effractor.",
+     "gloss": "Housebreakers and plunderers are punished at the judge's discretion according to the circumstances, more or less severely; the text on the judge's <i>arbitrium</i>, cited again at annot-082 {y}."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 48.10 (<i>Ad legem Corneliam de falsis</i>), l. 1, last paragraph (D. 48.10.1.13, Marcian)",
+     "original": "l j. P fin. D ad l. Cornel. de falſ.",
+     "gloss": "The penalty of <i>falsum</i> is deportation and confiscation of all goods; cited at annot-012 {d}."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Adultery.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXXIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "There is no need to explain more clearly the adultery of which the said du Tilh remained sufficiently, and more than sufficiently, at",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "à la dignité Papale, laquelle elle tint deux ans, vn mois",
+    "& quatre iours: & l'euſt tenue d'auantage, ſi ne ſe fuſt",
+    "trop impudiquement abandonnée à vn valet: des œu-",
+    "ures duquel enceinte, comme elle ſ'en alloit vn iour",
+    "à S. Iean de Lateran, preſſée des douleurs, enfanta au",
+    "milieu de la rue, entre le Coloſſe & S. Clement. dont de",
+    "puis le Pontife Romain, en horreur & deteſtatiõ d'vn ſi",
+    "monſtrueux & abominable fait, quand va audit Sainct",
+    "Ieã, deſtourne ceſte rue pour n'y paſſer point. Et en ou",
+    "tre, pour ne tomber en pareil erreur, des que le pape eſt",
+    "creé, on le colloque au ſiege S. Pierre (à ces fins per",
+    "cé) ou le plus ieune Diacre des Cardinaux, luy manie",
+    "par deſſous les genitoires, & apres crie tout haut, Papa",
+    "teſticulos habet {z}. Ce ſont les principales hiſtoires de ſup-",
+    "poſition des perſonnes que i'ay peu recueillir: par leſ-",
+    "quelles toutesfois, ni par nos loix auſſi, nous ne pou-",
+    "uons bonnement determiner certaine peine de ce faict",
+    "ou ſoit par la loy d'Antonin {a}, qui veut que le crime de",
+    "Faux (duquel pourtant la peine ordinaire n'eſt que de",
+    "banniſſemẽt, & confiſcatiõ, eſt par Iuſtinien oſté, & les",
+    "biens conſeruez aux heritiers {c}) quand il y a ſuppoſitiõ",
+    "des perſonnes, ſoit puni capitalement {d}: & bien que l'in",
+    "terpretation de ce mot, Capitalement, qui peut eſtre rap",
+    "porté à mort ciuile, & naturelle {e}, doyue eſtre commi-",
+    "ſe à l'arbitre du Iuge: lequel poiſe toutes les circonſtan",
+    "ces, aduiſera ſi le faict merite de faire mourir le preue-",
+    "nu, ou naturellement, ou ciuilement {f}. toutesfois au",
+    "faict de noſtre Arnauld du Tilh, il y a tant de crimes",
+    "capitaux aſſemblez, dignes chacun du dernier ſupplice,",
+    "qu'il n'y a grande raiſon d'en douter d'auantage: com-",
+    "me par ce que nous dirons ci apres apparoiſtra plus",
+    "clairement."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Adultere."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXXIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Il n'eſt beſoin expliquer plus clairement l'adultere",
+    "duquel ledit du Tilh demeura aſſez, & plus qu'aſſez at-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "z",
+   "kind": "margin",
+   "lines": [
+    "Platina au",
+    "liure des vies",
+    "des papes."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. j. C. de fal."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l j. P fin. D",
+    "ad l. Cornel. de",
+    "falſ."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "P. fi. vt nul",
+    "li iudic. aux",
+    "nouuel. ſous",
+    "la collation ix:",
+    "Aut. bona dã",
+    "natorum C. de",
+    "bo. damnat.",
+    "Soit veue l'an",
+    "notation xcv"
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l j. C. de fal."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. edicto P j.",
+    "D. de bono.",
+    "poſſeſ."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l j. P j. D. de",
+    "effractor."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "marker b",
+   "note": "margin note b (l j. P fin. D ad l. Cornel. de falſ.) is printed, but no marker b is visible in the body; expected somewhere between {a} (line 18) and {c} (line 21), perhaps after 'Faux' or 'oſté'. Arbiter to check."
+  },
+  {
+   "where": "margin_notes[3]",
+   "text": "P. fi. vt nul",
+   "note": "key letter printed looks like 'e' (same shape as the e note); keyed c by alphabet sequence and position beside the {c} lines"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "teſticulos habet {z}. Ce ſont les principales hiſtoires de ſup-",
+   "note": "italic 'habet' final letter blotted, could read 'habei' (sic?); marker z printed as small roman z"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "tre, pour ne tomber en pareil erreur, des que le pape eſt",
+   "note": "mark after 'erreur' could be comma or period; read as comma"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "ces, aduiſera ſi le faict merite de faire mourir le preue-",
+   "note": "'mourir' prints like 'inourir' (damaged or wrong m sort?); possible sic"
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "ou ſoit par la loy d'Antonin {a}, qui veut que le crime de",
+   "note": "'Antonin' appears set in small capitals after the A"
+  },
+  {
+   "where": "blocks[0].lines[29]",
+   "text": "qu'il n'y a grande raiſon d'en douter d'auantage: com-",
+   "note": "'douter' as printed (not 'doubter')"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "l j. P j. D. de",
+   "note": "'de' blotted, reads 'D.d:' ; ink smear below 'effractor.'"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "l j. P fin. D",
+   "note": "key b: note keyed b is printed in the margin, but I found no b marker in the body; it probably belongs near 'Faux' or 'Iuſtinien oſté' (lines 19-20). Check the print"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "teſticulos habet {z}. Ce ſont les principales hiſtoires de ſup-",
+   "note": "the last letter of 'habet' looks like 'i' (possibly misprint 'habei'); the stroke is faint"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "ces, aduiſera ſi le faict merite de faire mourir le preue-",
+   "note": "the print reads like 'inourir'; probably a damaged m, but could be a wrong sort (sic)"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "à la dignité Papale, laquelle elle tint deux ans, vn mois",
+   "note": "'dignité': 't' is poorly inked and could be misread as 'r' ('digniré')"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "tre, pour ne tomber en pareil erreur, des que le pape eſt",
+   "note": "the mark after 'erreur' is a comma or a period; the shape is unclear"
+  },
+  {
+   "where": "blocks[2].text",
+   "text": "Adultere.",
+   "note": "one-line TEXTE passage in larger type, treated as a paragraph (quoted text of the arrest) rather than a heading"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Il n'eſt beſoin expliquer plus clairement l'adultere",
+   "note": "a stray dot sits after 'Il' (probably a spacer or ink mark, omitted)"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "la collation ix:",
+   "note": "the mark after 'ix' could be a colon or a period"
+  },
+  {
+   "where": "margin_notes[3].lines[7]",
+   "text": "Soit veue l'an",
+   "note": "'Soit veue l'annotation xcv' may be a separate unkeyed note rather than the end of note c"
+  }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[5].lines[0]",
+   "target": "margin_notes[5].lines[0]",
+   "spans": [
+    [
+     10,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "l. edicto P j.",
+   "b": "l. edicto P. j.",
+   "text": "l. edicto P j.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

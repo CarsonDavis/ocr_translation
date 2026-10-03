@@ -1,8 +1,8 @@
-# Report: texte-39
+# Report: texte-37
 
-- Output: `translation/sections/texte-39.md` — `check_markers.py texte-39`: 1 sections ok, 0 failed.
-- Word counts: French 131, English 143. No marginal citations.
-- Glossary additions: *cõiuration* → "conspiracy"; *marchander auec* → "to bargain with"; *frayer (le reſte)* → "to defray"; *conſul (de Palhé)* → "consul (of Palhé [Pailhès])"; *gendres* → "sons-in-law".
-- `[unclear]` passages: none. Wrong sorts translated by sense: *teſmoius* (for *teſmoins*), *conful* (for *conſul*). *Ses femme & beaux fils* kept as "his wife and sons-in-law"; the print's mid-sentence periods after *priſonnier* rendered by a semicolon and a colon.
-- Choices to review: "Palhé [Pailhès]" — Coras's form kept in the text with the modern name in brackets per case file §4 (the case file's "render as" column gives "Pailhès (Coras: *Palhe*)"; the print here has *Palhé* with an acute); *faire mourir & perdre* → "to have put to death and destroyed".
+- Output: `translation/sections/texte-37.md` — `check_markers.py texte-37`: 1 sections ok, 0 failed.
+- Word counts: French 81, English 89. No marginal citations. The section opens at the top of p060 under the heading TEXTE.
+- Glossary additions: *femmes de bien & honneſtes* → "women of worth and honest"; *beaux-freres* → "brothers-in-law".
+- `[unclear]` passages: none. Wrong sorts translated by sense: *Preniierement*, *Cuerre*, *dõnce*. Reflow gap *parfai tement*.
+- Choices to review: *ſ'il en y à en la Gaſcogne* → "if there are any in Gascony" (Davis paraphrases "as good and honourable women as are to be found in Gascony"); the last sentence turned passive ("the like assurance was given by two of the brothers-in-law") for English word order.
 - Citations: none.

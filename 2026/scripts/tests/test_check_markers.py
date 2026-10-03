@@ -21,3 +21,10 @@ def test_missing_marker_and_note(tmp_path, monkeypatch):
 def test_page_marker_order(tmp_path, monkeypatch):
     write(tmp_path, monkeypatch, "---\nid: annot-005\n---\n⟦p041⟧x {a} ⟦p040⟧y {b}\n\n## Notes\n- {a}\n- {b}\n")
     assert any("page markers differ" in p for p in check_markers.check("annot-005", {"annot-005": SEC}))
+
+def test_alternative_readings_do_not_count_as_markers(tmp_path, monkeypatch):
+    sec = {"id": "annot-005",
+           "text": "⟦p040⟧Le texte {a}.,⟨alt:{a},⟩ continue ⟨alt:{b}:⟩ ⟦p041⟧et finit⟨alt?:{c}⟩ {b}.",
+           "notes": [{"key": "a"}, {"key": "b"}]}
+    write(tmp_path, monkeypatch, "---\nid: annot-005\n---\n⟦p040⟧The text {a} goes on ⟦p041⟧and ends {b}.\n\n## Notes\n- {a}\n- {b}\n")
+    assert check_markers.check("annot-005", {"annot-005": sec}) == []

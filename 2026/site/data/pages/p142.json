@@ -9,11 +9,371 @@
   "image_no": 164,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/164"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p141",
  "next": "p143",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Together with the said Pierre Guerre, uncle of the said Martin.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, XCIX"
+  },
+  {
+   "type": "paragraph",
+   "html": "There was great reason to dismiss this poor Pierre Guerre from the case and suit; who, so far from deserving to be punished, was worthy of recompense, and merited double praise for a work so good, so virtuous and so charitable, as to have spent part of his property and exposed his person to great peril and danger of his life, to uncover this deed and bring so prodigious an imposture to light.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And has remanded, and remands, the said du Tilh to the said Judge of Rieux, to have this present decision put into execution according to its form and tenor.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION C"
+  },
+  {
+   "type": "paragraph",
+   "html": "It was fitting to remand the execution of the decision to the Judge of Rieux, who had not spared himself in searching out, by all honest means of Justice, the truth of this deed. Joined that it greatly befits the dignity of the sovereign courts to maintain and preserve the authority of the inferior ones <sup class=\"mk\" data-key=\"a\">a</sup>, and so to act that, by their example and for the public good, all Judges (each in his degree) be by all and everywhere revered, as our Laws also often command <sup class=\"mk\" data-key=\"b\">b</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 7.64 (<i>Quando provocare non est necesse</i>), l. <i>Omnem</i> (fragment not identified); Decretals, X 2.28 (<i>De appellationibus</i>), c. <i>Ut debitus</i> (Lateran IV, c. 35; cf. X 2.28.59, chapter number not verified)",
+     "original": "l. omnẽ. C. quand. prouo non eſt nece. c. vt debitus. de appel.",
+     "gloss": "<i>Ut debitus honor iudicibus et sedibus servetur</i> — that due honour be kept to judges and their seats: the constitution restraining frivolous appeals from lower judges. The transcribers' <i>e.</i> for the siglum is read <i>c.</i>, a chapter of the Decretals."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 16.3 (<i>Depositi vel contra</i>), l. 1, § <i>Casum</i> (paragraph not verified); Digest 1.18 (<i>De officio praesidis</i>), l. <i>Observandum</i> (D. 1.18.19, Callistratus)",
+     "original": "l. i. P. caſum D. depoſiti l. obſeruandum D. de officio præſ.",
+     "gloss": "Callistratus: the magistrate dispensing justice must make himself easy of access but not suffer himself to be despised — <i>contemni non patiatur</i>. The transcribers' <i>depoſt.</i>/<i>depoſit.</i> is the title <i>Depositi</i> abbreviated."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "TEXT OF THE RECORD",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "of the execution.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Afterwards, to execute the said decision, the same du Tilh was brought back from the Conciergerie to the place of Artigat, where the execution was to",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Enſemble ledit Pierre Guerre, oncle",
+    "dudit Martin."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, XCIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il y auoit grande raiſon, de mettre ce pauure Pierre",
+    "Guerre hors de procez, & d'inſtance: lequel tant ſ'en",
+    "faut qu'il deuſt eſtre puni, qu'il eſtoit digne de recom-",
+    "penſe, & meritoit louange double, pour vn œuure ſi",
+    "bon, ſi vertueux, & ſi charitable, d'auoir deſpendu par-",
+    "tie de ſon bien, & expoſé ſa perſonne à grand peril &",
+    "danger de ſa vie, pour deſcouurir ce faict, & mettre vne",
+    "ſi prodigieuſe impoſture en euidence."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et a renuoyé, & renuoye ledit du Tilh",
+    "audit Iuge de Rieux, pour faire mettre",
+    "ce preſent arreſt à execution, ſelon ſa",
+    "forme, & teneur."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. C.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il eſtoit conuenable renuoyer l'execution de l'arreſt",
+    "au Iuge de Rieux, lequel ne ſ'eſtoit eſpargné à recher-",
+    "cher par tous honneſtes moyens de Iuſtice, la verité de",
+    "ce faict. Ioinct qu'il appartient grandement à la digni-",
+    "té des cours ſouueraines, de maintenir, & cõſeruer l'au-",
+    "thorité des inferieurs {a}: & faire de maniere, qu'à leur",
+    "exemple, & pour le bien public, tous Iuges (chacun en",
+    "ſon degré) ſoyent de tous, & par tout reuerez, comme",
+    "auſſi nos Loix ſouuent le commandent {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE DV PROCES",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "de l'execution."
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Depuis pour executer ledict arreſt, ice-",
+    "luy du Tilh fut ramené de la concierge-",
+    "rie au lieu d'Artigat, où l'executiõ ſe de-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. omnẽ. C.",
+    "quand. prouo",
+    "non eſt nece.",
+    "c. vt debitus.",
+    "de appel."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. i. P. caſum",
+    "D. depoſit. l.",
+    "obſeruandum",
+    "D. de officio",
+    "præſ."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes",
+   "note": "the margin strips (margin-2, margin-3) are cut off at their right edge and show only the first few letters of each note line; the notes were read from the whole-page image pages/read/p142.jpg at reading size only, so every margin reading is lower-confidence than the body."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "non eſt nece.",
+   "note": "the end of this line is small and blurred at reading size; read 'nece.' (for neceſſe); could be 'neceſ.' or similar."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. omnẽ. C.",
+   "note": "a tilde-like mark over the final e of 'omnẽ' read at reading size only."
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "præſ.",
+   "note": "second letter group read as æ ligature ('præſ.'); could be plain 'praſ.' or 'preſ.'."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. i. P. caſum",
+   "note": "the print sets 'l.i.P.' tight; the P is the swash paragraph sort."
+  },
+  {
+   "where": "blocks[2]",
+   "text": "ANNOTAT, XCIX.",
+   "note": "the mark after ANNOTAT has a small tail and looks like a comma rather than the period used in 'ANNOTAT. C.'; transcribed as a comma from its shape."
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Il y auoit grande raiſon, de mettre ce pauure Pierre",
+   "note": "a small mark stands above the final e of 'Pierre' (show-through or a stray accent/tilde); not transcribed."
+  },
+  {
+   "where": "blocks[3].lines[1]",
+   "text": "Guerre hors de procez, & d'inſtance: lequel tant ſ'en",
+   "note": "the print shows a baseline dot right after 'procez' and then a separated comma ('procez. ,'); transcribed as a single comma. Reconciler may prefer 'procez.,'."
+  },
+  {
+   "where": "blocks[7].lines[4]",
+   "text": "té des cours ſouueraines, de maintenir, & cõſeruer l'au-",
+   "note": "the l of l'au looks like a short i at this resolution; read l'. Line-end break sign is a raised dot; transcribed '-'."
+  },
+  {
+   "where": "blocks[9]",
+   "text": "de l'execution.",
+   "note": "italic display line, second line of the TEXTE DV PROCES heading; lower-case as printed."
+  },
+  {
+   "where": "blocks[10].lines[0]",
+   "text": "Depuis pour executer ledict arreſt, ice-",
+   "note": "line-end break sign is a raised dot; transcribed '-'."
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Il y auoit grande raiſon, de mettre ce pauure Pierre",
+   "note": "a mark like a diaeresis/tilde over the final e of 'Pierre'; probably stray ink, not transcribed"
+  },
+  {
+   "where": "blocks[7].lines[3]",
+   "text": "ce faict. Ioinct qu'il appartient grandement à la digni-",
+   "note": "the accent on 'à' looks almost circumflex-shaped; read as grave. Line-end hyphen printed as a raised dot"
+  },
+  {
+   "where": "blocks[7].lines[4]",
+   "text": "té des cours ſouueraines, de maintenir, & cõſeruer l'au-",
+   "note": "line-end word-break sign printed as a raised dot after 'au'"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "non eſt nece.",
+   "note": "margin strips truncate the right edge of the notes; read from the whole-page image only; could be 'nec.' or 'neceſ.'"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "c. vt debitus.",
+   "note": "first letter could be 'e.' or 'c.'; small italic at reading size"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. omnẽ. C.",
+   "note": "note lines read from the whole-page image; margin strips are cut off at the right; tilde over e as seen"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. i. P. caſum",
+   "note": "'i' could be '1'; read from whole-page image and partial strip"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "D. depoſit. l.",
+   "note": "strip truncated after 'depoſ'; whole-page image suggests 'depoſt.' or 'depoſit.'"
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "præſ.",
+   "note": "could be 'praeſ.' or 'praſi.'; ligature not clear at this size"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].text",
+   "target": "blocks[2].text",
+   "spans": [
+    [
+     0,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "ANNOTAT, XCIX.",
+   "b": "ANNOTAT. XCIX.",
+   "text": "ANNOTAT, XCIX.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[7].lines[3]",
+   "target": "blocks[7].lines[3]",
+   "spans": [
+    [
+     45,
+     46
+    ]
+   ],
+   "aligned": true,
+   "a": "ce faict. Ioinct qu'il appartient grandement â la digni-",
+   "b": "ce faict. Ioinct qu'il appartient grandement à la digni-",
+   "text": "ce faict. Ioinct qu'il appartient grandement à la digni-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "à, the preposition with its grave accent as this print sets it everywhere (appartient grandement à la dignité); â with a circumflex is not a form the print uses. Translation the same."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "target": "margin_notes[0].lines[3]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "e. vt debitus.",
+   "b": "c. vt debitus.",
+   "text": "c. vt debitus.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "c. vt debitus. de appel. = the Decretals chapter Ut debitus honor under De appellationibus (X 2.28); c. is the siglum for a chapter, e. is no siglum."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "target": "margin_notes[1].lines[1]",
+   "spans": [
+    [
+     3,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "D. depoſt. l.",
+   "b": "D. depoſit. l.",
+   "text": "D. depoſit. l.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "D. deposit. = Digest, Depositi vel contra (D. 16.3), the title abbreviated with its vowel; depost. drops the i and is not a usual abbreviation of the title."
+  }
+ ]
 }

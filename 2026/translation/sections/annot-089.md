@@ -1,0 +1,11 @@
+---
+id: annot-089
+pages: [p128]
+---
+⟦p128⟧For the offence done principally to God, in violating the holy estate of marriage, which God has above all honoured and sanctified by the presence of his son Jesus Christ, performing the first miracle, saying to his Apostles {a2} [unclear: the clause breaks off here in the print; no words of Christ follow]: it was also fitting that the reparation of this prodigious crime should begin with public penance (*amende honorable*) before the temple and the house of God {b}.
+
+## Notes
+The print heads this annotation ANNOTAT. LXXXIX. on p128; by the true count it is the 88th (the print's numbers run one ahead from Annotation 84), and it expounds the words *deuant l'Egliſe* of the decision (texte-87). Markers a2 and b on p128, both keyed and served: the transcription keys the first note *a2* because p128 already carries Annotation 87's note *a*; the body marker is the same and is kept. No page break. The sentence *faiſant le premier miracle, diſant à ſes Apoſtres. {a2} Il eſtoit auſſi conuenable* is defective as printed: *diſant à ſes Apoſtres* has no object, and the stop after it leaves the long *Pour l'offence …* phrase hanging; the reading taken is that the whole first clause is the ground of *Il eſtoit auſſi conuenable*, and the dropped words (perhaps a quotation from John 2, or a phrase such as *eſtant là auec ſes Apoſtres*) are marked `[unclear]` in the text rather than supplied. The print's comma in *ſanctifié par, la preſence* is misplaced and ignored. *Le ſainct eſtat de mariage* → "the holy estate of marriage"; *prodigieux forfaict* → "prodigious crime" (*prodigieux* → prodigious, *forfaict* → crime, per the glossary); *amende honorable* → "public penance (*amende honorable*)" per the case file §5, the French kept in parentheses on first use in this stretch; *le temple, & la maiſon de Dieu* → "the temple and the house of God" (the house of prayer of the Isaiah and Matthew texts cited at *b*).
+
+- {a2} (p128): **John 2 (2:1–11, the marriage at Cana, Christ's first miracle)** — S. Iean. c. ij.
+- {b} (p128): **Isaiah 56 (56:7, "my house shall be called a house of prayer"); Matthew 21 (21:13, the same words in the cleansing of the temple)** — Eſaye c. lvj. S. Math. xxi.

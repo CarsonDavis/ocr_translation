@@ -289,5 +289,105 @@
    "text": "Auec lequel auroit demeuré neuf, ou dix",
    "note": "the two lines after TEXTE. are set in a noticeably larger roman type; transcribed as a paragraph because they are running prose (the quoted text of the arrest) continuing onto p005, not a display title"
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "me {ſ}. meſme qu'en ceſt aage, on void quelquesfois adue-",
+   "b": "mes {ſ}. meſme qu'en ceſt aage, on void quelquesfois adue-",
+   "text": "me {ſ}. meſme qu'en ceſt aage, on void quelquesfois adue-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the line reads 'me' + italic long-s marker + period; there is no round s between the e and the marker. p003 ends 'à la fem-', so 'femme {ſ}.'"
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "target": "margin_notes[1].lines[3]",
+   "spans": [
+    [
+     0,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "maux. c. v.",
+   "b": "maux x. c. v.",
+   "text": "maux x. c. v.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "a free-standing x is clearly printed between 'maux' and 'c.' at 4x"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "target": "margin_notes[7].lines[1]",
+   "spans": [
+    [
+     0,
+     3
+    ]
+   ],
+   "aligned": true,
+   "a": "vij. liure de la",
+   "b": "vij liure de la",
+   "text": "vij liure de la",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the mark between j and l is a speck much smaller than the note's real periods (compared side by side at 4x); no period printed"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "target": "blocks[0].lines[15]",
+   "spans": [
+    [
+     50,
+     54
+    ]
+   ],
+   "aligned": true,
+   "a": "bãdée tout à l'ẽtour de pourpre, qu'ils appeloyẽt PR AE",
+   "b": "bãdée tout à l'ẽtour de pourpre, qu'ils appeloyẽt PR AE",
+   "text": "bãdée tout à l'ẽtour de pourpre, qu'ils appeloyẽt PRAE",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both reads carry the half-closed 'PR AE' from the mechanical spaced-caps update; §3 now closes spaced capitals fully, so 'PRAE' (with 'TEXTA.' on the next line)"
+  },
+  {
+   "where": "blocks[0].spaced_caps",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "true",
+   "text": "true",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "block contains the letterspaced PRAE / TEXTA / BVLLA, so the flag records it per §3"
+  },
+  {
+   "where": "margin_notes[*].beside_line",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "(present)",
+   "text": "(present)",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "B's placements match the page; copied from the final body lines so they are verbatim"
+  }
  ]
 }

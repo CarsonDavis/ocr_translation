@@ -9,11 +9,445 @@
   "image_no": 86,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/86"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p063",
  "next": "p065",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "agreed by the said de Rols to be true, and since verified, that the hose were still there.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XLII"
+  },
+  {
+   "type": "paragraph",
+   "html": "I do not remember having read that any man had a memory so happy as to remember so many particular acts, places and words, from so long a time, and in regard to so many persons, save the Emperor Hadrian <sup class=\"mk\" data-key=\"a\">a</sup>. For Cyrus, King of the Persians, being in his great and numerous army, could well tell all the names of his soldiers and men-at-arms, and, reviewing his army, spoke to each one by his name <sup class=\"mk\" data-key=\"b\">b</sup>. Which Lucius Scipio also once did well at Rome <sup class=\"mk\" data-key=\"c\">c</sup>. Mithridates well remembered twenty-two languages, of as many nations as he had under him, speaking to each one without an interpreter <sup class=\"mk\" data-key=\"d\">d</sup>. Cineas, ambassador of Pyrrhus, in one day that he was at Rome, learned well all the names of the Roman Senators and knights <sup class=\"mk\" data-key=\"e\">e</sup>. Seneca could well, as he himself boasts, recite two thousand names in the same order in which they had been pronounced to him, and two hundred verses backwards, beginning from the last <sup class=\"mk\" data-key=\"f\">f</sup>. Which before him Theodectes, disciple of Aristotle <sup class=\"mk\" data-key=\"g\">g</sup>, and Metrodorus the Philosopher (who flourished in the time of Diogenes the Cynic) also did well <sup class=\"mk\" data-key=\"h\">h</sup>. One likewise praises much the memory of Julius Caesar, Scipio, Lucullus, Hortensius and Porcius Latro, Romans; and of Themistocles, Carneades and Charmides, Greeks <sup class=\"mk\" data-key=\"i\">i</sup>. But the memory of this du Thil here, whether he had gained it by art or by practice, surpassed [theirs], as it seems, he having never been found by the commissioners to have failed by a single iota. Which I mean to have written with the protestation I have made above <sup class=\"mk\" data-key=\"k\">k</sup>, of not wishing to enter into comparison of so impudent a cheat with persons so noble, great and illustrious.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Dio Cassius, <i>Roman History</i>, book 69 (69.3, on Hadrian), and Aelius Spartianus, <i>Life of Hadrian</i> in the <i>Historia Augusta</i> (20.7–8)",
+     "original": "Dion, &amp; Spartiã en la vie d'Adrian.",
+     "gloss": "Hadrian's memory: he recalled the names of veterans and of many men at once, and Spartianus says he could recite a book after one hearing."
+    },
+    {
+     "key": "b",
+     "citation": "Herodotus, book I (<i>Clio</i>)",
+     "original": "Herodote au liure in ſcript. Clio.",
+     "gloss": "The anecdote of Cyrus knowing every soldier by name is not in Herodotus in Coras's terms; it is Xenophon's (<i>Cyropaedia</i> 5.3.46–47), and is repeated by Pliny (<i>Natural History</i> 7.24.88), Quintilian (11.2.50) and Solinus. The attribution is given as printed."
+    },
+    {
+     "key": "c",
+     "citation": "Solinus, <i>Collectanea rerum memorabilium</i> (the <i>Polyhistor</i>), chapter 7 as cited (the passage on memory is in chapter 1 of the modern division, §§ 106–108; number unverified)",
+     "original": "Solin en ſon Polhiſt. c. vij.",
+     "gloss": "Lucius Scipio knew the names of the whole Roman people; the same chapter of Solinus is cited at annot-035 {a}."
+    },
+    {
+     "key": "d",
+     "citation": "Appian of Alexandria, <i>Mithridatic Wars</i> (ch. 112)",
+     "original": "Appian Ale xandrin. en la Guerre Mithridatique.",
+     "gloss": "Mithridates spoke the languages of the twenty-two nations he ruled, without an interpreter."
+    },
+    {
+     "key": "e",
+     "citation": "Plutarch, <i>Life of Pyrrhus</i> (ch. 18, Cineas's embassy to Rome)",
+     "original": "Plutarque en la vie de Pyrrh.",
+     "gloss": "Plutarch has Cineas at Rome; the feat of learning the names of the senators and knights the day after his arrival is told by Pliny (7.24.88) and Solinus."
+    },
+    {
+     "key": "f",
+     "citation": "Seneca the Elder, <i>Controversiae</i>, preface to book I (§ 2)",
+     "original": "Seneque au prologue de ſes declamations.",
+     "gloss": "Seneca says he could repeat two thousand names in the order given, and more than two hundred verses recited by his schoolfellows, from the last to the first; the same preface is cited at annot-021 {e}."
+    },
+    {
+     "key": "g",
+     "citation": "Cicero, <i>Tusculan Disputations</i> I (I.24.59)",
+     "original": "Ciceron au j. des Tuſcula nes.",
+     "gloss": "Cicero's roll of memories: Simonides, Theodectes, Cineas, Charmadas, Metrodorus, Hortensius."
+    },
+    {
+     "key": "h",
+     "citation": "Solinus, at the place cited above (at {c})",
+     "original": "Solin an lieu deſſus al-",
+     "gloss": "<i>Au lieu deſſus allegué</i>; the transcription's note breaks off at <i>al-</i>, and <i>an</i> is a wrong sort for <i>au</i>. Metrodorus of Scepsis is in Solinus's list; his being contemporary with Diogenes the Cynic is Coras's statement, not verified."
+    },
+    {
+     "key": "i",
+     "citation": "Pliny, <i>Natural History</i>, book 7, chapter 24 (7.24.88–90; the print's <i>lieu vj</i> read as <i>liu. vij</i>); Cicero, <i>De oratore</i> II (II.86–88, 351–360, the discourse on memory; II.74.299 on Themistocles) and <i>Tusculan Disputations</i> I (I.24.59)",
+     "original": "Pline au lieu vj c. xxiiij. ci ceron au ij. de Oratore &amp; au j. des Tuſcula.",
+     "gloss": "Pliny names Cyrus, L. Scipio, Cineas, Mithridates, Charmadas, Metrodorus and Hortensius; Cicero's Greek is Charmadas, printed <i>Charmides</i> by Coras; Julius Caesar and Carneades are in neither list; Lucullus's memory is Cicero, <i>Academica</i> II.1–2. The same two authorities are cited together at annot-021 {a}."
+    },
+    {
+     "key": "k",
+     "citation": "Coras, Annotation XXI (cross-reference; the print's <i>arno tation</i> is a wrong sort for <i>annotation</i>)",
+     "original": "En l'arno tation xxj.",
+     "gloss": "Annotation XXI compares du Tilh's memory to Scipio, Cyrus, Theodectes, Mithridates, Themistocles, Cineas, Metrodorus and Lucullus, with the protestation against comparing so impudent a man to such persons."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Now such things cannot fall within an instruction given him by another;",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "accordé par ladite de Rols eſtre vray, &",
+    "depuis verifié, que les chauſſes y eſtoyẽt",
+    "encores."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il ne me ſouuient point auoir leu qu'aucun homme",
+    "euſt la memoire ſi heureuſe, de ſe ſouuenir de tant d'a-",
+    "ctes particuliers des lieux, & des propos, de ſi long",
+    "temps, & à l'endroict de tant de perſonnes: hors mis",
+    "d'Adrian l'Empereur {a}. car Cyrus, Roy des Perſes, eſtãt",
+    "en ſon exercite grand, & nombreux, ſçauoit bien dire",
+    "tous le noms de ſes ſouldats, & genſdarmes: & faiſanr",
+    "la reueuë de ſon armee, parloit à chaſcũ par ſon nom {b}.",
+    "Ce que fit bien auſſi iadis à Rome Luce Scipion {c}.",
+    "Mithridates ſe ſouuenoit bien de vingtdeux langages:",
+    "d'autant de nations qu'il auoit ſoubz ſoy, parlãt à cha-",
+    "cune ſans interprete {d}. Cyneas ambaſſadeur de Pyrrhus,",
+    "dans vn iour qu'il fut à Rome, aprint bien tous les",
+    "noms des Senateurs & cheualiers Romains {e}, Seneque",
+    "ſçauoit bien comme luy meſme ſe vante, reciter deux",
+    "mille noms, par le meſme ordre qu'on les luy auoit",
+    "prononcez, & deux cens vers au rebours, commençant",
+    "au dernier {f}. Ce que deuant luy Theodectes, diſciple",
+    "d'Ariſtore {g}. & Metrodore Philoſophe, (qui fleuriſſoit",
+    "au temps de Diogenes Cynique) faiſoit bien auſſi {h}.",
+    "On louë de meſme & beaucoup la memoire de Iule",
+    "Ceſar, Scipion, Luculle., Hortenſe, & de Porcius",
+    "Latro Romains: de Themiſtocles, Carneades & Char-",
+    "mides Grecs {i}. mais la memoire de ce du Thil ici, bien",
+    "qu'il euſt gaigné par aut, ou par vſage, ſurpaſſoit cõme",
+    "il ſemble: n'ayant eſté iamais deſcouuert par les cõmiſ-",
+    "ſaires, qu'il euſt failli d'vn ſeul iota. Ce que i'entens",
+    "auoir eſcrit, auec la proteſtation qu'ay ci deuant faite {k},",
+    "de ne vouloir entrer en comparaiſon d'vn ſi impudent",
+    "affrõteur auec perſonnes ſi nobles, grandes & illuſtres."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Or telles choſes ne peuuent tomber en",
+    "inſtruction qui luy fuſt donné par autre"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Dion, &",
+    "Spartiã en la",
+    "vie d'Adrian."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Herodote",
+    "au liure in",
+    "ſcript. Clio."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Solin en",
+    "ſon Polhiſt.",
+    "c. vij."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Appian Ale",
+    "xandrin. en la",
+    "Guerre Mi-",
+    "thridatique."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Plutarque",
+    "en la vie de",
+    "Pyrrh."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Seneque au",
+    "prologue de",
+    "ſes declama-",
+    "tions."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Ciceron au",
+    "j. des Tuſcula",
+    "nes."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "Solin an",
+    "lieu deſſus al-"
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "Pline au lieu",
+    "vj c. xxiiij. ci",
+    "ceron au ij. de",
+    "Oratore & au",
+    "j. des Tuſcula."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "En l'arno",
+    "tation xxj."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "tous le noms de ſes ſouldats, & genſdarmes: & faiſanr",
+   "note": "sic: the last letter of 'faiſanr' prints as an r, not a t (wrong sort); also 'le noms' for 'les noms' as printed. The colon after 'genſdarmes' is two dots."
+  },
+  {
+   "where": "blocks[2].lines[8]",
+   "text": "Ce que fit bien auſſi iadis à Rome Luce Scipion {c}.",
+   "note": "accent over the a before 'Rome' is faint; read as grave 'à' (could be plain 'a'). Marker c is small and low, set close to the period."
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "ſçauoit bien comme luy meſme ſe vante, reciter deux",
+   "note": "a raised point stands between 'luy' and 'meſme' (possibly a hyphen 'luy-meſme' or a stray mark); omitted as a word space. 'vante,reciter' set tight, normalized."
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "mille noms, par le meſme ordre qu'on les luy auoit",
+   "note": "the print sets 'm eſme' with a gap after the m; closed up as the single word 'meſme'."
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "d'Ariſtore {g}. & Metrodore Philoſophe, (qui fleuriſſoit",
+   "note": "sic: 'Ariſtore' (r for t, Aristote) as printed; marker g is set tight against the word with no raised position ('Ariſtoreg.')."
+  },
+  {
+   "where": "blocks[2].lines[21]",
+   "text": "Ceſar, Scipion, Luculle., Hortenſe, & de Porcius",
+   "note": "sic: period followed by comma after 'Luculle' as printed."
+  },
+  {
+   "where": "blocks[2].lines[23]",
+   "text": "mides Grecs {i}. mais la memoire de ce du Thil ici, bien",
+   "note": "the point after marker i is raised (mid-height), read as a period."
+  },
+  {
+   "where": "blocks[2].lines[24]",
+   "text": "qu'il euſt gaigné par aut, ou par vſage, ſurpaſſoit cõme",
+   "note": "sic: 'aut' for 'art' as printed (wrong sort)."
+  },
+  {
+   "where": "blocks[2].lines[27]",
+   "text": "auoir eſcrit, auec la proteſtation qu'ay ci deuant faite {k},",
+   "note": "mark after marker k is blotted: comma or period; comma chosen since the next line continues in lower case."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "ſon Polhiſt.",
+   "note": "sic: 'Polhiſt.' for Polyhist. as printed. 'c. vij.' printed as 'c.vÿ.' (ij sort), decomposed."
+  },
+  {
+   "where": "margin_notes[7]",
+   "text": "lieu deſſus al-",
+   "note": "note h is two lines only: 'Solin an' (sic, 'an' for 'au') / 'lieu deſſus al-', ending in a hyphen with no continuation; the next margin line begins with the key i ('i Pline au lieu'), which serves marker {i} in the body. The hanging 'al-' may be the start of 'alleg.' cut off by the compositor."
+  },
+  {
+   "where": "margin_notes[9].lines[0]",
+   "text": "En l'arno",
+   "note": "the third letter of the word looks like an r followed by a damaged n ('l'ar:no'); probably a defective or wrong sort for 'l'anno(tation)'. Transcribed as seen."
+  },
+  {
+   "where": "blocks[3]",
+   "text": "TEXTE.",
+   "note": "a small ring-shaped ink mark sits in the margin to the left of the TEXTE heading; a speck, not type."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "Spartiã en la",
+   "note": "tilde over the final a of 'Spartiã' (Spartian)."
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "d'Ariſtore {g}. & Metrodore Philoſophe, (qui fleuriſſoit",
+   "note": "sic, wrong sort: 'Ariſtore' for 'Ariſtote' (r where t is expected). The marker g sits tight against the word, followed by a period."
+  },
+  {
+   "where": "blocks[2].lines[24]",
+   "text": "qu'il euſt gaigné par aut, ou par vſage, ſurpaſſoit cõme",
+   "note": "sic, wrong sort: 'aut' for 'art' (u where r is expected); transcribed as printed."
+  },
+  {
+   "where": "blocks[2].lines[21]",
+   "text": "Ceſar, Scipion, Luculle., Hortenſe, & de Porcius",
+   "note": "after 'Luculle' the print shows both a point and a comma ('Luculle.,'); transcribed as printed, possibly a stray point."
+  },
+  {
+   "where": "blocks[2].lines[23]",
+   "text": "mides Grecs {i}. mais la memoire de ce du Thil ici, bien",
+   "note": "the mark after marker i is a small dot raised to about mid-height rather than on the baseline; read as a period. Also 'de ce du Thil' printed as such (for 'de ce du Til/Tilh')."
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "ſçauoit bien comme luy meſme ſe vante, reciter deux",
+   "note": "a small raised dot stands between 'luy' and 'meſme'; taken as a stray mark/speck and not transcribed. Could be a middle point."
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "mille noms, par le meſme ordre qu'on les luy auoit",
+   "note": "'meſme' is printed with a wide gap after the m ('m eſme'); closed up as one word per §1 word-division rule. Likewise 'nobl es' in lines[29] closed up to 'nobles'."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "ſon Polhiſt.",
+   "note": "sic: 'Polhiſt.' as printed (for Polyhiſt.); the letter after 'l' is an italic h."
+  },
+  {
+   "where": "margin_notes[7]",
+   "text": "Solin an",
+   "note": "'an' printed where 'au' is expected (sic, likely turned u). The note ends 'al-' with a hyphen and the next margin line begins with the key letter i of note i, so note h reads 'Solin an lieu deſſus al-' with an apparently dangling hyphen (abbreviation of 'allegué'?). Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[8]",
+   "text": "vj c. xxiiij. ci",
+   "note": "note i begins on the line 'i Pline au lieu', whose leading i is taken as the key. The book number reads 'vj' (italic v + j); Pliny's passage on memory is NH vii.24, so 'vij' is possible if a stroke failed. The 'ij'/'iiij' use the italic ÿ-shaped sort, decomposed. 'c.xxiiij.' and 'ij.de', 'Oratore&' are set tight; spacing normalized."
+  },
+  {
+   "where": "margin_notes[9].lines[0]",
+   "text": "En l'arno",
+   "note": "sic: 'l'arno' for 'l'anno'; the second letter looks like r (with a small blot after it), not n. Reference is to annotation xxj."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "c. vij.",
+   "note": "printed 'c.vÿ.' with the italic ij sort, decomposed as 'vij'; spacing normalized."
+  },
+  {
+   "where": "blocks",
+   "note": "page furniture: verso, folio '64' at top left, running head ARREST DV letterspaced and closed up. No signature, no catchword, no foot citation block. A small ring-shaped blot sits in the left of the column beside the TEXTE heading (not type). Damp stain in the upper outer corner does not obscure type. Counts: 35 body text lines (3 + 30 + 2) in 3 paragraphs, 2 headings, 10 markers a-k (no j), 10 margin notes. Marker run restarts at a at ANNOTAT. XLII."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].lines[6]",
+   "target": "blocks[2].lines[6]",
+   "spans": [
+    [
+     46,
+     53
+    ]
+   ],
+   "aligned": true,
+   "a": "tous le noms de ſes ſouldats, & genſdarmes: & faiſanr",
+   "b": "tous le noms de ſes ſouldats, & genſdarmes: & faiſant",
+   "text": "tous le noms de ſes ſouldats, & genſdarmes: & faiſanr",
+   "chose": "A",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "blocks[2].lines[27]",
+   "target": "blocks[2].lines[27]",
+   "spans": [
+    [
+     57,
+     61
+    ]
+   ],
+   "aligned": true,
+   "a": "auoir eſcrit, auec la proteſtation qu'ay ci deuant faite {k},",
+   "b": "auoir eſcrit, auec la proteſtation qu'ay ci deuant faite {k}.",
+   "text": "auoir eſcrit, auec la proteſtation qu'ay ci deuant faite {k},",
+   "chose": "A",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "target": "margin_notes[8].lines[1]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "vj. c. xxiiij. ci",
+   "b": "vj c. xxiiij. ci",
+   "text": "vj c. xxiiij. ci",
+   "chose": "B",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  }
+ ]
 }

@@ -1,0 +1,270 @@
+{
+ "id": "p160",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "ARREST DV",
+ "folio": "160",
+ "signature": null,
+ "catchword": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ment recueillir de la dipoſition teſtamentaire {r}. Ce que",
+    "l'eueſque pourra faire: bien que le defunct euſt nom-",
+    "meement defendu à l'eueſque de ſ'en meſler {ſ}, d'au-",
+    "tant que telles defenſes ſont priuées, & peu raiſonna-",
+    "bles: voire ſemblent contenir ineptitude, & quelque im",
+    "pieté {t}. Dont ne peuuent empeſcher la force des loix e-",
+    "quitables, la vertu des ſainctes conſtitutions {u}. Et ſi l'e-",
+    "ueſque eſtoit negligent à faire les ſuſdits admonneſte-",
+    "mens, & procurer l'accompliment de telles volontez,",
+    "faut recourir au Metropolitain {x}. Les executeurs Don",
+    "nez, ſon ceux que le Iuge conſul, ou autre magiſtrat",
+    "baille, appellez les heritiers du defunct."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "De rechef ouy ledit du Tilh, perſeue-",
+    "re en ce que deſſus, iuſques à trois & qua",
+    "tre fois. voire encore eſtant ſur l'eſchel-",
+    "le du gibet, deuant la maiſon dudit Mar-",
+    "tin Guerre, où l'execution fut faite, con-",
+    "feſſa franchement auoir baſtie & execu-",
+    "tee ladite impoſture, en la forme que",
+    "deſſus: demandant pardon auſdits Mar-",
+    "tin Guerre, & Bertrande de Rols ma-",
+    "riez, & audit Pierre Guerre, oncle dudit",
+    "Martin, auec grans ſignes de repentan-",
+    "ce, & deteſtation de ſon faict: criant tou",
+    "ſiours à Dieu miſericorde, par ſon fils",
+    "Ieſus Chriſt. Et ainſi fut executé, ſon",
+    "corps pendu, & apres bruſlé."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "A RAISON CEDE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Imprimé à Paris, par Fleury Preuoſt 1571.",
+   "spaced_caps": true
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "r",
+   "lines": [
+    "P. ſi autem",
+    "qui hoc facere",
+    "iuſsi ſunt. coll.",
+    "vij."
+   ],
+   "beside_line": "ment recueillir de la dipoſition teſtamentaire {r}. Ce que"
+  },
+  {
+   "key": "ſ",
+   "lines": [
+    "P. ſi quis au",
+    "tem. allegué."
+   ],
+   "beside_line": "tant que telles defenſes ſont priuées, & peu raiſonna-"
+  },
+  {
+   "key": "t",
+   "lines": [
+    "l. quidã. D.",
+    "de conditio. in",
+    "inſtitutio. l.",
+    "ſeruo alien. P.",
+    "dernier. D. de",
+    "lega. i."
+   ],
+   "beside_line": "pieté {t}. Dont ne peuuent empeſcher la force des loix e-"
+  },
+  {
+   "key": "u",
+   "lines": [
+    "l. quod, de",
+    "bonis. P. der-",
+    "nier. D. ad l.",
+    "Fal. c. requiſi-",
+    "ſti de teſta."
+   ],
+   "beside_line": "faut recourir au Metropolitain {x}. Les executeurs Don"
+  },
+  {
+   "key": "x",
+   "lines": [
+    "P. ſi autem",
+    "ſanctiſsimus.",
+    "de eccleſ. tit.",
+    "coll. vij."
+   ],
+   "beside_line": "De rechef ouy ledit du Tilh, perſeue-"
+  },
+  {
+   "key": "y",
+   "lines": [
+    "l. iij. D. de",
+    "alimen. & ci-",
+    "bar. lega."
+   ],
+   "beside_line": "tre fois. voire encore eſtant ſur l'eſchel-"
+  }
+ ],
+ "foot_notes": [],
+ "ornaments": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ment recueillir de la dipoſition teſtamentaire {r}. Ce que",
+   "note": "'dipoſition' printed without the s of 'diſpoſition' (wrong/missing sort). sic. The page opens mid-word ('ment' completes 'autre-' from p159), so continues_prev is true."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "meement defendu à l'eueſque de ſ'en meſler {ſ}, d'au-",
+   "note": "the n of 'meement' is a damaged/heavy sort that looks like an 'a' ('meemeat'); read n from the word ('nom-meement'). Same damaged-looking n in 'negligent' (line 7)."
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "ueſque eſtoit negligent à faire les ſuſdits admonneſte-",
+   "note": "initial n of 'negligent' is the same heavy sort that resembles an 'a'; read as n."
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "mens, & procurer l'accompliment de telles volontez,",
+   "note": "'accompliment' as printed (no 'ſſe'). sic."
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "nez, ſon ceux que le Iuge conſul, ou autre magiſtrat",
+   "note": "'ſon' printed for 'ſont' (no t). sic. A wide gap stands between 'conſul' and the comma (normalized per §1); no marker letter is visible in it. Final letter of 'magiſtrat' is heavily inked at the page edge; read t."
+  },
+  {
+   "where": "blocks[3]",
+   "text": "A RAISON CEDE.",
+   "note": "motto set in spaced capitals below the end of the text; recorded as a heading (display line). This is the last page of the book: the imprint line follows."
+  },
+  {
+   "where": "blocks[4]",
+   "text": "Imprimé à Paris, par Fleury Preuoſt 1571.",
+   "note": "imprint/colophon line in roman lower case with the date set in spaced digits (1 5 7 1, closed up per §3; spaced_caps flag records the digit spacing). Recorded as a heading (display line), not a paragraph. The first letters of 'Imprimé' are crowded ('Imp'); read Imprimé. Date 1571 as printed (title page says 1572)."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "iuſsi ſunt. coll.",
+   "note": "italic ß-shaped ligature in 'iuſsi' read as long s + round s (ſs), not ſſ."
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "ſanctiſsimus.",
+   "note": "same ß-shaped ſs ligature; the ending looks like 'imuu.' (the final s blotted), read 'ſanctiſsimus.'."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. quidã. D.",
+   "note": "the point after 'quidã' is a raised middle dot; transcribed as a period."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "inſtitutio. l.",
+   "note": "print shows a gap inside the word ('inſtituti o.'); closed up as one word ('conditio. inſtitutio.' = de conditionibus institutionum)."
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "alimen. & ci-",
+   "note": "a small colon-like mark sits between 'alimen.' and the italic ampersand ('alimen.:&'); read as point + ink speck, transcribed 'alimen. &'."
+  },
+  {
+   "where": "margin_notes",
+   "note": "the key letter r of the first note is a small italic r at the note's head; notes are set as a continuous column and drift below their markers, so beside_line values are approximate. No margin note keyed q stands on this page and the body carries no {q} marker (p159's foot note q has no marker on p159 either)."
+  },
+  {
+   "where": "margin_notes[5]",
+   "text": "y",
+   "note": "margin note keyed y ('l. iij. D. de alimen. & cibar. lega.') has no {y} marker visible in the body: the text after {x} (end of the annotation and the TEXTE paragraph) shows no marker letter. The marker may have been omitted by the compositor, possibly belonging at the end of the annotation ('du defunct.'). Recorded anyway per §4.",
+   "escalate": true
+  },
+  {
+   "where": "running_head",
+   "note": "running head set in spaced capitals (A R R E S T  D V), transcribed closed up per §3; the schema has no spaced_caps flag for the running head."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ment recueillir de la dipoſition teſtamentaire {r}. Ce que",
+   "note": "'dipoſition' as printed, without the ſ of 'diſpoſition'. sic. 'ment' completes 'autre-' at the foot of p159, so continues_prev is true. The first marker on this page is r; the foot note keyed q on p159 still has no marker on either page (see last entry)."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "meement defendu à l'eueſque de ſ'en meſler {ſ}, d'au-",
+   "note": "'nom-' + 'meement' as printed (nommeement). The marker after 'meſler' is an italic long-s key."
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "nez, ſon ceux que le Iuge conſul, ou autre magiſtrat",
+   "note": "'ſon' printed for 'ſont' (no t). sic. The print leaves a wide blank between 'conſul' and the comma, where a marker would sit; no marker letter is visible there. The margin note keyed y has no body marker on this page, and this gap may be where {y} was meant to be (or the sort failed to print). Also the last letter of 'magiſtrat' is doubtful: it could be an r sort ('magiſtrar'); read as t.",
+   "escalate": true
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "iuſsi ſunt. coll.",
+   "note": "the italic ligature in 'iuſsi' has the ß shape (long s + round s); transcribed ſs. Could be ſſ."
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "ſanctiſsimus.",
+   "note": "same ß-shaped italic ligature, transcribed ſs; could be ſſ. The final 'us' is cramped but legible."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. quidã. D.",
+   "note": "the point after 'quidã' sits raised (mid-dot); transcribed as a period. Tilde over the a is clear."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "inſtitutio. l.",
+   "note": "printed with a wide gap before the final o ('inſtituti o.'); one word, closed up."
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "alimen. & ci-",
+   "note": "a small raised dot follows the point after 'alimen.' before the ampersand; treated as a stray mark."
+  },
+  {
+   "where": "blocks[4]",
+   "text": "Imprimé à Paris, par Fleury Preuoſt 1571.",
+   "note": "colophon line below the device motto 'A RAISON CEDE.'; the year is set with spaced digits (1 5 7 1.), closed up per §3. The first letter of 'Imprimé' and the 'Pr' of 'Preuoſt' are heavy but legible."
+  },
+  {
+   "where": "blocks[3]",
+   "text": "A RAISON CEDE.",
+   "note": "motto in widely spaced capitals, transcribed closed up with the word space kept."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "tre fois. voire encore eſtant ſur l'eſchel-",
+   "note": "the mark after 'fois' is a round dot on the baseline (period) followed by lowercase 'voire', as printed."
+  },
+  {
+   "where": "foot_notes",
+   "text": "q",
+   "note": "p159's foot note keyed q has no {q} marker on p159, and p160's body markers run r, ſ, t, u, x (plus note y); there is no {q} on this page either. The q marker appears to be missing from the print (or sits unprinted at the p159/p160 break).",
+   "escalate": true
+  }
+ ],
+ "decisions": []
+}

@@ -9,11 +9,336 @@
   "image_no": 82,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/82"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p059",
  "next": "p061",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Among whom there are also three or four kinds of witnesses who are of great consideration. First, the four sisters, of whom we have spoken above: women of worth and honest, if there are any in Gascony; who have always constantly maintained that the prisoner was certainly Martin Guerre their brother, and husband of the said de Rols, and that they knew him perfectly to be such. And the like assurance was given by two of the brothers-in-law of the said Martin, married to two of the said sisters.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XXXIX"
+  },
+  {
+   "type": "paragraph",
+   "html": "The testimony of kinsfolk or relatives by marriage, and especially of fathers, mothers, children, brothers and sisters, sons-in-law and brothers-in-law, for the great affection they naturally bear to their own and so near blood, is not, nor by reason ought to be, received <sup class=\"mk\" data-key=\"a\">a</sup>, unless in certain cases discussed elsewhere by our interpreters, of which two or three only serve us. The first, when it would be a question of proving a thing in which the faith of kinsfolk would be more required than that of all others <sup class=\"mk\" data-key=\"b\">b</sup>: as to prove age, or to recognise (which is our case) whether someone is of their kinship or affinity <sup class=\"mk\" data-key=\"c\">c</sup>. The second, when the kinsman would not be produced by the party who is his kin, but would have been taken (as in this present case) by the judge on his own motion <sup class=\"mk\" data-key=\"d\">d</sup>. The third, when his deposition would profit the kinsfolk and harm no one: as when the witness would depose (as in this case the said witnesses do) for the innocence of a kinsman of his, even were he his own brother, nay, and one accused of heresy <sup class=\"mk\" data-key=\"e\">e</sup>. Whence several have thought and taught that one accused of homi",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 4.20 (<i>De testibus</i>), l. <i>Parentes</i> (cf. C. 4.20.6, Diocletian and Maximian: parents and children are not to be admitted to testify against one another even if willing; number unverified)",
+     "original": "l. parentes. C. de teſti.",
+     "gloss": "The print's point after <i>l</i> is set high; notes <i>b</i> and <i>c</i> print the same abbreviation without a point."
+    },
+    {
+     "key": "b",
+     "citation": "Code 4.19 (<i>De probationibus</i>), l. <i>Etiam matris</i> (cf. C. 4.19.10, on proof of age by the testimony of the mother and other kin; number unverified)",
+     "original": "l etiam matris. C. de proba.",
+     "gloss": null
+    },
+    {
+     "key": "c",
+     "citation": "The law <i>Etiam</i> already cited (<i>prealleguee</i>, at {b}); Accursius and Bartolus on Digest 27.1 (<i>De excusationibus</i>), l. 2, in principio (D. 27.1.2, Modestinus, on the excuse of tutors for the number of their children — where the commentators discuss proof of age and of kinship by relatives)",
+     "original": "l etiam prealleguét. Accurſe &amp; Bartole en la l. ij. au commencement. D. de ex cuſ. tut.",
+     "gloss": "The print's <i>prealleguét.</i> is <i>prealleguee</i>, \"already cited\"."
+    },
+    {
+     "key": "d",
+     "citation": "Decretals X 2.23 (<i>De praesumptionibus</i>), c. <i>Litteras</i> (chapter number unverified)",
+     "original": "c. literas. de præſump.",
+     "gloss": "The note is printed five lines below its marker."
+    },
+    {
+     "key": "e",
+     "citation": "The said chapter <i>Litteras</i> (X 2.23), cited at {d}",
+     "original": "aud. c. literas",
+     "gloss": "<i>aud.</i> = <i>audit</i>, \"in the said\"; the note is printed below the last body line of p060."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Entre leſquels y a auſsi trois ou quatre",
+    "qualitez de teſmoins, qui ſont en grãde",
+    "conſideration. Preniierement, les qua-",
+    "tre ſeurs, deſquelles nous auõs ci deuant",
+    "parlé: femmes de bien, & hõneſtes, ſ'il en",
+    "y à en la Gaſcogne: leſquelles ont touſ-",
+    "iours conſtamment ſouſtenu que le pri-",
+    "ſonnier eſtoit certainement Martin",
+    "Cuerre leur frere, & mari de ladite de",
+    "Rols: & qu'elles le cognoiſſoyent parfai",
+    "tement eſtre tel. Et pareille aſſeurance",
+    "ont dõnce deux des beaux-freres dudit",
+    "Martin, mariez à deux deſdites ſœurs."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Le teſmoignage des parens, ou alliez, & meſmement",
+    "des peres, meres, enfans, freres & ſeurs, beaux fils, & be-",
+    "aux freres, pour l'affection grande qu'ils ont naturelle-",
+    "ment à leur & ſi prochain ſang, n'eſt, ni ne doit par rai-",
+    "ſon eſtre receu {a}, ſi ce n'eſt en certains cas diſcourus ail",
+    "leurs par nos interpretes, deſquels deux ou trois ſeule-",
+    "ment nous ſeruent. Le premier, quand ſ'agiroit de",
+    "prouuer vne ehoſe, en laquelle la foy des parens ſeroit",
+    "plus requiſe que de tous autres {b}. comme de prouuer",
+    "l'aage, ou de recognoiſtre (qui eſt noſtre faict) ſi quel-",
+    "qu'vn eſt de leur parenté ou alliance {c}. Le ſecond, quand",
+    "le parent ne ſeroit point produit par la partie parente",
+    "mais auroit eſté prins, (comme en ce faict ici) par le iu-",
+    "ge d'office {d}. La troiſieme, quand ſa depoſition profite-",
+    "roit aux parẽs & ne nuiroit à perſonne: comme'quand",
+    "le teſmoin depoſeroit (ainſi qu'en ce cas font leſdits",
+    "teſmoins) pour l'innocence d'vn ſien parent, & fuſt il",
+    "ſon propre frere, voire & preuenu d'hereſie {e}. Dont plu-",
+    "ſieurs ont penſé, & enſeigné que le preuenu d'homici-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. parentes.",
+    "C. de teſti."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l etiam ma-",
+    "tris. C. de pro-",
+    "ba."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l etiam pre-",
+    "alleguét. Ac-",
+    "curſe & Bar-",
+    "tole en la l. ij.",
+    "au commence-",
+    "ment. D. de ex",
+    "cuſ. tut."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "c. literas. de",
+    "præſump."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "aud. c. literas"
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[1].lines[2]",
+   "text": "conſideration. Preniierement, les qua-",
+   "note": "sic: 'Preniierement' for 'Premierement'; after 'Pre' a two-legged n with one arch, then two dotted i's (both readers, 8x). Wrong sort, as printed."
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "Cuerre leur frere, & mari de ladite de",
+   "note": "sic: 'Cuerre' for 'Guerre'; a plain capital C with no bar or spur (both readers). As printed."
+  },
+  {
+   "where": "blocks[1].lines[11]",
+   "text": "ont dõnce deux des beaux-freres dudit",
+   "note": "sic: 'dõnce' for 'dõnee'. At 5x the fourth letter is an open c with no crossbar, the fifth an e with a full bar (body-4.jpg, line 2). Wrong sort, as printed."
+  },
+  {
+   "where": "blocks[3].lines[1]",
+   "text": "des peres, meres, enfans, freres & ſeurs, beaux fils, & be-",
+   "note": "'desperes' is set tight in the print with a round (word-final) s; separated as two words per conventions §1."
+  },
+  {
+   "where": "blocks[3].lines[7]",
+   "text": "prouuer vne ehoſe, en laquelle la foy des parens ſeroit",
+   "note": "sic: 'ehoſe' for 'choſe'. At 10x (body-5.jpg, line 7, x~300-520) both the last letter of 'vne' and the first of 'ehoſe' have the closed eye and crossbar of an e; the c/e transposition reader A saw ('vnc ehoſe') is not in the print. Wrong sort, as printed."
+  },
+  {
+   "where": "blocks[3].lines[11]",
+   "text": "le parent ne ſeroit point produit par la partie parente",
+   "note": "the a of 'partie' is a damaged or under-inked sort (top curl detached from the bowl); read as a from bowl, foot and width (both readers)."
+  },
+  {
+   "where": "blocks[3].lines[14]",
+   "text": "roit aux parẽs & ne nuiroit à perſonne: comme'quand",
+   "note": "'parẽs': a long horizontal nasal bar over the e (5x), not the short rising acute of 'parenté'. 'comme'quand' sic: a comma-shaped sort at apostrophe height stands between 'comme' and 'quand' with no word space (body-6.jpg, line 8, x~1330); it prints like the apostrophes of 'qu'en' and 'd'vn' and is transcribed as printed, though the sense wants plain 'comme quand' (foul case or a filler that rose)."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. parentes.",
+   "note": "the mark between 'l' and 'parentes' is a small solid round dot printed at ascender height, not on the baseline (margin-2.jpg x~400, y~1085, checked at 14x); it is dot-shaped, not comma-shaped, so not an apostrophe sort. Read as the point of the abbreviation 'l.' printed high (a turned or high-riding point sort); but notes b and c print the same abbreviation as bare 'l etiam', so 'l parentes.' with a stray sort is possible. Pointer for a human: margin-2.jpg, first line of note a."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l etiam pre-",
+   "note": "a short raised word-break stroke after 'pre', same sort as after 'ma' and 'pro' in note b; transcribed as a hyphen."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "alleguét. Ac-",
+   "note": "sic: the sort before the point is the italic fount's curled-top t (as in 'parentes' and 'tut.'), with no descender; an italic z in this fount (compare 'ſoubz' on p057) has a flat top and a tail below the baseline. Read 'alleguét.' as printed although the sense wants 'alleguéz' / 'alleguées'. Checked at 14x (margin-3.jpg y~575)."
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "aud. c. literas",
+   "note": "the smallest and faintest line on the page; at 7x the three sorts before the first point read a, u, d ('aud.'); 'ead.' is not supported by the first sort, which has the bowl and stem of an a. The note prints below the last body line; beside_line is the nearest line above it."
+  },
+  {
+   "where": "margin_notes",
+   "note": "beside_line values: the margin is crowded and the notes drift; notes a-c begin level with the line carrying their marker (b level with 'l'aage…', c with 'le parent…', checked on margin-3.jpg), note d five lines below its marker, note e below the last body line."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[1].lines[11]",
+   "target": "blocks[1].lines[11]",
+   "spans": [
+    [
+     4,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "ont dõnce deux des beaux-freres dudit",
+   "b": "ont dõnee deux des beaux-freres dudit",
+   "text": "ont dõnce deux des beaux-freres dudit",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "5x: fourth letter open with no crossbar (c), fifth has a full bar (e); wrong sort, sic."
+  },
+  {
+   "where": "blocks[1].lines[12]",
+   "target": "blocks[1].lines[12]",
+   "spans": [
+    [
+     31,
+     37
+    ]
+   ],
+   "aligned": true,
+   "a": "Martin, mariez à deux deſdites œurs.",
+   "b": "Martin, mariez à deux deſdites ſœurs.",
+   "text": "Martin, mariez à deux deſdites ſœurs.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "5x: a tall long s precedes the œ ligature."
+  },
+  {
+   "where": "blocks[3].lines[7]",
+   "target": "blocks[3].lines[7]",
+   "spans": [
+    [
+     8,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "prouuer vnc ehoſe, en laquelle la foy des parens ſeroit",
+   "b": "prouuer vne ehoſe, en laquelle la foy des parens ſeroit",
+   "text": "prouuer vne ehoſe, en laquelle la foy des parens ſeroit",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "10x: the last letter of 'vne' has a closed eye and crossbar (e), as does the first of 'ehoſe'; only 'ehoſe' is a wrong sort, sic."
+  },
+  {
+   "where": "blocks[3].lines[14]",
+   "target": "blocks[3].lines[14]",
+   "spans": [
+    [
+     40,
+     51
+    ]
+   ],
+   "aligned": true,
+   "a": "roit aux parẽs & ne nuiroit à perſonne: comme quand",
+   "b": "roit aux parẽs & ne nuiroit à perſonne: comme'quand",
+   "text": "roit aux parẽs & ne nuiroit à perſonne: comme'quand",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "5x: a comma-shaped sort at apostrophe height, same form as the apostrophes of 'qu'en'; it is printed, so transcribed, with a sic note."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "target": "margin_notes[0].lines[0]",
+   "spans": [
+    [
+     0,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "l. parentes.",
+   "b": "l 'parentes.",
+   "text": "l. parentes.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "14x: the mark is a round dot, not a comma shape, so not an apostrophe; read as a point printed high (turned or high-riding sort); escalated."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "alleguéz. Ac-",
+   "b": "alleguét. Ac-",
+   "text": "alleguét. Ac-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "14x: curled-top italic t with a foot and no descender, matching the t's of 'parentes' and 'tut.'; an italic z would have a flat top and tail; sic."
+  }
+ ]
 }

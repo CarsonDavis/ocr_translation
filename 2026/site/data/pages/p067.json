@@ -9,11 +9,357 @@
   "image_no": 87,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/87"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p066",
  "next": "p068",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "il in his skin; and that she had known him well; and that if anyone were henceforth so mad as to say the contrary, she would have him put to death.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XLV"
+  },
+  {
+   "type": "paragraph",
+   "html": "In truth, this is a strong reason and a great conjecture to persuade that the prisoner was calumniously accused: to understand that the said de Rols, having been advised that the prisoner was not her husband, nevertheless assured and defended the contrary; and afterwards, without new proofs, came against her own confession and her assurance — a thing far too unworthy, and full of great suspicion <sup class=\"mk\" data-key=\"a\">a</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 4.30 (<i>De non numerata pecunia</i>), l. <i>Generaliter</i> (cf. C. 4.30.13, Justinian; number unverified); a chapter <i>Per tuas</i> under a title printed <i>de ob.</i> — *<i>unidentified</i><i> (a c. </i>Per tuas<i> is cited at annot-041 {b} under </i>De probationibus*, X 2.19; the title abbreviation here is not resolved)",
+     "original": "l. generali ter. C. de non nu. pec. c. per tuas. de ob.",
+     "gloss": "Cited for the rule that one is not heard to come against one's own acknowledgment; the print's <i>generali ter</i> is <i>generaliter</i> with a reflow gap."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Complaining moreover to several that the said Pierre Guerre and his wife, mother of the said de Rols, wished to force and constrain her to accuse the said prisoner and to say that he was not her husband — even to threatening to turn her out of the house if she did not say it.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XLI"
+  },
+  {
+   "type": "paragraph",
+   "html": "This point also gave great argument for thinking that there was trickery got up against the accused, and that what the said de Rols did was by the constraint, force and reverence of the said Pierre Guerre and her mother, in whose house she lived: for although one ought not easily to presume an act to have been done through terror or fear <sup class=\"mk\" data-key=\"a2\">a2</sup>, nevertheless, when such solicitations, importunities and threats appear, the fear is sufficiently proved <sup class=\"mk\" data-key=\"b\">b</sup>; considering especially the quality of those who used such intimidations, who were the stepfather and the mother <sup class=\"mk\" data-key=\"c\">c</sup>; and considering the place also, for it was in their house, where the said de Rols was maintained, and held in captivity <sup class=\"mk\" data-key=\"d\">d</sup>; and considering moreover her own qua",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a2",
+     "citation": "Digest 17.2 (<i>Pro socio</i>), l. <i>Merito</i> (fragment not identified; cited at annot-037 {b} for the rule that fraud is not presumed); Digest 50.17 (<i>De diversis regulis iuris antiqui</i>), l. <i>Quoties</i>, § <i>Qui dolo</i> (fragment and paragraph not identified)",
+     "original": "l. merito. D pro ſoc. l. quo ries. P. qui do lo D. de regu. iur.",
+     "gloss": "Fear, like fraud, is not presumed but must be proved."
+    },
+    {
+     "key": "b",
+     "citation": "Innocent IV on Decretals X 2.24 (<i>De iureiurando</i>), c. <i>Petitio</i> (chapter number unverified)",
+     "original": "Innocent au c. petitio. de iure iu.",
+     "gloss": "On when fear is held to be sufficiently proved."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 44.5 (<i>Quarum rerum actio non datur</i>), l. [1], § <i>Quae onerandae</i> (cf. D. 44.5.1.5, Ulpian, on the obligations a patron imposes on his freedman; the law's incipit is lost in the print, which reads <i>l...</i>; paragraph unverified)",
+     "original": "l... P. quæ onerandæ. D. quar. rer.",
+     "gloss": "Cited for the standing of the person who exacts the act — the patron over the freedman, as here the stepfather and mother over the daughter. The transcription runs this note and the next together as one note keyed <i>c</i>."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 4.2 (<i>Quod metus causa gestum erit</i>), l. <i>Qui in carcerem</i> (cf. D. 4.2.22, Paul: what is done by one who has been shut up in prison to extort something from him is of no effect; the print's <i>car. cerẽ</i> is <i>carcerem</i> with a reflow gap, the <i>qui in</i> being lost or run into the preceding note)",
+     "original": "car. cerẽ D. quod met. cau.",
+     "gloss": null
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ble en ſa peau: & qu'elle l'auoit bien co",
+    "gnu: & que ſi quelqu'vn eſtoit deſormais",
+    "ſi fol de dire le contraire, elle le feroit",
+    "mourir."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "A la verité, ceſt vne forte raiſon, & coniecture grãde",
+    "pour perſuader que le priſonier eſtoit calõnieuſement",
+    "accuſé d'entendre que la dite de Rols, ayant eſté aduer.",
+    "tie que le priſõnier n'eſtoit point ſon mari, neãtmoins",
+    "elle aſſeuroit & defendoit le contraire: & apres, ſans",
+    "nouuelles preuues, venoit contre ſa propre confeſſion,",
+    "& ſon aſſeurance choſe par trop indigne, & pleine de",
+    "grand ſoupçon {a}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Se plaignant en outre à pluſieurs, de ce",
+    "que ledit Pierre Guerre, & ſa femme,",
+    "mere de ladi. de Rols, la vouloyẽt forcer",
+    "& contraindre accuſer ledit priſonnier,",
+    "& dire, que ce n'eſtoit point ſon mari, iuſ",
+    "qu'à la menaſſer de la tirer hors de la",
+    "maiſon, ſi ne le diſoit."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XLI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ce point auſſi donnoit grand argument de pẽſer qu'",
+    "il y auoit de la fourbe dreſſee contre le preuenu & que",
+    "ce que ladite de Rols faiſoit, eſtoit par cõtrainte, force,",
+    "& reuerance deſdits Pierre Guerre, & ſa mere: a la mai",
+    "ſon deſquels elle ſe tenoit: car bien qu'on ne doyuq pas",
+    "facilement preſumer vn acte auoir eſté fait par terreur,",
+    "ou crainte {a2}: toutesfois quand il appert de telle ſollici-",
+    "tations, importunitez, & menaces, la crainte eſt ſuffi-",
+    "ſamment prouuee {b}, attendu meſmement la qualité de",
+    "ceux qui vſoyent de telles intimidations, qui eſtoyent,",
+    "le paratre, & la mere {c}: & conſideré le lieu auſſi: car",
+    "c'eſtoit en leur maiſon, où ladite de Rols eſtoit nour-",
+    "rie, & tenue en captiuité {d}. & attendu encor la qua"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. generali",
+    "ter. C. de non",
+    "nu. pec. c. per",
+    "tuas. de ob."
+   ]
+  },
+  {
+   "key": "a2",
+   "kind": "margin",
+   "lines": [
+    "l. merito. D",
+    "pro ſoc. l. quo",
+    "ries. P. qui do",
+    "lo D. de regu.",
+    "iur."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Innocent",
+    "au c. petitio.",
+    "de iure iu."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l... P. quæ",
+    "onerandæ. D.",
+    "quar. rer. car.",
+    "cerẽ D. quod",
+    "met. cau."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[5]",
+   "text": "ANNOTAT. XLI.",
+   "note": "the numeral is printed X, then a small sort riding ABOVE the line (a V-shaped/serifed blob at ascender height), then L I. Transcribed from the sorts standing on the line, i.e. XLI. The previous annotation on this page is XLV, so the intended number is almost certainly XLVI and the raised blob is a V that failed to seat. Escalated: the reconciler should decide between 'XLI.' as printed and 'XLVI.' as intended."
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "ſon deſquels elle ſe tenoit: car bien qu'on ne doyuq pas",
+   "note": "'doyuq' sic for 'doyue': the final sort has a closed bowl and a right stem descending below the baseline, identical to the q of 'qu'on' earlier in the same line and unlike any e on the page (checked at 9x). A rust-coloured foxing stain sits under the descender but the black descender itself is printed. Wrong sort, transcribed as printed."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "mere de ladi. de Rols, la vouloyẽt forcer",
+   "note": "the mark over the e of 'vouloyẽt' is a broad, roughly horizontal, slightly wavy bar centred over the letter, unlike the thin right-leaning acutes of 'verité'/'accuſé'/'qualité' on this page; read as a tilde (vouloyẽt = vouloyent, which the sense requires). Could conceivably be a heavily inked acute ('vouloyét'). The print sets 'ladi.de' tight; word division normalized."
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "ce que ladite de Rols faiſoit, eſtoit par cõtrainte, force,",
+   "note": "an ink blot sits over the t of 'ladite'; the word is still legible and the reading is not in doubt, but the reconciler should know the sort is obscured."
+  },
+  {
+   "where": "margin_notes[3]",
+   "text": "l... P. quæ",
+   "note": "the key letter of this note is printed as a short thick horizontal blob, not a legible letter. Read as key 'c' from the body sequence (markers a2, b, c, d in this annotation) and from its position in the margin run after the b note. If the reconciler reads it otherwise, the whole note moves."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l... P. quæ",
+   "note": "after the 'l' the print sets three evenly spaced round dots at the baseline before the paragraph sort; no letters are discernible between them at 10x. Transcribed as three periods. The paragraph sort (a curled capital-P shape) is transcribed 'P.' as on the preceding pages."
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "quar. rer. car.",
+   "note": "the mark ending this line is a round dot on the baseline, the same sort as the period after 'iur.' and 'de ob.', not the hyphen sort — yet the word runs on into 'cerẽ' on the next line ('car.' + 'cerẽ' = carcerẽ). Transcribed as printed."
+  },
+  {
+   "where": "margin_notes",
+   "text": "rie, & tenue en captiuité {d}. & attendu encor la qua",
+   "note": "the marker {d} on the last body line has no note anywhere on the page: the margin run ends with the c note ('met. cau.') well above the last body line, the rest of the margin is blank, and there is no foot citation block. The d citation presumably stands at the head of the next page's margin."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "l. generali",
+   "note": "note a is printed beside body line 3 of its annotation although its marker {a} stands on the last line of that annotation; likewise the a2 note stands beside the first line of ANNOTAT. XLI while marker {a2} is on line 7. On this page the citation block is set as a run from the top of each annotation, so notes sit ABOVE their markers rather than drifting down."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "accuſé d'entendre que la dite de Rols, ayant eſté aduer.",
+   "note": "sic: the word aduer-/tie is broken at the line end but the print sets a round period on the baseline, not a hyphen (checked at 8x); transcribed as printed. Reconciler may prefer 'aduer-'."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "mere de ladi. de Rols, la vouloyẽt forcer",
+   "note": "the mark over the e of vouloyẽt is a heavy wedge; read as a tilde (vouloyẽt = vouloyent, and the corpus has many -oyẽt forms, no -oyét), but in this larger type it could be read as an acute 'vouloyét'."
+  },
+  {
+   "where": "blocks[5]",
+   "text": "ANNOTAT. XLI.",
+   "note": "sic: the printed numeral is X L I with a small raised mark (risen space or wrong sort) between the X and the L; the sequence after ANNOTAT. XLV. suggests XLVI was meant. Transcribed as printed."
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "ſon deſquels elle ſe tenoit: car bien qu'on ne doyuq pas",
+   "note": "doyuq: the last letter is a bowl with a right stem running below the baseline (q) rather than the crossbarred e of 'doyue'; a brown stain overlaps that descender, so the wrong sort is not certain. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l... P. quæ",
+   "note": "after 'l' the print sets three separate baseline dots (possibly under-inked sorts); and the final ligature of 'quæ' is heavily inked and could be a plain 'que'."
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "quar. rer. car.",
+   "note": "the word carcerẽ is broken across these two note lines and the break is printed as a period, not a hyphen (same anomaly as blocks[2].lines[2]); transcribed as printed."
+  },
+  {
+   "where": "margin_notes",
+   "note": "marker d (body, last line) has no note: the margin block ends with note c and the rest of the margin and the foot of the page are blank. No foot citation block on this page."
+  },
+  {
+   "where": "signature",
+   "text": "E ij",
+   "note": "the signature reads 'E ij' on folio 67, which does not fit an alphabetical gathering sequence at this folio; transcribed as printed."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].lines[2]",
+   "target": "blocks[2].lines[2]",
+   "spans": [
+    [
+     50,
+     56
+    ]
+   ],
+   "aligned": true,
+   "a": "accuſé d'entendre que la dite de Rols, ayant eſté aduer-",
+   "b": "accuſé d'entendre que la dite de Rols, ayant eſté aduer.",
+   "text": "accuſé d'entendre que la dite de Rols, ayant eſté aduer.",
+   "chose": "B",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "target": "blocks[2].lines[3]",
+   "spans": [
+    [
+     11,
+     20
+    ]
+   ],
+   "aligned": true,
+   "a": "tie que le priſonier n'eſtoit point ſon mari, neãtmoins",
+   "b": "tie que le priſõnier n'eſtoit point ſon mari, neãtmoins",
+   "text": "tie que le priſõnier n'eſtoit point ſon mari, neãtmoins",
+   "chose": "B",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "target": "blocks[6].lines[2]",
+   "spans": [
+    [
+     42,
+     52
+    ]
+   ],
+   "aligned": true,
+   "a": "ce que ladite de Rols faiſoit, eſtoit par cõtrainte, force,",
+   "b": "ce que ladite de Rols faiſoit, eſtoit par cõrrainte, force,",
+   "text": "ce que ladite de Rols faiſoit, eſtoit par cõtrainte, force,",
+   "chose": null,
+   "by": "carson",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "target": "margin_notes[3].lines[1]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "onerandæ. D.",
+   "b": "onerande. D.",
+   "text": "onerandæ. D.",
+   "chose": "A",
+   "by": "carson",
+   "status": "decided",
+   "reason": null
+  }
+ ]
 }

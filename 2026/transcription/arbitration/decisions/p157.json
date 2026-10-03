@@ -1,0 +1,47 @@
+{
+ "page": "p157",
+ "decisions": {
+  "b-004": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "the margin of p157 prints a note h (Alberic en lad. auten. bona) that fits this sentence, and the body alphabet otherwise skips from g to i; a superscript h read as a semicolon"
+  },
+  "n-f-1": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "the raised mark is the -us sign ꝰ (bonꝰ = bonis, C. de bonis proscriptorum), which Unicode has and the conventions prefer to a description; translation unaffected"
+  },
+  "n-f-3": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "the title is vt nulli iudicum (Nov. 134, coll. ix), as note c on p156 prints it: nulli, so the vowel is i; the tilde is stray either way; translation unaffected"
+  },
+  "n-g-2": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "hæred. = hereditate (D. de adquirenda hereditate); hared. is no word"
+  },
+  "n-i-4": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-i-7": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-l-1": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "teſt. = testamenta (§ Alio quoque modo testamenta infirmantur, Inst. 2.17.4); reſt. is nothing"
+  }
+ }
+}

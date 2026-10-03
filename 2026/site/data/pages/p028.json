@@ -9,11 +9,245 @@
   "image_no": 50,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/50"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p027",
  "next": "p029",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "alty for this crime, although the Emperor makes it capital <sup class=\"mk\" data-key=\"k\">k</sup>, is nevertheless not among the most certain, inasmuch as a capital penalty may refer both to civil death and to natural death <sup class=\"mk\" data-key=\"l\">l</sup>. Wherein I have always been of opinion to leave and commit to the discretion of the Judge the kind of death, who, having weighed the qualities of the persons and balanced all the circumstances, may lighten or aggravate the penalty <sup class=\"mk\" data-key=\"m\">m</sup>: singularly in our France, where cognizance is taken of crimes only extraordinarily; in which case the gravity and lightness of penalties seem to depend entirely upon the Judge <sup class=\"mk\" data-key=\"n\">n</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "k",
+     "citation": "Code 9.22 (<i>Ad legem Corneliam de falsis</i>), l. 1",
+     "original": "l. j. C. de falſ.",
+     "gloss": null
+    },
+    {
+     "key": "l",
+     "citation": "Digest 37.1 (<i>De bonorum possessionibus</i>), l. <i>Edicto</i> (fragment not identified); Digest 38.2 (<i>De bonis libertorum</i>), l. <i>Si nesem</i> (so the print; incipit garbled), § <i>Si deportatus</i> (fragment not identified)",
+     "original": "l. edicto. D. de bon. poſſe l ſi nesem. P. ſs deportat D. de bon li. berto.",
+     "gloss": "Deportation as <i>capitis deminutio</i>: \"capital\" covers loss of civil status as well as of life."
+    },
+    {
+     "key": "m",
+     "citation": "Digest 47.18 (<i>De effractoribus et expilatoribus</i>), l. 1, § (number unverified; cf. D. 47.18.1.2, Ulpian)",
+     "original": "l. j. P. D. de effract.",
+     "gloss": "The judge fixes the penalty according to the manner of the offence."
+    },
+    {
+     "key": "n",
+     "citation": "Digest 48.19.13 (<i>De poenis</i>, l. <i>Hodie</i>, Ulpian)",
+     "original": "l. hodie. D. de pœn.",
+     "gloss": "One who tries a crime <i>extra ordinem</i> may today pass whatever sentence he wishes, heavier or lighter."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "She had had a preliminary inquiry made into it by authority of the Judge of Rieux; and, claiming the whole to be verified, concluded against the said du Tilh for a double amend: the honourable (<i>amende honorable</i>, public penance), to ask pardon of God, of the King, and of the said de Rols, plaintiff, bareheaded and barefoot, in a shirt, holding a burning torch in his hands, saying that falsely, rashly and treacherously he has deceived, abused, betrayed and circumvented her, in taking the name and substituting the person of Martin Guerre her true husband, of which he repents, and asks her mercy for it; and for the profitable, in two thousand <i>livres</i>, and to costs, damages and interest.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "The King's procurator in France is he who prosecutes crimes as regards public vengeance; and a private person with an interest can prosecute only civilly, for his own interest <sup class=\"mk\" data-key=\"a\">a</sup>, and thus cannot conclude for a capital penalty",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Guillaume Benedicti (Guillaume Benoît, 1455–1516), <i>Repetitio</i> on the chapter <i>Raynutius</i>, Decretals X 3.26 (<i>De testamentis</i>), c. 16, on the words <i>mortuo itaque testatore</i>, no. 159",
+     "original": "Guillaume Benedict. au ch. Raynutius ſur ceſte parole, mortuo itaq; teſt. i. &amp; nõbre 159. de teſta.",
+     "gloss": "Benoît's vast commentary on the decretal <i>Raynutius</i>, first printed at Lyon in 1522, is the standard French repository on the point; the number 159 is unverified."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+    "pourtant n'eſt pas des plus certeines, d'autant que capi-",
+    "tale peine ſe peut rapporter & à la mort ciuile & à la",
+    "mort naturelle {l}. En quoy i'ay eſté touſiours d'auis laiſ-",
+    "ſer & commettre à l'arbitre du Iuge, l'eſpece de la mort",
+    "lequel poiſées les qualitez des perſonnes & balancées",
+    "toutes circonſtances, pourra alleger, aggrauer la pei-",
+    "ne {m}. ſingulierement en noſtre France, où l'on ne co-",
+    "gnoit point de crimes qu'extraordinerement: auquel",
+    "cas, la grauité & legiereté des peines ſemblent depen-",
+    "dre entierement du Iuge {n}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Elle en auroit fait informer par autho",
+    "rité du Iuge de Rieux: & pretendant le",
+    "tout eſtre verifié, cõcluoit a l'encontre.",
+    "dudit du Tilh à double amẽde: honora-",
+    "ble, à demander pardon à Dieu, au Roy,",
+    "& à icelle de Rols demandereſſe: teſte",
+    "& pieds nuds, en chemiſe, tenant vne tor",
+    "che ardente en ſes mains: diſant que fauſ",
+    "ſement, temerairement, & proditoire-",
+    "mẽt, l'a deceuë, abuſee, trahie & circonue",
+    "nuë, en prenãt le nom & ſuppoſãt la per",
+    "ſonne de Martin Guerre ſon vray mari.",
+    "Dõt ſ'en repent, & luy en requiert merci",
+    "& pour la proffitable, en deux mille li-",
+    "ures, & aux deſpens dommages & inte-",
+    "reſts."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Le procureur du Roy en France, eſt celuy qui pourſuit",
+    "les crimes, quant à la vengence publique, & vn particu-",
+    "lier intereſſé, ne peut pourſuyure, que ciuilement,",
+    "pour ſon intereſt {a}. & par ainſi ne peut conclure à peine"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. j. C. de",
+    "falſ."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. edicto. D.",
+    "de bon. poſſe",
+    "l ſi nesem. P.",
+    "ſs deportat",
+    "D. de bon li.",
+    "berto."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "l. j. P. D.",
+    "de effract."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "l. hodie. D.",
+    "de pœn."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Guillaume",
+    "Benedict. au",
+    "ch. Raynutius",
+    "ſur ceſte pa-",
+    "role, mortuo",
+    "itaq; teſt. i.",
+    "& nõbre 159.",
+    "de teſta."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "note": "the italic marker k is blotted (a smudge above it); the mark after it, at 5x, is a compact round dot sitting on the baseline with no tail below it, unlike the commas of this line's neighbours ('certeines,'), so it is read as a period although the sentence runs on into 'pourtant'; a worn comma cannot be wholly excluded"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "l ſi nesem. P.",
+   "note": "abbreviated citation read as 'nesem' with a short round s (could be 'necem', lex si necem); the opening 'l' carries no point, unlike the 'l.' of the other citations; the capital after it is 'P.' (same sort as the 'P.' of note m), not 'D.'"
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "text": "ſs deportat",
+   "note": "the line-initial siglum is a long ſ followed by a short round s, no point; certainly the Digest siglum usually printed 'ff.', but the sorts do not match the 'ff' ligature of 'effract.' below, so it is transcribed as printed; it sits at the key column but has no marker in the body and is a continuation line of note l"
+  },
+  {
+   "where": "margin_notes[1].lines[4]",
+   "text": "D. de bon li.",
+   "note": "'liberto' is broken across lines and the break is printed as a round dot ('li.' / 'berto.'), not a hyphen; transcribed as printed"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "ch. Raynutius",
+   "note": "first letter read as 'c' ('ch.' = chapitre, cap. Raynutius); at this size it could be read as 'eh.'"
+  },
+  {
+   "where": "margin_notes[4].lines[5]",
+   "text": "itaq; teſt. i.",
+   "note": "the -que sign after 'itaq' is printed as a semicolon shape, not the 3-shaped ꝫ; transcribed ';' per the standing ruling"
+  },
+  {
+   "where": "margin_notes[4].lines[6]",
+   "text": "& nõbre 159.",
+   "note": "digits read as 1-5-9 in old-style figures; the 5 is worn"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "tout eſtre verifié, cõcluoit a l'encontre.",
+   "note": "the stop after 'l'encontre' is a round dot on the baseline (a period) although the sentence runs on into 'dudit du Tilh'; sic. 'a' carries no grave, sic. The accent on 'verifié' is a small wedge, read as acute"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     55,
+     59
+    ]
+   ],
+   "aligned": true,
+   "a": "ne de ce crime, iaçoit que l'empereur la face capitale {k},",
+   "b": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "text": "ne de ce crime, iaçoit que l'empereur la face capitale {k}.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 5x (pages/strips/p028/body-1.jpg, right end of line 1) the mark after the blotted italic k is a compact round dot on the baseline with no descending tail; the commas on the same strip ('certeines,') all show a clear tail: period"
+  }
+ ]
 }

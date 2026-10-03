@@ -30,7 +30,7 @@
     "leurs perſonnes: mais pour l'eſtat & perfection (cõme",
     "on parle) de leur reigle {h}. Et pourtãt en pareils termes,",
     "les preſtres & clers ſacrez, auſquels n'eſt permis d'exer-",
-    "cer l'office de tabellion ou notaire, ſi toutesfois ils",
+    "cer l'office de tabellion ou noraire, ſi toutesfois ils",
     "reçoyuent inſtrumẽs, les parties non contrediſans, tels",
     "inſtrumens ſont bons & valables {i}. Or ces executeurs",
     "teſtamentaires, pour ce qu'ils ſont tenus rendre com-",
@@ -334,6 +334,12 @@
   {
    "where": "margin_notes",
    "note": "beside_line values are approximate: the margin notes are set as a continuous column with tighter leading and drift below their markers; each is the body line nearest the note's first line."
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "cer l'office de tabellion ou noraire, ſi toutesfois ils",
+   "note": "sic noraire (r for t), wrong sort",
+   "escalate": false
   }
  ],
  "decisions": [
@@ -399,6 +405,14 @@
    "B": "note o = ['P. ſi quis au']; unkeyed foot entry ['tem pro redemptione, …', 'de teſtam.']; foot p = ['c. tua nobis']",
    "chose": "A",
    "reason": "Foot block (bottom of body-7.jpg / margin-3.jpg) read line by line: printed line 1 = 'tem pro redemptione, & P. ſuyuant de eccleſ. titu. cdlla. vij.' [gap] 'p c. tua nobis'; line 2 = 'de teſtam.' [gap] 'q P. ſi quis igitur non implens de hæredit. & Fal. coll. i. Autene.'; line 3 = 'hoc amplius, C. de fideicom.'. The margin text of o ('P. ſi quis au') runs into 'tem pro redemptione' at the head of line 1, so that line is o's second line and stays under key o. 'de teſtam.' opens line 2 immediately after 'c. tua nobis' closed line 1, so it continues note p ('c. tua nobis de teſtam.'); it does not follow o's 'vij.', which ends with a point and a gap before the key p. No unkeyed foot entry."
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "A": "notaire",
+   "B": "notaire",
+   "chose": "carson-session",
+   "text": "noraire",
+   "reason": "single-pass pilot 2026-09-24 (docs/checks/pilot-2026-09-24.md): both Opus re-reads had it, earlier readers had silently normalized; coordinator confirmed at 3x: the letter after no is an r sort, no t ascender; wrong sort, transcribed as printed"
   }
  ]
 }

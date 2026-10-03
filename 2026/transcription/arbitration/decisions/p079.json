@@ -1,0 +1,41 @@
+{
+ "page": "p079",
+ "decisions": {
+  "b-003": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "departis = 'departed from' (s'en sont departis à la court), the record's word for a retraction; depattis is a wrong sort."
+  },
+  "b-009": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "ont varié = 'they have varied'; oet is no word."
+  },
+  "b-013": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "reiecté = 'rejected' (doit estre reiecté); reicté drops a letter."
+  },
+  "b-034": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-e-3": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "de teſt. = De testibus, the title of Novel 90 in collatio 7 of the Authenticum, which the note cites; reading A leaves a letter unread."
+  },
+  "n-i-4": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  }
+ }
+}

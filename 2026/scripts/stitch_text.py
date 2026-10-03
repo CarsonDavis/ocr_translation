@@ -16,6 +16,15 @@ first page whose `status.final` is not `done` or whose final file is missing. A
 section that is still open at the stop is emitted with `"complete": false` so
 translation can skip it.
 
+Alongside it, `text/alts.json` (beside the `--out` file) lists one record per
+inline `⟨alt:…⟩` / `⟨alt?:…⟩` marker the stitch emitted: `alt_id`
+(`<page>-<where slug>-<n>`, e.g. `p071-m2l5-1` for the first marker on
+`margin_notes[2].lines[5]`; `b` = blocks, `m` = margin_notes, `f` = foot_notes),
+`section`, `page`, `where`, `kind` (`alt` / `alt?`), `a` and `b` (the full line
+readings), `marker` (the exact string as it stands in the section text or
+note) and `context` (a few words either side). The translator reports its
+choice per `alt_id`; scripts/apply_translator_choices.py feeds it back.
+
 `--check` also validates (a section's page markers are unique, in manifest order
 and equal to its `pages`; every consumed page is marked by at least one section;
 section ids are unique) and exits 1 on errors. Orphan and missing notes are
@@ -42,7 +51,13 @@ SPECIAL = {"p000-title": "title", "p000-argument": "argument"}
 
 PAGE_MARKER = re.compile(r"⟦([^⟧]+)⟧")
 TEXTE_RE = re.compile(r"^TEXTE\s*[.,:;]?$")
-ANNOT_RE = re.compile(r"^ANNOT(?:ATIONS|ATION|AT)?\s*\.?\s*(.*)$")
+ANNOT_RE = re.compile(r"^ANNOT(?:ATIONS|ATION|AT)?(?![A-Z])\s*\.?\s*(.*)$")
+# A capitalised word, then the rest: for wrong-sort abbreviations ("ANNNT. LX." on p080)
+FUZZY_HEAD_RE = re.compile(r"^([A-Z]{4,12})\s*[.,]?\s*([IVXLCDM]+)\s*[.,]$")
+ANNOT_FORMS = ("ANNOT", "ANNOTAT", "ANNOTATION", "ANNOTATIONS")
+# A capitalised word and a stop: for wrong-sort TEXTE headings ("TFXTE." p045,
+# "TBXTE." p058, "TEXTB." p072)
+FUZZY_TEXTE_RE = re.compile(r"^([A-Z]{4,6})\s*[.,]$")
 ROMAN = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
 
 
@@ -120,28 +135,42 @@ def alt_markup(a: str, b: str, tag: str = "alt") -> str:
     context (scripts/prompts/translate.md). With tag="alt?" the markers read
     `⟨alt?:…⟩` (an "unknown" decision: neither reading is confirmed).
     """
+    return " ".join(chunk for chunk, _ in alt_chunks(a, b, tag))
+
+
+def alt_chunks(a: str, b: str, tag: str = "alt") -> list[tuple[str, bool]]:
+    """The pieces of `alt_markup`'s output as `(text, is_marker)`, joined by spaces."""
     import difflib
     mark = tag
     ta, tb = a.split(), b.split()
     out = []
     for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, ta, tb, autojunk=False).get_opcodes():
         if tag == "equal":
-            out.extend(ta[i1:i2])
+            out.extend((t, False) for t in ta[i1:i2])
         elif tag == "replace":
-            out.append(" ".join(ta[i1:i2]) + f"⟨{mark}:" + " ".join(tb[j1:j2]) + "⟩")
+            out.append((" ".join(ta[i1:i2]) + f"⟨{mark}:" + " ".join(tb[j1:j2]) + "⟩", True))
         elif tag == "delete":
-            out.append(" ".join(ta[i1:i2]) + f"⟨{mark}:⟩")
+            out.append((" ".join(ta[i1:i2]) + f"⟨{mark}:⟩", True))
         else:  # insert
-            out.append(f"⟨{mark}:+" + " ".join(tb[j1:j2]) + "⟩")
-    return " ".join(out)
+            out.append((f"⟨{mark}:+" + " ".join(tb[j1:j2]) + "⟩", True))
+    return out
 
 
-def mark_alternatives(page: dict) -> dict:
+def where_slug(where: str) -> str:
+    """`blocks[2].lines[5]` -> `b2l5`; `margin_notes[3].lines[0]` -> `m3l0`."""
+    m = _POINTER.match(where)
+    return f"{m.group(1)[0]}{m.group(2)}l{m.group(3)}" if m else re.sub(r"\W+", "", where)
+
+
+def mark_alternatives(page: dict, record=None) -> dict:
     """A copy of the page whose undecided lines carry ⟨alt:…⟩ markers.
 
     Lines are found through the uncertain[] entries that apply_arbitration.py writes
     for an "either" decision (note = ALT_PREFIX + A + ALT_SEP + B, rendered ⟨alt:…⟩)
     and for an "unknown" decision (ALT_PREFIX_UNKNOWN, rendered ⟨alt?:…⟩).
+    With a list as `record`, appends one dict per rewritten line that carries at
+    least one marker: field, block/note index, line index, where, kind, a, b and
+    `markers` (the marker strings in line order).
     """
     import copy
     todo = {}
@@ -161,7 +190,13 @@ def mark_alternatives(page: dict) -> dict:
         try:
             lines = page[field][i]["lines"]
             if lines[j].strip() == a.strip():
-                lines[j] = alt_markup(a, b, tag)
+                chunks = alt_chunks(a, b, tag)
+                lines[j] = " ".join(c for c, _ in chunks)
+                markers = [c for c, is_marker in chunks if is_marker]
+                if record is not None and markers:
+                    record.append({"field": field, "index": i, "line": j,
+                                   "where": f"{field}[{i}].lines[{j}]", "kind": tag,
+                                   "a": a, "b": b, "markers": markers})
         except (KeyError, IndexError, TypeError):
             continue
     return page
@@ -183,18 +218,37 @@ def roman_value(text: str):
     return total
 
 
+def within_one_edit(a: str, b: str) -> bool:
+    """True if `a` becomes `b` by at most one substitution, insertion or deletion."""
+    if abs(len(a) - len(b)) > 1:
+        return False
+    if len(a) == len(b):
+        return sum(x != y for x, y in zip(a, b)) <= 1
+    short, long_ = sorted((a, b), key=len)
+    return any(long_[:i] + long_[i + 1:] == short for i in range(len(long_)))
+
+
 def parse_heading(text: str):
     """`("texte", None)`, `("annotation", n_or_None)`, or None for a display line."""
     text = (text or "").strip()
     if TEXTE_RE.match(text):
         return "texte", None
+    # A wrong-sort TEXTE (one letter wrong, missing or extra) counts only with a stop.
+    f = FUZZY_TEXTE_RE.match(text)
+    if f and within_one_edit(f.group(1), "TEXTE"):
+        return "texte", None
     m = ANNOT_RE.match(text)
     if not m:
+        # A wrong-sort abbreviation (one letter wrong, missing or extra: "ANNNT. LX.",
+        # "ANOTAT. V.") counts only when a Roman numeral and a stop follow it.
+        f = FUZZY_HEAD_RE.match(text)
+        if f and any(within_one_edit(f.group(1), form) for form in ANNOT_FORMS):
+            return "annotation", roman_value(f.group(2))
         return None
     tail = m.group(1).strip()
     if any(c.islower() for c in tail):
         return None              # "ANNOTATIONS de..." is prose, not a heading
-    return "annotation", roman_value(tail.strip(" .")) if tail else None
+    return "annotation", roman_value(tail.strip(" .,")) if tail else None
 
 
 # --- the walk -------------------------------------------------------------
@@ -218,12 +272,18 @@ def walk(manifest, final_dir):
 
 # --- stitching ------------------------------------------------------------
 
-def stitch(pages, keep=frozenset()):
-    """Build the section list from `(page_id, page)` pairs in book order."""
+def stitch(pages, keep=frozenset(), alts=None):
+    """Build the section list from `(page_id, page)` pairs in book order.
+
+    With a list as `alts`, also fills it with the alt-marker records (see
+    `locate_alts`); the sections are the same either way."""
     sections, cur = [], None
+    alt_lines = []                  # (page_id, line record) from mark_alternatives
+    block_home = {}                 # (page_id, block index) -> working section
     texte_n = annot_n = 0
     page_notes = []
     pending_cont = False            # previous page ended on an open paragraph
+    pending_hyphen = False          # ...or on a line ending in a break hyphen
 
     def close(mid):
         nonlocal cur
@@ -257,17 +317,20 @@ def stitch(pages, keep=frozenset()):
             cur["markers"].append((key, page_id))
 
     for page_id, page in pages:
-        page = mark_alternatives(page)
+        found = []
+        page = mark_alternatives(page, found)
+        alt_lines.extend((page_id, rec) for rec in found)
         used = False                # has this page contributed text yet?
         armed = pending_cont        # may the first paragraph join the last one?
-        blocks = [b for b in pagelib.blocks(page)
-                  if b.get("type") in ("heading", "paragraph")]
+        hyph = pending_hyphen       # does the last page end mid-word?
+        blocks = [(bi, b) for bi, b in enumerate(page.get("blocks") or [])
+                  if isinstance(b, dict) and b.get("type") in ("heading", "paragraph")]
         if page_id in SPECIAL:
             close(used)
             start(SPECIAL[page_id], SPECIAL[page_id], None, None, used)
-            armed = False
-        open_para = False
-        for block in blocks:
+            armed = hyph = False
+        open_para = ends_hyphen = False
+        for bi, block in blocks:
             if block.get("type") == "heading":
                 text = (block.get("text") or "").strip()
                 kind = parse_heading(text)
@@ -295,28 +358,81 @@ def stitch(pages, keep=frozenset()):
                           used, uncertain)
                     if printed is not None and printed != annot_n:
                         cur["number_printed"] = printed
-                armed, open_para = False, False
+                armed, open_para, ends_hyphen, hyph = False, False, False, False
             else:
                 lines = [ln for ln in (block.get("lines") or []) if isinstance(ln, str)]
                 if cur is None:
                     texte_n += 1
                     start(f"texte-{texte_n:02d}", "texte", texte_n, None, used)
-                join = armed and bool(block.get("continues_prev")) and bool(cur["paras"])
-                add(page_id, reflow(lines, keep), lines, join)
-                used, armed = True, False
+                body = reflow(lines, keep)
+                # A page that opens mid-word ("meſme-" | "ment") continues the
+                # paragraph whatever the continues_* flags say.
+                mid_word = hyph and body[:1].islower()
+                join = (mid_word or (armed and bool(block.get("continues_prev")))) \
+                    and bool(cur["paras"])
+                add(page_id, body, lines, join)
+                block_home[(page_id, bi)] = cur
+                used, armed, hyph = True, False, False
                 open_para = bool(block.get("continues_next"))
+                last = next((ln.strip() for ln in reversed(lines) if ln.strip()), "")
+                ends_hyphen = last.endswith("-")
         if page_id in SPECIAL:       # a one-page section: it ends with its page
             close(False)
-            open_para = False
+            open_para = ends_hyphen = False
         pending_cont = open_para
+        pending_hyphen = ends_hyphen
         page_notes.append((page_id, pagelib.notes(page)))
 
-    attach_notes(sections, page_notes, keep)
-    return [finish(s) for s in sections]
+    note_home = {}
+    attach_notes(sections, page_notes, keep, note_home)
+    out = [finish(s) for s in sections]
+    if alts is not None:
+        public = {id(s): rec for s, rec in zip(sections, out)}
+        alts.extend(locate_alts(alt_lines, block_home, note_home, public))
+    return out
 
 
-def attach_notes(sections, page_notes, keep):
-    """Hang each margin/foot note on the section that carries its marker."""
+def locate_alts(alt_lines, block_home, note_home, public, words=6):
+    """One record per emitted alt marker, with the section it landed in.
+
+    A block line's markers are looked up in its section's text, a note line's in
+    that note's text; repeated identical marker strings are taken in book order.
+    A marker that cannot be found is left out."""
+    out, cursor = [], {}         # cursor: (container key, marker) -> search start
+    for page_id, rec in alt_lines:
+        if rec["field"] == "blocks":
+            sec = block_home.get((page_id, rec["index"]))
+            if sec is None:
+                continue
+            pub = public[id(sec)]
+            text, key = pub["text"], ("text", id(sec))
+        else:
+            hit = note_home.get((page_id, rec["field"], rec["index"]))
+            if hit is None:
+                continue
+            sec, note = hit
+            pub = public[id(sec)]
+            text, key = note["text"], ("note", id(note))
+        slug = f"{page_id}-{where_slug(rec['where'])}"
+        for n, marker in enumerate(rec["markers"], 1):
+            start = cursor.get((key, marker), 0)
+            pos = text.find(marker, start)
+            if pos < 0:
+                continue
+            cursor[(key, marker)] = pos + len(marker)
+            before = text[:pos].split()[-words:]
+            after = text[pos + len(marker):].split()[:words]
+            out.append({"alt_id": f"{slug}-{n}", "section": pub["id"], "page": page_id,
+                        "where": rec["where"], "kind": rec["kind"],
+                        "a": rec["a"], "b": rec["b"], "marker": marker,
+                        "context": " ".join(before + [marker] + after)})
+    return out
+
+
+def attach_notes(sections, page_notes, keep, home=None):
+    """Hang each margin/foot note on the section that carries its marker.
+
+    With a dict as `home`, maps (page, note kind, note index) to (section, record)."""
     by_page = {}
     for sec in sections:
         for page_id in sec["pages"]:
@@ -341,6 +457,8 @@ def attach_notes(sections, page_notes, keep):
             if orphan:
                 record["orphan"] = True
             target["notes"].append(record)
+            if home is not None:
+                home[(page_id, note.kind, note.index)] = (target, record)
 
 
 def finish(sec) -> dict:
@@ -435,21 +553,26 @@ def main(argv=None):
     out = pathlib.Path(args.out) if args.out else root / "text/sections.json"
     manifest = pagelib.load_manifest(root / "manifest.json") or {"pages": []}
     pages, stopped = walk(manifest, root / "transcription/final")
-    sections = stitch(pages, load_keep())
+    alts = []
+    sections = stitch(pages, load_keep(), alts)
 
     if not args.dry_run:
         out.parent.mkdir(parents=True, exist_ok=True)
-        payload = {"generated": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
-                   "sections": sections}
+        generated = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
+        payload = {"generated": generated, "sections": sections}
         out.write_text(json.dumps(payload, indent=1, ensure_ascii=False) + "\n",
                        encoding="utf-8")
+        alts_payload = {"generated": generated, "sections_file": out.name, "alts": alts}
+        (out.parent / "alts.json").write_text(
+            json.dumps(alts_payload, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
     if args.sections:
         for sec in sections:
             print(section_line(sec))
     complete = sum(1 for s in sections if s["complete"])
     print(f"{len(pages)} pages consumed, {len(sections)} sections "
-          f"({complete} complete), stopped at {stopped or 'end of manifest'}")
+          f"({complete} complete), stopped at {stopped or 'end of manifest'}; "
+          f"{len(alts)} alt markers")
     if not args.check:
         return 0
     errors, warnings = validate(sections, [p for p, _ in pages])

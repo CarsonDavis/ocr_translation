@@ -26,6 +26,11 @@ A note-structure item (the same note text keyed or split differently) is applied
 line items, in one step: A/B take that read's note layout for the whole region, reusing the
 base read's lines rather than copying them, so no line can appear twice.
 
+A decisions entry may carry `by` (carson | auto | translator; absent = carson) and a
+`reason`; both pass into the final's decisions[] entry: `by` as is, the reason folded
+into `reason`, e.g. "arbitration: either (auto-deferred)" or
+"arbitration: B (translator: <reason>)".
+
 An item with no decision fails the run with a list of the undecided items. A legacy
 decisions file is read leniently: "both" means either, "skip" means undecided.
 
@@ -52,6 +57,7 @@ import normalize_spacing  # noqa: E402
 import pagelib  # noqa: E402
 
 CHOICES = ("A", "B", "neither", "either", "unknown")
+BY = ("carson", "auto", "translator")           # who decided; absent = carson
 LEGACY = {"both": "either", "skip": None}     # older decisions files
 SIGNS = ("[?]", "[??]", "[...]", "[abbr:")
 _ids = itertools.count()
@@ -271,6 +277,12 @@ def apply(page_id, a, b, queue, decisions):
             c = None
         return c, d.get("text")
 
+    def provenance(it):
+        d = decisions.get(it["id"]) or {}
+        by = d.get("by") if d.get("by") in BY else "carson"
+        reason = d.get("reason") if isinstance(d.get("reason"), str) else ""
+        return by, reason.strip()
+
     undecided = [it["id"] for it in items if choice_of(it)[0] is None]
     if undecided:
         raise ArbitrationError("undecided items: " + ", ".join(undecided))
@@ -375,6 +387,7 @@ def apply(page_id, a, b, queue, decisions):
 
     decisions_out, arb_uncertain = [], []
     for it, choice, final, target, where in records:
+        by, why = provenance(it)
         w = final_where(target, where)
         alt = f"alternatives: {_alt(it.get('a'))} ||| {_alt(it.get('b'))}"
         if it["kind"] == "structural" and it["field"] == "blocks":
@@ -396,9 +409,9 @@ def apply(page_id, a, b, queue, decisions):
                                   "note": "arbitration: the typed reading marks an unreadable span",
                                   "escalate": False})
         decisions_out.append({"where": w, "A": it.get("a"), "B": it.get("b"),
-                              "chose": "carson-session",
+                              "chose": "carson-session", "by": by,
                               "text": final if isinstance(final, str) else "",
-                              "reason": f"arbitration: {choice}"})
+                              "reason": f"arbitration: {choice}" + reason_suffix(by, why)})
 
     base["uncertain"] = merge_uncertain(base, a, b, base_side) + arb_uncertain
     base["reader"] = "final"
@@ -407,6 +420,17 @@ def apply(page_id, a, b, queue, decisions):
     base["decisions"] = decisions_out
     normalize_spacing.normalize_page(base)
     return base
+
+
+def reason_suffix(by, why):
+    """The provenance tail of a decisions[] reason: (auto-deferred), (translator: why),
+    (carson: why), or nothing for Carson without a reason."""
+    if by == "auto":
+        return " (auto-deferred)" if not why or why.startswith("auto-deferred") \
+            else f" (auto-deferred: {why})"
+    if by == "translator":
+        return f" (translator: {why})" if why else " (translator)"
+    return f" (carson: {why})" if why else ""
 
 
 def parse_region(text):
@@ -496,11 +520,16 @@ def merge_uncertain(result, a, b, base_side):
     """Both reads' uncertain[] entries that still apply to the result.
 
     An entry quoting a line's text is kept only if a line with that text is in the
-    result, and is re-pointed at it; an entry without text is kept from the base read, or
-    from the other read when it points at page furniture rather than a line."""
+    result, and is re-pointed at it; an entry without text, or whose text quotes no line
+    of either read (a marker `{c}`, a bare note key, a whole note joined with " / "), is
+    kept from the base read, or from the other read when it points at page furniture
+    rather than a line (a word quote pointing at a line is kept only while that line
+    still holds it). So a reader's "note c has no marker" entry survives arbitration."""
     lines = {}
     for ln in pagelib.all_lines(result):
         lines.setdefault(ln.text, []).append(ln.where)
+    read_lines = {ln.text for page in (a, b) for ln in pagelib.all_lines(page)}
+    where_text = {ln.where: ln.text for ln in pagelib.all_lines(result)}
     out, seen = [], set()
     for side, page in (("A", a), ("B", b)):
         for e in page.get("uncertain") or []:
@@ -508,13 +537,16 @@ def merge_uncertain(result, a, b, base_side):
                 continue
             e = dict(e)
             text = e.get("text")
-            if isinstance(text, str) and text:
+            if isinstance(text, str) and text and (text in lines or text in read_lines):
                 if text not in lines:
                     continue
                 if e.get("where") not in lines[text] and re.match(r"(blocks|margin_notes|foot_notes)\[\d+\]\.", str(e.get("where", ""))):
                     e["where"] = lines[text][0]
             elif side != base_side and re.match(r"(blocks|margin_notes|foot_notes)\[", str(e.get("where", ""))):
                 continue
+            elif isinstance(text, str) and text and e.get("where") in where_text \
+                    and text not in where_text[e["where"]]:
+                continue                     # a word quote whose line no longer holds it
             key = (e.get("where"), e.get("text"), e.get("note"))
             if key in seen:
                 continue

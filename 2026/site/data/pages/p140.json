@@ -9,11 +9,585 @@
   "image_no": 162,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/162"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p139",
  "next": "p141",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "case our Pontiffs excuse the husband beside whom, as he lies in bed, his wife's sister comes to lie down, if he has to do with her thinking he has to do with his wife <sup class=\"mk\" data-key=\"q\">q</sup>. And if a woman marries the husband of another, believing however that he is not married, and they lie together, the woman is excused <sup class=\"mk\" data-key=\"r\">r</sup>. And Jacob was not reproved for having had to do with Leah, Laban's elder daughter, because he thought he had to do with Rachel, who was promised to him <sup class=\"mk\" data-key=\"ſ\">ſ</sup>. Thirdly, an error, even though its source has no good foundation, excuses the person who errs, and makes him presumed to be exempt from all evil purpose and from all fraud <sup class=\"mk\" data-key=\"t\">t</sup> — and even though the cause of the error were unjust and bad, nay inept, foolish and rash <sup class=\"mk\" data-key=\"u\">u</sup>. If then in the said de Rols there is no evil intention, it follows necessarily that there is no adultery on her side, which cannot be committed without the purpose and will to fornicate <sup class=\"mk\" data-key=\"x\">x</sup>. Fourthly, in the matter of crimes, he who takes one person for another, having no will to offend anyone, is excused <sup class=\"mk\" data-key=\"y\">y</sup>: as for example, if thinking to chastise my servant (which is permitted me <sup class=\"mk\" data-key=\"z\">z</sup>) I strike a free man, I am excused, and cannot be sued in an action of injuries <sup class=\"mk\" data-key=\"a\">a</sup>. I have said expressly, without intention of doing wrong, for otherwise the error would not excuse him: as if I had purposed to kill Antoine and, thinking to slay him, I killed Pierre, this error would not excuse me from being held as a murderer and homicide <sup class=\"mk\" data-key=\"b\">b</sup>. For although I did not wish to do harm to Pierre, yet my principal intention was to kill a man <sup class=\"mk\" data-key=\"c\">c</sup>. In the fifth place, the little fault that could be here, if there is any, would rather be imputable to Martin Guerre, for having remained so long absent, than to the said de Rols his wife <sup class=\"mk\" data-key=\"d\">d</sup>, for what has been said above after St Augustine <sup class=\"mk\" data-key=\"e\">e</sup>. For the last: the Emperor Constantine, in a like case, seems to have determined this matter. For, the case being put to him of a woman who, after having remained four years without news of her husband, who had gone to the war, sends to learn from his captain whether he is alive or dead, and afterwards publicly remarries, he answers that she is exempt from all punishment",
+   "continued": true,
+   "notes": [
+    {
+     "key": "q",
+     "citation": "Decretum, C. 34 qq. 1–2, c. <i>In lectum</i> (chapter not verified); C. 29 q. 1, c. 1, § <i>Quod autem</i> (Gratian's dictum)",
+     "original": "c. in lectum xxxiiij. q. j. c. j. P. quod aut. xxix. q. j.",
+     "gloss": "The man who has intercourse with his wife's sister, who has put herself in his bed, is excused by his error; and Gratian's text on error of person. Both were cited at annot-010 {h}; the transcribers' <i>xxxiij.</i> would misplace the first canon."
+    },
+    {
+     "key": "r",
+     "citation": "Decretum, C. 34 qq. 1–2, c. <i>Si virgo</i>, as at {d} (here the print has the right <i>causa</i>, 34)",
+     "original": "c. ſi virgo. xxxiiij. q. j.",
+     "gloss": null
+    },
+    {
+     "key": "ſ",
+     "citation": "Genesis 29 (29:21–28)",
+     "original": "Gen. c xxix.",
+     "gloss": "Jacob and Leah; cf. annot-095 {g}."
+    },
+    {
+     "key": "t",
+     "citation": "Digest 40.12 (<i>De liberali causa</i>), l. <i>Igitur</i>, § <i>Si na[tus?]</i> — fragment not identified",
+     "original": "l igitur. P ſi na D. de lib. cauſ.",
+     "gloss": null
+    },
+    {
+     "key": "u",
+     "citation": "Code 9.37 (<i>De abigeis</i>), l. 1 (the sole law), at the end, and Accursius (<i>Accurſe</i>) there; Accursius on Code 9.20 (<i>Ad legem Fabiam de plagiariis</i>), l. <i>Plagii</i> (cf. C. 9.20.16)",
+     "original": "l. j. ſur la fin. &amp; illec Accurſe C. de Abige. Accurſe en la l. plagij. C. de plagiar.",
+     "gloss": "The Gloss on the cattle-thief and the kidnapper who act in error: an error, even a foolish one, excludes <i>dolus</i>."
+    },
+    {
+     "key": "x",
+     "citation": "Digest 48.5 (<i>Ad legem Iuliam de adulteriis coercendis</i>), the penultimate law (cf. D. 48.5.44(43); bearing not verified; cited the same way at annot-074 {e})",
+     "original": "l. pen. D. de adulter.",
+     "gloss": null
+    },
+    {
+     "key": "y",
+     "citation": "Digest 47.10 (<i>De iniuriis et famosis libellis</i>), l. 3 (D. 47.10.3, Ulpian), § <i>Si quis hominem liberum</i> (§ 4), and the following law (D. 47.10.4, Paulus)",
+     "original": "l. iij. P. ſi &amp; la l. ſuyuante D. de iniur.",
+     "gloss": "D. 47.10.3.4: he who strikes a free man believing him his own slave is not liable for <i>iniuria</i>; D. 47.10.4: if, meaning to strike my slave, I unwillingly hit you standing next to him, I am not liable. Coras's own example at {z}–{a} is this text."
+    },
+    {
+     "key": "z",
+     "citation": "Code 9.14 (<i>De emendatione servorum</i>), the sole law (C. 9.14.1, Constantine)",
+     "original": "l vniq. C. de emend. ſeruor.",
+     "gloss": "A master may chastise his slave moderately."
+    },
+    {
+     "key": "a",
+     "citation": "Digest 47.10.3, § fin. (§ 4), cited above at {y}",
+     "original": "l. iij. P. fin. allegué.",
+     "gloss": null
+    },
+    {
+     "key": "b",
+     "citation": "Digest 9.2 (<i>Ad legem Aquiliam</i>), l. <i>Scientiam</i> (D. 9.2.45, Paulus), § <i>Si</i> (paragraph not verified; at annot-074 {x} the same citation was taken as § fin., D. 9.2.45.4)",
+     "original": "l. ſcientiam. P ſi. D. ad l. Aquil.",
+     "gloss": "Cited for the rule that the intention to kill a man is not excused by a mistake as to which man."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 47.10 (<i>De iniuriis et famosis libellis</i>), l. <i>Eum qui nocentem</i> (D. 47.10.18, Paulus), § <i>Si iniuria</i> (§ 3)",
+     "original": "l ieum qui nocentem. P. ſi. iniuri. D. de iniur.",
+     "gloss": "If a man wrongs me thinking I am Lucius Titius when I am Gaius Seius, what prevails is the principal thing, that he meant to do a wrong to the man before him; so I have the action of injuries. Coras's \"my principal intention was to kill a man\". The print's <i>l ieum</i> is <i>l. eum</i>."
+    },
+    {
+     "key": "d",
+     "citation": "Decretum, c. <i>Si tu abstines</i>, cited at C. 27 q. 2 (as at annot-096 {b}; locus not verified)",
+     "original": "c. ſi tu abſtines xxvij. q. ij.",
+     "gloss": "The husband who abstains from his wife answers for her fornication."
+    },
+    {
+     "key": "e",
+     "citation": "Augustine, <i>De adulterinis coniugiis</i>",
+     "original": "S. Auguſtin au liure de adulterinis coniugiis.",
+     "gloss": "The source of the canon at {d}; quoted at annot-002."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "faict nos Põtifes excuſent le mari. pres duquel eſtãt au",
+    "lict, la ſœur de la femme, ſe vient coucher: ſ'il participe",
+    "auec elle, penſant auoir affaire à ſa femme {q}. Et ſi vne",
+    "femme eſpouſe le mari d'vne autre, cuidant toutesfois",
+    "qu'il ne ſoit point marié, & couchoyent enſemble, la",
+    "femme eſt excuſee {r}. Et Iacob ne fut point reprins, d'a-",
+    "uoir eu affaire auec Lea, fille aiſnée de Laban, par ce",
+    "qu'il penſoit participer auec Rachel, à luy promiſe {ſ}.",
+    "Troiſiemement, vn erreur, encore que la ſource d'ice-",
+    "luy n'aye bon fondement, excuſe la perſonne qui erre,",
+    "& la fait preſumer eſtre exemple de rout mauuais pro-",
+    "pos, & de toute fraude {t}. Et encore que la cauſe de l'er-",
+    "reur fuſt iniuſte & mauuaiſe, voire inepte, ſotte, & te-",
+    "meraire {u}. Si donques en ladite de Rols, n'y a point de",
+    "mauuaiſe intention, ſ'enſuit neceſſairement, qu'il n'y a",
+    "point d'adultere de ſon coſté; lequel ne peut eſtre com-",
+    "mis ſans propos, & volonté de paillarder {x}. Quatrieme-",
+    "ment, en matiere de crimes, qui prend vne perſonne",
+    "pour autre, n'ayans vouloir d'offenſer aucun, eſt excu-",
+    "ſé {y}: comme pat exemple, ſi penſant chaſtier mon ſer-",
+    "uiteur (ce qui m'eſt permis {z}.) ie frappe vn homme",
+    "franc & libre, ie ſuis excuſé, & ne puis eſtre conuenu",
+    "d'action d'iniures {a}. I'ay dit notamment, ſans intention",
+    "de malfaire, car autrement l'erreur ne l'excuſeroit pas.",
+    "comme ſi i'auois propoſé tuer Antoine, & le penſant",
+    "occir, ie tuois Pierre: cet erreur ne m'excuſeroit point",
+    "que ie ne fuſſe tenu, comme meurtrier, & homicide {b}.",
+    "Car bien que ie ne vouluſſe faire mal à Pierre, ſi eſt ce",
+    "que mon intention principale eſtoit de tuer vn hom-",
+    "me {c}. En cinquieme lieu, le peu de faute qui pourroit e-",
+    "ſtre ici, ſi point en y a, ſeroit pluſtoſt à imputer à Mar-",
+    "tin Guerre, ayant demeuré ſi long temps abſent, qu'à",
+    "ladite de Rols ſa femme {d}: pource que deſſus a eſté dict",
+    "apres S. Auguſtin {e}. Pour le dernier. Conſtantin l'Empe",
+    "reur, en pareil cas, ſemble auoir determiné ce fait. Car",
+    "luy eſtant propoſe l'eſpece d'vne femme, laquelle apres",
+    "auoir demeuré quatre ans, ſans auoir nouuelles de ſon",
+    "mari. qui eſtoit allé à la guerre, enuoye ſçauoir de ſon",
+    "capitaine, ſ'il eſt vif ou mort. & apres ſe remarie publi-",
+    "quement; reſpond qu'elle eſt exempte de toute peine"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "c. in lectum",
+    "xxxiiij. q. j. c.",
+    "j. P. quod aut.",
+    "xxix. q. j."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "c. ſi virgo.",
+    "xxxiiij. q. j."
+   ]
+  },
+  {
+   "key": "ſ",
+   "kind": "margin",
+   "lines": [
+    "Gen. c xxix."
+   ]
+  },
+  {
+   "key": "t",
+   "kind": "margin",
+   "lines": [
+    "l igitur. P ſi",
+    "na D. de lib.",
+    "cauſ."
+   ]
+  },
+  {
+   "key": "u",
+   "kind": "margin",
+   "lines": [
+    "l. j. ſur la",
+    "fin. & illec",
+    "Accurſe C. de",
+    "Abige. Ac-",
+    "curſe en la l.",
+    "plagij. C. de",
+    "plagiar."
+   ]
+  },
+  {
+   "key": "x",
+   "kind": "margin",
+   "lines": [
+    "l. pen. D. de",
+    "adulter."
+   ]
+  },
+  {
+   "key": "y",
+   "kind": "margin",
+   "lines": [
+    "l. iij. P. ſi &",
+    "la l. ſuyuante",
+    "D. de iniur."
+   ]
+  },
+  {
+   "key": "z",
+   "kind": "margin",
+   "lines": [
+    "l vniq. C.",
+    "de emend.",
+    "ſeruor."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. iij. P. fin.",
+    "allegué."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. ſcientiam.",
+    "P ſi. D. ad l.",
+    "Aquil."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l ieum qui",
+    "nocentem. P.",
+    "ſi. iniuri. D.",
+    "de iniur."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "c. ſi tu abſti",
+    "nes xxvij. q. ij."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "S. Auguſtin",
+    "au liure de a",
+    "dulterinis",
+    "coniugiis."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "faict nos Põtifes excuſent le mari. pres duquel eſtãt au",
+   "note": "'mari.' looks like a period on the baseline (sense wants a comma); 'au' at line end blotted"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "& la fait preſumer eſtre exemple de rout mauuais pro-",
+   "note": "sic: 'rout' for 'tout'"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "pos, & de toute fraude {t}. Et encore que la cauſe de l'er-",
+   "note": "mark after marker t is a raised/mid dot, read as period; 'encore' c may carry a cedilla-like smudge ('ençore')"
+  },
+  {
+   "where": "blocks[0].lines[19]",
+   "text": "ſé {y}: comme pat exemple, ſi penſant chaſtier mon ſer-",
+   "note": "sic: 'pat' for 'par'"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "occir, ie tuois Pierre: cet erreur ne m'excuſeroit point",
+   "note": "'m'excuſeroit' long s looks broken, could be read 'm'exculeroit'; ink faint"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "apres S. Auguſtin {e}. Pour le dernier. Conſtantin l'Empe",
+   "note": "mark after 'dernier' looks like a period; line ends 'Empe' without hyphen"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "luy eſtant propoſe l'eſpece d'vne femme, laquelle apres",
+   "note": "'propoſe' shows no acute accent"
+  },
+  {
+   "where": "blocks[0].lines[37]",
+   "text": "mari. qui eſtoit allé à la guerre, enuoye ſçauoir de ſon",
+   "note": "'mari.' mark looks like a period; could be a comma with faint tail"
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "text": "capitaine, ſ'il eſt vif ou mort. & apres ſe remarie publi-",
+   "note": "'mort.' could be comma; 'apres ſe' set tight"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "xxix. q. j.",
+   "note": "after 'q.' only dots visible; 'j.' is best reading, ink faint"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l igitur. P ſi",
+   "note": "periods after 'l' and 'P' not visible"
+  },
+  {
+   "where": "margin_notes[10].lines[0]",
+   "text": "l ieum qui",
+   "note": "'ieum' as it appears; may be misprint for 'eum' or 'is eum'"
+  },
+  {
+   "where": "margin_notes[10].lines[1]",
+   "text": "nocentem. P.",
+   "note": "blotted, could be 'nocntem'"
+  },
+  {
+   "where": "margin_notes[12].lines[2]",
+   "text": "dulterinis",
+   "note": "blotted; final letters could be 'inu'"
+  },
+  {
+   "where": "margin_notes[12].lines[3]",
+   "text": "coniugiis.",
+   "note": "heavily blotted; best reading"
+  },
+  {
+   "where": "blocks[0]",
+   "text": "a",
+   "note": "marker alphabet restarts at a after z on this page (only one a, so key 'a')"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "faict nos Põtifes excuſent le mari. pres duquel eſtãt au",
+   "note": "'au' at line end smeared/blotted; 'mari.' punctuation looks like a period (sense wants comma); tilde on 'eſtãt' read as ã"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "& la fait preſumer eſtre exemple de rout mauuais pro-",
+   "note": "sic: 'rout' for 'tout' (wrong sort)"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "pos, & de toute fraude {t}. Et encore que la cauſe de l'er-",
+   "note": "marker t followed by a raised dot, read as period"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "occir, ie tuois Pierre: cet erreur ne m'excuſeroit point",
+   "note": "print looks like 'm'exculeroit' (ſ with faint nub, or wrong sort l); 'cet erreur' badly inked"
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "text": "ladite de Rols ſa femme {d}: pource que deſſus a eſté dict",
+   "note": "print sets 'deR ols' with odd spacing; punctuation after {d} read as colon, blotted"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "apres S. Auguſtin {e}. Pour le dernier. Conſtantin l'Empe",
+   "note": "no hyphen after 'l'Empe' at line end; period after 'dernier' as printed"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "luy eſtant propoſe l'eſpece d'vne femme, laquelle apres",
+   "note": "'propoſe' appears without accent"
+  },
+  {
+   "where": "blocks[0].lines[37]",
+   "text": "mari. qui eſtoit allé à la guerre, enuoye ſçauoir de ſon",
+   "note": "'mari.' could be comma; faint"
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "text": "capitaine, ſ'il eſt vif ou mort. & apres ſe remarie publi-",
+   "note": "'mort.' could be comma; 'apres ſe' printed tight/damaged ('apieſſe')"
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "quement; reſpond qu'elle eſt exempte de toute peine",
+   "note": "semicolon vs colon after 'quement' uncertain; 'toute' damaged (looks 'toate'); no catchword visible"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l igitur. P ſi",
+   "note": "'ſi' / 'na' split across lines as printed; P is the swash paragraph sign"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "Abige. Ac-",
+   "note": "line-end break sign after 'Ac' looks like a period/dot"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "ſeruor.",
+   "note": "badly inked; possibly 'ſeruor.' abbreviated"
+  },
+  {
+   "where": "margin_notes[10].lines[0]",
+   "text": "l ieum qui",
+   "note": "sic: 'ieum' as printed (for 'eum'?)"
+  },
+  {
+   "where": "margin_notes[10].lines[1]",
+   "text": "nocentem. P.",
+   "note": "blurred; could be 'nocentem' or misprint"
+  },
+  {
+   "where": "margin_notes[12].lines[1]",
+   "text": "au liure de a",
+   "note": "'au' blotted"
+  },
+  {
+   "where": "margin_notes[12].lines[2]",
+   "text": "dulterinis",
+   "note": "blotted; print may read 'dulterinu' or 'dulterinis'"
+  },
+  {
+   "where": "margin_notes[12].lines[3]",
+   "text": "coniugiis.",
+   "note": "heavily blotted; reading from sense of shape, uncertain"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[8]",
+   "target": "blocks[0].lines[8]",
+   "spans": [
+    [
+     18,
+     25
+    ]
+   ],
+   "aligned": true,
+   "a": "Troiſiemement, vn erreur. encore que la ſource d'ice-",
+   "b": "Troiſiemement, vn erreur, encore que la ſource d'ice-",
+   "text": "Troiſiemement, vn erreur, encore que la ſource d'ice-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "vn erreur, encore que la source d'iceluy n'aye bon fondement, excuse...: the subject and its concessive clause run on to the verb excuse, so a comma, not a point, after erreur."
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "target": "blocks[0].lines[39]",
+   "spans": [
+    [
+     0,
+     8
+    ],
+    [
+     40,
+     45
+    ]
+   ],
+   "aligned": true,
+   "a": "quement: reſpond qu'elle eſt exempte de toate peine",
+   "b": "quement; reſpond qu'elle eſt exempte de toute peine",
+   "text": "quement; reſpond qu'elle eſt exempte de toute peine",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Reading B gives toute (exempte de toute peine), the word the sense needs; colon or semicolon after publiquement is immaterial. One choice of the whole line with p140-b0l39-2.; toute peine, 'all punishment'; toate is no word (u misread as a). Same line as p140-b0l39-1."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     0,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "xxxiiij. q. j. c.",
+   "b": "xxxiij. q. j. c.",
+   "text": "xxxiiij. q. j. c.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "The canon In lectum stands with Si virgo in Gratian's Causa 34 qq. 1-2 (the woman deceived by error of person), as the earlier reports record; xxxiiij. is right, xxxiij. would misplace it."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "target": "margin_notes[0].lines[3]",
+   "spans": [
+    [
+     9,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "xxix. q. j.",
+   "b": "xxix. q. [?]",
+   "text": "xxix. q. j.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "c. j. § quod autem, xxix. q. j. is Gratian's dictum on error of person, cited in just this form at annot-010 {h}; the numeral j. completes the citation, and the alternative is an unread sort."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "target": "margin_notes[1].lines[1]",
+   "spans": [
+    [
+     0,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "xxxiiij. q. j.",
+   "b": "xxxiij. q. j.",
+   "text": "xxxiiij. q. j.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "c. Si virgo is in Causa 34 qq. 1-2 (as at p140-m0l1-1); xxxiiij. is right. The print's own xxxiij. at {d} on p138 is its error, not an alt."
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "target": "margin_notes[6].lines[0]",
+   "spans": [
+    [
+     3,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "l. iij. P. ſi &",
+   "b": "l. iij P. ſi &",
+   "text": "l. iij. P. ſi &",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[11].lines[0]",
+   "target": "margin_notes[11].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "c. ſi tu abſti",
+   "b": "c ſi tu abſti",
+   "text": "c. ſi tu abſti",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[11].lines[1]",
+   "target": "margin_notes[11].lines[1]",
+   "spans": [
+    [
+     14,
+     17
+    ]
+   ],
+   "aligned": true,
+   "a": "nes xxvij. q. ij.",
+   "b": "nes xxvij. q. ij",
+   "text": "nes xxvij. q. ij.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

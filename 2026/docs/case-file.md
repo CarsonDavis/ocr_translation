@@ -1072,6 +1072,777 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | de petite vertu | of small force | Of a proof. (annot-041) |
 | faict ambigu, monſtrueux & perplex | a matter ambiguous, monstrous and perplexed | Cf. *perplexité*. (annot-041) |
 | filiation | filiation | (annot-041) |
+| ſaluer de leur nom | to greet by their names | (texte-40) |
+| ramenteuoir | to remind | (texte-40) |
+| chauſſes blanches, doubles de taffetas blanc | white hose, lined with white taffeta | *Doublé*, lined. (texte-40) |
+| pretendue femme | pretended wife | *Pretendu* in the older sense of "claimed", as *pretendu enfant*. (texte-40) |
+| memoire ſi heureuſe | a memory so happy | Cf. *l'heur & la felicité de sa memoire*. (annot-042) |
+| exercite | army | (annot-042) |
+| genſdarmes | men-at-arms | (annot-042) |
+| gaigné par art, ou par vſage | gained by art or by practice | (annot-042) |
+| d'vn ſeul iota | by a single iota | Cf. *d'un travers d'ongle*. (annot-042) |
+| tomber en inſtruction | to fall within an instruction | The coaching the accused might have had. (texte-41) |
+| art reprouué | reprobate art | The *artes reprobatae*. (texte-41) |
+| entrecongnoiſtre | to tell apart | (annot-043) |
+| mouſches à miel | honey-bees | (annot-043) |
+| Soſides / Menechmus / Meſſenio | Sosicles / Menaechmus / Messenio | Plautus, *Menaechmi*. (annot-043) |
+| l'en croire à ſon ſerment | to believe her upon her oath | The offer to abide by the adversary's oath. (texte-42) |
+| creuëment | bluntly | (texte-42) |
+| patemment | patently | (texte-42) |
+| deferer le ſerment | to tender the oath | The *delatio iurisiurandi*. (annot-044) |
+| honte & vilennie | shame and baseness | Paul's *turpitudo*. (annot-044) |
+| chargé de la preuue | charged with the proof | The burden of proof. (annot-044) |
+| lieux communs | common places | The *loci communes*; glossed in brackets on first use. (annot-044) |
+| deſmentir rudement | to give the lie roughly | (texte-43) |
+| quelque diable en ſa peau | some devil in his skin | (texte-43) |
+| venir contre ſa propre confeſſion | to come against one's own confession | (annot-045) |
+| ſans nouuelles preuues | without new proofs | The phrase the Davis–Finlay argument turns on, §10. (annot-045) |
+| tirer hors de la maiſon | to turn out of the house | (texte-44) |
+| fourbe dreſſee contre | trickery got up against | Cf. *tromperie* → trickery. (annot-046) |
+| contrainte, force, & reuerence | constraint, force and reverence | The *reverentia* owed to parents. (annot-046) |
+| paratre | stepfather | (annot-046) |
+| tenue en captiuité | held in captivity | (annot-046) |
+| ſollicitations, importunitez, & menaces | solicitations, importunities and threats | (annot-046) |
+| Seneſchal de Toloſe | Seneschal of Toulouse | Per §5. (texte-45) |
+| Capdet Iean d'Eſcornebeuf | Jean d'Escornebœuf, called the Cadet | Per §3 and §8; the print's *Capdet* is the Gascon form. (texte-45) |
+| à la requeſte de | at the instance of | The phrase, as against the written *requeste* → petition. (texte-45) |
+| par deſſouz main | underhand | (texte-45) |
+| auancer vn fait (contre) | to advance a deed (against) | To bring up as a charge. (texte-45) |
+| mettre en Galere | to put in the Galleys | An afflictive punishment, §5. (texte-45) |
+| appointement de contraires | interlocutory order upon contrary facts | The *appointement en faits contraires*; glossed in brackets on first use. (texte-45, annot-047) |
+| chemiſe blanche | white shirt | Of linen, "clean"; literal word kept. (texte-45) |
+| excellent & ſouuerain en ſon eſpece | excellent and sovereign in his kind | (annot-047) |
+| Phrinondas | Phrynondas | Aristophanes, *Thesmophoriazusae* 861. (annot-047) |
+| relaxer | to release | Of a prisoner. (annot-047) |
+| comprocureur | joint attorney | *Procureur* of a private party → attorney; acting jointly with or for the civil party. (texte-46) |
+| conſtituer priſonnier (le fit) | to have (him) made prisoner | Cf. *conſtitué priſonnier* → made prisoner. (texte-46) |
+| procure / procuration | procuration [the power of attorney] | Glossed in brackets on first use. (texte-46, annot-048) |
+| faux procureur | false attorney | The *falsus procurator*. (annot-048) |
+| charge (d'un procureur) | charge | The mandate. (annot-048) |
+| outrepaſſer les fins & bornes de ſa puiſſance | to overstep the ends and bounds of one's power | (annot-048) |
+| ratifier / ratification | to ratify / ratification | The *ratihabitio*. (annot-048) |
+| obreption | obreption | Obtaining a grant by a false statement; the law of rescripts. (annot-048) |
+| cõſiſtoire du prince / auditoire du prince | consistory of the prince / audience-chamber of the prince | (annot-048) |
+| offices (vſer d'offices enuers) | good offices | (texte-47) |
+| accouſtremens | clothing | (texte-47) |
+| reprins | retaken | Of a prisoner rearrested. (texte-47) |
+| faire partie à | to be the party against | As *faire la partie à*. (annot-049) |
+| ſecourir officieuſement | to succour obligingly | (annot-049) |
+| ſentence (of the Court's leaning) | opinion | As *l'aduis & la ſentence*; not the lower judge's judgment. (texte-48) |
+| faueur du mariage / des enfans / du preuenu | favour of the marriage / of the children / of the accused | The *favor matrimonii*, *favor prolis*, *favor rei*. (texte-48, annot-050, annot-052) |
+| faire Iugement (en faueur de) | to give judgment (for) | (annot-050) |
+| vaincre & ſurmonter | to conquer and overcome | Of a presumption. (annot-050) |
+| nez de paillardiſe & procreez d'adultere | born of lechery and begotten of adultery | (annot-050) |
+| faits cõtrouerſes | controverted facts | (annot-050) |
+| procliue à | inclined to | Latin *proclivis*. (annot-050) |
+| deliurer & abſoudre | to deliver and absolve | (annot-050) |
+| crimes publiques, & capitaux | public and capital crimes | (annot-050) |
+| accuſateur | accuser | Paired with *demandeur* → plaintiff. (annot-050) |
+| agir, ou accuſer | to sue or to accuse | (annot-050) |
+| le chemin, ou le ſentier plus aſſeuré | the surer road or path | The *via tutior*. (annot-050) |
+| affaires douteux, & perplex | doubtful and perplexed affairs | (annot-050) |
+| laiſſer impuny le coulpable | to leave the guilty unpunished | D. 48.19.5. (annot-050) |
+| opinion plus douce, plus humaine | the gentler, more humane opinion | (annot-050) |
+| donner plus de foy à | to give more faith to | Cf. *faire foy*. (annot-050, annot-051) |
+| numeroſité & multitude | number and multitude | Cf. *numerosité* → multitude. (annot-051) |
+| faire tomber la balance | to make the balance fall | (annot-052) |
+| plus forte raiſon doncques | with stronger reason, then | *A fortiori*. (annot-052) |
+| particulariſer de ſi pres | to particularise so closely | (texte-50) |
+| viuement, & vallablement reprochez | sharply and validly objected to | Per §5. (texte-50) |
+| obiects (de reproches) | objections | The grounds of objection. (texte-50) |
+| le dire du ſoldat | the saying of the soldier | (texte-50) |
+| n'y faire rien / n'y eſtre rien | to count for nothing | (texte-50, texte-51) |
+| ſens corporels | bodily senses | (annot-053) |
+| telle quelle preſumption | some sort of presumption | (annot-053) |
+| adminiculés | adminicles [supporting proofs] | Glossed in brackets on first use. (annot-053) |
+| faire apparoir de | to make appear | (annot-053) |
+| limites, & bornes | limits and bounds | Of lands. (annot-053) |
+| partie plaidante | party pleading | (annot-053) |
+| fiancer par paroles de preſent | to espouse by words of the present | *Sponsalia per verba de praesenti*. (annot-053) |
+| Corbon Barrau | Carbon Barrau | The print's spelling at p073; case file form kept. (texte-50) |
+| longueur, & groſſeur | height and bulk | The body-shape evidence. (texte-51) |
+| reſſembler (plus haut) | to appear (taller) | *Ressembler* in its old sense "to seem". (texte-51) |
+| ſe remplir de corps, & renforcer de iambes | to fill out in body and grow stronger in the legs | (texte-51) |
+| greſles, linges, & dolietz | slender, thin and delicate | *Linge*, the old adjective "thin, slight"; *doliet* = *douillet*. (annot-054) |
+| gros, gras, & importuns | stout, fat and cumbersome | *Importun* in its physical sense. (annot-054) |
+| recouurer à (= recourir à) | to have recourse to | (annot-054) |
+| mediocre aage | middle age | (annot-054) |
+| panſard & ventru | paunchy and pot-bellied | (annot-054) |
+| ſangſues | leeches | (annot-054) |
+| Leon Bizantin / Denis Heracleot / Loys le Gros | Leo of Byzantium / Dionysius of Heraclea / Louis the Fat | (annot-054) |
+| iugemens par ſemblance | judgments by resemblance | (texte-52) |
+| faire la conference (à) | to make the comparison (to) | Cf. *parangonner / conferer* → to compare. (texte-52) |
+| proportion & analogie | proportion and analogy | The mathematicians' *analogia*. (annot-055) |
+| argument de l'vn à l'autre | argument from the one to the other | The *argumentum a simili*. (annot-055) |
+| nos interpretes | our interpreters | As *Interpretes en droict*. (annot-055, annot-050) |
+| ſympathies | sympathies | (annot-055) |
+| la langue de Baſcouz | the language of the Basques | Cf. *pays des Bascouz* → the Basque country. (texte-53) |
+| la verité du faict apporte la reſponſe | the truth of the fact supplies the answer | (texte-53) |
+| INFANS, quaſi neſcius fari | INFANS, as it were unable to speak (*quasi nescius fari*) | Coras's own gloss follows. (annot-056) |
+| bas aage | tender age | (annot-056) |
+| deſnouër ſa langue | to untie his tongue | (annot-056) |
+| gazouiller | to babble | Of infants; the bird figure, cf. *ramage*. (annot-056) |
+| n'y fait rien (auſſi) | is nothing to the purpose (either) | The record's formula for an argument that does not avail. (texte-54; also texte-50, texte-51) |
+| adonné à toute eſpece de meſchancetez | given to every kind of wickedness | (texte-54) |
+| venir à condemnation | to come to condemnation | (annot-057) |
+| commis & perpetré | committed and perpetrated | (annot-057) |
+| delict | offence | *Delictum*. (annot-057) |
+| coulpable du faict | culpable of the deed | (annot-057) |
+| raiſons deduites | reasons deduced | Cf. *desduire*. (texte-55) |
+| affermer / aſſeurer / nier | to affirm / to assure / to deny | The three verbs kept distinct. (texte-55, annot-058) |
+| venir en preuue | to come into proof | (texte-55) |
+| ſe reſtraindre aux lieux, temps, & perſonnes | to restrict oneself to places, times and persons | The *negativa coarctata*. (texte-55, annot-058) |
+| vulgaire reigle | common rule | Cf. *vulgaires & communes reigles*. (texte-55) |
+| ſentence (a saying) | maxim | Not the lower judge's *sentence* of §5. (annot-058) |
+| le Philoſophe | the Philosopher | Aristotle. (annot-058) |
+| niement | denial | (annot-058) |
+| prouuer vne negation | to prove a negation | (annot-058) |
+| eſcheoir (la difficulté n'y eſcherroit point) | to arise | (annot-058) |
+| approuuer au degré de Doctorat | to approve for the degree of Doctorate | Cf. *insignes du degré*. (annot-058) |
+| eſcolier | scholar | A student. (annot-058) |
+| ſuffiſance | sufficiency | (annot-058) |
+| reprouuer (a candidate) | to reject | (annot-058) |
+| coarctee | narrowed | (annot-058) |
+| depoſer pour l'innocence / pour l'accuſation & la charge | to depose for innocence / for the accusation and the charge | (annot-058) |
+| recognoiſtre ſon erreur | to recognise one's error | (texte-56) |
+| ſe departir de (ſa depoſition) | to depart from (one's deposition) | The witness's retraction. (texte-56, annot-059) |
+| faire quelque difficulté | to raise some difficulty | (annot-059) |
+| adiouſter foy à | to give faith to | (annot-059) |
+| varier (of a witness) | to vary | The *testis varians*. (annot-059) |
+| contradiction & repugnance | contradiction and repugnance | Cf. *preuves repugnantes*. (annot-059) |
+| pariure | perjured; perjurer | (annot-059) |
+| circonuention | circumvention | Cf. *circonvenir*. (annot-059) |
+| ſe corriger | to correct oneself | (annot-059) |
+| ſur l'heure | on the spot | (annot-059) |
+| eſpace & interual de temps | space and interval of time | Cf. *laps ou intervalle de temps*. (annot-059) |
+| iuſte cauſe | just cause | (annot-059) |
+| emprainctes | imprinted | Of marks on the body. (texte-57) |
+| goutes de ſang à l'œil / enfoncement de l'ongle | drops of blood in the eye / the sinking of the nail | The marks of texte-38. (texte-57) |
+| depoſer chacun de ſon faict | each deposing to his own fact | Cf. *teſmoins ſinguliers*. (texte-57) |
+| certain & reſolu | certain and settled | (texte-57, LX) |
+| tenir le lieu que d'vn | to hold the place of but one | (LX) |
+| n'eſtre pour rien compté | to be counted for nothing | *Unus testis nullus testis*. (LX) |
+| fureur | madness | *Furor*. (LX) |
+| election de ſepulture | choice of burial | The *electio sepulturae*. (LX) |
+| entreliees & coniointes | interlinked and conjoined | (LX) |
+| interpretation legiere & trop inconſiderée | a light and too inconsiderate interpretation | (LX) |
+| acte vniuerſel ou general | a universal or general act | (LX) |
+| couſtume | custom | (LX) |
+| faire apparoir | to make appear | To prove. (LX) |
+| cours ſouueraines | sovereign courts | The parlements. (LX) |
+| compaſſer & meſurer à droite aulne | to compass and measure by a straight ell | (LX) |
+| poiſer à iuſte balance | to weigh in a just balance | (LX) |
+| traitez & diffiniz | treated and determined | *Definir*, to decide. (LX) |
+| tant ſoit-il enorme | however enormous it be | (LX) |
+| preuue certaine & concluante | certain and conclusive proof | (LX) |
+| diffamé (d'vn crime) | defamed (of a crime) | The canonists' *diffamatus*. (LX) |
+| le plus grief | the most grievous | (LX) |
+| iuger par opinion & à la legere | to judge by opinion and lightly | (LX) |
+| droitement & en verité | rightly and in truth | (LX) |
+| obuier à | to obviate | (LX) |
+| ſous le manteau & pretexte de la religion | under the cloak and pretext of religion | (LX) |
+| concuſſions | extortions | By those in office. (LX) |
+| impietez mal heureuſes | wretched impieties | (LX) |
+| le propos duquel nous ſommes iſſus | the matter from which we have strayed | (LX) |
+| Iaques Butrigaire | Jacobus Butrigarius (Giacomo Bottrigari) | (LX) |
+| Pierre de Bellaper. / Cyne | Pierre de Belleperche / Cino da Pistoia | (LX) |
+| Guid. Papæ | Gui Pape (Guido Papa), *Decisiones* | (LX) |
+| Boyer | Nicolas Bohier (Boerius), *Decisiones Burdegalenses* | (LX) |
+| ſoubre-dents | supernumerary teeth | Modern *surdents*; one of the identifying marks. (texte-58) |
+| ſe rapporter (deux perſonnes ſe rapportent) | to resemble each other | (texte-58) |
+| Et de dire, que … eſt reſpondu | And as to the argument that … it is answered | The record's formula for taking up a point for the appellant. (texte-59) |
+| preuue entiere / demie preuue | full proof / half-proof | *Fama* as half-proof, completed by one witness only in civil causes. (annot-061) |
+| bruit & renommee | rumour and renown | Kept distinct from *bruit & fame* → "rumour and common repute". (annot-061) |
+| cauſes ciuiles, hautes, & graues | civil causes that are high and grave | The *causae arduae* of the doctors. (annot-061) |
+| noter (le notoit enuers pluſieurs) | to mark (with a note of infamy) | Latin *notare*. (annot-061) |
+| ſainctement ordonné | wisely ordained | Of a law well made; reviewer may prefer "holily". (annot-061) |
+| intelligences, & auiſemens | information and advice | Secret information passed to the impostor. (texte-60) |
+| Iugement par ſemblance | judgment by likeness | (texte-60) |
+| louſche / le Bigle | squinting / the Squinter | Latin *strabo*. (annot-062) |
+| iouëurs de comedie | players of comedy | (annot-062) |
+| refriquee (en nos loix) | renewed (in our laws) | Latinism, *refricare*. (annot-063) |
+| art, engin, ou machine | art, device or contrivance | (annot-063) |
+| cauteles | wiles | (annot-063) |
+| delation de ſerment | tendering of the oath | *Delatio iurisiurandi*; as *deferer le ſerment* at annot-044. (annot-064) |
+| plus claires que le iour | clearer than the day | C. 4.19.25 *luce clarioribus*. (annot-064) |
+| colluſion des parties | collusion of the parties | X 5.22. (annot-064) |
+| Ioinct que | Added to which | Formula for a further ground. (texte-63) |
+| lais / legat | legacy | *Lais* = Old French *legs*; *legat* = *legatum*. (annot-065) |
+| legataire | legatee | (annot-065) |
+| hardiment | boldly | (annot-065) |
+| eſtre en preuention (de meſme faict) | to be under prosecution (for the same deed) | *Prévention*: the cognizance a judge has taken of a criminal matter against someone; glossed in brackets on first use. (texte-64) |
+| ſecours d'argent | succour of money | (texte-64) |
+| defendre obſtineement (a position) | to maintain obstinately | *Defendre* of upholding an assertion, as *defendre comme ſon mari*. (texte-64, annot-066) |
+| perſeuerer en (vne erreur) | to persevere in (an error) | The presumption of continuance. (annot-066) |
+| changement de volonté | change of will | *Mutatio voluntatis non praesumitur*. (annot-066) |
+| preſumer du paſſé au temps preſent | to presume from the past to the present time | (annot-066) |
+| excommunié | excommunicate | As a noun. (annot-066) |
+| belles ſeurs | sisters-in-law | Cf. *beaux fils*, *beaux-freres*. (annot-066) |
+| obmurmurer (à quelqu'un) | to murmur (something) in someone's ear | Latin *obmurmurare*. (annot-066) |
+| eſtre occaſionné de | to be given occasion to | (annot-066) |
+| repugnance de coniectures & preuues | repugnance of the conjectures and proofs | Cf. *preuves repugnantes*. (texte-65) |
+| aſsiſter à la iuſtice | to assist justice | Of God. (texte-65) |
+| ſur le poinct qu'on vouloit iuger | at the point when (the case) was about to be judged | (texte-65, annot-067) |
+| le tout bon & puiſſant Dieu / le bon & tout-puiſſant Dieu | the all-good and mighty God / the good and almighty God | (texte-65, annot-067) |
+| la main forte du tout puiſſant | the strong hand of the Almighty | (annot-067) |
+| eminent peril de la mort | imminent peril of death | (annot-067) |
+| piteux ieux | pitiful games | Of the imposture. (annot-067) |
+| ſcrutateur des hommes | searcher of men | Of God. (annot-067) |
+| ſonder / balancer (les œuures) | to sound / to weigh | (annot-067) |
+| mettre en euidence | to make plain, to bring to light | Cf. *venir en evidence*. (annot-067) |
+| impudemment effrontée | impudently brazen | (annot-067) |
+| celé & incogneu | concealed and unknown | (annot-067) |
+| les Eſpagnes | Spain | Per §4; the plural is not doing work here. (texte-66) |
+| requeſte narratiue de | a petition narrating | (texte-66) |
+| l'arreſt clos | close arrest | *Arrest* in Coras's second sense, confinement to an assigned place; glossed in brackets on first use; the house's "decision" is the first sense. (texte-66, annot-068) |
+| la garde du palais | the guard of the palace | Of the Parlement. (texte-66) |
+| diction | word | *Ceste diction Arrest*. (annot-068) |
+| dernier iugement & decret | final judgment and decree | Coras's definition of *arrest*. (annot-068) |
+| ordonnance de magiſtrat | ordinance of a magistrate | (annot-068) |
+| vne eſpece de priſon | a kind of imprisonment | Detention, not the building. (annot-068) |
+| ne bouger d'vn certain lieu | not to stir from a certain place | (annot-068) |
+| pertinacement | pertinaciously | Cf. *pertinacité*. (texte-67) |
+| ſi propres (enſeignes) | so proper (tokens) | Exactly fitting. (texte-67) |
+| beliſtre | beggarly knave | *Bélître*, a beggar, hence a worthless rogue. (texte-67) CONFLICT: also rendered 'rascal' in annot-096. |
+| ſe ſubmettre à peine d'eſtre pendu | to submit oneself under penalty of being hanged | To stake one's neck on an allegation. (texte-67) |
+| iuſtifier (vne allegation) | to make good | The legal sense. (texte-67) |
+| acheté à deniers contans | bought for ready money | (texte-67) |
+| ſatisfaire (aux interrogatoires) | to satisfy | Of answering. (texte-67) |
+| ſe reueſtir du nom & de la perſonne | to clothe oneself with the name and person | (annot-069) |
+| ferme, conſtant, & veritable | firm, constant and truthful | (annot-069) |
+| ſ'aduiſer de | to think fit to | (texte-68) CONFLICT: also rendered 'to resolve to' in texte-101, texte-102. |
+| à part & en ſecret | apart and in secret | The separate examination, §5. (texte-68) |
+| faire tirer (quelqu'un) | to have (someone) withdrawn | (texte-68) |
+| la compagnie | the company | The assembled judges. (texte-68) |
+| tomber en opinion | to fall into the opinion | (texte-68) |
+| auoir quelque choſe de la magie | to have something of magic | (texte-68) |
+| diffamé (de) | ill-famed (for) | Older sense: having a bad name for something; not "defamed". (texte-68) |
+| circonuoiſins | neighbouring | (texte-68) |
+| inſtructions, memoires | instructions, memoranda | The coaching hypothesis; cf. *tomber en instruction*. (annot-070) |
+| magazin / boutique (de magie) | storehouse / shop | Satan's trade. (annot-070) |
+| vanité magique | magical vanity | (annot-070) |
+| pere de menſonge | father of lies | Of Satan. (annot-070) |
+| Simon Samarien | Simon the Samaritan | Simon Magus. (annot-070) |
+| Magie naturelle / ceremoniale | natural / ceremonial Magic | Coras's two kinds. (annot-070) |
+| permiſe / reprouuee | permitted / reprobate | Cf. *art reprouvé*. (annot-070) |
+| vertus ſecrettes de nature | secret virtues of nature | (annot-070) |
+| influxions celeſtes | celestial influences | (annot-070) |
+| reſueries | ravings | *Rêveries* in the sense of idle fancies, delusions. (annot-070) |
+| preſtiges | juggleries | *Praestigiae*, conjurors' tricks; paired with *illusions*. (annot-070) |
+| recouurer des eſprits | to procure spirits | (annot-070) |
+| Goetie / Theurgie | Goety / Theurgy | (annot-070) |
+| Necromance, Pyromance, Aeromance, Hydromance, Geomance, Chiromance, Capnomance, Lecanomance | Necromancy, Pyromancy, Aeromancy, Hydromancy, Geomancy, Chiromancy, Capnomancy, Lecanomancy | (annot-070) |
+| Pharmacie | Pharmacy | Φαρμακεία; Coras declines to count it as magic. (annot-070) |
+| treſpaſſez (les) | the dead | Cf. *trespassé* → has died. (annot-070) |
+| l'ombre | the shade | Of the dead. (annot-070) |
+| eſprits immundes | unclean spirits | (annot-070) |
+| la Phitoniſſe d'Endor | the Pythoness of Endor | The Vulgate's *pythonissa*. (annot-070) |
+| ſpectre ou fantoſme | spectre or phantom | (annot-070) |
+| attraire | to draw to oneself | (annot-070) |
+| le iargon des oyſeaux | the jargon of birds | (annot-070) |
+| recouurer ſon demon | to procure one's daemon | Socrates. (annot-070) |
+| la diſcipline des Hetruſques | the discipline of the Etruscans | The *Etrusca disciplina*. (annot-070) |
+| noiſes & diſſentions | quarrels and dissensions | (annot-070) |
+| contremont | upward | (annot-070) |
+| la marque d'Ancone | the March of Ancona | Picenum. (annot-070) |
+| deſconfiture & carnage | defeat and carnage | (annot-070) |
+| lineatures de la main | lines of the hand | (annot-070) |
+| drogues, bruuages, & empoiſonnemens | drugs, potions and poisonings | (annot-070) |
+| eſpadaçin | swordsman | *Spadassin*. (annot-070) |
+| engroſſir de | to be got with child of | (annot-070) |
+| rage (from a philtre) | frenzy | Madness, not anger. (annot-070) |
+| amatoires | love-charms | *Amatoria*. (annot-070) |
+| morceaux ou bruuages | morsels or potions | (annot-070) |
+| tranſmuer / tranſmué | to transmute / transmuted | Of bodily transformation. (annot-070) |
+| feindre (on feint) | to feign (is feigned) | Of the poets' fables. (annot-070) |
+| conuerſion d'vn ſexe en autre | conversion from one sex to the other | (annot-070) |
+| genitoires | genitories | Coras's alternative to *testicules*; both kept. (annot-070) CONFLICT: also rendered 'genitals' in annot-081. |
+| clemence & benignité (de nature) | clemency and benignity | (annot-070) |
+| ſur commination de mort | under threat of death | *Comminatio*. (annot-070) |
+| ethniques (legislators) | heathens | Cf. *Ethniques & Payens* → Gentiles and Pagans. (annot-070) |
+| le mauuais Riche | the wicked Rich Man | Dives, Luke 16. (annot-070) |
+| dreſſer les cornes | to raise his horns | Of Satan. (annot-070) |
+| panthieres | fowling-nets | *Pantières*, long bird-nets. (annot-070) |
+| filetz | meshes | To avoid "nets" twice with *panthieres*. (annot-070) |
+| impoſer à (quelqu'un) | to impose upon | As at annot-047. (annot-070) |
+| dreſſer les cueurs | to set the hearts aright | (annot-070) |
+| embuſches | ambushes | (annot-070) |
+| pour mieux ſ'aſſeurer | the better to assure itself | Of the Court. (texte-69) |
+| affermer | to affirm | (texte-69) |
+| meſmement (= especially) | and particularly | (texte-69) |
+| reſpectiuement & enſemblément | severally and together | Of the exhibition. (texte-69) |
+| reſeruez | save | "Except". (texte-69) |
+| multiplication de peines, lettres & commandemens | multiplication of penalties, letters and commands | The court's compulsory process. (texte-69) |
+| meriter quelque excuſe | to deserve some excuse | (annot-071) |
+| crime capital | capital crime | (annot-071) |
+| approchant de l'inhumanité | near to inhumanity | (annot-071) |
+| ſes os, ſon ſang, & ſa propre chair | his bones, his blood and his own flesh | Of kin. (annot-071) |
+| pire qu'infidelle | worse than an infidel | 1 Timothy 5:8. (annot-071) |
+| preſter (vn chaſteau) au Prince | to lend (a castle) to the Prince | The feudal duty of rendering a castle. (annot-071) |
+| generalement contre tous | generally against all comers | (annot-071) |
+| prochains parens | near kinsfolk | (annot-071) |
+| nouueau venu | newcomer | The record's name for the real Martin Guerre from texte-66 on. (texte-70) |
+| recognoiſtre pour (ſon frere) | to recognise for | (texte-70) |
+| hiſtoriographes | historiographers | (annot-072) |
+| ietter larmes en abondance | to shed tears in abundance | Cf. *larmoyer / pleurer*. (annot-072) |
+| dolens & marriz | grieving and sorrowful | (annot-072) |
+| rendre l'ame | to give up the soul | (annot-072) |
+| ſur la place / ſur l'heure | on the spot / on the hour | (annot-072) |
+| proditeur | traitor | Cf. *proditoirement* → treacherously; of du Tilh. (texte-71, texte-75) |
+| fauſſes enſeignes | false tokens | Cf. *veritables enseignes* → true tokens. (texte-71) |
+| conſtituer & entretenir (en erreur) | to place and keep (in error) | Cf. *endormie & entretenue*. (texte-71) |
+| pour faire brief | to be brief | (texte-71) |
+| ſouſtenir (le priſonnier eſtre) | to maintain (that the prisoner was) | Of a witness's assertion. (texte-71) |
+| aduiſer (jussive, of judges) | to take heed | Cf. *contempler* → contemplate, annot-026. (annot-073) |
+| ſe departir (de ſa depoſition) | to depart (from) | Of a witness retracting. (annot-073) |
+| geſtes & contenances | gestures and countenances | (annot-073) |
+| rendre raiſon du tout | to render a reason for the whole | Cf. *rendre raison de son dire*. (annot-073) |
+| retrencher le chemin à | to cut off the way to | (annot-073) |
+| procliue (à) | prone (to) | (annot-073) |
+| court ſouueraine / iugement ſouuerain | sovereign court / sovereign judgment | (annot-073) |
+| teſmoignage / depoſition (as against the witness) | testimony / deposition | Hadrian's *testibus, non testimoniis*. (annot-073) |
+| mauuais garçon de commiſſaire | bad fellow of a commissioner | (annot-073) |
+| brouillaçon de greffier | scribbler of a clerk | *Greffier* → clerk of court, §5. (annot-073) |
+| repreſentez, & offerts (teſmoins) | presented and offered | Of witnesses produced in person. (annot-073) |
+| toute eſploree | all in tears | (texte-72) |
+| tremblante comme la fueille agitee des vents | trembling like the leaf shaken by the winds | (texte-72) |
+| faute | fault | Bertrande's *faute*; the word of texte-72 that annot-074 examines. (texte-72, annot-074) |
+| coulpe | fault | *Culpa*; the same English as *faute*. (annot-074) |
+| volontaire / inuolontaire; volontairement / non volontairement | voluntary / involuntary; voluntarily / not voluntarily | (annot-074) |
+| à propos deliberé | with a deliberate purpose | Cf. *propos deliberé & intention de malfaire*. (annot-074) |
+| de guet à pens | by lying in wait | Cf. *guetter & assaillir*. (annot-074) |
+| violer (vne femme) | to rape | Cf. *rapt*. (annot-074) |
+| dol | fraud | The Roman *dolus*. (annot-074) |
+| imperdonnable & irremiſſible | unpardonable and irremissible | (annot-074) |
+| peine corporelle | corporal penalty | (annot-074) |
+| ſoudaine paſſion | sudden passion | The Digest's *impetus*. (annot-074) |
+| pourpenſee ni deliberee (volonté) | premeditated nor deliberate | Cf. *malice pourpensee*. (annot-074) |
+| iuſtement irrité | justly provoked | (annot-074) |
+| ſe retenir, & dompter ſoy-meſmes | to restrain and master oneself | (annot-074) |
+| maluerſer auec (ſa femme) | to misconduct oneself with | Of a man; cf. *mal-verser* of a wife. (annot-074) |
+| fortuitement / caſuellement | as fortuitous / by chance | The Digest's *casu*. (annot-074) |
+| deſaſtre d'erreur ou d'ignorance | disaster of error or ignorance | (annot-074) |
+| eſtre cogneue de (vn autre) / conuerſer auec | to be known by / to converse with | Carnal knowledge; cf. *participer avec*. (annot-074, annot-077) |
+| digne plus d'excuſe, que de peine | more worthy of excuse than of penalty | (annot-074) |
+| engroſſir | to get with child | (annot-074) |
+| œuure precedente mauuaiſe | preceding evil work | The canonists' *versari in re illicita*. (annot-074) |
+| acte de ſoy mauuais, & reprouué | act in itself evil and reprobate | Cf. *art reprouué*. (annot-074) |
+| meurtrir / occire | to murder / to slay | (annot-074) |
+| croire de leger | to believe lightly | Cf. *deposer à credit*. (annot-075) |
+| foible nature des femmes | feeble nature of women | *Fragilitas sexus*. (annot-075) |
+| tromperies & circonuentions | trickeries and circumventions | Per *tromperie*, *circonvenir*. (annot-075) |
+| incroyable enuie (de recouurer) | incredible longing (to recover) | Per §10; cf. *envieuse de voir & recouvrer*. (texte-74) |
+| ſ'apperceuoir de la fraude | to perceive the fraud | (texte-74, annot-077) |
+| ſouhaitter la mort | to wish for death | (texte-74) |
+| fort bouleuert | strong bulwark | (annot-076) |
+| mort honneſte | honest death | Honourable. (annot-076) |
+| celeſte heritage | heavenly inheritance | (annot-076) |
+| le dernier ſouſpir & periode de ſa vie | the last sigh and period of one's life | (annot-076) |
+| vaſſaux, & ſeruiteurs treſ-obligez | vassals and most bounden servants | Of God. (annot-076) |
+| trencher le filet de la vie | to cut the thread of life | (annot-076) |
+| mort volontaire | voluntary death | Suicide; Coras has no single noun for it. (annot-076) |
+| ſ'occir de ſes propres mains | to slay oneself with one's own hands | (annot-076) |
+| impatience de douleur | impatience of grief | The Digest's *impatientia doloris*. (annot-076) |
+| negocier aux traffiques de ce monde | to deal in the traffic of this world | (annot-076) |
+| eternizer leur memoire | to eternise their memory | (annot-076) |
+| ſe faire eſtimer Dieu | to get oneself esteemed a God | Empedocles. (annot-076) |
+| à cachettes | secretly | (annot-076) |
+| pantouffles d'eſtain | slippers of tin | Empedocles' sandal; the tradition has bronze. (annot-076) |
+| reuenir à nos moutons | to come back to our sheep | Glossed in brackets on first use; cf. *revenir à nos brisées*. (annot-076) |
+| deuancer ſes iours | to forestall one's days | (annot-076) |
+| ſe maſſacrer, & deffaire | to slaughter and undo oneself | (annot-076) |
+| auoir en garde / prendre à garder / bailler en garde | to have in keeping / to take into one's keeping / to deliver into keeping | The soul as a deposit. (annot-076) |
+| bagues | rings | The old sense, jewels. (annot-076) |
+| l'opinion de ſa chaſteté | the reputation of her chastity | (texte-75) |
+| mettre en Iuſtice | to bring to Justice | Cf. *mettre en instance* → to sue. (texte-75) |
+| viuement pourſuyuir | to pursue vigorously | (texte-75) |
+| perdre la teſte, & eſtre mis en quatre quartiers | to lose his head and be put in four quarters | The Rieux sentence. (texte-75) CONFLICT: also rendered 'to lose his head and be cut into four quarters' in annot-079. |
+| interietter appel | to lodge an appeal | (texte-75) |
+| demeurer arreſtée | to remain under arrest | The second sense of *arrest* at annot-068; glossed in brackets on first use. (texte-75) |
+| faire grande euidence de | to make great evidence of | (annot-077) |
+| ſe foruoyer de | to stray from | (annot-077) |
+| charnellement cohabiter | to cohabit carnally | (annot-077) |
+| eſtre dite adultere | to be called an adulteress | (annot-077) |
+| caut, ſubtil, malicieux | cunning, subtle, malicious | (annot-077) |
+| diſſimulé paillard | dissembling lecher | *Paillard* in its first sense here. (annot-077) |
+| pourſuyuir vertueuſement | to pursue virtuously | (annot-077) |
+| ſans pardonner à ſes biens, ni à ſes peines | sparing neither her goods nor her pains | (annot-077) |
+| reciter la contenance | to recount the countenance | (texte-76) |
+| grans pleurs & gemiſſemens | great weeping and lamentations | (texte-76) |
+| auſtere, & farouche | austere and fierce | Of Martin Guerre's countenance. (texte-76) |
+| nées pour plourer | born to weep | Coras on women, after Euripides. (annot-078) |
+| feintes, ſimulees, & pleines d'hypocriſie | feigned, simulated and full of hypocrisy | Of tears. (annot-078) |
+| fiel / amertume | gall / bitterness | Plautus's honey and gall. (annot-078) |
+| le diuertir de ſon auſterité | to turn him from his austerity | (texte-77) |
+| le procez du tout inſtruit | the trial fully instructed | The *instruction* of the case complete. (texte-77) |
+| iceluy veu | the same having been reviewed | The *visite du procès* of §5. (texte-77) |
+| à grande & meure deliberation | upon great and mature deliberation | (texte-77) |
+| ARREST. (display head) | DECISION. | Per §5. (texte-77) |
+| VEV le procés fait par … à | SEEN the trial conducted by … against | The *Vu* opening a French judgment. (texte-77) |
+| Dit a eſté que | It has been declared that | The formula introducing the disposition. (texte-77) |
+| a mis, & met … au neant | has set aside and sets aside … as null | The §5 formula, so phrased that *ce dont a eſté appelé, au neant* can be quoted alone. (texte-77, texte-78) |
+| punition & reparation | punishment and reparation | (texte-77) |
+| autres cas … reſultans dudit procez | other offences … resulting from the said trial | (texte-77) |
+| torche de cire ardente | burning wax taper | As §2. (texte-77) |
+| faire les tours par les rues & carrefours accouſtumez | to go the rounds through the accustomed streets and crossroads | The execution procession, §5 s.v. *criée*. (texte-77) |
+| potence … dreſſée | gallows … erected | (texte-77) |
+| detraicts les frais de Iuſtice | the costs of Justice deducted | (texte-77) |
+| mis hors de procez, & inſtance | dismissed from the case and suit | Per §5. (texte-77) |
+| renuoyer (au Iuge) | to remand (to the Judge) | For execution of the decision. (texte-77) |
+| ſelon ſa forme & teneur | according to its form and tenor | (texte-77) |
+| Prononcé iudicialement | Pronounced judicially | (texte-77) |
+| EXPOSITION DES Paroles de l'arreſt | EXPOSITION OF THE Words of the decision | The display head of the last part of the book. (texte-77) |
+| perdre la teſte, & eſtre mis en quatre quartiers | to lose his head and be cut into four quarters | The Rieux judgment. (annot-079) CONFLICT: also rendered 'to lose his head and be put in four quarters' in texte-75. |
+| caſſer (vne ſentence) | to quash | Of the Court on a lower judgment. (annot-079) |
+| proditeur / prodition | traitor / treachery | Cf. *proditoirement*. (annot-079, annot-082) |
+| comblé en toute eſpece de vices | heaped up with every kind of vice | (annot-079) |
+| ceux de baſſe condition | those of low condition | As against *les nobles*. (annot-079) |
+| decapitez / pendus | beheaded / hanged | The noble and the common death. (annot-079) |
+| fourches | gibbet-forks | The *fourches patibulaires*. (annot-079) CONFLICT: also rendered 'gibbets' in annot-093. |
+| patent | patent | Of a crime. (annot-080) |
+| changer de nom / de ſurnom / d'armoiries | to change one's name / surname / arms | (annot-080) |
+| à leur creation | at their creation | Of popes, their election. (annot-080) |
+| Bocca di porco | Bocca di porco (Pig's Mouth) | Italian kept, Coras's gloss translated. (annot-080) |
+| par imitation de vertu | by imitation of virtue | Augustine on John as Elijah. (annot-080) |
+| peine de faux | penalty of forgery | Cf. *crime de faux*. (annot-080) |
+| tendre des laçons pour appaſter | to lay snares to bait | (annot-081) |
+| ſuppoſition notable | notable substitution | (annot-081) |
+| atroce, cruelle, & exemplaire punition | atrocious, cruel and exemplary punishment | (annot-081) |
+| fort ſobrement | sparingly | Of the laws' silence. (annot-081) |
+| enſeignes & armoiries defenduës | forbidden insignia and arms | Modestinus's *illicitis insignibus*. (annot-081) |
+| ſuppoſer fauſſes lettres du Prince | to forge false letters of the Prince | *Falso diplomate*. (annot-081) |
+| ſous ce manteau | under this cloak | (annot-081) |
+| Barbare Philippe | Barbarius Philippus | The Digest's runaway slave praetor. (annot-081) |
+| le Iuriſconſulte n'en ouure pas vne ſeule parole | the Jurisconsult does not open his mouth with a single word | (annot-081) |
+| à ieu | as a game | Of the ancients' indulgence. (annot-081) |
+| loyer & recompenſe / loyer & retribution | reward and recompense | (annot-081) |
+| ſ'ingerer aux dignitez | to thrust oneself into dignities | (annot-081) |
+| reuoquer en doute | to call in doubt | (annot-081) CONFLICT: also rendered 'to call into doubt' in annot-084. |
+| occuper & enuahir (les biens) | to occupy and invade | Cf. *s'emparer de*. (annot-081) |
+| ayeul pretendu | pretended grandfather | *Pretendu*, claimed. (annot-081) |
+| de fort bonne grace | of very good grace | Of a person's bearing. (annot-081) |
+| luy tenir la main | to lend him a hand | Of the impostor's coach. (annot-081) |
+| colorer l'impoſture | to colour the imposture | (annot-081) |
+| en apparat royal | in royal state | (annot-081) |
+| anguille ſous roche | eel under the rock | Something hidden. (annot-081) |
+| toucher au marteau de ſa conſcience | to strike the hammer of his conscience | (annot-081) |
+| tirer les vers du nez | to draw the worms from his nose [to worm the truth out] | Glossed in brackets on first use. (annot-081) |
+| ourdir la toile | to weave the web | Cf. *ourdir & tramer*. (annot-081) |
+| confuz labyrinthe de vices | confused labyrinth of vices | (annot-081) |
+| roy baſtard | bastard king | (annot-081) |
+| gentil (ironic) | fine | *Ce gentil Prompalus*; *nos gentils Canoniſtes*. (annot-081, annot-082) |
+| harpeur | harper | (annot-081) |
+| par la diſgrace des vents | by the disfavour of the winds | (annot-081) |
+| branſler | to totter | Of a province in revolt. (annot-081) |
+| charme naturel | natural charm | (annot-081) |
+| cabaret | tavern | (annot-081, annot-082) |
+| ſurprins de la mort | overtaken by death | (annot-081) |
+| Ieanne l'Angloiſe | Joan the Englishwoman | Pope Joan. (annot-081) |
+| lire (in the schools) | to lecture | (annot-081) |
+| genitoires | genitals | (annot-081) CONFLICT: also rendered 'genitories' in annot-070. |
+| puni capitalement / Capitalement | punished capitally / Capitally | The word Coras glosses as civil or natural death. (annot-081) |
+| dernier ſupplice | the last punishment | Death. (annot-081) |
+| guetteurs de mariages d'autruy | lurkers after other men's marriages | (annot-082) |
+| impudicitez | immodesties | (annot-082) |
+| peine du glaiue (naturelle / ciuille) | penalty of the sword (natural / civil) | *Poena gladii*; kept literal throughout since Coras divides it. (annot-082) |
+| ſainctement | holily | Of a judgment or a saying. (annot-082) |
+| la loy Iulie des adulteres / la loy Cornelie | the Julian law on adulterers / the Cornelian law | (annot-082) |
+| reſtrainte & moderée | restrained and moderated | Of a penalty. (annot-082) |
+| fueilleter nos liures de Droict | to leaf through our books of Law | (annot-082) |
+| faire diſſection de membres | to make dissection of members | (annot-082) |
+| cenſures eccleſiaſtiques | ecclesiastical censures | (annot-082) |
+| chaſtiee | chastised | Whipped; the adulteress of Nov. 134. (annot-082) |
+| faculté (de recouurer) | faculty | The legal power. (annot-082) |
+| gemir ſon peſché | to bewail her sin | (annot-082) |
+| du bout du doigt | with the tip of her finger | Cato in Gellius. (annot-082) |
+| exauthoré de ſes ordres | stripped of his orders | *Exauctoratio*. (annot-082) |
+| actes ingenieux, & haut louëz | ingenious and highly praised acts | Faure and Benedicti on adultery in France. (annot-082) |
+| noſtre compagnie | our company | The Court. (annot-082) |
+| toucher au doigt | to touch with the finger | To make palpable. (annot-082) |
+| diſſimuler (vn crime) | to wink at | (annot-082) |
+| membres de putain | members of a harlot | 1 Corinthians 6:15. (annot-082) |
+| conniuer à | to connive at | (annot-082) |
+| qualifié (d'vne prodition) | qualified (by a treachery) | The aggravating quality. (annot-082) |
+| ſeruiteur de cabaret | tavern servant | The Paris case of 1551. (annot-082) |
+| aſſeruis, & obligez | enslaved and bound | By a vow. (annot-082) |
+| alteree & charnelle volupté | thirsty and carnal pleasure | (annot-082) |
+| la raiſon biẽ froide | the reason very cold | (annot-082) |
+| ſimplicité, neceſſité, ou tentation | simplicity, necessity or temptation | The excuses Coras rejects. (annot-082) |
+| trebucher | to stumble | Of a vowed cleric. (annot-082) |
+| polution | pollution | (annot-082) |
+| la tendreté d'vn ieune aage | the tenderness of a young age | (annot-082) |
+| arbitre d'vn bon, ſainct, & equitable iuge | discretion of a good, holy and equitable judge | Cf. *arbitre du Juge*. (annot-082) |
+| Rapt (as a word of the decision) | Rape [*rapt*: in the law of the time, abduction as well as rape] | Glossed in brackets on first use per §9 *rapt*; Coras's capital kept. Coras's own definition (annot-083) extends it to seduction by fraud. (annot-083) |
+| ſe donner en proye à | to give oneself up as prey to | (annot-083) |
+| faire breſche à l'honneur | to make a breach in the honour | (annot-083) |
+| ſe contracter (le crime ſe contracte) | to be contracted (of a crime) | The legal *crimen contrahere*. (annot-083) |
+| galant | gallant | Ironic, of du Tilh. (annot-083) |
+| rauir / rauie | to ravish / ravished | (annot-083) |
+| tranſduite d'vn lieu en autre | carried off from one place to another | (annot-083) |
+| apaſts | baits | Paired with *ruſes, fineſſes*. (annot-083) |
+| garentir (le trompeur) | to warrant | To cover or protect him. (annot-083) |
+| allechemens faux, & emmiellez | false and honeyed enticements | Cf. *blandices / alechemens* → blandishments / enticements. (annot-083) |
+| faux donner entendre | false representations | (annot-083) |
+| deſirer (of a law) | to require | (annot-083) |
+| repriſe de (adultere) | charged with | (annot-083) |
+| Sacrilege (noun of person) / Sacrileges | Sacrilegious (substantive) | Coras uses *Sacrilege* for the person, a sense English has lost; the crime is "sacrilege". Capitals kept. (annot-084) |
+| polution, & profanation | pollution and profanation | (annot-084) |
+| faire marchandiſe des choſes ſpirituelles | to make merchandise of spiritual things | Simony. (annot-084) |
+| reuoquer en doute | to call into doubt | (annot-084) CONFLICT: also rendered 'to call in doubt' in annot-081. |
+| repudier | to repudiate | Of a wife. (annot-084) |
+| toutesfois (older sense) | at times | Where "nevertheless" makes no sense; cf. *pourtant* → for that reason. (annot-084) |
+| pitié, & compaſſion de l'aage | pity and compassion for age | The Digest's *miseratio aetatis*. (annot-084) |
+| douceur, & moderation de peine | gentleness and moderation of penalty | (annot-084) |
+| Plaige | Enslavement [*plaige*: the Roman *plagium*] | Per §9 *plage / plagiat*; the French and Latin in brackets on first use as a word of the decision. (texte-84, annot-085) |
+| eſtre obligé (d'vn crime) | to be bound under (a crime) | Liable to its penalty. (annot-085) |
+| receler | to conceal | Of a stolen person. (annot-085) |
+| il n'y fait rien de dire | it is nothing to say | (annot-085) |
+| contredire | to gainsay | The Digest's *contradicere*. (annot-085) |
+| pillement | pillage | Paired with *larrecin* → theft. (annot-086) |
+| gourmander (le bien) | to devour | (annot-086) |
+| ſimple larrecin / larrecin atroce & qualifié | simple theft / atrocious and qualified theft | *Furtum simplex* / *qualificatum*. (annot-086) |
+| diſette & neceſſité | want and necessity | (annot-086) |
+| taiſible conſentement | tacit consent | (annot-086) |
+| mettre en oubli | to consign to oblivion | (annot-086) |
+| expilateur | despoiler | The *expilator* of D. 47.18. (annot-086) |
+| diætere / directaire | *diaetarius* / *directarius* [chamber-thief] | The rival readings of D. 47.11.7; Latin kept, glossed on first use. (annot-086) |
+| violateur de paix | breaker of the peace | *Violator pacis*, Libri Feudorum 2.27. (annot-086) |
+| à cachetes | by stealth | Cf. *à la desrobbée*. (annot-086) |
+| ſols | *sols* | Untranslated and italicised per §8. (annot-086) |
+| paix & tranquilité publique | public peace and tranquillity | (annot-086) |
+| affrontemens (countable) | acts of cheating | Cf. *affronter / affrontement*. (annot-087) |
+| demeurer conuaincu | to stand convicted | (annot-087) |
+| ſainct eſtat de mariage | holy estate of marriage | (annot-088) |
+| parquet de l'audience | the bar of the audience chamber (*parquet de l'audience*) | Where the *arrest* was pronounced; French kept on first use. (annot-089) |
+| arrester (la cour auoit arreſté) | to resolve | The verb in its ordinary sense, distinct from *arrest* → decision. (annot-089) |
+| temeraire (noun) | rash fellow | Cf. *temerairement*. (annot-089) |
+| petulence de langage | petulance of language | (annot-089) |
+| delinquer | to offend | Latinism (*delinquere*); where the offence was committed. (annot-089) |
+| haute iuſtice | high justice | *Merum imperium*, the power of the sword. (annot-090) |
+| MERE IMPERE | MERE IMPERE [*merum imperium*, pure power] | Coras's gallicised Latin, kept in capitals as printed. (annot-090) |
+| puiſſance du glaiue | power of the sword | *Gladii potestas*. (annot-090) |
+| Executeurs de la haute iuſtice (as expounded) | Executors of high justice | Literal rendering where the annotation turns on the words; otherwise "executioner" per §5. (texte-89, annot-090) |
+| Bourreaux | hangmen | (annot-090) |
+| prodition | treachery | Cf. *proditoirement*. (annot-091) |
+| brigans / brigandage | brigands / brigandage | Callistratus's *famosi latrones*. (annot-091) |
+| fameux larrons | notorious thieves | (annot-091) |
+| meurtris | the murdered | (annot-091) |
+| pendement au gibet | hanging on the gibbet | (annot-092) |
+| ord | foul | (annot-092) |
+| informe (of a death) | unsightly | Virgil's *informis leti*. (annot-092) |
+| excogiter | to devise | (annot-092) |
+| les pieds contremont | with his feet uppermost | (annot-092) |
+| liures des Pontifes Romains | the books of the Roman Pontiffs | The pagan pontifical books, not canon law. (annot-092) |
+| ferité / feritez | ferocity / ferocities | Latin *feritas*. (annot-093) |
+| tout vif / tous vifs | fully alive | Of burning or dismembering. (annot-093) |
+| ſanguinaire | bloodthirsty | (annot-093) |
+| imperite | unskilled | Terence's *imperitus*. (annot-093) |
+| erres (de noſtre ſentier) | track (of our path) | (annot-093) |
+| fourches | gibbets | The *fourches patibulaires*. (annot-093) CONFLICT: also rendered 'gibbet-forks' in annot-079. |
+| charongne | carcass | Of an executed body. (annot-093) |
+| Republique bien policée | well-ordered Commonwealth | Cf. *republique* → commonwealth. (annot-093) |
+| guetteurs de chemin | highway robbers | (annot-093) |
+| dilanier | to tear to pieces | Latin *dilaniare*. (annot-093) |
+| cohiber | to restrain | Latin *cohibere*. (annot-093) |
+| religieux (noun) | a religious | A professed monk or friar. (annot-093) |
+| ſodomie brutale / beſtes brutes | brutish sodomy / brute beasts | Bestiality. (annot-093) |
+| aigreur & acerbité | sharpness and acerbity | Cicero's *acerbitas*. (annot-093) |
+| ſouuerains (iuges) | sovereign judges | The judges of the sovereign courts. (annot-093) |
+| biens ruraux & patrimoniaux / fiefz & biens nobles | rural and patrimonial goods / fiefs and noble goods | (annot-094) |
+| imprudemment | unwittingly | *Imprudens*, not knowing of the impediment. (annot-094) |
+| couleur & opinion de mariage | the colour and belief of marriage | The putative marriage. (annot-094) |
+| pieça | long since | (annot-094) |
+| confiſcation de biens | confiscation of goods | (annot-094) |
+| qui confiſque le corps, confiſque les biens | he who confiscates the body confiscates the goods | The French customary maxim. (annot-094) CONFLICT: also rendered 'Who confiscates the body confiscates the goods' in annot-109. |
+| faueur des enfans | favour of the children | *Favor liberorum*. (annot-094) |
+| nommement | expressly | (annot-094) |
+| pretexte de mariage | pretext of marriage | The words of the decision. (texte-94, annot-095) |
+| legitime conionction | lawful conjunction | (annot-095) |
+| erreur en la perſonne | error in the person | The *error personae*; cf. *erreur* → error. (annot-095, annot-097) |
+| vouloir & conſentement des parties | will and consent of the parties | (annot-095) |
+| met hors de procez, & d'inſtance | dismisses from the case and suit | Per §5 *mis hors de cour / hors de procès* and texte-77. (texte-95, annot-096, annot-098) |
+| en voye de condẽnation | in the way of condemnation | (annot-096) |
+| indiſcretement / indiſcretion | indiscreetly / indiscretion | (annot-096) |
+| donner l'occaſion / bailler l'occaſion | to give the occasion / to furnish the occasion | The *occasio* doctrine; *occaſion prochaine / eſlongnee* → "near / distant occasion". (annot-096) |
+| vulgaire deciſion de droict | common decision of the law | (annot-096) |
+| ſe retirer aux ennemis | to withdraw to the enemy | (annot-096) |
+| ſon naturel prince | his natural prince | (annot-096) |
+| chaleur, & legereté de ieuneſſe | heat and lightness of youth | (annot-096) |
+| temerité | rashness | Cf. *temerairement* → rashly. (annot-096) |
+| les Interpretes | the Interpreters | Cf. *Interpretes en droict*. (annot-096) |
+| tenir la main à (ſa femme) | to lend a hand to | Connivance; the phrase of annot-002. (annot-096) |
+| maquerelage | pandering | Cf. *maquereau* → pander. (annot-096) |
+| laquais | lackey | (annot-096) |
+| payer l'eſcot | to pay one's scot | Glossed in brackets on first use. (annot-096) |
+| beliſtre | rascal | Coras of du Tilh. (annot-096) CONFLICT: also rendered 'beggarly knave' in texte-67. |
+| trauerſes | crosses | Of fortune. (annot-096) |
+| croire de leger / trop legerement | to believe lightly / too lightly | (annot-097) |
+| ſous le manteau de (tel erreur) | under the cloak of | (annot-097) |
+| donner des atteintes (print: atraintes) | to give intimations | (annot-097) |
+| conſort & eſpoux | consort and spouse | Cf. *consort & mari*. (annot-097) |
+| ladre | leper | (annot-097) |
+| promeu aux ordres ſacrez | promoted to holy orders | (annot-097) |
+| aſtuce, callidité, & fineſſe | cunning, craftiness and sharp practice | Cf. *astuce*, *finesse*. (annot-097) |
+| ſimplicité de ſon cœur, & pureté de ſes mains | simplicity of his heart and purity of his hands | Genesis 20:5 as Coras gives it. (annot-097) |
+| action d'iniures | action of injuries | The *actio iniuriarum*. (annot-097) |
+| meurtrier, & homicide | murderer and homicide | (annot-097) |
+| la conſcience informee | conscience informed | (annot-097) |
+| erubeſcence | shame | (annot-097) |
+| femme de bien & honneur | woman of worth and honour | Cf. *femme de bien*. (annot-097) |
+| renuoyer (l'execution) | to remand | As at texte-77. (texte-98, annot-099) |
+| ſelon ſa forme, & teneur | according to its form and tenor | (texte-98) |
+| cours ſouueraines / les inferieurs | sovereign courts / the inferior ones | (annot-099) |
+| Texte du proces de l'execution | Text of the record of the execution | The display head of the execution record. (annot-099) |
+| ouy comme teſmoin | heard as a witness | (annot-100) |
+| memoire & ſouuenance | memory and recollection | (annot-100) |
+| moribunde | dying man | (annot-100) |
+| entre vifs, ou à cauſe de mort | between the living or by reason of death | *Inter vivos*, *mortis causa*. (annot-100) |
+| integrité du ſens, & de l'entendement | integrity of sense and understanding | D. 28.1.2's *integritas mentis*. (annot-100) |
+| diuulſion | tearing asunder | Of body and soul. (annot-100) |
+| confeſſer bien au long | to confess at full length | (texte-99) |
+| forfaict impudent, & temeraire | impudent and rash crime | (texte-99) |
+| entreprinſe effrontee & monſtrueuſe | brazen and monstrous enterprise | (texte-99) |
+| le camp de Picardie | the camp of Picardy | The army in Picardy. (texte-99) |
+| Gaule Belgique / Celtique / Aquitaine | Belgic / Celtic / Aquitanian Gaul | (annot-101) |
+| Allemans | *Allemans* | Kept, the sentence being about the name. (annot-101) |
+| Vidamie | Vidamé | (annot-101) |
+| la vraye France / la vraye Picardie | True France / True Picardy | *France* and *Picardie* in the narrow sense. (annot-101) |
+| prenoyent pour (print: preuoyãt) | took (him) for | Cf. *recognoiſtre pour*. (texte-100) |
+| familiers, & intimes amys | familiars and intimate friends | (texte-100) |
+| Piuol / Puiol; Guilher / Quillet | Pivol / Pujol; Guilher / Quillet | As the copy-text prints them on p145 and p147; the case file §3 has Pivol and Guilhet. (texte-100, texte-102) |
+| priuez & peculiers amis | private and particular friends | Cf. *privées & particulieres enseignes*. (annot-102) |
+| en ſon ieune aage | in his young age | (annot-102) |
+| la meilleure (eſt que) | the best of it (is that) | (annot-102) |
+| bandeau deuant ſes yeux | blindfold before her eyes | (annot-102) |
+| deceu en (quelqu'vn) | deceived in | (texte-101) |
+| ſ'aduiſer de | to resolve to | (texte-101, texte-102) CONFLICT: also rendered 'to think fit to' in texte-68. |
+| iouër la tragedie | to play the tragedy | *Tragedie* kept per §10. (texte-101) |
+| gentil ruſtre | fine rustic | Per *rustre* → rustic; the case file §10 has "fine peasant". (annot-103, annot-105) |
+| l'iſſue | the issue | The outcome of a play, or of the affair. (annot-103) |
+| eſpece de fable | kind of fable | *Fabula*, a play. (annot-103) |
+| ſtile bas, & humble / ſtyle haut, & graue | low and humble style / high and grave style | (annot-103) |
+| rauiſſemens de pucelles | the ravishing of maidens | (annot-103) |
+| imitatiõ de vie, miroir de couſtume, & image de verité | imitation of life, mirror of custom, and image of truth | Donatus's "Cicero". (annot-103) |
+| increper & taxer | to rebuke and tax | (annot-103) |
+| obiurguer, & reprendre | to objurgate and reprove | (annot-103) |
+| faſcheux | troublous | (annot-103) |
+| ieux de tragedie | plays of tragedy | (annot-103) |
+| ſ'enquerir, & informer | to inquire and inform himself | (texte-102) |
+| cautement | warily | Cf. *caut* → cunning; of care here. (texte-102, annot-107) |
+| eſtat (d'vne perſonne) | condition / estate | "Condition" in the record, "estate" where paired with *condition* in the annotation. (texte-102, annot-104) |
+| domeſtiques | household servants | (annot-104) |
+| par droit de parenté, amitié, familiarité ou voiſinage | by right of kinship, friendship, familiarity or neighbourhood | (annot-104) |
+| vray ſemblablement (cognoiſſance) | in all likelihood | The jurists' *verisimiliter*. (annot-104) |
+| eſtat, condition, & qualité | estate, condition and quality | (annot-104) |
+| ſous pretexte de l'ignorance | under the pretext of the ignorance | (annot-104) |
+| reputation, & renommée | reputation and renown | Cf. *bruit & renommée*. (annot-104) |
+| deſpeſcher, ou expliquer | to dispatch or carry through | *Explicare*. (annot-104) |
+| n'a point eu de durée | has had no duration | (annot-104) |
+| alleguer, ou pretendre ignorance | to allege or pretend ignorance | (annot-104) |
+| receuoir pour (ſon mari) | to receive for | (texte-103) |
+| ſe confermer en | to confirm oneself in | (texte-103) |
+| Necromantien / Necromantie | Necromancer / Necromancy | Coras's capitals kept; per *necromancien*. (texte-103, annot-105) |
+| charmes, enchantemens | charms, enchantments | (texte-103) |
+| impoſſible par nature | impossible by nature | (annot-105) |
+| art diabolique / inuocations diaboliques | diabolical art / diabolical invocations | (annot-105) |
+| deſpouiller (vne opinion) | to put off | (annot-105) |
+| ſe troubler (en interrogatoire) | to falter | (annot-105) |
+| Monſieur le Preſident / ledit ſeigneur Preſident | Monsieur the President / the said lord President | *Monsieur* kept per §8. (annot-105) |
+| cõme par aſſeurãce | as if assured of it | (annot-105) |
+| mal aiſé | ill-easy | Coras's gloss on Ovid's *difficile*. (annot-105) |
+| immuer, ni changer | to alter nor change | (annot-105) |
+| à l'article de la mort | at the point of death | (annot-105) |
+| charger autruy / ſe deſcharger | to charge another / to discharge oneself | (annot-105) |
+| donner foy à | to give faith to | Cf. *faire foy*. (annot-105) |
+| porter teſmoignage en ſon faict propre | to bear witness in his own cause | *In re sua*. (annot-105) |
+| garnimen (garnement) | scapegrace | (texte-104) |
+| remonſtrer (ci deſſus) | to represent (above) | Per *remonstrer*. (annot-106) |
+| perſeuerer en ſemblable malice | to persevere in like malice | (annot-106) |
+| debiteur à | debtor to | (texte-105) |
+| bled, vin, & millet | wheat, wine and millet | (texte-105) |
+| quintaux de laine | quintals of wool | (texte-105) |
+| plus au long y ſpecifiez | more fully specified therein | (texte-105) |
+| creanciers | creditors | (texte-105) |
+| oncle maternel | maternal uncle | (texte-105) |
+| procez, & demande de biens | suit and demand for property | (annot-107) |
+| matiere criminelle, & capitale | criminal and capital matter | (annot-107) |
+| plus claires, & reluyſantes que le ſoleil | clearer and more shining than the sun | The Code's *luce clariores*. (annot-107) |
+| donner couleur à | to give colour to | Cf. *couleur de droit*. (annot-107) |
+| obiect (contre vn teſmoin) | objection | The *reproche* of §5. (annot-107) |
+| le droit ciuil | the civil law | (annot-107) |
+| reietter / reprouuer (vn teſmoignage) | to reject / to reprove | (annot-107) |
+| matiere ciuile, & pecuniaire | civil and pecuniary matter | (annot-107) |
+| deciſion (doctrinale) | ruling | (annot-107) |
+| ſ'agiſt de la teſte | the head is at stake | (annot-107) |
+| exẽptes de tout ſoupçõ | exempt from all suspicion | Cf. *hors tout soupçon*. (annot-107) |
+| le ſecõd ſang, & la vie de l'hõme | the second blood and the life of a man | Of goods. (annot-107) |
+| inimitié / ennemy | enmity / enemy | The ground of objection to a witness. (annot-107) |
+| diſertement | eloquently | (annot-107) |
+| nos maieurs | our ancestors | Cicero's *maiores*. (annot-107) |
+| controuuer | to fabricate | (annot-107) |
+| flairer l'odeur de la Loy Chreſtienne | to catch the scent of the Christian Law | (annot-107) |
+| la loy vieille | the old law | (annot-107) |
+| faire (particulier) denombrement | to make a (particular) enumeration | The itemised list of a declaration. (texte-106) |
+| ſoudre (vne queſtion peut ſoudre) | to arise (of a question) | (annot-108) |
+| aſſertion (de celuy qui ſ'en va mourir) | assertion (of one who is about to die) | (annot-108) |
+| donner foy / faire foy | to give credit / to make proof | (annot-108) |
+| inualable | invalid | (annot-108, annot-109) |
+| delation | delation | The dying man's naming of his assailant. (annot-108) |
+| indice pour la torture | indication for torture | Cf. *indice* → indication. (annot-108) |
+| ſous la cenſure des plus doctes | under the censure of the more learned | Coras's modesty formula. (annot-108) |
+| deciſions vulgaires | common decisions | The ordinary rules of law. (annot-108) |
+| à l'article de ſa mort | at the article of his death | (annot-108) |
+| pariure & infame | perjured and infamous | (annot-108) |
+| amiable preſt | friendly loan | *Mutuum*. (annot-108) |
+| deppoſt | deposit | (annot-108) |
+| partie abſente | in the absence of the party | (annot-108) |
+| donnaiſon / donaiſon | gift | *Donatio*; between spouses. (annot-108) |
+| exception de pecune non nombree | exception "of money not counted out" [*non numeratae pecuniae*] | Latin supplied in brackets on first use. (annot-108) |
+| laiz / lais | bequest(s) | (annot-108, annot-110) |
+| legat / fideicommis | legacy / fideicommissum | (annot-108) |
+| recognoiſſance | acknowledgment | Of a debt or receipt. (annot-108) |
+| frauder la loy | to defraud the law | (annot-108) |
+| dol & fraude | deceit and fraud | (annot-108) |
+| religion du ſerment | religion of the oath | Its binding sanctity; Coras's word kept. (annot-108) |
+| interpoſer (vn ſerment) | to interpose (an oath) | (annot-108) |
+| inſtituer (ſon heritiere) | to institute (as heiress) | *Institutio heredis*. (texte-107) |
+| inſtitution d'heritier | institution of an heir | (annot-109) |
+| faire teſtament / faculté de teſter | to make a testament / faculty of making a testament | *Testament* throughout, never "will" alone. (annot-109) |
+| caſſer & rompre / caſſation | to quash and break / quashing | Of a testament. (annot-109) |
+| nouuelles conſtitutions (de Iuſtinien) | new constitutions | The Novels. (annot-109) |
+| ſucceſſeurs / heritiers ab inteſtat (d'inteſtat) | successors / heirs ab intestato | (annot-109) |
+| fiſc | fisc | (annot-109) |
+| leſe-maieſté | lèse-majesté | (annot-109) |
+| ſerf de la peine | slave of the penalty | *Servus poenae*; cf. *serf* → slave. (annot-109) |
+| diminué de ſon chef | diminished in his head | *Capite deminutus*; the *capitis deminutio*. (annot-109) |
+| cité (perdre ſa cité) | citizenship | *Civitas*. (annot-109) |
+| confinez | confined | The modern *relegati*. (annot-109) |
+| bien né | well born | *Ingenuus*. (annot-109) |
+| oraiſon indefinie / vniuerſelle | indefinite / universal proposition | The logicians' terms. (annot-109) |
+| couſtume generalle de noſtre Gaule | the general custom of our Gaul | (annot-109) |
+| crime priuilegié | privileged crime | Treason, heresy, false coining. (annot-109) |
+| fauſſe monnoye | false coining | (annot-109) |
+| mutilation de membre | mutilation of a limb | (annot-109) |
+| perpetuel banniſſement | perpetual banishment | (annot-109) |
+| Qui confiſque le corps, confiſque les biens | Who confiscates the body confiscates the goods | The French maxim; print's capitals kept. (annot-109) CONFLICT: also rendered 'he who confiscates the body confiscates the goods' in annot-094. |
+| iuge incompetant | a judge not competent | (annot-109) |
+| clerc / iuge lay | clerk / lay judge | (annot-109) |
+| faute de iuriſdiction | want of jurisdiction | (annot-109) |
+| executeur (de teſtament) | executor | (texte-108, annot-110) |
+| executeurs Teſtamentaires, Legitimes, Donnez | Testamentary, Legitimate, Dative executors | *Donnez* glossed in brackets on first use. (annot-110) |
+| dernieres volontez | last wills | (annot-110) |
+| lais ou clercs, ſeculiers ou reguliers | laymen or clerks, secular or regular | (annot-110) |
+| religieux | religious (n.) | (annot-110) |
+| cordeliers | Cordeliers | The Franciscans. (annot-110) |
+| gardien de ſainct François | Guardian of Saint Francis | Superior of a Franciscan house. (annot-110) |
+| preſtres & clers ſacrez | priests and clerks in holy orders | (annot-110) |
+| tabellion ou notaire | tabellion or notary | (annot-110) |
+| receuoir inſtrumens | to receive instruments | To draw up deeds. (annot-110) |
+| inuentaire | inventory | (annot-110) |
+| pitoyables volontez / œuures pies | pious wills / pious works | *Pitoyable* in its old sense. (annot-110) |
+| admonneſter | to admonish | Cf. *admonnester amiablement*. (annot-110) |
+| Eueſque / Metropolitain | Bishop / Metropolitan | (annot-110) |
+| ſainctes conſtitutions | holy constitutions | Justinian's Novels on pious bequests. (annot-110) |
 
 ---
 

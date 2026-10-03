@@ -9,11 +9,228 @@
   "image_no": 79,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/79"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p058",
  "next": "p060",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "good and weighty, as having known, haunted and frequented him from his earliest years; eaten and drunk many times with him; and the sisters, for having always been brought up together.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XXXVIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "These witnesses, although they did not equal the number of the others, nevertheless seemed to be more credible for several considerations. The first, because they affirmed that the prisoner was Martin Guerre, and the others denied it. Now it is certain that to two witnesses alone who affirm something, more faith is given than to a thousand who deny <sup class=\"mk\" data-key=\"a\">a</sup>. The second, because the principal of these witnesses are his own and nearest kinsfolk: and even four sisters, who obstinately affirmed the prisoner to be their brother. And everyone knows well that kinsfolk, and singularly sisters, have without comparison a better and more perfect knowledge of those who belong to them in so near a degree of kinship than all other persons <sup class=\"mk\" data-key=\"b\">b</sup>. The third, because the witnesses who depose for the prisoner testify to things nearer to verisimilitude. Inasmuch as he had been received as Martin Guerre by all those of the town, and even by his said sisters and nearest kinsfolk; nay, by the wife of the said Martin, with whom he had cohabited three years, and had two children: in which interval, so long, it is not probable that the said de Rols would not have recognised him for a stranger, if the prisoner had not truly been Martin Guerre. The fourth and last, because these witnesses depose for the defendant, and in favour both of the marriage and of the children who have issued from it; in which cases, if several Judges were in conflict of opinions, the opinion and judgment of those who favoured either the accused or the <sup class=\"mk\" data-key=\"c\">c</sup> marriage would always prevail; and so it seems that Hermogenian the Jurisconsult wrote and taught it, when there is contradiction of witnesses. <sup class=\"mk\" data-key=\"d\">d</sup>",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Accursius (<i>Aecurſe</i>, a wrong sort for <i>Accurſe</i>), the <i>Glossa ordinaria</i> on Digest 4.8 (<i>De receptis: qui arbitrium receperint</i>), l. <i>Diem proferre</i>, § <i>Si plures</i> (cf. D. 4.8.21 and D. 4.8.27, both Ulpian, on arbitrators who disagree; fragment and paragraph unverified)",
+     "original": "Aecurſe en la l. diem pro ferre. P. ſi plu res. D. de re cep. arb.",
+     "gloss": "The gloss's commonplace that two witnesses who affirm are believed before a thousand who deny, a negative not being susceptible of direct proof. The <i>P.</i> stands for the paragraph sign."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 38.8 (<i>Unde cognati</i>), a law whose incipit the print gives as <i>octui.</i> — not identified (the reading is doubtful; the following <i>p</i> may be <i>pr.</i>, <i>in principio</i>); Digest 4.1 (<i>De in integrum restitutionibus</i>), l. <i>De tutela</i> (fragment not identified)",
+     "original": "l. octui. p D. vnd. cog. l. de tutela. D. din integ. reſt.",
+     "gloss": "Cited for the knowledge kinsfolk have of their own; the print's <i>din</i> is <i>de in</i>."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 42.1.38 pr. (<i>De re iudicata</i>, l. <i>Inter pares</i>, Paul): where judges equal in number give discordant opinions, in causes of liberty the opinion for liberty prevails (a constitution of Antoninus Pius), and in other causes that for the defendant; and a law <i>Si</i> in the same title (the print's <i>c. ſi.</i>, perhaps <i>l. fi.</i>, the last law — not identified)",
+     "original": "l. inter pa. res D. de re. di. c. ſi. au meſ me titre.",
+     "gloss": "Coras extends the <i>favor rei</i> of this law to the <i>favor matrimonii</i>."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 40.1 (<i>De manumissionibus</i>), l. <i>Lege Iulia</i> (cf. D. 40.1.24, Hermogenian, <i>Iuris epitomae</i> 1; number unverified)",
+     "original": "l. lege iulia D. de manu miſsio.",
+     "gloss": "The final <i>a</i> of <i>iulia</i> is blotted. The bearing of the fragment on contradictory witnesses could not be verified."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "bonnes, & grandes, comme de l'auoir cõ",
+    "gnu, hanté, & frequenté depuis ſes pre-",
+    "miers ans: mangé, & beu ſouuentesfois",
+    "auec luy: & les ſeurs, pour auoir eſté nour",
+    "ries touſiours enſemble."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XXXVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ces teſmoins, encor qu'ils n'eſgalaſſent le nombre",
+    "des autres, neantmoins ſembloit eſtre plus croiable",
+    "par pluſieurs conſiderations. La premiere, car ils affer",
+    "moyen que le priſonnier eſtoit Martin Guerre, & les",
+    "autres le nioyẽt. Or eſt il certain, qu'à deux ſeuls teſ-",
+    "moins qui afferment quelque choſe, eſt donné plus de",
+    "foy, qu'a mille qui niẽt {a}. La ſecõde, car les principaux",
+    "de ces teſmoins ſont les propres, & plus prochains pa-",
+    "rens: & meſme quatre ſeurs, qui obſtineement affer-",
+    "moyẽt le priſonnier eſtre leur frere. Et chacun ſçait biẽ",
+    "que les parens, ſingulierement les ſeurs, ont ſans com",
+    "paraiſon meillieure & plus parfaite cognoiſſance de",
+    "ceux qui leur appartiennent de ſi prochain degré de pa-",
+    "renté, que toutes autres perſonnes {b}. La troiſieme, car",
+    "les teſmoins qui depoſent pour le priſonnier, teſmoi-",
+    "gnent de choſes plus approchantes de veriſimilitude.",
+    "Partant qu'il auroit eſté receu pour Martin Guerre de",
+    "tous ceux de la ville: & meſme de ſeſdites ſeurs, & plus",
+    "prochains parens. Voire de la femme dudit Martin,",
+    "auec laquelle auroit cohabité troys ans, & eu deulx",
+    "enfans: dans lequel interualle ſi long, n'eſt vray ſem",
+    "blable que ladite de Rols ne l'euſt recognu pour",
+    "eſtranger, ſi le priſonnier n'euſt eſté veritablement",
+    "Martin Guerre. La quatrieme & derniere, car ces teſ",
+    "moins depoſent pour le deffendeur, & en faueur tant",
+    "du mariage, que des enfans qui en ſont yſſus auſ-",
+    "quels cas ſi pluſieurs Iuges eſtoyent en conflicte d'o-",
+    "pinions, preuaudroit touſiours l'aduis & la ſentence",
+    "de ceux qui fauoriſeroyent ou le premeuu, ou le {c}. ma",
+    "riage, & ainſi ſemble qu'Hermogenien Iuriſconſul-",
+    "te l'ayt eſcrit & enſeigné, quand il y a contradiction de",
+    "teſmoins. {d}"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Aecurſe en",
+    "la l. diem pro",
+    "ferre. P. ſi plu",
+    "res. D. de re",
+    "cep. arb."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. octui. p D.",
+    "vnd. cog. l. de",
+    "tutela. D. d-",
+    "in integ. reſt."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. inter pa.",
+    "res D. de re.",
+    "di. c. ſi. au meſ",
+    "me titre."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. lege iulia",
+    "D. de manu",
+    "miſsio."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "moyen que le priſonnier eſtoit Martin Guerre, & les",
+   "note": "sic: the word broken across lines 3-4 is printed 'affer'/'moyen'. At 5x there is no tilde and no t over or after the e, although the sense (and the parallel 'affer-'/'moyẽt' at lines 9-10) wants 'affermoyẽt'. Transcribed as printed."
+  },
+  {
+   "where": "blocks[2].lines[28]",
+   "text": "de ceux qui fauoriſeroyent ou le premeuu, ou le {c}. ma",
+   "note": "sic: 'premeuu' is printed with two u (p-r-e-m-e-u-u) at 6x; the glyphs are clear but the word is not, probably a wrong sort or a doubled sort for 'premeu'. Transcribed as printed."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Aecurſe en",
+   "note": "sic: at 10x the second letter is a closed bowl with a horizontal bar (e), unlike the open crescent c of 'cep. arb.' in the same note, so the print sets 'Aecurſe' for 'Accurſe'. Wrong sort; transcribed as printed."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. octui. p D.",
+   "note": "uncertain reading of the lex: glyphs at 7x are o + ct-ligature + u + i, giving 'octui', which resolves to no lex I can name; the following 'p' may be a plain p or an abbreviation sort (ꝑ / in pr.). The rest of the citation (D. unde cognati, l. de tutela, D. de in integrum restitutione) is legible."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l. lege iulia",
+   "note": "the final a of 'iulia' is filled with ink; it could be an a or a blotted æ. Read as 'iulia'."
+  }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "reads agree on every line but two; coordinator checked both on 3-4x crops: qu'a (one apostrophe sort only, no grave on the a) and note c line 2 'res D.' (no point after res, only a faint mid-height speck); B correct on both"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "target": "blocks[2].lines[6]",
+   "spans": [
+    [
+     5,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "foy, qu'à mille qui niẽt {a}. La ſecõde, car les principaux",
+   "b": "foy, qu'a mille qui niẽt {a}. La ſecõde, car les principaux",
+   "text": "foy, qu'a mille qui niẽt {a}. La ſecõde, car les principaux",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "coordinator checked at 4x: a single apostrophe sort after u, no grave over the a"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     0,
+     3
+    ]
+   ],
+   "aligned": true,
+   "a": "res. D. de re.",
+   "b": "res D. de re.",
+   "text": "res D. de re.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "coordinator checked at 3x: no baseline point after res, only a faint mid-height speck"
+  }
+ ]
 }

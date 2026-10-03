@@ -1,0 +1,189 @@
+{
+ "id": "p149",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "149",
+ "signature": "K iij",
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "cor, quand ladi. Bertrande de Rols l'eut",
+    "receu pour Martin Guerre ſon mari, de",
+    "laquelle apres en conuerſant iour & nuit",
+    "enſemble, luy fut plus aiſé en apprendre",
+    "d'auantage, & ſe confermer mieux en ce",
+    "que les autres luy auoyẽt dit, niant touſ-",
+    "iours toutesfois eſtre Necromantien, &",
+    "auoir vſé d'aucuns charmes, enchante-",
+    "mens, ou d'aucune eſpece de magie."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Chacun ſe perſuadoit, & à grande raiſon, comme i'ay",
+    "deſſus monſtré {a}: que cette prodigieuſe impoſture",
+    "eſtoit aidée de Necromantie, ou quelque autre art re-",
+    "prouué: d'autant qu'il eſtoit impoſſible par nature, di-",
+    "re tant de choſes, & cognoiſtre les perſonnes, non ia-",
+    "mais veuës, leur recitant les propos qu'elles, & ledit",
+    "Martin Guerre auoyent eu depuis dix, quinze & vingt",
+    "ans: enſemble deſçouurir les actes les plus particuliers,",
+    "& priuez, qui peuuent eſtre entre deux mariez, & veri-",
+    "tablement eſtoyent interuenuz entre leſdicts Martin",
+    "Guerre, & Bertande de Rols, mari & femme, ſans le ſe-",
+    "cours de quelque magie, & art diabolique. Dont ne",
+    "puis-ie encor deſpouiller cette opinion, quoy que ce",
+    "gentil ruſtre ait nié en l'execution. Meſmes quand il",
+    "me ſouuient, que iamais il ne ſe troubla en interro-",
+    "gatoire quelconque qui luy fuſt fait par moy, ou par",
+    "Monſieur le Preſident, en plaine chambre, hors-mis en",
+    "çeſtuy ſeul: à ſçauoir, quand ledit ſeigneur Preſident luy",
+    "demanda (cõme par aſſeurãce) d'où il auoit l'eſprit fa-",
+    "milier, duquel il ſ'eſtoit aidé en ce fait, & où eſt-ce qu'il",
+    "auoit appriſes les inuocations diaboliques. Car alors",
+    "tout effrayé, baiſſa ſon viſage, & ne ſceut que reſpõdre:",
+    "rendant veritable, ce que dit Ouide en quelque lieu {b},"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Heu, quàm difficile eſt crimen non prodere",
+    "vultu!"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "lines": [
+    "En l'anno-",
+    "tation lxxi."
+   ],
+   "beside_line": "re tant de choſes, & cognoiſtre les perſonnes, non ia-"
+  },
+  {
+   "key": "b",
+   "lines": [
+    "Oui. au li.",
+    "ij. de la meta-",
+    "morphoſe."
+   ],
+   "beside_line": "rendant veritable, ce que dit Ouide en quelque lieu {b},"
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "eſtoit aidée de Necromantie, ou quelque autre art re-",
+   "note": "'autre' badly inked/damaged: only 'au' clear, then a faint fragment; reading 'autre' from traces and sense"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "re tant de choſes, & cognoiſtre les perſonnes, non ia-",
+   "note": "'perſonnes': the r is weakly printed and looks like 'i' ('peiſonnes'); line-end hyphen printed as a raised dot"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "ans: enſemble deſçouurir les actes les plus particuliers,",
+   "note": "sic: 'deſçouurir' printed with c-cedilla"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "Guerre, & Bertande de Rols, mari & femme, ſans le ſe-",
+   "note": "sic: 'Bertande' for Bertrande"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "çeſtuy ſeul: à ſçauoir, quand ledit ſeigneur Preſident luy",
+   "note": "sic: 'çeſtuy' appears printed with a cedilla on c; 'ſeul:' colon vs semicolon not certain; 'ſeigneur Preſident' set tight"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Heu, quàm difficile eſt crimen non prodere",
+   "note": "italic verse (Ovid); 'difficile' l slightly malformed; verse paragraph continuation to next page unknown"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "ij. de la meta-",
+   "note": "'ij' printed with diaeresis-like dots ('ÿ'); final 'a' of 'meta' blotted"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "cor, quand ladi. Bertrande de Rols l'eut",
+   "note": "'ladi.' printed so (abbreviation of ladite), not expanded; first word 'cor,' continues 'en-' from p148"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "re tant de choſes, & cognoiſtre les perſonnes, non ia-",
+   "note": "'perſonnes': the r is faint and looks like 'i' ('peiſonnes'); read as r"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "ans: enſemble deſçouurir les actes les plus particuliers,",
+   "note": "sic: 'deſçouurir' with cedilla as printed"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "Guerre, & Bertande de Rols, mari & femme, ſans le ſe-",
+   "note": "sic: 'Bertande' (for Bertrande)"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "Monſieur le Preſident, en plaine chambre, hors-mis en",
+   "note": "the hyphen in 'hors-mis' is a raised dot-like mark"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "çeſtuy ſeul: à ſçauoir, quand ledit ſeigneur Preſident luy",
+   "note": "sic: 'çeſtuy' appears to carry a cedilla; 'ſeigneurPreſident' set tight, spaced per conventions"
+  },
+  {
+   "where": "blocks[3].lines[1]",
+   "text": "vultu!",
+   "note": "italic initial v has a swash form; read as 'v'"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Oui. au li.",
+   "note": "sic: 'Oui.' (abbreviation of Ouide/Ouid.) as printed; key b in margin"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[2].lines[2]",
+   "A": "eſtoit aidée de Necromantie, ou quelque autre art re-",
+   "B": "eſtoit aidée de Necromantie, ou quelque au[??] art re-",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "eſtoit aidée de Necromantie, ou quelque autre art re-",
+   "reason": "arbitration: A (translator: quelque autre art reprouué, 'some other reprobate art', the same phrase as texte-41 (Magie, ou quelque art reprouué); the page image shows the word damaged after au, and no other word fits the space and the sense.)"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "A": "milier, duquel il ſ'eſtoit aidé en ce fait. & où eſt-ce qu'il",
+   "B": "milier, duquel il ſ'eſtoit aidé en ce fait, & où eſt-ce qu'il",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "milier, duquel il ſ'eſtoit aidé en ce fait, & où eſt-ce qu'il",
+   "reason": "arbitration: B (translator: The sentence runs on (en ce fait, & où eſt-ce qu'il auoit appriſes...): the second question depends on the same demanda, so a comma, not a full stop; the translation is the same either way.)"
+  }
+ ]
+}

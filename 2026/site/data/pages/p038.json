@@ -9,11 +9,216 @@
   "image_no": 60,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/60"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p037",
  "next": "p039",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "terity and harshness (having perhaps had experience of it beforehand), she ought to be committed to some good and honest woman until the end of the suit <sup class=\"mk\" data-key=\"i\">i</sup>. And when the husband fears that the wife whom he demands may be suborned against him, the Judge ought to have her lodged and placed in a house where she fears neither force nor violence; as of old was done in a convent of nuns and religious women. <sup class=\"mk\" data-key=\"l\">l</sup>",
+   "continued": true,
+   "notes": [
+    {
+     "key": "i",
+     "citation": "Decretals X 2.13 (<i>De restitutione spoliatorum</i>), cc. <i>Ex transmissa</i> and <i>Litteras</i>, at the end (cf. X 2.13.8 and X 2.13.13; chapter numbers unverified)",
+     "original": "c. ex tranſmiſſa. c. literas. P. fin. de reſt. ſpel.",
+     "gloss": "A husband seeking restitution of a wife who fears his cruelty: she is meanwhile placed in a safe and honest house."
+    },
+    {
+     "key": "l",
+     "citation": "Decretals X 2.19 (<i>De probationibus</i>), the penultimate chapter (chapter number unverified)",
+     "original": "c. penultsime de prob.",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "citation": "Decretals X 4.1 (<i>De sponsalibus et matrimoniis</i>), c. <i>Cum locum</i> (X 4.1.14)",
+     "original": "c. cum locum, de ſponſ.",
+     "gloss": "Where fear or coercion intervenes there is no room for consent; the woman is to be put in a place where she may freely declare her will — evidently for the sentence on lodging the wife \"where she fears neither force nor violence\"."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Thus he makes in his hearing an ample and true discourse (as has since appeared) of the country of the Basques, of the father, mother, brothers, sisters and other kinsfolk of Martin Guerre; of the year, month and day of his wedding; of his father-in-law and mother-in-law; of the persons who were there, and who negotiated the marriage; of the robes and garments with which each was then attired; of the priest who married them; of all the particular acts that took place there, both on the day of the wedding and before and after, even to setting down the persons who, about midnight of the wedding, went to visit him in his bed. Moreover, of his pretended child Sanxi Guerre, and of the day he was born; of the cause of his departure; of the persons he met on the way, and of the talk they had had together; of the places where he had stayed during his absence, both in Spain and in France; and of the persons whom he had",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſterité & rudeſſe (en ayant fait peut eſtre au parauant",
+    "experience) elle doit eſtre commiſe à quelque femme",
+    "de bien, & honneſte, iuſqu'à la fin du proces {i}. Et quand",
+    "le mari craint que la femme qu'il demande ne ſoit ſu-",
+    "bornée contre luy, le Iuge la doit faire loger, & collo-",
+    "quer en vne maiſon, où elle ne redoute force, ni violen",
+    "ce. comme iadis on faiſoit à vn conuent de nonnains,",
+    "& religieuſes. {l}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Si fait en ſon audition ample diſcours",
+    "& veritable (comme depuis a apparu)",
+    "de la partie des Baſcouz, des pere, me-",
+    "re, freres, ſeurs, & autres parens de Mar-",
+    "tin Guerre: de l'annee, mois, & iour de",
+    "ſes nopces: de ſes beaux-pere, & mere:",
+    "des perſonnes qui y eſtoient, & qui trai-",
+    "terẽt le mariage: des robes, & veſtemens,",
+    "deſquels chacun pour lors eſtoit accou-",
+    "tré: du preſtre qui les eſpouſa: de tous les",
+    "actes particuliers, qui y entreuindrent:",
+    "tant au iour des nopces, que deuant &",
+    "& apres. iuſqu'à conſigner les perſonnes",
+    "qui ſur la minuit des nopces, l'allerent vi-",
+    "ſiter dans ſon lit. En outre, de ſon preten",
+    "du enfant Sanxi Guerre, & du iour qu'il",
+    "naſquit: de la cauſe de ſon departement:",
+    "des perſonnes qu'il trouua en chemin, &",
+    "des propos qu'ils auoient eu enſemble:",
+    "des lieux où il ſ'eſtoit tenu durant ſon",
+    "abſence, tant en Eſpaigne, qu'en Fran-",
+    "ce: & des perſonnes, auſquelles il ſ'eſt"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "c. ex tranſ-",
+    "miſſa. c. lite-",
+    "ras. P. fin. de",
+    "reſt. ſpel."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "c. cum lo-",
+    "cum, de ſponſ."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "c. penultsi-",
+    "me de prob."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[1]",
+   "text": "c. cum lo-",
+   "note": "note key k has no {k} marker anywhere in the body; both readers checked every line at 3x-8x. The only markers printed are {i} (annotation line 3) and {l} (line 8). The note's key sits beside 'quer en vne maiſon, où elle ne redoute force, ni violen', so the omitted marker most likely belonged near 'ni violen-ce.' Compositor omission; note kept without a marker (standing ruling)"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. penultsi-",
+   "note": "pages/strips/p038/margin-1.jpg, note l line 1. At 6x and 10x the sorts after 'penu' are: a tall italic l, then ONE short letter with a small hook at its top and no clear dot above (read as italic t, cf. the t of 'reſt' in note i; an italic i is the alternative), then round s, dotted i, hyphen: 'penultsi-' + 'me' on the next line. There is no second glyph between the l and the s, so A's 'penultisi-' has one letter too many. The expected citation is 'c. penultime de prob.'; the printed form is odd either way and is transcribed as printed"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "c. ex tranſ-",
+   "note": "the line-end hyphen after 'tranſ' is only partly inked, a faint broken stroke at x-height, much lighter than the solid hyphens of 'lite-' and 'lo-'; read as a hyphen, could be an ink speck with the hyphen absent"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "reſt. ſpel.",
+   "note": "pages/strips/p038/margin-1.jpg, note i line 4. At 6x the third letter has a bowl crossed by a horizontal bar with an open lower loop, matching the italic e of 'reſt' and 'de' rather than the plain oval o of 'ſponſ.' and 'prob.': read as 'ſpel.', sic for the expected 'ſpol.' (de restitutione spoliatorum); the letter is ink-filled and 'ſpol.' cannot be wholly excluded"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "terẽt le mariage: des robes, & veſtemens,",
+   "note": "the mark over the second e of 'terẽt' is a thick, nearly horizontal, wavy stroke (tilde), unlike the thin slanted acute of 'tré:' two lines below and of 'ſterité'; read as ẽ (= terent)"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "tant au iour des nopces, que deuant &",
+   "note": "'&' is printed at the end of this line and again at the start of the next ('& apres.'); the ampersand is set twice; transcribed as printed, sic"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "& apres. iuſqu'à conſigner les perſonnes",
+   "note": "sic, repeated '&' (see previous entry); the mark after 'apres' is a round dot on the baseline (period, not comma)"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].lines[7]",
+   "target": "blocks[2].lines[7]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "terét le mariage: des robes, & veſtemens,",
+   "b": "terẽt le mariage: des robes, & veſtemens,",
+   "text": "terẽt le mariage: des robes, & veſtemens,",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x (pages/strips/p038/body-4.jpg, line 4) the mark over the second e is a thick nearly horizontal wavy stroke, a tilde; the acute of 'tré:' on the same strip is a thin slanted hairline: ẽ"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "target": "margin_notes[0].lines[3]",
+   "spans": [
+    [
+     6,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "reſt. ſpol.",
+   "b": "reſt. ſpel.",
+   "text": "reſt. ſpel.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x (pages/strips/p038/margin-1.jpg, note i line 4) the letter after ſp has a crossbar through its bowl and an open lower loop like the italic e of 'reſt' and 'de'; the o sorts of 'ſponſ.' and 'prob.' are plain ovals: the sort printed is e, sic for 'ſpol.'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "target": "margin_notes[2].lines[0]",
+   "spans": [
+    [
+     3,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "c. penultisi-",
+   "b": "c. penultsi-",
+   "text": "c. penultsi-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x and 10x (pages/strips/p038/margin-1.jpg, note l line 1) only one glyph stands between the tall l and the round s: a short letter with a hooked top and no clear dot, read as italic t; A's extra i is not there. Ambiguity (t vs i) recorded in uncertain[]"
+  }
+ ]
 }

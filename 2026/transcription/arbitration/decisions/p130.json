@@ -1,0 +1,23 @@
+{
+ "page": "p130",
+ "decisions": {
+  "b-003": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "The marginal note on p130 is keyed e and there is no note t; {e} matches the margin."
+  },
+  "b-004": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "vel stands inside Ovid's verse (Morte vel intereas), where a lowercase word is expected; a capital V is unmotivated."
+  },
+  "ns-e": {
+   "choice": "unknown",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  }
+ }
+}

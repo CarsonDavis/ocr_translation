@@ -9,11 +9,508 @@
   "image_no": 147,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/147"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p126",
  "next": "p128",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "the intention of enriching oneself, or of harming one's neighbour <sup class=\"mk\" data-key=\"e\">e</sup>. I have excepted only Draco, the ancient legislator of Athens, who by his cruel and bloody laws put all criminals to death indifferently, and singularly thieves, even supposing they had stolen but a mere pennyworth of herbs <sup class=\"mk\" data-key=\"f\">f</sup>. Nevertheless, inasmuch as he appointed one and the same penalty for all misdeeds, however small they were, even to punishing with death a little idleness and sloth, all these laws, which Demades used to say had been written in blood and not in ink, were, as barbarous and inhuman, removed and abolished, or at the least, by a tacit consent of the Athenians, consigned to oblivion; one alone excepted, by which murderers were condemned to death <sup class=\"mk\" data-key=\"g\">g</sup>. But thefts which are atrocious, and qualified by some notable gravity, must also be more grievously and severely punished <sup class=\"mk\" data-key=\"h\">h</sup>, and sometimes even to death, whether civil or natural <sup class=\"mk\" data-key=\"i\">i</sup>: as are the sacrilegious, despoilers, <i>diaetarii</i> [chamber-thieves], and breakers of the peace <sup class=\"mk\" data-key=\"k\">k</sup>. Among all of whom our rustic du Tilh will readily find a place. For in the first place he is sacrilegious, as has been shown above <sup class=\"mk\" data-key=\"l\">l</sup>. Next, he is a despoiler, having left nothing of Martin Guerre's property unstolen <sup class=\"mk\" data-key=\"m\">m</sup>. Further, he is a <i>diaetarius</i>, or as others read, a <i>directarius</i>, having taken possession by stealth and by treachery not only of a chamber, to rob it, but of the whole house <sup class=\"mk\" data-key=\"n\">n</sup>. He is moreover a breaker of the peace, and so punishable with death, were the theft but of five <i>sols</i> <sup class=\"mk\" data-key=\"o\">o</sup> — the more so in this case, where it is a question of having troubled a peaceable and well-accorded marriage, which is a violation and great rupture of a commendable public peace and tranquillity <sup class=\"mk\" data-key=\"p\">p</sup>, and which the laws have ordained to be grievously and severely punished, even though no act of lechery should have followed from it <sup class=\"mk\" data-key=\"q\">q</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "e",
+     "citation": "Decretals, X 5.18 (<i>De furtis</i>), c. <i>Si quis propter necessitatem</i> (X 5.18.3)",
+     "original": "c. ſi quis ꝓ pter neceſsita tem de fur.",
+     "gloss": "One who steals food, clothing or a beast for hunger or nakedness does penance for three weeks and, if he can, makes restitution — theft from necessity lightly punished. The <i>ꝓ</i> is the <i>pro-</i> sign: <i>propter</i>. The print's <i>c.</i> is <i>capitulum</i>; see the report on the `⟨alt⟩`."
+    },
+    {
+     "key": "f",
+     "citation": "Gellius, <i>Attic Nights</i>, book 11, c. 18 (§ 3: Draco punished every theft with death, even of vegetables or fruit)",
+     "original": "Gelle li. xj. c. xviij.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "citation": "Gellius, <i>Attic Nights</i>, book 11, c. 18, as above (§§ 4–5: Draco's laws fell into disuse by the tacit, unwritten consent of the Athenians, save the law on homicide); the saying of Demades is in Plutarch, <i>Solon</i>, c. 17",
+     "original": "Gelle au lieu deſſus allegué.",
+     "gloss": null
+    },
+    {
+     "key": "h",
+     "citation": "Digest 47.11 (<i>De extraordinariis criminibus</i>), l. <i>Saccularii</i> (D. 47.11.7, Ulpian)",
+     "original": "l. ſaccularij. D. de extract. crim.",
+     "gloss": "Purse-snatchers (<i>saccularii</i>) and <i>directarii</i> — those who make their way into other men's rooms to steal — are to be punished more than ordinary thieves, by condemnation to the mines or by relegation according to the person. The print's <i>de extract. crim.</i> is <i>de extraord. crim.</i>"
+    },
+    {
+     "key": "i",
+     "citation": "A Digest law <i>Cum servus</i> under a title printed <i>de cõd. cada.</i> — unidentified (the abbreviation is not resolved; <i>De cadaveribus punitorum</i>, D. 48.24, has no such law); Digest 48.19 (<i>De poenis</i>), l. <i>Capitalium</i>, § <i>Famosos</i> (D. 48.19.28.15, Callistratus)",
+     "original": "l. cũ ſeruus. D. de cõd. cada. l. capitalium. P. famo ſos. D. de pa.",
+     "gloss": "D. 48.19.28.15: notorious robbers are to be hanged on the fork in the places where they robbed, for the deterrence of others. The print's <i>de pa.</i> is <i>de pœ(nis)</i>; see the report on the `⟨alt⟩`."
+    },
+    {
+     "key": "k",
+     "citation": "Digest 47.18 (<i>De effractoribus et expilatoribus</i>), l. 1, § 1 (D. 47.18.1.1, Ulpian); Libri Feudorum 2.27 (<i>De pace tenenda et eius violatoribus</i>, the constitution of Frederick I), § <i>Si quis quinque [solidos]</i>; l. <i>Saccularii</i> (D. 47.11.7), cited at {h}",
+     "original": "l j. P j. D. de effractor. P. ſi. quis quin que. de pac. tenẽd. &amp; eius violat. aux Feudes l. ſac. culari, alleguee.",
+     "gloss": "<i>Expilatores, qui sunt atrociores fures</i> — despoilers, the more atrocious kind of thieves, are usually condemned to the mines or relegated. The feudal constitution hangs whoever steals five <i>solidi</i> or more, and whips and shears the thief of less."
+    },
+    {
+     "key": "l",
+     "citation": "Digest 48.13 (<i>Ad legem Iuliam peculatus et de sacrilegis</i>), l. <i>Lege</i> [<i>Iulia</i>], § 1 (D. 48.13.1), and l. <i>Sacrilegii</i> (D. 48.13.7 = vulgate 48.13.6, Ulpian); Code 9.9 (<i>Ad legem Iuliam de adulteriis</i>), l. <i>Quamvis</i> (C. 9.9.29 = vulgate 9.9.30), with the print's obscure <i>la ij.</i>, as at Annotation 84 {k}",
+     "original": "l. lege. P i. l. ſacrilegij. D. ad l. Iuli. pecul. l. quãuis. la ij. C. de adult.",
+     "gloss": "\"As has been shown above\" is Annotation 84."
+    },
+    {
+     "key": "m",
+     "citation": "Digest 47.18 (<i>De effractoribus et expilatoribus</i>), l. 1, § <i>Expilatores</i> (D. 47.18.1.1, Ulpian)",
+     "original": "l i. P. expilatore. D. de effractor.",
+     "gloss": null
+    },
+    {
+     "key": "n",
+     "citation": "Digest 47.11.7, l. <i>Saccularii</i>, cited at {h}",
+     "original": "l. ſaccularij, alleguee.",
+     "gloss": "The <i>directarii</i> of Ulpian's text, which others read <i>diaetarii</i>."
+    },
+    {
+     "key": "o",
+     "citation": "Libri Feudorum 2.27, § <i>Si quis quinque</i>, cited at {k}",
+     "original": "P. ſi quis quinque, alle-",
+     "gloss": "The transcription has the note cut short at <i>alle-</i> (<i>alleguee</i>)."
+    },
+    {
+     "key": "p",
+     "citation": "Digest 43.29 (<i>De homine libero exhibendo</i>), l. 1, the last paragraph (cf. D. 43.29.1.1, Ulpian; the bearing on the public peace unverified)",
+     "original": "l. i. P fi. D. de lib. exib.",
+     "gloss": null
+    },
+    {
+     "key": "q",
+     "citation": "Digest 47.11 (<i>De extraordinariis criminibus</i>), l. 1 (D. 47.11.1.2, Paul)",
+     "original": "l. i. D. de ex traord. crim.",
+     "gloss": "He who solicits a woman or girl, or does anything for the sake of unchastity, is punished capitally if the deed is accomplished and deported to an island if it is not — Coras's \"even though no act of lechery should have followed\"."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And other cases,",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXXVIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "The other cases are several other acts of cheating,",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "l'intention de ſ'enrichir, ou nuire á ſon prochain {e}. I'en",
+    "ay excepté ſeulement Dracon, l'ancien legiſlateur d'A-",
+    "thenes, qui par les cruelles, & ſanguinaires loix, faiſoit",
+    "indifferenment mourir tous crimineux: & ſinguliere-",
+    "ment les larrons: poſé ores qu'ils n'euſſent deſrobé",
+    "qu'vn petit denier d'herbes {f}. neantmoins par tant qu'il",
+    "conſtituoit vne meſme peine a tous malefices, tãt petis",
+    "fuſſent-ils: iuſqu'à punir de mort vne petite oiſiueté &",
+    "pareſſe: toutes ces loix, que Demades ſouloit dire a-",
+    "uoir eſté eſcrites de ſang. & non point d'ancre, com-",
+    "me barbares & inhumaines furent oſtees, & abolies,",
+    "ou pour le moins, par vn taiſible conſentement des A-",
+    "theniẽs, miſes en oubli. vne ſeule exceptee, par laquel-",
+    "le les meurtries eſtoyent condamnez à mort {g}. mais",
+    "les larrecins qui ſont atroces & qualifiez de quelque",
+    "notable grauité, fault auſſi que ſoient plus griefuemẽt",
+    "& ſeuerement punis {h}. & quelquefois iuſqu'a la mort,",
+    "ou ciuille, ou bien naturelle {i}, Cõme les ſacrileges, ex-",
+    "pilateurs, diæteres, & violateurs de paix {k}. Parmi tous",
+    "leſquels, noſtre ruſtre du Tilh trouuera bien place. Car",
+    "en premier lieu il eſt ſacrilége: ainſi que deſſus a eſté",
+    "remonſtré {l}. Apres, il eſt expilateur, n'ayant rien laiſſé à",
+    "deſrober du bien de Martin Guerre {m}. En outre il eſt",
+    "diætere, ou comme d'autres liſent, directaire, ſ'eſtant",
+    "emparé à cachetes & par trahiſon, non ſeulemẽt d'vne",
+    "chambre pour la derober: mais encore de toute la mai-",
+    "ſon {n}. Il eſt dauantage violateur de la paix: & par ainſi",
+    "puniſſable de mort, ne fut larrecin que de cinq ſols {o}.",
+    "meſmes en ce faict, ou ſ'agiſt d'auoir troublé le maria-",
+    "ge paiſible & bien accordé, qui eſt vne violatiõ, & rom-",
+    "pture grãde, d'vne recommandable paix & tranquilité",
+    "publique {p}. & que les loix ont ordõné eſtre griefuemẽt,",
+    "& ſeuerement punie, bien qu'aucũ effect de paillardiſe",
+    "ne ſ'en ſoit enſuyui {q}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et autre cas,"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXXXVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Les autres cas, ſont pluſieurs autres affrontemens;"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "c. ſi quis ꝓ",
+    "pter neceſsita",
+    "tem de fur."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Gelle li. xj.",
+    "c. xviij."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Gelle au",
+    "lieu deſſus al-",
+    "legué."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. ſaccula-",
+    "rij. D. de ex-",
+    "tract. crim."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. cũ ſeruus.",
+    "D. de cõd. ca-",
+    "da. l. capita-",
+    "lium. P. famo",
+    "ſos. D. de pæ."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l j. P j. D.",
+    "de effractor.",
+    "P. ſi. quis quin",
+    "que. de pac.",
+    "tenẽd. & eius",
+    "violat. aux",
+    "Feudes l. ſac.",
+    "culari, alle-",
+    "guee."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. lege. P i. l.",
+    "ſacrilegij. D.",
+    "ad l. Iuli. pe-",
+    "cul. l. quãuis.",
+    "la ij. C. de",
+    "adult."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "l i. P. expi-",
+    "latore. D. de",
+    "effractor."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "l. ſaccula-",
+    "rij, alleguee."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "P. ſi quis",
+    "quinque, alle-"
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "l. i. P fi. D.",
+    "de lib. exib."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "l. i. D. de ex",
+    "traord. crim."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "indifferenment mourir tous crimineux: & ſinguliere-",
+   "note": "'mourir' prints oddly, like 'moutir'/'mouiir' (broken or wrong sort r); colon printed with space before"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "ou pour le moins, par vn taiſible conſentement des A-",
+   "note": "a hyphen-like mark between 'pour' and 'le' ('pour-le'); likely a raised space, transcribed as a space"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "le les meurtries eſtoyent condamnez à mort {g}. mais",
+   "note": "'meurtries' as printed (expected 'meurtres'); sic"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "& ſeuerement punis {h}. & quelquefois iuſqu'a la mort,",
+   "note": "stop after {h} is a raised middle dot, transcribed as period; 'mort' prints like 'moit' (broken r)"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "pilateurs, diæteres, & violateurs de paix {k}. Parmi tous",
+   "note": "'diæteres' partly struck through/smudged in the print; reading clear enough"
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "ſon {n}. Il eſt dauantage violateur de la paix: & par ainſi",
+   "note": "'par' shows a mark over a, looks like 'pár'; taken as ink blemish"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "c. ſi quis ꝓ",
+   "note": "first word after key e read as 'c.' (capitulum); abbreviation sign read as ꝓ (pro), could be ꝑ"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "l j. P j. D.",
+   "note": "no visible stop after 'l' and after 'P'; final stop after D uncertain"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "de effractor.",
+   "note": "final stop looks like a colon or blotted period"
+  },
+  {
+   "where": "margin_notes[5].lines[8]",
+   "text": "guee.",
+   "note": "final stop could be a hyphen ('guee-')"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "quinque, alle-",
+   "note": "note o ends in 'alle-' with no continuation visible; continuation (gue) apparently omitted before note p"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "rij, alleguee.",
+   "note": "could be 'allegue.'; ending blotted"
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "the E's and final E are odd/damaged sorts (look blackletter-like); read as E"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "l'intention de ſ'enrichir, ou nuire á ſon prochain {e}. I'en",
+   "note": "first letter damaged: could be 'l'intention' or 'ſ'intention'; accent on 'á' looks acute"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "indifferenment mourir tous crimineux: & ſinguliere-",
+   "note": "'mourir': r damaged, print looks like 'mouiir'; 'indifferenment' sic"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "ou pour le moins, par vn taiſible conſentement des A-",
+   "note": "a hyphen-like mark (probably a risen space) between 'pour' and 'le'"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "theniẽs, miſes en oubli. vne ſeule exceptee, par laquel-",
+   "note": "line-end break sign is a small mid-dot, read as hyphen; punctuation after theniẽs could be ';'"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "le les meurtries eſtoyent condamnez à mort {g}. mais",
+   "note": "sic 'meurtries' (for meurtriers)"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "& ſeuerement punis {h}. & quelquefois iuſqu'a la mort,",
+   "note": "after marker h a raised mid-dot, read as period; 'mort' printed with damaged r (looks 'moit')"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "pilateurs, diæteres, & violateurs de paix {k}. Parmi tous",
+   "note": "a stroke (pen or ink) runs through 's, di' of 'pilateurs, diæteres'"
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "ſon {n}. Il eſt dauantage violateur de la paix: & par ainſi",
+   "note": "mark over the a of 'par' (looks like acute 'pár', possibly stray ink)"
+  },
+  {
+   "where": "blocks[2]",
+   "text": "Et autre cas,",
+   "note": "TEXTE lemma set in larger type; ends with comma, continues_next set false as the lemma is complete on the page"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "c. xviij.",
+   "note": "first letter could be 'c' or 'e'"
+  },
+  {
+   "where": "margin_notes[4].lines[4]",
+   "text": "ſos. D. de pæ.",
+   "note": "'pæ' could be 'pœ' (de pœnis)"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "latore. D. de",
+   "note": "punctuation after 'latore' blurred, possibly 'latore:'"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "quinque, alle-",
+   "note": "note o breaks off at 'alle-' with no continuation (next note p starts on the following line)"
+  },
+  {
+   "where": "margin_notes[11].lines[0]",
+   "text": "l. i. D. de ex",
+   "note": "'ex' at line end blurred, may carry a mark; no hyphen visible"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     0,
+     11
+    ],
+    [
+     36,
+     37
+    ]
+   ],
+   "aligned": true,
+   "a": "ſ'intention de ſ'enrichir, ou nuire à ſon prochain {e}. I'en",
+   "b": "l'intention de ſ'enrichir, ou nuire á ſon prochain {e}. I'en",
+   "text": "l'intention de ſ'enrichir, ou nuire á ſon prochain {e}. I'en",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "l'intention is the word; ſ'intention is no word (a wrong sort for l'). Same line as p127-b0l0-2.; Same line as p127-b0l0-1, so the same choice; à and á (nuire à ſon prochain) translate the same."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "target": "margin_notes[0].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "c. ſi quis ꝓ",
+   "b": "e ſi quis ꝓ",
+   "text": "c. ſi quis ꝓ",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "c. = capitulum before the incipit Si quis propter necessitatem (X 5.18.3); e is a wrong sort."
+  },
+  {
+   "where": "margin_notes[4].lines[4]",
+   "target": "margin_notes[4].lines[4]",
+   "spans": [
+    [
+     11,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "ſos. D. de pa.",
+   "b": "ſos. D. de pæ.",
+   "text": "ſos. D. de pæ.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "pæ. is the abbreviation of pœnis (D. de poenis, as de pœn. in note d2); pa. is no recognisable abbreviation. Translation unaffected."
+  },
+  {
+   "where": "margin_notes[5].lines[8]",
+   "target": "margin_notes[5].lines[8]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "guee.",
+   "b": "guee-",
+   "text": "guee.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "alleguee. ends the note; the hyphen of B would imply a continuation, and none follows (the next note begins l. lege.)."
+  }
+ ]
 }

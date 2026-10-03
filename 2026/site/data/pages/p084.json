@@ -9,11 +9,365 @@
   "image_no": 106,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/106"
  },
- "running_head": null,
+ "running_head": "ARRSET DV",
  "prev": "p083",
  "next": "p085",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "several examples could be cited.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "At the beginning of this discourse several examples of likenesses were recited <sup class=\"mk\" data-key=\"a\">a</sup>; besides which, since the subject presents itself, Gnaeus Pompeius, afterwards called Strabo, father of the great Pompey, had a cook named Menogenes, who, because he squinted, was called by the surname Strabo, and who so vividly resembled his master that in the end the master, by the voice of the people, took on the surname of his cook, and was called Gnaeus Pompeius Strabo, that is to say, the Squinter <sup class=\"mk\" data-key=\"b\">b</sup>. Likewise we read also that Publius Cornelius Lentulus and Quintus Metellus Nepos, being Consuls of Rome in the year 697 from the founding of Rome, were so like two players of comedy — of whom the one was named Spinther, resembling Lentulus, and the other Pamphilus, resembling Metellus — that in the end Lentulus was surnamed Spinther; and Metellus likewise would have taken the surname of Pamphilus, had the surname of Pius not been given him beforehand <sup class=\"mk\" data-key=\"c\">c</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Coras's own Annotation V (p011–p020)",
+     "original": "En l'anno tation v.",
+     "gloss": "The catalogue of doubles: Vibius and Publicius, Scipio and Serapion, Hybreas, Toranius's twins, Sura's fisherman, and the rest."
+    },
+    {
+     "key": "b",
+     "citation": "Pliny, <i>Natural History</i> VII.10 (§54; c. 12 in the old chapter division)",
+     "original": "Pline au liu. vij. c. xij.",
+     "gloss": "Pliny: Pompey's father exchanged his name for that of his cook Menogenes, whose squint he shared; cf. Valerius Maximus IX.14.2."
+    },
+    {
+     "key": "c",
+     "citation": "Pliny, <i>Natural History</i> VII.10 (§54) again, as printed",
+     "original": "Pline aud. lib. vij. c. xij.",
+     "gloss": "<i>Aud.</i> = <i>au d[it]</i>, \"in the said book\". Pliny: Lentulus and Metellus Nepos, consuls together, were surnamed from the actors Spinther and Pamphilus; cf. Valerius Maximus IX.14.4."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "It is easy also to answer the point that the said de Rols, confronted with the accused, refused to swear; for that can change nothing of the truth.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXIIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "The saying of the Philosopher, renewed in our laws, is that for our affirming or denying, the truth changes not at all <sup class=\"mk\" data-key=\"a2\">a2</sup>; which, as Cicero says in a certain place, has always had such power that by any art, device or contrivance of man whatsoever it has never been able to be overturned; and though it have no protector to take up its defence, it defends itself well enough of itself <sup class=\"mk\" data-key=\"b2\">b2</sup>. And in another place: O how great, says he, is the force of truth, which against the wit, ruses and wiles of man defends itself easily, without the help or succour of any other <sup class=\"mk\" data-key=\"c2\">c2</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a2",
+     "citation": "Digest 50.1 (<i>Ad municipalem et de incolis</i>), l. <i>Adsumptio</i> (D. 50.1.6 pr., Ulpian)",
+     "original": "l. aſſumptio. D. ad municipa.",
+     "gloss": "<i>Adsumptio originis, quae non est, veritati non praeiudicat</i> — \"the assumption of an origin one does not have does not prejudice the truth: for no one by lying makes himself of no origin, nor by claiming another's origin acquires it.\""
+    },
+    {
+     "key": "b2",
+     "citation": "Cicero, <i>In Vatinium</i> (the passage on the power of truth has not been located in the speech as it survives; section unverified)",
+     "original": "Ciceron en l'oraiſon con tre vatin.",
+     "gloss": "Coras's paraphrase — truth never overturned by human art, and defending itself without a protector — is close to the <i>Pro Caelio</i> passage cited next; whether he has a distinct <i>In Vatinium</i> sentence in mind could not be confirmed."
+    },
+    {
+     "key": "c2",
+     "citation": "Cicero, <i>Pro Caelio</i> 63",
+     "original": "Ciceron en l'oraiſon pro M. Cœlio.",
+     "gloss": "<i>O magnam vim veritatis, quae contra hominum ingenia, calliditatem, sollertiam contraque fictas omnium insidias facile se per se ipsa defendat!</i> — \"O great power of truth, which against the wit, cunning and cleverness of men, and against the feigned snares of all, easily defends itself by itself.\""
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ſe pourroyent citer pluſieurs exemples."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Au commencement de ce diſcours ont eſté recitez",
+    "pluſieurs exẽples des ſimilitudes {a}. outre leſquels, puis",
+    "que le propos ſe preſente, Cn. Pompee, depuis appelé",
+    "Strabo, pere du grand Pompee, auoit vn cuyſinier, nõ-",
+    "mé Menogenes, lequel par ce qu'il eſtoit louſche, on",
+    "l'appeloit de ſurnom Strabo, ſi viuement reſſemblant",
+    "ſõ maiſtre, qu'en fin le maiſtre, par la voix du peuple, ap-",
+    "porta le ſurnom de ſon cuiſinier, & fut appelé Cn. Pom-",
+    "pee Strabõ. c'eſt à dire le Bigle {b}. De meſmes nous liſons",
+    "auſſi, Publius Cornelius Lentulus, & Quintus Metel-",
+    "lus Nepos, eſtans Conſuls de Rome, en l'annee 697.",
+    "de Rome baſtie: furent ſi ſemblables à deux iouëurs",
+    "de comedie, deſquels l'vn ſe nommoit Spynther, ſem-",
+    "blable à Lentule: & l'autre Pamphyle, ſemblable à Me-",
+    "telle: qu'en fin Lentule fut ſurnõmé Spynther: & Metel-",
+    "le pareillement euſt prins le ſurnom de Pamphyle, ſi",
+    "au parauant ne luy euſt eſté donné le ſurnom de Pie {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il eſt aiſé auſsi de reſpondre, à ce que",
+    "ladite de Rols confrontee au preuenu,",
+    "refuſa iurer, car cela ne peut changer rien",
+    "de la verité."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La ſentence du Philoſophe, refriquee en nos loix",
+    "eſt, que pour noſtre affermer, ou nier, la verité ne ſe",
+    "change point {a2}. laquelle comme dit en quelque lieu",
+    "Ciceron, a eu touſiours tant de puiſſance, que par art,",
+    "engin, ou machine quelconques d'homme, elle n'ha peu",
+    "eſtre rẽuerſee, & bien qu'elle n'aye aucun protecteur,",
+    "qui prenne ſa defenſe, elle ſe defend aſſez de ſoy-meſme",
+    "{b2}. Et en autre lieu, O que la force de la verité dit il, eſt",
+    "grande, laquelle contre l'eſperit, ruſes, & cauteles",
+    "de l'homme ſe defend aiſeement, ſans aide ni ſecours",
+    "d'autruy {c2}."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "En l'anno",
+    "tation v."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Pline au",
+    "liu. vij. c. xij."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Pline aud.",
+    "lib. vij. c. xij."
+   ]
+  },
+  {
+   "key": "a2",
+   "kind": "margin",
+   "lines": [
+    "l. aſſum-",
+    "ptio. D. ad",
+    "municipa."
+   ]
+  },
+  {
+   "key": "b2",
+   "kind": "margin",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon con",
+    "tre vatin."
+   ]
+  },
+  {
+   "key": "c2",
+   "kind": "margin",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon pro",
+    "M. Cœlio."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARRSET DV",
+   "note": "sic: letters printed A R R S E T (for ARREST); second R and S possibly transposed sorts"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ſe pourroyent citer pluſieurs exemples.",
+   "note": "final punctuation: round dot on baseline with a faint raised mark above; could be read as a colon"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "auſſi, Publius Cornelius Lentulus, & Quintus Metel-",
+   "note": "line-end break sign printed as a heavy dot at mid-height rather than a clear hyphen"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "lus Nepos, eſtans Conſuls de Rome, en l'annee 697.",
+   "note": "digits printed letterspaced '6 9 7', closed up"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "au parauant ne luy euſt eſté donné le ſurnom de Pie {c}.",
+   "note": "marker c small and blotted; could be read as e"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "refuſa iurer, car cela ne peut changer rien",
+   "note": "after 'iurer' the print shows a raised apostrophe-like mark, a baseline dot, and a descender below; read as a comma (possibly period, or stray/turned sort)"
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "La ſentence du Philoſophe, refriquee en nos loix",
+   "note": "'refriquee' as printed; possibly misprint (sic)"
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "qui prenne ſa defenſe, elle ſe defend aſſez de ſoy-meſme",
+   "note": "hyphen in 'ſoy-meſme' printed as a raised dot"
+  },
+  {
+   "where": "blocks[6].lines[9]",
+   "text": "de l'homme ſe defend aiſeement, ſans aide ni ſecours",
+   "note": "'aiſeement' as printed (sic)"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "Pline aud.",
+   "note": "key letter printed blotted, looks like e; keyed c to match body marker"
+  },
+  {
+   "where": "margin_notes[5]",
+   "text": "Ciceron en",
+   "note": "key printed as roman 'c.' with period at the start of the note line; alphabet restarts at a in ANNOTAT. LXIIII (keys a2, b2, c2)"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "liu. vij. c. xij.",
+   "note": "'vij'/'xij' printed with ij ligature (ÿ-like); 'c.' blotted, could be e"
+  },
+  {
+   "where": "running_head",
+   "text": "ARRSET DV",
+   "note": "sic: letters printed A R R S E T (transposed S and E), not ARREST"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ſe pourroyent citer pluſieurs exemples.",
+   "note": "final punctuation unclear: a colon-like pair of dots with a further dot on the baseline; read as period, could be ':' or ':.'"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "auſſi, Publius Cornelius Lentulus, & Quintus Metel-",
+   "note": "line-end break sign printed as a heavy dot rather than a hyphen; transcribed '-'"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "lus Nepos, eſtans Conſuls de Rome, en l'annee 697.",
+   "note": "digits printed spaced '6 9 7.' and closed up"
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "La ſentence du Philoſophe, refriquee en nos loix",
+   "note": "sic? 'refriquee' as printed (expected sense unclear, perhaps 'rubriquee'); f vs ſ checked by crossbar, reads f"
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "eſtre rẽuerſee, & bien qu'elle n'aye aucun protecteur,",
+   "note": "'rẽuerſee': a tilde/macron is printed over the e; sic"
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "change point {a2}. laquelle comme dit en quelque lieu",
+   "note": "marker alphabet restarts at a in ANNOTAT. LXIIII.: keys a2, b2, c2"
+  },
+  {
+   "where": "margin_notes[5]",
+   "text": "Ciceron en",
+   "note": "note key printed as roman 'c.' with a period at the start of the line; key c2"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "ptio. D. ad",
+   "note": "'D' is a swash italic capital (Digest sign), printed tight 'D.ad'"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "liu. vij. c. xij.",
+   "note": "printed 'vÿ' and 'xÿ' (ij with dots), set tight 'c.xÿ.'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[2]",
+   "target": "blocks[4].lines[2]",
+   "spans": [
+    [
+     7,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "refuſa iurer, car cela ne peut changer rien",
+   "b": "refuſa iurer',. car cela ne peut changer rien",
+   "text": "refuſa iurer, car cela ne peut changer rien",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "refuſa iurer, car reads cleanly; the apostrophe and doubled stop of iurer',. carry no sense."
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "target": "blocks[6].lines[5]",
+   "spans": [
+    [
+     6,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "eſtre rëuerſee, & bien qu'elle n'aye aucun protecteur,",
+   "b": "eſtre rẽuerſee, & bien qu'elle n'aye aucun protecteur,",
+   "text": "eſtre rẽuerſee, & bien qu'elle n'aye aucun protecteur,",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "rẽuerſee = renuersee (renversée, 'overturned'), the tilde marking the omitted n; rëuerſee with a diaeresis gives no word."
+  }
+ ]
 }

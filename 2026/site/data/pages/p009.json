@@ -285,5 +285,43 @@
    "where": "blocks",
    "note": "counts for the reconciler: 34 printed body lines in 6 blocks (4 large-type TEXTE lines, 1 heading, 8 + 2 + 17 + 3 annotation lines); 4 markers a b c d, each with a margin note; no foot notes; no ornament or decorated initial."
   }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[0].lines[2]",
+   "target": "margin_notes[0].lines[2]",
+   "spans": [
+    [
+     0,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "mitié.",
+   "b": "mitiê.",
+   "text": "mitiê.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "Carson-session: caret-shaped accent printed; diplomatic reading keeps it (cf. Pyrithoê in the body)"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "target": "margin_notes[3].lines[2]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "alexandre.",
+   "b": "lexandre.",
+   "text": "alexandre.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "Carson-session: the print has d'A at the line end and a lowercase a starting the next line; duplicated letter in the print, transcribed as printed"
+  }
  ]
 }

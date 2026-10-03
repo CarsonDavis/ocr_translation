@@ -9,11 +9,376 @@
   "image_no": 124,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/124"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p101",
  "next": "p103",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "ily believed and assured that the prisoner was Martin Guerre their brother,",
+   "continued": true,
+   "notes": [
+    {
+     "key": null,
+     "citation": "A Latin hexameter on death — source not identified",
+     "original": "Illa malis requiem finemq́; laboribus affert.",
+     "gloss": "Perhaps a humanist line or Coras's own; it is not Virgil, Ovid, Horace or Seneca in this form."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXVI"
+  },
+  {
+   "type": "paragraph",
+   "html": "Women have this peculiar to them, says the Philosopher, that they believe lightly, and are easy to be deceived by the ruses and wiles of men <sup class=\"mk\" data-key=\"a\">a</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Aristotle, <i>History of Animals</i> IX, at the opening (IX.1, 608b: the female is \"more easily deceived\", <i>εὐαπατητότερον</i>); the print's <i>de natura auiũ</i>, \"of the nature of birds\", is a wrong sort or slip for <i>animalium</i>",
+     "original": "Ariſtote au cõmencement du ix. liu. de natura auiũ.",
+     "gloss": "Book IX opens with the characters of the two sexes: the female softer, more jealous, more querulous, more shameless, more false of speech, more easily deceived and of better memory."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Such, to be sure, was the nature of the men of old: to deceive the female kind, those credulous hearts <sup class=\"mk\" data-key=\"b\">b</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Publio Fausto Andrelini (<i>Faustus</i>, of Forlì, c. 1462–1518), <i>Livia</i> (the <i>Amores</i>), book IV",
+     "original": "Fauſtus au iiij. de Liuie.",
+     "gloss": "The couplet: <i>Scilicet ista fuit veterum natura virorum, / fallere femineum, credula corda, genus</i>. Andrelini's <i>Livia</i>, an elegiac collection in four books (Paris, 1490), was a school text in France in Coras's youth; the line and its place in book IV are unverified."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "And the Emperor Justinian said: we have sufficiently known the feeble nature of women, subject to a thousand trickeries and circumventions <sup class=\"mk\" data-key=\"c\">c</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "c",
+     "citation": "Novels (the <i>Authenticum</i>), collation 7, the title <i>De aequalitate dotis et propter nuptias donationis</i> (Nov. 97), at the paragraph <i>Quaesitum</i> (chapter unverified)",
+     "original": "P. quæſitũ. de æqua dor. aux nouuelles ſous la collation vij.",
+     "gloss": "<i>De æqua dor.</i> = <i>De aequalitate dotis</i>; the <i>P.</i> is the print's sort for §. Justinian's legislation on the dowry repeatedly pleads the weakness of women and their exposure to deception as its ground."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Joined to the incredible longing which the same de Rols had to recover her husband: things which persuaded her too easily that the prisoner was he, especially as he gave several private and particular tokens; but from the moment she began to perceive the fraud, she wished a hundred thousand times for death, which she would have executed upon herself but for the fear of God.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXVII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Although death is the end of all evils, the rest from all misery, and a strong bulwark against the calamities of this world —",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "It brings to our ills rest, and to our labours an end (<i>Illa malis requiem finemque laboribus affert</i>).",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "And although for that reason it ought not to be dreaded by a man of worth, but rather contemned and despised <sup class=\"mk\" data-key=\"a2\">a2</sup>; and although Numantius, writing to Marcus Cicero, says that one ought often to desire an honest death, by which a man passes beyond innumerable perils and crosses of the inconstant fortune of this miserable world — so far is it from being a thing one ought",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a2",
+     "citation": "Cicero, <i>Letters to his Friends</i> (<i>Epistulae ad familiares</i>), books V and VI — the consolatory letters of 46–45 BC (to Titius, Fam. 5.16; to Torquatus, 6.3–4; to Toranius, 6.21), where death is said to be no evil and even to be wished for in such times",
+     "original": "Ciceron au v. &amp; vj. liure de ſes epiſt.",
+     "gloss": null
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "lement creu, & aſſeuré, que le priſonnier",
+    "eſtoit Martin Guerre leur frere,"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Les femmes ont cela de peculier, dit le Philoſophe,",
+    "qu'elles croyent de leger, & ſont faciles à eſtre deceuës",
+    "par les ruſes & cautelles des hommes {a}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Scilicet iſta fuit, veterum natura virorum,",
+    "Fallere fœmineum, credula corda genus {b}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et l'Empereur Iuſtinien diſoit, nous auons ſuffiſam-",
+    "ment cogneu la foible nature des femmes ſubiectes à",
+    "mille tromperies & circonuentions {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Ioinct l'incroyable enuie qu'icelle de",
+    "Rols auoit de recouurer ſon mary: cho-",
+    "ſes qui luy perſuaderent trop facilement",
+    "que le priſonnier l'eſtoit, meſmes qu'il",
+    "donnoit pluſieurs priuées & particulie-",
+    "res enſeignes: mais déſ lors qu'elle com-",
+    "mẽça ſ'apperceuoir de la fraude, ſouhait-",
+    "ta cent mille fois la mort, laquelle euſt",
+    "ſur ſoy-meſmes executée ſans la crainte",
+    "de Dieu."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Bien que la mort ſoit la fin de tous maux, repos de",
+    "toute miſere, & fort bouleuert contre les calamitez de",
+    "ce monde."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Illa malis requiem finemq́; laboribus affert."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et par ainſi ne doyue eſtre reformidee d'vn homme de",
+    "bien ains pluſtoſt contemnee & meſpriſee {a2} & que Nu",
+    "mantius eſcriuãt à Marc Cicerõ, die qu'on doit ſouuẽt",
+    "deſirer vne mort honneſte, par laquelle l'homme fran-",
+    "chit innombrables perils & trauerſes de l'inconſtante",
+    "fortune de ce monde miſerable: tant ſ'en faut qu'on la"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Ariſtote au",
+    "cõmencement",
+    "du ix. liu. de",
+    "natura auiũ."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Fauſtus au",
+    "iiij. de Liuie."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "P. quæſitũ.",
+    "de æqua dor.",
+    "aux nouuelles",
+    "ſous la colla-",
+    "tion vij."
+   ]
+  },
+  {
+   "key": "a2",
+   "kind": "margin",
+   "lines": [
+    "Ciceron au",
+    "v. & vj. liure",
+    "de ſes epiſt."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Scilicet iſta fuit, veterum natura virorum,",
+   "note": "initial v of 'veterum' and 'virorum' is the large italic swash v (looks like a capital V); transcribed lowercase"
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "que le priſonnier l'eſtoit, meſmes qu'il",
+   "note": "'priſonnier': second-last letter looks like c (priſonnicr), probably a poorly inked e; possible wrong sort"
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "donnoit pluſieurs priuées & particulie-",
+   "note": "'particulie-': the 'li' looks like 'h' (particuhe-), broken or wrong sort"
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "res enſeignes: mais déſ lors qu'elle com-",
+   "note": "'déſ': word-final s appears to be a long s; could be round s ('dés')"
+  },
+  {
+   "where": "blocks[9].lines[0]",
+   "text": "Illa malis requiem finemq́; laboribus affert.",
+   "note": "mark over the q of 'finemq' read as an acute (combining U+0301) before the semicolon sign; 'malis' final letter could be read 'malu'"
+  },
+  {
+   "where": "blocks[10].lines[0]",
+   "text": "Et par ainſi ne doyue eſtre reformidee d'vn homme de",
+   "note": "sic: 'doyue' (for 'doiue') as printed"
+  },
+  {
+   "where": "blocks[10].lines[1]",
+   "text": "bien ains pluſtoſt contemnee & meſpriſee {a2} & que Nu",
+   "note": "'bien': the i is damaged (looks like 'b:en'); marker alphabet restarts at a on this page, keyed a2"
+  },
+  {
+   "where": "blocks[10].lines[2]",
+   "text": "mantius eſcriuãt à Marc Cicerõ, die qu'on doit ſouuẽt",
+   "note": "sic: 'die' (for 'dit') as printed"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Fauſtus au",
+   "note": "reads 'Fauſtus' (us-ligature ending); could be 'Faſtus'/'Faſtorum' intended (Ovid's Fasti); transcribed as seen"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "ſous la colla-",
+   "note": "'la' looks like 'ta' in the print; possible wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "lement creu, & aſſeuré, que le priſonnier",
+   "note": "no preceding page context available; continues_prev assumed from the broken word 'lement'"
+  },
+  {
+   "where": "blocks",
+   "note": "spacing normalized per §1: print sets 'auonsſuffiſam-', 'creu,&', 'leger,&' tight; running head and the three headings are in spaced capitals, closed up. The marker alphabet restarts at 'a' under ANNOTAT. LXXVII, so the second 'a' is keyed a2."
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "res enſeignes: mais déſ lors qu'elle com-",
+   "note": "the word read 'dés' ends in a tall letter that looks like long s (or possibly l) rather than round s; transcribed 'déſ' as seen. sic?"
+  },
+  {
+   "where": "blocks[10].lines[2]",
+   "text": "mantius eſcriuãt à Marc Cicerõ, die qu'on doit ſouuẽt",
+   "note": "'die' appears printed with final e where sense wants 'dit'; wrong sort? sic. Tildes on 'eſcriuãt', 'Cicerõ', 'ſouuẽt' as seen."
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Scilicet iſta fuit, veterum natura virorum,",
+   "note": "italic swash lowercase v in 'veterum' and 'virorum' (not capitals); 'iſta' first letter may be dotless i."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Fauſtus au",
+   "note": "the ending of 'Fauſtus' is small/blotted italic; could be 'Fauſtu' with abbreviation. 'Liuie' read as printed."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "de æqua dor.",
+   "note": "'æqua' read with ae ligature; 'dor.' could be 'dot.'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "P. quæſitũ.",
+   "note": "swash italic P = paragraph sign per house ruling; the key 'c' is small and blotted."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[9].lines[0]",
+   "target": "blocks[9].lines[0]",
+   "spans": [
+    [
+     19,
+     27
+    ]
+   ],
+   "aligned": true,
+   "a": "Illa malis requiem finemq́; laboribus affert.",
+   "b": "Illa malis requiem finemq; laboribus affert.",
+   "text": "Illa malis requiem finemq́; laboribus affert.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "target": "margin_notes[2].lines[3]",
+   "spans": [
+    [
+     5,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "ſous la colla-",
+   "b": "ſous ta colla-",
+   "text": "ſous la colla-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "ſous la collation vij = 'under the seventh collation' of the Authenticum; ta is a misread of l as t and makes no sense."
+  }
+ ]
 }

@@ -9,11 +9,304 @@
   "image_no": 123,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/123"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p102",
  "next": "p104",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "to flee <sup class=\"mk\" data-key=\"b\">b</sup>; and although Saint Paul burned with a continual desire and ardent zeal to attain to the heavenly inheritance, and to be separated from the body, to dwell with Jesus Christ <sup class=\"mk\" data-key=\"c\">c</sup>: nevertheless, to wish at certain times, and for some vexation that befalls, for the last sigh and period of one's life, is the speech of a person too much subject to her passions, and, for the rest, ill instructed in the law of God; of whom, being his vassals and most bounden servants, we must wait upon all his commandments. And, as Hegesippus said, we must not wish to depart from this world sooner, nor to remain in it longer, than the good God who has given us being and life wills and commands it. And it is not lawful to cut the thread of life, or to dissolve the soul from the body, for any other than him who joined it. And just as Plato says that those who by authority of the magistrate are made prisoners must not go out of the prison before the magistrate by whose authority they were put in orders it, so neither must we, without the will of the Lord God who has given us the soul, drive it from us, draw it out, or put it forth from the prison of this mortal and miserable body <sup class=\"mk\" data-key=\"c2\">c2</sup>. Saint Augustine in a certain place occupies and labours himself greatly to show the great fault committed by those who desire, and still worse those who execute, a voluntary death upon their own persons, singularly when they do it for fear of punishment or of infamy <sup class=\"mk\" data-key=\"d\">d</sup>. Which before him Aristotle had learnedly discoursed, saying that it is not the act of a constant and virtuous man, but rather of a timid and cowardly one, to slay oneself with one's own hands, and to make oneself the cruel minister of one's own death, in order to flee punishment, poverty, or some other discontent <sup class=\"mk\" data-key=\"e\">e</sup>. I know well that in time past Hannibal, Cato, Cassius, Brutus, Nero, Diocletian, Sardanapalus, Cleopatra, and several others, so as not to fall into the hands of their enemies, killed themselves, or had themselves killed by their servants. And others have done no less from an impatience of grief, wearied by the martyrdom of some sad and lamentable passion <sup class=\"mk\" data-key=\"f\">f</sup>: as the Emperor Hadrian, and Silius Italicus, an excellent poet, both overcome by incredible torments of sickness; as",
+   "continued": true,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Cicero, <i>Letters to his Friends</i>, book XI as cited; the correspondent \"Numantius\" is not a name in the collection — book XI holds the letters of Decimus Brutus and of C. Matius, and Matius's letter (Fam. 11.28) on his contempt of death is the likeliest referent (unverified)",
+     "original": "Ciceron au liure xi. deſd. epiſtres.",
+     "gloss": "<i>Deſd.</i> = <i>desdites</i>, \"of the said\" letters."
+    },
+    {
+     "key": "c",
+     "citation": "Philippians 1 (1:23: \"having a desire to depart, and to be with Christ\")",
+     "original": "Philippenſ. c. i.",
+     "gloss": null
+    },
+    {
+     "key": "c2",
+     "citation": "Plato, <i>Phaedo</i> (61c–62c)",
+     "original": "Platon au Phædon.",
+     "gloss": "Socrates: a man must not take his own life until God sends some necessity, as now to me; we are in a kind of guard-post (<i>φρουρά</i>), and the gods are our keepers. Coras turns the image into the prisoner who may not leave the magistrate's prison unbidden. The note is printed with the key <i>c</i>, repeating the key of the previous note; the transcription gives it <i>c2</i>."
+    },
+    {
+     "key": "d",
+     "citation": "Augustine, <i>The City of God</i>, book I, chapters 17 to 28 (1.17–27 treat suicide: the Christian women who killed themselves to escape rape, Lucretia, Cato, and the rule that no one may kill himself to avoid another's sin or his own shame)",
+     "original": "S-Auguſtin au i. liure de ciuita. Dei c. xvij. inſque au xxviij.",
+     "gloss": "The <i>Loys Viues</i> of the case file §7 is the commentator on this book; Coras here cites Augustine himself."
+    },
+    {
+     "key": "e",
+     "citation": "Aristotle, <i>Nicomachean Ethics</i>, book IV chapter 7 as printed; the passage is III.7 (1116a12–15): to die to escape poverty or love or anything painful is the mark not of a brave man but of a coward (cf. V.11, 1138a, on the suicide's injustice to the city)",
+     "original": "Ariſtote au iiij. des Ethiques c. vij.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Digest 48.21.3 (<i>De bonis eorum qui ante sententiam vel mortem sibi consciverunt vel accusatorem corruperunt</i>, l. 3, Marcian)",
+     "original": "l. iii. D. de bon. eo. qui mort. ſibi cõſ.",
+     "gloss": "Those who kill themselves <i>taedio vitae vel impatientia doloris aut iactationis</i> — \"from weariness of life or impatience of pain or from vainglory\" — keep their testament and their goods pass to their heirs, as against those who die to escape a pending charge; Coras's <i>impatience de douleur</i> is the law's phrase."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "doiue fuir {b}. Et que ſainct Paul, bruſlant d'vn deſir cõ-",
+    "tinuel, ardent zele de paruenir au celeſte heritage, &",
+    "d'eſtre ſeparé du corps, pour habiter auec Ieſus Chriſt {c}:",
+    "toutesfois ſouhaitter en certains temps, & pour quel",
+    "que faſcherie occurrente, le dernier ſouſpir & periode",
+    "de ſa vie, eſt parole d'vne perſonne, ſuiette par trop à",
+    "ſes paſſions: & au reſte, mal inſtituee en la loy de Dieu.",
+    "duquel nous eſtans vaſſaux, & ſeruiteurs treſ-obligez,",
+    "deuons attendre en tous ſes commandemens. & cõme",
+    "diſoit Egeſippe, ne vouloir partir pluſtoſt de ce mon-",
+    "de, ne y demeurer auſſi plus longuement que le bon",
+    "Dieu qui nous a donné l'eſtre & la vie, le veut & le",
+    "commande. & n'eſt loyſible trencher le filet de la vie,",
+    "ou diſſoudre l'ame du corps, à autre qu'à celuy qui l'a",
+    "conioinre. & tout ainſi dit Platon, que ceux qui par au-",
+    "thorité du magiſtrat ſont faits priſonniers, ne ſ'en doy-",
+    "uent pluſtoſt aller de la priſon, que le magiſtrat par",
+    "authorité de qui ils ont eſté mis dedans ne l'ordonne:",
+    "ne deuons nous auſſi ſans le vouloir du ſeigneur Dieu",
+    "qui nous a donné l'ame, la chaſſer de nous, la tirer, ni",
+    "ſortit hors de la priſon de ce corps mortel & miſera-",
+    "ble {c2}. Sainct Auguſtin en quelque lieu ſ'occupe & tra-",
+    "uaille fort a monſtrer la faute grande que commettẽt",
+    "ceux qui deſirent, & encores pis qui executẽt vne mort",
+    "volõtaire en leurs perſonnes. ſingulierement quand ils",
+    "le font pour crainte de peine, ou d'infamie {d}. Ce que de",
+    "uant luy Ariſtote auoit doctement diſcouru, diſant que",
+    "ce n'eſt point acte d'vn homme conſtant & vertueux,",
+    "mais pluſtoſt d'vn craintif, & laſche, pour fuir peine.",
+    "pauureté, ou pour quelque autre meſcontentement,",
+    "ſ'occir de ſes propres mains, & ſe rendre cruel miniſtre",
+    "de ſa mort {e}. Ie ſçay bien que le temps paſſé, Annibal,",
+    "Caton, Caſſius, Brutus, Nerõ, Diocletian, Sardanapale,",
+    "Cleopatra, & pluſieurs autres, pour ne tõber és mains",
+    "de leurs ennemis, ſe ſont eux-meſme tuez, ou fait tuer",
+    "à leurs miniſtres Et d'autres, n'en ont pas moius fait",
+    "par vne impatience de douleur, ennuyez du martire de",
+    "quelque triſte & lamentable paſſion {f}. cõme Adrian",
+    "l'Empereur, & Syllius Italicus, excellent pœte, tous",
+    "deux ſurmõtez d'incroiables tormẽs de maladie, com-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Ciceron au",
+    "liure xi. deſd.",
+    "epiſtres."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Philippenſ.",
+    "c. i."
+   ]
+  },
+  {
+   "key": "c2",
+   "kind": "margin",
+   "lines": [
+    "Platon au",
+    "Phædon."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "S-Auguſtin",
+    "au i. liure de",
+    "ciuita. Dei c.",
+    "xvij. inſque",
+    "au xxviij."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Ariſtote au",
+    "iiij. des Ethi-",
+    "ques c. vij."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. iii. D. de",
+    "bon. eo. qui",
+    "mort. ſibi cõſ."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "Ciceron au",
+   "note": "the key letter printed before 'Ciceron' looks like c, not b; body has marker b (line 1) with no b-keyed note, so this note (first in margin, beside line 2) is keyed b here. Printer's key letter reads c"
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "text": "ble {c2}. Sainct Auguſtin en quelque lieu ſ'occupe & tra-",
+   "note": "marker printed as c a second time on the page (after 'Chriſt c:'); its note 'Platon au Phædon.' is also keyed c in the margin, keyed c2 here. Expected alphabet would give d; sic"
+  },
+  {
+   "where": "margin_notes[1]",
+   "text": "Philippenſ.",
+   "note": "key letter c is followed by a small ';'-like mark before 'Philippenſ.'; treated as part of the key/stray, not transcribed"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "liure xi. deſd.",
+   "note": "'deſd.' as printed (ſ + d with a period); expected 'des' — possibly a wrong sort or an abbreviation; ink heavy"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "conioinre. & tout ainſi dit Platon, que ceux qui par au-",
+   "note": "sic? the letter between 'conioin' and 'e' reads as r (expected 'conioincte'/'coniointe'); only one letter slot visible; could be a damaged t"
+  },
+  {
+   "where": "blocks[0].lines[20]",
+   "text": "ſortit hors de la priſon de ce corps mortel & miſera-",
+   "note": "sic: 'ſortit' for 'ſortir', final letter is a t as printed"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "à leurs miniſtres Et d'autres, n'en ont pas moius fait",
+   "note": "sic: 'moius' (u for n, wrong sort); no stop printed after 'miniſtres'"
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "mais pluſtoſt d'vn craintif, & laſche, pour fuir peine.",
+   "note": "the dot after 'peine' is small and followed by a second faint dot leading into the margin; may be a stray mark rather than a period"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "duquel nous eſtans vaſſaux, & ſeruiteurs treſ-obligez,",
+   "note": "the sign between 'treſ' and 'obligez' is a short raised hyphen followed by a space; closed up as 'treſ-obligez'"
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "deux ſurmõtez d'incroiables tormẽs de maladie, com-",
+   "note": "mark over e of 'tormẽs' read as a tilde; could be an acute ('tormés')"
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "text": "Caton, Caſſius, Brutus, Nerõ, Diocletian, Sardanapale,",
+   "note": "'Nerõ' set with a smaller N (small capitals?)"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "Phædon.",
+   "note": "second letters read as æ ligature; could be 'Phadon' / 'Phedon'"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "xvij. inſque",
+   "note": "'inſque' as printed (expected 'vſque'); first letters read i-n"
+  },
+  {
+   "where": "margin_notes[5].lines[2]",
+   "text": "mort. ſibi cõſ.",
+   "note": "last letter of 'ſibi' is blotted, could read 'ſibs'"
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Ciceron au",
+   "note": "key letter printed in the margin looks like 'c', not 'b'; body marker at 'fuir' reads as b (blotted). Keyed b here; the page then has three c-looking keys (Ciceron, Philippiens, Platon)"
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "text": "ble {c2}. Sainct Auguſtin en quelque lieu ſ'occupe & tra-",
+   "note": "marker printed as 'c' a second time (after 'Chriſt c'); margin note 'Platon au Phædon' also keyed 'c'. Printer's duplicate; keyed c2 here to keep keys unique"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "Phædon.",
+   "note": "could be 'Phadon.'; second letter blotted, æ or a"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "conioinre. & tout ainſi dit Platon, que ceux qui par au-",
+   "note": "sic? reads 'conioinre' (expected 'conioincte'/'coniointe'); letter before final e could be a damaged t"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "duquel nous eſtans vaſſaux, & ſeruiteurs treſ-obligez,",
+   "note": "hyphen in 'treſ-obligez' printed as a raised dot/short stroke with space after"
+  },
+  {
+   "where": "blocks[0].lines[20]",
+   "text": "ſortit hors de la priſon de ce corps mortel & miſera-",
+   "note": "sic: 'ſortit' for 'ſortir'"
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "mais pluſtoſt d'vn craintif, & laſche, pour fuir peine.",
+   "note": "period after 'peine' faint; could be a stray mark, or a comma"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "à leurs miniſtres Et d'autres, n'en ont pas moius fait",
+   "note": "sic: 'moius' (turned n for 'moins'); no punctuation printed after 'miniſtres'"
+  },
+  {
+   "where": "blocks[0].lines[39]",
+   "text": "deux ſurmõtez d'incroiables tormẽs de maladie, com-",
+   "note": "'tormẽs': mark over e could be tilde or acute ('tormés'); 'incroiables' c blotted"
+  },
+  {
+   "where": "margin_notes[3].lines[3]",
+   "text": "xvij. inſque",
+   "note": "sic: 'inſque' for 'uſque'; also 'S-Auguſtin' printed with hyphen"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "doiue fuir {b}. Et que ſainct Paul, bruſlant d'vn deſir cõ-",
+   "note": "line-end hyphen printed as a dot-like mark"
+  }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[1].lines[0]",
+   "target": "margin_notes[1].lines[0]",
+   "spans": [
+    [
+     0,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "Philippenſ.",
+   "b": "Philippexſ.",
+   "text": "Philippenſ.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Philippenſ. = Philippians (c. i, the chapter cited); Philippexſ. is no word."
+  }
+ ]
 }

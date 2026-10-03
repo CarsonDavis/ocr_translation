@@ -143,7 +143,8 @@ function render() {
   const d = it.decision;
   const st = $("#state");
   st.className = d && decided(it) ? d.choice : "";
-  st.textContent = d ? `decided: ${LABEL[d.choice] || d.choice}` + (d.choice === "neither" ? ` → ${JSON.stringify(d.text)}` : "") : "";
+  st.textContent = d ? `decided: ${LABEL[d.choice] || d.choice}` + (d.choice === "neither" ? ` → ${JSON.stringify(d.text)}` : "")
+    + (d.by && d.by !== "carson" ? ` [${d.by}]` : "") : "";
   closeEditor();
 }
 
@@ -195,7 +196,7 @@ function send(body, onError) {
 function decide(choice, text) {
   const it = state.queue.items[state.idx];
   const before = it.decision;
-  it.decision = { choice, text };
+  it.decision = { choice, text, by: "carson" };
   const page = state.page;
   state.history.push({ page, idx: state.idx });
   const sent = send({ page, item: it.id, choice, text }, () => { it.decision = before; });

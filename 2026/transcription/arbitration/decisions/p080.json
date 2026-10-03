@@ -1,0 +1,53 @@
+{
+ "page": "p080",
+ "decisions": {
+  "b-029": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-e-2": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "c. ij. = capitulum, 'the second chapter Qualiter [et quando]' (X 5.1.24); the unread sort in B has no better candidate."
+  },
+  "n-e-3": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "Balde = Baldus, the authority cited on l. j. C. qui num. tutel.; B only leaves the first letter unread."
+  },
+  "n-f-1": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "en ſes deſiſions = 'in his Decisions' (Gui Pape); reading A is complete and legible, B leaves a letter unread; one line, one choice with p080-m5l1-2.; deſi-ſions/desi-ſions are both decisions; same line as p080-m5l1-1, so the same choice (A), reading A being the complete line."
+  },
+  "n-i-1": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-k-0": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "nihilominus is the chapter's incipit (c. Nihilominus, repeated in note ſ); nibilominus is a wrong sort (h read as b)."
+  },
+  "n-k-1": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-k-2": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "iij. q. ix. = Causa 3, quaestio 9 of the Decretum; Causa 2 has only eight quaestiones, so ij. q. ix. cannot exist."
+  }
+ }
+}

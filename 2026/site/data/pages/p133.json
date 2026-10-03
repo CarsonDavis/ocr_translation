@@ -9,11 +9,565 @@
   "image_no": 153,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/153"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p132",
  "next": "p134",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "or set out the crimes which, for their enormity, deserve the prodigy of such a penalty, this is committed and left to the discretion of the judge <sup class=\"mk\" data-key=\"ſ\">ſ</sup>: who, if he sees it expedient to exercise the sword of justice upon the carcass of a man executed to death, may justly and indubitably do so <sup class=\"mk\" data-key=\"t\">t</sup>; singularly in France, where the judges take cognizance of crimes only extraordinarily <sup class=\"mk\" data-key=\"u\">u</sup>. Wherefore it ought not to be found so novel or strange that, in horror and execration of a crime, the body of a dead person should be punished <sup class=\"mk\" data-key=\"x\">x</sup>. As by the same reason also the law sometimes commands, in detestation of a horrible crime of brutish sodomy, that the brute beasts be punished and cruelly put to death <sup class=\"mk\" data-key=\"y\">y</sup>. And on this subject our canons (much milder and more gracious in penalties than the civil laws) have nevertheless willed that if a religious who has made a vow of poverty is discovered after his death to have possessed any property as his own, his body must be dug out of the sepulchre and thrown on a dunghill, or else into a privy <sup class=\"mk\" data-key=\"z\">z</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "ſ",
+     "citation": "Digest 47.18.1 (<i>De effractoribus et expilatoribus</i>, l. 1, Ulpian), § 1",
+     "original": "l. j.⟨alt:j⟩ P. i. D. de effractor.",
+     "gloss": "Since all the cases cannot easily be distinguished in advance, the penalty is left to the judge's discretion (<i>arbitrium</i>) according to the circumstances."
+    },
+    {
+     "key": "t",
+     "citation": "Baldus, Jason de Mayno and Philippus Decius on Code 6.22 (<i>Qui testamenta facere possunt</i>), l. 2",
+     "original": "Balde Iaſon &amp; Dec.⟨alt:Dec",
+     "gloss": "?].⟩ en la l. ij. C. qui teſt.⟨alt:teſt⟩ fac. poſſ. [The same law as at {l}, with the doctors who allow the judge to punish the corpse. <i>Dec.</i> — Philippus Decius (1454–1535), under whom Coras took his doctorate (case file §3)."
+    },
+    {
+     "key": "u",
+     "citation": "Digest 48.19.13 (<i>De poenis</i>, l. <i>Hodie</i>, Ulpian)",
+     "original": "l. hodie. D. de pœn.",
+     "gloss": "Today the judge who takes cognizance of a crime extraordinarily may pass what sentence he will, heavier or lighter, within reason — the text behind \"the judges take cognizance of crimes only extraordinarily\" (cf. annot-012)."
+    },
+    {
+     "key": "x",
+     "citation": "Digest 48.24 (<i>De cadaveribus punitorum</i>), l. 2 (D. 48.24.2); Accursius at the § <i>Interdum</i> cited above ({p})",
+     "original": "l. ij.⟨alt:ij⟩ D. de ca dauer. punito. Accurſe au P. interdum, alle gué.",
+     "gloss": "The bodies of the executed are given to kinsmen for burial on request — but not those condemned for treason, whose corpses are refused burial."
+    },
+    {
+     "key": "y",
+     "citation": "Exodus, chapter 22 (Exodus 22:19); Leviticus, chapter 20 (Leviticus 20:15–16); Decretum of Gratian, Part II, Causa 15, quaestio 1, c. <i>Mulier</i>, and Causa 23, quaestio 5, c. <i>Reos</i>, § 1 — chapter numbers unverified",
+     "original": "Exode c. xxij. Leuitique c. xx. ca mulier. xv. q. i. c. reos. P. i. xxiij. q. v.",
+     "gloss": "Leviticus 20:15–16: whoever lies with a beast shall be put to death, \"and ye shall slay the beast\"."
+    },
+    {
+     "key": "z",
+     "citation": "Decretals of Gregory IX, X 3.35 (<i>De statu monachorum et canonicorum regularium</i>), c. <i>Cum ad monasterium</i> (X 3.35.6, Innocent III), § 1",
+     "original": "cum ad mo niſterium. P. j. de ſta. mon.",
+     "gloss": "A monk found at his death to have kept property of his own is to be denied Christian burial and buried in a dunghill (<i>in sterquilinio</i>); the print's <i>moniſterium</i> is <i>monaſterium</i>."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Adjudges the goods of the said du Tilh to the daugh-",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "ter procreated by his doings and of the said",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "de Rols.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XCV"
+  },
+  {
+   "type": "paragraph",
+   "html": "Above, we have sufficiently, as it seems to me, proved <sup class=\"mk\" data-key=\"a\">a</sup> that this daughter (now the sole survivor of the two children procreated by the doings of the said du Tilh and de Rols) was legitimate, by reason of the error and good faith of the said de Rols <sup class=\"mk\" data-key=\"b\">b</sup>; as also, in like manner, we say of the children who should be born of a priest whom the woman had married, thinking that he was a lay person and fit to marry, that for the ignorance and good faith of the woman they are legitimate <sup class=\"mk\" data-key=\"c\">c</sup>. Wherefore it must not be doubted that such children succeed to father, mothers and their other kinsfolk <sup class=\"mk\" data-key=\"d\">d</sup>, and not only in rural and patrimonial goods, but also in fiefs and other noble goods <sup class=\"mk\" data-key=\"e\">e</sup>. And, to be brief, such children must in all and every respect be deemed no less legitimate than if they had been procreated, conceived and begotten of a just and legitimate",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Coras's Annotation XI above (cross-reference to annot-011)",
+     "original": "En l'annota tion xi.",
+     "gloss": "Where the legitimacy of the children born to Bertrande and the impostor is argued from her good faith."
+    },
+    {
+     "key": "b",
+     "citation": "Decretals, X 4.17 (<i>Qui filii sint legitimi</i>), c. 2, c. <i>Referente</i> and c. <i>Ex tenore</i> (cf. X 4.17.14; chapter numbers unverified); the Gloss on X 4.7 (<i>De eo qui duxit in matrimonium quam polluit per adulterium</i>), c. 1; X 4.3 (<i>De clandestina desponsatione</i>), c. <i>Cum inhibitio</i>, the last chapter of the title (X 4.3.3, Lateran IV c. 51); Bartolus on Digest 1.5 (<i>De statu hominum</i>), the fragment cited as l. <i>Paulus</i> — not identified",
+     "original": "c. ij. c. referen te. c. ex tenore qui fil ſint legi. Glo. c. i. de eo qui dux. &amp; au c. cum inhi bitio. c. fi. de cland. deſperſ. Bar. en la l. Paulus D. de ſta. homi",
+     "gloss": "The same canons as annot-011 {a} and {c}: the good faith of one parent makes the children of a putative marriage legitimate."
+    },
+    {
+     "key": "c",
+     "citation": "Baldus on Code 5.5 (<i>De incestis et inutilibus nuptiis</i>), l. <i>Qui contra</i> (fragment number unverified, as at annot-011 {b})",
+     "original": "Bal. in l. qui contra. C. de inceſt. nup.",
+     "gloss": "The case of the woman who marries a priest believing him a layman, as at annot-011."
+    },
+    {
+     "key": "d",
+     "citation": "Decretals, X 4.17, c. <i>Ex tenore</i>, cited above; the Gloss on the Decretum of Gratian, Part II, Causa 33, quaestio 1 (as printed), c. <i>In captivitate</i> — chapter not identified",
+     "original": "c. ex tenore. alleg",
+     "gloss": "?]e gl. au c. in captiuita te xxxiij. q. i. [Such children succeed to their parents and kin."
+    },
+    {
+     "key": "e",
+     "citation": "Baldus on the <i>Libri feudorum</i>, title <i>Si de feudo fuerit controversia inter dominum et agnatos vasalli</i> (LF 2.26), c. 1, § <i>Naturales</i>",
+     "original": "Bal. au c. i. P. naturales. Si de feu fue contro. inter do. &amp; agna.⟨alt:agn.⟩",
+     "gloss": "On which children may succeed to a fief; Baldus's commentary on the Feuda."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ne diſcourir les crimes, qui pour leur enorminé, meri-",
+    "tent le prodige de telle peine: cela eſt commis & laiſſé",
+    "à l'arbitre de iuge {ſ}. lequel ſ'il voit eſtre expedient, ex",
+    "ercer le glaiue de iuſtice ſur la charongne d'vn executé",
+    "à mort, il le peut iuſtement & indubitablement faire {t}.",
+    "ſingulierement en France, où les iuges ne cognoiſſent",
+    "des crimes, qu'extraordinairement {u}. Dont ne doit pas",
+    "eſtre trouué ſi nouueau. ni eſtrãge, qu'en horreur, & exe",
+    "cration d'vn crime, le corps d'vne perſonne morte ſoit",
+    "puni {x}. Comme par meſme raiſon auſſi quelquesfois la",
+    "loy commande, en deteſtation d'vn horrible crime, de",
+    "ſodomie brutale puni, & faire cruellement mourir les",
+    "beſtes brutes {y}. Et à ce propos, nos canons (plus doux",
+    "& gracieux beaucoup en peines, que les loix ciuiles)",
+    "ont neantmoins voulu, que ſi vn religieux ayãt fait vœu",
+    "de pauureté, eſt deſcouuert apres ſa mort auoir poſſedé",
+    "bien aucũ en proprieté, ſon corps doit eſtre deterré du",
+    "ſepulchre, & ietté ſur vn fumier, ou biẽ dans vn priué {z}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Adiuge les biens dudit du Tilh, a la fil-"
+  },
+  {
+   "type": "heading",
+   "text": "le, procreée de ſes œuures, & de ladite"
+  },
+  {
+   "type": "heading",
+   "text": "de Rols."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XCV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ci deſſus, nous auons ſuffiſamment, ce me ſemble",
+    "prouué {a}, que ceſte fille (ores des deux enfans procreez",
+    "des œuures deſdits du Tilh, & de Rols, ſeule ſuruiuãte)",
+    "eſtoit legitime, pour raiſon de l'erreur, & bonne foy de",
+    "ladite de Rols {b}. comme auſſi en ſemblable, nous diſons",
+    "des enfans qui ſeroient nez d'vn preſtre, que la femme",
+    "auroit eſpouſé, penſant que ce fuſt vne perſonne laye, &",
+    "apte à ſe marier: que pour l'ignorance & bonne foy de",
+    "la femme, ſont legitimes {c}. Dont ne faut douter, que",
+    "tels enfans ne ſuccedent à pere, meres, & autres leurs",
+    "parens {d}, & non ſeulement és biens ruraux, & patrimo",
+    "niaux: mais encore és fiefz, & autres biens nobles {e}. &",
+    "pour faire brief, tels enfans doyuent eſtre en tout &",
+    "par tout eſtimez, non moins legitimes, que ſ'ils euſſent",
+    "eſté procree, conceus, & engendrez de iuſte, & legitime"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "ſ",
+   "kind": "margin",
+   "lines": [
+    "l. j. P. i. D. de",
+    "effractor."
+   ]
+  },
+  {
+   "key": "t",
+   "kind": "margin",
+   "lines": [
+    "Balde Iaſon",
+    "& Dec. en la",
+    "l. ij. C. qui teſt.",
+    "fac. poſſ."
+   ]
+  },
+  {
+   "key": "u",
+   "kind": "margin",
+   "lines": [
+    "l. hodie. D.",
+    "de pœn."
+   ]
+  },
+  {
+   "key": "x",
+   "kind": "margin",
+   "lines": [
+    "l. ij. D. de ca",
+    "dauer. punito.",
+    "Accurſe au P.",
+    "interdum, alle",
+    "gué."
+   ]
+  },
+  {
+   "key": "y",
+   "kind": "margin",
+   "lines": [
+    "Exode c. xx-",
+    "ij. Leuitique c.",
+    "xx. ca mulier.",
+    "xv. q. i. c. reos.",
+    "P. i. xxiij. q. v."
+   ]
+  },
+  {
+   "key": "z",
+   "kind": "margin",
+   "lines": [
+    "cum ad mo",
+    "niſterium. P.",
+    "j. de ſta. mon."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "En l'annota",
+    "tion xi."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "c. ij. c. referen",
+    "te. c. ex tenore",
+    "qui fil ſint le-",
+    "gi. Glo. c. i. de",
+    "eo qui dux. &",
+    "au c. cum inhi",
+    "bitio. c. fi. de",
+    "cland. deſperſ.",
+    "Bar. en la l.",
+    "Paulus D. de",
+    "ſta. homi"
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Bal. in l. qui",
+    "contra. C. de",
+    "inceſt. nup."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "c. ex tenore.",
+    "alleg[?]e gl. au",
+    "c. in captiuita",
+    "te xxxiij. q. i."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Bal. au c. i.",
+    "P. naturales.",
+    "Si de feu fue",
+    "contro. inter",
+    "do. & agna."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "ne diſcourir les crimes, qui pour leur enorminé, meri-",
+   "note": "sic: 'enorminé' as printed (expected 'enormité'); wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "à l'arbitre de iuge {ſ}. lequel ſ'il voit eſtre expedient, ex",
+   "note": "the tall descending glyph after 'iuge' read as italic marker ſ (its note stands beside this line); could instead be a word-final long s ('iugeſ.') with no marker, in which case the ſ note's marker is missing"
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "l. j. P. i. D. de",
+   "note": "key glyph is a tall italic letter resembling 'l'; read as italic long s key ſ from the alphabet sequence (… ſ t u x y z)"
+  },
+  {
+   "where": "margin_notes[1]",
+   "text": "Balde Iaſon",
+   "note": "key glyph small, read as italic 't'; body marker after 'faire' likewise read as t"
+  },
+  {
+   "where": "blocks[6].lines[7]",
+   "text": "apte à ſe marier: que pour l'ignorance & bonne foy de",
+   "note": "'ſe' may be printed 'le' (first letter unclear)"
+  },
+  {
+   "where": "blocks[6].lines[13]",
+   "text": "par tout eſtimez, non moins legitimes, que ſ'ils euſſent",
+   "note": "'que' looks like 'oue'/'aue' in print (possible wrong sort); punctuation after 'eſtimez' could be comma or period"
+  },
+  {
+   "where": "blocks[6].lines[14]",
+   "text": "eſté procree, conceus, & engendrez de iuſte, & legitime",
+   "note": "sic: 'procree' without final z as it appears; faint"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "dauer. punito.",
+   "note": "'punito' could be 'puniro'"
+  },
+  {
+   "where": "margin_notes[7].lines[6]",
+   "text": "bitio. c. fi. de",
+   "note": "'fi.' could be 'ſi.'"
+  },
+  {
+   "where": "margin_notes[7].lines[7]",
+   "text": "cland. deſperſ.",
+   "note": "as printed; expected 'deſponſ.'; possible sic"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "qui fil ſint le-",
+   "note": "'fil' as read (expected 'filii'); line-end mark faint"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "alleg[?]e gl. au",
+   "note": "damaged character, probably 'allegue'"
+  },
+  {
+   "where": "margin_notes[10].lines[2]",
+   "text": "Si de feu fue",
+   "note": "possible line-end hyphen or point after 'fue' (faint)"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "à l'arbitre de iuge {ſ}. lequel ſ'il voit eſtre expedient, ex",
+   "note": "after 'iuge' a raised long-s-shaped sort before the period; read as marker ſ (fits alphabet ſ t u x y z and first margin note beside next line); could instead be 'iugeſ' (misprint for iuges)"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "à mort, il le peut iuſtement & indubitablement faire {t}.",
+   "note": "marker small and blurred, read as t; 'indubitablement' has a damaged t"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "des crimes, qu'extraordinairement {u}. Dont ne doit pas",
+   "note": "first r of 'extraordinairement' looks like 'ı' (broken or wrong sort, 'extraoidinairement'?); possibly sic"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "l. hodie. D.",
+   "note": "margin key printed in v-shape (italic v); body marker is u-shaped; keyed u"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "eſtre trouué ſi nouueau. ni eſtrãge, qu'en horreur, & exe",
+   "note": "period after 'nouueau' looks like a round dot (not comma)"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "bien aucũ en proprieté, ſon corps doit eſtre deterré du",
+   "note": "'deterré' poorly inked: middle letters (te) nearly invisible"
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "ſepulchre, & ietté ſur vn fumier, ou biẽ dans vn priué {z}.",
+   "note": "mark over e in 'biẽ' looks like an acute; read as tilde (bien)"
+  },
+  {
+   "where": "blocks[6].lines[7]",
+   "text": "apte à ſe marier: que pour l'ignorance & bonne foy de",
+   "note": "'ſe' could be 'le'; glyph ambiguous"
+  },
+  {
+   "where": "blocks[6].lines[13]",
+   "text": "par tout eſtimez, non moins legitimes, que ſ'ils euſſent",
+   "note": "print sets 'toutestimez' tight; punctuation after 'eſtimez' looks like '.,' blur, read comma; 'que' first letter damaged (looks like 'aue'/'oue')"
+  },
+  {
+   "where": "blocks[6].lines[14]",
+   "text": "eſté procree, conceus, & engendrez de iuſte, & legitime",
+   "note": "'procree' without accent as printed, as far as visible"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "niſterium. P.",
+   "note": "print shows gap 'n iſterium'; closed up"
+  },
+  {
+   "where": "margin_notes[7].lines[7]",
+   "text": "cland. deſperſ.",
+   "note": "possibly 'deſponſ.' (de clandestina desponsatione); read as printed shape"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "alleg[?]e gl. au",
+   "note": "letter after 'alleg' unreadable (':' or 'u'?); 'au' may be 'an'"
+  },
+  {
+   "where": "margin_notes[10].lines[3]",
+   "text": "contro. inter",
+   "note": "faint; 'contro' may be 'contra'"
+  },
+  {
+   "where": "signature",
+   "text": "I iij",
+   "note": "first letter of signature could be 'I' or 'l'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[16]",
+   "target": "blocks[0].lines[16]",
+   "spans": [
+    [
+     45,
+     52
+    ]
+   ],
+   "aligned": true,
+   "a": "bien aucũ en proprieté, ſon corps doit eſtre d[?]terré du",
+   "b": "bien aucũ en proprieté, ſon corps doit eſtre deterré du",
+   "text": "bien aucũ en proprieté, ſon corps doit eſtre deterré du",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "deterré ('dug out' of the sepulchre) is the only word that fits; d[?]terré leaves the vowel unread."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "target": "margin_notes[0].lines[0]",
+   "spans": [
+    [
+     3,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "l. j. P. i. D. de",
+   "b": "l. j P. i. D. de",
+   "text": "l. j. P. i. D. de",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "target": "margin_notes[1].lines[1]",
+   "spans": [
+    [
+     2,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "& Dec. en la",
+   "b": "& Dec[?]. en la",
+   "text": "& Dec. en la",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Dec. = Decius (Philippus Decius), the standard abbreviation, after Balde and Iaſon; B leaves a letter unread."
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "target": "margin_notes[1].lines[2]",
+   "spans": [
+    [
+     14,
+     19
+    ]
+   ],
+   "aligned": true,
+   "a": "l. ij. C. qui teſt.",
+   "b": "l. ij. C. qui teſt",
+   "text": "l. ij. C. qui teſt.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "target": "margin_notes[3].lines[0]",
+   "spans": [
+    [
+     3,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "l. ij. D. de ca",
+   "b": "l. ij D. de ca",
+   "text": "l. ij. D. de ca",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[10].lines[4]",
+   "target": "margin_notes[10].lines[4]",
+   "spans": [
+    [
+     6,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "do. & agna.",
+   "b": "do. & agn.",
+   "text": "do. & agna.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

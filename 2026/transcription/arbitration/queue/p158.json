@@ -1,0 +1,67 @@
+{
+ "page": "p158",
+ "a": "transcription/reads/A/p158.json",
+ "b": "transcription/reads/B/p158.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-034",
+   "kind": "body",
+   "where_a": "blocks[5].lines[2]",
+   "where_b": "blocks[5].lines[2]",
+   "index": 34,
+   "index_b": 34,
+   "a": "ſont proprement appelez ceux, qui meinent à fin, & ef-",
+   "b": "ſont proprement appelez ceux, qui meïnent à fin, & ef-",
+   "context_before": "& acheuer quelque choſe: dont executeurs, en nos loix",
+   "context_after": "fectuent la ſentence du iuge {a2}. Et par meſme raiſon, en-",
+   "strip": "pages/strips/p158/body-7.jpg",
+   "crop": "crops/p158/b-034.jpg"
+  },
+  {
+   "id": "n-t-1",
+   "kind": "note",
+   "key": "t",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[1]",
+   "where_b": "margin_notes[1].lines[1]",
+   "a": "D. de leg ij.",
+   "b": "D. de leg iij.",
+   "context_before": "l. Iulianus",
+   "context_after": null,
+   "strip": "pages/strips/p158/margin-1.jpg",
+   "crop": "crops/p158/n-t-1.jpg"
+  },
+  {
+   "id": "n-u-3",
+   "kind": "note",
+   "key": "u",
+   "line": 3,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[3]",
+   "where_b": "margin_notes[2].lines[3]",
+   "a": "leg ij.",
+   "b": "leg iij.",
+   "context_before": "ſi plures D. de",
+   "context_after": null,
+   "strip": "pages/strips/p158/margin-1.jpg",
+   "crop": "crops/p158/n-u-3.jpg"
+  },
+  {
+   "id": "n-b-2",
+   "kind": "note",
+   "key": "b",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[7].lines[2]",
+   "where_b": "margin_notes[7].lines[2]",
+   "a": "D. de iniu. teſt",
+   "b": "D. de iniu. teſt.",
+   "context_before": "l. quod ſi quis",
+   "context_after": null,
+   "strip": "pages/strips/p158/margin-3.jpg",
+   "crop": "crops/p158/n-b-2.jpg"
+  }
+ ]
+}

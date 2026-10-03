@@ -9,11 +9,432 @@
   "image_no": 80,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/80"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p057",
  "next": "p059",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "upbringing than from a pernicious will <sup class=\"mk\" data-key=\"k\">k</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "k",
+     "citation": "Panormitanus (Niccolò de' Tudeschi) on X 5.26 (<i>De maledicis</i>), c. 2 (<i>Statuimus</i>, Gregory IX's decretal on the punishment of blasphemers)",
+     "original": "Panor' au c. ij. de maled.",
+     "gloss": "The decretal imposes public penance on blasphemers; Panormitanus there discusses when blasphemy is punished capitally and when at discretion."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TBXTE"
+  },
+  {
+   "type": "paragraph",
+   "html": "So much so that if he dreamed up this new impudence and imposture, one need not be astonished at it.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XXXVII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Although the law presumes of men that each one is good, of good life and of honest conversation [manner of living] <sup class=\"mk\" data-key=\"a\">a</sup>, and that none of them has the intention to do wrong <sup class=\"mk\" data-key=\"b\">b</sup>: nevertheless, in one who has once been wicked and caught in some wickedness, the law with great reason thinks and presumes him to be always such, in the same kind of wickedness <sup class=\"mk\" data-key=\"c\">c</sup>. As for example one who has at some time stolen, if he is again accused of theft, upon however small a proof from other conjecture there may be, one will easily presume him to be a thief today. And she who has once fornicated, that she still goes astray; and he who in the first accusation has been a calumniator, that he is so again in the second <sup class=\"mk\" data-key=\"d\">d</sup>. Of which and the like the reason is not hard to understand: for it is likely that in a will declared by deed or by word each one continues and perseveres <sup class=\"mk\" data-key=\"e\">e</sup>; inasmuch as a change of accident or quality (which consists in fact) is not easily presumed <sup class=\"mk\" data-key=\"f\">f</sup>. Rather, one draws argument and conjecture from the past to the present time and to the future <sup class=\"mk\" data-key=\"g\">g</sup>: as one whom one has once known to be rich, one presumes him still today rich; or poor, still poor; one who has been lord of a place, to be so afterwards; a subject, to be so still; and so of the like <sup class=\"mk\" data-key=\"h\">h</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 31 (<i>De legatis</i> II), l. <i>Cum pater</i>, § <i>Rogo</i> (cf. D. 31.88, Scaevola; fragment and paragraph unverified); Decretals X 2.23 (<i>De praesumptionibus</i>), c. <i>Dudum</i> (cf. X 2.23.16; number unverified)",
+     "original": "l. cũ Pater. P rogo. D. de leg. ij. dudum. de præſ.",
+     "gloss": "The canonists' rule that everyone is presumed good until the contrary is proved."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 17.2 (<i>Pro socio</i>), l. <i>Merito</i> (fragment not identified)",
+     "original": "l. merito. D. pro ſoc.",
+     "gloss": "Fraud (<i>dolus</i>) is not presumed."
+    },
+    {
+     "key": "c",
+     "citation": "Liber Sextus, <i>De regulis iuris</i>, reg. 8: <i>Semel malus semper praesumitur esse malus</i>",
+     "original": "c. ſemel malus, au vi. de reg. iur.",
+     "gloss": "Once bad, always presumed bad — the rule Coras's whole annotation turns on."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 48.2 (<i>De accusationibus et inscriptionibus</i>), l. <i>Si cui</i>, § <i>Eiusdem</i> (cf. D. 48.2.7, Ulpian; paragraph unverified); Decretals X 2.23 (<i>De praesumptionibus</i>), c. <i>Scribam</i> (chapter not identified); Decretum, C. 22 q. 5, c. <i>Parvuli</i> (canon number unverified)",
+     "original": "l. ſi cui. P. eiuſdem. D. de accuſatio. c. ſcribã. de p̃teſump. c. paruuli. xxij. q. v.",
+     "gloss": "Presumptions against the previously convicted; the print's <i>p̃te ſump.</i> is <i>præſump.</i>"
+    },
+    {
+     "key": "e",
+     "citation": "Digest 35.1 (<i>De condicionibus et demonstrationibus</i>), l. <i>Non ad ea</i> (fragment not identified)",
+     "original": "l. nõ ad ea, D. de cond. &amp; . demonſt.",
+     "gloss": "The print sets the point tight after the ampersand."
+    },
+    {
+     "key": "f",
+     "citation": "Digest 22.3 (<i>De probationibus et praesumptionibus</i>), l. <i>Eum qui</i> (fragment not identified)",
+     "original": "l. eum qui D. de Proba",
+     "gloss": "A change of state is not presumed but must be proved by him who alleges it."
+    },
+    {
+     "key": "g",
+     "citation": "Digest 20.6 (<i>Quibus modis pignus vel hypotheca solvitur</i>), l. <i>Sicut</i>, § <i>Supervacuum</i> (cf. D. 20.6.8, Marcian; paragraph unverified); Code 4.19 (<i>De probationibus</i>), l. <i>Sive possidetis</i> (fragment number unverified)",
+     "original": "l. ſicut P. ſuperuacuũ. D. qui mo. pig. ſol. l. ſiue poſtidens. C. de proba.",
+     "gloss": "Argument from the past to the present: a state once shown to exist is presumed to continue; the print's <i>poſtidens</i> is a wrong sort for <i>poſſidens</i> (the law <i>Sive possidetis</i>)."
+    },
+    {
+     "key": "h",
+     "citation": "Code 4.19 (<i>De probationibus</i>), l. <i>Ex persona</i> (fragment number unverified); c. <i>Praeterea</i> (title not stated — perhaps X 2.19 <i>De probationibus</i>, chapter not identified); Code 2.4 (<i>De transactionibus</i>), l. 2; and the law <i>Sive possidetis</i> cited above at {g}",
+     "original": "l. ex perſoſona. C. de proba. c. præterea l. ij de tranſactio. l. ſiue poſſideris. allegu.",
+     "gloss": "The print's <i>perſoſona</i> doubles a syllable of <i>perſona</i>; <i>allegu.</i> = <i>alleguee</i>, \"already cited\"."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "On the contrary, that the prisoner was truly Martin Guerre, there were thirty or forty witnesses; among whom were the four sisters of the said Martin, who affirmed it, and rendered reasons for it",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "uaiſe inſtruction, que pernicieuſe volonté {k}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TBXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Tellement que s'il a ſongé ceſte nou-",
+    "uelle impudẽce, & impoſture, ne s'en faut",
+    "esbahir."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Bien que la loy preſume des hommes, que chacun eſt",
+    "bon, bien viuant, & d'honneſte conuerſation {a}, & que",
+    "nul d'eux ha intention de mal faire {b}: toutesfois en ce-",
+    "luy qui vne fois a eſté mauuais & ſurprins en quelque",
+    "meſchanceté, la loy à grande raiſon penſe & le preſume",
+    "eſtre touſiours tel, en la meſme eſpece de mauuaiſtié {c}.",
+    "comme par exemple vn qui aura quelquefois deſrobé,",
+    "ſ'il eſt derechef accuſé de larrecin, pour ſi petite preuue",
+    "d'autre coniecture qu'il y aye, facilement ou le preſu-",
+    "mera pour le iourd'huy eſtre laron. Et elle qui aura vne",
+    "fois paillardé, qu'elle mal-verſe encores: & cil qu'il",
+    "en la premiere accuſatiõ aura eſté calomniateur, l'eſtré",
+    "encor en la ſeconde {d}. Deſquels & ſemblables, la raiſõ",
+    "n'eſt pas mal-aiſée à entendre: car il eſt vray-ſemblable",
+    "qu'en la volonté de fait, ou de parole declarée, chacun",
+    "continuë & perſeuere {e}: d'autant qu'vn changement",
+    "d'accident, ou qualité (qui conſiſte en fait) facilement",
+    "ne ſe preſume point {f}. Ains pluſtoſt on tire argument",
+    "& coniecture du paſſé, au temps preſent & a l'aduenir {g}:",
+    "comme celuy qu'on a cognu vne fois riche, on le pre-",
+    "ſume encor pour le iourd'huy riche, ou pauure; encor",
+    "pauure. vn qui a eſté ſeigueur d'vn lieu, l'eſtré par apres:",
+    "vn ſuiet, l'eſtre encores. & ainſi des ſemblables {h}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Au contraire, que le priſonnier fuſt veri-",
+    "tablement Martin Guerre, y auoit trente",
+    "ou quarante teſmoins. entre leſquels",
+    "eſtoyent les quatre ſeurs dudit Martin,",
+    "qui l'aſſeuroient, & en rendoyent raiſons"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": null,
+   "kind": "margin",
+   "lines": [
+    "Panor' au c. ij.",
+    "de maled."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. cũ Pater.",
+    "P rogo. D. de",
+    "leg. ij. dudum.",
+    "de præſ."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. merito. D.",
+    "pro ſoc."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "c. ſemel ma",
+    "lus, au vi. de",
+    "reg. iur."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. ſi cui. P.",
+    "eiuſdem. D. de",
+    "accuſatio. c.",
+    "ſcribã. de p̃te",
+    "ſump. c. paruu",
+    "li. xxij. q. v."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. nõ ad ea,",
+    "D. de cond. & .",
+    "demonſt."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. eum qui",
+    "D. de Proba"
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. ſicut P. ſu",
+    "peruacuũ. D.",
+    "qui mo. pig.",
+    "ſol. l. ſiue poſti",
+    "dens. C. de",
+    "proba."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. ex perſo-",
+    "ſona. C. de pro",
+    "ba. c. præterea",
+    "l. ij de tranſa",
+    "ctio. l. ſiue poſ-",
+    "ſideris. allegu."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "uaiſe inſtruction, que pernicieuſe volonté {k}.",
+   "note": "marker k (the alphabet run carried over from p057) has no keyed note on this page. Its only candidate is the unkeyed two-line note 'Panor' au c. ij.' / 'de maled.' (margin_notes[0]), printed with no key letter beside the TEXTE paragraph two lines below the marker; it is almost certainly the citation for {k}, but nothing keys it, so it is recorded with key null and the pairing is stated here rather than imposed."
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "Panor' au c. ij.",
+   "note": "no key letter is printed before this note (margin-1.jpg, 4x): the line begins directly with the italic capital P at the note column's left edge. Recorded with key null per §4; see blocks[0].lines[0] for its probable pairing with marker {k}. The print sets 'Panor'au' tight after the raised apostrophe-shaped abbreviation stroke; 'Panor'' (Panormitanus) and 'au' are distinct words, so a space is set between them per §1 word division. 'ij' is the italic ÿ-shaped ij sort, transcribed decomposed."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "TBXTE.",
+   "note": "sic, wrong sort: the second letter of the heading is a capital B (two closed bowls, rounded right side, clear at 4x on body-1.jpg), not the E of the page's second TEXTE heading or of ARREST. Transcribed as printed. Reader A read it as E."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "uelle impudẽce, & impoſture, ne s'en faut",
+   "note": "the mark over the first e of 'impudẽce' is a flat, slightly wavy horizontal bar with hooked ends (4x, body-2.jpg), unlike the steep short wedge of the acutes at 'ſongé' and 'volonté'; read as the nasal tilde (= impudence). 's'il', 's'en' and 'esbahir' in this large type have a round s, as printed."
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "fois paillardé, qu'elle mal-verſe encores: & cil qu'il",
+   "note": "'cil' is set with a hairline gap after the c; transcribed as one word per §1. 'mal-verſe' carries a true mid-line hyphen; the mark after 'encores' is a colon."
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "en la premiere accuſatiõ aura eſté calomniateur, l'eſtré",
+   "note": "sic: 'l'eſtré' carries a clear acute on the final e (also at blocks[4].lines[21]); blocks[4].lines[22] has plain 'l'eſtre'. Transcribed as printed in all three places."
+  },
+  {
+   "where": "blocks[4].lines[20]",
+   "text": "comme celuy qu'on a cognu vne fois riche, on le pre-",
+   "note": "the line-end word-break sign after 'pre' is a small round point raised to mid x-height, not the level bar used at 'ce-' and 'veri-'; the same raised point ends 'preſu-' (lines[8]). Both transcribed as '-' per §1."
+  },
+  {
+   "where": "blocks[4].lines[21]",
+   "text": "ſume encor pour le iourd'huy riche, ou pauure; encor",
+   "note": "the mark after 'pauure' is read as a semicolon (body-6.jpg, first line, 4x): the upper element is a round dot, the lower a narrow vertical wedge reaching below the baseline, unlike the two even round dots of the page's colons ('entendre: car', 'encores:') though its tail is much shorter than the comma after 'riche'. A colon is the alternative reading. Both readers read a semicolon."
+  },
+  {
+   "where": "blocks[4].lines[22]",
+   "text": "pauure. vn qui a eſté ſeigueur d'vn lieu, l'eſtré par apres:",
+   "note": "sic, wrong sort: 'ſeigueur' for seigneur — at 4x the letter after g is an unambiguous u (two stems joined by a bottom bow). Transcribed as printed. A faint stray ink arc crossing this line and the one above between 'lieu' and 'apres' is not type."
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "ou quarante teſmoins. entre leſquels",
+   "note": "a round baseline period follows 'teſmoins' although lower-case 'entre' follows; transcribed as printed (the page uses mid-sentence periods freely: 'laron. Et', 'pauure. vn', 'encores. & ainſi')."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "P rogo. D. de",
+   "note": "the line opens with an italic capital P (no stroke through stem or descender, so not ꝑ/ꝓ) followed by a space and 'rogo.'; the citation wants the paragraph sign (§ rogo), so the P is probably the printer's substitute for §. Transcribed as printed; the same sort appears in 'l. ſi cui. P.' (note d) and 'l. ſicut P. ſu' (note g)."
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "ſcribã. de p̃te",
+   "note": "the p of 'p̃te' carries a short horizontal abbreviation bar across the top of its stem, projecting to the left (margin-2.jpg, 6x), absent from the other italic p's on the page ('paruu' directly below, 'ſump.', 'pro', 'proba'). Transcribed as p + combining tilde per §2; the reference runs on to 'ſump.' (de præſump.). Reader B gave a plain p."
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "l. nõ ad ea,",
+   "note": "the mark closing the line is a comma (short tail below the baseline); 'nõ' has a straight bar over the o."
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "D. de cond. & .",
+   "note": "a solid baseline period is printed directly after the ampersand, set tight ('&.'), the same size as the period after 'cond' (margin-2.jpg, 4x). The validator enforces the §1 rule that '&' takes a space on both sides and rejects '&.', so the line is recorded as '& .'; the print has '&.' with no space."
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "text": "l. ſicut P. ſu",
+   "note": "a small faint dot stands on the baseline directly after the initial l, in the position of the period the other notes print after 'l.' (margin-2.jpg, note g, 7x); it is much lighter and smaller than those periods, so it is read as a lightly inked period sort rather than a speck. Reader B transcribed no point. A human may wish to confirm on the full-resolution scan."
+  },
+  {
+   "where": "margin_notes[7].lines[3]",
+   "text": "ſol. l. ſiue poſti",
+   "note": "sic: the line ends 'poſti' and runs on to 'dens' — 'poſtidens' where the citation wants 'poſſidens'. At 4x (margin-3.jpg) the second tall letter has a clear crossbar and curled top (italic t), not a long ſ; compare the 'poſ-' / 'ſideris' break in note h. Wrong sort, transcribed as printed."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "beside_line values follow reader A, who measured row centres on pages/read/p058.jpg: the margin is set solid in a smaller face with tighter leading than the body, so notes drift relative to their markers (note g begins several body lines above its {g}). Each beside_line is the body line nearest the note's first line, accurate to about half a line."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "page furniture: folio '58' top left, running head ARREST DV in spaced capitals closed up, the three headings in spaced capitals, no signature, catchword, ornament or foot citation block (foot.jpg and body-8.jpg are blank). A brown damp stain across the top-left corner does not touch the type. Spacing normalized throughout per §1 (words set tight, spaces before punctuation, space inside the closing parenthesis of '(qui conſiſte en fait )')."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[1].text",
+   "target": "blocks[1].text",
+   "spans": [
+    [
+     0,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "TEXTE.",
+   "b": "TBXTE.",
+   "text": "TBXTE.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "body-1.jpg heading at 4x: the second sort has two closed bowls and a rounded right side, a capital B; the E's of ARREST and of the lower TEXTE are plain three-armed E's. Wrong sort, transcribed as printed with a sic note."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "target": "margin_notes[0].lines[0]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "Panor' au c. ij.",
+   "b": "Panor'au c. ij.",
+   "text": "Panor' au c. ij.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "margin-1.jpg at 4x: the raised mark after 'Panor' is an abbreviation stroke closing the word Panor(mitanus); 'au' is a distinct word, so the §1 word-division rule sets one space between them even though the compositor set them tight."
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "target": "margin_notes[4].lines[3]",
+   "spans": [
+    [
+     11,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "ſcribã. de p̃te",
+   "b": "ſcribã. de pte",
+   "text": "ſcribã. de p̃te",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "margin-2.jpg at 6x: the p carries a flat bar across the top of its stem projecting left, which no other italic p on the page has (compare 'paruu' directly below); an abbreviation stroke, transcribed as p + combining tilde per §2."
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "target": "margin_notes[7].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "l. ſicut P. ſu",
+   "b": "l ſicut P. ſu",
+   "text": "l. ſicut P. ſu",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "margin-2.jpg note g at 7x: a small faint dot sits on the baseline directly after the l, exactly where the other notes print the period of 'l.'; read as a lightly inked period. Faint, so noted in uncertain."
+  }
+ ]
 }

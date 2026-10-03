@@ -9,11 +9,267 @@
   "image_no": 81,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/81"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p060",
  "next": "p062",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "cide may produce his own brother against the fisc [the royal treasury], or the King, who alone is the party against him, to show that he committed the killing in defending himself <sup class=\"mk\" data-key=\"f\">f</sup>: for although the King pursues the confiscation of the accused's goods, nevertheless such a penal and odious gain, which cannot come about except with the detriment and loss both of the honour and of the life of the accused, does not come into consideration. <sup class=\"mk\" data-key=\"g\">g</sup>",
+   "continued": true,
+   "notes": [
+    {
+     "key": "f",
+     "citation": "Baldus (<i>Balde</i>) on Code 4.20 (<i>De testibus</i>), l. <i>Parentes</i>, cited above at {a}",
+     "original": "Balde en la l. Parentes. deſſus citée.",
+     "gloss": "Baldus's exception admitting a kinsman where the fisc alone is the adversary."
+    },
+    {
+     "key": "g",
+     "citation": "Digest 47.2 (<i>De furtis</i>), l. <i>Si quis uxori</i>, penultimate paragraph (cf. D. 47.2.52, Ulpian; fragment and paragraph unverified); l. <i>Si cui</i>, § <i>Si</i> (fragment not identified)",
+     "original": "l. ſi quis vxo ri. P. penultime. l. ſi cui. P. ſi. D. de fut.",
+     "gloss": "The print's <i>fut.</i> is a wrong sort for <i>fur.</i>, <i>De furtis</i>; the <i>P.</i> stands for the paragraph sign. Cited for the point that a penal gain, being odious, is not taken into account."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "In the second place, there are witnesses who were at the wedding of the said Martin and de Rols, and especially one Catherine Boëre, who brought at midnight the collation (which they called the <i>réveil</i> [the midnight visit to the bridal bed with food and drink]), who obstinately assures that it is he who married the said de Rols, and whom she found lying in bed with her. Thirdly, the better part of the witnesses give marks and conjectures that are invincible, to wit, that Martin Guerre had two extra teeth in the upper jaw, a scar on the forehead, the nail of the first finger sunken, three warts on the right hand, another on the little finger, and a drop of blood in the left eye; which marks have all been found on the prisoner.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XL"
+  },
+  {
+   "type": "paragraph",
+   "html": "This puts me in mind of Quintus Fabius Maximus, who, inasmuch as he was full of little swellings of flesh raised upon the skin of the body (called by the French, in imitation of the Latin, <i>verrues</i>, warts), up to about the breast, was called by the Romans VERRUCOSUS,",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "de, peut produire ſon propre frere: outre, le fiſque, où",
+    "le Roy qui ſeul luy fait la partie pour monſtrer qu'il a",
+    "commis le meurtre en ſe defendant {f}: car bien que le",
+    "Roy pourſuyue la confiſcation de l'accuſé: toutesfois",
+    "tel gain penal, & odieux qui ne peut aduenir, qu'auec",
+    "le detriment, & iacture tant de l'honneur, que de la vie",
+    "du preuenu, ne vient en conſideration. {g}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "En ſecond lieu, il y a des teſmoins qui",
+    "eſtoient és nopces deſdits Martin, & de",
+    "Rols, & meſmement vne Catherine",
+    "Boëre, qui porta ſur la minuict la colla-",
+    "tion (qu'ils appelloient le reſueil) laquel-",
+    "le obſtinément aſſeure, que c'eſt celuy",
+    "qui eſpouſa ladite de Rols, & qu'elle",
+    "trouua couché auec elle. Troiſieme-",
+    "ment, la meilleure partie des teſmoins",
+    "donne des marques, & coniectures in-",
+    "uincibles, à ſçauoir, que Martin Guerre",
+    "auoit deux ſoubredens à la machoire de",
+    "deſſus, vne cicatrice au front, vne ongle",
+    "du premier doigt enfoncée, trois verrues",
+    "ſur la main droitte, vne autre au petit",
+    "doigt, & vne goute de ſang à l'œil gau-",
+    "che, leſquelles marques ont eſté toutes",
+    "trouuées au priſonnier."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XL.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "Ceci me faict ſouuenir de Q Fabius Maximus, le",
+    "quel par tant qu'il eſtoit plein de petites tumeurs de",
+    "chair eſleuées ſur la peau du corps, (appelée des Fran-",
+    "çois, à l'imitatiõ du Latin, Verrues) iuſqu'aux enuirõs de",
+    "la mãmelle, fut des Romains appelé VERRVCOSVS"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Balde en la",
+    "l. Parentes.",
+    "deſſus citée."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. ſi quis vxo",
+    "ri. P. penulti-",
+    "me. l. ſi cui. P.",
+    "ſi. D. de fut."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks",
+   "note": "page quality: a clean, evenly inked, sharply focused recto. A pale brown stain runs across the head margin and just touches the top of the running head and the folio '61' without obscuring them. The outer (right) margin is clean; the inner (left) edge of every crop carries a narrow strip of the facing verso ('u-', 'ci-', 'd', 'ts', 'il'), ignored throughout per the crop rule. Nothing is lost to damage or to the gutter."
+  },
+  {
+   "where": "blocks",
+   "note": "counts for the reconciler: 30 printed body lines in 3 paragraph blocks (7 + 18 + 5) with 2 heading blocks between them ('TEXTE.' and 'ANNOTAT. XL.', both spaced capitals). 2 markers ({f}, {g}), both in the first paragraph, each with a margin note; 2 margin notes, each with a marker. No foot citation block, no signature, no catchword, no ornament, no decorated initial. The lower third of the leaf below the last body line is blank."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "continues_prev: the page opens mid-sentence with 'de, peut produire ſon propre frere' (the tail of a sentence begun on p060, which is not transcribed, so this rests on the sense alone). continues_next false: the paragraph closes with 'conſideration. {g}' and the heading 'TEXTE.' follows on the same page. blocks[4] continues_next true: the last line ends 'appelé VERRVCOSVS' with no point, running on to p062."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "commis le meurtre en ſe defendant {f}: car bien que le",
+   "note": "the marker is the small italic f, and the mark after it is a colon (two clearly separate dots at 4.5x), not a period. The print sets 'carbien' tight; normalized to 'car bien' per §1."
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "du preuenu, ne vient en conſideration. {g}",
+   "note": "the line ends with a baseline period followed by the italic marker g; marker order kept as printed. 'vienten' and 'enconſideration' are set tight and normalized per §1."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "Rols, & meſmement vne Catherine",
+   "note": "the surname is 'Rols' (R-o-l-s), not 'Rois': at 4x the fourth sort is a full-ascender l with no dot, identical in height to the l of 'elle'. Same reading at blocks[2].lines[6] ('ladite de Rols'), where a speck of show-through above the o can be mistaken for an i-dot. Agrees with the small-capital 'ROLS' cited in the conventions (§3)."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "tion (qu'ils appelloient le reſueil) laquel-",
+   "note": "the print sets 'tion(qu'ils' and ')laquel-' with no space outside either parenthesis; normalized per §1 (space outside, none inside). The apostrophe of 'qu'ils' is set high and sits beside the i's dot, so the pair can read as a diaeresis; at 3x there are two separate marks, a slanted raised comma and a round dot."
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "auoit deux ſoubredens à la machoire de",
+   "note": "two small ragged ink blobs stand between 'machoire' and 'de', one at ascender height and one below the baseline (checked at 6x on the full-page scan). Neither has a letterform, they are not an italic marker letter, and no note answers to them; read as ink specks or a piece of furniture that took ink, and not transcribed. The print also sets 'lamachoire'; normalized to 'à la machoire de' per §1."
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "du premier doigt enfoncée, trois verrues",
+   "note": "printed 'enfoncée,trois' with no space after the comma; normalized per §1. Same normalization applied to 'destesmoins' (lines[8]) and 'desang' (lines[15])."
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "deſſus, vne cicatrice au front, vne ongle",
+   "note": "double-s checked at 4x: 'deſſus' is long s + long s (both full ascenders, ligatured), not 'ſs'. Same check made at 'aſſeure' (lines[5]), 'leſquelles' (lines[16]) and 'deſſus citée' in margin_notes[0]; all are ſſ. The second c of 'cicatrice' is lightly inked but is a c, not an e."
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Ceci me faict ſouuenir de Q Fabius Maximus, le",
+   "note": "no abbreviation point is visible after the Q of 'Q Fabius' (Quintus). The sort is a long-tailed roman Q whose tail sweeps right under the following space, and at 4.5x there is no dot on the baseline. Transcribed without a point; reader A may read 'Q.'"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "çois, à l'imitatiõ du Latin, Verrues) iuſqu'aux enuirõs de",
+   "note": "the print sets 'àl'imitatiõ', 'duLatin' and 'V errues' (a wide kern after the capital V); normalized to 'à l'imitatiõ', 'du Latin', 'Verrues' per §1. The nasal signs on 'imitatiõ' and 'enuirõs' are flat bar-like strokes over the o, transcribed as õ per §2; likewise 'mãmelle' on lines[4]."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "la mãmelle, fut des Romains appelé VERRVCOSVS",
+   "note": "the last word is set in letterspaced capitals ('V E R R V C O S V S'), closed up here per §3, and the block is flagged spaced_caps. Ten sorts counted twice at 4x on both the body strip and the foot crop; the final one is a capital S, not a long s."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Balde en la",
+   "note": "a small ink blot sits on the final a of 'la'; the letter is still legible as a at 6x. The note's own key letter f is printed before 'Balde' and is not included in lines, per §9."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "l. Parentes.",
+   "note": "read 'Parentes.' at 6x (the penultimate sort is an e with a closed eye and mid bar, not a u). = Balde on l. Parentes, cited above."
+  },
+  {
+   "where": "margin_notes[1]",
+   "note": "the sort transcribed 'P.' (twice, lines[1] and lines[2]) is a single italic capital-P-shaped glyph with a large looping bowl, standing where a section/paragraph reference belongs ('§. penultime', '§. ſi'). It may be this fount's paragraph abbreviation rather than a plain letter P. Transcribed as the letter printed; flagged so the reconciler can settle the house practice against other pages."
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "text": "ſi. D. de fut.",
+   "note": "two doubts on one line. (a) The first sort is read as italic long ſ, not f: at 7x on the full-page scan its cross-nub projects only to the left of the stem, where the f of 'fut' on the same line has a bar crossing both sides; the sense agrees ('l. ſi cui, §. ſi'). (b) The last word is transcribed 'fut.' as printed: the final sort has a stem rising above x-height with a left crossbar, matching the t of 'penulti-' rather than the arm-to-the-right r of 'ri.' — although the citation sense wants 'fur.' (D. de furtis). Recorded as a possible wrong sort per §7(c); reader A may read 'fur.'"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ſi quis vxo",
+   "note": "the line ends 'vxo' with no word-break hyphen and runs on to 'ri.' on the next line; normal for this print (§1), listed only so the reconciler does not read it as a dropped hyphen. Point spacing after 'l.', 'ri.', 'me.' and 'ſi.' normalized per §1, where the print sets them tight."
+  },
+  {
+   "where": "margin_notes",
+   "note": "placement: the f note's first line is printed exactly beside body line 'commis le meurtre en ſe defendant {f}: car bien que le'. The g note is set some six lines lower than the f note, its first line beside 'du preuenu, ne vient en conſideration. {g}' — the line that carries its marker. Both beside_line values are firm here; the margin is uncrowded."
+  },
+  {
+   "where": "foot_notes",
+   "note": "there is no foot citation block, no signature and no catchword: both citations fit in the outer margin and the whole lower third of the leaf is blank (verified on foot.jpg, margin-4.jpg and body-8.jpg, all of which are bare paper below the last body line)."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Roy pourſuyue la confiſcation de l'accuſé: toutesfois",
+   "note": "validator long-s check: 'toutesfois' is printed with a round s before the f, which is correct for this fount (§2: long s is not used before b, f, k), so no normalization has occurred. Same for 'és nopces' and 'des teſmoins'. The mark after 'accuſé' is a colon (two dots at 4.5x), not a semicolon or period."
+  }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "reads agree on every line but one (Rois/Rols); coordinator checked at 2x: full-height undotted l, Rols; B correct (printed Rols twice on this page)"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "target": "blocks[2].lines[6]",
+   "spans": [
+    [
+     22,
+     27
+    ]
+   ],
+   "aligned": true,
+   "a": "qui eſpouſa ladite de Rois, & qu'elle",
+   "b": "qui eſpouſa ladite de Rols, & qu'elle",
+   "text": "qui eſpouſa ladite de Rols, & qu'elle",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "coordinator checked the 2x crop: full-height undotted l"
+  }
+ ]
 }

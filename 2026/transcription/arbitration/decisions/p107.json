@@ -1,0 +1,29 @@
+{
+ "page": "p107",
+ "decisions": {
+  "b-011": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "cou uert = couuert, 'covered'; couuet is no word"
+  },
+  "b-015": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "Oncle: the same word is printed Oncle two words earlier in the sentence; Vncle is not French"
+  },
+  "n-c-0": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "Ovid, Ars amatoria 3.291-292 is in book iij; the Ars has only three books"
+  },
+  "n-d-0": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "Plaute = Plautus (Truculentus 178-179 is the passage); Plaure is no name"
+  }
+ }
+}

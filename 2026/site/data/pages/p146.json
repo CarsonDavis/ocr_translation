@@ -9,11 +9,237 @@
   "image_no": 168,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/168"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p145",
  "next": "p147",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "of Mane, took him for Martin Guerre: of whom nevertheless they had been familiars and intimate friends.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION CIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Here is a very strange case: that the most private and particular friends that Martin Guerre had had in his young age should have been placed in such error that they took the said du Tilh for the same Guerre. True it is that the best of it is more astonishing still — to hear that the near kinsfolk, even the four sisters, were in the like error; and more prodigious still, and almost incredible, that the said Bertrande de Rols, wife of the said Martin Guerre, having lived and conversed ten or twelve years with the same Martin Guerre her husband, should have had a like blindfold before her eyes.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Seeing which, and considering that, since the most private and particular friends of the said Martin Guerre were deceived in him, he might well, with some help, deceive and circumvent many others: he resolved to play the tragedy which you have heard above.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION CIIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "It was truly a tragedy for this fine rustic, inasmuch as the issue of it was most deadly and miserable for him. Whereupon: no one knows the difference between tragedy and comedy. For although both are kinds of fable <sup class=\"mk\" data-key=\"a\">a</sup>, comedy nevertheless describes and represents, in a low and humble style, the private fortune of men — such as loves, and the ravishing of maidens — so that thereby one may learn what one ought to imitate and follow in this life, and what one ought also to avoid: whence Cicero in some place calls comedy an imitation of life, a mirror of custom, and an image of truth <sup class=\"mk\" data-key=\"b\">b</sup>; so named from KOMAI,",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Cicero, <i>On Duties</i>, book 1",
+     "original": "Ciceron au premier liure des offices.",
+     "gloss": "The passage where comedy and tragedy are treated together as kinds of poetic fiction was not located; cf. <i>De officiis</i> 1.97–98 on the poets' observance of what is fitting in each character, and 1.104 on the two kinds of jest."
+    },
+    {
+     "key": "b",
+     "citation": "Cicero, <i>For Sextus Roscius of Ameria</i>",
+     "original": "Ciceron en l'oraiſon pro Sext. Roſcio.",
+     "gloss": "The definition of comedy as <i>imitatio vitae, speculum consuetudinis, imago veritatis</i> is transmitted by Donatus (<i>De comoedia</i> 5.1), who attributes it to Cicero; it is not in the extant <i>Pro Sexto Roscio Amerino</i>, whose nearest thought (16.47) is that the poets' fictions show us our own manners in other persons."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "de Mane, le preuoyãt pour Martin Guer",
+    "re: duquel pourtant ils auoyent eſté fa-",
+    "miliers, & intimes amys."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Voici vn cas bien eſtrange, que les plus priuez & pe-",
+    "culiers amis qu'euſt eu Martin Guerre, en ſon ieune",
+    "aage, fuſſent conſtituez en tel erreur, qu'ils prinſſent le-",
+    "dit du Tilh, pour iceluy Guerre: vray que la meilleure",
+    "eſt encore plus admirable, d'entendre que les prochains",
+    "parẽs, meſmes les quatre ſœurs fuſſent en pareil erreur,",
+    "& encor plus prodigieuſe, & preſqu'incroyable, que la-",
+    "dite Bertrande de Rols, femme dudict Martin Guerre,",
+    "ayant veſcu & conuerſé dix ou douze ans auec iceluy",
+    "Martin Guerre ſon mary, euſt vn ſemblable bandeau",
+    "deuant ſes yeux."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Quoy voyant & conſiderant, que puis",
+    "que les plus priuez, & peculiers amis du-",
+    "dit Martin Guerre, eſtoyent deceuz en",
+    "luy, il en pourroit bien auec quelque ai-",
+    "de deceuoir, & circonuenir beaucoup",
+    "d'autres: ſ'aduiſa de iouër la tragedie que",
+    "auez ci deuant entendue."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. CIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "C'eſtoit veritablement tragedie, pour ce gentil ruſtre:",
+    "d'autant que l'iſſue en fut fort funeſte, & miſerable,",
+    "pour luy. Surquoy nul ne ſçait la differẽce entre trage-",
+    "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+    "ces de fable {a}: la comedie pourtant deſcrit & repreſen-",
+    "te en ſtile bas, & humble, la fortune priuée des hom-",
+    "mes, cõmme des amours, & rauiſſemens de pucelles, à",
+    "fin que par là on apprẽne ce qu'on doit imiter & ſuiure",
+    "en cette vie, & ce qu'on doit euiter auſſi: dõt Cicerõ en",
+    "quelque lieu appelle la comedie, imitatiõ de vie, miroir",
+    "de couſtume, & image de verité {b}, ainſi nõmee à KOMAI"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Ciceron au",
+    "premier liure",
+    "des offices."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon pro",
+    "Sext. Roſcio."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "dit du Tilh, pour iceluy Guerre: vray que la meilleure",
+   "note": "print clearly reads 'meilleure'; sense wants 'merueille' — probable wrong word/sort, sic"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "dite Bertrande de Rols, femme dudict Martin Guerre,",
+   "note": "'R ols' set with a gap after R; closed up as 'Rols'"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "culiers amis qu'euſt eu Martin Guerre, en ſon ieune",
+   "note": "wide space before the comma after 'Guerre' in print; normalized"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "auez ci deuant entendue.",
+   "note": "final t of 'deuant' is damaged/looks like a z-shaped sort; read as t"
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+   "note": "'eſpe-': the ſ looks like 'l' (broken long s?); could be printed 'elpe-' (sic)"
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "mes, cõmme des amours, & rauiſſemens de pucelles, à",
+   "note": "mark over o of 'cõmme' is faint (circumflex-like); may be tilde or ink speck, i.e. 'comme'"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Ciceron en",
+   "note": "'en' is blotted, reads like 'cn'"
+  },
+  {
+   "where": "blocks[6].lines[1]",
+   "text": "d'autant que l'iſſue en fut fort funeſte, & miſerable,",
+   "note": "line-final comma after 'miſerable' faint; may be a stray mark"
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "die, & comedie. Car bien que toutes deux ſoyent eſpe-",
+   "note": "'eſpe-' — the long s looks like 'l' (no visible nub); could be misprint 'elpe-'"
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "mes, cõmme des amours, & rauiſſemens de pucelles, à",
+   "note": "mark over o of 'cõmme' could be a circumflex rather than tilde"
+  },
+  {
+   "where": "blocks[6].lines[10]",
+   "text": "de couſtume, & image de verité {b}, ainſi nõmee à KOMAI",
+   "note": "'ainſi' reads more like 'aiuſi' (possible wrong sort, sic); 'nõmee' without accent as seen; 'KOMAI' is set in small capitals, possibly Greek ΚΩΜΑΙ / κῶμαι type — letters transcribed as they appear; word continues on next page"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Quoy voyant & conſiderant, que puis",
+   "note": "opening Q is a large swash capital, not a woodcut initial"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[6].lines[10]",
+   "target": "blocks[6].lines[10]",
+   "spans": [
+    [
+     50,
+     55
+    ]
+   ],
+   "aligned": true,
+   "a": "de couſtume, & image de verité {b}, ainſi nõmee à κομαι",
+   "b": "de couſtume, & image de verité {b}, ainſi nõmee à KOMAI",
+   "text": "de couſtume, & image de verité {b}, ainſi nõmee à KOMAI",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "The page image shows the word set in Latin small capitals, KOMAI, in the same sort as PAGVS, ODE, TRAGOS and BOVC on p147, not in Greek type; the sense (Greek komai, villages) is the same either way."
+  }
+ ]
 }

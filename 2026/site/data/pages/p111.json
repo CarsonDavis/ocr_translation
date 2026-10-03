@@ -9,11 +9,490 @@
   "image_no": 131,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/131"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p110",
  "next": "p112",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "of St John, said that he was Elijah <sup class=\"mk\" data-key=\"g\">g</sup>, whom the Lord God had promised by the Prophet <sup class=\"mk\" data-key=\"h\">h</sup>: not, says St Augustine, that Jesus understood St John to be the very person of Elijah, but by imitation of virtue <sup class=\"mk\" data-key=\"i\">i</sup>. Otherwise, whoever changes his name must be punished and repressed by the penalty of forgery <sup class=\"mk\" data-key=\"x\">x</sup>, and such a one (said the Jurisconsult Ulpian in some place) that he may be an example to others <sup class=\"mk\" data-key=\"l\">l</sup> [unclear: the print reads <i>&amp; telle, (diſoit en quelque lieu le Iuriſconſulte Vlpien qu'il en ſoit) autres aux exemple</i>, with the parenthesis closed too late and <i>autres aux</i> inverted; translated by the evident sense].",
+   "continued": true,
+   "notes": [
+    {
+     "key": "g",
+     "citation": "Gospel of Matthew, chapter 11 (Matthew 11:14)",
+     "original": "S. Mathieu c. xi⟨alt:xi.⟩",
+     "gloss": "\"This is Elias, which was for to come.\""
+    },
+    {
+     "key": "h",
+     "citation": "Malachi, chapter 4 (Malachi 4:5)",
+     "original": "Malachie c. iiij.",
+     "gloss": "\"Behold, I will send you Elijah the prophet.\""
+    },
+    {
+     "key": "i",
+     "citation": "Decretum of Gratian, Part II, C. 22 q. 2, c. <i>Quaeritur</i> (Augustine; cf. C. 22 q. 2 c. 22)",
+     "original": "c. quæritur xxij. q. ij.",
+     "gloss": "Augustine on figurative speech that is not a lie — John called Elijah by likeness of spirit, not identity of person. Cited again at annot-081 {g} for Jacob."
+    },
+    {
+     "key": "x",
+     "citation": "Digest 48.10 (<i>De lege Cornelia de falsis</i>), l. <i>Falsi</i> (D. 48.10.13 pr., Papinian)",
+     "original": "l. falſi. D. de falſ.",
+     "gloss": "The assertion of a false name or cognomen is punished with the penalty of <i>falsum</i> — the text Coras's whole annotation rests on; cited also at annot-012 {c}. The margin keys this note <i>x</i>, as the body marker is read; the alphabet expects <i>k</i>."
+    },
+    {
+     "key": "l",
+     "citation": "Digest, title abbreviated <i>de reb. cor.</i> — not resolved; the fragment beginning <i>Quamvis</i> not identified",
+     "original": "l. quamuis. D. de reb. cor.",
+     "gloss": "Cited again, with the same abbreviation, at annot-081 {a} for exemplary punishment; the Ulpian saying Coras paraphrases, that the penalty should be an example to others, has not been located under this title."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Substitution of name and person.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXXII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Arnauld du Tilh had substituted upon himself the name and person of Martin Guerre, and so subtly laid so many snares to bait and keep everyone in the persuasion of such an imposture, that the said de Rols, his wife, the sisters, the uncle and the kinsfolk of the same Martin were lulled in it for three years and more: a notable substitution certainly, if ever one was discovered, and worthy of atrocious, cruel and exemplary punishment <sup class=\"mk\" data-key=\"a\">a</sup>, although of this crime our laws and canons have spoken so sparingly, and so rarely, that there is found no text which can properly belong to this case. It is true that Modestinus, speaking of him who, not being a soldier, nevertheless calls and maintains himself to be such, or who uses forbidden insignia and arms, or indeed forges false letters of the Prince, wills and ordains that he be most grievously punished <sup class=\"mk\" data-key=\"b\">b</sup>. Pope Clement III also makes mention of a priest who had taken the name and title of a King's son, and under this cloak taken up arms and stirred up a great sedition: of the penalty he says not a single word <sup class=\"mk\" data-key=\"c\">c</sup>. There is also talk of I know not what Barbarius Philippus, a slave, who presented himself to the Roman people as a free person, and as such carried off the dignity of Praetor; but whether he did well or ill, the Jurisconsult does not open his mouth with a single word <sup class=\"mk\" data-key=\"d\">d</sup>. Everyone knows also that mention is made in our law of the substitution of children <sup class=\"mk\" data-key=\"e\">e</sup>. But what! these are all crimes diverse and separate from this one; and it would certainly not be easy to give certain rules upon the penalty: as much because our laws have determined nothing about it, as also because the ancients have",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest, title abbreviated <i>de reb. cor.</i> — not resolved; the fragment beginning <i>Quamvis</i> not identified",
+     "original": "l. quamuis D. de reb. cor.",
+     "gloss": "As at annot-080 {l}, for exemplary punishment."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 48.10 (<i>De lege Cornelia de falsis</i>), l. <i>Eos qui</i>, last paragraph (D. 48.10.27.2, Modestinus)",
+     "original": "l. eos. P fin. D. de falſi..",
+     "gloss": "He who has passed himself off as a soldier, or used unlawful insignia, or travelled with a forged warrant (<i>falso diplomate</i>), is to be punished most severely according to the nature of the offence — the three cases Coras lists."
+    },
+    {
+     "key": "c",
+     "citation": "Decretals of Gregory IX, title <i>De sententia excommunicationis</i> (X 5.39), c. <i>Perpendimus</i> (Clement III; chapter number unverified)",
+     "original": "c. perpendi mus. de ſent. excom.",
+     "gloss": "The priest who claimed to be a king's son and raised a sedition; cited again at {m}."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 1.14 (<i>De officio praetorum</i>), l. <i>Barbarius</i> (D. 1.14.3, Ulpian; Coras's l. 2 by the older numbering)",
+     "original": "l. ij. D. offi. prætor. de",
+     "gloss": "Barbarius Philippus, a runaway slave, held the praetorship at Rome; his acts were held valid — Ulpian says nothing of his punishment."
+    },
+    {
+     "key": "e",
+     "citation": "Digest 37.10 (<i>De Carboniano edicto</i>), l. 1, last paragraph, and l. 2; Code 9.22 (<i>Ad legem Corneliam de falsis</i>), l. 1 (C. 9.22.1)",
+     "original": "l. i. P. fi. &amp; l. ij. D. de Ca. bo. edic. l. i. C. de fal.",
+     "gloss": "The Carbonian edict governs disputes over a child alleged to be supposititious; the Code law, the \"law of Antoninus\" of {a} on p118, on the substitution of a child."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "de S. Iean diſoit, que c'eſtoit Elie {g}, que le Seigneur",
+    "Dieu auoit promis par le Prophe {h}. non point dit S.",
+    "Auguſtin, que Ieſus entendit S. Iean eſtre la meſme per",
+    "ſonne d'Elie: mais par imitation de vertu {i}. Autrement,",
+    "qui change de nom, doit eſtre puni & reprimé par pei",
+    "ne de faux {x}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+    "ſulte Vlpien qu'il en ſoit) autres aux exemple {l}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Suppoſition de nom, & perſonne."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXXII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Arnauld du Tilh auoit ſuppoſé le nom & la perſonne",
+    "de Martin Guerre, & ſi ſubtilement tendu tant de la-",
+    "çons pour appaſter, & entretenir chacun à la perſuaſiõ",
+    "de telle impoſture, que leſdits de Rols femme, ſeurs,",
+    "oncle, & parens d'iceluy Martin, y furẽt endormis trois",
+    "ans & d'auantage: ſuppoſition notable certes, ſ'il en fut",
+    "oncques deſcouuerte, & digne d'atroce, cuelle, & exem",
+    "plaire punition {a}, bien que de ce crime, noz loix, & ca-",
+    "nons, ayent fort ſobrement, & ſi rarement parlé, qu'il",
+    "ne ſe trouue aucun texte qui puiſſe proprement apparte",
+    "nir à ce fait. Il eſt vray, que Modeſtin parlant de celuy",
+    "lequel n'eſtant point ſoldat, neantmoins ſe dit & main",
+    "tient pour tel: ou qui vſe d'enſeignes & armoiries de-",
+    "fenduës, on bien ſuppoſe fauſſes lettres du Prince, veut",
+    "& ordonne qu'il ſoit treſgriefuement puni {b}. Le Pape",
+    "Clement iij, auſſi fait mention d'vn preſtre qui auoit",
+    "prins le nom, & le titre de fils de Roy, & ſous ce man-",
+    "teau, prins les armes, & excité vne grande ſedition: de la",
+    "peine, n'en dit pas vn ſeul mot {c}. Il eſt auſſi parlé de ie ne",
+    "ſçay quel Barbare Philippe ſerf, qui ſe preſenta au peu",
+    "ple Romain, comme vne perſonne franche, & comme",
+    "telle en rapporta la dignité de Preteur. mais ſ'il fit",
+    "bien ou mal, le Iuriſconſulte n'en ouure pas vne ſeule",
+    "parole {d}. Chacun ſçait auſſi, qu'il eſt fait mention en",
+    "noſtre droit, de la ſuppoſition des enfans {e}. Mais quoy?",
+    "ce ſont tous crimes diuers, & ſeparez de ceſtuy-ci.",
+    "& ne ſeroit certainement aiſé donner certaines reigles",
+    "ſur la peine: tant par ce que noz loix n'en ont rien de",
+    "terminé, que pour autant auſſi, que les anciens ont"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "S. Mathieu",
+    "c. xi"
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "Malachie c.",
+    "iiij."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "c. quæritur",
+    "xxij. q. ij."
+   ]
+  },
+  {
+   "key": "x",
+   "kind": "margin",
+   "lines": [
+    "l. falſi. D. de",
+    "falſ."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. quamuis.",
+    "D. de reb. cor."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. quamuis",
+    "D. de reb. cor."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. eos. P fin.",
+    "D. de falſi.."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "c. perpendi",
+    "mus. de ſent.",
+    "excom."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. ij. D.",
+    "offi. prætor. de"
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. i. P. fi. & l.",
+    "ij. D. de Ca.",
+    "bo. edic. l. i. C.",
+    "de fal."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "Dieu auoit promis par le Prophe {h}. non point dit S.",
+   "note": "sic: 'Prophe' (for Prophete) as printed; marker h follows it"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ne de faux {x}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+   "note": "marker printed as small 'x' (not the expected 'k'); margin key also x-shaped; alphabet g h i x l"
+  },
+  {
+   "where": "blocks[2].text",
+   "text": "Suppoſition de nom, & perſonne.",
+   "note": "mark over the 'u' of Suppoſition (looks like diaeresis/ink spot); transcribed plain u"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "oncques deſcouuerte, & digne d'atroce, cuelle, & exem",
+   "note": "sic: 'cuelle' for cruelle"
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "fenduës, on bien ſuppoſe fauſſes lettres du Prince, veut",
+   "note": "'on' for 'ou' as printed (sic); diaeresis on e of fenduës"
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "Clement iij, auſſi fait mention d'vn preſtre qui auoit",
+   "note": "punctuation after 'iij' could be comma or period; read comma"
+  },
+  {
+   "where": "margin_notes[4]",
+   "text": "l. quamuis.",
+   "note": "note l repeats the citation of note a (l. quamuis D. de reb. cor.); no beside_line, printed beside the last lines of the first paragraph"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "D. de falſi..",
+   "note": "two dots printed at end, as read"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "offi. prætor. de",
+   "note": "last word 'de' faint/uncertain, may be 'da'"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "ij. D. de Ca.",
+   "note": "'Ca.' may be 'Ca-' (Carbo. split across lines); line-end mark after 'l.' in previous line unclear"
+  },
+  {
+   "where": "margin_notes",
+   "text": "g h i k l / a b c d e",
+   "note": "markers g-l continue the restarted alphabet of ANNOT. LXXXI (keyed a2-f2 on p110); keyed here as plain g, h, i, k, l since no letter repeats on this page; arbiter may prefer g2-l2. ANNOTAT. LXXXII restarts at a (keys a-e)"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "Dieu auoit promis par le Prophe {h}. non point dit S.",
+   "note": "sic: 'Prophe' (for 'Prophete'); lowercase 'non' after the period as printed"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "Auguſtin, que Ieſus entendit S. Iean eſtre la meſme per",
+   "note": "'que Ieſus' set tight ('queleſus'), the I looks like l; 'eſtre' r broken, looks like 'eſtie'"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "ſonne d'Elie: mais par imitation de vertu {i}. Autrement,",
+   "note": "'Autrement' final letters damaged (looks like 'Autremẽnt'/'Autremeut'); mark after Elie read as colon"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "ſulte Vlpien qu'il en ſoit) autres aux exemple {l}.",
+   "note": "print sets a space before ')'; normalized. Wording 'autres aux exemple' as printed"
+  },
+  {
+   "where": "blocks[2].text",
+   "text": "Suppoſition de nom, & perſonne.",
+   "note": "a stray accent-like mark over the u of 'Suppoſition'; not transcribed"
+  },
+  {
+   "where": "blocks[3].text",
+   "text": "ANNOTAT. LXXXII.",
+   "note": "small capitals, letterspaced"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "oncques deſcouuerte, & digne d'atroce, cuelle, & exem",
+   "note": "sic: 'cuelle' (for 'cruelle')"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "plaire punition {a}, bien que de ce crime, noz loix, & ca-",
+   "note": "line-end sign after 'ca' is a small raised dot; read as hyphen"
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "text": "fenduës, on bien ſuppoſe fauſſes lettres du Prince, veut",
+   "note": "'fenduës' with diaeresis as printed; 'on' for 'ou' as printed"
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "Clement iij, auſſi fait mention d'vn preſtre qui auoit",
+   "note": "mark after 'iij' could be comma or period; read as comma"
+  },
+  {
+   "where": "blocks[4].lines[16]",
+   "text": "prins le nom, & le titre de fils de Roy, & ſous ce man-",
+   "note": "line-end sign after 'man' is a raised dot; read as hyphen"
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "ſçay quel Barbare Philippe ſerf, qui ſe preſenta au peu",
+   "note": "a blot/stray sort sits over the final a of 'preſenta'; 'Philippe' with a stray dot above"
+  },
+  {
+   "where": "blocks[4].lines[22]",
+   "text": "bien ou mal, le Iuriſconſulte n'en ouure pas vne ſeule",
+   "note": "'ouure' as printed (first letter slightly damaged, could be 'onure')"
+  },
+  {
+   "where": "blocks[4].lines[25]",
+   "text": "ce ſont tous crimes diuers, & ſeparez de ceſtuy-ci.",
+   "note": "hyphen in 'ceſtuy-ci' printed as a raised dot"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "iiij.",
+   "note": "printed 'iiÿ' (ij ligature); read iiij"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "D. de falſi..",
+   "note": "two dots printed after 'falſi' as printed"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[5]",
+   "target": "blocks[0].lines[5]",
+   "spans": [
+    [
+     11,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "ne de faux {x}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+   "b": "ne de faux {k}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+   "text": "ne de faux {x}. & telle, (diſoit en quelque lieu le Iuriſcon-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "the margin keys the matching note x, so body and margin agree on x; the alphabet expects k, but x is what both show"
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "target": "blocks[4].lines[9]",
+   "spans": [
+    [
+     36,
+     46
+    ]
+   ],
+   "aligned": true,
+   "a": "ne ſe trouue aucun texte qui puiſſe proprement apparte",
+   "b": "ne ſe trouue aucun texte qui puiſſe propremẽt apparte",
+   "text": "ne ſe trouue aucun texte qui puiſſe proprement apparte",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "target": "blocks[4].lines[17]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "teau, prins les armes, & excité vne grande ſedition: de la",
+   "b": "teau. prins les armes, & excité vne grande ſedition: de la",
+   "text": "teau, prins les armes, & excité vne grande ſedition: de la",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "comma: the sentence continues 'sous ce manteau, prins les armes, & excité...'"
+  },
+  {
+   "where": "blocks[4].lines[28]",
+   "target": "blocks[4].lines[28]",
+   "spans": [
+    [
+     0,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "terminé, que pour autant auſſi, que les anciens ont",
+   "b": "terminé. que pour autant auſſi, que les anciens ont",
+   "text": "terminé, que pour autant auſſi, que les anciens ont",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "comma: 'tant par ce que ... n'en ont rien determiné, que pour autant aussi' is one period"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     3,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "c. xi",
+   "b": "c. xi.",
+   "text": "c. xi",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[3]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "[x] l. falſi. D. de\nfalſ.",
+   "b": "[k] l. falſi. D. de\nfalſ.",
+   "text": "[x] l. falſi. D. de\nfalſ.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

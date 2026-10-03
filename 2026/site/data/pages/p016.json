@@ -225,5 +225,56 @@
    "text": "c. x.",
    "note": "printed 'c. x' followed by a period set well to the right after a wide space; normalized per §1."
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[4]",
+   "target": "blocks[0].lines[4]",
+   "spans": [
+    [
+     46,
+     51
+    ]
+   ],
+   "aligned": true,
+   "a": "xandrin, homme de ſinguliere, & recommendable crudi",
+   "b": "xandrin, homme de ſinguliere, & recommendable erudi",
+   "text": "xandrin, homme de ſinguliere, & recommendable crudi",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the first sort of the last word is an open c with no trace of a crossbar; transcribed as printed, 'crudi' (sic for 'erudi-tion')"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "target": "margin_notes[3].lines[2]",
+   "spans": [
+    [
+     0,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "tiquus. D. de",
+   "b": "riquus. D. de",
+   "text": "tiquis. D. de",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 8x the first letter has a crossbar projecting to the left of the stem and a curled top, like the italic t of 'nit' two lines above, not the flagged r of 'verbo' below; and the letter before the final s carries an i-dot, so the ending is 'is'. The print reads 'a-/tiquis' for the lex Quaeret aliquis (t sort for l)"
+  },
+  {
+   "where": "margin_notes[3].beside_line / margin_notes[4].beside_line",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "des Phyſiciens, qui penſent cela proceder de l'imagina- / bres & cabinets {r}. teſmoin celle, qui ayant ententiue-",
+   "b": "Ie ne trouue pas mauuais l'opinion d'Empedocles, & / pluſieurs fois les enfans eſtre nez ſemblables aux pour-",
+   "text": "Ie ne trouue pas mauuais l'opinion d'Empedocles, & / pluſieurs fois les enfans eſtre nez ſemblables aux pour-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "on the page the first line of note q ('Accurſe en') sits beside 'Ie ne trouue pas mauuais' and the first line of note r ('Plutar. au') beside 'pluſieurs fois les enfans'"
+  }
  ]
 }

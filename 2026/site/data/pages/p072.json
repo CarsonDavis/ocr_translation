@@ -9,11 +9,382 @@
   "image_no": 94,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/94"
  },
- "running_head": null,
+ "running_head": "ARREST DV.",
  "prev": "p071",
  "next": "p073",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "cent <sup class=\"mk\" data-key=\"m\">m</sup>; and so to embrace the gentler, more humane opinion, and that which tends to the deliverance of the accused <sup class=\"mk\" data-key=\"n\">n</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "m",
+     "citation": "Digest 48.19 (<i>De poenis</i>), l. <i>Absentem</i> (D. 48.19.5, Ulpian)",
+     "original": "l. abſente D. de pœn.",
+     "gloss": "<i>Satius enim esse impunitum relinqui facinus nocentis quam innocentem damnari</i> — better that the crime of a guilty man go unpunished than that an innocent man be condemned: the very maxim Coras translates."
+    },
+    {
+     "key": "c",
+     "citation": "An <i>authentica</i> cited by the incipit <i>Itaque</i>, under a Code title printed <i>C. con. de ſuc.</i> (perhaps <i>Communia de successionibus</i>, C. 6.59) — not identified",
+     "original": "Aud. itaque. C. con. de ſuc.",
+     "gloss": "The transcription marks this note an orphan; it is the note for the body's third marker, read {c}. The print's <i>Aud.</i> is read as <i>Aut.</i>, <i>authentica</i>. Its bearing on the concurrence of favours could not be verified."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTB"
+  },
+  {
+   "type": "paragraph",
+   "html": "Following which opinion, as the most equitable, it seems that the conjectures and arguments deduced to the contrary are nothing, or very little. For as to the first, on the number of the witnesses, the answer is clear from what is said above: that to the witnesses deposing for the prisoner, although they are not so great in number, nevertheless more faith must be given — both because they depose things more probable.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LI"
+  },
+  {
+   "type": "paragraph",
+   "html": "One must not look so much to the number and multitude of the witnesses as to the verisimilitude of what they depose <sup class=\"mk\" data-key=\"a\">a</sup>; so that more faith must be given to those who depose probable things than to the others, even though these be in much greater number <sup class=\"mk\" data-key=\"b\">b</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Decretals X 2.19 (<i>De probationibus</i>), c. <i>Licet causam</i> (cf. X 2.19.9, Innocent III; number unverified); X 2.20 (<i>De testibus et attestationibus</i>), c. <i>In nostra</i> (chapter not identified)",
+     "original": "c. licet cau ſam. de prob. c⟨alt:c.⟩ &amp; in noſtra de teſtib.",
+     "gloss": "Witnesses are to be weighed by the probability of their depositions, not counted."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 22.5 (<i>De testibus</i>), l. <i>Ob carmen</i> (D. 22.5.21, Arcadius Charisius), the last paragraph (D. 22.5.21.3)",
+     "original": "l. ob carnem. P fina. D. de teſtib.",
+     "gloss": "<i>Non ad multitudinem respici oportet, sed ad sinceram testimoniorum fidem</i> — where witnesses differ, the judge is to regard not their number but the sincere faith of their testimony, and the evidence that most nearly agrees with the truth. The print's <i>carnem</i> is a wrong sort for <i>carmen</i>."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "As also because they affirm and depose in favour of the marriage, of the children, and of the accused.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LII"
+  },
+  {
+   "type": "paragraph",
+   "html": "These three points were of great consideration for the accused: for in the first place, much more faith is given to two witnesses who affirm some fact than to a thousand others <sup class=\"mk\" data-key=\"a2\">a2</sup>. And next, in things which admit of some doubt, the favour either of the marriage, or of the children, or of the accused makes the balance fall (as was said a little before) to that side <sup class=\"mk\" data-key=\"b2\">b2</sup>: with stronger reason,",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a2",
+     "citation": "Accursius (<i>Accurse</i>) on Digest 4.8 (<i>De receptis: qui arbitrium receperint</i>), l. <i>Diem</i> (l. <i>Diem proferre</i>; fragment and paragraph unverified), § <i>Si plures</i>",
+     "original": "Accurſe en la l. diem. P. ſi plures. D. de recep arb.",
+     "gloss": "The Gloss there weighs number against affirmation: two who affirm a fact outweigh many who deny it."
+    },
+    {
+     "key": "b2",
+     "citation": "Digest 44.7 (<i>De obligationibus et actionibus</i>), l. <i>Arrianus</i> (cf. D. 44.7.47, Paul); Decretals X 2.27 (<i>De sententia et re iudicata</i>), the last chapter (chapter not identified)",
+     "original": "l. Arrianus. D de actio &amp; oblig. c. fina. de re iud.",
+     "gloss": "Both cited at Annotation L, notes <i>e</i> and <i>a</i>: in doubt, the balance falls for the defendant and for the marriage."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "cent {m}. & par ainſi d'embraſſer l'opinion plus douce.",
+    "plus humaine, & qui tend à la deliurance de l'accuſé {n}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTB.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Suiuant laquelle opinion, comme la",
+    "plus equitable, ſẽble que les cõiectures,",
+    "& argumens deduits au contraire, ne",
+    "ſont rien, ou bien peu. Car quant au pre-",
+    "mier du nombre des teſmoins, la reſpõ-",
+    "ſe eſt claire, par ce que deſſus eſt dit, qu'",
+    "aux teſmoins depoſans pour le priſõnier,",
+    "bien qu'ils ne ſoyent pas en ſi grand nõ-",
+    "bre, neantmoins faut donner plus de",
+    "foy: tant par ce qu'ils depoſent choſes",
+    "plus vray-ſemblables."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il ne fault pas tant regarder à la numeroſité & mul-",
+    "titude des teſmoins, qu'à la veriſimilitude de ce qu'ilz",
+    "depoſent {a}: de maniere, qu'il faut donner plus de foy",
+    "à eux qui depoſent choſes vray-ſemblables, qu'aux au-",
+    "tres: encor qu'ils ſoyent en beaucoup plus grand nom-",
+    "bre {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Que pour autant auſsi qu'ils affermẽt",
+    "& depoſent en faueur du mariage, des",
+    "enfans, & du preuenu."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ces trois poincts eſtoyent en grande conſideration",
+    "pour le preuenu: car en premier lieu, on donne beau-",
+    "coup plus de foy à deux teſmoins qui aſſeurent quel-",
+    "que faict, qu'à mille autres {a2}. Et apres, és choſes qui",
+    "ont quelque doute, la faueur, ou du mariage ou des",
+    "enfans, ou du preuenu font tomber la balance (comme",
+    "peu deuant a eſté dit) de ce coſté {b2}: plus forte raiſon"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "c. licet cau",
+    "ſam. de prob.",
+    "c & in noſtra",
+    "de teſtib."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. ob car-",
+    "nem. P fina.",
+    "D. de teſtib."
+   ]
+  },
+  {
+   "key": "a2",
+   "kind": "margin",
+   "lines": [
+    "Accurſe en",
+    "la l. diem. P.",
+    "ſi plures. D.",
+    "de recep arb."
+   ]
+  },
+  {
+   "key": "b2",
+   "kind": "margin",
+   "lines": [
+    "l. Arrianus.",
+    "D de actio &",
+    "oblig. c. fina.",
+    "de re iud."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Aud. itaque.",
+    "C. con. de ſuc."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "cent {m}. & par ainſi d'embraſſer l'opinion plus douce.",
+   "note": "marker m: its note is not on this page (presumably on p071's margin); line-end mark after 'douce' is a heavy dot at mid-height, read as period, could be a defective comma"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "plus humaine, & qui tend à la deliurance de l'accuſé {n}.",
+   "note": "marker n has no note on this page; presumably on p071"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTB.",
+   "note": "sic: last letter prints as B rather than E (wrong sort or damaged E)"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "ſont rien, ou bien peu. Car quant au pre-",
+   "note": "first letter looks close to f; read ſ by the word (ſont = are)"
+  },
+  {
+   "where": "blocks[8].lines[5]",
+   "text": "enfans, ou du preuenu font tomber la balance (comme",
+   "note": "read 'font' (make) with f; the glyph has a crossbar"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "c & in noſtra",
+   "note": "first sort looks like c with a mark under it (ę-like); may be 'c.'"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "c. licet cau",
+   "note": "a stray slash-like mark after 'c.' ignored"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "de recep arb.",
+   "note": "final point could be a comma"
+  },
+  {
+   "where": "margin_notes[4]",
+   "text": "Aud. itaque. / C. con. de ſuc.",
+   "note": "note c has no marker on this page (Annot. LII body shows only a2 and b2); marker c presumably falls on p073; 'Aud.' as printed (Auth.?); 'C.' is a swash capital C"
+  },
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "period printed after DV; kept as printed"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "cent {m}. & par ainſi d'embraſſer l'opinion plus douce.",
+   "note": "marker m: no note on this page, presumably on p071. Line-final mark after 'douce' is a heavy round dot at mid-height, read as period; could be a badly inked comma"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "plus humaine, & qui tend à la deliurance de l'accuſé {n}.",
+   "note": "marker n: no note on this page, presumably on p071"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTB.",
+   "note": "sic? last letter looks like B rather than E (wrong or damaged sort); intended TEXTE."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "ſont rien, ou bien peu. Car quant au pre-",
+   "note": "first glyph looks like f with crossbar; read as ſ by the word (ſont)"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Il ne fault pas tant regarder à la numeroſité & mul-",
+   "note": "'tant' final letter looks s-like ('tans'); possible wrong sort. Line-end hyphen printed as a square dot"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "à eux qui depoſent choſes vray-ſemblables, qu'aux au-",
+   "note": "hyphen in vray-ſemblables printed as a raised dot"
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "Que pour autant auſsi qu'ils affermẽt",
+   "note": "auſsi: read long s + round s"
+  },
+  {
+   "where": "blocks[6].lines[1]",
+   "text": "& depoſent en faueur du mariage, des",
+   "note": "f of faueur poorly inked, resembles ſ/t"
+  },
+  {
+   "where": "blocks[8].lines[6]",
+   "text": "peu deuant a eſté dit) de ce coſté {b2}: plus forte raiſon",
+   "note": "'deuant': e looks like c ('dcuant'), possibly damaged sort"
+  },
+  {
+   "where": "margin_notes[4]",
+   "text": "Aud. itaque.",
+   "note": "note key c2 has no {c2} marker on this page; marker presumably on p073"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[7].text",
+   "target": "blocks[7].text",
+   "spans": [
+    [
+     7,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "ANNOT. LII.",
+   "b": "ANNOT. LII,",
+   "text": "ANNOT. LII.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "target": "margin_notes[0].lines[2]",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "aligned": true,
+   "a": "c & in noſtra",
+   "b": "c. & in noſtra",
+   "text": "c & in noſtra",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[4]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "[c] Aud. itaque.\nC. con. de ſuc.",
+   "b": "[c2] Aud. itaque.\nC. con. de ſuc.",
+   "text": "[c] Aud. itaque.\nC. con. de ſuc.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

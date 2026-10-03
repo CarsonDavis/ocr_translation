@@ -9,11 +9,407 @@
   "image_no": 103,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/103"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p082",
  "next": "p084",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "ble to judge or condemn that man. And so in civil matters: for a wicked man could easily cause a rumour of false things to be sown, to serve his cause. Wherefore our laws have wisely ordained that proof by rumour and common repute is not full proof <sup class=\"mk\" data-key=\"a\">a</sup>, save in certain cases collected by our interpreters in the common places <sup class=\"mk\" data-key=\"b\">b</sup>: as when it is a question of proving the bounds and limits of lands <sup class=\"mk\" data-key=\"c\">c</sup>; or of showing certain old and ancient facts exceeding the memory of men <sup class=\"mk\" data-key=\"d\">d</sup>; or else of making it appear that Jean is the son of Antoine, Pierre the son of François, or any other filiation <sup class=\"mk\" data-key=\"e\">e</sup>; or of proving the death of someone <sup class=\"mk\" data-key=\"f\">f</sup>; or of putting in evidence some other thing which cannot be proved save with great difficulty. And although in civil matters it is received that rumour and renown make a half-proof, nevertheless in criminal causes (of which we are speaking), or indeed in civil ones that are high and grave, this has no place <sup class=\"mk\" data-key=\"h\">h</sup>. Wherefore the judge could not then join this half-proof with one witness, to make it full and entire <sup class=\"mk\" data-key=\"i\">i</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 22.5.3 (<i>De testibus</i>, l. <i>Testium fides</i>), § <i>Eiusdem</i> (D. 22.5.3.2, Hadrian's rescript: witnesses are weighed, and <i>consentiens fama</i> may confirm belief in a fact); the Gloss on Decretals X 5.27 (<i>De clerico excommunicato, deposito vel interdicto ministrante</i>), c. <i>Illud</i> (chapter number unverified)",
+     "original": "l. iij P eiuſ dé D de teſti. Gloſe au c. illud. de cleri. excom.",
+     "gloss": "The <i>P.</i> is the print's sort for §; <i>eiuſ dé</i> is <i>eiuſdẽ</i> (<i>eiusdem</i>) with a reflow gap and a wrong sort."
+    },
+    {
+     "key": "b",
+     "citation": "Felinus Sandeus (<i>Felin</i>) on Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Veniens</i>, the first of the two chapters so beginning in that title (chapter number unverified)",
+     "original": "Felin au c. veniens. i de teſti.",
+     "gloss": "Felinus's commentary collects the cases in which <i>fama</i> is admitted as proof; the same place is cited at annot-041 {a}."
+    },
+    {
+     "key": "c",
+     "citation": "Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Cum causam</i> (chapter number unverified)",
+     "original": "c. cum cauſam. de teſti.",
+     "gloss": "The boundaries of lands may be proved by repute; cited at annot-028 {c2} as well."
+    },
+    {
+     "key": "d",
+     "citation": "Innocent IV on the said Decretals X 2.20, c. <i>Veniens</i>",
+     "original": "Innocent aud. c. veniẽs.",
+     "gloss": "<i>Aud.</i> = <i>au d[it]</i>, \"at the said chapter\". Innocent's commentary admits common repute for facts beyond living memory."
+    },
+    {
+     "key": "e",
+     "citation": "Decretals X 2.19 (<i>De probationibus</i>), c. <i>Per tuas</i> (chapter number unverified)",
+     "original": "c. per tuas. de proba.",
+     "gloss": "Filiation proved by common repute; as at annot-041 {b}."
+    },
+    {
+     "key": "f",
+     "citation": "Bartolus (<i>Bartole</i>) on Digest 29.3 (<i>Testamenta quemadmodum aperiantur, inspiciantur et describantur</i>), l. 3 as printed, § <i>Si dubitetur</i> (cf. D. 29.3.2, Ulpian, where that paragraph stands; the law number differs from annot-041 {o}, which gives <i>l. ij</i>)",
+     "original": "Bartole en la l. iij. P. ſi du bitetur. D quẽ admod. teſta. aper.",
+     "gloss": "Bartolus there admits proof of a testator's death by common repute; <i>du bitetur</i> is <i>dubitetur</i> with a reflow gap."
+    },
+    {
+     "key": "h",
+     "citation": "Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Tam litteris</i> and c. <i>Veniens</i> (chapter numbers unverified)",
+     "original": "c. tam lite. ris. c. veniens; de teſti.",
+     "gloss": "<i>Lite. ris</i> is <i>literis</i> broken by a reflow gap with a stray point; the semicolon after <i>veniens</i> is a stray sort for a point. The same pair is cited together at texte-57's Annotation LX, note <i>p</i>."
+    },
+    {
+     "key": "i",
+     "citation": "The said c. <i>Tam litteris</i> (X 2.20); Felinus Sandeus (<i>Felin</i>) on the said c. <i>Veniens</i> (X 2.20)",
+     "original": "c. tam literis. alleguee; Felin. aud. c; veniens.",
+     "gloss": "<i>Alleguee</i> = \"already cited\"; <i>aud. c.</i> = <i>au dit chapitre</i>. Reading B <i>c.</i> is taken over the print's <i>c;</i>, the semicolon being a stray sort in the abbreviation <i>c.</i> (<i>capitulum</i>)."
+    },
+    {
+     "key": "g",
+     "citation": "Accursius (<i>Accurse</i>), the Gloss on Digest 22.5.3 (<i>De testibus</i>, l. 3), § <i>Eiusdem</i> (D. 22.5.3.2); Salicetus (<i>Salicet</i>; Bartholomaeus de Saliceto) on Code 9.2 (<i>De accusationibus et inscriptionibus</i>), l. <i>Ea quidem</i>, at the last paragraph, towards its end (the law not numbered; unverified)",
+     "original": "Accurſe en la l. iij P. eiuſdé. D. de teſt. Salicet en la l. ea quidẽ. P. fin ſur la fin. C. de accuſa.",
+     "gloss": "The Gloss on § <i>Eiusdem</i> is where the doctrine of <i>fama</i> as half-proof is built; <i>P. fin ſur la fin</i> = § <i>fin.</i>, <i>in fine</i>. Reading A <i>quidẽ</i> (= <i>quidem</i>) is taken over <i>quidé</i>."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Nor could one firmly [unclear: <i>perſonnément</i>, as printed — not a known word; perhaps <i>pertinemment</i>, \"pertinently\", or <i>fermement</i>] found oneself upon the knowledge which the prisoner had of all those whom he met the first time: for besides the magic, of which he was strongly suspected, he has since confessed, at the execution, that certain persons had given him certain information and advice. Still less can one make use of the likeness of the said Martin's sisters to the said prisoner; because, as has often been said, judgment by likeness is not sure — of which",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ble iuger ou condamner ceſt homme. Et ainſi és matie-",
+    "res ciuiles: car vn meſchant homme, facilement pour-",
+    "roit faire ſemer vn bruit de choſes fauſſes, pour ſeruir",
+    "à ſa cauſe. Dont nos loix ont ſainctement ordonné, la",
+    "preuue par bruit & fame n'eſtre pas entiere {a}, ſi n'eſt",
+    "en certains cas aſſemblez par nos interpretes és lieux",
+    "communs {b}. comme quand il eſt queſtion de prouuer",
+    "les bornes & limites des terres {c}. Ou de monſtrer quel",
+    "ques faicts vieux & anciens, excedans la memoire des",
+    "hommes {d}. Ou bien de faire apparoir, que Iean eſt fils",
+    "d'Antoine,: Pierre fils de François: ou autre filation {e}.",
+    "Ou de prouuer la mort de quelqu'vn {f}. Ou de mettre",
+    "en euidence quelque autre choſe, qui ne ſe peut prou-",
+    "uer qu'à grande difficulté. Et bien qu'és matieres ciuiles",
+    "ſoit receu, que le bruit & renommee fait vne demie",
+    "preuue: toutesfois és cauſes criminelles (deſquelles",
+    "nous parlons) ou bien és ciuiles, hautes, & graues, cela",
+    "n'a point de lieu {h}. Dont lors ne pourroit le iuge con-",
+    "ioindre ceſte demie preuue auec vn teſmoin, pour la",
+    "rendre pleine & entiere {i}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Auſsi ne ſe pouuoit on perſonnément",
+    "fonder a la cognoiſſance que le priſor-",
+    "nier auoit, de tous ceux qu'il rencontra",
+    "la premiere fois: car outre la magie, de",
+    "laquelle il eſtoit fort ſoupçonné: depuis,",
+    "en l'execution a-il confeſſe, que quel-",
+    "ques vns luy auoyent dõné certaines in-",
+    "telligences, & auiſemens. Moins ſe peut",
+    "on aider de la ſimilitude des ſeurs dudit",
+    "Martin, auec ledit priſonnier. par ce que,",
+    "çomme ſouuent a eſté dit, le Iugement",
+    "par ſemblance n'eſt pas aſſeuré: dequoy"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. iij P eiuſ",
+    "dé D de teſti.",
+    "Gloſe au c. il-",
+    "lud. de cleri.",
+    "excom."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Felin au c.",
+    "veniens. i de",
+    "teſti."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "c. cum cau-",
+    "ſam. de teſti."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Innocent",
+    "aud. c. veniẽs."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "c. per tuas.",
+    "de proba."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Bartole en",
+    "la l. iij. P. ſi du",
+    "bitetur. D quẽ",
+    "admod. teſta.",
+    "aper."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Accurſe en",
+    "la l. iij P. eiuſ-",
+    "dé. D. de teſt.",
+    "Salicet en la",
+    "l. ea quidẽ. P.",
+    "fin ſur la fin.",
+    "C. de accuſa."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "c. tam lite.",
+    "ris. c. veniens;",
+    "de teſti."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "c. tam lite-",
+    "ris. alleguee;",
+    "Felin. aud. c.",
+    "veniens."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[6]",
+   "text": "Accurſe en",
+   "note": "marker g: no {g} visible anywhere in the body; note g is printed in the margin between notes f and h (beside the 'preuue: toutesfois' to 'n'a point de lieu' lines). Marker probably omitted by the printer or lost; arbiter should check the print near 'demie / preuue' and 'graues, cela'."
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "d'Antoine,: Pierre fils de François: ou autre filation {e}.",
+   "note": "',:' after Antoine as printed (sic); 'Antoine' set with an odd capital A, possibly small capitals; 'filation' sic (for filiation); mark after {e} read as period (round dot)"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "preuue: toutesfois és cauſes criminelles (deſquelles",
+   "note": "mark after 'preuue' could be ';' or ':'; 'toutesfois' first t damaged, round s before f"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "fonder a la cognoiſſance que le priſor-",
+   "note": "last letter before the hyphen looks like 'r' not 'n' (priſor- for priſon-); sic or damaged n; line-end hyphen printed as an odd blotted mark"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "çomme ſouuent a eſté dit, le Iugement",
+   "note": "first c appears to carry a cedilla (sic); could be a spot"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "en l'execution a-il confeſſe, que quel-",
+   "note": "'confeſſe' with no visible accent on final e"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij P eiuſ",
+   "note": "no hyphen visible after 'eiuſ'; a small raised mark after it may be a 'd' or hyphen (eiuſ/dé = eiuſdem); first line of note a"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "lud. de cleri.",
+   "note": "points after 'lud' and 'cleri' printed as raised/middle dots; transcribed as periods"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "veniens. i de",
+   "note": "'i de' as printed (stray i? possibly for 'de' or a misprint); sic"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "text": "admod. teſta.",
+   "note": "final point may be ':'"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "dé. D. de teſt.",
+   "note": "final point may be ':'"
+  },
+  {
+   "where": "margin_notes[6].lines[4]",
+   "text": "l. ea quidẽ. P.",
+   "note": "mark over e in 'quidẽ' could be tilde or acute"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "d'Antoine,: Pierre fils de François: ou autre filation {e}.",
+   "note": "'Antoine' set with a capital-like/small-capital form ('ANtoine'); ',:' printed as comma followed by colon, sic; P of Pierre damaged; 'filation' sic"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "preuue: toutesfois és cauſes criminelles (deſquelles",
+   "note": "'toutesfois' t's worn, reads almost 'rourefois'; round s before f as printed"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "communs {b}. comme quand il eſt queſtion de prouuer",
+   "note": "lowercase 'comme' after period, as printed"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "fonder a la cognoiſſance que le priſor-",
+   "note": "'priſor-' as it appears (expected 'priſon-'); sic, or a damaged n; line-end hyphen is a short heavy dash"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Auſsi ne ſe pouuoit on perſonnément",
+   "note": "long s + round s in 'Auſsi' as read"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "en l'execution a-il confeſſe, que quel-",
+   "note": "'confeſſe' printed without accent as far as visible"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "Martin, auec ledit priſonnier. par ce que,",
+   "note": "period after 'priſonnier' (round dot) then lowercase 'par', as printed"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "çomme ſouuent a eſté dit, le Iugement",
+   "note": "a hook under the c looks like a cedilla; sic, or a stray mark"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij P eiuſ",
+   "note": "'iij' printed with dotted/ÿ-like final; a small mark after 'eiuſ' (possibly a raised abbreviation sign or hyphen) not transcribed"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "dé D de teſti.",
+   "note": "mark over e of 'dé' looks acute but may be a tilde (eiuſdem); D is a swash D"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "lud. de cleri.",
+   "note": "line-end sign after 'cleri' is a raised dot; could be a hyphen ('cleri-/excom.')"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "veniens. i de",
+   "note": "'i' possibly 'i.' (no point seen)"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "text": "admod. teſta.",
+   "note": "final point may be a colon"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "dé. D. de teſt.",
+   "note": "final point may be a colon; accent on 'dé' may be a tilde"
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "text": "c. tam lite.",
+   "note": "line-end sign after 'lite' is a dot; probably a hyphen for 'lite-/ris'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "ris. alleguee;",
+   "note": "'alleguee;' uncertain: ending could be 'alleguez.' or 'allegué:'"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "Felin. aud. c.",
+   "note": "punctuation after 'c' may be a semicolon"
+  }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[6].lines[4]",
+   "target": "margin_notes[6].lines[4]",
+   "spans": [
+    [
+     6,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "l. ea quidẽ. P.",
+   "b": "l. ea quidé. P.",
+   "text": "l. ea quidẽ. P.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "quidẽ = quidem, the incipit l. Ea quidem (C. de accusationibus); quidé with an acute is not a Latin word."
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "target": "margin_notes[8].lines[2]",
+   "spans": [
+    [
+     12,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "Felin. aud. c;",
+   "b": "Felin. aud. c.",
+   "text": "Felin. aud. c.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "c. is the standard abbreviation for capitulum before veniens; the semicolon in c; is a stray sort for the point."
+  }
+ ]
 }

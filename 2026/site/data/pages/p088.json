@@ -9,11 +9,280 @@
   "image_no": 110,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/110"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p087",
  "next": "p089",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "heading",
+   "text": "TEXTE,"
+  },
+  {
+   "type": "paragraph",
+   "html": "Who, arrived from Spain, having a wooden leg, as a year before had been set down by the soldier (of whom mention has been made above), presents a petition narrating the whole imposture, asking to be heard. The Court orders that he shall be heard, holding him under close arrest [<i>l'arrest clos</i>: confinement to an assigned place] in the keeping of the guard of the palace.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXIX"
+  },
+  {
+   "type": "paragraph",
+   "html": "This word <i>Arrest</i>, in our French tongue, is taken in two ways. The first, for a final judgment and decree of a sovereign court; and so many think that it is drawn from the Greek ἄρεστον, which is as much as to say an ordinance of a magistrate. Whence it seems also, says that great Budé, that we err in writing and pronouncing it with a double R, seeing that ἄρεστον, from which it is drawn, is written only with a single R <sup class=\"mk\" data-key=\"a\">a</sup>. The second, for a kind of imprisonment, proceeding from the command and injunction of the magistrate made to some person not to stir from a certain place which he assigns to him <sup class=\"mk\" data-key=\"b\">b</sup>: as in our context.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Guillaume Budé (<i>Guil. Budée</i>), <i>Annotationes in Pandectas</i>, on the last law of Digest 1.9 (<i>De senatoribus</i>; l. <i>fin.</i> = D. 1.9.12, Ulpian), at its end",
+     "original": "Guil. Budée en la Loy fin. ſur la fin. D. de ſenator.",
+     "gloss": "Budé's <i>Annotationes</i> (1508) are arranged as a commentary on the Digest; the passage deriving <i>arrest</i> from ἀρεστόν stands under this law. Locus not verified against the printed <i>Annotationes</i>."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 43.29 (<i>De homine libero exhibendo</i>), l. 2 (D. 43.29.2, Venuleius; the title has four laws, and the second is taken as printed); Digest 35.1 (<i>De condicionibus et demonstrationibus et causis et modis eorum quae in testamento scribuntur</i>), the law containing the paragraph beginning <i>Titio centum</i> (the law's incipit is not printed; fragment not identified)",
+     "original": "l. ij. D. de lib. exhib. l. P. Tirio centũ. D. de con. &amp; demon.",
+     "gloss": "The print's <i>P.</i> is its sort for the paragraph sign §, and <i>Tirio</i> a wrong sort for <i>Titio</i>. Cited for the Roman sense of being kept or detained in a place without being in a prison: the interdict for producing a free man wrongfully held, and a legacy conditioned on the legatee's not leaving a place."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Nevertheless, that he shall be confronted with the said du Tilh, prisoner, with Pierre Guerre, Bertrande de Rols and the sisters of the said Martin, together with certain other witnesses who were the principal of those who had so pertinaciously assured that the prisoner was truly Martin Guerre. He is heard; he sets down and gives tokens upon the same interrogations",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "heading",
+   "text": "TEXTE,",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Lequel arriué des Eſpagnes, ayant",
+    "vne iambe de bois, comme vn an au-",
+    "parauant auoit eſté conſigné par le ſol-",
+    "dat, (duquel a eſté ci deſſus parlé) pre-",
+    "ſente requeſte narratiue de toute l'im-",
+    "poſture: requerant eſtre ouy. La cour",
+    "ordonne qu'il ſe feroit ouyr, luy tenant",
+    "l'arreſt clos chez la garde du palais."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ceſte diction Arreſt, en noſtre langue Françoiſe, ſe",
+    "prent en deux ſortes. La premiere, pour vn dernier iuge",
+    "ment, & decret d'vne cour ſouueraine: & ainſi pluſieurs",
+    "penſent, que ſoit tirée du Grec ἄρεστον, qui vaut autant à",
+    "dire, comme ordonnãce de magiſtrat. Dõt ſemble auſ-",
+    "ſi, dit ce grãd Budée, que nous faillons en l'eſcriuant, &",
+    "prononçant par double R. veu que ἄρεστον d'où il eſt ti",
+    "ré, ne ſ'eſcrit qu'auec R. ſimple {a}. La ſeconde, pour vne",
+    "eſpece de priſon, procedant du commandement & in-",
+    "ionction du magiſtrat fait à quelque perſonnage de ne",
+    "bouger d'vn certain lieu, qu'il luy aſſigne {b}. comme en",
+    "noſtre contexte."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Neantmoins qu'il ſera confronté aud.",
+    "du Tilh priſonnier, Pierre Guerre, Ber-",
+    "trande de Rols, & ſeurs dudit Martin:",
+    "enſemble à autres certains teſmoins qui",
+    "eſtoyent les principaux de ceux qui a-",
+    "uoient ſi pertinacement aſſeuré, que le",
+    "priſonnier eſtoit veritablement Martin",
+    "Guerre. Il eſt ouy: conſigne, & baille en-",
+    "ſeignes ſur les meſmes interrogatoires"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Guil. Budée",
+    "en la Loy fin.",
+    "ſur la fin. D.",
+    "de ſenator."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. ij. D. de",
+    "lib. exhib. l.",
+    "P. Tirio cen-",
+    "tũ. D. de con.",
+    "& demon."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].text",
+   "text": "TEXTE,",
+   "note": "final point looks like a comma (tail below baseline), not a period"
+  },
+  {
+   "where": "blocks[1].lines[3]",
+   "text": "dat, (duquel a eſté ci deſſus parlé) pre-",
+   "note": "'deſſus' printed with ſſ ligature; could be ſs"
+  },
+  {
+   "where": "blocks[3].lines[3]",
+   "text": "penſent, que ſoit tirée du Grec ἄρεστον, qui vaut autant à",
+   "note": "Greek word small and blurred: best reading ἄρεστον (possibly printed with στ ligature or as ἄρεσον); 'penſent' badly inked (looks 'penlenr')"
+  },
+  {
+   "where": "blocks[3].lines[6]",
+   "text": "prononçant par double R. veu que ἄρεστον d'où il eſt ti",
+   "note": "Greek word same uncertain reading as line 3"
+  },
+  {
+   "where": "blocks[3].lines[10]",
+   "text": "bouger d'vn certain lieu, qu'il luy aſſigne {b}. comme en",
+   "note": "'aſſigne' ſſ vs ſs uncertain; point after marker b read as period"
+  },
+  {
+   "where": "blocks[5].lines[6]",
+   "text": "priſonnier eſtoit veritablement Martin",
+   "note": "ſ in 'priſonnier' poorly inked, looks like 't' ('pritonnier')"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "lib. exhib. l.",
+   "note": "printed looks like 'li.bo exhib.l.'; the point may fall after 'li' and the 'o' may be a blot"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "P. Tirio cen-",
+   "note": "swash P (paragraph sign) followed by a comma-like mark; read as period"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ij. D. de",
+   "note": "marker letter b blurred; 'ij' printed as ÿ-like ligature"
+  },
+  {
+   "where": "blocks[1].lines[4]",
+   "text": "ſente requeſte narratiue de toute l'im-",
+   "note": "'narratiue': the u is poorly inked and could be a wrong sort (reads almost like 'narratine'/'narratiiie'); best reading 'narratiue'"
+  },
+  {
+   "where": "blocks[3].lines[3]",
+   "text": "penſent, que ſoit tirée du Grec ἄρεστον, qui vaut autant à",
+   "note": "Greek word in small Greek type; letters read as alpha (smooth breathing + acute) rho epsilon sigma-tau (possibly a στ ligature or plain σ) omicron nu; could be ἄρεσον. Also 'penſent' final t is blotted"
+  },
+  {
+   "where": "blocks[3].lines[6]",
+   "text": "prononçant par double R. veu que ἄρεστον d'où il eſt ti",
+   "note": "same Greek word as line 3, same doubt (ἄρεστον vs ἄρεσον); line ends 'ti' without hyphen"
+  },
+  {
+   "where": "blocks[3].lines[7]",
+   "text": "ré, ne ſ'eſcrit qu'auec R. ſimple {a}. La ſeconde, pour vne",
+   "note": "the apostrophe in \"ſ'eſcrit\" is faint; could be 'ſeſcrit'"
+  },
+  {
+   "where": "blocks[3].lines[10]",
+   "text": "bouger d'vn certain lieu, qu'il luy aſſigne {b}. comme en",
+   "note": "period after marker b then 'comme' in lower case, as printed"
+  },
+  {
+   "where": "blocks[5].lines[6]",
+   "text": "priſonnier eſtoit veritablement Martin",
+   "note": "the long s in 'priſonnier' is damaged and looks like a 't' ('pritonnier'); may be a wrong sort"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "P. Tirio cen-",
+   "note": "swash italic P (paragraph sign); the mark after it looks like a comma or a low period"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].text",
+   "target": "blocks[0].text",
+   "spans": [
+    [
+     0,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "TEXTE,",
+   "b": "TEXTE.",
+   "text": "TEXTE,",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[1].lines[4]",
+   "target": "blocks[1].lines[4]",
+   "spans": [
+    [
+     15,
+     24
+    ]
+   ],
+   "aligned": true,
+   "a": "ſente requeſte narratine de toute l'im-",
+   "b": "ſente requeſte narratiue de toute l'im-",
+   "text": "ſente requeſte narratiue de toute l'im-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "narratiue ('narrating', of the petition) is the word; narratine is no word, a turned u."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "target": "margin_notes[1].lines[1]",
+   "spans": [
+    [
+     0,
+     4
+    ]
+   ],
+   "aligned": true,
+   "a": "lib. exhib. l.",
+   "b": "li. ho exhib. l.",
+   "text": "lib. exhib. l.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

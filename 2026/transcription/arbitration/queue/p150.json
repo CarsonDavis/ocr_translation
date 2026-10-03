@@ -1,0 +1,38 @@
+{
+ "page": "p150",
+ "a": "transcription/reads/A/p150.json",
+ "b": "transcription/reads/B/p150.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-d-0",
+   "kind": "note",
+   "key": "d",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[0]",
+   "where_b": "margin_notes[1].lines[0]",
+   "a": "l. iij P. j. D.",
+   "b": "l. ij P. j. D.",
+   "context_before": null,
+   "context_after": "ad Sillan. Iaſ.",
+   "strip": "pages/strips/p150/margin-1.jpg",
+   "crop": "crops/p150/n-d-0.jpg"
+  },
+  {
+   "id": "n-a-1",
+   "kind": "note",
+   "key": "a",
+   "line": 1,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[7].lines[1]",
+   "where_b": "margin_notes[7].lines[1]",
+   "a": "tatiõ xxxvij,",
+   "b": "tatiõ xxxvij.",
+   "context_before": "En l'anno-",
+   "context_after": null,
+   "strip": "pages/strips/p150/margin-3.jpg",
+   "crop": "crops/p150/n-a-1.jpg"
+  }
+ ]
+}

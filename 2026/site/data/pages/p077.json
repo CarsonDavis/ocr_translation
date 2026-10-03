@@ -9,11 +9,213 @@
   "image_no": 97,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/97"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p076",
  "next": "p078",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "has been from his youth dissolute, of evil life, and given to every kind of wickedness: for it does not appear that the prisoner is that man, but rather Martin Guerre.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Code 9.47 (<i>De poenis</i>), l. <i>Sancimus</i> (C. 9.47.22, Arcadius and Honorius)",
+     "original": "l. ſancimus. C. de pœn.",
+     "gloss": "<i>Sancimus ibi esse poenam, ubi et noxa est</i>: \"We ordain that the punishment be there where the guilt is\"; kinsmen, acquaintances and familiars are not to be touched by it."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LVII"
+  },
+  {
+   "type": "paragraph",
+   "html": "In criminal matters, before the judge can come to condemnation, two things principally must appear to him. The first, that the crime in question has truly been committed and perpetrated <sup class=\"mk\" data-key=\"a\">a</sup>. The second, that the person whom one wishes to punish is the one who committed the offence, or is otherwise culpable of the deed.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 29.5 (<i>De senatus consulto Silaniano et Claudiano: quorum testamenta ne aperiantur</i>), l. 1, § <i>Item illud</i> (D. 29.5.1, Ulpian; paragraph not identified); Code 3.26 (<i>Ubi causae fiscales vel divinae domus hominumque eius agantur</i>), l. 1 (C. 3.26.1)",
+     "original": "l. j. P. item illud. D. ad Silania l. j. C. vbi cauſ. fiſcæ.",
+     "gloss": "Under the Silanian decree the inquiry into the household proceeds only when it is first established that the master was killed, which is Coras's first head: that the crime was in fact committed. The bearing of the Code text could not be verified. The <i>P.</i> stands for the paragraph sign."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "True also that, on the other hand, it does not seem very hard to answer the reasons deduced by the accused. For as to saying, first, that more faith must be given to the witnesses who depose for the prisoner, because they affirm: this reason cannot be fitted to this case, for the other witnesses also, or the greater part, assure — namely, that the accused is Arnauld du Tilh. Joined that the negation they make, that the prisoner is not Martin Guerre, comes easily into proof, inasmuch as they restrict themselves so well to places, times and persons that we are outside the terms of that common ru",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ay eſté des ſa ieuneſſe diſſolu, de mauuai-",
+    "ſe vie, & adonné à toute eſpece de meſ-",
+    "chancetez: car il n'appert point que le",
+    "priſonnier ſoit celuy la, ains plus toſt",
+    "Martin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Es matieres criminelles auant que le iuge puiſſe ve-",
+    "nir à condemnation, faut qu'il luy apparoiſſe de deux",
+    "choſes principalement. La premiere, que le crime du",
+    "quel ſ'agiſt, ayt eſté veritablement commis & perpetré",
+    "{a}. La ſeconde, que la perſonne qui veut punir, ſoit celle",
+    "qui a commis le delict, ou eſt autrement coulpable du",
+    "faict"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Vray auſsi, que d'ailleurs ne ſemble",
+    "pas fort malaiſé reſpondre aux raiſons",
+    "deduites par le preuenu. car de dire pre-",
+    "mierement qu'il faut donner plus de foy",
+    "aux teſmoins qui depoſent pour le pri-",
+    "ſonnier, par ce qu'ils afferment: cette rai-",
+    "ſon ne peut eſtre accommodée à ce faict,",
+    "car auſsi les autres teſmoins, ou la pluſ-",
+    "part aſſeurent, à ſçauoir que le preue-",
+    "nu eſt Arnauld du Tilh. ioint que la",
+    "negation qu'ils font, que le priſonnier",
+    "n'eſt point Martin Guerre, vient",
+    "aiſéement en preuue. d'autant qu'ils",
+    "ſe reſtraignent ſi bien aux lieux, temps,",
+    "& perſonnes, que nous ſommes",
+    "hors des termes de ceſte vulgaire rei-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. j. P. item",
+    "illud. D. ad",
+    "Silania l. j. C.",
+    "vbi cauſ. fiſcæ."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. ſancimus.",
+    "C. de pœn."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "faict",
+   "note": "no marker b visible after 'faict' (paragraph ends without a period); margin note b has no body marker on this page. Marker b expected here."
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "nir à condemnation, faut qu'il luy apparoiſſe de deux",
+   "note": "ink blot between 'il' and 'luy'; 'appar oiſſe' set with a gap, closed up as one word"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "car auſsi les autres teſmoins, ou la pluſ-",
+   "note": "a hyphen-like mark between 'auſsi' and 'les' ('auſsi-les'); read as spacing/ink artifact"
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "aiſéement en preuue. d'autant qu'ils",
+   "note": "'t' of 'd'autant' damaged, appears as a raised dash ('d'au-ant')"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "ſonnier, par ce qu'ils afferment: cette rai-",
+   "note": "colon after 'afferment' set tight; colon vs period faint"
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "hors des termes de ceſte vulgaire rei-",
+   "note": "line-end break sign printed as a small raised dot/short stroke; transcribed as hyphen"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "vbi cauſ. fiſcæ.",
+   "note": "'fiſcæ' ligature and final punctuation (period vs colon) uncertain"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. ſancimus.",
+   "note": "'l.' blotted"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "faict",
+   "note": "no marker b visible after 'faict' (nor any closing punctuation), though margin note b (l. ſancimus. C. de pœn.) is printed beside this passage; marker b presumably omitted or lost"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "nir à condemnation, faut qu'il luy apparoiſſe de deux",
+   "note": "print shows a gap 'appar oiſſe' (one word, closed up); a stray ink mark between 'il' and 'luy'"
+  },
+  {
+   "where": "blocks[3].text",
+   "text": "TEXTE.",
+   "note": "first letter of the heading is an odd, damaged-looking T sort"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "car auſsi les autres teſmoins, ou la pluſ-",
+   "note": "a short hyphen-like mark sits between 'auſsi' and 'les'; read as a space (could be 'auſsi-les')"
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "aiſéement en preuue. d'autant qu'ils",
+   "note": "the 't' in 'd'autant' is damaged / looks like a raised bar ('d'au-ant'); period after 'preuue' sits with a space before it"
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "hors des termes de ceſte vulgaire rei-",
+   "note": "line-end sign is a small raised dot-like mark, taken as a hyphen (word continues 'rei-' on next page)"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "Silania l. j. C.",
+   "note": "sic? 'Silania' as printed (for Silaniano)"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "vbi cauſ. fiſcæ.",
+   "note": "final punctuation may be ':' or ';' rather than '.'"
+  }
+ ],
+ "readings": []
 }

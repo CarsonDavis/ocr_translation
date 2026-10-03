@@ -9,11 +9,252 @@
   "image_no": 65,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/65"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p044",
  "next": "p046",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "vain superstitions and other such useless things. <sup class=\"mk\" data-key=\"d\">d</sup>",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TFXTE"
+  },
+  {
+   "type": "paragraph",
+   "html": "The said du Tilh, heard upon this bewitchment and spell, the names of the priests, and the ceremonies observed, answers in everything like the said de Rols, without failing in anything, adding, or diminishing. Proceeding to the confrontations, this du Tilh requires that the said de Rols be placed in sequestration and at liberty, to avoid subornation; which is ordered and executed.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, XXIIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "We have shown above that the sequestration of goods, and still more of persons, is odious and prohibited, unless it be for some great and legitimate cause, such as is in this case the fear of seduction and subornation. <sup class=\"mk\" data-key=\"a\">a</sup>",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 43.30.3 (<i>De liberis exhibendis, item ducendis</i>, l. 3), § <i>Si vero utraque</i> (paragraph number unverified; the print's sign before <i>ſi verò</i> is read as § but may be a <i>B</i>); Decretals, X 2.13 (<i>De restitutione spoliatorum</i>), c. <i>Ex transmissa</i> (printed <i>ex tranmiſſa</i>) and c. <i>Litteras</i> (chapter numbers unverified); Decretals, X 2.19 (<i>De probationibus</i>), penultimate chapter",
+     "original": "l. iij. §. ſi ve rò vtraque. D. de lib. exhib. c. ex tran miſſa. c. literas de reſtit. ſpol. c. penul. de probã.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "The confrontations completed, and objections [<i>reproches</i>] delivered by the said du Tilh, and a petition that he be permitted to publish a monitory letter [<i>monitoire</i>: letters read from the pulpit, calling on all who know anything to reveal it on pain of excommunication] upon the articles thereto attached concerning the pretended subornation of the said de Rols, by order he is admitted to verify the objections by him deduced; and nevertheless, considering the matter in question, to have the said monitory letter published, the better to know the truth; and it is ordered that inquiry shall be made on the court's own motion, as well in the places of Le Pin, Sagias and Artigat as in others neighbouring and necessary, as much upon the",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "vaines ſupperſtitions, & autres telles choſes inutilles. {d}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TFXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ledit du Tilh ouy ſur cet enſorcelle-",
+    "ment & malefice, nom de preſtres, & ce-",
+    "remonies gardées, reſpond en tout",
+    "comme ladite de Rols, ſans en rien fail-",
+    "lir, adiouſter, ni diminuer. Procedant",
+    "aux confrontemẽs, iceluy du Tilh requi-",
+    "ert que ladite de Rols ſoit miſe en ſeque",
+    "ſtre, & liberté, pour euiter ſubornation:",
+    "ce qui eſt ordonné, & executé."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, XXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Nous auons monſtré ci deſſus, que la ſequeſtration",
+    "des biens, & plus encor des perſonnes, eſt odieuſe &",
+    "prohibée: ſi ce n'eſt pour quelque grande & legitime",
+    "cauſe, comme eſt en ce faict la crainte de ſeduction, &",
+    "ſubornation. {a}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Les confrontemens paracheuez, &",
+    "baillez reproches par ledit du Tilh, &",
+    "requeſte, pour luy eſtre permis publier",
+    "monitoire, ſur les articles y attachez",
+    "concernans la pretendue ſubornation",
+    "de ladite de Rols. Par ordõnance il eſt",
+    "receu à verifier les reproches par luy",
+    "deduits. Et neantmoins, attẽdu la matie",
+    "re dont eſt queſtion, faire publier led.",
+    "monitoire, pour mieux ſçauoir la verité:",
+    "& ordõné, ſera enquis d'office, tant aux",
+    "lieux du Pin, Sagias, & Artigat, que a au-",
+    "tres circõuoiſins, & neceſſaires, tãt ſur la"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. iij. §. ſi ve",
+    "rò vtraque.",
+    "D. de lib. ex-",
+    "hib. c. ex tran",
+    "miſſa. c. literas",
+    "de reſtit. ſpol.",
+    "c. penul. de",
+    "probã."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "vaines ſupperſtitions, & autres telles choſes inutilles. {d}",
+   "note": "marker {d} has no note anywhere on this page (margin-1 blank beside it, the only note is keyed a far below, no foot block); it continues p044's run a b c, whose {c} likewise has no note (p044 final). Both citations dropped by the printer. Marker recorded without a note per §4; the alphabet restarts at a with ANNOTAT, XXIIII."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "vaines ſupperſtitions, & autres telles choſes inutilles. {d}",
+   "note": "the mark between 'inutilles' and the marker is a round dot on the baseline (period), checked at 4x against the commas of 'ſupperſtitions,' on the same line, which show a clear descending tail. Transcribed 'inutilles. {d}', the printed order kept."
+  },
+  {
+   "where": "blocks[1]",
+   "text": "TFXTE.",
+   "note": "sic: the second sort is an F, not an E. At 4x (body-1.jpg, y~415) it has a top arm and a middle arm and no bottom arm, whereas the fifth sort of the same word is a full three-armed E, as is every letter of the 'TEXTE.' heading lower on this page (body-4.jpg). A wrong sort in the compositor's stick; transcribed as printed, not corrected to TEXTE."
+  },
+  {
+   "where": "blocks[3]",
+   "text": "ANNOTAT, XXIIII.",
+   "note": "as printed: (a) a comma after ANNOTAT (clear descending tail at 4x, both readers); (b) the numeral is XXIIII (two X, four I, counted glyph by glyph by both readers) — the same number as p044's 'ANNOT. XXIIII.', although this is the next annotation and XXV was meant. Printer's error in the numbering, transcribed as printed per §7. Spaced capitals closed up per §3."
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "aux confrontemẽs, iceluy du Tilh requi-",
+   "note": "the diacritic over the second e is a tilde, not an acute. At 9x (body-3.jpg, x~440) it is a flat, nearly horizontal bar sitting close on the letter, the same shape as the tildes of 'attẽdu' and 'ordõnance' (body-6.jpg); this fount's acute, as on 'liberté', 'gardées', 'executé', is a steeply slanted stroke set high and clear of the letter. Read 'confrontemẽs' (= confrontemens), which the sense also wants; the word is set in full as 'confrontemens' at blocks[6].lines[0]."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "lir, adiouſter, ni diminuer. Procedant",
+   "note": "printed 'lir , adio uſter, ni' — a justification space before the comma, normalized away per §1, and a full word space inside 'adiouſter', joined per §1 (the same case as 'l'anné e' on an earlier page). No hyphen or other mark stands in the gap at 5x."
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "remonies gardées, reſpond en tout",
+   "note": "a wide justification space is printed before the comma ('gardées , reſpond'); normalized away per §1. Same at blocks[6].lines[1] ('Tilh , &'), blocks[6].lines[3] ('monitoire , ſur'), blocks[6].lines[8] ('queſtion , faire'), blocks[6].lines[10] ('d'office ,tant') and blocks[4].lines[1] ('biens , &', 'perſonnes , eſt')."
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "cauſe, comme eſt en ce faict la crainte de ſeduction, &",
+   "note": "no space is printed after the comma ('cauſe,comme'); normalized per §1. Same at blocks[6].lines[7] ('neantmoins,attẽdu'), blocks[6].lines[9] ('monitoire,pour'), blocks[6].lines[10] ('ordõné,ſera'), blocks[6].lines[11] ('Pin,Sagias', 'Artigat,que') and blocks[6].lines[12] ('neceſſaires,tãt')."
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "Les confrontemens paracheuez, &",
+   "note": "a small pale mark sits over the second e of 'paracheuez' (body-5.jpg, y~20). At 5x it is brown and much lighter than the type, unlike the firmly inked tildes and acutes elsewhere on the page; read as a speck or show-through, so a plain e. Reading otherwise secure."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. iij. §. ſi ve",
+   "note": "HARD: the sort between 'iij.' and 'ſi' (margin-2.jpg x 403-441, y 639-674) is heavily over-inked with filled counters. At 12x: a small loop opening left at the top, a straight top bar, two bowls stacked on the right, and a tail running down-left below the foot. Read as the paragraph sign § (both readers; the citation is l. iij. § ſi verò vtraque, D. de liberis exhibendis = Dig. 43.30), the tail being what a capital B lacks; but the straight top bar reads like an italic swash B, and the corpus otherwise spells the sign out as 'parag.', so the sort may be a B. Numeral iij confirmed (three stems, three dots). 've|rò' breaks without a hyphen."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "D. de lib. ex-",
+   "note": "the line-end mark after 'ex' is a short stroke set at x-height (margin-2.jpg, x~540, y~770; seen at 10x normalized). Read as the word-break sign for 'ex|hib', transcribed as a single '-' per §1. It is the only such mark at the right edge of this note that sits on a line whose word is broken."
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "text": "miſſa. c. literas",
+   "note": "two small specks high to the right of the final s of 'literas' (margin-2.jpg x~575, y~885), well above x-height with no comma tail; both readers read them as ink specks, no punctuation transcribed. ſſ of 'miſſa' confirmed."
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "hib. c. ex tran",
+   "note": "sic: the word breaks 'tran|miſſa' with no hyphen and without the s of 'transmissa' (c. Ex transmissa). Transcribed as printed; the print's narrow points ('hib.c.ex') are spaced per §1. Likewise 'l.ij.' on lines[0] and 'miſſa.c.literas' on lines[4]."
+  },
+  {
+   "where": "margin_notes[0]",
+   "note": "placement: this is the page's only margin note, and it has drifted a long way down from its marker. Its first line stands in the white band between the last body line of the ANNOTAT paragraph ('ſubornation. {a}') and the 'TEXTE.' heading below it; its remaining seven lines run down beside the first six lines of the last paragraph, ending beside 'concernans la pretendue ſubornation'. The key letter is an unambiguous italic a at 8x. beside_line is given as the marker's own line."
+  },
+  {
+   "where": "blocks[6].lines[12]",
+   "text": "tres circõuoiſins, & neceſſaires, tãt ſur la",
+   "note": "last line of the page; the sentence runs on to p046, hence continues_next. foot.jpg is blank below it: no foot citation block, no signature and no catchword. 'circõuoiſins' is printed 'circõuoiſin s' with a gap before the final s, joined per §1; 'neceſſaires' is ſſ (both sorts tall, checked at 5x)."
+  },
+  {
+   "where": "blocks[6].lines[11]",
+   "text": "lieux du Pin, Sagias, & Artigat, que a au-",
+   "note": "sic: 'que a' is printed with a word space and no apostrophe (compare 'qu'elle' elsewhere in the book); no mark is visible between the e and the space at 5x."
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Nous auons monſtré ci deſſus, que la ſequeſtration",
+   "note": "'deſſus' is ſſ, not ſs: at 5x both sorts are tall long s with the ſſ ligature's shared top (body-4.jpg, x~850). Checked because §7 of the reader brief flags this class."
+  },
+  {
+   "where": "blocks[6].lines[9]",
+   "text": "monitoire, pour mieux ſçauoir la verité:",
+   "note": "the a of 'la' carries a thin hairline stroke rising from its top-right terminal (body-6.jpg, 10x). It is much lighter and thinner than the two acutes of 'verité' on the same line, and the plain a of 'la matie' three lines above shows no such stroke. Read as an ink filament or a damaged sort, not a grave; transcribed 'la'. Reader A may read 'là'. The final mark is a colon (two clearly separated dots at 5x)."
+  }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[0].lines[0]",
+   "target": "margin_notes[0].lines[0]",
+   "spans": [
+    [
+     3,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "l. ij. §. ſi ve",
+   "b": "l. iij. §. ſi ve",
+   "text": "l. iij. §. ſi ve",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 6x the numeral after 'l.' has three stems (i, i, j with descender) and three dots above: iij. The over-inked sign after it is kept as § (both readers): at 12x it shows a small loop opening left at the top, two bowls to the right and a tail running down and to the left below the foot; a capital B has a flat base and no tail. Its straight top bar is B-like, so escalated."
+  }
+ ]
 }

@@ -116,8 +116,16 @@ is HTML-escaped, so `&` reaches the viewer as `&amp;`.
 - An aside may sit between the page and the citation — `- {t} (p007) — orphan note, no
   marker in the body: **Digest 34.5.9** — L. qui duos` — and the block may open with a
   paragraph addressed to the reviewer, as when the print's own marker alphabet is
-  mis-set. Both are for the reviewer; the site does not show them. A line that has no
-  bold citation at all is an error naming the file and the line.
+  mis-set. Both are for the reviewer; the site does not show them.
+- `- {_} (p046) — unkeyed note…: **citation** — original` is a margin note the print sets
+  with no key (the final's `key: null`), and `- Verse (p062): **citation** — original
+  [gloss]` — a capitalised label in place of the key — is a long Latin quotation the
+  translator moved into the notes. Both become notes with `key: null`, beside the page's
+  first paragraph.
+- `- {c} (p044) — marker with no note in the margin.` — a key, a page and a dash-led
+  aside with no bold citation — records a printed marker the margin has no note for; it
+  produces no note. Any other line that has no bold citation is an error naming the file
+  and the line.
 - A note is attached to the paragraph on its page that carries its `{key}`. A note whose
   key is nowhere in that page's prose — which happens where the print omits a marker — is
   attached to the page's first paragraph, and the run says so on stderr.
@@ -149,7 +157,12 @@ The schema is `scripts/site_schema.json`; it is enforced on every run.
  ],
  "french_notes": [{"key": "ſ", "kind": "margin", "lines": ["L. minorem", "…"]},
                   {"key": "q", "kind": "foot", "lines": ["…"]}],
- "uncertain": [{"where": "blocks[1].lines[3]", "text": "…", "note": "…"}]}
+ "uncertain": [{"where": "blocks[1].lines[3]", "text": "…", "note": "…"}],
+ "readings": [{"where": "blocks[0].lines[2]", "target": "blocks[0].lines[2]",
+               "spans": [[0, 3]], "aligned": true,
+               "a": "tu, que menaces…", "b": "tu; que menaces…", "text": "tu, que menaces…",
+               "chose": "A", "by": "reconciler", "status": "decided",
+               "reason": "comma at 4x"}]}
 ```
 
 - `page` is the true page number, `null` for the front matter (`p000-title`,
@@ -164,6 +177,36 @@ The schema is `scripts/site_schema.json`; it is enforced on every run.
   the French layer is pending.
 - `uncertain` is the final's entries with `where`, `text` and `note` (the reader's
   `escalate` flag is dropped); `[]` when there is no final.
+- `readings` is every place the two transcription passes disagreed, decided or open, in
+  the final's order (its `decisions[]`, then any open arbitration in `uncertain[]` with no
+  decision at the same `where`); `[]` when there is none or no final. Entries where A and B
+  agree and the text kept them are checks, not disputes, and are left out. Each record:
+  - `where` is the final's pointer, as written.
+  - `target` is the line the reading sits on — `blocks[i].lines[j]`,
+    `margin_notes[i].lines[j]`, `foot_notes[i].lines[j]` or `blocks[i].text` — or `null`
+    when there is no single line (page layout, the running head, note keys, placement);
+    those appear only in the page's Readings list.
+  - `spans` are `[start, end)` UTF-16 offsets into that line, markers included, of the
+    words that differ (a word diff of the line against A and B); `null` when there is
+    nothing to underline (no target, or readings that differ only in spacing or layout).
+  - `aligned` is `false` when the words could not be aligned and `spans` is the whole
+    line, and when `spans` is `null`.
+  - `a` and `b` are the two passes' readings; `text` is what the page now carries.
+  - `chose` is `A`, `B` or `neither`, or `null` while the reading is open. An
+    arbitration-session decision (`chose: "carson-session"` in the final) takes its choice
+    from its reason (`arbitration: B (translator: …)`).
+  - `by` is who decided: `carson` (the editor; the viewer says "editor"), `reconciler`
+    (the first pipeline run's reconciliation model; "reconciliation model (first pass)"),
+    `translator` (the translation model, choosing from context; "translation model (from
+    context)"), or `auto` (deferred; "undecided, showing reader A"); `null` for an open
+    `uncertain[]` arbitration with no decision entry. A decision with no `by` in the final
+    is `reconciler` when it chose `A`, `B` or `neither` (the first run left `by` off) and
+    `carson` otherwise, `carson-session` included.
+  - `status` is `decided` or `open`. A reading is open for `by: auto`, an
+    `either`/`unknown`/`undecided` choice, or an open `uncertain[]` arbitration; an open
+    reading has `chose: null` and `text` is reader A.
+  - `reason` is the decider's free-text reason, the session's provenance tail dropped, or
+    `null`.
 - Block types: `heading {text}`, `paragraph` (English `{html, continued, notes[]}`,
   French `{lines[], continues_prev, continues_next, spaced_caps?}`), `ornament {text}`,
   `blank`. A viewer renders an unknown type's `text`, or its joined `lines`, in a
@@ -200,11 +243,15 @@ viewer can disable a toggle and the landing card can count progress.
  "layers": [{"code": "en", "label": "English"}, {"code": "fr", "label": "French"}],
  "default_layer": "en",
  "stylesheet": null,
- "first_page": "p000-title"}
+ "first_page": "p000-title",
+ "about": ["plain paragraph for the About box", "…"]}
 ```
 
 `images.base` may be relative or an absolute CDN URL; it is the one image base constant.
 `stylesheet`, when set, is a per-book CSS file the viewer loads after its own.
+`about` is plain-text paragraphs (no HTML) the viewer's footer **About** dialog shows after
+`description`: how the contested readings are marked and who decides them (the editor,
+the reconciliation model, the translation model, or not yet).
 
 ## 6. Running it
 
@@ -214,7 +261,7 @@ uv run --with jsonschema python scripts/split_pages.py --root DIR --out DIR
 uv run --with pytest,jsonschema pytest scripts/tests/test_split.py -q
 ```
 
-It prints `162 pages written (31 french, 13 english)`. Warnings — a note with no marker
+It prints `162 pages written (162 french, 73 english)`. Warnings — a note with no marker
 on its page, a final marked done but unusable — go to stderr. Anything that would produce
 data the viewer cannot trust (a marker for a page that does not exist, a page claimed by
 two sections, a note line that does not parse, a record that fails the schema) raises and

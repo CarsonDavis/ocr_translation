@@ -355,3 +355,73 @@ def test_out_of_sequence_annotation_number_is_a_misprint(tmp_path):
     ids = [s["id"] for s in secs]
     assert ids == ["annot-017", "annot-018"], ids
     assert secs[1]["number_printed"] == 13 and secs[1]["number_uncertain"] is True
+
+
+# --- wrong-sort annotation headings ----------------------------------------
+
+def test_wrong_sort_annotation_abbreviations_are_headings():
+    assert st.parse_heading("ANNNT. LX.") == ("annotation", 60)      # p080
+    assert st.parse_heading("ANOTAT. V.") == ("annotation", 5)
+    assert st.parse_heading("ANNOTA. XII.") == ("annotation", 12)
+    assert st.parse_heading("ANNOTAT, XXIIII.") == ("annotation", 24)
+    assert st.parse_heading("ANNOTAT. XX,") == ("annotation", 20)
+
+
+def test_fuzzy_annotation_match_leaves_display_lines_alone():
+    for text in ("ARREST.", "ANNNT. de la", "ANNNT.", "MEMORABLE",
+                 "TEXTE DV PROCES", "A RAISON CEDE."):
+        assert st.parse_heading(text) in (None,), text
+
+
+# --- wrong-sort TEXTE headings ---------------------------------------------
+
+def test_wrong_sort_texte_headings_are_headings():
+    for text in ("TFXTE.", "TBXTE.", "TEXTB.",          # p045, p058, p072
+                 "TEXTF,", "TEXT.", "TEXTES.", "TEXTE ."):
+        assert st.parse_heading(text) == ("texte", None), text
+
+
+def test_fuzzy_texte_needs_a_stop_and_one_edit_at_most():
+    for text in ("TEXTB", "TFXTE", "TBXTB.", "TEXTE DV PROCES", "Texte.", "TFXTE. de",
+                 "ARREST.", "TESTER.", "EXPOSITION DES", "Guerre."):
+        assert st.parse_heading(text) is None, text
+
+
+def test_wrong_sort_texte_closes_the_annotation_before_it():
+    secs = st.stitch([page("p071", head("ANNOTAT. L."), para("a")),
+                      page("p072", head("TEXTB."), para("b"), head("ANNOT. LI."), para("c"))])
+    assert [s["id"] for s in secs] == ["annot-050", "texte-01", "annot-051"]
+    assert secs[0]["text"] == "⟦p071⟧a"
+    assert secs[1]["label"] == "TEXTB." and secs[1]["text"] == "⟦p072⟧b"
+
+
+def test_wrong_sort_heading_opens_its_annotation():
+    secs = st.stitch([page("p079", head("ANNOT. LIX."), para("a")),
+                      page("p080", head("TEXTE."), para("b"), head("ANNNT. LX."), para("c")),
+                      page("p082", head("ANNOTAT. LXI."), para("d"))])
+    assert [s["id"] for s in secs] == ["annot-059", "texte-01", "annot-060", "annot-061"]
+    assert secs[2]["text"] == "⟦p080⟧c"
+
+
+# --- a page that opens mid-word --------------------------------------------
+
+def test_page_opening_mid_word_does_not_start_a_paragraph():
+    """p095 ends 'meſme-', p096 opens 'ment': one word, one paragraph, even when the
+    continues_* flags are false."""
+    secs = st.stitch([page("p095", head("TEXTE."),
+                           para("qu'il n'eſt beſoin icy d'eſcrire, meſme-", nxt=False)),
+                      page("p096", para("ment que toutes ſont vaines", prev=False))])
+    assert secs[0]["text"] == ("⟦p095⟧qu'il n'eſt beſoin icy d'eſcrire, "
+                               "meſme⟦p096⟧ment que toutes ſont vaines")
+
+
+def test_mid_word_join_also_ignores_a_missing_continues_prev():
+    p96 = {"type": "paragraph", "lines": ["ment que"]}
+    secs = st.stitch([page("p095", head("TEXTE."), para("meſme-")), page("p096", p96)])
+    assert "\n\n" not in secs[0]["text"]
+
+
+def test_hyphen_before_a_heading_does_not_join_across_it():
+    secs = st.stitch([page("p095", head("TEXTE."), para("meſme-")),
+                      page("p096", head("TEXTE."), para("ment"))])
+    assert secs[1]["text"] == "⟦p096⟧ment"

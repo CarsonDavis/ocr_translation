@@ -9,11 +9,254 @@
   "image_no": 125,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/125"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p104",
  "next": "p106",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "I shall tell it, and I shall recount the death of the Sicilian poet: Empedocles, while he longs to be held an immortal God, coldly leapt into burning Etna. Let it be right, and let poets be allowed to perish.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Nevertheless he was well frustrated of his hope: for the violence of the fire cast out the little slippers of tin which he used to wear, which uncovered all his ambition and imposture. Now, to come back to our sheep [<i>reuenans à nos moutons</i>: to our subject]: it is a very vile thing, cowardly, unworthy of a Christian, and most displeasing to God, to wish to forestall one's days, to slaughter and undo oneself with one's own hands before the Lord calls us; from whom we have in keeping the soul he has given us. And if you have taken into your keeping money, or rings, or other things of your friend, and misuse them, you are with very good reason esteemed wicked, disloyal and perverse: with greater cause, therefore, if you abuse, cast out and drive from you so precious a thing as is the soul, which God has committed to you and delivered into your keeping.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Seeing that this traitor had robbed her of her honour, and of the reputation of her chastity, she forthwith brought the prisoner to Justice, and pursued him so vigorously that by judgment of the Judge of Rieux he was condemned to lose his head and to be put in four quarters; and, not content, after the appeal lodged by him to the Parlement of Toulouse, she presented a petition to the said court, that she might be permitted to come there (for by the appeal she still remained under ar",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Dicam, Sicculíque pœtæ",
+    "Narrabo interitum: Deus immortalus haberi",
+    "Dum cupit Empedocles, ardentem frigidus",
+    "Aethnam.",
+    "Inſiluit ius, liceátque perire pœtis."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Toutesfois il fuſt bien fruſtré de ſon eſperance: car",
+    "l'impetuoſité du feu reietta dehors les petites pantouf-",
+    "fles detain qu'il ſouloit porter. ce que deſcouurit toute",
+    "ſon ambition & impoſture. Or reuenans à nos moutõs",
+    "c'eſt vne choſe fort villaine, laſche, indigne d'vn Chre-",
+    "ſtien, & treſdeſplaiſante à Dieu, de vouloir deuancer ſes",
+    "iours, ſe maſſacrer, & deffaire de ſes propres mains auãt",
+    "que le Seigneur nous appelle: duquel nous auons en",
+    "garde l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+    "der de l'argent, ou des bagues, ou autres choſes de ton",
+    "amy, ſi tu en vſes mal, tu es à fort bonne raiſon eſtimé",
+    "meſchant, deſloyal, & peruers: à plus grande occaſion",
+    "doncques, ſi tu abuſes, reiettes & chaſſes de toy vne cho",
+    "ſe ſi precieuſe, qu'eſt l'ame, laquelle Dieu t'a commiſe,",
+    "& balliee en garde."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Voyant que ce proditeur luy auoit deſ-",
+    "robé ſon honneur, & l'opinion de ſa cha",
+    "ſteté, elle incontinent mit en Iuſtice le",
+    "priſonnier: & l'a ſi viuement pourſuyui,",
+    "que par ſentence du Iuge de Rieux fut",
+    "condemné perdre la teſte, & eſtre mis &",
+    "quatre quartiers, & non contente, apres",
+    "l'appel par luy interietté au parlemẽt de",
+    "Tholoſe, elle preſenta requeſte à ladite",
+    "cour, à ce qu'il luy fuſt permis ſ'en venir:",
+    "(car elle demeuroit par l'appel encor ar-"
+   ]
+  }
+ ],
+ "french_notes": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "spaced capitals; the E of DE and the final E of THOLOSE are damaged and look like 'I'/'Ɛ'; read as E. Final stop is a small comma-like mark, read as period"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "Dicam, Sicculíque pœtæ",
+   "note": "sic: 'Sicculíque' with double c and an acute on the second i (Horace has 'Siculique'); 'pœtæ' set with œ ligature as in 'pœtis' below"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "Narrabo interitum: Deus immortalus haberi",
+   "note": "sic?: 'immortalus' — the ending is the same italic 'us' shape as in 'Deus', no i-dot seen; Horace has 'immortalis'. Could be a misread of an italic 'is'"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Aethnam.",
+   "note": "sic: 'Aethnam' (for Aetnam); turnover line, indented"
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "text": "que le Seigneur nous appelle: duquel nous auons en",
+   "note": "stop after 'appelle' is an odd shape (two marks, lower one slanted); read colon, could be semicolon"
+  },
+  {
+   "where": "blocks[1].lines[11]",
+   "text": "meſchant, deſloyal, & peruers: à plus grande occaſion",
+   "note": "stop after 'meſchant' is small and low, read comma but could be period; 'deſloyal' second tall letter could be ſ (deſſoyal) — read l; a raised apostrophe-like mark sits between 'grande' and 'occaſion', treated as stray ink"
+  },
+  {
+   "where": "blocks[1].lines[14]",
+   "text": "& balliee en garde.",
+   "note": "sic: 'balliee' (for baillee); last e's could be 'c' in 'ballice'"
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "ſteté, elle incontinent mit en Iuſtice le",
+   "note": "the u of 'Iuſtice' is broken (looks like 'ı.'); read Iuſtice"
+  },
+  {
+   "where": "blocks[3].lines[5]",
+   "text": "condemné perdre la teſte, & eſtre mis &",
+   "note": "sic: '&' printed where 'à' (mis à quatre quartiers) is expected"
+  },
+  {
+   "where": "blocks[3].lines[9]",
+   "text": "cour, à ce qu'il luy fuſt permis ſ'en venir:",
+   "note": "final stop after 'venir' is faint two-dot mark with a small tail; read colon, could be semicolon"
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "final E of THOLOSE and the stop after it are poorly inked (E looks like a broken sort, stop looks like a small comma/curl); read as 'THOLOSE.'"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "Narrabo interitum: Deus immortalus haberi",
+   "note": "'immortalus' as printed (Horace has 'immortalis'); the final glyph pair is the same italic 'us' shape as in 'Deus'; possibly an 'is' ligature misread, sic otherwise"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Aethnam.",
+   "note": "sic, 'Aethnam' for Aetnam; line printed indented as a turnover of the preceding verse line but it is a separate printed line"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "Inſiluit ius, liceátque perire pœtis.",
+   "note": "'Inſiluit' read with long s; 'ius' as printed (Horace: 'sit ius'); accent on 'liceátque' as printed"
+  },
+  {
+   "where": "blocks[1].lines[2]",
+   "text": "fles detain qu'il ſouloit porter. ce que deſcouurit toute",
+   "note": "'detain' as printed (for d'eſtain), sic; stop after 'porter' read as a period, followed by lowercase 'ce'"
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "text": "que le Seigneur nous appelle: duquel nous auons en",
+   "note": "the stop after 'appelle' is an odd shape (two dots slightly offset, lower one tailed); read as colon, could be a semicolon"
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "text": "garde l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+   "note": "'garde': the r is broken and looks like an undotted i ('gaide'); read as damaged r. 'donnée' accent sits over the second e"
+  },
+  {
+   "where": "blocks[1].lines[11]",
+   "text": "meſchant, deſloyal, & peruers: à plus grande occaſion",
+   "note": "a small stray mark (apostrophe- or ſ-like) is printed between 'grande' and 'occaſion'; treated as a stray/spacing sort, not transcribed"
+  },
+  {
+   "where": "blocks[3].lines[1]",
+   "text": "robé ſon honneur, & l'opinion de ſa cha",
+   "note": "h of 'cha' broken, looks like 'cla'; read as 'cha'"
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "ſteté, elle incontinent mit en Iuſtice le",
+   "note": "'Iuſtice' poorly inked, u and ſ partly broken"
+  },
+  {
+   "where": "blocks[3].lines[5]",
+   "text": "condemné perdre la teſte, & eſtre mis &",
+   "note": "'mis &' as printed (sense wants 'mis à quatre quartiers'); sic"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     7,
+     17
+    ]
+   ],
+   "aligned": true,
+   "a": "Dicam, Sicculíque pœtæ",
+   "b": "Dicam, Sicculique pœtæ",
+   "text": "Dicam, Sicculíque pœtæ",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[1].lines[8]",
+   "target": "blocks[1].lines[8]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "gaide l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+   "b": "garde l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+   "text": "garde l'ame qu'il nous à donnée, Et ſi tu as prins à gar-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "garde: nous auons en garde l'ame = 'we have the soul in keeping', echoed six words on by prins à garder and at the end by baillee en garde; gaide is no word."
+  },
+  {
+   "where": "blocks[1].lines[14]",
+   "target": "blocks[1].lines[14]",
+   "spans": [
+    [
+     2,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "& balliee en garde.",
+   "b": "& ballice en garde.",
+   "text": "& balliee en garde.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "balliee = baillée, 'delivered' (commise, & baillee en garde, the pair committed and delivered into keeping); ballice is no word, a misread of e as c."
+  }
+ ]
 }

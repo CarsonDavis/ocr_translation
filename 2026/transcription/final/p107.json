@@ -1,0 +1,257 @@
+{
+ "id": "p107",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "107",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Nil moueor lachrymis, iſta ſum capus ab arte.",
+    "Semper ab inſidiis, Cynthia flere ſoles."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et à la verité, par ce que les femmes ſemblent eſtre",
+    "nées pour plourer, & l'armoyent quand il leur plaiſt &",
+    "bon leur ſemble {b},"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Diſcunt lachrymare decenter,",
+    "Quóq; volunt plorant tempore, quóq; modo {c}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il ne faut point donner du tout foy à leurs larmes le",
+    "plus ſouuent feintes, ſimulees, & pleines d'hypocriſie,",
+    "ni a leus paroles auſſi: car les femmes ont (dit Plau-",
+    "te) en leurs langues miel: mais leur cœur eſt tout cou",
+    "uert de fiel, arrouſé de vinaigre, plein de toute amer-",
+    "tume {d}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et ne vous excuſez en mes ſeurs, ni en",
+    "mõ Oncle: car il n'y a pere, mere, Oncle,",
+    "ſeurs ni freres, qui doyuent mieux co-",
+    "gnoiſtre leur fils, nepueu, ou frere que la",
+    "femme doit cognoiſtre le mari. Et du",
+    "deſaſtre qui eſt auenu à noſtre maiſon,",
+    "nul a le tort que vous. Sur quoy les com",
+    "miſſaires ſ'eſſayerent excuſer ladite de",
+    "Rols: mais en cette premiere rencon-",
+    "tre, ne peurent oncques amolir ſon",
+    "cueur, ni le diuertir de ſon auſterité.",
+    "Ainſi l'impoſture dudit du Tilh, eſtant",
+    "entierement deſcouuerte, & le nou-",
+    "neau venu de tous vniquement receu,",
+    "& recognu pour Martin Guerre: & le",
+    "procez par ce moyen du tout inſtruir,"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "b",
+   "lines": [
+    "Euripides",
+    "in Medea."
+   ],
+   "beside_line": "bon leur ſemble {b},"
+  },
+  {
+   "key": "c",
+   "lines": [
+    "Ouid. au iij",
+    "de arte amãd."
+   ],
+   "beside_line": "Quóq; volunt plorant tempore, quóq; modo {c}."
+  },
+  {
+   "key": "d",
+   "lines": [
+    "Plaute en",
+    "ſon Tuſcul."
+   ],
+   "beside_line": "tume {d}."
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "note": "The distich opens the page with no marker and no note; its introducing sentence (and probably marker a with its note) is on p106. continues_prev set false because the verse block starts fresh here; check against p106."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "Nil moueor lachrymis, iſta ſum capus ab arte.",
+   "note": "the y of 'lachrymis' is broken/partly unprinted (looks like 'lachr; mis' with a gap); read as lachrymis"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "Nil moueor lachrymis, iſta ſum capus ab arte.",
+   "note": "sic: 'capus' printed (for Propertius' 'cautus')"
+  },
+  {
+   "where": "blocks[1].lines[1]",
+   "text": "nées pour plourer, & l'armoyent quand il leur plaiſt &",
+   "note": "'l'armoyent' as printed (apostrophe after l); 'qu and' set with a gap, closed up as one word"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "Quóq; volunt plorant tempore, quóq; modo {c}.",
+   "note": "acute on o in both 'Quóq;' reads clearly; v of 'volunt' is a swash italic v; marker c is a raised roman c after 'modo'"
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "ni a leus paroles auſſi: car les femmes ont (dit Plau-",
+   "note": "sic: 'leus' (for leurs); 'auſſi' read as ſſ ligature, could be ſs; line-end break sign after 'Plau' is a small raised dot-like mark, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[3].lines[3]",
+   "text": "te) en leurs langues miel: mais leur cœur eſt tout cou",
+   "note": "a raised mid-dot appears between 'cœur' and 'eſt' (probably a risen space); not transcribed"
+  },
+  {
+   "where": "blocks[3].lines[4]",
+   "text": "uert de fiel, arrouſé de vinaigre, plein de toute amer-",
+   "note": "first word could be printed 'uet' or 'uer' (letter after e uncertain at this resolution); stray mark under e of 'de' before 'toute' ignored"
+  },
+  {
+   "where": "blocks[5].lines[1]",
+   "text": "mõ Oncle: car il n'y a pere, mere, Oncle,",
+   "note": "second 'Oncle': the O is damaged/misformed (looks like a turned or broken C/U); read as O"
+  },
+  {
+   "where": "blocks[5].lines[10]",
+   "text": "cueur, ni le diuertir de ſon auſterité.",
+   "note": "'cueur': second letter pair poorly inked, could be 'cucur' (wrong sort); read as cueur"
+  },
+  {
+   "where": "blocks[5].lines[13]",
+   "text": "neau venu de tous vniquement receu,",
+   "note": "sic: 'neau' printed (nou-neau, for nou-ueau)"
+  },
+  {
+   "where": "blocks[5].lines[15]",
+   "text": "procez par ce moyen du tout inſtruir,",
+   "note": "final letter of 'inſtruir' looks like r (possibly a damaged t); transcribed as seen"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "Ouid. au iij",
+   "note": "the numeral shows a mark over its end (iij with tilde or iiÿ); could be 'iiij' or 'iij' with a flourish"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "Plaute en",
+   "note": "the t of 'Plaute' is the curled italic t (could be misread as r); 'en' could be 'em'"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "ſon Tuſcul.",
+   "note": "'Tuſcul.' as printed (for Truculentus)"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "Nil moueor lachrymis, iſta ſum capus ab arte.",
+   "note": "'y' of lachrymis broken/barely inked; 'capus' printed without t (for captus), sic"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "Semper ab inſidiis, Cynthia flere ſoles.",
+   "note": "C of Cynthia damaged, prints like '('"
+  },
+  {
+   "where": "blocks[3].lines[2]",
+   "text": "ni a leus paroles auſſi: car les femmes ont (dit Plau-",
+   "note": "'leus' for 'leurs', sic; line-end sign after Plau is a faint short mark, read as hyphen; colon after auſſi set with space before"
+  },
+  {
+   "where": "blocks[3].lines[3]",
+   "text": "te) en leurs langues miel: mais leur cœur eſt tout cou",
+   "note": "a raised dot between cœur and eſt, probably a spacing sort inked; omitted"
+  },
+  {
+   "where": "blocks[5].lines[13]",
+   "text": "neau venu de tous vniquement receu,",
+   "note": "'neau' for 'ueau' (nouueau), sic, likely turned u"
+  },
+  {
+   "where": "blocks[5].lines[15]",
+   "text": "procez par ce moyen du tout inſtruir,",
+   "note": "last letter looks like r (sic for inſtruit); could be a damaged t"
+  },
+  {
+   "where": "margin_notes",
+   "text": "b c d",
+   "note": "no marker a on this page; first marker is b, alphabet presumably continues from p106 (not available as context)"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[3].lines[4]",
+   "A": "uert de fiel, arrouſé de vinaigre, plein de toute amer-",
+   "B": "uet de fiel, arrouſé de vinaigre, plein de toute amer-",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "uert de fiel, arrouſé de vinaigre, plein de toute amer-",
+   "reason": "arbitration: A (translator: cou uert = couuert, 'covered'; couuet is no word)"
+  },
+  {
+   "where": "blocks[5].lines[1]",
+   "A": "mõ Oncle: car il n'y a pere, mere, Oncle,",
+   "B": "mõ Oncle: car il n'y a pere, mere, Vncle,",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "mõ Oncle: car il n'y a pere, mere, Oncle,",
+   "reason": "arbitration: A (translator: Oncle: the same word is printed Oncle two words earlier in the sentence; Vncle is not French)"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "A": "Ouid. au iij",
+   "B": "Ouid. au iiij",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "Ouid. au iij",
+   "reason": "arbitration: A (translator: Ovid, Ars amatoria 3.291-292 is in book iij; the Ars has only three books)"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "A": "Plaute en",
+   "B": "Plaure en",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "Plaute en",
+   "reason": "arbitration: A (translator: Plaute = Plautus (Truculentus 178-179 is the passage); Plaure is no name)"
+  }
+ ]
+}

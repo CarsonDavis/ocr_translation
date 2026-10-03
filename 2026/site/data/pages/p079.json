@@ -9,11 +9,557 @@
   "image_no": 99,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/99"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p078",
  "next": "p080",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "point of this case, the witnesses who so obstinately assured that the accused was Martin Guerre have since recognised their error, and have departed from it before the court, as will hereafter be said.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "g",
+     "citation": "Panormitanus (Niccolò de' Tudeschi, <i>Panorme</i>) and the others on c. <i>Praeterea</i> (X 2.20), cited above at {e}",
+     "original": "Panorme &amp; les autre au c. præterea allegué.",
+     "gloss": "The just causes for which a witness may be re-examined and may amend what he has said."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LIX"
+  },
+  {
+   "type": "paragraph",
+   "html": "One might here raise some difficulty, and think that one ought not to give great faith to the last deposition of these witnesses, who depart from the first: both because they have varied <sup class=\"mk\" data-key=\"a\">a</sup>, and thus, by the contradiction and repugnance of their depositions, themselves overthrow it <sup class=\"mk\" data-key=\"b\">b</sup>; and because also they are perjured, and the testimony of a perjurer, as everyone understands, ought to be rejected <sup class=\"mk\" data-key=\"c\">c</sup>; especially since, if any faith could be given to one of their depositions, it would have to be to the first, made with oath <sup class=\"mk\" data-key=\"d\">d</sup>. But all these difficulties can easily be resolved if one comes to consider that it is very reasonable that a witness who, through error and the circumvention of another, has deposed falsely should, as soon as his error appears to him, correct himself <sup class=\"mk\" data-key=\"e\">e</sup>: and thus not only on the spot, or shortly after (as is indubitably permitted him <sup class=\"mk\" data-key=\"f\">f</sup>), but even after a long space and interval of time, if until then he had not perceived his error, or else some other just cause newly presents itself <sup class=\"mk\" data-key=\"h\">h</sup>. The judgment of which, together with the distance of time, is wholly referred to the discretion of the judge <sup class=\"mk\" data-key=\"i\">i</sup>. Otherwise, if the witness, for his pleasure and of his own free will, long after his deposition wished to depart from it, and to change or correct what he had already deposed, he would not be received to do so, for fear of subornation <sup class=\"mk\" data-key=\"k\">k</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 22.5 (<i>De testibus</i>), l. 2 (D. 22.5.2, Modestinus) and l. <i>Qui falso</i> (D. 22.5.16, Paul); Code 9.22 (<i>Ad legem Corneliam de falsis</i>), l. <i>Eos</i> (fragment not identified)",
+     "original": "l. ij l. qui falſo. D. de te ſtib. l. eos. C. de falſ.",
+     "gloss": "D. 22.5.2: witnesses who waver against the faith of their own testimony are not to be heard; D. 22.5.16: those who have given false or varying testimony, or betrayed both parties, are punished by the judges."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 36.2 (<i>Quando dies legatorum vel fideicommissorum cedat</i>), the penultimate law, § 1 (fragment and bearing unverified)",
+     "original": "l. penultieme. P. j. D. quand. dies l. ced.",
+     "gloss": "Cited for the rule that statements which contradict one another destroy one another. The <i>P.</i> stands for the paragraph sign."
+    },
+    {
+     "key": "c",
+     "citation": "Decretals, X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Testimonium</i> (chapter number unverified); Accursius (<i>Accurſe</i>), the Gloss on Digest 3.2 (<i>De his qui notantur infamia</i>), l. <i>Lucius</i> (fragment not identified), and on Digest 22.5 (<i>De testibus</i>), l. 3, § <i>Lege Iulia</i> (D. 22.5.3.5, Callistratus; the print's <i>l. ni.</i> read as <i>l. iij.</i>)",
+     "original": "c. teſtimonium. de teſt, Accurſe en la l. Lucius. D. de iis qui not. infa. &amp; à la l. ni. P lege Iul. D. de teſt.",
+     "gloss": "The perjured and the infamous are excluded from testimony; D. 22.5.3.5 recites the exclusions of the <i>lex Iulia</i>."
+    },
+    {
+     "key": "d",
+     "citation": "Decretals, X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Sicut</i> (chapter number unverified)",
+     "original": "c. ſicut de teſt.",
+     "gloss": "Of two depositions, the sworn one is preferred."
+    },
+    {
+     "key": "e",
+     "citation": "Decretals, X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Praeterea</i> (chapter number unverified; the chapter is cited again at {h}, {i} and {k}); Accursius (<i>Accurſe</i>) on the Authenticum, Novel 90 (<i>De testibus</i>), collatio 7, at § <i>Quia vero</i>; Bartolus (<i>Bartole</i>) and the others on l. <i>Eos</i>, cited above at {a}",
+     "original": "Preterea c. de teſt. Accur ſe au P. quia verò, de teſt. aux. nou",
+     "gloss": "?]lles: ſous la col lation vij. Bar tole &amp; les au tres en la l. eos alleguee. [A witness who has deposed in error may correct his deposition; the print's <i>nou[?]lles</i> is <i>nouuelles</i>, the Novels, and <i>ſous la collation vij</i> places Novel 90 in the seventh <i>collatio</i> of the Authenticum, where it stands."
+    },
+    {
+     "key": "f",
+     "citation": "Liber Sextus, VI 5.2 (<i>De haereticis</i>), c. <i>Accusatus</i>, § <i>Licet</i> (cf. VI 5.2.8, Boniface VIII; paragraph unverified)",
+     "original": "c. accuſatus. P. licet. de hæreti. au vj.",
+     "gloss": "On witnesses in causes of heresy who retract or amend their testimony, and when they are heard."
+    },
+    {
+     "key": "i",
+     "citation": "The Gloss on a chapter of Decretals, X 2.28 (<i>De appellationibus</i>), printed <i>c. au ſit</i> (perhaps c. <i>Cum sit</i>; chapter not identified); the Doctors on c. <i>Praeterea</i> (X 2.20), cited above at {e}",
+     "original": "Gloſe au c. au ſit. de appella Les Docteurs au c. præterea. deſ ſus allegué.",
+     "gloss": "The appraisal of the cause and of the lapse of time is left to the judge."
+    },
+    {
+     "key": "k",
+     "citation": "The Doctors on l. <i>Eos</i> (C. 9.22) and on c. <i>Praeterea</i> (X 2.20), both cited above at {a} and {e}",
+     "original": "les docteurs, en la l. eos. &amp; au c. præterea. alleguez.",
+     "gloss": "A witness is not allowed to change his deposition at pleasure, lest he be suborned to it."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And as to the marks and scars imprinted on the eyes, forehead, hands and nails of the said du Thil, prisoner, and formerly",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "point ce ce faict, les teſmoins qui ſi ob-",
+    "ſtineement aſſeuroyent le preuenu eſtre",
+    "Martin Guerre, ont depuis recognu leur",
+    "erreur: & ſ'en ſont departis à la court,",
+    "comme ſera ci apres dit."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "On pouroit faire ici quelque difficulté, & pẽſer qu'on",
+    "ne deuroit pas adiouſter grand' foy à la derniere depo-",
+    "ſition de ces teſmoins, qui ſe departent de la premiere.",
+    "tant par ce qu'ils ont varié {a}, & par ainſi pour la cõtra-",
+    "diction & repugnance de leurs depoſitions, eux-meſ-",
+    "mes le dechaſſent {b}, que pour autant auſſi qu'ils ſont",
+    "pariures: & le teſmoignage d'vn pariure, comme chacũ",
+    "entend, doit eſtre reiecté {c}, meſmement, que ſi foy aucu-",
+    "ne pouuoit eſtre donnee à vne de leurs depoſitions,",
+    "faudroit que ce fut à la premiere, faite auec ſerment {d}.",
+    "Mais toutes ces difficultez ſe peuuent facilemẽt reſou-",
+    "dre, ſi on vient à conſiderer qu'il eſt fort raiſonnable qu'",
+    "vn teſmoin, ayant par erreur & circonuention d'vn",
+    "autre, depoſe fauſſement, dés qu'il luy apparoiſt de ſon",
+    "erreur, ſe corrige {e}: & par ainſi, non ſeulemẽt ſur l'heure,",
+    "ou peu apres (comme il luy eſt indubitablement per.",
+    "mis {f}:) mais encor apres longue eſpace & interual de",
+    "temps, ſi iuſqu'à lors ne ſ'eſtoit apperceu de ſon erreur,",
+    "ou bien quelque autre iuſte cauſe de nouueau ſe preſẽ",
+    "te {h}. Le iugement de laquelle, enſemble de la diſtan-",
+    "ce du temps, eſt entierement rapporté à l'arbitre du",
+    "iuge {i}. Autrement, ſi le teſmoin pour ſon plaiſir & de",
+    "gayeté de cueur, long temps apres ſa depoſition ſ'en",
+    "vouloit departir & changer, ou corriger ce qu'il auoit",
+    "ia depoſé, il n'y ſeroit receu, pour crainte de ſuborna",
+    "tion {k}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et quand aux marques, & cicatrices",
+    "emprainctes és yeux, front, mains, & on-",
+    "gles dudit du Thil priſonnier, & iadis"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. ij l. qui",
+    "falſo. D. de te",
+    "ſtib. l. eos. C.",
+    "de falſ."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. penul-",
+    "tieme. P. j. D.",
+    "quand. dies",
+    "l. ced."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "c. teſtimo-",
+    "nium. de teſt,",
+    "Accurſe en la",
+    "l. Lucius. D.",
+    "de iis qui not.",
+    "infa. & à la l.",
+    "ni. P lege Iul.",
+    "D. de teſt."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "c. ſicut de",
+    "teſt."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Preterea c.",
+    "de teſt. Accur",
+    "ſe au P. quia",
+    "verò, de teſt.",
+    "aux. nou[?]l-",
+    "les: ſous la col",
+    "lation vij. Bar",
+    "tole & les au",
+    "tres en la l.",
+    "eos alleguee."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "c. accuſa-",
+    "tus. P. licet. de",
+    "hæreti. au vj."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Panorme",
+    "& les autre",
+    "au c. præterea",
+    "allegué."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "Gloſe au c.",
+    "au ſit. de ap-",
+    "pella Les Do-",
+    "cteurs au c.",
+    "præterea. deſ",
+    "ſus allegué."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "les do-",
+    "cteurs, en la l.",
+    "eos. & au c.",
+    "præterea. alle-",
+    "guez."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "point ce ce faict, les teſmoins qui ſi ob-",
+   "note": "sic: 'ce ce' as printed (sense wants 'de ce')"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "diction & repugnance de leurs depoſitions, eux-meſ-",
+   "note": "in-line hyphen in 'eux-meſmes' printed as a raised dot"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "pariures: & le teſmoignage d'vn pariure, comme chacũ",
+   "note": "punctuation after 'pariures' is a two-dot mark, odd shape; read as colon"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "ou peu apres (comme il luy eſt indubitablement per.",
+   "note": "line-end sign after 'per' looks like a baseline period rather than a hyphen; transcribed as printed"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "mis {f}:) mais encor apres longue eſpace & interual de",
+   "note": "marker f followed by colon then close paren, as printed"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "text": "te {h}. Le iugement de laquelle, enſemble de la diſtan-",
+   "note": "marker {h} printed as 'h' (marker h) but the alphabet runs f, g, i and the margin note is key g: misprinted marker; no body marker {g}, no margin note h"
+  },
+  {
+   "where": "margin_notes[8]",
+   "text": "les do-",
+   "note": "note key printed as capital 'K,' in the margin; keyed k to match body marker {k}"
+  },
+  {
+   "where": "margin_notes[4].lines[4]",
+   "text": "aux. nou[?]l-",
+   "note": "rust stain covers a letter; probably 'nouel-' (Nouelles); final sign after l looks like a dot, read as hyphen"
+  },
+  {
+   "where": "margin_notes[4].lines[8]",
+   "text": "tres en la l.",
+   "note": "'la' partly faint/damaged"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "allegué.",
+   "note": "final mark after 'allegué' could be a hyphen or period"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "& les autre",
+   "note": "'autre' as printed (sense wants 'autres'); last letters faint"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "au ſit. de ap-",
+   "note": "sic?: 'ſit.' as it appears (for 'tit.'); first letter looks like long s"
+  },
+  {
+   "where": "margin_notes[7].lines[4]",
+   "text": "præterea. deſ",
+   "note": "'deſ' printed with a malformed e (looks like 'drſ'); broken over line without hyphen"
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "text": "præterea. alle-",
+   "note": "'alle-' faint; second vowel could be 'o' (sic)"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. ij l. qui",
+   "note": "'ij' printed as ÿ-like ligature; could be 'iij'"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "point ce ce faict, les teſmoins qui ſi ob-",
+   "note": "sic: 'ce ce' for 'de ce' as printed"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "erreur: & ſ'en ſont departis à la court,",
+   "note": "'departis': the r is worn and looks like t ('depattis'); could be a wrong sort"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "tant par ce qu'ils ont varié {a}, & par ainſi pour la cõtra-",
+   "note": "'ont': the n is malformed (looks like a turned or broken sort, 'oet'/'out'); best reading ont"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "pariures: & le teſmoignage d'vn pariure, comme chacũ",
+   "note": "punctuation after 'pariures' looks like a colon with a faint upper dot; could be a period"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "entend, doit eſtre reiecté {c}, meſmement, que ſi foy aucu-",
+   "note": "'reiecté' letters crowded; could be 'reietté' or 'reicté'; marker c set very small and low"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "ou peu apres (comme il luy eſt indubitablement per.",
+   "note": "line-end sign after 'per' is a round dot on the baseline, not a hyphen; transcribed as printed"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "text": "te {h}. Le iugement de laquelle, enſemble de la diſtan-",
+   "note": "marker h printed in body, but the margin note beside it is keyed g; there is no note h and no body marker g (alphabet skips g in body). Printer's error in either the marker or the note key"
+  },
+  {
+   "where": "margin_notes[6]",
+   "text": "Panorme",
+   "note": "note key g has no body marker g; it corresponds to body marker {h}"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "gles dudit du Thil priſonnier, & iadis",
+   "note": "sic: 'Thil' for 'Tilh' as printed"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. ij l. qui",
+   "note": "'ij' printed with dotted i and j; could be read 'ĳ'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. teſtimo-",
+   "note": "line-end sign is a small dot, read as worn hyphen"
+  },
+  {
+   "where": "margin_notes[2].lines[6]",
+   "text": "ni. P lege Iul.",
+   "note": "'ni.' as printed (probably for 'vlt.'); no period after P"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "verò, de teſt.",
+   "note": "rust stain covers 'te' of 'teſt.'; reading from context"
+  },
+  {
+   "where": "margin_notes[4].lines[4]",
+   "text": "aux. nou[?]l-",
+   "note": "rust stain covers one or two letters after 'nou' (probably 'nouel-les' = Novels); line-end sign may be a dot"
+  },
+  {
+   "where": "margin_notes[4].lines[8]",
+   "text": "tres en la l.",
+   "note": "'la' partly blotted"
+  },
+  {
+   "where": "margin_notes[4].lines[9]",
+   "text": "eos alleguee.",
+   "note": "final letters of 'alleguee' faint; could be 'allegues'"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "& les autre",
+   "note": "sic? 'autre' without final s as printed; final letter faint"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "au c. præterea",
+   "note": "'præterea' set in small capitals, last e looks like c ('præterca')"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "allegué.",
+   "note": "final mark could be a hyphen-like dash rather than a period"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "au ſit. de ap-",
+   "note": "'ſit.' as it appears (probably 'tit.' with a worn t)"
+  },
+  {
+   "where": "margin_notes[8]",
+   "text": "les do-",
+   "note": "key printed as capital 'K,' followed by a comma; body marker is lowercase k"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "eos. & au c.",
+   "note": "'c.' faint, looks like 's.'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[3]",
+   "target": "blocks[0].lines[3]",
+   "spans": [
+    [
+     20,
+     28
+    ]
+   ],
+   "aligned": true,
+   "a": "erreur: & ſ'en ſont depattis à la court,",
+   "b": "erreur: & ſ'en ſont departis à la court,",
+   "text": "erreur: & ſ'en ſont departis à la court,",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "departis = 'departed from' (s'en sont departis à la court), the record's word for a retraction; depattis is a wrong sort."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "target": "blocks[2].lines[3]",
+   "spans": [
+    [
+     19,
+     22
+    ]
+   ],
+   "aligned": true,
+   "a": "tant par ce qu'ils oet varié {a}, & par ainſi pour la cõtra-",
+   "b": "tant par ce qu'ils ont varié {a}, & par ainſi pour la cõtra-",
+   "text": "tant par ce qu'ils ont varié {a}, & par ainſi pour la cõtra-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "ont varié = 'they have varied'; oet is no word."
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "target": "blocks[2].lines[7]",
+   "spans": [
+    [
+     19,
+     26
+    ]
+   ],
+   "aligned": true,
+   "a": "entend, doit eſtre reicté {c}, meſmement, que ſi foy aucu-",
+   "b": "entend, doit eſtre reiecté {c}, meſmement, que ſi foy aucu-",
+   "text": "entend, doit eſtre reiecté {c}, meſmement, que ſi foy aucu-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "reiecté = 'rejected' (doit estre reiecté); reicté drops a letter."
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "target": "blocks[4].lines[1]",
+   "spans": [
+    [
+     0,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "emprainctes és yeux, front, mains, & on-",
+   "b": "empraintes és yeux, front, mains, & on-",
+   "text": "emprainctes és yeux, front, mains, & on-",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "target": "margin_notes[4].lines[3]",
+   "spans": [
+    [
+     9,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "verò, de [?]ſt.",
+   "b": "verò, de teſt.",
+   "text": "verò, de teſt.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "de teſt. = De testibus, the title of Novel 90 in collatio 7 of the Authenticum, which the note cites; reading A leaves a letter unread."
+  },
+  {
+   "where": "margin_notes[7].lines[4]",
+   "target": "margin_notes[7].lines[4]",
+   "spans": [
+    [
+     10,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "præterea. deſ",
+   "b": "præterea. deſ-",
+   "text": "præterea. deſ",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

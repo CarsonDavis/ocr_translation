@@ -12,7 +12,84 @@
  "running_head": "PARLEMENT DE TOLOSE.",
  "prev": "p030",
  "next": "p032",
- "english": null,
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "from the service of his master <sup class=\"mk\" data-key=\"b\">b</sup>, with much greater reason [have they found it bad] to spoil and seduce, by gifts, presents, blandishments, promises and other such enticements, a free and freeborn person, and above all one so closely joined as a wife or a child <sup class=\"mk\" data-key=\"c\">c</sup>, dearer beyond comparison to the husband or to the father than all the most precious things in the world <sup class=\"mk\" data-key=\"d\">d</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Digest 11.3.1 (<i>De servo corrupto</i>, l. 1) and the other laws of the same title",
+     "original": "l. j. &amp; autres au meſme rittre. D. de ſer. cor.",
+     "gloss": "The praetor's edict giving an action in double against one who harbours another's slave or persuades him to his harm; <i>rittre</i> = <i>titre</i>."
+    },
+    {
+     "key": "c",
+     "citation": "Code 9.20 (<i>Ad legem Faviam de plagiariis</i>), l. <i>Si</i> (fragment not identified; the print's \"Falc.\" is a slip for the lex <i>Favia</i> or <i>Fabia</i>, since the lex Falcidia concerns legacies); Digest 11.3 (<i>De servo corrupto</i>), l. <i>Et tantum</i>, § 1 (fragment not identified; the title's extension of the action to a son or daughter in power is the point)",
+     "original": "l. ſi. C. ad I. Falc. de plag. l. &amp; tantum P. j. D. de ſcr. cer.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "citation": "Digest 4.2 (<i>Quod metus causa gestum erit</i>), l. <i>Isti quidem</i> (cf. D. 4.2.8, Paul; number unverified)",
+     "original": "l. iſti quidem. D. quod met. can.",
+     "gloss": "Cited for the rule that fear inflicted through one's children counts as fear to oneself, children being dearer to a parent than anything."
+    },
+    {
+     "key": "d2",
+     "citation": "Ovid, <i>Epistulae ex Ponto</i> I.3.35–36",
+     "original": "Ouid. au j. de Ponto.",
+     "gloss": "<i>Nescio qua natale solum dulcedine cunctos / ducit et immemores non sinit esse sui</i> — the couplet translated in the text."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And setting out the facts still more fully, he deduced that, having remained seven or eight years in the King's service in the wars, and some months in Spain to see the country, being desirous of seeing again his kinsfolk, his native land, Sanxi his child, and still more the said de Rols his wife, he had, three years ago and more, returned to the said place of Artigat.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XVI"
+  },
+  {
+   "type": "paragraph",
+   "html": "These three goads here were in truth very sharp ones, to bring a man back from a distant country: namely, the sweetness of one's native land, the tender love of one's children, and the love of one's wife. For as to one's native land, one could scarcely express (says Cicero in some place) what sweetness, what pleasure, what love and delight it contains <sup class=\"mk\" data-key=\"a\">a</sup>; which, being infinitely great, brings it about that another country, though it be more beautiful, pleasant and fertile, will nevertheless never be found so gracious or so delectable <sup class=\"mk\" data-key=\"b2\">b2</sup>. Witness Ulysses, who of old dared well to prefer Ithaca (where he was born), stony, set like a little nest among the rough rocks and almost inaccessible, to the immortality that Calypso the nymph had offered him <sup class=\"mk\" data-key=\"c2\">c2</sup>. On which subject Ovid says <sup class=\"mk\" data-key=\"q\">q</sup>,",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Cicero, <i>Post reditum ad Quirites</i> (section not located)",
+     "original": "Ciceron en l'oraiſon qu'il eut ad Quiri tes poſt reditũ.",
+     "gloss": "Cicero's speech to the people on his return from exile, on the sweetness of one's native land."
+    },
+    {
+     "key": "b2",
+     "citation": "Digest 31 (<i>De legatis et fideicommissis</i> II), l. <i>Qui habebat</i> (fragment not identified); Accursius on Code 4.55 (<i>Si servus exportandus veneat</i>), the last law",
+     "original": "l. qui habebat. D. de leg. ij. Accurſe en la l. finale. C. ſi ſeru. expor. ven.",
+     "gloss": "Cited for the sweetness of one's own country over any other; the bearing of the two passages has not been verified."
+    },
+    {
+     "key": "c2",
+     "citation": "Homer, <i>Odyssey</i> V (203–224); Cicero, <i>De oratore</i> I.196",
+     "original": "Homere au v. de l'Odiſ ſee. Cicerõ au. j. de Oratore.",
+     "gloss": "Cicero: the wisest of men preferred Ithaca, \"fixed like a little nest upon the roughest of rocks,\" to immortality — the words Coras paraphrases."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "By I know not what sweetness the native soil draws all men, and does not suffer them to be unmindful of it.",
+   "continued": false,
+   "notes": []
+  }
+ ],
  "french": [
   {
    "type": "paragraph",
@@ -236,6 +313,80 @@
    "where": "margin_notes[1].lines[0]",
    "text": "l. ſi. C. ad I.",
    "note": "'ad I.' confirmed at 4x: the last sort is a bold italic capital I with flat serifs top and bottom, not the looped lowercase l that opens the line; the sense wants 'ad l. Falc.' Transcribed as printed."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[2]",
+   "target": "blocks[4].lines[2]",
+   "spans": [
+    [
+     5,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "tain pais: à ſçauoir La douceur de la partie, La charité",
+   "b": "tain pais; à ſçauoir La douceur de la partie, La charité",
+   "text": "tain pais; à ſçauoir La douceur de la partie, La charité",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 7x the lower mark after 'pais' has a tail curving down and left below the baseline: a semicolon, not the two round dots of a colon (compare 'trie:' two lines below)."
+  },
+  {
+   "where": "blocks[4].lines[13]",
+   "target": "blocks[4].lines[13]",
+   "spans": [
+    [
+     5,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "uoit offerte {c2}. Auquel propos Ouide dit {q},",
+   "b": "uoit offeret {c2}. Auquel propos Ouide dit {q},",
+   "text": "uoit offeret {c2}. Auquel propos Ouide dit {q},",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 3.5x the sorts read o-ff-e-r-e-t: the sixth letter is a round e and the seventh a t with crossbar, followed by the raised marker. 'offeret' is a transposition for 'offerte'; transcribed as printed (sic)."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     9,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "au meſme rit-",
+   "b": "au meſme tit-",
+   "text": "au meſme rit-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 6-8x the first sort is a short italic r (stem with a top-right flag, no crossbar), unlike the t two letters on, which carries a crossbar on both sides; it matches the r of 'ſer.' on the line below. 'rit-/tre' is sic for 'tit-/tre' (titre)."
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "target": "margin_notes[5].lines[1]",
+   "spans": [
+    [
+     6,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "v. de l'Odiſ-",
+   "b": "v. de l'Odiſ",
+   "text": "v. de l'Odiſ",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 7x nothing follows the ſ of 'Odiſ' but its own top hook; no hyphen is printed before the break to 'ſee.' (a common unhyphenated break in this print)."
   }
  ]
 }

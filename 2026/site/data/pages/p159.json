@@ -12,7 +12,105 @@
  "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p158",
  "next": "p160",
- "english": null,
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "led those who have the charge of effecting and accomplishing the will of the deceased <sup class=\"mk\" data-key=\"b\">b</sup>; of whom the interpreters have been accustomed to make three kinds, namely Testamentary, Legitimate and Dative [<i>Donnez</i>, \"given\"]. Testamentary are those to whom the deceased, in his testament, has given the charge of effecting his will <sup class=\"mk\" data-key=\"c\">c</sup>, be they laymen or clerks, secular or regular; for even religious, with leave (however) of their superior, may be executors of testaments <sup class=\"mk\" data-key=\"d\">d</sup>, the Cordeliers alone excepted <sup class=\"mk\" data-key=\"e\">e</sup> — as to whom, moreover, some teach that a Guardian of Saint Francis, although he cannot be executor of a testament <sup class=\"mk\" data-key=\"f\">f</sup>, if nevertheless he has been left executor and has executed, no one opposing or gainsaying, the execution is valid <sup class=\"mk\" data-key=\"g\">g</sup>; inasmuch as this charge is not forbidden to the religious of this order for the defect or vice of their persons, but for the estate and perfection (as one says) of their rule <sup class=\"mk\" data-key=\"h\">h</sup>. And therefore, in like terms, priests and clerks in holy orders, to whom it is not permitted to exercise the office of tabellion or notary, if nevertheless they receive instruments, the parties not gainsaying, such instruments are good and valid <sup class=\"mk\" data-key=\"i\">i</sup>. Now these testamentary executors, because they are bound to render account and pay over the balance remaining <sup class=\"mk\" data-key=\"k\">k</sup>, must (after the example of guardians <sup class=\"mk\" data-key=\"l\">l</sup>), before all else, make an inventory of the goods of the deceased <sup class=\"mk\" data-key=\"m\">m</sup>, without which one could not afterwards recover from them accounts or the payment of the balance <sup class=\"mk\" data-key=\"n\">n</sup>. Legitimate executors are those to whom this charge and faculty is given by the law, as is the Bishop <sup class=\"mk\" data-key=\"o\">o</sup>, who must watch over and provide that the pious wills of the deceased be both faithfully and entirely accomplished <sup class=\"mk\" data-key=\"p\">p</sup>. And to these ends he must admonish, twice at the least, the heir or the testamentary executor (if there is any) to pay, or cause to be paid, the bequests made to the poor or to other pious works; and he who does not satisfy this on his part within the year shall lose all the profit which he could other",
+   "continued": true,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Decretals, X 3.26 (<i>De testamentis et ultimis voluntatibus</i>), c. <i>Tua nobis</i> (cf. X 3.26.17) and the penultimate chapter of the title",
+     "original": "e. tua nobis c. pẽ. de teſta.",
+     "gloss": "The executors of a will are to be compelled by the bishop to carry out the testator's dispositions."
+    },
+    {
+     "key": "c",
+     "citation": "Code 1.3 (<i>De episcopis et clericis</i>), l. <i>Nulli</i>",
+     "original": "l. nulli. C. de epiſ. &amp; cleri.",
+     "gloss": "Fragment not verified; cited again at {m} and {n} as <i>l. nullo</i> / <i>l. nulli</i>."
+    },
+    {
+     "key": "d",
+     "citation": "Liber Sextus, VI 3.11 (<i>De testamentis et ultimis voluntatibus</i>), last chapter; Decretals X 3.26, c. <i>Tua nobis</i>, cited at {b}",
+     "original": "c. dernier de teſt. au vj. o. tua nobis, deſſus allegué.",
+     "gloss": null
+    },
+    {
+     "key": "e",
+     "citation": "Clementines, <i>Exivi de paradiso</i> (Clem. 5.11.1, <i>De verborum significatione</i>), §§ <i>Proinde</i> and <i>Verum</i>",
+     "original": "clem. cxiiij. P. proinde &amp; . P. verum de verbo. ſign.",
+     "gloss": "Clement V's constitution on the Franciscan rule; the print's <i>cxiiij.</i> is not the standard reference and has not been explained — perhaps a running number of the constitution in Coras's edition."
+    },
+    {
+     "key": "f",
+     "citation": "Clementines, <i>Exivi de paradiso</i> (Clem. 5.11.1), as at {e}",
+     "original": "clem. cxiij. al leguée.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "citation": "Federicus de Senis (<i>Frederic de Senes</i>; Federico Petrucci of Siena), <i>Consilia</i>, cons. 294; Felinus Sandeus (<i>Felin</i>) on the last chapter of Decretals X 1.2 (<i>De constitutionibus</i>), col. 13, no. 11",
+     "original": "Frederic de Senes au conſeil ccxciiij. Fe lin au c. dernier col. xiij. nombre xj. de conſtitutio.",
+     "gloss": null
+    },
+    {
+     "key": "h",
+     "citation": "Clementines, <i>Exivi de paradiso</i> (Clem. 5.11.1), as at {e}",
+     "original": "clem. cxiiij. deſſus allegué.",
+     "gloss": null
+    },
+    {
+     "key": "i",
+     "citation": "Hostiensis (<i>Hoſtienſ.</i>; Henricus de Segusio) and Johannes Andreae (<i>Ieã André</i>) on c. <i>Sicut</i>, Decretals X 3.50 (<i>Ne clerici vel monachi saecularibus negotiis se immisceant</i>); Felinus Sandeus, at the place cited at {g}",
+     "original": "Hoſtienſ. &amp; Ieã André au c. ſicut nec cleri vel monac. Felin au lieu deſ ſus alleg.",
+     "gloss": "Chapter number of <i>Sicut</i> not verified; clerks are forbidden the office of notary, but instruments they draw up are not void."
+    },
+    {
+     "key": "k",
+     "citation": "Digest 40.4 (<i>De manumissis testamento</i>), l. <i>Lucius</i>",
+     "original": "l. Lucius D. de man. teſta,",
+     "gloss": "Fragment not verified."
+    },
+    {
+     "key": "l",
+     "citation": "Digest 26.7 (<i>De administratione et periculo tutorum et curatorum</i>), l. <i>Tutor qui</i> (D. 26.7.7, Ulpian)",
+     "original": "l. tutor qui D. de admini ſtra. tutor.",
+     "gloss": "<i>Tutor qui repertorium non fecit, quod vulgo inventarium appellatur, dolo fecisse videtur</i>: a guardian who makes no inventory is held to have acted in fraud."
+    },
+    {
+     "key": "m",
+     "citation": "Code 1.3 (<i>De episcopis et clericis</i>), l. <i>Nullo</i> (so printed; the <i>Nulli</i> of {c})",
+     "original": "l. nullo. C. de epiſ. &amp; cler.",
+     "gloss": "Fragment not verified."
+    },
+    {
+     "key": "n",
+     "citation": "Code 5.37 (<i>De administratione tutorum et curatorum</i>), l. <i>Tutores</i> (cf. C. 5.37.24); Code 1.3, l. <i>Nulli</i>, cited at {c}",
+     "original": "l. tutores C. de admin. tutor. l. nulli alleguée.",
+     "gloss": "The guardian's duty to make an inventory before administering."
+    },
+    {
+     "key": "o",
+     "citation": "Authenticum, Nov. 131 (<i>De ecclesiasticis titulis</i>), c. 11, § <i>Si quis autem pro redemptione</i> and the following § (Coras's <i>coll. vij.</i>; in the standard arrangement Nov. 131 stands in coll. 9)",
+     "original": "P. ſi quis au tem pro redemptione, &amp; P. ſuyuant de eccleſ. titu. cdlla. vij.",
+     "gloss": "The bishop of the place is to see pious legacies carried out."
+    },
+    {
+     "key": "p",
+     "citation": "Decretals, X 3.26 (<i>De testamentis</i>), c. <i>Tua nobis</i> (cf. X 3.26.17), as at {b}",
+     "original": "c. tua nobis de teſtam.",
+     "gloss": null
+    },
+    {
+     "key": "q",
+     "citation": "Authenticum, coll. 1, Nov. 1 (<i>De heredibus et Falcidia</i>), § <i>Si quis igitur non implens</i>; Authentica <i>Hoc amplius</i> under Code 6.42 (<i>De fideicommissis</i>)",
+     "original": "P. ſi quis igitur non implens de hæredit. &amp; Fal. coll. i. Autene. hoc amplius, C. de fideicom.",
+     "gloss": "The heir who does not pay the legacies within a year loses the Falcidian fourth and the benefit of the will."
+    }
+   ]
+  }
+ ],
  "french": [
   {
    "type": "paragraph",
@@ -37,7 +135,7 @@
     "leurs perſonnes: mais pour l'eſtat & perfection (cõme",
     "on parle) de leur reigle {h}. Et pourtãt en pareils termes,",
     "les preſtres & clers ſacrez, auſquels n'eſt permis d'exer-",
-    "cer l'office de tabellion ou notaire, ſi toutesfois ils",
+    "cer l'office de tabellion ou noraire, ſi toutesfois ils",
     "reçoyuent inſtrumẽs, les parties non contrediſans, tels",
     "inſtrumens ſont bons & valables {i}. Or ces executeurs",
     "teſtamentaires, pour ce qu'ils ſont tenus rendre com-",
@@ -339,6 +437,170 @@
   {
    "where": "margin_notes",
    "note": "beside_line values are approximate: the margin notes are set as a continuous column with tighter leading and drift below their markers; each is the body line nearest the note's first line."
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "cer l'office de tabellion ou noraire, ſi toutesfois ils",
+   "note": "sic noraire (r for t), wrong sort"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[9]",
+   "target": "blocks[0].lines[9]",
+   "spans": [
+    [
+     19,
+     29
+    ]
+   ],
+   "aligned": true,
+   "a": "cores quelques vns enſeigent, qu'vn gardien de ſainct",
+   "b": "cores quelques vns enſeignent, qu'vn gardien de ſainct",
+   "text": "cores quelques vns enſeigent, qu'vn gardien de ſainct",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "body-2.jpg y 480-600 at 4x: after the g the print has e, n (two minims), t — 'enſeigent', no second n. sic."
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "target": "blocks[0].lines[33]",
+   "spans": [
+    [
+     50,
+     52
+    ]
+   ],
+   "aligned": true,
+   "a": "faire payer les lais faits aux pauures, ou autres œu-",
+   "b": "faire payer les lais faits aux pauures, ou autres œu",
+   "text": "faire payer les lais faits aux pauures, ou autres œu",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "body-6.jpg right edge at 5x: the mark after 'œu' is a round speck about 3px across, sitting low; the hyphens on the same strip ('fidele-', 'ad-', 'l'exe-', 'autre-') are short horizontal bars at mid x-height and about twice as wide. A matching speck precedes 'œu'. Read as an ink speck, no hyphen."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "target": "margin_notes[0].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "c. tua nobis",
+   "b": "e. tua nobis",
+   "text": "e. tua nobis",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "margin-1.jpg y 350-480 at 4x: the glyph has a closed eye with a horizontal bar, identical to the e of 'de' on the next line; the c of 'c. pẽ.' directly below is an open bowl. Printed 'e' (sic; the same citation is 'c. tua nobis' in the foot block, note p)."
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "target": "margin_notes[4].lines[0]",
+   "spans": [
+    [
+     13,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "clem. cxiij. al-",
+   "b": "clem. cxiij. al",
+   "text": "clem. cxiij. al",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "margin-2.jpg y 150-240 at 4x/5x: nothing follows 'al'; there is paper to the right (the hyphens after 'con-' and 'der-' on the same strip sit in that space)."
+  },
+  {
+   "where": "margin_notes[5].lines[2]",
+   "target": "margin_notes[5].lines[2]",
+   "spans": [
+    [
+     15,
+     17
+    ]
+   ],
+   "aligned": true,
+   "a": "ſeil ccxciiij. Fe-",
+   "b": "ſeil ccxciiij. Fe",
+   "text": "ſeil ccxciiij. Fe",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "margin-2.jpg y 380-520 at 5x: no break sign after 'Fe'; the line directly below ('der-') prints a clear hyphen in the same column, so the space was available."
+  },
+  {
+   "where": "margin_notes[5].lines[6]",
+   "target": "margin_notes[5].lines[6]",
+   "spans": [
+    [
+     0,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "conſtitutio.",
+   "b": "conſtitucio.",
+   "text": "conſtitutio.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "margin-2.jpg y 655-715 at 6x: the letter after u has a flat top with a right-extending bar, the same form as the t in 'tit' before it; the c of 'con' is an open bowl without a top bar."
+  },
+  {
+   "where": "foot_notes[1].lines[1]",
+   "target": "foot_notes[1].lines[1]",
+   "spans": [
+    [
+     0,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "hoc amplius. C. de fideicom.",
+   "b": "hos amplius, C. de fideicom.",
+   "text": "hoc amplius, C. de fideicom.",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "body-7.jpg y 278-328 at 8x: the third letter of 'hoc' is heavily inked but has no lower bowl — its bottom stroke runs out to the right like the c of 'fideicom.' on the same line, whereas the final s of 'amplius' has the closed S-form. Read c (some ambiguity; see uncertain). The mark after 'amplius' has a descending tail like the comma after 'redemptione,' on the first foot line, not the round point after 'fideicom.': comma."
+  },
+  {
+   "where": "margin_notes[12] / foot_notes",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "note o = ['P. ſi quis au', 'tem pro redemptione, & P. ſuyuant de eccleſ. titu. cdlla. vij.']; foot p = ['c. tua nobis', 'de teſtam.']",
+   "b": "note o = ['P. ſi quis au']; unkeyed foot entry ['tem pro redemptione, …', 'de teſtam.']; foot p = ['c. tua nobis']",
+   "text": "note o = ['P. ſi quis au', 'tem pro redemptione, & P. ſuyuant de eccleſ. titu. cdlla. vij.']; foot p = ['c. tua nobis', 'de teſtam.']",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "Foot block (bottom of body-7.jpg / margin-3.jpg) read line by line: printed line 1 = 'tem pro redemptione, & P. ſuyuant de eccleſ. titu. cdlla. vij.' [gap] 'p c. tua nobis'; line 2 = 'de teſtam.' [gap] 'q P. ſi quis igitur non implens de hæredit. & Fal. coll. i. Autene.'; line 3 = 'hoc amplius, C. de fideicom.'. The margin text of o ('P. ſi quis au') runs into 'tem pro redemptione' at the head of line 1, so that line is o's second line and stays under key o. 'de teſtam.' opens line 2 immediately after 'c. tua nobis' closed line 1, so it continues note p ('c. tua nobis de teſtam.'); it does not follow o's 'vij.', which ends with a point and a gap before the key p. No unkeyed foot entry."
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "target": "blocks[0].lines[18]",
+   "spans": [
+    [
+     29,
+     37
+    ]
+   ],
+   "aligned": true,
+   "a": "notaire",
+   "b": "notaire",
+   "text": "noraire",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "single-pass pilot 2026-09-24 (docs/checks/pilot-2026-09-24.md): both Opus re-reads had it, earlier readers had silently normalized; coordinator confirmed at 3x: the letter after no is an r sort, no t ascender; wrong sort, transcribed as printed"
   }
  ]
 }

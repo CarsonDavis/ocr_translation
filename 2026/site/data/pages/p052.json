@@ -9,11 +9,193 @@
   "image_no": 74,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/74"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p051",
  "next": "p053",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "for that reason assigns the reason in both, that is to say in those who grieve and in those who rejoice, and also why both the one and the other shed tears and weep: for in those who grieve, this proceeds, he says, from the thickness of the little conduits of the sight, which comes to press the humour of the eyes; and those who make merry, for the rarity [openness] of those passages and conduits, pour out such moisture <sup class=\"mk\" data-key=\"b\">b</sup>",
+   "continued": true,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Alexander of Aphrodisias, <i>Problemata</i> (the medical problems transmitted under his name), problem 32 (as cited; number unverified)",
+     "original": "Alexandre Aphrodiſée au c. xxxij. des problemes.",
+     "gloss": "On why both the grieving and the joyful weep, by the density or rarity of the passages of the eyes."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "In the second place, there are witnesses who at other times have contracted with the said du Tilh, or been present at his contracts as instrumentary witnesses [<i>tesmoins numeraires</i>: the witnesses required by law to make up the number for an instrument]; and the instruments are produced. For the third, all these witnesses almost agree that Martin Guerre was taller and darker, a man slender of body and of legs, a little stooped, carrying his head between his two shoulders, the chin forked and a little raised upward, in whom the lower lip drooped a little downward, having small teeth, the nose broad and flat, an ulcer on the face, and a scar over the right eyebrow; whereas nevertheless the prisoner is short, stocky and thickset of body, having a thick leg, is neither flat-nosed nor stooped, and much less has all the said scars.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XXXI"
+  },
+  {
+   "type": "paragraph",
+   "html": "Upon the knowledge of a person, it is a rich testimony, a great and almost certain proof, that of the face, for having seen and recognised it such long since <sup class=\"mk\" data-key=\"a\">a</sup>; but it is still more assured when one sets down the sca",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 11.7 (<i>De religiosis et sumptibus funerum</i>), l. <i>Cum in diversis</i> (cf. D. 11.7.44, Paulus: where a body is buried in several places, the religious place is where the head lies, \"of which the image is made, whence we are recognised\"; number unverified)",
+     "original": "l cùm in di uerſis. D. de re ligioſ.",
+     "gloss": null
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "pourtant aſſigne la raiſon en tous les deux, c'eſt à ſça-",
+    "uoir, en ceux qui ſe deulent, & en ceux qui ſ'eſiouiſſent.",
+    "auſsi pourquoy & les vns, & les autres larmoyent, &",
+    "pleurent: car en ceux, qui ſe deulent, cela procede, dit-",
+    "il, de l'eſpeſſeur des petis conduits de la veuë, qui viẽt",
+    "à preſſer l'humeur des yeux: & ceux qui ſ'eſgayent,",
+    "pour la rarité d'iceux paſſages, & cõduits, eſpandent",
+    "telle humidité {b}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "En ſecond lieu, y a des teſmoins, qui",
+    "d'autresfois ont contracté auec ledit du",
+    "Tilh, ou aſsiſté à ſes contracts, comme",
+    "teſmoins numeraires: & les inſtrumens",
+    "ſont produits. Pour le troiſieme, tous ces",
+    "teſmoins, preſqu'accordent que Martin",
+    "Guerre eſtoit plus haut, & plus noir, hom",
+    "me greſle de corps, & des iãbes: vn peu",
+    "voulté, portant la teſte entre deux eſpau",
+    "les, le mẽton fourchu, & vn peu eſleué en",
+    "haut, auquel la leûre deſſous tõboit vn",
+    "peu en bas, ayant petites dents, le nez lar-",
+    "ge & camus, vne vlcere au viſage, & vne",
+    "cicatrice ſur le ſourcil droit: où touteſfois",
+    "le priſonnier eſt petit, trappe, & fourni",
+    "de corps, ayant la iambe groſſe, n'eſt ca-",
+    "mus ni voulté, & moins ha toutes leſd.",
+    "cicatrices."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Sur la cognoiſſance d'vne perſonne, c'eſt vn riche",
+    "teſmoignage, preuue grande, & preſque certaine, que",
+    "du viſage, pour l'auoir veu & recognu tel pieça {a} mais",
+    "encor eſt il plus aſſeuré quand on conſigne les cicatri"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Alexandre",
+    "Aphrodiſée",
+    "au c. xxxij. des",
+    "problemes."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l cùm in di",
+    "uerſis. D. de re",
+    "ligioſ."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "au c. xxxij. des",
+   "note": "the final numeral is printed as the italic ÿ form of 'ij' (two dots over a descending y-shape); transcribed as the decomposed 'ij' (xxxij). A reader could take it for 'xxxv', but the glyph has two dots and a descender, which 'v' has not."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "Aphrodiſée",
+   "note": "a stray acute-like mark is printed just after (and slightly above) the final e; it belongs to no letter and is not transcribed."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l cùm in di",
+   "note": "no period is clearly printed after the opening 'l' of the citation; the usual form would be 'l.'. Transcribed without one."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "du viſage, pour l'auoir veu & recognu tel pieça {a} mais",
+   "note": "the marker after 'pieça' is a small blotted italic letter; read as marker a from the margin note keyed a and from the alphabet restarting at ANNOTAT. XXXI."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "il, de l'eſpeſſeur des petis conduits de la veuë, qui viẽt",
+   "note": "the mark over the e of 'viẽt' is flat, like the tilde of 'cõduits' and 'mẽton', not the steeply slanted acute of 'rarité'; read as a tilde (viẽt = vient)."
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "cicatrice ſur le ſourcil droit: où touteſfois",
+   "note": "'touteſfois' is set with a long s before f (the first tall glyph has only a left nub, the second a full crossbar), against the usual rule; 'd'autresfois' two lines above uses round s."
+  }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "reads agree on every body line; sole note difference (note b line 2 'xxxÿ' vs 'xxxij') checked by the coordinator on the 2x margin crop: the italic ij ligature sort, transcribed decomposed as ij per conventions, B correct"
+  },
+  {
+   "where": "margin_notes[b].lines[2]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "au c. xxxÿ. des",
+   "b": "au c. xxxij. des",
+   "text": "au c. xxxij. des",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "coordinator checked the 2x margin crop"
+  }
+ ]
 }

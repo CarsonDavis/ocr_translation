@@ -1,0 +1,302 @@
+{
+ "id": "p099",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "99",
+ "signature": "G ij",
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "auant auoyent ſi fermement ſouſtenu",
+    "le priſonnier eſtre Martin Guerre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Aduiſent ici les iuges combien il eſt dangereux, &",
+    "plein de peril, ſingulierement és matieres criminelles,",
+    "où ſe traitte de l'honneur & de la vie de l'homme: d'aſ-",
+    "ſeoir iugement ſur la depoſition des teſmoins: leſquels",
+    "ſouuentesfois aſſeurent pertinacement choſes fauſſes",
+    "pour veritables {a}, dont apres ſont contraints ſe depar-",
+    "tir. Voyent auſſi les iuges combien il eſt plus aſſeuré,",
+    "meſmes à vn iugement ſouuerain ne ſ'arreſter point",
+    "ſimplement au dire des teſmoins, ni à leur depoſition",
+    "qu'on trouue eſcrite: mais de les faire venir en perſon-",
+    "ne, les ouyr, voir & contempler leurs geſtes & conte-",
+    "nances, les interroguer, leur faire rendre raiſon du tout",
+    "exactement: car ie cuide qu'ainſi faiſant, ſeroit retren-",
+    "ché le chemin à beaucoup de malignitez, calomnies &",
+    "conſpirations des teſmoins, qui ne ſe rendroyent ſi fa-",
+    "ciles & procliues à fauſſement depoſer, pour la reue-",
+    "rence, honneur & majeſté d'vne court ſouueraine, de-",
+    "uant laquelle conuiendroit reſpondre: & c'eſt ce que",
+    "l'Empereur Adrian eſcriuit à Iune Ruffin, proconſul de",
+    "Macedoine, Qu'il vouloit croire aux teſmoins; & non",
+    "point à leur teſmoignage ni depoſitions: car la foy &",
+    "l'authorité des teſmoios qui ſont preſens eſt autre, &",
+    "plus grande ſans comparaiſon, que des depoſitions qui",
+    "ſon ſeulement leuës, & recitées {b}: & le plus ſouuent eſ",
+    "crites, & dictées, plus à l'appetit d'vn mauuais garçon",
+    "de commiſſaire, ou d'vn brouillaçon de greffier, que ſe-",
+    "lon l'intention & volonté du teſmoin. Et Calliſtrat Iu-",
+    "riſconſulte, pourſuyuant l'argumẽt d'Adrian à ces pro-",
+    "pos dit, que ſur l'accuſation que faiſoit Alexandre con-",
+    "tre vn appellé Aper, de ie ne ſçay quels crimes, pour-",
+    "tant qu'Alexandre ne produiſoit point teſmoins, mais",
+    "vouloit vſer ſeulement de leurs depſitions: Adrian re-",
+    "ſpondit, que les teſmoignages n'auoyẽt point lieu en-",
+    "uers luy, & qu'il n'y donneroit point de foy car ie veux",
+    "moy-meſmes, dit-il, interroguer les teſmoings {c}. Et",
+    "c'eſt à mon aduis, ce que noſtre Iuſtinien a laiſſé eſcrit,"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "pour veritables {a}, dont apres ſont contraints ſe depar-",
+   "lines": [
+    "Soit veuë",
+    "l'annotation",
+    "xxvj."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "ſon ſeulement leuës, & recitées {b}: & le plus ſouuent eſ",
+   "lines": [
+    "l. iij. P. idem",
+    "diuus D. de",
+    "teſtib."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "moy-meſmes, dit-il, interroguer les teſmoings {c}. Et",
+   "lines": [
+    "add. P. idem",
+    "Diuus."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "auant auoyent ſi fermement ſouſtenu",
+   "note": "a mark above the final u of 'ſouſtenu' (looks like an acute); read as a speck, could be 'ſouſtenú'"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "ANNOTAT. LXXIIII.",
+   "note": "final point after LXXIIII faint; could be a comma-like mark"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "ne, les ouyr, voir & contempler leurs geſtes & conte-",
+   "note": "mark above e of 'leurs' read as a speck, not an accent"
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "ché le chemin à beaucoup de malignitez, calomnies &",
+   "note": "'calomnies' poorly inked (m and n broken); 'chemin' also broken"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "rence, honneur & majeſté d'vne court ſouueraine, de-",
+   "note": "line-end word-break sign after 'de' printed as a dot-like mark; transcribed as hyphen. 'majeſté' read with j as printed"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "text": "Macedoine, Qu'il vouloit croire aux teſmoins; & non",
+   "note": "punctuation after 'teſmoins' looks like a semicolon (dot over tailed stroke); could be a comma"
+  },
+  {
+   "where": "blocks[2].lines[20]",
+   "text": "point à leur teſmoignage ni depoſitions: car la foy &",
+   "note": "'car' poorly inked (a looks like 3); 'depoſitions' also faint"
+  },
+  {
+   "where": "blocks[2].lines[21]",
+   "text": "l'authorité des teſmoios qui ſont preſens eſt autre, &",
+   "note": "sic: 'teſmoios' as printed (n missing or broken); 'ſont' has a damaged/missing n, read as ſont; comma after 'autre' faint"
+  },
+  {
+   "where": "blocks[2].lines[23]",
+   "text": "ſon ſeulement leuës, & recitées {b}: & le plus ſouuent eſ",
+   "note": "sic: 'ſon' for 'ſont'; mark over o of 'ſouuent' read as a speck; line ends 'eſ' with no hyphen; r of 'recitées' faint"
+  },
+  {
+   "where": "blocks[2].lines[26]",
+   "text": "lon l'intention & volonté du teſmoin. Et Calliſtrat Iu-",
+   "note": "'Calliſtrat' unclear: middle letters look like 'itt' or 'iſt' (possibly misprint 'Callittrat'); punctuation after 'teſmoin' could be a colon; line-end sign after 'Iu' printed as a dot, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[2].lines[29]",
+   "text": "tre vn appellé Aper, de ie ne ſçay quels crimes, pour-",
+   "note": "'Aper' carries a mark over the A (possibly an accent or speck); line-end sign after 'pour' dot-like"
+  },
+  {
+   "where": "blocks[2].lines[31]",
+   "text": "vouloit vſer ſeulement de leurs depſitions: Adrian re-",
+   "note": "sic: 'depſitions' as printed (o missing)"
+  },
+  {
+   "where": "blocks[2].lines[34]",
+   "text": "moy-meſmes, dit-il, interroguer les teſmoings {c}. Et",
+   "note": "hyphen in 'dit-il' printed as a raised dot"
+  },
+  {
+   "where": "blocks[2].lines[35]",
+   "text": "c'eſt à mon aduis, ce que noſtre Iuſtinien a laiſſé eſcrit,",
+   "note": "punctuation after 'aduis' could be a semicolon; accent on 'laiſſé' faint"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Soit veuë",
+   "note": "blotted: could be 'veüe' or 'veuë'"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "Diuus.",
+   "note": "final punctuation could be a colon"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "text": "Macedoine, Qu'il vouloit croire aux teſmoins; & non",
+   "note": "mark after 'teſmoins' looks like a semicolon (dot over comma); could be a comma with a spot"
+  },
+  {
+   "where": "blocks[2].lines[21]",
+   "text": "l'authorité des teſmoios qui ſont preſens eſt autre, &",
+   "note": "sic 'teſmoios' (for teſmoins) as printed; 'ſont' n poorly inked"
+  },
+  {
+   "where": "blocks[2].lines[23]",
+   "text": "ſon ſeulement leuës, & recitées {b}: & le plus ſouuent eſ",
+   "note": "sic 'ſon' (for ſont); no hyphen visible after line-end 'eſ'"
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "text": "de commiſſaire, ou d'vn brouillaçon de greffier, que ſe-",
+   "note": "line-end sign after 'ſe' looks like a dot, taken as the print's short hyphen (same shape at Iu-, pro-, con-)"
+  },
+  {
+   "where": "blocks[2].lines[29]",
+   "text": "tre vn appellé Aper, de ie ne ſçay quels crimes, pour-",
+   "note": "a mark over the A of 'Aper' (accent or ink spot); transcribed plain A"
+  },
+  {
+   "where": "blocks[2].lines[31]",
+   "text": "vouloit vſer ſeulement de leurs depſitions: Adrian re-",
+   "note": "sic 'depſitions' (for depoſitions) as printed"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "l'annotation",
+   "note": "final letters smudged/overinked; could carry a tilde ('l'annotatiõ')"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. iij. P. idem",
+   "note": "'idem' final m overinked; possibly 'idẽ'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "add. P. idem",
+   "note": "'idem' overinked; possibly 'idẽ'"
+  },
+  {
+   "where": "blocks[1].text",
+   "note": "arbitration: undecided; alternatives: ANNOTAT. LXXIIII. ||| ANNOTAT. LXXIIII,",
+   "escalate": false,
+   "text": "ANNOTAT. LXXIIII."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "note": "arbitration: undecided; alternatives: Diuus. ||| Diuus:",
+   "escalate": false,
+   "text": "Diuus."
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[1].text",
+   "A": "ANNOTAT. LXXIIII.",
+   "B": "ANNOTAT. LXXIIII,",
+   "chose": "carson-session",
+   "by": "auto",
+   "text": "ANNOTAT. LXXIIII.",
+   "reason": "arbitration: either (auto-deferred)"
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "A": "de commiſſaire, ou d'vn brouillaçon de greffier, que ſe",
+   "B": "de commiſſaire, ou d'vn brouillaçon de greffier, que ſe-",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "de commiſſaire, ou d'vn brouillaçon de greffier, que ſe-",
+   "reason": "arbitration: B (translator: The word selon is divided at the line end (ſe-|lon); the hyphen is the expected sign of division and the sense is the same either way.)"
+  },
+  {
+   "where": "blocks[2].lines[26]",
+   "A": "lon l'intention & volonté du teſmoin. Et Calliſtrat Iu-",
+   "B": "lon l'intention & volonté du teſmoin. Et Callittrat Iu-",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "lon l'intention & volonté du teſmoin. Et Calliſtrat Iu-",
+   "reason": "arbitration: A (translator: Calliſtrat = Callistratus, the jurist of D. 22.5.3 whom Coras is quoting; Callittrat is no name.)"
+  },
+  {
+   "where": "blocks[2].lines[27]",
+   "A": "riſconſulte, pourſuyuant l'argumẽt d'Adrian à ces pro-",
+   "B": "riſconſulte. pourſuyuant l'argumẽt d'Adrian à ces pro-",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "riſconſulte, pourſuyuant l'argumẽt d'Adrian à ces pro-",
+   "reason": "arbitration: A (translator: The sentence continues (Iurisconsulte, poursuyuant l'argument d'Adrian...); a comma, not a full stop, fits the syntax.)"
+  },
+  {
+   "where": "blocks[2].lines[35]",
+   "A": "c'eſt à mon aduis, ce que noſtre Iuſtinien a laiſſé eſcrit,",
+   "B": "c'eſt à mon aduis; ce que noſtre Iuſtinien a laiſſé eſcrit,",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "c'eſt à mon aduis, ce que noſtre Iuſtinien a laiſſé eſcrit,",
+   "reason": "arbitration: A (translator: c'est à mon aduis, ce que... is one clause; a comma suits it, a semicolon would sever the relative from its antecedent.)"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "A": "Soit veuë",
+   "B": "Soit veüe",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "Soit veuë",
+   "reason": "arbitration: A (translator: veuë matches the same formula printed on p098 (Soit veuë l'annotation xxx.); both spellings give veue and translate alike.)"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "A": "Diuus.",
+   "B": "Diuus:",
+   "chose": "carson-session",
+   "by": "auto",
+   "text": "Diuus.",
+   "reason": "arbitration: either (auto-deferred)"
+  }
+ ]
+}

@@ -1,8 +1,8 @@
-# Report: texte-36
+# Report: texte-35
 
-- Output: `translation/sections/texte-36.md` — `check_markers.py texte-36`: 1 sections ok, 0 failed.
-- Word counts: French 60, English 65. No marginal citations. The page break p058/p059 falls between *raiſons* and *bonnes* and is kept at "reasons for it ⟦p059⟧good and weighty".
-- Glossary additions: *rendre raiſons (bonnes & grandes)* → "to render reasons (good and weighty)"; *nourries touſiours enſemble* → "always brought up together".
-- `[unclear]` passages: none. Reflow gaps *cõ gnu*, *nour ries* read through. The print heads the section TEXTE without a point (spaced capitals); the print's point after *teſmoins* mid-sentence is rendered by a semicolon.
-- Choices to review: *bonnes & grandes* → "good and weighty"; *hanté & frequenté* → "haunted and frequented" (as texte-25).
+- Output: `translation/sections/texte-35.md` — `check_markers.py texte-35`: 1 sections ok, 0 failed.
+- Word counts: French 39, English 42. No marginal citations. The page break p056/p057 falls between "vices:" and *adonné* and is kept there.
+- Glossary additions: *confit & conſommé en tous vices* → "steeped and consummate in all vices"; *renieur* → "denier (of the name of God)"; *larrecins & affrontemens* → "theft and cheating".
+- `[unclear]` passages: none. Reflow gaps *qua trieme*, *blaſphe mateur* read through.
+- Choices to review: *confit* → "steeped" (Ringold and Lewis: "confirmed thoroughly"); *renieur* → "denier" (Ringold and Lewis the same), explained in the headnote as one who "denies God" in oaths; *ordinaire* → "habitual". Ringold and Lewis merge this TEXT with the next one ("and all this to such an extent…"), which the print sets after Annotation XXXVI under the heading TBXTE. — that block is translated inside annot-036, where the segmentation placed it.
 - Citations: none.

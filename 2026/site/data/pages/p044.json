@@ -12,7 +12,47 @@
  "running_head": "ARREST DV",
  "prev": "p043",
  "next": "p045",
- "english": null,
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "this de ROLS here) without making any show of complaining of the little duty that the husband rendered her in approaching her. Whereupon, not long ago, I learned from a man worthy of belief that, shortly before I wrote these things, there was separated, by judgment of the Official of Albi [the bishop's judge], the marriage of a husband who had remained eighteen years without ever having been able to approach his wife, who, being examined, was found still a virgin; and nevertheless she had never made any show of being vexed or complaining of it.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "At the end of the said nine years she was unbewitched, and to this end instructed to have four masses said, which she did; and she names the priests, and says that one of them (whom she set down by name) made her eat some hosts and <i>fouaces</i> [hearth cakes], from which she and her said husband found themselves so well that she conceived, immediately afterwards, a son, still living, called Sanxi Guerre.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XXIIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Incredible certainly is the ruse and wiliness of Satan, who, like a roaring lion, ever walks about around men, to catch and deceive some one of them, <sup class=\"mk\" data-key=\"a\">a</sup> transfiguring himself oftentimes into an Angel of light, the better to envelop and entice him <sup class=\"mk\" data-key=\"b\">b</sup>; nay, he so well embellishes and adorns his darkness with his colours that to many the very night and obscurity seem to be a splendour and perfect light — as in this unbewitching, in which, under the pretext of piety and of ecclesiastical ceremonies, he grafted a horrible and cruel poison, persuading these poor married people that there was no other means to unbewitch than the superstition of eating hosts and <i>fouaces</i>, thus leaving aside contrition of heart, humiliation of spirit, alms, fasts and prayers, which are the true and excellent exorcisms to present to God <sup class=\"mk\" data-key=\"c\">c</sup>, placing in Him all one's hope, and not in",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "1 Peter 5 (5:8)",
+     "original": "A la premiere des S. Pierre. c. v.",
+     "gloss": "<i>Adversarius vester diabolus tamquam leo rugiens circuit, quaerens quem devoret</i> — your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour."
+    },
+    {
+     "key": "b",
+     "citation": "2 Corinthians 11 (11:14)",
+     "original": "A la ſecon de des Corin tans. c. xi.",
+     "gloss": "<i>Ipse enim Satanas transfigurat se in angelum lucis</i> — Satan himself is transformed into an angel of light. The print's <i>Corintans</i> is as printed."
+    }
+   ]
+  }
+ ],
  "french": [
   {
    "type": "paragraph",
@@ -185,6 +225,62 @@
    "where": "blocks[0].lines[2]",
    "text": "chant d'elle. Sur quoy puis n'agueres i'apprins d'hõme",
    "note": "validator long-s warning on 'Sur' checked against the image: printed with a roman capital S (capitals never take long s); no normalization occurred."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     9,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "ceſte de ROLS ici) ſans faire ſemblant aucun de ſe plain-",
+   "b": "ceſte de Rols ici) ſans faire ſemblant aucun de ſe plain-",
+   "text": "ceſte de ROLS ici) ſans faire ſemblant aucun de ſe plain-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x (body-1.jpg, line 1) OLS are small capitals, not lowercase: the L has a capital foot serif and O/S are cap-form at x-height. Conventions §3 and the standing ruling transcribe small capitals as ordinary capitals: ROLS."
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "target": "blocks[4].lines[15]",
+   "spans": [
+    [
+     45,
+     49
+    ]
+   ],
+   "aligned": true,
+   "a": "& excellens exorciſmes pour preſenter à Dieu {c}, collo-",
+   "b": "& excellens exorciſmes pour preſenter à Dieu {c}. collo-",
+   "text": "& excellens exorciſmes pour preſenter à Dieu {c}. collo-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x and 8x (body-8.jpg, line 1) the mark after marker c is a round dot on the baseline with no tail; the comma after 'eſperance' on the same strip and the comma after 'cœur' (body-7) both have clear descending tails, and the periods after 'Guerre.' and 'fit.' match the shape. Read as a period despite the sense favouring a comma; noted in uncertain[]."
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "target": "blocks[2].lines[6]",
+   "spans": [
+    [
+     31,
+     42
+    ]
+   ],
+   "aligned": true,
+   "a": "conceutin-",
+   "b": "conceutin-",
+   "text": "conceut in-",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "word division normalized (conventions §1 rule added after the pilot)"
   }
  ]
 }

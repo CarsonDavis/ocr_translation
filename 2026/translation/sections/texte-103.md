@@ -1,0 +1,8 @@
+---
+id: texte-103
+pages: [p145, p146]
+---
+⟦p145⟧Some, among whom he names principally Master Dominique Pivol, and Pierre de Guilher, innkeeper of the place ⟦p146⟧of Mane, took him for Martin Guerre: of whom nevertheless they had been familiars and intimate friends.
+
+## Notes
+The print heads this section TEXTE. on p145, after Annotation CII (our annot-101). The body carries no marker and the margin no note. The sentence completes texte-99 (*ſept ou huit ans au parauant, eſtant il de retour du camp de Picardie*), which annot-101 on Picardy interrupted: the subject of *nomme* is du Tilh confessing before the judge of Rieux. Wrong sort translated by sense: *le preuoyãt pour Martin Guerre* (so the print, verified on the page image) for *le prenoyent pour* — "took him for"; *preuoyant* ("foreseeing") gives no sense here, and the case file §2 records that Pivol and Guilhet "took him for Martin Guerre". Reflow gap read through: *Guer re*. Names as the copy-text prints them: *Piuol* → "Pivol" (the case file's form; *Puiol* on p147, texte-102), *Pierre de Guilher* (the case file's *Guilhet*; *Quillet* on p147); the variants are recorded at texte-102. *Maiſtre* → "Master" per the case file §8; *hoſte du lieu de Mane* → "innkeeper of the place of Mane" (*hoſte* → innkeeper, texte-31; Mane per §4); *familiers, & intimes amys* → "familiars and intimate friends". *Duquel pourtant* is rendered "of whom nevertheless": the glossary's sixteenth-century sense of *pourtant* ("for that reason", annot-030) gives no sense here, where the point is the irony that Martin's own intimates mistook the stranger for him, as annot-102 goes on to say.

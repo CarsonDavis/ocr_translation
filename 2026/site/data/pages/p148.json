@@ -9,11 +9,469 @@
   "image_no": 170,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/170"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p147",
  "next": "p149",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "[was wont to] say and do before going away [unclear: the French has no verb between <i>Martin</i> and <i>dire</i>].",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION CV"
+  },
+  {
+   "type": "paragraph",
+   "html": "He could not have addressed himself better, inasmuch as friends, kinsfolk, household servants and neighbours are those who commonly know and understand the acts of the persons to whom they belong by right of kinship, friendship, familiarity or neighbourhood. Kinsfolk (say our Jurisconsults) have knowledge, in all likelihood, of what their kinsfolk do, of their estate, condition and quality <sup class=\"mk\" data-key=\"a\">a</sup>; and so likewise do neighbours among themselves <sup class=\"mk\" data-key=\"b\">b</sup>: so that he who says he does not know the estate or the deeds of his kinsman or neighbour cannot be excused under the pretext of the ignorance that he alleges <sup class=\"mk\" data-key=\"c\">c</sup>. Which must be understood to be true of things which in all likelihood fall within the knowledge of a kinsman or a neighbour: such as the health or the age of a kinsman <sup class=\"mk\" data-key=\"d\">d</sup>, the poverty or wealth <sup class=\"mk\" data-key=\"e\">e</sup>, dwelling <sup class=\"mk\" data-key=\"f\">f</sup>, marriage <sup class=\"mk\" data-key=\"g\">g</sup>, reputation and renown <sup class=\"mk\" data-key=\"h\">h</sup> of a neighbour; and generally all acts which cannot be done, dispatched or properly carried through save by the succession of time, requiring some length and interval <sup class=\"mk\" data-key=\"i\">i</sup>. For the things which are done among kinsfolk or in the neighbourhood, and can be brought very soon to an end and completed in a little time, do not easily pass into the knowledge of the other kinsfolk and neighbours, because they are most often done secretly — as a contract, a will, a crime <sup class=\"mk\" data-key=\"k\">k</sup>. For even what is done in public once only is not to be presumed to be known by all persons, seeing that such an act has had no duration <sup class=\"mk\" data-key=\"l\">l</sup>; although it is commonly said that of what is done in public no one may allege or pretend ignorance <sup class=\"mk\" data-key=\"m\">m</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 38.8 (<i>Unde cognati</i>), l. <i>Octavi</i> — fragment not identified; Code, title <i>De in integrum restitutione</i> (C. 2.21 and following), l. <i>De tutela</i> — not identified",
+     "original": "l. octaui. D. vnd. cogno. l. de tutela. C. de in integr. reſtitut.",
+     "gloss": "Cited for the rule that kinsfolk are presumed to know the condition — and, at {d}, the age and health — of their kin."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 19.2.55 (<i>Locati conducti</i>, l. <i>Dominus horreorum</i>); Digest 33.7 (<i>De instructo vel instrumento legato</i>), l. <i>Si ita</i>, last § — fragment not identified; Digest 43.12.2 pr. (<i>De fluminibus</i>, l. 2 at the beginning); Code 5.4.9 (<i>De nuptiis</i>, l. <i>Si vicinis</i>); Decretals, X 1.6 (<i>De electione</i>), c. <i>Postquam</i> — chapter number unverified",
+     "original": "l. dominus horreorũ. D. locati. l. ſi ita P. dern. D. de fund. inſtru. l. ij. au cõmẽcement. D. de flumin. l ſi vi cinis. C. de nup. c poſt. quã, de elect.",
+     "gloss": "D. 43.12.2: a river is told from a brook by its size \"or by the estimation of those who live round about\"; C. 5.4.9: a marriage kept \"with the neighbours or others knowing of it\" is a true marriage though no instruments were drawn — the neighbours' knowledge as proof."
+    },
+    {
+     "key": "c",
+     "citation": "Gloss on Gratian, <i>Decretum</i>, C. 23 q. 1 c. 2 (<i>Paratus</i>)",
+     "original": "Gloſe au c. paratus. xxiij. q j.",
+     "gloss": "Chapter identified by its incipit; the gloss's point, that one cannot plead ignorance of a kinsman's or neighbour's affairs, not verified."
+    },
+    {
+     "key": "d",
+     "citation": "the laws <i>Octavi</i> and <i>De tutela</i> cited above at {a}",
+     "original": "l. octaui l. de tutela, deſſus alleguees.",
+     "gloss": null
+    },
+    {
+     "key": "e",
+     "citation": "l. <i>Quosdam</i> — unidentified (no title given); Decretals, X 2.23 (<i>De praesumptionibus</i>), c. <i>Quanto</i> — chapter number unverified",
+     "original": "l. quoſdam &amp; c. quanto. de præſump.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Digest 19.2.55 (<i>Dominus horreorum</i>) and Digest 43.12.1 (<i>De fluminibus</i>, l. 1), already cited at {b}",
+     "original": "l. dominus horreorum, et l. j. D de flu min. ia alle.",
+     "gloss": "The margin cites l. 1 here where {b} cited l. 2; both fragments of D. 43.12 (Ulpian, Paul) turn on the neighbours' estimation of a river."
+    },
+    {
+     "key": "g",
+     "citation": "Code 5.4.9 (<i>De nuptiis</i>, l. <i>Si vicinis</i>)",
+     "original": "l. ſi vicinus C. de nup.",
+     "gloss": "The incipit is <i>Si vicinis</i>, as the margin at {b} has it; see the `⟨alt⟩` note in the report."
+    },
+    {
+     "key": "h",
+     "citation": "Baldus (<i>Balde</i>) on Code 7.20.1 (<i>De collusione detegenda</i>, l. 1), at the end",
+     "original": "Balde en l. j. ſuo la fin C. de colluſio, deteg.",
+     "gloss": "<i>ſuo la fin</i> is a wrong sort for <i>ſur la fin</i>."
+    },
+    {
+     "key": "i",
+     "citation": "cf. Digest 12.1.1 (<i>De rebus creditis</i>, l. 1) — the bearing of the passage unverified; or the law \"already cited\" (<i>d. l. j</i>) at {f}, D. 43.12.1",
+     "original": "D. l j. D. de reb. credi.",
+     "gloss": "The first <i>D.</i> may be <i>dicta</i> (\"the said law 1\") rather than the Digest siglum."
+    },
+    {
+     "key": "k",
+     "citation": "Panormitanus (<i>Panorme</i>) on Decretals X 2.20 (<i>De testibus</i>), c. <i>Cum causam</i>, column 9, and c. <i>Constitutus</i>, at the last <i>notabile</i> — chapter numbers unverified; Baldus on Code 7.20.1 (<i>De collusione detegenda</i>), as at {h}",
+     "original": "Panorme au c. cum cauſam, colomne ix. &amp; au c. conſtitutus, au dernier notable de teſtib. Bald. en la j. C. de colluſ. deteg.",
+     "gloss": null
+    },
+    {
+     "key": "l",
+     "citation": "Digest 14.3.11 (<i>De institoria actione</i>, l. <i>Sed si pupillus</i>), § 3 <i>Proscribere</i>, at the words <i>Proscriptum</i> (§ 4)",
+     "original": "l. ſed &amp; ſi pupilus P proſcribere au verſet proſcriptũ. D. de inſtitu.",
+     "gloss": "A notice limiting a manager's authority must be posted plainly and permanently; one posted and then taken down binds no one — the law Coras draws on for \"such an act has had no duration\"."
+    },
+    {
+     "key": "m",
+     "citation": "Decretals, X 4.18 (<i>Qui matrimonium accusare possunt</i>), c. <i>Cum in tua</i> — chapter number unverified; and § <i>Proscribere</i> (D. 14.3.11.3), at its beginning, already cited at {l}",
+     "original": "c. cum in tua qui mat. accuſ. poſſ. P. preſcribere, ſur le commencement ia allegué.",
+     "gloss": "For the common saying that no one may plead ignorance of what is done in public; <i>preſcribere</i> is a wrong sort for <i>proſcribere</i>."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Which he retained tenaciously; and more",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "dire, & faire auant que ſ'en aller."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Il ne ſe pouuoit mieux adreſſer, d'autãt que les amis,",
+    "parens, domeſtiques, & voiſins ſont ceux-là qui com-",
+    "munemẽt, ſçauent, & entendent les actes des perſonnes,",
+    "auſquelles ils appartiennent par droit de parenté, ami-",
+    "tié, familiarité ou voiſinage. Les parens (diſent nos Iu-",
+    "riſconſultes) ont cognoiſſance vraye, ſemblablement",
+    "de ce que leurs parens font, de leur eſtat, condition, &",
+    "qualité {a}. & de meſme les voiſins entr'eux {b}. de manie-",
+    "re que celuy qui dit ne ſçauoir point l'eſtat, ou les faits",
+    "de ſon parent, ou voiſin, ne peut eſtre excuſé ſous pre-",
+    "texte de l'ignorance, qu'il allegue {c}. Ce qu'il faut enten-",
+    "dre eſtre veritable és choſes, qui tombent vray ſembla-",
+    "blement en la cognoiſſance d'vn parent, ou d'vn voi-",
+    "ſin: comme la ſanté, ou l'aage d'vn parent {d}, la pauure-",
+    "té, ou richeſſe {e}, habitation {f}, le mariage {g}, la reputa-",
+    "tion, & renommée {h} du voiſin: & generalement tous",
+    "actes, qui ne ſe peuuent faire deſpeſcher, ou expliquer",
+    "proprement: mais par la ſucceſſion de temps, deſirans",
+    "quelque longueur, & interualle {i}. Car les choſes qui ſe",
+    "font entre les parens, ou au voiſinage, & peuuent eſtre",
+    "menées bien toſt à fin, & paracheuees en peu de temps,",
+    "ne paſſent pas facilement en la cognoiſſance des au-",
+    "tres parens & voiſins, par ce qu'elles ſont le plus ſouuẽt",
+    "faites ſecrettement. Comme vn contract, vn teſtament,",
+    "vn crime {k}. Car meſmes ce qu'eſt faict en public vne",
+    "fois ſeulement, n'eſt à preſumer eſtre ſceu de toutes per",
+    "ſonnes: veu que tel acte n'a point eu de durée {l}. Bien",
+    "qu'on dit communemẽt, que de ce qu'eſt fait en public",
+    "nul puiſſe alleguer, ou pretendre ignorance {m}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ce qu'il retenoit tenacemẽt, & plus en-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. octaui. D.",
+    "vnd. cogno. l.",
+    "de tutela. C.",
+    "de in integr.",
+    "reſtitut."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. dominus",
+    "horreorũ. D.",
+    "locati. l. ſi ita",
+    "P. dern. D. de",
+    "fund. inſtru.",
+    "l. ij. au cõmẽ-",
+    "cement. D. de",
+    "flumin. l ſi vi",
+    "cinis. C. de",
+    "nup. c poſt.",
+    "quã, de elect."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Gloſe au c.",
+    "paratus. xxiij.",
+    "q j."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. octaui l.",
+    "de tutela, deſ-",
+    "ſus alleguees."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. quoſdam",
+    "& c. quanto.",
+    "de præſump."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. dominus",
+    "horreorum, et",
+    "l. j. D de flu",
+    "min. ia alle."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "foot",
+   "lines": [
+    "l. ſi vicinus C. de nup."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "foot",
+   "lines": [
+    "Balde en l. j. ſuo la fin C. de colluſio, deteg."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "foot",
+   "lines": [
+    "D. l j. D. de reb. credi"
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "foot",
+   "lines": [
+    "Panorme au c. cum cauſam, colomne ix. & au c. conſti-",
+    "tutus, au dernier notable de teſtib. Bald. en la j. C. de colluſ. deteg."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "foot",
+   "lines": [
+    "l. ſed & ſi pupi-",
+    "lus P proſcribere au verſet proſcriptũ. D. de inſtitu."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "foot",
+   "lines": [
+    "c. cum in tua qui mat. accuſ.",
+    "poſſ. P. preſcribere, ſur le commencement ia allegué."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0]",
+   "text": "dire, & faire auant que ſ'en aller.",
+   "note": "last line of the preceding TEXTE passage, set in the larger text type; treated as a paragraph continuing from p147"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Il ne ſe pouuoit mieux adreſſer, d'autãt que les amis,",
+   "note": "print shows a gap 'd'au tãt'; closed up as one word (d'autant). 'Il' capital I is a large type sort, not a decorated initial"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "parens, domeſtiques, & voiſins ſont ceux-là qui com-",
+   "note": "line-end break sign printed as a raised dot, transcribed '-'"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "munemẽt, ſçauent, & entendent les actes des perſonnes,",
+   "note": "initial 'm' is a damaged sort (looks like 'ın'); read 'munemẽt'"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "riſconſultes) ont cognoiſſance vraye, ſemblablement",
+   "note": "'cognoiſſance': ligature read as ſſ, could be ſs"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "blement en la cognoiſſance d'vn parent, ou d'vn voi-",
+   "note": "line-end break sign printed as a raised dot, transcribed '-'"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "proprement: mais par la ſucceſſion de temps, deſirans",
+   "note": "'la' printed with a damaged/turned l (looks like 'J a'); 'ſucceſſion' ſſ could be ſs"
+  },
+  {
+   "where": "blocks[2].lines[20]",
+   "text": "menées bien toſt à fin, & paracheuees en peu de temps,",
+   "note": "'paracheuees' printed without accent, second e damaged"
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "text": "fois ſeulement, n'eſt à preſumer eſtre ſceu de toutes per",
+   "note": "'eſtre' r damaged (looks like 'eſtıe'); 'toutes' first t looks like r ('routes'?), possible wrong sort; 'per' no hyphen"
+  },
+  {
+   "where": "blocks[2].lines[26]",
+   "text": "ſonnes: veu que tel acte n'a point eu de durée {l}. Bien",
+   "note": "'tel' could be 'tei' (worn l)"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. dominus",
+   "note": "final 'us' is the italic us-sort; same in 'horreorum' f note"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "l. ij. au cõmẽ-",
+   "note": "'ij' printed as ÿ-shaped sort; line-end break printed as dot"
+  },
+  {
+   "where": "margin_notes[1].lines[3]",
+   "text": "P. dern. D. de",
+   "note": "'P' is the swash P paragraph sign; 'D' is the Digest sign throughout"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "q j.",
+   "note": "no point visible after q"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "ſus alleguees.",
+   "note": "could be 'allegues.'; ink faint"
+  },
+  {
+   "where": "margin_notes[5]",
+   "text": "min. ia alle.",
+   "note": "note f runs below the body into the foot area; last line 'min. ia alle.' sits at the head of the foot block, left"
+  },
+  {
+   "where": "foot_notes[0].lines[0]",
+   "text": "l. ſi vicinus C. de nup.",
+   "note": "key g set tight against 'l.' (reads 'gl.'); 'vicinus' final us-sort read as 'us' (could be 'vicinu'); 'C' printed like '€'"
+  },
+  {
+   "where": "foot_notes[2].lines[0]",
+   "text": "D. l j. D. de reb. credi",
+   "note": "opens with a small mark before D (apostrophe-like); 'l j.' no point after l"
+  },
+  {
+   "where": "foot_notes[3].lines[1]",
+   "text": "tutus, au dernier notable de teſtib. Bald. en la j. C. de colluſ. deteg.",
+   "note": "'dernier' printed like 'dermer' (damaged or wrong sort); 'Bald' l printed like '!'"
+  },
+  {
+   "where": "foot_notes[4].lines[1]",
+   "text": "lus P proſcribere au verſet proſcriptũ. D. de inſtitu.",
+   "note": "'verſet' could be 'verſei'; 'de' printed like 'dc'"
+  },
+  {
+   "where": "foot_notes[5].lines[1]",
+   "text": "poſſ. P. preſcribere, ſur le commencement ia allegué.",
+   "note": "'commencement' damaged (looks like 'commen.cement'); 'poſſ.' ſſ could be ſs"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Il ne ſe pouuoit mieux adreſſer, d'autãt que les amis,",
+   "note": "print shows a gap 'd'au tãt'; closed up as one word d'autãt"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "parens, domeſtiques, & voiſins ſont ceux-là qui com-",
+   "note": "line-end break sign printed as a raised dot, transcribed as hyphen; same on 'voi-' in lines[12]"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "de ce que leurs parens font, de leur eſtat, condition, &",
+   "note": "'font' vs 'ſont' ambiguous (crossbar); read 'font' by sense"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "proprement: mais par la ſucceſſion de temps, deſirans",
+   "note": "'la' printed with a damaged/odd l (looks like 'J a')"
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "text": "fois ſeulement, n'eſt à preſumer eſtre ſceu de toutes per",
+   "note": "'eſtre' looks like 'eſtıe' (damaged r?) and 'toutes' looks like 'toures'/'roures'; possible wrong sorts, sic"
+  },
+  {
+   "where": "foot_notes[2]",
+   "text": "D. l j. D. de reb. credi",
+   "note": "a stray apostrophe-like mark before 'D' after key i"
+  },
+  {
+   "where": "foot_notes[5]",
+   "text": "poſſ. P. preſcribere, ſur le commencement ia allegué.",
+   "note": "'poſſ' first letter blotted; 'commencement' partly damaged; final 'allegué' accent/letter doubtful"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "l. ij. au cõmẽ-",
+   "note": "'ij' printed as ÿ-like ligature; break sign a raised dot"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].lines[3]",
+   "target": "blocks[2].lines[3]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "auſquelles ils appartiennent par droit de parenté, ami-",
+   "b": "auſquelbes ils appartiennent par droit de parenté, ami-",
+   "text": "auſquelles ils appartiennent par droit de parenté, ami-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "auſquelles = auxquelles, 'to whom' (the persons to whom they belong by kinship); auſquelbes is no word, a misread of l as b."
+  },
+  {
+   "where": "foot_notes[0].lines[0]",
+   "target": "foot_notes[0].lines[0]",
+   "spans": [
+    [
+     6,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "l. ſi vicinus C. de nup.",
+   "b": "l. ſi vicinu C. de nup.",
+   "text": "l. ſi vicinus C. de nup.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "l. ſi vicinus is at least a word (the law is C. 5.4.9 Si vicinis, cited correctly as ſi vicinis in note b on the same page); vicinu is a broken form; the citation is the same either way."
+  }
+ ]
 }

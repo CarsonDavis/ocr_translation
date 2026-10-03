@@ -9,11 +9,579 @@
   "image_no": 132,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/132"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p109",
  "next": "p111",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "larly because, although the difference laid down by our laws, as to the imposition of penalties, between nobles and those of low condition <sup class=\"mk\" data-key=\"a\">a</sup> is not strictly kept in France, where that general rule is held more tenaciously, that crimes and misdeeds cast off and annul all dignity and all privileges <sup class=\"mk\" data-key=\"b\">b</sup>: nevertheless in judgments of death the French have religiously observed at all times that nobles are beheaded, and the others hanged <sup class=\"mk\" data-key=\"c\">c</sup>. Some further testify that it is observed in France that if a person, however noble and illustrious he may be, commits some notable treachery and treason, he is not beheaded, but is hanged on a gibbet, and on gibbet-forks higher and more raised than the others <sup class=\"mk\" data-key=\"d\">d</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 9.41 (<i>De quaestionibus</i>), l. <i>Milites</i> (C. 9.41.8); Digest 48.19 (<i>De poenis</i>), the fragment beginning <i>Honor…</i> — not identified (cf. D. 48.19.28 and D. 48.19.15 on the gradation of punishments by rank)",
+     "original": "l. milites. C. de quaſ l. honor. D. de pœn.",
+     "gloss": "C. 9.41.8: soldiers are not to be subjected to torture or to the punishments of plebeians."
+    },
+    {
+     "key": "b",
+     "citation": "Code 3.24 (<i>Ubi senatores vel clarissimi civiliter vel criminaliter conveniantur</i>), l. 1 (C. 3.24.1); Code book 12, the law beginning <i>Indignat…</i> — not identified (perhaps under C. 12.1, <i>De dignitatibus</i>)",
+     "original": "l. i. C. vbi ſenator l. Indi gnat. li. xij.",
+     "gloss": "For the rule that crime strips the offender of rank and privilege."
+    },
+    {
+     "key": "c",
+     "citation": "Accursius (<i>Accurſe</i>), <i>Glossa ordinaria</i> on Digest 49.16 (<i>De re militari</i>), l. 2 § 1 (D. 49.16.2.1)",
+     "original": "Accurſe en la l. ij. P. i. D. de re milit.",
+     "gloss": "D. 49.16.2.1: the deserter to the enemy who returns is tortured and condemned to the beasts or to the gallows (<i>in furcam</i>), \"which soldiers do not suffer\" — the gloss on the gallows as the commoner's death."
+    },
+    {
+     "key": "d",
+     "citation": "Baldus (<i>Balde</i>) on the chapter <i>Quidam</i> — title <i>de iure…</i> not resolved (perhaps X 2.24, <i>De iureiurando</i>); unverified",
+     "original": "Balde au c. qnidã de iure.",
+     "gloss": "For the custom of hanging a noble traitor on a higher gibbet."
+    },
+    {
+     "key": null,
+     "citation": "unidentified",
+     "original": "ſiue adulterium. x. diſt.",
+     "gloss": "Perhaps a canon of the Decretum, Part I, Distinctio 10; its place in the argument is not evident."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Forgery.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXXI"
+  },
+  {
+   "type": "paragraph",
+   "html": "The crime of forgery is here patent: by the change of name and the substitution of the person, the said du Tilh having asserted that he was called, and was, Martin Guerre: for although it is lawful for everyone to change his name at his pleasure <sup class=\"mk\" data-key=\"a2\">a2</sup>, inasmuch as names are imposed only to recognise persons and to distinguish them one from another <sup class=\"mk\" data-key=\"b2\">b2</sup>: this nevertheless is understood with good faith, and without intention to defraud or injure another <sup class=\"mk\" data-key=\"c2\">c2</sup>. As when Pope Sergius, the second of that name, who was called in Italian Bocca di porco, that is to say Pig's Mouth, had himself named Sergius: whence since then the Pontiffs of Rome have drawn the custom of leaving, at their creation, their proper name, to take another — after the example also (as they say) of Jesus Christ, who gave the name of Peter to Simon Bar-Jona when he chose him for his disciple. <sup class=\"mk\" data-key=\"d2\">d2</sup> Provided therefore that the intention be not evil, one may change not only one's name, but also one's surname and arms <sup class=\"mk\" data-key=\"e2\">e2</sup>, and call oneself of another country: as when St Paul, in the Acts of the Apostles, called himself a citizen of Rome, although he was none <sup class=\"mk\" data-key=\"f2\">f2</sup>. And Jesus Christ, speaking",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a2",
+     "citation": "Code 9.25 (<i>De mutatione nominis</i>), l. <i>unica</i> (C. 9.25.1, Diocletian and Maximian) — the print's <i>D.</i> for <i>C.</i>",
+     "original": "l. vn D. de mura no.",
+     "gloss": "The sole law of the title: as the imposition of a name is a private matter, so its change is without danger to the innocent, provided it is done without fraud (<i>sine aliqua fraude</i>). Cited at annot-012 {b} under its right book."
+    },
+    {
+     "key": "b2",
+     "citation": "Code 7.14 (<i>De ingenuis manumissis</i>), l. <i>Ad recognoscendos</i> (fragment number unverified; cf. C. 7.14.10); Institutes 2.17 (<i>Quibus modis testamenta infirmantur</i>), the § beginning <i>Sed quia</i> — paragraph not identified",
+     "original": "l. ad recognoſcendos. C. de ingen. &amp; man. P. ſed quia. qui modis teſt. infir.",
+     "gloss": "Names are imposed to recognise individuals; as at annot-012 {a}, where the Institutes passage cited is instead Inst. 2.20.29 on error in a legatee's name."
+    },
+    {
+     "key": "c2",
+     "citation": "The same sole law (C. 9.25.1), and Coras's Annotation XII above (cross-reference to annot-012)",
+     "original": "l. vnique al leguee. Et ci deſſus en l'anotarion,⟨alt:notation,⟩ xij.",
+     "gloss": null
+    },
+    {
+     "key": "d2",
+     "citation": "Pietro Crinito (<i>Pierre Crinit</i>), <i>De honesta disciplina</i>, book 3 (or 4), chapter 10 — book number unverified",
+     "original": "Pierre Crinit. ru iij.⟨alt:iiij.⟩ de honeſta diſcipli. c. x.",
+     "gloss": "For Pope Sergius <i>Os porci</i> and the papal custom of taking a new name; the print's <i>ru</i> is <i>au</i>."
+    },
+    {
+     "key": "e2",
+     "citation": "Decretals of Gregory IX, title <i>De excessibus praelatorum et subditorum</i> (X 5.31), c. <i>Dilecta</i> (chapter number unverified), and Panormitanus (<i>Panorme</i>) on it",
+     "original": "c. dilecta. là où Panorme de exceſ. pralaror.",
+     "gloss": "For the lawful change of surname and arms."
+    },
+    {
+     "key": "f2",
+     "citation": "Acts of the Apostles, chapter 16 (Acts 16:37–38)",
+     "original": "Actes c. xvj.",
+     "gloss": "Paul at Philippi declares himself a Roman."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "rement que iaçoit la difference donnée par nos loix",
+    "quant à l'impoſitiõ des peines entre les nobles, & ceux",
+    "de baſſe condition {a}, ne ſoit pas eſtroitement gardée",
+    "en France, ou l'ont tient plus tenacement celle reigle",
+    "generale, que les crimes & forfaits reiettent, & aneantiſ-",
+    "ſent toute dignité, & tous les priuileges {b}: toutesfois és",
+    "iugemens de mort le François ont religieuſement ob",
+    "ſerué de tout temps, que les nobles ſont decapitez, &",
+    "les autres pendus {c}. Encore teſmoignent quelques vns",
+    "d'auantage eſtre gardé en France, que ſi vne perſonne,",
+    "tant noble, & illuſtre qu'elle ſoit, commet quelque pro",
+    "dition & trahiſon notable, on ne la decole point, mais",
+    "on la pend en vn gibet, & en fourches plus hautes &",
+    "plus eſleuees que les autres {d}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Fauſſeté."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXXXI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Le crime de faux eſt ici patent: par le changement",
+    "du nom, & ſuppoſition de la perſonne: ayant ledit du",
+    "Tilh aſſeuré, qu'il ſ'appeloit & eſtoit Martin Guerre:",
+    "car bien qu'il ſoit loiſible à chacun changer de nom à",
+    "ſon plaiſir {a2}, d'autant que les noms ne ſont impoſez que",
+    "pour recognoiſtre les perſonnes, & diſcerner les vnes",
+    "des autres {b2}: cela toutesfois ſ'entend auec bonne foy,",
+    "& ſans intention de frauder, ou endommager autruy {c2}.",
+    "comme quand le Pape Sergius, ſecond de ce nom, qui",
+    "ſ'appeloit en Italien, Bocca di porco: c'eſt a dire Bou-",
+    "che de pourceau, ſ'eſtoit fait nommer Sergius: dont de-",
+    "puis les Pontifes de Rome ont tiré la couſtume, de laiſ",
+    "ſer à leur creation leur nom propre, pour en prendre",
+    "vn autre à exemple auſſi (comme ils diſent) de Ieſus",
+    "Chriſt, qui donna le nom de Pierre à Simon Bariona",
+    "lors qu'il le choiſit pour ſon diſciple. {d2} Pourueu donc-",
+    "ques que la volonté ne ſoit mauuaiſe, on peut, non ſeu-",
+    "lement changer de nom, mais encore du ſu nom, & d'ar-",
+    "moiries {e2}, & ſe dire d'vn autre pays: comme quand S.",
+    "Paul, aux Actes des Apoſtres, ſe diſoit citoyen de Ro-",
+    "me, bien qu'il n'en fut point {f2}. Et Ieſus Chriſt, parlant"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. milites. C.",
+    "de quaſ l. ho-",
+    "nor. D. de pœn."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. i. C. vbi",
+    "ſenator l. Indi",
+    "gnat. li. xij."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Accurſe en",
+    "la l. ij. P. i.",
+    "D. de re milit."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Balde au c.",
+    "qnidã de iure."
+   ]
+  },
+  {
+   "key": "a2",
+   "kind": "margin",
+   "lines": [
+    "l. vn D. de",
+    "mura no."
+   ]
+  },
+  {
+   "key": "b2",
+   "kind": "margin",
+   "lines": [
+    "l. ad reco-",
+    "gnoſcendos. C.",
+    "de ingen. &",
+    "man. P. ſed",
+    "quia. qui mo-",
+    "dis teſt. infir."
+   ]
+  },
+  {
+   "key": "c2",
+   "kind": "margin",
+   "lines": [
+    "l. vnique al",
+    "leguee. Et ci",
+    "deſſus en l'a-",
+    "notation, xij."
+   ]
+  },
+  {
+   "key": "d2",
+   "kind": "margin",
+   "lines": [
+    "Pierre Cri-",
+    "nit. ru iij. de",
+    "honeſta diſci-",
+    "pli. c. x."
+   ]
+  },
+  {
+   "key": "e2",
+   "kind": "margin",
+   "lines": [
+    "c. dilecta. là",
+    "où Panorme",
+    "de exceſ. pra-",
+    "laror."
+   ]
+  },
+  {
+   "key": "f2",
+   "kind": "margin",
+   "lines": [
+    "Actes c. xvj."
+   ]
+  },
+  {
+   "key": null,
+   "kind": "margin",
+   "lines": [
+    "ſiue adulte-",
+    "rium. x. diſt."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "rement que iaçoit la difference donnée par nos loix",
+   "note": "'difference': the r is broken/half-inked (looks like 'diffeıence'); read as r"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſent toute dignité, & tous les priuileges {b}: toutesfois és",
+   "note": "'toutesfois': the f is almost not inked (gap between 'toutes' and 'ois'); best reading f"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "iugemens de mort le François ont religieuſement ob",
+   "note": "'le François' printed so (sense wants 'les'); sic"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "ſerué de tout temps, que les nobles ſont decapitez, &",
+   "note": "print sets a space before the comma after 'decapitez'; normalized"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "plus eſleuees que les autres {d}.",
+   "note": "'eſleuees' appears without accent on the e; could be 'eſleuées' with a faint accent"
+  },
+  {
+   "where": "blocks[2]",
+   "text": "Fauſſeté.",
+   "note": "display line in larger roman type; treated as heading"
+  },
+  {
+   "where": "blocks[3]",
+   "text": "ANNOT. LXXXI.",
+   "note": "final point after I is a small raised mark, read as period"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "Tilh aſſeuré, qu'il ſ'appeloit & eſtoit Martin Guerre:",
+   "note": "'ſ'appeloit': the o looks dotted ('appelöit'), probably ink spot"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "des autres {b2}: cela toutesfois ſ'entend auec bonne foy,",
+   "note": "line-end mark after 'foy' could be ',' or ';'"
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "lors qu'il le choiſit pour ſon diſciple. {d2} Pourueu donc-",
+   "note": "marker d printed after the period ('diſciple .d'); line-end sign after 'donc' looks like a dot, read as hyphen"
+  },
+  {
+   "where": "blocks[4].lines[16]",
+   "text": "ques que la volonté ne ſoit mauuaiſe, on peut, non ſeu-",
+   "note": "mark after 'peut' is small and high; could be a comma or stray mark"
+  },
+  {
+   "where": "blocks[4].lines[18]",
+   "text": "moiries {e2}, & ſe dire d'vn autre pays: comme quand S.",
+   "note": "'pays' p poorly inked (looks like 'oays')"
+  },
+  {
+   "where": "blocks[4].lines[20]",
+   "text": "me, bien qu'il n'en fut point {f2}. Et Ieſus Chriſt, parlant",
+   "note": "last word's final letter damaged ('parlans'?); read 'parlant'"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "de quaſ l. ho-",
+   "note": "'quaſ' could be 'quæſ' (quæſtionibus abbreviation); a/æ unclear"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "gnat. li. xij.",
+   "note": "'xij' printed with the ij ligature (ÿ-shape)"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "la l. ij. P. i.",
+   "note": "'ij' printed as ÿ-shape ligature; could be 'iij' if a preceding i is present"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "qnidã de iure.",
+   "note": "sic: 'qnidã' (turned u for 'quidã')"
+  },
+  {
+   "where": "margin_notes[4]",
+   "text": "l. vn D. de / mura no.",
+   "note": "alphabet restarts at a in ANNOT. LXXXI, keyed a2-f2. 'l. vn D.' reading doubtful (vnica?); 'mura no.' likely abbreviated 'mutatione nominis'"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "nit. ru iij. de",
+   "note": "'ru' as printed (sense 'li.'?); numeral printed 'iiÿ', read iij, could be iiij"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "de exceſ. pra-",
+   "note": "'pra-' as printed, likely for 'præ-'; ligature not visible"
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "text": "laror.",
+   "note": "'laror.' as printed (sense 'lator.'/prælator.); a stray mark follows the period"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "où Panorme",
+   "note": "the o of 'Panorme' is blotted"
+  },
+  {
+   "where": "margin_notes[10]",
+   "text": "ſiue adulte- / rium. x. diſt.",
+   "note": "note begins with a small mark (not a clear letter), possibly a continuation of e2's or f2's note or a mis-set key; no body marker found"
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "ſon plaiſir {a2}, d'autant que les noms ne ſont impoſez que",
+   "note": "Marker alphabet restarts at 'a' under ANNOT. LXXXI; second-series markers keyed a2-f2 in body and margin."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "rement que iaçoit la difference donnée par nos loix",
+   "note": "'difference': the r is broken and looks like 'diffeience'; possibly a damaged sort."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſent toute dignité, & tous les priuileges {b}: toutesfois és",
+   "note": "the f of 'toutesfois' is very faint (looks 'toutes ois'); could be ſ."
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "plus eſleuees que les autres {d}.",
+   "note": "'eſleuees' printed without accent as far as visible."
+  },
+  {
+   "where": "blocks[3]",
+   "text": "ANNOT. LXXXI.",
+   "note": "final numeral/point blurred ('LXXXI' followed by a small raised mark); read as 'LXXXI.'"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "Tilh aſſeuré, qu'il ſ'appeloit & eſtoit Martin Guerre:",
+   "note": "a diaeresis-like mark over the o of 'ſ'appeloit', probably an ink speck."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "& ſans intention de frauder, ou endommager autruy {c2}.",
+   "note": "'frauder' looks like 'fiauder' (broken r or wrong sort); check print."
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "che de pourceau, ſ'eſtoit fait nommer Sergius: dont de-",
+   "note": "comma after 'pourceau' set tight; the ſ of 'ſ'eſtoit' is faint, looks like 'l'."
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "lors qu'il le choiſit pour ſon diſciple. {d2} Pourueu donc-",
+   "note": "point printed before the marker d ('diſciple .d'); line-end hyphen is a dot-like mark."
+  },
+  {
+   "where": "blocks[4].lines[16]",
+   "text": "ques que la volonté ne ſoit mauuaiſe, on peut, non ſeu-",
+   "note": "small tick after 'peut' read as comma; could be an ink speck. 'peut' may look like 'peur'."
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "text": "lement changer de nom, mais encore du ſu nom, & d'ar-",
+   "note": "'ſu nom' sic as printed (for ſurnom, with a gap); line end 'd'ar-' damaged, the r and hyphen are unclear."
+  },
+  {
+   "where": "blocks[4].lines[18]",
+   "text": "moiries {e2}, & ſe dire d'vn autre pays: comme quand S.",
+   "note": "'pays' p damaged, looks like 'oays'; point after S. is a small raised dot."
+  },
+  {
+   "where": "blocks[4].lines[20]",
+   "text": "me, bien qu'il n'en fut point {f2}. Et Ieſus Chriſt, parlant",
+   "note": "last letter of 'parlant' damaged, could read 'parlans'."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "de quaſ l. ho-",
+   "note": "'quaſ' as printed (abbreviation, possibly for quæſt.), no point visible after it."
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "qnidã de iure.",
+   "note": "sic: 'qnidã' for 'quidã' (turned u / wrong sort), as printed."
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "l. vn D. de",
+   "note": "reading 'l. vn D. de / mura no.' uncertain; italic small type."
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "où Panorme",
+   "note": "the o of 'Panorme' is damaged ('Pan.rme')."
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "de exceſ. pra-",
+   "note": "'pra-' could be 'præ-' with a small ligature."
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "text": "laror.",
+   "note": "sic: 'laror.' for 'lator.' as it appears; a stray mark follows the point."
+  },
+  {
+   "where": "margin_notes[10]",
+   "text": "ſiue adulte-",
+   "note": "note preceded by a small blotted sign (like a raised v or asterisk), not a clear key letter; no matching body marker. Keyed null; may continue note f2 or e2, or be a separate note whose marker is missing."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[6]",
+   "target": "blocks[4].lines[6]",
+   "spans": [
+    [
+     53,
+     57
+    ]
+   ],
+   "aligned": true,
+   "a": "des autres {b2}: cela toutesfois ſ'entend auec bonne foy,",
+   "b": "des autres {b2}: cela toutesfois ſ'entend auec bonne foy;",
+   "text": "des autres {b2}: cela toutesfois ſ'entend auec bonne foy,",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "comma: the phrase continues 'auec bonne foy, & sans intention de frauder'"
+  },
+  {
+   "where": "blocks[4].lines[17]",
+   "target": "blocks[4].lines[17]",
+   "spans": [
+    [
+     48,
+     53
+    ]
+   ],
+   "aligned": true,
+   "a": "lement changer de nom, mais encore du ſu nom, & d'ar",
+   "b": "lement changer de nom, mais encore du ſu nom, & d'ar-",
+   "text": "lement changer de nom, mais encore du ſu nom, & d'ar-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "d'ar-|moiries is one word (d'armoiries) broken at the line end; the hyphen reading is the one consistent with the word"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "target": "margin_notes[6].lines[3]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "notarion, xij.",
+   "b": "notation, xij.",
+   "text": "notation, xij.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "l'a|notation = l'annotation, a cross-reference to Annotation XII; anotarion is no word"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "target": "margin_notes[7].lines[1]",
+   "spans": [
+    [
+     8,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "nit. ru iij. de",
+   "b": "nit. ru iiij. de",
+   "text": "nit. ru iij. de",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Crinito, De honesta disciplina, book iij or iiij, ch. 10: not verifiable from context; reading A kept as the transcribers' primary reading, flagged unverified"
+  },
+  {
+   "where": "margin_notes[7].lines[3]",
+   "target": "margin_notes[7].lines[3]",
+   "spans": [
+    [
+     8,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "pli. c. x.",
+   "b": "pli. c. x,",
+   "text": "pli. c. x.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "the full stop closes the citation 'c. x.' at the end of the note"
+  }
+ ]
 }

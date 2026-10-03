@@ -9,11 +9,216 @@
   "image_no": 75,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/75"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p054",
  "next": "p056",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "ved in such equipage, namely having a wooden leg, and bearing an attestation of having lost the foot from a cannon-shot before Saint-Quentin, the Judges began to be spurred by a sharp goad to enter into some suspicion of the imposture.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Pseudo-Plutarch, <i>De placitis philosophorum</i> (<i>Placita philosophorum</i>, in the <i>Moralia</i>), book 5 — chapters 11–12, why children resemble their parents or their ancestors, and how they come to resemble others rather than their parents (chapter not cited)",
+     "original": "Plutarque au liure v. de placit. Philoſ.",
+     "gloss": "Printed beside \"renuoyer le lecteur à ce\"; it evidently serves the sentence that refers the reader to Plutarch."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "The second reason was a summary inquiry [<i>sommaire apprise</i>], made by the Judge of Rieux upon the likeness of the prisoner with Sanxi Guerre, son of Martin, by which it is reported, as has been said, that there is no likeness: which several of the witnesses heard in the said inquiries also confirm.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XXXIIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "This proof also was not very conclusive: for it often happens that true and legitimate children take after a stranger better than their natural father, as we have shown above. Wherefore I shall content myself for the present with referring the reader to what Plutarch has written of it.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "The third: Martin Guerre was of the Basque country, where everyone knows well that a language is spoken very different from French and Gascon, little understandable except to those who are of the country: and nevertheless the said du Tilh, prisoner, knows how to speak only a few stolen words of it.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XXXV"
+  },
+  {
+   "type": "paragraph",
+   "html": "Although the language of the Basques is very obscure and",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ua en tel equipage, à ſçauoir ayant vne iambe de bois,",
+    "& portant atteſtatoire, d'auoir perdu le pied d'vn coup",
+    "de boulet deuant S. Quentin: les Iuges commencerent",
+    "d'eſt eſpoinçonnez d'vn fort eſguillon, pour entrer en",
+    "quelque ſoupçon de l'impoſture."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La ſecõde raiſon, eſtoit vne ſommaire",
+    "appriſe, faite par le Iuge de Rieux, ſur la",
+    "ſemblance du priſonnier auec Sãxi Guer",
+    "re, fils de Martin, par laquelle eſt rappor",
+    "té, cõme a eſté dit, n'y auoir aucune ſimili",
+    "tude: ce que pluſieurs des teſmoins, ouys",
+    "eſdictes enqueſtes, confirment auſsi."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ceſte preuue auſſi n'eſtoit pas fort concluante: car",
+    "ſouuentesfois aduiẽt que les vrais & legitimes enfans",
+    "rapportent mieux vn eſtranger, que leur naturel pere,",
+    "comme nous auons ci deuant remonſtré. Dont me",
+    "contenteray pour le preſent, renuoyer le lecteur à ce",
+    "qu'en a eſcrit Plutarque."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La troiſieme, Martin Guerre eſtoit du",
+    "pays des Baſcouz, chacun ſcait bien, qu'",
+    "on parle vn langage fort different du Frã",
+    "çois, & Gaſcon, peu enten dible, ſi ce n'eſt",
+    "à ceux qui ſont du pays: & neantmoins",
+    "ledit du Tilh priſonnier n'en ſcait parler",
+    "que quelques mots deſrobez."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXXV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Bien que la langue des Baſcouz ſoit fort obſcure &"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Plutarque",
+    "au liure v. de",
+    "placit. Philoſ."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "Plutarque au liure v. de placit. Philoſ.",
+   "note": "no marker {a} is printed anywhere in the body column; checked the whole of 'qu'en a eſcrit Plutarque.' and the two lines above it at high zoom. The note keyed 'a' therefore has no corresponding marker on this page."
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "d'eſt eſpoinçonnez d'vn fort eſguillon, pour entrer en",
+   "note": "sic: the print sets 'd'eſt' (d, apostrophe, e, ſt-ligature, then a full word space) where the sense requires 'd'eſtre'. Verified at 800%; there is no 're' and no hyphen."
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "text": "çois, & Gaſcon, peu enten dible, ſi ce n'eſt",
+   "note": "two problems on this line. (1) a small comma-shaped mark sits just below the baseline between '&' and 'Gaſcon'; it may be a broken/low-set comma or an ink speck, and I have not transcribed it. (2) 'entendible' is set as two words with a full word space, 'enten dible'; transcribed as printed."
+  },
+  {
+   "where": "blocks[6].lines[5]",
+   "text": "ledit du Tilh priſonnier n'en ſcait parler",
+   "note": "the apostrophe in 'n'en' is printed as a small caret/circumflex-shaped raised mark sitting over the n, not the usual comma-shaped apostrophe used elsewhere on the page; read as an apostrophe."
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "boulet",
+   "note": "final letter worn at the top; reader A read it as r (bouler); the curled foot favours t"
+  }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "reads agree on every line but body line 3 ('bouler'/'boulet'); coordinator checked at 4x: foot of the final letter curls right like the t sort, no bilateral r serif; read as boulet, A's r reading recorded as uncertain"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "target": "blocks[0].lines[2]",
+   "spans": [
+    [
+     3,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "de bouler deuant S. Quentin: les Iuges commencerent",
+   "b": "de boulet deuant S. Quentin: les Iuges commencerent",
+   "text": "de boulet deuant S. Quentin: les Iuges commencerent",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "coordinator checked the 4x crop; final letter has the t foot, but its top is worn and resembles r"
+  }
+ ]
 }

@@ -9,11 +9,463 @@
   "image_no": 163,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/163"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p142",
  "next": "p144",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "be done, and there was heard by the said Judge of Rieux.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION CI"
+  },
+  {
+   "type": "paragraph",
+   "html": "On this subject I have sometimes seen it called into doubt, to see whether a man who is going to die can be heard as a witness, or otherwise examined by a Judge: seeing that in this kind of hearings memory and recollection are singularly required <sup class=\"mk\" data-key=\"a\">a</sup>, which cannot well fall to one who, feeling the last breaths of his life draw near, and overcome by the hideous fright and horrible apprehension of death, is agitated and tormented in a thousand and a thousand ways <sup class=\"mk\" data-key=\"b\">b</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 47.2 (<i>De furtis</i>), as printed, l. <i>Quidam tabular[ius]</i>, at the end — fragment not identified",
+     "original": "l. quidam tabular. à la fin. D. de fur.",
+     "gloss": null
+    },
+    {
+     "key": "b",
+     "citation": "Code 6.23 (<i>De testamentis</i>), l. <i>Hac consultissima</i> (C. 6.23.21, Theodosius II and Valentinian III, 439), § <i>At cum humana</i> (paragraph number not verified)",
+     "original": "l. hac conſultiſſima. P. at cũ humana. C. de teſt.",
+     "gloss": "The paragraph on the frailty of the dying testator; cited again at {n}. The transcribers could not settle whether the print's double <i>s</i> is <i>ſſ</i> or <i>ß</i>; the word is the same."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "In a thousand forms of death one single death wearies the wretched (<i>Mille modis lethi miseros mors una fatigat</i>) <sup class=\"mk\" data-key=\"c\">c</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "c",
+     "citation": "Statius, <i>Thebaid</i> 9.280",
+     "original": "Statius lib. ix. Theba.",
+     "gloss": "<i>Mille modis leti miseros mors una fatigat</i> — by a thousand kinds of death one death wearies the wretched."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Witness our Redeemer Jesus Christ, who, foretasting the sharpness and bitterness of his dolorous passion, was sorrowful at it even unto death <sup class=\"mk\" data-key=\"d\">d</sup>, nay even to the point of grieving, and almost complaining, of God his father, saying, <i>Heli, Heli, lama sabathani?</i> My God, my God, why hast thou forsaken me <sup class=\"mk\" data-key=\"e\">e</sup>? Nevertheless the contrary opinion is, with great reason, practised and received by all. For if he who is at the extremity of life can dispose of his goods by testament, sale, gift, and any other kind of disposition whatsoever, whether between the living or by reason of death <sup class=\"mk\" data-key=\"f\">f</sup> (in which, however, the integrity of a man's sense and understanding is greatly required <sup class=\"mk\" data-key=\"g\">g</sup>) — nay even, says the Emperor, though the dying man, crushed by sickness, were half dead and stammered with his tongue, provided that otherwise his conceptions and wishes be understood <sup class=\"mk\" data-key=\"h\">h</sup> — why is it that for the same reasons (where the case shall require it) the dying man cannot be heard and bear witness <sup class=\"mk\" data-key=\"i\">i</sup>? True it is that in this I desire the Judge, or Commissioner, who proceeds to the hearing to be prudent, wise, discreet and well advised, not to make the interrogations confused, long or prolix, but the clearest and briefest he can, comprising in few words the whole substance of the business <sup class=\"mk\" data-key=\"k\">k</sup>; inasmuch as, as has been said above, the spirit of him who feels near at hand the tearing asunder and separation of body and soul",
+   "continued": false,
+   "notes": [
+    {
+     "key": "d",
+     "citation": "Matthew 26 (26:38); Mark 14 (14:34)",
+     "original": "S. Matth. chap. xxvj. S. Marc c. xiiij.",
+     "gloss": "<i>Tristis est anima mea usque ad mortem</i> — my soul is sorrowful even unto death, at Gethsemane."
+    },
+    {
+     "key": "e",
+     "citation": "Matthew 27 (27:46)",
+     "original": "S. Matth. c. xxvij.",
+     "gloss": "<i>Eli, Eli, lama sabachthani?</i> The transcribers' first reading of the word is defective (<i>[?]ſabathani</i>); the alternative, <i>aſabathani</i>, is Coras's <i>lama sabathani</i> with the <i>a</i> carried to the second word."
+    },
+    {
+     "key": "f",
+     "citation": "Digest 32 (<i>De legatis et fideicommissis</i> III), l. <i>Pamphilo</i>, § <i>Proposi[tum]</i> (fragment not identified); Bartolus (<i>Bartole</i>) on Digest 28.1 (<i>Qui testamenta facere possunt</i>), l. <i>Heredes palam</i> (D. 28.1.21, Ulpian), § <i>Uno contextu</i> (§ 3)",
+     "original": "l. Pamphylo P. propoſi. D. de leg. iij. Bar. l. hære. P. vno cont. D. de te.",
+     "gloss": "A testament must be made <i>uno contextu</i>, in one continuous act; Bartolus on the dying testator."
+    },
+    {
+     "key": "g",
+     "citation": "Digest 28.1 (<i>Qui testamenta facere possunt</i>), l. 2 (D. 28.1.2, Labeo)",
+     "original": "l. ij. D. de te.",
+     "gloss": "<i>In eo qui testatur eius temporis, quo testamentum facit, integritas mentis, non corporis sanitas exigenda est</i> — in a testator, soundness of mind, not health of body, is required at the time he makes the will. Coras's \"integrity of a man's sense and understanding\"."
+    },
+    {
+     "key": "h",
+     "citation": "Code 6.23 (<i>De testamentis</i>), l. <i>Quoniam indignum</i> (fragment number not verified)",
+     "original": "l. quoniam indignum. C. de teſta.",
+     "gloss": "The emperor's law allowing the will of a testator who, though failing, can still make his wishes understood — Coras's \"half dead and stammering\"."
+    },
+    {
+     "key": "i",
+     "citation": "Digest 28.1 (<i>Qui testamenta facere possunt</i>), l. <i>Cum lege</i> (fragment not identified)",
+     "original": "l. cũ lege D. de teſta.",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "citation": "Baldus (<i>Balde</i>) on the <i>Libri feudorum</i>, <i>De pace Constantiae</i> (the Peace of Constance, appended to the feudal law), c. 1, § <i>Vasall[us]</i> (locus not verified)",
+     "original": "Balde au c. j. P. vaſſal. de pact. conſtant aux feudes.",
+     "gloss": "The print's <i>de pact. conſtant</i> is <i>de pace Constantiae</i>."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "uoit faire, & illec fut ouy par ledit Iuge",
+    "de Rieux."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Sur ce propos i'ay veu quelquesfois reuoquer en dou",
+    "te, pour voir ſi vn homme, qui ſ'en va mourir, peut eſtre",
+    "ouy comme teſmoin, ou autrement enquis par vn Iu-",
+    "ge: attendu qu'en telle maniere d'auditiõs eſt ſingulie-",
+    "rement deſiree, la memoire & ſouuenance {a}. Laquelle",
+    "ne peut bonnement eſchoir en celuy, qui ſentant appro",
+    "cher les derniers ſouſprirs de ſa vie, & ſurmonté de l'hi",
+    "deuſe frayeur, & horrible apprehenſion de la mort, eſt",
+    "agité & tormenté en mille & mille ſortes {b}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Mille modus lethi, miſeros, mors vna fatigat {c}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Teſmoin noſtre Redempteur Ieſus Chriſt, lequel pre",
+    "ſentant l'aigreur & l'amertume de ſa douloureuſe paſ-",
+    "ſion, en fut contriſté iuſqu'à la mort {d}. voire iuſqu'à ſe",
+    "douloir & preſque plaindre de Dieu ſon pere, diſant,",
+    "Heli, Heli, lam aſabathani? Mon Dieu, mon Dieu, pour-",
+    "quoy m'as tu delaiſſé {e}? Toutesfois, la cõtraire opinion",
+    "eſt à grande raiſon pratiquee de tous, & receuë. Car ſi",
+    "celuy qui eſt en extremité de vie, peut diſpoſer de ſes",
+    "biens par teſtament, vente, donnaiſon, & quelconque",
+    "autre eſpece de diſpoſition, ſoit entre vifs, ou à cauſe de",
+    "mort {f}. (eſquelles pourtãt, l'integrité du ſens, & de l'en",
+    "tendement de l'homme eſt grandement requiſe {g}) voi-",
+    "re encor, dit l'Empereur, que le moribunde accablé de",
+    "maladie, fuſt demy mort, & begueyaſt de ſa langue,",
+    "pourueu que d'ailleurs ſes conceptions & volontez",
+    "ſoyent entendues {h}. Pourquoy eſt-ce que par meſmes",
+    "raiſons (où le cas le requerra) le moribunde ne pourra",
+    "eſtre ouy, & porter teſmoignage {i}? Vray eſt qu'en cela",
+    "ie deſire le Iuge, ou Commiſſaire, qui procede à l'audi-",
+    "tion, eſtre prudent, ſage, diſcret, & bien aduiſé, de ne",
+    "faire les interrogatoires confus, longs, ni prolixes:",
+    "mais les plus clairs, & briefs qu'il pourra: comprenant",
+    "en peu de paroles toute la ſubſtãce du negoce {k}. partãt",
+    "que cõme deſſus a eſté dit, l'eſprit de celuy qui ſent pro",
+    "chaine la diuulſion, & ſeparation du corps & de l'ame"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. quidam",
+    "tabular. à la",
+    "fin. D. de fur."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. hac con-",
+    "ſultiſſima. P.",
+    "at cũ huma-",
+    "na. C. de teſt."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Statius lib.",
+    "ix. Theba."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "S. Matth.",
+    "chap. xxvj. S.",
+    "Marc c. xiiij."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "S. Matth.",
+    "c. xxvij."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. Pamphylo",
+    "P. propoſi. D.",
+    "de leg. iij. Bar.",
+    "l. hære. P. vno",
+    "cont. D. de te."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. ij. D. de te."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. quoniam",
+    "indignum. C.",
+    "de teſta."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. cũ lege D.",
+    "de teſta."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "Balde an c.",
+    "j. P. vaſſal. de",
+    "pact. conſtant",
+    "aux feudes."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "uoit faire, & illec fut ouy par ledit Iuge",
+   "note": "first word 'uoit' continues a word broken from p142 (no context page available); 'faire' initial read as f (glyph could be long s), decided by the word"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Mille modus lethi, miſeros, mors vna fatigat {c}.",
+   "note": "italic verse line; 'modus' ends in an us-shaped sort (could be modꝰ); 'vna' printed with a swash v resembling a script V"
+  },
+  {
+   "where": "blocks[3]",
+   "note": "verse line set apart in italic; the following 'Teſmoin' paragraph continues the sense but starts flush, so continues_prev left false"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "quoy m'as tu delaiſſé {e}? Toutesfois, la cõtraire opinion",
+   "note": "'delaiſſé' could be 'delaiſsé' (ſſ vs ſs); marker e is small and blotted, sits tight before '?'"
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "mort {f}. (eſquelles pourtãt, l'integrité du ſens, & de l'en",
+   "note": "marker f is set full-size on the line, not raised"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "tendement de l'homme eſt grandement requiſe {g}) voi-",
+   "note": "marker g set full-size on the line before the closing parenthesis"
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "re encor, dit l'Empereur, que le moribunde accablé de",
+   "note": "the E of 'Empereur' is damaged and looks like 'F.'; read as E"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "tabular. à la",
+   "note": "first letter could be r ('rabular.'); read t"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "ſultiſſima. P.",
+   "note": "printed with an ß-shaped italic ligature; could be transcribed 'ſultißima'"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "text": "l. hære. P. vno",
+   "note": "'hære' possibly 'hare' with a damaged a; æ ligature doubtful"
+  },
+  {
+   "where": "margin_notes[5].lines[4]",
+   "text": "cont. D. de te.",
+   "note": "final point looks like a comma; read as period"
+  },
+  {
+   "where": "margin_notes[9].lines[0]",
+   "text": "Balde an c.",
+   "note": "'an' could be 'au'; sic as it appears"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "ge: attendu qu'en telle maniere d'auditiõs eſt ſingulie-",
+   "note": "line-end break sign printed as a raised dot-like stroke; transcribed as '-'"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "Mille modus lethi, miſeros, mors vna fatigat {c}.",
+   "note": "italic 'modus': final letter could be a us-abbreviation sign (modꝰ); 'vna' set with a swash italic v"
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "Heli, Heli, lam aſabathani? Mon Dieu, mon Dieu, pour-",
+   "note": "between 'lam' and 'ſabathani' a thin, damaged sort, read as 'a' (could be 'ı' or a broken letter); word division unclear (lamaſabathani?)"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "quoy m'as tu delaiſſé {e}? Toutesfois, la cõtraire opinion",
+   "note": "'delaiſſé' read as ſſ; could be ſs"
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "mort {f}. (eſquelles pourtãt, l'integrité du ſens, & de l'en",
+   "note": "marker f printed on the baseline, not raised"
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "re encor, dit l'Empereur, que le moribunde accablé de",
+   "note": "E of 'Empereur' damaged, looks like 'F.'"
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "ſoyent entendues {h}. Pourquoy eſt-ce que par meſmes",
+   "note": "between 'eſt' and 'ce' a curved stroke dropped below the baseline, taken as a displaced hyphen; could be read 'eſt ce'"
+  },
+  {
+   "where": "blocks[4].lines[22]",
+   "text": "en peu de paroles toute la ſubſtãce du negoce {k}. partãt",
+   "note": "stray accent-like mark over the a of 'paroles', not transcribed; point after {k} sits slightly above baseline, read as period"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "tabular. à la",
+   "note": "first letter looks like italic r ('rabular.'); possibly a wrong sort or damaged t"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "Marc c. xiiij.",
+   "note": "numeral hard to read: 'xiiij' vs 'xiiij' with ligatured ij"
+  },
+  {
+   "where": "margin_notes[5].lines[3]",
+   "text": "l. hære. P. vno",
+   "note": "'hære' could be 'hare'; æ ligature unclear"
+  },
+  {
+   "where": "margin_notes[5].lines[4]",
+   "text": "cont. D. de te.",
+   "note": "final point could be a comma or semicolon"
+  },
+  {
+   "where": "margin_notes[9].lines[0]",
+   "text": "Balde an c.",
+   "note": "'an' as printed (expected 'in'); possibly sic"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[4]",
+   "target": "blocks[4].lines[4]",
+   "spans": [
+    [
+     16,
+     27
+    ]
+   ],
+   "aligned": true,
+   "a": "Heli, Heli, lam [?]ſabathani? Mon Dieu, mon Dieu, pour-",
+   "b": "Heli, Heli, lam aſabathani? Mon Dieu, mon Dieu, pour-",
+   "text": "Heli, Heli, lam aſabathani? Mon Dieu, mon Dieu, pour-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Heli, Heli, lam asabathani = Eli, Eli, lama sabachthani (Matthew 27:46) with the a of lama carried to the next word; reading A leaves the first letter unread."
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "target": "blocks[4].lines[9]",
+   "spans": [
+    [
+     46,
+     48
+    ]
+   ],
+   "aligned": true,
+   "a": "autre eſpece de diſpoſition, ſoit entre vifs, ou à cauſe de",
+   "b": "autre eſpece de diſpoſition, ſoit entre vifs, où à cauſe de",
+   "text": "autre eſpece de diſpoſition, ſoit entre vifs, ou à cauſe de",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "soit entre vifs, ou à cause de mort: 'either inter vivos or mortis causa', the disjunctive ou; où ('where') makes no sense here."
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "target": "blocks[4].lines[15]",
+   "spans": [
+    [
+     7,
+     16
+    ]
+   ],
+   "aligned": true,
+   "a": "ſoyent entendués {h}. Pourquoy eſt-ce que par meſmes",
+   "b": "ſoyent entendues {h}. Pourquoy eſt-ce que par meſmes",
+   "text": "ſoyent entendues {h}. Pourquoy eſt-ce que par meſmes",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "entendues, the participle (ses conceptions & volontez soyent entendues); entendués is a stray accent."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "target": "margin_notes[1].lines[1]",
+   "spans": [
+    [
+     0,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "ſultiſſima. P.",
+   "b": "ſultißima. P.",
+   "text": "ſultiſſima. P.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

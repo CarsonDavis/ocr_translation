@@ -9,11 +9,336 @@
   "image_no": 160,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/160"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p137",
  "next": "p139",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "crosses, both for having taken a leg from him and made him lose a good part of his property (which that rascal du Tilh devoured and squandered), and for having presented to him on his return the horrible miseries and calamities of this prodigious deed. Wherefore to burden him further with punishment would have smacked more of the odour of some cruelty than of the integrity of justice.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Bertrande de Rols.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XCVIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Greater indeed was the difficulty with regard to the said Bertrande de Rols, for several considerations. The first, for the too great facility which she used in receiving so imprudently this cheat du Tilh for her husband, and having believed him too lightly <sup class=\"mk\" data-key=\"a\">a</sup>; moreover having conversed, drunk, eaten and slept with him for the space of three years under the cloak of such an error, which she approved well enough by not contradicting it <sup class=\"mk\" data-key=\"b\">b</sup>. Joined also (which will serve for the second reason) that during these three years she often heard murmuring, and several gave her intimations of it — nay, expressly told her that this personage was not Martin Guerre; against whom (although she had reason to believe them, or at least to doubt) she nevertheless fought vigorously, asserting the contrary — in which she seemed manifestly to disclose her fault. For just as a possessor is called a possessor in good faith until such time as he knows, or doubts, whether the parcel he has acquired belongs to another than him who delivered it to him <sup class=\"mk\" data-key=\"c\">c</sup>, so a woman who lies with another than her husband is excused so long as she is ignorant of it and thinks she has to do with her consort and spouse; but as soon as she comes to know the contrary, or indeed to suspect it, and nevertheless has to do with him and suffers herself to be known by him, she is inexcusable <sup class=\"mk\" data-key=\"d\">d</sup>: for from the moment she begins to perceive or suspect the fraud, she ought at once to separate herself from him <sup class=\"mk\" data-key=\"e\">e</sup>. In the third place, taking a case not too dissimilar: Lot, after having drunk well, got with child his two daughters, who had secretly lain down in",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 2.10 (<i>De eo per quem factum erit quominus quis in iudicio sistat</i>), l. 1, § 1 (D. 2.10.1.1, Ulpian; bearing on the point not verified); Decretum of Gratian, Part I, D. 86, c. <i>Si quid</i> (chapter not verified)",
+     "original": "l. i. P. i. D. de eo per quem fac. er. c. ſi qd lxxxvi. diſt.",
+     "gloss": "The canon (Gregory the Great) warns a bishop not to believe easily what he hears against a cleric. Cited again at {m}. The print's <i>qd</i> is <i>quid</i> abbreviated."
+    },
+    {
+     "key": "b",
+     "citation": "Decretum, D. 83, c. <i>Error</i> (chapter not verified)",
+     "original": "c. error. lxxxiij. diſt.",
+     "gloss": "<i>Error, cui non resistitur, approbatur</i> — an error that is not resisted is approved: Coras's \"which she approved … by not contradicting it\"."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 41.1 (<i>De adquirendo rerum dominio</i>), l. <i>Bonae fidei</i> (D. 41.1.48, Paulus); Code 8.4 (<i>Unde vi</i>), the last law (C. 8.4.11)",
+     "original": "l. bona fidei. D. de acq. rer. do. l. fi. C. vnde vi.",
+     "gloss": "Paulus: the buyer in good faith acquires the fruits so long as he does not know the thing is another's; the possessor ceases to be in good faith when he knows or doubts."
+    },
+    {
+     "key": "d",
+     "citation": "Decretum, C. 34 qq. 1–2, c. <i>Si virgo</i> (the print has C. 33 q. 1; chapter not verified)",
+     "original": "c. ſi virgo. xxxiij. q. i.",
+     "gloss": "The woman who marries a man believing him her husband is not an adulteress until she knows; cited at annot-074 {r} and annot-077 {a}, and again below at {r}."
+    },
+    {
+     "key": "e",
+     "citation": "Code 5.5 (<i>De incestis et inutilibus nuptiis</i>), l. <i>Qui contra</i>, at the end (fragment not verified)",
+     "original": "l. qui cõtra. ſur la fin. C. de inceſt. nu.",
+     "gloss": "The same law is cited at annot-094 {c} and {g}, with Baldus and Salicetus on it."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "les trauerſes, tãt pour luy auoir oſté vne iambe, & fait",
+    "perdre vne bonne partie de ſon bien, (que ce beliſtre",
+    "du Tilh luy a deuoré & dependu) que pour luy auoir",
+    "repreſenté à ſon retour les horribles miſeres & calami-",
+    "tez de ce prodigieux fait. Dont le ſurcharger encore de",
+    "peine, euſt plus reſenti l'odeur de quelque cruauté, que",
+    "de integrité de iuſtice."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Bertrande de Rols."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XCVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Plus grande certes eſtoit la difficulté, pour le regard",
+    "de ladite Bertrãde de Rols, par pluſieurs conſideratiõs.",
+    "La premiere, pour la trop grande facilité, de laquelle",
+    "elle a vſé à receuoir ſi imprudẽment ceſt affronteur du",
+    "Tilh, pour ſon mari & l'ayant creu trop de leger {a}, meſ-",
+    "mes ayant conuerſé, beu, mangé, & dormi auec luy l'eſ-",
+    "pace de trois ans, ſous le manteau de tel erreur. lequel",
+    "elle approuuoit aſſez, en n'y contrediſant point {b}. Ioint",
+    "auſſi (qui ſera pour la ſeconde raiſon) que durant ces",
+    "trois ans, elle entendoit ſouuentefois murmurer, &",
+    "pluſieurs luy en donnerent des atraintes: voire nõme-",
+    "ment luy dirent, que ce perſonnage n'eſtoit point Mar-",
+    "tin Guerre: contre leſquels (bien qu'elle euſt raiſon de",
+    "les croire, ou pour le moins en douter) elle neãtmoins",
+    "viuement combatoit, aſſeurant le contraire. en quoy",
+    "ſembloit manifeſtement deſcouurir ſa coulpe: car tout",
+    "ainſi qu'vn poſſeſſeur eſt appelé de bõne foy, iuſqu'à tãt",
+    "qu'il ſçait, ou doute ſi la piece qu'il a acquiſe eſt d'au-",
+    "tre que de celuy qui la luy a baillee {c}. ainſi vne fẽme qui",
+    "couche auec autre que ſon mari eſt excuſee tãdis qu'el-",
+    "le l'ignore, & penſe auoir affaire auecques ſon conſort,",
+    "& eſpoux. mais des qu'elle vient à ſçauoir le contraire,",
+    "ou bien ſ'en douter, & neantmoins participe auec luy,",
+    "& ſouffre eſtre cogneuë de luy, elle eſt inexcuſable {d}. car",
+    "dés lors qu'elle commence ſ'apperceuoir, ou ſe douter",
+    "de la fraude, ſe doit incontinent ſeparer de luy {e}. En",
+    "troiſieme lieu prenant vn faict non pas trop diſſem-",
+    "blable: Loth apres auoir bien beu, engroſſit ſes",
+    "deux filles, qui ſ'eſtoient ſecretement couchees dans"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. i. P. i. D. de",
+    "eo per quem",
+    "fac. er. c. ſi qd",
+    "lxxxvi. diſt."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "c. error.",
+    "lxxxiij. diſt."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. bona fidei.",
+    "D. de acq. rer.",
+    "do. l. fi. C. vn-",
+    "de vi."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "c. ſi virgo.",
+    "xxxiij. q. i."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. qui cõtra.",
+    "ſur la fin. C.",
+    "de inceſt. nu."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "les trauerſes, tãt pour luy auoir oſté vne iambe, & fait",
+   "note": "'auoir': final r printed as an odd z/colon-like sort ('auoi:'); read as r"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTE.",
+   "note": "final E damaged, looks like B ('TEXTB'); read as E"
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "Tilh, pour ſon mari & l'ayant creu trop de leger {a}, meſ-",
+   "note": "marker a is a blotted raised dot, identified by margin note a; line-end break sign after 'meſ' looks like a period/raised dot, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "mes ayant conuerſé, beu, mangé, & dormi auec luy l'eſ-",
+   "note": "line-end break sign after 'l'eſ' looks like a dot, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "pace de trois ans, ſous le manteau de tel erreur. lequel",
+   "note": "'erreur.' — small mark on baseline, period vs comma unclear"
+  },
+  {
+   "where": "blocks[4].lines[20]",
+   "text": "le l'ignore, & penſe auoir affaire auecques ſon conſort,",
+   "note": "'l'ignore,' — mark after ignore could be period or comma"
+  },
+  {
+   "where": "blocks[4].lines[25]",
+   "text": "de la fraude, ſe doit incontinent ſeparer de luy {e}. En",
+   "note": "'fraude ,ſe' — mark could be comma or semicolon; set with space before"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "fac. er. c. ſi qd",
+   "note": "'qd' has a mark under/through q (possibly abbreviated quod, q with stroke); transcribed plain"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "do. l. fi. C. vn-",
+   "note": "'fi.' could be 'ſi.' (italic f vs long s); read as fi. (l. fin.)"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. bona fidei.",
+   "note": "printed tight as 'bonafidei', separated per word-division rule"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "xxxiij. q. i.",
+   "note": "print shows 'xxxiiÿ q-ı.' — no clear period after numeral; mark after q looks like hyphen; read as 'q. i.'"
+  },
+  {
+   "where": "running_head",
+   "note": "running head set in spaced capitals (A R R E S T  D V), transcribed closed up per §3."
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "les trauerſes, tãt pour luy auoir oſté vne iambe, & fait",
+   "note": "'auoir': final r is a broken sort looking like 'z' or ':'; read as r (same shape in 'auoir' on line 3)."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "La premiere, pour la trop grande facilité, de laquelle",
+   "note": "'laquelle': the first e after qu looks like 'c' (worn e or wrong sort 'laquclle'); arbiter to check, possibly sic."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "Tilh, pour ſon mari & l'ayant creu trop de leger {a}, meſ-",
+   "note": "line-end break sign after 'meſ' prints like a period/dot; transcribed as hyphen. Marker a is a small raised italic letter, partly blotted."
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "pace de trois ans, ſous le manteau de tel erreur. lequel",
+   "note": "punctuation after 'erreur' read as period (round dot, no tail); could be a comma."
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "tin Guerre: contre leſquels (bien qu'elle euſt raiſon de",
+   "note": "'contre' prints like 'contie' (r damaged or wrong sort); colon after Guerre is faint."
+  },
+  {
+   "where": "blocks[4].lines[25]",
+   "text": "de la fraude, ſe doit incontinent ſeparer de luy {e}. En",
+   "note": "mark after 'fraude' is a comma with a dot above it; could be a semicolon ';'."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "fac. er. c. ſi qd",
+   "note": "'qd' has a mark below the q (abbreviation stroke through descender); possibly q̃d / quod abbreviation."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. bona fidei.",
+   "note": "printed tight as 'bonafidei', separated per word-division rule."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[2]",
+   "target": "blocks[4].lines[2]",
+   "spans": [
+    [
+     46,
+     54
+    ]
+   ],
+   "aligned": true,
+   "a": "La premiere, pour la trop grande facilité, de laquclle",
+   "b": "La premiere, pour la trop grande facilité, de laquelle",
+   "text": "La premiere, pour la trop grande facilité, de laquelle",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "laquelle, the relative; laquclle is a misread of e as c."
+  },
+  {
+   "where": "blocks[4].lines[20]",
+   "target": "blocks[4].lines[20]",
+   "spans": [
+    [
+     3,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "le l'ignore, & penſe auoir affaire auecques ſon conſort,",
+   "b": "le l'ignore. & penſe auoir affaire auecques ſon conſort,",
+   "text": "le l'ignore, & penſe auoir affaire auecques ſon conſort,",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "The clause runs on (tandis qu'elle l'ignore, & pense auoir affaire...); a comma suits the syntax. Translation the same either way."
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "target": "margin_notes[3].lines[1]",
+   "spans": [
+    [
+     0,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "xxxiij. q. i.",
+   "b": "xxxiij q. i.",
+   "text": "xxxiij. q. i.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

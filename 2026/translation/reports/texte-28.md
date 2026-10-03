@@ -1,7 +1,7 @@
-# Report: texte-28
+# Report: texte-27
 
-- Output: `translation/sections/texte-28.md` — `check_markers.py texte-28`: 1 sections ok, 0 failed.
-- Word counts: French 63, English 71. No marginal citations. The print heads the block TEXTE, (comma for point); headnote added.
-- Glossary additions: *qualitez de tesmoins* → "kinds of witnesses"; *hors tout soupçon* → "beyond all suspicion".
-- Choices to review: *que le ſang en ceſt endroit vouluſt ſi auant mentir* → "that blood, in this case, would be willing to lie so far as" (Ringold and Lewis: "that blood in this case would have wanted to lie"); *ſans occaſion aucune* → "without any occasion"; *appelè* (sic, grave) noted; *igno mignieuſe* read through as *ignomignieuse* → "ignominious". Carbon Barrau per case file §3.
+- Output: `translation/sections/texte-27.md` — `check_markers.py texte-27`: 1 sections ok, 0 failed.
+- Word counts: French 29, English 32. No marginal citations. A single participial clause continuing texte-26's sentence; headnote says so.
+- Glossary additions: none (*hanté & frequenté* → "haunted and frequented" per texte-25).
+- Choices to review: *Rendans raiſons bonnes & pertinentes* → "Rendering good and pertinent reasons" (kept as a fragment, as the print has it); *beu, & mangé ſouuẽt* → "drunk and eaten often".
 - `[unclear]` passages: none. Citations: none.

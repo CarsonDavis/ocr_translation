@@ -188,5 +188,43 @@
    "text": "tatio, lxxxj.",
    "note": "heavily inked: the third letter is either the italic 'odd t' or an r ('tatio' or 'tario'); read tatio for sense (l'anno-tatio[n]). The mark after the final o is read as a comma, not a tilde."
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[2]",
+   "target": "blocks[0].lines[2]",
+   "spans": [
+    [
+     46,
+     51
+    ]
+   ],
+   "aligned": true,
+   "a": "blement le Duc Charles, combien que luy-meſme aſſer",
+   "b": "blement le Duc Charles, combien que luy-meſme affer",
+   "text": "blement le Duc Charles, combien que luy-meſme affer",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x the crossbar runs through both stems and projects to the right of the second stem toward the e, as in the ff ligature; the ſſ of 'reſſembloit' three lines below shows left nubs only. 'affer-maſt' (affermer, to affirm) is good sense"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "target": "blocks[0].lines[5]",
+   "spans": [
+    [
+     56,
+     60
+    ]
+   ],
+   "aligned": true,
+   "a": "ſoldat, qui le reſſembloit ſi bien, que tous les autres ſol-",
+   "b": "ſoldat, qui le reſſembloit ſi bien, que tous les autres iol-",
+   "text": "ſoldat, qui le reſſembloit ſi bien, que tous les autres iol-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the first sort is an x-height stem with a dot above it (3x): a dotted i, not the tall long ſ. Printed 'iol-' for 'ſol-', sic"
+  }
  ]
 }

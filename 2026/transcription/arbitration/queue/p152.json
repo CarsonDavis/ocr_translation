@@ -1,0 +1,37 @@
+{
+ "page": "p152",
+ "a": "transcription/reads/A/p152.json",
+ "b": "transcription/reads/B/p152.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-003",
+   "kind": "body",
+   "where_a": "blocks[0].lines[3]",
+   "where_b": "blocks[0].lines[3]",
+   "index": 3,
+   "index_b": 3,
+   "a": "ſé diſertement eſcrit. Nos maieurs, dit-il, n'ont",
+   "b": "ſé diſertement eſçrit. Nos maieurs, dit-il, n'ont",
+   "context_before": "ſe peut aiſement recueillir, de ce que Ciceron a laiſ-",
+   "context_after": "point voulu ouurir ce chemin aux inimitiez, qu'il fuſt",
+   "strip": "pages/strips/p152/body-1.jpg",
+   "crop": "crops/p152/b-003.jpg"
+  },
+  {
+   "id": "n-l-0",
+   "kind": "note",
+   "key": "l",
+   "line": 0,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[2].lines[0]",
+   "where_b": "margin_notes[2].lines[0]",
+   "a": "c. cũ. P. Mã-",
+   "b": "c cũ. P. Mã-",
+   "context_before": null,
+   "context_after": "conella de ac-",
+   "strip": "pages/strips/p152/margin-1.jpg",
+   "crop": "crops/p152/n-l-0.jpg"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "page": "p111",
+ "decisions": {
+  "b-005": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "the margin keys the matching note x, so body and margin agree on x; the alphabet expects k, but x is what both show"
+  },
+  "b-019": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "b-027": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "comma: the sentence continues 'sous ce manteau, prins les armes, & excité...'"
+  },
+  "b-038": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "comma: 'tant par ce que ... n'en ont rien determiné, que pour autant aussi' is one period"
+  },
+  "n-g-1": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "ns-x": {
+   "choice": "unknown",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  }
+ }
+}

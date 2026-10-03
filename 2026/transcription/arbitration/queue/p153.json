@@ -1,0 +1,99 @@
+{
+ "page": "p153",
+ "a": "transcription/reads/A/p153.json",
+ "b": "transcription/reads/B/p153.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "n-t-1",
+   "kind": "note",
+   "key": "t",
+   "line": 1,
+   "note_kind": "foot_notes",
+   "where_a": "foot_notes[1].lines[1]",
+   "where_b": "foot_notes[0].lines[1]",
+   "a": "en la l. errore c de teſtam paul. de Caſtro cõ la l. Seia. D. ad Velleia.",
+   "b": "en la l. errore c de teſtam paul. de Caſtro en la l. Seia. D. ad Velleia.",
+   "context_before": "Bal en l'autent. ſi teſtibus. C. de teſtibus. Ange.",
+   "context_after": null,
+   "strip": "pages/strips/p153/foot.jpg",
+   "crop": "crops/p153/n-t-1.jpg"
+  },
+  {
+   "id": "ns-x17f",
+   "kind": "note-structure",
+   "where_a": "margin_notes[13]",
+   "where_b": "margin_notes[13]",
+   "notes_a": [
+    "margin_notes[13]",
+    "foot_notes[0]"
+   ],
+   "notes_b": [
+    "margin_notes[13]"
+   ],
+   "a": "[ſ] Innocent c.\ncũ dilecti de\n[–] dilectio. Bart. l. iij. P. j. preallegué.",
+   "b": "[ſ] Innocent c.\ncũ dilecti de\ndilectio. Bart. l. iij. P. j. preallegué.",
+   "layout_a": [
+    {
+     "where": "margin_notes[13]",
+     "kind": "margin_notes",
+     "key": "ſ",
+     "beside_line": "te fauſſement, à la ſuggeſtion & ſubornation de quel-",
+     "lines": [
+      {
+       "text": "Innocent c.",
+       "from": "margin_notes[13].lines[0]",
+       "keep_text": true
+      },
+      {
+       "text": "cũ dilecti de",
+       "from": "margin_notes[13].lines[1]",
+       "keep_text": true
+      }
+     ]
+    },
+    {
+     "where": "foot_notes[0]",
+     "kind": "foot_notes",
+     "key": null,
+     "beside_line": null,
+     "lines": [
+      {
+       "text": "dilectio. Bart. l. iij. P. j. preallegué.",
+       "from": "margin_notes[13].lines[2]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "layout_b": [
+    {
+     "where": "margin_notes[13]",
+     "kind": "margin_notes",
+     "key": "ſ",
+     "beside_line": "te fauſſement, à la ſuggeſtion & ſubornation de quel-",
+     "lines": [
+      {
+       "text": "Innocent c.",
+       "from": "margin_notes[13].lines[0]",
+       "keep_text": true
+      },
+      {
+       "text": "cũ dilecti de",
+       "from": "margin_notes[13].lines[1]",
+       "keep_text": true
+      },
+      {
+       "text": "dilectio. Bart. l. iij. P. j. preallegué.",
+       "from": "foot_notes[0].lines[0]",
+       "keep_text": false
+      }
+     ]
+    }
+   ],
+   "hint": "the same note text is split or keyed differently; 1/2 takes that read's note layout (line differences inside are decided by their own items)",
+   "strip": "pages/strips/p153/margin-4.jpg",
+   "crop": "crops/p153/ns-x17f.jpg"
+  }
+ ]
+}

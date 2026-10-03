@@ -9,11 +9,198 @@
   "image_no": 112,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/112"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p089",
  "next": "p091",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "newcomer certain things among the most hidden, on which neither the one nor the other had yet been interrogated, nor on anything that came near them; which was done, and truly (as was since verified) answered by him. Afterwards, having had him withdrawn, they have the prisoner brought in, to whom they put the same interrogations, up to the number of ten or twelve, who answers in everything like the other. Which astonished the company, and made them fall into the opinion that the prisoner had something of magic — as indeed he was ill-famed for it in the said places of Artigat, Le Pin, Sagias and other neighbouring places.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXVI"
+  },
+  {
+   "type": "paragraph",
+   "html": "There was certainly great reason to think that this accused had some familiar spirit, seeing that he knew so well and truly how to answer of all things, even the most secret and private, without ever failing by a nail's breadth. And (what is far more to be wondered at) he knew all those who presented themselves to him, at the beginning and afterwards, without ever having seen them. Which could not fall within instructions or memoranda that had been given him by another; and particularly since he had never (that anyone knew) been at the place of Artigat, nor conversed with the inhabitants of that place. And it is not to be doubted that, among the prodigious and abominable tyrannies which Satan, since the creation of the world, has cruelly exercised against men, to ensnare them and draw them into his kingdom, he has kept a great storehouse of magic, opened the shop of such merchandise, and dealt it out to countless men so liberally that he has",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "spaced_caps": false,
+   "lines": [
+    "nouueau venu, quelqes choſes des plus",
+    "cachees, & deſquelles ny l'vn ny l'autre",
+    "n'euſt eſté encor interrogué, ni de choſe",
+    "qui en approchaſt. ce que fut fait, & par",
+    "luy veritablement (comme depuis fut ve-",
+    "rifié) reſpondu. Apres l'ayant fait tirer,",
+    "font venir le priſonnier, auquel font les",
+    "meſmes, & iuſqu'au nombre de dix ou",
+    "douze interrogatoires, qui reſpond en",
+    "tout comme l'autre. Ce que fit esbahir",
+    "la compagnie, & tomber en opinion, que",
+    "le priſonnier euſt quelque choſe de la",
+    "magie: comme auſſi il en eſtoit diffamé",
+    "eſdits lieux d'Artigat, du Pin, de Sagias,",
+    "& autres circonuoiſins."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": false,
+   "lines": [
+    "Il y auoit certes grande raiſon, de penſer que ce pre-",
+    "uenu euſt quelque eſprit familier, veu qu'il ſçauoit ſi",
+    "bien & veritablement reſpondre de toutes choſes, meſ-",
+    "mement des plus ſecrettes, & priuees, ſans iamais fail-",
+    "lir d'vn trauers d'ongle. Et (qui eſt bien plus à admi-",
+    "rer) cognoiſſoit tous ceux qui ſe preſenterent à luy",
+    "du commencement, & apres ſans les auoir veuz onc-",
+    "ques. Ce que ne pouuoit tomber en inſtructiõs, ni me-",
+    "moires qui luy euſſent eſté baillées par autre: & ſingu-",
+    "lierement qu'il n'auoit iamais eſté au lieu d'Artigat",
+    "(qu'on ſceut) ni conuerſé auec les habitans de ce lieu.",
+    "Et ne faut douter qu'entre les prodigieuſes & abomi-",
+    "nables tyrannies, que Satan depuis la creation du mon",
+    "de a cruellement exercees contre les hommes, pour les",
+    "enlacer & attirer à ſon regne, il n'ayt tenu vn grãd ma-",
+    "gazin de magie, ouuert la boutique de telle marchan-",
+    "diſe, & departi à infinis hommes ſi largement qu'il ſ'eſt"
+   ]
+  }
+ ],
+ "french_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "nouueau venu, quelqes choſes des plus",
+   "note": "sic: 'quelqes' as printed (no u after second q)"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "qui en approchaſt. ce que fut fait, & par",
+   "note": "period after 'approchaſt' set tight, followed by lowercase 'ce'; punctuation looks like a baseline dot"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "font venir le priſonnier, auquel font les",
+   "note": "both 'font' read with f (crossbar visible), not ſont; sense 'font venir' / 'font les meſmes'"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "magie: comme auſſi il en eſtoit diffamé",
+   "note": "'auſſi' printed with ſſ ligature; 'auſſi il' set nearly closed up"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "uenu euſt quelque eſprit familier, veu qu'il ſçauoit ſi",
+   "note": "first letter of 'uenu' (continuation of 'pre-uenu') looks like damaged u or n; read 'uenu'"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "bien & veritablement reſpondre de toutes choſes, meſ-",
+   "note": "line-end break sign looks like a raised dot rather than a hyphen; transcribed '-' per conventions"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "ques. Ce que ne pouuoit tomber en inſtructiõs, ni me-",
+   "note": "line-end break sign looks like a dot; transcribed '-'"
+  },
+  {
+   "where": "blocks[2].lines[8]",
+   "text": "moires qui luy euſſent eſté baillées par autre: & ſingu-",
+   "note": "'autre:' colon faint, could be a period; line-end break sign looks like a dot, transcribed '-'"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "gazin de magie, ouuert la boutique de telle marchan-",
+   "note": "'ouuert' r faint, could read 'ouuett' (possible wrong sort)"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "diſe, & departi à infinis hommes ſi largement qu'il ſ'eſt",
+   "note": "'hommes' printed damaged (looks like 'homnies'); 'infinis' first n damaged"
+  },
+  {
+   "where": "catchword",
+   "text": "null",
+   "note": "no catchword visible at foot of page"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "nouueau venu, quelqes choſes des plus",
+   "note": "sic: 'quelqes' (no u) as printed"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "qui en approchaſt. ce que fut fait, & par",
+   "note": "period after approchaſt set tight, lowercase 'ce' follows; stray mark above 'par'"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "font venir le priſonnier, auquel font les",
+   "note": "both 'font' read as f with crossbar; ſont not excluded but sense favours font"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "tout comme l'autre. Ce que fit esbahir",
+   "note": "'esbahir' printed with round s as far as visible"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "uenu euſt quelque eſprit familier, veu qu'il ſçauoit ſi",
+   "note": "first letter looks like 'n' (nenu); read as u continuing pre-uenu"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "bien & veritablement reſpondre de toutes choſes, meſ-",
+   "note": "line-end break sign printed as a small dot-like mark, not a clear hyphen"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "ques. Ce que ne pouuoit tomber en inſtructiõs, ni me-",
+   "note": "line-end break sign dot-like"
+  },
+  {
+   "where": "blocks[2].lines[8]",
+   "text": "moires qui luy euſſent eſté baillées par autre: & ſingu-",
+   "note": "line-end break sign dot-like; colon after autre could be a comma-colon, read as colon"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "diſe, & departi à infinis hommes ſi largement qu'il ſ'eſt",
+   "note": "'infinis' and 'hommes' damaged sorts (look like 'iafinis', 'homnies'); possible wrong sort in hommes; 'ſ'eſt' with long s + apostrophe"
+  }
+ ],
+ "readings": [
+  {
+   "where": "running_head",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "ARREST DV",
+   "b": "ARREST DV.",
+   "text": "ARREST DV",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

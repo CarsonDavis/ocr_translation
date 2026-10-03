@@ -9,11 +9,370 @@
   "image_no": 166,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/166"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p143",
  "next": "p145",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "(a thing which the pure philosophers have esteemed above all others horrible and frightful <sup class=\"mk\" data-key=\"l\">l</sup>, even to the wicked <sup class=\"mk\" data-key=\"m\">m</sup>), being infinitely travailed and afflicted, would be so still more if he found himself pressed to remember so many and so many things, about which he might be too curiously and prolixly searched <sup class=\"mk\" data-key=\"n\">n</sup>. For who is there (said Cicero) from whom, when death approaches, the blood does not withdraw, and who does not turn white with fright and fear?",
+   "continued": true,
+   "notes": [
+    {
+     "key": "l",
+     "citation": "Aristotle, <i>Nicomachean Ethics</i>, book 3 (3.6, 1115a26)",
+     "original": "Ariſtote au iij. liure des Ethiques.",
+     "gloss": "Death is the most terrible of all things, for it is the end."
+    },
+    {
+     "key": "m",
+     "citation": "Cicero, <i>Paradoxa Stoicorum</i>",
+     "original": "Cicerõ aux Paradoxes.",
+     "gloss": "The paradoxes on the wise man's indifference to death and the wicked man's fears; the passage not located."
+    },
+    {
+     "key": "n",
+     "citation": "Code 6.23.21, § <i>At cum humana</i>, cited above at {b}",
+     "original": "P. ad cũ humana, deſſus allegué.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Who is there, or how few are there, from whom, when death draws near, the timid blood does not flee back, and who does not grow pale with fear <sup class=\"mk\" data-key=\"o\">o</sup>?",
+   "continued": false,
+   "notes": [
+    {
+     "key": "o",
+     "citation": "Cicero, <i>De finibus</i>, book 5 (5.31), quoting an old tragic poet",
+     "original": "Ciceron au v. de finib.",
+     "gloss": "<i>Quis est, aut quotusquisque, cui mors cum adpropinquet, / non refugiat timido sanguen atque exalbescat metu?</i> The print has <i>cùm non appropinquet, Non refugiat</i>, a <i>non</i> displaced into the first line; translated from Cicero's text."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "And in some other place: Who is there (he says) who, being on the point of dying, has his Spirit tranquil and at rest <sup class=\"mk\" data-key=\"p\">p</sup>?",
+   "continued": false,
+   "notes": [
+    {
+     "key": "p",
+     "citation": "Cicero, <i>De senectute</i> (<i>On Old Age</i>)",
+     "original": "Ciceron de Senectute.",
+     "gloss": "Cato on the fear of death in the old and the young; the sentence as Coras gives it is a paraphrase, the passage not located."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Before whom, on the 16th of September in the said year 1560, he confessed at full length his impudent and rash crime; nevertheless he declared that what had given him the first occasion to project his brazen and monstrous enterprise had been that, seven or eight years before, he being on his return from the camp of Picardy,",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION CII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Picardy is a part of Belgic Gaul. Whereupon it must be understood that Gaul was formerly divided principally in two: namely into the Transalpine and the Cisalpine. The Cisalpine was called by the Romans that which took its beginning at the foot of the Alps and extended as far as the river Rubicon, the ancient boundary of Italy, which comes down from the Apennines and, passing by Rimini and Ravenna, enters the Adriatic sea. The Transalpine",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "(choſe que les purs philoſophes ont eſtimee ſur toutes",
+    "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+    "chans {m}) infiniement trauaillé & affligé, le ſeroit enco-",
+    "re d'auantage, ſ'il ſe trouuoit preſſé, ſe ſouuenir de tant",
+    "& tant de choſes, deſquelles pourroit eſtre trop curieu-",
+    "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+    "(diſoit Ciceron) duquel la mort approchant, le ſang ne",
+    "ſe retire, & ne blanchiſſe de frayeur & crainte?"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Quis eſt, aut quotuſquiſque, cui mors cùm non",
+    "appropinquet,",
+    "Non refugiat timido ſanguis, atque exalbeſ-",
+    "cat metu {o}?"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et en quelque autre lieu, Qui eſt celuy (dit-il) lequel e-",
+    "ſtant ſur le poinct de mourir, a ſon Eſprit tranquille, &",
+    "en repos {p}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Deuant lequel, le xvj. Septembre audit",
+    "an 1560. confeſſa bien au long ſon im-",
+    "pudent, & temeraire forfaict. neant-",
+    "moins declara ce que luy auoit donné",
+    "la premiere occaſion, de proietter ſon ef",
+    "frontee & monſtrueuſe entreprinſe, a-",
+    "uoir eſté, que ſept ou huit ans au para-",
+    "uant, eſtant il de retour du camp de Pi-",
+    "cardie."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Picardie, eſt vne partie de la Gaule Belgique. Suquoy",
+    "faut entendre, que la Gaule fut iadis diuiſee principale-",
+    "ment en deux: à ſçauoir en la tranſalpine, & Ciſalpine.",
+    "La Ciſalpine, fut appelee des Romains celle qui prenoit",
+    "ſon commencement à la racine des Alpes, & ſ'eſtendoit",
+    "iuſqu'au fleuue de Rubicon, ancienne borne d'Italie,",
+    "& qui deſcend de l'Appẽnin, & paſſant à Riminy, & Ra",
+    "uenne, entre dans la mer Adriatique. La Tranſalpine"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "Ariſtote au",
+    "iij. liure des",
+    "Ethiques."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "Cicerõ aux",
+    "Paradoxes."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "P. ad cũ hu",
+    "mana, deſſus",
+    "allegué."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "Ciceron au",
+    "v. de finib."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "Ciceron de",
+    "Senectute."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+   "note": "'autrés': a small acute-like mark stands over the e; transcribed as seen, may be a stray mark or damaged sort (sense wants 'autres')"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+   "note": "line-end sign after 'meſ' is a small raised dot rather than a clear hyphen; transcribed as '-' per the word-break rule, could be read as a period"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "chans {m}) infiniement trauaillé & affligé, le ſeroit enco-",
+   "note": "sic 'infiniement' as printed"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+   "note": "line-end punctuation after 'celuy' has a tail plus a faint dot; read as comma, could be a semicolon"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Quis eſt, aut quotuſquiſque, cui mors cùm non",
+   "note": "'cùm': grave mark over u visible in one strip, faint in the overlapping strip"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Et en quelque autre lieu, Qui eſt celuy (dit-il) lequel e-",
+   "note": "'Qui' appears underlined by a stroke (probably a later hand or ink mark, not print); not transcribed"
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "& qui deſcend de l'Appẽnin, & paſſant à Riminy, & Ra",
+   "note": "'Appẽnin': a tilde/macron-like mark over the e; could be an acute or stray mark"
+  },
+  {
+   "where": "catchword",
+   "text": "eſtoit",
+   "note": "'eſtoit' set alone flush right on the line below the last body line; treated as catchword, but it may be the end of the final body line turned down; last letter damaged"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "iij. liure des",
+   "note": "numeral printed as 'iÿ' (two i with a j-descender); read 'iij.'; the period sits tight against the l of 'liure'"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "allegué.",
+   "note": "'allegué': u/n ambiguous, read u"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "autrés horrible & eſpouuentable {l}: meſmes aux meſ-",
+   "note": "'autrés': a mark like an acute sits over the e; could be a stray/damaged sort ('autres'). Line-end hyphen is a dot-like mark after 'meſ'."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "& tant de choſes, deſquelles pourroit eſtre trop curieu-",
+   "note": "'eſtre': a faint accent-like mark over the final e ('eſtré'?); read as plain e."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſement, & prolixement recherché {n}. Car qui eſt celuy,",
+   "note": "line-end punctuation after 'celuy' blotted; comma or semicolon."
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Quis eſt, aut quotuſquiſque, cui mors cùm non",
+   "note": "grave over u of 'cùm' seen in one strip, not clearly in the overlap; may be plain 'cum'."
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "text": "Picardie, eſt vne partie de la Gaule Belgique. Suquoy",
+   "note": "sic: 'Suquoy' for 'Surquoy' as printed; also comma after 'Picardie' is blotted."
+  },
+  {
+   "where": "blocks[6].lines[6]",
+   "text": "& qui deſcend de l'Appẽnin, & paſſant à Riminy, & Ra",
+   "note": "tilde over e in 'Appẽnin' as printed (not an acute); no hyphen after 'Ra'."
+  },
+  {
+   "where": "catchword",
+   "text": "eſtoit",
+   "note": "the final word 'eſtoit' is set alone at the foot right below the last full line; treated as catchword, not a body line."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "P. ad cũ hu",
+   "note": "swash paragraph sign read as 'P' per house ruling."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[4]",
+   "target": "blocks[0].lines[4]",
+   "spans": [
+    [
+     38,
+     43
+    ]
+   ],
+   "aligned": true,
+   "a": "& tant de choſes, deſquelles pourroit eſtré trop curieu-",
+   "b": "& tant de choſes, deſquelles pourroit eſtre trop curieu-",
+   "text": "& tant de choſes, deſquelles pourroit eſtre trop curieu-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "estre, the infinitive (pourroit estre trop curieusement recherché); estré is a stray accent."
+  },
+  {
+   "where": "blocks[6].lines[0]",
+   "target": "blocks[6].lines[0]",
+   "spans": [
+    [
+     25,
+     27
+    ]
+   ],
+   "aligned": true,
+   "a": "Picardie, eſt vne partie dé la Gaule Belgique. Suquoy",
+   "b": "Picardie, eſt vne partie de la Gaule Belgique. Suquoy",
+   "text": "Picardie, eſt vne partie de la Gaule Belgique. Suquoy",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "de, the preposition (vne partie de la Gaule Belgique); dé is a stray accent."
+  },
+  {
+   "where": "blocks[6].lines[1]",
+   "target": "blocks[6].lines[1]",
+   "spans": [
+    [
+     22,
+     27
+    ]
+   ],
+   "aligned": true,
+   "a": "faut entendre, que la Gaulé fut iadis diuiſee principale-",
+   "b": "faut entendre, que la Gaule fut iadis diuiſee principale-",
+   "text": "faut entendre, que la Gaule fut iadis diuiſee principale-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Gaule, the noun (la Gaule fut iadis diuisee); Gaulé is a stray accent."
+  },
+  {
+   "where": "blocks[6].lines[3]",
+   "target": "blocks[6].lines[3]",
+   "spans": [
+    [
+     38,
+     43
+    ]
+   ],
+   "aligned": true,
+   "a": "La Ciſalpine, fut appelee des Romains cellé qui prenoit",
+   "b": "La Ciſalpine, fut appelee des Romains celle qui prenoit",
+   "text": "La Ciſalpine, fut appelee des Romains celle qui prenoit",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "celle, the pronoun (appelee des Romains celle qui prenoit); cellé is a stray accent."
+  }
+ ]
 }

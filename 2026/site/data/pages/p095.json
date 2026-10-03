@@ -9,11 +9,410 @@
   "image_no": 115,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/115"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p094",
  "next": "p096",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "kinds of Magic: as when Demaenetus of Parrhasia (or, if you will believe Pausanias <sup class=\"mk\" data-key=\"k\">k</sup>, Demarchus), having tasted of the sacrifice of a young child which the Arcadians made to Lycaeus their God, was turned into a wolf, and at the end of ten years took again the form of a man <sup class=\"mk\" data-key=\"l\">l</sup>. Whereof Saint Augustine learnedly disputes <sup class=\"mk\" data-key=\"m\">m</sup>, and shows these things to be no less fabulous than what is written of the companions of Diomedes, King of Aetolia, who after the destruction of Troy were transmuted into birds; and of Circe, who is feigned to have transmuted Scylla (of whom she was jealous) into a sea-monster, and the companions of Ulysses into swine.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "k",
+     "citation": "Pausanias, <i>Description of Greece</i>, the <i>Eliaca</i> (book VI, 6.8.2: Damarchus of Parrhasia, the Olympic boxer said to have turned into a wolf at the sacrifice to Zeus Lycaeus and back again in the tenth year)",
+     "original": "Pauſanias in Eliacis.",
+     "gloss": "Pausanias himself does not believe it."
+    },
+    {
+     "key": "l",
+     "citation": "Pliny, <i>Natural History</i> VIII.22 (§§81–82 in the modern numbering, VIII.34): Demaenetus of Parrhasia, from Scopas",
+     "original": "Pline au li. viij. c. xxij.",
+     "gloss": "Pliny: having tasted the entrails of a boy sacrificed by the Arcadians to Jupiter Lycaeus, he became a wolf and returned to human shape in the tenth year, and won at boxing at Olympia."
+    },
+    {
+     "key": "m",
+     "citation": "Augustine, <i>City of God</i> XVIII.17–18 (printed \"the eighth\": the discussion of the Arcadian wolves, Diomedes's companions and Circe is in book XVIII, chapters 16–18)",
+     "original": "S. Auguſtin au viij.",
+     "gloss": "Augustine denies that demons can change the substance of a body and explains such transformations as phantasms impressed on the senses."
+    },
+    {
+     "key": null,
+     "citation": "Virgil, <i>Eclogues</i> 8.70",
+     "original": "Carminibus Circe, ſocios mutauit Vliſsis.",
+     "gloss": "<i>Carminibus Circe socios mutavit Ulixi</i>; the line follows the one at {h} in Virgil. Translated in the text with the Latin in parentheses."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "With her charms Circe transformed the companions of Ulysses (<i>Carminibus Circe socios mutavit Ulixis</i>) <sup class=\"mk\" data-key=\"n\">n</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "n",
+     "citation": "Virgil, <i>Eclogues</i> 8.70 (printed \"Virgil x\")",
+     "original": "Vergile x.",
+     "gloss": "The citation serves the verse just given."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Among such prodigies we approve only the history of Nebuchadnezzar, King of Babylon, who by the will of God was transmuted into an ox, and remained so seven years among the other beasts, eating grass; and afterwards, by the mercy of God, the figure of a man was restored to him <sup class=\"mk\" data-key=\"o\">o</sup>. Not that I would altogether deny the conversion among human beings from one sex to the other: for besides the examples recounted by Pliny and Gellius <sup class=\"mk\" data-key=\"p\">p</sup>, there is reason plain enough that this can be done without Magic or any artifice; for man and woman have the instruments for begetting altogether alike, save that the man's extends outward and the woman's inward, and that the testicles (or, if you prefer, the genitories) do not hang in women. Nothing is needed, then, to bring about the said conversion, but that by some accident of sickness, or otherwise, the man's member withdraw within the body, and he will become a woman; or that the woman's advance outward, and behold a man <sup class=\"mk\" data-key=\"q\">q</sup>. True it is that I do not remember ever to have read an example of a man being transmuted into a woman, but only of women, that they are sometimes transformed into men: wherein nature shows her clemency and benignity, in not willing to change things for the worse, but always for the better. There are several other kinds of Magic, which there is no need to write of here, especial",
+   "continued": false,
+   "notes": [
+    {
+     "key": "o",
+     "citation": "Daniel 4 (4:25–34, Vulgate 4:22–34): Nebuchadnezzar driven from men to eat grass as the oxen for seven times, and restored",
+     "original": "Daniel c. iiij.",
+     "gloss": "Coras's <i>tranſmué en bœuf</i> reads the text as a bodily transformation, which the passage does not literally say; translated as he wrote it."
+    },
+    {
+     "key": "p",
+     "citation": "Pliny, <i>Natural History</i> VII.4 (§§34–36: women changed into men — the Casinum girl, Lucius Constitius of Thysdrus, Arescon of Argos); Aulus Gellius (<i>Aule Gelle</i>), <i>Attic Nights</i> IX.4 (§§13–16, citing Pliny's examples)",
+     "original": "Pline liure vij. c. iiij. Aule Gelle liure ix. c. iiij.",
+     "gloss": "Pliny: <i>gignere mares feminas non est fabulosum</i>, and he had himself seen a man so changed in Africa."
+    },
+    {
+     "key": "q",
+     "citation": "Galeotto Marzio of Narni (<i>Galeotus Mar.</i>), <i>De doctrina promiscua</i>, ch. 23 (as cited; chapter unverified)",
+     "original": "Galeotus Mar. au liure de doctrina promiſcua c. xxiij.",
+     "gloss": "Galeotto Marzio, c. 1427–c. 1497; the <i>De doctrina promiscua</i> (printed 1548) treats medical and astrological curiosities, among them the change of sex, in the humoral terms Coras repeats."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "peces de Magie: comme quand Demœnetus Parrhaſius",
+    "(ou ſi tu veux croire à Pauſanias {k}) Demarchus: ayant",
+    "gouſté du ſacrifice, que les Arcades faiſoyent à Lycee",
+    "leur Dieu d'vn ieune enfant, fut conuerti en loup: & au",
+    "bout de dix ans reprint la forme d'homme {l}. Dequoy",
+    "S. Auguſtin diſpute doctement {m}, & monſtre ces cho-",
+    "ſes n'eſtre pas moins fabuleuſes, que ce qu'on eſcrit des",
+    "compagnõs de Diomedes Roy d'Aetolie, leſques apres",
+    "la deſtruction de Troye furent tranſmuez en oyſeaux:",
+    "& de Circé, laquelle on feint auoir tranſmué Scilla",
+    "(de qui elle eſtoit ialouſe) en vn monſtre marin: & les",
+    "compagnons d'Vliſſes en porceaux."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Carminibus Circe, ſocios mutauit Vliſsis {n}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "En tels prodiges nous approuuons ſeulement l'hi-",
+    "ſtoire de Nabuchodonoſor Roy de Babylone, qui par",
+    "la volonté de Dieu fut tranſmué en bœuf, & demeura",
+    "ainſi ſept ans parmi les autres beſtes, mangeant l'herbe:",
+    "& apres par la miſericorde de Dieu, la figure d'homme",
+    "luy fut rendue {o}. Non que ie vueille du tout nier la cõ-",
+    "uerſion entre les hommes d'vn ſexe en autre: car outre",
+    "les exemples recitez par Pline, & Gelle {p}, il y a raiſon",
+    "aſſez apparente, que cela ſe puiſſe faire ſans Magie, ou",
+    "aucun artifice: car l'homme & la femme ont les in-",
+    "ſtrumens pour engendrer du tout ſemblabes: hors",
+    "mis que celuy de l'homme ſ'eſtend par dehors: & ce-",
+    "luy de la femme par dedans, & que les teſticules (ou",
+    "ſi mieux aimez, genitoires) ne pendent point aux fem",
+    "mes. Il ne faut donc pour faire ladite conuerſion, ſi-",
+    "non, que par quelque accident de maladie, ou autre-",
+    "ment, le membre de l'homme ſe retire dedans le corps,",
+    "& il deuiendra femme: ou que celuy de la femme ſ'a-",
+    "uance par dehors, & voila vn homme {q}. Vray eſt qu'il",
+    "ne me ſouuient point d'auoir oncques léu exemple",
+    "qu'vn homme ſe tranſmuaſt en femme: mais ſeulement",
+    "des femmes, qu'elles ſe transforment quelquesfois en",
+    "hommes: enquoy nature monſtre ſa clemence & be-",
+    "nignité, de ne vouloir point changer les choſes en pis:",
+    "mais touſiours en meilleur. Il y a pluſieurs autres eſ-",
+    "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "Pauſanias",
+    "in Eliacis."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "Pline au li.",
+    "viij. c. xxij."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "S. Augu-",
+    "ſtin au viij."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "Vergile x."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "Daniel",
+    "c. iiij."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "Pline liure",
+    "vij. c. iiij. Au-",
+    "le Gelle liure",
+    "ix. c. iiij."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "Galeotus",
+    "Mar. au li-",
+    "ure de doctri-",
+    "na promiſcua",
+    "c. xxiij."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "spaced capitals closed up; final mark after THOLOSE faint and raised, could be a comma or a speck"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "peces de Magie: comme quand Demœnetus Parrhaſius",
+   "note": "first word continues 'eſ-' from the previous page (not seen); 'Demœnetus' with œ ligature as printed"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "gouſté du ſacrifice, que les Arcades faiſoyent à Lycee",
+   "note": "'que': the u is damaged/blotted, could be a wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "S. Auguſtin diſpute doctement {m}, & monſtre ces cho-",
+   "note": "line-end break printed as a raised dot, transcribed as hyphen; space before the comma after marker m in print"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "compagnõs de Diomedes Roy d'Aetolie, leſques apres",
+   "note": "'DiomedesRoy' set with no space; 'leſques' sic (for 'leſquels'); 'Aetolie' with separate A e, not Æ"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Carminibus Circe, ſocios mutauit Vliſsis {n}.",
+   "note": "italic verse line, set indented like a display line; treated as quotation paragraph per conventions. 'Vliſsis' printed with italic ſs ligature; marker n is superscript"
+  },
+  {
+   "where": "blocks[2].lines[5]",
+   "text": "luy fut rendue {o}. Non que ie vueille du tout nier la cõ-",
+   "note": "punctuation after marker o could be ':' (possible second dot); set tight against 'Non'"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "aucun artifice: car l'homme & la femme ont les in-",
+   "note": "line-end break printed as a dot, transcribed as hyphen; 'femme' first m shows a mark above (possible tilde/speck)"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "ſtrumens pour engendrer du tout ſemblabes: hors",
+   "note": "sic: 'ſemblabes' (for 'ſemblables')"
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "mes. Il ne faut donc pour faire ladite conuerſion, ſi-",
+   "note": "period after 'mes' is a heavy mid-height dot; line-end break printed as a dot, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "non, que par quelque accident de maladie, ou autre-",
+   "note": "'quelque' may be printed 'quelqne' (turned u); line-end break printed as a dot, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "ment, le membre de l'homme ſe retire dedans le corps,",
+   "note": "mark above e of 'ſe' (accent or speck); not transcribed"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "text": "ne me ſouuient point d'auoir oncques léu exemple",
+   "note": "'léu' accent as printed"
+  },
+  {
+   "where": "blocks[2].lines[21]",
+   "text": "des femmes, qu'elles ſe transforment quelquesfois en",
+   "note": "round s in 'transforment' and 'quelquesfois' as it appears; could be long s"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Pauſanias",
+   "note": "final 'as' set as a ligature; letters blotted"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "Vergile x.",
+   "note": "could be 'Vergle x.' (i not clearly visible)"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "Daniel",
+   "note": "marks over i/e, possibly 'Danïel'"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "Galeotus",
+   "note": "second letter blotted (looks like 'x'); read 'Galeotus'"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "Mar. au li-",
+   "note": "'Mar.' followed by an apostrophe-like mark ('Mar'.'); abbreviation of Martius"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "na promiſcua",
+   "note": "letters of 'promiſcua' blurred (reads 'promiſ.ua')"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "compagnõs de Diomedes Roy d'Aetolie, leſques apres",
+   "note": "'DiomedesRoy' set with no visible space, separated per word-division rule. 'Aetolie' read as A + e, not Æ. 'leſques' (for leſquels) as printed, sic."
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Carminibus Circe, ſocios mutauit Vliſsis {n}.",
+   "note": "italic verse line; 'Vliſsis' printed with the italic long-s + round-s ligature (ß-shaped), transcribed ſs. Marker n is a raised italic n after the word. Set as a centred italic quotation, recorded as a paragraph block per §6."
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "ſtrumens pour engendrer du tout ſemblabes: hors",
+   "note": "'ſemblabes' as printed (for ſemblables), sic."
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "text": "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme-",
+   "note": "the line-end mark after 'meſme' is a heavy dot at mid-height, the same shape this page uses for its line-end hyphens ('in', 'ſi', 'autre', 'eſ'); read as a word break (meſme-|ment on the next page), so continues_next true. Could instead be a period ending the sentence."
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "aucun artifice: car l'homme & la femme ont les in-",
+   "note": "line-end break signs here and on lines 14, 15, 24 are printed as a small raised dot/stroke rather than a clear hyphen; transcribed as '-'."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "S. Auguſtin diſpute doctement {m}, & monſtre ces cho-",
+   "note": "marker m is a small blotted italic m; the break sign after 'cho' is set after a space and looks like a dot; transcribed '-'."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Pauſanias",
+   "note": "ending blotted; could be read 'Pauſaniæ' or 'Pauſaniæs'; best reading 'Pauſanias'."
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "Galeotus",
+   "note": "italic, faint; could read 'Galeorus' (t vs r). Next line 'Mar.' has a stray apostrophe-like mark after r ('Mar'.'); treated as noise."
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "na promiſcua",
+   "note": "the 'c' in 'promiſcua' is faint and looks like a dot ('promiſ.ua'); read as c."
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "Daniel",
+   "note": "the i may carry a diaeresis ('Danïel'); ink blotted."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[2]",
+   "target": "blocks[0].lines[2]",
+   "spans": [
+    [
+     21,
+     24
+    ]
+   ],
+   "aligned": true,
+   "a": "gouſté du ſacrifice, que les Arcades faiſoyent à Lycee",
+   "b": "gouſté du ſacrifice, qae les Arcades faiſoyent à Lycee",
+   "text": "gouſté du ſacrifice, que les Arcades faiſoyent à Lycee",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "que ('the sacrifice which the Arcadians made') is the word; qae is a wrong sort."
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "target": "blocks[2].lines[15]",
+   "spans": [
+    [
+     13,
+     20
+    ]
+   ],
+   "aligned": true,
+   "a": "non, que par quelque accident de maladie, ou autre-",
+   "b": "non, que par quelqne accident de maladie, ou autre-",
+   "text": "non, que par quelque accident de maladie, ou autre-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "quelque ('some accident of sickness') is the word; quelqne is a turned u."
+  },
+  {
+   "where": "blocks[2].lines[25]",
+   "target": "blocks[2].lines[25]",
+   "spans": [
+    [
+     50,
+     56
+    ]
+   ],
+   "aligned": true,
+   "a": "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme.",
+   "b": "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme-",
+   "text": "peces de Magie, qu'il n'eſt beſoin icy d'eſcrire, meſme-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "meſme- is the hyphen of a word broken at the page end: meſme-|ment ('especially') continues at the top of p096."
+  }
+ ]
 }

@@ -187,5 +187,92 @@
    "text": "11",
    "note": "old-style figures; the two 1s print as serifed strokes. Matches the manifest."
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[3]",
+   "target": "blocks[0].lines[3]",
+   "spans": [
+    [
+     34,
+     42
+    ]
+   ],
+   "aligned": true,
+   "a": "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+   "b": "ge, & quelque fois les amitiez ſe departẽt pour contẽtions",
+   "text": "ge, & quelque fois les amitiez ſe departẽr pour contẽtions",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "body-2.jpg y~15-95 at 4x: the glyph after ẽ reaches only x-height and has a right shoulder, the same sort as the r of 'pour' that follows; the t of 'depart-' in the same word rises higher and carries a crossbar. 'departẽr' sic for departent"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "target": "blocks[0].lines[5]",
+   "spans": [
+    [
+     56,
+     60
+    ]
+   ],
+   "aligned": true,
+   "a": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {o}.",
+   "b": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {a}.",
+   "text": "quelle chacũ pretẽd, & aſpire particulieremẽt, pour ſoy {o}.",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "body-2.jpg x~1600-1700 y~165-255 at 5x: the marker is a solid round blob with no legible stem or open counter, so the glyph cannot decide between a, e, o. The marker alphabet runs on through an annotation across pages (p009 a-d, p010 e-n) and this block is the tail of that annotation, so the next key is o; the margin key (margin-1.jpg x~60-120 y~740) is the same round blob"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "target": "blocks[0].lines[7]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "b": "manifeſter, & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "text": "manifeſter & ſ'entrereprocher les choſes ſecrettes, qu'on",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "body-2.jpg y~325-405 at 4x: the mark after 'manifeſter' is a small tick entirely below the baseline with no head on the baseline; the fount's commas sit on the baseline. Speck, not a comma"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "target": "blocks[4].lines[7]",
+   "spans": [
+    [
+     15,
+     23
+    ]
+   ],
+   "aligned": true,
+   "a": "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ",
+   "b": "fois l'vn pour l'autre. & que ſouz le pretexte de ceſte reſ",
+   "text": "fois l'vn pour l'autre, & que ſouz le pretexte de ceſte reſ",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "body-7.jpg x~520-720 y~470-560 at 8x: the mark after 'l'autre' has a head on the baseline and a tail curving below it: a comma"
+  },
+  {
+   "where": "margin_notes[0].key",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "e",
+   "b": "a",
+   "text": "o",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "see blocks[0].lines[5]"
+  }
  ]
 }

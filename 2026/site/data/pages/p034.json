@@ -12,7 +12,31 @@
  "running_head": "ARREST DV",
  "prev": "p033",
  "next": "p035",
- "english": null,
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "e him, and to pursue by justice the recovery of his property; but as to the fruits and the rendering of accounts, the said Pierre Guerre, the uncle, would in no way hear of it, but rather, in hatred of this, both he and his sons-in-law had sought out all possible means to ruin and destroy him. And the first attempt was to kill him; and to this end they had often lain in wait for him and assailed him, and even one day (so hard did avarice drive them), before the said de Rols his wife, beaten him and almost killed him with a blow of a bar, which laid him flat on the ground, where he would have been struck dead, but for the said de Rols his wife, who, being unable to save him otherwise, stretched herself over him to receive the blows.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Great is the love of a wife toward her husband, when, to save his life, she offers herself to death, as of old did Alcestis, wife of Admetus, King of Thessaly, who, having learned by the oracle of Apollo that her husband, extremely sick and already brought to the last breaths of his life, could not recover health except by the voluntary death of one of his friends, and seeing that no one came forward to do it, she, inflamed with a great ardour and affection that boiled within her, exposed herself willingly to the precipice of death, to redeem the life of her husband <sup class=\"mk\" data-key=\"a\">a</sup>. Hypermnestra also, daughter of Danaus, put herself in hazard of being killed by her father, to save Lynceus her spouse, on whose death, and that of his other sons-in-law, to the number of fifty, Danaus with his fifty daughters had",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Euripides, <i>Alcestis</i>; Juvenal, <i>Satires</i> VI (652–654)",
+     "original": "Euripide en la tragedie d'Alceſte Iuuenal en la vj Satyre.",
+     "gloss": "Alcestis dies in her husband's place; Juvenal names her as the wife who took on her husband's fate."
+    }
+   ]
+  }
+ ],
  "french": [
   {
    "type": "paragraph",
@@ -142,6 +166,26 @@
    "where": "margin_notes[0].lines[3]",
    "text": "uenal en la vj",
    "note": "the second letter of 'uenal' is blotted (a filled e with a stray mark to its right); read as e on the sense (Iu- / uenal = Iuuenal). The numeral is 'vj' as printed."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[1]",
+   "target": "blocks[0].lines[1]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "couurement de ſon bien: mais quant aux",
+   "b": "couuremenr de ſon bien: mais quant aux",
+   "text": "couuremenr de ſon bien: mais quant aux",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 4.5x the final sort of the word is an r: a stem with a short top-right arm, no crossbar and no curved foot, unlike the t of 'quant' on the same line, which has a crossbar on both sides and a curled foot. 'couuremenr' is a wrong sort for 'couurement'; transcribed as printed (sic)."
   }
  ]
 }

@@ -1,10 +1,10 @@
 ---
 id: texte-29
-pages: [p051]
+pages: [p050]
 ---
-⟦p051⟧Which the said Barrau, the uncle, well showed at the exhibition [*exhibition*: the presenting of the prisoner to him] that was made to him of the prisoner his nephew, as well before the said Judge of Rieux as afterwards in the Court: for, seeing him in the hands of Justice, the heavy irons on his legs, and in danger of his life, he began incontinently to weep and to groan bitterly.
+⟦p050⟧Upon this, it is to be noted that there were three or four kinds of witnesses who came into consideration. The first, a maternal uncle of the said du Tilh, called Carbon Barrau, and thus beyond all suspicion; inasmuch as it is in no way probable that blood, in this case, would be willing to lie so far as, without any occasion, to procure the ignominious death of its own nephew.
 
 ## Notes
-The print heads this section TEXTE. on p051. The print spells the uncle's name *Barreau* here (p050 has *Barrau*); the case file's form Barrau is kept.
+The print heads this section TEXTE, on p050, with a comma in place of the point. The print's *appelè* (grave accent) is as printed; *igno mignieuſe* is a reflow gap in *ignomignieuse*.
 
 - (none: this section carries no marginal citations.)

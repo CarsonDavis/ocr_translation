@@ -9,11 +9,402 @@
   "image_no": 142,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/142"
  },
- "running_head": null,
+ "running_head": "ARRET DV",
  "prev": "p119",
  "next": "p121",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "penalty is imposed, namely banishment <sup class=\"mk\" data-key=\"m\">m</sup>. And those who have leafed through our books of Law with some judgment are not ignorant that the penalty of the sword may be taken in two senses, Naturally and Civilly. The natural penalty of the sword cuts and makes dissection of members <sup class=\"mk\" data-key=\"n\">n</sup>, and most often separation of body and soul <sup class=\"mk\" data-key=\"o\">o</sup>. The civil one is imposed more lightly (by reason, as I have said, of the circumstances), in banishment, and galleys for a certain time or perpetually <sup class=\"mk\" data-key=\"p\">p</sup>; nay, if we speak according to the constitutions of the Roman Pontiffs, in excommunication and ecclesiastical censures only <sup class=\"mk\" data-key=\"q\">q</sup>. And although the law of God punished both the adulterous man and the adulterous woman with death <sup class=\"mk\" data-key=\"r\">r</sup>, nevertheless our emperors, as to the woman, ordain otherwise: whom they have willed to be chastised, and afterwards put into a monastery, whence the husband has the faculty, within two years, of recovering her; which having passed (if the husband takes no account of her), she is bound to take the habit of that convent, to remain there and bewail her sin perpetually <sup class=\"mk\" data-key=\"ſ\">ſ</sup>. On the contrary, Romulus, desiring greater chastity and continence in women <sup class=\"mk\" data-key=\"t\">t</sup>, punished them with death, and left the men unpunished <sup class=\"mk\" data-key=\"u\">u</sup>. Whence afterwards was drawn the usage that the husband might kill with impunity his wife found in adultery, and nevertheless the wife dared not so much as touch with the tip of her finger the husband caught in a like fault — which did not contain in itself (said Cato holily) right, reason, nor rectitude of justice <sup class=\"mk\" data-key=\"x\">x</sup>. But what! if we wished to punish adulterers according to the manners or laws of the Gentiles, certainly we should find ourselves greatly confused: for some have chastised them in one way, others in another: some punished severely, as the Parthians, Egyptians, Locrians and Arabs; others gently, as the Lepreans, Gortynians and Pisidians; and some have left this crime wholly unpunished, as the Indians, Massagetae and certain other nations, among whom one may well place the Nomads, who have always wished to have their wives in common among them <sup class=\"mk\" data-key=\"y\">y</sup>. And our fine Canonists do not deserve to be forgotten, who under the banner of the Pontiff Alexander III seem to have put adultery",
+   "continued": true,
+   "notes": [
+    {
+     "key": "m",
+     "citation": "Digest 48.8 (<i>Ad legem Corneliam de sicariis et veneficis</i>), l. 3, last paragraph (D. 48.8.3.5, Marcian)",
+     "original": "l. iij. P. fin. D. de ſiccar,",
+     "gloss": "The penalty of the Cornelian law is deportation to an island and loss of all goods, but today the humbler are put to death and the better-born deported."
+    },
+    {
+     "key": "n",
+     "citation": "Digest 1.18 (<i>De officio praesidis</i>), l. <i>Illicitas</i>, § <i>Universas</i> (cf. D. 1.18.6; paragraph unverified); Digest 1.16 (<i>De officio proconsulis et legati</i>), l. <i>Si quid</i> (fragment not identified); a third law, <i>l. iij. D.</i>, whose title the print omits",
+     "original": "l. illicitas. P. vniuerſas. D. de offi. pref. l. ſi quid. D. de offi. pro conſ l. iij. D.",
+     "gloss": "For the natural penalty of the sword that cuts off members."
+    },
+    {
+     "key": "o",
+     "citation": "Digest 48.19 (<i>De poenis</i>), the fragment beginning <i>Cum damnum</i> — not identified",
+     "original": "l. cum damnum. D. de pœn.",
+     "gloss": null
+    },
+    {
+     "key": "p",
+     "citation": "Digest 28.3 (<i>De iniusto rupto irrito facto testamento</i>), l. <i>Si quis filio</i>, § <i>Irritum</i> (cf. D. 28.3.6, on the testator condemned to deportation or the mines); Digest 48.8.3.5, as at {m}",
+     "original": "l. ſi quis filio. P. irritum. D. de iniuſt. teſt. l. iij. P. fi. D. de ſiccar.",
+     "gloss": "The civil death of deportation and condemnation to the mines, the Roman counterpart of Coras's galleys."
+    },
+    {
+     "key": "q",
+     "citation": "Liber Sextus, title <i>De sententia excommunicationis</i> (VI 5.11), c. <i>Delicto</i> — chapter unverified",
+     "original": "c. delicto. de ſent. excom, au vj.",
+     "gloss": null
+    },
+    {
+     "key": "r",
+     "citation": "Leviticus 20 (20:10)",
+     "original": "Leuitique c. xx.",
+     "gloss": null
+    },
+    {
+     "key": "ſ",
+     "citation": "Novels, <i>Ut nulli iudicum</i> (Nov. 134), chapter 10, § <i>Si dixero</i> (ninth <i>collatio</i>); the <i>authentica</i> <i>Sed hodie</i> inserted in Code 9.9 (<i>Ad legem Iuliam de adulteriis</i>)",
+     "original": "p. ſi dixero. vt nulli iud. colla. ix. aux nou uelles aut. ſed hodie. C. de adult.",
+     "gloss": "Nov. 134.10: the adulteress is whipped and shut in a monastery; her husband may take her back within two years, failing which she takes the habit for life."
+    },
+    {
+     "key": "t",
+     "citation": "Digest 23.2 (<i>De ritu nuptiarum</i>), l. <i>Palam</i>, § <i>Quae in adulterio</i> (D. 23.2.43.12, Ulpian); Code 6.57 (<i>Ad senatus consultum Orfitianum</i>), the penultimate law",
+     "original": "l. Palam. P. que in adulte rio. D. de rit. nup. l. penul. C. ad Orficia",
+     "gloss": "D. 23.2.43.12: a woman taken in adultery is as one condemned in a public trial, and may not marry a senator."
+    },
+    {
+     "key": "u",
+     "citation": "Plutarch, <i>Life of Romulus</i>, chapter 22",
+     "original": "Plutarque en la vie de Romule.",
+     "gloss": "Romulus's law on divorce, which allowed a husband to put away his wife for adultery and punished the wife only."
+    },
+    {
+     "key": "x",
+     "citation": "Aulus Gellius, <i>Attic Nights</i>, book 10, chapter 23",
+     "original": "Aule Gelle au liure x. c. xxiij.",
+     "gloss": "Cato's speech: a husband who catches his wife in adultery may kill her without trial, but she dare not touch him with a finger if she catches him — \"nor is it right that she should\", says Cato, whom Coras reads as condemning the inequality."
+    },
+    {
+     "key": "y",
+     "citation": "Strabo, <i>Geography</i>, book 16 (16.4.25, the Arabs who hold their wives in common); Alexander ab Alexandro (<i>Alexandre Neapolitain</i>), <i>Genialium dierum libri</i>, book 4, chapter 1",
+     "original": "Strabon au liure xvj. de la Geographie. Alexandre Neapolitein au iiij. de ſes iours Geniaux c. i.",
+     "gloss": "Alexander's chapter surveys the marriage customs and adultery laws of the nations Coras lists."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "legere peine, à ſçauoir de banniſſement {m}. Et ceux qui",
+    "ont fueilleté auec quelque iugement nos liures de",
+    "Droict, n'ignorent pas que la peine du glaiue ſe peut",
+    "prendre en deux ſortes, Naturellement, & Ciuillemẽt.",
+    "La peine du glaiue naturelle, couppe & fait diſſection",
+    "de membres {n}, & le plus ſouuent ſeparation du corps &",
+    "de l'ame {o}. La ciuille ſ'impoſe plus legerement (pour",
+    "raiſon cõme i'ay dit, des circonſtances) en bãniſſemẽt,",
+    "& galeres à certain temps, ou perpetuellement {p}. voire",
+    "ſi nous parlons ſelon les conſtitutions des Pontifes Ro",
+    "mains, en excommuniment, & cenſures eccleſiaſtiques",
+    "ſeulement {q}. Et bien que la loy de Dieu ayt puni &",
+    "l'homme & la femme adulteres de mort {r}: toutesfois",
+    "nos empereus, quand à la femme, en ordonnent autre-",
+    "ment: laquelle ont voulu eſtre chaſtiee, & apres miſe",
+    "en vn monaſtere, d'où le mari ayt faculté dãs deux ans",
+    "la recouurer: paſſez leſquels (ſi le mari n'en fait cõpte)",
+    "ſoit tenue prendre l'habit de ce couuent, pour illec de-",
+    "meurer, & gemir perpetuellement ſon peſché {ſ}. Au cõ-",
+    "traire, Romulus deſirant plus grande chaſteté & con-",
+    "tinence aux femmes {t} les puniſſoit de mort, & laiſſoit",
+    "les hommes impunis {u}. Dont apres fut tiré l'vſage, que",
+    "le mari peuſt tuer auec impunité ſa femme trouuee en",
+    "adultere: & neantmoins la femme n'oſaſt pas du bout",
+    "du doigt ſeulement toucher le mari, ſurprins en pareil-",
+    "le faute, Ce que ne contenoit en ſoy (diſoit ſainctemẽt",
+    "Caton) droit, raiſon, ni rectitude de iuſtice {x}. Mais",
+    "quoy? ſi nous voulions punir les adulteres ſelon les",
+    "mœurs, ou loix des Etniques, certes nous nous trouue-",
+    "rions fort confuz: car les vns les ont chaſtiez en vne",
+    "ſorte, les autres en l'autre: les vns punis ſeuerement, cõ-",
+    "me les Parthes, Egyptiens, Locrences, & Arabes: les au-",
+    "tres doucement, comme les Lepræes, Gortains, & Piſi-",
+    "des: & quelqnes vns õt laiſſé du tout ce crime impuni,",
+    "comme les Indiens, Maſſagetes, & certaines autres",
+    "nations: parmi leſquelles on peut bien mettre les",
+    "Nomades, qui ont voulu touſiours auoir entre eux",
+    "leurs femmes communes {y}. Et ne meritent d'eſtre ou-",
+    "bliez nos gentils Canoniſtes, qui ſous l'enſeigne du",
+    "Pontife Alexandre iij. ſemble qu'ayent mis l'adultere"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "l. iij. P. fin.",
+    "D. de ſiccar,"
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "l. illicitas.",
+    "P. vniuerſas.",
+    "D. de offi.",
+    "pref. l. ſi quid.",
+    "D. de offi. pro",
+    "conſ l. iij. D."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "l. cum dam-",
+    "num. D. de",
+    "pœn."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "l. ſi quis fi-",
+    "lio. P. irritum.",
+    "D. de iniuſt.",
+    "teſt. l. iij. P. fi.",
+    "D. de ſiccar."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "c. delicto.",
+    "de ſent. excom,",
+    "au vj."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "Leuitique",
+    "c. xx."
+   ]
+  },
+  {
+   "key": "ſ",
+   "kind": "margin",
+   "lines": [
+    "p. ſi dixero. vt",
+    "nulli iud. col-",
+    "la. ix. aux nou",
+    "uelles aut. ſed",
+    "hodie. C. de",
+    "adult."
+   ]
+  },
+  {
+   "key": "t",
+   "kind": "margin",
+   "lines": [
+    "l. Palam. P.",
+    "que in adulte",
+    "rio. D. de rit.",
+    "nup. l. penul.",
+    "C. ad Orficia"
+   ]
+  },
+  {
+   "key": "u",
+   "kind": "margin",
+   "lines": [
+    "Plutarque",
+    "en la vie de",
+    "Romule."
+   ]
+  },
+  {
+   "key": "x",
+   "kind": "margin",
+   "lines": [
+    "Aule Gelle",
+    "au liure x. c.",
+    "xxiij."
+   ]
+  },
+  {
+   "key": "y",
+   "kind": "margin",
+   "lines": [
+    "Strabon au",
+    "liure xvj. de",
+    "la Geogra-",
+    "phie. Alexan-",
+    "dre Neapoli-",
+    "tein au iiij. de",
+    "ſes iours Ge-",
+    "niaux c. i."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARRET DV",
+   "note": "sic: printed ARRET, not ARREST; set in spaced capitals"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "de l'ame {o}. La ciuille ſ'impoſe plus legerement (pour",
+   "note": "apostrophe after ſ in 'ſ'impoſe' faint; could be 'ſimpoſe'. 'ame' letters crowded, could look like 'atne'"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "ſi nous parlons ſelon les conſtitutions des Pontifes Ro",
+   "note": "a dot-like mark between R and o; taken as ink speck, not punctuation; no hyphen at line end"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "nos empereus, quand à la femme, en ordonnent autre-",
+   "note": "sic: 'empereus' as printed"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "le faute, Ce que ne contenoit en ſoy (diſoit ſainctemẽt",
+   "note": "'C e' printed with a gap; closed up as 'Ce'; capital C after comma as printed"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "des: & quelqnes vns õt laiſſé du tout ce crime impuni,",
+   "note": "sic: 'quelqnes' (n for u) as printed; 'des:' mark is a colon-like pair of dots, faint"
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "mœurs, ou loix des Etniques, certes nous nous trouue-",
+   "note": "'Etniques' as printed (no h)"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. illicitas.",
+   "note": "ll in 'illicitas' partly blotted"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "conſ l. iij. D.",
+   "note": "no period visible after 'conſ'"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "p. ſi dixero. vt",
+   "note": "'ſidixero' set tight, divided as two words; 'p.' could be a different abbreviation"
+  },
+  {
+   "where": "margin_notes[7].lines[4]",
+   "text": "C. ad Orficia",
+   "note": "sic 'Orficia' for Orfitianum; c/t uncertain in italic"
+  },
+  {
+   "where": "margin_notes[10].lines[5]",
+   "text": "tein au iiij. de",
+   "note": "first word could be read 'rcin' or 'tcin'; best reading 'tein' (Neapolitain)"
+  },
+  {
+   "where": "running_head",
+   "text": "ARRET DV",
+   "note": "sic: the head is printed A R R E T D V (no S), letterspaced; transcribed as printed."
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "de l'ame {o}. La ciuille ſ'impoſe plus legerement (pour",
+   "note": "a small raised mark after the long s of ſ'impoſe read as an apostrophe; could be a plain 'ſimpoſe' with a speck."
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "& galeres à certain temps, ou perpetuellement {p}. voire",
+   "note": "the mark after {p} read as a period (round dot on baseline), though the next word 'voire' is lowercase; 'galeres' has no visible accent."
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "nos empereus, quand à la femme, en ordonnent autre-",
+   "note": "sic: 'empereus' for 'empereurs' as printed."
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "le faute, Ce que ne contenoit en ſoy (diſoit ſainctemẽt",
+   "note": "the mark after 'faute' read as a comma (tail below baseline) although a capital 'Ce' follows; 'que ne' (not 'qui ne') as printed."
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "des: & quelqnes vns õt laiſſé du tout ce crime impuni,",
+   "note": "sic: 'quelqnes' with n for u (wrong or turned sort), transcribed as printed. The mark after 'des' read as a colon; its upper dot is faint and set with a space before."
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "mœurs, ou loix des Etniques, certes nous nous trouue-",
+   "note": "'Etniques' as printed (no h)."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "D. de ſiccar,",
+   "note": "final mark read as a comma; could be a period with a tail from the paper."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. illicitas.",
+   "note": "the ll is a tight italic ligature that could be read 'ilicitas'; read as ll."
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "conſ l. iij. D.",
+   "note": "'conſ' printed with no visible period before 'l.' (conſ. abbreviation expected); transcribed as seen."
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "de ſent. excom,",
+   "note": "final mark read as a comma (tail visible)."
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "p. ſi dixero. vt",
+   "note": "the print sets 'ſidixero' tight; word division normalized. 'nulli' in the next line could be read 'nulle'."
+  },
+  {
+   "where": "margin_notes[7].lines[4]",
+   "text": "C. ad Orficia",
+   "note": "sic: 'Orficia' as printed (for Orfitian.); the line starts with a stray dot before C."
+  },
+  {
+   "where": "margin_notes[8]",
+   "text": "Plutarque",
+   "note": "the key letter of this note is printed as an italic v shape; keyed 'u' to match the body marker {u} after 'impunis' (the printer's alphabet has no v)."
+  },
+  {
+   "where": "margin_notes[10].lines[5]",
+   "text": "tein au iiij. de",
+   "note": "first word could be read 'tcin' (c for e); read 'tein' (Neapolitein)."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[3]",
+   "target": "blocks[0].lines[3]",
+   "spans": [
+    [
+     24,
+     38
+    ]
+   ],
+   "aligned": true,
+   "a": "prendre en deux ſortes, Narurellement, & Ciuillemẽt.",
+   "b": "prendre en deux ſortes, Naturellement, & Ciuillemẽt.",
+   "text": "prendre en deux ſortes, Naturellement, & Ciuillemẽt.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Naturellement, paired with Ciuillemẽt; Narurellement is no word (t read as r)"
+  }
+ ]
 }

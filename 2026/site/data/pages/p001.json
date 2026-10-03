@@ -176,5 +176,72 @@
    "text": "A",
    "note": "a lone 'A' stands below the last body line, right of centre; read as the gathering signature, not a catchword (p002 opens 'ANNOTATION I.' / 'Les')."
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[1]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "A R R E S T",
+   "b": "A R R E S T",
+   "text": "ARREST",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "Both readers wrote the spaced capitals letter-by-letter under the earlier wording of §3. The revised §3 transcribes spaced capitals closed up and records the letterspacing with spaced_caps: true, which this block carries."
+  },
+  {
+   "where": "blocks[2]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "D V.  P A R L E M E N T  D E",
+   "b": "DV PARLEMENT DE",
+   "text": "DV PARLEMENT DE",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "Letters are lightly tracked, far narrower than the wide letterspacing of ARREST above; ruled tracked capitals, so spaced_caps is left unset (a judgment call that changes only the flag, §3). The dot after DV is about a quarter the size of the fount's full stops: an ink speck, omitted and recorded in uncertain[]. B's text stands as the closed-up form the revised §3 requires."
+  },
+  {
+   "where": "blocks[5]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "cét & onze belles & doctes anno-",
+   "b": "cẽt & onze belles & doctes anno-",
+   "text": "cẽt & onze belles & doctes anno-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At magnification the mark over the e is a broad, wavy, near-horizontal stroke, not the short steep acute seen on 'procés'. It is a tilde: cẽt = cent (cent & onze annotations)."
+  },
+  {
+   "where": "blocks[3..7]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "five heading blocks, one per printed title line",
+   "b": "one paragraph block of five lines, continues_prev true",
+   "text": "five heading blocks",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "These are display lines of the title (large type, no indent, ending in a full stop before the italic sub-title). Convention §6: one heading block per printed display line, never a paragraph."
+  },
+  {
+   "where": "blocks[0]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "woodcut headpiece: grotesques, foliage and a central vase, full width above the title",
+   "b": "woodcut headpiece: a broad grotesque-and-foliage band with facing beasts and a central basket/urn, filling the head of the page above the title",
+   "text": "woodcut headpiece: grotesques, foliage and a central vase, full width above the title",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "Free-text description only; both are accurate, A's is the shorter."
+  }
  ]
 }

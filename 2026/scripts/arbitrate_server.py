@@ -23,9 +23,12 @@ Routes
     GET  /api/pages      [{page, items, decided, done}] for every <root>/queue/*.json, in
                          manifest order
     GET  /api/queue/<id> the queue with each item's saved decision merged in as `decision`
+                         (with `by`: carson | auto | translator; absent in the file = carson)
     POST /api/decide     {"page", "item", "choice": A|B|neither|either|unknown|clear, "text"}
                          upserts <root>/decisions/<id>.json (atomic) and returns progress;
-                         "clear" removes the item's decision (used by undo). When the
+                         "clear" removes the item's decision (used by undo). A decision
+                         made here is stored with "by": "carson", replacing an "auto" or
+                         "translator" one. When the
                          decision finishes the page, `next_page` names the next page (manifest
                          order, wrapping) that still has undecided items; `all_done` is true
                          when there is none. The page moves there by itself.
@@ -93,7 +96,7 @@ class Store:
                 continue
             choice = LEGACY.get(entry.get("choice"), entry.get("choice"))
             if choice in CHOICES:
-                out[item] = dict(entry, choice=choice)
+                out[item] = dict(entry, choice=choice, by=entry.get("by") or "carson")
         return out
 
     def progress(self, pid, queue=None, decisions=None):
@@ -135,7 +138,7 @@ class Store:
         else:
             if choice not in CHOICES:
                 raise ValueError(f"bad choice {choice!r}")
-            entry = {"choice": choice,
+            entry = {"choice": choice, "by": "carson",
                      "at": datetime.datetime.now().isoformat(timespec="seconds")}
             if choice == "neither":
                 entry["text"] = text if isinstance(text, str) else ""

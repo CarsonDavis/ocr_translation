@@ -12,7 +12,85 @@
  "running_head": "ARREST DV",
  "prev": "p025",
  "next": "p027",
- "english": null,
+ "english": [
+  {
+   "type": "heading",
+   "text": "ANNOTATION XI"
+  },
+  {
+   "type": "paragraph",
+   "html": "One might doubt here whether these children are legitimate, and dispute copiously on one side and the other; nevertheless, to be brief about it, and not to go looking for a knot in a bulrush, one must without difficulty believe that they are legitimate, by reason of the good faith of the wife, who thought she was having to do with Martin Guerre, her true husband <sup class=\"mk\" data-key=\"a\">a</sup> — just as also, if a woman married a priest whom she thought to be a lay person, and of a condition to marry, the children who should proceed from such nuptials [would be] legitimate <sup class=\"mk\" data-key=\"b\">b</sup>. For to render the children illegitimate and bastards, it would be necessary that both the father and the mother knew of the impediment and the fraud <sup class=\"mk\" data-key=\"c\">c</sup>. Added to which, in doubtful facts the law wills and ordains that the interpretation be taken in favour of the legitimacy of the children <sup class=\"mk\" data-key=\"h\">h</sup>, even though there were [ground to think] that they had been born of lechery <sup class=\"mk\" data-key=\"e\">e</sup>. It is true that if we are willing to give some credit to the Interpreters, this, which is certain and settled by the law of the Pontiffs, might admit of some controversy under the civil law: inasmuch as the Emperor has left it written that if a woman marries a slave, thinking to marry a free and freeborn person, and the truth is afterwards discovered, the dowry shall be returned to her, but the children who shall be born of this marriage shall be bastards and illegitimate <sup class=\"mk\" data-key=\"f\">f</sup>. Added to which, in another place, the Emperors Valentinian, Theodosius and Arcadius will that those who have contracted marriages forbidden by the law should prove clearly that they were placed in an error, not a simple one, but a very great and very just one <sup class=\"mk\" data-key=\"g\">g</sup>, showing thereby that an affected ignorance, and one very lightly occasioned, as this one might be, would not suffice. They add further: provided that, having understood the error, the married pair separate at once and without delay <sup class=\"mk\" data-key=\"h\">h</sup>. Which has not been done here. But as for me, it has always seemed to me that on this point there is no difference whatever between the civil and the canon laws. For Antoninus puts a special case, when the wife marries a slave, with whom everyone knows well that there is not, nor can be, any lawful marriage <sup class=\"mk\" data-key=\"k\">k</sup>. And as to the constitution of Valentinian <sup class=\"mk\" data-key=\"l\">l</sup>, it says nothing whatever about the children, whether they ought to be legiti",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Decretals, X 4.17 (<i>Qui filii sint legitimi</i>), c. 2, c. <i>Referente</i> and c. <i>Ex tenore</i> (cf. X 4.17.14; chapter numbers unverified); the Gloss on X 4.7 (<i>De eo qui duxit in matrimonium quam polluit per adulterium</i>), c. 1; the Gloss on Clementines 4.1 (<i>De consanguinitate et affinitate</i>), the sole chapter",
+     "original": "c. ij. c. referente. c. ex tenore. qui fil. ſint leg. Glo. c, j. de eo ꝗ dux. in mat. Glo. cle. vn. de. cõſang. &amp; affin",
+     "gloss": "The canonist rule that the good faith of even one parent makes the children of a putative marriage legitimate."
+    },
+    {
+     "key": "b",
+     "citation": "Baldus on Code 5.5 (<i>De incestis et inutilibus nuptiis</i>), l. <i>Qui contra</i>; Angelus Aretinus (Angelo Gambiglioni) on Institutes 1.10 (<i>De nuptiis</i>), § <i>Si adversus</i> (Inst. 1.10.12); Panormitanus on X 4.17 c. 2 and c. <i>Ex tenore</i>, cited above",
+     "original": "Balde l. qui contra. C. de inceſt. nup. Ange Aretin, au, Par. ſi aduerſus de nu, Panorme au c. ij. &amp; c. ex te nore. preal.",
+     "gloss": "Inst. 1.10.12: where persons marry against the rules, there is neither husband nor wife nor marriage nor dowry."
+    },
+    {
+     "key": "c",
+     "citation": "Decretals, X 4.3 (<i>De clandestina desponsatione</i>), c. 3 <i>Cum inhibitio</i> (Lateran IV, c. 51), final paragraph, and the Gloss there",
+     "original": "c. cum in hibitio. Para. final. &amp; illec la Gloſe de cland. deſpon.",
+     "gloss": "The children of a forbidden clandestine marriage are illegitimate only if both parents knew of the impediment."
+    },
+    {
+     "key": "h",
+     "citation": "Code 5.5, l. <i>Qui contra</i>, towards the end, cited above",
+     "original": "l. qui contra ſur la fin fin. deſſus allegue.",
+     "gloss": null
+    },
+    {
+     "key": "e",
+     "citation": "The same paragraph, at the place cited above ({d})",
+     "original": "Paragra. au lieu preallegué.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Code 5.18 (<i>Soluto matrimonio quemadmodum dos petatur</i>), l. 2 as cited (cf. C. 5.18.3, Antoninus: the woman who married a slave believing him free recovers her dowry; fragment number unverified)",
+     "original": "l. ij. C. ſol. marr.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "citation": "Code 5.5 (<i>De incestis et inutilibus nuptiis</i>), l. <i>Qui contra</i> (Valentinian, Theodosius and Arcadius), § 1; fragment number unverified",
+     "original": "l. qui contra. Paragr. j. C. de inceſt nup.",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "citation": "Code, l. 2 of a title whose name is cut off in the print; most probably C. 5.18 l. 2 again, as at {f} and {i} — unidentified",
+     "original": "l ij. C. de",
+     "gloss": null
+    },
+    {
+     "key": "l",
+     "citation": "Code 5.5, l. <i>Qui contra</i>, the paragraph cited above ({g})",
+     "original": "l. qui contra. Paragr deſſus. cite.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "citation": "Digest 48.5 (<i>Ad legem Iuliam de adulteriis coercendis</i>), l. <i>Miles</i> (cf. D. 48.5.12, Papinian), § <i>Defuncto</i>; l. <i>In liberae</i> (fragment not identified)",
+     "original": "l. miles. Pa ragr. defũcto. D. de adult. l. in liberæ.",
+     "gloss": "Evidently belongs to \"in doubtful facts the law wills … the legitimacy of the children,\" where the print set <i>h</i>. Paragraph not verified."
+    },
+    {
+     "key": "i",
+     "citation": "Code 5.18, l. 2, cited above ({f})",
+     "original": "l. ij. Prealleguee.",
+     "gloss": "Evidently belongs to \"Antoninus puts a special case, when the wife marries a slave,\" where the print set no marker."
+    }
+   ]
+  }
+ ],
  "french": [
   {
    "type": "heading",
@@ -293,6 +371,134 @@
    "where": "margin_notes[9].lines[0]",
    "text": "l ij. C. de",
    "note": "no period after the opening l; note k is a single line and the citation breaks off after 'C. de' before the key of note l (both readers)"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[1].lines[21]",
+   "target": "blocks[1].lines[21]",
+   "spans": [
+    [
+     48,
+     54
+    ]
+   ],
+   "aligned": true,
+   "a": "du. mais les enfans qui naiſtront de ce mariage ſeront",
+   "b": "du. mais les enfans qui naiſtront de ce mariage ſeront,",
+   "text": "du. mais les enfans qui naiſtront de ce mariage ſeront",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x the mark after 'ſeront' is a faint grey speck below the baseline, far lighter than the solid printed commas on the page (cf. 'h,' on line 13); not a printed sort"
+  },
+  {
+   "where": "blocks[1].lines[24]",
+   "target": "blocks[1].lines[24]",
+   "spans": [
+    [
+     23,
+     31
+    ]
+   ],
+   "aligned": true,
+   "a": "ont contracté mariages deſendus par la loy, preuueut",
+   "b": "ont contracté mariages defendus par la loy, preuueut",
+   "text": "ont contracté mariages deſendus par la loy, preuueut",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x the letter after 'de' has a nub on the left only, no crossbar extending right, unlike the f of 'enfans' (line 13) whose bar crosses the stem: long ſ, sic for 'defendus'"
+  },
+  {
+   "where": "margin_notes[0].lines[4]",
+   "target": "margin_notes[0].lines[4]",
+   "spans": [
+    [
+     6,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "de eo q̃ dux.",
+   "b": "de eo ꝗ dux.",
+   "text": "de eo ꝗ dux.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the q carries a horizontal stroke through its descender, below the bowl, not a tilde above: ꝗ (U+A757), per the standing ruling"
+  },
+  {
+   "where": "margin_notes[0].lines[7]",
+   "target": "margin_notes[0].lines[7]",
+   "spans": [
+    [
+     8,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "ſang. & affin",
+   "b": "ſang. & aſſin",
+   "text": "ſang. & affin",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x both letters after 'a' carry full crossbars (italic ff ligature): 'affin'"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "target": "margin_notes[3].lines[1]",
+   "spans": [
+    [
+     6,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "ragr. defũcto.",
+   "b": "ragr. defucto.",
+   "text": "ragr. defũcto.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x a tilde is visible over the u of 'defũcto'"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "target": "margin_notes[4].lines[0]",
+   "spans": [
+    [
+     0,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "Paragra au",
+   "b": "Paragra. au",
+   "text": "Paragra. au",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 8x a solid round dot sits on the baseline after 'Paragra', with only a faint wisp trailing from it; a printed period, not a comma"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "target": "margin_notes[5].lines[1]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "matr.",
+   "b": "marr.",
+   "text": "marr.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the third and fourth letters are both italic r (short arm, no crossbar, no ascender): 'marr.', sic for 'matr.'"
   }
  ]
 }

@@ -9,11 +9,392 @@
   "image_no": 111,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/111"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p090",
  "next": "p092",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "made himself revered by many with great wonder; persuading them, moreover, that all things were feasible by means of magical vanity <sup class=\"mk\" data-key=\"a\">a</sup>. And yet neither must one think that magic is altogether fabulous, seeing that the laws, both divine and human, have so often spoken of it, and commanded that it be exterminated from the earth as a thing abominable and full of impiety <sup class=\"mk\" data-key=\"b\">b</sup>. These were certainly among the first ruses and principal wiles that this trickster and father of lies, Satan, set up to ruin and seduce men: even to having Simon the Samaritan adored as God, and a statue erected to him with this inscription, SIMONI DEO SANCTO, which is as much as to say, To Simon the holy God <sup class=\"mk\" data-key=\"c\">c</sup>. Now this diabolical art (the invention of which is attributed to Zoroaster, King of the Bactrians, who wrote a hundred thousand verses <sup class=\"mk\" data-key=\"d\">d</sup>) is called Magic; although Magic of itself signifies nothing evil, but rather all sapience, wisdom and knowledge of things universally, both human and divine. But two kinds have been made of it: the one natural and permitted, the other ceremonial and reprobate. Natural Magic is an excellent learning and perfect knowledge of the secret virtues of nature, whether in celestial influences, stones or herbs; to learn which Pythagoras, Empedocles and Democritus voluntarily banished themselves from their native land, wandered as vagabonds through divers provinces, and travelled into far-off and foreign countries; and such Magic was of old in those noble and renowned wise men who came from the East to adore the little child Jesus Christ <sup class=\"mk\" data-key=\"e\">e</sup>; in Archytas of Tarentum also, who had made a dove of wood, balanced with counterweights, of such a structure and so ingenious a contrivance that it flew in the air of itself; moreover in Boethius, who made birds sing, and cows and bulls, made of metal, bellow <sup class=\"mk\" data-key=\"f\">f</sup>; and in Albert the Great, who made a head of brass speak; and other such. Ceremonial Magic is so called because it consists wholly in superstitions and ceremonies of words, names, images, characters, consecrations, sacrifices and other like vanities <sup class=\"mk\" data-key=\"g\">g</sup>, by which the",
+   "continued": true,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Pietro Crinito (<i>Pierre Crinit</i>), <i>De honesta disciplina</i> IX.5 (as cited; chapter unverified)",
+     "original": "Pierre Crinit au liure ix. de honeſta diſciplina. c. v",
+     "gloss": "Crinito, 1475–1507, the Florentine humanist; cited at annot-005 as well. On the devil's magic and its spread."
+    },
+    {
+     "key": "b",
+     "citation": "Deuteronomy 18 (18:10–12); Leviticus 20 (20:6, 27); Code 9.18 (<i>De maleficis et mathematicis</i>), l. 1 (C. 9.18.1) and the whole title; Decretum, C. 26 q. 5, the last canon (c. <i>Nec mirum</i>, c. 14; the print's <i>xxxvj</i> is a wrong sort for <i>xxvj</i>, since Causa 36 has no fifth question)",
+     "original": "Deutero. c. xviij. Leui. c. xx. l. j. &amp; tout le titre. C. de malef. &amp; mathemat. c. fin. xxxvj. q. v.",
+     "gloss": "The divine and human laws against magic: the sorcery title of the Code, which the case file §6.3 says to expect wherever Coras discusses magic, and Gratian's great canon on magical arts, from Augustine."
+    },
+    {
+     "key": "c",
+     "citation": "Tertullian, <i>Apology</i> (ch. 13: the Romans dedicated a statue to Simon Magus with the inscription <i>Sancti Dei</i>); Pietro Crinito, <i>De honesta disciplina</i> VII.1 (as cited; chapter unverified)",
+     "original": "Tertuliã en. ſon Apologetique. Pierre Crinit au liu vij. c. j.",
+     "gloss": "The inscription SIMONI DEO SANCTO is Justin Martyr's (<i>First Apology</i> 26) as well; it is a Christian reading of the Sabine god Semo Sancus's altar on the Tiber island."
+    },
+    {
+     "key": "d",
+     "citation": "Pliny, <i>Natural History</i> XXX.1 (§§3–4)",
+     "original": "Pline au liure xxx. c. j.",
+     "gloss": "Pliny makes Zoroaster the inventor of magic and reports from Hermippus that he wrote two million lines (<i>vicies centum milia versuum</i>); Coras's \"a hundred thousand\" does not match. Pliny does not call him king of the Bactrians; that is the tradition of Justin and others."
+    },
+    {
+     "key": "e",
+     "citation": "Matthew 2 (2:1–12)",
+     "original": "S. Matthieu c. ij.",
+     "gloss": "The Magi from the East."
+    },
+    {
+     "key": "f",
+     "citation": "Cassiodorus (<i>Caſiodore</i>), <i>Variae</i> (I.45, the letter to Boethius on the water-clock and sundial for Gundobad, which credits Boethius with Archytas's dove and with metal birds that sing and metal bulls that bellow); Pietro Crinito, <i>De honesta disciplina</i> XVII.13 (as cited; chapter unverified)",
+     "original": "Caſiodore aux liures variarum Pierre Crinit au liure xvij. c. xiij.",
+     "gloss": "Cassiodorus is the source of Coras's whole list of natural-magic automata; the brazen head of Albert the Great is a later legend."
+    },
+    {
+     "key": "g",
+     "citation": "Decretum, C. 26 q. 5, the last canon (c. <i>Nec mirum</i>, c. 14), at § <i>Ad haec omnia</i>",
+     "original": "c fin. P ad hæc omnia. xxvj. q. v.",
+     "gloss": "The same canon and paragraph cited at annot-022 {b}; its catalogue of the superstitious arts. The print's <i>P</i> is its sort for §."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "fait reuerer à pluſieurs auec grande merueille: leur per",
+    "ſuadant en outre, que toutes choſes par le moyen de la",
+    "vanité magique, eſtoyent faiſables {a}. Et ſi ne faut auſſi",
+    "penſer que la magie ſoit du tout fabuleuſe, veu que les",
+    "loix, & diuines & humaines en ont ſi ſouuent parlé, &",
+    "commãdé qu'elle fuſt comme vne choſe abominable,",
+    "& pleine d'impieté, exterminee de la terre {b}. Ce ont eſté",
+    "certainement des premieres ruſes, & principales cautel",
+    "les, que ce trompeur & pere de menſonge Satan a dreſ-",
+    "ſé pour ruiner & ſeduire les hommes: iuſqu'à faire ado-",
+    "rer comme Dieu, Simon Samarien, & luy eriger vne",
+    "ſtatüe auec telle inſcription, SIMONI, DEO SAN-",
+    "CTO. qui vaut autant à dire comme, à Simon Dieu",
+    "ſainct {c}. Or ceſt art diabolique (l'inuention de laquelle",
+    "on attribue à Zoroaſtes, Roy des Bactrians: qui eſcri-",
+    "uit cent mille vers {d}) eſt appellée Magie, combien que",
+    "Magie de ſoy ne ſignifie rien de mauuais, ains toute",
+    "ſapience, ſageſſe, & congnoiſſance des choſes vni-",
+    "uerſellement, tant humaines que diuines. Mais on",
+    "en a faict deux eſpeces, l'vne naturelle & permiſe:",
+    "l'autre ceremoniale & reprouuee. Magie naturelle",
+    "eſt vn excellent ſçauoir, & parfaicte congnoiſſance des",
+    "vertus ſecrettes de nature, ſoyent en influxions cele-",
+    "ſtes, pierres, ou herbes: pour laquelle apprendre, Pi-",
+    "thagore, Empedocle, & Democrite ſe bannirent vo-",
+    "lontairement de leur patrie, errerent vagabons par",
+    "diuerſes prouinces, & voyagorent en pays loingtains",
+    "& eſtranges: & telle Magie fut iadis en ces genereux",
+    "& renommez ſages, qui vindrent d'Orient, pour adorer",
+    "le petit enfant Ieſus Chriſt {e}: en Architas Tarentin auſſi",
+    "qui auoit faict vne colombe de bois, & balancee auec",
+    "contrepois, par telle ſtructure & ſi ingenieux artifice",
+    "qu'elle voloit en l'air de ſoy-meſmes. D'auantage en",
+    "Boëce, qui faiſoit chanter les oyſeaux, & bugler les va",
+    "ches & taureaux, compoſez de metal. {f} & en Albert le",
+    "Grãd. qui faiſoit parler vne teſte d'airain, & autres ſem-",
+    "blables. Magie Ceremoniale eſt ainſi appellee, par ce",
+    "qu'elle conſiſte tout en ſuperſtitions & ceremonies de",
+    "paroles. noms, images, caracteres, conſecrations, ſa",
+    "crifices, & autres pareilles vanitez {g}, par leſquelles les"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Pierre Cri-",
+    "nit au liure",
+    "ix. de honeſta",
+    "diſciplina. c. v"
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Deutero. c.",
+    "xviij. Leui. c.",
+    "xx. l. j. & tout",
+    "le titre. C. de",
+    "malef. & ma-",
+    "themat. c. fin.",
+    "xxxvj. q. v."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Tertuliã en.",
+    "ſon Apologe-",
+    "tique. Pierre",
+    "Crinit au liu",
+    "vij. c. j."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Pline au li-",
+    "ure xxx. c. j."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "S. Matthieu",
+    "c. ij."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Caſiodore",
+    "aux liures va",
+    "riarum Pier",
+    "re Crinit au",
+    "liure xvij.",
+    "c. xiij."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "c fin. P ad",
+    "hæc omnia.",
+    "xxvj. q. v."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "running head set in spaced capitals"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "commãdé qu'elle fuſt comme vne choſe abominable,",
+   "note": "first word blotted: read 'commãdé' (tilde over a); could be 'cõmãdé'"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "ſtatüe auec telle inſcription, SIMONI, DEO SAN-",
+   "note": "SIMONI, DEO SANCTO set in spaced capitals (small caps for DEO SAN/CTO); line-end sign is a small raised dot/short stroke, read as hyphen"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "uit cent mille vers {d}) eſt appellée Magie, combien que",
+   "note": "accent on 'appellée' faint; could be 'appellèe' or unaccented"
+  },
+  {
+   "where": "blocks[0].lines[20]",
+   "text": "l'autre ceremoniale & reprouuee. Magie naturelle",
+   "note": "mark after 'reprouuee' small, could be comma or period"
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "thagore, Empedocle, & Democrite ſe bannirent vo-",
+   "note": "initial of 'Empedocle' looks like 'F' (damaged E or wrong sort 'Fmpedocle'); check print"
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "diuerſes prouinces, & voyagorent en pays loingtains",
+   "note": "sic: 'voyagorent' as printed (expected 'voyagerent')"
+  },
+  {
+   "where": "blocks[0].lines[29]",
+   "text": "le petit enfant Ieſus Chriſt {e}: en Architas Tarentin auſſi",
+   "note": "marker e blotted, followed by a colon-like mark; 'Architas' set with small-capital RCHITAS"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "Grãd. qui faiſoit parler vne teſte d'airain, & autres ſem-",
+   "note": "period after 'Grãd' is a faint low dot"
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "text": "paroles. noms, images, caracteres, conſecrations, ſa",
+   "note": "mark after 'paroles' is a low dot (period?), could be a comma with worn tail"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Pierre Cri-",
+   "note": "line-end sign is a raised dot; read as hyphen"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "Tertuliã en.",
+   "note": "mark after 'en' looks like a period, as printed"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "Caſiodore",
+   "note": "could be 'Caſsiodore' (ſs) or 'Caſſiodore'; read single ſ + i"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "hæc omnia.",
+   "note": "ligature æ assumed; glyph looks like 'hac'/'bac'"
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "running head in spaced capitals; spaced_caps also set on the paragraph for SIMONI, DEO SANCTO"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "commãdé qu'elle fuſt comme vne choſe abominable,",
+   "note": "faint mark between 'comme' and 'vne' looks like a stray/comma; read as no punctuation"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "ſtatüe auec telle inſcription, SIMONI, DEO SAN-",
+   "note": "line-end break printed as a small raised dot after SAN, transcribed as hyphen; SIMONI DEO SANCTO in spaced small capitals"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "CTO. qui vaut autant à dire comme, à Simon Dieu",
+   "note": "CTO in spaced capitals, closed up"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "uit cent mille vers {d}) eſt appellée Magie, combien que",
+   "note": "accent on 'appellée' could be grave ('appellèe'); marker d sits inside the parenthesis before ')'"
+  },
+  {
+   "where": "blocks[0].lines[26]",
+   "text": "diuerſes prouinces, & voyagorent en pays loingtains",
+   "note": "sic: 'voyagorent' appears printed with o for e; could be 'voyagerent' with a damaged e"
+  },
+  {
+   "where": "blocks[0].lines[29]",
+   "text": "le petit enfant Ieſus Chriſt {e}: en Architas Tarentin auſſi",
+   "note": "marker e is small and blotted, followed by a colon-like mark; 'Architas' set with small-capital A, transcribed as ordinary letters"
+  },
+  {
+   "where": "blocks[0].lines[34]",
+   "text": "ches & taureaux, compoſez de metal. {f} & en Albert le",
+   "note": "marker f printed after the period"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "Grãd. qui faiſoit parler vne teſte d'airain, & autres ſem-",
+   "note": "low dot after 'Grãd' read as period; could be a speck"
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "text": "paroles. noms, images, caracteres, conſecrations, ſa",
+   "note": "mark after 'paroles' looks like a period, could be a comma with a worn tail"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "themat. c. fin.",
+   "note": "mark after 'fin' could be a hyphen-like dash rather than a period"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "Tertuliã en.",
+   "note": "dot after 'en' faint; possibly a speck"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "c fin. P ad",
+   "note": "swash italic P as paragraph sign per house ruling"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[17]",
+   "target": "blocks[0].lines[17]",
+   "spans": [
+    [
+     21,
+     34
+    ]
+   ],
+   "aligned": true,
+   "a": "ſapience, ſageſſe, & congnoiſſance des choſes vni-",
+   "b": "ſapience, ſageſſe, & cognoiſſance des choſes vni-",
+   "text": "ſapience, ſageſſe, & congnoiſſance des choſes vni-",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "target": "blocks[0].lines[21]",
+   "spans": [
+    [
+     38,
+     51
+    ]
+   ],
+   "aligned": true,
+   "a": "eſt vn excellent ſçauoir, & parfaicte congnoiſſance des",
+   "b": "eſt vn excellent ſçauoir, & parfaicte cognoiſſance des",
+   "text": "eſt vn excellent ſçauoir, & parfaicte congnoiſſance des",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "target": "blocks[0].lines[24]",
+   "spans": [
+    [
+     9,
+     19
+    ]
+   ],
+   "aligned": true,
+   "a": "thagore, Empedocle, & Democrite ſe bannirent vo-",
+   "b": "thagore, Fmpedocle, & Democrite ſe bannirent vo-",
+   "text": "thagore, Empedocle, & Democrite ſe bannirent vo-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Empedocle is Empedocles, named with Pythagoras and Democritus; F for E is a wrong sort."
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "target": "margin_notes[5].lines[0]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "Caſiodore",
+   "b": "Caſſiodore",
+   "text": "Caſiodore",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

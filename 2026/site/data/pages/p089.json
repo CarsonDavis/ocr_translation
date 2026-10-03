@@ -9,11 +9,140 @@
   "image_no": 109,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/109"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p088",
  "next": "p090",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "that had been put to the said prisoner — not, however, so certain, so proper, in so great a number, nor of such multitude as the said accused had given. Afterwards he is confronted with the said du Tilh, prisoner, who shows himself more obstinate than ever, calling the said Martin, the newcomer, a cheat, a wicked man, a beggarly knave; submitting himself moreover, under penalty of being hanged, to make good that this newcomer had been bought for ready money and instructed by Pierre Guerre — not, however, so well that he would not confound him and clearly demonstrate the substitution. And upon this he begins to discourse, and to interrogate him about several things that had passed in the house of the said Martin Guerre; whereupon, in truth, the newcomer did not satisfy so well as the prisoner had done, and was still doing.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXX"
+  },
+  {
+   "type": "paragraph",
+   "html": "Here is a case most strange and very marvellous: that a wicked man, a cheat and an abominable impostor, having assumed by substitution the name and person of another, should be firmer, more constant and more truthful in rendering a reason for things than that very man with whose name and person he had clothed himself.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Seeing which, the commissioners think fit to ask, apart and in secret, of the",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "qu'on auoit faits audit priſonnier: non",
+    "pas toutesfois ſi certaines, ſi propres, en",
+    "ſi grand nombre, ni de telle numeroſité",
+    "qu'auoit fait ledit preuenu. Apres eſt",
+    "confronté audit du Tilh priſonnier, qui",
+    "ſe monſtre plus obſtiné que iamais, ap-",
+    "pelant ledit Martin nouueau venu, af-",
+    "fronteur, meſchant, beliſtre, ſe ſubmet-",
+    "tant en outre à peine deſtre pendu, qu'il",
+    "iuſtifieroit qu'iceluy nouueau venu",
+    "auoit eſté acheté à deniers contans,",
+    "& inſtruit par Pierre Guerre: non pas",
+    "toutesfois ſi bien, qu'il ne le confondiſt",
+    "& demonſtraſt clairement la ſuppo-",
+    "ſition. Et ſur cela commence diſcourir,",
+    "& l'interroguer de pluſieurs choſes paſ-",
+    "ſées à la maiſon dudit Martin guerre: ſur",
+    "quoy à la verité, le nouueau venu ne ſa-",
+    "tisfaiſoit pas ſi bien que le priſonnier a-",
+    "uoit fait, & faiſoit encores."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Voici vn cas bien eſtrange & fort eſmerueillable,",
+    "qu'vn meſchant, affronteur, & impoſteur abominable,",
+    "ayant ſuppoſé le nom & la perſonne d'vn autre, ſoit",
+    "plus ferme, conſtant, & veritable à rendre raiſon des",
+    "choſes, que celuy-la meſmes, du nom, & de la perſonne",
+    "duquel il ſ'eſtoit reueſtu."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Quoy voyant les commiſſaires, ſ'adui-",
+    "ſent de demander à part & en ſecret au"
+   ]
+  }
+ ],
+ "french_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "ſées à la maiſon dudit Martin guerre: ſur",
+   "note": "lowercase g in 'guerre' as printed (sic); colon set tight between 'guerre' and 'ſur'"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "ſition. Et ſur cela commence diſcourir,",
+   "note": "no 'à' printed between 'commence' and 'diſcourir' as far as visible"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Voici vn cas bien eſtrange & fort eſmerueillable,",
+   "note": "a mark like an accent above the e of 'eſtrange'; taken as a blot, not an accent"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "choſes, que celuy-la meſmes, du nom, & de la perſonne",
+   "note": "punctuation after 'choſes' small and low; read as comma, could be a period"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "ſées à la maiſon dudit Martin guerre: ſur",
+   "note": "'guerre' printed with lowercase g (sic); colon set tight against 'ſur' in print"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "choſes, que celuy-la meſmes, du nom, & de la perſonne",
+   "note": "punctuation after 'choſes' is small and low; read as comma, could be a period"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "iuſtifieroit qu'iceluy nouueau venu",
+   "note": "apostrophe in qu'iceluy faint; line widely letterspaced (justified), no text missing"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "ſition. Et ſur cela commence diſcourir,",
+   "note": "'commence diſcourir' as printed (no 'à'); not a misreading"
+  }
+ ],
+ "readings": []
 }

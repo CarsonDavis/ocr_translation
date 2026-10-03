@@ -212,5 +212,78 @@
    "text": "liure ij. des ele",
    "note": "'des ele' as printed (round s, then a word space); B wondered about 'de ſes ele' as on p006 note h; checked at 2.2x"
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[5]",
+   "target": "blocks[4].lines[5]",
+   "spans": [
+    [
+     0,
+     5
+    ],
+    [
+     18,
+     26
+    ]
+   ],
+   "aligned": true,
+   "a": "nemẽt ſçauoir, ou entẽdre: Iuſques à luy",
+   "b": "nemét ſçauoir, ou entédre: Iuſques à luy",
+   "text": "nemẽt ſçauoir, ou entẽdre: Iuſques à luy",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x (full page y≈1845-1945, TEXTE line 6) both marks are near-horizontal bars with a thickened end, the nasal tilde; the acute of 'né' and 'priuées' in the same large fount (TEXTE line 2) is a thin stroke sloped about 60°"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "target": "margin_notes[0].lines[0]",
+   "spans": [
+    [
+     9,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "Properce an",
+   "b": "Properce au",
+   "text": "Properce an",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 2.2x (full page x≈2093-2677, y≈250-950) the two stems of the sort after 'a' are joined at the top by an arch and open at the foot, unlike the u of 'liure' on the next line (joined at the foot). Printed 'an', a turned u for 'au'; transcribed as printed, sic"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "target": "margin_notes[1].lines[0]",
+   "spans": [
+    [
+     8,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "Martial an",
+   "b": "Martial au",
+   "text": "Martial an",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 3x (full page y≈950-1250) the sort is heavily inked; the top join is the likelier reading, the same form as in note b. Transcribed 'an', sic for 'au'; recorded as uncertain"
+  },
+  {
+   "where": "blocks[0].continues_prev",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "true",
+   "b": "true",
+   "text": "false",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "both reads assumed the couplet's hexameter ended p020; p020 (now final) ends with prose and the marker {b}, so the verse line starts a new quotation block"
+  }
  ]
 }

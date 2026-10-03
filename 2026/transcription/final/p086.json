@@ -1,0 +1,268 @@
+{
+ "id": "p086",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "ARREST DV.",
+ "folio": "86",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "le contraire, qu'iceluy du Tilh eſtoit",
+    "Martin Guerre ſon mari voire luy eſtant",
+    "en preuention de meſme faict deuant le",
+    "Seneſchal de Toloſe, l'alloit voir ſou-",
+    "uent, luy donnant ſecours d'argent, &",
+    "d'autres choſes neceſſaires, demeurant,",
+    "comme eſt à preſumer, touſiours en ceſt",
+    "erreur."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "On ne preſume point volontiers, & ſans cauſe vne",
+    "erreur en perſonne quelconque {a}. toutesfois depuis",
+    "qu'vn homme eſt en quelque erreur, il eſt à preſumer",
+    "qu'il perſuere en iceluy ſ'il n'appert du contraire {b}.",
+    "car le changement de volõté, n'eſt à preſumer, & moins",
+    "auſſi qu'aucuns nouueaux accidens ſuruiennent, qui le",
+    "puiſſent cauſer. Ains pluſtoſt au contraire, on preſume",
+    "du paſſé au temps preſent {d}. comme qu'vn ennemi, vn",
+    "pariure, vn riche, vn pauure, vn ſuiet, vn excõmunié, le",
+    "ſoit encore pour ce iourd'huy {e}. Dont lad. de Rols cir-",
+    "conuenue de ſes belles ſeurs & oncle, qui luy auoient ſi",
+    "bien obmurmuré, & ſi ſouuẽt aſſeuré que le priſonnier",
+    "eſtoit veritablement Martin Guerre: ayant priſe telle",
+    "perſuaſion, elle iuſtement eſtoit occaſionnée de l'aimer",
+    "receuoir & defendre comme ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Au conflict de tant & diuerſes raiſons,",
+    "& repugnance de coniectures & preu-",
+    "ues, chacun peut apperceuoir que la",
+    "cour eſtoit en perplexité grande: mais",
+    "le bon & tout-puiſſant Dieu, monſtrant",
+    "qu'il veut touſiours aſsiſter à la iuſtice,",
+    "& qu'vn ſi prodigieux faict ne demeu-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "On ne preſume point volontiers, & ſans cauſe vne",
+   "lines": [
+    "l. ſi poſt di-",
+    "uiſionẽ. C. de",
+    "iur. et fact. ig."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "qu'vn homme eſt en quelque erreur, il eſt à preſumer",
+   "lines": [
+    "c. fi. de ſuc-",
+    "ceſ. ab inteſt."
+   ]
+  },
+  {
+   "key": "c",
+   "beside_line": "car le changement de volõté, n'eſt à preſumer, & moins",
+   "lines": [
+    "l. eum qui.",
+    "D. de probat.",
+    "Accurſe, en la",
+    "l. ſi vero. P.",
+    "qui pro rei. D",
+    "qui ſatiſ. cog."
+   ]
+  },
+  {
+   "key": "d",
+   "beside_line": "ſoit encore pour ce iourd'huy {e}. Dont lad. de Rols cir-",
+   "lines": [
+    "l. ſiue poſsi",
+    "detis. C. de pro",
+    "ba."
+   ]
+  },
+  {
+   "key": "e",
+   "beside_line": "bien obmurmuré, & ſi ſouuẽt aſſeuré que le priſonnier",
+   "lines": [
+    "c. literis. de",
+    "præſumpti. c.",
+    "paruuli. xxij.",
+    "q. v. c. præter-",
+    "ea l. ij. de teſt.",
+    "l. in ipſius &",
+    "illec Balde C.",
+    "famil. erciſ c.",
+    "ſicut nobis.",
+    "de ſent. ex con.",
+    "Les maiſtres",
+    "en la l. ij. D.",
+    "de excep."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "letterspaced; final point after DV printed"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "car le changement de volõté, n'eſt à preſumer, & moins",
+   "note": "marker c missing in body: margin note c (l eum qui. ... qui ſatiſ. cog.) stands beside this line but no c marker is visible in the text; final t of 'changement' broken"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "du paſſé au temps preſent {d}. comme qu'vn ennemi, vn",
+   "note": "period after marker d set tight against 'comme'"
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "perſuaſion, elle iuſtement eſtoit occaſionnée de l'aimer",
+   "note": "a mark over the a of 'perſuaſion' (possibly acute, á, or ink); transcribed without accent"
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "receuoir & defendre comme ſon mari.",
+   "note": "'l'aimer' at end of previous line followed by no comma before 'receuoir'"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "q. v. c. præter-",
+   "note": "æ in 'præter-' blotted, could be 'prater-'; note printed 'q.v.c' tight"
+  },
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "set in spaced capitals and closed up; ends with a point as printed"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "l. eum qui.",
+   "note": "note c is printed in the margin, but no marker c is visible in the body; by position it belongs near 'car le changement de volõté, n'eſt à preſumer' or 'cauſer.' (between markers b and d); marker not transcribed"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "car le changement de volõté, n'eſt à preſumer, & moins",
+   "note": "'changement': final t broken/damaged, looks like 'changemenı'; also expected site of the missing marker c"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "ſoit encore pour ce iourd'huy {e}. Dont lad. de Rols cir-",
+   "note": "initial ſ of 'ſoit' damaged, looks like 'loit'; marker e raised, no space before it in print"
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "perſuaſion, elle iuſtement eſtoit occaſionnée de l'aimer",
+   "note": "a mark like an acute over the a of 'perſuaſion' ('perſuáſion'); probably ink/damage, not transcribed"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "bien obmurmuré, & ſi ſouuẽt aſſeuré que le priſonnier",
+   "note": "'obmurmuré' letters partly broken; 'ſouuẽt' tilde over e fairly clear"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "qu'il veut touſiours aſsiſter à la iuſtice,",
+   "note": "'aſsiſter' read as long s + round s; could be ſſ"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "iur. et fact. ig.",
+   "note": "'et' as printed (not &); 'fact' with ct ligature"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "c. literis. de",
+   "note": "'literis' ending is blotted (looks 'liter.ıs'); spacing/point uncertain"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "q. v. c. præter-",
+   "note": "'præter' could be printed 'prater' (æ vs a unclear); likewise 'præſumpti' in line 1"
+  },
+  {
+   "where": "margin_notes[4].lines[6]",
+   "text": "illec Balde C.",
+   "note": "looks like 'Balae' in print; 'd' vs 'a' uncertain, possible wrong sort"
+  },
+  {
+   "where": "margin_notes[4].lines[7]",
+   "text": "famil. erciſ c.",
+   "note": "no point visible after 'erciſ'"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l. ſiue poſsi",
+   "note": "'poſsi' read as long s + round s"
+  }
+ ],
+ "decisions": [
+  {
+   "where": "blocks[0].lines[0]",
+   "A": "le contraire, qu'icceluy du Tilh eſtoit",
+   "B": "le contraire, qu'iceluy du Tilh eſtoit",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "le contraire, qu'iceluy du Tilh eſtoit",
+   "reason": "arbitration: B (translator: qu'iceluy is the word Coras uses throughout ('that this same'); icceluy is a doubled sort.)"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "A": "l eum qui.",
+   "B": "l. eum qui.",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "l. eum qui.",
+   "reason": "arbitration: B (translator: l. with its point is the abbreviation of lex that opens every law citation in the margin.)"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "A": "c literis. de",
+   "B": "c. literis. de",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "c. literis. de",
+   "reason": "arbitration: B (translator: c. with its point is the abbreviation of capitulum that opens the canon-law citation.)"
+  },
+  {
+   "where": "margin_notes[4].lines[6]",
+   "A": "illec Balae C.",
+   "B": "illec Balde C.",
+   "chose": "carson-session",
+   "by": "translator",
+   "text": "illec Balde C.",
+   "reason": "arbitration: B (translator: Balde is Baldus, cited with the law he glosses ('& illec Balde'); Balae is no jurist's name.)"
+  }
+ ]
+}

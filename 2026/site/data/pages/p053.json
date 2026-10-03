@@ -9,11 +9,380 @@
   "image_no": 73,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/73"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p052",
  "next": "p054",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "rs and marks imprinted on the face, or other parts of the body <sup class=\"mk\" data-key=\"b\">b</sup>: as of old, when, in order to recognise the men bound to the service of some public work, it was the custom to imprint signs and marks upon their arms, or to engrave them upon their hands <sup class=\"mk\" data-key=\"c\">c</sup>. For as to the face, so far was it from being the case that anyone dared touch it, that to make ugly and disfigure in any way the face of a man (even were he a slave) by a scar was reputed a thing greatly unworthy, nay cruel and barbarous <sup class=\"mk\" data-key=\"d\">d</sup>, even though it were in punishment of some crime, which the ancients commanded to be [set] upon the face <sup class=\"mk\" data-key=\"e\">e</sup>. For man being, as Lactantius says, the true portrait and image of God <sup class=\"mk\" data-key=\"f\">f</sup>, and his face formed in the image of that divine and celestial beauty <sup class=\"mk\" data-key=\"g\">g</sup>:",
+   "continued": true,
+   "notes": [
+    {
+     "key": "b",
+     "citation": "Code 11.10 (<i>De fabricensibus</i>), l. <i>Stigmata</i>, book 11 (cf. C. 11.10.3: brands, that is a public mark, to be set on the arms of the arms-factory workers as on recruits, so that those who go into hiding can be recognised; number unverified)",
+     "original": "l. ſtigmata-C. de fabricẽ. ſib lib. xj.",
+     "gloss": "The transcription notes a dash after <i>ſtigmata</i> and a point after <i>fabricẽ</i> though the word runs on."
+    },
+    {
+     "key": "c",
+     "citation": "Code 11.43 (<i>De aquaeductu</i>), the penultimate law (number unverified; the men assigned to the aqueducts to be marked on the hands); and the said l. <i>Stigmata</i> (note <i>b</i>)",
+     "original": "l pen. C. de aquæ duct. l. ſtimata. alle.",
+     "gloss": "<i>Alle.</i> = <i>alleguee</i>, \"cited above\"."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 7.1 (<i>De usufructu</i>), l. <i>Locum</i>, § <i>Ex eo</i> — the fragment and paragraph have not been identified (the <i>P.</i> is the print's sort for §)",
+     "original": "l locum. P. ex eo. D. de vſufruct.",
+     "gloss": "Evidently on the usufructuary's duty not to abuse or disfigure the slave."
+    },
+    {
+     "key": "e",
+     "citation": "Code 9.47 (<i>De poenis</i>), l. <i>Si quis in metallum</i> (cf. C. 9.47.17, Constantine: a man condemned to the games or the mines is not to be branded on the face, since the penalty can be written on his hands or calves, \"that the face, which is formed in the likeness of celestial beauty, be not defiled\"; number unverified)",
+     "original": "l. ſi quis in metallnm. C. de pœn.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Lactantius, book 6 as cited — the note is cut off in the print after \"de\" (presumably <i>de[s Institutions divines]</i>, the <i>Divine Institutes</i>); the passage on man as the image and likeness of God is not located in book 6 (cf. <i>Div. Inst.</i> 2.10 and <i>De opificio Dei</i>), number unverified",
+     "original": "Lactance au liu vj. de",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "citation": "Genesis 1 (1:26–27, man made in the image of God)",
+     "original": "Geneſee. j.",
+     "gloss": "The print's <i>Geneſee</i> is a wrong sort."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "And each man is a pattern of God, in a small image <sup class=\"mk\" data-key=\"h\">h</sup>",
+   "continued": false,
+   "notes": [
+    {
+     "key": "h",
+     "citation": "Manilius, <i>Astronomica</i>, book 3 as cited; the line <i>exemplumque dei quisque est in imagine parva</i> is 4.895 in modern editions, number as printed unverified",
+     "original": "Manile au iij. de l'Aſtio. nomie.",
+     "gloss": "<i>Exẽplúmq; Dei quiſque eſt, in imagine parua</i> — \"and each man is a pattern of God in a small image\"; the print's <i>Aſtio nomie</i> is a wrong sort for <i>Aſtronomie</i>."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "it would be a kind of sacrilege, and of lese-majesty, to soil, profane and contaminate it by the impression and burning-in of scars. <sup class=\"mk\" data-key=\"i\">i</sup> Even were, according to our Canonists, the crime as great and execrable as having, they say, counterfeited the seal of the prince <sup class=\"mk\" data-key=\"k\">k</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "i",
+     "citation": "The said l. <i>Si quis in metallum</i>, Code 9.47 (note <i>e</i>)",
+     "original": "l. ſi quis in metallum. alle gue.",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "citation": "Decretals, X 5.20 (<i>De crimine falsi</i>), c. <i>Ad audientiam</i> (chapter number unverified)",
+     "original": "c. ad audien tiam. de crim. falſ.",
+     "gloss": "On the forging of the pope's or prince's letters and seal, treated by the canonists as the gravest of forgeries."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Fourthly, the shoemaker who shod Martin Guerre deposes that this Martin was shod at twelve points, whereas nevertheless the prisoner is shod only at nine. And another, that the said Martin played well at fencing and at <i>palestrine</i> [wrestling], at which game the prisoner neither does nor understands anything. For the fifth, there are three witnesses, to one of whom, called Jean Espagnol, innkeeper of Touges, the said du Tilh disclosed himself on his return, begging him to say nothing of it: for Martin Guerre was dead, who had given him his property. To the o",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "ces & marques amprainctes au viſage, ou autre parties",
+    "du corps {b}: comme iadis, quand pour recongnoiſtre les",
+    "hommes, attachez au ſeruice de quelque œuure public",
+    "on ſouloit imprimer des ſignes, & marques en leurs",
+    "bras: ou grauer en leurs mains {c}. car au viſage, tant ſ'en",
+    "faut qu'on y oſaſt toucher, que d'enlaidir & deffigurer",
+    "aucunement la face de l'homme (& fuſt-il d'vn ſerf)",
+    "par cicatrice, eſtoit reputé choſe gtandement indigne,",
+    "voire cruelle & barbare {d}. Encor que ce fuſt en peine",
+    "de quelque crime, que les anciẽs cõmandoyent eſtre",
+    "au viſage {e}. car eſtant l'homme cõme dit Lictance, le",
+    "vray pourtraict & , ſimulachre de Dieu {f}: & ſa face for-",
+    "mee à l'image de celle diuine & celeſte beauté {g}:"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Exẽplúmq; Dei quiſque eſt, in imagine parua {h}"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Ce ſeroit vn eſpece de ſacrilege, & de leſe maieſté, de",
+    "la ſouiller, profaner, & contaminer par impreſſion, &",
+    "inuſtion de cicatrices. {i} Où fuſt ſelõ nos Canoniſtes, le",
+    "crime ſi grand & execrable, comme d'auoir, diſent-ils,",
+    "falſifié le ſeau du prince {k}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Quatriemement, le cordonnier qui",
+    "chauſſoit Martin Guerre, depoſe qu'ice-",
+    "luy Martin ſe chauſſoit à douze poincts,",
+    "où toutesfois le priſonnier ne ſe chauſſe",
+    "qu'à neuf. Et vn autre, que ledit Martin",
+    "ioüoit bien de l'eſcrime, & paleſtrine: au-",
+    "quel ieu le priſonnier ne fait, ni entend",
+    "rien. Pour le cinquieme, y a trois teſ-",
+    "moins, à l'vn deſquels, appelé Iean Eſpa-",
+    "gnol, hoſte de Touges, led. du Tilh, ſe",
+    "deſcouurit à ſon retour, le priant n'en di-",
+    "re rien: car Martin Guerre eſtoit mort,",
+    "qui luy auoit donné ſon bien. A l'au-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. ſtigmata-",
+    "C. de fabricẽ.",
+    "ſib lib. xj."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l pen. C. de",
+    "aquæ duct. l.",
+    "ſtimata. alle."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l locum. P.",
+    "ex eo. D. de v-",
+    "ſufruct."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. ſi quis in",
+    "metallnm. C.",
+    "de pœn."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Lactance au",
+    "liu vj. de"
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Geneſee. j."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "Manile au",
+    "iij. de l'Aſtio.",
+    "nomie."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. ſi quis in",
+    "metallum. alle",
+    "gue."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "c. ad audien",
+    "tiam. de crim.",
+    "falſ."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "par cicatrice, eſtoit reputé choſe gtandement indigne,",
+   "note": "sic: 'gtandement' for 'grandement'; wrong sort (t for r), checked at 3x — the glyph is unambiguously a t"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "au viſage {e}. car eſtant l'homme cõme dit Lictance, le",
+   "note": "sic: 'Lictance' for 'Lactance' (the margin note f spells it 'Lactance'); the body letter is a dotted i, wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "vray pourtraict & , ſimulachre de Dieu {f}: & ſa face for-",
+   "note": "the print sets a comma immediately after '&' ('&,ſimulachre'); kept as printed, spaced per §1 normalization"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "la ſouiller, profaner, & contaminer par impreſſion, &",
+   "note": "'impreſſion' is badly under-inked: only one ſ stem, the i and a partial o are visible. Best reading 'impreſſion'; 'impreſsion' or 'impreſion' cannot be ruled out"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "l. ſtigmata-",
+   "note": "the mark after 'ſtigmata' is a horizontal dash at mid-height (hyphen shape) though no word continues; could be a period set high"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "C. de fabricẽ.",
+   "note": "the mark after 'fabricẽ' is a round dot on the baseline (period) although the word continues 'ſib' on the next line; kept as printed"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "ex eo. D. de v-",
+   "note": "'eo' is faint; the first letter could be 'c' ('ex co.'). Read as 'eo' on sense and on a trace of the e-bar"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l locum. P.",
+   "note": "the capital before the period is read as 'P'; it could be the abbreviation ꝑ, but no stroke crosses the descender"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "Geneſee. j.",
+   "note": "sic: the last two letters both show the italic e-eye, so 'Geneſee' not 'Geneſes'/'Geneſe'; possible wrong sort"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "metallnm",
+   "note": "sic: n sort where u (metallum) is meant; wrong sort transcribed as printed"
+  }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "reads agree on every body line; four margin-note disputes checked by the coordinator on 3x crops (see decisions)"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "Cl. de fabricẽ.",
+   "b": "C. de fabricẽ.",
+   "text": "C. de fabricẽ.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the raised italic l between lines 0 and 1 is the single l. sort of line 0 (l. ſtigmata) dropped low; A counted it twice"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "target": "margin_notes[1].lines[1]",
+   "spans": [
+    [
+     0,
+     4
+    ]
+   ],
+   "aligned": true,
+   "a": "aquæ duct. l.",
+   "b": "aqua duct. l.",
+   "text": "aquæ duct. l.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "æ ligature clear at 1.5x"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "target": "margin_notes[3].lines[1]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "metallnm. C.",
+   "b": "metallum. C.",
+   "text": "metallnm. C.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 3x the letter before the final m has a top arch: n sort for u, transcribed as printed"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "target": "margin_notes[7].lines[1]",
+   "spans": [
+    [
+     0,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "metallum alle",
+   "b": "metallum. alle",
+   "text": "metallum. alle",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "round baseline point after metallum at 3x"
+  }
+ ]
 }

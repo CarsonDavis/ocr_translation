@@ -1,0 +1,47 @@
+{
+ "page": "p119",
+ "decisions": {
+  "b-000": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "at|taint = attaint, the set phrase 'attaint & convaincu' (annot-019); 'at saint' is nothing"
+  },
+  "b-004": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "b-023": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "b-038": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-c-0": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "n-c-3": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "'D. de iis quib. vt indig.' is the Digest title De his quibus ut indignis (D. 34.9), where l. Claudius stands; iuſquin is nothing"
+  },
+  "n-l-3": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  }
+ }
+}

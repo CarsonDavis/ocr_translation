@@ -9,11 +9,293 @@
   "image_no": 150,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/150"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p127",
  "next": "p129",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "of which this du Tilh stood convicted, besides the ordinary blasphemies which this rogue habitually used, as we have made amply to appear above, where also the penalty of blasphemers has been spoken of <sup class=\"mk\" data-key=\"a\">a</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Coras's own Annotation XXXVI (annot-036), on blasphemy and its penalty",
+     "original": "En l'annotation xxxvj.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Before the Church.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXXXIX"
+  },
+  {
+   "type": "paragraph",
+   "html": "For the offence done principally to God, in violating the holy estate of marriage, which God has above all honoured and sanctified by the presence of his son Jesus Christ, performing the first miracle, saying to his Apostles <sup class=\"mk\" data-key=\"a2\">a2</sup> [unclear: the clause breaks off here in the print; no words of Christ follow]: it was also fitting that the reparation of this prodigious crime should begin with public penance (<i>amende honorable</i>) before the temple and the house of God <sup class=\"mk\" data-key=\"b\">b</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a2",
+     "citation": "John 2 (2:1–11, the marriage at Cana, Christ's first miracle)",
+     "original": "S. Iean. c. ij.",
+     "gloss": null
+    },
+    {
+     "key": "b",
+     "citation": "Isaiah 56 (56:7, \"my house shall be called a house of prayer\"); Matthew 21 (21:13, the same words in the cleansing of the temple)",
+     "original": "Eſaye c. lvj. S. Math. xxi.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Of the place of Artigat.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XC"
+  },
+  {
+   "type": "paragraph",
+   "html": "The Court had at one time resolved that the public penance (<i>amende honorable</i>) should also be made at the bar of the audience chamber (<i>parquet de l'audience</i>), on the day of the pronouncing of the decision. But afterwards it was considered that this rash fellow was of a shameless impudence and an immeasurable overweening, presumptuous, virulent, and more abounding in petulance of language than a Theon or an Archilochus, and that he would at every word have disturbed Monsieur the president who was pronouncing, and the assembly: wherefore it was on the contrary resolved, for this sole reason, that they would content themselves with the penance which should be made at the place of Artigat, where he had offended.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Executor of high justice,",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XCI"
+  },
+  {
+   "type": "paragraph",
+   "html": "High justice is what the Jurisconsults call MERE IMPERE [<i>merum imperium</i>, pure power], that is to say a sovereign power of the sword, and of punishing anyone corporally by whipping of the body, cutting off of limbs, or, if",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "deſquels iceluy du Tilh demeuroit conuaincu outre",
+    "les blaſphemes ordinaires, deſquels ce paillard couſtu-",
+    "mierement vſoit, ainſi que deſſus auons fait amplemẽt",
+    "apparoir, où auſſi a eſté parlé de la peine des blaſphe-",
+    "mateurs {a}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Deuant l'Egliſe."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXXIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Pour l'offence faite principalement à Dieu, en violãt",
+    "le ſainct eſtat de mariage, que Dieu a ſur tous honoré",
+    "& ſanctifié par, la preſence de ſon fils Ieſus Chriſt, fai-",
+    "ſant le premier miracle, diſant à ſes Apoſtres. {a2} Il eſtoit",
+    "auſſi conuenable, que la reparation de ce prodigieux",
+    "forfaict, commençaſt par amende honorable deuant",
+    "le temple, & la maiſon de Dieu {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Du lieu d'Artigat."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XC.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "La cour auoit vne fois arreſté, que l'amende honora-",
+    "ble ſe feroit auſſi au parquet de l'audience, le iour de la",
+    "prononciation de l'arreſt. mais apres on aduiſa, que ce",
+    "temeraire eſtoit d'vne impudence effrontée, & deſme-",
+    "ſurée outrecuidance, preſomptueux, virulent, & plus a-",
+    "bondant en petulence de langage, qu'vn Theon, ou Ar-",
+    "chilochus: & eut à chaſque mot troublé monſieur le",
+    "preſident, qui prononçoit, & l'aſſiſtance: dont fut au cõ-",
+    "traire deliberé, pour ceſte ſeule raiſon, qu'on ſe conten",
+    "teroit de l'amende qui ſe feroit au lieu d'Artigat, où il",
+    "auoit delinqué."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Executeur de la haute iuſtice,"
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XCI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "La haute iuſtice, eſt ce que les Iuriſconſultes appel",
+    "lent MERE IMPERE, c'eſt à dire vne ſouueraine",
+    "puiſſance du glaiue, & de punir aucun corporellement",
+    "par fuſtigation de corps, diſſection de membres, ou ſi"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "En l'anno-",
+    "tation xxxvj."
+   ]
+  },
+  {
+   "key": "a2",
+   "kind": "margin",
+   "lines": [
+    "S. Iean. c. ij."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Eſaye c. lvj.",
+    "S. Math. xxi."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "ſant le premier miracle, diſant à ſes Apoſtres. {a2} Il eſtoit",
+   "note": "marker alphabet restarts on this page: second 'a' (after 'Apoſtres.') keyed a2; 'premier' printed with a damaged/dotless i"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "& ſanctifié par, la preſence de ſon fils Ieſus Chriſt, fai-",
+   "note": "a small mark after 'par' looks like a comma (sic, no sense-punctuation expected); could be a stray blot"
+  },
+  {
+   "where": "blocks[8].lines[2]",
+   "text": "prononciation de l'arreſt. mais apres on aduiſa, que ce",
+   "note": "punctuation after 'arreſt' is a small low mark, read as period; could be a comma"
+  },
+  {
+   "where": "blocks[8].lines[7]",
+   "text": "preſident, qui prononçoit, & l'aſſiſtance: dont fut au cõ-",
+   "note": "'l'aſſiſtance:' read as colon; the two dots are close and could be a semicolon"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "S. Iean. c. ij.",
+   "note": "numeral printed as 'ij' with dots looking like 'ÿ'; read 'c. ij.'"
+  },
+  {
+   "where": "blocks[12].lines[1]",
+   "text": "lent MERE IMPERE, c'eſt à dire vne ſouueraine",
+   "note": "'MERE IMPERE' in spaced capitals and small capitals (initial M full capital); first E of MERE may carry an accent-like mark"
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "& ſanctifié par, la preſence de ſon fils Ieſus Chriſt, fai-",
+   "note": "a small comma-like mark sits after 'par' before 'la'; could be a stray/blot rather than a printed comma"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "ſant le premier miracle, diſant à ſes Apoſtres. {a2} Il eſtoit",
+   "note": "second marker 'a' on the page (alphabet restarts after the first note 'a'), keyed a2; marker sits after the period"
+  },
+  {
+   "where": "blocks[8].lines[2]",
+   "text": "prononciation de l'arreſt. mais apres on aduiſa, que ce",
+   "note": "the mark after 'arreſt' is a small low dot; read as period (lowercase 'mais' follows), could be a weak comma"
+  },
+  {
+   "where": "blocks[8].lines[5]",
+   "text": "bondant en petulence de langage, qu'vn Theon, ou Ar-",
+   "note": "the t of 'bondant' has a tail/curl that could be read as a comma ('bondant, en'); read as no comma"
+  },
+  {
+   "where": "blocks[11].text",
+   "text": "ANNOTAT. XCI.",
+   "note": "final numeral looks like a damaged or wrong sort resembling 'r' ('XCr.'); read as I"
+  },
+  {
+   "where": "blocks[12].lines[1]",
+   "text": "lent MERE IMPERE, c'eſt à dire vne ſouueraine",
+   "note": "'MERE IMPERE' set in spaced small capitals (initial M full capital); 'ſouueraine' first u slightly damaged"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "S. Iean. c. ij.",
+   "note": "'ij' printed as a ligatured form resembling 'ÿ'; read as ij"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "Eſaye c. lvj.",
+   "note": "the mark after 'c' may be a comma rather than a period ('c,lvj.'); both citations under key b (no separate marker for S. Math.)"
+  }
+ ],
+ "readings": []
 }

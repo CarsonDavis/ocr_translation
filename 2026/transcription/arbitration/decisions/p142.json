@@ -1,0 +1,29 @@
+{
+ "page": "p142",
+ "decisions": {
+  "b-003": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "b-021": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "à, the preposition with its grave accent as this print sets it everywhere (appartient grandement à la dignité); â with a circumflex is not a form the print uses. Translation the same."
+  },
+  "n-a-3": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "c. vt debitus. de appel. = the Decretals chapter Ut debitus honor under De appellationibus (X 2.28); c. is the siglum for a chapter, e. is no siglum."
+  },
+  "n-b-1": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "D. deposit. = Digest, Depositi vel contra (D. 16.3), the title abbreviated with its vowel; depost. drops the i and is not a usual abbreviation of the title."
+  }
+ }
+}

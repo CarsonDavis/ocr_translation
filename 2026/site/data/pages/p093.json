@@ -9,11 +9,411 @@
   "image_no": 113,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/113"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p092",
  "next": "p094",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "guidance of His Spirit <sup class=\"mk\" data-key=\"q\">q</sup>. Thus Socrates procured his daemon; and Iamblichus has left particular writings and treatises on it, to teach the means of having such spirits <sup class=\"mk\" data-key=\"r\">r</sup>. Great ravings and dangerous illusions, which Saint Augustine has learnedly and amply recounted <sup class=\"mk\" data-key=\"ſ\">ſ</sup>: for they are nothing but the juggleries, enchantments and trickeries of that great father of lies, Satan, who very often transfigures himself into an Angel of light to deceive men <sup class=\"mk\" data-key=\"t\">t</sup>. Pyromancy is divination by fire, as when one observes what the flames of the fire, the lightnings, thunders or thunderbolts signify <sup class=\"mk\" data-key=\"u\">u</sup>; which Virgil touches on when he says,",
+   "continued": true,
+   "notes": [
+    {
+     "key": "q",
+     "citation": "Raffaele Maffei of Volterra (<i>Raph. Volateran</i>, Raphael Volaterranus), <i>Commentariorum urbanorum libri XXXVIII</i> (1506), the <i>Anthropologia</i> (its second part), book XIII",
+     "original": "Raph. Volateran au xiij liure de ſon Anthropologie.",
+     "gloss": "The <i>Anthropologia</i> is the biographical part of Maffei's encyclopaedia; its notice of Apollonius of Tyana, drawn from Philostratus, is Coras's source for the marvels. Chapter not verified."
+    },
+    {
+     "key": "r",
+     "citation": "Iamblichus (<i>Iãblique</i>), <i>On the Mysteries of the Egyptians, Chaldaeans and Assyrians</i> (<i>De mysteriis Aegyptiorum, Chaldaeorum, Assyriorum</i>, the title of Ficino's Latin version, 1497)",
+     "original": "Iãblique au liure de Myſteriis Aegyptiorũ, Chaldæorũ, &amp; Aſſyriorum.",
+     "gloss": "The theurgic treatise; Coras cites it as a manual for obtaining spirits."
+    },
+    {
+     "key": "ſ",
+     "citation": "Augustine, <i>City of God</i> X.9–10",
+     "original": "S. Auguſtin au x. liure de la cité de Dieu. c. ix. &amp; x.",
+     "gloss": "Augustine's exposure of theurgy as demonic deception, which Coras calls \"great ravings and dangerous illusions\"."
+    },
+    {
+     "key": "t",
+     "citation": "2 Corinthians 11 (11:14)",
+     "original": "la ij. des Corinthiẽs c. xj.",
+     "gloss": "<i>Satanas transfigurat se in angelum lucis</i>; cited at annot-023 {b} as well."
+    },
+    {
+     "key": "u",
+     "citation": "Cicero, <i>On Divination</i> (<i>De divinatione</i>) I and II",
+     "original": "Ciceron au j. &amp; ij. de diuinatione.",
+     "gloss": "On the interpretation of lightning and thunder."
+    },
+    {
+     "key": null,
+     "citation": "Virgil, <i>Eclogues</i> 1.17",
+     "original": "De Cœlo tactas, memini prædicere quercus.",
+     "gloss": "<i>De caelo tactas memini praedicere quercus</i>: \"I remember that oaks struck from heaven foretold it\" (Meliboeus on the omens of his misfortune). No marker in the body; translated in the text with the Latin in parentheses."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "I remember that oaks struck from heaven foretold it (<i>De coelo tactas memini praedicere quercus</i>).",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "The example of it is also at hand in Tanaquil, wife of Tarquinius Priscus, fifth King of the Romans, who, seeing a flame of fire surround the head of a poor child called Servius Tullius, foretold thereby that he would be King of Rome <sup class=\"mk\" data-key=\"x\">x</sup>. Cicero in a certain place shows that, by the discipline of the Etruscans, if from a fire there came a double flame, or the flame at its point divided in two, that presaged quarrels and dissensions <sup class=\"mk\" data-key=\"y\">y</sup>. Under Pyromancy may justly be comprised Capnomancy, which is a kind of divination made by the smoke of the fire: for if it turns in a circle it signifies one thing; if it goes crosswise, or bends, or else stretches straight upward, it presages another <sup class=\"mk\" data-key=\"z\">z</sup>. Aeromancy is divination by the air, as by the flight and song of birds at liberty, by rains, tempests and unaccustomed storms. Thus when it rained stones in the March of Ancona (which the Latins always called Picenum), there was signified the defeat and carnage that Hannibal made of the Romans in Italy <sup class=\"mk\" data-key=\"a\">a</sup>. Hydromancy is made by inspection, and the invocation of spirits, in water <sup class=\"mk\" data-key=\"b\">b</sup>: as when a young child (of whom Marcus Varro speaks) saw in the water Mercury, who recited in a hundred and fifty verses all that came to pass in the war of Mithridates <sup class=\"mk\" data-key=\"c\">c</sup>. From Hydromancy Lecanomancy is not very different, which is a kind of divination made in",
+   "continued": false,
+   "notes": [
+    {
+     "key": "x",
+     "citation": "Livy (<i>Tit. Li.</i>), book I (1.39: the flame about the head of the sleeping Servius Tullius, and Tanaquil's prophecy); Dionysius of Halicarnassus (<i>Halicarna.</i>), <i>Roman Antiquities</i>, book II or III as printed (the `⟨alt⟩` <i>ij./iij.</i>; the story is in book IV, 4.2)",
+     "original": "Tit. Li. lib. j, Halicarna. lib. ij.",
+     "gloss": "Coras's book number for Dionysius is wrong on either reading."
+    },
+    {
+     "key": "y",
+     "citation": "Cicero, <i>On Divination</i> II (the Etruscan reading of a divided flame as a sign of discord; passage not located)",
+     "original": "Ciceron au ij. de diuin.",
+     "gloss": "Cicero's second book is the sceptical one; the divided flame is reported from the haruspices' lore."
+    },
+    {
+     "key": "z",
+     "citation": "Pietro Crinito, <i>De honesta disciplina</i> XXIII, chapter as printed \"q. eij\" (garbled; perhaps <i>c. iij</i> or <i>c. vij</i>) — chapter unidentified",
+     "original": "Pierre Crinit au xxiij. liure. q. eij.",
+     "gloss": "On capnomancy, divination by smoke."
+    },
+    {
+     "key": "a",
+     "citation": "Livy XXI (21.62.5: <i>in Piceno lapidibus pluvisse</i>, among the prodigies of the winter of 218–217 BC, before Trasimene and Cannae)",
+     "original": "Tite Liue au liure xxi.",
+     "gloss": "Coras makes the rain of stones in Picenum the portent of Hannibal's slaughter of the Romans."
+    },
+    {
+     "key": "b",
+     "citation": "Decretum, C. 26 q. 5, the last canon (c. <i>Nec mirum</i>, c. 14)",
+     "original": "c. fin. xxvj. q. v.",
+     "gloss": "The canon's definition of hydromancy, from Varro through Augustine."
+    },
+    {
+     "key": "c",
+     "citation": "Varro, <i>Antiquitates rerum divinarum</i>, book II as cited (lost; the boy who saw in water the image of Mercury and recited in a hundred and fifty verses the course of the Mithridatic war is reported from Varro by Augustine, <i>City of God</i> VII.35)",
+     "original": "M. Varro au ij. liure diuinarũ rerũ.",
+     "gloss": "Augustine gives the same story as an example of hydromancy."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "guide de ſon Eſrit {q}. Ainſi Socrates recouura ſon de-",
+    "mon. & Iamblique en a laiſſé eſcrits & traittez parti-",
+    "culiers, pour enſeigner les moyens d'auoir tels eſprits {r}.",
+    "Reſueries grandes, & illuſions dangereuſes, que S. Au-",
+    "guſtin a doctement & amplement recitees {ſ}. car ce ne",
+    "ſont que preſtiges, enchantemens, & tromperies de ce",
+    "grand pere de menſonge Sathan, qui bien ſouuent ſe",
+    "trãsfigure en Ange de lumiere, pour deceuoir les hom-",
+    "mes {t}. Pyromãce eſt diuination par feu, comme quand",
+    "on regarde ce que les flammes du feu, les eſclairs, ton-",
+    "nerres, ou foudres ſignifient {u}. ce que Vergile touche,",
+    "quand il dit,"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "De Cœlo tactas, memini prædicere quercus."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "L'exemple auſſi en eſt preſent de Tanaquil, femme de",
+    "Tarquinius Priſcus, cinquieſme Roy des Romains, la-",
+    "quelle voyant vne flamme de feu enuironner la teſte",
+    "d'vn pauure enfant appellé Seruius Tullus, predit par",
+    "là, qu'il ſeroit Roy de Rome {x}. Ciceron en quelque lieu,",
+    "demonſtre que par la diſcipline des Hetruſques, ſi d'vn",
+    "feu ſortoit double flamme, ou la flãme ſur la pointe, ſe",
+    "diuiſoit en deux: cela preſageoit noiſes & diſſentions {y}.",
+    "Soubz la Pyromance, peut eſtre iuſtement comprinſe",
+    "la Capnomance, qui eſt vne eſpece de diuination qui ſe",
+    "fait par la fumee du feu: car ſi elle ſe tourne en rond, ſi-",
+    "gnifie vne choſe: ſi elle va de trauers, ou ſe courbe, ou",
+    "bien ſ'eſtend droite contremont, en preſage vne autre {z}.",
+    "Aeromance, eſt diuination par l'air, comme par le vol &",
+    "chant des oyſeaux, eſtans en liberté, par pluyes, tour-",
+    "mentes & orages inaccouſtumez. Ainſi quand il pleut",
+    "des pierres, en la marque d'Ancone (que les Latins ont",
+    "touſiours appellé Picenum) fut ſignifiee la deſcõfiture,",
+    "& carnage, que fit Annibal des Romains en Italie {a}. Hy-",
+    "dromance, ſe fait par inſpection, & inuocatiõ d'eſprits en",
+    "l'eau {b}, comme quand vn ieune enfant, (duquel parle",
+    "M. Varro) vit dans l'eau Mercure, qui recita en cent cin",
+    "quante vers tou ce qu'aduint en la guerre de Mithrida-",
+    "tes {c}. De l'Hydromance n'eſt pas fort differente la Leca",
+    "nomance. qu'eſt vne eſpece de diuination, qui ſe fait dãs"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "Raph. Vola",
+    "teran au xiij",
+    "liure de ſon",
+    "Anthropolo-",
+    "gie."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "Iãblique au",
+    "liure de My-",
+    "ſteriis Aegy-",
+    "ptiorũ, Chal-",
+    "dæorũ, & Aſ-",
+    "ſyriorum."
+   ]
+  },
+  {
+   "key": "ſ",
+   "kind": "margin",
+   "lines": [
+    "S. Auguſtin",
+    "au x. liure",
+    "de la cité de",
+    "Dieu. c. ix.",
+    "& x."
+   ]
+  },
+  {
+   "key": "t",
+   "kind": "margin",
+   "lines": [
+    "la ij. des Co-",
+    "rinthiẽs c. xj."
+   ]
+  },
+  {
+   "key": "u",
+   "kind": "margin",
+   "lines": [
+    "Ciceron au",
+    "j. & ij. de di-",
+    "uinatione."
+   ]
+  },
+  {
+   "key": "x",
+   "kind": "margin",
+   "lines": [
+    "Tit. Li. lib.",
+    "j, Halicarna.",
+    "lib. ij."
+   ]
+  },
+  {
+   "key": "y",
+   "kind": "margin",
+   "lines": [
+    "Ciceron au",
+    "ij. de diuin."
+   ]
+  },
+  {
+   "key": "z",
+   "kind": "margin",
+   "lines": [
+    "Pierre Cri",
+    "nit au xxiij.",
+    "liure. q. eij."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Tite Liue",
+    "au liure xxi."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "c. fin. xxvj.",
+    "q. v."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "M. Varro",
+    "au ij. liure di-",
+    "uinarũ rerũ."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "guide de ſon Eſrit {q}. Ainſi Socrates recouura ſon de-",
+   "note": "sic: 'Eſrit' (no p) as printed; the marker q sits low after it"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "mon. & Iamblique en a laiſſé eſcrits & traittez parti-",
+   "note": "a stray bracket-like mark (']' or '}') is printed right after '&' before 'Iamblique'; not transcribed, may be a damaged sort or a pen mark"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "trãsfigure en Ange de lumiere, pour deceuoir les hom-",
+   "note": "line-end hyphen printed as a raised dot-like sign; transcribed '-'"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "nerres, ou foudres ſignifient {u}. ce que Vergile touche,",
+   "note": "marker printed as a small italic u/v shape; keyed 'u' per the printer's alphabet; margin note shows italic 'v'"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "fait par la fumee du feu: car ſi elle ſe tourne en rond, ſi-",
+   "note": "'feu:' punctuation looks like a colon, slightly faint; could be a period"
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "& carnage, que fit Annibal des Romains en Italie {a}. Hy-",
+   "note": "'Romains' appears set with a small-capital R (small capitals); 'fitAnnibal' set tight"
+  },
+  {
+   "where": "blocks[2].lines[22]",
+   "text": "quante vers tou ce qu'aduint en la guerre de Mithrida-",
+   "note": "sic: 'tou' (for 'tout') as printed"
+  },
+  {
+   "where": "blocks[2].lines[24]",
+   "text": "nomance. qu'eſt vne eſpece de diuination, qui ſe fait dãs",
+   "note": "sic: 'qu'eſt' as printed; punctuation after 'nomance' looks like a period (could be a comma); 'dãs' tilde clear but ink heavy"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "liure. q. eij.",
+   "note": "reading 'q. eij.' doubtful; could be 'q. ciij.' or 'c. ij.'"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "teran au xiij",
+   "note": "final 'ij' carries a mark above (possibly a tilde/diaeresis); no period visible"
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE.",
+   "note": "final letter of THOLOSE damaged/blotted, reads like 'I' or 'E'; E assumed"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "guide de ſon Eſrit {q}. Ainſi Socrates recouura ſon de-",
+   "note": "sic: 'Eſrit' (p missing) as printed"
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "mon. & Iamblique en a laiſſé eſcrits & traittez parti-",
+   "note": "a stray brace-like mark is printed between '&' and 'Iamblique' (broken sort or ink); not transcribed"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "nerres, ou foudres ſignifient {u}. ce que Vergile touche,",
+   "note": "body marker looks like a small 'u'; the margin note's key is printed as italic 'v'. Keyed 'u' in both"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "diuiſoit en deux: cela preſageoit noiſes & diſſentions {y}.",
+   "note": "'diſſentions' vs 'diſsentions': ligature reads as double long s"
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "& carnage, que fit Annibal des Romains en Italie {a}. Hy-",
+   "note": "'fitAnnibal' set tight; the R of 'Romains' is a small capital"
+  },
+  {
+   "where": "blocks[2].lines[22]",
+   "text": "quante vers tou ce qu'aduint en la guerre de Mithrida-",
+   "note": "sic: 'tou' (for tout) as printed; line-end break sign printed like a dot"
+  },
+  {
+   "where": "blocks[2].lines[24]",
+   "text": "nomance. qu'eſt vne eſpece de diuination, qui ſe fait dãs",
+   "note": "sic: period after 'nomance' and 'qu'eſt' as printed; first letter of 'nomance' blotted"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "teran au xiij",
+   "note": "numeral ending with italic ij ligature; could be 'xiij' or 'xij'"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "liure. q. eij.",
+   "note": "reading uncertain; could be 'c. ij.' or 'ch. ij.'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "au liure xxi.",
+   "note": "space before period in print; 'xxi' possibly 'xxj'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[7]",
+   "target": "blocks[0].lines[7]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "trãsfigure en Ange de lumiere, pour deceuoir les hom-",
+   "b": "trãſfigure en Ange de lumiere, pour deceuoir les hom-",
+   "text": "trãsfigure en Ange de lumiere, pour deceuoir les hom-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "trãsfigure with round s is the print's regular form before f; both readings are the same word and translate the same."
+  },
+  {
+   "where": "margin_notes[5].lines[2]",
+   "target": "margin_notes[5].lines[2]",
+   "spans": [
+    [
+     5,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "lib. ij.",
+   "b": "lib. iij.",
+   "text": "lib. ij.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

@@ -50,6 +50,22 @@ BOOK_DESCRIPTION = (
     "still in progress, from the Cambridge University Library scans."
 )
 
+# The viewer's About box, after the description: one plain paragraph per string.
+BOOK_ABOUT = [
+    "Each page of the French was transcribed in two independent passes. A dotted "
+    "underline in the French marks a reading where the two passes disagreed; "
+    "hover over it, or tap it, to see both readings and how the difference was "
+    "resolved. Each was decided by the editor; by the reconciliation model, the "
+    "language model that settled the two passes' differences in the first run "
+    "over the early pages; by the translation model, the language model that "
+    "writes the English, choosing from context the reading that fits the "
+    "sentence; or is not yet decided, and the text shows the first pass's "
+    "version, reader A. Every "
+    "contested reading on a page, including those about layout that have no "
+    "single word to underline, is listed under Readings below the page's French "
+    "text; the contested readings button in the header turns both off.",
+]
+
 # `ANNOTAT. V.` / `ANNOT. XXIIII.` / `ANNOTATION I.` are all the same heading in
 # this print; the site spells it out. The numeral is roman, upper or lower case.
 ANNOTATION_RE = re.compile(r"^ANNOT(?:AT)?(?:ION)?\.?\s*([IVXLC]+)\.?$", re.IGNORECASE)
@@ -72,7 +88,14 @@ NOTES_FENCE = "\n## Notes"
 # - {a} (p002): **Seneca, *On Benefits* 4.2** — Seneque au liu. des benefices. [gloss]
 # An aside may sit between the page and the citation, as in
 # `- {t} (p007) — orphan note, no marker in the body: **Digest 34.5.9** — L. qui duos`.
-NOTE_LINE_RE = re.compile(r"^-\s*\{([A-Za-zſ]+\d*)\}\s*\(\s*([^)]+?)\s*\)\s*(.*)$")
+# `{_}` is a margin note the print sets with no key (the final's `key: null`), and a
+# capitalised label in place of the key — `- Verse (p062): **…** — …` — is a long
+# quotation the translator moved into the notes; both are notes with no key.
+# A keyed line with only an aside and no citation — `- {c} (p044) — marker with no
+# note in the margin.` — records a printed marker that has no note, and is no note.
+NOTE_LINE_RE = re.compile(
+    r"^-\s*(?:\{([A-Za-zſ]+\d*|_)\}|([A-Z][a-z]+))\s*\(\s*([^)]+?)\s*\)\s*(.*)$")
+UNKEYED = "_"
 NOTE_NONE_RE = re.compile(r"^-\s*\(\s*none\b.*\)\s*$", re.IGNORECASE)
 CITATION_RE = re.compile(r"^\*\*(.+)\*\*\s*(?:[—–-]\s*(.*))?$")
 GLOSS_RE = re.compile(r"\s*\[(.+)\]\s*$")
@@ -93,7 +116,7 @@ def _warn(message: str) -> None:
 class SectionNote(NamedTuple):
     """One sidenote of the English layer, from a `## Notes` line."""
 
-    key: str
+    key: str | None
     page: str
     citation: str
     original: str
@@ -277,10 +300,14 @@ def _note_line(label: str, line: str) -> SectionNote | None:
         raise ValueError(f"{label}: note line is not "
                          f"`- {{key}} (page): **citation** — original [gloss]`: "
                          f"{line.strip()[:80]!r}")
-    key, page, rest = head.group(1), page_id_for_marker(head.group(2)), head.group(3)
+    key = head.group(1) if head.group(1) not in (None, UNKEYED) else None
+    page, rest = page_id_for_marker(head.group(3)), head.group(4)
     # Anything between the page and the bold citation is an aside to the reviewer
     # ("orphan note, no marker in the body"); the site has nowhere to put it.
     start = rest.find("**")
+    if start < 0 and head.group(1) not in (None, UNKEYED) and re.match(r"[—–-]", rest):
+        # A printed marker the margin has no note for: nothing to show.
+        return None
     body = CITATION_RE.match(rest[start:].strip()) if start >= 0 else None
     if not body:
         raise ValueError(f"{label}: note {{{key}}} ({page}) has no **citation**: "
@@ -400,7 +427,10 @@ def _attach_notes(page_id: str, texts: list[str],
                   notes: list[SectionNote]) -> list[list[SectionNote]]:
     """The notes of one page, spread over its paragraphs by where their keys print."""
     by_key: dict[str, SectionNote] = {}
+    keyless = [note for note in notes if note.key is None]
     for note in notes:
+        if note.key is None:
+            continue
         if note.key in by_key:
             _warn(f"{page_id}: two notes keyed {note.key!r}; keeping the first")
             continue
@@ -421,6 +451,13 @@ def _attach_notes(page_id: str, texts: list[str],
         _warn(f"{page_id}: note {key!r} is not marked in the prose; "
               f"attached to the first paragraph")
         attached[0].append(note)
+    # A note with no key (unkeyed in the print, or a quotation moved to the notes)
+    # has no marker to follow; it sits with the page's first paragraph.
+    for note in keyless:
+        if attached:
+            attached[0].append(note)
+        else:
+            _warn(f"{page_id}: a note with no key has no English paragraph on this page")
     return attached
 
 
@@ -539,13 +576,351 @@ def french_notes(final: dict) -> list[dict]:
 
 
 def uncertain(final: dict | None) -> list[dict]:
-    """The reader's doubts about particular lines, without the `escalate` flag."""
+    """The reader's doubts about particular lines, without the `escalate` flag.
+
+    Open arbitrations ("arbitration: undecided|unknown; alternatives: …") are left
+    out: `contested_readings` carries them, with both readings.
+    """
     if final is None:
         return []
     out = []
     for entry in final.get("uncertain") or []:
-        if isinstance(entry, dict):
+        # An open arbitration between the two readings is a contested reading,
+        # carried in `readings` instead.
+        if isinstance(entry, dict) and _open_alternatives(entry) is None:
             out.append({k: entry[k] for k in UNCERTAIN_KEYS if k in entry})
+    return out
+
+
+# --- contested readings ---------------------------------------------------
+#
+# Where the two transcription passes disagreed, the final carries one reading in
+# its text and the pair in decisions[] (A, B, the text kept, who chose). A reading
+# left open is an uncertain[] entry "arbitration: undecided|unknown; alternatives:
+# A ||| B" whose line shows A. The site gets one `readings` record per contested
+# spot, with the character spans of the words that differ, so the viewer can
+# underline just those words and list the rest (page layout, the running head,
+# note structure) in the page's apparatus.
+
+ALT_PREFIXES = ("arbitration: undecided; alternatives: ",
+                "arbitration: unknown; alternatives: ")
+ALT_SEP = " ||| "
+DECIDERS = ("carson", "translator", "auto")
+# A decision with no `by` whose choice is one of these was the first run's
+# reconciliation model's; the site names it `reconciler`.
+RECONCILER_CHOICES = ("A", "B", "neither")
+# An arbitration-session reason: "arbitration: A", "arbitration: B (translator: why)",
+# "arbitration: either (auto-deferred)", "arbitration: neither (carson: why)".
+SESSION_REASON_RE = re.compile(
+    r"^arbitration:\s*(A|B|neither|either|unknown|undecided)\b"
+    r"(?:\s*\((?:carson|translator|auto-deferred)(?::\s*(.*))?\))?\s*$", re.S)
+OPEN_CHOICES = ("either", "unknown", "undecided")
+LINE_TARGET_RE = re.compile(r"^(blocks|margin_notes|foot_notes)\[(\d+)\]\.lines\[(\d+)\]$")
+HEADING_TARGET_RE = re.compile(r"^blocks\[(\d+)\]\.text$")
+# A line this short needs no shared word to anchor the alignment.
+SHORT_LINE = 3
+
+
+def _reading_str(value) -> str:
+    """A reading as text: None is empty, a structure is its compact JSON."""
+    if value is None:
+        return ""
+    if isinstance(value, str):
+        return pagelib.nfc(value)
+    return json.dumps(value, ensure_ascii=False, separators=(",", ":"))
+
+
+def _utf16(text: str, index: int) -> int:
+    """A code-point offset as the UTF-16 offset a JavaScript string uses."""
+    return len(text[:index].encode("utf-16-le")) // 2
+
+
+def target_text(final: dict, where: str):
+    """(target, text) for a pointer at one printed line or heading; (None, None) otherwise."""
+    m = LINE_TARGET_RE.match(where or "")
+    try:
+        if m:
+            field, i, j = m.group(1), int(m.group(2)), int(m.group(3))
+            line = final[field][i]["lines"][j]
+            if isinstance(line, str):
+                return where, pagelib.nfc(line)
+        m = HEADING_TARGET_RE.match(where or "")
+        if m:
+            block = final["blocks"][int(m.group(1))]
+            if block.get("type") == "heading" and isinstance(block.get("text"), str):
+                return where, pagelib.nfc(block["text"])
+    except (KeyError, IndexError, TypeError, AttributeError):
+        pass
+    return None, None
+
+
+def _is_ellipsis(word: str) -> bool:
+    """A reading quoted in part elides the rest of the line with `…`."""
+    return word.startswith("…") or word.strip(".") == ""
+
+
+def _split_ellipses(words: list[str]) -> list[str]:
+    """`…ombre` -> `…`, `ombre`: the elision and the word it runs into."""
+    out = []
+    for word in words:
+        core = word.strip("…")
+        if core != word and not any(ch.isalnum() for ch in core):
+            out.append("…")       # `…,`: the elision and a stray point
+        elif core and core != word:
+            if word.startswith("…"):
+                out.append("…")
+            out.append(core)
+            if word.endswith("…"):
+                out.append("…")
+        else:
+            out.append(word)
+    return out
+
+
+def _differing(words: list[str], alternatives) -> set[int] | None:
+    """Indices of `words` that differ from any alternative; None if unalignable."""
+    import difflib
+    if not words:
+        return None
+    hit: set[int] = set()
+    for alt in alternatives:
+        raw = _split_ellipses((alt or "").split())
+        # `…` is a gap: the words of the line it stands for are not in dispute.
+        other: list[str] = []
+        gaps: set[int] = set()
+        for word in raw:
+            if _is_ellipsis(word):
+                gaps.add(len(other))
+            else:
+                other.append(word)
+        if other == words and not gaps:
+            continue
+        matcher = difflib.SequenceMatcher(None, words, other, autojunk=False)
+        opcodes = matcher.get_opcodes()
+        if len(words) > SHORT_LINE and not any(tag == "equal" for tag, *_ in opcodes):
+            return None
+        for tag, i1, i2, j1, j2 in opcodes:
+            if tag == "equal":
+                continue
+            if tag == "delete" and (j1 in gaps):
+                continue
+            if tag == "replace" and (j1 in gaps or j2 in gaps):
+                # The gap swallows some of these words; the alternative's own words
+                # answer for as many of the line's as it takes to spell them.
+                hit.update(_beside_gap(words, i1, i2, other[j1:j2], at_start=j1 in gaps))
+                continue
+            if i2 > i1:
+                hit.update(range(i1, i2))
+            else:
+                # words only the alternative has: mark the word before them
+                hit.add(max(0, min(i1 - 1, len(words) - 1)))
+    return hit or None
+
+
+def _beside_gap(words, i1, i2, theirs, at_start):
+    """The line's words, out of words[i1:i2], that `theirs` stands against.
+
+    Taken from the end of the run when the gap comes first (`…, niAriſtote:`
+    against `que Platon, ni Ariſtote:` -> `ni Ariſtote:`), from the start when it
+    comes last: as many as it takes to reach the alternative's length, spaces
+    aside.
+    """
+    want = len("".join(theirs))
+    order = range(i2 - 1, i1 - 1, -1) if at_start else range(i1, i2)
+    out, have = [], 0
+    for i in order:
+        out.append(i)
+        have += len(words[i])
+        if have >= want:
+            break
+    return out
+
+
+def _spans(line: str, tokens: list[tuple[int, int]], hit: set[int]) -> list[list[int]]:
+    """Token indices -> merged [start, end) UTF-16 spans of `line`."""
+    spans: list[list[int]] = []
+    last = None
+    for i in sorted(hit):
+        if last is not None and i == last + 1:
+            spans[-1][1] = tokens[i][1]
+        else:
+            spans.append([tokens[i][0], tokens[i][1]])
+        last = i
+    return [[_utf16(line, s), _utf16(line, e)] for s, e in spans]
+
+
+def _tokens(text: str) -> list[tuple[int, int]]:
+    return [(m.start(), m.end()) for m in re.finditer(r"\S+", text)]
+
+
+def word_spans(line: str, alternatives) -> list[list[int]] | None:
+    """The [start, end) spans of `line` whose words differ from any alternative.
+
+    Words are whitespace-separated, compared as stitch_text.alt_markup compares
+    them. A word only an alternative has marks its neighbour in `line`; a `…` in
+    an alternative quoted in part stands for whatever the line has there.
+    Adjacent differing words share one span; offsets are UTF-16, as the viewer's
+    JavaScript counts them. None when the alignment cannot say which words
+    differ: no words, nothing differs word for word, or no word in common to
+    anchor on (in a line of more than SHORT_LINE words).
+    """
+    tokens = _tokens(line)
+    hit = _differing([line[s:e] for s, e in tokens], alternatives)
+    return None if hit is None else _spans(line, tokens, hit)
+
+
+def _same(a: str, b: str) -> bool:
+    return a.split() == b.split()
+
+
+def _find_words(line: str, excerpt: str) -> int | None:
+    """Index of the first of `line`'s words where the words of `excerpt` run; or None.
+
+    The last quoted word may stop short of the line's word (`noraire` in
+    `noraire,`).
+    """
+    want = excerpt.split()
+    words = [line[s:e] for s, e in _tokens(line)]
+    if not want:
+        return None
+    last = len(want) - 1
+
+    def fits(word, k):
+        return word == want[k] or (k == last and word.startswith(want[k]))
+
+    for i in range(len(words) - len(want) + 1):
+        if all(fits(words[i + k], k) for k in range(len(want))):
+            return i
+    return None
+
+
+def _line_spans(line: str, a: str, b: str, text: str) -> list[list[int]] | None:
+    """The spans of `line` to underline for readings a / b, or None if unalignable.
+
+    The readings may be the whole line, the line quoted in part with `…`, or just
+    the words in dispute; in that last case the kept reading is found in the line
+    and the readings are compared there.
+    """
+    readings = [x for x in (text, a, b) if x]
+    if any(_same(line, x) for x in readings) or any("…" in x for x in readings):
+        return word_spans(line, [x for x in (a, b) if not _same(line, x)])
+    for kept in readings:
+        first = _find_words(line, kept)
+        if first is None:
+            continue
+        # Compare the quoted words, then mark the printed words they stand for.
+        hit = _differing(kept.split(), [x for x in (a, b) if not _same(kept, x)])
+        if hit is None:
+            return None
+        tokens = _tokens(line)
+        return _spans(line, tokens, {first + i for i in hit})
+    return None
+
+
+def reading_record(final: dict, where: str, a: str, b: str, text: str, chose,
+                   by, status: str, reason) -> dict:
+    """One contested reading, placed on its line when it has one.
+
+    `spans` are UTF-16 offsets into the line as the final prints it (markers and
+    all); `aligned` is False when the whole line is marked because the words
+    could not be aligned. A reading with no single line to mark has
+    `target: null` and `spans: null`, and so has `spans: null` one whose readings
+    are word-for-word the same (the passes differed in spacing or layout only);
+    both appear only in the page's list.
+    """
+    target, line = target_text(final, where)
+    spans = None
+    aligned = False
+    if target is not None and not (_same(a, b) and _same(a, text)):
+        spans = _line_spans(line, a, b, text)
+        aligned = spans is not None
+        if spans is None:
+            spans = [[0, _utf16(line, len(line))]]
+    return {"where": where, "target": target, "spans": spans, "aligned": aligned,
+            "a": a, "b": b, "text": text, "chose": chose, "by": by,
+            "status": status, "reason": reason or None}
+
+
+def _open_alternatives(entry: dict):
+    """(A, B) of an open arbitration entry in uncertain[]; None for any other entry."""
+    note = entry.get("note") if isinstance(entry, dict) else None
+    if not isinstance(note, str):
+        return None
+    for prefix in ALT_PREFIXES:
+        if note.startswith(prefix):
+            a, sep, b = note[len(prefix):].partition(ALT_SEP)
+            return pagelib.nfc(a), pagelib.nfc(b) if sep else ""
+    return None
+
+
+def _default_by(chose) -> str:
+    """Who decided an entry that does not say.
+
+    The first pipeline run left `by` off: its reconciliation model chose A, B or
+    neither, and Carson's own calls in that run say `chose: "carson-session"`.
+    Anything else unmarked is taken as Carson's.
+    """
+    return "reconciler" if chose in RECONCILER_CHOICES else "carson"
+
+
+def contested_readings(final: dict | None) -> list[dict]:
+    """Every reading the two passes disagreed on, decided or open, in file order.
+
+    From a decisions[] entry: `by` is carson | translator | auto; absent or
+    unknown, it is reconciler for a first-run choice of A, B or neither, else
+    carson (see `_default_by`); an arbitration-session entry ("chose": "carson-session")
+    takes its real choice from the reason ("arbitration: B"), whose provenance
+    tail is dropped and whose own words, if any, become `reason`. A decision that
+    chose "either"/"unknown", or that `by: auto` deferred, is `status: "open"` and
+    shows reader A. An open uncertain[] entry with no decision at the same place
+    adds a record of its own with `by: null`.
+    """
+    if final is None:
+        return []
+    out: list[dict] = []
+    for entry in final.get("decisions") or []:
+        if not isinstance(entry, dict):
+            continue
+        where = str(entry.get("where") or "").strip()
+        if not where:
+            continue
+        a, b = _reading_str(entry.get("A")), _reading_str(entry.get("B"))
+        text_given = _reading_str(entry.get("text"))
+        if a and a == b and (not text_given or _same(text_given, a)
+                             or _find_words(text_given, a) is not None):
+            # Both passes read it the same and the text kept it: the entry records
+            # a check, not a dispute.
+            continue
+        chose = entry.get("chose")
+        by = entry.get("by") if entry.get("by") in DECIDERS else _default_by(chose)
+        reason = entry.get("reason") if isinstance(entry.get("reason"), str) else None
+        session = SESSION_REASON_RE.match(reason or "")
+        if session:
+            chose = session.group(1)
+            reason = (session.group(2) or "").strip() or None
+        elif chose == "carson-session":
+            chose = "neither"
+        if chose not in ("A", "B", "neither") + OPEN_CHOICES:
+            chose = "neither"
+        status = "open" if by == "auto" or chose in OPEN_CHOICES else "decided"
+        if "text" in entry and entry["text"] is not None:
+            text = _reading_str(entry["text"])
+        else:
+            text = {"A": a, "B": b}.get(chose, a)
+        if status == "open":
+            chose, text = None, a
+        out.append(reading_record(final, where, a, b, text, chose, by, status, reason))
+    placed = {r["where"] for r in out}
+    for entry in final.get("uncertain") or []:
+        pair = _open_alternatives(entry)
+        if pair is None:
+            continue
+        where = str(entry.get("where") or "").strip()
+        if not where or where in placed:
+            continue
+        placed.add(where)
+        out.append(reading_record(final, where, pair[0], pair[1], pair[0], None, None,
+                                  "open", None))
     return out
 
 
@@ -575,6 +950,7 @@ def page_record(manifest, page_id: str, final: dict | None,
         "french": pagelib.blocks(final) if final is not None else None,
         "french_notes": french_notes(final) if final is not None else None,
         "uncertain": uncertain(final),
+        "readings": contested_readings(final),
     }
 
 
@@ -601,6 +977,7 @@ def book_record() -> dict:
         "author": "Jean de Coras",
         "year": 1572,
         "description": BOOK_DESCRIPTION,
+        "about": list(BOOK_ABOUT),
         "source": {
             "name": "Cambridge University Library",
             "item_url": f"{CUDL_ITEM}/1",

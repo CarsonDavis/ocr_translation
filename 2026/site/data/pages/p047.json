@@ -9,11 +9,151 @@
   "image_no": 67,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/67"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p046",
  "next": "p048",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "great a likeness that they doubt, and would not dare to assure whether it is the one or the other. There are also made two summary inquiries [<i>sommaires aprises</i>] upon the resemblance of Sanxi Guerre, son of Martin, and of the sisters of the said Martin, with the accused; from which result two proofs very different, for by the first it is reported that Sanxi, son of Martin, does not resemble the accused at all, and by the second, that the sisters of this Martin strongly resemble the accused. The matter set down in law, by judgment the said du Tilh, prisoner, is condemned to lose his head and to be put in four quarters, and the decision extended [<i>amplié</i>: her conclusions granted] in favour of the said de Rols. Whereof this du Tilh is appellant in the court of the Parlement of Toulouse; which, using its accustomed providence, and considering the importance of this business, orders that Pierre Guerre, the uncle, and the said de Rols shall come in person. Afterwards they are confronted in full chamber with the said accused, first the wife; where the said du Tilh showed a countenance so assured, and much more so than the said de Rols, that there were few judges present who were not persuaded that the prisoner was the true husband, and the imposture proceeded from the side of the wife and of the uncle. Nevertheless the court, being not yet by that sufficiently instructed, orders that inquiry be made on its own motion",
+   "continued": true,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "grãde ſimilitude, qu'ils doutent, & n'oſe-",
+    "roiẽt aſſeurer ſi c'eſt l'vn ou l'autre ſõt auſ",
+    "ſi faites deux ſõmaires apriſes ſur la reſẽ-",
+    "blãce de Sanxi Guerre fils de Martin, &",
+    "des ſeurs dudit Martin: auec le p̃uenu: deſ",
+    "quelles reſultẽt deux preuues frõt diffe-",
+    "rẽtes, car par la premiere eſt rapporté, q̃",
+    "Sanxi, fils de Martin, ne reſſẽble point le",
+    "preuenu, & par la ſecõde, que les ſeurs d'i-",
+    "celuy martin reſſẽblẽt fort le preuenu. La",
+    "matiere miſe en droict, par ſentẽce, led.",
+    "du Tilh priſõnier eſt cõdẽné perdre la te",
+    "ſte, & eſtre mis en iiij. quartiers. & amplié",
+    "l'arreſt à lad. de Rols. Dequoy iceluy du",
+    "Tilh, eſt apelãt en la cour du parlemẽt de",
+    "Toloſe. laq̃lle vſant de ſon accouſtumee",
+    "prouidẽce, & attẽdu l'importãce de ce ne",
+    "goce, ordõne que Pierre Cuerre oncle,",
+    "& lad de Rols viendrõt en perſonne. A-",
+    "pres ſont cõfrontez en pleine chãbre, aud",
+    "preuenu. premieremẽt la femme: où led.",
+    "du Tilh mõſtra vne cõtenãce ſi aſſeurée",
+    "& beaucoup plꝰ que ladite de Rols: telle-",
+    "ment qu'il y auoit peu de iuges aſsiſtans",
+    "qui ne ſe perſuadaſſent le priſõnier eſtre",
+    "le vray mari, & l'impoſture proceder du",
+    "coſté de la femme, & de l'õcle. toutesfois",
+    "la cour encor par là n'eſtãt ſuffiſãment in",
+    "ſtruite, ordõne qu'il ſeroit enquis d'office"
+   ]
+  }
+ ],
+ "french_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "quelles reſultẽt deux preuues frõt diffe-",
+   "note": "sic 'frõt' (for 'fort'): f (ascender height, hooked top, crossbar), r, õ (tilde bar), short t; confirmed at 5x against 'fort' on line 9 and the f's of 'diffe-'. Reader B read 'trõt'. Transcribed as printed."
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "goce, ordõne que Pierre Cuerre oncle,",
+   "note": "sic 'Cuerre' for 'Guerre'. Cropped this initial and the 'Guerre' of blocks[0].lines[3] at 5x and stacked them: the line-4 G shows the horizontal spur and short stem inside the bowl; this letter is a plain open C, the bowl closing to a beak at top right and a curl at bottom right, with no bar and no stem. Misprint (wrong sort) for Guerre; transcribed as printed. Reader B may normalize to 'Guerre'."
+  },
+  {
+   "where": "blocks[0].lines[20]",
+   "text": "preuenu. premieremẽt la femme: où led.",
+   "note": "the mark after 'preuenu' is a small lightly inked round dot on the baseline with no tail (5x); read as a period, both readers agree. Sense would run 'audit preuenu premieremẽt la femme' without a stop."
+  },
+  {
+   "where": "blocks[0].lines[23]",
+   "text": "ment qu'il y auoit peu de iuges aſsiſtans",
+   "note": "'aſsiſtans', not 'aſſiſtans'. At 6x (body-6.jpg, fourth line, x~1230-1650) the first s of the pair is a full-height long ſ and the second is unmistakably a short round s at x-height with the two s-curves; the following i is dotted and the next letter is again a long ſ before the t. Conventions §2 keeps ſs as printed. Contrast 'perſuadaſſent' on the next line and 'aſſeurer'/'aſſeurée'/'reſſẽble'/'reſſẽblẽt', all of which really are ſſ (checked at 6x-7x)."
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "celuy martin reſſẽblẽt fort le preuenu. La",
+   "note": "two things on this line. (a) 'martin' is printed with a lowercase m, unlike 'Martin' at lines 3, 4, 7; sic, transcribed as printed. (b) the l of 'reſſẽblẽt' is almost unprinted: at 7x it shows only as a broken, dotted vertical between the b and the ẽ. The letter is there and the word is secure, but a reader working at reading size could read 'reſſẽbẽt'."
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "& lad de Rols viendrõt en perſonne. A-",
+   "note": "sic: 'lad' here carries no abbreviation point, while 'lad.' at blocks[0].lines[13] does. Checked at 3.5x; the space between 'lad' and 'de' is clean, with no dot at the baseline. Transcribed as printed."
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "du Tilh priſõnier eſt cõdẽné perdre la te",
+   "note": "'cõdẽné' carries two different marks that a reader could level: over the o and over the first e the mark is a horizontal, slightly wavy bar (tilde), while over the final e it is a short stroke slanting up to the right (acute). Compared at 5x with the unambiguous acute of 'rapporté' (line 7) and the unambiguous tilde of 'q̃' on the same line. Same test applied to every tilde on the page; 'roiẽt' (line 2), 'reſẽ-' (line 3) and 'rẽtes' (line 7) are all tildes, not acutes."
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "& beaucoup plꝰ que ladite de Rols: telle-",
+   "note": "'plꝰ' = plus: after 'pl' the print sets the small raised 9-shaped us sign, transcribed ꝰ (U+A770) per conventions §2. Verified at 5x."
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "des ſeurs dudit Martin: auec le p̃uenu: deſ",
+   "note": "'p̃uenu' = preuenu: a tilde is printed over the p (transcribed p + U+0303 per §2). Both marks on this line are colons, not periods: each shows two dots, checked at 3.5x. The word spelt out in full ('preuenu') appears at lines 8, 9, 20."
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "Toloſe. laq̃lle vſant de ſon accouſtumee",
+   "note": "sic 'Toloſe' without the h, although the running head of this very page reads THOLOSE; transcribed as printed (§5, §7). 'laq̃lle' = laquelle, with a tilde over the q (q + U+0303)."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "word division normalized per conventions §1 where the compositor set two words tight: 'ſõtauſ' -> 'ſõt auſ' (line 2), 'auecle' -> 'auec le' (line 5), 'enpleine' -> 'en pleine' (line 20), 'ſuffiſãmentin' -> 'ſuffiſãment in' (line 28), 'qu'ilſeroit enquisd'office' -> 'qu'il ſeroit enquis d'office' (line 29), 'grãdeſimilitude' -> 'grãde ſimilitude' (line 1), 'aſſeurerſi' -> 'aſſeurer ſi' (line 2), 'attẽdul'importãce' -> 'attẽdu l'importãce' (line 17)."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "punctuation spacing normalized per conventions §1. Justification space printed BEFORE the mark at: 'Martin , &' (line 4), 'ſentẽce , led.' (line 11), 'lad . de' (line 14), 'goce , ordõne' (line 18), 'mari , &' (line 26). No space printed AFTER the mark at: 'Martin:auec' (5), 'rẽtes,car' (7), 'Sanxi,fils' and 'Martin,ne' (8), 'ſecõde,que' (9), 'iiij.quartiers.&' (13), 'Tilh,eſt' (15), 'Toloſe.laq̃lle' (16), 'prouidẽce,&' (17), 'chãbre,aud' (20), 'femme:où' (21), 'Rols:telle-' (23), 'femme,&' (27), 'ſtruite,ordõne' (29)."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "line-end breaks. Hyphens are printed at lines 1, 3, 6, 9, 18, 23 ('n'oſe-', 'reſẽ-', 'diffe-', 'd'i-', 'A-', 'telle-'). Lines 2, 5, 12 and 28 break a word with NO hyphen ('auſ|ſi', 'deſ|quelles', 'te|ſte', 'in|ſtruite'), which conventions §1 says is normal and needs no entry; recorded here only so the reconciler does not treat a missing hyphen as a reader's omission."
+  },
+  {
+   "where": "margin_notes",
+   "note": "the page has no marginal notes and no letter markers at all. All four margin strips (margin-1..4.jpg) show clean, unprinted outer margin beside every body line, and foot.jpg shows no foot citation block, no signature and no catchword below the last body line. The marker alphabet is therefore not advanced on this page; whatever letter p046 ended on carries over to p048."
+  },
+  {
+   "where": "blocks[0]",
+   "note": "block structure. The whole page is one paragraph of 29 lines in the large (TEXTE) type; there is no heading, no decorated initial, no ornament and no break in the column. continues_prev is true (the page opens mid-word/mid-sentence with 'grãde ſimilitude', continuing the preceding page) and continues_next is true (the last line ends 'enquis d'office' with no terminal punctuation and no catchword). Note that the page supplied as context, p044, is not the immediately preceding page, so the join was not checked against a transcription."
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "celuy martin reſſẽblẽt fort le preuenu. La",
+   "note": "the mark after \"l'õcle\" is a round baseline dot with no tail at 4x (unlike the tailed comma after 'femme' on the same line); a period, although sense would prefer a comma. Printed tight, spacing normalized per §1."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[5]",
+   "target": "blocks[0].lines[5]",
+   "spans": [
+    [
+     30,
+     34
+    ]
+   ],
+   "aligned": true,
+   "a": "quelles reſultẽt deux preuues frõt diffe-",
+   "b": "quelles reſultẽt deux preuues trõt diffe-",
+   "text": "quelles reſultẽt deux preuues frõt diffe-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "At 5x the first sort of the word rises to full ascender height (level with the d of 'diffe-' and the f of 'fort' on line 9) with a right-hooked top and a crossbar; the roman t of this fount, as at the end of the same word, is short (x-height plus a stub) with a left flag. So f-r-õ-t: 'frõt', a misprint for 'fort' (transposed sorts), kept as printed."
+  }
+ ]
 }

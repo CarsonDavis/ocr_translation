@@ -9,11 +9,281 @@
   "image_no": 105,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/105"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p084",
  "next": "p086",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Especially in criminal matters, in which proof by oath is not lawful,",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXV"
+  },
+  {
+   "type": "paragraph",
+   "html": "In criminal causes, because the proofs must be certain, indubitable, and clearer than the day, the tendering of the oath is not received <sup class=\"mk\" data-key=\"a\">a</sup>; considering especially that if it had place in these matters, it would easily come about that crimes and calumnies, by the collusion of the parties, would be covered over and remain unpunished <sup class=\"mk\" data-key=\"b\">b</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 4.19 (<i>De probationibus</i>), the last law, l. <i>Sciant cuncti</i> (C. 4.19.25, Constantine)",
+     "original": "l. fin. C. de proba.",
+     "gloss": "Accusers must bring a matter to public cognisance fortified by fit witnesses, or by the plainest documents, or by indications <i>ad probationem indubitatis et luce clarioribus</i> — \"indubitable for proof and clearer than daylight\"; Coras's \"clearer than the day\" is this phrase."
+    },
+    {
+     "key": "b",
+     "citation": "Decretals X 5.22 (<i>De collusione detegenda</i>), c. 1 and the whole title",
+     "original": "c j. &amp; tout le titre, de col luſ. detegend",
+     "gloss": "The title on detecting collusion between the parties to a suit, where the accused and accuser agree to a feigned contest; its first chapter annuls a sentence obtained by such collusion."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Added to which, there are persons who are so superstitious that they would not dare to swear, even were it for things evidently true.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, LXVI"
+  },
+  {
+   "type": "paragraph",
+   "html": "Ulpian in a certain place, speaking of a legacy made by a testator on condition that the legatee should swear, says that such a condition must be rejected, and that the legatee may boldly demand the legacy without taking the oath with which the testator charged him: so that, says he, he may neither lose the legacy by being unwilling to swear, nor win it by perjuring himself. For there are some, says the Jurisconsult, too ready to swear, in contempt of religion; others fearful of the divine power even to superstition, so that even of things which they know and are well assured of, they nevertheless would not, nor would dare to, swear <sup class=\"mk\" data-key=\"a2\">a2</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a2",
+     "citation": "Digest 28.7 (<i>De condicionibus institutionum</i>), l. <i>Quae sub condicione</i> (D. 28.7.8 pr.–§ 1, Ulpian)",
+     "original": "l. quæ ſub conditione. D de cond. inſt",
+     "gloss": "<i>Quae sub condicione iurisiurandi relinquuntur, a praetore reprobantur</i>: dispositions left under condition of an oath are disallowed by the praetor, who provides that the beneficiary shall neither lose the inheritance or legacy by omitting the condition nor be compelled to swear shamefully; for some are too ready to swear in contempt of religion, others too timid through fear of the godhead, even to superstition — Coras's whole annotation is a paraphrase of this law."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And by the same means answer is made to this, that during the said three years the said de Rols made no complaint of it, but rather obstinately maintained, against those who said",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Meſmement és matieres criminelles,",
+    "eſquelles la preuue par ſerment n'eſt",
+    "legitime,"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Es cauſes criminelles, par ce qu'il conuient les preu",
+    "ues eſtre certaines, indubitables, & plus claires que le",
+    "iour, la delation de ſerment n'eſt pas receuë {a}. attendu",
+    "meſmement que ſi elle auoit lieu en ces matieres, ad-",
+    "uiendroit facilement que les crimes, & les calomnies,",
+    "par la colluſion des parties ſe couuriroient, & demeu-",
+    "reroyent impunies {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Ioinct qu'il y a des perſonnes, qui ſont",
+    "ſi ſuperſtitieuſes, qu'ils n'oſeroyent iu-",
+    "rer, & fuſt-il pour choſes euidemment",
+    "veritables."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT, LXVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Vlpian en quelque lieu, parlãt d'vn lais fait par vn te-",
+    "ſtateur, à condition, ſi le legataire iuroit, dit que telle",
+    "cõdition doit eſtre reiettée, & que le legataire peut har",
+    "diment demander le legat, ſans faire le ſerment, duquel",
+    "le teſtateur le chargeoit: à fin, dit il que ne voulãt iurer,",
+    "il ne perde le legat: ou ſe periurant, il le gagne. car il en",
+    "y a quelques vns, dit le Iuriſcõſulte, trop faciles à iurer,",
+    "en meſpris de la religion. d'autres craintifs de la puiſſan",
+    "ce diuine, iuſqu'à ſuperſtition de ſorte, que des choſes",
+    "meſmes qu'ils ſçauent & ſont bien aſſeurez, ils ne",
+    "voudroient pourtant, ni oſeroient iurer {a2}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et par meſme moyen, eſt reſpondu",
+    "à ce que pendant leſd. trois ans, lad. de",
+    "Rols ne ſ'en eſt plainte: ains defendoit",
+    "obſtineement contre ceux qui diſoyent"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. fin. C. de",
+    "proba."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "c j. & tout",
+    "le titre, de col",
+    "luſ. detegend"
+   ]
+  },
+  {
+   "key": "a2",
+   "kind": "margin",
+   "lines": [
+    "l. quæ ſub",
+    "conditione. D",
+    "de cond. inſt"
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[5]",
+   "text": "ANNOTAT, LXVI.",
+   "note": "sic: a comma, not a period, is printed after ANNOTAT (clear tail below baseline)."
+  },
+  {
+   "where": "blocks[7].lines[10]",
+   "text": "voudroient pourtant, ni oſeroient iurer {a2}.",
+   "note": "marker alphabet restarts at a with ANNOTAT. LXVI on this page; the second printed 'a' is keyed a2 (body and margin note)."
+  },
+  {
+   "where": "blocks[7].lines[5]",
+   "text": "il ne perde le legat: ou ſe periurant, il le gagne. car il en",
+   "note": "mark after 'legat' is a small raised dot pair, read as colon; could be a period. 'periurant' as printed (not 'pariurant')."
+  },
+  {
+   "where": "blocks[7].lines[4]",
+   "text": "le teſtateur le chargeoit: à fin, dit il que ne voulãt iurer,",
+   "note": "'ne voulãt' set with no visible space ('nevoulãt'); separated per word-division rule."
+  },
+  {
+   "where": "blocks[1].lines[1]",
+   "text": "eſquelles la preuue par ſerment n'eſt",
+   "note": "the apostrophe in n'eſt is a small raised ring-like mark; read as apostrophe."
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "c j. & tout",
+   "note": "key printed 'b.' with a period; 'c j.' has no visible period after c (possibly 'c. j.'). Last line 'detegend' is followed by no period visible."
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "conditione. D",
+   "note": "D is the decorated/script D (Digest sign) of the margin font, transcribed as plain D."
+  },
+  {
+   "where": "blocks[6].text",
+   "text": "ANNOTAT, LXVI.",
+   "note": "comma after ANNOTAT as printed (expected period); sic"
+  },
+  {
+   "where": "blocks[5].lines[1]",
+   "text": "ſi ſuperſtitieuſes, qu'ils n'oſeroyent iu-",
+   "note": "a mark sits above the i of qu'ils (may be a diaeresis 'qu'ïls' or a stray/damaged apostrophe); read as qu'ils"
+  },
+  {
+   "where": "blocks[7].lines[3]",
+   "text": "diment demander le legat, ſans faire le ſerment, duquel",
+   "note": "the first e of 'demander' is misshapen (looks like a damaged or wrong sort, 'dęmander'); read as e"
+  },
+  {
+   "where": "blocks[7].lines[5]",
+   "text": "il ne perde le legat: ou ſe periurant, il le gagne. car il en",
+   "note": "punctuation after 'legat' faint: colon or period; 'per de' set with a gap, taken as one word 'perde'"
+  },
+  {
+   "where": "blocks[7].lines[4]",
+   "text": "le teſtateur le chargeoit: à fin, dit il que ne voulãt iurer,",
+   "note": "'nevoulãt' set tight; divided as two words per conventions"
+  },
+  {
+   "where": "blocks[9].lines[3]",
+   "text": "obſtineement contre ceux qui diſoyent",
+   "note": "'obſtineement' as printed (double e); possibly sic for obſtinement"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "c j. & tout",
+   "note": "key printed 'b.' with a period; 'c j.' shows no visible period after c (could be 'c. j.')"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "luſ. detegend",
+   "note": "no final period visible after detegend; last letters heavily inked"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "conditione. D",
+   "note": "the D is an ornate/swash capital (digest siglum), transcribed as plain D"
+  }
+ ],
+ "readings": []
 }

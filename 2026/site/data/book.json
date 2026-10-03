@@ -5,6 +5,9 @@
  "author": "Jean de Coras",
  "year": 1572,
  "description": "Jean de Coras's 1572 account of the Martin Guerre case: the arrest of the Parlement de Tholose on the man who came back to Artigat as another man's husband, printed with Coras's hundred and eleven annotations. A diplomatic, line-by-line transcription of the French and an English translation, both still in progress, from the Cambridge University Library scans.",
+ "about": [
+  "Each page of the French was transcribed in two independent passes. A dotted underline in the French marks a reading where the two passes disagreed; hover over it, or tap it, to see both readings and how the difference was resolved. Each was decided by the editor; by the reconciliation model, the language model that settled the two passes' differences in the first run over the early pages; by the translation model, the language model that writes the English, choosing from context the reading that fits the sentence; or is not yet decided, and the text shows the first pass's version, reader A. Every contested reading on a page, including those about layout that have no single word to underline, is listed under Readings below the page's French text; the contested readings button in the header turns both off."
+ ],
  "source": {
   "name": "Cambridge University Library",
   "item_url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/1",

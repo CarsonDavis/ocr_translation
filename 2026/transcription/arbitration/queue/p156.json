@@ -1,0 +1,37 @@
+{
+ "page": "p156",
+ "a": "transcription/reads/A/p156.json",
+ "b": "transcription/reads/B/p156.json",
+ "include_flagged": false,
+ "items": [
+  {
+   "id": "b-025",
+   "kind": "body",
+   "where_a": "blocks[4].lines[11]",
+   "where_b": "blocks[4].lines[11]",
+   "index": 25,
+   "index_b": 25,
+   "a": "oncques entendu caſſation d'aucun {b}. Ioint que par les",
+   "b": "oncques entendu caſſarion d'aucun {b}. Ioint que par les",
+   "context_before": "faire teſtamens aux condemnez à mort: mais n'auoir",
+   "context_after": "nouuelles conſtitutions de Iuſtinien, ſemble que ce-",
+   "strip": "pages/strips/p156/body-6.jpg",
+   "crop": "crops/p156/b-025.jpg"
+  },
+  {
+   "id": "n-a-2",
+   "kind": "note",
+   "key": "a",
+   "line": 2,
+   "note_kind": "margin_notes",
+   "where_a": "margin_notes[1].lines[2]",
+   "where_b": "margin_notes[1].lines[2]",
+   "a": "de teſta, l, ſi",
+   "b": "de teſta, l. ſi",
+   "context_before": "ſi cui. P. j. D.",
+   "context_after": "quis exhere-",
+   "strip": "pages/strips/p156/margin-2.jpg",
+   "crop": "crops/p156/n-a-2.jpg"
+  }
+ ]
+}

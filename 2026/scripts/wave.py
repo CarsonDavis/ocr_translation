@@ -17,6 +17,19 @@
       file), run apply_arbitration.py; the final is moved into transcription/final/ only
       if apply exits 0 (valid). Then sync the manifest and re-stitch text/sections.json.
       A page with an undecided item is never applied.
+  wave.py refinalize PAGE [PAGE ...]
+      Re-run apply_arbitration for pages that already have a final (after a translator's
+      or Carson's re-decision), replacing the final atomically only if apply exits 0;
+      then sync the manifest and re-stitch as apply does. The page must still be fully
+      decided, and apply's staleness check refuses a queue that no longer matches the
+      reads (the old final is then left as it was).
+  wave.py defer [--dry-run] [PAGE ...]          (also: scripts/auto_defer.py ...)
+      For every queue page (or only PAGE ...), write a decision for every item that has
+      none: "either" for line items (body / note / unmatched / flagged), "unknown" for
+      structure (structural, note-structure), each with "by": "auto", "at" and
+      "reason": "auto-deferred to translator". An existing decision is never
+      overwritten (a legacy "skip" counts as none). --dry-run writes nothing. Prints
+      page, deferred either, deferred unknown, already decided.
   wave.py status [--all]
       Sync manifest flags with the files on disk, then list per page: reads present,
       queue present, decided/total, final present (pages with any activity and no final;
@@ -25,7 +38,7 @@
 Run under `uv run --with pillow --with jsonschema python scripts/wave.py ...`; when the
 current interpreter lacks pillow/jsonschema the helper scripts are started via `uv run`.
 """
-import argparse, importlib.util, json, os, pathlib, shutil, subprocess, sys, tempfile
+import argparse, datetime, importlib.util, json, os, pathlib, subprocess, sys, tempfile
 
 SCRIPTS = pathlib.Path(__file__).resolve().parent
 ROOT = SCRIPTS.parent
@@ -35,6 +48,8 @@ PY = sys.executable
 READERS = ("A", "B")
 # mirrors apply_arbitration.CHOICES / LEGACY ("skip" = undecided)
 CHOICES = {"A", "B", "neither", "either", "unknown", "both"}
+STRUCTURE_KINDS = {"structural", "note-structure"}     # deferred as "unknown"
+DEFER_REASON = "auto-deferred to translator"
 
 
 def run(args, **kw):
@@ -205,33 +220,53 @@ def select_apply(m, only=None):
 
 
 def apply_page(pid):
-    """Run apply_arbitration into a temp file; move it to final/ only on exit 0."""
+    """Run apply_arbitration into a temp file; move it to final/ only on exit 0.
+
+    The temp file sits beside final/ (same filesystem), so the move is an atomic replace:
+    an existing final (refinalize) is either kept whole or replaced whole."""
     prog = progress(pid)
     if prog is None or prog[0] != prog[1]:           # belt and braces
         raise RuntimeError(f"undecided items ({prog})")
-    with tempfile.TemporaryDirectory() as td:
+    dest = path("final", pid)
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.TemporaryDirectory(dir=dest.parent.parent, prefix=".apply-") as td:
         tmp = pathlib.Path(td) / f"{pid}.json"
         r = run(pycmd("apply_arbitration.py", needs=("jsonschema",)) + [pid, "--out", tmp])
         if r.returncode or not tmp.exists():
             raise RuntimeError(f"apply exit {r.returncode}: {(r.stderr + r.stdout).strip()[-400:]}")
-        dest = path("final", pid)
-        dest.parent.mkdir(parents=True, exist_ok=True)
-        shutil.move(str(tmp), str(dest))
+        os.replace(tmp, dest)
     return r.stdout.strip().splitlines()[-1] if r.stdout.strip() else ""
 
 
 def cmd_apply(a):
     todo = select_apply(manifest(), set(a.pages) or None)
+    if not todo:
+        print("no fully decided pages without a final")
+    finalize(todo, "finalized")
+
+
+def cmd_refinalize(a):
+    todo = []
+    for pid in a.pages:
+        if not has("final", pid):
+            print(f"SKIPPED {pid}: no final yet (use apply)")
+        elif not has("arbitration/queue", pid):
+            print(f"SKIPPED {pid}: no arbitration queue (final not made by apply_arbitration)")
+        else:
+            todo.append(pid)
+    finalize(todo, "refinalized")
+
+
+def finalize(todo, verb):
+    """apply_page each page, then sync the manifest and re-stitch if anything changed."""
     done = []
     for pid in todo:
         try:
             msg = apply_page(pid)
             done.append(pid)
-            print(f"finalized {pid} -> transcription/final/{pid}.json  {msg}")
+            print(f"{verb} {pid} -> transcription/final/{pid}.json  {msg}")
         except RuntimeError as exc:
             print(f"FAILED {pid}: {exc}")
-    if not todo:
-        print("no fully decided pages without a final")
     n, total = sync_finals()
     print(f"finals: {total} ({n} newly marked)")
     if done:
@@ -240,6 +275,91 @@ def cmd_apply(a):
         print(("stitch: " if not r.returncode else "stitch FAILED: ") + last)
         if r.returncode:
             print(r.stderr.strip())
+
+
+# --- defer ------------------------------------------------------------------
+
+def defer_choice(kind):
+    return "unknown" if kind in STRUCTURE_KINDS or str(kind).startswith("structural") else "either"
+
+
+def defer_page(pid, dry_run=False, now=None):
+    """Auto-defer every undecided item of one queue page.
+
+    Returns {"either": n, "unknown": n, "decided": n}; writes the decisions file
+    (atomically) unless dry_run or nothing to add. Existing decisions are kept as is."""
+    items = json.loads(path("arbitration/queue", pid).read_text()).get("items") or []
+    dpath = path("arbitration/decisions", pid)
+    data = json.loads(dpath.read_text()) if dpath.exists() else {}
+    if not isinstance(data, dict):
+        raise RuntimeError(f"{dpath} is not a JSON object")
+    if "decisions" not in data and data and all(isinstance(v, dict) for v in data.values()):
+        data = {"page": pid, "decisions": data}          # bare {item: decision} file
+    data.setdefault("page", pid)
+    dec = data.setdefault("decisions", {})
+    at = now or datetime.datetime.now().isoformat(timespec="seconds")
+    counts = {"either": 0, "unknown": 0, "decided": 0}
+    for it in items:
+        cur = dec.get(it["id"])
+        if isinstance(cur, dict) and cur.get("choice") in CHOICES:
+            counts["decided"] += 1
+            continue
+        choice = defer_choice(it.get("kind"))
+        counts[choice] += 1
+        dec[it["id"]] = {"choice": choice, "by": "auto", "at": at, "reason": DEFER_REASON}
+    if not dry_run and (counts["either"] or counts["unknown"]):
+        dpath.parent.mkdir(parents=True, exist_ok=True)
+        fd, tmp = tempfile.mkstemp(dir=dpath.parent, prefix=dpath.name + ".", suffix=".tmp")
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(json.dumps(data, indent=1, ensure_ascii=False) + "\n")
+        os.replace(tmp, dpath)
+    return counts
+
+
+def defer_kinds(pid):
+    """{kind: n} of the undecided items of a page (for --dry-run)."""
+    items = json.loads(path("arbitration/queue", pid).read_text()).get("items") or []
+    dpath = path("arbitration/decisions", pid)
+    data = json.loads(dpath.read_text()) if dpath.exists() else {}
+    dec = data.get("decisions", data) if isinstance(data, dict) else {}
+    out = {}
+    for it in items:
+        cur = dec.get(it["id"])
+        if not (isinstance(cur, dict) and cur.get("choice") in CHOICES):
+            out[it.get("kind")] = out.get(it.get("kind"), 0) + 1
+    return out
+
+
+def queue_pages(only=None):
+    """Page ids with a queue file, in manifest order (ids the manifest lacks last)."""
+    qdir = ROOT / "transcription" / "arbitration" / "queue"
+    pids = {p.stem for p in qdir.glob("*.json")} if qdir.is_dir() else set()
+    if only:
+        missing = sorted(set(only) - pids)
+        for pid in missing:
+            print(f"SKIPPED {pid}: no arbitration queue")
+        pids &= set(only)
+    rank = {r["id"]: n for n, r in enumerate(manifest()["pages"])}
+    return sorted(pids, key=lambda p: (rank.get(p, len(rank)), p))
+
+
+def cmd_defer(a):
+    pids = queue_pages(set(a.pages) or None)
+    if not pids:
+        print("no queue pages"); return
+    print("page\tdeferred either\tdeferred unknown\talready decided"
+          + ("\tby kind (dry run)" if a.dry_run else ""))
+    tot = {"either": 0, "unknown": 0, "decided": 0}
+    for pid in pids:
+        c = defer_page(pid, dry_run=a.dry_run)
+        for k in tot:
+            tot[k] += c[k]
+        row = f"{pid}\t{c['either']}\t{c['unknown']}\t{c['decided']}"
+        if a.dry_run:
+            row += "\t" + (", ".join(f"{k}={n}" for k, n in sorted(defer_kinds(pid).items())) or "-")
+        print(row)
+    print(f"total\t{tot['either']}\t{tot['unknown']}\t{tot['decided']}"
+          + ("   (dry run: nothing written)" if a.dry_run else ""))
 
 
 # --- status -----------------------------------------------------------------
@@ -295,9 +415,13 @@ def main(argv=None):
     n.add_argument("--redispatch", action="store_true", help="ignore stale `dispatched` marks")
     q = sub.add_parser("queue"); q.add_argument("--rebuild", action="store_true"); q.add_argument("pages", nargs="*")
     p = sub.add_parser("apply"); p.add_argument("pages", nargs="*")
+    rf = sub.add_parser("refinalize"); rf.add_argument("pages", nargs="+")
+    d = sub.add_parser("defer"); d.add_argument("--dry-run", action="store_true")
+    d.add_argument("pages", nargs="*")
     s = sub.add_parser("status"); s.add_argument("--all", action="store_true")
     a = ap.parse_args(argv)
-    {"next": cmd_next, "queue": cmd_queue, "apply": cmd_apply, "status": cmd_status}[a.cmd](a)
+    {"next": cmd_next, "queue": cmd_queue, "apply": cmd_apply, "status": cmd_status,
+     "refinalize": cmd_refinalize, "defer": cmd_defer}[a.cmd](a)
 
 
 if __name__ == "__main__":

@@ -9,11 +9,488 @@
   "image_no": 139,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/139"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p118",
  "next": "p120",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "tainted and convicted: but only to speak of the penalty, in which the old Romans do not show themselves severe, inasmuch as in those times there were no lurkers after other men's marriages, and one did not hear tell of immodesties nor lecheries <sup class=\"mk\" data-key=\"a\">a</sup>; which was the reason also for which Lycurgus in Lacedaemon established no penalties at all against adulterers <sup class=\"mk\" data-key=\"b\">b</sup>. As to our Jurisconsults: it seems to many that they did not make the penalty of this crime capital <sup class=\"mk\" data-key=\"c\">c</sup>, nay, that they did not wish to punish it with a simple banishment, unless when the adultery was joined with incest, as if one had abused a married kinswoman of one's own <sup class=\"mk\" data-key=\"d\">d</sup>. Nevertheless our Emperors, especially the Christian and Catholic ones, after the example of the Law of God (by which adulterers must die <sup class=\"mk\" data-key=\"e\">e</sup>), have holily judged this crime not only capital, but, passing yet further, worthy of the sword and of natural death <sup class=\"mk\" data-key=\"f\">f</sup>. Among whom Opilius Macrinus, the twenty-third Emperor, had the two bodies of the adulterous man and woman tied together and burnt alive together <sup class=\"mk\" data-key=\"g\">g</sup>; nay, one day he had two of his soldiers (who had violated a woman) put into the bellies of two oxen, each into his own, and their bodies there sewn up and enclosed entirely, except the head, which showed, so that they might be seen speaking together and deploring their misery <sup class=\"mk\" data-key=\"h\">h</sup>. But yet, weighing well the texts of our Jurisconsults, whatever may have been thought until now, they have done no less; which our Justinian shows expressly, when he says that the Julian law on adulterers (interpreted by the Jurisconsults in the Pandects) punished with the sword, that is to say with death, those who thus profane and violate marriages <sup class=\"mk\" data-key=\"i\">i</sup>. It is true that for the quality of the persons, or other circumstances, sometimes this penalty of the sword and of natural death has been restrained and moderated to banishment or other civil death <sup class=\"mk\" data-key=\"k\">k</sup>. As also in like terms we read of the Cornelian law, written against murderers, by which homicides are punished with death <sup class=\"mk\" data-key=\"l\">l</sup>; and nevertheless, by reason of circumstances which sometimes present themselves, a lighter",
+   "continued": true,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Valerius Maximus, <i>Memorable Doings and Sayings</i>, book 2 (cf. 2.1, on the ancient institutions of marriage)",
+     "original": "Valere au liure ij.",
+     "gloss": "The austerity of the old Roman marriage, in which there was no occasion for adultery."
+    },
+    {
+     "key": "b",
+     "citation": "Plutarch, <i>Life of Lycurgus</i>, chapter 15",
+     "original": "Plutarque en la vie de Lycurgus.",
+     "gloss": "Geradas's answer: there are no adulterers at Sparta, so the law names no penalty."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 48.5 (<i>Ad legem Iuliam de adulteriis coercendis</i>), l. 2, § <i>Miles</i> (paragraph unverified; cf. D. 48.5.12(11) on the soldier who compounds with his wife's adulterer); Digest 34.9 (<i>De his quae ut indignis auferuntur</i>), l. <i>Claudius</i> (D. 34.9.13, Papinian)",
+     "original": "l. ij.⟨alt:ij⟩ P. miles. D. de adulte. l. Claudius. D. de iis quib.⟨alt:iuſquin.⟩ vt indig.",
+     "gloss": "D. 34.9.13: Maevius, condemned for adultery with Sempronia, afterwards married her — so the condemned adulterer lived and could marry, the penalty not being capital."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 48.18 (<i>De quaestionibus</i>), l. <i>Si quis viduam</i> (D. 48.18.5, Marcian)",
+     "original": "l ſi quis viduam. D. de quæſtio.",
+     "gloss": "He who has debauched a widow or a married kinswoman whom he could not marry is deported to an island, the crime being double, incest and adultery."
+    },
+    {
+     "key": "e",
+     "citation": "Leviticus 20 (20:10); Deuteronomy 22 (22:22); 1 Corinthians 6 (6:9–10); Hebrews 13 (13:4)",
+     "original": "Leuitique c. xx. Deutero nome c. xxij. j. Corinth. c. vj. Hebrieux c. xiij.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Code 2.4 (<i>De transactionibus</i>), l. <i>Transigere</i> (C. 2.4.18); Code 9.9 (<i>Ad legem Iuliam de adulteriis et de stupro</i>), l. <i>Castitati</i> (fragment number unverified)",
+     "original": "l tranſigere. C. de tranſac. C. de tranſac. caſtitati. C. de adulte.",
+     "gloss": "C. 2.4.18: one may compound a capital charge, adultery excepted — adultery being thus capital; the repeated <i>C. de tranſac.</i> is the print's."
+    },
+    {
+     "key": "g",
+     "citation": "Code 9.9, l. <i>Quamvis</i> (C. 9.9.29(30), Constantine) and l. 2 of the same title; Institutes 4.18 (<i>De publicis iudiciis</i>), § <i>Item lex Iulia de adulteriis</i> (Inst. 4.18.4)",
+     "original": "l quãuis. la ij. C. de adul-P. item lex Iu lia. de pub. iu.",
+     "gloss": "Inst. 4.18.4: the Julian law punishes with the sword those who defile the marriages of others."
+    },
+    {
+     "key": "h",
+     "citation": "Julius Capitolinus, <i>Life of Opilius Macrinus</i> (<i>Historia Augusta</i>), chapter 12",
+     "original": "Iule Capito lin en la vie d'Opilius Ma crinus.",
+     "gloss": "Macrinus bound adulterers together and burnt them alive, and sewed two soldiers who had raped their host's maidservant into the bellies of oxen, heads out, to talk together."
+    },
+    {
+     "key": "i",
+     "citation": "Institutes 4.18.4, as at {g}",
+     "original": "P. item lex Iulia. allegué.",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "citation": "Digest 34.9.13 (l. <i>Claudius</i>) and D. 48.18.5 (l. <i>Si quis viduam</i>), as at {c} and {d}",
+     "original": "l. Claudius &amp; l. ſi quis vi duam, alleguées.",
+     "gloss": "Both show the penalty moderated to deportation."
+    },
+    {
+     "key": "l",
+     "citation": "Code 1.4 (<i>De episcopali audientia</i>), l. 3 (C. 1.4.3); Decretals of Gregory IX, title <i>De homicidio voluntario vel casuali</i> (X 5.12), c. 1; Institutes 4.18 (<i>De publicis iudiciis</i>), § <i>Item lex Cornelia de sicariis</i> (Inst. 4.18.5)",
+     "original": "l. iij. C. de epiſ aud. c j de homici. P. itẽ lex Cornelia⟨alt:Cornelia.⟩ pu. de iud.",
+     "gloss": "Inst. 4.18.5: the Cornelian law pursues homicides with the avenging sword."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "spaced_caps": false,
+   "lines": [
+    "taint & conuaincu: mais ſeulement parler de la peine",
+    "en laquelle les vieux Romains ne ſe monſtrent pas ſe-",
+    "ueres, pourautant qu'en ce temps là ny auoit point au",
+    "cuns guetteurs de mariages d'autruy, & n'entendoit-on",
+    "parler d'impudicitez, ni paillardiſes {a}; qui fut la raiſon",
+    "auſſi, pour laquelle Lycurgus en Lacedemone, ne con-",
+    "ſtitua peines aucunes contre les adulteres {b}. Touchant",
+    "nos Iuriſconſultes. Il ſemble à pluſieurs qu'ils n'ayent",
+    "point fait la peine de ce crime capitale {c}: voire que ne",
+    "l'ayent voulu punir d'vn ſimple banniſſement: ſi ce n'eſt",
+    "quand l'adultere eſtoit conioint auec inceſte: comme",
+    "ſi on auoit abuſé d'vne ſienne parente mariee {d}. Tou-",
+    "tesfois nos Empereurs, meſmement les Chreſtiens, &",
+    "Catholiques, à l'exemple de la Loy de Dieu (par la-",
+    "quelle les adulteres doyuent mourir {e}) ont ſainctemẽt:",
+    "iugé ce crime, non ſeulement capital: mais paſſant en-",
+    "core plus outre, digne du glaiue, & de mort naturelle {f}.",
+    "Entre leſquels, Opilius Macrinus xxiij Empereur fai-",
+    "ſoit attacher les deux corps de l'homme & de la fem",
+    "me adulteres, & bruſler enſemblemẽt tous vifs {g} voire",
+    "vn iour fit mettre deux ſiens ſoldars (qui auoient vio-",
+    "lé vne femme) dans le ventre de deux bœufs, chacun",
+    "dans le ſien, & illec coudre & enclorre leurs corps",
+    "entierement: reſerué la teſte qui ſe monſtroit, à fin",
+    "qu'on les peuſt voir parler enſemble, & deplorer leur",
+    "miſere {h}. Mais encor, à bien poiſer les textes de nos",
+    "Iuriſconſultes, quoy que l'on ayt penſé iuſques icy, ils",
+    "n'en ont pas moins fait. ce que noſtre Iuſtinien mon-",
+    "ſtre diſertement, quand il dit que la loy Iulie, des adul-",
+    "teres (interpretée par les Iuriſconſultes aux Pande-",
+    "ctes) a puni du glaiue, c'eſt à dire de mort, ceux qui pro",
+    "fanent & violent ainſi les mariages {i}. Il eſt vray que",
+    "pour la qualité des perſonnes, ou autres circonſtances,",
+    "quelquesfois ceſte peine de glaiue, & de mort naturel-",
+    "le, a eſté reſtrainte & moderée à banniſſement, ou au-",
+    "tre mort ciuile {k}. Comme auſſi en pareils termes,",
+    "nous liſons de la loy Cornelie, eſcrite contre les",
+    "meurtriers, par laquelle les homicides ſont punis de",
+    "mort {l}; & neantmoins pour raiſon des circonſtances",
+    "qui ſe preſentent quelquesfois, eſt impoſée vne plus"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Valere au",
+    "liure ij."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Plutarque",
+    "en la vie de",
+    "Lycurgus."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. ij. P. miles.",
+    "D. de adulte.",
+    "l. Claudius.",
+    "D. de iis quib.",
+    "vt indig."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l ſi quis vi-",
+    "duam. D. de",
+    "quæſtio."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Leuitique c.",
+    "xx. Deutero",
+    "nome c. xxij.",
+    "j. Corinth. c.",
+    "vj. Hebrieux",
+    "c. xiij."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l tranſigere.",
+    "C. de tranſac.",
+    "C. de tranſac.",
+    "caſtitati. C. de",
+    "adulte."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l quãuis. la",
+    "ij. C. de adul-",
+    "P. item lex Iu",
+    "lia. de pub. iu."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "Iule Capito",
+    "lin en la vie",
+    "d'Opilius Ma",
+    "crinus."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "P. item lex",
+    "Iulia. allegué."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. Claudius",
+    "& l. ſi quis vi",
+    "duam, alle-",
+    "guées."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. iij. C. de e-",
+    "piſ aud. c j de",
+    "homici. P. itẽ",
+    "lex Cornelia",
+    "pu. de iud."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "taint & conuaincu: mais ſeulement parler de la peine",
+   "note": "first letter blotted; short letter read as 't' (at-/taint), could be 'ſ' ('ſaint'); continuation of previous page not checked (no context page)"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "parler d'impudicitez, ni paillardiſes {a}; qui fut la raiſon",
+   "note": "punctuation after marker a: semicolon or colon, lower dot looks tailed"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "l'ayent voulu punir d'vn ſimple banniſſement: ſi ce n'eſt",
+   "note": "punctuation after 'banniſſement' cramped; read as colon, could be semicolon"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "quelle les adulteres doyuent mourir {e}) ont ſainctemẽt:",
+   "note": "line-end mark after 'ſainctemẽt' read as colon; could be a stray/hyphen-like mark; 'doyuent' sic"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "core plus outre, digne du glaiue, & de mort naturelle {f}.",
+   "note": "marker f set tight after 'naturelle'"
+  },
+  {
+   "where": "blocks[0].lines[19]",
+   "text": "me adulteres, & bruſler enſemblemẽt tous vifs {g} voire",
+   "note": "no punctuation visible after marker g"
+  },
+  {
+   "where": "blocks[0].lines[27]",
+   "text": "n'en ont pas moins fait. ce que noſtre Iuſtinien mon-",
+   "note": "period (not comma) after 'fait' before lowercase 'ce'; could be comma, ink faint"
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "text": "mort {l}; & neantmoins pour raiſon des circonſtances",
+   "note": "punctuation after marker l: semicolon or colon"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Valere au",
+   "note": "'au' blotted, looks like 'am'"
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "text": "D. de iis quib.",
+   "note": "letters look like 'iuquin.'; read as 'iis quib.' (title de his quibus ut indignis)"
+  },
+  {
+   "where": "margin_notes[5].lines[2]",
+   "text": "C. de tranſac.",
+   "note": "'C. de tranſac.' appears printed twice on consecutive lines; transcribed as printed"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "l quãuis. la",
+   "note": "'la' at line end uncertain; tilde on a"
+  },
+  {
+   "where": "margin_notes[10].lines[1]",
+   "text": "piſ aud. c j de",
+   "note": "spacing/punctuation in 'c j' unclear"
+  },
+  {
+   "where": "margin_notes[10].lines[3]",
+   "text": "lex Cornelia",
+   "note": "'lex' blotted, looks like 'l.x'"
+  },
+  {
+   "where": "margin_notes[10].lines[4]",
+   "text": "pu. de iud.",
+   "note": "'pu.' blotted, possibly 'pub.'"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "quelle les adulteres doyuent mourir {e}) ont ſainctemẽt:",
+   "note": "two dots after 'ſainctemẽt' read as a colon by shape though the sense wants no punctuation; may be a stray mark or broken sort"
+  },
+  {
+   "where": "blocks[0].lines[27]",
+   "text": "n'en ont pas moins fait. ce que noſtre Iuſtinien mon-",
+   "note": "'fait.' — period by shape, lower-case 'ce' follows; 't' of fait looks like 'r' (fair?), read as fait"
+  },
+  {
+   "where": "blocks[0].lines[37]",
+   "text": "meurtriers, par laquelle les homicides ſont punis de",
+   "note": "a hyphen-like mark sits between 'les' and 'homicides' ('les-homicides'); treated as spacing debris"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Valere au",
+   "note": "last word blotted, looks like 'am'; read 'au'"
+  },
+  {
+   "where": "margin_notes[5].lines[2]",
+   "text": "C. de tranſac.",
+   "note": "'C. de tranſac.' printed twice on consecutive lines (sense expects 'l. caſtitati' second); transcribed as printed, sic"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "l quãuis. la",
+   "note": "'la' at line end probably a wrong sort for 'l.' (l. ij.); tilde over a of quãuis; sic"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "d'Opilius Ma",
+   "note": "'Opilius' partly blotted, may read 'Opiliu'"
+  },
+  {
+   "where": "margin_notes[10].lines[1]",
+   "text": "piſ aud. c j de",
+   "note": "'c j' uncertain (possibly 'l. j'); faint"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "taint & conuaincu: mais ſeulement parler de la peine",
+   "b": "ſaint & conuaincu: mais ſeulement parler de la peine",
+   "text": "taint & conuaincu: mais ſeulement parler de la peine",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "at|taint = attaint, the set phrase 'attaint & convaincu' (annot-019); 'at saint' is nothing"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "target": "blocks[0].lines[4]",
+   "spans": [
+    [
+     38,
+     42
+    ]
+   ],
+   "aligned": true,
+   "a": "parler d'impudicitez, ni paillardiſes {a}; qui fut la raiſon",
+   "b": "parler d'impudicitez, ni paillardiſes {a}: qui fut la raiſon",
+   "text": "parler d'impudicitez, ni paillardiſes {a}; qui fut la raiſon",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[0].lines[23]",
+   "target": "blocks[0].lines[23]",
+   "spans": [
+    [
+     0,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "entierement: reſerué la teſte qui ſe monſtroit, à fin",
+   "b": "entierement; reſerué la teſte qui ſe monſtroit, à fin",
+   "text": "entierement: reſerué la teſte qui ſe monſtroit, à fin",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "blocks[0].lines[38]",
+   "target": "blocks[0].lines[38]",
+   "spans": [
+    [
+     5,
+     9
+    ]
+   ],
+   "aligned": true,
+   "a": "mort {l}; & neantmoins pour raiſon des circonſtances",
+   "b": "mort {l}: & neantmoins pour raiſon des circonſtances",
+   "text": "mort {l}; & neantmoins pour raiſon des circonſtances",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "target": "margin_notes[2].lines[0]",
+   "spans": [
+    [
+     3,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "l. ij. P. miles.",
+   "b": "l. ij P. miles.",
+   "text": "l. ij. P. miles.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[2].lines[3]",
+   "target": "margin_notes[2].lines[3]",
+   "spans": [
+    [
+     6,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "D. de iis quib.",
+   "b": "D. de iuſquin.",
+   "text": "D. de iis quib.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "'D. de iis quib. vt indig.' is the Digest title De his quibus ut indignis (D. 34.9), where l. Claudius stands; iuſquin is nothing"
+  },
+  {
+   "where": "margin_notes[10].lines[3]",
+   "target": "margin_notes[10].lines[3]",
+   "spans": [
+    [
+     4,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "lex Cornelia",
+   "b": "lex Cornelia.",
+   "text": "lex Cornelia",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

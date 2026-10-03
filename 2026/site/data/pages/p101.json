@@ -9,11 +9,557 @@
   "image_no": 121,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/121"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p100",
  "next": "p102",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "And this kind of fault, although at the execution there was some will, caused by this or a like passion, nevertheless, because such will was not premeditated nor deliberate, but rather forced and constrained by passion <sup class=\"mk\" data-key=\"k\">k</sup>, is easily pardoned <sup class=\"mk\" data-key=\"l\">l</sup>, especially since it is very difficult for a man so justly provoked to restrain and master himself <sup class=\"mk\" data-key=\"m\">m</sup> — witness him who dared to lay hand upon Pope John XIII and cut his throat, having found him misconducting himself with his wife <sup class=\"mk\" data-key=\"n\">n</sup>. Crimes not voluntarily committed are those which are excused as fortuitous, and by some disaster of error or ignorance <sup class=\"mk\" data-key=\"o\">o</sup>: as when Telegonus, son of Ulysses and of Circe, by chance killed his father, not knowing him, and thinking he had to do with the servants, who would not allow him entry into his father's house <sup class=\"mk\" data-key=\"p\">p</sup>. As likewise if, at the hunt, thinking to hurl the dart against a roe-deer, a boar, or other wild beast, one should meet with a man who died or was wounded by that blow <sup class=\"mk\" data-key=\"q\">q</sup>. And in the deed which here presents itself: if a woman, thinking she has to do with her husband, is known by another, or a man, believing he approaches his wife, converses with another, both are more worthy of excuse than of penalty <sup class=\"mk\" data-key=\"r\">r</sup>, as we shall discourse more amply hereafter. Otherwise Lot would have been incestuous when he got his two daughters with child, believing he had to do with his wife <sup class=\"mk\" data-key=\"ſ\">ſ</sup>. Certainly such kinds of offences, inasmuch as they proceed from no evil will, seem to be excusable <sup class=\"mk\" data-key=\"t\">t</sup>; unless there were some preceding evil work which had occasioned this deed <sup class=\"mk\" data-key=\"u\">u</sup>: for already he who committed the crime was in fault, exercising an act in itself evil and reprobate, whence his intention, considering the beginning, was corrupted and depraved. As for example: if I have the will to murder Antoine, and, thinking to slay him, I kill François, I am not excused: for my purpose has always been to kill a man <sup class=\"mk\" data-key=\"x\">x</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "k",
+     "citation": "Digest 4.2 (<i>Quod metus causa gestum erit</i>), l. <i>Si mulier</i> (cf. D. 4.2.21, Paul), the penultimate paragraph (unverified)",
+     "original": "l. ſi mulier P. penult. D. quod met. ca.",
+     "gloss": null
+    },
+    {
+     "key": "l",
+     "citation": "Digest 47.2 (<i>De furtis</i>), l. <i>Verum</i> (fragment not identified); and D. 1.1.3, l. <i>Ut vim</i>, cited at {i}",
+     "original": "l. verum. D. de fur. l. vt vĩ alleguee.",
+     "gloss": null
+    },
+    {
+     "key": "m",
+     "citation": "Digest 48.5.39 (<i>Ad legem Iuliam de adulteriis</i>, l. <i>Si adulterium cum incesto</i>, Papinian; 48.5.38 in some editions), § <i>Imperator</i> (§ 8)",
+     "original": "l. ſi adulte rium. P. imp. D. de adult.",
+     "gloss": "The rescript of Marcus and Commodus: the husband who kills his wife taken in adultery, <i>impetu tractus doloris</i>, \"carried away by the impulse of grief\", does not suffer the full penalty of the lex Cornelia de sicariis, because it is most difficult to restrain a just grief (<i>difficillimum est iustum dolorem temperare</i>)."
+    },
+    {
+     "key": "n",
+     "citation": "Platina (Bartolomeo Sacchi), <i>Lives of the Popes</i> (<i>Liber de vita Christi ac omnium pontificum</i>), the life of John XIII in Platina's count",
+     "original": "Platina en la vie des pa-pes.",
+     "gloss": "Platina's John XIII is the modern John XII (Octavian), said to have been struck down by the husband of a woman with whom he was taken in adultery, and to have died within days; Coras's <i>luy couper la gorge</i> sharpens the story."
+    },
+    {
+     "key": "o",
+     "citation": "Digest 48.19.11.2, l. <i>Respiciendum</i> (<i>Perspiciendum</i>), the penultimate paragraph as printed (the law has only §§ 1–2 in the modern division; the chance-killing is in § 2, cited at {c}); and D. 1.3.1–2, cited at {b}",
+     "original": "l. reſpicien dum P. penul. D. de pœn. l. j. &amp; ij. D. de legib.",
+     "gloss": "<i>Casu vero, cum in venando telum in feram missum hominem interfecit</i> — \"by chance, as when in hunting a weapon aimed at a beast kills a man\"."
+    },
+    {
+     "key": "p",
+     "citation": "Ovid, <i>Fasti</i>, book III as cited (3.92 names Telegonus as founder of Tusculum; the killing of Ulysses by his son Telegonus is told in the epic <i>Telegony</i>, in Hyginus, <i>Fabulae</i> 127, and alluded to in Ovid, <i>Ibis</i> 567–568 — the detail that Telegonus took his father for a servant is not in these)",
+     "original": "Ouide au iij des Faſtes.",
+     "gloss": null
+    },
+    {
+     "key": "q",
+     "citation": "Decretals X 5.12 (<i>De homicidio voluntario vel casuali</i>), c. <i>Lator</i> (chapter number unverified); and D. 48.19.11.2, the last paragraph of l. <i>Respiciendum</i>, cited at {c}",
+     "original": "c. lator. de homicid. P. final de la l. reſpiciẽdum. alleguee.",
+     "gloss": null
+    },
+    {
+     "key": "r",
+     "citation": "Gratian, <i>Decretum</i>, C. 31 q. 1 c. 1 as printed (unverified); and the chapters <i>Si virgo</i> and <i>In lectum</i> at \"C. 33 q. 2\" as printed — these two chapters, on the woman who lies with a man she takes for her husband, stand in the modern division at C. 34 qq. 1–2 (chapter numbers unverified)",
+     "original": "c. j xxxi q. j c. ſi virgo C. in lectũ. xxxiij. q. ij.",
+     "gloss": "The chapter <i>Si virgo</i> is cited again at annot-077 {a} for the rule that such a woman is not an adulteress until she knows."
+    },
+    {
+     "key": "ſ",
+     "citation": "Genesis 19 (19:30–38, Lot and his daughters); and Gratian, <i>Decretum</i>, C. 15 q. 1, c. <i>Inebriaverunt</i> (chapter number unverified)",
+     "original": "Geneſe c. xix. c. inebria uerũt xv q j.",
+     "gloss": "C. 15 q. 1 treats offences committed in drunkenness or madness; the chapter takes its incipit from Lot's daughters making their father drunk."
+    },
+    {
+     "key": "t",
+     "citation": "Digest 9.2.11 (<i>Ad legem Aquiliam</i>, l. <i>Item Mela</i>, Ulpian); and Decretals X 5.12, c. <i>Lator</i>, cited at {q}",
+     "original": "l item Mel la. D. ad l. Aquil. c. lator allegué.",
+     "gloss": "<i>Item Mela scribit, si, cum pila quidam luderent…</i> — the ball that strikes the barber's hand so that he cuts the slave's throat: the classic case of liability without evil intent, where fault lies with whoever acted carelessly."
+    },
+    {
+     "key": "u",
+     "citation": "Digest 48.8.1 (<i>Ad legem Corneliam de sicariis et veneficis</i>, l. <i>Lege Cornelia</i>, Marcian), § 1; Digest 9.2 (<i>Ad legem Aquiliam</i>), l. <i>Qui servus</i> (?) at the paragraph <i>Si fornicarius</i> — not identified; and Decretals X 5.12, c. <i>Continebatur</i> (chapter number unverified)",
+     "original": "l. lege. P. j de ſiccar. l. q ſeruus. D. ſi fornicarius. D. ad l. Aqui. c. contine latur. de homi.",
+     "gloss": "The transcription's <i>contine latur</i> is <i>Continebatur</i>; <i>l. q ſeruus</i> is probably <i>l. qui servus</i> or <i>l. quod servus</i>, but no fragment of D. 9.2 with a paragraph <i>Si fornicarius</i> could be identified."
+    },
+    {
+     "key": "x",
+     "citation": "Digest 9.2.45 (<i>Ad legem Aquiliam</i>, l. <i>Scientiam</i>, Paul), § 4, the last paragraph; Digest 47.10 (<i>De iniuriis et famosis libellis</i>), l. <i>Cum qui</i> (?), § <i>Si iniuria</i> — fragment not identified (cf. D. 47.10.4, Paul: he who, meaning to strike his slave, unwillingly strikes a bystander, is not liable for <i>iniuria</i>); and Bartolus (<i>Bartole</i>) on D. 48.19.11, l. <i>Respiciendum</i>, at the last paragraph",
+     "original": "l ſcientiam. P. final. D. ad l. Aquil. l. cũ qui. P. ſi iniu ria. D. de iniu riis. Bartole en la l. reſpiciendum. P. final.",
+     "gloss": "D. 9.2.45.4: <i>si defendendi mei causa lapidem in adversarium misero, sed non eum, sed praetereuntem percussero, tenebor lege Aquilia</i> — if, defending myself, I throw a stone at my adversary and hit a passer-by instead, I am liable: the stone meant for one man and striking another, which is Coras's Antoine and François."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Accusing the sisters of the said Martin above all the others, who had too eas",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "spaced_caps": false,
+   "lines": [
+    "Et telle maniere de coulpe, bien qu'a l'execution y",
+    "ayt éu quelque volonté, cauſee de ceſte ou ſemblable",
+    "paſſion: toutesfois par ce que telle volõté n'eſtoit pour",
+    "penſee, ni deliberee, ains pluſtoſt forcee & cõtrainte de",
+    "paſſion {k}, ſe pardonne aiſement {l}, meſmes qu'il eſt",
+    "fort difficile à vn homme ſi iuſtement irrité, ſe retenir,",
+    "& dompter ſoy-meſmes {m}, teſmoin celuy qui oſa bien",
+    "mettre la main ſur le Pape Iean xiij, & luy couper la",
+    "gorge, l'ayant trouué maluerſant auec ſa femme {n}. Les",
+    "crimes non volontairement commis, ſont ceux qui",
+    "fortuitement, & par quelque deſaſtre d'erreur ou d'i-",
+    "gnorance ſ'excuſent {o}, comme quand Telegonus fils",
+    "d'Vliſſes, & de Circé, caſuellement tua ſon pere, ne le",
+    "cognoiſſant point: & penſant auoir affaire aux ſerui",
+    "teurs, qni ne luy vouloyent permettre l'entree de la",
+    "maiſon paternelle {p}. Comme pareillement, ſi à la chaſſe",
+    "penſant eſlancer le dart contre vn cheureul, ſanglier, ou",
+    "autre beſte ſauuage, on rencontroit vn homme. que de",
+    "ce coup mouruſt, ou fut bleſſé {q}. Et au faict, qui ſe pre-",
+    "ſente, ſi vne femme penſant auoir a faire à ſon mari,",
+    "eſt cogneue d'vn autre. ou l'homme cuidãt ſ'aprocher",
+    "de ſa femme, conuerſe auec vne aurre: tous deux ſont",
+    "dignes plus d'excuſe, que de peine {r}. comme nous diſ",
+    "courrons plus amplement ci apres. Autrement Lot euſt",
+    "eſté inceſtueux, quant il engroſſit ſes deux filles, cuidãt",
+    "auoir affaire a ſa femme {ſ}. Certes telles manieres d'of",
+    "fenſes, d'autant que ne procedent d'aucune mauuaiſe",
+    "volonté, ſemblent eſtre excuſables {t}. Si ce n'eſt qu'il y",
+    "euſt quelque œuure precedente mauuaiſe, qui euſt oc",
+    "caſionné ce fait {u}: car deſia celuy qui a commis le crime,",
+    "eſtoit en coulpe, exerceant vn acte de ſoy mauuais, &",
+    "reprouué. dont ſon intention, attendu le cõmencemẽt",
+    "eſtoit corrumpue & deprauee. comme par exemple",
+    "Si i'ay volonté de meurtrir Antoine, & le pẽſant occire",
+    "ie tue Françoys ie ne ſuis excuſé: car mõ propos touſ-",
+    "iours a eſté de tuer vn homme {x}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": false,
+   "lines": [
+    "Accuſant les ſeurs dudit Martin ſur",
+    "tous les autres, qui auoyent trop faci"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. ſi mulier",
+    "P. penult. D.",
+    "quod met. ca."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. verum. D.",
+    "de fur. l. vt vĩ",
+    "alleguee."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "l. ſi adulte",
+    "rium. P. imp.",
+    "D. de adult."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "Platina en",
+    "la vie des pa-",
+    "pes."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "l. reſpicien",
+    "dum P. penul.",
+    "D. de pœn. l.",
+    "j. & ij. D. de",
+    "legib."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "Ouide au iij",
+    "des Faſtes."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "c. lator. de",
+    "homicid. P. fi-",
+    "nal de la l. re-",
+    "ſpiciẽdum. al-",
+    "leguee."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "c. j xxxi q.",
+    "j c. ſi virgo C.",
+    "in lectũ. xxx-",
+    "iij. q. ij."
+   ]
+  },
+  {
+   "key": "ſ",
+   "kind": "margin",
+   "lines": [
+    "Geneſe c.",
+    "xix. c. inebria",
+    "uerũt xv q j."
+   ]
+  },
+  {
+   "key": "t",
+   "kind": "margin",
+   "lines": [
+    "l item Mel",
+    "la. D. ad l. A-",
+    "quil. c. lator",
+    "allegué."
+   ]
+  },
+  {
+   "key": "u",
+   "kind": "margin",
+   "lines": [
+    "l. lege. P. j",
+    "de ſiccar. l. q",
+    "ſeruus. D. ſi",
+    "fornicarius.",
+    "D. ad l. Aqui.",
+    "c. contine la-",
+    "tur. de homi."
+   ]
+  },
+  {
+   "key": "x",
+   "kind": "margin",
+   "lines": [
+    "l ſcientiam.",
+    "P. final. D. ad",
+    "l. Aquil. l. cũ",
+    "qui. P. ſi iniu",
+    "ria. D. de iniu",
+    "riis. Bartole",
+    "en la l. reſpi-",
+    "ciendum. P.",
+    "final."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "teurs, qni ne luy vouloyent permettre l'entree de la",
+   "note": "sic: 'qni' for 'qui' (turned n)"
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "autre beſte ſauuage, on rencontroit vn homme. que de",
+   "note": "'beſte' could read 'belte' (ſt ligature damaged); the mark after 'homme' looks like a period"
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "text": "de ſa femme, conuerſe auec vne aurre: tous deux ſont",
+   "note": "sic?: 'aurre' — second letter after 'au' looks like a raised r rather than t; could be a damaged 'autre'"
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "eſté inceſtueux, quant il engroſſit ſes deux filles, cuidãt",
+   "note": "'engroſſit' vs 'engroſsit': ſſ vs ſs not certain at this resolution"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "quod met. ca.",
+   "note": "the vowel may be printed 'qued'"
+  },
+  {
+   "where": "margin_notes[1].lines[0]",
+   "text": "l. verum. D.",
+   "note": "the note opens with a single 'l' followed by '. verum'; it may be only the key l (with the lex 'l.' omitted) or only the lex abbreviation with no separate key; treated as key l and kept as 'l.'"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "de fur. l. vt vĩ",
+   "note": "'vĩ' has a bar/tilde over i; could be plain 'vi'"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "D. de pœn. l.",
+   "note": "stray apostrophe-like mark between 'D.' and 'de' ignored"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "Ouide au iij",
+   "note": "'Ouide' printed like 'Onide' (n/u); 'iij' printed with diaeresis-like dots over the final j"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "homicid. P. fi-",
+   "note": "'homicid' looks like 'hornicid' (m blurred)"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "xix. c. inebria",
+   "note": "last letter(s) of 'inebria' blotted; a hyphen may be lost"
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "text": "quil. c. lator",
+   "note": "a stray mark (possibly ';') after 'c.'"
+  },
+  {
+   "where": "margin_notes[10].lines[2]",
+   "text": "ſeruus. D. ſi",
+   "note": "could be printed 'ſruus' (e faint)"
+  },
+  {
+   "where": "margin_notes[10].lines[5]",
+   "text": "c. contine la-",
+   "note": "sic: 'contine' (for 'continebatur' broken 'contine la-tur')"
+  },
+  {
+   "where": "blocks[0]",
+   "text": "Et telle maniere de coulpe, bien qu'a l'execution y",
+   "note": "no preceding-page context available; continues_prev set true since the page opens flush left with no indent, mid-annotation (markers start at k)"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "paſſion {k}, ſe pardonne aiſement {l}, meſmes qu'il eſt",
+   "note": "after marker k the print shows a comma followed by a second stray mark (like a comma or semicolon); transcribed as a single comma"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "paſſion {k}, ſe pardonne aiſement {l}, meſmes qu'il eſt",
+   "note": "marker l has no visible margin note: margin runs k, m, n with nothing keyed l"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "teurs, qni ne luy vouloyent permettre l'entree de la",
+   "note": "sic: 'qni' for 'qui' (turned/wrong sort), transcribed as printed"
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "text": "de ſa femme, conuerſe auec vne aurre: tous deux ſont",
+   "note": "sic: 'aurre' for 'autre' (first r seems raised/wrong sort), transcribed as printed"
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "eſté inceſtueux, quant il engroſſit ſes deux filles, cuidãt",
+   "note": "'engroſſit' letters after 'gro' blotted; ſſ read from shape"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "quod met. ca.",
+   "note": "first word could be printed 'qued'; the o is poorly formed"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "text": "alleguee.",
+   "note": "appears to read 'alleguee.' (cf. q 'leguee.' and t 'allegue.'); could be 'allegue.'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "xix. c. inebria",
+   "note": "last letter(s) at line end blotted; 'inebria' with possible lost hyphen (inebria-uerũt)"
+  },
+  {
+   "where": "margin_notes[9].lines[0]",
+   "text": "l item Mel",
+   "note": "no clear period after 'l'; 'Mel' capital M uncertain"
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "text": "quil. c. lator",
+   "note": "after 'c.' a stray mark like a semicolon precedes 'lator'; ignored"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "Ouide au iij",
+   "note": "numeral set with dots like 'iÿ'; read as iij"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[4]",
+   "target": "blocks[0].lines[4]",
+   "spans": [
+    [
+     8,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "paſſion {k}., ſe pardonne aiſement {l}, meſmes qu'il eſt",
+   "b": "paſſion {k}, ſe pardonne aiſement {l}, meſmes qu'il eſt",
+   "text": "paſſion {k}, ſe pardonne aiſement {l}, meſmes qu'il eſt",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "{k}, with a single comma; a point followed by a comma after the marker is an unlikely setting, and the clause continues (se pardonne aisement); the translation is the same."
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "target": "blocks[0].lines[11]",
+   "spans": [
+    [
+     9,
+     19
+    ]
+   ],
+   "aligned": true,
+   "a": "gnorance ſ'excuſent {o}, comme quand Telegonus fils",
+   "b": "gnorance l'excuſent {o}, comme quand Telegonus fils",
+   "text": "gnorance ſ'excuſent {o}, comme quand Telegonus fils",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "ſ'excuſent, reflexive: the involuntary crimes are those which 'are excused' by chance, error or ignorance; l'excuſent would want an object the sentence does not supply."
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "target": "blocks[0].lines[17]",
+   "spans": [
+    [
+     6,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "autre beſte ſauuage, on rencontroit vn homme. que de",
+   "b": "autre belte ſauuage, on rencontroit vn homme. que de",
+   "text": "autre beſte ſauuage, on rencontroit vn homme. que de",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "beſte = beste, 'beast' (cheureul, sanglier, ou autre beste sauuage); belte is no word, a misread of long ſ as l."
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "target": "blocks[0].lines[32]",
+   "spans": [
+    [
+     39,
+     46
+    ]
+   ],
+   "aligned": true,
+   "a": "eſtoit corrumpue & deprauee. comme par exemple",
+   "b": "eſtoit corrumpue & deprauee. comme par exemple,",
+   "text": "eſtoit corrumpue & deprauee. comme par exemple",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "target": "margin_notes[3].lines[1]",
+   "spans": [
+    [
+     11,
+     14
+    ]
+   ],
+   "aligned": true,
+   "a": "la vie des pa-",
+   "b": "la vie des Pa-",
+   "text": "la vie des pa-",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[9].lines[3]",
+   "target": "margin_notes[9].lines[3]",
+   "spans": [
+    [
+     0,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "allegué.",
+   "b": "allegue.",
+   "text": "allegué.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[10].lines[4]",
+   "target": "margin_notes[10].lines[4]",
+   "spans": [
+    [
+     6,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "D. ad l. Aqui.",
+   "b": "D. ad l Aqui.",
+   "text": "D. ad l. Aqui.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[0]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "[k] l. ſi mulier\nP. penult. D.\nquod met. ca.\n[l] l. verum. D.\nde fur. l. vt vĩ\nalleguee.",
+   "b": "[k] l. ſi mulier\nP. penult. D.\nquod met. ca.\nl. verum. D.\nde fur. l. vt vĩ\nalleguee.",
+   "text": "[k] l. ſi mulier\nP. penult. D.\nquod met. ca.\n[l] l. verum. D.\nde fur. l. vt vĩ\nalleguee.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

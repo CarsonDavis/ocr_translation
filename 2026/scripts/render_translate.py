@@ -8,6 +8,11 @@
       files of the SIZE sections before START_ID (the previous batch). Report path:
       translation/reports/batch-<first>--<last>.md.
 
+Both forms embed the alt-marker table for the sections in the prompt (from text/alts.json,
+written by stitch_text.py) and name the alt-choices file the translator must write:
+translation/alt-choices/<SECTION_ID>.json or translation/alt-choices/batch-<first>--<last>.json
+(fed back by scripts/apply_translator_choices.py).
+
 Redirect stdout into the scratchpad (the prompt is not written anywhere by this script).
 """
 import argparse, json, pathlib, re, sys
@@ -40,21 +45,67 @@ def batch_ids(secs, start_id, size):
     return out
 
 
-def render_single(tpl, secs, section_id, n, root=ROOT):
+def load_alts(root=ROOT):
+    """The records of text/alts.json, or [] (with a warning) when it is missing."""
+    f = root / "text/alts.json"
+    if not f.exists():
+        print(f"warning: {f} not found (re-run stitch_text.py); no alt table", file=sys.stderr)
+        return []
+    return json.loads(f.read_text(encoding="utf-8")).get("alts") or []
+
+
+def _cell(t):
+    return "`" + str(t).replace("|", "\\|").replace("`", "'") + "`"
+
+
+def alt_table(alts, section_ids, secs=None):
+    """The prompt's alt-marker table for `section_ids` (a sentence when there are none)."""
+    rows = [r for r in alts if r.get("section") in set(section_ids)]
+    if not rows:
+        return ("Alt markers in these sections: **none**. Still write the alt-choices file, "
+                "containing an empty list `[]`.")
+    if secs is not None:                 # alts.json older than sections.json?
+        text = {s["id"]: s.get("text", "") + "".join(n.get("text", "") for n in s.get("notes") or [])
+                for s in secs}
+        stale = [r["alt_id"] for r in rows if r["marker"] not in text.get(r["section"], "")]
+        if stale:
+            print("warning: alt markers not found in text/sections.json (stale alts.json?): "
+                  + ", ".join(stale), file=sys.stderr)
+    out = [f"Alt markers in these sections ({len(rows)}); `a` / `b` are the whole printed line "
+           "as reading A / B:", "",
+           "| alt_id | section | marker | a | b | context |", "|---|---|---|---|---|---|"]
+    for r in rows:
+        out.append("| " + " | ".join([r["alt_id"], r["section"], _cell(r["marker"]), _cell(r["a"]),
+                                       _cell(r["b"]), _cell(r["context"])]) + " |")
+    return "\n".join(out)
+
+
+def fill_alts(text, alts, section_ids, choices_path, secs=None):
+    return (text.replace("{ALT_TABLE}", alt_table(alts, section_ids, secs))
+            .replace("{ALT_CHOICES_PATH}", choices_path))
+
+
+def render_single(tpl, secs, section_id, n, root=ROOT, alts=None):
     ids = [s["id"] for s in secs]
     ctx = context(ids, ids.index(section_id), n, root)
-    return (select_mode(tpl, "single").replace("{SECTION_ID}", section_id)
+    alts = load_alts(root) if alts is None else alts
+    tpl = fill_alts(select_mode(tpl, "single"), alts, [section_id],
+                    f"translation/alt-choices/{section_id}.json", secs)
+    return (tpl.replace("{SECTION_ID}", section_id)
             .replace("{CONTEXT_SECTIONS}", ", ".join(ctx) if ctx else "none (this is the first section)"))
 
 
-def render_batch(tpl, secs, start_id, size, root=ROOT):
+def render_batch(tpl, secs, start_id, size, root=ROOT, alts=None):
     ids = [s["id"] for s in secs]
     batch = batch_ids(secs, start_id, size)
     if not batch:
         raise SystemExit(f"{start_id} is not complete in text/sections.json; nothing to translate")
     ctx = context(ids, ids.index(start_id), size, root)
     report = f"translation/reports/batch-{batch[0]}--{batch[-1]}.md"
-    return (select_mode(tpl, "batch")
+    alts = load_alts(root) if alts is None else alts
+    tpl = fill_alts(select_mode(tpl, "batch"), alts, batch,
+                    f"translation/alt-choices/batch-{batch[0]}--{batch[-1]}.json", secs)
+    return (tpl
             .replace("{SECTION_IDS}", ", ".join(f"`{b}`" for b in batch))
             .replace("{BATCH_SIZE}", f"{len(batch)} sections")
             .replace("{REPORT_PATH}", report)

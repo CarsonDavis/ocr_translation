@@ -1,0 +1,47 @@
+{
+ "page": "p099",
+ "decisions": {
+  "b-002": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "b-028": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "The word selon is divided at the line end (ſe-|lon); the hyphen is the expected sign of division and the sense is the same either way."
+  },
+  "b-029": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "Calliſtrat = Callistratus, the jurist of D. 22.5.3 whom Coras is quoting; Callittrat is no name."
+  },
+  "b-030": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "The sentence continues (Iurisconsulte, poursuyuant l'argument d'Adrian...); a comma, not a full stop, fits the syntax."
+  },
+  "b-038": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "c'est à mon aduis, ce que... is one clause; a comma suits it, a semicolon would sever the relative from its antecedent."
+  },
+  "n-a-0": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "veuë matches the same formula printed on p098 (Soit veuë l'annotation xxx.); both spellings give veue and translate alike."
+  },
+  "n-c-1": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  }
+ }
+}

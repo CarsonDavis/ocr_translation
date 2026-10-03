@@ -9,11 +9,360 @@
   "image_no": 108,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/108"
  },
- "running_head": null,
+ "running_head": "ARREST DV.",
  "prev": "p085",
  "next": "p087",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "the contrary, that this same du Tilh was Martin Guerre her husband; nay, when he was under prosecution [<i>en prevention</i>: a judge having taken cognizance of a matter against him] for the same deed before the Seneschal of Toulouse, she went often to see him, giving him succour of money and of other necessary things — remaining, as is to be presumed, always in this error.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "c",
+     "citation": "Digest 22.3 (<i>De probationibus et praesumptionibus</i>), l. <i>Eum qui</i> (fragment not identified); Accursius (<i>Accurſe</i>), the Gloss on Digest 2.8 (<i>Qui satisdare cogantur vel iurato promittant vel suae promissioni committantur</i>), l. <i>Si vero</i>, § <i>Qui pro rei</i> (fragment and paragraph not identified)",
+     "original": "l. eum qui. D. de probat. Accurſe, en la l. ſi vero. P. qui pro rei. D qui ſatiſ. cog.",
+     "gloss": "The print's <i>P.</i> is its sort for the paragraph sign §. The gloss is cited for the rule that a change of will is not presumed but must be proved."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXVII"
+  },
+  {
+   "type": "paragraph",
+   "html": "One does not readily, and without cause, presume an error in any person whatsoever <sup class=\"mk\" data-key=\"a\">a</sup>; nevertheless, once a man is in some error, it is to be presumed that he perseveres in it, unless the contrary appears <sup class=\"mk\" data-key=\"b\">b</sup>: for a change of will is not to be presumed, and still less that any new accidents have supervened which could cause it. But rather, on the contrary, one presumes from the past to the present time <sup class=\"mk\" data-key=\"d\">d</sup>: as that an enemy, a perjurer, a rich man, a poor man, a subject, an excommunicate, is still so at this day <sup class=\"mk\" data-key=\"e\">e</sup>. Whence the said de Rols, circumvented by her sisters-in-law and uncle, who had so thoroughly murmured it in her ear, and so often assured her that the prisoner was truly Martin Guerre, having taken up such a persuasion, was justly given occasion to love, receive and defend him as her husband.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 1.18 (<i>De iuris et facti ignorantia</i>), l. <i>Si post divisionem</i> (fragment number not verified)",
+     "original": "l. ſi poſt diuiſionẽ. C. de iur. et fact. ig.",
+     "gloss": "Error of fact is not lightly presumed in anyone."
+    },
+    {
+     "key": "b",
+     "citation": "Decretals, X 3.27 (<i>De successionibus ab intestato</i>), the last chapter (c. <i>fin.</i>)",
+     "original": "c. fi. de ſucceſ. ab inteſt.",
+     "gloss": "Cited for the presumption that a state of mind once shown continues until the contrary is shown; the bearing of the chapter could not be verified."
+    },
+    {
+     "key": "d",
+     "citation": "Code 4.19 (<i>De probationibus</i>), l. <i>Sive possidetis</i> (fragment number not verified)",
+     "original": "l. ſiue poſsidetis. C. de proba.",
+     "gloss": "The presumption from a past state to the present: what is shown to have been is presumed to continue."
+    },
+    {
+     "key": "e",
+     "citation": "Decretals, X 2.23 (<i>De praesumptionibus</i>), c. <i>Litteris</i> (chapter number not verified); Decretum, C. 22 q. 5, c. <i>Parvuli</i> (canon number not verified); Decretals, X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Praeterea</i> (as cited in the case file §6.3), and a <i>l. ij.</i> under <i>De testibus</i> (Digest 22.5.2 or Code 4.20.2; the book is not stated); Code 3.36 (<i>Familiae erciscundae</i>), l. <i>In ipsius</i> (fragment number not verified), and Baldus (<i>Balde</i>) there; Decretals, X 5.39 (<i>De sententia excommunicationis</i>), c. <i>Sicut nobis</i> (chapter number not verified); the Masters (the doctors) on Digest 44.1.2 (<i>De exceptionibus, praescriptionibus et praeiudiciis</i>, l. 2, Ulpian)",
+     "original": "c literis. de præſumpti. c. paruuli. xxij. q. v. c. præterea l. ij. de teſt. l. in ipſius &amp; illec Balde C. famil. erciſ c. ſicut nobis. de ſent. ex con. Les maiſtres en la l. ij. D. de excep.",
+     "gloss": "A string of authorities for the examples: the enemy, the perjurer (<i>De testibus</i>), the rich and poor man (the partition of an inheritance), the excommunicate (<i>De sententia excommunicationis</i>) — each presumed to remain what he was once shown to be. <i>Illec</i> is \"there\", i.e. Baldus's commentary on that law."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "In the conflict of so many and divers reasons, and the repugnance of the conjectures and proofs, everyone can perceive that the Court was in great perplexity; but the good and almighty God, showing that He wills always to assist justice, and that so prodigious a deed should not re",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "le contraire, qu'iceluy du Tilh eſtoit",
+    "Martin Guerre ſon mari voire luy eſtant",
+    "en preuention de meſme faict deuant le",
+    "Seneſchal de Toloſe, l'alloit voir ſou-",
+    "uent, luy donnant ſecours d'argent, &",
+    "d'autres choſes neceſſaires, demeurant,",
+    "comme eſt à preſumer, touſiours en ceſt",
+    "erreur."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "On ne preſume point volontiers, & ſans cauſe vne",
+    "erreur en perſonne quelconque {a}. toutesfois depuis",
+    "qu'vn homme eſt en quelque erreur, il eſt à preſumer",
+    "qu'il perſuere en iceluy ſ'il n'appert du contraire {b}.",
+    "car le changement de volõté, n'eſt à preſumer, & moins",
+    "auſſi qu'aucuns nouueaux accidens ſuruiennent, qui le",
+    "puiſſent cauſer. Ains pluſtoſt au contraire, on preſume",
+    "du paſſé au temps preſent {d}. comme qu'vn ennemi, vn",
+    "pariure, vn riche, vn pauure, vn ſuiet, vn excõmunié, le",
+    "ſoit encore pour ce iourd'huy {e}. Dont lad. de Rols cir-",
+    "conuenue de ſes belles ſeurs & oncle, qui luy auoient ſi",
+    "bien obmurmuré, & ſi ſouuẽt aſſeuré que le priſonnier",
+    "eſtoit veritablement Martin Guerre: ayant priſe telle",
+    "perſuaſion, elle iuſtement eſtoit occaſionnée de l'aimer",
+    "receuoir & defendre comme ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Au conflict de tant & diuerſes raiſons,",
+    "& repugnance de coniectures & preu-",
+    "ues, chacun peut apperceuoir que la",
+    "cour eſtoit en perplexité grande: mais",
+    "le bon & tout-puiſſant Dieu, monſtrant",
+    "qu'il veut touſiours aſsiſter à la iuſtice,",
+    "& qu'vn ſi prodigieux faict ne demeu-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. ſi poſt di-",
+    "uiſionẽ. C. de",
+    "iur. et fact. ig."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "c. fi. de ſuc-",
+    "ceſ. ab inteſt."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. eum qui.",
+    "D. de probat.",
+    "Accurſe, en la",
+    "l. ſi vero. P.",
+    "qui pro rei. D",
+    "qui ſatiſ. cog."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. ſiue poſsi",
+    "detis. C. de pro",
+    "ba."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "c. literis. de",
+    "præſumpti. c.",
+    "paruuli. xxij.",
+    "q. v. c. præter-",
+    "ea l. ij. de teſt.",
+    "l. in ipſius &",
+    "illec Balde C.",
+    "famil. erciſ c.",
+    "ſicut nobis.",
+    "de ſent. ex con.",
+    "Les maiſtres",
+    "en la l. ij. D.",
+    "de excep."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "letterspaced; final point after DV printed"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "car le changement de volõté, n'eſt à preſumer, & moins",
+   "note": "marker c missing in body: margin note c (l eum qui. ... qui ſatiſ. cog.) stands beside this line but no c marker is visible in the text; final t of 'changement' broken"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "du paſſé au temps preſent {d}. comme qu'vn ennemi, vn",
+   "note": "period after marker d set tight against 'comme'"
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "perſuaſion, elle iuſtement eſtoit occaſionnée de l'aimer",
+   "note": "a mark over the a of 'perſuaſion' (possibly acute, á, or ink); transcribed without accent"
+  },
+  {
+   "where": "blocks[2].lines[14]",
+   "text": "receuoir & defendre comme ſon mari.",
+   "note": "'l'aimer' at end of previous line followed by no comma before 'receuoir'"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "q. v. c. præter-",
+   "note": "æ in 'præter-' blotted, could be 'prater-'; note printed 'q.v.c' tight"
+  },
+  {
+   "where": "running_head",
+   "text": "ARREST DV.",
+   "note": "set in spaced capitals and closed up; ends with a point as printed"
+  },
+  {
+   "where": "margin_notes[2]",
+   "text": "l. eum qui.",
+   "note": "note c is printed in the margin, but no marker c is visible in the body; by position it belongs near 'car le changement de volõté, n'eſt à preſumer' or 'cauſer.' (between markers b and d); marker not transcribed"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "car le changement de volõté, n'eſt à preſumer, & moins",
+   "note": "'changement': final t broken/damaged, looks like 'changemenı'; also expected site of the missing marker c"
+  },
+  {
+   "where": "blocks[2].lines[9]",
+   "text": "ſoit encore pour ce iourd'huy {e}. Dont lad. de Rols cir-",
+   "note": "initial ſ of 'ſoit' damaged, looks like 'loit'; marker e raised, no space before it in print"
+  },
+  {
+   "where": "blocks[2].lines[13]",
+   "text": "perſuaſion, elle iuſtement eſtoit occaſionnée de l'aimer",
+   "note": "a mark like an acute over the a of 'perſuaſion' ('perſuáſion'); probably ink/damage, not transcribed"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "bien obmurmuré, & ſi ſouuẽt aſſeuré que le priſonnier",
+   "note": "'obmurmuré' letters partly broken; 'ſouuẽt' tilde over e fairly clear"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "qu'il veut touſiours aſsiſter à la iuſtice,",
+   "note": "'aſsiſter' read as long s + round s; could be ſſ"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "iur. et fact. ig.",
+   "note": "'et' as printed (not &); 'fact' with ct ligature"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "c. literis. de",
+   "note": "'literis' ending is blotted (looks 'liter.ıs'); spacing/point uncertain"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "q. v. c. præter-",
+   "note": "'præter' could be printed 'prater' (æ vs a unclear); likewise 'præſumpti' in line 1"
+  },
+  {
+   "where": "margin_notes[4].lines[6]",
+   "text": "illec Balde C.",
+   "note": "looks like 'Balae' in print; 'd' vs 'a' uncertain, possible wrong sort"
+  },
+  {
+   "where": "margin_notes[4].lines[7]",
+   "text": "famil. erciſ c.",
+   "note": "no point visible after 'erciſ'"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l. ſiue poſsi",
+   "note": "'poſsi' read as long s + round s"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     14,
+     23
+    ]
+   ],
+   "aligned": true,
+   "a": "le contraire, qu'icceluy du Tilh eſtoit",
+   "b": "le contraire, qu'iceluy du Tilh eſtoit",
+   "text": "le contraire, qu'iceluy du Tilh eſtoit",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "qu'iceluy is the word Coras uses throughout ('that this same'); icceluy is a doubled sort."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "target": "margin_notes[2].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "l eum qui.",
+   "b": "l. eum qui.",
+   "text": "l. eum qui.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "l. with its point is the abbreviation of lex that opens every law citation in the margin."
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "target": "margin_notes[4].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "c literis. de",
+   "b": "c. literis. de",
+   "text": "c. literis. de",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "c. with its point is the abbreviation of capitulum that opens the canon-law citation."
+  },
+  {
+   "where": "margin_notes[4].lines[6]",
+   "target": "margin_notes[4].lines[6]",
+   "spans": [
+    [
+     6,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "illec Balae C.",
+   "b": "illec Balde C.",
+   "text": "illec Balde C.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Balde is Baldus, cited with the law he glosses ('& illec Balde'); Balae is no jurist's name."
+  }
+ ]
 }

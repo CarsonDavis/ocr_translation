@@ -9,11 +9,540 @@
   "image_no": 102,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/102"
  },
- "running_head": null,
+ "running_head": "ARREST. DV",
  "prev": "p079",
  "next": "p081",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "recognised on the body of Martin Guerre: it will be answered that a part of these signs, such as the warts on the hands, the drops of blood in the eye, and the sinking of the nail, are each proved by only one witness, and thus they are singular witnesses, who make no proof even though they were a thousand, each deposing to his own fact.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "g",
+     "citation": "Jacobus Butrigarius (Giacomo Bottrigari, c. 1274–1348, <i>Iaques Butrigaire</i>) on Code 1.5 (<i>De haereticis et Manichaeis et Samaritis</i>), l. <i>Arriani</i> (C. 1.5.5, Theodosius II and Valentinian III, the law against the Arians, Macedonians and other sects)",
+     "original": "Iaques Butrigaire en la l. Arriani. c. de hæred.",
+     "gloss": "Butrigarius there on the proof of heresy by witnesses who depose to different heresies; the print's <i>hæred.</i> is <i>hæret.</i>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNNT. LX"
+  },
+  {
+   "type": "paragraph",
+   "html": "In the matter of proofs and of witnesses, it is certain and settled that singular witnesses prove nothing <sup class=\"mk\" data-key=\"a\">a</sup>, even though they were a hundred thousand in number <sup class=\"mk\" data-key=\"b\">b</sup>; for each deposes particularly to his own fact, and thus they hold the place of but one; and the deposition of one, of whatever dignity, greatness or authority he may be, is counted for nothing <sup class=\"mk\" data-key=\"c\">c</sup>: which Cicero in a certain place discourses upon and shows elegantly <sup class=\"mk\" data-key=\"d\">d</sup>. It is quite true that in certain cases singular witnesses (according to the interpretation of several) may [prove] sufficiently: as if it is a question of proving infamy, madness, heresy, or an act in general <sup class=\"mk\" data-key=\"e\">e</sup>; or else of proving an act to whose essence neither place nor time is required, such as a jurisdiction, a choice of burial, rumour and repute <sup class=\"mk\" data-key=\"f\">f</sup>. Whence several have, I know not how, thought that to convict a man of heresy two witnesses suffice, even though one of them should depose to one kind of heresy [and the other to another]: heresies, they say, although they are designated by divers names, are nevertheless interlinked and conjoined in wickedness <sup class=\"mk\" data-key=\"h\">h</sup>. But such an opinion could not be sustained, nor founded upon any text of law, although some (says Panormitanus), by a light and too inconsiderate interpretation, have written to the contrary <sup class=\"mk\" data-key=\"i\">i</sup>. And still less is it true that, to prove a universal or general act, singular witnesses suffice <sup class=\"mk\" data-key=\"k\">k</sup>: for custom in itself is a universal act, regarding all those",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 22.5 (<i>De testibus</i>), l. <i>Ob carmen</i> (the print's <i>ob carnem</i>), § <i>Si</i> (cf. D. 22.5.21, Arcadius Charisius, whose § 1 treats witnesses of equal standing who differ; paragraph unverified); Decretals, X 1.6 (<i>De electione et electi potestate</i>), c. <i>Bonae [memoriae]</i>, the first so named (chapter number unverified); Decretals, X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Licet ex quadam</i> (cf. X 2.20.47, Innocent III; number unverified)",
+     "original": "l. ob carnem P ſi D. de te ſti. C. bonæ. l. j. de elect. c. li cet ex quadã. de teſti.",
+     "gloss": "The texts on which the rule that singular witnesses make no proof is founded; c. <i>Licet ex quadam</i> is the chapter on witnesses who depose from hearsay, cited at annot-052 and annot-053. The <i>P.</i> stands for the paragraph sign; the margin's <i>C.</i> before <i>bonæ</i> is <i>c.</i>, <i>capitulum</i>."
+    },
+    {
+     "key": "b",
+     "citation": "Code 4.20 (<i>De testibus</i>), l. <i>Iurisiurandi</i> (C. 4.20.9, Constantine), and Baldus (<i>Balde</i>) there; the § <i>Si</i> cited above at {a}",
+     "original": "l. Iuriſiurãdi. &amp; illec de Balde. C de te ſti. P. ſi. preal legue.",
+     "gloss": "C. 4.20.9: witnesses are to be sworn before they testify, and credit given rather to the more honourable; and \"we manifestly ordain that the answer of a single witness be not heard at all, even though he shine with the honour of the illustrious senate\" — the <i>unus testis nullus testis</i> rule which Coras paraphrases in the next clause."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 48.18 (<i>De quaestionibus</i>), l. <i>Maritus</i> (cf. D. 48.18.17, Papinian; number unverified); l. <i>Iurisiurandi</i> (C. 4.20.9) and c. <i>Licet</i> (X 2.20.47), cited above",
+     "original": "l. maritus. D. de quæſtio l. Iuriſiurand &amp; c. licet. alle gué.",
+     "gloss": "The deposition of one, whatever his dignity, is of no account: C. 4.20.9's <i>etiamsi praeclarae curiae honore praefulgeat</i>."
+    },
+    {
+     "key": "d",
+     "citation": "Cicero, <i>Pro M. Fonteio</i> (§§ 21–36, on the Gallic witnesses against Fonteius)",
+     "original": "Ciceron en l'oraiſon pro M. fonteio.",
+     "gloss": "Cicero argues that witnesses are to be weighed, not counted — the multitude and unanimity of hostile Gauls proving nothing against a Roman."
+    },
+    {
+     "key": "e",
+     "citation": "Innocent IV on Decretals, X 5.1 (<i>De accusationibus, inquisitionibus et denunciationibus</i>), the second chapter <i>Qualiter et quando</i> (X 5.1.24, Innocent III, the Fourth Lateran Council's canon on inquisition); Baldus (<i>Balde</i>) on Code 5.69 (<i>Qui numero tutelarum se excusant</i>), l. 1 (C. 5.69.1; title identification probable, bearing unverified)",
+     "original": "Innocent au c. qualiter c. ij. de accu. Balde en la l. j. C. qui num. tutel.",
+     "gloss": "Innocent IV on the proof of <i>infamia</i> by singular witnesses, which founds an inquisition."
+    },
+    {
+     "key": "f",
+     "citation": "Gui Pape (Guido Papa, d. 1487), <i>Decisiones</i> (of the Parlement of Grenoble), question 154",
+     "original": "Guid. Papæ en ſes deſi- ſions. q. cliiij.",
+     "gloss": "On acts to whose essence neither place nor time belongs, which singular witnesses may prove: jurisdiction, choice of burial, repute."
+    },
+    {
+     "key": "h",
+     "citation": "Code 1.5 (<i>De haereticis et Manichaeis et Samaritis</i>), l. <i>Quicumque</i>, at the verse <i>Idcirco</i> (cf. C. 1.5.4, Arcadius and Honorius, on the Manichaeans and Donatists; number unverified); a chapter printed <i>c. Pan.</i> in the same title of the Liber Sextus (VI 5.2, <i>De haereticis</i>) — unidentified, unless <i>Pan.</i> is Panormitanus on the title",
+     "original": "l. quicũque. verſi Idcirco. C. de hæret. c. Pan. au meſme titre du vj",
+     "gloss": "The opinion that all heresies, under divers names, are one wickedness, so that two witnesses deposing to different heresies concur."
+    },
+    {
+     "key": "i",
+     "citation": "Panormitanus (Niccolò de' Tudeschi, <i>Panorme</i>), <i>Consilia</i>, consilium 42 of the first volume",
+     "original": "Panorme au cõſil xlij. du j. Volume.",
+     "gloss": "Panormitanus rejects the opinion as founded on no text and on a light and inconsiderate interpretation; Coras quotes him."
+    },
+    {
+     "key": "k",
+     "citation": "Decretum, C. 3 q. 9, c. <i>Nihilominus</i> (canon number unverified), or the Gloss there",
+     "original": "c. nihilomi nus. ou auſſi la Gloſ. iij. q. ix.",
+     "gloss": "On the number and concurrence of witnesses required in criminal causes."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "recogneuës au corps de Martin Guerre:",
+    "ſera reſpõdu qu'vne partie de ces ſignes,",
+    "comme des verrues des mains, goutes de",
+    "ſang à l'œil, & enfoncement de l'ongle,",
+    "ne ſont prouuees chacune que par vn",
+    "teſmoin, & par ainſi ce ſont teſmoins ſin-",
+    "guliers qui ne font preuue encor qu'ils",
+    "fuſſent mille, depoſans chacun de ſon",
+    "faict."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNNT. LX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En matierre de preuues, & de teſmoins. il eſt cer-",
+    "tain & reſolu que teſmoins ſinguliers ne preuuent",
+    "poinct {a}, bien qu'ils fuſſent cent mille en nombre {b}. car",
+    "chacun depoſa particulierement de ſon faict, & par",
+    "ainſi ne tiennent le lieu que d'vn: & la depoſition d'vn",
+    "de quelque dignité, grandeur, ou authorité qu'il ſoit,",
+    "n'eſt pour rien comptee {c}: Ce que Ciceron en quelque",
+    "lieu dilcourt, & remonſtre elegãment {d}. Il eſt bien vray",
+    "qu'en certains cas, les teſmoins ſinguliers (ſelon l'in-",
+    "terpretation de pluſieurs) peuuent ſuffiſamment: cõme",
+    "ſ'il ſ'agiſt de prouuer l'infamie, fureur, hereſie ou vn",
+    "acte en general {e}, Ou bien de prouuer vn acte, à l'eſſẽce",
+    "duquel n'eſt deſiré, ni lieu, ni temps, comme eſt vne",
+    "iuriſdiction, election de ſepulture, bruit & fame {f}.",
+    "Dont pluſieurs ont ie ne ſçay comment penſé, qu'à cõ-",
+    "uaincre vn homme heretique ſuffiſent deux teſmoins,",
+    "bien qne l'vn d'eux depoſent d'vne eſpece d'hereſies,",
+    "diſent ils, combien que ſoyent par diuers noms deſi-",
+    "gnées, ſont neantmoins entreliees, & coniontes en",
+    "meſchancetè {h}. Mais telle opinion ne ſe pourroit ſou-",
+    "ſtenir, ni fonder par aucun texte de droit, quoy que",
+    "quelques vns (dit Panorme) par interpretation legiere,",
+    "& trop inconſiderée, ayant eſcrit au contraire {i}. Et",
+    "moins eſt veritable, qu'à prouuer vn acte vniuerſel,",
+    "ou general, teſmoins ſinguliers ſuffiſent {k}. car couſtu-",
+    "me en ſoy, eſt vn acte vniuerſel, regardant tous ceux"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. ob carnem",
+    "P ſi D. de te",
+    "ſti. C. bonæ. l.",
+    "j. de elect. c. li",
+    "cet ex quadã.",
+    "de teſti."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. Iuriſiurã-",
+    "di. & illec de",
+    "Balde. C de te",
+    "ſti. P. ſi. preal",
+    "legue."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. maritus.",
+    "D. de quæſtio",
+    "l. Iuriſiurand",
+    "& c. licet. alle",
+    "gué."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon pro",
+    "M. fonteio."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Innocent",
+    "au c. qualiter",
+    "c. ij. de accu.",
+    "Balde en la l.",
+    "j. C. qui num.",
+    "tutel."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Guid. Papæ",
+    "en ſes deſi-",
+    "ſions. q. cliiij."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Iaques Bu-",
+    "trigaire en la",
+    "l. Arriani. c.",
+    "de hæred."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. quicũque.",
+    "verſi Idcirco.",
+    "C. de hæret. c.",
+    "Pan. au meſ-",
+    "me titre du vj"
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "Panorme",
+    "au cõſil xlij.",
+    "du j. Volume."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "c. nihilomi",
+    "nus. ou auſſi",
+    "la Gloſ. iij. q.",
+    "ix."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST. DV",
+   "note": "a period is printed after ARREST in the head; kept as printed"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "ANNNT. LX.",
+   "note": "sic: printed ANNNT for ANNOT"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "En matierre de preuues, & de teſmoins. il eſt cer-",
+   "note": "'matierre' sic; mark after 'teſmoins' read as a period (round dot), though sense wants a comma"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "tain & reſolu que teſmoins ſinguliers ne preuuent",
+   "note": "'ſinguliers': r looks damaged, possibly 't' (ſinguliets)"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "lieu dilcourt, & remonſtre elegãment {d}. Il eſt bien vray",
+   "note": "sic? 'dilcourt' printed with what looks like l for ſ (broken ſ possible)"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "acte en general {e}, Ou bien de prouuer vn acte, à l'eſſẽce",
+   "note": "mark after {e} looks like a comma though capital 'Ou' follows; 'eſſẽce' accent above e could be a tilde or acute"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "bien qne l'vn d'eux depoſent d'vne eſpece d'hereſies,",
+   "note": "sic: 'qne' (turned u)"
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "gnées, ſont neantmoins entreliees, & coniontes en",
+   "note": "sic: 'coniontes' as printed"
+  },
+  {
+   "where": "blocks[2].lines[19]",
+   "text": "meſchancetè {h}. Mais telle opinion ne ſe pourroit ſou-",
+   "note": "accent over final e of 'meſchancetè' unclear (grave or tilde)"
+  },
+  {
+   "where": "blocks[2]",
+   "note": "marker g not found in body; note g (Iaques Butrigaire) is printed in margin, probably beside 'ſ'il ſ'agiſt ... / acte en general' or after 'fame' ; no visible {g}"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "c. ij. de accu.",
+   "note": "first letters obscured by stain; 'c.' conjectural; 'accu' could read 'aecu'"
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "text": "Balde en la l.",
+   "note": "initial B obscured by stain"
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "text": "en ſes deſi-",
+   "note": "second letter of 'en' blotted; 'deſi-' may be printed with round s ('desi-')"
+  },
+  {
+   "where": "margin_notes[5].lines[2]",
+   "text": "ſions. q. cliiij.",
+   "note": "numeral read as c l i i ij; could be 'cliij.'"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "de hæred.",
+   "note": "h/æ unclear, looks like 'bared'"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "nus. ou auſſi",
+   "note": "'auſſi' could be 'auſsi'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "au cõſil xlij.",
+   "note": "a mark between ſ and il (possibly a hyphen or broken letter)"
+  },
+  {
+   "where": "running_head",
+   "text": "ARREST. DV",
+   "note": "period printed after ARREST; second R is a damaged/odd sort"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "guliers qui ne font preuue encor qu'ils",
+   "note": "'font' read with f (crossbar visible), not 'ſont'"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "En matierre de preuues, & de teſmoins. il eſt cer-",
+   "note": "'matierre' sic; mark after teſmoins is a heavy round dot, read as period though a comma is expected before lowercase 'il'"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "tain & reſolu que teſmoins ſinguliers ne preuuent",
+   "note": "'ſinguliers': the r is broken and looks like t ('ſinguliets')"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "lieu dilcourt, & remonſtre elegãment {d}. Il eſt bien vray",
+   "note": "sic: 'dilcourt' printed with l for ſ"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "acte en general {e}, Ou bien de prouuer vn acte, à l'eſſẽce",
+   "note": "the punctuation after marker e looks like a comma (small tail) though a capital 'Ou' follows; tilde over the second e of 'eſſẽce'"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "bien qne l'vn d'eux depoſent d'vne eſpece d'hereſies,",
+   "note": "sic: 'qne' for 'que' (turned/wrong sort). No marker g seen in the body although margin note g (Iaques Butrigaire) is printed; g presumably belongs around lines 11-17 but not visible"
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "gnées, ſont neantmoins entreliees, & coniontes en",
+   "note": "'coniontes' as printed (sic?)"
+  },
+  {
+   "where": "blocks[2].lines[20]",
+   "text": "ſtenir, ni fonder par aucun texte de droit, quoy que",
+   "note": "'ni' printed with a dotless i"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "trigaire en la",
+   "note": "first letter could be 't' or 'r'"
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "text": "l. quicũque.",
+   "note": "letters before the tilde u are faint; may read 'quiiũque'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].lines[19]",
+   "target": "blocks[2].lines[19]",
+   "spans": [
+    [
+     0,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "meſchancetè {h}. Mais telle opinion ne ſe pourroit ſou-",
+   "b": "meſchanceté {h}. Mais telle opinion ne ſe pourroit ſou-",
+   "text": "meſchancetè {h}. Mais telle opinion ne ſe pourroit ſou-",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "target": "margin_notes[4].lines[2]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "c. ij. de accu.",
+   "b": "[?]. ij. de accu.",
+   "text": "c. ij. de accu.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "c. ij. = capitulum, 'the second chapter Qualiter [et quando]' (X 5.1.24); the unread sort in B has no better candidate."
+  },
+  {
+   "where": "margin_notes[4].lines[3]",
+   "target": "margin_notes[4].lines[3]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "Balde en la l.",
+   "b": "[?]alde en la l.",
+   "text": "Balde en la l.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Balde = Baldus, the authority cited on l. j. C. qui num. tutel.; B only leaves the first letter unread."
+  },
+  {
+   "where": "margin_notes[5].lines[1]",
+   "target": "margin_notes[5].lines[1]",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     7,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "en ſes deſi-",
+   "b": "e[?] ſes desi-",
+   "text": "en ſes deſi-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "en ſes deſiſions = 'in his Decisions' (Gui Pape); reading A is complete and legible, B leaves a letter unread; one line, one choice with p080-m5l1-2.; deſi-ſions/desi-ſions are both decisions; same line as p080-m5l1-1, so the same choice (A), reading A being the complete line."
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "target": "margin_notes[8].lines[1]",
+   "spans": [
+    [
+     3,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "au cõſil xlij.",
+   "b": "au cõſeil xlij.",
+   "text": "au cõſil xlij.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[9].lines[0]",
+   "target": "margin_notes[9].lines[0]",
+   "spans": [
+    [
+     3,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "c. nihilomi",
+   "b": "c. nibilomi",
+   "text": "c. nihilomi",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "nihilominus is the chapter's incipit (c. Nihilominus, repeated in note ſ); nibilominus is a wrong sort (h read as b)."
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "target": "margin_notes[9].lines[1]",
+   "spans": [
+    [
+     8,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "nus. ou auſſi",
+   "b": "nus. ou auſsi",
+   "text": "nus. ou auſſi",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "target": "margin_notes[9].lines[2]",
+   "spans": [
+    [
+     9,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "la Gloſ. iij. q.",
+   "b": "la Gloſ. ij. q.",
+   "text": "la Gloſ. iij. q.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "iij. q. ix. = Causa 3, quaestio 9 of the Decretum; Causa 2 has only eight quaestiones, so ij. q. ix. cannot exist."
+  }
+ ]
 }

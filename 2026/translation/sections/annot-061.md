@@ -1,0 +1,11 @@
+---
+id: annot-061
+pages: [p082]
+---
+⟦p082⟧That it is so: Sura, a Roman, being proconsul in Sicily, found there a poor fisherman altogether like him, not only in the bulk and stature of the body, in the features of the mouth and the lineaments of the face, but also in his gestures and bearing, and in I know not what opening of the mouth which the said Sura had, proper and particular to himself, in laughing or in speaking — nay, even in being a stammerer, like him {a}. So it was with the father of the great Pompey and his cook, as we shall say hereafter {b}.
+
+## Notes
+The print heads this annotation ANNOTAT. LX. on p082. The marker alphabet restarts at *a*; the body carries {a} and {b}, both served by keyed notes. Reflow gaps read through: *pro pre* (*propre*), *Va lere* (*Valere*), *annota tion*. The print's full stop before *voire* ("ou en parlant. voire d'eſtre begue") is rendered by a dash, since the sentence continues. *Qu'il ſoit ainſi* → "That it is so" (Coras's formula introducing the proof of the *Texte*'s proposition); *procouſul* is a wrong sort for *proconſul*; *du tout à luy ſemblable* → "altogether like him"; *groſſeur & grandeur du corps* → "bulk and stature of the body"; *geſtes, & contenances* → "gestures and bearing"; *ouuerture de bouche* → "opening of the mouth" (Pliny's *hiatus oris*); *begue* → "stammerer". The same Sura and fisherman appear at annot-005 (p013), with the fisherman's retort; here Coras adds the detail of the stammer and the mouth, which is Pliny's.
+
+- {a} (p082): **Pliny, *Natural History* VII.10 (§55, the Sicilian fisherman who resembled the proconsul Sura even to the stammer; the chapter is c. 12 in the old division, so the printed c. xxiij is probably a slip); Valerius Maximus, *Memorable Doings and Sayings* IX.14 (*De similitudine formae*; Coras's c. 15 in the old numbering, printed *vx* for *xv*)** — Pline au li. vij. c. xxiij. Va lere au liu. ix. c. vx. [Pliny: the resemblance extended to the gaping of the mouth and the hesitation of the tongue; Valerius tells the retort about Sura's father (cf. annot-005 {f}).]
+- {b} (p082): **Coras's own Annotation LXIII, as printed; the matter of Pompey's father and his cook Menogenes is in fact told in Annotation LXII (p084)** — En l'annota tion lxiij. [The cross-reference is off by one; the story is in the annotation numbered LXII in this edition.]

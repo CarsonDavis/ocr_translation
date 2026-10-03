@@ -9,11 +9,164 @@
   "image_no": 96,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/96"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p073",
  "next": "p075",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "the witnesses report count for anything: for by what is said above it is sufficiently answered that the witnesses have been validly objected to. Joined, that there are very few tokens given by them which are not found in the said accused, save for the height and the bulk; but as to that, the answer is easy: inasmuch as, as other witnesses not objected to depose, although the accused, when he departed, appeared taller, longer and more slender, nevertheless, since then, by the course of years, he would have filled out in body and grown stronger in the legs.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LIIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Frequent experience will keep the reader from being astonished here: for daily we see many men and women slender, thin and delicate in their youth, who nevertheless, by the passage of time and the advancement of age, become stout, fat and cumbersome. And because the examples of this time might be odious to some, I shall have recourse to the most memorable of antiquity. Leo of Byzantium, the sophist, very lean in his first years, became so fat about his middle age that, being ambassador at Athens and mounted upon a high chair to appease some sedition, all the people, seeing him so excessively big and pot-bellied, began to laugh; whereupon Leo began to speak thus: WHAT IS IT that you laugh at, O Athenians, to see me so fat? Know that my wife is fatter still. And yet, when we are agreed, we two can well [lie] in a little bed; but on the contrary, when we are angry, the whole house is not enough for us. Which speech had so much grace and force with this",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "les teſmoins rapportent: car par ce deſ-",
+    "ſus eſt ſuffiſamment reſpondu, que les",
+    "teſmoins ont eſté valablement repro-",
+    "chez. Ioint, qu'il y a bien peu d'enſeignes",
+    "données par eux, qui ne ſe trouuent au-",
+    "dit preuenu: reſerué de la longueur, &",
+    "groſſeur: mais quant à ce, la reſponſe eſt",
+    "aiſée: partant, que comme d'autres teſ-",
+    "moins non reprochez depoſent, bien",
+    "que le preuenu, quand partit, reſſemblaſt",
+    "plus haut, plus long, & plus greſle: tou-",
+    "tesfois, depuis par le cours des ans, ſe ſe-",
+    "roit il rempli de corps, & renforcé de",
+    "iambes."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LIIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "spaced_caps": true,
+   "lines": [
+    "Les frequentes experiences, garderont le lecteur de",
+    "ſ'eſbahir ici. car iournellement nous voyons pluſieurs",
+    "hommes & femmes greſles, linges, & dolietz en leur ieu",
+    "neſſe: leſquels pourtant par ſuccez de temps, & auance",
+    "mẽt d'aage, deuiennẽt gros, gras, & importuns. & par ce",
+    "que les exemples de ce temps, pourroyẽt eſtre odieux à",
+    "quelques vns; ie recouuray aux plus memorables de l'ã-",
+    "tiquité. Leon Bizantin ſophiſte, fort maigre en ſes pre-",
+    "miers ans, deuint tellement gras ſur ſon mediocre aage,",
+    "qu'eſtant ambaſſadeur en Athenes, & monté ſur vne",
+    "haute chaire, pour appaiſer quelque ſeditiõ: tout le peu-",
+    "ple le voyant ſi exceſſiuement gros & ventru, ſe print à",
+    "rire, auquel Leon commença de parler ainſi, QV'EST-",
+    "CE que vous riez, ô Atheniens de me voir ſi gras! ſça-",
+    "chez que ma femme eſt encore plus graſſe. Et toutesfois",
+    "quand nous ſommes d'accord, nous pouuons biens",
+    "tous deux dans vn petit lict: mais au contraire, quand",
+    "nous ſommes courroucez, toute la maiſon n'y ſuffit pas",
+    "lequel langage eut tant de grace & de force enuers ce"
+   ]
+  }
+ ],
+ "french_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "plus haut, plus long, & plus greſle: tou-",
+   "note": "line-end break sign printed as a small raised dot rather than a clear hyphen; transcribed as '-'"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "ſ'eſbahir ici. car iournellement nous voyons pluſieurs",
+   "note": "first glyph read as long s with apostrophe (ſ'eſbahir); lowercase 'car' after period as printed; a stray mark over the 'i' of iournellement"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "neſſe: leſquels pourtant par ſuccez de temps, & auance",
+   "note": "a stray raised mark between the colon and 'leſquels' (':'l'); not transcribed; could be a spurious apostrophe"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "quelques vns; ie recouuray aux plus memorables de l'ã-",
+   "note": "'vns;ie' punctuation read as semicolon (dot over comma), set tight; could be a colon. 'recouuray' sic as printed (for recourray). Line-end break sign is a raised dot, transcribed '-'"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "rire, auquel Leon commença de parler ainſi, QV'EST-",
+   "note": "QV'EST-CE set in spaced capitals/small capitals across the line break; closed up"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "quand nous ſommes d'accord, nous pouuons biens",
+   "note": "sic: 'biens' as printed (for 'bien')"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "nous ſommes courroucez, toute la maiſon n'y ſuffit pas",
+   "note": "'nous' first o is a damaged/odd sort; no punctuation after 'pas' at line end as printed; 'courroucez,' comma looks like comma+dot"
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "lequel langage eut tant de grace & de force enuers ce",
+   "note": "final 'ce' printed in heavier/bolder type, possibly a catchword set on the last line rather than body text; a dot printed below the 's' of 'enuers' not transcribed (could be a dropped comma/period)"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "plus haut, plus long, & plus greſle: tou-",
+   "note": "line-end break sign printed as a raised dot, transcribed as '-'"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "tesfois, depuis par le cours des ans, ſe ſe-",
+   "note": "'tesfois' with round s as printed"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "hommes & femmes greſles, linges, & dolietz en leur ieu",
+   "note": "'dolietz' as printed (expected 'douilletz'?); 'ieu' / 'neſſe' broken without hyphen"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "neſſe: leſquels pourtant par ſuccez de temps, & auance",
+   "note": "colon followed by a stray raised mark before 'leſquels'; ignored"
+  },
+  {
+   "where": "blocks[2].lines[12]",
+   "text": "rire, auquel Leon commença de parler ainſi, QV'EST-",
+   "note": "QV'EST-CE set in spaced small capitals across the line break"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "quand nous ſommes d'accord, nous pouuons biens",
+   "note": "'biens' sic (for 'bien'); a word ('coucher'?) seems omitted before 'tous deux'"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "nous ſommes courroucez, toute la maiſon n'y ſuffit pas",
+   "note": "no punctuation printed after 'pas' at line end"
+  },
+  {
+   "where": "blocks[2].lines[18]",
+   "text": "lequel langage eut tant de grace & de force enuers ce",
+   "note": "a dot/comma sits below the baseline under the end of 'enuers' (displaced sort?), not transcribed; 'ce' is set in heavier type at the line end and may be a catchword run into the last line; catchword left null"
+  }
+ ],
+ "readings": []
 }

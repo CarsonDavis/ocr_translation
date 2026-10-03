@@ -9,11 +9,359 @@
   "image_no": 178,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/178"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p155",
  "next": "p157",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "who presently gives something swears to keep his liberality and not to contravene what he promises and gives; but he who acknowledges and swears to have long since received some sum of money or other thing interposes his oath upon what is already done and past, that is to say, upon what has already before been received by the acknowledger.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "y",
+     "citation": "Bartolus (<i>Bartole</i>) on l. <i>Qui pro eo</i> (Coras's <i>quis pro eo</i>), Digest 46.1 (<i>De fideiussoribus et mandatoribus</i>)",
+     "original": "Bartole en la l. quis pro eo D. de fideiuſſo.",
+     "gloss": "Fragment not verified."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 48.20 (<i>De bonis damnatorum</i>), l. 1, last §, and the last law of the title",
+     "original": "l. i. P. dernier l derniere D. de bon. dã nato.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Afterwards he institutes as his heiress his daughter Bernarde du Tilh, whom he had had of the said Bertrande de Rols; and gives her as guardians Jean du Tilh his brother, inhabitant of Le Pin, and Dominique Rebendaire, inhabitant of Toulouse.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION CX"
+  },
+  {
+   "type": "paragraph",
+   "html": "A fine question presents itself here: whether this institution of an heir is valid, and so whether a man condemned to death can make a testament. And although such a dispute may seem to many to be without difficulty, because our Jurisconsults, and with them Justinian, teach in divers places that testaments already made are quashed and broken by the condemnation to death that follows — so far is it from the condemned man's being able to make new ones after the sentence <sup class=\"mk\" data-key=\"a\">a</sup> — nevertheless grave authors in our Jurisprudence relate that they have often seen testaments made by those condemned to death, but have never heard of the quashing of any <sup class=\"mk\" data-key=\"b\">b</sup>. Added to which, by the new constitutions of Justinian it seems that this rigour of the law, refusing to permit the condemned the faculty of making a testament, has received some change <sup class=\"mk\" data-key=\"c\">c</sup>, because the reason on which the interdiction of making a testament, in those condemned to death, was founded (which is that where someone was condemned to death his goods also were confiscated, and so, having no goods, he could not make a testament <sup class=\"mk\" data-key=\"e\">e</sup>) seems to cease today, the goods being, by the new law, exempt from confiscation and reserved to the nearest successors ab intestato, except",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 28.1 (<i>Qui testamenta facere possunt et quemadmodum testamenta fiant</i>; Coras's <i>de teſta.</i>), l. <i>Eius</i> § 1 and l. <i>Si cui</i> § 1 (cf. D. 28.1.8, Gaius, whose § 1 begins <i>Si cui aqua et igni interdictum sit</i>); Digest 28.3 (<i>De iniusto rupto irrito facto testamento</i>), l. <i>Si quis exheredato</i> § <i>Irritum</i>; Institutes 2.17 (<i>Quibus modis testamenta infirmantur</i>), § <i>Alio quoque modo</i> (Inst. 2.17.4)",
+     "original": "l. eius P. j. l. ſi cui. P. j. D. de teſta, l,⟨alt:l.⟩ ſi quis exheredato, P. irritũ. D. de iniuſt. te ſta. P. alio. q mol. eſt. infir.",
+     "gloss": "Those condemned to the sword, the beasts or the mines lose liberty and the power to make a will; a will already made becomes <i>irritum</i> when the testator suffers <i>capitis deminutio</i>. The margin's <i>q mol. eſt.</i> is a garbling of <i>quomodo teſt.</i>"
+    },
+    {
+     "key": "b",
+     "citation": "Albericus de Rosate (<i>Alberique</i>) on l. <i>Eius</i> § <i>Si cui</i> (D. 28.1.8), cited above, and on the Authentica <i>Bona damnatorum</i> under Code 9.49 (<i>De bonis proscriptorum seu damnatorum</i>)",
+     "original": "Alberique en la l. eius, P. ſi cui, prealleguee, &amp; en l'Auten bona C. de bon. pro ſcrip.",
+     "gloss": "Albericus is the \"grave author\" who had often seen the condemned make wills and never heard one quashed."
+    },
+    {
+     "key": "c",
+     "citation": "Authenticum, coll. 9, Nov. 134 (<i>Ut nulli iudicum</i>), last chapter (Nov. 134.13); and the Authentica <i>Bona damnatorum</i> under Code 9.49",
+     "original": "P, Dernier vt nulli iudi. coll. ix. &amp; en l'Autent. bona.",
+     "gloss": "Nov. 134.13: the goods of a condemned man pass to his descendants or ascendants, not to the fisc, treason excepted — the \"new constitution\" of the argument."
+    },
+    {
+     "key": "e",
+     "citation": "Authentica <i>Ingressi</i> under Code 1.2 (<i>De sacrosanctis ecclesiis</i>)",
+     "original": "Autent, ingreſſi C. de ſa croſanct. eccl.",
+     "gloss": "Those who enter a monastery lose their goods to it, and having none cannot make a will — the parallel for the condemned."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "qui donne preſentement quelque choſe, iure de garder",
+    "ſa liberalité, & ne cõtreuenir point à ce qu'il promet, &",
+    "donne. Mais celuy qui recognoiſt & iure auoir pieça re",
+    "ceu quelque ſomme d'argent ou autre choſe, interpoſe",
+    "ſon ſerment ſur ce qu'eſt deſia fait, & paſſé. C'eſt à dire,",
+    "ſur ce qu'a eſté ia deuant receu par le recognoiſſant."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Apres inſtitue ſon heritiere ſa fille Ber",
+    "narde du Tilh, qu'il auoit euë de ladite",
+    "Bertrande de Rols: & luy donne tuteurs,",
+    "Iean du Tilh ſon frere, habitant du Pin,",
+    "& Dominique Rebendaire, habitant de",
+    "Toloſe."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Vne belle queſtion ſe preſente ici, ſi cette inſtitution",
+    "d'heritier eſt valable, & par ainſi ſi vn homme condem-",
+    "né à mort, peut faire teſtament, & bien que telle al-",
+    "tercation pourra ſembler à pluſieurs ſans difficulté,",
+    "partant que nos Iuriſconſultes, & auec eux Iuſtinien",
+    "en diuers lieux enſeignẽt, que les teſtamẽs là faits ſont",
+    "caſſés & rompus par la condemnation de mort ſuyuãte,",
+    "tãt ſ'en faut que le condẽné en puiſſe faire de nouueaux",
+    "apres la ſentence {a}. Toutesfois de graues autheurs en",
+    "noſtre Iuriſprudence, recitent auoir ſouuentesfois veu",
+    "faire teſtamens aux condemnez à mort: mais n'auoir",
+    "oncques entendu caſſation d'aucun {b}. Ioint que par les",
+    "nouuelles conſtitutions de Iuſtinien, ſemble que ce-",
+    "ſte rigueur de loy, ne voulant permettre aux condẽnez",
+    "la faculté de teſter, aye receu quelque changement {c}.",
+    "partant que la raiſon, ſur laquelle l'interdiction de te-",
+    "ſter, és condamnez à mort, eſtoit fondee (qu'eſt par ce",
+    "que où quelqu'vn eſtoit condemné à mort, ſon bien,",
+    "auſſi eſtoit confiſqué. & par ainſi, n'ayant point de biẽ,",
+    "ne pouuoit teſter {e}) ſemble ceſſer auiourdhuy, eſtans",
+    "les biens par la nouuelle loy, hors de confiſcation, &",
+    "reſeruez aux plus prochains ſucceſſeurs ab inteſtat. Si"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "y",
+   "kind": "margin",
+   "lines": [
+    "Bartole en la",
+    "l. quis pro eo",
+    "D. de fideiuſ-",
+    "ſo."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. eius P. j. l.",
+    "ſi cui. P. j. D.",
+    "de teſta, l. ſi",
+    "quis exhere-",
+    "dato, P. irritũ.",
+    "D. de iniuſt. te",
+    "ſta. P. alio. q",
+    "mol. eſt. infir."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Alberique",
+    "en la l. eius, P.",
+    "ſi cui, prealle-",
+    "guee, & en",
+    "l'Auten bona",
+    "C. de bon. pro",
+    "ſcrip."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "P, Dernier",
+    "vt nulli iudi.",
+    "coll. ix. & en",
+    "l'Autent. bo-",
+    "na."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. i. P. der-",
+    "nier l derniere",
+    "D. de bon. dã",
+    "nato."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Autent, in-",
+    "greſſi C. de ſa",
+    "croſanct. eccl."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſur ce qu'a eſté ia deuant receu par le recognoiſſant.",
+   "note": "no marker y visible in the body; margin note y is printed beside this line (alphabet continues from x on p155), marker probably omitted or lost"
+  },
+  {
+   "where": "blocks[4].lines[16]",
+   "text": "ſter, és condamnez à mort, eſtoit fondee (qu'eſt par ce",
+   "note": "no marker d visible anywhere in the body; margin note d begins beside this line"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "oncques entendu caſſation d'aucun {b}. Ioint que par les",
+   "note": "'caſſation' may be printed 'caſſarion' (r for t, sic); letter after second a looks r-like"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "tãt ſ'en faut que le condẽné en puiſſe faire de nouueaux",
+   "note": "r of 'faire' damaged/broken, reads like 'faiıe'"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Vne belle queſtion ſe preſente ici, ſi cette inſtitution",
+   "note": "'cette' t's look r-like in this type; could be 'cerre' if wrong sorts"
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "apres la ſentence {a}. Toutesfois de graues autheurs en",
+   "note": "middle s of 'Toutesfois' appears round"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "l. quis pro eo",
+   "note": "could be 'qui' or 'quiu'; final letter unclear"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "ſi cui. P. j. D.",
+   "note": "first sort blotted, looks like a ligature; read 'ſi' by comparison with note b"
+  },
+  {
+   "where": "margin_notes[2].lines[5]",
+   "text": "C. de bon. pro",
+   "note": "an extra dot/colon mark after 'C.'; could be 'C.:'"
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "nier l derniere",
+   "note": "no point after 'l' visible"
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "ne pouuoit teſter {e}) ſemble ceſſer auiourdhuy, eſtans",
+   "note": "'auiourdhuy' letters partly smudged ('auiourchuy' look); no apostrophe"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "ſur ce qu'a eſté ia deuant receu par le recognoiſſant.",
+   "note": "No marker y visible anywhere in blocks[0], though margin note y is printed beside this line (continuing from x on p155). Marker y missing in print or not seen."
+  },
+  {
+   "where": "blocks[4].lines[16]",
+   "text": "ſter, és condamnez à mort, eſtoit fondee (qu'eſt par ce",
+   "note": "No marker d visible in the body, though margin note d is printed beside this line. Marker d missing in print or not seen."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "tãt ſ'en faut que le condẽné en puiſſe faire de nouueaux",
+   "note": "'faire' printed with a broken r ('fai re'); 'de nouueaux' set tight, 'nouueaux' vs 'noueaux' not fully certain."
+  },
+  {
+   "where": "blocks[4].lines[19]",
+   "text": "ne pouuoit teſter {e}) ſemble ceſſer auiourdhuy, eſtans",
+   "note": "'auiourdhuy' printed without apostrophe; the d is poorly inked and looks like 'c'. Marker e set before the closing parenthesis."
+  },
+  {
+   "where": "blocks[4].lines[14]",
+   "text": "la faculté de teſter, aye receu quelque changement {c}.",
+   "note": "the mark after marker c is a round dot, read as period; next line begins lowercase 'partant'."
+  },
+  {
+   "where": "blocks[4].lines[18]",
+   "text": "auſſi eſtoit confiſqué. & par ainſi, n'ayant point de biẽ,",
+   "note": "period after 'confiſqué' is a round dot on the baseline, followed by lowercase '&'."
+  },
+  {
+   "where": "margin_notes[1].lines[7]",
+   "text": "mol. eſt. infir.",
+   "note": "'mol.' reading doubtful (possibly 'mo l.' or 'mod.'); period after 'eſt' uncertain."
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "ſi cui. P. j. D.",
+   "note": "first letter of 'ſi' poorly inked, looks like x; read 'ſi' by parallel with note b."
+  },
+  {
+   "where": "margin_notes[2].lines[5]",
+   "text": "C. de bon. pro",
+   "note": "mark after 'C' looks like a period plus a colon-like blot; read as a single period."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "P, Dernier",
+   "note": "mark after P looks like a comma (tail below baseline); capital D in 'Dernier' as printed."
+  },
+  {
+   "where": "margin_notes[4].lines[1]",
+   "text": "nier l derniere",
+   "note": "no period seen after 'l'."
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[11]",
+   "target": "blocks[4].lines[11]",
+   "spans": [
+    [
+     16,
+     25
+    ]
+   ],
+   "aligned": true,
+   "a": "oncques entendu caſſation d'aucun {b}. Ioint que par les",
+   "b": "oncques entendu caſſarion d'aucun {b}. Ioint que par les",
+   "text": "oncques entendu caſſation d'aucun {b}. Ioint que par les",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "caſſation, 'quashing' (the testaments caſſés & rompus three lines above); caſſarion is no word (t read as r)"
+  },
+  {
+   "where": "margin_notes[1].lines[2]",
+   "target": "margin_notes[1].lines[2]",
+   "spans": [
+    [
+     10,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "de teſta, l, ſi",
+   "b": "de teſta, l. ſi",
+   "text": "de teſta, l. ſi",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "l. is the siglum for lex before the incipit ſi quis exheredato; a comma after l is not the print's usage; translation unaffected"
+  }
+ ]
 }

@@ -9,11 +9,455 @@
   "image_no": 174,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/174"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p151",
  "next": "p153",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "enemy <sup class=\"mk\" data-key=\"k\">k</sup>. Nay, even though the enmity should not appear, if he is ever so little suspected of it <sup class=\"mk\" data-key=\"l\">l</sup>. And the reason may easily be gathered from what Cicero has eloquently left in writing. Our ancestors, he says, did not wish to open this road to enmities, that it should be lawful for anyone to injure his enemy by his testimony; inasmuch as men are so far carried by passion in the hatred they bear to another, that they would readily advance and fabricate a thousand lies to injure him <sup class=\"mk\" data-key=\"m\">m</sup>. In which Cicero shows that he had in no wise caught the scent of the Christian Law, by which it is commanded — not, as the Scribes and Pharisees thought and taught it to be written in the old law: Thou shalt love thy neighbour, and hate thine enemy <sup class=\"mk\" data-key=\"n\">n</sup> — but more holily, to love our enemies, bless them that curse us, do good to them that hate us, pray for them that calumniate and persecute us, that we may be children of our Father which is in heaven <sup class=\"mk\" data-key=\"o\">o</sup>,",
+   "continued": true,
+   "notes": [
+    {
+     "key": "k",
+     "citation": "Digest 22.5.3 pr. (<i>De testibus</i>, l. 3 at the beginning); Decretals, X 5.1 (<i>De accusationibus</i>), cc. <i>Repellatur</i>, <i>Qualiter</i> (presumably <i>Qualiter et quando</i>) and <i>Cum oporteat</i> — chapter numbers unverified",
+     "original": "l. iij au cõmẽcement D. de teſt. c. repellatur. qualiter. c. cum oporteat. de accuſatio",
+     "gloss": "D. 22.5.3 (Callistratus): the judge is to weigh each witness's standing, \"whether he is an enemy of the man against whom he testifies\"."
+    },
+    {
+     "key": "l",
+     "citation": "Decretals, title <i>De accusationibus</i> (X 5.1), c. <i>Cum</i>, at the § <i>Maconella</i> — unidentified: no chapter <i>Cum</i> with a paragraph of that name was found; <i>Mãconella</i> may be a wrong sort",
+     "original": "c. cũ. P. Mãconella de accuſatio.",
+     "gloss": null
+    },
+    {
+     "key": "m",
+     "citation": "Cicero, <i>For Fonteius</i> (printed <i>pro-Fotcio</i>) and <i>Partitiones oratoriae</i> (<i>aux partitions</i>)",
+     "original": "Ciceron en l'oraiſon pro-Fotcio &amp; aux partitions.",
+     "gloss": "The <i>Pro Fonteio</i> is Cicero's attack on the hostile Gallic witnesses; the sentence Coras paraphrases, that \"our ancestors\" would not let an enemy's testimony hurt a man, was not located in either work and may be a free rendering; the rule itself is that of the Lex Iulia at D. 22.5.3.5 and of the title <i>De accusationibus</i> cited at {k}."
+    },
+    {
+     "key": "n",
+     "citation": "Leviticus 19 (verse 18)",
+     "original": "Leuit. c. xix.",
+     "gloss": "<i>Thou shalt love thy neighbour as thyself</i>; the \"and hate thine enemy\" is the Pharisees' addition reported at Matthew 5:43, as Coras says."
+    },
+    {
+     "key": "o",
+     "citation": "Matthew 5 (verses 44–45); Luke 6 (verses 27–28, 35)",
+     "original": "S. Math. c. v. S. Luc vi.",
+     "gloss": "Love your enemies, bless them that curse you, do good to them that hate you, pray for them that despitefully use you and persecute you, that ye may be the children of your Father which is in heaven."
+    },
+    {
+     "key": "i",
+     "citation": "Decretals, X 2.13 (<i>De restitutione spoliatorum</i>), c. <i>Item cum quis</i> — chapter number unverified",
+     "original": "c. itẽ cũ quis de reſti. ſpol.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Making a particular enumeration of the whole, together with what was owed to him, and by what persons.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION CIX"
+  },
+  {
+   "type": "paragraph",
+   "html": "From this may arise a fine and noble question: whether credit ought to be given to the assertion of the said du Tilh, made at the hour of his end, and whether sufficient proof may be gathered from it of what he confessed to owe, or affirmed to be owed to him. On which the most certain and common resolution is that the assertion, saying or declaration of one who is about to die, although it makes proof to his own prejudice, or to that of his heir <sup class=\"mk\" data-key=\"a\">a</sup>, is nevertheless invalid and of no effect whatever to the disadvantage of another <sup class=\"mk\" data-key=\"b\">b</sup>. And indeed, as it is reasonable that each should be believed in what he attests against himself <sup class=\"mk\" data-key=\"c\">c</sup>, so it would be beyond reason that credit should be given him to the prejudice of another <sup class=\"mk\" data-key=\"d\">d</sup>; yes, even though it were the father or the mother who, in their last days, attested something against their own",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Digest 32 (<i>De legatis et fideicommissis</i> [III]; Coras's <i>de lega. iij.</i>), l. <i>Cum quis decedens</i> § <i>Codicillis</i>; Digest 39.5 (<i>De donationibus</i>), l. <i>Ex hac scriptura</i>",
+     "original": "l. cũ quis de cedens. P. codicillis. D. de lega. iij. l. ex hac ſcriptura. D. de donatio.",
+     "gloss": "Fragment numbers not verified. Both cited for a dying man's written acknowledgment binding his own heir."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 42.1 (<i>De re iudicata</i>), l. <i>Saepe</i> (D. 42.1.63, Macer)",
+     "original": "l. ſæpe. D. de re iudi.",
+     "gloss": "<i>Saepe constitutum est res inter alios iudicatas aliis non praeiudicare</i>: what is decided between some does not prejudice others."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 11.1 (<i>De interrogationibus in iure faciendis</i>), l. <i>De aetate</i> § 1 (cf. D. 11.1.11); Digest 16.3 (<i>Depositi vel contra</i>; Coras's <i>de poſ.</i>), l. <i>Publia</i> (D. 16.3.26, Paulus, <i>Publia Maevia</i>), last §",
+     "original": "l. de ætate P i. D. de interrog. actio. l. Publia. P. dernier. D. de poſ.",
+     "gloss": "A party's answer under interrogation, and a written acknowledgment, bind the one who made them."
+    },
+    {
+     "key": "d",
+     "citation": "Digest 16.1 (<i>Ad senatus consultum Velleianum</i>), l. <i>Seia</i>; Code 4.19 (<i>De probationibus</i>), l. <i>Rationes</i>",
+     "original": "l. Seia D. ad Velleia l. rationes C. de prob.",
+     "gloss": "Fragment numbers not verified. A debtor's own accounts or acknowledgment do not prove against a third party."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "ennemi {k}. Voire encore bien qu'il n'apparuſt de l'ini-",
+    "mitié, ſ'il en eſt tant ſoit peu ſoupçonné {l}. Et la raiſon",
+    "ſe peut aiſement recueillir, de ce que Ciceron a laiſ-",
+    "ſé diſertement eſcrit. Nos maieurs, dit-il, n'ont",
+    "point voulu ouurir ce chemin aux inimitiez, qu'il fuſt",
+    "loiſible à aucun, nuire par ſon'teſmoignage à ſon en-",
+    "nemy, d'autant que les hommes ſont ſi auant paſſion-",
+    "nez de la haine qu'ils portent à vn autre, que facilemẽt",
+    "ils auanceroyent, & controuueroyẽt mille menſonges,",
+    "pour luy nuire {m} En quoy Cicerõ mõſtre, qu'il n'auoit",
+    "aucunemẽt flairé l'odeur de la Loy Chreſtienne, par la-",
+    "quelle eſt commandé, non pas comme les Scribes, &",
+    "Phariſiens penſoyent & enſeignoyent eſtre eſcrit en la",
+    "loy vieille: Tu aimeras ton prochain, & hairas ton en-",
+    "nemy {n}. Mais plus ſainctemẽt, d'aimer nos ennemis, be",
+    "nir ceux qui nous maudiſſent, faire bien à ceux qui",
+    "nous haiſſent, prier pour ceux qui nous calomnient, &",
+    "perſecutent: afin d'eſtre enfans de noſtre Pere, qui eſt és",
+    "cieux {o},"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Faiſant du tout particulier denom-",
+    "brement, enſemble de ce que luy eſtoit",
+    "déu, & par quelles perſonnes."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. CIX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "D'ici peut ſoudre vne belle & noble queſtion, ſi à l'aſ-",
+    "ſertiõ dudit du Tilh, faite ſur l'heure de ſa fin, doit eſtre",
+    "donnée foy, & d'icelle doit eſtre recueillie ſuffiſante",
+    "preuue, de ce qu'il a confeſſé deuoir, ou affermé luy e-",
+    "ſtre deu. En quoy la plus certaine, & commune reſolu-",
+    "tion eſt, que l'aſſertion, dire, ou declaration de celuy",
+    "qui ſ'en va mourir, bien qu'elle face foy en ſon preiudi",
+    "ce, ou de ſon heritier {a}: toutesfois au deſauantage d'au-",
+    "truy, eſt inualable & ſans effect aucun {b}. & certes cõme",
+    "il eſt raiſonnable, que chacun ſoit creu en ce qu'il atte-",
+    "ſte contre ſoy {c}: auſſi ſeroit il hors de raiſon, qu'il luy",
+    "fuſt donné foy, au preiudice d'autruy. {d} voire bien en-",
+    "core que ce fuſt le pere, ou la mere, qui en ſes derniers",
+    "iours, atteſtaſt quelque choſe contre ſon propre en-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "c. itẽ cũ quis",
+    "de reſti. ſpol."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. iij au cõ-",
+    "mẽcement D.",
+    "de teſt. c. re-",
+    "pellatur. qua-",
+    "liter. c. cum",
+    "oporteat. de",
+    "accuſatio"
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "c. cũ. P. Mã-",
+    "conella de ac-",
+    "cuſatio."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon pro-",
+    "Fotcio & aux",
+    "partitions."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "Leuit. c. xix."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "S. Math. c.",
+    "v. S. Luc vi."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. cũ quis de",
+    "cedens. P. codi-",
+    "cillis. D. de le-",
+    "ga. iij. l. ex hac",
+    "ſcriptura. D.",
+    "de donatio."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. ſæpe. D.",
+    "de re iudi."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. de ætate",
+    "P i. D. de in-",
+    "terrog. actio.",
+    "l. Publia. P.",
+    "dernier. D. de",
+    "poſ."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. Seia D.",
+    "ad Velleia l.",
+    "rationes C. de",
+    "prob."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "c. itẽ cũ quis",
+   "note": "note keyed 'i' at top of margin has no marker on this page; its marker {i} is presumably on the preceding page (p151, not given as context). Leading key glyph blotted, read as 'i'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "c. cũ. P. Mã-",
+   "note": "printed 'lc cũ.P.Mã-' with no space: read the initial 'l' as the key for body marker {l} (no other note for l); could instead be 'l. c.' as part of the citation continuing note k, with note l missing. 'Mãconella' as printed"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "loiſible à aucun, nuire par ſon'teſmoignage à ſon en-",
+   "note": "a raised apostrophe-like mark is printed between 'ſon' and 'teſmoignage' (sic, stray sort); 'aucun' final n malformed"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "pour luy nuire {m} En quoy Cicerõ mõſtre, qu'il n'auoit",
+   "note": "no punctuation visible after marker m; 'n'auoit' o/i blotted"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "nous haiſſent, prier pour ceux qui nous calomnient, &",
+   "note": "'haiſſent': second long s looks like 'l' (haiſlent?); read as ſſ ligature"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "cieux {o},",
+   "note": "mark after marker o has a tail, read as comma though a period would be expected at paragraph end"
+  },
+  {
+   "where": "blocks[2]",
+   "text": "Faiſant du tout particulier denom-",
+   "note": "three-line TEXTE quotation in large type encoded as a paragraph (as in earlier finals), not as heading blocks"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "preuue, de ce qu'il a confeſſé deuoir, ou affermé luy e-",
+   "note": "mark after 'preuue' small and low, comma vs period uncertain"
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "ſtre deu. En quoy la plus certaine, & commune reſolu-",
+   "note": "'Enquoy' set tight; separated per word-division rule"
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "ſte contre ſoy {c}: auſſi ſeroit il hors de raiſon, qu'il luy",
+   "note": "'ſoy' long s poorly printed, looks like 'loy'"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "fuſt donné foy, au preiudice d'autruy. {d} voire bien en-",
+   "note": "marker d printed after the period; mark after 'foy' could be period or comma (low, faint)"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "l'oraiſon pro-",
+   "note": "first letter blotted, could be 'ſ''; 'Fotcio' next line sic (for Fonteio)"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "P i. D. de in-",
+   "note": "no period visible after swash P; 'P.' after 'Publia' in line 3 may be 'P:' or 'P,'"
+  },
+  {
+   "where": "margin_notes[0]",
+   "text": "c. itẽ cũ quis",
+   "note": "note keyed 'i' at the top of the margin has no marker on this page; marker i presumably on p151 (not available as context). Key glyph blotted, read as i. Mark over e of 'itẽ' looks like an acute stroke; read as tilde (item)"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "ſe peut aiſement recueillir, de ce que Ciceron a laiſ-",
+   "note": "line-end word-break sign printed as a raised dot"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "loiſible à aucun, nuire par ſon'teſmoignage à ſon en-",
+   "note": "sic: apostrophe-like mark printed between 'ſon' and 'teſmoignage'"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "pour luy nuire {m} En quoy Cicerõ mõſtre, qu'il n'auoit",
+   "note": "no punctuation visible after marker m; 'n'auoit' final letters blotted"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "nous haiſſent, prier pour ceux qui nous calomnient, &",
+   "note": "'haiſſent': ſſ ligature and n slightly malformed (looks like 'haiſleot')"
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "perſecutent: afin d'eſtre enfans de noſtre Pere, qui eſt és",
+   "note": "mark after 'Pere' is small and low, read as comma"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "cieux {o},",
+   "note": "mark after marker o has a tail, read as comma rather than period"
+  },
+  {
+   "where": "blocks[2]",
+   "text": "Faiſant du tout particulier denom-",
+   "note": "TEXTE passage in large type; continues_prev set false though it continues the arrest text from an earlier TEXTE section"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "preuue, de ce qu'il a confeſſé deuoir, ou affermé luy e-",
+   "note": "mark after 'preuue' small and low, could be period or comma"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "ce, ou de ſon heritier {a}: toutesfois au deſauantage d'au-",
+   "note": "'toutesfois' printed with round s; line-end break sign printed as a dot; markers restart at a on this page after o"
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "ſte contre ſoy {c}: auſſi ſeroit il hors de raiſon, qu'il luy",
+   "note": "'ſoy' long s faint (looks like 'loy'); 'auſſi' read as ſſ ligature, not ſs"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "fuſt donné foy, au preiudice d'autruy. {d} voire bien en-",
+   "note": "marker d printed after the period; mark after 'foy' could be comma or period"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "text": "Fotcio & aux",
+   "note": "sic? 'Fotcio' for Fonteio as printed; 'l'oraiſon' initial glyph blotted"
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "text": "S. Math. c.",
+   "note": "'c.' shaped like epsilon; key o blotted"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "de re iudi.",
+   "note": "'de re' blotted; 'ſæpe' ligature æ probable"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "P i. D. de in-",
+   "note": "no period visible after swash P; 'P.' after Publia has an extra dot (colon-like)"
+  },
+  {
+   "where": "margin_notes[9].lines[2]",
+   "text": "rationes C. de",
+   "note": "italic t looks like r ('rariones'); read as t per conventions"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[3]",
+   "target": "blocks[0].lines[3]",
+   "spans": [
+    [
+     15,
+     22
+    ]
+   ],
+   "aligned": true,
+   "a": "ſé diſertement eſcrit. Nos maieurs, dit-il, n'ont",
+   "b": "ſé diſertement eſçrit. Nos maieurs, dit-il, n'ont",
+   "text": "ſé diſertement eſcrit. Nos maieurs, dit-il, n'ont",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "eſcrit = escrit, 'written' (ce que Ciceron a laiſſé diſertement eſcrit); eſçrit, with a cedilla before r, is no French spelling."
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "target": "margin_notes[2].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "c. cũ. P. Mã-",
+   "b": "c cũ. P. Mã-",
+   "text": "c. cũ. P. Mã-",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

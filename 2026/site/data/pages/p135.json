@@ -9,11 +9,475 @@
   "image_no": 155,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/155"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p134",
  "next": "p136",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Under pretext of marriage.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XCVI"
+  },
+  {
+   "type": "paragraph",
+   "html": "A pretext of marriage it truly was, for of lawful conjunction, Martin Guerre being alive, there could be none <sup class=\"mk\" data-key=\"a\">a</sup>: for several reasons, of which there are two principal ones. The first, that a woman cannot have two husbands <sup class=\"mk\" data-key=\"b\">b</sup>; nay, it is not credible that she should desire them <sup class=\"mk\" data-key=\"c\">c</sup>, unless it were in the country of the Medes, where the women are brought up in such an opinion that nothing more fortunate or honourable can befall them than for each to have several husbands: indeed, to have fewer than five seems to them a thing as it were ignominious, calamitous and wretched <sup class=\"mk\" data-key=\"d\">d</sup>. The second reason, that although there might have been a marriage, there was error in the person, which error hinders the will, and in consequence the marriage <sup class=\"mk\" data-key=\"e\">e</sup>, which takes its essence from the will and consent of the parties <sup class=\"mk\" data-key=\"f\">f</sup>. It will perhaps be objected to me that between Jacob and Leah there was a marriage, although Jacob thought to espouse and lie with Rachel, for whom he had served Laban his father-in-law seven years — who nevertheless, on the wedding night, substituted for Jacob his elder daughter Leah in place of Rachel the younger <sup class=\"mk\" data-key=\"g\">g</sup>. But the answer is plain: that although at the beginning Jacob had not consented to Leah, nevertheless afterwards he received her as his wife, approving the substitution and the marriage, which suffices <sup class=\"mk\" data-key=\"h\">h</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Decretum of Gratian, Part II, C. 34 q. 1 (the <i>causa</i> on the wife of a man taken captive who marries again), c. <i>Cum in captivitate</i> (chapter not verified)",
+     "original": "c. cum in captiuitate. xxxiiij. q j.",
+     "gloss": "The transcribers read <i>priuitate</i>/<i>ptiuitate</i> for the second half of the word divided across two margin lines; <i>captiuitate</i> either way. The same chapter is cited at annot-094 {d} as <i>c. in captiuitate</i>. Cited for the rule that no second marriage can stand while the first husband lives."
+    },
+    {
+     "key": "b",
+     "citation": "Institutes 1.10 (<i>De nuptiis</i>), § <i>Adfinitatis</i> (Inst. 1.10.6)",
+     "original": "P. affinitatis. de nupt.",
+     "gloss": "The paragraph contains the rule <i>eadem duobus nupta esse non potest</i> — the same woman cannot be married to two men; the swash <i>P</i> of the print is the paragraph sign."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 23.3 (<i>De iure dotium</i>), the second law beginning <i>Si mulier</i> (fragment not identified)",
+     "original": "l. ſi mulier. la ij. D. de iur. dot.",
+     "gloss": "Several fragments of the title open <i>Si mulier</i>; Coras specifies \"the second\". The transcribers' <i>iur-</i> / <i>iur.</i> is the abbreviation <i>iur[e]</i>, read with its point."
+    },
+    {
+     "key": "d",
+     "citation": "Strabo, <i>Geography</i>, book 11 (11.13.11)",
+     "original": "Strabo au liure xi. de ſa Geographie.",
+     "gloss": "Strabo on the mountain peoples of Media: it is held honourable for a woman to have as many husbands as possible, and to have fewer than five is thought a calamity."
+    },
+    {
+     "key": "e",
+     "citation": "Decretum, C. 29 q. 1, c. 1 (Gratian's dictum on error of person)",
+     "original": "c. i. xxix. q. i.",
+     "gloss": "Error as to the person prevents consent and so the marriage; cited again at annot-097 {q} as <i>c. j. § quod autem, xxix. q. j.</i>, and at annot-010 {h}."
+    },
+    {
+     "key": "f",
+     "citation": "Digest 50.17 (<i>De diversis regulis iuris antiqui</i>), l. <i>Nuptias</i> (D. 50.17.30, Ulpian); Decretum, C. 27 q. 2, c. <i>Sufficiat</i> (c. 2)",
+     "original": "l. nuptias. D. de reg. iur. c. ſufficiat. xxvij. q. ij.",
+     "gloss": "<i>Nuptias non concubitus, sed consensus facit</i> — it is consent, not intercourse, that makes a marriage; the canon (from Chrysostom) says the consent of the parties alone suffices according to the laws."
+    },
+    {
+     "key": "g",
+     "citation": "Genesis 29 (29:21–28; the print cites chapter 27)",
+     "original": "Gene. xxvij.",
+     "gloss": "Laban substitutes Leah for Rachel. Chapter 27 is the deception of Isaac; the Jacob and Leah story is chapter 29, as the print itself has it at annot-081 {h} and annot-097 {ſ}."
+    },
+    {
+     "key": "h",
+     "citation": "Decretum, C. 30 q. 5, c. <i>Nec illud</i>, at the end (chapter not verified); and C. 29 q. 1, c. 1, cited above at {e}",
+     "original": "c. nec illud P. ſi. xxx. q. v. &amp; au c. i. preallegué.",
+     "gloss": "<i>P. ſi.</i> = § fin., the last paragraph."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Dismisses from the case and suit the said",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Martin Guerre.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XCVII"
+  },
+  {
+   "type": "paragraph",
+   "html": "The greatest difficulties in the judgment of this trial, and those over which the Court laboured most, were whether Martin Guerre and Bertrande de Rols were in the way of condemnation. For as to Martin Guerre, he seemed altogether inexcusable, for several reasons. The first, for having left his father, mother, wife and children indiscreetly <sup class=\"mk\" data-key=\"a2\">a2</sup>. The second, for having remained so long",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a2",
+     "citation": "1 Timothy 5 (5:8)",
+     "original": "l. la i. de Timothee c. v.",
+     "gloss": "He who does not provide for his own, and especially for those of his own household, has denied the faith and is worse than an infidel. The transcribers' <i>mothee</i>/<i>motheo</i> is the end of <i>Timothee</i> divided across margin lines."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Sous pretexte de mariage."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. XCVI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Pretexte de mariage, eſtoit il veritablement, car",
+    "de legitime conionction, viuant Martin Guerre, n'en",
+    "y pouuoit auoir {a}: par pluſieurs raiſons, deſquelles en",
+    "y a deux principales. La premiere, qu'vne femme ne",
+    "peut auoir deux maris {b}. voire n'eſt croyable qu'elle les",
+    "deſire {c}, ou fut au pays des Medes, où les femmes ſont",
+    "nourries à telle opinion, qu'il ne leur peut aduenir cho-",
+    "ſe plus heureuſe, ni honnorable, que d'auoir chacune",
+    "pluſieurs maris: voire d'en auoir moins de cinq leur",
+    "ſemble eſtre choſe comme ignominieuſe, calamiteuſe,",
+    "& miſerable {d}. La ſeconde raiſon, que bien qu'il y euſt",
+    "peu auoir mariage, il y auoit erreur en la perſonne, la-",
+    "quelle erreur empeſche la volonté, & en conſequent",
+    "le mariage {e}, qui prend ſon eſſence du vouloir, & con-",
+    "ſentement des parties {f}. On m'oppoſera peut eſtre,",
+    "qu'entre Iacob & Lea y eut mariage, bien que Iacob",
+    "penſaſt eſpouſer & coucher auec Rachel, pour laquel-",
+    "le il auoit ſerui ſept ans Laban ſon beau-pere: qui",
+    "neantmoins ſuppoſa le ſoir des nopces à Iacob ſa fille",
+    "aiſnée Lea, au lieu de Rachel puiſnee {g}. Mais la reſpon",
+    "ſe eſt claire, que iaçoit du commencement Iacob n'euſt",
+    "conſenti à Lea: toutesfois apres, il la receut pour fem",
+    "me, approuuant la ſuppoſition & le mariage, ce que",
+    "ſuffit {h}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Met hors de procez, & d'inſtance, ledit"
+  },
+  {
+   "type": "heading",
+   "text": "Martin Guerre."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XCVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Les plus grandes difficultez du iugement de ce pro-",
+    "cez, & auſquelles la cour ſe trauailla le plus, furent, ſi",
+    "Martin Guerre & Bertrande de Rols, eſtoient en voye",
+    "de condẽnation. car quant à Martin Guerre, il ſembloit",
+    "du tout inexcuſable par pluſieurs raiſons. La premiere,",
+    "pour auoir laiſſé ſes pere, mere, femme & enfans, indiſ-",
+    "cretement {a2}. La ſeconde, pour auoir demeuré ſi longue-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "c. cum in ca-",
+    "priuitate. xxx-",
+    "iiij. q j."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "P. affinita-",
+    "tis. de nupt."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. ſi mulier.",
+    "la ij. D. de iur.",
+    "dot."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "Strabo au",
+    "liure xi. de ſa",
+    "Geographie."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "c. i. xxix. q. i."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. nuptias. D.",
+    "de reg. iur. c.",
+    "ſufficiat. xx-",
+    "vij. q. ij."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "Gene. xxvij."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "c. nec illud",
+    "P. ſi. xxx. q. v.",
+    "& au c. i. pre-",
+    "allegué."
+   ]
+  },
+  {
+   "key": "a2",
+   "kind": "margin",
+   "lines": [
+    "l. la i. de Ti-",
+    "mothee c. v."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].text",
+   "text": "TEXTE.",
+   "note": "the final letter of this heading looks like a B ('TEXTB.'), unlike the E two letters earlier; could be a wrong sort or a damaged E in this display font. Read as E; check the print"
+  },
+  {
+   "where": "blocks[3].lines[12]",
+   "text": "quelle erreur empeſche la volonté, & en conſequent",
+   "note": "the long s in 'conſequent' is broken; only a short apostrophe-like upper stroke prints ('con'equent')"
+  },
+  {
+   "where": "blocks[3].lines[5]",
+   "text": "deſire {c}, ou fut au pays des Medes, où les femmes ſont",
+   "note": "'femmes': the first m of the pair is damaged and looks like n + i; read as femmes. The accent on 'où' sits over the u"
+  },
+  {
+   "where": "blocks[3].lines[21]",
+   "text": "conſenti à Lea: toutesfois apres, il la receut pour fem",
+   "note": "the stop after 'Lea' is an odd sort (two marks, the upper one elongated); read as a colon. The stop after 'apres' read as a comma"
+  },
+  {
+   "where": "blocks[8].lines[0]",
+   "text": "Les plus grandes difficultez du iugement de ce pro-",
+   "note": "'difficultez': the t has almost no ascender and resembles r ('difficulrez'); 'iugement' has its u looking like n ('ingement'). Read as t and u; possible wrong sorts"
+  },
+  {
+   "where": "blocks[8].lines[2]",
+   "text": "Martin Guerre & Bertrande de Rols, eſtoient en voye",
+   "note": "'Bertrande': the t resembles r ('Berrrande'), as in 'difficultez' above; possible wrong sort (sic)"
+  },
+  {
+   "where": "blocks[8].lines[3]",
+   "text": "de condẽnation. car quant à Martin Guerre, il ſembloit",
+   "note": "the stop after 'condẽnation' is a round dot on the baseline, followed by lowercase 'car'; transcribed as a period"
+  },
+  {
+   "where": "blocks[8].lines[5]",
+   "text": "pour auoir laiſſé ſes pere, mere, femme & enfans, indiſ-",
+   "note": "'femme' has a small mark over the e (tilde or grave?) that I read as a smudge; the stop after 'enfans' could be a period or a comma"
+  },
+  {
+   "where": "blocks[8].lines[6]",
+   "text": "cretement {a2}. La ſeconde, pour auoir demeuré ſi longue-",
+   "note": "the marker alphabet restarts at a in Annotation XCVII, so this second 'a' is keyed a2. The line-end hyphen is small and low"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "iiij. q j.",
+   "note": "no stop is visible between 'q' and 'j'; the numeral prints as 'iiÿ'-like, read iiij"
+  },
+  {
+   "where": "margin_notes[8].lines[0]",
+   "text": "l. la i. de Ti-",
+   "note": "the start of the note after key a reads 'l.la i.de'; the sense may be 'à la i. de Timothee' (1 Timothy), so 'l.' may be a mis-set or damaged 'à'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "mothee c. v.",
+   "note": "the last letters of 'mothee' are heavily inked; could be 'mothea' or 'motheo'"
+  },
+  {
+   "where": "blocks[0].text",
+   "text": "TEXTE.",
+   "note": "final letter looks like B ('TEXTB.'); probably a heavily inked or wrong-sort E; check print"
+  },
+  {
+   "where": "blocks[3].lines[12]",
+   "text": "quelle erreur empeſche la volonté, & en conſequent",
+   "note": "the ſ in 'conſequent' is damaged/broken, prints like 'con'equent' or 'coniequent'"
+  },
+  {
+   "where": "blocks[3].lines[21]",
+   "text": "conſenti à Lea: toutesfois apres, il la receut pour fem",
+   "note": "mark after 'apres' is tiny; comma or period"
+  },
+  {
+   "where": "blocks[8].lines[3]",
+   "text": "de condẽnation. car quant à Martin Guerre, il ſembloit",
+   "note": "punctuation after 'condẽnation' looks like a period"
+  },
+  {
+   "where": "blocks[8].lines[5]",
+   "text": "pour auoir laiſſé ſes pere, mere, femme & enfans, indiſ-",
+   "note": "'femme' has a mark over the e (speck or accent 'fëmme'); punctuation after 'enfans' comma or period"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "P. ſi. xxx. q. v.",
+   "note": "P is the paragraph-sign sort; 'ſi.' could be 'ſi'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[8].lines[0]",
+   "target": "blocks[8].lines[0]",
+   "spans": [
+    [
+     17,
+     28
+    ],
+    [
+     32,
+     40
+    ]
+   ],
+   "aligned": true,
+   "a": "Les plus grandes difficultez du iugement de ce pro-",
+   "b": "Les plus grandes difficulrez du ingement de ce pro-",
+   "text": "Les plus grandes difficultez du iugement de ce pro-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "difficultez = difficultés, 'difficulties'; difficulrez is no word (t misread as r).; iugement = jugement, 'judgment', the word the sentence needs; ingement is no word (u misread as n). Same line as p135-b8l0-1, one choice of the line."
+  },
+  {
+   "where": "blocks[8].lines[2]",
+   "target": "blocks[8].lines[2]",
+   "spans": [
+    [
+     16,
+     25
+    ]
+   ],
+   "aligned": true,
+   "a": "Martin Guerre & Bertrande de Rols, eſtoient en voye",
+   "b": "Martin Guerre & Berrrande de Rols, eſtoient en voye",
+   "text": "Martin Guerre & Bertrande de Rols, eſtoient en voye",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Bertrande is the name as Coras spells it everywhere; Berrrande is a misread of t as r."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "priuitate. xxx-",
+   "b": "ptiuitate. xxx-",
+   "text": "priuitate. xxx-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "ca|priuitate = captiuitate, the canon Coras cites again at annot-094 {d} as c. in captiuitate; ptiuitate is no word."
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "target": "margin_notes[0].lines[2]",
+   "spans": [
+    [
+     6,
+     7
+    ]
+   ],
+   "aligned": true,
+   "a": "iiij. q j.",
+   "b": "iiij. q. j.",
+   "text": "iiij. q j.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     13,
+     17
+    ]
+   ],
+   "aligned": true,
+   "a": "la ij. D. de iur-",
+   "b": "la ij. D. de iur.",
+   "text": "la ij. D. de iur.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "D. de iur. dot. = de iure dotium, the Digest title, each word abbreviated with a point; a hyphen (iur-|dot.) would make one word of two abbreviations."
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "target": "margin_notes[8].lines[1]",
+   "spans": [
+    [
+     0,
+     6
+    ]
+   ],
+   "aligned": true,
+   "a": "mothee c. v.",
+   "b": "motheo c. v.",
+   "text": "mothee c. v.",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Ti|mothee = Timothée, the epistle cited (1 Timothy 5); motheo gives no French or Latin form of the name."
+  }
+ ]
 }

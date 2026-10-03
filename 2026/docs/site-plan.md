@@ -420,6 +420,31 @@ Not automated. The orchestrator hands Carson this list:
 
 ---
 
+### Task 13: Contested readings in the French pane (done)
+
+**Goal:** Where the two transcription passes disagreed, the French shows the reading the text carries with a faint dotted underline on just the words in dispute; hover, focus or tap opens a small apparatus (reader A, reader B, which was chosen, who decided, the reason); a collapsed **Readings** list under each page's French is the page's apparatus criticus, structural readings included; a header toggle turns it all off.
+
+**Files:**
+- Modify: `scripts/split_pages.py` (`contested_readings`, `reading_record`, `word_spans`, `_line_spans`, `BOOK_ABOUT`; `uncertain()` drops open arbitrations), `scripts/site_schema.json` (`readings`, `$defs/reading`), `scripts/tests/test_split.py`, `site/data/**` (rebuilt)
+- Modify (code-by-carson): `translations/viewer/app.js` (`appendLineText`, `contestedRuns`, `contestedSpan`, `readingEntry`, `apparatus`, `bindReadings`, `setReadings`, `aboutDialog`), `translations/viewer/style.css` (`.rd`, `.rd-pop`, `.apparatus`, `dialog.about`, `--rd-line`), `translations/viewer/index.html` (`.readings-toggle`)
+
+**Data:** each page record gains `readings[]`: `{where, target, spans, aligned, a, b, text, chose, by, status, reason}`. `target` is `blocks[i].lines[j]`, `margin_notes[i].lines[j]`, `foot_notes[i].lines[j]` or `blocks[i].text`, else null (page layout, running head, note keys, placement). `spans` are `[start, end)` UTF-16 offsets into that line (markers included) of the differing words — a word diff of the line against A and B, as `stitch_text.alt_markup` does; a reading quoted in part (`…ombre ren`, or just `ou toutes`) is located in its line; `aligned: false` with the whole line as the span when the words cannot be aligned; `spans: null` when there is nothing to underline. `by` is `carson | translator | auto` (absent → `carson`), null for an open uncertain[] arbitration with no decision entry. An arbitration-session decision (`chose: "carson-session"`) takes its choice from `reason` (`arbitration: B (translator: …)`), keeping only the free-text part as `reason`. `status: "open"` for `by: auto`, an `either`/`unknown` choice, or an `arbitration: undecided|unknown; alternatives: A ||| B` uncertain[] entry (deduplicated by `where`); open readings have `chose: null` and show reader A. Entries where A and B agree and the text kept them are checks, not disputes, and are left out. `book.json` gains `about` (plain paragraphs for the About box).
+
+**Viewer:** "Decided by" reads `editor` (carson), `translation model (from context)` (translator), or `undecided, showing reader A` (auto / open). One popover for the panel, `position: fixed`, repositioned on scroll; hover shows it, click or Enter/Space pins it, a second click or Escape closes it; a tap is hover + click, so it pins. Readings list items for underlined readings jump to their words. Toggle `contested readings` (aria-pressed) persists in `localStorage` `tc.readings` (`on`/`off`, wrapped in try/catch); disabled on the English layer. Footer **About** opens a `<dialog>` with `book.description` and `book.about`.
+
+**Acceptance Criteria:**
+- [x] `#p068` French: three underlines (`tu,`, `aliena.`, `commẽ`), popover shows both readings, chosen and decider; `commẽ` reads "undecided, showing reader A".
+- [x] Hover, keyboard focus + Enter, Escape, and touch tap/tap-again (iPhone 13 emulation) all open/close the popover; no horizontal scroll at phone width.
+- [x] Readings list collapsed by default, one item per reading, structural ones included (`#p000-title`: one, no underline).
+- [x] Toggle off removes underlines and list, survives reload; on restores them.
+- [x] All 162 pages: every reading with spans renders an underline (506), no page errors.
+- [x] Pages with no contested readings (`#p074`, `#p109`), a page with the toggle off, and the English layer render pixel-identical text panels to the previous viewer.
+- [x] `scripts/tests`: word diff, ellipsis/excerpt alignment, fallback, UTF-16 offsets, `by` default, session reasons, agreed entries, open uncertain dedupe, schema.
+
+**Verify:** `uv run --with pytest --with jsonschema --with pillow python -m pytest scripts/tests -q`; Playwright against `python3 -m http.server` of the viewer, screenshots in the session scratchpad (not committed).
+
+---
+
 ## Self-review
 
 - Spec §2 hosting → Task 9; §3.1 layout/workflow → Tasks 4, 7, 10; §3.2 → Tasks 1–3; §3.3 images → Task 3 + Task 12; §4 contract → Tasks 1–2 (+ `site-data-contract.md`); §5 viewer → Tasks 4–6; landing → Task 7; §6 verification → Tasks 1–3 tests, 8 screenshots, 9 synth, 12 curl; §7 order → phases; blog link → Task 12.

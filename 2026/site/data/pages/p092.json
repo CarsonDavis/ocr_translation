@@ -9,11 +9,374 @@
   "image_no": 114,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/114"
  },
- "running_head": null,
+ "running_head": "ARREST. DV",
  "prev": "p091",
  "next": "p093",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "professors of such ravings boast that they can procure spirits, and by their juggleries and illusions do all things, even to drawing down the stars from heaven; witness Virgil, when he says <sup class=\"mk\" data-key=\"h\">h</sup>:",
+   "continued": true,
+   "notes": [
+    {
+     "key": "h",
+     "citation": "Virgil, <i>Eclogues</i> 8.69 (printed \"the thirteenth of the Aeneid\", which has twelve books; the line is from the eighth Eclogue)",
+     "original": "Vergile au xiij. des Aen.",
+     "gloss": "<i>Carmina vel caelo possunt deducere lunam</i>: charms can draw the moon down from the sky."
+    },
+    {
+     "key": null,
+     "citation": "Virgil, <i>Eclogues</i> 8.69",
+     "original": "Carmina, Vel cœlo poſſunt deducere Lunam.",
+     "gloss": "Translated in the text with the Latin in parentheses; the print's capital <i>V</i> on <i>Vel</i> is a sort for the verse."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Charms can even draw down the Moon from heaven (<i>Carmina vel coelo possunt deducere Lunam</i>).",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "Of this magic some make two kinds, Goety and Theurgy; others (as Marcus Varro) four: Necromancy, Pyromancy, Aeromancy and Hydromancy <sup class=\"mk\" data-key=\"i\">i</sup>. The more recent add to these four Geomancy and Chiromancy <sup class=\"mk\" data-key=\"k\">k</sup>. Necromancy and Goety are all one, signifying the art of divining by the invocation of the spirits of the dead: called Necromancy from νεκρός, which means dead, and μαντεία, divination <sup class=\"mk\" data-key=\"l\">l</sup>; and Goety from <i>planctus</i> (wailing), for the mourning that must be made about the sepulchre from which one wishes to draw and invoke the shade <sup class=\"mk\" data-key=\"m\">m</sup>. Or else, and most often, this pernicious art is practised by the invocation of unclean and evil spirits: as when Pharaoh's enchanters turned rods into serpents and the waters of the rivers into blood <sup class=\"mk\" data-key=\"n\">n</sup>, and the Pythoness of Endor, at the request of King Saul, made the soul of Samuel come by her familiar spirit <sup class=\"mk\" data-key=\"o\">o</sup> — for, as many interpret, it was not the soul of the Prophet, but of some evil spirit which had taken his form <sup class=\"mk\" data-key=\"p\">p</sup>, or else a spectre or phantom. From Goety Theurgy differs in this, that Theurgy is practised by invocation of God and of the good spirits, such as the Angels; by which, by means of the abstinences and other ceremonies required, many have thought they could draw to themselves the celestial powers and divine virtues: which is attributed to Apollonius of Tyana, of whom marvellous things are related — namely, that he understood the jargon of birds; could tell all that was being done in the strangest and most far-removed countries of the world; spoke all tongues without ever having been taught; declared the thoughts of men; foretold things to come; and (what is above all astonishing [the print has <i>amiable</i>, read as <i>admirable</i>], and what a Christian ought not easily to believe) raised the dead — which he boasted he did by the counsel of God and the",
+   "continued": false,
+   "notes": [
+    {
+     "key": "i",
+     "citation": "Marcus Terentius Varro (<i>Marc Varron</i>), <i>Antiquitates rerum divinarum</i>, book VII as cited (the work is lost; the four kinds of divination by the elements — geomancy, hydromancy, aeromancy, pyromancy — are reported from Varro by Augustine, <i>City of God</i> VII.35)",
+     "original": "M. Varro au vij. diuinarum rerũ.",
+     "gloss": "Coras's \"necromancy\" in place of Varro's \"geomancy\" follows Augustine's remark in the same chapter that the dead too were consulted."
+    },
+    {
+     "key": "k",
+     "citation": "Polydore Vergil (<i>Polidore</i>), <i>De inventoribus rerum</i> I.23 (as cited; chapter unverified)",
+     "original": "Polidore au liure j. de Inuentor. rer. c. xxiij.",
+     "gloss": "Polydore Vergil of Urbino, 1470–1555; his first book treats the origins of divination and magic."
+    },
+    {
+     "key": "l",
+     "citation": "Decretum, C. 26 q. 5, the last canon (c. <i>Nec mirum</i>, c. 14)",
+     "original": "c. fin. xxvj. q. v.",
+     "gloss": "The canon's etymology of <i>necromantia</i> from the Greek for the dead and for divination, which Coras repeats."
+    },
+    {
+     "key": "m",
+     "citation": "Augustine, <i>City of God</i>, book X, chapters 9, 10 and 11 (the book number is not printed; book X is the one that treats goety and theurgy, with Porphyry's doubts)",
+     "original": "S. Auguſtin au liure de ciuit. Dei. c. ix. x. &amp; xj.",
+     "gloss": "Augustine, <i>De civitate Dei</i> X.9, the \"detestable\" arts called goety by the vulgar and theurgy by their defenders."
+    },
+    {
+     "key": "n",
+     "citation": "Exodus 7 (7:11–12, 22)",
+     "original": "Exod. c. vij.",
+     "gloss": "Pharaoh's magicians turn rods into serpents and water into blood."
+    },
+    {
+     "key": "o",
+     "citation": "1 Kings 28 (the Vulgate's first book of Kings; 1 Samuel 28 in the Hebrew numbering): the woman of Endor and Samuel",
+     "original": "Au premier des Rois c. xxviij.",
+     "gloss": "The `⟨alt⟩` <i>Rou</i> is read <i>Rois</i>."
+    },
+    {
+     "key": "p",
+     "citation": "Decretum, C. 26 q. 5, the last canon (c. <i>Nec mirum</i>, c. 14), at § <i>Praeterea</i> (paragraph not verified)",
+     "original": "c. fi. P. præterea. xxvj. q. v.",
+     "gloss": "For the interpretation that it was a demon in Samuel's shape, not the prophet's soul — the view of many Fathers, which Augustine weighed both ways. The print's <i>P.</i> is its sort for §."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "profeſſeurs de telles reſueries ſe vantent pouuoir re-",
+    "couurer des eſprits, & par leurs preſtiges & illuſions fai",
+    "re toutes choſes: iuſques à attiret les aſtres du ciel. teſ-",
+    "moin Vergile quand il dit {h}."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Carmina, Vel cœlo poſſunt deducere Lunam."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "De cette magie, les vns en font deux eſpeces, Goetie,",
+    "& Theurgie. Les autres (comme Marc Varron) quatre:",
+    "Necromance, Pyromance, Aeromance, & Hydroman-",
+    "ce {i}. Les plus recens adiouſtent à ces quatre, la Geo-",
+    "mance & la Chiromance {k}. Necromance & Goetie eſt",
+    "tout vn, ſignifiant l'art de deuiner par inuocation d'e-",
+    "ſprits des treſpaſſez: appellee Necromance, à νεκρος, qui",
+    "veut dire mort: & μαντεία, diuination {l}: & Goetie, à plan-",
+    "ctu, pour le dueil qu'il faut demener à l'entour du ſepul",
+    "chre, duquel on veut attirer & inuoquer l'ombre {m}. Ou",
+    "bien & le plus ſouuent cet art pernicieux ſ'exerce par",
+    "inuocation dés eſprits immundes & mauuais: com-",
+    "me quand les enchanteurs de Pharaon conuertiſſoyent",
+    "les verges en ſerpens, & les eaux des fleuues en ſang {n},",
+    "& la Phitoniſſe d'Endor, à la requeſte du Roy Saül",
+    "fit venir par ſon eſprit familier, l'ame de Samuel {o}. car",
+    "ainſi que pluſieurs interpretent, ce n'eſtoit pas l'ame du",
+    "Prophete: mais de quelque mauuais eſprit, qui auoit",
+    "prins ſa forme {p}, ou bien vn ſpectre ou fantoſme. De la",
+    "Goetie eſt differente la Theurgie, en ce que la Theur-",
+    "gie ſ'exerce par inuocation de Dieu & des bons eſprits,",
+    "comme des Anges, par laquelle moyennant les abſti-",
+    "nences & autres ceremonies requiſes, pluſieurs ont pen-",
+    "ſé pouuoir attraire les puiſſances celeſtes, & vertus di-",
+    "uines: ce qu'on attribue à Appolonius Thianeus, du-",
+    "quel on recite choſes merueilleuſes: meſmement qu'il",
+    "entendoit le iargon des oyſeaux: ſçauoit dire tout ce",
+    "qu'on faiſoit és plus eſtranges & ſeparees contrees du",
+    "monde: parloit toutes langues, ſans oncques auoir eſté",
+    "apprins: declaroit les penſees des hommes, prediſoit",
+    "les choſes à venir: & (qui eſt ſur tout amiable, & qu'vn",
+    "Chreſtien ne doit facilement, croire) reſſuſcitoit les",
+    "morts. ce qu'il ſe vantoit faire par le conſeil de Dieu, &"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "Vergile au",
+    "xiij. des Aen."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "M. Varro",
+    "au vij. diui-",
+    "narum rerũ."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "Polidore au",
+    "liure j. de In-",
+    "uentor. rer. c.",
+    "xxiij."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "c. fin. xxvj.",
+    "q. v."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "S. Augu-",
+    "ſtin au liure",
+    "de ciuit. Dei.",
+    "c. ix. x. & xj."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "Exod. c. vij."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "Au premier",
+    "des Rois c.",
+    "xxviij."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "c. fi. P. præ-",
+    "terea. xxvj.",
+    "q. v."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST. DV",
+   "note": "spaced capitals; a period is printed after ARREST"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "re toutes choſes: iuſques à attiret les aſtres du ciel. teſ-",
+   "note": "sic: 'attiret' (wrong sort for 'attirer'); final letter looks like t"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Carmina, Vel cœlo poſſunt deducere Lunam.",
+   "note": "italic verse; 'Vel' printed with a swash capital V"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "Necromance, Pyromance, Aeromance, & Hydroman-",
+   "note": "'Aeromance' second letter could be a c ('Acromance', wrong sort); read as e with low confidence"
+  },
+  {
+   "where": "blocks[2].lines[6]",
+   "text": "ſprits des treſpaſſez: appellee Necromance, à νεκρος, qui",
+   "note": "Greek word small and worn; second letter could be ι (printed 'νικρος'?); no accents visible"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "veut dire mort: & μαντεία, diuination {l}: & Goetie, à plan-",
+   "note": "Greek τ printed as a ligature-like sort; punctuation after 'mort' and after marker l could be ';' rather than ':'"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "inuocation dés eſprits immundes & mauuais: com-",
+   "note": "'dés' appears to carry an accent; could be ink"
+  },
+  {
+   "where": "blocks[2].lines[27]",
+   "text": "qu'on faiſoit és plus eſtranges & ſeparees contrees du",
+   "note": "a raised dot after 'plus' ignored as stray ink"
+  },
+  {
+   "where": "blocks[2].lines[31]",
+   "text": "Chreſtien ne doit facilement, croire) reſſuſcitoit les",
+   "note": "comma before 'croire' as printed (set tight to croire); sic"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "xiij. des Aen.",
+   "note": "numeral could be 'xij.'; first stroke blurred"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "re toutes choſes: iuſques à attiret les aſtres du ciel. teſ-",
+   "note": "'attiret' as printed (for 'attirer'); sic"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "profeſſeurs de telles reſueries ſe vantent pouuoir re-",
+   "note": "no preceding page transcription available; continues_prev inferred from lowercase start mid-sentence"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Carmina, Vel cœlo poſſunt deducere Lunam.",
+   "note": "italic verse quotation (Virgil, Ecl. viii); 'Vel' printed with a swash capital V as transcribed"
+  },
+  {
+   "where": "blocks[2].lines[7]",
+   "text": "veut dire mort: & μαντεία, diuination {l}: & Goetie, à plan-",
+   "note": "Greek 'μαντεία' printed with an odd τ sort (looks like ]); punctuation after 'mort' and after {l} could be ';' rather than ':'"
+  },
+  {
+   "where": "blocks[2].lines[11]",
+   "text": "inuocation dés eſprits immundes & mauuais: com-",
+   "note": "'dés' with accent as it appears; accent mark could be a spot"
+  },
+  {
+   "where": "blocks[2].lines[24]",
+   "text": "uines: ce qu'on attribue à Appolonius Thianeus, du-",
+   "note": "print shows 'qù on' / 'qu' on' — an apostrophe or accent over the u with a gap; could be read 'qui on'"
+  },
+  {
+   "where": "blocks[2].lines[30]",
+   "text": "les choſes à venir: & (qui eſt ſur tout amiable, & qu'vn",
+   "note": "'amiable' as printed (sense wants 'admirable'); sic"
+  },
+  {
+   "where": "blocks[2].lines[31]",
+   "text": "Chreſtien ne doit facilement, croire) reſſuſcitoit les",
+   "note": "a small raised comma-like mark between 'facilement' and 'croire'; may be a spot rather than a comma"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "xiij. des Aen.",
+   "note": "first sort looks like a ʒ-shaped x; reading 'xiij' (Aeneid xii would be expected; could be 'xij' with extra i?)"
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "text": "des Rois c.",
+   "note": "print looks like 'Rou' — may be a misprint 'Rou' or italic 'is' ligature; best reading 'Rois'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].lines[6]",
+   "target": "blocks[2].lines[6]",
+   "spans": [
+    [
+     46,
+     53
+    ]
+   ],
+   "aligned": true,
+   "a": "ſprits des treſpaſſez: appellee Necromance, à νεκρος, qui",
+   "b": "ſprits des treſpaſſez: appellee Necromance, à νικρος, qui",
+   "text": "ſprits des treſpaſſez: appellee Necromance, à νεκρος, qui",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "νεκρός is the Greek word for a dead man that Coras is glossing ('qui veut dire mort'); νικρος is no word."
+  },
+  {
+   "where": "blocks[2].lines[24]",
+   "target": "blocks[2].lines[24]",
+   "spans": [
+    [
+     10,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "uines: ce qù on attribue à Appolonius Thianeus, du-",
+   "b": "uines: ce qu'on attribue à Appolonius Thianeus, du-",
+   "text": "uines: ce qu'on attribue à Appolonius Thianeus, du-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "qu'on ('which one attributes') is the word; qù on sets an accent sort where the apostrophe belongs."
+  },
+  {
+   "where": "margin_notes[6].lines[1]",
+   "target": "margin_notes[6].lines[1]",
+   "spans": [
+    [
+     4,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "des Rou c.",
+   "b": "des Rois c.",
+   "text": "des Rois c.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Rois: 'the first of Kings, chapter 28' is the witch of Endor (1 Samuel 28 in the Hebrew numbering); Rou is no word."
+  }
+ ]
 }

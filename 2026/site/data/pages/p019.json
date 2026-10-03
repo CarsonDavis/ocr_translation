@@ -295,5 +295,56 @@
    "text": "mes. Ode V.",
    "note": "the numeral after 'Ode' is upright and above x-height, read as capital V (both reads)"
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[1], blocks[3]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "heading blocks (5)",
+   "b": "heading blocks (5)",
+   "text": "paragraph blocks: blocks[1] = Phocylides line (1 string); blocks[3] = Horace quatrain (4 strings, one per printed line)",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "conventions §6: verse quotations set apart in italic are paragraph blocks, never headings (standing ruling). Both reads had them as headings; block indices renumbered 0-4"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "target": "blocks[4].lines[5]",
+   "spans": [
+    [
+     40,
+     47
+    ]
+   ],
+   "aligned": true,
+   "a": "conception, la femme penſe plus au mary abſent, qu'à",
+   "b": "conception, la femme penſe plus au mary abſeut, qu'à",
+   "text": "conception, la femme penſe plus au mary abſeut, qu'à",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x (body-7.jpg, strip line 2) the sort before t is joined at the foot and open at the top: a u, i.e. a turned n; sic 'abſeut'"
+  },
+  {
+   "where": "margin_notes[3].lines[2]",
+   "target": "margin_notes[3].lines[2]",
+   "spans": [
+    [
+     14,
+     16
+    ]
+   ],
+   "aligned": true,
+   "a": "l. finale. C. de",
+   "b": "l. finale. C. dé",
+   "text": "l. finale. C. dé",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 9x (margin-1.jpg y≈1240-1310) a short slanted stroke stands directly over the e, in accent position, rising to the right: an é sort (meaningless in the citation, but printed); A omitted it"
+  }
  ]
 }

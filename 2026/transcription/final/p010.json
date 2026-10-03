@@ -25,13 +25,13 @@
     "profeſsion auec nous d'intime amitié, & ſe monſtrent,",
     "exterieurement pluſque noſtres, deſquels neantmoins l'e",
     "prit & l'entendement eſt deſloyal: plein de de toute pro",
-    "dition, & de toutes parts noſtre aduerſaire: & ſous l'hon",
+    "dition, & de toutes parts noſtré aduerſaire: & ſous l'hon",
     "neſte manteau d'amitié, ſont nos grans ennemis: plus",
     "mauuais certes, & dangereux, que ceux qui pour tels",
     "ouuertement ſe declarent {f}. Car quelle peſte pourroit",
     "on ſonger plus violente, pernicieuſe, ni plus efficace à",
     "nuire, qu'vn familier ennemy {g}, lequel nous à irrepara-",
-    "blemẽt offenſez, auant que ſe doubter de luy? ou toutes",
+    "blemẽt offenſez, auant que ſe doubter de luy? ou toures",
     "fois, nous pouuons facilemẽt euiter celuy, qui ouuerte-",
     "ment ſe monſtre noſtre aduerſaire {h}. Voila pourquoy:",
     "faut bien eſtre prudent, à choiſir vn ami. & manger vn",
@@ -231,6 +231,18 @@
    "text": "C de ſeruit.",
    "note": "no point visible after the C (reader B); transcribed as printed.",
    "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "text": "dition, & de toutes parts noſtré aduerſaire: & ſous l'hon",
+   "note": "sic noſtré (acute over final e), as printed",
+   "escalate": false
+  },
+  {
+   "where": "blocks[1].lines[13]",
+   "text": "blemẽt offenſez, auant que ſe doubter de luy? ou toures",
+   "note": "sic toures (r for t, = toutes-|fois), wrong sort",
+   "escalate": false
   }
  ],
  "decisions": [
@@ -273,6 +285,22 @@
    "chose": "carson-session",
    "text": "reng. que",
    "reason": "spot-check found a shared reader error; confirmed at 3x: round baseline dot, no tail"
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "A": "noſtre aduerſaire",
+   "B": "noſtre aduerſaire",
+   "chose": "carson-session",
+   "text": "noſtré aduerſaire",
+   "reason": "single-pass pilot 2026-09-24 (docs/checks/pilot-2026-09-24.md): both Opus re-reads had it, earlier readers had silently normalized; coordinator confirmed at 3x: acute stroke over the final e of noſtré; transcribed as printed"
+  },
+  {
+   "where": "blocks[1].lines[13]",
+   "A": "ou toutes",
+   "B": "ou toutes",
+   "chose": "carson-session",
+   "text": "ou toures",
+   "reason": "single-pass pilot 2026-09-24 (docs/checks/pilot-2026-09-24.md): both Opus re-reads had it, earlier readers had silently normalized; coordinator confirmed at 3x: the fourth letter is an r sort with no crossbar; wrong sort, transcribed as printed"
   }
  ]
 }

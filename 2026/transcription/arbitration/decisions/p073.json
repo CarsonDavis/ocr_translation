@@ -1,0 +1,47 @@
+{
+ "page": "p073",
+ "decisions": {
+  "b-001": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "The marker alphabet runs a2, b2 and then c; the margin of p072 carries an orphan note keyed c (Aud. itaque. C. con. de suc.) that serves this marker, and the p073 note keyed c belongs by content (hearsay) to annot-053's {c}; the print's c and e are near twins."
+  },
+  "b-018": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "The print has a plain c and the note that serves it is the p073 note keyed c (c. tam literis… de testib.), now listed under annot-052; there is no second c on the page once that note is placed here, so the suffix of c2 has nothing to mark."
+  },
+  "b-022": {
+   "choice": "A",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "Kept as e2 to match the key of the margin note that serves it; both readings translate the same. The suffix exists only because annot-052's third marker was read as e on this page, and once that marker is corrected to c (p073-b0l1-1) both this marker and the note's key should drop the suffix and read e."
+  },
+  "b-032": {
+   "choice": "B",
+   "by": "translator",
+   "at": "2026-10-03T13:12:19",
+   "reason": "The alphabet runs h then i and the margin note is keyed i; l would skip i and k, and the italic i and l of the print are near twins."
+  },
+  "n-b-3": {
+   "choice": "either",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "ns-c": {
+   "choice": "unknown",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  },
+  "ns-e2": {
+   "choice": "unknown",
+   "by": "auto",
+   "at": "2026-10-03T11:57:10",
+   "reason": "auto-deferred to translator"
+  }
+ }
+}

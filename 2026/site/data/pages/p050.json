@@ -9,11 +9,305 @@
   "image_no": 72,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/72"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p049",
  "next": "p051",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "the least, and what one could desire in their faith and capacity is supplied by the number that is over <sup class=\"mk\" data-key=\"c\">c</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "c",
+     "citation": "Johannes de Imola (<i>Iean Imola</i>; Giovanni da Imola, d. 1436) on Digest 28.1 (<i>Qui testamenta facere possunt et quemadmodum testamenta fiant</i>), l. <i>Qui testamento</i> (cf. D. 28.1.20, on who may be witness to a will; number unverified); Alexander Tartagnus of Imola (<i>Alexandre</i>), <i>Consilia</i>, vol. 1, consilium 93 (number unverified)",
+     "original": "Iean Imola en la loy qui teſtament. D. de teſta. Alexandre en ſon conſeil xciij. du premier vol.",
+     "gloss": "The doctrine that a surplus witness cures the incapacity of a defective one."
+    },
+    {
+     "key": "e",
+     "citation": "Baldus (<i>Balde</i>) on Code 1.3 (<i>De episcopis et clericis</i>), l. <i>Presbyteri</i> (cf. C. 1.3.8, priests to give testimony without the injury of torture; number unverified), toward the end",
+     "original": "Balde en la l. præsbiteri. ſur la fin. C. de epiſ. &amp; cle.",
+     "gloss": "Placed beside \"without being interrogated upon it\"; it evidently supports the sentence that the witness does no ill in giving his reason unasked."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Rendering good and pertinent reasons, as of having haunted and frequented the said du Tilh and Martin Guerre, drunk and eaten often, since their childhood, with the one or with the other.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XXVIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "A witness is not credible, nor worthy of faith, who does not render a reason for his saying, <sup class=\"mk\" data-key=\"a\">a</sup> of which the Judge or the commissioner ought to interrogate him <sup class=\"mk\" data-key=\"b\">b</sup>; otherwise, if the commissioner has been so gross as not to ask it, the witness is not bound to render it <sup class=\"mk\" data-key=\"c2\">c2</sup>, because he ought not to show himself eager [<i>affectionné</i>] to answer upon that on which he is not required or sought <sup class=\"mk\" data-key=\"d\">d</sup>. Nevertheless the witness also does no ill if he renders a reason voluntarily and of himself, without being interrogated upon it. Nay, in criminal matters (of which we treat here) the witness is bound to give a reason, even though he be not required to; otherwise his saying makes no faith <sup class=\"mk\" data-key=\"f\">f</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 4.20 (<i>De testibus</i>), l. <i>Solam</i> (cf. C. 4.20.4, <i>Solam testationem prolatam…</i>: a single deposition unsupported by other lawful aids is of no moment; number unverified)",
+     "original": "l. ſolam. C. de teſtib.",
+     "gloss": null
+    },
+    {
+     "key": "b",
+     "citation": "Decretals, X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Cum causam</i> (chapter number unverified)",
+     "original": "c. cum cau ſam. de teſti.",
+     "gloss": null
+    },
+    {
+     "key": "c2",
+     "citation": "Decretals, X 2.27 (<i>De sententia et re iudicata</i>), c. <i>Sicut</i> (chapter number unverified); the said c. <i>Cum causam</i> (X 2.20, note <i>b</i>); Accursius (<i>Accur.</i>), the Gloss on the said l. <i>Solam</i> (C. 4.20)",
+     "original": "c. ſicut. de re iud. aud. c. cum cauſam. Accur. en lad. l ſolam.",
+     "gloss": "The print's <i>aud.</i> is read as <i>au d[it]</i>, \"at the said chapter\"; this is the second note lettered <i>c</i> on p050."
+    },
+    {
+     "key": "d",
+     "citation": "Code 1.19 (<i>De precibus imperatori offerendis</i>), last law (number unverified)",
+     "original": "l. final. C. de prec. imp. off.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Salicetus (<i>Saliet</i>; Bartholomaeus de Saliceto, d. 1411) on the last law of Code 4.19 (<i>De probationibus</i>; number unverified); Alexander Tartagnus (<i>Alexandre</i>), <i>Consilia</i>, vol. 1, consilium 15 (number unverified)",
+     "original": "Saliet en la l. finale. C. de proba. Alexandre au conſeil xv. du i. volu.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE,"
+  },
+  {
+   "type": "paragraph",
+   "html": "Upon this, it is to be noted that there were three or four kinds of witnesses who came into consideration. The first, a maternal uncle of the said du Tilh, called Carbon Barrau, and thus beyond all suspicion; inasmuch as it is in no way probable that blood, in this case, would be willing to lie so far as, without any occasion, to procure the ignominious death of its own nephew.",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "le moins, & ce qu'on pourroit deſirer en leur foy & ca",
+    "pacité, eſt ſupplié par le nombre qui eſt de ſurplus {c}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Rendans raiſons bonnes & pertinen",
+    "tes, comme d'auoir hanté & frequenté",
+    "ledit du Tilh, & Martin Guerre, beu, &",
+    "mangé ſouuẽt, depuis leur enfance auec",
+    "l'vn, ou auec l'autre."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XXVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Vn teſmoin n'eſt pas croyable, ni digne de foy qui",
+    "ne rend raiſon de ſon dire. {a} de laquelle le Iuge ou le",
+    "commiſſaire le doit inrerroguer {b}: autrement ſi le com",
+    "miſſaire a eſté ſi groſsier, de ne la demãder, le teſmoin",
+    "n'eſt pas tenu de la rendre {c2}. par ce, qu'il ne ſe doit",
+    "pas monſtrer affectionné à reſpondre ſur ce, dequoy",
+    "il n'eſt pas requis. ou recerché {d}. Toutesfois auſſi le teſ",
+    "moin ne fait pas mal, ſ'il rend raiſon volontairement,",
+    "& de ſoy meſme, ſans en eſtre interrogué. Voire en",
+    "matieres criminelles, deſquelles nous traittons ici) le",
+    "teſmoin eſt tenu donner raiſon, encor qu'il n'en ſoit",
+    "requis: autrement ſon dire ne fait point de foy {f}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE,",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Sur ce, eſt à noter qu'il y auoit trois",
+    "ou quatre qualitez de teſmoins qui ve-",
+    "noyent en conſideration. La premiere,",
+    "vn oncle maternel dudit du Tilh, appe-",
+    "lè Carbon Barrau: & par ainſi hors tout",
+    "ſoupçon: d'autant qu'il n'eſt aucune-",
+    "ment vray-ſemblable que le ſang en ceſt",
+    "endroit vouluſt ſi auant mentir, que ſans",
+    "occaſion aucune procuraſt la mort igno",
+    "mignieuſe de ſon propre nepueu."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "Iean Imola",
+    "en la loy qui",
+    "teſtament. D.",
+    "de teſta. Ale-",
+    "xandre en ſon",
+    "conſeil xciij. du",
+    "premier vol."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. ſolam. C.",
+    "de teſtib."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "c. cum cau-",
+    "ſam. de teſti."
+   ]
+  },
+  {
+   "key": "c2",
+   "kind": "margin",
+   "lines": [
+    "c. ſicut. de",
+    "re iud. aud. c.",
+    "cum cauſam.",
+    "Accur. en lad.",
+    "l ſolam."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. final. C. de",
+    "prec. imp. off."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Balde en la",
+    "l. præsbiteri.",
+    "ſur la fin. C.",
+    "de epiſ. & cle."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "Saliet en",
+    "la l. finale. C.",
+    "de proba.",
+    "Alexandre",
+    "au conſeil xv.",
+    "du i. volu."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[5]",
+   "text": "Balde en la",
+   "note": "note key e has no {e} marker anywhere in the body: the whole annotation column was checked at 3-5x between markers {d} and {f} (the wide gaps at 'interrogué . Voire', 'raiſon , encor' and 'ici ) le' all hold plain punctuation, no letter). The note is placed beside 'interrogué', which is where the sense wants it."
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "mangé ſouuẽt, depuis leur enfance auec",
+   "note": "the mark over the e of 'ſouuẽt' is a flat horizontal bar, clearly unlike the sloped acute on 'mangé' in the same word-pair (compared at 3x); read as a tilde (ſouuẽt = souvent), not 'ſouuét'."
+  },
+  {
+   "where": "blocks[4].lines[4]",
+   "text": "n'eſt pas tenu de la rendre {c2}. par ce, qu'il ne ſe doit",
+   "note": "after 'par ce' there is a comma with a tail plus TWO extra marks: a second small comma-like blob to its right and a raised stroke at ascender height. Read as a single comma; the extra marks look like a battered sort or stray type, but a damaged semicolon cannot be ruled out. Checked at 7x."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "commiſſaire le doit inrerroguer {b}: autrement ſi le com",
+   "note": "sic: 'inrerroguer' for 'interroguer' (n-r-e-r-r), confirmed at 4.5x."
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "matieres criminelles, deſquelles nous traittons ici) le",
+   "note": "the closing parenthesis after 'ici' has no opening parenthesis anywhere on the page (sense wants one before 'deſquelles' or 'Voire'). Printed so; 'deſquellesnous' is set tight and normalized to two words per §1."
+  },
+  {
+   "where": "blocks[6].lines[4]",
+   "text": "lè Carbon Barrau: & par ainſi hors tout",
+   "note": "sic: grave accent on 'appe-/lè' (stroke falls left-to-right, unlike the acutes on the same page), checked at 6x. Also a small stray dash sits below the baseline between 'hors' and 'tout'; taken as spacing material or debris, not punctuation."
+  },
+  {
+   "where": "margin_notes[3].lines[4]",
+   "text": "l ſolam.",
+   "note": "no point after the 'l' here, unlike 'l. ſolam. C.' in the note keyed a; checked at 5x and none is visible."
+  },
+  {
+   "where": "margin_notes[6].lines[5]",
+   "text": "du i. volu.",
+   "note": "a short raised dash stands between 'i.' and 'volu.'; not transcribed (stray sort or show-through), checked at 9x."
+  }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "reads agree on every body line; sole note difference (note f line 4 'xv,' vs 'xv.') checked by the coordinator on the 2x margin crop: period, B correct"
+  },
+  {
+   "where": "margin_notes[f].lines[3]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "au conſeil xv,",
+   "b": "au conſeil xv.",
+   "text": "au conſeil xv.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "coordinator checked the 2x margin crop"
+  }
+ ]
 }

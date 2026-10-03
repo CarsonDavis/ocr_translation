@@ -9,6 +9,9 @@ import json, pathlib, re, sys
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 PAGE = re.compile(r"⟦(p[0-9]{3}(?:-[a-z]+)?)⟧")
 MARK = re.compile(r"\{([a-zſ]+\d*)\}")
+# Inline alternative readings (⟨alt:…⟩, ⟨alt?:…⟩) may quote a marker; reading A is
+# the text before the span, so the span itself is dropped before counting markers.
+ALT = re.compile(r"⟨alt\??:[^⟩]*⟩")
 
 
 def check(section_id, sections):
@@ -29,10 +32,11 @@ def check(section_id, sections):
         if not re.search(rf"^id:\s*{re.escape(section_id)}\s*$", fm, re.M):
             problems.append("front matter id does not match")
     head, _, notes = body.partition("\n## Notes")
-    fp, ep = PAGE.findall(sec["text"]), PAGE.findall(head)
+    french = ALT.sub("", sec["text"])
+    fp, ep = PAGE.findall(french), PAGE.findall(head)
     if fp != ep:
         problems.append(f"page markers differ: French {fp} vs English {ep}")
-    fm_, em_ = MARK.findall(sec["text"]), MARK.findall(head)
+    fm_, em_ = MARK.findall(french), MARK.findall(head)
     if fm_ != em_:
         problems.append(f"letter markers differ: French {fm_} vs English {em_}")
     keys = [n["key"] for n in sec.get("notes", []) if n.get("key") not in (None, "_")]

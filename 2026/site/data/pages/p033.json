@@ -9,11 +9,342 @@
   "image_no": 55,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/55"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p032",
  "next": "p034",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "of beard, nevertheless he was recognised by all, and singularly by the said Pierre Guerre his uncle, who had received and made much of him as his nephew: until, looking more closely to his affairs, the defendant wished to recover his said property, and the fruits that had been received from it during his absence; whereof the said Pierre Guerre, the uncle, having often been amicably admonished, had for a long time fed him with fine words.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Cicero, <i>Pro Cluentio</i> (passage not located); Code 8.13 (<i>De pignoribus et hypothecis</i>), l. <i>Debitores</i> (fragment not identified)",
+     "original": "Ciceron en l'Oraiſon pro Cluentio. l. de bitores. C. de pignor.",
+     "gloss": "Evidently belongs to the opening sentence on the creditor who admonishes his debtor before suing him."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 13.7.4 (<i>De pigneraticia actione</i>, l. <i>Si convenit</i>, cited as <i>Si convenerit</i>)",
+     "original": "l. ſi conuenerit. D. de pi gno. actio.",
+     "gloss": "Ulpian: a creditor who sells a pledge against agreement is liable for theft, unless he has three times given the debtor notice to pay — the \"twice and three times\" of the text."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XVII"
+  },
+  {
+   "type": "paragraph",
+   "html": "In former times, when some creditor wished to call his debtor into judgment, before entering into suit he would take him aside, and admonish and call upon him familiarly to pay and satisfy him, not once only, but most often twice and three times. Thus Proculus the Jurisconsult teaches us that, if our neighbour or another does us some wrong, [we ought] to speak to him and amicably represent it to him before bringing him to law. I WISH, says he, that you would speak with Hiberus, so that he may not do an unjust thing <sup class=\"mk\" data-key=\"c\">c</sup>. Acts not only humane and full of all civility, but also savouring of Christianity, by whose law we are commanded to correct our neighbour before threatening him <sup class=\"mk\" data-key=\"d\">d</sup>, and to take up a quarrel with no one, but to be humane, gracious and charitable, using all gentleness and courtesy toward men <sup class=\"mk\" data-key=\"e\">e</sup>; from whom, if we receive some wrong or injury, we must nevertheless not hold him who offends us as an enemy, but admonish him as a brother <sup class=\"mk\" data-key=\"f\">f</sup>, and reprove and correct him amicably between ourselves and him alone <sup class=\"mk\" data-key=\"g\">g</sup>.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "c",
+     "citation": "Digest 8.2.13 pr. (<i>De servitutibus praediorum urbanorum</i>, l. <i>Quidam Hiberus</i>)",
+     "original": "l. quidam Hyberus. D. de ſeruit. vrb: prædio.",
+     "gloss": "Proculus, on a neighbour Hiberus who built baths against a party wall: \"on which matter I wish you to speak with Hiberus, so that he may not do an unlawful thing\" (<i>volo cum Hibero loquaris, ne rem illicitam faciat</i>)."
+    },
+    {
+     "key": "d",
+     "citation": "Ecclesiasticus 19:13–17",
+     "original": "eccleſiaſtic c xix.",
+     "gloss": "Admonish a friend, lest he have done it not; and if he have, that he do it no more."
+    },
+    {
+     "key": "e",
+     "citation": "Titus 3:2",
+     "original": "Tite iij. C.",
+     "gloss": "To speak evil of no man, not to be contentious, but gentle, showing all meekness to all men."
+    },
+    {
+     "key": "f",
+     "citation": "2 Thessalonians 3:15",
+     "original": "ij des Theſ ſaloniciens C. iij.",
+     "gloss": "Count him not as an enemy, but admonish him as a brother."
+    },
+    {
+     "key": "g",
+     "citation": "Matthew 18:15; Luke 17:3; Leviticus 19:17",
+     "original": "S Mathieu c. xviij. S. Luc c xvij. Leuitique c. xix.",
+     "gloss": "Go and tell him his fault between thee and him alone; if thy brother trespass, rebuke him; thou shalt in any wise rebuke thy neighbour."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "At last he was constrained to su",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "en barbe, toutesfois fut il recognu de",
+    "tous, ſingulierement dudit Pierre Guer-",
+    "re ſon oncle, qui l'auroit receu & careſſé",
+    "pour ſon nepueu: iuſqu'à tãt qu'aduiſant",
+    "de plus pres à ſes affaires, le deffendeur",
+    "vouluſt recouurer ſõdit bien, & les fruicts",
+    "qui en auroyent eſté perceus durãt",
+    "ſon abſence: de quoy ayant ſouuent eſté",
+    "admonneſté amiablement iceluy Pier-",
+    "re Guerre oncle, L'auroit par vn long",
+    "temps repeu de belles paroles."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XVII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Iadis quand quelque creancier vouloit appeler ſon",
+    "debiteur en iugement, auant qu'entrer en proces il le",
+    "reuiroit a part, l'admoneſtoit & interpelloit familiere",
+    "mẽt de le payer & ſatisfaire, nõ pas ſeulemẽt vne fois,",
+    "mais deux, & trois le plus ſouuent. Ainſi Procul Iuriſcõ",
+    "ſulte nous enſeigne, que ſi noſtre voiſin ou autre nous",
+    "fait quelque tort de parler à luy, & amiablement le luy",
+    "remonſtrer auant que le mettre en places. IE VEVX.",
+    "dit il, que tu parles auec Hybere, à fin qu'il ne face cho",
+    "ſe iniuſte {c}. Actes non ſeulement humains & plains de",
+    "toute ciuilité: mais encor reſſentans ſon Chriſtianiſ-",
+    "me, par la loy duquel nous eſt cõmandé corriger no-",
+    "ſtre prochain auãt que le menaſſer {d}, & de ne prẽdre de-",
+    "bat à aucun, mais d'eſtre humains, gracieux & charita-",
+    "bles, vſans de toute douceur & courtoiſie enuers les hõ",
+    "mes {e}. deſquels ſi nous receuons quelque tort ou iniure",
+    "ne faut pourtant tenir celuy qui nous offenſe comme",
+    "ennemi, mais l'admoneſter, cõme frere {f}, le reprendre &",
+    "corriger amiablement entre nous, & luy ſeul {g}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "En fin fut contraint, le mectre en in-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Ciceron en",
+    "l'Oraiſon pro",
+    "Cluentio. l. de",
+    "bitores. C. de",
+    "pignor."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. ſi conue-",
+    "nerit. D. de pi",
+    "gno. actio."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. quidam",
+    "Hyberus. D.",
+    "de ſeruit. vrb:",
+    "prædio."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "eccleſiaſtic",
+    "c xix."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Tite iij. C."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "ij des Theſ",
+    "ſaloniciens C.",
+    "iij."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "S Mathieu",
+    "c. xviij. S. Luc",
+    "c xvij. Leuiti-",
+    "que c. xix."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "margin_notes[0]",
+   "text": "Ciceron en",
+   "note": "note key a is printed in the margin but no {a} marker is printed anywhere in the body; both readers checked every line at 3x-6x. The italic 'a' at this height sits in the margin column aligned with the note's other lines: it is the note key, not a body marker. Note kept without a marker (standing ruling)"
+  },
+  {
+   "where": "margin_notes[1]",
+   "text": "l. ſi conue-",
+   "note": "note key b is printed in the margin but no {b} marker is printed anywhere in the body; the italic 'b' beside body line 5 of the annotation is left-aligned with the note's following lines, so it is the note key. Note kept without a marker (standing ruling)"
+  },
+  {
+   "where": "blocks[2].lines[17]",
+   "text": "ennemi, mais l'admoneſter, cõme frere {f}, le reprendre &",
+   "note": "punctuation after marker {f}: at 5x a stroke descending below the baseline with a tail, i.e. a comma (both readers agree; confirmed by the reconciler)"
+  },
+  {
+   "where": "blocks[2].lines[15]",
+   "text": "mes {e}. deſquels ſi nous receuons quelque tort ou iniure",
+   "note": "'ou' carries a faint tick above the u; read as plain 'ou' (no accent, no tilde), the mark looks like a speck"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "de ſeruit. vrb:",
+   "note": "the mark after 'vrb' is two dots, the upper one thinner and irregular; read as a colon at 4x (the periods of the same note are single dots), but a period plus a speck is possible. The initial letter is italic v, not u"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "Cluentio. l. de",
+   "note": "the sort between 'Cluentio.' and 'de' is a short flagged stroke, read as italic l (lex debitores, C. de pignor.); its shape could be mistaken for the figure 1"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Ciceron en",
+   "note": "a heavy ink mark sits over the final n of 'en'; probably show-through or a broken sort rather than a tilde, but 'eñ' cannot be ruled out"
+  },
+  {
+   "where": "margin_notes[3].lines[1]",
+   "text": "c xix.",
+   "note": "no period is visible after the 'c' here (contrast note g line 2, where 'c.' is clearly pointed); none after 'eccleſiaſtic' on the preceding line either"
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "text": "Tite iij. C.",
+   "note": "the final letter is a tall C; could be a lowercase c set large, and the word order 'Tite iij. C.' is unusual for this book's citations"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "c xvij. Leuiti-",
+   "note": "at 6x there is no point after the 'c' (the 'c.' of the line above is clearly pointed); the word-break sign after 'Leuiti' is a faint smudged double stroke at x-height, read as the hyphen since 'que' opens the next line; it could be a stray mark with the hyphen simply absent"
+  },
+  {
+   "where": "margin_notes[6].lines[3]",
+   "text": "que c. xix.",
+   "note": "heavily inked and blotted; 'xix.' is the best reading"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "ANNOTAT. XVII.",
+   "note": "the two final I's of the numeral carry dots in the spaced-capital fount; transcribed as XVII"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "reuiroit a part, l'admoneſtoit & interpelloit familiere",
+   "note": "'reuiroit' is clearly printed (r-e-u-i-r-o-i-t); sic, the sense would want 'retiroit'"
+  },
+  {
+   "where": "signature",
+   "text": "C",
+   "note": "single blotted capital centred below the last body line; read as C, which fits the gathering (A = ff. 1-16, B = ff. 17-32, C from f. 33)"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[0]",
+   "target": "blocks[4].lines[0]",
+   "spans": [
+    [
+     25,
+     31
+    ]
+   ],
+   "aligned": true,
+   "a": "En fin fut contraint, le mettre en in-",
+   "b": "En fin fut contraint, le mectre en in-",
+   "text": "En fin fut contraint, le mectre en in-",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x (pages/strips/p033/body-8.jpg, last line) the word is set with a clear c-t ligature: 'mectre', not 'mettre'"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "target": "margin_notes[2].lines[2]",
+   "spans": [
+    [
+     11,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "de ſeruit. vrb.",
+   "b": "de ſeruit. vrb:",
+   "text": "de ſeruit. vrb:",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x (pages/strips/p033/margin-3.jpg, note c line 3) two vertically aligned dots follow 'vrb', the upper one thinner; the periods of the same note are single dots: colon"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "target": "margin_notes[6].lines[2]",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     8,
+     15
+    ]
+   ],
+   "aligned": true,
+   "a": "c xvij. Leuiti",
+   "b": "c. xvij. Leuiti-",
+   "text": "c xvij. Leuiti-",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x (pages/strips/p033/margin-4.jpg, note g line 3) the 'c' has no point after it, unlike the pointed 'c.' of the line above (A right, B wrong); a faint double-stroke word-break mark does follow 'Leuiti' at the line end (B right, A wrong)"
+  }
+ ]
 }

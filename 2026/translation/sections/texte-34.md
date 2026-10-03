@@ -2,9 +2,9 @@
 id: texte-34
 pages: [p055]
 ---
-⟦p055⟧The third: Martin Guerre was of the Basque country, where everyone knows well that a language is spoken very different from French and Gascon, little understandable except to those who are of the country: and nevertheless the said du Tilh, prisoner, knows how to speak only a few stolen words of it.
+⟦p055⟧The second reason was a summary inquiry [*sommaire apprise*], made by the Judge of Rieux upon the likeness of the prisoner with Sanxi Guerre, son of Martin, by which it is reported, as has been said, that there is no likeness: which several of the witnesses heard in the said inquiries also confirm.
 
 ## Notes
-The print heads this section TEXTE. on p055. The French runs "eſtoit du pays des Baſcouz, chacun ſcait bien, qu'on parle vn langage" without a relative; "where" is supplied. *Pays des Baſcouz* → "the Basque country" per the case file §4 and texte-08. *Enten dible* is the reflow's gap inside *entendible*; *ſcait* for *ſçait*. *Quelques mots deſrobez* → "a few stolen words" (so Ringold and Lewis), words picked up by stealth; cf. the glossary's *à la desrobbée* → "by stealth". Case file §4 notes that no witness was asked about the prisoner's accent.
+The print heads this section TEXTE. on p055. *Sommaire appriſe* is rendered "summary inquiry" as in texte-25, with the French in brackets; "as has been said" refers back to texte-25, where the two summary inquiries are first reported. *Semblance / ſimilitude* → "likeness", per the glossary. The reflow leaves gaps inside *Guer re*, *rappor té* and *ſimili tude* where the print broke the words without a hyphen.
 
 - (none: this section carries no marginal citations.)

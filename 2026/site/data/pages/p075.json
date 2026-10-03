@@ -9,11 +9,275 @@
   "image_no": 95,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/95"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE",
  "prev": "p074",
  "next": "p076",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "people that it was forthwith appeased, and the sedition ceased. Dionysius of Heraclea, the tyrant, having been slender in his young years, became little by little so monstrously fat, paunchy and pot-bellied that he was constrained at night to apply a great quantity of leeches to his body, to suck out of him the excessive superfluity of the humour which made him so fat and corpulent. I leave aside Louis the Fat, thirty-ninth King of France, who flourished from the year 1110 to the year 1137, who became so immoderately big and fat that he carried away from it the surname of the Fat.",
+   "continued": true,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "Still less can one allege the dissimilarity between the said accused and Sanxi Guerre, son of Martin: for besides that such judgments by resemblance (as has been often said above) are not very sure, there is a contrary summary inquiry upon the resemblance of the prisoner with the sisters of Martin Guerre, and one more probable, inasmuch as the likeness is with a greater number of persons, and such as are of like age, or very nearly, with him to whom the comparison is made.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LV"
+  },
+  {
+   "type": "paragraph",
+   "html": "The philosophers, Arithmeticians and Geometers, teach that the greater and the more proper the proportion and analogy is between two things, the better and the more fitting is the argument from the one to the other <sup class=\"mk\" data-key=\"a\">a</sup>: as, for example, between two learned and virtuous persons, or two powerful and robust ones, because there are far more sympathies than between two others, of whom the one would be virtuous and learned and the other vicious and unlearned, or the one strong and robust, the other feeble and weak. Thus the ar",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Aristotle, <i>Nicomachean Ethics</i>, book V (V.3, 1131a–b, on proportion as the principle of distributive justice, and the geometrical proportion of the mathematicians)",
+     "original": "Ariſtote au v. des Ethicq.",
+     "gloss": "Aristotle there defines the proportionate as an equality of ratios, \"as the mathematicians call it\", which is Coras's \"proportion and analogy\"."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "peuple, qu'il fut incontinent appaiſé, & la ſedition ceſ",
+    "ſa. Denis Heracleot le tiran, ayant eſté greſle en ſes ieu-",
+    "nes ans, deuint peu à peu ſi monſtrueuſement gras, pan-",
+    "ſard & ventru, qu'il eſtoit contraint la nuict appliquer",
+    "grande quantité de ſangſues ſur ſon corps, pour luy ſuc",
+    "cer l'exceſſiue ſuperfluité de l'humeur, qui le rendoit ſi",
+    "gras & corpulent. Ie laiſſe à part Loys le Gros, XXXIX.",
+    "Roy de France, qui fleurit en l'an 1110. iuſques à l'an",
+    "1137. lequel deuint ſi deſmeſurement gros & gras, qu'il",
+    "en rapporta le ſurnom du Gros."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Moins peut-on alleguer la diſsimili-",
+    "tude entre ledit preuenu, & Sanxi Guer",
+    "re, fils de Martin: car outre que tels iu-",
+    "gemens par ſemblãce (comme deſſus a e-",
+    "ſté ſouuentesfois dit) ne ſont pas fort",
+    "aſſeurez: il y a contraire ſommaire a-",
+    "priſe de la ſemblance du priſonnier, auec",
+    "les ſeurs de Martin Guerre. & plus pro-",
+    "bable, d'autant que la ſimilitude eſt a-",
+    "uec plus grand nombre de perſonnes, &",
+    "telles, qui ſont de pareil aage, ou peu",
+    "ſ'en faut, que celuy à qui on fait la con-",
+    "ference."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LV.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Les philoſophes Arithmeticiens, & Geometres, enſei-",
+    "gnent que de tant plus la proportiõ & analogie eſt plus",
+    "grande, & plus propre entre deux choſes, de tant l'argu",
+    "mẽt eſt melieur & plus cõuenable de l'vn à l'autre {a}. cõ",
+    "me par exẽple, entre deux perſonnes doctes & vertueu",
+    "ſes, deux puiſſãtes & robuſtes: par ce qu'il y a plꝰ de ſym",
+    "pathies beaucop, qu'ẽtre deux autres, l'vne deſquelles ſe",
+    "roit vertueuſe & docte, & l'autre vicicieuſe & indocte, ou",
+    "l'vne forte & robuſte, l'autre foible, & debile: ainſi l'ar."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Ariſtote au",
+    "v. des Ethicq."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "peuple, qu'il fut incontinent appaiſé, & la ſedition ceſ",
+   "note": "the mark after 'appaiſé' is a small low sign set apart from the word; read as a comma (could be a stray point)."
+  },
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "ſa. Denis Heracleot le tiran, ayant eſté greſle en ſes ieu-",
+   "note": "'Heracleot' as printed (for Heracleote); the s of 'ſes' reads as long s."
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "cer l'exceſſiue ſuperfluité de l'humeur, qui le rendoit ſi",
+   "note": "the point after 'l'humeur' is small and sits near mid-height; read as comma, could be a period."
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "gras & corpulent. Ie laiſſe à part Loys le Gros, XXXIX.",
+   "note": "'XXXIX' printed in letterspaced small capitals (x x x i x, the i undotted); closed up and given as capitals; hence spaced_caps on this paragraph. Digits '1 1 1 0' and '1 1 3 7' (old-style figures, 1 shaped like small-cap I) likewise set apart and closed up."
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "en rapporta le ſurnom du Gros.",
+   "note": "a small mark above 'ſu' of 'ſurnom' looks like the top of the long s or a smudge, not a tilde."
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Moins peut-on alleguer la diſsimili-",
+   "note": "the sign between 'peut' and 'on' is a raised point rather than a full hyphen; transcribed as '-'. 'diſsimili' read as long s + round s; could be 'diſſimili'."
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "ſté ſouuentesfois dit) ne ſont pas fort",
+   "note": "the s before f in 'ſouuentesfois' reads as round s."
+  },
+  {
+   "where": "blocks[4].lines[2]",
+   "text": "grande, & plus propre entre deux choſes, de tant l'argu",
+   "note": "the final s of 'choſes' is a damaged or odd sort (looks like a 3); read as s."
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "mẽt eſt melieur & plus cõuenable de l'vn à l'autre {a}. cõ",
+   "note": "'melieur' as printed (sic, for meilleur). Marker a is a small italic a followed by a point."
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "ſes, deux puiſſãtes & robuſtes: par ce qu'il y a plꝰ de ſym",
+   "note": "'pl' followed by a superscript us-sign (ꝰ); 'ya' set tight, divided to 'y a'. 'puiſſãtes' read as ſſ."
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "roit vertueuſe & docte, & l'autre vicicieuſe & indocte, ou",
+   "note": "sic: 'vicicieuſe' as printed (for vicieuſe); wrong/extra syllable in the print."
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "l'vne forte & robuſte, l'autre foible, & debile: ainſi l'ar.",
+   "note": "the line ends 'l'ar.' with what looks like a period, though the word should continue ('l'ar-gument') on the next page; may be a hyphen printed low. The colon after 'debile' is faint; 'beaucop' earlier is as printed."
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Ariſtote au",
+   "note": "the final word is inked heavily and could read 'am'/'au'; read 'au'. Italic 'Ariſtote' with ſt ligature."
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "v. des Ethicq.",
+   "note": "'Ethicq.' read with some doubt (c/i shapes blurred)."
+  },
+  {
+   "where": "running_head",
+   "text": "PARLEMENT DE THOLOSE",
+   "note": "no closing period visible after THOLOSE (other rectos have 'THOLOSE.')"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "peuple, qu'il fut incontinent appaiſé, & la ſedition ceſ",
+   "note": "punctuation after 'appaiſé' is a small low mark set apart, read as comma; could be a stray/period"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "cer l'exceſſiue ſuperfluité de l'humeur, qui le rendoit ſi",
+   "note": "mark after 'l'humeur' is small and faint, read as comma; could be a period. Also 'exceſſiue' could be 'exceſsiue' (ſſ vs ſs)"
+  },
+  {
+   "where": "blocks[0].lines[6]",
+   "text": "gras & corpulent. Ie laiſſe à part Loys le Gros, XXXIX.",
+   "note": "XXXIX set in spaced small capitals"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "Roy de France, qui fleurit en l'an 1110. iuſques à l'an",
+   "note": "digits of 1110 letterspaced (closed up); space before the period normalized"
+  },
+  {
+   "where": "blocks[2].lines[3]",
+   "text": "gemens par ſemblãce (comme deſſus a e-",
+   "note": "print sets 'aeſté' run together ('a' + 'eſté'), split per word-division rule; 'ſemblãce(comme' tight"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "ſté ſouuentesfois dit) ne ſont pas fort",
+   "note": "round s in 'ſouuentesfois' as printed"
+  },
+  {
+   "where": "blocks[4].lines[3]",
+   "text": "mẽt eſt melieur & plus cõuenable de l'vn à l'autre {a}. cõ",
+   "note": "'melieur' sic (for meilleur); marker a is a small italic a before a dot"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "ſes, deux puiſſãtes & robuſtes: par ce qu'il y a plꝰ de ſym",
+   "note": "'plꝰ' = superscript us abbreviation; 'puiſſãtes' could be 'puiſsãtes'; 'ya' printed tight"
+  },
+  {
+   "where": "blocks[4].lines[6]",
+   "text": "pathies beaucop, qu'ẽtre deux autres, l'vne deſquelles ſe",
+   "note": "'beaucop' sic"
+  },
+  {
+   "where": "blocks[4].lines[7]",
+   "text": "roit vertueuſe & docte, & l'autre vicicieuſe & indocte, ou",
+   "note": "'vicicieuſe' sic as read (for vicieuſe); letters faint, could be 'vicieuſe'"
+  },
+  {
+   "where": "blocks[4].lines[8]",
+   "text": "l'vne forte & robuſte, l'autre foible, & debile: ainſi l'ar.",
+   "note": "word broken at page end; line-end sign after 'l'ar' looks like a period, likely a hyphen/break sign; 'debile:' colon faint"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Ariſtote au",
+   "note": "'au' blotted, could be 'an'; note printed beside lines 'cõ'/'vertueu'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[2].lines[0]",
+   "target": "blocks[2].lines[0]",
+   "spans": [
+    [
+     26,
+     36
+    ]
+   ],
+   "aligned": true,
+   "a": "Moins peut-on alleguer la diſsimili-",
+   "b": "Moins peut-on alleguer la diſſimili-",
+   "text": "Moins peut-on alleguer la diſsimili-",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

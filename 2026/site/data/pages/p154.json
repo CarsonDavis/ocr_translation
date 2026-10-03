@@ -9,11 +9,431 @@
   "image_no": 176,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/176"
  },
- "running_head": null,
+ "running_head": "ARREST DV",
  "prev": "p153",
  "next": "p155",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "one who kept at his side for these ends during his sickness <sup class=\"mk\" data-key=\"x\">x</sup>. Added to which, the attestation of this kind of people, who by their own confession are perjured and infamous <sup class=\"mk\" data-key=\"y\">y</sup>, ought not to be received, except insofar as, by the circumstances of the business, the judge might be moved to give them some credit and belief <sup class=\"mk\" data-key=\"z\">z</sup>. On which subject Cicero somewhere says that when someone has once perjured himself, he must not afterwards be believed, nor any credit given him, even though he should swear by several gods <sup class=\"mk\" data-key=\"a\">a</sup>. Thus then, to return to our track: if one who, by testament or other disposition made at the hour when he thinks to die, confesses to owe Jean or Pierre a hundred <i>écus</i> by friendly loan or by deposit, this confession, in truth, inasmuch as it is made in the absence of the party, cannot bring him loss as long as he lives <sup class=\"mk\" data-key=\"b\">b</sup>, but he may freely and without any difficulty whatever retract it <sup class=\"mk\" data-key=\"c\">c</sup>. True it is that if he does not expressly revoke it, that suffices after his death to compel the heir to render to the said Jean or Pierre the said hundred <i>écus</i> confessed <sup class=\"mk\" data-key=\"d\">d</sup> (singularly if such declaration or confession was made for the discharge of conscience <sup class=\"mk\" data-key=\"e\">e</sup>); yes, even though such confession were made by the husband in favour of his wife <sup class=\"mk\" data-key=\"f\">f</sup> — between whom, however, and the husband, gifts, as everyone knows, are not tolerated nor received <sup class=\"mk\" data-key=\"g\">g</sup>. Accursius says further, in some other place, that if the testator confesses to have received from Jean or Pierre a hundred <i>écus</i> by friendly loan, the heir from whom Jean or Pierre demand them cannot oppose to them the exception which we call \"of money not counted out\" [<i>non numeratae pecuniae</i>], inasmuch as there is no occasion whatever to think that one who thinks to die on the instant, or shortly after, has made such a confession in the hope that the said sum of a hundred <i>écus</i> would afterwards be counted out and paid to him <sup class=\"mk\" data-key=\"h\">h</sup>. And if anyone here wished to say that such a confession, although made by one who thinks to die, does not prove the debt, even were that confession confirmed by oaths <sup class=\"mk\" data-key=\"i\">i</sup>, he [Accursius] answers and confesses that from such a declaration sufficient proof cannot be gathered",
+   "continued": true,
+   "notes": [
+    {
+     "key": "x",
+     "citation": "Decretals, X 2.23 (<i>De praesumptionibus</i>), c. <i>Litteris</i>",
+     "original": "c. literis de preſum.",
+     "gloss": "Chapter number not verified."
+    },
+    {
+     "key": "y",
+     "citation": "Digest 48.10 (<i>Ad legem Corneliam de falsis</i>), l. 1; Digest 48.8 (<i>Ad legem Corneliam de sicariis et veneficis</i>), l. 1; Authentica <i>Novo iure</i> under Code 7.49 (<i>De poena iudicis qui male iudicavit</i>)",
+     "original": "l. i. D. de falſ. l. j. D. de ſicca. Aut. no uo iure. C. de pœna iud. qui male iudi.",
+     "gloss": "The forger, the murderer and the corrupt judge are infamous."
+    },
+    {
+     "key": "z",
+     "citation": "Digest 22.5 (<i>De testibus</i>), l. <i>Ob carmen</i> (D. 22.5.21, Arcadius Charisius), last §; Decretals, X 1.40 (<i>De his quae vi metusve causa fiunt</i>), last chapter",
+     "original": "l. ob carmẽ. P. dernier. D. de teſti. c. dernier. de iis qua vi met cap. ſi.",
+     "gloss": "The judge weighs the quality and credit of a witness by the circumstances."
+    },
+    {
+     "key": "a",
+     "citation": "Cicero, <i>Pro Rabirio Postumo</i> (cf. § 36)",
+     "original": "Ciceron en l'oraiſon pro Rabi. poſthumo.",
+     "gloss": "The Greek rule, as Cicero reports it, that a man once perjured is not to be believed afterwards even if he swear by several gods."
+    },
+    {
+     "key": "b",
+     "citation": "Digest 42.2 (<i>De confessis</i>), l. <i>Certum</i> (D. 42.2.6, Ulpian), § <i>Si quis absente</i>; Accursius, gloss on l. <i>Cum de indebito</i>, Digest 22.3 (<i>De probationibus</i>; D. 22.3.25, Paulus)",
+     "original": "l. certum. P. ſi quis abſente. D. de confeſſ. Accurſe en la l. cũ de indebito. D. de probatio.",
+     "gloss": "A confession made in the adversary's absence is not held a confession in court; paragraph number not verified."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 9.2 (<i>Ad legem Aquiliam</i>), l. <i>Si quis testamentum</i> (cf. D. 9.2.41, Ulpian)",
+     "original": "l. ſi quis teſtamentũ. D. ad l. Aquil.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "citation": "Digest 31 (<i>De legatis et fideicommissis</i> [II]), l. <i>Lucius</i> § <i>Quisquis</i>",
+     "original": "l. Lucius. P. quiſquis. D. de leg. ij.",
+     "gloss": "Fragment not verified; at {l} below the same law is cited under <i>de leg. iij.</i>"
+    },
+    {
+     "key": "e",
+     "citation": "Decretals, X 2.23 (<i>De praesumptionibus</i>), c. <i>Tertio loco</i>",
+     "original": "c. tertio loco de præſump.",
+     "gloss": "Chapter number not verified."
+    },
+    {
+     "key": "f",
+     "citation": "Digest 34.2 (<i>De auro argento mundo ornamentis unguentis veste vel vestimentis et statuis legatis</i>), l. <i>Qui uxori</i>; Digest 32, l. <i>Lucius</i> § 1; Digest 34.3 (<i>De liberatione legata</i>), l. <i>Aurelius</i>, last §; Code 8.53 (<i>De donationibus</i>), l. <i>Si donatio</i>",
+     "original": "l. qui vxori D. de aur. &amp; arg. leg. l. Lucius. P. j. D. de leg. iij. l. Aurelius. P. dernier D. de liber. leg. l. ſi donatio. C. de donatio.",
+     "gloss": "Fragment numbers not verified. A husband's testamentary acknowledgment of a debt to his wife takes effect as a legacy."
+    },
+    {
+     "key": "g",
+     "citation": "Digest 24.1 (<i>De donationibus inter virum et uxorem</i>), ll. 1, 2 and 3",
+     "original": "l⟨alt:l.⟩ j. ij. &amp; iij. D⟨alt:D.⟩ de donati. inter vir.",
+     "gloss": "The prohibition of gifts between husband and wife."
+    },
+    {
+     "key": "h",
+     "citation": "Accursius, gloss on l. 1, Code 6.44 (<i>De falsa causa adiecta legato vel fideicommisso</i>; C. 6.44.1)",
+     "original": "Accurſe en la l. j. C. de fal. ſit. ea. adiec. leg.",
+     "gloss": null
+    },
+    {
+     "key": "i",
+     "citation": "Digest 32, l. <i>Cum quis decedens</i> § <i>Codicillis</i>, as at {a}; Authentica <i>Quod obtinet</i> under Code 4.19 (<i>De probationibus</i>)",
+     "original": "l. cum quis decedens. P. codicillis. D. de leg. iij. Aut. ꝗ obtinet. C. de probatio.",
+     "gloss": "The <i>ꝗ</i> is the stroked <i>q</i> for <i>quod</i>; the authentica has not been identified."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "qu'vn qui le coſtoyoit a ces fins en ſa maladie {x}. Ioint q̃",
+    "l'atteſtation de telle maniere de gens, leſquels par leur",
+    "propre confeſſion ſont pariures & infames {y}, ne doit e-",
+    "ſtre receuë: ſi ce n'eſt entant que par les circonſtances",
+    "du negoce, le iuge pourroit eſtre eſmeu à leur donner",
+    "quelque foy, & creance {z}. Sur lequel propos M. Cicerõ",
+    "en quelque lieu dit, que quand quelqu'vn ſ'eſt vne fois",
+    "pariuré, il ne luy faut apres croire, ne donner foy au-",
+    "cune, encore qu'il iuraſt par pluſieurs dieux {a}. Par ainſi",
+    "donc, pour reprendre nos briſees, ſi celuy qui par teſta-",
+    "ment, ou autre diſpoſition faite ſur l'heure qu'il penſe",
+    "mourir, confeſſe deuoir à Iean, ou à Pierre, cent eſcus",
+    "d'amiable preſt, ou par deppoſt: ceſte confeſſion, à la",
+    "verité, d'autant qu'elle eſt faite partie abſente, ne peut",
+    "luy porter dommage tant qu'il viura {b}. ains la pourra",
+    "librement & ſans difficulté quelcõque retracter {c}. vray",
+    "que ſi nommément il ne la reuoque, cela ſuffit apres",
+    "ſa mort, pour cõtraindre l'heritier à rendre audit Iean,",
+    "ou à Pierre, leſdits cent eſcus confeſſez {d}. (Singuliere-",
+    "ment ſi telle declaration, ou confeſſiõ a eſté faite pour",
+    "la deſcharge de la conſcience {e}). voire encore que telle",
+    "confeſſion fut faite par le mari, au profit de ſa femme {f}.",
+    "Entre laquelle pourtant, & le mari, les donnaiſons. cõ-",
+    "me chacun ſçait, ne ſont tolerees, ni receuës {g}. dit d'auan",
+    "tage Accurſe en quelque autre lieu, que ſi le teſtateur",
+    "confeſſe auoir receu de Iean, ou de Pierre cent eſcus",
+    "par amiable preſt, l'heritier à qui Iean, ou Pierre les de-",
+    "mande, ne leur pourra oppoſer l'exceptiõ que nous ap-",
+    "pellons de pecune non nombree. d'autãt qu'il n'y a oc-",
+    "caſion aucune, de penſer que celuy qui ſur l'heure, ou",
+    "peu apres penſe mourir, ayt fait telle confeſſion, ſous",
+    "eſperance qu'on luy cõpaſt; & payaſt apres ladite ſom-",
+    "me de cent eſcus {h}. Et ſi quelqu'vn vouloit ici dire, que",
+    "telle confeſſion, bien que ſoit faite par celuy qui penſe",
+    "mourir, ne preuue point la debte, ou fuſt icelle cõfeſſiõ",
+    "confirmee par ermens {i}: il reſpond & confeſſe que de",
+    "telle declaration ne ſe peut recueillir ſuffiſante preuue"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "x",
+   "kind": "margin",
+   "lines": [
+    "c. literis de",
+    "preſum."
+   ]
+  },
+  {
+   "key": "y",
+   "kind": "margin",
+   "lines": [
+    "l. i. D. de",
+    "falſ. l. j. D. de",
+    "ſicca. Aut. no",
+    "uo iure. C. de",
+    "pœna iud. qui",
+    "male iudi."
+   ]
+  },
+  {
+   "key": "z",
+   "kind": "margin",
+   "lines": [
+    "l. ob carmẽ.",
+    "P. dernier. D.",
+    "de teſti. c. der-",
+    "nier. de iis qua",
+    "vi met cap. ſi."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Ciceron en",
+    "l'oraiſon pro",
+    "Rabi. poſt-",
+    "humo."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. certum. P.",
+    "ſi quis abſen-",
+    "te. D. de con-",
+    "feſſ. Accurſe",
+    "en la l. cũ de",
+    "indebito. D.",
+    "de probatio."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. ſi quis te-",
+    "ſtamentũ. D.",
+    "ad l. Aquil."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. Lucius. P.",
+    "quiſquis. D.",
+    "de leg. ij."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "c. tertio loco",
+    "de præſump."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. qui vxori",
+    "D. de aur. &",
+    "arg. leg. l. Lu-",
+    "cius. P. j. D.",
+    "de leg. iij. l.",
+    "Aurelius. P.",
+    "dernier D. de",
+    "liber. leg. l. ſi",
+    "donatio. C. de",
+    "donatio."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l j. ij. & iij.",
+    "D de donati.",
+    "inter vir."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "foot",
+   "lines": [
+    "Accurſe en la l. j. C. de fal. ſit. ea. adiec. leg."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "foot",
+   "lines": [
+    "l. cum quis decedens. P. codi-",
+    "cillis. D. de leg. iij. Aut. ꝗ obtinet. C. de probatio."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "running_head",
+   "text": "ARREST DV",
+   "note": "spaced capitals in the print (A R R E S T D V); closed up per conventions"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "qu'vn qui le coſtoyoit a ces fins en ſa maladie {x}. Ioint q̃",
+   "note": "'aces' set tight; separated as 'a ces' per word-division rule"
+  },
+  {
+   "where": "blocks[0].lines[5]",
+   "text": "quelque foy, & creance {z}. Sur lequel propos M. Cicerõ",
+   "note": "mark over final o of 'Cicerõ' read as tilde; could be an acute ('Ciceró')"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "ou à Pierre, leſdits cent eſcus confeſſez {d}. (Singuliere-",
+   "note": "the point after marker d sits at mid-height, not on the baseline; read as period"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "Entre laquelle pourtant, & le mari, les donnaiſons. cõ-",
+   "note": "punctuation after 'donnaiſons' looks like a low dot without tail (period); sense suggests a comma"
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "tage Accurſe en quelque autre lieu, que ſi le teſtateur",
+   "note": "final letter of 'teſtateur' resembles t ('teſtateut'); t/r shapes ambiguous in this worn type, possible wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[27]",
+   "text": "mande, ne leur pourra oppoſer l'exceptiõ que nous ap-",
+   "note": "a mark above the a of 'ap-' (looks like an accent 'áp-'); probably a spot, not transcribed"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "peu apres penſe mourir, ayt fait telle confeſſion, ſous",
+   "note": "first word could be printed 'pen' (turned u / wrong sort); read as 'peu'"
+  },
+  {
+   "where": "blocks[0].lines[31]",
+   "text": "eſperance qu'on luy cõpaſt; & payaſt apres ladite ſom-",
+   "note": "punctuation after 'cõpaſt' read as semicolon; could be a comma with a stray dot"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "confirmee par ermens {i}: il reſpond & confeſſe que de",
+   "note": "sic: 'par ermens' for 'par ſermens'; set tight 'parermens' in print"
+  },
+  {
+   "where": "margin_notes[9].lines[0]",
+   "text": "l j. ij. & iij.",
+   "note": "no visible period after 'l'"
+  },
+  {
+   "where": "margin_notes[8].lines[0]",
+   "text": "l. qui vxori",
+   "note": "a stray apostrophe-like mark after 'l.' in print, not transcribed"
+  },
+  {
+   "where": "foot_notes[0].lines[0]",
+   "text": "Accurſe en la l. j. C. de fal. ſit. ea. adiec. leg.",
+   "note": "'ſit.' and 'ea.' uncertain (perhaps 'ex. adiec.'); read as printed shapes"
+  },
+  {
+   "where": "foot_notes[1].lines[1]",
+   "text": "cillis. D. de leg. iij. Aut. ꝗ obtinet. C. de probatio.",
+   "note": "abbreviation sign read as ꝗ (quod); 'obtinet' final letter looks like r ('obtiner')"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "qu'vn qui le coſtoyoit a ces fins en ſa maladie {x}. Ioint q̃",
+   "note": "print sets 'aces' tight with no accent; separated per word-division rule"
+  },
+  {
+   "where": "blocks[0].lines[18]",
+   "text": "ou à Pierre, leſdits cent eſcus confeſſez {d}. (Singuliere-",
+   "note": "the dot after marker d sits raised (mid-height), may be a point attached to the marker rather than a period"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "Entre laquelle pourtant, & le mari, les donnaiſons. cõ-",
+   "note": "mark after 'donnaiſons' small and low; period vs comma uncertain"
+  },
+  {
+   "where": "blocks[0].lines[27]",
+   "text": "mande, ne leur pourra oppoſer l'exceptiõ que nous ap-",
+   "note": "a mark above the 'a' of 'ap-' looks like an accent; probably an ink speck, transcribed as plain 'a'"
+  },
+  {
+   "where": "blocks[0].lines[31]",
+   "text": "eſperance qu'on luy cõpaſt; & payaſt apres ladite ſom-",
+   "note": "punctuation after 'cõpaſt' read as semicolon; could be a comma"
+  },
+  {
+   "where": "blocks[0].lines[35]",
+   "text": "confirmee par ermens {i}: il reſpond & confeſſe que de",
+   "note": "sic: 'par ermens' for 'par ſermens'; the long s appears to be missing (possibly 'parermens' set solid)"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "peu apres penſe mourir, ayt fait telle confeſſion, ſous",
+   "note": "'peu' looks like 'pen' (worn u); read as 'peu'"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "de præſump.",
+   "note": "æ vs a uncertain"
+  },
+  {
+   "where": "margin_notes[8].lines[0]",
+   "text": "l. qui vxori",
+   "note": "a stray apostrophe-like mark after 'l.' in the print ('l.' qui'); omitted"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "arg. leg. l. Lu-",
+   "note": "the point after 'l' looks like a short hyphen; read as 'l.'"
+  },
+  {
+   "where": "margin_notes[8].lines[8]",
+   "text": "donatio. C. de",
+   "note": "could read 'donario' (t like r); read as 'donatio'"
+  },
+  {
+   "where": "foot_notes[0].lines[0]",
+   "text": "Accurſe en la l. j. C. de fal. ſit. ea. adiec. leg.",
+   "note": "'ſit.' and 'ea.' uncertain (could be 'ſir.' / 'ex')"
+  },
+  {
+   "where": "foot_notes[1].lines[1]",
+   "text": "cillis. D. de leg. iij. Aut. ꝗ obtinet. C. de probatio.",
+   "note": "abbreviation sign before 'obtinet' read as ꝗ (quod); could be q̃"
+  }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[9].lines[0]",
+   "target": "margin_notes[9].lines[0]",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "aligned": true,
+   "a": "l j. ij. & iij.",
+   "b": "l. j. ij. & iij.",
+   "text": "l j. ij. & iij.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "target": "margin_notes[9].lines[1]",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "aligned": true,
+   "a": "D de donati.",
+   "b": "D. de donati.",
+   "text": "D de donati.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

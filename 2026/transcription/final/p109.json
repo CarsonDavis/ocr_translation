@@ -1,0 +1,161 @@
+{
+ "id": "p109",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "PARLEMENT DE THOLOSE.",
+ "folio": "109",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "pour illec en vne potence, qu'à ces fins y ſera",
+    "dreſſée, eſtre pendu, & eſtranglé, & apres ſon",
+    "corps bruſlé. Et pour certaines cauſes & conſi-",
+    "derations à ce mouuans la cour, elle à adiugé,",
+    "& adiuge les biens dudit du Tilh, à la fille pro",
+    "creée de ſes œuures, & de ladite de Rols, ſous pre",
+    "texte de mariage, par luy fauſſement pretendu,",
+    "ſuppoſant le nom, & perſonne dudit Martin",
+    "Guerre. & par ce moyen deceuãt ladite de Rols,",
+    "detraicts les frais de Iuſtice. Et en outre, a mis,",
+    "& met hors de procez, & inſtance leſdits Mar-",
+    "tin Guerre, & Bertrande de Rols, enſemble ledit",
+    "Pierre Guerre, oncle dudit Martin: & a renuoyé",
+    "& renuoye iceluy du Tilh audit Iuge de Rieux",
+    "pour faire mettre ce preſent arreſt à execution",
+    "ſelon ſa forme & teneur."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "spaced_caps": true,
+   "lines": [
+    "Prononce iudicialement, le xij. iour",
+    "de Septembre, 1560."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "EXPOSITION DES",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Paroles de l'arreſt."
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "heading",
+   "text": "Et ce dont a eſté appelé, au neant."
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXXX.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Ce dont auoit eſté appelé, eſtoit la ſentence du Iuge",
+    "de Rieux, par laquelle iceluy du Tilh eſtoit condam-",
+    "né perdre la teſte, & apres eſtre mis en quatre quartiers",
+    "qui fut caſſée par la cour, par ce que ceſte eſpece de",
+    "mort luy ſembloit pour vn ſi prodigieux, & abomina-",
+    "ble proditeur comblé en toute eſpece de vices, ſingulie"
+   ]
+  }
+ ],
+ "margin_notes": [],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "corps bruſlé. Et pour certaines cauſes & conſi-",
+   "note": "print shows a wide gap inside 'p our'; closed up as one word per word-division rule"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "derations à ce mouuans la cour, elle à adiugé,",
+   "note": "a small raised stray mark (apostrophe-like) sits after 'cour' before the comma; taken as a stray sort/ink, not transcribed"
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "Guerre. & par ce moyen deceuãt ladite de Rols,",
+   "note": "abbreviation mark over 'a' in 'deceuãt' printed as a double stroke; transcribed as tilde. Period after 'Guerre' (not comma) as printed"
+  },
+  {
+   "where": "blocks[0].lines[9]",
+   "text": "detraicts les frais de Iuſtice. Et en outre, a mis,",
+   "note": "ct ligature decomposed; mark after 'Iuſtice' read as period, could be a comma"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "pour faire mettre ce preſent arreſt à execution",
+   "note": "print shows a gap 'f aire'; closed up as one word"
+  },
+  {
+   "where": "blocks[1].lines[1]",
+   "text": "de Septembre, 1560.",
+   "note": "digits printed spaced '1 5 6 0'; closed up; spaced_caps flag set on this dating paragraph. Paragraph is centered dating formula, treated as paragraph not heading"
+  },
+  {
+   "where": "blocks[6].text",
+   "text": "ANNOTAT. LXXX.",
+   "note": "small capitals, letterspaced"
+  },
+  {
+   "where": "blocks[7].lines[5]",
+   "text": "ble proditeur comblé en toute eſpece de vices, ſingulie",
+   "note": "damaged sorts: first 't' of 'toute' and the 'v' of 'vices' are broken/faint; 'proditeur' final r faint; line ends 'ſingulie' without hyphen as printed"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "pour illec en vne potence, qu'à ces fins y ſera",
+   "note": "'vne' printed with the italic swash v that resembles a capital V; transcribed as lowercase v"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "derations à ce mouuans la cour, elle à adiugé,",
+   "note": "a small raised mark (apostrophe-like, probably stray ink or a displaced sort) follows 'cour' before the comma; omitted"
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "Guerre. & par ce moyen deceuãt ladite de Rols,",
+   "note": "punctuation after 'Guerre' read as a period (round dot on baseline), though sense would expect a comma"
+  },
+  {
+   "where": "blocks[1].lines[0]",
+   "text": "Prononce iudicialement, le xij. iour",
+   "note": "no accent visible on final e of 'Prononce'; centered italic dating line treated as a paragraph, not a heading"
+  },
+  {
+   "where": "blocks[1].lines[1]",
+   "text": "de Septembre, 1560.",
+   "note": "digits printed spaced '1 5 6 0', closed up per conventions"
+  },
+  {
+   "where": "blocks[7].lines[3]",
+   "text": "qui fut caſſée par la cour, par ce que ceſte eſpece de",
+   "note": "'caſſée' read as ſſ ligature; could be ſs"
+  },
+  {
+   "where": "blocks[7].lines[5]",
+   "text": "ble proditeur comblé en toute eſpece de vices, ſingulie",
+   "note": "damaged/poorly inked sorts: 'comblé' m malformed, first t of 'toute' looks like a dotless i, v of 'vices' resembles y; read as expected words"
+  }
+ ],
+ "decisions": []
+}

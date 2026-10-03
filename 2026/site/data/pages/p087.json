@@ -9,11 +9,277 @@
   "image_no": 107,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/107"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p086",
  "next": "p088",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "main hidden and unpunished, at the point when the case was about to be judged, made the true Martin Guerre appear, as by a miracle,",
+   "continued": true,
+   "notes": [
+    {
+     "key": null,
+     "citation": "A Latin sentence, source not identified: <i>Oculus Dei acutus est, videt omnia</i>. It is not a scriptural verse in this form; cf. Ecclesiasticus 23:19 (Vulgate 23:28), <i>oculi Domini multo plus lucidiores sunt super solem, circumspicientes omnes vias hominum</i>, and Proverbs 15:3",
+     "original": "Oculus Dei acutus eſt, videt omnia.",
+     "gloss": "Possibly a schoolroom or emblem tag; Coras gives it as the ground of what follows."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION LXVIII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Great certainly, and marvellous, is the goodness, grace and mercy of our God: which, when it pleases Him to pour it out upon us, there is no ruse, cunning or malignity of men, no inventions, wiles or malice of Satan, that can hinder it or offer it any resistance — as this deed here, after countless others, makes plain: two poor innocents, such as were Bertrande de Rols and Pierre Guerre, who by the strong hand of the Almighty were delivered from the imminent peril of death in which they (as calumniators) were placed; and the impudently measureless imposture of this wretched cheat du Tilh, as by a miracle, made manifest and discovered. And in truth it was indeed a miracle to make Martin Guerre appear — at whose expense all these pitiful games had been played — at the point when this case was about to be judged, in which the judges found themselves in incredible perplexity, and perhaps in danger of giving a judgment which would not altogether have answered to the justice of the cause, because the matters (in the opinion of many) were disposed more to the advantage of the prisoner, and against the said Pierre Guerre and de Rols: but the all-good and mighty God, who with His keen and piercing eye sees all things,",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "(The eye of God is keen; it sees all things — <i>Oculus Dei acutus est, videt omnia</i>)",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "and, being the sole searcher of men, sounds their deeds, contemplates and weighs their works <sup class=\"mk\" data-key=\"a\">a</sup>, and who has left it written by the learned pen of His Prophets and Evangelists that there is nothing so covered, so secret, nor so hidden that in the end He does not reveal it and bring it to light <sup class=\"mk\" data-key=\"b\">b</sup> — would not permit that so strange and impudently brazen a trickery, so scandalous an effrontery, so horrible and monstrous an imposture should remain concealed and unknown.",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Acts 15 (15:8, \"God, which knoweth the hearts\"); 1 Thessalonians 2 (2:4, \"God, which trieth our hearts\")",
+     "original": "Actes c. xv la j des Theſſaloniſsiens. c. ij.",
+     "gloss": "God as the searcher of hearts."
+    },
+    {
+     "key": "b",
+     "citation": "Jeremiah 23 (23:24: can any hide himself in secret places that I shall not see him?); Ecclesiasticus 16 (16:17–21, Vulgate: the eye of God sees all) and 23 (23:19 Vulgate 23:28, as above); Matthew, Mark and Luke as printed (chapters v, iij and ij): the saying that nothing is hidden that shall not be revealed is at Matthew 10:26, Mark 4:22 and Luke 8:17 and 12:2; Coras's chapter numbers do not match the modern ones and are given as printed",
+     "original": "Ieremie c. xxiij. Eccleſiaſtique xvj. &amp; xxiij. S. Matthieu v. S. Marc iij. S. Luc ij.",
+     "gloss": "The scriptural warrant that God brings every hidden thing to light."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "raſt caché & impuni: ſur le poinct qu'on",
+    "vouloit iuger le proces fait comme par",
+    "vn miracle apparoiſtre le vray Martin",
+    "Guerre,"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOT. LXVIII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Grande certes eſt, & eſmerueillable la bonté, grace,",
+    "& miſericorde de noſtre Dieu: laquelle quand il luy",
+    "plaiſt reſpandre ſur nous, il n'y a ruſe, aſtuce, ni maligni",
+    "té des hommes, inuentions, cautelle, ou malice de Satã,",
+    "qui la puiſſe empeſcher, ou luy faire aucune reſiſtance:",
+    "cõme ce faict ici. Apres infinis autres met en euidence",
+    "deux pauures innocẽs, tels qu'eſtoiẽt Bertrande de Rols,",
+    "& Pierre Guerre, leſquelz par la main forte du tout puiſ",
+    "ſant furent deliurez de l'eminẽt peril de la mort, ou ils",
+    "(cõme calomniateurs) eſtoient poſez, & l'impudẽment",
+    "deſmeſurée impoſture de ce mal-heureux affrõteur du",
+    "Tilh, comme, par vn miracle manifeſtée & deſcouuer-",
+    "te. & à la verité ce fut bien vn miracle, de faire apparoir",
+    "Martin Guerre: aux deſpẽs duquel tous ces piteux ieux",
+    "auoiẽt eſté iouëz, ſur le poinct qu'on vouloit iuger ce",
+    "procez, auquel les iuges ſe trouuent en incroyable per-",
+    "plexiré, & peut eſtre en danger de faire vn iugemẽt qui",
+    "n'euſt pas du tout reſpõdu à la iuſtice de la cauſe, par ce",
+    "que les affaires (ſelon l'auis de pluſieurs) eſtoient plus",
+    "diſpoſez à l'auantage du priſonnier, & contre leſd. Pier",
+    "re Guerre, & de Rols: mais le tout bon & puiſſant Dieu",
+    "qui de ſon œil aigu & perſpicace voit toutes choſes."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "(Oculus Dei acutus eſt, videt omnia)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "Et eſtant ſeul ſcrutateur des hõmes, ſonde leurs faicts,",
+    "contemple & balance leurs œuures, {a}. & qui a laiſſé eſ-",
+    "crit par la docte plume de ſes Prophetes & Euangeli-",
+    "ſtes, qu'il n'y a rien ſi couuert, ſi ſecret, ne ſi caché, qu'en",
+    "fin il ne reuele, & ne mette en euidence {b}. ne voulut per",
+    "mettre qu'vne ſi eſtrange & impudemment effrontée",
+    "piperie, vn ſi ſcandaleux affrontemẽt, vne ſi horrible &",
+    "monſtrueuſe impoſture demeuraſt celée & incogneuë."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "Actes c. xv",
+    "la j des Theſ",
+    "ſaloniſsiens. c.",
+    "ij."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "Ieremie c.",
+    "xxiij. Eccleſia-",
+    "ſtique xvj. &",
+    "xxiij. S. Mat",
+    "thieu v. S.",
+    "Marc iij. S.",
+    "Luc ij."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Guerre,",
+   "note": "final stop has a short tail, read as a comma; a period would be expected at the end of the TEXTE passage"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "plexiré, & peut eſtre en danger de faire vn iugemẽt qui",
+   "note": "sic? the letter after 'plexi' looks like r rather than t (no crossbar visible); 'plexité' meant. Could be under-inked t"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "deſmeſurée impoſture de ce mal-heureux affrõteur du",
+   "note": "the hyphen in 'mal-heureux' is printed as a raised dot-like stroke"
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "contemple & balance leurs œuures, {a}. & qui a laiſſé eſ-",
+   "note": "the stop after 'œuures' is faint and could be a semicolon or comma; marker a is italic and sits on the baseline, followed by a period"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Actes c. xv",
+   "note": "'Actes' printed with the italic ct ligature; the last numeral after 'xv' is blotted and a further letter may be lost at the line end"
+  },
+  {
+   "where": "margin_notes[0].lines[2]",
+   "text": "ſaloniſsiens. c.",
+   "note": "sic: 'ſaloniſsiens' (ſs) where 'ſalonicieus/-ciens' expected; stop after 'ſiens' could be a colon"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "Marc iij. S.",
+   "note": "numeral could be 'iiij' (three or four minims before the final j); the final 'S.' is heavily blotted"
+  },
+  {
+   "where": "margin_notes[1].lines[6]",
+   "text": "Luc ij.",
+   "note": "numeral is a single ij-ligature-like glyph, read 'ij'"
+  },
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "Guerre,",
+   "note": "final mark read as a comma (tail below baseline), though it closes the TEXTE section before the ANNOT. heading; could be a period with a smudge"
+  },
+  {
+   "where": "blocks[2].lines[10]",
+   "text": "deſmeſurée impoſture de ce mal-heureux affrõteur du",
+   "note": "the word-joining sign in 'mal-heureux' is printed as a raised dot rather than a hyphen; transcribed as '-'"
+  },
+  {
+   "where": "blocks[2].lines[16]",
+   "text": "plexiré, & peut eſtre en danger de faire vn iugemẽt qui",
+   "note": "sic? the letter before the final é of 'plexité' looks like r ('plexiré'), a probable wrong sort; check print"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "text": "(Oculus Dei acutus eſt, videt omnia)",
+   "note": "italic quotation set apart on its own line; 'videt' letters partly faint (could be read 'vidit')"
+  },
+  {
+   "where": "blocks[4].lines[0]",
+   "text": "Et eſtant ſeul ſcrutateur des hõmes, ſonde leurs faicts,",
+   "note": "punctuation after 'hõmes' is blotted: shows a colon-like mark followed by a comma; transcribed as comma"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "la j des Theſ",
+   "note": "last letter of 'Theſ' is an odd shape that could be read 'r' ('Ther'); read as long s since the next line continues 'ſaloniſsiens'. Also the margin note sits beside the quotation line, above the marker a line"
+  },
+  {
+   "where": "margin_notes[0].lines[0]",
+   "text": "Actes c. xv",
+   "note": "the numeral 'xv' ends in a blotted sort; could be 'xvj' or 'xvij'"
+  },
+  {
+   "where": "margin_notes[1].lines[5]",
+   "text": "Marc iij. S.",
+   "note": "numerals in this note (xxiij, xxiij, iij) are printed with a j carrying dots, count of minims doubtful; Mark 4:22 would suggest 'iiij'"
+  },
+  {
+   "where": "margin_notes[1].lines[6]",
+   "text": "Luc ij.",
+   "note": "numeral read 'ij' (looks like a dotted y); sense (Luke 8 or 12) suggests an error or a misreading"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[1]",
+   "target": "blocks[4].lines[1]",
+   "spans": [
+    [
+     26,
+     33
+    ]
+   ],
+   "aligned": true,
+   "a": "contemple & balance leurs œuures, {a}. & qui a laiſſé eſ-",
+   "b": "contemple & balance leurs œuures {a}. & qui a laiſſé eſ-",
+   "text": "contemple & balance leurs œuures, {a}. & qui a laiſſé eſ-",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     9,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "la j des Ther",
+   "b": "la j des Theſ",
+   "text": "la j des Theſ",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "Theſſaloniſsiens: the first epistle to the Thessalonians, chapter 2; Ther- is a wrong sort."
+  }
+ ]
 }

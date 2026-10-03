@@ -9,11 +9,411 @@
   "image_no": 101,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/101"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p080",
  "next": "p082",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "of a city, of a country or of a province <sup class=\"mk\" data-key=\"l\">l</sup>, and nevertheless, to make it appear, it does not suffice that the witnesses depose separately to divers acts from which the custom may be introduced, unless there are two at the least who have together seen each of the said acts <sup class=\"mk\" data-key=\"m\">m</sup>. The contrary opinion, then, is the sounder, and justly received by the sovereign courts, which will not judge rashly, but compass and measure all things by a straight ell, and weigh them in a just balance: especially in crimes, which, the greater and more horrible they are, the more must they be treated and determined with the greater circumspection and prudence <sup class=\"mk\" data-key=\"n\">n</sup>. And therefore one must conclude that in any crime whatsoever, however enormous it be, singular witnesses prove nothing; but it is necessary, to have certain and conclusive proof, that two (at the least) depose particularly to one and the same act <sup class=\"mk\" data-key=\"o\">o</sup>. Nay, by the law, several singular witnesses would not suffice to condemn a man of heresy, even though he were defamed of it <sup class=\"mk\" data-key=\"p\">p</sup>. And in truth, inasmuch as this crime is the most grievous, and above all execrable, directly regarding the divine majesty, so much the more must the Judges look to it the more closely, that it be not judged by opinion and lightly, but rightly and in truth <sup class=\"mk\" data-key=\"q\">q</sup>; in order also to obviate the strange and prodigious conspiracies, calumnies and vengeance that many wicked men daily practise against good people under the cloak and pretext of religion <sup class=\"mk\" data-key=\"r\">r</sup>, with which they mask themselves, to cover their dissolutions, lecheries, thefts, extortions, and a thousand other kinds of wickedness and wretched impieties. Returning, then, to the matter from which we have strayed, it would not be reasonable that the depositions of witnesses who could not have been together at the fact to which they depose should be received as [those] of several <sup class=\"mk\" data-key=\"ſ\">ſ</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "l",
+     "citation": "Digest 1.3 (<i>De legibus senatusque consultis et longa consuetudine</i>), l. <i>De quibus</i> (D. 1.3.32, Julian)",
+     "original": "l. de quibus. D. de legibus.",
+     "gloss": "Where written law fails, what has been introduced by usage and custom is to be observed; custom is the tacit consent of the people — Coras's \"universal act\"."
+    },
+    {
+     "key": "m",
+     "citation": "Pierre de Belleperche (Petrus de Bellapertica, d. 1308, <i>Pierre de Bellaper.</i>) and Cino da Pistoia (Cynus, 1270–1336, <i>Cyne</i>) on Code 8.52 (<i>Quae sit longa consuetudo</i>), l. 2 (C. 8.52.2, Constantine)",
+     "original": "Pierre de Bella per. &amp; Cyne en la l. ij. C. quæ ſit long. conſue.",
+     "gloss": "The commentators' requirement that a custom be proved by two witnesses at least who together saw each of the acts from which it is inferred, not by singular witnesses to separate acts."
+    },
+    {
+     "key": "n",
+     "citation": "Digest 48.4 (<i>Ad legem Iuliam maiestatis</i>), l. <i>Famosi</i> (D. 48.4.7, Modestinus); Liber Sextus, VI 1.6 (<i>De electione et electi potestate</i>), c. <i>Ubi periculum</i> (VI 1.6.3, Gregory X, the constitution of the Second Council of Lyons on the conclave)",
+     "original": "l. fameſi. D. ad l. Iuli. maieſta. c. vbi periculum de elec. au vj.",
+     "gloss": "D. 48.4.7.3: the crime of treason is not to be entertained by judges as an occasion of flattering the prince's majesty, but in truth; the greater the matter, the greater the caution — <i>Ubi periculum maius intenditur, ibi procul dubio est plenius consulendum</i>, the opening words of Gregory X's constitution, which Coras's \"the greater and more horrible … the greater circumspection\" renders."
+    },
+    {
+     "key": "o",
+     "citation": "Panormitanus (<i>Panorme</i>), the consilium cited above at {i}",
+     "original": "Panorme au cõſeil preallegue.",
+     "gloss": null
+    },
+    {
+     "key": "p",
+     "citation": "Decretals, X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Tam litteris</i> (chapter number unverified; cited at annot-052 and annot-053) and c. <i>Veniens</i> (chapter number unverified); Nicolas Bohier (Boerius, 1469–1539, <i>Boyer</i>), <i>Decisiones Burdegalenses</i>, decision 342",
+     "original": "c. tam literis. c. veniens. de teſ. Boyer deciſion cccxlij.",
+     "gloss": "Singular witnesses do not convict of heresy even a man defamed of it."
+    },
+    {
+     "key": "q",
+     "citation": "Digest 48.4.7 (<i>Ad legem Iuliam maiestatis</i>, l. <i>Famosi</i>), cited above at {n}",
+     "original": "l. fameſi. alleguee.",
+     "gloss": "<i>Non in occasione … sed in veritate</i>: the crime is to be judged in truth, not upon opinion."
+    },
+    {
+     "key": "r",
+     "citation": "Clementines, Clem. 5.3 (<i>De haereticis</i>), c. 1 (<i>Multorum querela</i>, Clement V), at the beginning",
+     "original": "Clem. j ſur le commencé ment de haré.",
+     "gloss": "Clement V's constitution restraining the abuses of inquisitors, who had turned the office against the innocent; the print's <i>haré.</i> is <i>hære[ticis]</i>."
+    },
+    {
+     "key": "ſ",
+     "citation": "Decretum, C. 3 q. 9, c. <i>Nihilominus</i>, cited above at {k}",
+     "original": "c. nihilomi nus. preallé gué.",
+     "gloss": "Witnesses who were not together at the fact are not several witnesses to it."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "And as to the other marks, such as the supernumerary teeth and the like: it",
+   "continued": false,
+   "notes": []
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "d'vne cité, d'vn pays, ou d'vne prouince {l}, & toutesfois",
+    "pour en faire apparoir ne ſuffit pas que les teſmoins de-",
+    "poſent ſepareement de diuers actes, deſquels peut e-",
+    "ſtre introduite la couſtume, ſ'il n'en y a deux pour le",
+    "moins qui ayent enſemblément veu chacun deſdicts a-",
+    "ctes {m}. La contraire opinion donques eſt la plus ſaine,",
+    "& iuſtement receuë des cours ſouueraines, qui ne veu",
+    "lent temerairement iuger: mais compaſſer & meſurer",
+    "toutes choſes à droite aulné, & poiſer à iuſte balance:",
+    "meſmement és crimes, leſquels de tant ſont plus grans",
+    "& horribles, de tant fault il qu'ils ſoyent auec plus grã",
+    "de circonſpection, & prudence, traitez & diffiniz {n}. Et",
+    "partant fault conclure, qu'en quelconque crime, tant",
+    "ſoit-il enorme, les teſmoins ſinguliers ne preuuẽt point.",
+    "ains eſt neceſſaire, pour auoir certaine & concluante",
+    "preuue, que deux (pour le moins) depoſẽt en particulier",
+    "d'vn meſme acte {o}. voire par le droit, pluſieurs teſmo-",
+    "ins ſinguliers ne ſuffiroyent pas à condemner vn hõme",
+    "d'hereſie: bien qu'il en fut diffamé {p}. Et à la verité, de",
+    "tant que ce crime ici eſt le plus grief, & ſur tous execra",
+    "ble, regardant droitement la maieſté diuine, d'autant",
+    "fault il que les Iuges y auiſent de plus pres, à ce qu'il",
+    "ne ſoit point iugé par opinion & à la legere: mais droi-",
+    "tement & en verité {q}. pour obuier auſſi aux eſtranges",
+    "& prodigieuſes conſpirations, calomnies, & vengence,",
+    "que pluſieurs meſchans iournellement exercent contre",
+    "les gens de bien, ſous le manteau & pretexte de la reli-",
+    "giõ {r}: de laquelle ſe maſquẽt, pour couurir leurs diſſo-",
+    "lutions, paillardiſes, larrecins, concuſſions, & autres",
+    "mille eſpeces de mechancetez, & impietez mal heureu-",
+    "ſes. Reuenant doncques au propos duquel nous ſom-",
+    "mes iſſus, ne ſeroit raiſonnable, que les depoſitions",
+    "des teſmoins, leſquels n'ont peu eſtre enſemble au",
+    "faict duquel ils depoſent, ſoyent receuës, comme de",
+    "pluſieurs {ſ}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Et quant aux autres marques, com-",
+    "me des ſoubre-dents, & ſemblables: co"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. de quibus.",
+    "D. de legibus."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "Pierre de",
+    "Bella per. &",
+    "Cyne en la l.",
+    "ij. C. quæ ſit",
+    "long. conſue."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "l. fameſi.",
+    "D. ad l. Iuli.",
+    "maieſta. c. vbi",
+    "periculum de",
+    "elec. au vj."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "Panorme",
+    "au cõſeil pre-",
+    "allegue."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "c. tam lite-",
+    "ris. c. veniens.",
+    "de teſ. Boyer",
+    "deciſion ccc-",
+    "xlij."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "l. fameſi.",
+    "alleguee."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "Clem. j ſur",
+    "le commencé",
+    "ment de haré."
+   ]
+  },
+  {
+   "key": "ſ",
+   "kind": "margin",
+   "lines": [
+    "c. nihilomi",
+    "nus. preallé",
+    "gué."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[3]",
+   "text": "ſtre introduite la couſtume, ſ'il n'en y a deux pour le",
+   "note": "apostrophe in 'ſ'il' faint; could be 'ſil'"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "moins qui ayent enſemblément veu chacun deſdicts a-",
+   "note": "line-end break printed as a raised dot, transcribed as hyphen; accent on 'enſemblément' as printed"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "de circonſpection, & prudence, traitez & diffiniz {n}. Et",
+   "note": "punctuation after 'prudence' could be ';' (mark above the comma)"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "partant fault conclure, qu'en quelconque crime, tant",
+   "note": "'quelconque': the u may be a turned n ('quelconqne'), check print"
+  },
+  {
+   "where": "blocks[0].lines[17]",
+   "text": "ins ſinguliers ne ſuffiroyent pas à condemner vn hõme",
+   "note": "mark over final e of 'hõme' (grave?) probably a speck; not transcribed"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "ne ſoit point iugé par opinion & à la legere: mais droi-",
+   "note": "possible dot between 'opinion' and '&' (speck or stray point); not transcribed"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "ſes. Reuenant doncques au propos duquel nous ſom-",
+   "note": "'doncques': the c carries a mark (cedilla/tilde?), could be 'donçques'; line-end break is a raised dot, transcribed as hyphen"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "me des ſoubre-dents, & ſemblables: co",
+   "note": "last word 'co' may carry a tilde ('cõ'), ink blotted; hyphen in 'ſoubre-dents' is a small double stroke"
+  },
+  {
+   "where": "signature",
+   "text": "F",
+   "note": "single 'F' centred-right below the text, read as signature; no catchword printed"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "D. de legibus.",
+   "note": "final point could be ':'"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. fameſi.",
+   "note": "sic? expected 'famoſi'; same reading in note q"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "maieſta. c. vbi",
+   "note": "'c' could be 'e'"
+  },
+  {
+   "where": "margin_notes[2].lines[4]",
+   "text": "elec. au vj.",
+   "note": "looks like 'elcc.' (second e like c); 'au' as printed"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "de teſ. Boyer",
+   "note": "'Boyer' partly blurred"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "ment de haré.",
+   "note": "'haré' as printed (hæré?)"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "nus. preallé",
+   "note": "line-end mark after 'preallé' unclear (hyphen or accent); 'nihilomi' letters blurred"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "poſent ſepareement de diuers actes, deſquels peut e-",
+   "note": "line-end break sign printed like a low dot ('e.'); transcribed as hyphen per conventions (word e-/ſtre)"
+  },
+  {
+   "where": "blocks[0].lines[4]",
+   "text": "moins qui ayent enſemblément veu chacun deſdicts a-",
+   "note": "line-end break sign is a small raised dot; transcribed as hyphen"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "partant fault conclure, qu'en quelconque crime, tant",
+   "note": "'quelconque': the u is broken/looks like 'n' or 'ıı'; possible wrong sort 'quelconqne'"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "ne ſoit point iugé par opinion & à la legere: mais droi-",
+   "note": "a stray dot before '&' after 'opinion' (possibly a period); omitted as likely ink speck; 'legere:mais' set tight"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "me des ſoubre-dents, & ſemblables: co",
+   "note": "line ends 'co' (word continues on next page); the in-line hyphen in 'ſoubre-dents' is faint/double-stroke; no separate catchword seen"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "D. de legibus.",
+   "note": "final punctuation could be a colon ('legibus:'); also first line may end in colon"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. fameſi.",
+   "note": "sic? expected 'famoſi'; print shows 'e' (same in note q)"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "ment de haré.",
+   "note": "'haré' reading doubtful (expected 'hære.'?); 'commencé' accent faint"
+  },
+  {
+   "where": "blocks[1].text",
+   "text": "TEXTE.",
+   "note": "final E damaged/blotted in print"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[2]",
+   "target": "blocks[0].lines[2]",
+   "spans": [
+    [
+     50,
+     52
+    ]
+   ],
+   "aligned": true,
+   "a": "poſent ſepareement de diuers actes, deſquels peut e.",
+   "b": "poſent ſepareement de diuers actes, deſquels peut e-",
+   "text": "poſent ſepareement de diuers actes, deſquels peut e-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "e-ſtre = eſtre broken at the line end with a hyphen ('deſquels peut eſtre introduite la couſtume'); a point there makes no sense."
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "target": "blocks[0].lines[11]",
+   "spans": [
+    [
+     21,
+     30
+    ]
+   ],
+   "aligned": true,
+   "a": "de circonſpection, & prudence, traitez & diffiniz {n}. Et",
+   "b": "de circonſpection, & prudence; traitez & diffiniz {n}. Et",
+   "text": "de circonſpection, & prudence, traitez & diffiniz {n}. Et",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "A comma after prudence fits the syntax (the participle 'traitez & diffiniz' continues the clause); the translation is unaffected."
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "target": "margin_notes[2].lines[2]",
+   "spans": [
+    [
+     9,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "maieſta. c. vbi",
+   "b": "maieſta. e. vbi",
+   "text": "maieſta. c. vbi",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "c. vbi periculum = capitulum Ubi periculum (VI 1.6.3); e. is no abbreviation used in these margins."
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "target": "margin_notes[7].lines[1]",
+   "spans": [
+    [
+     5,
+     12
+    ]
+   ],
+   "aligned": true,
+   "a": "nus. preallé",
+   "b": "nus. preallé-",
+   "text": "nus. preallé",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

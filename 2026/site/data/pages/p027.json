@@ -9,11 +9,513 @@
   "image_no": 49,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/49"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p026",
  "next": "p028",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "mate or not, but only imposes a penalty on those who marry against the precepts and prohibition of the Law, as Accursius himself teaches. <sup class=\"mk\" data-key=\"m\">m</sup>",
+   "continued": true,
+   "notes": [
+    {
+     "key": "m",
+     "citation": "Accursius (Glossa ordinaria) on Code 5.5, l. <i>Qui contra</i>, § 1",
+     "original": "Accurſe au dit Parag. j de la l. qui cõtra.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXT"
+  },
+  {
+   "type": "paragraph",
+   "html": "At last, the said de Rols being advised of the prodigious effrontery, horrible and strange imposture, which the said du Tilh had practised, substituting upon her the name and person of Martin Guerre her husband.",
+   "continued": false,
+   "notes": []
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTATION XII"
+  },
+  {
+   "type": "paragraph",
+   "html": "Because names are given or imposed only to distinguish and recognise persons, <sup class=\"mk\" data-key=\"a\">a</sup> it is lawful for anyone, of his own free will, to take the name that seems good to him, and having taken it, to change it freely afterwards, provided that it is without fraud, and that the change is not to the detriment or damage of another <sup class=\"mk\" data-key=\"b\">b</sup>. For where the intention was bad, to defraud one's neighbour or to harm him in some way, it would then be a crime of forgery <sup class=\"mk\" data-key=\"c\">c</sup>, and thus punishable by death, civil death at the least <sup class=\"mk\" data-key=\"d\">d</sup>. As for the substitution of persons, one cannot well give certain rules for it: for the ancients sometimes punished it, sometimes not; and when they punished it, sometimes sharply and with natural death, sometimes lightly, as we shall discourse below, God helping, in a more convenient place. <sup class=\"mk\" data-key=\"e\">e</sup> Meanwhile, however, it will not be out of place to understand that in our law another kind of substitution is spoken of, namely when a wife substitutes in her husband's house a child as her own, which is nevertheless another's, to make it heir to the goods of her husband <sup class=\"mk\" data-key=\"f\">f</sup> — a crime certainly grave, and surely repressed by the law, which was pleased to punish it not only in the person of the wife who had contrived and plotted the substitution, but also in all those who had given her counsel, favour and aid <sup class=\"mk\" data-key=\"g\">g</sup>; and although in other crimes some manner of impunity is gained by the passing of years <sup class=\"mk\" data-key=\"h\">h</sup>, nevertheless in this crime, he who is guilty does not escape the penalty by any lapse or interval of time whatsoever <sup class=\"mk\" data-key=\"i\">i</sup>. True also that the pen",
+   "continued": false,
+   "notes": [
+    {
+     "key": "a",
+     "citation": "Code 7.14 (<i>De ingenuis manumissis</i>), l. <i>Ad recognoscendos</i> (fragment number unverified); Institutes 2.20 (<i>De legatis</i>), § <i>Si quis in nomine</i> (Inst. 2.20.29)",
+     "original": "l. ad recognoſcendos. C. de inge. &amp; manu. Par. ſi quis in nomi ne. de legat.",
+     "gloss": "Inst. 2.20.29: an error in the name, cognomen or praenomen of a legatee does not vitiate the legacy if the person is certain — names serve only to identify."
+    },
+    {
+     "key": "b",
+     "citation": "Code 9.25 (<i>De mutatione nominis</i>), l. <i>unica</i> (C. 9.25.1, Diocletian and Maximian); and below, Coras's Annotation LXXVIII (cross-reference)",
+     "original": "l. vniqne C. de muta. nom &amp; ciba. en l'annotation lxxviij.",
+     "gloss": "A man may change his name at will, provided he does so without fraud (<i>sine aliqua fraude</i>)."
+    },
+    {
+     "key": "c",
+     "citation": "Digest 48.10 (<i>De lege Cornelia de falsis</i>), l. <i>Falsi</i> (cf. D. 48.10.13, Papinian: the assertion of a false name or cognomen is punished with the penalty of <i>falsum</i>); Digest 50.1 (<i>Ad municipalem et de incolis</i>), l. <i>Tatio</i> (fragment not identified)",
+     "original": "l. falſi D. de fal. l. Tatio. D. ad municipa.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "citation": "Digest 48.10.1, last paragraph (D. 48.10.1.13, Marcian: the penalty of <i>falsum</i> is deportation and confiscation of all goods)",
+     "original": "l. j. Paragr. dernier. D. de falſ.",
+     "gloss": "Deportation being the civil death Coras means."
+    },
+    {
+     "key": "e",
+     "citation": "Coras, Annotation LXXXI (cross-reference)",
+     "original": "Annotation l xxxj.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "citation": "Digest 37.10 (<i>De Carboniano edicto</i>), l. 2; Digest 48.10 (<i>De lege Cornelia de falsis</i>), l. <i>Qui falsam</i>, § <i>Accusatio</i> (fragment not identified); Code 9.22 (<i>Ad legem Corneliam de falsis</i>), l. 1",
+     "original": "l ij. D. de Carbo edict. l. qui falſam Parag. accuſ. D. de fal. l j. au meſme titre du Code.",
+     "gloss": "The supposititious child, <i>partus suppositus</i>, punished under the <i>lex Cornelia</i>."
+    },
+    {
+     "key": "g",
+     "citation": "Digest 37.10 (<i>De Carboniano edicto</i>), l. 2, cited above",
+     "original": "l ij. prealleguee. D. de Carbo. ediſti",
+     "gloss": null
+    },
+    {
+     "key": "h",
+     "citation": "Digest 29.5 (<i>De senatus consulto Silaniano</i>), l. <i>In cognitione</i> (fragment not identified); Code 9.9 (<i>Ad legem Iuliam de adulteriis</i>), l. <i>Adulterii</i> (fragment not identified); Code 9.22 (<i>Ad legem Corneliam de falsis</i>), l. <i>Querela</i> (cf. C. 9.22.12)",
+     "original": "l. in cognitione. D. ad Syllanianum l, adulterij. C. de adulter l quærela. C. de falſ.",
+     "gloss": "The prescription of crimes by lapse of time."
+    },
+    {
+     "key": "i",
+     "citation": "Digest 48.10, l. <i>Qui falsam</i>, § <i>Accusatio</i>, as at {f}",
+     "original": "l. qui falſ. Parag. accuſ. D. de falſ.",
+     "gloss": "The accusation of a supposititious birth is not barred by any lapse of time."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "mes, ou nõ. mais impoſe ſeulement peine à ceux qui ſe",
+    "marient, contre les preceptes, & prohition de la Loy",
+    "ainſi qu'Accurſe meſme enſeigne. {m}"
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "En fin, aduertie icelle de Rols, du pro-",
+    "digieux affrontemẽt, horrible & eſtrãge",
+    "impoſture, de laquelle iceluy du Tilh au-",
+    "roit vſé: luy ſuppoſant le nom & perſon-",
+    "ne de martin Guerre ſon mari."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. XII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Par ce que les noms ne ſont donnez ou impoſez que",
+    "pour diſcerner, & recongnoiſtre les perſonnes. {a} il eſt",
+    "loyſible, à vn chacun de gayeté de cœur, prendre le nom",
+    "qui luy ſemble, & l'ayant pris le changer librement a-",
+    "pres, pourueu que ce ſoit ſans fraude, & que le change-",
+    "ment ne ſoit au detriment, ou domage d'autruy {b}. car ou",
+    "l'intentiõ ſeroit mauuaiſe pour frauder ſon prochain, ou",
+    "luy nuire, en quelque ſorte: ce ſeroit lors vn crime de",
+    "faux {c}. & par ainſi puniſſable de mort pour le moins ci",
+    "uile {d}. Quand a la ſuppoſition des perſonnes, on n'en,",
+    "peut bõnement donner certaines reigles: car les anciẽs",
+    "l'ont quelquesfois punie, autresfois non: & lors qu'on",
+    "l'ha punie, quelqueſfois aigremẽt & de mort naturelle:",
+    "quelquesfois legerement, cõme nous diſcourrõs ci bas",
+    "Dieu aidãt en lieu plns cõmode. {e} Ce pendãt toutesfois",
+    "ne ſera par hors de propos, d'entẽdre, qu'ẽ noſtre droict",
+    "eſt parlé d'vne autre maniere de ſuppoſition à ſcauoir",
+    "quant la femme ſuppoſe en la maiſon de ſon mari, vn",
+    "enfant cõme ſien: eſtant neantmoins d'vn autre, pour le",
+    "faire heritier aux biẽs de ſon mari {f} crime certes graue",
+    "& ſeurement reprimé par la loy qui l'a bien voulu non",
+    "ſeulement punir en la perſonne de la femme, que auoit",
+    "ordie & tramee la ſuppoſition, mais encor en tous ceux",
+    "qui luy auoient dõné cõſeil, faueur, & aide {g} & biẽ qu'ès",
+    "autres crimes, ſc gaigne quelque maniere d'impunité,",
+    "par le decours de annees {h} toutesfois en ce crime ici, ce-",
+    "luy qui eſt coulpable, n'euite point la peine par laps, ou",
+    "iuterualle de temps {i}. quelconque Vray auſſi que la pei"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "Accurſe au",
+    "dit Parag. j de",
+    "la l. qui cõtra."
+   ]
+  },
+  {
+   "key": "a",
+   "kind": "margin",
+   "lines": [
+    "l. ad reco-",
+    "gnoſcendos.",
+    "C. de inge. &",
+    "manu. Par. ſi",
+    "quis in nomi",
+    "ne. de legat."
+   ]
+  },
+  {
+   "key": "b",
+   "kind": "margin",
+   "lines": [
+    "l. vniqne",
+    "C. de muta.",
+    "nom & ciba.",
+    "en l'annota-",
+    "tion lxxviij."
+   ]
+  },
+  {
+   "key": "c",
+   "kind": "margin",
+   "lines": [
+    "l. falſi D. de",
+    "fal. l. Tatio. D.",
+    "ad municipa."
+   ]
+  },
+  {
+   "key": "d",
+   "kind": "margin",
+   "lines": [
+    "l. j. Paragr.",
+    "dernier. D. de",
+    "falſ."
+   ]
+  },
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "Annotation",
+    "l xxxj."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l ij. D. de",
+    "Carbo edict.",
+    "l. qui falſam",
+    "Parag. accuſ.",
+    "D. de fal. l j.",
+    "au meſme ti-",
+    "tre du Code."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l ij. prealle-",
+    "guee. D. de",
+    "Carbo. ediſti"
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. in cogni-",
+    "tione. D. ad",
+    "Syllanianum",
+    "l, adulterij.",
+    "C. de adulter",
+    "l quærela. C.",
+    "de falſ."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. qui falſ.",
+    "Parag. accuſ.",
+    "D. de falſ."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[1]",
+   "text": "marient, contre les preceptes, & prohition de la Loy",
+   "note": "'prohition' sic (for 'prohibition'); no b"
+  },
+  {
+   "where": "blocks[2].lines[1]",
+   "text": "digieux affrontemẽt, horrible & eſtrãge",
+   "note": "both nasal marks are printed as a thick slanted stroke that can look like an acute; read as tildes on sense and on their weight vs the true acute of 'vſé' two lines below"
+  },
+  {
+   "where": "blocks[4].lines[1]",
+   "text": "pour diſcerner, & recongnoiſtre les perſonnes. {a} il eſt",
+   "note": "mark before marker {a} read as a period (small round dot on the baseline, no descender)"
+  },
+  {
+   "where": "blocks[4].lines[9]",
+   "text": "uile {d}. Quand a la ſuppoſition des perſonnes, on n'en,",
+   "note": "line ends with a comma after 'n'en' (tail below the baseline), although the sense wants none; sic"
+  },
+  {
+   "where": "blocks[4].lines[10]",
+   "text": "peut bõnement donner certaines reigles: car les anciẽs",
+   "note": "'anciẽs': the nasal mark is set slanted, unlike the horizontal tildes of 'bõnement'/'cõme'; read as tilde, not acute"
+  },
+  {
+   "where": "blocks[4].lines[11]",
+   "text": "l'ont quelquesfois punie, autresfois non: & lors qu'on",
+   "note": "a small raised tick prints between 'punie,' and 'autresfois'; treated as a stray ink mark and not transcribed"
+  },
+  {
+   "where": "blocks[4].lines[12]",
+   "text": "l'ha punie, quelqueſfois aigremẽt & de mort naturelle:",
+   "note": "pages/strips/p027/body-5.jpg, line 1, at 10x: two tall sorts stand where 'quelquesfois' on the lines above and below has round s + f. The first sort's bar lies to the left of its stem only, with the top curling right (long ſ); the second's bar crosses the stem on both sides (f): 'quelqueſfois', sic (ſ before f is against the fount's usual practice). Reader A read two f's ('quelqueffois'); the first bar's small extension right of the stem makes ff possible"
+  },
+  {
+   "where": "blocks[4].lines[14]",
+   "text": "Dieu aidãt en lieu plns cõmode. {e} Ce pendãt toutesfois",
+   "note": "'plns' sic (turned u) for 'plus'"
+  },
+  {
+   "where": "blocks[4].lines[15]",
+   "text": "ne ſera par hors de propos, d'entẽdre, qu'ẽ noſtre droict",
+   "note": "'par' sic for 'pas'; the final letter is a clear r"
+  },
+  {
+   "where": "blocks[4].lines[22]",
+   "text": "ordie & tramee la ſuppoſition, mais encor en tous ceux",
+   "note": "'ordie' sic for 'ourdie'"
+  },
+  {
+   "where": "blocks[4].lines[24]",
+   "text": "autres crimes, ſc gaigne quelque maniere d'impunité,",
+   "note": "at 4x the letter after ſ has no crossbar and prints as a plain c: 'ſc', sic for 'ſe' (the e's bar failed to print or a c was set). Transcribed as printed"
+  },
+  {
+   "where": "blocks[4].lines[27]",
+   "text": "iuterualle de temps {i}. quelconque Vray auſſi que la pei",
+   "note": "at 6x (pages/strips/p027/body-7.jpg, line 3) the second letter has serifs at the top of both strokes and is joined at the bottom, with no arch at the top: a u, i.e. a turned n for 'interualle'; sic, transcribed as printed. No punctuation between 'quelconque' and 'Vray'; line ends mid-word with no hyphen"
+  },
+  {
+   "where": "margin_notes[2].lines[0]",
+   "text": "l. vniqne",
+   "note": "'vniqne' sic (turned u) for 'vnique'"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "C. de muta.",
+   "note": "at 5x (pages/strips/p027/margin-2.jpg, note b line 2) the letter after 'mu' carries a crossbar: t, 'muta.' (C. de mutatione nominis); it can be taken for r at low magnification"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "text": "nom & ciba.",
+   "note": "at 10x the middle letter of the first word is a closed oval with a diagonal ink stroke through it, without the open lower tail of the italic e of 'de' above: read o, 'nom' (nominis), which the citation supports; 'nem' is possible. 'ciba.' is read letter by letter (c-i-b-a) and is not confirmed by the sense of the citation"
+  },
+  {
+   "where": "margin_notes[7].lines[2]",
+   "text": "Carbo. ediſti",
+   "note": "the letter before 'ti' descends well below the baseline: an italic long ſ, giving 'ediſti'; sense (and note f, 'Carbo edict.') wants 'edicti'. Transcribed as printed, sic"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "text": "Syllanianum",
+   "note": "at 8x (pages/strips/p027/margin-3.jpg, note h line 3) two ascenders follow 'Sy', the first thinner and lightly inked, the second full: 'Syllanianum' (sic for Silanianum); reader B saw a single l"
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "text": "l, adulterij.",
+   "note": "the mark after 'l' has a descending tail: a comma, where the other citations take a period"
+  },
+  {
+   "where": "margin_notes[8].lines[5]",
+   "text": "l quærela. C.",
+   "note": "at 6x the letter after 'qu' is the æ ligature (a with an attached e loop): 'quærela'. The print sets the point low and before the C ('quærela .C') and another low point after the C; spacing normalized per §1"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[4].lines[12]",
+   "target": "blocks[4].lines[12]",
+   "spans": [
+    [
+     12,
+     24
+    ]
+   ],
+   "aligned": true,
+   "a": "l'ha punie, quelqueffois aigremẽt & de mort naturelle:",
+   "b": "l'ha punie, quelqueſfois aigremẽt & de mort naturelle:",
+   "text": "l'ha punie, quelqueſfois aigremẽt & de mort naturelle:",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 10x (pages/strips/p027/body-5.jpg, line 1) the first tall sort's bar lies left of the stem only and its top curls right (ſ); the second's bar crosses the stem on both sides (f): ſf. Recorded in uncertain[] since ff is not excluded"
+  },
+  {
+   "where": "blocks[4].lines[24]",
+   "target": "blocks[4].lines[24]",
+   "spans": [
+    [
+     15,
+     17
+    ]
+   ],
+   "aligned": true,
+   "a": "autres crimes, ſc gaigne quelque maniere d'impunité,",
+   "b": "autres crimes, ſe gaigne quelque maniere d'impunité,",
+   "text": "autres crimes, ſc gaigne quelque maniere d'impunité,",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 4x the letter after ſ has no crossbar at all and prints as c; transcribed as printed ('ſc', sic), per the ruling that agreed compositor errors stay as printed"
+  },
+  {
+   "where": "blocks[4].lines[27]",
+   "target": "blocks[4].lines[27]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "interualle de temps {i}. quelconque Vray auſſi que la pei",
+   "b": "iuterualle de temps {i}. quelconque Vray auſſi que la pei",
+   "text": "iuterualle de temps {i}. quelconque Vray auſſi que la pei",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x the second letter has top serifs on both strokes and a bottom join, no top arch: a u (turned n), sic"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     6,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "C. de mura.",
+   "b": "C. de muta.",
+   "text": "C. de muta.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 5x the letter after 'mu' carries a crossbar: t (mutatione nominis)"
+  },
+  {
+   "where": "margin_notes[2].lines[2]",
+   "target": "margin_notes[2].lines[2]",
+   "spans": [
+    [
+     0,
+     3
+    ]
+   ],
+   "aligned": true,
+   "a": "nem & ciba.",
+   "b": "nom & ciba.",
+   "text": "nom & ciba.",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 10x the middle letter is a closed oval without the open lower tail of the fount's italic e (cf. 'de' on the line above): o; the citation (nominis) agrees"
+  },
+  {
+   "where": "margin_notes[8].lines[2]",
+   "target": "margin_notes[8].lines[2]",
+   "spans": [
+    [
+     0,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "Syllanianum",
+   "b": "Sylanianum",
+   "text": "Syllanianum",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 8x two ascenders follow 'Sy', the first thin and lightly inked but a separate stroke: ll"
+  },
+  {
+   "where": "margin_notes[8].lines[3]",
+   "target": "margin_notes[8].lines[3]",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "aligned": true,
+   "a": "l, adulterij.",
+   "b": "l. adulterij.",
+   "text": "l, adulterij.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 3x the mark after 'l' has a clear descending tail: comma"
+  },
+  {
+   "where": "margin_notes[8].lines[5]",
+   "target": "margin_notes[8].lines[5]",
+   "spans": [
+    [
+     2,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "l quærela. C.",
+   "b": "l quarela. C",
+   "text": "l quærela. C.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x the letter after 'qu' is the æ ligature, and a low-set point follows the C (as the low point after 'adulter' on the line above); the point before the C is the one after 'quærela', normalized"
+  }
+ ]
 }

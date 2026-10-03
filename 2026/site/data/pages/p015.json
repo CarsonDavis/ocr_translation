@@ -199,5 +199,92 @@
    "text": "placitis philo-",
    "note": "at 6x two dots are visible, the second over the letter before the final s: 'placitis' (De placitis philosophorum), not 'placitus'."
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[1].lines[5]",
+   "target": "blocks[1].lines[5]",
+   "spans": [
+    [
+     43,
+     51
+    ]
+   ],
+   "aligned": true,
+   "a": "qui naſquit noir comme vn more, rapportant pluttoſt",
+   "b": "qui naſquit noir comme vn more, rapportant pluſtoſt",
+   "text": "qui naſquit noir comme vn more, rapportant pluttoſt",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 8x both sorts after 'plu' are t: short pointed ascender with a crossbar on both sides of the stem; the ſ of 'oſt' in the same word is tall and hooked. 'pluttoſt', sic"
+  },
+  {
+   "where": "blocks[1].lines[21]",
+   "target": "blocks[1].lines[21]",
+   "spans": [
+    [
+     34,
+     41
+    ]
+   ],
+   "aligned": true,
+   "a": "nyés, produira des enfans accors, prudẽs, ſages, & diſcrets",
+   "b": "nyés, produira des enfans accors, prudẽs; ſages, & diſcrets",
+   "text": "nyés, produira des enfans accors, prudẽs; ſages, & diſcrets",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "the mark after 'prudẽs' is two separate pieces at 4x, a round dot above a comma wedge: a semicolon, unlike the single wedge of 'accors,' on the same line"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "target": "margin_notes[0].lines[1]",
+   "spans": [
+    [
+     0,
+     4
+    ]
+   ],
+   "aligned": true,
+   "a": "iij. li. des Car-",
+   "b": "ij. li. des Car-",
+   "text": "iij. li. des Car-",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x the numeral has three strokes and three dots (an i sort followed by the dotted ij sort): 'iij.'"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "target": "margin_notes[2].lines[1]",
+   "spans": [
+    [
+     6,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "au v. liure de",
+   "b": "au v. linre de",
+   "text": "au v. linre de",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 6x (full/p015.jpg x~2355-2420, y~1928-1985) the third letter's two stems are joined by an arch at the top and open at the foot, the italic n, not the u of 'au' earlier in the line: 'linre', a turned sort for 'liure'"
+  },
+  {
+   "where": "blocks[0]/blocks[1] continues_prev",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "block0 false, block1 true",
+   "b": "block0 true, block1 false",
+   "text": "block0 continues_prev=false, block1 continues_prev=false",
+   "chose": "neither",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "p014 ends 'naturelles vertus.' with a full stop and its final has continues_next=false, so the verse block does not continue a sentence (A); 'Iuſques à voir' is set with a clear paragraph indent (2x), so per §6 it opens a new paragraph and continues_prev is false (B), although the sense runs on from p014 across the verse"
+  }
  ]
 }

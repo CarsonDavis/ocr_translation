@@ -18,7 +18,8 @@
   "english",
   "french",
   "french_notes",
-  "uncertain"
+  "uncertain",
+  "readings"
  ],
  "properties": {
   "id": {
@@ -134,6 +135,13 @@
    "items": {
     "$ref": "#/$defs/uncertain"
    }
+  },
+  "readings": {
+   "type": "array",
+   "description": "contested readings: where the two transcription passes disagreed, decided or still open (split_pages.contested_readings)",
+   "items": {
+    "$ref": "#/$defs/reading"
+   }
   }
  },
  "$defs": {
@@ -216,9 +224,12 @@
    ],
    "properties": {
     "key": {
-     "type": "string",
+     "type": [
+      "string",
+      "null"
+     ],
      "minLength": 1,
-     "description": "the letter printed as the marker, matching the French note key"
+     "description": "the letter printed as the marker, matching the French note key; null for a note the print sets with no key, or a quotation the translator moved into the notes"
     },
     "citation": {
      "type": "string",
@@ -283,6 +294,100 @@
     },
     "note": {
      "type": "string"
+    }
+   }
+  },
+  "reading": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "where",
+    "target",
+    "spans",
+    "aligned",
+    "a",
+    "b",
+    "text",
+    "chose",
+    "by",
+    "status",
+    "reason"
+   ],
+   "properties": {
+    "where": {
+     "type": "string",
+     "minLength": 1,
+     "description": "the final's pointer, as written"
+    },
+    "target": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "blocks[i].lines[j], margin_notes[i].lines[j], foot_notes[i].lines[j] or blocks[i].text when the reading sits on one printed line; null for structure (page layout, running head, note keys)"
+    },
+    "spans": {
+     "type": [
+      "array",
+      "null"
+     ],
+     "items": {
+      "type": "array",
+      "items": {
+       "type": "integer",
+       "minimum": 0
+      },
+      "minItems": 2,
+      "maxItems": 2
+     },
+     "description": "[start, end) UTF-16 offsets into the target line to underline; null when there is nothing to underline (no target, or readings that agree word for word)"
+    },
+    "aligned": {
+     "type": "boolean",
+     "description": "false when the words could not be aligned and the span is the whole line"
+    },
+    "a": {
+     "type": "string",
+     "description": "reader A's reading"
+    },
+    "b": {
+     "type": "string",
+     "description": "reader B's reading"
+    },
+    "text": {
+     "type": "string",
+     "description": "the reading the text carries"
+    },
+    "chose": {
+     "enum": [
+      "A",
+      "B",
+      "neither",
+      null
+     ],
+     "description": "null while open"
+    },
+    "by": {
+     "enum": [
+      "carson",
+      "reconciler",
+      "translator",
+      "auto",
+      null
+     ],
+     "description": "who decided: carson (the editor), reconciler (the first run's reconciliation model), translator (the translation model, from context), auto (deferred, open); null for an open arbitration with no decision entry"
+    },
+    "status": {
+     "enum": [
+      "decided",
+      "open"
+     ]
+    },
+    "reason": {
+     "type": [
+      "string",
+      "null"
+     ]
     }
    }
   }

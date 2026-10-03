@@ -9,11 +9,511 @@
   "image_no": 161,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/161"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p140",
  "next": "p142",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "and beyond all suspicion <sup class=\"mk\" data-key=\"f\">f</sup>. And briefly to resolve all the contrary arguments, it must be considered that the said de Rols, having been persuaded, together with the sisters and the other principal kinsfolk of the said Martin, both by reason of the likeness and of the tokens, that the said du Tilh was truly her husband — she, having her conscience thus informed <sup class=\"mk\" data-key=\"g\">g</sup>, was not bound to give faith or credit to those who said the contrary, especially persons who had no interest in it <sup class=\"mk\" data-key=\"h\">h</sup>; considering singularly the danger in which she was putting herself, the shame she was uncovering of her own deed, and the peril of receiving a greater one if the denunciation had been found calumnious and false <sup class=\"mk\" data-key=\"i\">i</sup>. Which is a reason that comes greatly into consideration, and by which Papinian excuses the woman violated by force, if she has had shame to disclose such a deed at once to her husband <sup class=\"mk\" data-key=\"k\">k</sup>; and the Emperor commands that the reputation of a woman of worth and honour be entirely preserved to her <sup class=\"mk\" data-key=\"l\">l</sup>. By the above there is answered also what is imputed to the said de Rols, of having believed too lightly that the said du Tilh was her husband <sup class=\"mk\" data-key=\"m\">m</sup>. For she did not believe lightly, considering the interval of time of eight years and the absence of the said Martin, the tokens given by this du Tilh, the assurance that the sisters and uncle of the said Martin gave her, the error and opinion of the rest of the inhabitants of Artigat, who had received, held and esteemed him Martin Guerre, and the longing she had to see and recover her husband. Joined that, as St Ambrose says, a man of worth believes easily <sup class=\"mk\" data-key=\"n\">n</sup>, and this facility proceeds only from a goodness and praiseworthy simplicity <sup class=\"mk\" data-key=\"o\">o</sup>; and to punish here the said de Rols without fault <sup class=\"mk\" data-key=\"p\">p</sup> there is no sufficient cause, nor any scandal or bad example, seeing her error and the just reasons she had to adhere to it. The argument from the history of Lot <sup class=\"mk\" data-key=\"q\">q</sup> is of no service here, for Lot was never judged guilty of having had to do with his daughters, inasmuch as he thought he was approaching his wife; but he was only reproved for his drunkenness, which gave the daughters the boldness to approach their father and converse carnally with him <sup class=\"mk\" data-key=\"r\">r</sup>.",
+   "continued": true,
+   "notes": [
+    {
+     "key": "f",
+     "citation": "Code 5.17 (<i>De repudiis</i>), l. <i>Uxor</i> (C. 5.17.7, Constantine, 337)",
+     "original": "l. vxor. C. de repud.",
+     "gloss": "The wife of a soldier who has had no news of him for four years may send to his commander and, after a further year, remarry without penalty. The law Coras discussed at annot-002 {ſ} and annot-010 {f}; here he reads it as freeing the woman \"from all punishment and beyond all suspicion\"."
+    },
+    {
+     "key": "g",
+     "citation": "Decretum, C. 11 q. 3, c. <i>In cunctis</i> (chapter not verified)",
+     "original": "c. in cũctis. xj q. iij.",
+     "gloss": null
+    },
+    {
+     "key": "h",
+     "citation": "Digest 4.4 (<i>De minoribus viginti quinque annis</i>), l. <i>Tutor</i> (fragment not identified; the print's <i>de meno.</i> read as <i>de mino.</i>); Digest 27.6 (<i>Quod falso tutore auctore gestum esse dicatur</i>), l. 2 (D. 27.6.2); Code 8.28 (<i>Debitorem venditionem pignorum impedire non posse</i>), l. 2 (title and law as read; bearing not verified)",
+     "original": "l. tutor. D. de meno. l ij. D. quod falſ. tutor. l. ij. C. deb. ved. pig.",
+     "gloss": "Cited for the rule that one may rely on the appearance of authority and need not believe those who have no standing in the matter."
+    },
+    {
+     "key": "i",
+     "citation": "Digest 48.5 (<i>Ad legem Iuliam de adulteriis coercendis</i>), l. <i>Vim passam</i> (D. 48.5.40(39) pr., Papinian)",
+     "original": "l. vim paſſã de adulter.",
+     "gloss": "A woman who has suffered violence has not offended against the <i>lex Iulia</i>; cited at annot-083 {i} and {k}. The transcribers could not settle whether the print's double <i>s</i> is <i>ß</i> or <i>ſſ</i>; the word is the same."
+    },
+    {
+     "key": "k",
+     "citation": "Digest 48.5.40(39) pr., l. <i>Vim passam</i>, as at {i}",
+     "original": "l. vim paſſã alleguee.",
+     "gloss": "Papinian's case is the woman who, for shame, did not at once tell her husband of the rape."
+    },
+    {
+     "key": "l",
+     "citation": "Code 9.9 (<i>Ad legem Iuliam de adulteriis et de stupro</i>), l. <i>Foedissimam</i> (C. 9.9.20, Diocletian and Maximian)",
+     "original": "l. fœdiſſimã C. de adulter.",
+     "gloss": "The reputation of a woman taken by force is to suffer no injury; cited at annot-082 {u} and annot-083 {l}."
+    },
+    {
+     "key": "m",
+     "citation": "Digest 2.10.1, § 1, and Decretum, D. 86, c. <i>Si quid</i>, as at {a}",
+     "original": "l. j. P j. D. de eo per quẽ fac. er. c. ſi q̃d l. xxxvj. diſt.",
+     "gloss": "The print's <i>l. xxxvj.</i> is <i>lxxxvj.</i>, as at {a}."
+    },
+    {
+     "key": "n",
+     "citation": "Ambrose, <i>De officiis ministrorum</i>, book 2 (passage not located)",
+     "original": "S. Ambroiſe au ij. liure des offices.",
+     "gloss": null
+    },
+    {
+     "key": "o",
+     "citation": "Decretum, C. 22 q. 4, c. <i>Innocens</i> (chapter not verified)",
+     "original": "c. innocente. xxij q. iiij.",
+     "gloss": "The canon whose incipit is the Vulgate's <i>Innocens credit omni verbo</i> (Proverbs 14:15) — the innocent believes every word; Coras's \"goodness and praiseworthy simplicity\"."
+    },
+    {
+     "key": "p",
+     "citation": "<i>Liber Sextus</i>, <i>De regulis iuris</i>, reg. 23, <i>Sine culpa</i>, as at {i}",
+     "original": "c. ſine culpa. de reg. iur. in vj.",
+     "gloss": null
+    },
+    {
+     "key": "q",
+     "citation": "Genesis 19",
+     "original": "Gen. c. xix.",
+     "gloss": null
+    },
+    {
+     "key": "r",
+     "citation": "Decretum, C. 15 q. 1, c. <i>Inebriaverunt</i>, as at {g}",
+     "original": "c. inebriauerunt. xv. q. j.",
+     "gloss": null
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "& hors de tout ſoupçon {f}. Et pour brieuement reſou-",
+    "dre tout les argumens contraires, faut conſiderer, que",
+    "ſ'eſtant ladite de Rols perſuadee auec les ſœurs, & au-",
+    "tres principaux parẽs dudit Martin, tant pour la raiſon",
+    "de la ſimilitude, que des enſeignes que ledit du Tilh",
+    "eſtoit veritablement ſon mari: elle ayant ainſi ſa con-",
+    "ſcience informee {g}, n'eſtoit pas tenue donner foy, ni",
+    "croire ceux qui diſoyent le contratre: meſmement les",
+    "perſonnes., qui n'y auoyent aucun intereſt {h}. attendu",
+    "ſingulierement le danger, auquel elle ſe mettoit, la hõ-",
+    "te qu'elle deſcouuroit de ſon faict, & le peril d'en rece-",
+    "uoir vne plus grande, ſi la denonciation ſe fuſt trouuee",
+    "calomnieuſe & fauſſe {i} Qui eſt vne raiſon qui vient en",
+    "conſideration grande,. & par laquelle Papinien excuſe",
+    "la femme violee par force, ſi elle a eu erubeſcence de",
+    "manifeſter incontinent tel faict à ſon mari {k}. & l'Em-",
+    "pereur commande, que la reputation de femme de biẽ",
+    "& honneur luy ſoit entierement gardee {l}. Par ce deſſus",
+    "eſt auſſi reſpondu, à ce qu'on impute à ladite de Rols,",
+    "d'auoir creu trop legerement, que ledit du Tilh eſtoit",
+    "ſon mari {m}. Car elle n'a pas creu de legier, cõſideré l'in-",
+    "terualle du temps, de huict annees, & l'abſence dudict",
+    "Martin, les enſeignes donnees par iceluy du Tilh,",
+    "l'aſſeurance que les ſœurs & oncle dudict Martin luy",
+    "donnoiẽt, l'erreur, & opinion du reſte de habitans d'Ar-",
+    "tigat, qui l'auoyent receu, tenu & eſtimé Martin Guer-",
+    "re, & l'enuie qu'elle auoit de voir, & recouurer ſon ma-",
+    "ri. Ioint que comme dit S. Ambroiſe, vn hõme de bien,",
+    "croit facilement {n}. & cette facilité ne procede que d'v-",
+    "ne bonté, & ſimplicité louable {o}. & de punir ici lad. de",
+    "Rols ſans coulpe {p}. n'y a ſuffiſante cauſe, ni aucun ſcan-",
+    "dale, ni mauuais exemple, veu ſon erreur, & les iuſtes",
+    "raiſons qu'elle auoit d'y adherer. L'argumẽt de l'hiſtoi-",
+    "re de Loth {q}, ne ſert rien ici, car Loth n'a eſté iugé onc",
+    "coulpable d'auoir participé auec ſes fils: d'autant qu'il",
+    "penſoit ſ'approcher de ſa femme, mais a eſté ſeulemẽt",
+    "reprins de ſon yurongnerie, qui donna hardieſſe aux",
+    "filles, de ſ'approcher de leur pere, & conuerſer charnel-",
+    "lement auecques luy {r}."
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. vxor. C.",
+    "de repud."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "c. in cũctis.",
+    "xj q. iij."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. tutor. D.",
+    "de meno. l ij.",
+    "D. quod falſ.",
+    "tutor. l. ij. C.",
+    "deb. ved. pig."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "l. vim paßã",
+    "de adulter."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "l. vim paßã",
+    "alleguee."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. fœdißimã",
+    "C. de adulter."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "l. j. P j. D.",
+    "de eo per quẽ",
+    "fac. er. c. ſi q̃d",
+    "l. xxxvj. diſt."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "S. Ambroi-",
+    "ſe au ij. liure",
+    "des offices."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "c. innocente.",
+    "xxij q. iiij."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "c. ſine culpa.",
+    "de reg. iur. in",
+    "vj."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "Gen. c. xix."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "c. inebriaue-",
+    "runt. xv. q. j."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "croire ceux qui diſoyent le contratre: meſmement les",
+   "note": "sic: 'contratre' as printed (for 'contraire'); the letter after 'contra' looks like t"
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "perſonnes., qui n'y auoyent aucun intereſt {h}. attendu",
+   "note": "print shows a period followed by a comma after 'perſonnes'; transcribed both; the mark after {h} is a round dot (period)"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "calomnieuſe & fauſſe {i} Qui eſt vne raiſon qui vient en",
+   "note": "no punctuation visible after marker i; 'fauſſe' could be 'fauſſe' or 'fauſse' (double long-s ligature read)"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "conſideration grande,. & par laquelle Papinien excuſe",
+   "note": "comma followed by a dot after 'grande' as printed"
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "text": "manifeſter incontinent tel faict à ſon mari {k}. & l'Em-",
+   "note": "'manifeſter': the ſt looks like 'lt' (reads 'manifelter'); possibly a wrong sort, sic"
+  },
+  {
+   "where": "blocks[0].lines[24]",
+   "text": "donnoiẽt, l'erreur, & opinion du reſte de habitans d'Ar-",
+   "note": "'l'erreur' damaged, looks like 'l'eri eur'; 'de habitans' as printed (for 'des')"
+  },
+  {
+   "where": "blocks[0].lines[27]",
+   "text": "ri. Ioint que comme dit S. Ambroiſe, vn hõme de bien,",
+   "note": "mark after 'ri' blotted, read as period"
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "croit facilement {n}. & cette facilité ne procede que d'v-",
+   "note": "final t of 'facilement' blurred (looks like 'facilemeni')"
+  },
+  {
+   "where": "blocks[0].lines[30]",
+   "text": "Rols ſans coulpe {p}. n'y a ſuffiſante cauſe, ni aucun ſcan-",
+   "note": "line-end hyphen printed as a mid-height dot after a space"
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "text": "raiſons qu'elle auoit d'y adherer. L'argumẽt de l'hiſtoi-",
+   "note": "apostrophe in 'qu'elle' faint or absent (print may read 'qu elle')"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "re de Loth {q}, ne ſert rien ici, car Loth n'a eſté iugé onc",
+   "note": "mark after 'ici' read as comma, small"
+  },
+  {
+   "where": "margin_notes[2].lines[4]",
+   "text": "deb. ved. pig.",
+   "note": "dot after 'deb' faint"
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "text": "l. vim paßã",
+   "note": "italic ſs ligature transcribed as ß as printed; same in notes k and l"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "fac. er. c. ſi q̃d",
+   "note": "abbreviation mark sits over q/d; could be 'qd̃'"
+  },
+  {
+   "where": "margin_notes[7].lines[0]",
+   "text": "S. Ambroi-",
+   "note": "'S.' blotted; trailing hyphen mark over i uncertain"
+  },
+  {
+   "where": "margin_notes[7].lines[1]",
+   "text": "ſe au ij. liure",
+   "note": "'au' could read 'an'; 'liure' could read 'linre' (italic u/n)"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "de reg. iur. in",
+   "note": "last word blotted, looks like 'aie'/'au'; read 'in' (in vj.)"
+  },
+  {
+   "where": "margin_notes[10].lines[0]",
+   "text": "Gen. c. xix.",
+   "note": "'xix' blotted"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "& hors de tout ſoupçon {f}. Et pour brieuement reſou-",
+   "note": "line-end break sign after 'reſou' prints as a faint raised dot, taken as the hyphen"
+  },
+  {
+   "where": "blocks[0].lines[7]",
+   "text": "croire ceux qui diſoyent le contratre: meſmement les",
+   "note": "sic: 'contratre' (wrong sort, t for i)"
+  },
+  {
+   "where": "blocks[0].lines[8]",
+   "text": "perſonnes., qui n'y auoyent aucun intereſt {h}. attendu",
+   "note": "period and comma both printed after 'perſonnes'"
+  },
+  {
+   "where": "blocks[0].lines[11]",
+   "text": "uoir vne plus grande, ſi la denonciation ſe fuſt trouuee",
+   "note": "first letter blotted; read 'u'"
+  },
+  {
+   "where": "blocks[0].lines[12]",
+   "text": "calomnieuſe & fauſſe {i} Qui eſt vne raiſon qui vient en",
+   "note": "no clear punctuation after marker i; a tiny dot may follow it"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "conſideration grande,. & par laquelle Papinien excuſe",
+   "note": "comma and period both printed after 'grande'"
+  },
+  {
+   "where": "blocks[0].lines[27]",
+   "text": "ri. Ioint que comme dit S. Ambroiſe, vn hõme de bien,",
+   "note": "punctuation after 'ri' blotted; could be comma"
+  },
+  {
+   "where": "blocks[0].lines[32]",
+   "text": "raiſons qu'elle auoit d'y adherer. L'argumẽt de l'hiſtoi-",
+   "note": "apostrophe in qu'elle faint or absent ('qu elle')"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "re de Loth {q}, ne ſert rien ici, car Loth n'a eſté iugé onc",
+   "note": "mark after 'ici' small, comma or period"
+  },
+  {
+   "where": "margin_notes[2].lines[1]",
+   "text": "de meno. l ij.",
+   "note": "no visible period after 'l'"
+  },
+  {
+   "where": "margin_notes[2].lines[4]",
+   "text": "deb. ved. pig.",
+   "note": "possibly 'de b.'; 'ved' without visible tilde"
+  },
+  {
+   "where": "margin_notes[6].lines[2]",
+   "text": "fac. er. c. ſi q̃d",
+   "note": "abbreviation mark over q/d unclear (q̃d = quid)"
+  },
+  {
+   "where": "margin_notes[9].lines[1]",
+   "text": "de reg. iur. in",
+   "note": "'in' blotted, could read 'au'"
+  }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[0]",
+   "target": "blocks[0].lines[0]",
+   "spans": [
+    [
+     47,
+     53
+    ]
+   ],
+   "aligned": true,
+   "a": "& hors de tout ſoupçon {f}. Et pour brieuement reſou",
+   "b": "& hors de tout ſoupçon {f}. Et pour brieuement reſou-",
+   "text": "& hors de tout ſoupçon {f}. Et pour brieuement reſou-",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "resou-|dre is the word resoudre divided at the line end; the hyphen is the expected sign of division. Sense unaffected."
+  },
+  {
+   "where": "blocks[0].lines[15]",
+   "target": "blocks[0].lines[15]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "manifeſter incontinent tel faict à ſon mari {k}. & l'Em-",
+   "b": "manifelter incontinent tel faict à ſon mari {k}. & l'Em-",
+   "text": "manifeſter incontinent tel faict à ſon mari {k}. & l'Em-",
+   "chose": "A",
+   "by": "translator",
+   "status": "decided",
+   "reason": "manifester, 'to disclose' (manifester incontinent tel faict à son mari); manifelter is a misread of long s as l."
+  },
+  {
+   "where": "margin_notes[3].lines[0]",
+   "target": "margin_notes[3].lines[0]",
+   "spans": [
+    [
+     7,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "l. vim paßã",
+   "b": "l. vim paſſã",
+   "text": "l. vim paßã",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[4].lines[0]",
+   "target": "margin_notes[4].lines[0]",
+   "spans": [
+    [
+     7,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "l. vim paßã",
+   "b": "l. vim paſſã",
+   "text": "l. vim paßã",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[5].lines[0]",
+   "target": "margin_notes[5].lines[0]",
+   "spans": [
+    [
+     3,
+     11
+    ]
+   ],
+   "aligned": true,
+   "a": "l. fœdißimã",
+   "b": "l. fœdiſſimã",
+   "text": "l. fœdißimã",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "target": "margin_notes[6].lines[0]",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     11,
+     13
+    ]
+   ],
+   "aligned": true,
+   "a": "l. j. P j. D.",
+   "b": "l j. P j. D:",
+   "text": "l. j. P j. D.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

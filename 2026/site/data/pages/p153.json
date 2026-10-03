@@ -9,11 +9,465 @@
   "image_no": 173,
   "url": "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/173"
  },
- "running_head": null,
+ "running_head": "PARLEMENT DE THOLOSE.",
  "prev": "p152",
  "next": "p154",
- "english": null,
- "french": null,
- "french_notes": null,
- "uncertain": []
+ "english": [
+  {
+   "type": "paragraph",
+   "html": "child <sup class=\"mk\" data-key=\"e\">e</sup>. Whence, for our purpose, it would be an almost ridiculous thing, of pernicious and very bad example, that a man could make a debtor at his will, or otherwise prejudice him <sup class=\"mk\" data-key=\"f\">f</sup>. And that is why our Jurisconsults will not have credit given to one who is dying of a wound and charges another with having wounded him, if there is no proof from elsewhere <sup class=\"mk\" data-key=\"g\">g</sup>; although I would not deny that such a delation gives rise to some slight presumption against the one whom the dead man accuses <sup class=\"mk\" data-key=\"h\">h</sup>. For although, says Baldus, every man who is about to die is not Saint John the Evangelist, nevertheless it is not likely that he should be so wholly forgetful and so little mindful of his salvation, even at the extremity of his life <sup class=\"mk\" data-key=\"k\">k</sup>, as to wish to denounce another falsely <sup class=\"mk\" data-key=\"l\">l</sup>. I have said expressly \"some slight presumption\": for to say, with some, that the sole assertion of the murdered man, charging the accused, is sufficient indication for torture <sup class=\"mk\" data-key=\"m\">m</sup>, seems to me (I speak always under the censure of the more learned) to have neither sense nor appearance of reason. For besides that this manifestly contradicts and is repugnant to the words and reason of the laws which have spoken of it <sup class=\"mk\" data-key=\"n\">n</sup>, if it were true the wounded man would be a witness in his own cause, against the common decisions <sup class=\"mk\" data-key=\"o\">o</sup>; and nevertheless his testimony would be worth two, inasmuch as two witnesses are required to prove an indication for torture <sup class=\"mk\" data-key=\"p\">p</sup>; which would be, in one and the same matter, to introduce two special things, and far too irregular <sup class=\"mk\" data-key=\"q\">q</sup>. For the same reasons we say that if a witness, Judge or Notary, at the last breath of his life, confessed to having borne false witness <sup class=\"mk\" data-key=\"r\">r</sup>, pronounced a judgment <sup class=\"mk\" data-key=\"ſ\">ſ</sup>, or forged a false instrument <sup class=\"mk\" data-key=\"t\">t</sup>, for money or some other kind of corruption, credit would nonetheless not be given them to the prejudice of the party to whom the right was already acquired <sup class=\"mk\" data-key=\"u\">u</sup>. For the confession of one who is about to die cannot harm or prejudice another. Besides which there is a great presumption to the contrary: that the witness, Judge or Notary who has delayed until the article of his death to make such a confession has made it falsely, at the suggestion and subornation of some",
+   "continued": true,
+   "notes": [
+    {
+     "key": "e",
+     "citation": "Digest 22.3 (<i>De probationibus et praesumptionibus</i>), last law; Code 2.4 (<i>De transactionibus</i>), l. <i>Transactione</i>",
+     "original": "l. derniere D. de probat. l. trãſactione C. de trãſact.",
+     "gloss": "Fragment of the Code title not verified."
+    },
+    {
+     "key": "f",
+     "citation": "Digest 28.5 (<i>De heredibus instituendis</i>), l. <i>Paterfamilias</i>; Code 6.23 (<i>De testamentis</i>), l. <i>Verba</i>; Code 4.19 (<i>De probationibus</i>), l. <i>Exemplo</i> (C. 4.19.7); Decretum Gratiani C. 15 q. 3, last chapter",
+     "original": "l. paterfamilias. D. de hered. inſt. l. ver ba C. de teſta. l. exemplo. C. de probationibus. c. dern. xv. q. iij.",
+     "gloss": "C. 4.19.7: <i>Exemplo perniciosum est ut ei scripturae credatur qua unusquisque sibi adnotatione propria debitorem constituit</i> — it would be a pernicious example to credit a writing by which a man makes himself a debtor of his own hand; Coras's \"make a debtor at his will\" turns the rule round. The Digest and C. 6.23 fragments not verified."
+    },
+    {
+     "key": "g",
+     "citation": "Digest 29.5 (<i>De senatus consulto Silaniano et Claudiano</i>), l. 3 § 1 (D. 29.5.3.1, as cited)",
+     "original": "l. iij. P. j. D. ad Sillania.",
+     "gloss": "On the inquiry into a master's killing: the dying man's own charge against another is not proof by itself."
+    },
+    {
+     "key": "h",
+     "citation": "Code 9.46 (<i>De calumniatoribus</i>), l. <i>Mater</i>",
+     "original": "l. mater C. de calomniator.",
+     "gloss": "Fragment not verified."
+    },
+    {
+     "key": "k",
+     "citation": "Decretals, X 5.12 (<i>De homicidio voluntario vel casuali</i>), c. <i>Exhibita</i>",
+     "original": "c. exhibita de homicid.",
+     "gloss": "Chapter number not verified."
+    },
+    {
+     "key": "l",
+     "citation": "Code 9.27 (<i>Ad legem Iuliam repetundarum</i>), last law; Decretum Gratiani C. 1 q. 7, c. <i>Sancimus</i>",
+     "original": "l. derniere C. ad l. Iul repet. c. ſancimus. j. q. vij.",
+     "gloss": "Chapter number of <i>Sancimus</i> not verified."
+    },
+    {
+     "key": "m",
+     "citation": "Hippolytus de Marsiliis (<i>Hipolit. Marſil.</i>; Ippolito Marsili), <i>Practica causarum criminalium</i>, § <i>Diligenter</i>, no. 119",
+     "original": "Hipolit. Marſil. en ſa pratique. P. di ligẽter, nõbre cxix.",
+     "gloss": "The opinion that the dying victim's naming of his assailant is sufficient indication for torture."
+    },
+    {
+     "key": "n",
+     "citation": "Digest 29.5.3 § 1, as at {g}",
+     "original": "l. iij. P. j. D. ad Sillan.",
+     "gloss": null
+    },
+    {
+     "key": "o",
+     "citation": "Digest 22.5 (<i>De testibus</i>), l. <i>Nullus</i> (D. 22.5.10, Pomponius); Code 4.20 (<i>De testibus</i>), l. <i>Omnibus</i> (C. 4.20.10)",
+     "original": "l nullũ. D. de teſtibus. l. omnibus C. au meſme tiltre.",
+     "gloss": "<i>Nullus idoneus testis in re sua intellegitur</i>: no one is a competent witness in his own cause; <i>Omnibus in re propria dicendi testimonii facultatem iura submoverunt</i>."
+    },
+    {
+     "key": "p",
+     "citation": "Accursius (<i>Accurſe</i>), gloss on the last law of Code 5.11 (<i>De dotis promissione et nuda pollicitatione</i>; the print's <i>not.</i> read as <i>dot.</i>, as in the next note)",
+     "original": "Accurſe en la loy finale. C. de not. promiſſ.",
+     "gloss": "Cited for the rule that two witnesses are needed to prove an indication for torture; the gloss has not been checked."
+    },
+    {
+     "key": "q",
+     "citation": "Code 5.11 (<i>De dotis promissione</i>), law not named",
+     "original": "l. C. de dot. promiſſ.",
+     "gloss": "The siglum <i>l.</i> stands without an incipit; probably the same last law as the preceding note."
+    },
+    {
+     "key": "r",
+     "citation": "Decretals, X 2.20 (<i>De testibus et attestationibus</i>), cc. <i>Sicut</i> and <i>Cum in tua</i>",
+     "original": "c ſicut. c. cũ in tua. de teſt.",
+     "gloss": "Chapter numbers not verified."
+    },
+    {
+     "key": "ſ",
+     "citation": "Innocent IV (<i>Innocent</i>) on c. <i>Cum dilecti</i>, Decretals (the printed rubric <i>de dilectio.</i> is corrupt; perhaps X 1.6, <i>De electione</i>); Bartolus (<i>Bart.</i>) on D. 29.5.3 § 1, already cited at {g}",
+     "original": "Innocent c. cũ dilecti de | dilectio. Bart. l. iij. P. j. preallegué.",
+     "gloss": "The note is set in two pieces in the margin; the second, unkeyed in the transcription, is the continuation of the first and is merged here."
+    },
+    {
+     "key": "t",
+     "citation": "Baldus (<i>Bal.</i>) on the Authentica <i>Si testibus</i> under Code 4.20 (<i>De testibus</i>); Angelus (<i>Ange</i>; probably Angelus de Ubaldis, Baldus's brother, the commentator on the Code) on l. <i>Errore</i>, Code 6.23 (<i>De testamentis</i>); Paulus de Castro (<i>Paul. de Caſtro</i>) on l. <i>Seia</i>, Digest 16.1 (<i>Ad senatus consultum Velleianum</i>)",
+     "original": "Bal en l'autent. ſi teſtibus. C. de teſtibus. Ange. en la l. errore c de teſtam paul. de Caſtro cõ⟨alt:en⟩ la l. Seia. D. ad Velleia.",
+     "gloss": "The authentica and the two fragments not verified; <i>cõ</i> read as <i>en</i>, see the report."
+    },
+    {
+     "key": "u",
+     "citation": "Digest 2.10 (<i>De eo per quem factum erit quominus quis in iudicio sistat</i>), l. 1 (D. 2.10.1)",
+     "original": "l. j. D. de eo per quem fac. er.",
+     "gloss": null
+    },
+    {
+     "key": "i",
+     "citation": "Baldus (<i>Balde</i>) on the <i>Libri feudorum</i>, title <i>De pace Constantiae</i>, c. 1, § <i>Vassalli</i>",
+     "original": "Bald. au c j. P. vaſſalli de pace. cõſtãtiæ aux feudes.",
+     "gloss": "Baldus's commentary on the Peace of Constance appended to the Books of Fiefs; the source of the saying that a dying man is not Saint John the Evangelist."
+    }
+   ]
+  }
+ ],
+ "french": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": true,
+   "lines": [
+    "fant {e}. Dont à noſtre propos ce ſeroit vne choſe preſque",
+    "ridicule, de pernicieux & fort mauuais exemple, que",
+    "l'homme peuſt faire vn debiteur à ſa volõté, ou autre-",
+    "ment luy preiudicier {f}. Et voila pourquoy nos Iuriſ-",
+    "conſultes ne veulent point qu'on donne foy à celuy",
+    "qui ſ'en va mourir de bleſſeure, & charge vn autre de",
+    "l'auoir bleſſé, ſ'il n'y a preuue d'ailleurs {g}. Bien que ie",
+    "ne vueille nier, que telle delation ne face naiſtre quel-",
+    "que preſumption legiere cõtre celuy, que le mort accu-",
+    "ſe {h}. Car iaçoit, que tout homme qui ſ'en va mourir, dit",
+    "le Balde, ne ſoit point S. Iean Euangeliſte. Toutesfois",
+    "n'eſt il vray ſemblable, qu'il ſoit du tout ſi oublieux,",
+    "& peu ſouuenant de ſon ſalut, meſmes en l'extremité",
+    "de ſa vie {k}. qu'il vueille denoncer vn autre fauſſemẽt {l}.",
+    "I'ay dit notamment quelque legere preſumption: Car",
+    "de dire auec quelques vns, que l'aſſertion ſeule du",
+    "meurtre, chargeant l'accuſé, fuſt ſuffiſant indice pour la",
+    "torture {m}: me ſemble (ie parle touſiours ſous la cenſu",
+    "re des plus doctes) n'auoir propos ni apparence. Car",
+    "outre que cela manifeſtement contredit, & repugne",
+    "aux paroles, & raiſon des loix qui en ont parlé {n}: ſi cela",
+    "eſtoit veritable, le bleſſé ſeroit teſmoin en ſa cauſe pro-",
+    "pre, contre les deciſions vulgaires {o}: & neantmoins ſon",
+    "teſmoignage vaudroit deux: d'autãt que deux teſmoins",
+    "ſont deſirez à prouuer vn indice de torture {p}: qui ſeroit",
+    "en vn meſme fait, introduire deux choſes ſpeciales, &",
+    "par trop irregulieres {q}. Par meſmes raiſons, nous diſons",
+    "que ſi vn teſmoin, Iuge, ou Notaire, au dernier ſouſpir",
+    "de ſa vie confeſſoit auoir porté faux teſmoignage {r},",
+    "prononcé ſentente {ſ}, ou forgé faux inſtrument {t}, par ar-",
+    "gent, ou autre eſpece de corruption, il ne leur ſeroit",
+    "pourtant donné foy, au preiudice de la partie: à laquel-",
+    "le le droit eſtoit ia acquis {u}. Car la confeſſion de celuy,",
+    "qui ſ'en va mourir, ne peut nuire, ou preiudicier à au-",
+    "truy. Outre qu'il y a grande preſumption au contraire,",
+    "que le teſmoin, Iuge, ou Notaire, qui a differé iuſques",
+    "à l'article de ſa mort faire telle confeſſion, ne l'aye fai-",
+    "te fauſſement, à la ſuggeſtion & ſubornation de quel-"
+   ]
+  }
+ ],
+ "french_notes": [
+  {
+   "key": "e",
+   "kind": "margin",
+   "lines": [
+    "l. derniere",
+    "D. de probat.",
+    "l. trãſactione",
+    "C. de trãſact."
+   ]
+  },
+  {
+   "key": "f",
+   "kind": "margin",
+   "lines": [
+    "l. paterfami-",
+    "lias. D. de he-",
+    "red. inſt. l. ver",
+    "ba C. de teſta.",
+    "l. exemplo. C.",
+    "de probatio-",
+    "nibus. c. dern.",
+    "xv. q. iij."
+   ]
+  },
+  {
+   "key": "g",
+   "kind": "margin",
+   "lines": [
+    "l. iij. P. j. D.",
+    "ad Sillania."
+   ]
+  },
+  {
+   "key": "h",
+   "kind": "margin",
+   "lines": [
+    "l. mater C.",
+    "de calomnia-",
+    "tor."
+   ]
+  },
+  {
+   "key": "i",
+   "kind": "margin",
+   "lines": [
+    "Bald. au c j.",
+    "P. vaſſalli de",
+    "pace. cõſtãtiæ",
+    "aux feudes."
+   ]
+  },
+  {
+   "key": "k",
+   "kind": "margin",
+   "lines": [
+    "c. exhibita",
+    "de homicid."
+   ]
+  },
+  {
+   "key": "l",
+   "kind": "margin",
+   "lines": [
+    "l. derniere",
+    "C. ad l. Iul re-",
+    "pet. c. ſanci-",
+    "mus. j. q. vij."
+   ]
+  },
+  {
+   "key": "m",
+   "kind": "margin",
+   "lines": [
+    "Hipolit.",
+    "Marſil. en ſa",
+    "pratique. P. di",
+    "ligẽter, nõbre",
+    "cxix."
+   ]
+  },
+  {
+   "key": "n",
+   "kind": "margin",
+   "lines": [
+    "l. iij. P. j. D.",
+    "ad Sillan."
+   ]
+  },
+  {
+   "key": "o",
+   "kind": "margin",
+   "lines": [
+    "l nullũ. D.",
+    "de teſtibus. l.",
+    "omnibus C. au",
+    "meſme tiltre."
+   ]
+  },
+  {
+   "key": "p",
+   "kind": "margin",
+   "lines": [
+    "Accurſe en",
+    "la loy finale.",
+    "C. de not. pro-",
+    "miſſ."
+   ]
+  },
+  {
+   "key": "q",
+   "kind": "margin",
+   "lines": [
+    "l. C. de dot.",
+    "promiſſ."
+   ]
+  },
+  {
+   "key": "r",
+   "kind": "margin",
+   "lines": [
+    "c ſicut. c. cũ",
+    "in tua. de teſt."
+   ]
+  },
+  {
+   "key": "ſ",
+   "kind": "margin",
+   "lines": [
+    "Innocent c.",
+    "cũ dilecti de"
+   ]
+  },
+  {
+   "key": null,
+   "kind": "foot",
+   "lines": [
+    "dilectio. Bart. l. iij. P. j. preallegué."
+   ]
+  },
+  {
+   "key": "t",
+   "kind": "foot",
+   "lines": [
+    "Bal en l'autent. ſi teſtibus. C. de teſtibus. Ange.",
+    "en la l. errore c de teſtam paul. de Caſtro en la l. Seia. D. ad Velleia."
+   ]
+  },
+  {
+   "key": "u",
+   "kind": "foot",
+   "lines": [
+    "l. j. D. de eo per quem fac. er."
+   ]
+  }
+ ],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "le Balde, ne ſoit point S. Iean Euangeliſte. Toutesfois",
+   "note": "marker i not visible anywhere in the body, though margin note i (Bald. au c j. ...) is printed; most likely belonged after 'Balde' or 'Euangeliſte'; missing marker i"
+  },
+  {
+   "where": "foot_notes[0]",
+   "text": "dilectio. Bart. l. iij. P. j. preallegué.",
+   "note": "unkeyed first foot line is the continuation of margin note ſ (margin ends 'cũ dilecti de'); recorded as key null because duplicate key ſ is not allowed; arbiter to merge into margin note ſ"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "meurtre, chargeant l'accuſé, fuſt ſuffiſant indice pour la",
+   "note": "'accu ſé' set with a gap, closed up; first letter of 'ſuffiſant' looks like a broken ſ or l"
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "de ſa vie confeſſoit auoir porté faux teſmoignage {r},",
+   "note": "'confeſſoit': ſſ vs ſs after 'confe' not certain"
+  },
+  {
+   "where": "blocks[0].lines[31]",
+   "text": "pourtant donné foy, au preiudice de la partie: à laquel-",
+   "note": "'de' before 'la partie' badly inked, d barely visible"
+  },
+  {
+   "where": "blocks[0].lines[22]",
+   "text": "pre, contre les deciſions vulgaires {o}: & neantmoins ſon",
+   "note": "'neantmoins' m damaged; marker o small, colon after it"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "qui ſ'en va mourir, ne peut nuire, ou preiudicier à au-",
+   "note": "'qui' u damaged, looks like broken sort"
+  },
+  {
+   "where": "margin_notes[1].lines[7]",
+   "text": "xv. q. iij.",
+   "note": "printed 'iÿ' (i + ij form); read as iij; same for 'l. iij.' in notes g, n and foot line of ſ, and 'vij' in note l"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "pace. cõſtãtiæ",
+   "note": "final letter read as æ ligature; could be plain 'a'"
+  },
+  {
+   "where": "margin_notes[0].lines[1]",
+   "text": "D. de probat.",
+   "note": "D (Digest) is printed as a swash italic D throughout the notes"
+  },
+  {
+   "where": "blocks[0].lines[10]",
+   "text": "le Balde, ne ſoit point S. Iean Euangeliſte. Toutesfois",
+   "note": "marker i: no marker letter i visible in the body (expected near 'le Balde' / 'Euangeliſte'), but margin note i (Bald. au c j. ...) is printed; marker missing or not seen"
+  },
+  {
+   "where": "blocks[0].lines[16]",
+   "text": "meurtre, chargeant l'accuſé, fuſt ſuffiſant indice pour la",
+   "note": "first letter of 'ſuffiſant' looks like 'l' (nub of long s faint or wrong sort 'luffiſant'?); print sets 'accu ſé' with a gap, closed up"
+  },
+  {
+   "where": "blocks[0].lines[21]",
+   "text": "eſtoit veritable, le bleſſé ſeroit teſmoin en ſa cauſe pro-",
+   "note": "'en' looks like 'ea' or damaged n; possible wrong sort"
+  },
+  {
+   "where": "blocks[0].lines[28]",
+   "text": "de ſa vie confeſſoit auoir porté faux teſmoignage {r},",
+   "note": "'confeſſoit': ſſ vs ſs uncertain; second glyph tall, read as ſ; same question for 'confeſſion' in lines 32 and 36"
+  },
+  {
+   "where": "blocks[0].lines[25]",
+   "text": "en vn meſme fait, introduire deux choſes ſpeciales, &",
+   "note": "'meſme' m looks like 'ine' (meſine?); likely worn m, read as meſme; same in note o 'meſme tiltre'"
+  },
+  {
+   "where": "blocks[0].lines[31]",
+   "text": "pourtant donné foy, au preiudice de la partie: à laquel-",
+   "note": "'de' before 'la partie' has a damaged/broken d, prints like 'ᶜe'"
+  },
+  {
+   "where": "blocks[0].lines[33]",
+   "text": "qui ſ'en va mourir, ne peut nuire, ou preiudicier à au-",
+   "note": "'qui' at line start has a malformed u (blotted, could be a wrong sort)"
+  },
+  {
+   "where": "blocks[0].lines[13]",
+   "text": "de ſa vie {k}. qu'il vueille denoncer vn autre fauſſemẽt {l}.",
+   "note": "lowercase 'qu'il' after period as printed; 'fauſſemẽt' tilde over e"
+  },
+  {
+   "where": "blocks[0].lines[14]",
+   "text": "I'ay dit notamment quelque legere preſumption: Car",
+   "note": "'notamment' second m looks odd (mm set loosely); 'preſumption' final n blotted"
+  },
+  {
+   "where": "foot_notes[0].lines[0]",
+   "text": "dilectio. Bart. l. iij. P. j. preallegué.",
+   "note": "continuation of margin note ſ (margin ends 'cũ dilecti de'); this line is printed in the foot block, on the same printed line as the start of note t, and is appended to note ſ here to avoid a duplicate key"
+  },
+  {
+   "where": "foot_notes[1].lines[1]",
+   "text": "en la l. errore c de teſtam paul. de Caſtro en la l. Seia. D. ad Velleia.",
+   "note": "no period visible after 'teſtam'; 'en' before 'la l. Seia' blotted; capital V of 'Velleia' is a swash form; 'Bal' in first line has no period"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "pace. cõſtãtiæ",
+   "note": "tildes over o and a, æ ligature at end; reading of æ somewhat uncertain"
+  },
+  {
+   "where": "foot_notes[2].lines[0]",
+   "text": "l. j. D. de eo per quem fac. er.",
+   "note": "'er.' could be 'et.'; read as er"
+  }
+ ],
+ "readings": [
+  {
+   "where": "foot_notes[1].lines[1]",
+   "target": "foot_notes[1].lines[1]",
+   "spans": [
+    [
+     44,
+     46
+    ]
+   ],
+   "aligned": true,
+   "a": "en la l. errore c de teſtam paul. de Caſtro cõ la l. Seia. D. ad Velleia.",
+   "b": "en la l. errore c de teſtam paul. de Caſtro en la l. Seia. D. ad Velleia.",
+   "text": "en la l. errore c de teſtam paul. de Caſtro en la l. Seia. D. ad Velleia.",
+   "chose": "B",
+   "by": "translator",
+   "status": "decided",
+   "reason": "en la l. Seia: the margin's regular formula for a commentator on a law (Ange. en la l. errore ... Paul. de Castro en la l. Seia); cõ is no word here"
+  },
+  {
+   "where": "margin_notes[13]",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "[ſ] Innocent c.\ncũ dilecti de\n[–] dilectio. Bart. l. iij. P. j. preallegué.",
+   "b": "[ſ] Innocent c.\ncũ dilecti de\ndilectio. Bart. l. iij. P. j. preallegué.",
+   "text": "[ſ] Innocent c.\ncũ dilecti de\n[–] dilectio. Bart. l. iij. P. j. preallegué.",
+   "chose": null,
+   "by": "auto",
+   "status": "open",
+   "reason": null
+  }
+ ]
 }

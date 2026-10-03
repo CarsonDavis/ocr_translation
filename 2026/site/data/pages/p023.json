@@ -245,5 +245,43 @@
    "text": "actio. empe.",
    "note": "the last letter before the point is a round low sort with no stem, so certainly not the t of 'empt.' (margin-3.jpg y~985-1020, checked at 6x); it is read as e but could be an open c. Sense wants 'empt.' (de actione empti); transcribed as printed."
   }
+ ],
+ "readings": [
+  {
+   "where": "blocks[0].lines[1]",
+   "target": "blocks[0].lines[1]",
+   "spans": [
+    [
+     4,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "peu ſen falut, qu'au temps de Cornelius Sylla, ne fiſt",
+   "b": "peu ſ'en falut, qu'au temps de Cornelius Sylla, ne fiſt",
+   "text": "peu ſ'en falut, qu'au temps de Cornelius Sylla, ne fiſt",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 3x a distinct raised tick stands between ſ and e at apostrophe height, separate from the ſ nub; the ſ of 'hiſtoire' on the line above has no such mark, so an apostrophe is printed"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "target": "margin_notes[1].lines[1]",
+   "spans": [
+    [
+     0,
+     5
+    ]
+   ],
+   "aligned": true,
+   "a": "liure ix. ſ. xvi",
+   "b": "liurc ix. ſ. xvi",
+   "text": "liurc ix. ſ. xvi",
+   "chose": "B",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "at 3x the final letter of the word is an open c with no eye, unlike the closed e of 'Valere' directly above; wrong sort transcribed as printed"
+  }
  ]
 }

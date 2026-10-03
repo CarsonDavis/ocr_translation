@@ -1,0 +1,10 @@
+---
+id: texte-40
+pages: [p061]
+---
+⟦p061⟧In the second place, there are witnesses who were at the wedding of the said Martin and de Rols, and especially one Catherine Boëre, who brought at midnight the collation (which they called the *réveil* [the midnight visit to the bridal bed with food and drink]), who obstinately assures that it is he who married the said de Rols, and whom she found lying in bed with her. Thirdly, the better part of the witnesses give marks and conjectures that are invincible, to wit, that Martin Guerre had two extra teeth in the upper jaw, a scar on the forehead, the nail of the first finger sunken, three warts on the right hand, another on the little finger, and a drop of blood in the left eye; which marks have all been found on the prisoner.
+
+## Notes
+The print heads this section TEXTE. on p061, after Annotation XXXIX. The print reads *Rols* (not *Rois*) twice on this page, as the transcription verified. *Le reſueil* is the *réveille* of the glossary (Coras prints *reſueil*), kept in French and glossed in brackets on this first use; *collation* → "collation" (a light meal); *ſur la minuict* → "at midnight". *Obſtinément aſſeure* → "obstinately assures" (Davis: "obstinately assured"); *qu'elle trouua couché auec elle* → "whom she found lying in bed with her". *La meilleure partie des teſmoins* → "the better part of the witnesses"; *marques & coniectures inuincibles* → "marks and conjectures that are invincible" (*marques* → marks per the glossary); *ſoubredens* (*surdents*, supernumerary teeth) → "extra teeth"; *la machoire de deſſus* → "the upper jaw"; *vne ongle du premier doigt enfoncée* → "the nail of the first finger sunken" (the forefinger; Davis: "the nail of his first finger sunk in"); *verrues* → "warts", the word Annotation XL turns on; *goute de ſang à l'œil gauche* → "a drop of blood in the left eye" (a red spot on the white of the eye).
+
+- (none: this section carries no marginal citations; the notes *f* and *g* on p061 belong to Annotation XXXIX.)

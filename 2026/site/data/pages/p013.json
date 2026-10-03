@@ -184,5 +184,20 @@
    "where": "margin_notes",
    "note": "only two margin notes on the page, keyed e and f, and both markers are present in the body (lines[21] and lines[34]). The alphabet therefore runs a–d on the preceding pages of this annotation and continues past f on the next; nothing is missing here. The top of the margin column (margin-1.jpg) and its foot (margin-4.jpg) are blank apart from show-through from the verso."
   }
+ ],
+ "readings": [
+  {
+   "where": "page",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "",
+   "b": "",
+   "text": "",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "single disagreement: l'année is printed with a justification gap inside the word (l'anné e); reader B took the gap for an extra letter; Carson-session at 1.3x"
+  }
  ]
 }

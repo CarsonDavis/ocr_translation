@@ -114,13 +114,13 @@
     "profeſsion auec nous d'intime amitié, & ſe monſtrent,",
     "exterieurement pluſque noſtres, deſquels neantmoins l'e",
     "prit & l'entendement eſt deſloyal: plein de de toute pro",
-    "dition, & de toutes parts noſtre aduerſaire: & ſous l'hon",
+    "dition, & de toutes parts noſtré aduerſaire: & ſous l'hon",
     "neſte manteau d'amitié, ſont nos grans ennemis: plus",
     "mauuais certes, & dangereux, que ceux qui pour tels",
     "ouuertement ſe declarent {f}. Car quelle peſte pourroit",
     "on ſonger plus violente, pernicieuſe, ni plus efficace à",
     "nuire, qu'vn familier ennemy {g}, lequel nous à irrepara-",
-    "blemẽt offenſez, auant que ſe doubter de luy? ou toutes",
+    "blemẽt offenſez, auant que ſe doubter de luy? ou toures",
     "fois, nous pouuons facilemẽt euiter celuy, qui ouuerte-",
     "ment ſe monſtre noſtre aduerſaire {h}. Voila pourquoy:",
     "faut bien eſtre prudent, à choiſir vn ami. & manger vn",
@@ -307,6 +307,121 @@
    "where": "margin_notes[8].lines[1]",
    "text": "C de ſeruit.",
    "note": "no point visible after the C (reader B); transcribed as printed."
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "text": "dition, & de toutes parts noſtré aduerſaire: & ſous l'hon",
+   "note": "sic noſtré (acute over final e), as printed"
+  },
+  {
+   "where": "blocks[1].lines[13]",
+   "text": "blemẽt offenſez, auant que ſe doubter de luy? ou toures",
+   "note": "sic toures (r for t, = toutes-|fois), wrong sort"
+  }
+ ],
+ "readings": [
+  {
+   "where": "margin_notes[2].lines[2]",
+   "target": "margin_notes[2].lines[2]",
+   "spans": [
+    [
+     0,
+     8
+    ]
+   ],
+   "aligned": true,
+   "a": "mentemẽt D.",
+   "b": "mencemẽt D.",
+   "text": "mentemẽt D.",
+   "chose": "A",
+   "by": "reconciler",
+   "status": "decided",
+   "reason": "margin-2.jpg y~85-160 at 4x: the fourth letter has a crossbar, it is a t; 'mentemẽt' sic for 'mencemẽt'"
+  },
+  {
+   "where": "blocks",
+   "target": null,
+   "spans": null,
+   "aligned": false,
+   "a": "heading",
+   "b": "heading",
+   "text": "paragraph",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "conventions §6 ruling: verse quotations are paragraph blocks, not headings (consistent with p009, p021)"
+  },
+  {
+   "where": "blocks[1].lines[4]",
+   "target": "blocks[1].lines[4]",
+   "spans": [
+    [
+     0,
+     10
+    ]
+   ],
+   "aligned": true,
+   "a": "profeſſion",
+   "b": "profeſſion",
+   "text": "profeſsion",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "spot-check (Fable) found a shared reader error; Carson-session confirmed at 3x: second s is round"
+  },
+  {
+   "where": "blocks[3].lines[0]",
+   "target": "blocks[3].lines[0]",
+   "spans": [
+    [
+     20,
+     25
+    ]
+   ],
+   "aligned": true,
+   "a": "reng, que",
+   "b": "reng, que",
+   "text": "reng. que",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "spot-check found a shared reader error; confirmed at 3x: round baseline dot, no tail"
+  },
+  {
+   "where": "blocks[1].lines[7]",
+   "target": "blocks[1].lines[7]",
+   "spans": [
+    [
+     26,
+     32
+    ]
+   ],
+   "aligned": true,
+   "a": "noſtre aduerſaire",
+   "b": "noſtre aduerſaire",
+   "text": "noſtré aduerſaire",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "single-pass pilot 2026-09-24 (docs/checks/pilot-2026-09-24.md): both Opus re-reads had it, earlier readers had silently normalized; coordinator confirmed at 3x: acute stroke over the final e of noſtré; transcribed as printed"
+  },
+  {
+   "where": "blocks[1].lines[13]",
+   "target": "blocks[1].lines[13]",
+   "spans": [
+    [
+     49,
+     55
+    ]
+   ],
+   "aligned": true,
+   "a": "ou toutes",
+   "b": "ou toutes",
+   "text": "ou toures",
+   "chose": "neither",
+   "by": "carson",
+   "status": "decided",
+   "reason": "single-pass pilot 2026-09-24 (docs/checks/pilot-2026-09-24.md): both Opus re-reads had it, earlier readers had silently normalized; coordinator confirmed at 3x: the fourth letter is an r sort with no crossbar; wrong sort, transcribed as printed"
   }
  ]
 }

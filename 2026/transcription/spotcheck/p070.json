@@ -1,0 +1,168 @@
+{
+  "id": "p070",
+  "reader": "spotcheck",
+  "model": "claude-fable-5-1",
+  "running_head": "ARREST DV",
+  "folio": "70",
+  "signature": null,
+  "catchword": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "continues_prev": true,
+      "continues_next": false,
+      "lines": [
+        "eſté ratifié par ladite de Rols: & par ainſi tout ce qu'a-",
+        "uoit eſté fait par luy cõfirmé, & approuué {e}. attendu ſin",
+        "gulierement que les actes de procureur, faits par ledit",
+        "Guerre, auant la charge ou procuration de ladite de",
+        "Rols, ont eſté faits par authorité du Iuge de Rieux: ce",
+        "que vient en quelque conſideration: car ſ'ils auoiẽt eſté",
+        "faits par authorité de la cour, cela euſt peu receuoir",
+        "quelque doute: partant que la loy a en ſi grande horreur",
+        "& deteſtation l'obreption, & faute cõmiſe au cõſiſtoire",
+        "du prince {f}, que ce qui eſt fait par vn procueur faux en",
+        "l'auditoire du prince, ne peut eſtre (ainſi que pluſieurs",
+        "penſent) confirmé par aucune ratification ſuyuante {g},"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "TEXTE.",
+      "spaced_caps": true
+    },
+    {
+      "type": "paragraph",
+      "continues_prev": false,
+      "continues_next": false,
+      "lines": [
+        "Ce que vray-ſemblablement ne pro-",
+        "cedoit de ladite de Rols, pour les raiſons",
+        "que deſſus: & attendu meſmement les",
+        "offices, deſquelles elle auoit vſé enuers",
+        "le priſonnier la nuict au parauant. Car in",
+        "continent apres qu'il fut reprins, elle luy",
+        "enuoya ſes accouſtremens, & de l'ar-",
+        "gent pour viure."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "ANNOTAT. XLIX.",
+      "spaced_caps": true
+    },
+    {
+      "type": "paragraph",
+      "continues_prev": false,
+      "continues_next": false,
+      "lines": [
+        "Ce n'eſtoit pas donc ſigne que ladite de Rols vou-",
+        "luſt pour lors faire partie audit preuenu: ni qu'elle le",
+        "penſaſt autre que Martin Guerre, puis qu'elle le ſecou-",
+        "roit ſi officieuſement,"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "TEXTE.",
+      "spaced_caps": true
+    },
+    {
+      "type": "paragraph",
+      "continues_prev": false,
+      "continues_next": true,
+      "lines": [
+        "Et en ceſte ſentence, que le priſon-",
+        "nier fuſt Martin Guerre, la cour a-",
+        "uoit grande raiſon d'incliner: non ſeu-",
+        "lement pource que dit eſt, mais pour",
+        "autant encor, que ceſte opinion fauori-",
+        "ſoit le mariage, les enfans qui en ſont"
+      ]
+    }
+  ],
+  "margin_notes": [
+    {
+      "key": "e",
+      "beside_line": "uoit eſté fait par luy cõfirmé, & approuué {e}. attendu ſin",
+      "lines": [
+        "l. licet. D. de",
+        "Iud. l. iij. P. fal",
+        "ſus. D. rem ra.",
+        "hab."
+      ]
+    },
+    {
+      "key": "f",
+      "beside_line": "que vient en quelque conſideration: car ſ'ils auoiẽt eſté",
+      "lines": [
+        "l. finale. C.",
+        "de iis qui à nõ",
+        "do. man."
+      ]
+    },
+    {
+      "key": "g",
+      "beside_line": "quelque doute: partant que la loy a en ſi grande horreur",
+      "lines": [
+        "Balde en la",
+        "l. falſus. C. de",
+        "fur. Panorme",
+        "au c. nonnul-",
+        "li. P. ſunt & a",
+        "lij. de reſcrip."
+      ]
+    }
+  ],
+  "foot_notes": [],
+  "ornaments": [],
+  "uncertain": [
+    {
+      "where": "blocks[0].lines[9]",
+      "text": "du prince {f}, que ce qui eſt fait par vn procueur faux en",
+      "note": "sic: 'procueur' for procureur; at 3x the letters are p-r-o-c-u-e-u-r with no second r between c and u. Transcribed as printed."
+    },
+    {
+      "where": "blocks[3]",
+      "text": "ANNOTAT. XLIX.",
+      "note": "the I of the numeral is printed as a sort shaped like an exclamation mark (a tapering stroke over a separate dot), not the plain capital I of ANNOTAT.; wrong or damaged sort. Read as I (XLIX is the expected number after XLVIII); transcribed as XLIX.",
+      "escalate": true
+    },
+    {
+      "where": "blocks[4].lines[2]",
+      "text": "penſaſt autre que Martin Guerre, puis qu'elle le ſecou-",
+      "note": "the second r of 'Guerre' prints as a bare vertical stem with serifs top and bottom and no shoulder (at 8x); either a worn r or a wrong sort (dotless i / t without crossbar, i.e. 'Guerie'/'Guerte'). Read as Guerre. Also a reddish-brown speck (foxing, not ink) sits between 'que' and 'Martin' at the baseline; not transcribed.",
+      "escalate": true
+    },
+    {
+      "where": "blocks[4].lines[3]",
+      "text": "roit ſi officieuſement,",
+      "note": "the final mark is a blob with a short tail to the lower left, unlike the round dot that ends 'viure.'; read as a comma by shape although the sense (end of the annotation) wants a period. Could be a period with a burr."
+    },
+    {
+      "where": "margin_notes[0]",
+      "text": "l. licet. D. de",
+      "note": "the key letter of this note is printed as a thick blob with no legible letter shape; read as 'e' from the body marker sequence (p068 ended at g, p069 restarted a-d, this page continues e, f, g)."
+    },
+    {
+      "where": "margin_notes[0].lines[2]",
+      "text": "ſus. D. rem ra.",
+      "note": "'ra.' — the first letter has a stem with a hooked top and no crossbar, read as italic r (rem ratam habere); the italic t of this fount can look similar, so 'ta.' is possible."
+    },
+    {
+      "where": "margin_notes[1].lines[1]",
+      "text": "de iis qui à nõ",
+      "note": "'iis' (= his, C. de his qui a non domino manumissi sunt): the middle glyph is a second i; 'ius' cannot be wholly excluded at this size."
+    },
+    {
+      "where": "margin_notes[2].lines[2]",
+      "text": "fur. Panorme",
+      "note": "the initial of 'Panorme' is the swash italic capital P (the same sort used for the paragraph sign in 'P. fal' and 'P. ſunt'); transcribed as P."
+    },
+    {
+      "where": "blocks[0].lines[0]",
+      "text": "eſté ratifié par ladite de Rols: & par ainſi tout ce qu'a-",
+      "note": "page opens mid-sentence continuing p069 ('Pierre Guerre du commencement, faux procureur, a' / 'eſté ratifié'). Line-end word-break signs on this page are mostly raised dots (vou·, ſecou·, a·, ſeu·, fauori·, l'ar·); all transcribed as '-' per §1."
+    }
+  ]
+}

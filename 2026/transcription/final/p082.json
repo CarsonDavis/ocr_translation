@@ -1,0 +1,185 @@
+{
+ "id": "p082",
+ "reader": "final",
+ "model": "arbitration",
+ "running_head": "ARREST DV",
+ "folio": "82",
+ "signature": null,
+ "catchword": null,
+ "ornaments": [],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "continues_prev": true,
+   "continues_next": false,
+   "lines": [
+    "n'eſt pas choſe nouuelle, que deux per-",
+    "ſonnes ſe rapportent, non ſeulement",
+    "des traicts, & lineamens du viſaige: mais",
+    "encore de quelques ſignes particuliers",
+    "du corps."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXI.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Qu'il ſoit ainſi, Sura Romain, eſtant procouſul en",
+    "Sicile, trouua illec vn pauure peſcheur, du tout à luy",
+    "ſemblable: non ſeulement de la groſſeur & grandeur",
+    "du corps, des traicts de la bouche, & lineamens du viſa-",
+    "ge: mais auſſi des geſtes, & contenances, & de ie ne ſçay",
+    "quelle ouuerture de bouche, qu'iceluy Sura auoit pro",
+    "pre & particuliere en riant, ou en parlant. voire d'eſtre",
+    "begue, comme luy {a}. Ainſi eſtoit du pere du grand Põ-",
+    "pée, auec ſon cuiſinier. Comme nous dirons ci apres {b}."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TEXTE.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": false,
+   "lines": [
+    "Et de dire, que par les enqueſtes eſt rap",
+    "porté le bruit eſtre audit lieu d'Artigat,",
+    "que Pierre Guerre, & ſes gendres, con-",
+    "traignoyent ladite de Rols faire la pour-",
+    "ſuite: eſt reſpondu, que la preuue par",
+    "bruit & fame n'eſt pas receuë, ſinon en",
+    "certains cas, qui ne ſe pourroient accom-",
+    "moder ici."
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "ANNOTAT. LXII.",
+   "spaced_caps": true
+  },
+  {
+   "type": "paragraph",
+   "continues_prev": false,
+   "continues_next": true,
+   "lines": [
+    "Partant que les mauuais, trop licencieux, & virulẽts",
+    "n'ont iamais eſpargné leur puante & infecte langue, à",
+    "detracter des gens de bien & de vertu, on a veu ſou-",
+    "uent aduenir, que par leurs venimeuſes maledicences,",
+    "vn homme de bien a eſté diffamé d'vn fait, auquel il",
+    "n'euſt voulu penſer pour ſa vie. & neantmoins tel bruit",
+    "iniuſtement eſpandu, le notoit enuers pluſieurs perſon-",
+    "nes trop procliues à mal ſentir de leur prochain: ſelon",
+    "l'opinion ſeule deſquelles pourtant ne ſeroit raiſonna-"
+   ]
+  }
+ ],
+ "margin_notes": [
+  {
+   "key": "a",
+   "beside_line": "begue, comme luy {a}. Ainſi eſtoit du pere du grand Põ-",
+   "lines": [
+    "Pline au li.",
+    "vij. c. xxiij. Va",
+    "lere au liu. ix.",
+    "c. vx."
+   ]
+  },
+  {
+   "key": "b",
+   "beside_line": "Et de dire, que par les enqueſtes eſt rap",
+   "lines": [
+    "En l'annota",
+    "tion lxiij."
+   ]
+  }
+ ],
+ "foot_notes": [],
+ "uncertain": [
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "n'eſt pas choſe nouuelle, que deux per-",
+   "note": "first line of page; continues_prev assumed true (no preceding page context available)"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "des traicts, & lineamens du viſaige: mais",
+   "note": "a small dot sits low between 'lineamens' and 'du'; taken as a stray mark, not a period"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Qu'il ſoit ainſi, Sura Romain, eſtant procouſul en",
+   "note": "sic: 'procouſul' (u for n, = proconſul) as printed"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "ſemblable: non ſeulement de la groſſeur & grandeur",
+   "note": "raised dot between 'la' and 'groſſeur' taken as stray; 'groſſeur' read as ſſ ligature"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "ge: mais auſſi des geſtes, & contenances, & de ie ne ſçay",
+   "note": "'auſſi' read as ſſ ligature, could be 'auſsi'"
+  },
+  {
+   "where": "blocks[4].lines[5]",
+   "text": "bruit & fame n'eſt pas receuë, ſinon en",
+   "note": "space before comma after 'receuë' in print; normalized"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "c. vx.",
+   "note": "sic: 'vx' as printed (probably for xv)"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "tion lxiij.",
+   "note": "numeral read 'lxiij' (l x i + ij ligature); could be 'lxij'"
+  },
+  {
+   "where": "blocks[6].lines[2]",
+   "text": "detracter des gens de bien & de vertu, on a veu ſou-",
+   "note": "line-end sign after 'ſou' looks like a raised dot; transcribed as hyphen"
+  },
+  {
+   "where": "blocks[0].lines[0]",
+   "text": "n'eſt pas choſe nouuelle, que deux per-",
+   "note": "apostrophe after n is printed slanting like a grave accent; transcribed as '"
+  },
+  {
+   "where": "blocks[0].lines[2]",
+   "text": "des traicts, & lineamens du viſaige: mais",
+   "note": "a small dot sits between 'lineamens' and 'du'; read as a stray spacing mark, not a period; could be 'lineamens. du'"
+  },
+  {
+   "where": "blocks[2].lines[2]",
+   "text": "ſemblable: non ſeulement de la groſſeur & grandeur",
+   "note": "raised dot between 'la' and 'groſſeur', treated as spacing material; 'groſſeur' read as ſſ"
+  },
+  {
+   "where": "blocks[2].lines[4]",
+   "text": "ge: mais auſſi des geſtes, & contenances, & de ie ne ſçay",
+   "note": "'ge:' punctuation after ge looks like a colon (two dots); 'auſſi' read as ſſ ligature"
+  },
+  {
+   "where": "margin_notes[0].lines[3]",
+   "text": "c. vx.",
+   "note": "sic: 'vx' as printed (presumably for xv)"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "tion lxiij.",
+   "note": "final 'ij' could be read as 'ÿ'-like sort; transcribed lxiij"
+  }
+ ],
+ "decisions": []
+}

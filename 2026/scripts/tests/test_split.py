@@ -358,6 +358,37 @@ def test_a_note_may_carry_an_aside_and_the_block_a_preamble(book, tmp_path):
     assert note["gloss"] == "A gloss."
 
 
+def test_unkeyed_notes_verse_and_noteless_markers(book, tmp_path, capsys):
+    """`{_}` (no printed key) and `- Verse (p…)` are notes with no key, beside the
+    page's first paragraph; `- {c} (p…) — aside` with no citation is a printed
+    marker with no note, and no note at all."""
+    one_section(book, "---\nid: annot-001\npages: [p004]\n---\n⟦p004⟧One {a}.\n\n"
+                      "Two {c}.\n\n## Notes\n"
+                      "- {a} (p004): **Digest 1.1** — L. i.\n"
+                      "- {c} (p004) — marker with no note in the margin.\n"
+                      "- {_} (p004) — unkeyed note, no printed key: **Digest 49.16.5** "
+                      "— l. non omnes [A gloss.]\n"
+                      "- Verse (p004): **Serenus, *Liber medicinalis*** — Interdum "
+                      "exiſtit turpi verruca papilla\n")
+    out = tmp_path / "out"
+    split_pages.build(book, out)
+    paras = [b for b in page(out, "p004")["english"] if b["type"] == "paragraph"]
+    assert [(n["key"], n["citation"]) for n in paras[0]["notes"]] == [
+        ("a", "Digest 1.1"), (None, "Digest 49.16.5"),
+        (None, "Serenus, <i>Liber medicinalis</i>")]
+    assert paras[0]["notes"][1]["gloss"] == "A gloss."
+    assert paras[1]["notes"] == []
+    assert "not marked in the prose" not in capsys.readouterr().err
+
+
+def test_a_keyed_line_with_text_but_no_citation_still_errors(book, tmp_path):
+    """Only a dash-led aside reads as a marker with no note."""
+    one_section(book, "---\nid: annot-001\npages: [p004]\n---\n⟦p004⟧A line {a}.\n\n"
+                      "## Notes\n- {a} (p004): Digest 1.1 — L. i.\n")
+    with pytest.raises(ValueError, match="annot-001.md"):
+        split_pages.build(book, tmp_path / "out")
+
+
 def test_a_notes_block_may_say_there_are_none(built):
     """texte-02's `- (none: …)` line is not an entry."""
     _, out = built
@@ -612,3 +643,209 @@ def test_main_prints_the_counts(tmp_path, capsys):
     rc = split_pages.main(["--root", str(FIX), "--out", str(tmp_path)])
     assert rc == 0
     assert capsys.readouterr().out.strip() == "4 pages written (3 french, 3 english)"
+
+
+# --- contested readings ---------------------------------------------------
+
+def _final(lines, decisions=(), uncertain=(), margin=None, heading=None):
+    blocks = []
+    if heading is not None:
+        blocks.append({"type": "heading", "text": heading})
+    blocks.append({"type": "paragraph", "lines": list(lines)})
+    return {"blocks": blocks, "margin_notes": margin or [], "foot_notes": [],
+            "decisions": list(decisions), "uncertain": list(uncertain)}
+
+
+def _cut(line, spans):
+    return [line[s:e] for s, e in spans]
+
+
+def test_word_spans_marks_only_the_differing_words():
+    line = "tu, que menaces, ou force {f}. Ioinct"
+    spans = split_pages.word_spans(line, ["tu; que menaces, ou force {f}. Ioinct"])
+    assert _cut(line, spans) == ["tu,"]
+    # adjacent differing words share one span; a split word marks both halves
+    assert _cut("me en vne de", split_pages.word_spans("me en vne de", ["meen vne de"])) == ["me en"]
+    # a word only the alternative has marks the word before it
+    assert _cut("a b d", split_pages.word_spans("a b d", ["a b c d"])) == ["b"]
+
+
+def test_word_spans_reads_an_ellipsis_as_the_rest_of_the_line():
+    line = "Ce qu'elle impetra & entre les bras de ceſte ombre rea"
+    assert _cut(line, split_pages.word_spans(line, ["…ombre ren"])) == ["rea"]
+    line = "que Platon, ni Ariſtote: à ſçauoir,"
+    assert _cut(line, split_pages.word_spans(line, ["…, niAriſtote: à ſçauoir,"])) == ["ni Ariſtote:"]
+
+
+def test_word_spans_gives_up_without_an_anchor():
+    assert split_pages.word_spans("un deux trois quatre cinq", ["six sept huit neuf dix"]) is None
+    assert split_pages.word_spans("", ["x"]) is None
+    assert split_pages.word_spans("same words", ["same  words"]) is None
+
+
+def test_word_spans_counts_utf16_like_the_viewer():
+    line = "𝔄 mot"   # one astral character: two UTF-16 units
+    assert split_pages.word_spans(line, ["𝔄 mots"]) == [[3, 6]]
+
+
+def test_decision_becomes_a_reading_on_its_line():
+    final = _final(["tu, que menaces, ou force {f}. Ioinct"], decisions=[{
+        "where": "blocks[0].lines[0]", "A": "tu, que menaces, ou force {f}. Ioinct",
+        "B": "tu; que menaces, ou force {f}. Ioinct", "chose": "A",
+        "text": "tu, que menaces, ou force {f}. Ioinct", "reason": "comma at 4x"}])
+    [r] = split_pages.contested_readings(final)
+    assert r == {"where": "blocks[0].lines[0]", "target": "blocks[0].lines[0]",
+                 "spans": [[0, 3]], "aligned": True,
+                 "a": "tu, que menaces, ou force {f}. Ioinct",
+                 "b": "tu; que menaces, ou force {f}. Ioinct",
+                 "text": "tu, que menaces, ou force {f}. Ioinct", "chose": "A",
+                 "by": "reconciler", "status": "decided", "reason": "comma at 4x"}
+
+
+def test_by_defaults_to_reconciler_and_passes_translator_and_auto():
+    line = "Loy i. ſur"
+    base = {"where": "blocks[0].lines[0]", "A": "Loy 1. ſur", "B": "Loy i. ſur",
+            "chose": "B", "text": line, "reason": "dot"}
+    final = _final([line], decisions=[
+        base, dict(base, by="translator"), dict(base, by="auto"), dict(base, by="nobody")])
+    rs = split_pages.contested_readings(final)
+    assert [r["by"] for r in rs] == ["reconciler", "translator", "auto", "reconciler"]
+    assert [r["status"] for r in rs] == ["decided", "decided", "open", "decided"]
+    # an auto-deferred reading is open: no choice, and the text shows reader A
+    assert rs[2]["chose"] is None and rs[2]["text"] == "Loy 1. ſur"
+    assert _cut(line, rs[0]["spans"]) == ["i."]
+
+
+def test_unmarked_first_run_choices_are_the_reconcilers_and_sessions_carsons():
+    """No `by`: A/B/neither came from the first run's reconciler; carson-session
+    entries, and any other unmarked choice, are Carson's. An explicit `by` wins."""
+    line = "Loy i. ſur"
+    base = {"where": "blocks[0].lines[0]", "A": "Loy 1. ſur", "B": "Loy i. ſur",
+            "text": line}
+    final = _final([line], decisions=[
+        dict(base, chose="A", text="Loy 1. ſur"), dict(base, chose="B"),
+        dict(base, chose="neither", text="Loy j. ſur"),
+        dict(base, chose="carson-session", reason="arbitration: B"),
+        dict(base, chose="carson-session", reason="spot-check: B at 4x"),
+        dict(base, chose="B", by="carson")])
+    rs = split_pages.contested_readings(final)
+    assert [r["by"] for r in rs] == ["reconciler", "reconciler", "reconciler",
+                                     "carson", "carson", "carson"]
+    assert all(r["status"] == "decided" for r in rs)
+    schema = read(ROOT / "scripts" / "site_schema.json")
+    reading = dict(schema["$defs"]["reading"], **{"$defs": schema["$defs"]})
+    for r in rs:
+        jsonschema.validate(r, reading)
+
+
+def test_session_reason_gives_the_real_choice_and_drops_the_provenance():
+    line = "aliena. P. fin."
+    d = {"where": "blocks[0].lines[0]", "A": "aliena. P. fin.", "B": "alienæ. P. fin.",
+         "chose": "carson-session", "text": line}
+    final = _final([line], decisions=[
+        dict(d, reason="arbitration: A"),
+        dict(d, by="translator", reason="arbitration: A (translator: fits the sense)"),
+        dict(d, by="auto", reason="arbitration: either (auto-deferred)"),
+        dict(d, reason="arbitration: unknown")])
+    rs = split_pages.contested_readings(final)
+    assert [(r["chose"], r["status"], r["reason"]) for r in rs] == [
+        ("A", "decided", None), ("A", "decided", "fits the sense"),
+        (None, "open", None), (None, "open", None)]
+
+
+def test_agreed_entries_are_not_contested():
+    final = _final(["pour quoy les enfans"], decisions=[
+        {"where": "blocks[0].lines[0]", "A": "pour quoy", "B": "pour quoy",
+         "chose": "A", "text": "pour quoy les enfans", "reason": "agreed; checked"}])
+    assert split_pages.contested_readings(final) == []
+
+
+def test_structural_readings_have_no_target():
+    final = _final(["x"], decisions=[
+        {"where": "page", "A": "", "B": "", "chose": "B", "text": "", "reason": "ornaments"},
+        {"where": "running_head", "A": "ARREST DV", "B": "ARREST DV.", "chose": "A",
+         "text": "ARREST DV", "reason": ""},
+        {"where": "margin_notes[*].beside_line", "A": None, "B": "(present)", "chose": "B"},
+        {"where": "blocks[9].lines[0]", "A": "a", "B": "b", "chose": "A", "text": "a"}])
+    rs = split_pages.contested_readings(final)
+    assert [(r["target"], r["spans"], r["aligned"]) for r in rs] == [(None, None, False)] * 4
+    assert rs[1]["reason"] is None          # an empty reason is no reason
+    assert rs[2]["a"] == "" and rs[2]["text"] == "(present)"
+
+
+def test_unalignable_line_falls_back_to_the_whole_line():
+    line = "une ligne refaite depuis la decision"
+    final = _final([line], decisions=[
+        {"where": "blocks[0].lines[0]", "A": "tout autre texte ici present",
+         "B": "encore autre chose ici lu", "chose": "neither", "text": "rien de cela"}])
+    [r] = split_pages.contested_readings(final)
+    assert r["target"] == "blocks[0].lines[0]"
+    assert r["spans"] == [[0, len(line)]] and r["aligned"] is False
+
+
+def test_a_quoted_excerpt_is_found_in_its_line():
+    line = "blemẽt offenſez, auant que ſe doubter de luy? ou toures"
+    final = _final([line], decisions=[
+        {"where": "blocks[0].lines[0]", "A": "ou toutes", "B": "ou toutes",
+         "chose": "neither", "text": "ou toures"}])
+    # A == B but the text differs: still contested (the editor kept the print's reading)
+    [r] = split_pages.contested_readings(final)
+    assert _cut(line, r["spans"]) == ["toures"] and r["aligned"]
+    line = "cer l'office de tabellion ou noraire, ſi toutesfois ils"
+    final = _final([line], decisions=[
+        {"where": "blocks[0].lines[0]", "A": "notaire", "B": "notaire",
+         "chose": "neither", "text": "noraire"}])
+    assert _cut(line, split_pages.contested_readings(final)[0]["spans"]) == ["noraire,"]
+
+
+def test_note_lines_and_headings_are_targets():
+    final = _final(["x"], heading="TEXTE.", margin=[{"key": "a", "lines": ["l j. P. vſque"]}],
+                   decisions=[
+                       {"where": "blocks[0].text", "A": "TEXTE.", "B": "TEXTE,", "chose": "A",
+                        "text": "TEXTE."},
+                       {"where": "margin_notes[0].lines[0]", "A": "l j. P. vſque",
+                        "B": "l. j. P. vſque", "chose": "A", "text": "l j. P. vſque"}])
+    head, note = split_pages.contested_readings(final)
+    assert head["target"] == "blocks[0].text" and _cut("TEXTE.", head["spans"]) == ["TEXTE."]
+    assert note["target"] == "margin_notes[0].lines[0]"
+    assert _cut("l j. P. vſque", note["spans"]) == ["l"]
+
+
+def test_open_arbitration_in_uncertain_becomes_a_reading_once():
+    line = "Rols le receut, & careſſa commẽ mari: &"
+    alt = ("arbitration: unknown; alternatives: Rols le receut, & careſſa commẽ mari: & ||| "
+           "Rols le receut, & careſſa comme mari: &")
+    other = {"where": "blocks[0].lines[1]", "text": "deux",
+             "note": "arbitration: undecided; alternatives: deux ||| dieux", "escalate": False}
+    plain = {"where": "blocks[0].lines[0]", "text": line, "note": "tilde or ink spot"}
+    final = _final([line, "deux"], uncertain=[
+        {"where": "blocks[0].lines[0]", "text": line, "note": alt, "escalate": True},
+        other, plain], decisions=[
+        {"where": "blocks[0].lines[0]", "A": line, "B": "Rols le receut, & careſſa comme mari: &",
+         "chose": "carson-session", "text": line, "reason": "arbitration: unknown"}])
+    rs = split_pages.contested_readings(final)
+    assert [(r["where"], r["status"], r["by"]) for r in rs] == [
+        ("blocks[0].lines[0]", "open", "carson"), ("blocks[0].lines[1]", "open", None)]
+    assert _cut(line, rs[0]["spans"]) == ["commẽ"]
+    assert rs[1]["a"] == "deux" and rs[1]["b"] == "dieux" and rs[1]["text"] == "deux"
+    # the open arbitrations leave uncertain[]; the reader's own doubt stays
+    assert split_pages.uncertain(final) == [plain]
+
+
+def test_pages_carry_readings_and_validate(built):
+    _, out = built
+    schema = read(ROOT / "scripts" / "site_schema.json")
+    for page_id in IDS:
+        rec = page(out, page_id)
+        assert isinstance(rec["readings"], list)
+        jsonschema.validate(rec, schema)
+    assert page(out, "p006")["readings"] == []
+    assert page(out, "p004")["readings"] == split_pages.contested_readings(
+        split_pages.pagelib.nfc_all(final("p004")))
+
+
+def test_book_json_carries_the_about_paragraph(built):
+    _, out = built
+    about = read(out / "book.json")["about"]
+    assert isinstance(about, list) and about
+    assert "translation model" in about[0].lower()

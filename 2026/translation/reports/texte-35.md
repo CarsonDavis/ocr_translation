@@ -1,8 +1,8 @@
-# Report: texte-35
+# Report: texte-34
 
-- Output: `translation/sections/texte-35.md` — `check_markers.py texte-35`: 1 sections ok, 0 failed.
-- Word counts: French 39, English 42. No marginal citations. The page break p056/p057 falls between "vices:" and *adonné* and is kept there.
-- Glossary additions: *confit & conſommé en tous vices* → "steeped and consummate in all vices"; *renieur* → "denier (of the name of God)"; *larrecins & affrontemens* → "theft and cheating".
-- `[unclear]` passages: none. Reflow gaps *qua trieme*, *blaſphe mateur* read through.
-- Choices to review: *confit* → "steeped" (Ringold and Lewis: "confirmed thoroughly"); *renieur* → "denier" (Ringold and Lewis the same), explained in the headnote as one who "denies God" in oaths; *ordinaire* → "habitual". Ringold and Lewis merge this TEXT with the next one ("and all this to such an extent…"), which the print sets after Annotation XXXVI under the heading TBXTE. — that block is translated inside annot-036, where the segmentation placed it.
+- Output: `translation/sections/texte-34.md` — `check_markers.py texte-34`: 1 sections ok, 0 failed.
+- Word counts: French 49, English 52. No marginal citations.
+- Glossary additions: *mots deſrobez* → "stolen words"; *entendible* → "understandable"; *pays des Baſcouz* → "the Basque country" (as texte-08).
+- `[unclear]` passages: none. "where" is supplied before "everyone knows well" (the French has no relative); *enten dible* is a reflow gap; *ſcait* for *ſçait*.
+- Choices to review: *quelques mots deſrobez* → "a few stolen words" (Ringold and Lewis the same); *peu entendible* → "little understandable" (Ringold and Lewis the same).
 - Citations: none.
