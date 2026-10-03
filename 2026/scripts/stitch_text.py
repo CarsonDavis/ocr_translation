@@ -14,7 +14,9 @@ page still opens with that page's marker).
 The walk works on a prefix: pages are taken in manifest order and stop at the
 first page whose `status.final` is not `done` or whose final file is missing. A
 section that is still open at the stop is emitted with `"complete": false` so
-translation can skip it.
+translation can skip it. When the walk consumes the whole manifest, the section
+still open after the last page ends with the book, so it is closed as complete
+(ending at a page end, `ends_mid_page` false).
 
 Alongside it, `text/alts.json` (beside the `--out` file) lists one record per
 inline `⟨alt:…⟩` / `⟨alt?:…⟩` marker the stitch emitted: `alt_id`
@@ -272,11 +274,15 @@ def walk(manifest, final_dir):
 
 # --- stitching ------------------------------------------------------------
 
-def stitch(pages, keep=frozenset(), alts=None):
+def stitch(pages, keep=frozenset(), alts=None, at_end=True):
     """Build the section list from `(page_id, page)` pairs in book order.
 
     With a list as `alts`, also fills it with the alt-marker records (see
-    `locate_alts`); the sections are the same either way."""
+    `locate_alts`); the sections are the same either way. `at_end` (default)
+    says the pages run to the end of the book (the walk consumed the whole
+    manifest): the section still open after the last page is then closed as
+    complete. Pass `at_end=False` for a prefix that stops short of the end, so
+    that section stays incomplete."""
     sections, cur = [], None
     alt_lines = []                  # (page_id, line record) from mark_alternatives
     block_home = {}                 # (page_id, block index) -> working section
@@ -382,6 +388,8 @@ def stitch(pages, keep=frozenset(), alts=None):
         pending_cont = open_para
         pending_hyphen = ends_hyphen
         page_notes.append((page_id, pagelib.notes(page)))
+    if at_end:                       # the book ends here: so does its last section
+        close(False)
 
     note_home = {}
     attach_notes(sections, page_notes, keep, note_home)
@@ -554,7 +562,7 @@ def main(argv=None):
     manifest = pagelib.load_manifest(root / "manifest.json") or {"pages": []}
     pages, stopped = walk(manifest, root / "transcription/final")
     alts = []
-    sections = stitch(pages, load_keep(), alts)
+    sections = stitch(pages, load_keep(), alts, at_end=stopped is None)
 
     if not args.dry_run:
         out.parent.mkdir(parents=True, exist_ok=True)

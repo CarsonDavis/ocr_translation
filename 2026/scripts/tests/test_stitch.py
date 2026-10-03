@@ -242,10 +242,51 @@ def test_walk_consumes_everything_when_nothing_is_pending(tmp_path):
 
 def test_the_open_section_at_the_stop_is_incomplete():
     secs = st.stitch([page("p001", head("TEXTE."), para("un")),
-                      page("p002", head("ANNOTATION I."), para("deux", nxt=True))])
+                      page("p002", head("ANNOTATION I."), para("deux", nxt=True))],
+                     at_end=False)
     s = by_id(secs)
     assert s["texte-01"]["complete"] is True
     assert s["annot-001"]["complete"] is False
+
+
+def test_the_last_section_closes_when_the_pages_reach_the_end_of_the_book():
+    secs = st.stitch([page("p001", head("TEXTE."), para("un")),
+                      page("p002", head("ANNOTATION I."), para("deux", nxt=True))],
+                     at_end=True)
+    s = by_id(secs)
+    assert s["annot-001"]["complete"] is True
+    assert s["annot-001"]["ends_mid_page"] is False
+
+
+def _book(tmp_path, done):
+    ids = ["p001", "p002", "p003"]
+    texts = {"p001": [head("TEXTE."), para("un")],
+             "p002": [head("ANNOTATION I."), para("deux", nxt=True)],
+             "p003": [para("trois", prev=True)]}
+    manifest = {"pages": [{"id": i, "status": {"final": "done" if i in done else "pending"}}
+                          for i in ids]}
+    (tmp_path / "manifest.json").write_text(json.dumps(manifest), encoding="utf-8")
+    final = tmp_path / "transcription/final"
+    final.mkdir(parents=True)
+    for i in ids:
+        (final / f"{i}.json").write_text(json.dumps(page(i, *texts[i])[1]), encoding="utf-8")
+    out = tmp_path / "text/sections.json"
+    assert st.main(["--root", str(tmp_path), "--out", str(out)]) == 0
+    return by_id(json.loads(out.read_text(encoding="utf-8"))["sections"])
+
+
+def test_a_fully_consumed_manifest_closes_the_last_section(tmp_path):
+    s = _book(tmp_path, done={"p001", "p002", "p003"})
+    last = s["annot-001"]
+    assert last["pages"] == ["p002", "p003"]
+    assert last["complete"] is True and last["ends_mid_page"] is False
+
+
+def test_finals_stopping_short_leave_the_last_section_incomplete(tmp_path):
+    s = _book(tmp_path, done={"p001", "p002"})
+    last = s["annot-001"]
+    assert last["pages"] == ["p002"]
+    assert last["complete"] is False
 
 
 # --- validation ------------------------------------------------------------
