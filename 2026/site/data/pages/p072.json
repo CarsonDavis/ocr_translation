@@ -192,7 +192,7 @@
    "lines": [
     "c. licet cau",
     "ſam. de prob.",
-    "c & in noſtra",
+    "c. & in noſtra",
     "de teſtib."
    ]
   },
@@ -261,11 +261,6 @@
    "note": "read 'font' (make) with f; the glyph has a crossbar"
   },
   {
-   "where": "margin_notes[0].lines[2]",
-   "text": "c & in noſtra",
-   "note": "first sort looks like c with a mark under it (ę-like); may be 'c.'"
-  },
-  {
    "where": "margin_notes[0].lines[0]",
    "text": "c. licet cau",
    "note": "a stray slash-like mark after 'c.' ignored"
@@ -331,6 +326,11 @@
    "note": "'deuant': e looks like c ('dcuant'), possibly damaged sort"
   },
   {
+   "where": "margin_notes[0].lines[2]",
+   "text": "c. & in noſtra",
+   "note": "first glyph of line unclear (c with mark); period uncertain"
+  },
+  {
    "where": "margin_notes[4]",
    "text": "Aud. itaque.",
    "note": "note key c2 has no {c2} marker on this page; marker presumably on p073"
@@ -361,17 +361,17 @@
    "spans": [
     [
      0,
-     1
+     2
     ]
    ],
    "aligned": true,
    "a": "c & in noſtra",
    "b": "c. & in noſtra",
-   "text": "c & in noſtra",
-   "chose": null,
-   "by": "auto",
-   "status": "open",
-   "reason": null
+   "text": "c. & in noſtra",
+   "chose": "B",
+   "by": "reviewer",
+   "status": "decided",
+   "reason": "'c. & in noſtra de teſtib.' — the chapter abbreviation carries its point everywhere else in the notes (annot-038 n. a 'c. in noſtra', annot-060 n. a 'c. licet ex quadã').; *c.* for *capitulum* is pointed everywhere else in this print, including the same canon at annot-027 n. a (*c. in noſtra*)."
   },
   {
    "where": "margin_notes[4]",

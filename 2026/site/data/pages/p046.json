@@ -233,6 +233,11 @@
   {
    "where": "margin_notes[0]",
    "note": "grouping of the 13-line margin column: it is set solid with no blank line between entries; note a ends at 'cauſ.' (a very short line) and the unkeyed block ends at 'præſum' (likewise short). beside_line values are the nearest body line by vertical centre, approximate to about half a line; the unkeyed block drifts well below its likely markers."
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Ceſte preuue & circonſtance n'eſtoit pas de poids",
+   "note": "page image (body-3): the print reads 'n'eſtoit pas de poids' with no word between 'de' and 'poids'; the sense may want 'de petit poids'. The omission, if any, is the print's; transcribed as printed."
   }
  ],
  "readings": [

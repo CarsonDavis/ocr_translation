@@ -32,7 +32,7 @@
   },
   {
    "type": "paragraph",
-   "html": "In the matter of proofs and of witnesses, it is certain and settled that singular witnesses prove nothing <sup class=\"mk\" data-key=\"a\">a</sup>, even though they were a hundred thousand in number <sup class=\"mk\" data-key=\"b\">b</sup>; for each deposes particularly to his own fact, and thus they hold the place of but one; and the deposition of one, of whatever dignity, greatness or authority he may be, is counted for nothing <sup class=\"mk\" data-key=\"c\">c</sup>: which Cicero in a certain place discourses upon and shows elegantly <sup class=\"mk\" data-key=\"d\">d</sup>. It is quite true that in certain cases singular witnesses (according to the interpretation of several) may [prove] sufficiently: as if it is a question of proving infamy, madness, heresy, or an act in general <sup class=\"mk\" data-key=\"e\">e</sup>; or else of proving an act to whose essence neither place nor time is required, such as a jurisdiction, a choice of burial, rumour and repute <sup class=\"mk\" data-key=\"f\">f</sup>. Whence several have, I know not how, thought that to convict a man of heresy two witnesses suffice, even though one of them should depose to one kind of heresy [and the other to another]: heresies, they say, although they are designated by divers names, are nevertheless interlinked and conjoined in wickedness <sup class=\"mk\" data-key=\"h\">h</sup>. But such an opinion could not be sustained, nor founded upon any text of law, although some (says Panormitanus), by a light and too inconsiderate interpretation, have written to the contrary <sup class=\"mk\" data-key=\"i\">i</sup>. And still less is it true that, to prove a universal or general act, singular witnesses suffice <sup class=\"mk\" data-key=\"k\">k</sup>: for custom in itself is a universal act, regarding all those",
+   "html": "In the matter of proofs and of witnesses, it is certain and settled that singular witnesses prove nothing <sup class=\"mk\" data-key=\"a\">a</sup>, even though they were a hundred thousand in number <sup class=\"mk\" data-key=\"b\">b</sup>; for each deposes particularly to his own fact, and thus they hold the place of but one; and the deposition of one, of whatever dignity, greatness or authority he may be, is counted for nothing <sup class=\"mk\" data-key=\"c\">c</sup>: which Cicero in a certain place discourses upon and shows elegantly <sup class=\"mk\" data-key=\"d\">d</sup>. It is quite true that in certain cases singular witnesses (according to the interpretation of several) may [prove] sufficiently: as if it is a question of proving infamy, madness, heresy, or an act in general <sup class=\"mk\" data-key=\"e\">e</sup>; or else of proving an act to whose essence neither place nor time is required, such as a jurisdiction, a choice of burial, rumour and common repute <sup class=\"mk\" data-key=\"f\">f</sup>. Whence several have, I know not how, thought that to convict a man of heresy two witnesses suffice, even though one of them should depose to one kind of heresy [and the other to another]: heresies, they say, although they are designated by divers names, are nevertheless interlinked and conjoined in wickedness <sup class=\"mk\" data-key=\"h\">h</sup>. But such an opinion could not be sustained, nor founded upon any text of law, although some (says Panormitanus), by a light and too inconsiderate interpretation, have written to the contrary <sup class=\"mk\" data-key=\"i\">i</sup>. And still less is it true that, to prove a universal or general act, singular witnesses suffice <sup class=\"mk\" data-key=\"k\">k</sup>: for custom in itself is a universal act, regarding all those",
    "continued": false,
    "notes": [
     {
@@ -239,7 +239,7 @@
    "kind": "margin",
    "lines": [
     "Panorme",
-    "au cõſil xlij.",
+    "au cõſeil xlij.",
     "du j. Volume."
    ]
   },
@@ -335,11 +335,6 @@
    "note": "'auſſi' could be 'auſsi'"
   },
   {
-   "where": "margin_notes[8].lines[1]",
-   "text": "au cõſil xlij.",
-   "note": "a mark between ſ and il (possibly a hyphen or broken letter)"
-  },
-  {
    "where": "running_head",
    "text": "ARREST. DV",
    "note": "period printed after ARREST; second R is a damaged/odd sort"
@@ -393,6 +388,11 @@
    "where": "margin_notes[7].lines[0]",
    "text": "l. quicũque.",
    "note": "letters before the tilde u are faint; may read 'quiiũque'"
+  },
+  {
+   "where": "margin_notes[8].lines[1]",
+   "text": "au cõſeil xlij.",
+   "note": "the e of 'cõſeil' is faint/broken"
   }
  ],
  "readings": [
@@ -478,17 +478,17 @@
    "spans": [
     [
      3,
-     8
+     9
     ]
    ],
    "aligned": true,
    "a": "au cõſil xlij.",
    "b": "au cõſeil xlij.",
-   "text": "au cõſil xlij.",
-   "chose": null,
-   "by": "auto",
-   "status": "open",
-   "reason": null
+   "text": "au cõſeil xlij.",
+   "chose": "B",
+   "by": "reviewer",
+   "status": "decided",
+   "reason": "'Panorme au cõſeil xlij. du j. Volume' — the same annotation cites 'Panorme au cõſeil preallegue' (n. o) and the glossary has 'Alexandre en son conseil / au conseil'; cõſil is no word.; Panormitanus's consilia are cited as *cõſeil* in the same annotation's note {o} (*Panorme au cõſeil preallegue*) and as *conseil* at annot-027 and annot-028; *cõſil* has no parallel in the book."
   },
   {
    "where": "margin_notes[9].lines[0]",

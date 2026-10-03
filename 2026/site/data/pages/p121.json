@@ -15,7 +15,7 @@
  "english": [
   {
    "type": "paragraph",
-   "html": "in the number and catalogue of the smallest and least crimes <sup class=\"mk\" data-key=\"z\">z</sup>. And although St Clement, successor of St Peter (or, according to others, fourth Bishop of Rome), had taught them that after heresy there was no offence more horrible and displeasing to God, nor which deserved to be more sharply and rigorously punished <sup class=\"mk\" data-key=\"a\">a</sup>: nevertheless they, having put this crime in the number of the light ones, have willed that for adultery a clerk cannot be degraded, or actually stripped of his sacred orders <sup class=\"mk\" data-key=\"b\">b</sup>; for this penalty, they say, is peculiarly reserved for great, enormous and execrable crimes <sup class=\"mk\" data-key=\"c\">c</sup>. But in what rank shall we be able to put our Frenchmen? who (if the testimony of Jean Faure and Guillaume Benedicti is believed) long ago put adultery in the number of ingenious and highly praised acts: so far were they from repressing or punishing it <sup class=\"mk\" data-key=\"d\">d</sup>. Which, by the frequent and multiplied judgments of our company, we have long since made everyone touch with the finger and know to be false, and to have been by them too inconsiderately, and with no little scandal, written and asserted. For if it were so, as they write (which however I could not persuade myself), that for some time lechery had been so far winked at in France that, instead of punishing it and holding it in horror, and especially adultery, some praise was given to it: what more certain argument could we have for esteeming that the judges of that age deserved the title of Barbarians, or of Turks (licensed by their law to every dissoluteness), rather than of Christians? and that they had no light of the knowledge of God, nor of his word? by which we are first taught that our members are members of Jesus Christ, which must not be made members of a harlot, nor soiled by lechery, nor any passion of carnal concupiscence, but possessed in honour and sanctification <sup class=\"mk\" data-key=\"e\">e</sup>. And afterwards, that lechers and adulterers have always been severely pursued by God, not only by the old law, which condemned them to death <sup class=\"mk\" data-key=\"f\">f</sup> irremissibly, and, as St Gregory expounds, without any mercy <sup class=\"mk\" data-key=\"g\">g</sup>; but also by the new",
+   "html": "in the number and catalogue of the smallest and least crimes <sup class=\"mk\" data-key=\"z\">z</sup>. And although St Clement, successor of St Peter (or, according to others, fourth Bishop of Rome), had taught them that after heresy there was no offence more horrible and displeasing to God, nor which deserved to be more sharply and rigorously punished <sup class=\"mk\" data-key=\"a\">a</sup>: nevertheless they, having put this crime in the number of the light ones, have willed that for adultery a clerk cannot be degraded, or actually stripped of his sacred orders <sup class=\"mk\" data-key=\"b\">b</sup>; for this penalty, they say, is peculiarly reserved for great, enormous and execrable crimes <sup class=\"mk\" data-key=\"c\">c</sup>. But in what rank shall we be able to put our Frenchmen? who (if the testimony of Jean Faure and Guillaume Benedicti is believed) long ago put adultery in the number of ingenious and highly praised acts: so far were they from repressing or punishing it <sup class=\"mk\" data-key=\"d\">d</sup>. Which, by the frequent and multiplied judgments of our company, we have long since made everyone touch with the finger and know to be false, and to have been by them too inconsiderately, and with no little scandal, written and asserted. For if it were so, as they write (which however I could not persuade myself), that for some time lechery had been so far winked at in France that, instead of punishing it and holding it in horror, and especially adultery, some praise was given to it: what more certain argument could we have for esteeming that the judges of that age deserved the title of Barbarians, or of Turks (licensed by their law to every dissoluteness), rather than of Christians? and that they had no light of the knowledge of God, nor of his word? by which we are first taught that our members are members of Jesus Christ, which must not be made members of a harlot, nor soiled by lechery, nor any passion of carnal concupiscence, but possessed in honour and sanctification <sup class=\"mk\" data-key=\"e\">e</sup>. And afterwards, that lechers and adulterers have always been severely pursued by God, not only by the old law, which condemned them to death <sup class=\"mk\" data-key=\"f\">f</sup> irremissibly, and, as Saint Gregory expounds, without any mercy <sup class=\"mk\" data-key=\"g\">g</sup>; but also by the new",
    "continued": true,
    "notes": [
     {
@@ -124,7 +124,7 @@
    "kind": "margin",
    "lines": [
     "c. at ſi cleri.",
-    "ci. P. i. de iud,"
+    "ci. P. i. de iud."
    ]
   },
   {
@@ -169,7 +169,7 @@
    "lines": [
     "Iean Faure",
     "en la l. i. C.",
-    "que ſit long,",
+    "que ſit long.",
     "conſ. Guil. Be-",
     "ned. au c. Ray",
     "nutius verſic.",
@@ -192,7 +192,7 @@
    "key": "f",
    "kind": "margin",
    "lines": [
-    "Leuitique c,",
+    "Leuitique c.",
     "xx. Deutero-",
     "nome c xxij."
    ]
@@ -253,11 +253,6 @@
    "note": "line ends with a point where the word 'cleri-ci' is broken; read as period, possibly a hyphen"
   },
   {
-   "where": "margin_notes[0].lines[1]",
-   "text": "ci. P. i. de iud,",
-   "note": "'P.' is the swash paragraph-sign P; final mark after 'iud' has a tail, read as comma"
-  },
-  {
    "where": "margin_notes[1].lines[6]",
    "text": "xxx. q. v.",
    "note": "note a's lines drift down beside the body; placement approximate"
@@ -271,11 +266,6 @@
    "where": "margin_notes[3].lines[3]",
    "text": "ſi clerici & cũ",
    "note": "'&' printed as the italic et-ligature; 'clerici' final i has a tail (possibly 'clericj')"
-  },
-  {
-   "where": "margin_notes[4].lines[2]",
-   "text": "que ſit long,",
-   "note": "mark after 'long' read as comma"
   },
   {
    "where": "margin_notes[4].lines[7]",
@@ -333,6 +323,16 @@
    "note": "marker f set tight after 'mort', no punctuation after it"
   },
   {
+   "where": "margin_notes[0].lines[1]",
+   "text": "ci. P. i. de iud.",
+   "note": "final point after 'iud' could be a comma; 'P' is the swash paragraph sign"
+  },
+  {
+   "where": "margin_notes[4].lines[2]",
+   "text": "que ſit long.",
+   "note": "point after 'long' could be a comma"
+  },
+  {
    "where": "margin_notes[4].lines[7]",
    "text": "tro lxij. de teſt.",
    "note": "end of line blotted/cut ('teſt.' partly illegible); 'lxij' read from lx + ij ligature-like glyph"
@@ -346,6 +346,11 @@
    "where": "margin_notes[5].lines[4]",
    "text": "c. iiij.",
    "note": "glyph reads i-i-ij; could be 'iij' if the second i is part of the ij form"
+  },
+  {
+   "where": "margin_notes[6].lines[0]",
+   "text": "Leuitique c.",
+   "note": "mark after 'c' looks like point plus comma; read as period"
   }
  ],
  "readings": [
@@ -361,11 +366,11 @@
    "aligned": true,
    "a": "ci. P. i. de iud,",
    "b": "ci. P. i. de iud.",
-   "text": "ci. P. i. de iud,",
-   "chose": null,
-   "by": "auto",
-   "status": "open",
-   "reason": null
+   "text": "ci. P. i. de iud.",
+   "chose": "B",
+   "by": "reviewer",
+   "status": "decided",
+   "reason": "annot-083 note z: the same chapter is cited at annot-110 note a as *c. at ſi cleric. de iud.* with a point; a comma closing a marginal note is otherwise unexampled."
   },
   {
    "where": "margin_notes[2].lines[2]",
@@ -397,11 +402,11 @@
    "aligned": true,
    "a": "que ſit long,",
    "b": "que ſit long.",
-   "text": "que ſit long,",
-   "chose": null,
-   "by": "auto",
-   "status": "open",
-   "reason": null
+   "text": "que ſit long.",
+   "chose": "B",
+   "by": "reviewer",
+   "status": "decided",
+   "reason": "annot-083 note d: the same Code title is cited at annot-060 note m as *C. quæ ſit long. conſue.* with a point after *long*."
   },
   {
    "where": "margin_notes[5].lines[4]",
@@ -433,11 +438,11 @@
    "aligned": true,
    "a": "Leuitique c,",
    "b": "Leuitique c.",
-   "text": "Leuitique c,",
-   "chose": null,
-   "by": "auto",
-   "status": "open",
-   "reason": null
+   "text": "Leuitique c.",
+   "chose": "B",
+   "by": "reviewer",
+   "status": "decided",
+   "reason": "annot-083 note f: notes e and r of the same annotation read *Leuitique c. xx.* with the point."
   },
   {
    "where": "margin_notes[7].lines[0]",

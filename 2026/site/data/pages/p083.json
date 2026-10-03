@@ -15,7 +15,7 @@
  "english": [
   {
    "type": "paragraph",
-   "html": "ble to judge or condemn that man. And so in civil matters: for a wicked man could easily cause a rumour of false things to be sown, to serve his cause. Wherefore our laws have wisely ordained that proof by rumour and common repute is not full proof <sup class=\"mk\" data-key=\"a\">a</sup>, save in certain cases collected by our interpreters in the common places <sup class=\"mk\" data-key=\"b\">b</sup>: as when it is a question of proving the bounds and limits of lands <sup class=\"mk\" data-key=\"c\">c</sup>; or of showing certain old and ancient facts exceeding the memory of men <sup class=\"mk\" data-key=\"d\">d</sup>; or else of making it appear that Jean is the son of Antoine, Pierre the son of François, or any other filiation <sup class=\"mk\" data-key=\"e\">e</sup>; or of proving the death of someone <sup class=\"mk\" data-key=\"f\">f</sup>; or of putting in evidence some other thing which cannot be proved save with great difficulty. And although in civil matters it is received that rumour and renown make a half-proof, nevertheless in criminal causes (of which we are speaking), or indeed in civil ones that are high and grave, this has no place <sup class=\"mk\" data-key=\"h\">h</sup>. Wherefore the judge could not then join this half-proof with one witness, to make it full and entire <sup class=\"mk\" data-key=\"i\">i</sup>.",
+   "html": "ble to judge or condemn that man. And so in civil matters: for a wicked man could easily cause a rumour of false things to be sown, to serve his cause. Wherefore our laws have holily ordained that proof by rumour and common repute is not full proof <sup class=\"mk\" data-key=\"a\">a</sup>, save in certain cases collected by our interpreters in the common places <sup class=\"mk\" data-key=\"b\">b</sup>: as when it is a question of proving the bounds and limits of lands <sup class=\"mk\" data-key=\"c\">c</sup>; or of showing certain old and ancient facts exceeding the memory of men <sup class=\"mk\" data-key=\"d\">d</sup>; or else of making it appear that Jean is the son of Antoine, Pierre the son of François, or any other filiation <sup class=\"mk\" data-key=\"e\">e</sup>; or of proving the death of someone <sup class=\"mk\" data-key=\"f\">f</sup>; or of putting in evidence some other thing which cannot be proved save with great difficulty. And although in civil matters it is received that rumour and renown make a half-proof, nevertheless in criminal causes (of which we are speaking), or indeed in civil ones that are high and grave, this has no place <sup class=\"mk\" data-key=\"h\">h</sup>. Wherefore the judge could not then join this half-proof with one witness, to make it full and entire <sup class=\"mk\" data-key=\"i\">i</sup>.",
    "continued": true,
    "notes": [
     {
@@ -80,7 +80,7 @@
   },
   {
    "type": "paragraph",
-   "html": "Nor could one firmly [unclear: <i>perſonnément</i>, as printed — not a known word; perhaps <i>pertinemment</i>, \"pertinently\", or <i>fermement</i>] found oneself upon the knowledge which the prisoner had of all those whom he met the first time: for besides the magic, of which he was strongly suspected, he has since confessed, at the execution, that certain persons had given him certain information and advice. Still less can one make use of the likeness of the said Martin's sisters to the said prisoner; because, as has often been said, judgment by likeness is not sure — of which",
+   "html": "Nor could one personally [unclear: <i>perſonnément</i>, as printed — Middle French <i>personnement</i>, \"in person, personally\", which Ringold–Lewis also read; or a misprint for <i>pertinemment</i>] found oneself upon the knowledge which the prisoner had of all those whom he met the first time: for besides the magic, of which he was strongly suspected, he has since confessed, at the execution, that certain persons had given him certain information and advice. Still less can one make use of the likeness of the said Martin's sisters to the said prisoner; because, as has often been said, judgment by likeness is not sure — of which",
    "continued": false,
    "notes": []
   }
@@ -372,6 +372,11 @@
    "where": "margin_notes[8].lines[2]",
    "text": "Felin. aud. c.",
    "note": "punctuation after 'c' may be a semicolon"
+  },
+  {
+   "where": "blocks[2].lines[0]",
+   "text": "Auſsi ne ſe pouuoit on perſonnément",
+   "note": "sic: 'perſonnément' as printed (page image, body-5: p-e-r-ſ-o-n-n-é-m-e-n-t, clear), not a misreading; the sense may want 'pertinemment' (wrong word), though Middle French 'personnement' (in person) is also possible. Transcribed as printed."
   }
  ],
  "readings": [

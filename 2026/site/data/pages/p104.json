@@ -211,7 +211,7 @@
    "lines": [
     "Lactance au",
     "iij. de falſa ſa-",
-    "pieria. c. xviij."
+    "pietia. c. xviij."
    ]
   },
   {
@@ -252,11 +252,6 @@
    "where": "margin_notes[0].lines[3]",
    "text": "ctance au iij.",
    "note": "numeral printed as i + ij ligature (iÿ); read iij, could be ij"
-  },
-  {
-   "where": "margin_notes[2].lines[2]",
-   "text": "pieria. c. xviij.",
-   "note": "sic: 'ſa-pieria' for 'ſapientia' as printed (letters read p-i-e-r-i-a; could be 'pietia'); wrong sort / omitted letters"
   },
   {
    "where": "margin_notes[3].lines[1]",
@@ -314,6 +309,11 @@
    "note": "marker i printed at the start of the note; key letter excluded"
   },
   {
+   "where": "margin_notes[2].lines[2]",
+   "text": "pietia. c. xviij.",
+   "note": "sic? reads 'pietia' (or 'pieria'), apparently a misprint for 'pientia'; third letter from end unclear"
+  },
+  {
    "where": "margin_notes[4].lines[1]",
    "text": "l'art poetique.",
    "note": "final mark is a raised dot; taken as a period"
@@ -350,11 +350,11 @@
    "aligned": true,
    "a": "pieria. c. xviij.",
    "b": "pietia. c. xviij.",
-   "text": "pieria. c. xviij.",
-   "chose": null,
-   "by": "auto",
-   "status": "open",
-   "reason": null
+   "text": "pietia. c. xviij.",
+   "chose": "B",
+   "by": "reviewer",
+   "status": "decided",
+   "reason": "The work is Lactantius, *De falsa sapientia* (Inst. III), printed correctly as *de falſæ ſapientia* in note {g} of the same annotation; *ſapietia* is *ſapiẽtia* with the tilde lost, a common print feature, whereas *ſapieria* requires a t/r error."
   }
  ]
 }

@@ -140,7 +140,7 @@
    "kind": "margin",
    "lines": [
     "l. ij. D. de",
-    "lib. exhib. l.",
+    "li. ho exhib. l.",
     "P. Tirio cen-",
     "tũ. D. de con.",
     "& demon."
@@ -177,11 +177,6 @@
    "where": "blocks[5].lines[6]",
    "text": "priſonnier eſtoit veritablement Martin",
    "note": "ſ in 'priſonnier' poorly inked, looks like 't' ('pritonnier')"
-  },
-  {
-   "where": "margin_notes[1].lines[1]",
-   "text": "lib. exhib. l.",
-   "note": "printed looks like 'li.bo exhib.l.'; the point may fall after 'li' and the 'o' may be a blot"
   },
   {
    "where": "margin_notes[1].lines[2]",
@@ -222,6 +217,11 @@
    "where": "blocks[5].lines[6]",
    "text": "priſonnier eſtoit veritablement Martin",
    "note": "the long s in 'priſonnier' is damaged and looks like a 't' ('pritonnier'); may be a wrong sort"
+  },
+  {
+   "where": "margin_notes[1].lines[1]",
+   "text": "li. ho exhib. l.",
+   "note": "no clear point after 'ho'; could be 'li. ho. exhib. l.'"
   },
   {
    "where": "margin_notes[1].lines[2]",
@@ -272,17 +272,17 @@
    "spans": [
     [
      0,
-     4
+     6
     ]
    ],
    "aligned": true,
    "a": "lib. exhib. l.",
    "b": "li. ho exhib. l.",
-   "text": "lib. exhib. l.",
-   "chose": null,
-   "by": "auto",
-   "status": "open",
-   "reason": null
+   "text": "li. ho exhib. l.",
+   "chose": "B",
+   "by": "reviewer",
+   "status": "decided",
+   "reason": "'l. ij. D. de li. ho. exhib.' — the title De libero homine exhibendo (D. 43.29), which the book cites as 'D. de lib. ho. exhib.' at annot-084 n. g and annot-086 n. f and 'D. de liber. exhib.' at annot-020 n. h; a bare 'de lib. exhib.' would be the neighbouring title De liberis exhibendis. Moderate confidence: decided from the parallel citations, not from the glyphs.; The title is *De libero homine exhibendo* (D. 43.29), the interdict for producing a detained free man, which is the point of Coras's second sense of *arrest*; annot-086's margin prints the same title as *D. de lib. ho. exhib.*, so the *ho* of reading B is expected and reading A drops it."
   }
  ]
 }

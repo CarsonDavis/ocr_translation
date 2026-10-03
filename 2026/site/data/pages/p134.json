@@ -15,7 +15,7 @@
  "english": [
   {
    "type": "paragraph",
-   "html": "marriage <sup class=\"mk\" data-key=\"f\">f</sup>; and so that they succeed indifferently to all: that is to say, as much to the one who had contracted the marriage unwittingly and in good faith as to the one also who had used fraud and known of the impediment, and to the common kinsfolk also, respectively <sup class=\"mk\" data-key=\"g\">g</sup>. And although some have rather lightly thought that such children are legitimate only with regard to the one alone who contracted through error and in good faith <sup class=\"mk\" data-key=\"h\">h</sup>, nevertheless this opinion has long since, and with great reason, been rejected: for it would be a thing far too ridiculous that a child should be deemed in part legitimate, and in part bastard and illegitimate <sup class=\"mk\" data-key=\"i\">i</sup>. And as to the argument that between the said du Tilh and de Rols there was no true marriage, without which children cannot be called legitimate <sup class=\"mk\" data-key=\"k\">k</sup>: the answer is easy, that the colour and belief of marriage, as to making the children legitimate, has the same force and the same effects as a just, true and perfect marriage <sup class=\"mk\" data-key=\"l\">l</sup>; as also we say that a true possession of a piece of land, or of other things, is well and justly acquired, although the delivery of that thing, and the means of the acquisition, be not real <sup class=\"mk\" data-key=\"m\">m</sup>, but feigned and imaginary. And if someone says here that, although this daughter is legitimate, one ought not for all that to have adjudged to her the goods of her father condemned to death, inasmuch as such a condemnation draws to itself the confiscation of goods <sup class=\"mk\" data-key=\"n\">n</sup>, especially in France, where he who confiscates the body confiscates the goods <sup class=\"mk\" data-key=\"o\">o</sup>: I answer that although the Judge who has the power to confiscate the body, that is to say to condemn it to death, may also confiscate the goods, nevertheless one must not therefore think that he is perpetually bound to do so <sup class=\"mk\" data-key=\"p\">p</sup>. For such a circumstance may arise from the facts, and present itself to the judge, that he may justly not confiscate the goods, in whole or in part, and especially when there are children <sup class=\"mk\" data-key=\"q\">q</sup>. True it is that in France the judge must expressly declare it: for otherwise the mere favour of the children would not prevent the condemnation to death from necessarily carrying with it also the confiscation of the goods <sup class=\"mk\" data-key=\"r\">r</sup>.",
+   "html": "marriage <sup class=\"mk\" data-key=\"f\">f</sup>; and so that they succeed indifferently to all: that is to say, as much to the one who had contracted the marriage unwittingly and in good faith as to the one also who had used fraud and known of the impediment, and to the common kinsfolk also, respectively <sup class=\"mk\" data-key=\"g\">g</sup>. And although some have rather lightly thought that such children are legitimate only with regard to the one alone who contracted through error and in good faith <sup class=\"mk\" data-key=\"h\">h</sup>, nevertheless this opinion has long since, and with great reason, been rejected: for it would be a thing far too ridiculous that a child should be deemed in part legitimate, and in part bastard and illegitimate <sup class=\"mk\" data-key=\"i\">i</sup>. And as to saying that between the said du Tilh and de Rols there was no true marriage, without which children cannot be called legitimate <sup class=\"mk\" data-key=\"k\">k</sup>: the answer is easy, that the colour and belief of marriage, as to making the children legitimate, has the same force and the same effects as a just, true and perfect marriage <sup class=\"mk\" data-key=\"l\">l</sup>; as also we say that a true possession of a piece of land, or of other things, is well and justly acquired, although the delivery of that thing, and the means of the acquisition, be not real <sup class=\"mk\" data-key=\"m\">m</sup>, but feigned and imaginary. And if someone says here that, although this daughter is legitimate, one ought not for all that to have adjudged to her the goods of her father condemned to death, inasmuch as such a condemnation draws to itself the confiscation of goods <sup class=\"mk\" data-key=\"n\">n</sup>, especially in France, where he who confiscates the body confiscates the goods <sup class=\"mk\" data-key=\"o\">o</sup>: I answer that although the Judge who has the power to confiscate the body, that is to say to condemn it to death, may also confiscate the goods, nevertheless one must not therefore think that he is perpetually bound to do so <sup class=\"mk\" data-key=\"p\">p</sup>. For such a circumstance may arise from the facts, and present itself to the judge, that he may justly not confiscate the goods, in whole or in part, and especially when there are children <sup class=\"mk\" data-key=\"q\">q</sup>. True it is that in France the judge must expressly declare it: for otherwise the mere favour of the children would not prevent the condemnation to death from necessarily carrying with it also the confiscation of the goods <sup class=\"mk\" data-key=\"r\">r</sup>.",
    "continued": true,
    "notes": [
     {
@@ -192,7 +192,7 @@
     "Ant. Bu. an",
     "c. ij. & c. ꝗ no",
     "bis. & c. pen.",
-    "q fil. ſint leg."
+    "ꝗ fil. ſint leg."
    ]
   },
   {
@@ -334,11 +334,6 @@
    "where": "margin_notes[5].lines[1]",
    "text": "c. ij. & c. ꝗ no",
    "note": "the sign after 'c.' is a q with a stroke through the descender, transcribed ꝗ; could be ꝙ. 'ij' has dots over both letters (ïj shape)"
-  },
-  {
-   "where": "margin_notes[5].lines[3]",
-   "text": "q fil. ſint leg.",
-   "note": "the q has a mark under/through it, probably an abbreviation (q̃ or ꝗ = qui); read as plain q"
   },
   {
    "where": "margin_notes[6].lines[1]",
@@ -540,11 +535,11 @@
    "aligned": true,
    "a": "q fil. ſint leg.",
    "b": "ꝗ fil. ſint leg.",
-   "text": "q fil. ſint leg.",
-   "chose": null,
-   "by": "auto",
-   "status": "open",
-   "reason": null
+   "text": "ꝗ fil. ſint leg.",
+   "chose": "B",
+   "by": "reviewer",
+   "status": "decided",
+   "reason": "annot-095 note l: the same line abbreviates *qui* with the ꝗ sign (*ꝗ no bis*), so *ꝗ fil. ſint leg.* is the consistent reading; the title is *qui filii sint legitimi* (cf. note b *qui fil ſint legi.*)."
   },
   {
    "where": "margin_notes[10].lines[1]",
