@@ -957,7 +957,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | liez & maleficiez | bound and bewitched | Glossed in brackets on first use, per §9 *noué*. (texte-22) |
 | separation de mariage | separation of marriage | (texte-22) |
 | loy des Pontifes | the law of the Pontiffs | Canon law; cf. *droict des Pontifes* above. (annot-022) |
-| malefice / enſorcellement (impotence) | spell / bewitchment | Of the *nouement*; *ensorcellement & malefice* → "bewitchment and sorcery". (annot-022) |
+| malefice / enſorcellement (impotence) | spell / bewitchment | Of the *nouement*; *ensorcellement & malefice* → "bewitchment and sorcery". (texte-24, annot-022) |
 | impuiſſance (naturelle / accidentale / forcee / ſecrette) | impotence (natural / accidental / forced / secret) | Coras's fourfold division. (annot-022) |
 | froideur | coldness | *Frigiditas*, the canonists' term. (annot-022) |
 | pupiles (below puberty) | pupils (*pupilles*) | Here the *impuberes*, not wards; cf. *pupille* above. (annot-022) |
@@ -1054,7 +1054,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | l'aduis & la ſentence (des Iuges) | the opinion and judgment | The *sententia* of a judge, his vote; not the lower judge's *sentence* of §5. (annot-038) |
 | contradiction de teſmoins | contradiction of witnesses | (annot-038) |
 | Hermogenien Iuriſconſulte | Hermogenian the Jurisconsult | (annot-038) |
-| femmes de bien & honneſtes | women of worth and honest | Cf. *homme de bien*. (texte-39) |
+| femmes de bien & honneſtes | women of worth and honest | Cf. *homme de bien*. (texte-20, annot-020, texte-39) |
 | beaux-freres | brothers-in-law | Cf. *beaux fils* → sons-in-law. (texte-39) |
 | parens ou alliez / parenté ou alliance | kinsfolk or relatives by marriage / kinship or affinity | (annot-039) |
 | prins par le iuge d'office | taken by the judge on his own motion | Of a witness; cf. *enquis d'office*. (annot-039) |
@@ -1846,6 +1846,7 @@ it. Where a term is settled by the house rules in §5 or §8, that rule governs.
 | du Thil / dudit Tilh (print variants) | du Tilh / the said [du] Tilh | The name is spelt one way in the English wherever the print varies (*Thil* p056, p064, p079; *dudit Tilh* p097). (annot-035, annot-042, texte-60, texte-72) |
 | Arnault / Arnauld | Arnauld | Per §3. (argument, texte-03) |
 | Loys Viues | Juan Luis Vives | Standard English form per §7; Coras's French in the Notes. (annot-005) |
+| nul ne ſçait (… que … ne) | no one is ignorant of / there is no one who does not know | Coras's idiom with the force of *nul n'ignore*; annot-016 has the full form with *que … ne*, annot-005 the elliptical one. (annot-005, annot-016) |
 
 ---
 
@@ -1989,3 +1990,6 @@ numbers in the translation and note the aggregate in the apparatus.
 - pass-0-glossary: "two daughters" (§2) → two children, one surviving daughter; Coras says *deux enfans*; sections touched: none.
 - pass-0-glossary: paillard → "lecher" where the sexual sense is live (annot-010, annot-077, annot-093), "rogue" as a general term of abuse (annot-047, annot-088), as the §9 seed row allows; left as the translators had it; sections touched: none.
 - pass-0-glossary: capitalisation of *Iuge de Rieux*, *Iuges*, *Interpretes* etc. follows the print (the translators' practice throughout), the Court excepted; sections touched: none.
+- pass-1-q1: nul ne ſçait (annot-005, annot-016) → "no one is ignorant of" / "there is no one who does not know"; Coras's idiom carries the force of *nul n'ignore*, as the *que … ne* clause of annot-016 shows, and annot-005's [unclear] flag is resolved on it; sections touched: annot-005.
+- pass-1-q1: femmes de bien & honneſtes → "women of worth and honest" wherever the phrase recurs; the §9 row settled texte-39 and the two earlier places still read "good and honest"; sections touched: texte-20, annot-020.
+- pass-1-q1: enſorcellement & malefice → "bewitchment and sorcery" (texte-24, annot-022); the §9 row settled the pair at annot-022 and texte-24 read "bewitchment and spell"; sections touched: texte-24.

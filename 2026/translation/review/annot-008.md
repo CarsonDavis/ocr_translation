@@ -10,3 +10,7 @@
 ## Flagged, not changed
 
 - The identification *Aſſidio* = Asinius Dio is the translator's (Notes); pass 1 should check it against Valerius Maximus 9.15.
+
+## pass-1-q1
+
+- *Cn. Aſſidio* is rendered "Gnaeus Asinius Dio" (Valerius Maximus 9.15) without brackets; an identification rather than a translation, left for the Notes pass to confirm.

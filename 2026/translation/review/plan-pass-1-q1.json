@@ -1,0 +1,99 @@
+{
+  "pass": "pass-1-q1",
+  "case_file": [
+    {
+      "old": "| femmes de bien & honneſtes | women of worth and honest | Cf. *homme de bien*. (texte-39) |",
+      "new": "| femmes de bien & honneſtes | women of worth and honest | Cf. *homme de bien*. (texte-20, annot-020, texte-39) |",
+      "reason": "The same phrase occurs at texte-20 and annot-020, now brought into line with the settled row."
+    },
+    {
+      "old": "| malefice / enſorcellement (impotence) | spell / bewitchment | Of the *nouement*; *ensorcellement & malefice* → \"bewitchment and sorcery\". (annot-022) |",
+      "new": "| malefice / enſorcellement (impotence) | spell / bewitchment | Of the *nouement*; *ensorcellement & malefice* → \"bewitchment and sorcery\". (texte-24, annot-022) |",
+      "reason": "texte-24 has the same pair and is now rendered the same way."
+    },
+    {
+      "old": "| Loys Viues | Juan Luis Vives | Standard English form per §7; Coras's French in the Notes. (annot-005) |",
+      "new": "| Loys Viues | Juan Luis Vives | Standard English form per §7; Coras's French in the Notes. (annot-005) |\n| nul ne ſçait (… que … ne) | no one is ignorant of / there is no one who does not know | Coras's idiom with the force of *nul n'ignore*; annot-016 has the full form with *que … ne*, annot-005 the elliptical one. (annot-005, annot-016) |",
+      "reason": "New glossary row for an idiom that recurs and was flagged [unclear] at annot-005."
+    }
+  ],
+  "decision_log": [
+    "- pass-1-q1: nul ne ſçait (annot-005, annot-016) → \"no one is ignorant of\" / \"there is no one who does not know\"; Coras's idiom carries the force of *nul n'ignore*, as the *que … ne* clause of annot-016 shows, and annot-005's [unclear] flag is resolved on it; sections touched: annot-005.",
+    "- pass-1-q1: femmes de bien & honneſtes → \"women of worth and honest\" wherever the phrase recurs; the §9 row settled texte-39 and the two earlier places still read \"good and honest\"; sections touched: texte-20, annot-020.",
+    "- pass-1-q1: enſorcellement & malefice → \"bewitchment and sorcery\" (texte-24, annot-022); the §9 row settled the pair at annot-022 and texte-24 read \"bewitchment and spell\"; sections touched: texte-24."
+  ],
+  "sections": [
+    {
+      "id": "annot-002",
+      "old": "True it is that the same authors well intend that the news shall be found certain enough",
+      "new": "True it is that the same authors well understand that the news shall be found certain enough",
+      "reason": "Fidelity: *entendent bien que* is \"understand/mean that\", not \"intend\"."
+    },
+    {
+      "id": "annot-005",
+      "old": "On which no one (as I believe) knows not [unclear: the print reads *nul ne ſçait*, \"no one knows\"; the sense requires *nul n'ignore*] the history of Jacob",
+      "new": "On which no one (as I believe) is ignorant of the history of Jacob [*nul ne ſçait*, Coras's idiom for *nul n'ignore*, as at annotation XVI]",
+      "reason": "Flag resolved from the whole book: annot-016 has *nul ne ſçait … qu'elle ne ſoit* in the sense \"no one is ignorant that it is\"; same idiom here."
+    },
+    {
+      "id": "annot-005",
+      "old": "No house is polluted by unchaste defilements; custom and law have tamed the spotted sin",
+      "new": "The chaste house is polluted by no defilements; custom and law have tamed the spotted sin",
+      "reason": "Fidelity to the Horace line (*nullis polluitur casta domus stupris*; the print's *Nullus* is a misprint): *casta* qualifies *domus*, and *stupris* are the defilements, not \"unchaste\"."
+    },
+    {
+      "id": "annot-016",
+      "old": "All love is great, but greater in an avowed spouse.",
+      "new": "All love is great, but plainly greater in a spouse.",
+      "reason": "Fidelity to the Latin: *aperte* is an adverb (\"plainly, openly\"), not an epithet of *coniuge*."
+    },
+    {
+      "id": "texte-20",
+      "old": "who are all good and honest women",
+      "new": "who are all women of worth and honest",
+      "reason": "Consistency: *femmes de bien, & honeſtes* is the §9 phrase rendered \"women of worth and honest\" at texte-39."
+    },
+    {
+      "id": "annot-020",
+      "old": "she ought to be committed to some good and honest woman until the end of the suit",
+      "new": "she ought to be committed to some woman of worth and honest until the end of the suit",
+      "reason": "Consistency: *femme de bien, & honneſte* as at texte-20/texte-39 (§9 *homme de bien* → man of worth)."
+    },
+    {
+      "id": "texte-23",
+      "old": "and she names the priests, and says that one of them",
+      "new": "and she names the priests, and [says] that one of them",
+      "reason": "Fidelity: the French (*& nõme les preſtres, & que l'vn d'eux*) has no second verb; the supplied word must be bracketed."
+    },
+    {
+      "id": "texte-24",
+      "old": "heard upon this bewitchment and spell, the names of the priests",
+      "new": "heard upon this bewitchment and sorcery, the names of the priests",
+      "reason": "Consistency: *enſorcellement & malefice* → \"bewitchment and sorcery\" per the §9 row (annot-022)."
+    }
+  ],
+  "findings": [
+    {"id": "title", "note": "Checked against §4/§5: Tholose kept, \"general sessions\", \"reporting judge\". No change."},
+    {"id": "texte-01", "note": "R&L agree in meaning throughout; our [= 1560 n.s.] bracket follows §8. No divergence."},
+    {"id": "annot-001", "note": "French *Achaz eut Ezechiel* (p003) is rendered \"Ahaz had Hezekiah\" (Vulgate Ezechias) by the standard-name rule; the print's Ezechiel (Ezekiel) is Coras's or the printer's slip and is logged in the misreadings list for an image check. Left."},
+    {"id": "annot-005", "note": "Coras's arithmetic (300 sesterces at 25 écus = 3,750 écus) does not compute (it would be 7,500); his, not ours. *Bruxelles, ville du dioceſe de Spire* is probably Münster's Bruchsal; kept as printed. Marchesino is called Malatesta's *fils* and the Duke Malatesta's *beau pere* in the same sentence; both kept literally."},
+    {"id": "annot-006", "note": "[unclear] on *hors des gens de raiſon* left; nothing elsewhere in the book settles *gens* vs *gonds*. Logged for an image check. The literal reading \"out from among people of reason\" would also stand without emendation."},
+    {"id": "annot-008", "note": "*Cn. Aſſidio* is rendered \"Gnaeus Asinius Dio\" (Valerius Maximus 9.15) without brackets; an identification rather than a translation, left for the Notes pass to confirm."},
+    {"id": "annot-025", "note": "[unclear] on *n'eſtoit pas de poids* left; the whole book does not supply the missing word, though *de petite vertu* at annot-041 supports *de petit poids*. Logged in the misreadings list."},
+    {"id": "annot-023", "note": "Printed heading ANNOT. XXIIII. is the true XXIII; our id follows the count, the French keeps the misprint. No English cross-reference in this quarter cites an annotation number, so nothing to repoint."},
+    {"id": "annot-104", "note": "Outside the quarter: *Surquoy nul ne ſçait la differẽce entre tragedie, & comedie* is rendered \"no one knows the difference\"; by the idiom settled at annot-005/annot-016 it may mean \"no one is ignorant of\". Ambiguous there (he goes on to explain the difference); left for the Q4 reviewer."},
+    {"id": "texte-13", "note": "R&L: \"two thousand livres with interest and the expenses of the trial\" drops *dommages*; we have \"costs, damages and interest\". We are right."},
+    {"id": "texte-14", "note": "R&L: \"had once already been brought to court by the said Martin … and the account cleared and the remaining sum paid\" reads *rendu compte, & preſtation de reliqua* as accomplished; it is the object of the suit (texte-18 shows Pierre never rendered the accounts). We are right."},
+    {"id": "texte-16", "note": "R&L omit *ſa patrie* (\"his native land\") from the list of what Martin longed to see again, and give \"three years ago\" for *trois ans y a & d'auantage*. We are right."},
+    {"id": "texte-18", "note": "R&L: \"with a hard blow struck him to the ground\" loses *d'vn coup de barre* (a blow of a bar). We are right."},
+    {"id": "texte-19", "note": "R&L: \"which proves therefore that he (Pierre) should also deserve a cruel and monstrous punishment, that Arnaud should demand…\" garbles the talion argument; the accused argues that since the crime, if proved, would merit a cruel punishment, the calumniators deserve the like. We are right."},
+    {"id": "texte-20", "note": "R&L: \"that his wife and sisters be brought to him\" for *luy fuſſent accarez*; *accarer* is to confront (§9). We are right."},
+    {"id": "texte-21", "note": "R&L: \"(as has since been verified by the Basques, the father, mother…)\" misparses *de la partie des Baſcouz* (\"of the Basque country\") as the agents of verification. We are right."},
+    {"id": "texte-22", "note": "R&L: \"to be heard, and to be held if necessary\" for *ouye, & accaree ſi beſoin eſt*; *accaree* is \"confronted\". We are right."},
+    {"id": "texte-25", "note": "R&L: \"By law he (du Tilh) is required to verify the accusations\" for *Par ordõnance il eſt receu à verifier les reproches*: by order he is admitted to prove his objections. We are right."},
+    {"id": "texte-26", "note": "R&L: \"and the decision announced to the said de Rols\" for *amplié l'arreſt à lad. de Rols*; *amplier* is to grant (her conclusions). We are right. Otherwise R&L and we agree on the numbers (150; 30–40; 60 and more; 25–30; 9–10; 7–8)."},
+    {"id": "texte-27", "note": "R&L agree in meaning. No divergence."},
+    {"id": "annot-005", "note": "French note {a} cites *l'annotation lxxxi* for the Sertorius/Baldwin stories, which stand at our annot-007 and annot-082; the Notes are a later pass's and were not touched."}
+  ],
+  "uncertain": []
+}

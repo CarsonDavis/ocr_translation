@@ -12,7 +12,7 @@ All the care of the loving father rests upon Ascanius.
 
 And King David, although he had been outrageously and in several ways offended by his son Absalom, both because he had caused Amnon his other son to be killed, and afterwards abused his concubines, and also because he had plotted his death, nevertheless, when David heard that the head of Absalom his son had been caught by an oak, and he left hanging there, could not contain himself from crying out and saying thus: My SON Absalom, my son, my son Absalom, would God I had died for thee, Absalom my son, my son {f}. And touching conjugal love, everyone is sufficiently persuaded, with Propertius {g}, that it surmounts all the others.
 
-All love is great, but greater in an avowed spouse.
+All love is great, but plainly greater in a spouse.
 
 Whereof, among infinite others, Pericles the Athenian could well answer, who so loved Aspasia his wife that he would never leave her, nor go out of his house, at whatever hour it might be, without having first kissed her {h}. I leave aside Periander of Corinth, who loved his wife so madly that he had to do with her when she was quite dead; and Orpheus, who did indeed venture (as the poets relate) to go down to the underworld to ask for his wife, whom a serpent had killed, and did so much that Pluto {i} and Proserpina gave her back to him, on a condition, however, which afterwards, out of impatience of love, he could not keep.
 

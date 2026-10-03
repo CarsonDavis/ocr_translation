@@ -22,3 +22,7 @@
 ## Ringold–Lewis
 
 - Ringold and Lewis: 'the decision announced to the said de Rols' for *amplié l'arreſt à lad. de Rols* — *amplier* is to grant (extend the judgment in her favour), as ours has it; 'High Court' for *cour du parlement*; 'But imagine!' for *Mais quoy?*. Ours stands.
+
+## pass-1-q1
+
+- R&L: "and the decision announced to the said de Rols" for *amplié l'arreſt à lad. de Rols*; *amplier* is to grant (her conclusions). We are right. Otherwise R&L and we agree on the numbers (150; 30–40; 60 and more; 25–30; 9–10; 7–8).
