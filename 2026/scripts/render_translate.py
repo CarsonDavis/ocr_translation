@@ -16,7 +16,8 @@ translation/alt-choices/<SECTION_ID>.json or translation/alt-choices/batch-<firs
 Redirect stdout into the scratchpad (the prompt is not written anywhere by this script).
 """
 import argparse, json, pathlib, re, sys
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 BLOCK = r"<!-- {tag} -->(.*?)<!-- /{tag} -->"
 
 
@@ -91,7 +92,7 @@ def render_single(tpl, secs, section_id, n, root=ROOT, alts=None):
     alts = load_alts(root) if alts is None else alts
     tpl = fill_alts(select_mode(tpl, "single"), alts, [section_id],
                     f"translation/alt-choices/{section_id}.json", secs)
-    return (tpl.replace("{SECTION_ID}", section_id)
+    return (tpl.replace("{SECTION_ID}", section_id).replace("{BOOK_ROOT}", str(root))
             .replace("{CONTEXT_SECTIONS}", ", ".join(ctx) if ctx else "none (this is the first section)"))
 
 
@@ -106,6 +107,7 @@ def render_batch(tpl, secs, start_id, size, root=ROOT, alts=None):
     tpl = fill_alts(select_mode(tpl, "batch"), alts, batch,
                     f"translation/alt-choices/batch-{batch[0]}--{batch[-1]}.json", secs)
     return (tpl
+            .replace("{BOOK_ROOT}", str(root))
             .replace("{SECTION_IDS}", ", ".join(f"`{b}`" for b in batch))
             .replace("{BATCH_SIZE}", f"{len(batch)} sections")
             .replace("{REPORT_PATH}", report)
@@ -122,7 +124,8 @@ def main(argv=None):
     if bool(a.section_id) == bool(a.batch):
         ap.error("give either SECTION_ID or --batch START_ID")
     secs = json.loads((ROOT / "text/sections.json").read_text())["sections"]
-    tpl = (ROOT / "scripts/prompts/translate.md").read_text()
+    import bookconf
+    tpl = bookconf.prompt_path("translate", ROOT).read_text()
     if a.batch:
         sys.stdout.write(render_batch(tpl, secs, a.batch, a.size))
     else:

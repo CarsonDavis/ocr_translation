@@ -5,7 +5,8 @@ difference), or where the coordinator has ruled which read to take.
 usage: make_final.py PAGE_ID --from A|B [--reason TEXT] [--model NAME]
 """
 import argparse, json, pathlib, subprocess, sys
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 
 def main():
     ap = argparse.ArgumentParser()

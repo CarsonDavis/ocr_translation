@@ -10,6 +10,15 @@ every marginal citation identified, and (4) a static side-by-side site. A human 
 reads the reports, and commits. Human time spent on individual readings is the thing this
 method minimises.
 
+## Running this on a new book
+
+`PIPELINE.md` at the repo root is the entry point for a coordinator session: what to ask
+the human for, `scripts/new_book.py` to scaffold a book root (`book.json`, manifest,
+templated `docs/conventions.md` and `docs/case-file.md`, a `scripts` symlink to this
+toolkit), and every stage with its exact agent dispatch text, caps and checks. The
+scripts find the book from `$BOOK_ROOT` or the nearest `book.json` (`2026/book.json` is
+the Coras one).
+
 ## 0. Roles and cost rules
 
 - **Coordinator** (the session you talk to): plans, dispatches agents, reads their three-line

@@ -8,7 +8,7 @@ against the other reader's line by line, so do not skip anything and do not tidy
 
 Page: `{PAGE_ID}` (manifest record below). Reader: `{READER}`.
 
-## Inputs (all under /Users/cdavis/github/translator/2026/)
+## Inputs (all under {BOOK_ROOT}/)
 
 1. `docs/conventions.md` — READ IT FIRST, completely. It defines every rule of the output.
 2. `pages/read/{PAGE_ID}.jpg` — the whole page at reading size. Use it to understand the

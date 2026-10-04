@@ -26,7 +26,9 @@ import subprocess
 import sys
 
 SCRIPTS_DIR = pathlib.Path(__file__).resolve().parent
-DEFAULT_ROOT = SCRIPTS_DIR.parent
+sys.path.insert(0, str(SCRIPTS_DIR))
+import bookconf  # noqa: E402
+DEFAULT_ROOT = bookconf.ROOT
 
 DEFAULT_SRC = DEFAULT_ROOT / "pages" / "full"
 DEFAULT_OUT = DEFAULT_ROOT / "site" / "img"

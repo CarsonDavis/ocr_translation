@@ -9,7 +9,7 @@ consistent and faithful.
 
 Pass: **{PASS_NAME}**. {PASS_SCOPE}
 
-Work from `/Users/cdavis/github/translator/2026`. Do not run git commands. Do not create image
+Work from `{BOOK_ROOT}`. Do not run git commands. Do not create image
 files. **You do not edit any existing file.** You read, decide, and write a plan; a script
 applies it. Every tool call re-reads your whole context, so use as few as possible: read each
 input once, in the largest chunks the Read tool allows, never re-read, and write your outputs

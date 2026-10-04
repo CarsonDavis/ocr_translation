@@ -25,7 +25,9 @@ writes nothing.
 """
 import argparse, json, pathlib, re, sys
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
+import bookconf  # noqa: E402
 STRIP = re.compile(r"⟦[^⟧]*⟧|⟨alt\??:[^⟩]*⟩|\{[^}]*\}")
 FRENCH_CPT, ENGLISH_CPT = 3.2, 4.0
 
@@ -110,7 +112,8 @@ def render(root=ROOT, n_quarters=None):
 
     ids = [s["id"] for s in kept]
     rows = quarters(ids, n_quarters) if n_quarters else []
-    head = ["# Arrest Memorable — whole-book review text",
+    cfg = bookconf.load(root)
+    head = [f"# {cfg['short_title'] or cfg['title'] or 'Book'} — whole-book review text",
             "",
             f"{len(kept)} sections, {fr_words} French words, {en_words} English words."]
     if skipped:

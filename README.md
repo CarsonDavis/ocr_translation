@@ -2,6 +2,9 @@
 
 A Python toolkit for digitizing and translating historical texts using OCR, AI-powered cleaning, and translation.
 
+> **Current pipeline (2026):** to transcribe and translate a new early printed book with model agents, start at [`PIPELINE.md`](PIPELINE.md);
+> the method and its lessons are in [`2026/docs/playbook.md`](2026/docs/playbook.md). The scripts described below are the legacy first version.
+
 ## Overview
 
 This project provides a complete pipeline for digitizing and translating historical texts, particularly those in languages or writing styles that might be challenging to process with standard OCR tools.

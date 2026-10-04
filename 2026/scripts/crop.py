@@ -36,7 +36,9 @@ import time
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+import sys
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 RAW = ROOT / "raw"
 PAGES = ROOT / "pages"
 FULL_DIR = PAGES / "full"
@@ -524,6 +526,8 @@ def save_manifest(m):
 
 
 def raw_path(rec):
+    if rec.get("raw"):               # another book's manifest names the file in raw/
+        return RAW / rec["raw"]
     if rec.get("image") is not None:
         return RAW / f"img{rec['image']:03d}.jpg"
     return RAW / f"gallica-{rec['id']}.jpg"

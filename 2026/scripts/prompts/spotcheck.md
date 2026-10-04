@@ -4,7 +4,7 @@ You are independently re-transcribing page `{PAGE_ID}` of Coras, *Arrest memorab
 to audit the accepted master transcription. You must NOT look at the master or at the
 earlier reads until your own transcription is written. Accuracy over speed.
 
-## Inputs (under /Users/cdavis/github/translator/2026/)
+## Inputs (under {BOOK_ROOT}/)
 
 - `docs/conventions.md` — read first, completely.
 - Images: `pages/read/{PAGE_ID}.jpg`, `pages/strips/{PAGE_ID}/body-*.jpg`,

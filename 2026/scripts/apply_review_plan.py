@@ -23,7 +23,8 @@ plan reports these, harmlessly). Exit 1 on any problem, 0 otherwise.
 import argparse, json, pathlib, re, subprocess, sys
 
 SCRIPTS = pathlib.Path(__file__).resolve().parent
-ROOT = SCRIPTS.parent
+sys.path.insert(0, str(SCRIPTS))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 CASE_FILE = "docs/case-file.md"
 LOG_HEADING = "## 12. Review decision log"
 MARKERS = re.compile(r"⟦p[0-9]{3}(?:-[a-z]+)?⟧|\{[a-zſ]+\d*\}")

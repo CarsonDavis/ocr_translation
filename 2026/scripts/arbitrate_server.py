@@ -49,8 +49,10 @@ import tempfile
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib.parse import unquote, urlparse
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
-STATIC = ROOT / "tools" / "arbitrate"
+import sys
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
+STATIC = pathlib.Path(__file__).resolve().parents[1] / "tools" / "arbitrate"   # the toolkit's page
 PAGES = ROOT / "pages"
 CHOICES = {"A", "B", "neither", "either", "unknown"}
 LEGACY = {"both": "either", "skip": None}      # older decisions files

@@ -8,7 +8,8 @@ section's; the sequence of {x} letter markers must be equal too; every note key 
 French section has a Notes entry `- {x}`; the front matter's id matches.
 """
 import json, pathlib, re, sys
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 PAGE = re.compile(r"⟦(p[0-9]{3}(?:-[a-z]+)?)⟧")
 MARK = re.compile(r"\{([a-zſ]+\d*)\}")
 # Inline alternative readings (⟨alt:…⟩, ⟨alt?:…⟩) may quote a marker; reading A is

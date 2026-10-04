@@ -170,7 +170,8 @@ The schema is `scripts/site_schema.json`; it is enforced on every run.
   may disagree with `page` and may be `null`.
 - `image` is the page id; the viewer builds `book.images.base + image + book.images.ext`.
 - `source.kind` is `cudl` or `gallica`. p041 is missing from the Cambridge scan and comes
-  from Gallica, with `image_no: null`.
+  from Gallica, with `image_no: null`. Another book's pages use `other`, with a per-page `url` in its
+  manifest that `split_pages.py` passes through.
 - `english` and `french` are each an array of blocks, or `null` while that layer is
   pending. `french` is the final's `blocks` verbatim; `french_notes` is its margin notes
   then its foot notes (`beside_line` dropped), `[]` when there are none and `null` when

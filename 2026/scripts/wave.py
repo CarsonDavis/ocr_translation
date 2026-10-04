@@ -3,7 +3,7 @@
   wave.py next [--size 8] [--context 3] [--model opus] [--redispatch]
       Pick the next pages in manifest order that lack a final and are missing read A
       and/or read B, render a `read_single` prompt for each missing reader into the
-      scratchpad ($CORAS_SCRATCH), mark status.read<X> = dispatched, and print one line per
+      scratchpad ($BOOK_SCRATCH), mark status.read<X> = dispatched, and print one line per
       prompt: page, reader, prompt path. A reader already marked `dispatched` is skipped
       (it is in flight) unless --redispatch is given (for stale marks of dead agents).
   wave.py queue [--rebuild] [PAGE ...]
@@ -41,9 +41,10 @@ current interpreter lacks pillow/jsonschema the helper scripts are started via `
 import argparse, datetime, importlib.util, json, os, pathlib, subprocess, sys, tempfile
 
 SCRIPTS = pathlib.Path(__file__).resolve().parent
-ROOT = SCRIPTS.parent
-SCRATCH = pathlib.Path(os.environ.get("CORAS_SCRATCH",
-    "/private/tmp/claude-502/-Users-cdavis-github-translator/f7bb6907-97b3-42f5-958f-8758af1eb5f7/scratchpad/waves"))
+sys.path.insert(0, str(SCRIPTS))
+import bookconf  # noqa: E402
+ROOT = bookconf.ROOT
+SCRATCH = bookconf.scratch_dir()     # $BOOK_SCRATCH, $CORAS_SCRATCH, else a temp dir
 PY = sys.executable
 READERS = ("A", "B")
 # mirrors apply_arbitration.CHOICES / LEGACY ("skip" = undecided)

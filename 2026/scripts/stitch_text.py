@@ -44,22 +44,37 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 
 import pagelib  # noqa: E402
-
-ROOT = pathlib.Path(__file__).resolve().parents[1]
-KEEP_PATH = ROOT / "scripts/hyphen_keep.txt"
-
-# Pages that are a section all by themselves, keyed by page id.
-SPECIAL = {"p000-title": "title", "p000-argument": "argument"}
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
+import bookconf  # noqa: E402
 
 PAGE_MARKER = re.compile(r"⟦([^⟧]+)⟧")
-TEXTE_RE = re.compile(r"^TEXTE\s*[.,:;]?$")
-ANNOT_RE = re.compile(r"^ANNOT(?:ATIONS|ATION|AT)?(?![A-Z])\s*\.?\s*(.*)$")
 # A capitalised word, then the rest: for wrong-sort abbreviations ("ANNNT. LX." on p080)
 FUZZY_HEAD_RE = re.compile(r"^([A-Z]{4,12})\s*[.,]?\s*([IVXLCDM]+)\s*[.,]$")
-ANNOT_FORMS = ("ANNOT", "ANNOTAT", "ANNOTATION", "ANNOTATIONS")
-# A capitalised word and a stop: for wrong-sort TEXTE headings ("TFXTE." p045,
-# "TBXTE." p058, "TEXTB." p072)
-FUZZY_TEXTE_RE = re.compile(r"^([A-Z]{4,6})\s*[.,]$")
+
+
+def configure(cfg, root=None) -> None:
+    """Set the book-specific globals from a bookconf.load() dict (book.json).
+
+    KEEP_PATH: the hyphen keep-list. SPECIAL: pages that are a section all by
+    themselves, keyed by page id (Coras: the title page and the Argument). TEXTE_RE /
+    ANNOT_RE: the heading words (Coras: TEXTE; ANNOT, ANNOTAT, ANNOTATION, ANNOTATIONS).
+    FUZZY_TEXTE_RE: a capitalised word and a stop, one letter shorter or longer than a
+    texte word, for wrong-sort headings ("TFXTE." p045, "TBXTE." p058, "TEXTB." p072).
+    """
+    global KEEP_PATH, SPECIAL, TEXTE_WORDS, TEXTE_RE, ANNOT_FORMS, ANNOT_RE, FUZZY_TEXTE_RE
+    KEEP_PATH = pathlib.Path(root or ROOT) / cfg["hyphen_keep"]
+    SPECIAL = dict(cfg["front_matter"])
+    TEXTE_WORDS = tuple(cfg["headings"]["texte"])
+    ANNOT_FORMS = tuple(cfg["headings"]["annotation"])
+    alt = lambda words: "|".join(re.escape(w) for w in sorted(words, key=len, reverse=True))
+    TEXTE_RE = re.compile(rf"^(?:{alt(TEXTE_WORDS)})\s*[.,:;]?$")
+    ANNOT_RE = re.compile(rf"^(?:{alt(ANNOT_FORMS)})(?![A-Z])\s*\.?\s*(.*)$")
+    lo = max(1, min(map(len, TEXTE_WORDS)) - 1)
+    FUZZY_TEXTE_RE = re.compile(rf"^([A-Z]{{{lo},{max(map(len, TEXTE_WORDS)) + 1}}})\s*[.,]$")
+
+
+configure(bookconf.load(ROOT))
+
 ROMAN = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
 
 
@@ -237,7 +252,7 @@ def parse_heading(text: str):
         return "texte", None
     # A wrong-sort TEXTE (one letter wrong, missing or extra) counts only with a stop.
     f = FUZZY_TEXTE_RE.match(text)
-    if f and within_one_edit(f.group(1), "TEXTE"):
+    if f and any(within_one_edit(f.group(1), w) for w in TEXTE_WORDS):
         return "texte", None
     m = ANNOT_RE.match(text)
     if not m:
@@ -558,6 +573,8 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     root = pathlib.Path(args.root)
+    if root.resolve() != pathlib.Path(ROOT).resolve():
+        configure(bookconf.load(root), root)
     out = pathlib.Path(args.out) if args.out else root / "text/sections.json"
     manifest = pagelib.load_manifest(root / "manifest.json") or {"pages": []}
     pages, stopped = walk(manifest, root / "transcription/final")

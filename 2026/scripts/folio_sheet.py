@@ -14,7 +14,9 @@ import pathlib
 
 from PIL import Image, ImageDraw, ImageFont
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+import sys
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 RAW = ROOT / "raw"
 OUT = ROOT / "docs" / "checks"
 # The spec called for 3%-9% of image height, but on these scans that band lands on the

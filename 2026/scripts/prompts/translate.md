@@ -26,7 +26,7 @@ back later. `text/sections.json` is read-only context: never edit it. Then trans
 sections in order, one file each.
 <!-- /batch -->
 
-## Inputs (under /Users/cdavis/github/translator/2026/)
+## Inputs (under {BOOK_ROOT}/)
 
 1. `docs/case-file.md` — READ FIRST: the story, the people (with Coras's spellings), the
    places, the procedure glossary (use its English renderings), the legal citation

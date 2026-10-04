@@ -1,0 +1,17 @@
+{
+ "title": "Arrest memorable du Parlement de Tholose",
+ "short_title": "Arrest Memorable",
+ "author": "Jean de Coras",
+ "year": 1572,
+ "edition": "Paris: Galliot du Pré, 1572",
+ "language": "French",
+ "target_language": "English",
+ "description": "The 1572 Paris edition of Coras's account of the Martin Guerre case: the court record (TEXTE sections) with 111 numbered annotations and marginal Latin citations.",
+ "front_matter": {"p000-title": "title", "p000-argument": "argument"},
+ "headings": {
+  "texte": ["TEXTE"],
+  "annotation": ["ANNOT", "ANNOTAT", "ANNOTATION", "ANNOTATIONS"]
+ },
+ "hyphen_keep": "scripts/hyphen_keep.txt",
+ "site": null
+}

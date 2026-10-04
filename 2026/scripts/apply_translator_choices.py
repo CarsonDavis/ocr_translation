@@ -26,7 +26,8 @@ prints what would change and writes nothing.
 import argparse, datetime, json, os, pathlib, subprocess, sys, tempfile
 
 SCRIPTS = pathlib.Path(__file__).resolve().parent
-ROOT = SCRIPTS.parent
+sys.path.insert(0, str(SCRIPTS))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 CHOICES = ("A", "B", "either")
 PROTECTED = "carson"
 BYS = ("translator", "reviewer")

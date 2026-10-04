@@ -38,7 +38,8 @@ import re
 import shutil
 import sys
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 PAGE_MARK = re.compile(r"⟦(p[0-9]{3}(?:-[a-z]+)?)⟧")
 LETTER = re.compile(r"\{([a-zſ]+\d*)\}")
 ALT = re.compile(r"⟨alt\??:[^⟩]*⟩")

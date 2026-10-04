@@ -9,7 +9,8 @@ text so the diff afterwards shows only genuine reading disagreements.
 usage: auto_resolve.py PAGE_ID [--a PATH] [--b PATH]     prints the number of lines resolved
 """
 import argparse, json, pathlib, sys
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 sys.path.insert(0, str(ROOT / "scripts"))
 import pagelib, diff_reads  # noqa: E402
 

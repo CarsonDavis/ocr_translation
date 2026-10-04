@@ -36,7 +36,9 @@ import pagelib  # noqa: E402
 
 SCRIPTS_DIR = pathlib.Path(__file__).resolve().parent
 SITE_SCHEMA_PATH = SCRIPTS_DIR / "site_schema.json"
-DEFAULT_ROOT = SCRIPTS_DIR.parent
+sys.path.insert(0, str(SCRIPTS_DIR))
+import bookconf  # noqa: E402
+DEFAULT_ROOT = bookconf.ROOT
 
 CUDL_ITEM = "https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022"
 # p041 is missing from the Cambridge scan; its image comes from the Gallica copy.
@@ -74,7 +76,8 @@ HEADING_WORDS = {"TEXTE": "TEXT", "ARGVMENT": "ARGUMENT"}
 # the annotation's own heading, not the word TEXT.
 GENERIC_HEADING = "TEXT"
 # The front matter has no annotation number; its headings are the title-page lines.
-FRONT_PAGES = ("p000-title", "p000-argument")
+# Coras: ("p000-title", "p000-argument"); another book names its own in book.json.
+FRONT_PAGES = tuple(bookconf.load(DEFAULT_ROOT)["front_matter"])
 
 UNCERTAIN_KEYS = ("where", "text", "note")
 
@@ -551,6 +554,10 @@ def split_english(sections: list[Section], page_ids) -> dict[str, list[dict] | N
 def _source(rec: dict) -> dict:
     """Where this page's scan came from, and where a reader can see it."""
     kind = rec.get("source")
+    if kind == "other" or rec.get("url"):   # another book: the manifest names each page's URL
+        if not rec.get("url"):
+            raise ValueError(f"{rec.get('id')}: source {kind!r} needs a `url` in the manifest")
+        return {"kind": kind, "image_no": rec.get("image"), "url": rec["url"]}
     if kind == "gallica":
         return {"kind": kind, "image_no": None, "url": GALLICA_PAGE}
     image_no = rec.get("image")
@@ -969,7 +976,10 @@ def index_record(manifest_rec: dict, final: dict | None,
     }
 
 
-def book_record() -> dict:
+def book_record(cfg=None) -> dict:
+    """The viewer's book record: book.json's `site` block when it has one, else Coras's."""
+    if cfg and cfg.get("site"):
+        return dict(cfg["site"])
     return {
         "slug": "martin-guerre",
         "title": "Arrest memorable du Parlement de Tholose",
@@ -1076,7 +1086,7 @@ def build(root: pathlib.Path, out: pathlib.Path) -> tuple[int, int, int]:
     for stale in sorted(pages_dir.glob("*.json")):
         if stale.name not in keep:
             stale.unlink()
-    write_json(out / "book.json", book_record())
+    write_json(out / "book.json", book_record(bookconf.load(root)))
     write_json(out / "index.json", {"pages": index})
     return len(records), n_french, n_english
 
@@ -1084,7 +1094,7 @@ def build(root: pathlib.Path, out: pathlib.Path) -> tuple[int, int, int]:
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--root", type=pathlib.Path, default=DEFAULT_ROOT,
-                    help="the 2026/ directory holding manifest.json, transcription/, "
+                    help="the book root (default: see bookconf.py) holding manifest.json, transcription/, "
                          "text/ and translation/")
     ap.add_argument("--out", type=pathlib.Path, default=None,
                     help="where to write the data files (default <root>/site/data)")

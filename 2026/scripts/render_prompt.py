@@ -8,7 +8,8 @@ then reads/B, so readers beyond the finals frontier keep continuity; such files 
 "(unreconciled read)" in the list. Pages with neither are left out; "none" if nothing is left.
 """
 import argparse, json, pathlib, sys
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 
 READER_KINDS = ("read", "read_single")
 
@@ -46,7 +47,8 @@ def main():
     i = ids.index(a.page_id)
     ctx = context_files(ids[max(0, i - a.context):i], reads_ok=a.kind in READER_KINDS)
     slim = {k: rec[k] for k in ("id", "page", "image", "side", "folio", "source")}
-    tpl = (ROOT / "scripts/prompts" / f"{a.kind}.md").read_text()
+    import bookconf
+    tpl = bookconf.fill_root(bookconf.prompt_path(a.kind, ROOT).read_text(), ROOT)
     out = (tpl.replace("{PAGE_ID}", a.page_id).replace("{READER}", a.reader)
               .replace("{MODEL}", a.model)
               .replace("{OUT_DIR}", a.out_dir.replace("{READER}", a.reader))

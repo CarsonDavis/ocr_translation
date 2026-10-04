@@ -12,7 +12,7 @@ anything and do not tidy anything.
 Page: `{PAGE_ID}` (manifest record below). Reader: `{READER}`. Model: `{MODEL}`.
 Output file: `{OUT_DIR}/{PAGE_ID}.json`
 
-## Inputs (all under /Users/cdavis/github/translator/2026/)
+## Inputs (all under {BOOK_ROOT}/)
 
 1. `docs/conventions.md` — READ IT FIRST, completely. It defines every rule of the output.
 2. `pages/read/{PAGE_ID}.jpg` — the whole page at reading size, for the layout only: how

@@ -6,7 +6,7 @@ page image, and to write the final master transcription. Accuracy over speed, bu
 economical: you are an expensive model, so spend your effort only on the disputed and
 uncertain lines. Do not defer to either reader by default.
 
-## Inputs (under /Users/cdavis/github/translator/2026/)
+## Inputs (under {BOOK_ROOT}/)
 
 - `docs/conventions.md` — read first, completely.
 - `transcription/reads/A/{PAGE_ID}.json`, `transcription/reads/B/{PAGE_ID}.json`

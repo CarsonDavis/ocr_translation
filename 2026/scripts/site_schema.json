@@ -66,8 +66,10 @@
     "kind": {
      "enum": [
       "cudl",
-      "gallica"
-     ]
+      "gallica",
+      "other"
+     ],
+     "description": "cudl or gallica for the Coras book; other for another book's scans (with a per-page url in its manifest)"
     },
     "image_no": {
      "type": [

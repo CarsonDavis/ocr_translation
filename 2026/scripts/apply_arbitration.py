@@ -49,7 +49,8 @@ import pathlib
 import re
 import sys
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from bookconf import ROOT  # noqa: E402  (the book root: see bookconf.py)
 sys.path.insert(0, str(ROOT / "scripts"))
 
 import arbitrate_queue as aq  # noqa: E402
