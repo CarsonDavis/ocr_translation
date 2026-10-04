@@ -16,6 +16,6 @@ The print's marker alphabet is defective on p026: the body runs {a} {b} {c} {h} 
 - {g} (p026): **Code 5.5.4.1 (*De incestis et inutilibus nuptiis*, l. *Qui contra*, Valentinian, Theodosius and Arcadius, § 1 *Exceptis*)** — l. qui contra. Paragr. j. C. de inceſt nup.
 - {h} (p026): **Code 5.5, l. *Qui contra*, towards the end, cited above** — l. qui contra ſur la fin fin. deſſus allegue.
 - {i} (p026) — orphan note, no marker in the body: **Code 5.18, l. 2, cited above ({f})** — l. ij. Prealleguee. [Evidently belongs to "Antoninus puts a special case, when the wife marries a slave," where the print set no marker.]
-- {k} (p026): **Code, l. 2 of a title whose name is cut off in the print; most probably C. 5.18 l. 2 again, as at {f} and {i} — unidentified** — l ij. C. de
+- {k} (p026): **unidentified (sigla incomplete: the Code title is cut off in the print after *de*; l. 2 — most probably C. 5.18 l. 2 again, as at {f} and {i})** — l ij. C. de
 - {l} (p026): **Code 5.5, l. *Qui contra*, the paragraph cited above ({g})** — l. qui contra. Paragr deſſus. cite.
 - {m} (p027): **Accursius (Glossa ordinaria) on Code 5.5, l. *Qui contra*, § 1** — Accurſe au dit Parag. j de la l. qui cõtra.

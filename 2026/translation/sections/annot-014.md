@@ -10,7 +10,7 @@ That is why the Emperor Marcus Antoninus, a prince generous and excellent in eve
 
 ## Notes
 - {a} (p029): **Ecclesiasticus 10:9–10 (Vulgate: *nihil est iniquius quam amare pecuniam … avaro autem nihil est scelestius*)** — Eccleſiaſtique c. x.
-- {b} (p030): **Cicero, *Rhetorica* (*De inventione*), book cited as "b." in the print, probably II; Decretum Gratiani, D. 37, chapter *Panor…* (garbled; unidentified)** — Ciceron au b. liure de ſa Rethorique c. panor. en la xxxvij. diſtinction. [Neither locus verified.]
+- {b} (p030): **Cicero, *Rhetorica* (*De inventione*), book printed "b." — passage unidentified; Decretum Gratiani, D. 37 as printed — none of the distinction's sixteen canons (on clerics and secular letters) answers to the print's *c. panor.*; unidentified** — Ciceron au b. liure de ſa Rethorique c. panor. en la xxxvij. diſtinction. [Neither locus verified.]
 - {c} (p030): **Virgil, *Aeneid* I.343–352** — Vergile au j. des Aeneides. [Venus tells Aeneas how Pygmalion, blinded by love of gold, secretly slew Sychaeus before the altar.]
 - {d} (p030): **Plutarch, *Parallela minora* (in the *Moralia*; chapter not located); Virgil, *Aeneid* III.49–57; Ovid, *Ibis* (line not located)** — Plutarque aux Paralelles. Vergile au iij. des Aeneides. Ouide contre Ibin. [Polymestor, entrusted with Polydorus and Priam's gold, killed the boy when Troy fell.]
 - {e} (p030): **Cicero, *Verrines* II.4 (*De signis*), the "sixth Verrine" in the old numbering, § 39; Virgil, *Aeneid* VI.445–446** — Ciceron en la ſixieſme Verrine. Ver gile au vj. des Aeneides, [Cicero on the necklace of Eriphyle; Virgil sets her among the wronged lovers, showing the wounds her son gave her.]
