@@ -46,8 +46,8 @@ BOOK_DESCRIPTION = (
     "Jean de Coras's 1572 account of the Martin Guerre case: the arrest of the "
     "Parlement de Tholose on the man who came back to Artigat as another man's "
     "husband, printed with Coras's hundred and eleven annotations. A diplomatic, "
-    "line-by-line transcription of the French and an English translation, both "
-    "still in progress, from the Cambridge University Library scans."
+    "line-by-line transcription of the French and a complete English translation, "
+    "with every marginal citation expanded, from the Cambridge University Library scans."
 )
 
 # The viewer's About box, after the description: one plain paragraph per string.
