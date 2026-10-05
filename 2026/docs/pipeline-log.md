@@ -255,3 +255,24 @@ written (162 french, 162 english); 332 tests pass.
 4. `uv run python scripts/apply_review_plan.py translation/review/plan-<pass>.json --dry-run`, fix or drop MISSING/AMBIGUOUS/MARKERS_CHANGED entries, then `--apply`.
 5. `uv run python scripts/apply_translator_choices.py --by reviewer translation/alt-choices/review-<pass>.json` (refinalizes and re-stitches the changed pages).
 6. `uv run --with jsonschema python scripts/split_pages.py` (rebuilds `site/data`), then `check_markers.py --all` and the test suite.
+
+## 2026-10-04: cited sources
+- **Goal.** Every citation in the translators' notes opens the cited passage beside the page. Earlier (77bb221, ec1808d): four Opus web agents verified 183 of 216 uncertain Notes entries (`translation/reports/citations-q1..q4.md`); a Fable residue pass resolved 15 more and marked 18 explicitly unidentified (`citations-residue.md`); about 40 wrong numbers corrected.
+- **Contract first** (`docs/sources-contract.md`): `site/data/sources/index.json` (one entry per corpus: edition, licence, attribution, unit and passage schemes), one small file per unit `site/data/sources/<corpus>/<unit>.json`, and `site/data/citations.json` keyed `pNNN:marker` with status `passage` / `unit` / `work` / `scan` / `none`; also the viewer's behaviour.
+- **Fetchers** (one Opus agent each, in parallel; all rebuild from the cache with `--offline`; ~80 MB of JSON text, 83 corpora):
+  - `fetch_roman_law.py` from droitromain.univ-grenoble-alpes.fr: Digest 432 units / 21,057 passages, Code 758 / 7,126 with a 158-pair vulgate→Krüger `concordance.json`, Institutes, Novels.
+  - `fetch_vulgate.py`: Clementine Vulgate, 74 units.
+  - `fetch_classical.py`: 74 works from Perseus TEI (CC BY-SA) and The Latin Library; `classical-works.json` tallies them with scan-only and not-found lists.
+  - `fetch_canon_law.py`: Decretals 185 units, clean, from Bibliotheca Augustana; Decretum 108 units, clean, from the MGH/BSB Friedberg site, covering every cited part (`build --only decretum` fetches the rest); Sext and Clementines from archive.org Friedberg OCR (quality `ocr`).
+- **Locator.** `build_sources_index.py`, then `cite_locate.py`: a grammar for the translators' identification forms, per-corpus scheme adapters, the Code concordance; `--absent CORPUS` treats a corpus still being written as missing, `--report-only` writes nothing to site data. 3238178 fixed 22 refs that hit the wrong passage (chapter number read as section id).
+- **Coverage at 3238178:** 1434 refs, 1430 parsed; passage 855, unit 229, work 256, scan 21, none 73 (`translation/reports/citations-coverage.md`). An incipit pass over the 157 laws cited by opening words is running (`translation/reports/citations-incipit.md`).
+- **Viewer** (code-by-carson `translations/viewer`, e9d8e87 there): source pane as a third column at ≥1280px and a bottom sheet on phones; the affordance appears only on cited sidenotes; highlights `passage`..`passage_end`; About lists corpora with attributions. Checked headlessly on real data.
+- **Gaps:** commentaries (152 refs) and humanist works are scan-only or none; 73 `none`; `citations.json` is 444 KB and loaded on every page (split per page later); Decretum D.92–101, C.1–26 and De cons. still downloading in the background.
+- **Cost.** 5 Opus agents in parallel for fetchers, locator and viewer, ~115k–245k tokens each; the diagnostic and incipit passes ~235k each.
+
+### Runbook addendum: cited sources (from `2026/`)
+1. `uv run python scripts/fetch_roman_law.py [--offline]`; `fetch_vulgate.py [--offline]`; `fetch_classical.py [--offline]`; `fetch_canon_law.py fetch` then `build [--only decretum|decretals|ocr]`.
+2. `uv run python scripts/build_sources_index.py` (writes `site/data/sources/index.json`).
+3. `uv run python scripts/cite_locate.py [--absent decretum] [--report-only]` (writes `site/data/citations.json` and the coverage report).
+4. `uv run --with jsonschema python scripts/split_pages.py` (rebuild page data).
+5. Viewer: serve `site/` with the viewer, open a cited page, click a sidenote's source affordance.

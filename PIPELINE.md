@@ -417,6 +417,30 @@ and still has Coras assumptions (front-matter labels keyed by `p000-title` /
 `p000-argument`, French/English layer names). Its data contract is
 `2026/docs/site-data-contract.md`. Deploying is Carson's call.
 
+## 9b. Cited sources (optional, after review)
+
+Links each note citation to the cited passage. Order and dispatch:
+
+1. **Verify identifications.** Opus web agents, one per quarter of the uncertain Notes
+   entries, check them against the source texts and report; one Fable residue pass resolves
+   or marks the rest explicitly unidentified. Apply corrections to the notes.
+2. **You write the contract** (`docs/sources-contract.md`: index.json, per-unit files under
+   `site/data/sources/<corpus>/`, passage schemes, `citations.json` keyed `pNNN:marker` with
+   status passage/unit/work/scan/none, viewer behaviour) before dispatching anyone.
+3. **One Opus agent per corpus family, in parallel** (Roman law, Vulgate, classical, canon
+   law), each writing only its own `scripts/fetch_<corpus>.py` and `site/data/sources/<corpus>/`,
+   caching downloads so `--offline` rebuilds. Coras: ~115k–245k tokens each.
+4. **One locator agent**: `build_sources_index.py` + `cite_locate.py` (grammar, scheme
+   adapters, concordances, `--absent CORPUS` while a fetcher is still writing, coverage report).
+5. **One viewer agent** in the viewer repo, built against a small fixture that follows the
+   contract, so it can start before the corpora exist.
+6. **One verification agent on real data**: headless check of the pane on cited pages,
+   then a diagnostic pass on why refs stop at unit/work, and an incipit pass for laws cited by
+   opening words (~235k tokens each).
+
+Rerun `cite_locate.py` (without `--absent`) and `split_pages.py` when the last corpus lands.
+Commentaries and humanist works have no open text: expect them at scan or none.
+
 ## 10. Close
 
 Update `docs/handoff.md` (state table, open items, `[unclear]` flags still standing,

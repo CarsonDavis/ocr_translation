@@ -27,6 +27,7 @@ is dead legacy. Carson owns decisions; never commit or push without his say-so.
 | Review | done: pass-0-glossary, pass-1-q1 … pass-4-q4 (Fable), reviewer alt choices applied, Opus omission sweep, page-image pass, five sweep fixes. Findings in `translation/review/<id>.md` |
 | Checks | `check_markers --all` 224/224; 356 tests; site readings by provenance: reconciler 270, translator 162, auto 84, carson 36, reviewer 15 |
 | Site | `site/data` rebuilt (162 pages, french + english); **not deployed** (`docs/site-plan.md` Task 12, Carson's call). Viewer code is in `~/github/code-by-carson/translations/viewer/`, untracked there |
+| Cited sources (`site/data/sources/`, `site/data/citations.json`) | 83 corpora (~80 MB); 1434 refs: passage 855, unit 229, work 256, scan 21, none 73 (at 3238178); viewer source pane in code-by-carson e9d8e87; incipit pass running; Decretum remainder downloading |
 | Git | latest commit `958d631`; **nothing pushed to origin**. Root-level junk (`example_data/`, `new_instructions.md`, `requirements.txt`, `2026/arst.md`) deliberately uncommitted |
 
 ## The process now (why it changed)
@@ -98,6 +99,16 @@ Arbitration keys (if used): `1` A, `2` B, `e` type the text, `3` either, `4` unk
   agree on. (Since 2026-10-03 he no longer arbitrates; undecided items are auto-deferred to the
   translator.)
 
+**Cited sources** (2026-10-04, pipeline-log "cited sources"). After the translators'
+`## Notes` identifications were verified (183 of 216 uncertain ones by four Opus web agents,
+15 more and 18 explicitly unidentified by a Fable residue pass), the cited texts were fetched
+into `site/data/sources/` per `docs/sources-contract.md`: Roman law (Digest, Code with a
+vulgate→Krüger concordance, Institutes, Novels), the Clementine Vulgate, 74 classical works,
+and the canon law (Decretum and Decretals clean; Sext and Clementines from OCR). One fetcher
+per corpus, all rerunnable `--offline`. `build_sources_index.py` then `cite_locate.py` map each
+note citation to `site/data/citations.json` (`pNNN:marker` → passage / unit / work / scan /
+none), and the viewer opens the passage in a side pane (bottom sheet on phones).
+
 ## Known issues and open items (2026-10-03)
 
 - **texte-112** (last section, p160) is `complete: false` and untranslated. Cause: the stitch
@@ -122,6 +133,11 @@ Arbitration keys (if used): `1` A, `2` B, `e` type the text, `3` either, `4` unk
 - Nothing pushed to origin. Root-level junk deliberately uncommitted.
 - `docs/reference/ringold-lewis-1982.txt` (the 1982 published translation) is committed: check
   copyright before any push to a public remote.
+- Cited sources: commentaries (152 refs) and humanist works are scan-only or `none`; 73 refs
+  `none`; `citations.json` is 444 KB and loaded on every page (candidate for a per-page split);
+  Decretum D.92–101, C.1–26, De cons. still downloading (`fetch_canon_law.py build --only
+  decretum`, then rerun `cite_locate.py`); incipit pass result in
+  `translation/reports/citations-incipit.md` still to apply.
 - Future review/sweep prompts must forbid sub-agents (the Opus sweep fanned out to 6 on its own).
 
 ## Cost reference (2026-10-03)
@@ -149,4 +165,7 @@ with a small Fable fixer given only the affected sections (as for 958d631).
 - Review: `scripts/prompts/review.md`, `render_review.py`, `apply_review_plan.py`,
   `apply_translator_choices.py` (`--by translator|reviewer`), `auto_defer.py`; outputs in
   `translation/review/` and `translation/alt-choices/`.
+- Cited sources: `docs/sources-contract.md`; `scripts/fetch_roman_law.py`, `fetch_vulgate.py`,
+  `fetch_classical.py`, `fetch_canon_law.py`, `build_sources_index.py`, `cite_locate.py`;
+  reports `translation/reports/citations-*.md`.
 - Memory notes for Claude Code live in `~/.claude-mine/projects/-Users-cdavis-github-translator/memory/`.

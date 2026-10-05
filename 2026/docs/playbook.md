@@ -229,3 +229,25 @@ uv run python scripts/split_pages.py         # site/data/pages/pNNN.json from fi
 6. Review: pass 0 glossary, then quarters, sequential, plan mode. Apply reviewer alt flips.
    Page-image pass on misreadings. Mechanical sweep. Narrow fixer.
 7. Build site. Update log and handoff. Commit. Decide on push and go-live.
+
+## 11. Link citations to their sources
+
+Optional, after review: make each note citation open the cited passage beside the page.
+
+- **Verify the identifications first.** The translators' note citations are partly guessed.
+  Web agents check the uncertain ones against the source texts (a quarter each), then one
+  residue pass resolves or marks the rest explicitly unidentified.
+- **Contract first** (`docs/sources-contract.md`): a corpus index with edition, licence and
+  attribution; one small JSON file per unit; a passage scheme per corpus; a citations file
+  keyed by page and marker with a status (passage, unit, work, scan, none).
+- **One fetcher per corpus, in parallel**, each caching raw downloads so it rebuilds offline.
+- **Locator**: parse the translators' citation forms, adapt each corpus's numbering scheme,
+  add concordances where editions number differently, write a coverage report of why refs
+  stop short of a passage. A corpus still being fetched can be treated as absent.
+- **Incipit pass**: laws cited by opening words need a separate lookup against the corpus.
+- **Viewer pane**: affordance only on cited sidenotes; third column on wide screens, bottom
+  sheet on phones; highlight the passage range; credit every corpus.
+- **Open text exists** for Roman law (Grenoble droitromain site), the Vulgate, most classical
+  authors (Perseus, The Latin Library), the Decretals (Bibliotheca Augustana) and the Decretum
+  (MGH/BSB Friedberg); Sext and Clementines only as archive.org OCR. Medieval and early modern
+  **commentaries and humanist works have no usable open text**: scan links or nothing.
