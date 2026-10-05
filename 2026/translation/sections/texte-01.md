@@ -10,9 +10,9 @@ Tholose, containing a memorable
 
 and prodigious history, with
 
-one hundred and eleven fine and learned anno-
+one hundred and eleven fine and learned
 
-tations, by Monsieur Master Jean
+annotations, by Monsieur Master Jean
 
 de Coras, reporting judge of the case.
 

@@ -14,13 +14,11 @@ Containing
 
 A prodigious History of a supposed
 
-husband, which befell in our time: en-
+husband, which befell in our time:
 
-riched with one hundred and eleven fine
+enriched with one hundred and eleven fine
 
-and learned annota-
-
-tions.
+and learned annotations.
 
 By Master Jean de Coras, Counsellor in the
 

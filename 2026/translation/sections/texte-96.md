@@ -2,9 +2,9 @@
 id: texte-96
 pages: [p133]
 ---
-⟦p133⟧Adjudges the goods of the said du Tilh to the daugh-
+⟦p133⟧Adjudges the goods of the said du Tilh to the
 
-ter procreated by his doings and of the said
+daughter procreated by his doings and of the said
 
 de Rols.
 
