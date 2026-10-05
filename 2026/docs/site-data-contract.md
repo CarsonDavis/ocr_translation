@@ -11,11 +11,12 @@ translation/sections/<id>.md   the English layer                    (translation
         |  uv run --with jsonschema python scripts/split_pages.py
         v
 site/data/book.json  site/data/index.json  site/data/pages/<id>.json
+site/data/text/toc.json  site/data/text/<section-id>.json          (reader mode, §8)
 ```
 
-Run it after any input changes. It never writes the inputs. Every page record is built
-and validated against `scripts/site_schema.json` before anything is written, so a run
-that fails leaves the previous `site/data` in place.
+Run it after any input changes. It never writes the inputs. Every page record and every
+reader-mode section record is built and validated against `scripts/site_schema.json`
+before anything is written, so a run that fails leaves the previous `site/data` in place.
 
 **`scripts/prompts/translate.md` is the authority on the section file format** — it is
 what the translator is told to produce, and `scripts/check_markers.py` is what checks it.
@@ -246,7 +247,8 @@ viewer can disable a toggle and the landing card can count progress.
  "default_layer": "en",
  "stylesheet": null,
  "first_page": "p000-title",
- "about": ["plain paragraph for the About box", "…"]}
+ "about": ["plain paragraph for the About box", "…"],
+ "reader": {"base": "text/"}}
 ```
 
 `images.base` may be relative or an absolute CDN URL; it is the one image base constant.
@@ -254,6 +256,10 @@ viewer can disable a toggle and the landing card can count progress.
 `about` is plain-text paragraphs (no HTML) the viewer's footer **About** dialog shows after
 `description`: how the contested readings are marked and who decides them (the editor,
 the reconciliation model, the translation model, or not yet).
+`reader.base` is where reader mode's files are (§8), **relative to the data directory**
+(the directory `book.json` itself is in), so the viewer fetches `data/text/toc.json`. The
+key is written only when at least one section is translated; without it the viewer has no
+reader mode. A book whose `book.json` has its own `site` block gets the key added the same way.
 
 ## 6. Running it
 
@@ -263,7 +269,8 @@ uv run --with jsonschema python scripts/split_pages.py --root DIR --out DIR
 uv run --with pytest,jsonschema pytest scripts/tests/test_split.py -q
 ```
 
-It prints `162 pages written (162 french, 73 english)`. Warnings — a note with no marker
+It prints two lines, `162 pages written (162 french, 162 english)` and
+`225 sections written`. Warnings — a note with no marker
 on its page, a final marked done but unusable — go to stderr. Anything that would produce
 data the viewer cannot trust (a marker for a page that does not exist, a page claimed by
 two sections, a note line that does not parse, a record that fails the schema) raises and
@@ -289,3 +296,81 @@ for each `scan` with an `http(s)` `scan_url`. The button opens a pane that fetch
 `data/sources/<corpus>/<unit>.json`, scrolls to `passage` and highlights through
 `passage_end` (both matched against passage `id` exactly). `data/sources/index.json`
 supplies the corpus title, attribution and licence in the pane and in the About dialog.
+
+## 8. Reader mode: `site/data/text/`
+
+Written by `split_pages.py` in the same run as the page files, from the same parsed
+sections, and validated against the `section` and `toc` definitions in
+`scripts/site_schema.json`. Reader mode in the viewer shows the English as one scrolling
+text in print order; the page files are what page mode shows and are not changed by any of
+this (a test compares the fixture build byte for byte with the build from before reader
+mode existed, in `scripts/tests/fixtures/site_golden/`).
+
+`text/toc.json` lists every translated section in print order:
+
+```json
+{"sections": [
+  {"id": "title", "order": 1, "heading": null, "kind": "title",
+   "first_page": "p000-title", "pages": ["p000-title"]},
+  {"id": "annot-005", "order": 12, "heading": "ANNOTATION V", "kind": "annotation",
+   "first_page": "p011", "pages": ["p011", "p012", "…", "p020"]}]}
+```
+
+`text/<section-id>.json` is one section:
+
+```json
+{"id": "annot-001", "order": 4, "heading": "ANNOTATION I", "kind": "annotation",
+ "pages": ["p002", "p003", "p004"],
+ "blocks": [
+  {"type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p002\"></span>Marriages thus contracted … <sup class=\"mk\" data-key=\"a\" data-page=\"p002\">a</sup> … certain children <span class=\"pg\" data-page=\"p003\"></span>in whose first youth …",
+   "notes": [{"key": "a", "page": "p002", "citation": "…", "original": "…", "gloss": "…"}]}]}
+```
+
+- **`order`** is the section's 1-based position in `text/sections.json`, counting the
+  sections not translated yet, so it is stable as translation proceeds. The section files'
+  front matter has only `id` and `pages` (there is no `order` or `heading` in it); order
+  and heading come from `sections.json`, as they do for the page files.
+- **`kind`** is `title`, `argument`, `text` or `annotation`, from the `sections.json` kind
+  (`texte` becomes `text`), falling back to the id's prefix.
+- **`heading`** is the same synthesized heading the page files print at the head of the
+  section (`ANNOTATION V`, `TEXT`), `null` for the title page and the argument, whose own
+  display lines carry their titles. The viewer prints it as the section's `<h2>`; the
+  Contents list names `title` / `argument` sections by kind.
+- **`pages`** are the page ids the section's prose marks, in order, without repeats (not
+  the front matter's `pages`, though they agree today). A section that starts partway down
+  a page marks that page again at its start, so the same page id appears in two sections'
+  `pages` on 109 of the 162 pages; the first `<span class="pg">` for a page, in print
+  order, is where that page actually begins, and that is where `#read/<page>` lands.
+- **Paragraphs are whole.** A `⟦pNNN⟧` marker becomes an empty
+  `<span class="pg" data-page="pNNN"></span>` at the exact character where it stood,
+  mid-word included (`re<span …></span>semblance`). Every section file begins with a
+  marker, so every section's first paragraph opens with its first page's span. The html is
+  made by the same `to_html` as the page files (whitespace collapsed, escaped, `*x*` →
+  `<i>`, `{a}` → `<sup class="mk">`), given the whole paragraph instead of one page's run;
+  an italic run that crosses a page turn keeps the span inside the `<i>`.
+- **Markers and notes carry their page.** Marker letters restart on every printed page and
+  a paragraph can cross a page, so each `<sup class="mk">` has `data-page` and each note a
+  `page`; the viewer pairs them on (page, key).
+- **Notes** go with the paragraph that prints their (page, key) marker, in marker order.
+  A note whose marker is not in the prose, and a note with no key, goes with the first
+  paragraph of the section that has text on its page, after the marked ones. A
+  marker-with-no-note line produces no note, as in §2. The page files warn about missing
+  markers; the section files do not repeat the warning.
+- **One difference from the page files**: notes are scoped to their own section. On p073
+  both `annot-052` and `annot-053` carry a note keyed `{c}`; the page file keeps only the
+  first (and warns), while each section file keeps its own, so reader mode shows the
+  `annot-052` note that page mode drops. No two notes in one section share a (page, key)
+  in the current data; if they did, the first would be kept with a warning.
+- **A heading paragraph** (`TEXT`, `ANNOTATION V`, `ARGUMENT…` written by the translator as
+  its own paragraph) that repeats the section's heading is dropped, and its page marker
+  moves to the start of the next paragraph; any other heading paragraph becomes a
+  `{"type": "heading", "text": …}` block. No real section has one today.
+- Stale `text/*.json` files from sections that no longer exist are removed. With no
+  translated section at all, nothing is written under `text/` and `book.json` has no
+  `reader` key.
+- NFC throughout, `ensure_ascii=False`, `indent=1`, a trailing newline, as for every
+  other file here.
+
+`build()` still returns `(pages, french, english)`; `build_all()` returns those plus the
+section count, which `main()` prints as `N sections written`.

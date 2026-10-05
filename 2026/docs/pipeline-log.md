@@ -276,3 +276,15 @@ written (162 french, 162 english); 332 tests pass.
 3. `uv run python scripts/cite_locate.py [--absent decretum] [--report-only]` (writes `site/data/citations.json` and the coverage report).
 4. `uv run --with jsonschema python scripts/split_pages.py` (rebuild page data).
 5. Viewer: serve `site/` with the viewer, open a cited page, click a sidenote's source affordance.
+
+## 2026-10-04: reader mode (continuous English text)
+- **Why.** The phone audit (`docs/checks/site-phone-audit.md`) found the first phone screen all chrome and scan. Plan: `docs/site-reader-plan.md`. On a phone the English now reads as one scrolling text in print order, with the scan a tap away.
+- **Data.** `split_pages.py` also writes `site/data/text/toc.json` and one `site/data/text/<section-id>.json` per translated section (225): paragraphs whole, each page turn an empty `<span class="pg" data-page>` at its exact character, markers and notes carrying their page. `book.json` gains `"reader": {"base": "text/"}`. The paragraph html comes from the same `to_html` as the page files. Schema: `section`, `section_block`, `section_note`, `toc` in `scripts/site_schema.json`. Format and the edge cases (order from `sections.json` position, null headings for title and argument, pages re-marked at section starts, the p073 `{c}` that only reader mode keeps) in `docs/site-data-contract.md` §8.
+- **Page files unchanged.** Rebuilt `site/data`; `git diff --stat site/data/pages` is empty. `scripts/tests/fixtures/site_golden/` holds the fixture build from before the change and a test compares it byte for byte. 14 new tests in `test_split.py`; full suite 528 passed.
+- **Viewer** (code-by-carson `translations/viewer`, uncommitted): new `reader.js` / `reader.css`, routes `#read`, `#read/<section>`, `#read/<page>`; no hash opens the reader below 900px, and the `Pages | Text` choice is remembered. Contents dialog, lazy loading, page labels linking to page mode, the hash following the scroll, notes opening under their marker on phones. Page mode's only change: the stacked scan is capped at `clamp(240px, 52dvh, 560px)`.
+- **Checked** with Playwright on Chrome (iPhone 13, 1440×900, a 760×680 embed) against the assembled tree: 34 of 34 checks; screenshots `docs/checks/site-reader-*.png`.
+
+### Runbook addendum: reader mode (from `2026/`)
+1. `uv run --with jsonschema python scripts/split_pages.py` prints `162 pages written (…)` and `225 sections written`.
+2. `git diff --stat site/data/pages` should be empty unless the translation changed.
+3. In code-by-carson: `bash translations/scripts/assemble.sh ../translator <out>` lists `reader.js`, `reader.css` and `data/text/*`.
