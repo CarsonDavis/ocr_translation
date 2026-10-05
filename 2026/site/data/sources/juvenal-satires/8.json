@@ -1,0 +1,1372 @@
+{
+"corpus": "juvenal-satires",
+"unit": "8",
+"title": "Juvenal, Satires, 8",
+"passages": [
+{
+"id": "8.1",
+"label": "Juv. 8.1",
+"text": "Stemmata quid faciunt? quid prodest, Pontice, longo"
+},
+{
+"id": "8.2",
+"label": "Juv. 8.2",
+"text": "sanguine censeri, pictos ostendere vultus"
+},
+{
+"id": "8.3",
+"label": "Juv. 8.3",
+"text": "maiorum et stantis in curribus Aemilianos"
+},
+{
+"id": "8.4",
+"label": "Juv. 8.4",
+"text": "et Curios iam dimidios umerosque minorem"
+},
+{
+"id": "8.5",
+"label": "Juv. 8.5",
+"text": "Corvinum et Galbam auriculis nasoque carentem?"
+},
+{
+"id": "8.6",
+"label": "Juv. 8.6",
+"text": "quis fructus generis tabula iactare capaci"
+},
+{
+"id": "8.7",
+"label": "Juv. 8.7",
+"text": "Corvinum, posthac multa contingere virga"
+},
+{
+"id": "8.8",
+"label": "Juv. 8.8",
+"text": "fumosos equitum cum dictatore magistros,"
+},
+{
+"id": "8.9",
+"label": "Juv. 8.9",
+"text": "si coram Lepidis male vivitur? effigies quo"
+},
+{
+"id": "8.10",
+"label": "Juv. 8.10",
+"text": "tot bellatorum, si luditur alea pernox"
+},
+{
+"id": "8.11",
+"label": "Juv. 8.11",
+"text": "ante Numantinos, si dormire incipis ortu"
+},
+{
+"id": "8.12",
+"label": "Juv. 8.12",
+"text": "Luciferi, quo signa duces et castra movebant?"
+},
+{
+"id": "8.13",
+"label": "Juv. 8.13",
+"text": "cur Allobrogicis et magna gaudeat ara"
+},
+{
+"id": "8.14",
+"label": "Juv. 8.14",
+"text": "natus in Herculeo Fabius lare, si cupidus, si"
+},
+{
+"id": "8.15",
+"label": "Juv. 8.15",
+"text": "vanus et Euganea quantumvis mollior agna,"
+},
+{
+"id": "8.16",
+"label": "Juv. 8.16",
+"text": "si tenerum attritus Catinensi pumice lumbum"
+},
+{
+"id": "8.17",
+"label": "Juv. 8.17",
+"text": "squalentis traducit avos, emptorque veneni"
+},
+{
+"id": "8.18",
+"label": "Juv. 8.18",
+"text": "frangenda miseram funestat imagine gentem?"
+},
+{
+"id": "8.19",
+"label": "Juv. 8.19",
+"text": "tota licet veteres exornent undique cerae"
+},
+{
+"id": "8.20",
+"label": "Juv. 8.20",
+"text": "atria, nobilitas sola est atque unica virtus."
+},
+{
+"id": "8.21",
+"label": "Juv. 8.21",
+"text": "Paulus vel Cossus vel Drusus moribus esto,"
+},
+{
+"id": "8.22",
+"label": "Juv. 8.22",
+"text": "hos ante effigies maiorum pone tuorum,"
+},
+{
+"id": "8.23",
+"label": "Juv. 8.23",
+"text": "praecedant ipsas illi te consule virgas."
+},
+{
+"id": "8.24",
+"label": "Juv. 8.24",
+"text": "prima mihi debes animi bona. sanctus haberi"
+},
+{
+"id": "8.25",
+"label": "Juv. 8.25",
+"text": "iustitiaeque tenax factis dictisque mereris?"
+},
+{
+"id": "8.26",
+"label": "Juv. 8.26",
+"text": "agnosco procerem: salve Gaetulice, seu tu"
+},
+{
+"id": "8.27",
+"label": "Juv. 8.27",
+"text": "Silanus, quocumque alio de sanguine rarus"
+},
+{
+"id": "8.28",
+"label": "Juv. 8.28",
+"text": "civis et egregius patriae contingis ovanti,"
+},
+{
+"id": "8.29",
+"label": "Juv. 8.29",
+"text": "exclamare libet, populus quod clamat Osiri"
+},
+{
+"id": "8.30",
+"label": "Juv. 8.30",
+"text": "invento. quis enim generosum dixerit hunc qui"
+},
+{
+"id": "8.31",
+"label": "Juv. 8.31",
+"text": "indignus genere et praeclaro nomine tantum"
+},
+{
+"id": "8.32",
+"label": "Juv. 8.32",
+"text": "insignis? nanum cuiusdam Atlanta vocamus,"
+},
+{
+"id": "8.33",
+"label": "Juv. 8.33",
+"text": "Aethiopem Cycnum, pravam extortamque puellam"
+},
+{
+"id": "8.34",
+"label": "Juv. 8.34",
+"text": "Europen; canibus pigris scabieque vetusta"
+},
+{
+"id": "8.35",
+"label": "Juv. 8.35",
+"text": "levibus et siccae lambentibus ora lucernae"
+},
+{
+"id": "8.36",
+"label": "Juv. 8.36",
+"text": "nomen erit pardus tigris leo, si quid adhuc est"
+},
+{
+"id": "8.37",
+"label": "Juv. 8.37",
+"text": "quod fremat in terris violentius; ergo cavebis"
+},
+{
+"id": "8.38",
+"label": "Juv. 8.38",
+"text": "et metues ne tu sic Creticus aut Camerinus."
+},
+{
+"id": "8.39",
+"label": "Juv. 8.39",
+"text": "His ego quem monui? tecum est mihi sermo, Rubelli"
+},
+{
+"id": "8.40",
+"label": "Juv. 8.40",
+"text": "Blande, tumes alto Drusorum stemmate, tamquam"
+},
+{
+"id": "8.41",
+"label": "Juv. 8.41",
+"text": "feceris ipse aliquid propter quod nobilis esses,"
+},
+{
+"id": "8.42",
+"label": "Juv. 8.42",
+"text": "ut te conciperet quae sanguine fulget Iuli,"
+},
+{
+"id": "8.43",
+"label": "Juv. 8.43",
+"text": "non quae ventoso conducta sub aggere texit,"
+},
+{
+"id": "8.44",
+"label": "Juv. 8.44",
+"text": "vos humiles, inquis, ‘volgi pars ultima nostri,"
+},
+{
+"id": "8.45",
+"label": "Juv. 8.45",
+"text": "quorum nemo queat patriam monstrare parentis;"
+},
+{
+"id": "8.46",
+"label": "Juv. 8.46",
+"text": "ast ego Cecropides.’ vivas et originis huius"
+},
+{
+"id": "8.47",
+"label": "Juv. 8.47",
+"text": "gaudia longa feras, tamen ima plebe Quiritem"
+},
+{
+"id": "8.48",
+"label": "Juv. 8.48",
+"text": "facundum invenies: solet hic defendere causas"
+},
+{
+"id": "8.49",
+"label": "Juv. 8.49",
+"text": "nobilis indocti; veniet de plebe togata"
+},
+{
+"id": "8.50",
+"label": "Juv. 8.50",
+"text": "qui iuris nodos et legum aenigmata solvat;"
+},
+{
+"id": "8.51",
+"label": "Juv. 8.51",
+"text": "hinc petit Euphraten iuvenis domitique Batavi"
+},
+{
+"id": "8.52",
+"label": "Juv. 8.52",
+"text": "custodes aquilas, armis industrius. at tu"
+},
+{
+"id": "8.53",
+"label": "Juv. 8.53",
+"text": "nil nisi Cecropides, truncoque simillimus Hermae:"
+},
+{
+"id": "8.54",
+"label": "Juv. 8.54",
+"text": "nullo quippe alio vineis discrimine quam quod"
+},
+{
+"id": "8.55",
+"label": "Juv. 8.55",
+"text": "illi marmoreum caput est, tua vivit imago."
+},
+{
+"id": "8.56",
+"label": "Juv. 8.56",
+"text": "Dic mihi, Teucrorum proles: animalia muta"
+},
+{
+"id": "8.57",
+"label": "Juv. 8.57",
+"text": "quis generosa putet nisi fortia? nempe volucrem"
+},
+{
+"id": "8.58",
+"label": "Juv. 8.58",
+"text": "sic laudamus equum, facili cui plurima palma"
+},
+{
+"id": "8.59",
+"label": "Juv. 8.59",
+"text": "fervet et exultat rauco victoria circo;"
+},
+{
+"id": "8.60",
+"label": "Juv. 8.60",
+"text": "nobilis hic, quocumque venit de gramine, cuius"
+},
+{
+"id": "8.61",
+"label": "Juv. 8.61",
+"text": "clara fuga ante alios et primus in aequore pulvis,"
+},
+{
+"id": "8.62",
+"label": "Juv. 8.62",
+"text": "sed venale pecus Coryphaei posteritas et"
+},
+{
+"id": "8.63",
+"label": "Juv. 8.63",
+"text": "Hirpini, si rara iugo victoria sedit;"
+},
+{
+"id": "8.64",
+"label": "Juv. 8.64",
+"text": "nil ibi maiorum respectus, gratia nulla"
+},
+{
+"id": "8.65",
+"label": "Juv. 8.65",
+"text": "umbrarum; dominos pretiis mutare iubentur"
+},
+{
+"id": "8.66",
+"label": "Juv. 8.66",
+"text": "exiguis, trito ducunt epiraedia collo"
+},
+{
+"id": "8.67",
+"label": "Juv. 8.67",
+"text": "segnipedes dignique molam versare nepotes,"
+},
+{
+"id": "8.68",
+"label": "Juv. 8.68",
+"text": "ergo ut miremur te, non tua, privum aliquid da,"
+},
+{
+"id": "8.69",
+"label": "Juv. 8.69",
+"text": "quod possim titulis incidere praeter honores"
+},
+{
+"id": "8.70",
+"label": "Juv. 8.70",
+"text": "quos illis damus ac dedimus, quibus omnia debes."
+},
+{
+"id": "8.71",
+"label": "Juv. 8.71",
+"text": "Haec satis ad iuvenem quem nobis fama superbum"
+},
+{
+"id": "8.72",
+"label": "Juv. 8.72",
+"text": "tradit et inflatum plenumque Nerone propinquo;"
+},
+{
+"id": "8.73",
+"label": "Juv. 8.73",
+"text": "rarus enim ferme sensus communis in illa"
+},
+{
+"id": "8.74",
+"label": "Juv. 8.74",
+"text": "fortuna, sed te censeri laude tuorum,"
+},
+{
+"id": "8.75",
+"label": "Juv. 8.75",
+"text": "Pontice, noluerim sic ut nihil ipse futurae"
+},
+{
+"id": "8.76",
+"label": "Juv. 8.76",
+"text": "laudis agas. miserum est aliorum incumbere famae,"
+},
+{
+"id": "8.77",
+"label": "Juv. 8.77",
+"text": "ne conlapsa ruant subductis tecta columnis,"
+},
+{
+"id": "8.78",
+"label": "Juv. 8.78",
+"text": "stratus humi palmes viduas desiderat ulmos."
+},
+{
+"id": "8.79",
+"label": "Juv. 8.79",
+"text": "esto bonus miles, tutor bonus, arbiter idem"
+},
+{
+"id": "8.80",
+"label": "Juv. 8.80",
+"text": "integer; ambiguae si quando citabere testis"
+},
+{
+"id": "8.81",
+"label": "Juv. 8.81",
+"text": "incertaeque rei, Phalaris licet imperet ut sis"
+},
+{
+"id": "8.82",
+"label": "Juv. 8.82",
+"text": "falsus et admoto dictet periuria tauro,"
+},
+{
+"id": "8.83",
+"label": "Juv. 8.83",
+"text": "summum crede nefas animam praeferre pudori,"
+},
+{
+"id": "8.84",
+"label": "Juv. 8.84",
+"text": "et propter vitam vivendi perdere causas,"
+},
+{
+"id": "8.85",
+"label": "Juv. 8.85",
+"text": "dignus morte perit, cenet licet ostrea centum"
+},
+{
+"id": "8.86",
+"label": "Juv. 8.86",
+"text": "Gaurana et Cosmi toto mergatur aeno."
+},
+{
+"id": "8.87",
+"label": "Juv. 8.87",
+"text": "Expectata diu tandem provincia cum te"
+},
+{
+"id": "8.88",
+"label": "Juv. 8.88",
+"text": "rectorem accipiet, pone irae frena modumque,"
+},
+{
+"id": "8.89",
+"label": "Juv. 8.89",
+"text": "pone et avaritiae, miserere inopum sociorum:"
+},
+{
+"id": "8.90",
+"label": "Juv. 8.90",
+"text": "ossa vides rerum vacuis exucta medullis;"
+},
+{
+"id": "8.91",
+"label": "Juv. 8.91",
+"text": "respice quid moneant leges, quid curia mandet,"
+},
+{
+"id": "8.92",
+"label": "Juv. 8.92",
+"text": "praemia quanta bonos maneant, quam fulmine iusto"
+},
+{
+"id": "8.93",
+"label": "Juv. 8.93",
+"text": "et Capito et Numitor ruerint damnante senatu,"
+},
+{
+"id": "8.94",
+"label": "Juv. 8.94",
+"text": "piratae Cilicum, sed quid damnatio confert?"
+},
+{
+"id": "8.95",
+"label": "Juv. 8.95",
+"text": "praeconem, Chaerippe, tuis circumspice pannis,"
+},
+{
+"id": "8.96",
+"label": "Juv. 8.96",
+"text": "cum Pansa eripiat quidquid tibi Natta reliquit"
+},
+{
+"id": "8.97",
+"label": "Juv. 8.97",
+"text": "iamque tace; furor est post omnia perdere naulum."
+},
+{
+"id": "8.98",
+"label": "Juv. 8.98",
+"text": "Non idem gemitus olim neque vulnus erat par"
+},
+{
+"id": "8.99",
+"label": "Juv. 8.99",
+"text": "damnorum sociis florentibus et modo victis,"
+},
+{
+"id": "8.100",
+"label": "Juv. 8.100",
+"text": "plena domus tunc omnis, et ingens stabat acervus"
+},
+{
+"id": "8.101",
+"label": "Juv. 8.101",
+"text": "nummorum, Spartana chlamys, conchylia Coa,"
+},
+{
+"id": "8.102",
+"label": "Juv. 8.102",
+"text": "et cum Parrhasii tabulis signisque Myronis"
+},
+{
+"id": "8.103",
+"label": "Juv. 8.103",
+"text": "Phidiacum vivebat ebur, nec non Polycliti"
+},
+{
+"id": "8.104",
+"label": "Juv. 8.104",
+"text": "multus ubique labor, rarae sine Mentore mensae,"
+},
+{
+"id": "8.105",
+"label": "Juv. 8.105",
+"text": "inde Dolabella Antonius, inde"
+},
+{
+"id": "8.106",
+"label": "Juv. 8.106",
+"text": "sacrilegus Verres referebant navibus altis"
+},
+{
+"id": "8.107",
+"label": "Juv. 8.107",
+"text": "occulta spolia et plures de pace triumphos,"
+},
+{
+"id": "8.108",
+"label": "Juv. 8.108",
+"text": "nunc sociis iuga pauca boum, grex parvus equarum,"
+},
+{
+"id": "8.109",
+"label": "Juv. 8.109",
+"text": "et pater armenti capto eripietur agello,"
+},
+{
+"id": "8.110",
+"label": "Juv. 8.110",
+"text": "ipsi deinde Lares, si quod spectabile signum,"
+},
+{
+"id": "8.111",
+"label": "Juv. 8.111",
+"text": "si quis in aedicula deus unicus; haec etenim sunt"
+},
+{
+"id": "8.112",
+"label": "Juv. 8.112",
+"text": "pro summis, iam sunt haec maxima, despicias tu"
+},
+{
+"id": "8.113",
+"label": "Juv. 8.113",
+"text": "forsitan inbellis Rhodios unctamque Corinthon;"
+},
+{
+"id": "8.114",
+"label": "Juv. 8.114",
+"text": "despicias merito: quid resinata iuventus"
+},
+{
+"id": "8.115",
+"label": "Juv. 8.115",
+"text": "cruraque totius facient tibi levia gentis?"
+},
+{
+"id": "8.116",
+"label": "Juv. 8.116",
+"text": "horrida vitanda est Hispania, Gallicus axis"
+},
+{
+"id": "8.117",
+"label": "Juv. 8.117",
+"text": "Illyricumque latus; parce et messoribus illis"
+},
+{
+"id": "8.118",
+"label": "Juv. 8.118",
+"text": "qui saturant urbem circo scaenaeque vacantem;"
+},
+{
+"id": "8.119",
+"label": "Juv. 8.119",
+"text": "quanta autem inde feres tam dirae praemia culpae,"
+},
+{
+"id": "8.120",
+"label": "Juv. 8.120",
+"text": "cum tenuis nuper Marius discinxerit Afros?"
+},
+{
+"id": "8.121",
+"label": "Juv. 8.121",
+"text": "curandum in primis ne magna iniuria fiat"
+},
+{
+"id": "8.122",
+"label": "Juv. 8.122",
+"text": "fortibus et miseris, tollas licet omne quod usquam est"
+},
+{
+"id": "8.123",
+"label": "Juv. 8.123",
+"text": "auri atque argenti: scutum gladiumque relinques,"
+},
+{
+"id": "8.125",
+"label": "Juv. 8.125",
+"text": "Quod modo proposui, non est sententia: verum est,"
+},
+{
+"id": "8.126",
+"label": "Juv. 8.126",
+"text": "credite me vobis folium recitare Sibyllae,"
+},
+{
+"id": "8.127",
+"label": "Juv. 8.127",
+"text": "si tibi sancta cohors comitum, si nemo tribunal"
+},
+{
+"id": "8.128",
+"label": "Juv. 8.128",
+"text": "vendit acersecomes, si nullum in coniuge crimen"
+},
+{
+"id": "8.129",
+"label": "Juv. 8.129",
+"text": "nec per conventus et cuncta per oppida curvis"
+},
+{
+"id": "8.130",
+"label": "Juv. 8.130",
+"text": "unguibus ire parat nummos raptura Celaeno,"
+},
+{
+"id": "8.131",
+"label": "Juv. 8.131",
+"text": "tum licet a Pico numeres genus, altaque si te"
+},
+{
+"id": "8.132",
+"label": "Juv. 8.132",
+"text": "nomina delectant, omnem Titanida pugnam"
+},
+{
+"id": "8.133",
+"label": "Juv. 8.133",
+"text": "inter maiores ipsumque Promethea ponas,."
+},
+{
+"id": "8.134",
+"label": "Juv. 8.134",
+"text": "de quocumque voles proavum tibi sumito libro."
+},
+{
+"id": "8.135",
+"label": "Juv. 8.135",
+"text": "quod si praecipitem rapit ambitio atque libido,"
+},
+{
+"id": "8.136",
+"label": "Juv. 8.136",
+"text": "si frangis virgas sociorum in sanguine, si te"
+},
+{
+"id": "8.137",
+"label": "Juv. 8.137",
+"text": "delectant hebetes lasso lictore secures,"
+},
+{
+"id": "8.138",
+"label": "Juv. 8.138",
+"text": "incipit ipsorum contra te stare parentum"
+},
+{
+"id": "8.139",
+"label": "Juv. 8.139",
+"text": "nobilitas claramque facem praeferre pudendis."
+},
+{
+"id": "8.140",
+"label": "Juv. 8.140",
+"text": "omne animi vitium tanto conspectus in se"
+},
+{
+"id": "8.141",
+"label": "Juv. 8.141",
+"text": "crimen habet, quanto maior qui peccat habetur,"
+},
+{
+"id": "8.142",
+"label": "Juv. 8.142",
+"text": "quo mihi te solitum falsas signare tabellas"
+},
+{
+"id": "8.143",
+"label": "Juv. 8.143",
+"text": "in templis quae fecit avus statuamque parentis"
+},
+{
+"id": "8.144",
+"label": "Juv. 8.144",
+"text": "ante triumphalem? quo, si nocturnus adulter"
+},
+{
+"id": "8.145",
+"label": "Juv. 8.145",
+"text": "tempora Santonico velas adoperta cucullo?"
+},
+{
+"id": "8.146",
+"label": "Juv. 8.146",
+"text": "Praeter maiorum cineres atque ossa volucri"
+},
+{
+"id": "8.147",
+"label": "Juv. 8.147",
+"text": "carpento rapitur pinguis Lateranus, et ipse."
+},
+{
+"id": "8.148",
+"label": "Juv. 8.148",
+"text": "ipse rotam adstringit sufflamine mulio consul."
+},
+{
+"id": "8.149",
+"label": "Juv. 8.149",
+"text": "nocte quidem, sed Luna videt, sed sidera testes"
+},
+{
+"id": "8.150",
+"label": "Juv. 8.150",
+"text": "intendunt oculos, finitum tempus honoris"
+},
+{
+"id": "8.151",
+"label": "Juv. 8.151",
+"text": "cum fuerit, clara Lateranus luce flagellum"
+},
+{
+"id": "8.152",
+"label": "Juv. 8.152",
+"text": "sumet et occursum numquam trepidabit amici"
+},
+{
+"id": "8.153",
+"label": "Juv. 8.153",
+"text": "iam senis ac virga prior annuet, atque maniplos"
+},
+{
+"id": "8.154",
+"label": "Juv. 8.154",
+"text": "solvet et infundet iumentis hordea lassis."
+},
+{
+"id": "8.155",
+"label": "Juv. 8.155",
+"text": "interea, dum lanatas robumque iuvencum"
+},
+{
+"id": "8.156",
+"label": "Juv. 8.156",
+"text": "more Numae caedit, Iovis ante altaria iurat"
+},
+{
+"id": "8.157",
+"label": "Juv. 8.157",
+"text": "solam Eponam et facies olida ad praesepia pictas."
+},
+{
+"id": "8.158",
+"label": "Juv. 8.158",
+"text": "sed cum pervigiles placet instaurare popinas,"
+},
+{
+"id": "8.159",
+"label": "Juv. 8.159",
+"text": "obvius adsiduo Syrophoenix unctus amomo"
+},
+{
+"id": "8.160",
+"label": "Juv. 8.160",
+"text": "currit, Idymaeae Syrophoenix incola portae,"
+},
+{
+"id": "8.161",
+"label": "Juv. 8.161",
+"text": "hospitis adfectu dominum regemque salutat,"
+},
+{
+"id": "8.162",
+"label": "Juv. 8.162",
+"text": "et cum venali Cyane succincta lagona."
+},
+{
+"id": "8.163",
+"label": "Juv. 8.163",
+"text": "Defensor culpae dicet mihi ‘fecimus et nos"
+},
+{
+"id": "8.164",
+"label": "Juv. 8.164",
+"text": "haec iuvenes.’ esto, desisti nempe nec ultra"
+},
+{
+"id": "8.165",
+"label": "Juv. 8.165",
+"text": "fovisti errorem, breve sit quod turpiter audes;"
+},
+{
+"id": "8.166",
+"label": "Juv. 8.166",
+"text": "quaedam cum prima resecentur crimina barba,"
+},
+{
+"id": "8.167",
+"label": "Juv. 8.167",
+"text": "indulge veniam pueris: Lateranus ad illos"
+},
+{
+"id": "8.168",
+"label": "Juv. 8.168",
+"text": "thermarum calices inscriptaque lintea vadit"
+},
+{
+"id": "8.169",
+"label": "Juv. 8.169",
+"text": "maturus bello Armeniae Syriaeque tuendis"
+},
+{
+"id": "8.170",
+"label": "Juv. 8.170",
+"text": "amnibus et Rheno atque Histro; praestare Neronem"
+},
+{
+"id": "8.171",
+"label": "Juv. 8.171",
+"text": "securum valet haec aetas, mitte Ostia, Caesar,"
+},
+{
+"id": "8.172",
+"label": "Juv. 8.172",
+"text": "mitte, sed in magna legatum quaere popina;"
+},
+{
+"id": "8.173",
+"label": "Juv. 8.173",
+"text": "invenies aliquo cum percussore iacentem,"
+},
+{
+"id": "8.174",
+"label": "Juv. 8.174",
+"text": "permixtum nautis et furibus ac fugitivis,"
+},
+{
+"id": "8.175",
+"label": "Juv. 8.175",
+"text": "inter carnifices et fabros sandapilarum"
+},
+{
+"id": "8.176",
+"label": "Juv. 8.176",
+"text": "et resupinati cessantia tympana galli,"
+},
+{
+"id": "8.177",
+"label": "Juv. 8.177",
+"text": "aequa ibi libertas, communia pocula, lectus"
+},
+{
+"id": "8.178",
+"label": "Juv. 8.178",
+"text": "non alius cuiquam, nec mensa remotior ulli."
+},
+{
+"id": "8.179",
+"label": "Juv. 8.179",
+"text": "quid facias talem sortitus, Pontice, servum?"
+},
+{
+"id": "8.180",
+"label": "Juv. 8.180",
+"text": "nempe in Lucanos aut Tusca ergastula mittas."
+},
+{
+"id": "8.181",
+"label": "Juv. 8.181",
+"text": "at vos, Troiugenae, vobis ignoscitis, et quae"
+},
+{
+"id": "8.182",
+"label": "Juv. 8.182",
+"text": "turpia cerdoni, Volesos Brutumque decebunt."
+},
+{
+"id": "8.183",
+"label": "Juv. 8.183",
+"text": "Quid si numquam adeo foedis adeoque pudendis"
+},
+{
+"id": "8.184",
+"label": "Juv. 8.184",
+"text": "utimur exemplis, ut non peiora supersint?"
+},
+{
+"id": "8.185",
+"label": "Juv. 8.185",
+"text": "consumptis opibus vocem, Damasippe, locasti"
+},
+{
+"id": "8.186",
+"label": "Juv. 8.186",
+"text": "sipario, clamosum ageres ut Phasma Catulli."
+},
+{
+"id": "8.187",
+"label": "Juv. 8.187",
+"text": "Laureolum velox etiam bene Lentulus egit,"
+},
+{
+"id": "8.188",
+"label": "Juv. 8.188",
+"text": "iudice me dignus vera cruce, nec tamen ipsi"
+},
+{
+"id": "8.189",
+"label": "Juv. 8.189",
+"text": "ignoscas populo; populi frons durior huius"
+},
+{
+"id": "8.190",
+"label": "Juv. 8.190",
+"text": "qui sedet et spectat triscurria patriciorum"
+},
+{
+"id": "8.191",
+"label": "Juv. 8.191",
+"text": "planipedes audit Fabios, ridere potest qui"
+},
+{
+"id": "8.192",
+"label": "Juv. 8.192",
+"text": "Mamercorum alapas. quanti sua funera vendant"
+},
+{
+"id": "8.193",
+"label": "Juv. 8.193",
+"text": "quid refert? vendunt nullo cogente Nerone,"
+},
+{
+"id": "8.194",
+"label": "Juv. 8.194",
+"text": "nec dubitant celsi praetoris vendere ludis,"
+},
+{
+"id": "8.195",
+"label": "Juv. 8.195",
+"text": "finge tamen gladios inde atque hinc pulpita poni,"
+},
+{
+"id": "8.196",
+"label": "Juv. 8.196",
+"text": "quid satius? mortem sic quisquam exhorruit, ut sit"
+},
+{
+"id": "8.197",
+"label": "Juv. 8.197",
+"text": "zelotypus Thymeles, stupidi collega Corinthi?"
+},
+{
+"id": "8.198",
+"label": "Juv. 8.198",
+"text": "res haut mira tamen citharoedo principe mimus"
+},
+{
+"id": "8.199",
+"label": "Juv. 8.199",
+"text": "nobilis, haec ultra quid erit nisi ludus? et illic"
+},
+{
+"id": "8.200",
+"label": "Juv. 8.200",
+"text": "dedecus urbis habes, nec murmillonis in armis"
+},
+{
+"id": "8.201",
+"label": "Juv. 8.201",
+"text": "nec clipeo Gracchum pugnantem aut falce supina;"
+},
+{
+"id": "8.202",
+"label": "Juv. 8.202",
+"text": "damnat enim tales habitus, sed damnat et, odit;"
+},
+{
+"id": "8.203",
+"label": "Juv. 8.203",
+"text": "nec galea faciem abscondit; movet ecce tridentem."
+},
+{
+"id": "8.204",
+"label": "Juv. 8.204",
+"text": "postquam vibrata pendentia retia dextra"
+},
+{
+"id": "8.205",
+"label": "Juv. 8.205",
+"text": "nequiquam effudit, nudum ad spectacula voltum"
+},
+{
+"id": "8.206",
+"label": "Juv. 8.206",
+"text": "erigit et tota fugit agnoscendus harena."
+},
+{
+"id": "8.207",
+"label": "Juv. 8.207",
+"text": "credamus tunicae, de faucibus aurea cum se"
+},
+{
+"id": "8.208",
+"label": "Juv. 8.208",
+"text": "porrigat.et longo iactetur spira galero."
+},
+{
+"id": "8.209",
+"label": "Juv. 8.209",
+"text": "ergo ignominiam graviorem pertulit omni"
+},
+{
+"id": "8.210",
+"label": "Juv. 8.210",
+"text": "vulnere cum Graccho iussus pugnare secutor."
+},
+{
+"id": "8.211",
+"label": "Juv. 8.211",
+"text": "Libera si dentur populo suffragia, quis tam"
+},
+{
+"id": "8.212",
+"label": "Juv. 8.212",
+"text": "perditus ut dubitet Senecam praeferre Neroni?"
+},
+{
+"id": "8.213",
+"label": "Juv. 8.213",
+"text": "cuius supplicio non debuit una parari"
+},
+{
+"id": "8.214",
+"label": "Juv. 8.214",
+"text": "simia nec serpens unus nec culleus unus."
+},
+{
+"id": "8.215",
+"label": "Juv. 8.215",
+"text": "par Agamemnonidae crimen, sed causa facit rem"
+},
+{
+"id": "8.216",
+"label": "Juv. 8.216",
+"text": "dissimilem: quippe ille deis auctoribus ultor"
+},
+{
+"id": "8.217",
+"label": "Juv. 8.217",
+"text": "patris erat caesi media inter pocula, sed nec"
+},
+{
+"id": "8.218",
+"label": "Juv. 8.218",
+"text": "Electrae iugulo se polluit aut Spartam"
+},
+{
+"id": "8.219",
+"label": "Juv. 8.219",
+"text": "sanguine coniugii, nullis aconita propinquis"
+},
+{
+"id": "8.220",
+"label": "Juv. 8.220",
+"text": "miscuit, in scaena numquam cantavit Orestes,"
+},
+{
+"id": "8.221",
+"label": "Juv. 8.221",
+"text": "Troica non scripsit, quid enim Verginius armis"
+},
+{
+"id": "8.222",
+"label": "Juv. 8.222",
+"text": "debuit ulcisci magis aut cum Vindice Galba,"
+},
+{
+"id": "8.223",
+"label": "Juv. 8.223",
+"text": "quod Nero tam saeva crudaque tyrannide fecit?"
+},
+{
+"id": "8.224",
+"label": "Juv. 8.224",
+"text": "haec opera atque hae sunt generosi principis artes,"
+},
+{
+"id": "8.225",
+"label": "Juv. 8.225",
+"text": "gaudentis foedo peregrina ad pulpita cantu"
+},
+{
+"id": "8.226",
+"label": "Juv. 8.226",
+"text": "prostitui Graiaeque apium meruisse coronae,"
+},
+{
+"id": "8.227",
+"label": "Juv. 8.227",
+"text": "maiorum effigies habeant insignia vocis,"
+},
+{
+"id": "8.228",
+"label": "Juv. 8.228",
+"text": "ante pedes Domiti longum tu pone Thyestae"
+},
+{
+"id": "8.229",
+"label": "Juv. 8.229",
+"text": "syrma vel Antigones vel personam Melanippes,"
+},
+{
+"id": "8.230",
+"label": "Juv. 8.230",
+"text": "et de marmoreo citharam suspende colosso."
+},
+{
+"id": "8.231",
+"label": "Juv. 8.231",
+"text": "Quid, Catilina, tuis natalibus atque Cethegi"
+},
+{
+"id": "8.232",
+"label": "Juv. 8.232",
+"text": "inveniet quisquam sublimius? arma tamen vos"
+},
+{
+"id": "8.233",
+"label": "Juv. 8.233",
+"text": "nocturna et flammas domibus templisque paratis,"
+},
+{
+"id": "8.234",
+"label": "Juv. 8.234",
+"text": "ut bracatorum pueri Senonumque minores,"
+},
+{
+"id": "8.235",
+"label": "Juv. 8.235",
+"text": "ausi quod liceat tunica punire molesta."
+},
+{
+"id": "8.236",
+"label": "Juv. 8.236",
+"text": "sed vigilat consul vexillaque vestra coercet;"
+},
+{
+"id": "8.237",
+"label": "Juv. 8.237",
+"text": "hic novus Arpinas, ignobilis et modo Romae"
+},
+{
+"id": "8.238",
+"label": "Juv. 8.238",
+"text": "municipalis eques, galeatum ponit ubique"
+},
+{
+"id": "8.239",
+"label": "Juv. 8.239",
+"text": "praesidium attonitis et in omni monte laborat,"
+},
+{
+"id": "8.240",
+"label": "Juv. 8.240",
+"text": "tantum igitur muros intra toga contulit illi"
+},
+{
+"id": "8.241",
+"label": "Juv. 8.241",
+"text": "Leucade, quantum"
+},
+{
+"id": "8.242",
+"label": "Juv. 8.242",
+"text": "Thessaliae campis Octavius abstulit udo"
+},
+{
+"id": "8.243",
+"label": "Juv. 8.243",
+"text": "caedibus adsiduis gladio; sed Roma parentem,"
+},
+{
+"id": "8.244",
+"label": "Juv. 8.244",
+"text": "Roma patrem patriae Ciceronem libera dixit."
+},
+{
+"id": "8.245",
+"label": "Juv. 8.245",
+"text": "Arpinas alius Volscorum in monte solebat"
+},
+{
+"id": "8.246",
+"label": "Juv. 8.246",
+"text": "poscere mercedes alieno lassus aratro,"
+},
+{
+"id": "8.247",
+"label": "Juv. 8.247",
+"text": "nodosam post haec frangebat vertice vitem,"
+},
+{
+"id": "8.248",
+"label": "Juv. 8.248",
+"text": "si lentus pigra muniret castra dolabra;"
+},
+{
+"id": "8.249",
+"label": "Juv. 8.249",
+"text": "hic tamen et Cimbros et summa pericula rerum"
+},
+{
+"id": "8.250",
+"label": "Juv. 8.250",
+"text": "excipit et solus trepidantem protegit urbem."
+},
+{
+"id": "8.251",
+"label": "Juv. 8.251",
+"text": "atque ideo, postquam ad Cimbros stragemque volabant"
+},
+{
+"id": "8.252",
+"label": "Juv. 8.252",
+"text": "qui numquam attigerant maiora cadavera corvi,"
+},
+{
+"id": "8.253",
+"label": "Juv. 8.253",
+"text": "nobilis ornatur lauro collega secunda."
+},
+{
+"id": "8.254",
+"label": "Juv. 8.254",
+"text": "Plebeiae Deciorum animae, plebeia fuerunt"
+},
+{
+"id": "8.255",
+"label": "Juv. 8.255",
+"text": "nomina; pro totis legionibus hi tamen et pro"
+},
+{
+"id": "8.256",
+"label": "Juv. 8.256",
+"text": "omnibus auxiliis atque omni pube Latina"
+},
+{
+"id": "8.257",
+"label": "Juv. 8.257",
+"text": "sufficiunt dis infernis Terraeque parenti;"
+},
+{
+"id": "8.259",
+"label": "Juv. 8.259",
+"text": "Ancilla natus trabeam et diadema Quirini"
+},
+{
+"id": "8.260",
+"label": "Juv. 8.260",
+"text": "et fasces meruit, regum ultimus ille bonorum."
+},
+{
+"id": "8.261",
+"label": "Juv. 8.261",
+"text": "prodita laxabant portarum claustra tyrannis"
+},
+{
+"id": "8.262",
+"label": "Juv. 8.262",
+"text": "exulibus iuvenes ipsius consulis et quos"
+},
+{
+"id": "8.263",
+"label": "Juv. 8.263",
+"text": "magnum aliquid dubia pro libertate deceret,"
+},
+{
+"id": "8.264",
+"label": "Juv. 8.264",
+"text": "quod miraretur cum Coclite Mucius et quae"
+},
+{
+"id": "8.265",
+"label": "Juv. 8.265",
+"text": "imperii fines Tiberinum virgo natavit:"
+},
+{
+"id": "8.266",
+"label": "Juv. 8.266",
+"text": "occulta ad patres produxit crimina servus"
+},
+{
+"id": "8.267",
+"label": "Juv. 8.267",
+"text": "matronis lugendus, at illos verbera iustis"
+},
+{
+"id": "8.268",
+"label": "Juv. 8.268",
+"text": "adficiunt poenis et legum prima securis."
+},
+{
+"id": "8.269",
+"label": "Juv. 8.269",
+"text": "Malo pater tibi sit Thersites, dummodo tu sis"
+},
+{
+"id": "8.270",
+"label": "Juv. 8.270",
+"text": "Aeacidae similis Vulcaniaque arma capessas,"
+},
+{
+"id": "8.271",
+"label": "Juv. 8.271",
+"text": "quam te Thersitae similem producat Achilles,"
+},
+{
+"id": "8.272",
+"label": "Juv. 8.272",
+"text": "et tamen, ut longe repetas longeque revolvas"
+},
+{
+"id": "8.273",
+"label": "Juv. 8.273",
+"text": "nomen, ab infami gentem deducis asylo:"
+},
+{
+"id": "8.274",
+"label": "Juv. 8.274",
+"text": "maiorum primus, quisquis fuit ille, tuorum"
+},
+{
+"id": "8.275",
+"label": "Juv. 8.275",
+"text": "aut pastor fuit aut illud quod dicere nolo."
+}
+]
+}

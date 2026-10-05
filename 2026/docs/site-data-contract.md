@@ -268,3 +268,24 @@ on its page, a final marked done but unusable — go to stderr. Anything that wo
 data the viewer cannot trust (a marker for a page that does not exist, a page claimed by
 two sections, a note line that does not parse, a record that fails the schema) raises and
 writes nothing.
+
+## 7. Cited sources: `site/data/sources/` and `site/data/citations.json`
+
+These are not written by `split_pages.py`. **`docs/sources-contract.md` is the authority**
+on both (corpus ids, unit sizes, passage schemes, statuses); this section is only the
+shape the viewer reads.
+
+```json
+{"p046:a": [{"ref": "Decretals, X 2.23.16", "corpus": "decretals", "unit": "2.23",
+             "passage": "2.23.16", "passage_end": null, "status": "passage",
+             "external_url": "https://…", "scan_url": null}]}
+```
+
+The key is `<page id>:<English note key>`, so it must match a page's `english[].notes[].key`
+exactly; notes with a `null` key cannot carry citations. The viewer fetches
+`data/citations.json` once per load (a 404 turns the feature off), gives a note a
+**source** button when any of its citations is `passage` or `unit`, and a **scan ↗** link
+for each `scan` with an `http(s)` `scan_url`. The button opens a pane that fetches
+`data/sources/<corpus>/<unit>.json`, scrolls to `passage` and highlights through
+`passage_end` (both matched against passage `id` exactly). `data/sources/index.json`
+supplies the corpus title, attribution and licence in the pane and in the About dialog.

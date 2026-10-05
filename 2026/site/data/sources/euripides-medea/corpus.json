@@ -1,0 +1,16 @@
+{
+ "id": "euripides-medea",
+ "title": "Euripides, Medea",
+ "language": "grc",
+ "edition": "Μήδεια — Perseus Digital Library TEI (tlg0006.tlg003.perseus-grc2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-greekLit TEI tlg0006.tlg003.perseus-grc2",
+ "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/",
+ "unit_scheme": "work",
+ "passage_scheme": "line",
+ "units": [
+  "all"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0006/tlg003/tlg0006.tlg003.perseus-grc2.xml",
+ "unit_note": "Short work, or a work without books: one unit named 'all'."
+}

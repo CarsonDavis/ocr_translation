@@ -1,0 +1,4682 @@
+{
+"corpus": "manilius-astronomica",
+"unit": "4",
+"title": "Manilius, Astronomica, 4",
+"passages": [
+{
+"id": "4.1",
+"label": "Manil. 4.1",
+"text": "Quid tam sollicitis vitam consumimus annis"
+},
+{
+"id": "4.2",
+"label": "Manil. 4.2",
+"text": "torquemurque metu caecaque cupidine rerum"
+},
+{
+"id": "4.3",
+"label": "Manil. 4.3",
+"text": "aeternisque senes curis, dum quaerimus, aevum"
+},
+{
+"id": "4.4",
+"label": "Manil. 4.4",
+"text": "perdimus et nullo votorum fine beati"
+},
+{
+"id": "4.5",
+"label": "Manil. 4.5",
+"text": "victuros agimus semper nec vivimus umquam,"
+},
+{
+"id": "4.6",
+"label": "Manil. 4.6",
+"text": "pauperiorque bonis quisque est, quia plura requirit"
+},
+{
+"id": "4.7",
+"label": "Manil. 4.7",
+"text": "nec quod habet numerat, tantum quod non habet optat,"
+},
+{
+"id": "4.8",
+"label": "Manil. 4.8",
+"text": "cumque sibi parvos usus natura reposcat"
+},
+{
+"id": "4.9",
+"label": "Manil. 4.9",
+"text": "materiam struimus magnae per vota ruinae"
+},
+{
+"id": "4.10",
+"label": "Manil. 4.10",
+"text": "luxuriamque lucris emimus luxuque rapinas,"
+},
+{
+"id": "4.11",
+"label": "Manil. 4.11",
+"text": "et summum census pretium est effundere censum?"
+},
+{
+"id": "4.12",
+"label": "Manil. 4.12",
+"text": "solvite, mortales, animos curasque levate"
+},
+{
+"id": "4.13",
+"label": "Manil. 4.13",
+"text": "totque supervacuis vitam deplete querellis."
+},
+{
+"id": "4.14",
+"label": "Manil. 4.14",
+"text": "fata regunt orbem, certa stant omnia lege"
+},
+{
+"id": "4.15",
+"label": "Manil. 4.15",
+"text": "longaque per certos signantur tempora casus."
+},
+{
+"id": "4.16",
+"label": "Manil. 4.16",
+"text": "nascentes morimur, finisque ab origine pendet."
+},
+{
+"id": "4.17",
+"label": "Manil. 4.17",
+"text": "hinc et opes et regna fluunt et, saepius orta,"
+},
+{
+"id": "4.18",
+"label": "Manil. 4.18",
+"text": "paupertas, artesque datae moresque creatis"
+},
+{
+"id": "4.19",
+"label": "Manil. 4.19",
+"text": "et vitia et laudes, damna et compendia rerum."
+},
+{
+"id": "4.20",
+"label": "Manil. 4.20",
+"text": "nemo carere dato poterit nec habere negatum"
+},
+{
+"id": "4.21",
+"label": "Manil. 4.21",
+"text": "fortunamve suis invitam prendere votis"
+},
+{
+"id": "4.22",
+"label": "Manil. 4.22",
+"text": "aut fugere instantem: sors est sua cuique ferenda."
+},
+{
+"id": "4.23",
+"label": "Manil. 4.23",
+"text": "an, nisi fata darent leges vitaeque necisque,"
+},
+{
+"id": "4.24",
+"label": "Manil. 4.24",
+"text": "fugissent ignes Aenean, Troia sub uno"
+},
+{
+"id": "4.25",
+"label": "Manil. 4.25",
+"text": "non eversa viro fatis vicisset in ipsis?"
+},
+{
+"id": "4.26",
+"label": "Manil. 4.26",
+"text": "aut lupa proiectos nutrisset Martia fratres,"
+},
+{
+"id": "4.27",
+"label": "Manil. 4.27",
+"text": "Roma casis enata foret, pecudumque magistri"
+},
+{
+"id": "4.28",
+"label": "Manil. 4.28",
+"text": "in Capitolinos duxissent fulmina montes,"
+},
+{
+"id": "4.29",
+"label": "Manil. 4.29",
+"text": "includive sua potuisset Iuppiter arce,"
+},
+{
+"id": "4.30",
+"label": "Manil. 4.30",
+"text": "captus et ⟨a⟩ captis orbis foret: igne sepulto"
+},
+{
+"id": "4.31",
+"label": "Manil. 4.31",
+"text": "vulneribus victor repetisset Mucius urbem,"
+},
+{
+"id": "4.32",
+"label": "Manil. 4.32",
+"text": "solus et oppositis clausisset Horatius armis"
+},
+{
+"id": "4.33",
+"label": "Manil. 4.33",
+"text": "pontem urbemque simul, rupisset foedera virgo,"
+},
+{
+"id": "4.34",
+"label": "Manil. 4.34",
+"text": "tresque sub unius fratres virtute iacerent?"
+},
+{
+"id": "4.35",
+"label": "Manil. 4.35",
+"text": "nulla acies tantum vicit: pendebat ab uno"
+},
+{
+"id": "4.36",
+"label": "Manil. 4.36",
+"text": "Roma viro regnumque orbis sortita iacebat."
+},
+{
+"id": "4.37",
+"label": "Manil. 4.37",
+"text": "quid referam Cannas admotaque moenibus arma"
+},
+{
+"id": "4.38",
+"label": "Manil. 4.38",
+"text": "Varronemque fuga magnum 38a"
+},
+{
+"id": "4.39",
+"label": "Manil. 4.39",
+"text": "Fabiumque morando 39b"
+},
+{
+"id": "4.40",
+"label": "Manil. 4.40",
+"text": "postque tuos, Trasimenne, lacus, 39a\n\naccepisse iugum victae Carthaginis arces,"
+},
+{
+"id": "4.41",
+"label": "Manil. 4.41",
+"text": "cum vincere posset, 38b\n\nseque ratum Hannibalem nostris cecidisse catenis"
+},
+{
+"id": "4.42",
+"label": "Manil. 4.42",
+"text": "exitium generis furtiva morte luisse?"
+},
+{
+"id": "4.43",
+"label": "Manil. 4.43",
+"text": "adde etiam Latias acies Romamque suismet"
+},
+{
+"id": "4.44",
+"label": "Manil. 4.44",
+"text": "pugnantem membris, adice et civilia bella"
+},
+{
+"id": "4.45",
+"label": "Manil. 4.45",
+"text": "et Cimbrum in Mario Mariumque in carcere victum."
+},
+{
+"id": "4.46",
+"label": "Manil. 4.46",
+"text": "quod, consul totiens, exul, quod ⟨de⟩ exule consul"
+},
+{
+"id": "4.47",
+"label": "Manil. 4.47",
+"text": "adiacuit Libycis compar iactura ruinis"
+},
+{
+"id": "4.48",
+"label": "Manil. 4.48",
+"text": "eque crepidinibus cepit Carthaginis urbem,"
+},
+{
+"id": "4.49",
+"label": "Manil. 4.49",
+"text": "hoc, nisi fata darent, numquam fortuna tulisset."
+},
+{
+"id": "4.50",
+"label": "Manil. 4.50",
+"text": "quis te Niliaco periturum litore, Magne,"
+},
+{
+"id": "4.51",
+"label": "Manil. 4.51",
+"text": "post victas Mithridatis opes pelagusque receptum"
+},
+{
+"id": "4.52",
+"label": "Manil. 4.52",
+"text": "et tris emenso meritos ex orbe triumphos,"
+},
+{
+"id": "4.53",
+"label": "Manil. 4.53",
+"text": "cum te iam posses alium componere Magnum,"
+},
+{
+"id": "4.54",
+"label": "Manil. 4.54",
+"text": "crederet, ut corpus sepeliret naufragus ignis"
+},
+{
+"id": "4.55",
+"label": "Manil. 4.55",
+"text": "eiectaeque rogum facerent fragmenta carinae?"
+},
+{
+"id": "4.56",
+"label": "Manil. 4.56",
+"text": "quis tantum mutare potest sine numine fati?"
+},
+{
+"id": "4.57",
+"label": "Manil. 4.57",
+"text": "ille etiam caelo genitus caeloque receptus,"
+},
+{
+"id": "4.58",
+"label": "Manil. 4.58",
+"text": "cum bene compositis victor civilibus armis"
+},
+{
+"id": "4.59",
+"label": "Manil. 4.59",
+"text": "iura togae regeret, totiens praedicta cavere"
+},
+{
+"id": "4.60",
+"label": "Manil. 4.60",
+"text": "vulnera non potuit: toto spectante senatu,"
+},
+{
+"id": "4.61",
+"label": "Manil. 4.61",
+"text": "indicium dextra retinens nomenque, cruore"
+},
+{
+"id": "4.62",
+"label": "Manil. 4.62",
+"text": "delevit proprio, possent ut vincere fata."
+},
+{
+"id": "4.63",
+"label": "Manil. 4.63",
+"text": "quid numerem eversas urbes regumque ruinas,"
+},
+{
+"id": "4.64",
+"label": "Manil. 4.64",
+"text": "inque rogo Croesum Priamique in litore truncum,"
+},
+{
+"id": "4.65",
+"label": "Manil. 4.65",
+"text": "cui nec Troia rogus? quid Xerxen, maius et ipso"
+},
+{
+"id": "4.66",
+"label": "Manil. 4.66",
+"text": "naufragium pelago? quid capto sanguine regem"
+},
+{
+"id": "4.67",
+"label": "Manil. 4.67",
+"text": "Romanis positum, raptosque ex ignibus ignes"
+},
+{
+"id": "4.68",
+"label": "Manil. 4.68",
+"text": "cedentemque viro flammam quae templa ferebat?"
+},
+{
+"id": "4.69",
+"label": "Manil. 4.69",
+"text": "quot subitae veniunt validorum in corpora mortes"
+},
+{
+"id": "4.70",
+"label": "Manil. 4.70",
+"text": "seque ipsae rursus fugiunt errantque per ignes!"
+},
+{
+"id": "4.71",
+"label": "Manil. 4.71",
+"text": "ex ipsis quidam elati rediere sepulcris,"
+},
+{
+"id": "4.72",
+"label": "Manil. 4.72",
+"text": "atque his vita duplex, illis vix contigit una."
+},
+{
+"id": "4.73",
+"label": "Manil. 4.73",
+"text": "ecce levis perimit morbus graviorque remittit;"
+},
+{
+"id": "4.74",
+"label": "Manil. 4.74",
+"text": "succumbunt artes, rationis vincitur usus,"
+},
+{
+"id": "4.75",
+"label": "Manil. 4.75",
+"text": "cura nocet, cessare iuvat, mora saepe malorum"
+},
+{
+"id": "4.76",
+"label": "Manil. 4.76",
+"text": "dat pausas; laeduntque cibi parcuntque venena."
+},
+{
+"id": "4.77",
+"label": "Manil. 4.77",
+"text": "degenerant nati patribus vincuntque parentes"
+},
+{
+"id": "4.78",
+"label": "Manil. 4.78",
+"text": "ingeniumque suum retinent; transitque per illum,"
+},
+{
+"id": "4.79",
+"label": "Manil. 4.79",
+"text": "ex illo fortuna venit. furit alter amore"
+},
+{
+"id": "4.80",
+"label": "Manil. 4.80",
+"text": "et pontum tranare potest et vertere Troiam,"
+},
+{
+"id": "4.81",
+"label": "Manil. 4.81",
+"text": "alterius frons est scribendis legibus apta."
+},
+{
+"id": "4.82",
+"label": "Manil. 4.82",
+"text": "ecce patrem nati perimunt natosque parentes"
+},
+{
+"id": "4.83",
+"label": "Manil. 4.83",
+"text": "mutuaque armati coeunt in vulnera fratres."
+},
+{
+"id": "4.84",
+"label": "Manil. 4.84",
+"text": "non hominum hoc bellum est; coguntur tanta moveri"
+},
+{
+"id": "4.85",
+"label": "Manil. 4.85",
+"text": "inque suas ferri poenas lacerandaque membra."
+},
+{
+"id": "4.86",
+"label": "Manil. 4.86",
+"text": "quod Decios non omne tulit, non omne Camillos"
+},
+{
+"id": "4.87",
+"label": "Manil. 4.87",
+"text": "tempus et invicta devictum mente Catonem,"
+},
+{
+"id": "4.88",
+"label": "Manil. 4.88",
+"text": "materies in rem superat sed lege repugnat."
+},
+{
+"id": "4.89",
+"label": "Manil. 4.89",
+"text": "et neque paupertas breviores excipit annos"
+},
+{
+"id": "4.90",
+"label": "Manil. 4.90",
+"text": "nec sunt immensis opibus venalia fata,"
+},
+{
+"id": "4.91",
+"label": "Manil. 4.91",
+"text": "sed rapit ex tecto funus Fortuna superbo"
+},
+{
+"id": "4.92",
+"label": "Manil. 4.92",
+"text": "indicitque rogum summis statuitque sepulcrum."
+},
+{
+"id": "4.93",
+"label": "Manil. 4.93",
+"text": "quantum est hoc regnum, quod regibus imperat ipsis!"
+},
+{
+"id": "4.94",
+"label": "Manil. 4.94",
+"text": "quin etiam infelix virtus et noxia felix,"
+},
+{
+"id": "4.95",
+"label": "Manil. 4.95",
+"text": "et male consultis pretium est, prudentia fallit;"
+},
+{
+"id": "4.96",
+"label": "Manil. 4.96",
+"text": "nec Fortuna probat causas, sequiturque merentis,"
+},
+{
+"id": "4.97",
+"label": "Manil. 4.97",
+"text": "sed vaga per cunctos nullo discrimine fertur."
+},
+{
+"id": "4.98",
+"label": "Manil. 4.98",
+"text": "scilicet est aliud, quod nos cogatque regatque,"
+},
+{
+"id": "4.99",
+"label": "Manil. 4.99",
+"text": "maius, et in proprias ducat mortalia leges"
+},
+{
+"id": "4.100",
+"label": "Manil. 4.100",
+"text": "attribuatque suos ex se nascentibus annos"
+},
+{
+"id": "4.101",
+"label": "Manil. 4.101",
+"text": "fortunaeque vices. permiscet saepe ferarum"
+},
+{
+"id": "4.102",
+"label": "Manil. 4.102",
+"text": "corpora cum membris hominum: non seminis ille"
+},
+{
+"id": "4.103",
+"label": "Manil. 4.103",
+"text": "partus erit; quid enim nobis commune ferisque,"
+},
+{
+"id": "4.104",
+"label": "Manil. 4.104",
+"text": "quisve in portenti noxam peccarit adulter?"
+},
+{
+"id": "4.105",
+"label": "Manil. 4.105",
+"text": "astra novant formas caelumque interserit ora."
+},
+{
+"id": "4.106",
+"label": "Manil. 4.106",
+"text": "denique, si non est, fati cur traditur ordo,"
+},
+{
+"id": "4.107",
+"label": "Manil. 4.107",
+"text": "cunctaque temporibus certis ventura canuntur?"
+},
+{
+"id": "4.108",
+"label": "Manil. 4.108",
+"text": "nec tamen haec ratio facinus defendere pergit"
+},
+{
+"id": "4.109",
+"label": "Manil. 4.109",
+"text": "virtutemve suis fraudare in praemia donis."
+},
+{
+"id": "4.110",
+"label": "Manil. 4.110",
+"text": "nam neque mortiferas quisquam minus oderit herbas"
+},
+{
+"id": "4.111",
+"label": "Manil. 4.111",
+"text": "quod non arbitrio veniunt sed semine certo,"
+},
+{
+"id": "4.112",
+"label": "Manil. 4.112",
+"text": "gratia nec levior tribuetur dulcibus escis"
+},
+{
+"id": "4.113",
+"label": "Manil. 4.113",
+"text": "quod natura dedit fruges, non ulla voluntas."
+},
+{
+"id": "4.114",
+"label": "Manil. 4.114",
+"text": "sic hominum meritis tanto sit gloria maior"
+},
+{
+"id": "4.115",
+"label": "Manil. 4.115",
+"text": "quod caelo laudem debent, rursusque nocentis"
+},
+{
+"id": "4.116",
+"label": "Manil. 4.116",
+"text": "oderimus magis in culpam poenasque creatos."
+},
+{
+"id": "4.117",
+"label": "Manil. 4.117",
+"text": "nec refert scelus unde cadat, scelus esse fatendum."
+},
+{
+"id": "4.118",
+"label": "Manil. 4.118",
+"text": "hoc quoque fatale est, sic ipsum expendere fatum."
+},
+{
+"id": "4.119",
+"label": "Manil. 4.119",
+"text": "[quod quoniam docui, superest nunc ordine certo"
+},
+{
+"id": "4.120",
+"label": "Manil. 4.120",
+"text": "caelestis fabricare gradus, qui ducere flexo"
+},
+{
+"id": "4.121",
+"label": "Manil. 4.121",
+"text": "tramite pendentem valeant ad sidera vatem]"
+},
+{
+"id": "4.122",
+"label": "Manil. 4.122",
+"text": "Nunc tibi signorum mores summumque colorem"
+},
+{
+"id": "4.123",
+"label": "Manil. 4.123",
+"text": "et studia et varias artes ex ordine reddam."
+},
+{
+"id": "4.124",
+"label": "Manil. 4.124",
+"text": "Dives fecundis Aries in vellera lanis"
+},
+{
+"id": "4.125",
+"label": "Manil. 4.125",
+"text": "exutusque novis rursum spem semper habebit,"
+},
+{
+"id": "4.126",
+"label": "Manil. 4.126",
+"text": "naufragiumque inter subitum censusque beatos"
+},
+{
+"id": "4.127",
+"label": "Manil. 4.127",
+"text": "crescendo cadet et votis in damna feretur,"
+},
+{
+"id": "4.128",
+"label": "Manil. 4.128",
+"text": "in vulgumque dabit fructus et mille per artes"
+},
+{
+"id": "4.129",
+"label": "Manil. 4.129",
+"text": "vellera diversos ex se parientia quaestus:"
+},
+{
+"id": "4.130",
+"label": "Manil. 4.130",
+"text": "nunc glomerare rudis nunc rursus solvere lanas,"
+},
+{
+"id": "4.131",
+"label": "Manil. 4.131",
+"text": "nunc tenuare levi filo nunc ducere telas,"
+},
+{
+"id": "4.132",
+"label": "Manil. 4.132",
+"text": "nunc emere et varias in quaestum vendere vestes,"
+},
+{
+"id": "4.133",
+"label": "Manil. 4.133",
+"text": "quis sine non poterant ullae subsistere gentes"
+},
+{
+"id": "4.134",
+"label": "Manil. 4.134",
+"text": "vel sine luxuria. tantum est opus, ipsa suismet"
+},
+{
+"id": "4.135",
+"label": "Manil. 4.135",
+"text": "asseruit Pallas manibus dignumque putavit,"
+},
+{
+"id": "4.136",
+"label": "Manil. 4.136",
+"text": "seque in Arachnaeo magnam putat esse triumpho."
+},
+{
+"id": "4.137",
+"label": "Manil. 4.137",
+"text": "haec studia et similis dicet nascentibus artes,"
+},
+{
+"id": "4.138",
+"label": "Manil. 4.138",
+"text": "et dubia in trepido praecordia pectore finget"
+},
+{
+"id": "4.139",
+"label": "Manil. 4.139",
+"text": "seque sua semper cupientia vendere laude."
+},
+{
+"id": "4.140",
+"label": "Manil. 4.140",
+"text": "Taurus simplicibus dotabit rura colonis"
+},
+{
+"id": "4.141",
+"label": "Manil. 4.141",
+"text": "pacatisque labor veniet; nec praemia laudis"
+},
+{
+"id": "4.142",
+"label": "Manil. 4.142",
+"text": "sed terrae tribuet partus. summittit in astris"
+},
+{
+"id": "4.143",
+"label": "Manil. 4.143",
+"text": "colla iugumque suis poscit cervicibus ipse."
+},
+{
+"id": "4.144",
+"label": "Manil. 4.144",
+"text": "ille suis Phoebi portat cum cornibus orbem"
+},
+{
+"id": "4.145",
+"label": "Manil. 4.145",
+"text": "militiam indicit terris et segnia rura"
+},
+{
+"id": "4.146",
+"label": "Manil. 4.146",
+"text": "in veteres revocat cultus, dux ipse laboris,"
+},
+{
+"id": "4.147",
+"label": "Manil. 4.147",
+"text": "nec iacet in sulcis solvitque in pulvere pectus."
+},
+{
+"id": "4.148",
+"label": "Manil. 4.148",
+"text": "Serranos Curiosque tulit fascesque per arva"
+},
+{
+"id": "4.149",
+"label": "Manil. 4.149",
+"text": "tradidit, eque suo dictator venit aratro."
+},
+{
+"id": "4.150",
+"label": "Manil. 4.150",
+"text": "laudis amor tacitae; mentes et corpora tarda"
+},
+{
+"id": "4.151",
+"label": "Manil. 4.151",
+"text": "mole valent, habitatque puer sub fronte Cupido."
+},
+{
+"id": "4.152",
+"label": "Manil. 4.152",
+"text": "Mollius e Geminis studium est et mitior aetas"
+},
+{
+"id": "4.153",
+"label": "Manil. 4.153",
+"text": "per varios cantus modulataque vocibus ora"
+},
+{
+"id": "4.154",
+"label": "Manil. 4.154",
+"text": "et gracilis calamos et nervis insita verba"
+},
+{
+"id": "4.155",
+"label": "Manil. 4.155",
+"text": "ingenitumque sonum: labor est etiam ipse voluptas."
+},
+{
+"id": "4.156",
+"label": "Manil. 4.156",
+"text": "arma procul lituosque volunt tristemque senectam,"
+},
+{
+"id": "4.157",
+"label": "Manil. 4.157",
+"text": "otia et aeternam peragunt in amore iuventam."
+},
+{
+"id": "4.158",
+"label": "Manil. 4.158",
+"text": "inveniunt et in astra vias numerisque modisque"
+},
+{
+"id": "4.159",
+"label": "Manil. 4.159",
+"text": "consummant orbem postque ipsos sidera linquunt:"
+},
+{
+"id": "4.160",
+"label": "Manil. 4.160",
+"text": "natura ingenio minor est perque omnia servit."
+},
+{
+"id": "4.161",
+"label": "Manil. 4.161",
+"text": "in tot fecundi Gemini commenta feruntur."
+},
+{
+"id": "4.162",
+"label": "Manil. 4.162",
+"text": "Cancer ad ardentem fulgens in cardine metam,"
+},
+{
+"id": "4.163",
+"label": "Manil. 4.163",
+"text": "quam Phoebus summis revocatus cursibus ambit,"
+},
+{
+"id": "4.164",
+"label": "Manil. 4.164",
+"text": "articulum mundi retinet lucesque reflectit."
+},
+{
+"id": "4.165",
+"label": "Manil. 4.165",
+"text": "ille tenax animi nullosque effusus in usus"
+},
+{
+"id": "4.166",
+"label": "Manil. 4.166",
+"text": "attribuit varios quaestus artemque lucrorum:"
+},
+{
+"id": "4.167",
+"label": "Manil. 4.167",
+"text": "merce peregrina fortunam ferre per urbes"
+},
+{
+"id": "4.168",
+"label": "Manil. 4.168",
+"text": "et gravia annonae speculantem incendia ventis"
+},
+{
+"id": "4.169",
+"label": "Manil. 4.169",
+"text": "credere opes orbisque orbi bona vendere posse"
+},
+{
+"id": "4.170",
+"label": "Manil. 4.170",
+"text": "totque per ignotas commercia iungere terras"
+},
+{
+"id": "4.171",
+"label": "Manil. 4.171",
+"text": "atque alio sub sole novas exquirere praedas"
+},
+{
+"id": "4.172",
+"label": "Manil. 4.172",
+"text": "et rerum pretio subitos componere census."
+},
+{
+"id": "4.173",
+"label": "Manil. 4.173",
+"text": "ignava et, celeris optando sortibus annos,"
+},
+{
+"id": "4.174",
+"label": "Manil. 4.174",
+"text": "dulcibus usuris aequo Iove tempora vendit."
+},
+{
+"id": "4.175",
+"label": "Manil. 4.175",
+"text": "ingenium sollers suaque in compendia pugnax."
+},
+{
+"id": "4.176",
+"label": "Manil. 4.176",
+"text": "Quis dubitet, vasti quae sit natura Leonis"
+},
+{
+"id": "4.177",
+"label": "Manil. 4.177",
+"text": "quasque suo dictet signo nascentibus artes?"
+},
+{
+"id": "4.178",
+"label": "Manil. 4.178",
+"text": "ille novas semper pugnas, nova bella ferarum"
+},
+{
+"id": "4.179",
+"label": "Manil. 4.179",
+"text": "apparat, et spolio vivit pecorumque rapinis;"
+},
+{
+"id": "4.180",
+"label": "Manil. 4.180",
+"text": "hos habet hoc studium, postes ornare superbos"
+},
+{
+"id": "4.181",
+"label": "Manil. 4.181",
+"text": "pellibus et captas domibus praefigere praedas"
+},
+{
+"id": "4.182",
+"label": "Manil. 4.182",
+"text": "et pacare metu silvas et vivere rapto."
+},
+{
+"id": "4.183",
+"label": "Manil. 4.183",
+"text": "sunt quorum similis animos nec moenia frenent,"
+},
+{
+"id": "4.184",
+"label": "Manil. 4.184",
+"text": "sed pecudum mandris media grassentur in urbe"
+},
+{
+"id": "4.185",
+"label": "Manil. 4.185",
+"text": "et laceros artus suspendant fronte tabernae"
+},
+{
+"id": "4.186",
+"label": "Manil. 4.186",
+"text": "luxuriaeque parent caedem mortesque lucrentur."
+},
+{
+"id": "4.187",
+"label": "Manil. 4.187",
+"text": "ingenium ad subitas iras facilisque recessus"
+},
+{
+"id": "4.188",
+"label": "Manil. 4.188",
+"text": "aequale et puro sententia pectore simplex."
+},
+{
+"id": "4.189",
+"label": "Manil. 4.189",
+"text": "At quibus Erigone dixit nascentibus aevum"
+},
+{
+"id": "4.191",
+"label": "Manil. 4.191",
+"text": "ad studium ducet mores et pectora doctis"
+},
+{
+"id": "4.192",
+"label": "Manil. 4.192",
+"text": "artibus instituet, nec tam compendia census"
+},
+{
+"id": "4.193",
+"label": "Manil. 4.193",
+"text": "quam causas viresque dabit perquirere rerum."
+},
+{
+"id": "4.194",
+"label": "Manil. 4.194",
+"text": "illa decus linguae faciet regnumque loquendi"
+},
+{
+"id": "4.195",
+"label": "Manil. 4.195",
+"text": "atque oculos mentis, qui possint cernere cuncta"
+},
+{
+"id": "4.196",
+"label": "Manil. 4.196",
+"text": "quamvis occultis naturae condita causis."
+},
+{
+"id": "4.197",
+"label": "Manil. 4.197",
+"text": "hinc et scriptor erit velox, cui littera verbum est"
+},
+{
+"id": "4.198",
+"label": "Manil. 4.198",
+"text": "quique notis linguam superet cursimque loquentis"
+},
+{
+"id": "4.199",
+"label": "Manil. 4.199",
+"text": "excipiat longas nova per compendia voces."
+},
+{
+"id": "4.200",
+"label": "Manil. 4.200",
+"text": "in vitio bona sunt: teneros pudor impedit annos,"
+},
+{
+"id": "4.201",
+"label": "Manil. 4.201",
+"text": "magnaque naturae cohibendo munera frenat"
+},
+{
+"id": "4.190",
+"label": "Manil. 4.190",
+"text": "ora magisterio nodisque coercita Virgo."
+},
+{
+"id": "4.202",
+"label": "Manil. 4.202",
+"text": "nec fecundus erit (quid mirum in virgine?) partus."
+},
+{
+"id": "4.203",
+"label": "Manil. 4.203",
+"text": "Librantes noctem Chelae cum tempore lucis"
+},
+{
+"id": "4.204",
+"label": "Manil. 4.204",
+"text": "per nova maturi post annum munera Bacchi"
+},
+{
+"id": "4.205",
+"label": "Manil. 4.205",
+"text": "mensurae tribuent usus ac pondera rerum"
+},
+{
+"id": "4.206",
+"label": "Manil. 4.206",
+"text": "et Palamedeis certantem viribus ortum,"
+},
+{
+"id": "4.207",
+"label": "Manil. 4.207",
+"text": "qui primus numeros rebus, qui nomina summis"
+},
+{
+"id": "4.208",
+"label": "Manil. 4.208",
+"text": "imposuit certumque modum propriasque figuras."
+},
+{
+"id": "4.209",
+"label": "Manil. 4.209",
+"text": "hic etiam legum tabulas et condita iura"
+},
+{
+"id": "4.210",
+"label": "Manil. 4.210",
+"text": "noverit atque notis levibus pendentia verba,"
+},
+{
+"id": "4.211",
+"label": "Manil. 4.211",
+"text": "et licitum sciet, et vetitum quae poena sequatur,"
+},
+{
+"id": "4.212",
+"label": "Manil. 4.212",
+"text": "perpetuus populi privato in limine praetor."
+},
+{
+"id": "4.213",
+"label": "Manil. 4.213",
+"text": "non alio potius genitus sit Servius astro,"
+},
+{
+"id": "4.214",
+"label": "Manil. 4.214",
+"text": "qui leges proprias posuit, cum iura retexit."
+},
+{
+"id": "4.215",
+"label": "Manil. 4.215",
+"text": "denique, in ambiguo fuerit quodcumque locatum"
+},
+{
+"id": "4.216",
+"label": "Manil. 4.216",
+"text": "et rectoris egens, diriment examina Librae."
+},
+{
+"id": "4.217",
+"label": "Manil. 4.217",
+"text": "Scorpios armata violenta cuspide cauda,"
+},
+{
+"id": "4.218",
+"label": "Manil. 4.218",
+"text": "qua, sua cum Phoebi currum per sidera ducit,"
+},
+{
+"id": "4.219",
+"label": "Manil. 4.219",
+"text": "rimatur terras et sulcis semina miscet,"
+},
+{
+"id": "4.220",
+"label": "Manil. 4.220",
+"text": "in bellum ardentis animos et Martia castra"
+},
+{
+"id": "4.221",
+"label": "Manil. 4.221",
+"text": "efficit et multo gaudentem sanguine mentem"
+},
+{
+"id": "4.222",
+"label": "Manil. 4.222",
+"text": "nec praeda quam caede magis. quin ipsa sub armis"
+},
+{
+"id": "4.223",
+"label": "Manil. 4.223",
+"text": "pax agitur: capiunt saltus silvasque peragrant,"
+},
+{
+"id": "4.224",
+"label": "Manil. 4.224",
+"text": "nunc hominum, nunc bella gerunt violenta ferarum,"
+},
+{
+"id": "4.225",
+"label": "Manil. 4.225",
+"text": "nunc caput in mortem vendunt et funus harenae,"
+},
+{
+"id": "4.226",
+"label": "Manil. 4.226",
+"text": "atque hostem sibi quisque parat, cum bella quiescunt."
+},
+{
+"id": "4.227",
+"label": "Manil. 4.227",
+"text": "sunt quibus et simulacra placent et ludus in armis"
+},
+{
+"id": "4.228",
+"label": "Manil. 4.228",
+"text": "(tantus amor pugnae), discuntque per otia bellum"
+},
+{
+"id": "4.229",
+"label": "Manil. 4.229",
+"text": "et quodcumque pari studium producitur arte."
+},
+{
+"id": "4.230",
+"label": "Manil. 4.230",
+"text": "At, quibus in bifero Centauri corpore sors est"
+},
+{
+"id": "4.231",
+"label": "Manil. 4.231",
+"text": "nascendi concessa, libet subiungere currus,"
+},
+{
+"id": "4.232",
+"label": "Manil. 4.232",
+"text": "ardentis et equos ad mollia ducere frena"
+},
+{
+"id": "4.233",
+"label": "Manil. 4.233",
+"text": "et totis armenta sequi pascentia campis,"
+},
+{
+"id": "4.234",
+"label": "Manil. 4.234",
+"text": "quadrupedum omne genus positis domitare magistris,"
+},
+{
+"id": "4.235",
+"label": "Manil. 4.235",
+"text": "exorare tigres rabiemque auferre leoni"
+},
+{
+"id": "4.236",
+"label": "Manil. 4.236",
+"text": "cumque elephante loqui tantamque aptare loquendo"
+},
+{
+"id": "4.237",
+"label": "Manil. 4.237",
+"text": "artibus humanis varia ad spectacula molem."
+},
+{
+"id": "4.238",
+"label": "Manil. 4.238",
+"text": "quippe ferae mixtum est hominis per sidera corpus"
+},
+{
+"id": "4.239",
+"label": "Manil. 4.239",
+"text": "impositumque manet, quocirca regnat in illas."
+},
+{
+"id": "4.240",
+"label": "Manil. 4.240",
+"text": "quodque intenta gerit curvato spicula cornu,"
+},
+{
+"id": "4.241",
+"label": "Manil. 4.241",
+"text": "et nervos tribuit membris et acumina cordi"
+},
+{
+"id": "4.242",
+"label": "Manil. 4.242",
+"text": "et celeris motus nec delassabile pectus."
+},
+{
+"id": "4.243",
+"label": "Manil. 4.243",
+"text": "Vesta tuos, Capricorne, fovet penetralibus ignes:"
+},
+{
+"id": "4.244",
+"label": "Manil. 4.244",
+"text": "hinc artes studiumque trahis. nam quidquid in usus"
+},
+{
+"id": "4.245",
+"label": "Manil. 4.245",
+"text": "ignis eget poscitque novas ad munera flammas"
+},
+{
+"id": "4.246",
+"label": "Manil. 4.246",
+"text": "sub te censendum est. scrutari caeca metalla,"
+},
+{
+"id": "4.247",
+"label": "Manil. 4.247",
+"text": "depositas et opes terrarum exurere venis,"
+},
+{
+"id": "4.248",
+"label": "Manil. 4.248",
+"text": "materiamque manu certa duplicare erit a te,"
+},
+{
+"id": "4.249",
+"label": "Manil. 4.249",
+"text": "quidquid et argento fabricetur, quidquid et auro."
+},
+{
+"id": "4.250",
+"label": "Manil. 4.250",
+"text": "quod ferrum calidi solvant atque aera camini"
+},
+{
+"id": "4.251",
+"label": "Manil. 4.251",
+"text": "consummentque foci Cererem, tua munera surgent."
+},
+{
+"id": "4.252",
+"label": "Manil. 4.252",
+"text": "addis et in vestes studium mercemque fugantem"
+},
+{
+"id": "4.253",
+"label": "Manil. 4.253",
+"text": "frigora, brumalem servans per saecula sortem,"
+},
+{
+"id": "4.254",
+"label": "Manil. 4.254",
+"text": "qua retrahis ductas summa ad fastigia noctes"
+},
+{
+"id": "4.255",
+"label": "Manil. 4.255",
+"text": "nascentemque facis revocatis lucibus annum."
+},
+{
+"id": "4.256",
+"label": "Manil. 4.256",
+"text": "hinc et mobilitas rerum, mutataque saepe"
+},
+{
+"id": "4.257",
+"label": "Manil. 4.257",
+"text": "mens natat; et 257a"
+},
+{
+"id": "4.258",
+"label": "Manil. 4.258",
+"text": "Veneri mixto cum crimine servit 258b"
+},
+{
+"id": "4.259",
+"label": "Manil. 4.259",
+"text": "pars prior, at 258a\n\nIlle quoque, inflexa fontem qui proicit urna,"
+},
+{
+"id": "4.260",
+"label": "Manil. 4.260",
+"text": "melior iuncto sub pisce senecta est. 257b\n\ncognatas tribuit iuvenalis Aquarius artes:"
+},
+{
+"id": "4.261",
+"label": "Manil. 4.261",
+"text": "cernere sub terris undas, inducere terris,"
+},
+{
+"id": "4.262",
+"label": "Manil. 4.262",
+"text": "ipsaque conversis aspergere fluctibus astra"
+},
+{
+"id": "4.263",
+"label": "Manil. 4.263",
+"text": "litoribusque novis per luxum illudere ponto"
+},
+{
+"id": "4.264",
+"label": "Manil. 4.264",
+"text": "et varios fabricare lacus et flumina ficta"
+},
+{
+"id": "4.265",
+"label": "Manil. 4.265",
+"text": "et peregrinantis domibus suspendere rivos."
+},
+{
+"id": "4.266",
+"label": "Manil. 4.266",
+"text": "mille sub hoc habitant artes, quas temperat unda."
+},
+{
+"id": "4.267",
+"label": "Manil. 4.267",
+"text": "quippe etiam mundi faciem sedesque movebit"
+},
+{
+"id": "4.268",
+"label": "Manil. 4.268",
+"text": "sidereas caelumque novum versabit in orbem."
+},
+{
+"id": "4.269",
+"label": "Manil. 4.269",
+"text": "⟨tempore non ullo subolem taedebit Aquari,⟩ 268a"
+},
+{
+"id": "4.270",
+"label": "Manil. 4.270",
+"text": "quae per aquas veniunt, operum, fontesque sequuntur."
+},
+{
+"id": "4.271",
+"label": "Manil. 4.271",
+"text": "mite genus dulcesque fluunt a sidere partus,"
+},
+{
+"id": "4.272",
+"label": "Manil. 4.272",
+"text": "pectora nec sordent; faciles in damna feruntur;"
+},
+{
+"id": "4.273",
+"label": "Manil. 4.273",
+"text": "nec dest nec superest census. sic profluit urna."
+},
+{
+"id": "4.274",
+"label": "Manil. 4.274",
+"text": "Ultima quos gemini producunt sidera Pisces,"
+},
+{
+"id": "4.275",
+"label": "Manil. 4.275",
+"text": "his erit in pontum studium, vitamque profundo\n\ncredent et puppes aut puppibus arma parabunt,"
+},
+{
+"id": "4.276",
+"label": "Manil. 4.276",
+"text": "quidquid et in proprios pelagus desiderat usus."
+},
+{
+"id": "4.277",
+"label": "Manil. 4.277",
+"text": "innumerae veniunt artes: vix nomina rebus"
+},
+{
+"id": "4.278",
+"label": "Manil. 4.278",
+"text": "sufficiunt, tot sunt parvae quoque membra carinae."
+},
+{
+"id": "4.279",
+"label": "Manil. 4.279",
+"text": "adde gubernandi studium, quod venit in astra"
+},
+{
+"id": "4.280",
+"label": "Manil. 4.280",
+"text": "et pontum caelo vincit. bene noverit orbem"
+},
+{
+"id": "4.281",
+"label": "Manil. 4.281",
+"text": "fluminaque et portus, mundum ventosque, necesse est"
+},
+{
+"id": "4.282",
+"label": "Manil. 4.282",
+"text": "iamque huc atque illuc agilem convertere clavum"
+},
+{
+"id": "4.283",
+"label": "Manil. 4.283",
+"text": "et frenare ratem fluctusque effundere rector,"
+},
+{
+"id": "4.284",
+"label": "Manil. 4.284",
+"text": "iam remis agere et lentas inflectere tonsas."
+},
+{
+"id": "4.285",
+"label": "Manil. 4.285",
+"text": "quin placidum ductis everrere retibus aequor"
+},
+{
+"id": "4.286",
+"label": "Manil. 4.286",
+"text": "litoribusque suis populos exponere captos"
+},
+{
+"id": "4.287",
+"label": "Manil. 4.287",
+"text": "aut uncos celare cibis aut carcere fraudem,"
+},
+{
+"id": "4.288",
+"label": "Manil. 4.288",
+"text": "navalis etiam pugnas, pendentia bella,"
+},
+{
+"id": "4.289",
+"label": "Manil. 4.289",
+"text": "attribuunt pelagique infectos sanguine fluctus."
+},
+{
+"id": "4.290",
+"label": "Manil. 4.290",
+"text": "fecundum genus est natis et amica voluntas"
+},
+{
+"id": "4.291",
+"label": "Manil. 4.291",
+"text": "et celeres motus mutataque cuncta per aevum."
+},
+{
+"id": "4.292",
+"label": "Manil. 4.292",
+"text": "Hos tribuunt mores atque has nascentibus artes"
+},
+{
+"id": "4.293",
+"label": "Manil. 4.293",
+"text": "bis sex materia propria pollentia signa."
+},
+{
+"id": "4.294",
+"label": "Manil. 4.294",
+"text": "Sed nihil in semet totum valet: omnia vires"
+},
+{
+"id": "4.295",
+"label": "Manil. 4.295",
+"text": "cum certis sociant signis sub partibus aequis"
+},
+{
+"id": "4.296",
+"label": "Manil. 4.296",
+"text": "et velut hospitio mundi commercia iungunt"
+},
+{
+"id": "4.297",
+"label": "Manil. 4.297",
+"text": "conceduntque suas partes retinentibus astris."
+},
+{
+"id": "4.298",
+"label": "Manil. 4.298",
+"text": "quam partem Graiae dixere decanica gentes."
+},
+{
+"id": "4.299",
+"label": "Manil. 4.299",
+"text": "a numero nomen positum est, quod partibus astra"
+},
+{
+"id": "4.300",
+"label": "Manil. 4.300",
+"text": "condita tricenis triplici sub sorte feruntur"
+},
+{
+"id": "4.301",
+"label": "Manil. 4.301",
+"text": "et tribuunt denas in se coeuntibus astris"
+},
+{
+"id": "4.302",
+"label": "Manil. 4.302",
+"text": "inque vicem ternis habitantur sidera signis."
+},
+{
+"id": "4.303",
+"label": "Manil. 4.303",
+"text": "sic altis natura manet consaepta tenebris"
+},
+{
+"id": "4.304",
+"label": "Manil. 4.304",
+"text": "et verum in caeco est multaque ambagine rerum;"
+},
+{
+"id": "4.305",
+"label": "Manil. 4.305",
+"text": "nec brevis est usus nec amat compendia caelum,"
+},
+{
+"id": "4.306",
+"label": "Manil. 4.306",
+"text": "verum aliis alia opposita est et fallit imago"
+},
+{
+"id": "4.307",
+"label": "Manil. 4.307",
+"text": "mentiturque suas vires et munera celat."
+},
+{
+"id": "4.308",
+"label": "Manil. 4.308",
+"text": "quae tibi non oculis, alta sed mente fuganda est"
+},
+{
+"id": "4.309",
+"label": "Manil. 4.309",
+"text": "caligo, penitusque deus, non fronte, notandus."
+},
+{
+"id": "4.310",
+"label": "Manil. 4.310",
+"text": "Nunc quae sint coniuncta quibus quove ordine reddam,"
+},
+{
+"id": "4.311",
+"label": "Manil. 4.311",
+"text": "ne lateant aliae vires aliena per astra."
+},
+{
+"id": "4.312",
+"label": "Manil. 4.312",
+"text": "namque Aries primam partem sibi vindicat ipsi,"
+},
+{
+"id": "4.313",
+"label": "Manil. 4.313",
+"text": "altera sors Tauro, Geminis pars tertia cedit."
+},
+{
+"id": "4.314",
+"label": "Manil. 4.314",
+"text": "sidera sic inter divisum dicitur astrum"
+},
+{
+"id": "4.315",
+"label": "Manil. 4.315",
+"text": "totque dabit vires dominos quotcumque recepit."
+},
+{
+"id": "4.316",
+"label": "Manil. 4.316",
+"text": "diversa in Tauro ratio est, nec parte sub ulla"
+},
+{
+"id": "4.317",
+"label": "Manil. 4.317",
+"text": "censetur: Cancro primam mediamque Leoni,"
+},
+{
+"id": "4.318",
+"label": "Manil. 4.318",
+"text": "extremam Erigonae tribuit. natura per astrum"
+},
+{
+"id": "4.319",
+"label": "Manil. 4.319",
+"text": "stat tamen et proprias miscet per singula vires."
+},
+{
+"id": "4.320",
+"label": "Manil. 4.320",
+"text": "Libra decem partes Geminorum prima capessit,"
+},
+{
+"id": "4.321",
+"label": "Manil. 4.321",
+"text": "Scorpios adiunctas; Centauri tertia pars est,"
+},
+{
+"id": "4.322",
+"label": "Manil. 4.322",
+"text": "nec quicquam numero discernitur, ordine cedit."
+},
+{
+"id": "4.323",
+"label": "Manil. 4.323",
+"text": "Cancer in adversum Capricorni derigit astrum"
+},
+{
+"id": "4.324",
+"label": "Manil. 4.324",
+"text": "bis quinas primum partes, dignatus in illo"
+},
+{
+"id": "4.325",
+"label": "Manil. 4.325",
+"text": "temporis articulo sub quo censetur et ipse,"
+},
+{
+"id": "4.326",
+"label": "Manil. 4.326",
+"text": "quod facit aequalis luces brumalibus umbris"
+},
+{
+"id": "4.327",
+"label": "Manil. 4.327",
+"text": "cognatamque gerit diverso in cardine legem;"
+},
+{
+"id": "4.328",
+"label": "Manil. 4.328",
+"text": "alterius partis perfundit Aquarius ignes,"
+},
+{
+"id": "4.329",
+"label": "Manil. 4.329",
+"text": "quem subeunt Pisces extremo sidere Cancri."
+},
+{
+"id": "4.330",
+"label": "Manil. 4.330",
+"text": "at Leo consortis meminit sub lege trigoni"
+},
+{
+"id": "4.331",
+"label": "Manil. 4.331",
+"text": "Lanigerumque ducem recipit Taurumque quadrato"
+},
+{
+"id": "4.332",
+"label": "Manil. 4.332",
+"text": "coniunctum sibi; sub Geminis pars tertia fertur:"
+},
+{
+"id": "4.333",
+"label": "Manil. 4.333",
+"text": "hos quoque contingit per senos linea flexus."
+},
+{
+"id": "4.334",
+"label": "Manil. 4.334",
+"text": "praecipuum Erigone Cancro concedit honorem"
+},
+{
+"id": "4.335",
+"label": "Manil. 4.335",
+"text": "cui primam tribuit partem; vicina relicta est"
+},
+{
+"id": "4.336",
+"label": "Manil. 4.336",
+"text": "vicino, Nemeaee, tibi; pars ipsius una est"
+},
+{
+"id": "4.337",
+"label": "Manil. 4.337",
+"text": "quae fastidito concessa est iure potiri."
+},
+{
+"id": "4.338",
+"label": "Manil. 4.338",
+"text": "sed Libra exemplo gaudet, pariterque regentem"
+},
+{
+"id": "4.339",
+"label": "Manil. 4.339",
+"text": "noctes atque dies diverso in tempore secum"
+},
+{
+"id": "4.340",
+"label": "Manil. 4.340",
+"text": "Lanigerum sequitur: veris iuga temperat ille,"
+},
+{
+"id": "4.341",
+"label": "Manil. 4.341",
+"text": "haec autumnalis componit lucibus umbras:"
+},
+{
+"id": "4.342",
+"label": "Manil. 4.342",
+"text": "nulli concedit primam, traditque sequenti"
+},
+{
+"id": "4.343",
+"label": "Manil. 4.343",
+"text": "vicinam partem; Centauri tertia summa est."
+},
+{
+"id": "4.344",
+"label": "Manil. 4.344",
+"text": "Scorpios in prima Capricornum parte locavit,"
+},
+{
+"id": "4.345",
+"label": "Manil. 4.345",
+"text": "alterius dominum fecit cui nomen ab undis,"
+},
+{
+"id": "4.346",
+"label": "Manil. 4.346",
+"text": "extremas voluit partes sub Piscibus esse."
+},
+{
+"id": "4.347",
+"label": "Manil. 4.347",
+"text": "at qui contento minitatur spicula nervo"
+},
+{
+"id": "4.348",
+"label": "Manil. 4.348",
+"text": "Lanigero primas tradit sub iure trigoni"
+},
+{
+"id": "4.349",
+"label": "Manil. 4.349",
+"text": "et medias Tauro partes Geminisque supremas."
+},
+{
+"id": "4.350",
+"label": "Manil. 4.350",
+"text": "nec manet ingrati Capricornus crimine turpis"
+},
+{
+"id": "4.351",
+"label": "Manil. 4.351",
+"text": "sed munus reddit Cancro recipitque receptus"
+},
+{
+"id": "4.352",
+"label": "Manil. 4.352",
+"text": "principiumque sui donat; coniuncta Leonis"
+},
+{
+"id": "4.353",
+"label": "Manil. 4.353",
+"text": "regna ferunt, summas partes et Virginis esse."
+},
+{
+"id": "4.354",
+"label": "Manil. 4.354",
+"text": "fontibus aeternis gaudens urnaque fluenti"
+},
+{
+"id": "4.355",
+"label": "Manil. 4.355",
+"text": "iura sui Librae permittit prima regenda,"
+},
+{
+"id": "4.356",
+"label": "Manil. 4.356",
+"text": "haerentisque decem partes Nepa vindicat ipsi;"
+},
+{
+"id": "4.357",
+"label": "Manil. 4.357",
+"text": "summas Centaurus retinet iuvenale per astrum."
+},
+{
+"id": "4.358",
+"label": "Manil. 4.358",
+"text": "iam superant gemini Pisces, qui sidera claudunt."
+},
+{
+"id": "4.359",
+"label": "Manil. 4.359",
+"text": "Lanigero primos tradunt in finibus usus,"
+},
+{
+"id": "4.360",
+"label": "Manil. 4.360",
+"text": "perque decem medias partes tu, Taure, receptus;"
+},
+{
+"id": "4.361",
+"label": "Manil. 4.361",
+"text": "quod superest, ipsi sumunt, utque orbe feruntur"
+},
+{
+"id": "4.362",
+"label": "Manil. 4.362",
+"text": "extremo sic et sortis pars ultima cedit."
+},
+{
+"id": "4.363",
+"label": "Manil. 4.363",
+"text": "Haec ratio retegit latitantis robora mundi"
+},
+{
+"id": "4.364",
+"label": "Manil. 4.364",
+"text": "in plurisque modos repetitaque nomina caelum"
+},
+{
+"id": "4.365",
+"label": "Manil. 4.365",
+"text": "dividit et melius sociat, quo saepius, orbem."
+},
+{
+"id": "4.366",
+"label": "Manil. 4.366",
+"text": "nec tua sub titulis fallantur pectora notis:"
+},
+{
+"id": "4.367",
+"label": "Manil. 4.367",
+"text": "dissimulant, non ostendunt mortalibus astra."
+},
+{
+"id": "4.368",
+"label": "Manil. 4.368",
+"text": "altius est acies animi mittenda sagacis"
+},
+{
+"id": "4.369",
+"label": "Manil. 4.369",
+"text": "inque alio quaerendum aliud iunctisque sequendum"
+},
+{
+"id": "4.370",
+"label": "Manil. 4.370",
+"text": "viribus; et, cuius signi quis parte creatur,"
+},
+{
+"id": "4.371",
+"label": "Manil. 4.371",
+"text": "eius habet mores atque illo nascitur astro."
+},
+{
+"id": "4.372",
+"label": "Manil. 4.372",
+"text": "talis per denas sortes natura feretur."
+},
+{
+"id": "4.373",
+"label": "Manil. 4.373",
+"text": "testis erit varius sub eodem sidere fetus,"
+},
+{
+"id": "4.374",
+"label": "Manil. 4.374",
+"text": "quodque in tam multis animantum milibus, uno"
+},
+{
+"id": "4.375",
+"label": "Manil. 4.375",
+"text": "quae veniunt signo, tot sunt, quot corpora, mores,"
+},
+{
+"id": "4.376",
+"label": "Manil. 4.376",
+"text": "et genus externum referunt aliena per astra,"
+},
+{
+"id": "4.377",
+"label": "Manil. 4.377",
+"text": "confusique fluunt partus hominum atque ferarum."
+},
+{
+"id": "4.378",
+"label": "Manil. 4.378",
+"text": "scilicet in partes iunguntur condita pluris"
+},
+{
+"id": "4.379",
+"label": "Manil. 4.379",
+"text": "diversasque ferunt proprio sub nomine leges."
+},
+{
+"id": "4.380",
+"label": "Manil. 4.380",
+"text": "nec tantum lanas Aries nec Taurus aratra"
+},
+{
+"id": "4.381",
+"label": "Manil. 4.381",
+"text": "nec Gemini Musas nec merces Cancer amabit,"
+},
+{
+"id": "4.382",
+"label": "Manil. 4.382",
+"text": "nec Leo venator veniet nec Virgo magistra,"
+},
+{
+"id": "4.383",
+"label": "Manil. 4.383",
+"text": "mensuris aut Libra potens aut Scorpios armis"
+},
+{
+"id": "4.384",
+"label": "Manil. 4.384",
+"text": "Centaurusque feris, igni Capricornus et undis"
+},
+{
+"id": "4.385",
+"label": "Manil. 4.385",
+"text": "ipse suis Iuvenis geminique per aequora Pisces;"
+},
+{
+"id": "4.386",
+"label": "Manil. 4.386",
+"text": "mixta sed in pluris sociantur sidera vires."
+},
+{
+"id": "4.387",
+"label": "Manil. 4.387",
+"text": "'Multum' inquis 'tenuemque iubes me ferre laborem,"
+},
+{
+"id": "4.388",
+"label": "Manil. 4.388",
+"text": "rursus et in magna mergis caligine mentem,"
+},
+{
+"id": "4.389",
+"label": "Manil. 4.389",
+"text": "cernere cum facili lucem ratione viderer.'"
+},
+{
+"id": "4.390",
+"label": "Manil. 4.390",
+"text": "quod quaeris, deus est: conaris scandere caelum"
+},
+{
+"id": "4.391",
+"label": "Manil. 4.391",
+"text": "fataque fatali genitus cognoscere lege"
+},
+{
+"id": "4.392",
+"label": "Manil. 4.392",
+"text": "et transire tuum pectus mundoque potiri."
+},
+{
+"id": "4.393",
+"label": "Manil. 4.393",
+"text": "pro pretio labor est nec sunt immunia tanta,"
+},
+{
+"id": "4.394",
+"label": "Manil. 4.394",
+"text": "ne mirere viae flexus rerumque catenas."
+},
+{
+"id": "4.395",
+"label": "Manil. 4.395",
+"text": "admitti potuisse sat est: sint cetera nostra."
+},
+{
+"id": "4.396",
+"label": "Manil. 4.396",
+"text": "at nisi perfossis fugiet te montibus aurum,"
+},
+{
+"id": "4.397",
+"label": "Manil. 4.397",
+"text": "obstabitque suis opibus super addita tellus."
+},
+{
+"id": "4.398",
+"label": "Manil. 4.398",
+"text": "ut veniant gemmae, totus transibitur orbis,"
+},
+{
+"id": "4.399",
+"label": "Manil. 4.399",
+"text": "nec lapidum pretio pelagus cepisse pigebit."
+},
+{
+"id": "4.400",
+"label": "Manil. 4.400",
+"text": "annua solliciti consument vota coloni,"
+},
+{
+"id": "4.401",
+"label": "Manil. 4.401",
+"text": "et quantae mercedis erunt fallacia rura!"
+},
+{
+"id": "4.402",
+"label": "Manil. 4.402",
+"text": "quaeremus lucrum ventis Martemque sequemur"
+},
+{
+"id": "4.403",
+"label": "Manil. 4.403",
+"text": "in praedas. pudeat tanto bona velle caduca."
+},
+{
+"id": "4.404",
+"label": "Manil. 4.404",
+"text": "luxuriae quoque militia est, vigilatque ruinis"
+},
+{
+"id": "4.405",
+"label": "Manil. 4.405",
+"text": "venter, et, ut pereant, suspirant saepe nepotes."
+},
+{
+"id": "4.406",
+"label": "Manil. 4.406",
+"text": "quid caelo dabimus? quantum est, quo veneat omne?"
+},
+{
+"id": "4.407",
+"label": "Manil. 4.407",
+"text": "impendendus homo est, deus esse ut possit in ipso."
+},
+{
+"id": "4.408",
+"label": "Manil. 4.408",
+"text": "Hac tibi nascentum mores sunt lege notandi."
+},
+{
+"id": "4.409",
+"label": "Manil. 4.409",
+"text": "nec satis est signis dominantia discere signa"
+},
+{
+"id": "4.410",
+"label": "Manil. 4.410",
+"text": "per denos numeros et quae sint insita cuique;"
+},
+{
+"id": "4.411",
+"label": "Manil. 4.411",
+"text": "sed proprias partes ipsas spectare memento"
+},
+{
+"id": "4.412",
+"label": "Manil. 4.412",
+"text": "vel glacie rigidas vel quas exusserit ignis,"
+},
+{
+"id": "4.413",
+"label": "Manil. 4.413",
+"text": "et sterilis ⟨sine⟩ utroque tamen, quas largior umor"
+},
+{
+"id": "4.414",
+"label": "Manil. 4.414",
+"text": "quasve minor iusto vitiat. namque omnia mixtis"
+},
+{
+"id": "4.415",
+"label": "Manil. 4.415",
+"text": "viribus et vario consurgunt sidera textu."
+},
+{
+"id": "4.416",
+"label": "Manil. 4.416",
+"text": "est aequale nihil. terrenos aspice tractus"
+},
+{
+"id": "4.417",
+"label": "Manil. 4.417",
+"text": "et maris et variis fugientia flumina ripis:"
+},
+{
+"id": "4.418",
+"label": "Manil. 4.418",
+"text": "crimen ubique frequens et laudi noxia iuncta est."
+},
+{
+"id": "4.419",
+"label": "Manil. 4.419",
+"text": "sic sterilis tellus laetis intervenit arvis"
+},
+{
+"id": "4.420",
+"label": "Manil. 4.420",
+"text": "ac subito rumpit parvo discrimine foedus;"
+},
+{
+"id": "4.421",
+"label": "Manil. 4.421",
+"text": "et modo portus erat pelagi iam vasta charybdis,"
+},
+{
+"id": "4.422",
+"label": "Manil. 4.422",
+"text": "laudatique cadit post paulum gratia ponti;"
+},
+{
+"id": "4.423",
+"label": "Manil. 4.423",
+"text": "et nunc per scopulos, nunc campis labitur amnis,"
+},
+{
+"id": "4.424",
+"label": "Manil. 4.424",
+"text": "et, faciens iter aut quaerens, curritve reditve."
+},
+{
+"id": "4.425",
+"label": "Manil. 4.425",
+"text": "sic etiam caeli partes variantur in astris:"
+},
+{
+"id": "4.426",
+"label": "Manil. 4.426",
+"text": "ut signum signo, sic a se discrepat ipsum"
+},
+{
+"id": "4.427",
+"label": "Manil. 4.427",
+"text": "momentoque negat vires usumque salubrem,"
+},
+{
+"id": "4.428",
+"label": "Manil. 4.428",
+"text": "quodque per has geritur partes sine fruge creatur"
+},
+{
+"id": "4.429",
+"label": "Manil. 4.429",
+"text": "aut cadit aut multis sentit bona mixta querellis."
+},
+{
+"id": "4.430",
+"label": "Manil. 4.430",
+"text": "hae mihi signandae proprio sunt carmine partes."
+},
+{
+"id": "4.431",
+"label": "Manil. 4.431",
+"text": "sed quis tot numeros totiens sub lege referre,"
+},
+{
+"id": "4.432",
+"label": "Manil. 4.432",
+"text": "tot partes iterare queat, tot dicere summas,"
+},
+{
+"id": "4.433",
+"label": "Manil. 4.433",
+"text": "perque paris causas faciem mutare loquendi?"
+},
+{
+"id": "4.434",
+"label": "Manil. 4.434",
+"text": "⟨dum canimus verum, non aspera ponere, ut illis⟩ 433a"
+},
+{
+"id": "4.435",
+"label": "Manil. 4.435",
+"text": "incidimus, sic verba piget; sed gratia derit,"
+},
+{
+"id": "4.436",
+"label": "Manil. 4.436",
+"text": "in vanumque labor cedit quem despicit auris."
+},
+{
+"id": "4.437",
+"label": "Manil. 4.437",
+"text": "sed mihi per carmen fatalia iura ferenti"
+},
+{
+"id": "4.438",
+"label": "Manil. 4.438",
+"text": "et sacros caeli motus ad iussa loquendum est,"
+},
+{
+"id": "4.439",
+"label": "Manil. 4.439",
+"text": "nec fingenda datur, tantum monstranda figura."
+},
+{
+"id": "4.440",
+"label": "Manil. 4.440",
+"text": "ostendisse deum nimis est: dabit ipse sibimet\n\npondera. nec fas est verbis splendescere mundum:"
+},
+{
+"id": "4.441",
+"label": "Manil. 4.441",
+"text": "rebus erit maior. nec parva est gratia nostri"
+},
+{
+"id": "4.442",
+"label": "Manil. 4.442",
+"text": "oris, si tantum poterit signare canenda."
+},
+{
+"id": "4.443",
+"label": "Manil. 4.443",
+"text": "accipe damnandae quae sint per sidera partes."
+},
+{
+"id": "4.444",
+"label": "Manil. 4.444",
+"text": "Lanigeri pars quarta nocet nec sexta salubris;"
+},
+{
+"id": "4.445",
+"label": "Manil. 4.445",
+"text": "septima par illi ac decima est decimaeque secunda"
+},
+{
+"id": "4.446",
+"label": "Manil. 4.446",
+"text": "quaeque duas duplicant summas septemque novemque;"
+},
+{
+"id": "4.447",
+"label": "Manil. 4.447",
+"text": "unaque viginti numeris pars addita laedit"
+},
+{
+"id": "4.448",
+"label": "Manil. 4.448",
+"text": "et quinta et duram consummans septima partem."
+},
+{
+"id": "4.449",
+"label": "Manil. 4.449",
+"text": "Tauri nona mala est, similis cui tertia pars est"
+},
+{
+"id": "4.450",
+"label": "Manil. 4.450",
+"text": "post decimam nec non decimae pars septima iuncta;"
+},
+{
+"id": "4.451",
+"label": "Manil. 4.451",
+"text": "bisque undena notans et bis duodena nocentes"
+},
+{
+"id": "4.452",
+"label": "Manil. 4.452",
+"text": "quaeque decem trisque ingeminat fraudatque duobus"
+},
+{
+"id": "4.453",
+"label": "Manil. 4.453",
+"text": "triginta numeros et tu, tricesima summa, es."
+},
+{
+"id": "4.454",
+"label": "Manil. 4.454",
+"text": "Pestifera in Geminis pars prima et tertia signi,"
+},
+{
+"id": "4.455",
+"label": "Manil. 4.455",
+"text": "septima non melior, ter quintae noxia par est,"
+},
+{
+"id": "4.456",
+"label": "Manil. 4.456",
+"text": "unaque bis denis brevior nocet unaque maior,"
+},
+{
+"id": "4.457",
+"label": "Manil. 4.457",
+"text": "et similis noxae veniet vicesima quinta"
+},
+{
+"id": "4.458",
+"label": "Manil. 4.458",
+"text": "cumque duae subeunt vel cum se quattuor addunt."
+},
+{
+"id": "4.459",
+"label": "Manil. 4.459",
+"text": "Nec Cancri prima immunis nec tertia pars est"
+},
+{
+"id": "4.460",
+"label": "Manil. 4.460",
+"text": "nec sexta; octava est similis, decimaque peracta"
+},
+{
+"id": "4.461",
+"label": "Manil. 4.461",
+"text": "prima rapit, nec ter quintae clementior usus;"
+},
+{
+"id": "4.462",
+"label": "Manil. 4.462",
+"text": "septima post decimam luctum et vicesima portat"
+},
+{
+"id": "4.463",
+"label": "Manil. 4.463",
+"text": "et quinta accedens et septima nonaque summa."
+},
+{
+"id": "4.464",
+"label": "Manil. 4.464",
+"text": "Tu quoque contactu primo, Nemeaee, timendus,"
+},
+{
+"id": "4.465",
+"label": "Manil. 4.465",
+"text": "et quarta sub parte premis; bis quinta salubri"
+},
+{
+"id": "4.466",
+"label": "Manil. 4.466",
+"text": "terque caret caelo, vicesima et altera laedit;"
+},
+{
+"id": "4.467",
+"label": "Manil. 4.467",
+"text": "e tribus appositis vitiat totidemque secutis"
+},
+{
+"id": "4.468",
+"label": "Manil. 4.468",
+"text": "ultima, nec prima melior tricesima pars est."
+},
+{
+"id": "4.469",
+"label": "Manil. 4.469",
+"text": "Erigones nec pars prima est nec sexta nec una"
+},
+{
+"id": "4.470",
+"label": "Manil. 4.470",
+"text": "ad decimam nec quarta nec octava utilis umquam;"
+},
+{
+"id": "4.471",
+"label": "Manil. 4.471",
+"text": "proxima viginti numeris et quarta timenda est,"
+},
+{
+"id": "4.472",
+"label": "Manil. 4.472",
+"text": "et quae ter decimam claudit sors ultima partem."
+},
+{
+"id": "4.473",
+"label": "Manil. 4.473",
+"text": "Et quinta in Chelis et septima inutilis astri,"
+},
+{
+"id": "4.474",
+"label": "Manil. 4.474",
+"text": "tertia et undecimae decimaeque est septima iuncta"
+},
+{
+"id": "4.475",
+"label": "Manil. 4.475",
+"text": "quartaque bis denis actis et septima et ambae"
+},
+{
+"id": "4.476",
+"label": "Manil. 4.476",
+"text": "quae numerum claudunt nona et tricesima partes."
+},
+{
+"id": "4.477",
+"label": "Manil. 4.477",
+"text": "Scorpios in prima reus est, cui tertia par est"
+},
+{
+"id": "4.478",
+"label": "Manil. 4.478",
+"text": "et sexta et decima et quae ter tibi quinta notatur,"
+},
+{
+"id": "4.479",
+"label": "Manil. 4.479",
+"text": "undecimam geminans et quae vicesima quinta est"
+},
+{
+"id": "4.480",
+"label": "Manil. 4.480",
+"text": "octavoque manet numero nonumque capessit."
+},
+{
+"id": "4.481",
+"label": "Manil. 4.481",
+"text": "Si te fata sinant, quartam ne selige partem"
+},
+{
+"id": "4.482",
+"label": "Manil. 4.482",
+"text": "Centauri; fuge et octavam; sex bisve peractis"
+},
+{
+"id": "4.483",
+"label": "Manil. 4.483",
+"text": "octo, bis aut denis, metuendus dicitur aer,"
+},
+{
+"id": "4.484",
+"label": "Manil. 4.484",
+"text": "cumque iterum duodena refert aut terna decemque"
+},
+{
+"id": "4.485",
+"label": "Manil. 4.485",
+"text": "aut septena quater, vel cum ter dena figurat."
+},
+{
+"id": "4.486",
+"label": "Manil. 4.486",
+"text": "Nec pars optanda est Capricorni septima; nona"
+},
+{
+"id": "4.487",
+"label": "Manil. 4.487",
+"text": "consentit decimamque sequens quam tertia signat"
+},
+{
+"id": "4.488",
+"label": "Manil. 4.488",
+"text": "et tribus aut una quae te, vicesima, fraudat"
+},
+{
+"id": "4.489",
+"label": "Manil. 4.489",
+"text": "quaeve auget quinto numero vel septima fertur."
+},
+{
+"id": "4.490",
+"label": "Manil. 4.490",
+"text": "Pars est prima nocens fundentis semper Aquari, 489a"
+},
+{
+"id": "4.491",
+"label": "Manil. 4.491",
+"text": "damnanda et decimae succedens prima peractae"
+},
+{
+"id": "4.492",
+"label": "Manil. 4.492",
+"text": "tertiaque et quinta et numero quae condita nono est"
+},
+{
+"id": "4.493",
+"label": "Manil. 4.493",
+"text": "et post viginti prima et vicesima quinta"
+},
+{
+"id": "4.494",
+"label": "Manil. 4.494",
+"text": "cumque illa quartam accumulans vicesima nona."
+},
+{
+"id": "4.495",
+"label": "Manil. 4.495",
+"text": "Tertia per geminos et quinta et septima Pisces,\n\nundecima et decimae metuenda est septima iuncta;"
+},
+{
+"id": "4.496",
+"label": "Manil. 4.496",
+"text": "et quinta in quinos numeros revocata duasque"
+},
+{
+"id": "4.497",
+"label": "Manil. 4.497",
+"text": "accipiens ultra summas metuenda feretur."
+},
+{
+"id": "4.498",
+"label": "Manil. 4.498",
+"text": "Hae partes sterilem ducunt et frigore et igni"
+},
+{
+"id": "4.499",
+"label": "Manil. 4.499",
+"text": "aera vel sicco vel quod superaverit umor,"
+},
+{
+"id": "4.500",
+"label": "Manil. 4.500",
+"text": "si rapidus Mavors ignes iaculatur in illum"
+},
+{
+"id": "4.501",
+"label": "Manil. 4.501",
+"text": "Saturnusve suam glaciem ⟨Phoebeve propinquis"
+},
+{
+"id": "4.502",
+"label": "Manil. 4.502",
+"text": "quem trahit a terris rorem⟩ Phoebusve calores. 501a"
+},
+{
+"id": "4.503",
+"label": "Manil. 4.503",
+"text": "Nec te perceptis signorum cura relinquat"
+},
+{
+"id": "4.504",
+"label": "Manil. 4.504",
+"text": "partibus: in tempus quaedam mutantur, et ortu"
+},
+{
+"id": "4.505",
+"label": "Manil. 4.505",
+"text": "accipiunt proprias vires ultraque remittunt.\n\nNamque, ubi se summis Aries extollet ab undis"
+},
+{
+"id": "4.506",
+"label": "Manil. 4.506",
+"text": "et cervice prior flexa quam cornibus ibit,"
+},
+{
+"id": "4.507",
+"label": "Manil. 4.507",
+"text": "non contenta suo generabit pectora censu"
+},
+{
+"id": "4.508",
+"label": "Manil. 4.508",
+"text": "et dabit in praedas animos solvetque pudorem:"
+},
+{
+"id": "4.509",
+"label": "Manil. 4.509",
+"text": "tantum audere iuvat. sic ipse in cornua fertur"
+},
+{
+"id": "4.510",
+"label": "Manil. 4.510",
+"text": "ut ruat aut vincat. non illos sedibus isdem"
+},
+{
+"id": "4.511",
+"label": "Manil. 4.511",
+"text": "mollia per placidas delectant otia curas,"
+},
+{
+"id": "4.512",
+"label": "Manil. 4.512",
+"text": "sed iuvat ignotas semper transire per urbes"
+},
+{
+"id": "4.513",
+"label": "Manil. 4.513",
+"text": "scrutarique novum pelagus totius et esse"
+},
+{
+"id": "4.514",
+"label": "Manil. 4.514",
+"text": "orbis in hospitio. testis tibi Laniger ipse,"
+},
+{
+"id": "4.515",
+"label": "Manil. 4.515",
+"text": "cum vitreum findens auravit vellere pontum"
+},
+{
+"id": "4.516",
+"label": "Manil. 4.516",
+"text": "orbatumque sua Phrixum per fata sorore"
+},
+{
+"id": "4.517",
+"label": "Manil. 4.517",
+"text": "Phasidos ad ripas et Colchida tergore vexit."
+},
+{
+"id": "4.518",
+"label": "Manil. 4.518",
+"text": "At, quos prima creant nascentis sidera Tauri,"
+},
+{
+"id": "4.519",
+"label": "Manil. 4.519",
+"text": "feminei incedunt. nec longe causa petenda est,"
+},
+{
+"id": "4.520",
+"label": "Manil. 4.520",
+"text": "si modo per causas naturam quaerere fas est:"
+},
+{
+"id": "4.521",
+"label": "Manil. 4.521",
+"text": "aversus venit in caelum divesque puellis,"
+},
+{
+"id": "4.522",
+"label": "Manil. 4.522",
+"text": "Pleiadum parvo referens glomeramine sidus."
+},
+{
+"id": "4.523",
+"label": "Manil. 4.523",
+"text": "accedunt et ruris opes, propriaque iuvencum"
+},
+{
+"id": "4.524",
+"label": "Manil. 4.524",
+"text": "dote per inversos exornat vomere campos."
+},
+{
+"id": "4.525",
+"label": "Manil. 4.525",
+"text": "Sed, Geminos aequa cum profert unda tegitque"
+},
+{
+"id": "4.526",
+"label": "Manil. 4.526",
+"text": "parte, dabit studia et doctas producet ad artes."
+},
+{
+"id": "4.527",
+"label": "Manil. 4.527",
+"text": "nec triste ingenium sed dulci tincta lepore"
+},
+{
+"id": "4.528",
+"label": "Manil. 4.528",
+"text": "corda creat, vocisque bonis citharaeque sonantis"
+},
+{
+"id": "4.529",
+"label": "Manil. 4.529",
+"text": "instruit, et dotes cantus cum pectore iungit."
+},
+{
+"id": "4.530",
+"label": "Manil. 4.530",
+"text": "At, niger obscura Cancer cum nube feretur,"
+},
+{
+"id": "4.531",
+"label": "Manil. 4.531",
+"text": "qua velut exustus Phoebeis ignibus ignis"
+},
+{
+"id": "4.532",
+"label": "Manil. 4.532",
+"text": "deficit et multa fuscat caligine sidus,"
+},
+{
+"id": "4.533",
+"label": "Manil. 4.533",
+"text": "lumina deficient partus, geminamque creatis"
+},
+{
+"id": "4.534",
+"label": "Manil. 4.534",
+"text": "mortem fata dabunt: se quisque et vivit et effert."
+},
+{
+"id": "4.535",
+"label": "Manil. 4.535",
+"text": "Sicui per summas avidus produxerit undas"
+},
+{
+"id": "4.536",
+"label": "Manil. 4.536",
+"text": "ora Leo et scandat malis hiscentibus orbem,"
+},
+{
+"id": "4.537",
+"label": "Manil. 4.537",
+"text": "ille patri natisque reus, quas ceperit ipse,"
+},
+{
+"id": "4.538",
+"label": "Manil. 4.538",
+"text": "non legabit opes, censumque immerget in ipso."
+},
+{
+"id": "4.539",
+"label": "Manil. 4.539",
+"text": "tanta fames animumque cibi tam dira cupido"
+},
+{
+"id": "4.540",
+"label": "Manil. 4.540",
+"text": "corripit, ut capiat semet nec compleat umquam,"
+},
+{
+"id": "4.541",
+"label": "Manil. 4.541",
+"text": "inque epulas funus revocet pretiumque sepulcri."
+},
+{
+"id": "4.542",
+"label": "Manil. 4.542",
+"text": "Erigone surgens, quae rexit saecula prisca"
+},
+{
+"id": "4.543",
+"label": "Manil. 4.543",
+"text": "iustitia rursusque eadem labentia fugit,"
+},
+{
+"id": "4.544",
+"label": "Manil. 4.544",
+"text": "alta per imperium tribuit fastigia summum,"
+},
+{
+"id": "4.545",
+"label": "Manil. 4.545",
+"text": "rectoremque dabit legum iurisque sacrati"
+},
+{
+"id": "4.546",
+"label": "Manil. 4.546",
+"text": "sancta pudicitia divorum templa colentem."
+},
+{
+"id": "4.547",
+"label": "Manil. 4.547",
+"text": "Sed, cum autumnales coeperunt surgere Chelae,"
+},
+{
+"id": "4.548",
+"label": "Manil. 4.548",
+"text": "felix aequato genitus sub pondere Librae."
+},
+{
+"id": "4.549",
+"label": "Manil. 4.549",
+"text": "iudex examen sistet vitaeque necisque"
+},
+{
+"id": "4.550",
+"label": "Manil. 4.550",
+"text": "imponetque iugum terris legesque rogabit."
+},
+{
+"id": "4.551",
+"label": "Manil. 4.551",
+"text": "illum urbes et regna trement nutuque regentur"
+},
+{
+"id": "4.552",
+"label": "Manil. 4.552",
+"text": "unius et caeli post terras iura manebunt."
+},
+{
+"id": "4.553",
+"label": "Manil. 4.553",
+"text": "Scorpios extremae cum tollet lumina caudae,"
+},
+{
+"id": "4.554",
+"label": "Manil. 4.554",
+"text": "siquis erit stellis tunc suffragantibus ortus,"
+},
+{
+"id": "4.555",
+"label": "Manil. 4.555",
+"text": "urbibus augebit terras iunctisque iuvencis"
+},
+{
+"id": "4.556",
+"label": "Manil. 4.556",
+"text": "moenia succinctus curvo describet aratro,"
+},
+{
+"id": "4.557",
+"label": "Manil. 4.557",
+"text": "aut sternet positas urbes inque arva reducet"
+},
+{
+"id": "4.558",
+"label": "Manil. 4.558",
+"text": "oppida et in domibus maturas reddet aristas."
+},
+{
+"id": "4.559",
+"label": "Manil. 4.559",
+"text": "tanta erit et virtus et cum virtute potestas."
+},
+{
+"id": "4.560",
+"label": "Manil. 4.560",
+"text": "Nec non Arcitenens, prima cum veste resurgit,"
+},
+{
+"id": "4.561",
+"label": "Manil. 4.561",
+"text": "pectora clara dabit bello, magnisque triumphis"
+},
+{
+"id": "4.562",
+"label": "Manil. 4.562",
+"text": "conspicuum patrias victorem ducet ad arces,"
+},
+{
+"id": "4.563",
+"label": "Manil. 4.563",
+"text": "altaque nunc statuet nunc idem moenia vertet."
+},
+{
+"id": "4.564",
+"label": "Manil. 4.564",
+"text": "sed nimium indulgens rebus Fortuna secundis"
+},
+{
+"id": "4.565",
+"label": "Manil. 4.565",
+"text": "invidet in facie saevitque asperrima fronti."
+},
+{
+"id": "4.566",
+"label": "Manil. 4.566",
+"text": "horrendus bello Trebiam Cannasque lacumque"
+},
+{
+"id": "4.567",
+"label": "Manil. 4.567",
+"text": "ante fugam tali pensabat imagine victor."
+},
+{
+"id": "4.568",
+"label": "Manil. 4.568",
+"text": "Ultimus in caudae Capricornus acumine summo"
+},
+{
+"id": "4.569",
+"label": "Manil. 4.569",
+"text": "militiam in ponto dictat puppisque colendae"
+},
+{
+"id": "4.570",
+"label": "Manil. 4.570",
+"text": "dura ministeria et tenui discrimine mortis."
+},
+{
+"id": "4.571",
+"label": "Manil. 4.571",
+"text": "Quod si quem sanctumque velis castumque probumque"
+},
+{
+"id": "4.572",
+"label": "Manil. 4.572",
+"text": "hic tibi nascetur cum primus Aquarius exit."
+},
+{
+"id": "4.573",
+"label": "Manil. 4.573",
+"text": "Ne velit et primos animus procedere Pisces,"
+},
+{
+"id": "4.574",
+"label": "Manil. 4.574",
+"text": "garrulitas odiosa datur linguaeque venenum"
+},
+{
+"id": "4.575",
+"label": "Manil. 4.575",
+"text": "verba maligna novas mutantis semper ad aures"
+},
+{
+"id": "4.576",
+"label": "Manil. 4.576",
+"text": "criminaque ad populum populi ferre ore bilingui."
+},
+{
+"id": "4.577",
+"label": "Manil. 4.577",
+"text": "nulla fides inerit natis, sed summa libido"
+},
+{
+"id": "4.578",
+"label": "Manil. 4.578",
+"text": "ardentem medios animum iubet ire per ignes."
+},
+{
+"id": "4.579",
+"label": "Manil. 4.579",
+"text": "scilicet in piscem sese Cytherea novavit,"
+},
+{
+"id": "4.580",
+"label": "Manil. 4.580",
+"text": "cum Babyloniacas summersa profugit in undas"
+},
+{
+"id": "4.581",
+"label": "Manil. 4.581",
+"text": "anguipedem alatos umeros Typhona ferentem,"
+},
+{
+"id": "4.582",
+"label": "Manil. 4.582",
+"text": "inseruitque suos squamosis Piscibus ignes."
+},
+{
+"id": "4.583",
+"label": "Manil. 4.583",
+"text": "nec solus fuerit geminis sub Piscibus ortus:"
+},
+{
+"id": "4.584",
+"label": "Manil. 4.584",
+"text": "frater erit dulcisve soror, materve duorum."
+},
+{
+"id": "4.585",
+"label": "Manil. 4.585",
+"text": "Nunc age diversis dominantia sidera terris"
+},
+{
+"id": "4.586",
+"label": "Manil. 4.586",
+"text": "percipe. sed summa est rerum referenda figura."
+},
+{
+"id": "4.587",
+"label": "Manil. 4.587",
+"text": "quattuor in partes caeli discribitur orbis,"
+},
+{
+"id": "4.588",
+"label": "Manil. 4.588",
+"text": "nascentem lapsumque diem mediosque calores"
+},
+{
+"id": "4.589",
+"label": "Manil. 4.589",
+"text": "teque, Helice. totidem venti de partibus isdem"
+},
+{
+"id": "4.590",
+"label": "Manil. 4.590",
+"text": "erumpunt secumque gerunt per inania bella."
+},
+{
+"id": "4.591",
+"label": "Manil. 4.591",
+"text": "asper ab axe ruit Boreas, fugit Eurus ab ortu,"
+},
+{
+"id": "4.592",
+"label": "Manil. 4.592",
+"text": "Auster amat medium solem Zephyrusque profectum."
+},
+{
+"id": "4.593",
+"label": "Manil. 4.593",
+"text": "hos inter binae mediis e partibus aurae"
+},
+{
+"id": "4.594",
+"label": "Manil. 4.594",
+"text": "exspirant similis mutato nomine flatus."
+},
+{
+"id": "4.595",
+"label": "Manil. 4.595",
+"text": "ipsa natat tellus pelagi lustrata corona"
+},
+{
+"id": "4.596",
+"label": "Manil. 4.596",
+"text": "cingentis medium liquidis amplexibus orbem,"
+},
+{
+"id": "4.597",
+"label": "Manil. 4.597",
+"text": "inque sinus pontum recipit, qui vespere ab atro"
+},
+{
+"id": "4.598",
+"label": "Manil. 4.598",
+"text": "admissus dextra Numidas Libyamque calentem"
+},
+{
+"id": "4.599",
+"label": "Manil. 4.599",
+"text": "alluit et magnae quondam Carthaginis arces,"
+},
+{
+"id": "4.600",
+"label": "Manil. 4.600",
+"text": "litoraque in Syrtes revocans sinuata vadosas"
+},
+{
+"id": "4.601",
+"label": "Manil. 4.601",
+"text": "rursum usque ad Nilum derectis fluctibus exit."
+},
+{
+"id": "4.602",
+"label": "Manil. 4.602",
+"text": "laeva freti caedunt Hispanas aequora gentes"
+},
+{
+"id": "4.603",
+"label": "Manil. 4.603",
+"text": "teque in vicinis haerentem, Gallia, terris"
+},
+{
+"id": "4.604",
+"label": "Manil. 4.604",
+"text": "Italiaeque urbes dextram sinuantis in undam"
+},
+{
+"id": "4.605",
+"label": "Manil. 4.605",
+"text": "usque canes ad, Scylla, tuos avidamque Charybdin."
+},
+{
+"id": "4.606",
+"label": "Manil. 4.606",
+"text": "hac ubi se primum porta mare fudit, ⟨aperto⟩"
+},
+{
+"id": "4.607",
+"label": "Manil. 4.607",
+"text": "enatat Ionio laxasque vagatur in undas"
+},
+{
+"id": "4.608",
+"label": "Manil. 4.608",
+"text": "et, prius ut, laeva se fundens circuit omnem"
+},
+{
+"id": "4.609",
+"label": "Manil. 4.609",
+"text": "Italiam, Hadriaco mutatum nomina ponto,"
+},
+{
+"id": "4.610",
+"label": "Manil. 4.610",
+"text": "Eridanique bibit fluctus, vetat aequore bellum"
+},
+{
+"id": "4.611",
+"label": "Manil. 4.611",
+"text": "Illyricum, Epirumque lavat claramque Corinthum"
+},
+{
+"id": "4.612",
+"label": "Manil. 4.612",
+"text": "et Peloponnesi patulas circumvolat oras;"
+},
+{
+"id": "4.613",
+"label": "Manil. 4.613",
+"text": "rursus et in laevum refluit vastoque recessu"
+},
+{
+"id": "4.614",
+"label": "Manil. 4.614",
+"text": "Thessaliae fines et Achaica praeterit arva."
+},
+{
+"id": "4.615",
+"label": "Manil. 4.615",
+"text": "hinc penitus iuvenisque freto mersaeque puellae"
+},
+{
+"id": "4.616",
+"label": "Manil. 4.616",
+"text": "truditur invitum, faucesque Propontis aperto"
+},
+{
+"id": "4.617",
+"label": "Manil. 4.617",
+"text": "Euxino iniungit ponto Maeotis et undis,"
+},
+{
+"id": "4.618",
+"label": "Manil. 4.618",
+"text": "quae tergo coniuncta manet fontemque ministrat."
+},
+{
+"id": "4.619",
+"label": "Manil. 4.619",
+"text": "inde ubi in angustas revocatus navita fauces"
+},
+{
+"id": "4.620",
+"label": "Manil. 4.620",
+"text": "Hellespontiacis iterum se fluctibus effert,"
+},
+{
+"id": "4.621",
+"label": "Manil. 4.621",
+"text": "Icarium Aegaeumque secat laevaque nitentis"
+},
+{
+"id": "4.622",
+"label": "Manil. 4.622",
+"text": "miratur populos Asiae totidemque tropaea"
+},
+{
+"id": "4.623",
+"label": "Manil. 4.623",
+"text": "quot loca et innumeras gentes Taurumque minantem"
+},
+{
+"id": "4.624",
+"label": "Manil. 4.624",
+"text": "fluctibus et Cilicum populos Syriamque perustam"
+},
+{
+"id": "4.625",
+"label": "Manil. 4.625",
+"text": "ingentique sinu fugientis aequora terras,"
+},
+{
+"id": "4.626",
+"label": "Manil. 4.626",
+"text": "donec in Aegyptum redeunt curvata per undas"
+},
+{
+"id": "4.627",
+"label": "Manil. 4.627",
+"text": "litora Niliacis iterum morientia ripis."
+},
+{
+"id": "4.628",
+"label": "Manil. 4.628",
+"text": "haec medium terris circumdat linea pontum"
+},
+{
+"id": "4.629",
+"label": "Manil. 4.629",
+"text": "atque his undarum tractum constringit harenis."
+},
+{
+"id": "4.630",
+"label": "Manil. 4.630",
+"text": "mille iacent mediae diffusa per aequora terrae."
+},
+{
+"id": "4.631",
+"label": "Manil. 4.631",
+"text": "Sardiniam in Libyco signant vestigia plantae,"
+},
+{
+"id": "4.632",
+"label": "Manil. 4.632",
+"text": "Trinacria Italia tantum praecisa recessit,"
+},
+{
+"id": "4.633",
+"label": "Manil. 4.633",
+"text": "adversa Euboicos miratur Graecia montes,"
+},
+{
+"id": "4.634",
+"label": "Manil. 4.634",
+"text": "Aegaeis Crete civem sortita Tonantem"
+},
+{
+"id": "4.635",
+"label": "Manil. 4.635",
+"text": "Aegyptique Cypros pulsatur fluctibus amnis."
+},
+{
+"id": "4.636",
+"label": "Manil. 4.636",
+"text": "⟨has praeter terras, celebrat quas maxima fama,⟩ 635a"
+},
+{
+"id": "4.637",
+"label": "Manil. 4.637",
+"text": "totque minore solo tamen emergentia ponto"
+},
+{
+"id": "4.638",
+"label": "Manil. 4.638",
+"text": "litora, inaequalis Cycladas Delonque Rhodonque"
+},
+{
+"id": "4.639",
+"label": "Manil. 4.639",
+"text": "Aulidaque et Tenedon vicinaque Corsica terris"
+},
+{
+"id": "4.640",
+"label": "Manil. 4.640",
+"text": "litora Sardiniae primumque intrantis in orbem\n\nOceani victricem Ebusum et Balearica rura,"
+},
+{
+"id": "4.641",
+"label": "Manil. 4.641",
+"text": "innumeri surgunt scopuli montesque per altum."
+},
+{
+"id": "4.642",
+"label": "Manil. 4.642",
+"text": "Nec tantum ex una pontus sibi parte reclusit"
+},
+{
+"id": "4.643",
+"label": "Manil. 4.643",
+"text": "faucibus abruptis orbem; nam litora plura"
+},
+{
+"id": "4.644",
+"label": "Manil. 4.644",
+"text": "impulit oceano Phorcys, sed montibus altis"
+},
+{
+"id": "4.645",
+"label": "Manil. 4.645",
+"text": "est vetitus totam ne vinceret aequore terram."
+},
+{
+"id": "4.646",
+"label": "Manil. 4.646",
+"text": "namque inter borean ortumque aestate nitentem"
+},
+{
+"id": "4.647",
+"label": "Manil. 4.647",
+"text": "in longum angusto penetrabilis aequore fluctus"
+},
+{
+"id": "4.648",
+"label": "Manil. 4.648",
+"text": "pervenit et patulis tum demum funditur arvis"
+},
+{
+"id": "4.649",
+"label": "Manil. 4.649",
+"text": "Caspiaque Euxini similis facit aequora ponti."
+},
+{
+"id": "4.650",
+"label": "Manil. 4.650",
+"text": "altera sub medium solem duo bella perinde"
+},
+{
+"id": "4.651",
+"label": "Manil. 4.651",
+"text": "intulit Oceanus terris. nam Persica fluctus"
+},
+{
+"id": "4.652",
+"label": "Manil. 4.652",
+"text": "arva tenet, titulum pelagi praedatus ab isdem"
+},
+{
+"id": "4.653",
+"label": "Manil. 4.653",
+"text": "quae rigat ipse locis, latoque infunditur orbe."
+},
+{
+"id": "4.654",
+"label": "Manil. 4.654",
+"text": "nec procul in mollis Arabas terramque ferentem"
+},
+{
+"id": "4.655",
+"label": "Manil. 4.655",
+"text": "delicias variaeque novos radicis odores"
+},
+{
+"id": "4.656",
+"label": "Manil. 4.656",
+"text": "leniter affundit gemmantia litora pontus,"
+},
+{
+"id": "4.657",
+"label": "Manil. 4.657",
+"text": "et terrae mare nomen habet. media illa duobus"
+},
+{
+"id": "4.658",
+"label": "Manil. 4.658",
+"text": "* 657a"
+},
+{
+"id": "4.659",
+"label": "Manil. 4.659",
+"text": "quondam Carthago regnum sortita sub armis,"
+},
+{
+"id": "4.660",
+"label": "Manil. 4.660",
+"text": "ignibus Alpinas cum contudit Hannibal arces,\n\nfecit et aeternum Trebiam Cannasque sepulcris"
+},
+{
+"id": "4.661",
+"label": "Manil. 4.661",
+"text": "obruit et Libyam Latias infudit in urbes."
+},
+{
+"id": "4.662",
+"label": "Manil. 4.662",
+"text": "huc varias pestes diversaque monstra ferarum"
+},
+{
+"id": "4.663",
+"label": "Manil. 4.663",
+"text": "congessit bellis natura infesta futuris."
+},
+{
+"id": "4.664",
+"label": "Manil. 4.664",
+"text": "horrendos angues habitataque membra veneno"
+},
+{
+"id": "4.665",
+"label": "Manil. 4.665",
+"text": "et mortis pastu viventia, crimina terrae,"
+},
+{
+"id": "4.666",
+"label": "Manil. 4.666",
+"text": "et vastos elephantas habet, saevosque leones"
+},
+{
+"id": "4.667",
+"label": "Manil. 4.667",
+"text": "in poenas fecunda suas parit horrida tellus"
+},
+{
+"id": "4.668",
+"label": "Manil. 4.668",
+"text": "et portentosos cercopum ludit in ortus"
+},
+{
+"id": "4.669",
+"label": "Manil. 4.669",
+"text": "ac sterili peior siccas infestat harenas,"
+},
+{
+"id": "4.670",
+"label": "Manil. 4.670",
+"text": "donec ad Aegypti ponat sua iura colonos."
+},
+{
+"id": "4.671",
+"label": "Manil. 4.671",
+"text": "inde Asiae populi divesque per omnia tellus:"
+},
+{
+"id": "4.672",
+"label": "Manil. 4.672",
+"text": "auratique fluunt amnes gemmisque relucet"
+},
+{
+"id": "4.673",
+"label": "Manil. 4.673",
+"text": "pontus, odoratae spirant medicamina silvae:"
+},
+{
+"id": "4.674",
+"label": "Manil. 4.674",
+"text": "India notitia maior, Parthique vel orbis"
+},
+{
+"id": "4.675",
+"label": "Manil. 4.675",
+"text": "alter, et in caelum surgentis moenia Tauri"
+},
+{
+"id": "4.676",
+"label": "Manil. 4.676",
+"text": "totque illum circa diverso nomine gentes"
+},
+{
+"id": "4.677",
+"label": "Manil. 4.677",
+"text": "ad Tanain Scythicis dirimentem fluctibus orbes"
+},
+{
+"id": "4.678",
+"label": "Manil. 4.678",
+"text": "Maeotisque lacus Euxinique aspera ponti."
+},
+{
+"id": "4.679",
+"label": "Manil. 4.679",
+"text": "[aequora et extremum Propontidos Hellespontum]"
+},
+{
+"id": "4.680",
+"label": "Manil. 4.680",
+"text": "hanc Asiae metam posuit natura potentis."
+},
+{
+"id": "4.681",
+"label": "Manil. 4.681",
+"text": "quod superest Europa tenet, quae prima natantem"
+},
+{
+"id": "4.682",
+"label": "Manil. 4.682",
+"text": "fluctibus excepitque Iovem taurumque resolvit,"
+},
+{
+"id": "4.683",
+"label": "Manil. 4.683",
+"text": "ponere passa suos ignes, onerique iugavit."
+},
+{
+"id": "4.684",
+"label": "Manil. 4.684",
+"text": "ille puellari donavit nomine litus"
+},
+{
+"id": "4.685",
+"label": "Manil. 4.685",
+"text": "et monumenta sui titulo sacravit amoris."
+},
+{
+"id": "4.686",
+"label": "Manil. 4.686",
+"text": "maxima terra viris et fecundissima doctis"
+},
+{
+"id": "4.687",
+"label": "Manil. 4.687",
+"text": "artibus: in regnum florentes oris Athenae;"
+},
+{
+"id": "4.688",
+"label": "Manil. 4.688",
+"text": "Sparta manu, Thebae divis, et rege vel uno"
+},
+{
+"id": "4.689",
+"label": "Manil. 4.689",
+"text": "princeps Pella domus, Troiani gratia belli;"
+},
+{
+"id": "4.690",
+"label": "Manil. 4.690",
+"text": "Thessalia Epirosque potens vicinaque ripa"
+},
+{
+"id": "4.691",
+"label": "Manil. 4.691",
+"text": "Illyris, et Thrace Martem sortita colonum,"
+},
+{
+"id": "4.692",
+"label": "Manil. 4.692",
+"text": "et stupefacta suos inter Germania partus;"
+},
+{
+"id": "4.693",
+"label": "Manil. 4.693",
+"text": "Gallia per census, Hispania maxima bellis;"
+},
+{
+"id": "4.694",
+"label": "Manil. 4.694",
+"text": "Italia in summa, quam rerum maxima Roma"
+},
+{
+"id": "4.695",
+"label": "Manil. 4.695",
+"text": "imposuit terris caeloque adiungitur ipsa."
+},
+{
+"id": "4.696",
+"label": "Manil. 4.696",
+"text": "Hos erit in fines orbis pontusque vocandus,"
+},
+{
+"id": "4.697",
+"label": "Manil. 4.697",
+"text": "quem deus in partes per singula dividit astra"
+},
+{
+"id": "4.698",
+"label": "Manil. 4.698",
+"text": "ac sua cuique dedit tutelae regna per orbem"
+},
+{
+"id": "4.699",
+"label": "Manil. 4.699",
+"text": "et proprias gentes atque urbes addidit altas,"
+},
+{
+"id": "4.700",
+"label": "Manil. 4.700",
+"text": "in quibus assererent praestantis sidera vires."
+},
+{
+"id": "4.701",
+"label": "Manil. 4.701",
+"text": "ac, velut humana est signis discripta figura,"
+},
+{
+"id": "4.702",
+"label": "Manil. 4.702",
+"text": "et, quamquam communis eat tutela per omne"
+},
+{
+"id": "4.703",
+"label": "Manil. 4.703",
+"text": "corpus, et in proprium divisis artubus exit"
+},
+{
+"id": "4.704",
+"label": "Manil. 4.704",
+"text": "(namque Aries capiti, Taurus cervicibus haeret,"
+},
+{
+"id": "4.705",
+"label": "Manil. 4.705",
+"text": "bracchia sub Geminis censentur, pectora Cancro,"
+},
+{
+"id": "4.706",
+"label": "Manil. 4.706",
+"text": "te scapulae, Nemeaee, vocant teque ilia, Virgo,"
+},
+{
+"id": "4.707",
+"label": "Manil. 4.707",
+"text": "Libra colit clunes et Scorpios inguine regnat,"
+},
+{
+"id": "4.708",
+"label": "Manil. 4.708",
+"text": "et femina Arcitenens, genua et Capricornus amavit,"
+},
+{
+"id": "4.709",
+"label": "Manil. 4.709",
+"text": "cruraque defendit Iuvenis, vestigia Pisces),"
+},
+{
+"id": "4.710",
+"label": "Manil. 4.710",
+"text": "sic alias aliud terras sibi vindicat astrum."
+},
+{
+"id": "4.711",
+"label": "Manil. 4.711",
+"text": "Idcirco in varias leges variasque figuras"
+},
+{
+"id": "4.712",
+"label": "Manil. 4.712",
+"text": "dispositum genus est hominum, proprioque colore"
+},
+{
+"id": "4.713",
+"label": "Manil. 4.713",
+"text": "formantur gentes, sociataque iura per artus"
+},
+{
+"id": "4.714",
+"label": "Manil. 4.714",
+"text": "materiamque parem privato foedere signant."
+},
+{
+"id": "4.715",
+"label": "Manil. 4.715",
+"text": "flava per ingentis surgit Germania partus,"
+},
+{
+"id": "4.716",
+"label": "Manil. 4.716",
+"text": "Gallia vicino minus est infecta rubore,"
+},
+{
+"id": "4.717",
+"label": "Manil. 4.717",
+"text": "asperior solidos Hispania contrahit artus."
+},
+{
+"id": "4.718",
+"label": "Manil. 4.718",
+"text": "Martia Romanis urbis pater induit ora"
+},
+{
+"id": "4.719",
+"label": "Manil. 4.719",
+"text": "Gradivumque Venus miscens bene temperat artus,"
+},
+{
+"id": "4.720",
+"label": "Manil. 4.720",
+"text": "perque coloratas subtilis Graecia gentes"
+},
+{
+"id": "4.721",
+"label": "Manil. 4.721",
+"text": "gymnasium praefert vultu fortisque palaestras,"
+},
+{
+"id": "4.722",
+"label": "Manil. 4.722",
+"text": "et Syriam produnt torti per tempora crines."
+},
+{
+"id": "4.723",
+"label": "Manil. 4.723",
+"text": "Aethiopes maculant orbem tenebrisque figurant"
+},
+{
+"id": "4.724",
+"label": "Manil. 4.724",
+"text": "perfusas hominum gentes; minus India tostos"
+},
+{
+"id": "4.725",
+"label": "Manil. 4.725",
+"text": "progenerat; 725a"
+},
+{
+"id": "4.726",
+"label": "Manil. 4.726",
+"text": "tellusque natans Aegyptia Nilo 726b"
+},
+{
+"id": "4.727",
+"label": "Manil. 4.727",
+"text": "lenius irriguis infuscat corpora campis"
+},
+{
+"id": "4.728",
+"label": "Manil. 4.728",
+"text": "iam propior 726a\n\nPhoebus harenosis Afrorum pulvere terris"
+},
+{
+"id": "4.729",
+"label": "Manil. 4.729",
+"text": "mediumque facit moderata tenorem. 725b\n\nexsiccat populos, et Mauretania nomen"
+},
+{
+"id": "4.730",
+"label": "Manil. 4.730",
+"text": "oris habet titulumque suo fert ipsa colore."
+},
+{
+"id": "4.731",
+"label": "Manil. 4.731",
+"text": "adde sonos totidem vocum, totidem insere linguas"
+},
+{
+"id": "4.732",
+"label": "Manil. 4.732",
+"text": "et mores pro sorte paris ritusque locorum;"
+},
+{
+"id": "4.733",
+"label": "Manil. 4.733",
+"text": "adde genus proprium simili sub semine frugum"
+},
+{
+"id": "4.734",
+"label": "Manil. 4.734",
+"text": "et Cererem varia redeuntem messe per urbes"
+},
+{
+"id": "4.735",
+"label": "Manil. 4.735",
+"text": "nec paribus siliquas referentem viribus omnis,"
+},
+{
+"id": "4.736",
+"label": "Manil. 4.736",
+"text": "nec te, Bacche, pari donantem munere terras"
+},
+{
+"id": "4.737",
+"label": "Manil. 4.737",
+"text": "atque alias aliis fundentem collibus uvas,"
+},
+{
+"id": "4.738",
+"label": "Manil. 4.738",
+"text": "cinnama nec totis passim nascentia campis;"
+},
+{
+"id": "4.739",
+"label": "Manil. 4.739",
+"text": "diversas pecudum facies propriasque ferarum"
+},
+{
+"id": "4.740",
+"label": "Manil. 4.740",
+"text": "et duplici clausos elephantas carcere terrae."
+},
+{
+"id": "4.741",
+"label": "Manil. 4.741",
+"text": "quot partes orbis, totidem sub partibus orbes,"
+},
+{
+"id": "4.742",
+"label": "Manil. 4.742",
+"text": "ut certis discripta nitent regionibus astra"
+},
+{
+"id": "4.743",
+"label": "Manil. 4.743",
+"text": "perfunduntque suo subiectas aere gentes."
+},
+{
+"id": "4.744",
+"label": "Manil. 4.744",
+"text": "Laniger in medio sortitus sidera mundo,"
+},
+{
+"id": "4.745",
+"label": "Manil. 4.745",
+"text": "⟨lance ubi sol aequa pensat noctemque diemque⟩ 744a"
+},
+{
+"id": "4.746",
+"label": "Manil. 4.746",
+"text": "Cancrum inter gelidumque ⟨Caprum⟩ per tempora veris,"
+},
+{
+"id": "4.747",
+"label": "Manil. 4.747",
+"text": "asserit in vires pontum quem vicerat ipse,"
+},
+{
+"id": "4.748",
+"label": "Manil. 4.748",
+"text": "virgine delapsa cum fratrem ad litora vexit"
+},
+{
+"id": "4.749",
+"label": "Manil. 4.749",
+"text": "et minui deflevit onus dorsumque levari."
+},
+{
+"id": "4.750",
+"label": "Manil. 4.750",
+"text": "illum etiam venerata colit vicina Propontis\n\net Syriae gentes et laxo Persis amictu"
+},
+{
+"id": "4.751",
+"label": "Manil. 4.751",
+"text": "vestibus ipsa suis haerens Nilusque tumescens"
+},
+{
+"id": "4.752",
+"label": "Manil. 4.752",
+"text": "in Cancrum et tellus Aegypti iussa natare."
+},
+{
+"id": "4.753",
+"label": "Manil. 4.753",
+"text": "Taurus habet Scythiae montes Asiamque potentem"
+},
+{
+"id": "4.754",
+"label": "Manil. 4.754",
+"text": "et mollis Arabas, silvarum ditia regna."
+},
+{
+"id": "4.755",
+"label": "Manil. 4.755",
+"text": "Euxinus Scythicos pontus sinuatus in arcus"
+},
+{
+"id": "4.756",
+"label": "Manil. 4.756",
+"text": "sub Geminis te, Phoebe, colit; vos Thracia, fratres,"
+},
+{
+"id": "4.757",
+"label": "Manil. 4.757",
+"text": "ultimus et sola vos tranans colit Indica Ganges."
+},
+{
+"id": "4.758",
+"label": "Manil. 4.758",
+"text": "ardent Aethiopes Cancro, cui plurimus ignis:"
+},
+{
+"id": "4.759",
+"label": "Manil. 4.759",
+"text": "hoc color ipse docet. Phrygia, Nemeaee, potiris"
+},
+{
+"id": "4.760",
+"label": "Manil. 4.760",
+"text": "Idaeae matris famulus regnoque feroci"
+},
+{
+"id": "4.761",
+"label": "Manil. 4.761",
+"text": "Cappadocum Armeniaeque iugis; Bithynia dives"
+},
+{
+"id": "4.762",
+"label": "Manil. 4.762",
+"text": "te colit et Macetum tellus, quae vicerat orbem."
+},
+{
+"id": "4.763",
+"label": "Manil. 4.763",
+"text": "Virgine sub casta felix terraque marique"
+},
+{
+"id": "4.764",
+"label": "Manil. 4.764",
+"text": "est Rhodos, hospitium recturi principis orbem,"
+},
+{
+"id": "4.765",
+"label": "Manil. 4.765",
+"text": "tumque domus vere Solis, cui tota sacrata est,"
+},
+{
+"id": "4.766",
+"label": "Manil. 4.766",
+"text": "cum caperet lumen magni sub Caesare mundi;"
+},
+{
+"id": "4.767",
+"label": "Manil. 4.767",
+"text": "Ioniae quoque sunt urbes et Dorica rura,"
+},
+{
+"id": "4.768",
+"label": "Manil. 4.768",
+"text": "Arcades antiqui celebrataque Caria fama."
+},
+{
+"id": "4.769",
+"label": "Manil. 4.769",
+"text": "quod potius colat Italiam, si seligat, astrum"
+},
+{
+"id": "4.770",
+"label": "Manil. 4.770",
+"text": "quam quod cuncta regit, quod rerum pondera novit,"
+},
+{
+"id": "4.771",
+"label": "Manil. 4.771",
+"text": "designat summas et iniquum separat aequo,"
+},
+{
+"id": "4.772",
+"label": "Manil. 4.772",
+"text": "tempora quo pendent, coeunt quo noxque diesque?"
+},
+{
+"id": "4.773",
+"label": "Manil. 4.773",
+"text": "Hesperiam sua Libra tenet, qua condita Roma"
+},
+{
+"id": "4.774",
+"label": "Manil. 4.774",
+"text": "orbis et imperium retinet discrimina rerum,"
+},
+{
+"id": "4.775",
+"label": "Manil. 4.775",
+"text": "lancibus et positas gentes tollitque premitque,"
+},
+{
+"id": "4.776",
+"label": "Manil. 4.776",
+"text": "qua genitus Caesar melius nunc condidit urbem"
+},
+{
+"id": "4.777",
+"label": "Manil. 4.777",
+"text": "et propriis frenat pendentem nutibus orbem."
+},
+{
+"id": "4.778",
+"label": "Manil. 4.778",
+"text": "inferius victae sidus Carthaginis arces"
+},
+{
+"id": "4.779",
+"label": "Manil. 4.779",
+"text": "et Libyam Aegyptique latus donataque rura"
+},
+{
+"id": "4.780",
+"label": "Manil. 4.780",
+"text": "Cyrenes lacrimis radicis Scorpios acris"
+},
+{
+"id": "4.781",
+"label": "Manil. 4.781",
+"text": "eligit, Italiaeque tamen respectat ad undas"
+},
+{
+"id": "4.782",
+"label": "Manil. 4.782",
+"text": "Sardiniamque tenet fusasque per aequora terras."
+},
+{
+"id": "4.783",
+"label": "Manil. 4.783",
+"text": "Cnosia Centauro tellus circumdata ponto"
+},
+{
+"id": "4.784",
+"label": "Manil. 4.784",
+"text": "paret, et in geminum Minois filius astrum"
+},
+{
+"id": "4.785",
+"label": "Manil. 4.785",
+"text": "ipse venit geminus. celeris hinc Creta sagittas"
+},
+{
+"id": "4.786",
+"label": "Manil. 4.786",
+"text": "asserit intentosque imitatur sideris arcus."
+},
+{
+"id": "4.787",
+"label": "Manil. 4.787",
+"text": "insula Trinacriae fluitantem ad iura sororem"
+},
+{
+"id": "4.788",
+"label": "Manil. 4.788",
+"text": "subsequitur Triviae sub eodem condita signo,"
+},
+{
+"id": "4.789",
+"label": "Manil. 4.789",
+"text": "proximaque Italiae tenui divisa profundo"
+},
+{
+"id": "4.790",
+"label": "Manil. 4.790",
+"text": "ora paris sequitur leges nec sidere rupta est."
+},
+{
+"id": "4.791",
+"label": "Manil. 4.791",
+"text": "tu, Capricorne, regis quidquid sub sole cadente"
+},
+{
+"id": "4.792",
+"label": "Manil. 4.792",
+"text": "est positum gelidamque Helicen quod tangit ab illo,"
+},
+{
+"id": "4.793",
+"label": "Manil. 4.793",
+"text": "Hispanas gentes et quot fert Gallia dives;"
+},
+{
+"id": "4.794",
+"label": "Manil. 4.794",
+"text": "teque feris dignam tantum, Germania, matrem"
+},
+{
+"id": "4.795",
+"label": "Manil. 4.795",
+"text": "asserit ambiguum sidus terraeque marisque"
+},
+{
+"id": "4.796",
+"label": "Manil. 4.796",
+"text": "aestibus assiduis pontum terrasque sequentem."
+},
+{
+"id": "4.797",
+"label": "Manil. 4.797",
+"text": "sed Iuvenis nudos formatus mollior artus"
+},
+{
+"id": "4.798",
+"label": "Manil. 4.798",
+"text": "Aegyptum ad tepidam Tyriasque recedit ⟨in arces⟩"
+},
+{
+"id": "4.799",
+"label": "Manil. 4.799",
+"text": "et Cilicum gentes vicinaque Caribus arva."
+},
+{
+"id": "4.800",
+"label": "Manil. 4.800",
+"text": "Piscibus Euphrates datus est, ubi ⟨ab⟩ his ope sumpta"
+},
+{
+"id": "4.801",
+"label": "Manil. 4.801",
+"text": "cum fugeret Typhona Venus subsedit in undis,"
+},
+{
+"id": "4.806",
+"label": "Manil. 4.806",
+"text": "et Tigris et rubri radiantia litora ponti."
+},
+{
+"id": "4.802",
+"label": "Manil. 4.802",
+"text": "magna iacet tellus magnis circumdata ripis"
+},
+{
+"id": "4.803",
+"label": "Manil. 4.803",
+"text": "Parthis et ⟨a⟩ Parthis domitae per saecula gentes,"
+},
+{
+"id": "4.804",
+"label": "Manil. 4.804",
+"text": "Bactraque ⟨et⟩ Aethiopes, Babylon et Susa Ninosque,"
+},
+{
+"id": "4.805",
+"label": "Manil. 4.805",
+"text": "nominaque innumeris vix complectenda figuris."
+},
+{
+"id": "4.807",
+"label": "Manil. 4.807",
+"text": "Sic divisa manet tellus per sidera cuncta,"
+},
+{
+"id": "4.808",
+"label": "Manil. 4.808",
+"text": "e quibus in proprias partes sunt iura trahenda;"
+},
+{
+"id": "4.809",
+"label": "Manil. 4.809",
+"text": "namque eadem, quae sunt signis, commercia servant,"
+},
+{
+"id": "4.810",
+"label": "Manil. 4.810",
+"text": "utque illa inter se coeunt odioque repugnant,"
+},
+{
+"id": "4.811",
+"label": "Manil. 4.811",
+"text": "nunc adversa polo, nunc et coniuncta trigono,"
+},
+{
+"id": "4.812",
+"label": "Manil. 4.812",
+"text": "quaeque alia in varios affectus causa gubernat,"
+},
+{
+"id": "4.813",
+"label": "Manil. 4.813",
+"text": "sic terrae terris respondent, urbibus urbes,"
+},
+{
+"id": "4.814",
+"label": "Manil. 4.814",
+"text": "litora litoribus, regnis contraria regna;"
+},
+{
+"id": "4.815",
+"label": "Manil. 4.815",
+"text": "sic erit et sedes fugienda petendaque cuique,"
+},
+{
+"id": "4.816",
+"label": "Manil. 4.816",
+"text": "sic speranda fides, sic et metuenda pericla,"
+},
+{
+"id": "4.817",
+"label": "Manil. 4.817",
+"text": "ut genus in terram caelo descendit ab alto."
+},
+{
+"id": "4.818",
+"label": "Manil. 4.818",
+"text": "Percipe nunc etiam quae sint ecliptica Graio"
+},
+{
+"id": "4.819",
+"label": "Manil. 4.819",
+"text": "nomine, quod certos quasi delassata per annos"
+},
+{
+"id": "4.820",
+"label": "Manil. 4.820",
+"text": "non numquam cessant sterili torpentia motu."
+},
+{
+"id": "4.821",
+"label": "Manil. 4.821",
+"text": "scilicet immenso nihil est aequale sub aevo"
+},
+{
+"id": "4.822",
+"label": "Manil. 4.822",
+"text": "perpetuosque tenet flores unumque tenorem,"
+},
+{
+"id": "4.823",
+"label": "Manil. 4.823",
+"text": "mutantur sed cuncta die variantque per annos;"
+},
+{
+"id": "4.824",
+"label": "Manil. 4.824",
+"text": "et fecunda suis absistunt frugibus arva"
+},
+{
+"id": "4.825",
+"label": "Manil. 4.825",
+"text": "continuosque negant partus effeta creando,"
+},
+{
+"id": "4.826",
+"label": "Manil. 4.826",
+"text": "rursus quae fuerant steriles ad semina terrae"
+},
+{
+"id": "4.827",
+"label": "Manil. 4.827",
+"text": "post nova sufficiunt nullo mandante tributa."
+},
+{
+"id": "4.828",
+"label": "Manil. 4.828",
+"text": "concutitur tellus validis compagibus haerens"
+},
+{
+"id": "4.829",
+"label": "Manil. 4.829",
+"text": "subducitque solum pedibus; natat orbis in ipso"
+},
+{
+"id": "4.830",
+"label": "Manil. 4.830",
+"text": "et vomit Oceanus pontum sitiensque resorbet"
+},
+{
+"id": "4.831",
+"label": "Manil. 4.831",
+"text": "nec sese ipse capit. sic quondam merserat urbes,"
+},
+{
+"id": "4.832",
+"label": "Manil. 4.832",
+"text": "humani generis cum solus constitit heres"
+},
+{
+"id": "4.833",
+"label": "Manil. 4.833",
+"text": "Deucalion scopuloque orbem possedit in uno."
+},
+{
+"id": "4.834",
+"label": "Manil. 4.834",
+"text": "nec non, cum patrias Phaethon temptavit habenas,"
+},
+{
+"id": "4.835",
+"label": "Manil. 4.835",
+"text": "arserunt gentes timuitque incendia caelum"
+},
+{
+"id": "4.836",
+"label": "Manil. 4.836",
+"text": "fugeruntque novas ardentia sidera flammas"
+},
+{
+"id": "4.837",
+"label": "Manil. 4.837",
+"text": "atque uno metuit condi natura sepulcro."
+},
+{
+"id": "4.838",
+"label": "Manil. 4.838",
+"text": "in tantum longo mutantur tempore cuncta"
+},
+{
+"id": "4.839",
+"label": "Manil. 4.839",
+"text": "atque iterum in semet redeunt. sic tempore certo"
+},
+{
+"id": "4.840",
+"label": "Manil. 4.840",
+"text": "signa quoque amittunt vires sumuntque receptas."
+},
+{
+"id": "4.841",
+"label": "Manil. 4.841",
+"text": "causa patet, quod, Luna quibus defecit in astris"
+},
+{
+"id": "4.842",
+"label": "Manil. 4.842",
+"text": "orba sui fratris noctisque immersa tenebris,"
+},
+{
+"id": "4.843",
+"label": "Manil. 4.843",
+"text": "cum medius Phoebi radios intercipit orbis"
+},
+{
+"id": "4.844",
+"label": "Manil. 4.844",
+"text": "nec trahit assuetum quo fulget Delia lumen,"
+},
+{
+"id": "4.845",
+"label": "Manil. 4.845",
+"text": "haec quoque signa suo pariter cum sidere languent"
+},
+{
+"id": "4.846",
+"label": "Manil. 4.846",
+"text": "incurvata simul solitoque exempta vigori"
+},
+{
+"id": "4.847",
+"label": "Manil. 4.847",
+"text": "et velut elatam Phoeben in funere lugent."
+},
+{
+"id": "4.848",
+"label": "Manil. 4.848",
+"text": "ipsa docet titulo se causa: ecliptica signa"
+},
+{
+"id": "4.849",
+"label": "Manil. 4.849",
+"text": "dixere antiqui. pariter sed bina laborant,"
+},
+{
+"id": "4.850",
+"label": "Manil. 4.850",
+"text": "nec vicina loco sed quae contraria fulgent,"
+},
+{
+"id": "4.851",
+"label": "Manil. 4.851",
+"text": "sicut Luna suo tum tantum deficit orbe"
+},
+{
+"id": "4.852",
+"label": "Manil. 4.852",
+"text": "cum Phoebum adversis currentem non videt astris."
+},
+{
+"id": "4.853",
+"label": "Manil. 4.853",
+"text": "nec tamen aequali languescunt tempore cuncta,"
+},
+{
+"id": "4.854",
+"label": "Manil. 4.854",
+"text": "sed modo in affectus totus producitur annus,"
+},
+{
+"id": "4.855",
+"label": "Manil. 4.855",
+"text": "nunc brevius lassata manent, nunc longius astra"
+},
+{
+"id": "4.856",
+"label": "Manil. 4.856",
+"text": "exceduntque suo Phoebeia tempora casu."
+},
+{
+"id": "4.857",
+"label": "Manil. 4.857",
+"text": "atque, ubi perfectum est spatium quod cuique dicatur"
+},
+{
+"id": "4.858",
+"label": "Manil. 4.858",
+"text": "impleruntque suos certa statione labores"
+},
+{
+"id": "4.859",
+"label": "Manil. 4.859",
+"text": "bina per adversum caelum fulgentia signa,"
+},
+{
+"id": "4.860",
+"label": "Manil. 4.860",
+"text": "tum vice bina labant ipsis haerentia casus,"
+},
+{
+"id": "4.861",
+"label": "Manil. 4.861",
+"text": "quae prius in terras veniunt terrasque relinquunt,"
+},
+{
+"id": "4.862",
+"label": "Manil. 4.862",
+"text": "sidereo non ut pugnet contrarius orbi"
+},
+{
+"id": "4.863",
+"label": "Manil. 4.863",
+"text": "sed, qua mundus agit cursus, inclinet et ipse,"
+},
+{
+"id": "4.864",
+"label": "Manil. 4.864",
+"text": "amissasque negant vires, nec munera tanta"
+},
+{
+"id": "4.865",
+"label": "Manil. 4.865",
+"text": "nec similis reddunt noxas. locus omnia vertit."
+},
+{
+"id": "4.866",
+"label": "Manil. 4.866",
+"text": "Sed quid tam tenui prodest ratione nitentem"
+},
+{
+"id": "4.867",
+"label": "Manil. 4.867",
+"text": "scrutari mundum, si mens sua cuique repugnat"
+},
+{
+"id": "4.868",
+"label": "Manil. 4.868",
+"text": "spemque timor tollit prohibetque a limine caeli?"
+},
+{
+"id": "4.869",
+"label": "Manil. 4.869",
+"text": "'conditur en' inquit 'vasto natura recessu"
+},
+{
+"id": "4.870",
+"label": "Manil. 4.870",
+"text": "mortalisque fugit visus et pectora nostra,"
+},
+{
+"id": "4.871",
+"label": "Manil. 4.871",
+"text": "nec prodesse potest quod fatis cuncta reguntur,"
+},
+{
+"id": "4.872",
+"label": "Manil. 4.872",
+"text": "cum fatum nulla possit ratione videri.'"
+},
+{
+"id": "4.873",
+"label": "Manil. 4.873",
+"text": "quid iuvat in semet sua per convicia ferri"
+},
+{
+"id": "4.874",
+"label": "Manil. 4.874",
+"text": "et fraudare bonis, quae nec deus invidet ipse,"
+},
+{
+"id": "4.875",
+"label": "Manil. 4.875",
+"text": "quosque dedit natura oculos deponere mentis?"
+},
+{
+"id": "4.876",
+"label": "Manil. 4.876",
+"text": "perspicimus caelum, cur non et munera caeli?"
+},
+{
+"id": "4.877",
+"label": "Manil. 4.877",
+"text": "⟨mens humana potest propria discedere sede⟩ 876a"
+},
+{
+"id": "4.878",
+"label": "Manil. 4.878",
+"text": "inque ipsos penitus mundi descendere census"
+},
+{
+"id": "4.879",
+"label": "Manil. 4.879",
+"text": "seminibusque suis tantam componere molem"
+},
+{
+"id": "4.880",
+"label": "Manil. 4.880",
+"text": "et partum caeli sua per nutricia ferre\n\nextremumque sequi pontum terraeque subire"
+},
+{
+"id": "4.881",
+"label": "Manil. 4.881",
+"text": "pendentis tractus et toto vivere in orbe."
+},
+{
+"id": "4.882",
+"label": "Manil. 4.882",
+"text": "[quanta et pars superet rationem discere noctis]"
+},
+{
+"id": "4.883",
+"label": "Manil. 4.883",
+"text": "iam nusquam natura latet; pervidimus omnem"
+},
+{
+"id": "4.884",
+"label": "Manil. 4.884",
+"text": "et capto potimur mundo nostrumque parentem"
+},
+{
+"id": "4.885",
+"label": "Manil. 4.885",
+"text": "pars sua perspicimus genitique accedimus astris."
+},
+{
+"id": "4.886",
+"label": "Manil. 4.886",
+"text": "an dubium est habitare deum sub pectore nostro"
+},
+{
+"id": "4.887",
+"label": "Manil. 4.887",
+"text": "in caelumque redire animas caeloque venire,"
+},
+{
+"id": "4.888",
+"label": "Manil. 4.888",
+"text": "utque sit ex omni constructus corpore mundus"
+},
+{
+"id": "4.889",
+"label": "Manil. 4.889",
+"text": "aeris atque ignis summi terraeque marisque"
+},
+{
+"id": "4.890",
+"label": "Manil. 4.890",
+"text": "hospitium menti totum quae infusa gubernet,"
+},
+{
+"id": "4.891",
+"label": "Manil. 4.891",
+"text": "sic esse in nobis terrenae corpora sortis"
+},
+{
+"id": "4.892",
+"label": "Manil. 4.892",
+"text": "sanguineasque animas animo, qui cuncta gubernat"
+},
+{
+"id": "4.893",
+"label": "Manil. 4.893",
+"text": "dispensatque hominem? quid mirum, noscere mundum"
+},
+{
+"id": "4.894",
+"label": "Manil. 4.894",
+"text": "si possunt homines, quibus est et mundus in ipsis"
+},
+{
+"id": "4.895",
+"label": "Manil. 4.895",
+"text": "exemplumque dei quisque est in imagine parva?"
+},
+{
+"id": "4.896",
+"label": "Manil. 4.896",
+"text": "an cuiquam genitos, nisi caelo, credere fas est"
+},
+{
+"id": "4.897",
+"label": "Manil. 4.897",
+"text": "esse homines? proiecta iacent animalia cuncta"
+},
+{
+"id": "4.898",
+"label": "Manil. 4.898",
+"text": "in terra vel mersa vadis, vel in aere pendent,"
+},
+{
+"id": "4.899",
+"label": "Manil. 4.899",
+"text": "omnibus una quies venter⟨que Venusque voluptas,"
+},
+{
+"id": "4.900",
+"label": "Manil. 4.900",
+"text": "mole valens sola corpus⟩ censumque per artus, 899a"
+},
+{
+"id": "4.901",
+"label": "Manil. 4.901",
+"text": "et, quia consilium non est, et lingua remissa."
+},
+{
+"id": "4.902",
+"label": "Manil. 4.902",
+"text": "unus ⟨in⟩ inspectus rerum viresque loquendi"
+},
+{
+"id": "4.903",
+"label": "Manil. 4.903",
+"text": "ingeniumque capax variasque educitur artes"
+},
+{
+"id": "4.904",
+"label": "Manil. 4.904",
+"text": "hic partus, qui cuncta regit: secessit in urbes,"
+},
+{
+"id": "4.905",
+"label": "Manil. 4.905",
+"text": "edomuit terram ad fruges, animalia cepit\n\nimposuitque viam ponto, stetit unus in arcem"
+},
+{
+"id": "4.906",
+"label": "Manil. 4.906",
+"text": "erectus capitis victorque ad sidera mittit"
+},
+{
+"id": "4.907",
+"label": "Manil. 4.907",
+"text": "sidereos oculos propiusque aspectat Olympum"
+},
+{
+"id": "4.908",
+"label": "Manil. 4.908",
+"text": "inquiritque Iovem; nec sola fronte deorum"
+},
+{
+"id": "4.909",
+"label": "Manil. 4.909",
+"text": "contentus manet, et caelum scrutatur in alvo"
+},
+{
+"id": "4.910",
+"label": "Manil. 4.910",
+"text": "cognatumque sequens corpus se quaerit in astris."
+},
+{
+"id": "4.911",
+"label": "Manil. 4.911",
+"text": "huic in tanta fidem petimus, quam saepe volucres"
+},
+{
+"id": "4.912",
+"label": "Manil. 4.912",
+"text": "accipiunt trepidaeque suo sub pectore fibrae."
+},
+{
+"id": "4.913",
+"label": "Manil. 4.913",
+"text": "an minus est sacris rationem ducere signis"
+},
+{
+"id": "4.914",
+"label": "Manil. 4.914",
+"text": "quam pecudum mortes aviumque attendere cantus?"
+},
+{
+"id": "4.915",
+"label": "Manil. 4.915",
+"text": "atque ideo faciem caeli non invidet orbi"
+},
+{
+"id": "4.916",
+"label": "Manil. 4.916",
+"text": "ipse deus vultusque suos corpusque recludit"
+},
+{
+"id": "4.917",
+"label": "Manil. 4.917",
+"text": "volvendo semper seque ipsum inculcat et offert,"
+},
+{
+"id": "4.918",
+"label": "Manil. 4.918",
+"text": "ut bene cognosci possit doceatque videntis,"
+},
+{
+"id": "4.919",
+"label": "Manil. 4.919",
+"text": "qualis eat, cogatque suas attendere leges."
+},
+{
+"id": "4.920",
+"label": "Manil. 4.920",
+"text": "ipse vocat nostros animos ad sidera mundus"
+},
+{
+"id": "4.921",
+"label": "Manil. 4.921",
+"text": "nec patitur, quia non condit, sua iura latere."
+},
+{
+"id": "4.922",
+"label": "Manil. 4.922",
+"text": "quis putet esse nefas nosci, quod cernere fas est?"
+},
+{
+"id": "4.923",
+"label": "Manil. 4.923",
+"text": "nec contemne tuas quasi parvo in pectore vires:"
+},
+{
+"id": "4.924",
+"label": "Manil. 4.924",
+"text": "quod valet, immensum est. sic auri pondera parvi"
+},
+{
+"id": "4.925",
+"label": "Manil. 4.925",
+"text": "exsuperant pretio numerosos aeris acervos;"
+},
+{
+"id": "4.926",
+"label": "Manil. 4.926",
+"text": "sic adamas, punctum lapidis, pretiosior auro est;"
+},
+{
+"id": "4.927",
+"label": "Manil. 4.927",
+"text": "parvula sic totum pervisit pupula caelum,"
+},
+{
+"id": "4.928",
+"label": "Manil. 4.928",
+"text": "quoque vident oculi minimum est, cum maxima cernant;"
+},
+{
+"id": "4.929",
+"label": "Manil. 4.929",
+"text": "sic animi sedes tenui sub corde locata"
+},
+{
+"id": "4.930",
+"label": "Manil. 4.930",
+"text": "per totum angusto regnat de limite corpus."
+},
+{
+"id": "4.931",
+"label": "Manil. 4.931",
+"text": "materiae ne quaere modum, sed perspice vires,"
+},
+{
+"id": "4.932",
+"label": "Manil. 4.932",
+"text": "quas ratio, non pondus, habet: ratio omnia vincit."
+},
+{
+"id": "4.933",
+"label": "Manil. 4.933",
+"text": "ne dubites homini divinos credere visus,"
+},
+{
+"id": "4.934",
+"label": "Manil. 4.934",
+"text": "iam facit ipse deos mittitque ad sidera numen,"
+},
+{
+"id": "4.935",
+"label": "Manil. 4.935",
+"text": "maius et Augusto crescet sub principe caelum."
+}
+]
+}

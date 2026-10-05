@@ -1,0 +1,747 @@
+{
+"corpus": "ovid-heroides",
+"unit": "2",
+"title": "Ovid, Heroides (Epistulae), Her. 2",
+"passages": [
+{
+"id": "2.1",
+"label": "Ov. Her. 2.1",
+"text": "Hospita, Demophoon, tua te Rhodopeia Phyllis"
+},
+{
+"id": "2.2",
+"label": "Ov. Her. 2.2",
+"text": "Ultra promissum tempus abesse queror."
+},
+{
+"id": "2.3",
+"label": "Ov. Her. 2.3",
+"text": "Cornua cum lunae pleno semel orbe coissent,"
+},
+{
+"id": "2.4",
+"label": "Ov. Her. 2.4",
+"text": "Litoribus nostris ancora pacta tua est —"
+},
+{
+"id": "2.5",
+"label": "Ov. Her. 2.5",
+"text": "Luna quater latuit, toto quater orbe recrevit;"
+},
+{
+"id": "2.6",
+"label": "Ov. Her. 2.6",
+"text": "Nec vehit Actaeas Sithonis unda rates."
+},
+{
+"id": "2.7",
+"label": "Ov. Her. 2.7",
+"text": "Tempora si numeres — bene quae numeramus amantes —"
+},
+{
+"id": "2.8",
+"label": "Ov. Her. 2.8",
+"text": "Non venit ante suam nostra querela diem."
+},
+{
+"id": "2.9",
+"label": "Ov. Her. 2.9",
+"text": "Spes quoque lenta fuit; tarde, quae credita laedunt,"
+},
+{
+"id": "2.10",
+"label": "Ov. Her. 2.10",
+"text": "Credimus. invita nunc es amante nocens."
+},
+{
+"id": "2.11",
+"label": "Ov. Her. 2.11",
+"text": "Saepe fui mendax pro te mihi, saepe putavi"
+},
+{
+"id": "2.12",
+"label": "Ov. Her. 2.12",
+"text": "Alba procellosos vela referre Notos."
+},
+{
+"id": "2.13",
+"label": "Ov. Her. 2.13",
+"text": "Thesea devovi, quia te dimittere nollet;"
+},
+{
+"id": "2.14",
+"label": "Ov. Her. 2.14",
+"text": "Nec tenuit cursus forsitan ille tuos."
+},
+{
+"id": "2.15",
+"label": "Ov. Her. 2.15",
+"text": "Interdum timui, ne, dum vada tendis ad Hebri,"
+},
+{
+"id": "2.16",
+"label": "Ov. Her. 2.16",
+"text": "Mersa foret cana naufraga puppis aqua."
+},
+{
+"id": "2.17",
+"label": "Ov. Her. 2.17",
+"text": "Saepe deos supplex, ut tu, scelerate, valeres,"
+},
+{
+"id": "2.18",
+"label": "Ov. Her. 2.18",
+"text": "Cum prece turicremis sum venerata sacris;"
+},
+{
+"id": "2.19",
+"label": "Ov. Her. 2.19",
+"text": "Saepe, videns ventos caelo pelagoque faventes,"
+},
+{
+"id": "2.20",
+"label": "Ov. Her. 2.20",
+"text": "Ipsa mihi dixi: 'si valet ille, venit.'"
+},
+{
+"id": "2.21",
+"label": "Ov. Her. 2.21",
+"text": "Denique fidus amor, quidquid properantibus obstat,"
+},
+{
+"id": "2.22",
+"label": "Ov. Her. 2.22",
+"text": "Finxit, et ad causas ingeniosa fui."
+},
+{
+"id": "2.23",
+"label": "Ov. Her. 2.23",
+"text": "At tu lentus abes; nec te iurata reducunt"
+},
+{
+"id": "2.24",
+"label": "Ov. Her. 2.24",
+"text": "Numina, nec nostro motus amore redis."
+},
+{
+"id": "2.25",
+"label": "Ov. Her. 2.25",
+"text": "Demophoon, ventis et verba et vela dedisti;"
+},
+{
+"id": "2.26",
+"label": "Ov. Her. 2.26",
+"text": "Vela queror reditu, verba carere fide."
+},
+{
+"id": "2.27",
+"label": "Ov. Her. 2.27",
+"text": "Dic mihi, quid feci, nisi non sapienter amavi?"
+},
+{
+"id": "2.28",
+"label": "Ov. Her. 2.28",
+"text": "Crimine te potui demeruisse meo."
+},
+{
+"id": "2.29",
+"label": "Ov. Her. 2.29",
+"text": "Unum in me scelus est, quod te, scelerate, recepi;"
+},
+{
+"id": "2.30",
+"label": "Ov. Her. 2.30",
+"text": "Sed scelus hoc meriti pondus et instar habet."
+},
+{
+"id": "2.31",
+"label": "Ov. Her. 2.31",
+"text": "Iura fidesque ubi nunc, commissaque dextera dextrae,"
+},
+{
+"id": "2.32",
+"label": "Ov. Her. 2.32",
+"text": "Quique erat in falso plurimus ore deus?"
+},
+{
+"id": "2.33",
+"label": "Ov. Her. 2.33",
+"text": "Promissus socios ubi nunc Hymenaeus in annos,"
+},
+{
+"id": "2.34",
+"label": "Ov. Her. 2.34",
+"text": "Qui mihi coniugii sponsor et obses erat?"
+},
+{
+"id": "2.35",
+"label": "Ov. Her. 2.35",
+"text": "Per mare, quod totum ventis agitatur et undis,"
+},
+{
+"id": "2.36",
+"label": "Ov. Her. 2.36",
+"text": "Per quod nempe ieras, per quod iturus eras,"
+},
+{
+"id": "2.37",
+"label": "Ov. Her. 2.37",
+"text": "Perque tuum mihi iurasti — nisi fictus et ille est —"
+},
+{
+"id": "2.38",
+"label": "Ov. Her. 2.38",
+"text": "Concita qui ventis aequora mulcet, avum,"
+},
+{
+"id": "2.39",
+"label": "Ov. Her. 2.39",
+"text": "Per Venerem nimiumque mihi facientia tela —"
+},
+{
+"id": "2.40",
+"label": "Ov. Her. 2.40",
+"text": "Altera tela arcus, altera tela faces —"
+},
+{
+"id": "2.41",
+"label": "Ov. Her. 2.41",
+"text": "Iunonemque, toris quae praesidet alma maritis,"
+},
+{
+"id": "2.42",
+"label": "Ov. Her. 2.42",
+"text": "Et per taediferae mystica sacra deae."
+},
+{
+"id": "2.43",
+"label": "Ov. Her. 2.43",
+"text": "Si de tot laesis sua numina quisque deorum"
+},
+{
+"id": "2.44",
+"label": "Ov. Her. 2.44",
+"text": "Vindicet, in poenas non satis unus eris."
+},
+{
+"id": "2.45",
+"label": "Ov. Her. 2.45",
+"text": "Ah, laceras etiam puppes furiosa refeci,"
+},
+{
+"id": "2.46",
+"label": "Ov. Her. 2.46",
+"text": "Ut, qua desererer, firma carina foret,"
+},
+{
+"id": "2.47",
+"label": "Ov. Her. 2.47",
+"text": "Remigiumque dedi, quod me fugiturus haberes."
+},
+{
+"id": "2.48",
+"label": "Ov. Her. 2.48",
+"text": "Heu! patior telis vulnera facta meis!"
+},
+{
+"id": "2.49",
+"label": "Ov. Her. 2.49",
+"text": "Credidimus blandis, quorum tibi copia, verbis;"
+},
+{
+"id": "2.50",
+"label": "Ov. Her. 2.50",
+"text": "Credidimus generi nominibusque tuis;"
+},
+{
+"id": "2.51",
+"label": "Ov. Her. 2.51",
+"text": "Credidimus lacrimis — an et hae simulare docentur?"
+},
+{
+"id": "2.52",
+"label": "Ov. Her. 2.52",
+"text": "Hae quoque habent artes, quaque iubentur, eunt?"
+},
+{
+"id": "2.53",
+"label": "Ov. Her. 2.53",
+"text": "Dis quoque credidimus. quo iam tot pignora nobis?"
+},
+{
+"id": "2.54",
+"label": "Ov. Her. 2.54",
+"text": "Parte satis potui qualibet inde capi."
+},
+{
+"id": "2.55",
+"label": "Ov. Her. 2.55",
+"text": "Nec moveor, quod te iuvi portuque locoque —"
+},
+{
+"id": "2.56",
+"label": "Ov. Her. 2.56",
+"text": "Debuit haec meriti summa fuisse mei!"
+},
+{
+"id": "2.57",
+"label": "Ov. Her. 2.57",
+"text": "Turpiter hospitium lecto cumulasse iugali"
+},
+{
+"id": "2.58",
+"label": "Ov. Her. 2.58",
+"text": "Paenitet, et lateri conseruisse latus."
+},
+{
+"id": "2.59",
+"label": "Ov. Her. 2.59",
+"text": "Quae fuit ante illam, mallem suprema fuisset"
+},
+{
+"id": "2.60",
+"label": "Ov. Her. 2.60",
+"text": "Nox mihi, dum potui Phyllis honesta mori."
+},
+{
+"id": "2.61",
+"label": "Ov. Her. 2.61",
+"text": "Speravi melius, quia me meruisse putavi;"
+},
+{
+"id": "2.62",
+"label": "Ov. Her. 2.62",
+"text": "Quaecumque ex merito spes venit, aequa venit."
+},
+{
+"id": "2.63",
+"label": "Ov. Her. 2.63",
+"text": "Fallere credentem non est operosa puellam"
+},
+{
+"id": "2.64",
+"label": "Ov. Her. 2.64",
+"text": "Gloria. simplicitas digna favore fuit."
+},
+{
+"id": "2.65",
+"label": "Ov. Her. 2.65",
+"text": "Sum decepta tuis et amans et femina verbis."
+},
+{
+"id": "2.66",
+"label": "Ov. Her. 2.66",
+"text": "Di faciant, laudis summa sit ista tuae!"
+},
+{
+"id": "2.67",
+"label": "Ov. Her. 2.67",
+"text": "Inter et Aegidas, media statuaris in urbe,"
+},
+{
+"id": "2.68",
+"label": "Ov. Her. 2.68",
+"text": "Magnificus titulis stet pater ante suis."
+},
+{
+"id": "2.69",
+"label": "Ov. Her. 2.69",
+"text": "Cum fuerit Sciron lectus torvusque Procrustes"
+},
+{
+"id": "2.70",
+"label": "Ov. Her. 2.70",
+"text": "Et Sinis et tauri mixtaque forma viri"
+},
+{
+"id": "2.71",
+"label": "Ov. Her. 2.71",
+"text": "Et domitae bello Thebae fusique bimembres"
+},
+{
+"id": "2.72",
+"label": "Ov. Her. 2.72",
+"text": "Et pulsata nigri regia caeca dei —"
+},
+{
+"id": "2.73",
+"label": "Ov. Her. 2.73",
+"text": "Hoc tua post illos titulo signetur imago:"
+},
+{
+"id": "2.74",
+"label": "Ov. Her. 2.74",
+"text": "Hic est, cuius amans hospita capta dolo est."
+},
+{
+"id": "2.75",
+"label": "Ov. Her. 2.75",
+"text": "De tanta rerum turba factisque parentis"
+},
+{
+"id": "2.76",
+"label": "Ov. Her. 2.76",
+"text": "Sedit in ingenio Cressa relicta tuo."
+},
+{
+"id": "2.77",
+"label": "Ov. Her. 2.77",
+"text": "Quod solum excusat, solum miraris in illo;"
+},
+{
+"id": "2.78",
+"label": "Ov. Her. 2.78",
+"text": "Heredem patriae, perfide, fraudis agis."
+},
+{
+"id": "2.79",
+"label": "Ov. Her. 2.79",
+"text": "Illa — nec invideo — fruitur meliore marito"
+},
+{
+"id": "2.80",
+"label": "Ov. Her. 2.80",
+"text": "Inque capistratis tigribus alta sedet;"
+},
+{
+"id": "2.81",
+"label": "Ov. Her. 2.81",
+"text": "At mea despecti fugiunt conubia Thraces,"
+},
+{
+"id": "2.82",
+"label": "Ov. Her. 2.82",
+"text": "Quod ferar externum praeposuisse meis."
+},
+{
+"id": "2.83",
+"label": "Ov. Her. 2.83",
+"text": "Atque aliquis 'iam nunc doctas eat,' inquit, 'Athenas;"
+},
+{
+"id": "2.84",
+"label": "Ov. Her. 2.84",
+"text": "Armiferam Thracen qui regat, alter erit."
+},
+{
+"id": "2.85",
+"label": "Ov. Her. 2.85",
+"text": "Exitus acta probat.' careat successibus, opto,"
+},
+{
+"id": "2.86",
+"label": "Ov. Her. 2.86",
+"text": "Quisquis ab eventu facta notanda putat!"
+},
+{
+"id": "2.87",
+"label": "Ov. Her. 2.87",
+"text": "At si nostra tuo spumescant aequora remo,"
+},
+{
+"id": "2.88",
+"label": "Ov. Her. 2.88",
+"text": "Iam mihi, iam dicar consuluisse meis —"
+},
+{
+"id": "2.89",
+"label": "Ov. Her. 2.89",
+"text": "Sed neque consului, nec te mea regia tanget"
+},
+{
+"id": "2.90",
+"label": "Ov. Her. 2.90",
+"text": "Fessaque Bistonia membra lavabis aqua!"
+},
+{
+"id": "2.91",
+"label": "Ov. Her. 2.91",
+"text": "Illa meis oculis species abeuntis inhaeret,"
+},
+{
+"id": "2.92",
+"label": "Ov. Her. 2.92",
+"text": "Cum premeret portus classis itura meos."
+},
+{
+"id": "2.93",
+"label": "Ov. Her. 2.93",
+"text": "Ausus es amplecti colloque infusus amantis"
+},
+{
+"id": "2.94",
+"label": "Ov. Her. 2.94",
+"text": "Oscula per longas iungere pressa moras"
+},
+{
+"id": "2.95",
+"label": "Ov. Her. 2.95",
+"text": "Cumque tuis lacrimis lacrimas confundere nostras,"
+},
+{
+"id": "2.96",
+"label": "Ov. Her. 2.96",
+"text": "Quodque foret velis aura secunda, queri"
+},
+{
+"id": "2.97",
+"label": "Ov. Her. 2.97",
+"text": "Et mihi discedens suprema dicere voce:"
+},
+{
+"id": "2.98",
+"label": "Ov. Her. 2.98",
+"text": "'Phylli, fac expectes Demophoonta tuum!'"
+},
+{
+"id": "2.99",
+"label": "Ov. Her. 2.99",
+"text": "Expectem, qui me numquam visurus abisti?"
+},
+{
+"id": "2.100",
+"label": "Ov. Her. 2.100",
+"text": "Expectem pelago vela negata meo?"
+},
+{
+"id": "2.101",
+"label": "Ov. Her. 2.101",
+"text": "Et tamen expecto — redeas modo serus amanti,"
+},
+{
+"id": "2.102",
+"label": "Ov. Her. 2.102",
+"text": "Ut tua sit solo tempore lapsa fides!"
+},
+{
+"id": "2.103",
+"label": "Ov. Her. 2.103",
+"text": "Quid precor infelix? te iam tenet altera coniunx"
+},
+{
+"id": "2.104",
+"label": "Ov. Her. 2.104",
+"text": "Forsitan et, nobis qui male favit, amor;"
+},
+{
+"id": "2.105",
+"label": "Ov. Her. 2.105",
+"text": "Iamque tibi excidimus, nullam, puto, Phyllida nosti."
+},
+{
+"id": "2.106",
+"label": "Ov. Her. 2.106",
+"text": "Ei mihi! si, quae sim Phyllis et unde, rogas —"
+},
+{
+"id": "2.107",
+"label": "Ov. Her. 2.107",
+"text": "Quae tibi, Demophoon, longis erroribus acto"
+},
+{
+"id": "2.108",
+"label": "Ov. Her. 2.108",
+"text": "Threicios portus hospitiumque dedi,"
+},
+{
+"id": "2.109",
+"label": "Ov. Her. 2.109",
+"text": "Cuius opes auxere meae, cui dives egenti"
+},
+{
+"id": "2.110",
+"label": "Ov. Her. 2.110",
+"text": "Munera multa dedi, multa datura fui;"
+},
+{
+"id": "2.111",
+"label": "Ov. Her. 2.111",
+"text": "Quae tibi subieci latissima regna Lycurgi,"
+},
+{
+"id": "2.112",
+"label": "Ov. Her. 2.112",
+"text": "Nomine femineo vix satis apta regi,"
+},
+{
+"id": "2.113",
+"label": "Ov. Her. 2.113",
+"text": "Qua patet umbrosum Rhodope glacialis ad Haemum,"
+},
+{
+"id": "2.114",
+"label": "Ov. Her. 2.114",
+"text": "Et sacer admissas exigit Hebrus aquas,"
+},
+{
+"id": "2.115",
+"label": "Ov. Her. 2.115",
+"text": "Cui mea virginitas avibus libata sinistris"
+},
+{
+"id": "2.116",
+"label": "Ov. Her. 2.116",
+"text": "Castaque fallaci zona recincta manu!"
+},
+{
+"id": "2.117",
+"label": "Ov. Her. 2.117",
+"text": "Pronuba Tisiphone thalamis ululavit in illis,"
+},
+{
+"id": "2.118",
+"label": "Ov. Her. 2.118",
+"text": "Et cecinit maestum devia carmen avis;"
+},
+{
+"id": "2.119",
+"label": "Ov. Her. 2.119",
+"text": "Adfuit Allecto brevibus torquata colubris,"
+},
+{
+"id": "2.120",
+"label": "Ov. Her. 2.120",
+"text": "Suntque sepulcrali lumina mota face!"
+},
+{
+"id": "2.121",
+"label": "Ov. Her. 2.121",
+"text": "Maesta tamen scopulos fruticosaque litora calco"
+},
+{
+"id": "2.122",
+"label": "Ov. Her. 2.122",
+"text": "Quaeque patent oculis litora lata meis."
+},
+{
+"id": "2.123",
+"label": "Ov. Her. 2.123",
+"text": "Sive die laxatur humus, seu frigida lucent"
+},
+{
+"id": "2.124",
+"label": "Ov. Her. 2.124",
+"text": "Sidera, prospicio, quis freta ventus agat;"
+},
+{
+"id": "2.125",
+"label": "Ov. Her. 2.125",
+"text": "Et quaecumque procul venientia lintea vidi,"
+},
+{
+"id": "2.126",
+"label": "Ov. Her. 2.126",
+"text": "Protinus illa meos auguror esse deos."
+},
+{
+"id": "2.127",
+"label": "Ov. Her. 2.127",
+"text": "In freta procurro, vix me retinentibus undis,"
+},
+{
+"id": "2.128",
+"label": "Ov. Her. 2.128",
+"text": "Mobile qua primas porrigit aequor aquas."
+},
+{
+"id": "2.129",
+"label": "Ov. Her. 2.129",
+"text": "Quo magis accedunt, minus et minus utilis adsto;"
+},
+{
+"id": "2.130",
+"label": "Ov. Her. 2.130",
+"text": "Linquor et ancillis excipienda cado."
+},
+{
+"id": "2.131",
+"label": "Ov. Her. 2.131",
+"text": "Est sinus, adductos modice falcatus in arcus;"
+},
+{
+"id": "2.132",
+"label": "Ov. Her. 2.132",
+"text": "Ultima praerupta cornua mole rigent."
+},
+{
+"id": "2.133",
+"label": "Ov. Her. 2.133",
+"text": "Hinc mihi suppositas inmittere corpus in undas"
+},
+{
+"id": "2.134",
+"label": "Ov. Her. 2.134",
+"text": "Mens fuit; et, quoniam fallere pergis, erit."
+},
+{
+"id": "2.135",
+"label": "Ov. Her. 2.135",
+"text": "Ad tua me fluctus proiectam litora portent,"
+},
+{
+"id": "2.136",
+"label": "Ov. Her. 2.136",
+"text": "Occurramque oculis intumulata tuis!"
+},
+{
+"id": "2.137",
+"label": "Ov. Her. 2.137",
+"text": "Duritia ferrum ut superes adamantaque teque,"
+},
+{
+"id": "2.138",
+"label": "Ov. Her. 2.138",
+"text": "'Non tibi sic,' dices, 'Phylli, sequendus eram!'"
+},
+{
+"id": "2.139",
+"label": "Ov. Her. 2.139",
+"text": "Saepe venenorum sitis est mihi; saepe cruenta"
+},
+{
+"id": "2.140",
+"label": "Ov. Her. 2.140",
+"text": "Traiectam gladio morte perire iuvat."
+},
+{
+"id": "2.141",
+"label": "Ov. Her. 2.141",
+"text": "Colla quoque, infidis quia se nectenda lacertis"
+},
+{
+"id": "2.142",
+"label": "Ov. Her. 2.142",
+"text": "Praebuerunt, laqueis inplicuisse iuvat."
+},
+{
+"id": "2.143",
+"label": "Ov. Her. 2.143",
+"text": "Stat nece matura tenerum pensare pudorem."
+},
+{
+"id": "2.144",
+"label": "Ov. Her. 2.144",
+"text": "In necis electu parva futura mora est."
+},
+{
+"id": "2.145",
+"label": "Ov. Her. 2.145",
+"text": "Inscribere meo causa invidiosa sepulcro."
+},
+{
+"id": "2.146",
+"label": "Ov. Her. 2.146",
+"text": "Aut hoc aut simili carmine notus eris:"
+},
+{
+"id": "2.147",
+"label": "Ov. Her. 2.147",
+"text": "Phyllida Demophoon leto dedit hospes amantem;"
+},
+{
+"id": "2.148",
+"label": "Ov. Her. 2.148",
+"text": "Ille necis causam praebuit, ipsa manum."
+}
+]
+}

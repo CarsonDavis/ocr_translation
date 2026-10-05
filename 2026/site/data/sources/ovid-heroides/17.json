@@ -1,0 +1,1347 @@
+{
+"corpus": "ovid-heroides",
+"unit": "17",
+"title": "Ovid, Heroides (Epistulae), Her. 17",
+"passages": [
+{
+"id": "17.1",
+"label": "Ov. Her. 17.1",
+"text": "Nunc oculos tua cum violarit epistula nostros,"
+},
+{
+"id": "17.2",
+"label": "Ov. Her. 17.2",
+"text": "Non rescribendi gloria visa levis."
+},
+{
+"id": "17.3",
+"label": "Ov. Her. 17.3",
+"text": "Ausus es hospitii temeratis advena sacris"
+},
+{
+"id": "17.4",
+"label": "Ov. Her. 17.4",
+"text": "Legitimam nuptae sollicitare fidem!"
+},
+{
+"id": "17.5",
+"label": "Ov. Her. 17.5",
+"text": "Scilicet idcirco ventosa per aequora vectum"
+},
+{
+"id": "17.6",
+"label": "Ov. Her. 17.6",
+"text": "Excepit portu Taenaris ora suo,"
+},
+{
+"id": "17.7",
+"label": "Ov. Her. 17.7",
+"text": "Nec tibi, diversa quamvis e gente venires,"
+},
+{
+"id": "17.8",
+"label": "Ov. Her. 17.8",
+"text": "Oppositas habuit regia nostra fores,"
+},
+{
+"id": "17.9",
+"label": "Ov. Her. 17.9",
+"text": "Esset ut officii merces iniuria tanti!"
+},
+{
+"id": "17.10",
+"label": "Ov. Her. 17.10",
+"text": "Qui sic intrabas, hospes an hostis eras?"
+},
+{
+"id": "17.11",
+"label": "Ov. Her. 17.11",
+"text": "Nec dubito, quin haec, cum sit tam iusta, vocetur"
+},
+{
+"id": "17.12",
+"label": "Ov. Her. 17.12",
+"text": "Rustica iudicio nostra querela tuo."
+},
+{
+"id": "17.13",
+"label": "Ov. Her. 17.13",
+"text": "Rustica sim sane, dum non oblita pudoris,"
+},
+{
+"id": "17.14",
+"label": "Ov. Her. 17.14",
+"text": "Dumque tenor vitae sit sine labe meae."
+},
+{
+"id": "17.15",
+"label": "Ov. Her. 17.15",
+"text": "Si non est ficto tristis mihi vultus in ore,"
+},
+{
+"id": "17.16",
+"label": "Ov. Her. 17.16",
+"text": "Nec sedeo duris torva superciliis,"
+},
+{
+"id": "17.17",
+"label": "Ov. Her. 17.17",
+"text": "Fama tamen clara est, et adhuc sine crimine vixi,"
+},
+{
+"id": "17.18",
+"label": "Ov. Her. 17.18",
+"text": "Et laudem de me nullus adulter habet."
+},
+{
+"id": "17.19",
+"label": "Ov. Her. 17.19",
+"text": "Quo magis admiror, quae sit fiducia coepti,"
+},
+{
+"id": "17.20",
+"label": "Ov. Her. 17.20",
+"text": "Spemque tori dederit quae tibi causa mei."
+},
+{
+"id": "17.21",
+"label": "Ov. Her. 17.21",
+"text": "An, quia vim nobis Neptunius attulit heros,"
+},
+{
+"id": "17.22",
+"label": "Ov. Her. 17.22",
+"text": "Rapta semel videor bis quoque digna rapi?"
+},
+{
+"id": "17.23",
+"label": "Ov. Her. 17.23",
+"text": "Crimen erat nostrum, si delenita fuissem;"
+},
+{
+"id": "17.24",
+"label": "Ov. Her. 17.24",
+"text": "Cum sim rapta, meum quid nisi nolle fuit?"
+},
+{
+"id": "17.25",
+"label": "Ov. Her. 17.25",
+"text": "Non tamen e facto fructum tulit ille petitum;"
+},
+{
+"id": "17.26",
+"label": "Ov. Her. 17.26",
+"text": "Excepto redii passa timore nihil."
+},
+{
+"id": "17.27",
+"label": "Ov. Her. 17.27",
+"text": "Oscula luctanti tantummodo pauca protervus"
+},
+{
+"id": "17.28",
+"label": "Ov. Her. 17.28",
+"text": "Abstulit; ulterius nil habet ille mei."
+},
+{
+"id": "17.29",
+"label": "Ov. Her. 17.29",
+"text": "Quae tua nequitia est, non his contenta fuisset —"
+},
+{
+"id": "17.30",
+"label": "Ov. Her. 17.30",
+"text": "Di melius! similis non fuit ille tui."
+},
+{
+"id": "17.31",
+"label": "Ov. Her. 17.31",
+"text": "Reddidit intactam, minuitque modestia crimen,"
+},
+{
+"id": "17.32",
+"label": "Ov. Her. 17.32",
+"text": "Et iuvenem facti paenituisse patet;"
+},
+{
+"id": "17.33",
+"label": "Ov. Her. 17.33",
+"text": "Thesea paenituit, Paris ut succederet illi,"
+},
+{
+"id": "17.34",
+"label": "Ov. Her. 17.34",
+"text": "Ne quando nomen non sit in ore meum?"
+},
+{
+"id": "17.35",
+"label": "Ov. Her. 17.35",
+"text": "Nec tamen irascor — quis enim succenset amanti? —"
+},
+{
+"id": "17.36",
+"label": "Ov. Her. 17.36",
+"text": "Si modo, quem praefers, non simulatur amor."
+},
+{
+"id": "17.37",
+"label": "Ov. Her. 17.37",
+"text": "Hoc quoque enim dubito — non quod fiducia desit,"
+},
+{
+"id": "17.38",
+"label": "Ov. Her. 17.38",
+"text": "Aut mea sit facies non bene nota mihi;"
+},
+{
+"id": "17.39",
+"label": "Ov. Her. 17.39",
+"text": "Sed quia credulitas damno solet esse puellis,"
+},
+{
+"id": "17.40",
+"label": "Ov. Her. 17.40",
+"text": "Verbaque dicuntur vestra carere fide."
+},
+{
+"id": "17.41",
+"label": "Ov. Her. 17.41",
+"text": "At peccant aliae, matronaque rara pudica est."
+},
+{
+"id": "17.42",
+"label": "Ov. Her. 17.42",
+"text": "Quis prohibet raris nomen inesse meum?"
+},
+{
+"id": "17.43",
+"label": "Ov. Her. 17.43",
+"text": "Nam mea quod visa est tibi mater idonea, cuius"
+},
+{
+"id": "17.44",
+"label": "Ov. Her. 17.44",
+"text": "Exemplo flecti me quoque posse putes,"
+},
+{
+"id": "17.45",
+"label": "Ov. Her. 17.45",
+"text": "Matris in admisso falsa sub imagine lusae"
+},
+{
+"id": "17.46",
+"label": "Ov. Her. 17.46",
+"text": "Error inest; pluma tectus adulter erat."
+},
+{
+"id": "17.47",
+"label": "Ov. Her. 17.47",
+"text": "Nil ego, si peccem, possum nescisse, nec ullus"
+},
+{
+"id": "17.48",
+"label": "Ov. Her. 17.48",
+"text": "Error qui facti crimen obumbret erit."
+},
+{
+"id": "17.49",
+"label": "Ov. Her. 17.49",
+"text": "Illa bene erravit vitiumque auctore redemit."
+},
+{
+"id": "17.50",
+"label": "Ov. Her. 17.50",
+"text": "Felix in culpa quo Iove dicar ego?"
+},
+{
+"id": "17.51",
+"label": "Ov. Her. 17.51",
+"text": "Sed genus et proavos et regia nomina iactas."
+},
+{
+"id": "17.52",
+"label": "Ov. Her. 17.52",
+"text": "Clara satis domus haec nobilitate sua est."
+},
+{
+"id": "17.53",
+"label": "Ov. Her. 17.53",
+"text": "Iuppiter ut soceri proavus taceatur et omne"
+},
+{
+"id": "17.54",
+"label": "Ov. Her. 17.54",
+"text": "Tantalidae Pelopis Tyndareique decus,"
+},
+{
+"id": "17.55",
+"label": "Ov. Her. 17.55",
+"text": "Dat mihi Leda Iovem cygno decepta parentem,"
+},
+{
+"id": "17.56",
+"label": "Ov. Her. 17.56",
+"text": "Quae falsam gremio credula fovit avem."
+},
+{
+"id": "17.57",
+"label": "Ov. Her. 17.57",
+"text": "I nunc et Phrygiae late primordia gentis"
+},
+{
+"id": "17.58",
+"label": "Ov. Her. 17.58",
+"text": "Cumque suo Priamum Laumedonte refer!"
+},
+{
+"id": "17.59",
+"label": "Ov. Her. 17.59",
+"text": "Quos ego suspicio; sed qui tibi gloria magna est"
+},
+{
+"id": "17.60",
+"label": "Ov. Her. 17.60",
+"text": "Quintus, is a nostro nomine primus erit."
+},
+{
+"id": "17.61",
+"label": "Ov. Her. 17.61",
+"text": "Sceptra tuae quamvis rear esse potentia terrae,"
+},
+{
+"id": "17.62",
+"label": "Ov. Her. 17.62",
+"text": "Non tamen haec illis esse minora puto."
+},
+{
+"id": "17.63",
+"label": "Ov. Her. 17.63",
+"text": "Si iam divitiis locus hic numeroque virorum"
+},
+{
+"id": "17.64",
+"label": "Ov. Her. 17.64",
+"text": "Vincitur, at certe barbara terra tua est."
+},
+{
+"id": "17.65",
+"label": "Ov. Her. 17.65",
+"text": "Munera tanta quidem promittit epistula dives"
+},
+{
+"id": "17.66",
+"label": "Ov. Her. 17.66",
+"text": "Ut possint ipsas illa movere deas;"
+},
+{
+"id": "17.67",
+"label": "Ov. Her. 17.67",
+"text": "Sed si iam vellem fines transire pudoris,"
+},
+{
+"id": "17.68",
+"label": "Ov. Her. 17.68",
+"text": "Tu melior culpae causa futurus eras."
+},
+{
+"id": "17.69",
+"label": "Ov. Her. 17.69",
+"text": "Aut ego perpetuo famam sine labe tenebo,"
+},
+{
+"id": "17.70",
+"label": "Ov. Her. 17.70",
+"text": "Aut ego te potius quam tua dona sequar;"
+},
+{
+"id": "17.71",
+"label": "Ov. Her. 17.71",
+"text": "Utque ea non sperno, sic acceptissima semper"
+},
+{
+"id": "17.72",
+"label": "Ov. Her. 17.72",
+"text": "Munera sunt, auctor quae pretiosa facit."
+},
+{
+"id": "17.73",
+"label": "Ov. Her. 17.73",
+"text": "Plus multo est, quod amas, quod sum tibi causa laboris,"
+},
+{
+"id": "17.74",
+"label": "Ov. Her. 17.74",
+"text": "Quod per tam longas spes tua venit aquas."
+},
+{
+"id": "17.75",
+"label": "Ov. Her. 17.75",
+"text": "Illa quoque, adposita quae nunc facis, inprobe, mensa,"
+},
+{
+"id": "17.76",
+"label": "Ov. Her. 17.76",
+"text": "Quamvis experiar dissimulare, noto —"
+},
+{
+"id": "17.77",
+"label": "Ov. Her. 17.77",
+"text": "Cum modo me spectas oculis, lascive, protervis,"
+},
+{
+"id": "17.78",
+"label": "Ov. Her. 17.78",
+"text": "Quos vix instantes lumina nostra ferunt,"
+},
+{
+"id": "17.79",
+"label": "Ov. Her. 17.79",
+"text": "Et modo suspiras, modo pocula proxima nobis"
+},
+{
+"id": "17.80",
+"label": "Ov. Her. 17.80",
+"text": "Sumis, quaque bibi, tu quoque parte bibis."
+},
+{
+"id": "17.81",
+"label": "Ov. Her. 17.81",
+"text": "A, quotiens digitis, quotiens ego tecta notavi"
+},
+{
+"id": "17.82",
+"label": "Ov. Her. 17.82",
+"text": "Signa supercilio paene loquente dari!"
+},
+{
+"id": "17.83",
+"label": "Ov. Her. 17.83",
+"text": "Et saepe extimui ne vir meus illa videret,"
+},
+{
+"id": "17.84",
+"label": "Ov. Her. 17.84",
+"text": "Non satis occultis erubuique notis!"
+},
+{
+"id": "17.85",
+"label": "Ov. Her. 17.85",
+"text": "Saepe vel exiguo vel nullo murmure dixi:"
+},
+{
+"id": "17.86",
+"label": "Ov. Her. 17.86",
+"text": "'Nil pudet hunc.' nec vox haec mea falsa fuit."
+},
+{
+"id": "17.87",
+"label": "Ov. Her. 17.87",
+"text": "Orbe quoque in mensae legi sub nomine nostro,"
+},
+{
+"id": "17.88",
+"label": "Ov. Her. 17.88",
+"text": "Quod deducta mero littera fecit, amo."
+},
+{
+"id": "17.89",
+"label": "Ov. Her. 17.89",
+"text": "Credere me tamen hoc oculo renuente negavi —"
+},
+{
+"id": "17.90",
+"label": "Ov. Her. 17.90",
+"text": "Ei mihi, iam didici sic ego posse loqui!"
+},
+{
+"id": "17.91",
+"label": "Ov. Her. 17.91",
+"text": "His ego blanditiis, si peccatura fuissem,"
+},
+{
+"id": "17.92",
+"label": "Ov. Her. 17.92",
+"text": "Flecterer; his poterant pectora nostra capi."
+},
+{
+"id": "17.93",
+"label": "Ov. Her. 17.93",
+"text": "Est quoque, confiteor, facies tibi rara, potestque"
+},
+{
+"id": "17.94",
+"label": "Ov. Her. 17.94",
+"text": "Velle sub amplexus ire puella tuos;"
+},
+{
+"id": "17.95",
+"label": "Ov. Her. 17.95",
+"text": "Altera vel potius felix sine crimine fiat,"
+},
+{
+"id": "17.96",
+"label": "Ov. Her. 17.96",
+"text": "Quam cadat externo noster amore pudor."
+},
+{
+"id": "17.97",
+"label": "Ov. Her. 17.97",
+"text": "Disce modo exemplo formosis posse carere;"
+},
+{
+"id": "17.98",
+"label": "Ov. Her. 17.98",
+"text": "Est virtus placitis abstinuisse bonis."
+},
+{
+"id": "17.99",
+"label": "Ov. Her. 17.99",
+"text": "Quam multos credis iuvenes optare quod optas,"
+},
+{
+"id": "17.100",
+"label": "Ov. Her. 17.100",
+"text": "Qui sapiant? oculos an Paris unus habes?"
+},
+{
+"id": "17.101",
+"label": "Ov. Her. 17.101",
+"text": "Non tu plus cernis, sed plus temerarius audes:"
+},
+{
+"id": "17.102",
+"label": "Ov. Her. 17.102",
+"text": "Nec tibi plus cordis, sed nimis oris, adest."
+},
+{
+"id": "17.103",
+"label": "Ov. Her. 17.103",
+"text": "Tunc ego te vellem celeri venisse carina,"
+},
+{
+"id": "17.104",
+"label": "Ov. Her. 17.104",
+"text": "Cum mea virginitas mille petita procis;"
+},
+{
+"id": "17.105",
+"label": "Ov. Her. 17.105",
+"text": "Si te vidissem, primus de mille fuisses."
+},
+{
+"id": "17.106",
+"label": "Ov. Her. 17.106",
+"text": "Iudicio veniam vir dabit ipse meo."
+},
+{
+"id": "17.107",
+"label": "Ov. Her. 17.107",
+"text": "Ad possessa venis praeceptaque gaudia, serus;"
+},
+{
+"id": "17.108",
+"label": "Ov. Her. 17.108",
+"text": "Spes tua lenta fuit; quod petis, alter habet."
+},
+{
+"id": "17.109",
+"label": "Ov. Her. 17.109",
+"text": "Ut tamen optarim fieri tua Troica coniunx,"
+},
+{
+"id": "17.110",
+"label": "Ov. Her. 17.110",
+"text": "Invitam sic me nec Menelaus habet."
+},
+{
+"id": "17.111",
+"label": "Ov. Her. 17.111",
+"text": "Desine molle, precor, verbis convellere pectus,"
+},
+{
+"id": "17.112",
+"label": "Ov. Her. 17.112",
+"text": "Neve mihi, quam te dicis amare, noce;"
+},
+{
+"id": "17.113",
+"label": "Ov. Her. 17.113",
+"text": "Sed sine quam tribuit sortem fortuna tueri,"
+},
+{
+"id": "17.114",
+"label": "Ov. Her. 17.114",
+"text": "Nec spolium nostri turpe pudoris ave!"
+},
+{
+"id": "17.115",
+"label": "Ov. Her. 17.115",
+"text": "At Venus hoc pacta est, et in altae vallibus Idae"
+},
+{
+"id": "17.116",
+"label": "Ov. Her. 17.116",
+"text": "Tres tibi se nudas exhibuere deae,"
+},
+{
+"id": "17.117",
+"label": "Ov. Her. 17.117",
+"text": "Unaque cum regnum, belli daret altera laudem,"
+},
+{
+"id": "17.118",
+"label": "Ov. Her. 17.118",
+"text": "'Tyndaridis coniunx,' tertia dixit, 'eris!'"
+},
+{
+"id": "17.119",
+"label": "Ov. Her. 17.119",
+"text": "Credere vix equidem caelestia corpora possum"
+},
+{
+"id": "17.120",
+"label": "Ov. Her. 17.120",
+"text": "Arbitrio formam supposuisse tuo,"
+},
+{
+"id": "17.121",
+"label": "Ov. Her. 17.121",
+"text": "Utque sit hoc verum, certe pars altera ficta est,"
+},
+{
+"id": "17.122",
+"label": "Ov. Her. 17.122",
+"text": "Iudicii pretium qua data dicor ego."
+},
+{
+"id": "17.123",
+"label": "Ov. Her. 17.123",
+"text": "Non est tanta mihi fiducia corporis, ut me"
+},
+{
+"id": "17.124",
+"label": "Ov. Her. 17.124",
+"text": "Maxima teste dea dona fuisse putem."
+},
+{
+"id": "17.125",
+"label": "Ov. Her. 17.125",
+"text": "Contenta est oculis hominum mea forma probari;"
+},
+{
+"id": "17.126",
+"label": "Ov. Her. 17.126",
+"text": "Laudatrix Venus est invidiosa mihi."
+},
+{
+"id": "17.127",
+"label": "Ov. Her. 17.127",
+"text": "Sed nihil infirmo; faveo quoque laudibus istis —"
+},
+{
+"id": "17.128",
+"label": "Ov. Her. 17.128",
+"text": "Nam, mens, vox quare, quod cupit esse, neget?"
+},
+{
+"id": "17.129",
+"label": "Ov. Her. 17.129",
+"text": "Nec tu succense, nimium mihi creditus aegre;"
+},
+{
+"id": "17.130",
+"label": "Ov. Her. 17.130",
+"text": "Tarda solet magnis rebus inesse fides."
+},
+{
+"id": "17.131",
+"label": "Ov. Her. 17.131",
+"text": "Prima mea est igitur Veneri placuisse voluptas;"
+},
+{
+"id": "17.132",
+"label": "Ov. Her. 17.132",
+"text": "Proxima, me visam praemia summa tibi,"
+},
+{
+"id": "17.133",
+"label": "Ov. Her. 17.133",
+"text": "Nec te Palladios nec te Iunonis honores"
+},
+{
+"id": "17.134",
+"label": "Ov. Her. 17.134",
+"text": "Auditis Helenae praeposuisse bonis."
+},
+{
+"id": "17.135",
+"label": "Ov. Her. 17.135",
+"text": "Ergo ego sum virtus, ego sum tibi nobile regnum!"
+},
+{
+"id": "17.136",
+"label": "Ov. Her. 17.136",
+"text": "Ferrea sim, si non hoc ego pectus amem."
+},
+{
+"id": "17.137",
+"label": "Ov. Her. 17.137",
+"text": "Ferrea, crede mihi, non sum; sed amare repugno"
+},
+{
+"id": "17.138",
+"label": "Ov. Her. 17.138",
+"text": "Illum, quem fieri vix puto posse meum."
+},
+{
+"id": "17.139",
+"label": "Ov. Her. 17.139",
+"text": "Quid bibulum curvo proscindere litus aratro,"
+},
+{
+"id": "17.140",
+"label": "Ov. Her. 17.140",
+"text": "Spemque sequi coner quam locus ipse negat?"
+},
+{
+"id": "17.141",
+"label": "Ov. Her. 17.141",
+"text": "Sum rudis ad Veneris furtum, nullaque fidelem —"
+},
+{
+"id": "17.142",
+"label": "Ov. Her. 17.142",
+"text": "Di mihi sunt testes — lusimus arte virum."
+},
+{
+"id": "17.143",
+"label": "Ov. Her. 17.143",
+"text": "Nunc quoque, quod tacito mando mea verba libello,"
+},
+{
+"id": "17.144",
+"label": "Ov. Her. 17.144",
+"text": "Fungitur officio littera nostra novo."
+},
+{
+"id": "17.145",
+"label": "Ov. Her. 17.145",
+"text": "Felices, quibus usus adest! ego nescia rerum"
+},
+{
+"id": "17.146",
+"label": "Ov. Her. 17.146",
+"text": "Difficilem culpae suspicor esse viam."
+},
+{
+"id": "17.147",
+"label": "Ov. Her. 17.147",
+"text": "Ipse malo metus est; iam nunc confundor, et omnes"
+},
+{
+"id": "17.148",
+"label": "Ov. Her. 17.148",
+"text": "In nostris oculos vultibus esse reor."
+},
+{
+"id": "17.149",
+"label": "Ov. Her. 17.149",
+"text": "Nec reor hoc falso; sensi mala murmura vulgi,"
+},
+{
+"id": "17.150",
+"label": "Ov. Her. 17.150",
+"text": "Et quasdam voces rettulit Aethra mihi."
+},
+{
+"id": "17.151",
+"label": "Ov. Her. 17.151",
+"text": "At tu dissimula, nisi si desistere mavis!"
+},
+{
+"id": "17.152",
+"label": "Ov. Her. 17.152",
+"text": "Sed cur desistas? dissimulare potes."
+},
+{
+"id": "17.153",
+"label": "Ov. Her. 17.153",
+"text": "Lude, sed occulte! maior, non maxima, nobis"
+},
+{
+"id": "17.154",
+"label": "Ov. Her. 17.154",
+"text": "Est data libertas, quod Menelaus abest."
+},
+{
+"id": "17.155",
+"label": "Ov. Her. 17.155",
+"text": "Ille quidem procul est, ita re cogente, profectus;"
+},
+{
+"id": "17.156",
+"label": "Ov. Her. 17.156",
+"text": "Magna fuit subitae iustaque causa viae —"
+},
+{
+"id": "17.157",
+"label": "Ov. Her. 17.157",
+"text": "Aut mihi sic visum est. ego, cum dubitaret an iret,"
+},
+{
+"id": "17.158",
+"label": "Ov. Her. 17.158",
+"text": "'Quam primum,' dixi, 'fac rediturus eas!'"
+},
+{
+"id": "17.159",
+"label": "Ov. Her. 17.159",
+"text": "Omine laetatus dedit oscula, 'res' que 'domusque"
+},
+{
+"id": "17.160",
+"label": "Ov. Her. 17.160",
+"text": "Et tibi sit curae Troicus hospes,' ait."
+},
+{
+"id": "17.161",
+"label": "Ov. Her. 17.161",
+"text": "Vix tenui risum, quem dum conpescere luctor,"
+},
+{
+"id": "17.162",
+"label": "Ov. Her. 17.162",
+"text": "Nil illi potui dicere praeter 'erit.'"
+},
+{
+"id": "17.163",
+"label": "Ov. Her. 17.163",
+"text": "Vela quidem Creten ventis dedit ille secundis;"
+},
+{
+"id": "17.164",
+"label": "Ov. Her. 17.164",
+"text": "Sed tu non ideo cuncta licere puta!"
+},
+{
+"id": "17.165",
+"label": "Ov. Her. 17.165",
+"text": "Sic meus hinc vir abest ut me custodiat absens —"
+},
+{
+"id": "17.166",
+"label": "Ov. Her. 17.166",
+"text": "An nescis longas regibus esse manus?"
+},
+{
+"id": "17.167",
+"label": "Ov. Her. 17.167",
+"text": "Forma quoque est oneri; nam quo constantius ore"
+},
+{
+"id": "17.168",
+"label": "Ov. Her. 17.168",
+"text": "Laudamur vestro, iustius ille timet."
+},
+{
+"id": "17.169",
+"label": "Ov. Her. 17.169",
+"text": "Quae iuvat, ut nunc est, eadem mihi gloria damno est,"
+},
+{
+"id": "17.170",
+"label": "Ov. Her. 17.170",
+"text": "Et melius famae verba dedisse fuit."
+},
+{
+"id": "17.171",
+"label": "Ov. Her. 17.171",
+"text": "Nec, quod abest hic me tecum, mirare, relicta;"
+},
+{
+"id": "17.172",
+"label": "Ov. Her. 17.172",
+"text": "Moribus et vitae credidit ille meae."
+},
+{
+"id": "17.173",
+"label": "Ov. Her. 17.173",
+"text": "De facie metuit, vitae confidit, et illum"
+},
+{
+"id": "17.174",
+"label": "Ov. Her. 17.174",
+"text": "Securum probitas, forma timere facit."
+},
+{
+"id": "17.175",
+"label": "Ov. Her. 17.175",
+"text": "Tempora ne pereant ultro data praecipis, utque"
+},
+{
+"id": "17.176",
+"label": "Ov. Her. 17.176",
+"text": "Simplicis utamur commoditate viri."
+},
+{
+"id": "17.177",
+"label": "Ov. Her. 17.177",
+"text": "Et libet et timeo, nec adhuc exacta voluntas"
+},
+{
+"id": "17.178",
+"label": "Ov. Her. 17.178",
+"text": "Est satis; in dubio pectora nostra labant."
+},
+{
+"id": "17.179",
+"label": "Ov. Her. 17.179",
+"text": "Et vir abest nobis, et tu sine coniuge dormis,"
+},
+{
+"id": "17.180",
+"label": "Ov. Her. 17.180",
+"text": "Inque vicem tua me, te mea forma capit;"
+},
+{
+"id": "17.181",
+"label": "Ov. Her. 17.181",
+"text": "Et longae noctes, et iam sermone coimus,"
+},
+{
+"id": "17.182",
+"label": "Ov. Her. 17.182",
+"text": "Et tu, me miseram! blandus, et una domus."
+},
+{
+"id": "17.183",
+"label": "Ov. Her. 17.183",
+"text": "Et peream, si non invitant omnia culpam;"
+},
+{
+"id": "17.184",
+"label": "Ov. Her. 17.184",
+"text": "Nescio quo tardor sed tamen ipsa metu!"
+},
+{
+"id": "17.185",
+"label": "Ov. Her. 17.185",
+"text": "Quod male persuades, utinam bene cogere posses!"
+},
+{
+"id": "17.186",
+"label": "Ov. Her. 17.186",
+"text": "Vi mea rusticitas excutienda fuit."
+},
+{
+"id": "17.187",
+"label": "Ov. Her. 17.187",
+"text": "Utilis interdum est ipsis iniuria passis."
+},
+{
+"id": "17.188",
+"label": "Ov. Her. 17.188",
+"text": "Sic certe felix esse coacta forem."
+},
+{
+"id": "17.189",
+"label": "Ov. Her. 17.189",
+"text": "Dum novus est, potius coepto pugnemus amori!"
+},
+{
+"id": "17.190",
+"label": "Ov. Her. 17.190",
+"text": "Flamma recens parva sparsa residit aqua."
+},
+{
+"id": "17.191",
+"label": "Ov. Her. 17.191",
+"text": "Certus in hospitibus non est amor; errat, ut ipsi,"
+},
+{
+"id": "17.192",
+"label": "Ov. Her. 17.192",
+"text": "Cumque nihil speres firmius esse, fugit."
+},
+{
+"id": "17.193",
+"label": "Ov. Her. 17.193",
+"text": "Hypsipyle testis, testis Minoia virgo est,"
+},
+{
+"id": "17.194",
+"label": "Ov. Her. 17.194",
+"text": "In non exhibitis utraque lusa toris."
+},
+{
+"id": "17.195",
+"label": "Ov. Her. 17.195",
+"text": "Tu quoque dilectam multos, infide, per annos"
+},
+{
+"id": "17.196",
+"label": "Ov. Her. 17.196",
+"text": "Diceris Oenonen destituisse tuam."
+},
+{
+"id": "17.197",
+"label": "Ov. Her. 17.197",
+"text": "Nec tamen ipse negas; et nobis omnia de te"
+},
+{
+"id": "17.198",
+"label": "Ov. Her. 17.198",
+"text": "Quaerere, si nescis, maxima cura fuit."
+},
+{
+"id": "17.199",
+"label": "Ov. Her. 17.199",
+"text": "Adde, quod, ut cupias constans in amore manere,"
+},
+{
+"id": "17.200",
+"label": "Ov. Her. 17.200",
+"text": "Non potes. expediunt iam tua vela Phryges;"
+},
+{
+"id": "17.201",
+"label": "Ov. Her. 17.201",
+"text": "Dum loqueris mecum, dum nox sperata paratur,"
+},
+{
+"id": "17.202",
+"label": "Ov. Her. 17.202",
+"text": "Qui ferat in patriam, iam tibi ventus erit."
+},
+{
+"id": "17.203",
+"label": "Ov. Her. 17.203",
+"text": "Cursibus in mediis novitatis plena relinques"
+},
+{
+"id": "17.204",
+"label": "Ov. Her. 17.204",
+"text": "Gaudia; cum ventis noster abibit amor."
+},
+{
+"id": "17.205",
+"label": "Ov. Her. 17.205",
+"text": "An sequar, ut suades, laudataque Pergama visam"
+},
+{
+"id": "17.206",
+"label": "Ov. Her. 17.206",
+"text": "Pronurus et magni Laumedontis ero?"
+},
+{
+"id": "17.207",
+"label": "Ov. Her. 17.207",
+"text": "Non ita contemno volucris praeconia famae,"
+},
+{
+"id": "17.208",
+"label": "Ov. Her. 17.208",
+"text": "Ut probris terras inpleat illa meis."
+},
+{
+"id": "17.209",
+"label": "Ov. Her. 17.209",
+"text": "Quid de me poterit Sparte, quid Achaia tota,"
+},
+{
+"id": "17.210",
+"label": "Ov. Her. 17.210",
+"text": "Quid gentes Asiae, quid tua Troia loqui?"
+},
+{
+"id": "17.211",
+"label": "Ov. Her. 17.211",
+"text": "Quid Priamus de me, Priami quid sentiet uxor,"
+},
+{
+"id": "17.212",
+"label": "Ov. Her. 17.212",
+"text": "Totque tui fratres Dardanidesque nurus?"
+},
+{
+"id": "17.213",
+"label": "Ov. Her. 17.213",
+"text": "Tu quoque, qui poteris fore me sperare fidelem,"
+},
+{
+"id": "17.214",
+"label": "Ov. Her. 17.214",
+"text": "Et non exemplis anxius esse tuis?"
+},
+{
+"id": "17.215",
+"label": "Ov. Her. 17.215",
+"text": "Quicumque Iliacos intraverit advena portus,"
+},
+{
+"id": "17.216",
+"label": "Ov. Her. 17.216",
+"text": "Is tibi solliciti causa timoris erit."
+},
+{
+"id": "17.217",
+"label": "Ov. Her. 17.217",
+"text": "Ipse mihi quotiens iratus 'adultera!' dices,"
+},
+{
+"id": "17.218",
+"label": "Ov. Her. 17.218",
+"text": "Oblitus nostro crimen inesse tuum!"
+},
+{
+"id": "17.219",
+"label": "Ov. Her. 17.219",
+"text": "Delicti fies idem reprehensor et auctor."
+},
+{
+"id": "17.220",
+"label": "Ov. Her. 17.220",
+"text": "Terra, precor, vultus obruat ante meos!"
+},
+{
+"id": "17.221",
+"label": "Ov. Her. 17.221",
+"text": "At fruar Iliacis opibus cultuque beato,"
+},
+{
+"id": "17.222",
+"label": "Ov. Her. 17.222",
+"text": "Donaque promissis uberiora feram;"
+},
+{
+"id": "17.223",
+"label": "Ov. Her. 17.223",
+"text": "Purpura nempe mihi pretiosaque texta dabuntur,"
+},
+{
+"id": "17.224",
+"label": "Ov. Her. 17.224",
+"text": "Congestoque auri pondere dives ero!"
+},
+{
+"id": "17.225",
+"label": "Ov. Her. 17.225",
+"text": "Da veniam fassae — non sunt tua munera tanti;"
+},
+{
+"id": "17.226",
+"label": "Ov. Her. 17.226",
+"text": "Nescio quo tellus me tenet ista modo."
+},
+{
+"id": "17.227",
+"label": "Ov. Her. 17.227",
+"text": "Quis mihi, si laedar, Phrygiis succurret in oris?"
+},
+{
+"id": "17.228",
+"label": "Ov. Her. 17.228",
+"text": "Unde petam fratres, unde parentis opem?"
+},
+{
+"id": "17.229",
+"label": "Ov. Her. 17.229",
+"text": "Omnia Medeae fallax promisit Iason —"
+},
+{
+"id": "17.230",
+"label": "Ov. Her. 17.230",
+"text": "Pulsa est Aesonia num minus illa domo?"
+},
+{
+"id": "17.231",
+"label": "Ov. Her. 17.231",
+"text": "Non erat Aeetes, ad quem despecta rediret,"
+},
+{
+"id": "17.232",
+"label": "Ov. Her. 17.232",
+"text": "Non Idyia parens Chalciopeve soror."
+},
+{
+"id": "17.233",
+"label": "Ov. Her. 17.233",
+"text": "Tale nihil timeo — sed nec Medea timebat!"
+},
+{
+"id": "17.234",
+"label": "Ov. Her. 17.234",
+"text": "Fallitur augurio spes bona saepe suo."
+},
+{
+"id": "17.235",
+"label": "Ov. Her. 17.235",
+"text": "Omnibus invenies, quae nunc iactantur in alto,"
+},
+{
+"id": "17.236",
+"label": "Ov. Her. 17.236",
+"text": "Navibus a portu lene fuisse fretum."
+},
+{
+"id": "17.237",
+"label": "Ov. Her. 17.237",
+"text": "Fax quoque me terret, quam se peperisse cruentam"
+},
+{
+"id": "17.238",
+"label": "Ov. Her. 17.238",
+"text": "Ante diem partus est tua visa parens;"
+},
+{
+"id": "17.239",
+"label": "Ov. Her. 17.239",
+"text": "Et vatum timeo monitus, quos igne Pelasgo"
+},
+{
+"id": "17.240",
+"label": "Ov. Her. 17.240",
+"text": "Ilion arsurum praemonuisse ferunt."
+},
+{
+"id": "17.241",
+"label": "Ov. Her. 17.241",
+"text": "Utque favet Cytherea tibi, quia vicit habetque"
+},
+{
+"id": "17.242",
+"label": "Ov. Her. 17.242",
+"text": "Parta per arbitrium bina tropaea tuum,"
+},
+{
+"id": "17.243",
+"label": "Ov. Her. 17.243",
+"text": "Sic illas vereor, quae, si tua gloria vera est,"
+},
+{
+"id": "17.244",
+"label": "Ov. Her. 17.244",
+"text": "Iudice te causam non tenuere duae;"
+},
+{
+"id": "17.245",
+"label": "Ov. Her. 17.245",
+"text": "Nec dubito, quin, te si prosequar, arma parentur."
+},
+{
+"id": "17.246",
+"label": "Ov. Her. 17.246",
+"text": "Ibit per gladios, ei mihi! noster amor."
+},
+{
+"id": "17.247",
+"label": "Ov. Her. 17.247",
+"text": "An fera Centauris indicere bella coegit"
+},
+{
+"id": "17.248",
+"label": "Ov. Her. 17.248",
+"text": "Atracis Haemonios Hippodamia viros —"
+},
+{
+"id": "17.249",
+"label": "Ov. Her. 17.249",
+"text": "Tu fore tam iusta lentum Menelaon in ira"
+},
+{
+"id": "17.250",
+"label": "Ov. Her. 17.250",
+"text": "Et geminos fratres Tyndareumque putas?"
+},
+{
+"id": "17.251",
+"label": "Ov. Her. 17.251",
+"text": "Quod bene te iactes et fortia facta loquaris,"
+},
+{
+"id": "17.252",
+"label": "Ov. Her. 17.252",
+"text": "A verbis facies dissidet ista tuis."
+},
+{
+"id": "17.253",
+"label": "Ov. Her. 17.253",
+"text": "Apta magis Veneri, quam sunt tua corpora Marti."
+},
+{
+"id": "17.254",
+"label": "Ov. Her. 17.254",
+"text": "Bella gerant fortes, tu, Pari, semper ama!"
+},
+{
+"id": "17.255",
+"label": "Ov. Her. 17.255",
+"text": "Hectora, quem laudas, pro te pugnare iubeto;"
+},
+{
+"id": "17.256",
+"label": "Ov. Her. 17.256",
+"text": "Militia est operis altera digna tuis."
+},
+{
+"id": "17.257",
+"label": "Ov. Her. 17.257",
+"text": "His ego, si saperem pauloque audacior essem,"
+},
+{
+"id": "17.258",
+"label": "Ov. Her. 17.258",
+"text": "Uterer; utetur, siqua puella sapit —"
+},
+{
+"id": "17.259",
+"label": "Ov. Her. 17.259",
+"text": "Aut ego deposito sapiam fortasse pudore"
+},
+{
+"id": "17.260",
+"label": "Ov. Her. 17.260",
+"text": "Et dabo cunctatas tempore victa manus."
+},
+{
+"id": "17.261",
+"label": "Ov. Her. 17.261",
+"text": "Quod petis, ut furtim praesentes ista loquamur,"
+},
+{
+"id": "17.262",
+"label": "Ov. Her. 17.262",
+"text": "Scimus, quid captes conloquiumque voces;"
+},
+{
+"id": "17.263",
+"label": "Ov. Her. 17.263",
+"text": "Sed nimium properas, et adhuc tua messis in herba est."
+},
+{
+"id": "17.264",
+"label": "Ov. Her. 17.264",
+"text": "Et mora sit voto forsan amica tuo."
+},
+{
+"id": "17.265",
+"label": "Ov. Her. 17.265",
+"text": "Hactenus; arcanum furtivae conscia mentis"
+},
+{
+"id": "17.266",
+"label": "Ov. Her. 17.266",
+"text": "Littera iam lasso pollice sistat opus."
+},
+{
+"id": "17.267",
+"label": "Ov. Her. 17.267",
+"text": "Cetera per socias Clymenen Aethramque loquamur,"
+},
+{
+"id": "17.268",
+"label": "Ov. Her. 17.268",
+"text": "Quae mihi sunt comites consiliumque duae."
+}
+]
+}

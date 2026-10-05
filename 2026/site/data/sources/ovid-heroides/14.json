@@ -1,0 +1,657 @@
+{
+"corpus": "ovid-heroides",
+"unit": "14",
+"title": "Ovid, Heroides (Epistulae), Her. 14",
+"passages": [
+{
+"id": "14.1",
+"label": "Ov. Her. 14.1",
+"text": "Mittit Hypermestra de tot modo fratribus uni —"
+},
+{
+"id": "14.2",
+"label": "Ov. Her. 14.2",
+"text": "Cetera nuptarum crimine turba iacet."
+},
+{
+"id": "14.3",
+"label": "Ov. Her. 14.3",
+"text": "Clausa domo teneor gravibusque coercita vinclis;"
+},
+{
+"id": "14.4",
+"label": "Ov. Her. 14.4",
+"text": "Est mihi supplicii causa fuisse piam."
+},
+{
+"id": "14.5",
+"label": "Ov. Her. 14.5",
+"text": "Quod manus extimuit iugulo demittere ferrum,"
+},
+{
+"id": "14.6",
+"label": "Ov. Her. 14.6",
+"text": "Sum rea; laudarer, si scelus ausa forem."
+},
+{
+"id": "14.7",
+"label": "Ov. Her. 14.7",
+"text": "Esse ream praestat, quam sic placuisse parenti;"
+},
+{
+"id": "14.8",
+"label": "Ov. Her. 14.8",
+"text": "Non piget inmunes caedis habere manus."
+},
+{
+"id": "14.9",
+"label": "Ov. Her. 14.9",
+"text": "Me pater igne licet, quem non violavimus, urat,"
+},
+{
+"id": "14.10",
+"label": "Ov. Her. 14.10",
+"text": "Quaeque aderant sacris, tendat in ora faces;"
+},
+{
+"id": "14.11",
+"label": "Ov. Her. 14.11",
+"text": "Aut illo iugulet, quem non bene tradidit ensem,"
+},
+{
+"id": "14.12",
+"label": "Ov. Her. 14.12",
+"text": "Ut, qua non cecidit vir nece, nupta cadam —"
+},
+{
+"id": "14.13",
+"label": "Ov. Her. 14.13",
+"text": "Non tamen, ut dicant morientia 'paenitet!' ora,"
+},
+{
+"id": "14.14",
+"label": "Ov. Her. 14.14",
+"text": "Efficiet. non est, quam piget esse, pia."
+},
+{
+"id": "14.15",
+"label": "Ov. Her. 14.15",
+"text": "Paeniteat sceleris Danaum saevasque sorores;"
+},
+{
+"id": "14.16",
+"label": "Ov. Her. 14.16",
+"text": "Hic solet eventus facta nefanda sequi."
+},
+{
+"id": "14.17",
+"label": "Ov. Her. 14.17",
+"text": "Cor pavet admonitu temeratae sanguine noctis,"
+},
+{
+"id": "14.18",
+"label": "Ov. Her. 14.18",
+"text": "Et subitus dextrae praepedit ossa tremor."
+},
+{
+"id": "14.19",
+"label": "Ov. Her. 14.19",
+"text": "Quam tu caede putes fungi potuisse mariti,"
+},
+{
+"id": "14.20",
+"label": "Ov. Her. 14.20",
+"text": "Scribere de facta non sibi caede timet!"
+},
+{
+"id": "14.21",
+"label": "Ov. Her. 14.21",
+"text": "Sed tamen experiar. modo facta crepuscula terris;"
+},
+{
+"id": "14.22",
+"label": "Ov. Her. 14.22",
+"text": "Ultima pars lucis primaque noctis erat."
+},
+{
+"id": "14.23",
+"label": "Ov. Her. 14.23",
+"text": "Ducimur Inachides magni sub tecta Pelasgi,"
+},
+{
+"id": "14.24",
+"label": "Ov. Her. 14.24",
+"text": "Et socer armatas accipit ipse nurus."
+},
+{
+"id": "14.25",
+"label": "Ov. Her. 14.25",
+"text": "Undique conlucent praecinctae lampades auro;"
+},
+{
+"id": "14.26",
+"label": "Ov. Her. 14.26",
+"text": "Dantur in invitos inpia tura focos;"
+},
+{
+"id": "14.27",
+"label": "Ov. Her. 14.27",
+"text": "Vulgus 'Hymen, Hymenaee!' vocant. fugit ille vocantis;"
+},
+{
+"id": "14.28",
+"label": "Ov. Her. 14.28",
+"text": "Ipsa Iovis coniunx cessit ab urbe sua!"
+},
+{
+"id": "14.29",
+"label": "Ov. Her. 14.29",
+"text": "Ecce, mero dubii, comitum clamore frequentes,"
+},
+{
+"id": "14.30",
+"label": "Ov. Her. 14.30",
+"text": "Flore novo madidas inpediente comas,"
+},
+{
+"id": "14.31",
+"label": "Ov. Her. 14.31",
+"text": "In thalamos laeti — thalamos, sua busta! — feruntur"
+},
+{
+"id": "14.32",
+"label": "Ov. Her. 14.32",
+"text": "Strataque corporibus funere digna premunt."
+},
+{
+"id": "14.33",
+"label": "Ov. Her. 14.33",
+"text": "Iamque cibo vinoque graves somnoque iacebant,"
+},
+{
+"id": "14.34",
+"label": "Ov. Her. 14.34",
+"text": "Securumque quies alta per Argos erat —"
+},
+{
+"id": "14.35",
+"label": "Ov. Her. 14.35",
+"text": "Circum me gemitus morientum audire videbar;"
+},
+{
+"id": "14.36",
+"label": "Ov. Her. 14.36",
+"text": "Et tamen audibam, quodque verebar erat."
+},
+{
+"id": "14.37",
+"label": "Ov. Her. 14.37",
+"text": "Sanguis abit, mentemque calor corpusque relinquit,"
+},
+{
+"id": "14.38",
+"label": "Ov. Her. 14.38",
+"text": "Inque novo iacui frigida facta toro."
+},
+{
+"id": "14.39",
+"label": "Ov. Her. 14.39",
+"text": "Ut leni Zephyro graciles vibrantur aristae,"
+},
+{
+"id": "14.40",
+"label": "Ov. Her. 14.40",
+"text": "Frigida populeas ut quatit aura comas,"
+},
+{
+"id": "14.41",
+"label": "Ov. Her. 14.41",
+"text": "Aut sic, aut etiam tremui magis. ipse iacebas,"
+},
+{
+"id": "14.42",
+"label": "Ov. Her. 14.42",
+"text": "Quemque tibi dederant vina, soporis eras."
+},
+{
+"id": "14.43",
+"label": "Ov. Her. 14.43",
+"text": "Excussere metum violenti iussa parentis;"
+},
+{
+"id": "14.44",
+"label": "Ov. Her. 14.44",
+"text": "Erigor et capio tela tremente manu."
+},
+{
+"id": "14.45",
+"label": "Ov. Her. 14.45",
+"text": "Non ego falsa loquar: ter acutum sustulit ensem,"
+},
+{
+"id": "14.46",
+"label": "Ov. Her. 14.46",
+"text": "Ter male sublato reccidit ense manus."
+},
+{
+"id": "14.47",
+"label": "Ov. Her. 14.47",
+"text": "Admovi iugulo — sine me tibi vera fateri! —"
+},
+{
+"id": "14.48",
+"label": "Ov. Her. 14.48",
+"text": "Admovi iugulo tela paterna tuo;"
+},
+{
+"id": "14.49",
+"label": "Ov. Her. 14.49",
+"text": "Sed timor et pietas crudelibus obstitit ausis,"
+},
+{
+"id": "14.50",
+"label": "Ov. Her. 14.50",
+"text": "Castaque mandatum dextra refugit opus."
+},
+{
+"id": "14.51",
+"label": "Ov. Her. 14.51",
+"text": "Purpureos laniata sinus, laniata capillos"
+},
+{
+"id": "14.52",
+"label": "Ov. Her. 14.52",
+"text": "Exiguo dixi talia verba sono:"
+},
+{
+"id": "14.53",
+"label": "Ov. Her. 14.53",
+"text": "'Saevus, Hypermestra, pater est tibi; iussa parentis"
+},
+{
+"id": "14.54",
+"label": "Ov. Her. 14.54",
+"text": "Effice; germanis sit comes iste suis!"
+},
+{
+"id": "14.55",
+"label": "Ov. Her. 14.55",
+"text": "Femina sum et virgo, natura mitis et annis;"
+},
+{
+"id": "14.56",
+"label": "Ov. Her. 14.56",
+"text": "Non faciunt molles ad fera tela manus."
+},
+{
+"id": "14.57",
+"label": "Ov. Her. 14.57",
+"text": "Quin age, dumque iacet, fortis imitare sorores —"
+},
+{
+"id": "14.58",
+"label": "Ov. Her. 14.58",
+"text": "Credibile est caesos omnibus esse viros!"
+},
+{
+"id": "14.59",
+"label": "Ov. Her. 14.59",
+"text": "Si manus haec aliquam posset committere caedem,"
+},
+{
+"id": "14.60",
+"label": "Ov. Her. 14.60",
+"text": "Morte foret dominae sanguinolenta suae."
+},
+{
+"id": "14.61",
+"label": "Ov. Her. 14.61",
+"text": "Hanc meruere necem patruelia regna tenendo;"
+},
+{
+"id": "14.62",
+"label": "Ov. Her. 14.62",
+"text": "Cum sene nos inopi turba vagamur inops."
+},
+{
+"id": "14.63",
+"label": "Ov. Her. 14.63",
+"text": "Finge viros meruisse mori — quid fecimus ipsae?"
+},
+{
+"id": "14.64",
+"label": "Ov. Her. 14.64",
+"text": "Quo mihi commisso non licet esse piae?"
+},
+{
+"id": "14.65",
+"label": "Ov. Her. 14.65",
+"text": "Quid mihi cum ferro? quo bellica tela puellae?"
+},
+{
+"id": "14.66",
+"label": "Ov. Her. 14.66",
+"text": "Aptior est digitis lana colusque meis.'"
+},
+{
+"id": "14.67",
+"label": "Ov. Her. 14.67",
+"text": "Haec ego; dumque queror, lacrimae sua verba sequuntur"
+},
+{
+"id": "14.68",
+"label": "Ov. Her. 14.68",
+"text": "Deque meis oculis in tua membra cadunt."
+},
+{
+"id": "14.69",
+"label": "Ov. Her. 14.69",
+"text": "Dum petis amplexus sopitaque bracchia iactas,"
+},
+{
+"id": "14.70",
+"label": "Ov. Her. 14.70",
+"text": "Paene manus telo saucia facta tua est."
+},
+{
+"id": "14.71",
+"label": "Ov. Her. 14.71",
+"text": "Iamque patrem famulosque patris lucemque timebam"
+},
+{
+"id": "14.72",
+"label": "Ov. Her. 14.72",
+"text": "Expulerunt somnos haec mea dicta tuos:"
+},
+{
+"id": "14.73",
+"label": "Ov. Her. 14.73",
+"text": "'Surge age, Belide, de tot modo fratribus unus!"
+},
+{
+"id": "14.74",
+"label": "Ov. Her. 14.74",
+"text": "Nox tibi, ni properas, ista perennis erit!'"
+},
+{
+"id": "14.75",
+"label": "Ov. Her. 14.75",
+"text": "Territus exsurgis; fugit omnis inertia somni;"
+},
+{
+"id": "14.76",
+"label": "Ov. Her. 14.76",
+"text": "Adspicis in timida fortia tela manu."
+},
+{
+"id": "14.77",
+"label": "Ov. Her. 14.77",
+"text": "Quaerenti causam 'dum nox sinit, effuge!' dixi."
+},
+{
+"id": "14.78",
+"label": "Ov. Her. 14.78",
+"text": "Dum nox atra sinit, tu fugis, ipsa moror."
+},
+{
+"id": "14.79",
+"label": "Ov. Her. 14.79",
+"text": "Mane erat, et Danaus generos ex caede iacentis"
+},
+{
+"id": "14.80",
+"label": "Ov. Her. 14.80",
+"text": "Dinumerat. summae criminis unus abes."
+},
+{
+"id": "14.81",
+"label": "Ov. Her. 14.81",
+"text": "Fert male cognatae iacturam mortis in uno"
+},
+{
+"id": "14.82",
+"label": "Ov. Her. 14.82",
+"text": "Et queritur facti sanguinis esse parum."
+},
+{
+"id": "14.83",
+"label": "Ov. Her. 14.83",
+"text": "Abstrahor a patriis pedibus, raptamque capillis —"
+},
+{
+"id": "14.84",
+"label": "Ov. Her. 14.84",
+"text": "Haec meruit pietas praemia! — carcer habet."
+},
+{
+"id": "14.85",
+"label": "Ov. Her. 14.85",
+"text": "Scilicet ex illo Iunonia permanet ira,"
+},
+{
+"id": "14.86",
+"label": "Ov. Her. 14.86",
+"text": "Cum bos ex homine est, ex bove facta dea."
+},
+{
+"id": "14.87",
+"label": "Ov. Her. 14.87",
+"text": "At satis est poenae teneram mugisse puellam"
+},
+{
+"id": "14.88",
+"label": "Ov. Her. 14.88",
+"text": "Nec, modo formosam, posse placere Iovi."
+},
+{
+"id": "14.89",
+"label": "Ov. Her. 14.89",
+"text": "Adstitit in ripa liquidi nova vacca parentis,"
+},
+{
+"id": "14.90",
+"label": "Ov. Her. 14.90",
+"text": "Cornuaque in patriis non sua vidit aquis,"
+},
+{
+"id": "14.91",
+"label": "Ov. Her. 14.91",
+"text": "Conatoque queri mugitus edidit ore"
+},
+{
+"id": "14.92",
+"label": "Ov. Her. 14.92",
+"text": "Territaque est forma, territa voce sua."
+},
+{
+"id": "14.93",
+"label": "Ov. Her. 14.93",
+"text": "Quid furis, infelix? quid te miraris in umbra?"
+},
+{
+"id": "14.94",
+"label": "Ov. Her. 14.94",
+"text": "Quid numeras factos ad nova membra pedes?"
+},
+{
+"id": "14.95",
+"label": "Ov. Her. 14.95",
+"text": "Illa Iovis magni paelex metuenda sorori"
+},
+{
+"id": "14.96",
+"label": "Ov. Her. 14.96",
+"text": "Fronde levas nimiam caespitibusque famem,"
+},
+{
+"id": "14.97",
+"label": "Ov. Her. 14.97",
+"text": "Fonte bibis spectasque tuam stupefacta figuram"
+},
+{
+"id": "14.98",
+"label": "Ov. Her. 14.98",
+"text": "Et, te ne feriant, quae geris, arma, times,"
+},
+{
+"id": "14.99",
+"label": "Ov. Her. 14.99",
+"text": "Quaeque modo, ut posses etiam Iove digna videri,"
+},
+{
+"id": "14.100",
+"label": "Ov. Her. 14.100",
+"text": "Dives eras, nuda nuda recumbis humo."
+},
+{
+"id": "14.101",
+"label": "Ov. Her. 14.101",
+"text": "Per mare, per terras cognataque flumina curris;"
+},
+{
+"id": "14.102",
+"label": "Ov. Her. 14.102",
+"text": "Dat mare, dant amnes, dat tibi terra viam."
+},
+{
+"id": "14.103",
+"label": "Ov. Her. 14.103",
+"text": "Quae tibi causa fugae? quid tu freta longa pererras?"
+},
+{
+"id": "14.104",
+"label": "Ov. Her. 14.104",
+"text": "Non poteris vultus effugere ipsa tuos."
+},
+{
+"id": "14.105",
+"label": "Ov. Her. 14.105",
+"text": "Inachi, quo properas? eadem sequerisque fugisque;"
+},
+{
+"id": "14.106",
+"label": "Ov. Her. 14.106",
+"text": "Tu tibi dux comiti, tu comes ipsa duci."
+},
+{
+"id": "14.107",
+"label": "Ov. Her. 14.107",
+"text": "Per septem Nilus portus emissus in aequor"
+},
+{
+"id": "14.108",
+"label": "Ov. Her. 14.108",
+"text": "Exuit insana paelicis ora bove."
+},
+{
+"id": "14.109",
+"label": "Ov. Her. 14.109",
+"text": "Ultima quid refero, quorum mihi cana senectus"
+},
+{
+"id": "14.110",
+"label": "Ov. Her. 14.110",
+"text": "Auctor? dant anni, quod querar, ecce, mei."
+},
+{
+"id": "14.111",
+"label": "Ov. Her. 14.111",
+"text": "Bella pater patruusque gerunt; regnoque domoque"
+},
+{
+"id": "14.112",
+"label": "Ov. Her. 14.112",
+"text": "Pellimur; eiectos ultimus orbis habet."
+},
+{
+"id": "14.115",
+"label": "Ov. Her. 14.115",
+"text": "De fratrum populo pars exiguissima restat."
+},
+{
+"id": "14.116",
+"label": "Ov. Her. 14.116",
+"text": "Quique dati leto, quaeque dedere, fleo;"
+},
+{
+"id": "14.117",
+"label": "Ov. Her. 14.117",
+"text": "Nam mihi quot fratres, totidem periere sorores."
+},
+{
+"id": "14.118",
+"label": "Ov. Her. 14.118",
+"text": "Accipiat lacrimas utraque turba meas!"
+},
+{
+"id": "14.119",
+"label": "Ov. Her. 14.119",
+"text": "En, ego, quod vivis, poenae crucianda reservor;"
+},
+{
+"id": "14.120",
+"label": "Ov. Her. 14.120",
+"text": "Quid fiet sonti, cum rea laudis agar"
+},
+{
+"id": "14.121",
+"label": "Ov. Her. 14.121",
+"text": "Et consanguineae quondam centensima turbae"
+},
+{
+"id": "14.122",
+"label": "Ov. Her. 14.122",
+"text": "Infelix uno fratre manente cadam?"
+},
+{
+"id": "14.123",
+"label": "Ov. Her. 14.123",
+"text": "At tu, siqua piae, Lynceu, tibi cura sororis,"
+},
+{
+"id": "14.124",
+"label": "Ov. Her. 14.124",
+"text": "Quaeque tibi tribui munera, dignus habes,"
+},
+{
+"id": "14.125",
+"label": "Ov. Her. 14.125",
+"text": "Vel fer opem, vel dede neci defunctaque vita"
+},
+{
+"id": "14.126",
+"label": "Ov. Her. 14.126",
+"text": "Corpora furtivis insuper adde rogis,"
+},
+{
+"id": "14.127",
+"label": "Ov. Her. 14.127",
+"text": "Et sepeli lacrimis perfusa fidelibus ossa,"
+},
+{
+"id": "14.128",
+"label": "Ov. Her. 14.128",
+"text": "Sculptaque sint titulo nostra sepulcra brevi:"
+},
+{
+"id": "14.129",
+"label": "Ov. Her. 14.129",
+"text": "'Exul Hypermestra, pretium pietatis iniquum,"
+},
+{
+"id": "14.130",
+"label": "Ov. Her. 14.130",
+"text": "Quam mortem fratri depulit, ipsa tulit.'"
+},
+{
+"id": "14.131",
+"label": "Ov. Her. 14.131",
+"text": "Scribere plura libet, sed pondere lapsa catenae"
+},
+{
+"id": "14.132",
+"label": "Ov. Her. 14.132",
+"text": "Est manus, et vires subtrahit ipse timor."
+}
+]
+}

@@ -1,0 +1,181 @@
+{
+"corpus": "digest",
+"unit": "44.1",
+"title": "D. 44.1 De exceptionibus praescriptionibus et praeiudiciis",
+"passages": [
+{
+"id": "44.1.1",
+"label": "D. 44.1.1 (Ulpianus)",
+"text": "Agere etiam is videtur, qui exceptione utitur: nam reus in exceptione actor est.",
+"inscription": "Ulpianus libro quarto ad edictum"
+},
+{
+"id": "44.1.2.pr",
+"label": "D. 44.1.2 pr. (Ulpianus)",
+"text": "Exceptio dicta est quasi quaedam exclusio, quae opponi actioni cuiusque rei solet ad excludendum id, quod in intentionem condemnationemve deductum est.",
+"inscription": "Ulpianus libro 74 ad edictum"
+},
+{
+"id": "44.1.2.1",
+"label": "D. 44.1.2.1",
+"text": "Replicationes nihil aliud sunt quam exceptiones, et a parte actoris veniunt: quae quidem ideo necessariae sunt, ut exceptiones excludant: semper enim replicatio idcirco obicitur, ut exceptionem oppugnet."
+},
+{
+"id": "44.1.2.2",
+"label": "D. 44.1.2.2",
+"text": "Illud tenendum est omnem exceptionem vel replicationem exclusoriam esse: exceptio actorem excludit, replicatio reum."
+},
+{
+"id": "44.1.2.3",
+"label": "D. 44.1.2.3",
+"text": "Sed et contra replicationem solet dari triplicatio, et contra triplicationem rursus et deinceps multiplicantur nomina, dum aut reus aut actor obicit."
+},
+{
+"id": "44.1.2.4",
+"label": "D. 44.1.2.4",
+"text": "Sane solemus dicere quasdam exceptiones esse dilatorias, quasdam peremptorias: ut puta dilatoria est exceptio, quae differt actionem, veluti procuratoria exceptio dilatoria est: nam qui dicit non licere procuratorio nomine agi, non prorsus litem infitiatur, sed personam evitat."
+},
+{
+"id": "44.1.3",
+"label": "D. 44.1.3 (Gaius)",
+"text": "Exceptiones aut perpetuae et peremptoriae sunt aut temporales et dilatoriae. Perpetuae atque peremptoriae sunt, quae semper locum habent nec evitari possunt, qualis est doli mali et rei iudicatae et si quid contra legem senatusve consultum factum esse dicetur, item pacti conventi perpetui, id est ne omnino pecunia petatur. Temporales atque dilatoriae sunt, quae non semper locum habent, sed evitari possunt, qualis est pacti conventi temporalis, id est ne forte intra quinquennium ageretur: procuratoriae quoque exceptiones dilatoriae sunt, quae evitari possunt.",
+"inscription": "Gaius libro primo ad edictum provinciale"
+},
+{
+"id": "44.1.4",
+"label": "D. 44.1.4 (Paulus)",
+"text": "In pupillo, cui soluta est debita pecunia sine tutoris auctoritate, si quaeratur, an doli exceptione summoveri debeat, illud tempus inspicitur, an pecuniam vel ex ea aliquid habeat, quo petit.",
+"inscription": "Paulus libro 20 ad edictum"
+},
+{
+"id": "44.1.5",
+"label": "D. 44.1.5 (Paulus)",
+"text": "Is, qui dicit [dicet] se iurasse, potest et aliis exceptionibus uti cum exceptione iurisiurandi vel aliis solis: pluribus enim defensionibus uti permittitur.",
+"inscription": "Paulus libro 18 ad edictum"
+},
+{
+"id": "44.1.6",
+"label": "D. 44.1.6 (Paulus)",
+"text": "Si rem legatam petat legatarius, de dolo testatoris excipitur: nam sicut heres, qui in universum ius succedit, summovetur exceptione, ita et legatarius debet summoveri quasi unius rei successor.",
+"inscription": "Paulus libro 71 ad edictum"
+},
+{
+"id": "44.1.7.pr",
+"label": "D. 44.1.7 pr. (Paulus)",
+"text": "Exceptiones, quae personae cuiusque cohaerent, non transeunt ad alios, veluti ea quam socius habet exceptionem \"quod facere possit\", vel parens patronusve, non competit fideiussori: sic mariti fideiussor post solutum matrimonium datus in solidum dotis nomine condemnatur.",
+"inscription": "Paulus libro tertio ad Plautium"
+},
+{
+"id": "44.1.7.1",
+"label": "D. 44.1.7.1",
+"text": "Rei autem cohaerentes exceptiones etiam fideiussoribus competunt, ut rei iudicatae, doli mali, iurisiurandi, quod metus causa factum est. Igitur et si reus pactus sit in rem, omnimodo competit exceptio fideiussori. Intercessionis quoque exceptio, item quod libertatis onerandae causa petitur, etiam fideiussori competit. Idem dicitur et si pro filio familias contra senatus consultum quis fideiusserit, aut pro minore viginti quinque annis circumscripto: quod si deceptus sit in re, tunc nec ipse ante habet auxilium, quam restitutus fuerit, nec fideiussori danda est exceptio."
+},
+{
+"id": "44.1.8",
+"label": "D. 44.1.8 (Paulus)",
+"text": "Nemo prohibetur pluribus exceptionibus uti, quamvis diversae sunt.",
+"inscription": "Paulus libro 14 ad Plautium"
+},
+{
+"id": "44.1.9",
+"label": "D. 44.1.9 (Marcellus)",
+"text": "Non utique existimatur confiteri de intentione adversarii is quocum agitur, quia exceptione utitur.",
+"inscription": "Marcellus libro tertio digestorum"
+},
+{
+"id": "44.1.10",
+"label": "D. 44.1.10 (Modestinus)",
+"text": "Modestinus respondit: res inter alios iudicata aliis non obest, nec si is, contra quem iudicatum est, heres exstiterit ei, contra quem nihil pronuntiatum est, hereditariam [hereditarium] ei litem inferenti praescribi ex ea sententia posse, quam proprio nomine disceptans, antequam heres exstiterit, excepit.",
+"inscription": "Modestinus libro 12 responsorum"
+},
+{
+"id": "44.1.11",
+"label": "D. 44.1.11 (Modestinus)",
+"text": "Qui adgnitis instrumentis, quasi vera essent, solvit post sententiam iudicis, quaero, si postea cognita rei veritate et repertis falsis instrumentis accusare velit et probare falsa esse instrumenta, ex quibus conveniebatur, cum instrumentis subscripserat ex praecepto sive interlocutione iudicis, an praescriptio ei opponi possit? Cum et principalibus constitutionibus manifeste cavetur, etsi res iudicata esset ex falsis instrumentis, si postea falsa inveniantur, nec rei iudicatae praescriptionem opponi. Modestinus respondit ob hoc, quod per errorem solutio facta est vel cautio de solvendo interposita proponitur ex his instrumentis, quae nunc falsa dicuntur, praescriptioni locum non esse.",
+"inscription": "Modestinus libro 13 responsorum"
+},
+{
+"id": "44.1.12",
+"label": "D. 44.1.12 (Ulpianus)",
+"text": "Generaliter in praeiudiciis is actoris partes sustinet, qui habet intentionem secundum id quod intendit.",
+"inscription": "Ulpianus libro 38 ad edictum"
+},
+{
+"id": "44.1.13",
+"label": "D. 44.1.13 (Iulianus)",
+"text": "Si post litem de hereditate contestatam res singulae petantur, placet non obstare exceptionem \"quod praeiudicium hereditati non fiat \": futuri enim iudicii, non facti nomine huiusmodi exceptiones comparatae sunt.",
+"inscription": "Iulianus libro 50 digestorum"
+},
+{
+"id": "44.1.14",
+"label": "D. 44.1.14 (Alfenus)",
+"text": "Filius familias peculiarem servum vendidit, pretium stipulatus est: is homo redhibitus et postea mortuus est. Et pater eius pecuniam ab emptore petebat, quam filius stipulatus erat. Placuit aequum esse in factum exceptionem eum obicere: \"Quod pecunia ob hominem illum expromissa est, qui redhibitus est\".",
+"inscription": "Alfenus libro secundo digestorum"
+},
+{
+"id": "44.1.15",
+"label": "D. 44.1.15 (Iulianus)",
+"text": "Adversus exceptionem iurisiurandi replicatio doli mali non debet dari, cum praetor id agere debet, ne de iureiurando cuiusquam quaeratur.",
+"inscription": "Iulianus libro quarto ad Urseium Ferocem"
+},
+{
+"id": "44.1.16",
+"label": "D. 44.1.16 (Africanus)",
+"text": "Fundum Titianum possides, de cuius proprietate inter me et te controversia est, et dico praeterea viam ad eum per fundum Sempronianum, quem tuum esse constat, deberi. Si viam petam, exceptionem \"quod praeiudicium praedio non fiat\" utilem tibi fore putavit, videlicet quod non aliter viam mihi deberi probaturus sim, quam prius probaverim fundum Titianum meum esse.",
+"inscription": "Africanus libro nono quaestionum"
+},
+{
+"id": "44.1.17",
+"label": "D. 44.1.17 (Paulus)",
+"text": "Sed si ante viam, deinde fundum Titianum petat, quia et diversa corpora sunt et causae restitutionum dispares, non nocebit exceptio.",
+"inscription": "Paulus libro 70 ad edictum"
+},
+{
+"id": "44.1.18",
+"label": "D. 44.1.18 (Africanus)",
+"text": "Fundi, quem tu proprium tuum esse dicis, partem a te peto et volo simul iudicio quoque communi dividundo agere sub eodem iudice: item si eius fundi, quem tu possideas et ego proprium meum esse dicam, fructus condicere tibi velim: quaesitum est an exceptio \"quod praeiudicium fundo partive eius non fiat\" obstet an deneganda sit. Et utrubique putat intervenire praetorem debere nec permittere petitori, priusquam de proprietate constet, huiusmodi iudiciis experiri.",
+"inscription": "Africanus libro nono quaestionum"
+},
+{
+"id": "44.1.19",
+"label": "D. 44.1.19 (Marcianus)",
+"text": "Omnes exceptiones, quae reo competunt, fideiussori quoque etiam invito reo competunt.",
+"inscription": "Marcianus libro 13 institutionum"
+},
+{
+"id": "44.1.20",
+"label": "D. 44.1.20 (Paulus)",
+"text": "Exceptiones opponuntur aut quia factum sit quod fieri oportet aut quia factum sit quod fieri non oportuit, aut quia factum non sit quod fieri debuerat. Quia factum est, quod fieri oportuit, datur exceptio rei venditae et traditae et rei iudicatae: quia factum est, quod fieri non oportuit, datur exceptio doli mali: quia non factum est, quod fieri debuit, ut bonorum possessionis non datae.",
+"inscription": "Paulus libro singulari de conceptione formularum"
+},
+{
+"id": "44.1.21",
+"label": "D. 44.1.21 (Neratius)",
+"text": "Rei maioris pecuniae praeiudicium fieri videtur, cum ea quaestio in iudicium deducitur, quae vel tota vel ex aliqua parte communis est quaestioni de re maiori.",
+"inscription": "Neratius libro quarto membranarum"
+},
+{
+"id": "44.1.22.pr",
+"label": "D. 44.1.22 pr. (Paulus)",
+"text": "Exceptio est condicio, quae modo eximit reum damnatione, modo minuit damnationem.",
+"inscription": "Paulus libro libro singulari de variis lectionibus"
+},
+{
+"id": "44.1.22.1",
+"label": "D. 44.1.22.1",
+"text": "Replicatio est contraria exceptio, quasi exceptionis exceptio."
+},
+{
+"id": "44.1.23",
+"label": "D. 44.1.23 (Labeo)",
+"text": "Paulus: si quis statuam in municipio ea mente posuit, ut ea municipii esset, et eam petere vult, excludi eum oportet praescriptione in factum data.",
+"inscription": "Labeo libro sexto pithanon a Paulo epitomatorum"
+},
+{
+"id": "44.1.24",
+"label": "D. 44.1.24 (Hermogenianus)",
+"text": "Filius familias exceptionem iurisiurandi patri quaerit, si eum dare non oportere iuraverit.",
+"inscription": "Hermogenianus libro sexto iuris epitomarum"
+}
+]
+}

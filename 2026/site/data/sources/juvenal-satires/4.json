@@ -1,0 +1,772 @@
+{
+"corpus": "juvenal-satires",
+"unit": "4",
+"title": "Juvenal, Satires, 4",
+"passages": [
+{
+"id": "4.1",
+"label": "Juv. 4.1",
+"text": "Ecce iterum Crispinus, et est mihi saepe vocandus"
+},
+{
+"id": "4.2",
+"label": "Juv. 4.2",
+"text": "ad partes, monstrum nulla virtute redemptum"
+},
+{
+"id": "4.3",
+"label": "Juv. 4.3",
+"text": "a vitiis, aegrae solaque libidine fortes"
+},
+{
+"id": "4.4",
+"label": "Juv. 4.4",
+"text": "deliciae; viduas tantum aspernatus. adulter,"
+},
+{
+"id": "4.5",
+"label": "Juv. 4.5",
+"text": "quid refert igitur, quantis iumenta fatiget"
+},
+{
+"id": "4.6",
+"label": "Juv. 4.6",
+"text": "porticibus, quanta nemorum vectetur in umbra,"
+},
+{
+"id": "4.7",
+"label": "Juv. 4.7",
+"text": "iugera quot vicina foro, quas emerit aedes?"
+},
+{
+"id": "4.9",
+"label": "Juv. 4.9",
+"text": "incestus, cum quo nuper vittata iacebat"
+},
+{
+"id": "4.10",
+"label": "Juv. 4.10",
+"text": "sanguine adhuc vivo terram subitura sacerdos."
+},
+{
+"id": "4.11",
+"label": "Juv. 4.11",
+"text": "Sed nunc de factis levioribus, et tamen alter"
+},
+{
+"id": "4.12",
+"label": "Juv. 4.12",
+"text": "si fecisset idem, caderet sub iudice morum;"
+},
+{
+"id": "4.13",
+"label": "Juv. 4.13",
+"text": "nam quod turpe bonis Titio Seioque, decebat"
+},
+{
+"id": "4.14",
+"label": "Juv. 4.14",
+"text": "Crispinum: quid agas, cum dira et foedior omni"
+},
+{
+"id": "4.15",
+"label": "Juv. 4.15",
+"text": "crimine persona est? mullum sex milibus emit,"
+},
+{
+"id": "4.16",
+"label": "Juv. 4.16",
+"text": "aequantem sane paribus sestertia libris,"
+},
+{
+"id": "4.17",
+"label": "Juv. 4.17",
+"text": "ut perhibent qui de magnis maiora loquuntur,"
+},
+{
+"id": "4.18",
+"label": "Juv. 4.18",
+"text": "consilium laudo artificis, si munere tanto"
+},
+{
+"id": "4.19",
+"label": "Juv. 4.19",
+"text": "praecipuam in tabulis ceram senis abstulit orbi;"
+},
+{
+"id": "4.20",
+"label": "Juv. 4.20",
+"text": "est ratio ulterior, magnae si misit amicae,"
+},
+{
+"id": "4.21",
+"label": "Juv. 4.21",
+"text": "quae vehitur clauso latis specularibus antro,"
+},
+{
+"id": "4.22",
+"label": "Juv. 4.22",
+"text": "nil tale expectes: emit sibi. multa videmus"
+},
+{
+"id": "4.23",
+"label": "Juv. 4.23",
+"text": "quae miser et frugi non fecit Apicius; hoc tu,"
+},
+{
+"id": "4.24",
+"label": "Juv. 4.24",
+"text": "succinctus patria quondam, Crispine, papyro?"
+},
+{
+"id": "4.25",
+"label": "Juv. 4.25",
+"text": "hoc pretio squamas? potuit fortasse minoris"
+},
+{
+"id": "4.26",
+"label": "Juv. 4.26",
+"text": "piscator quam piscis emi; provincia tanti"
+},
+{
+"id": "4.27",
+"label": "Juv. 4.27",
+"text": "vendit agros, sed maiores Apulia vendit,"
+},
+{
+"id": "4.28",
+"label": "Juv. 4.28",
+"text": "qualis tunc epulas ipsum gluttisse putamus"
+},
+{
+"id": "4.29",
+"label": "Juv. 4.29",
+"text": "induperatorem, cum tot sestertia, partem"
+},
+{
+"id": "4.30",
+"label": "Juv. 4.30",
+"text": "exiguam et modicae sumptam de margine cenae,"
+},
+{
+"id": "4.31",
+"label": "Juv. 4.31",
+"text": "purpureus magni ructarit scurra Palati,"
+},
+{
+"id": "4.32",
+"label": "Juv. 4.32",
+"text": "iam princeps equitum, magna qui voce solebat"
+},
+{
+"id": "4.33",
+"label": "Juv. 4.33",
+"text": "vendere municipes fracta de merce siluros?"
+},
+{
+"id": "4.34",
+"label": "Juv. 4.34",
+"text": "incipe, Calliope, licet et considere, non est"
+},
+{
+"id": "4.35",
+"label": "Juv. 4.35",
+"text": "cantandum, res vera agitur, narrate, puellae"
+},
+{
+"id": "4.36",
+"label": "Juv. 4.36",
+"text": "Pierides; prosit mihi vos dixisse puellas."
+},
+{
+"id": "4.37",
+"label": "Juv. 4.37",
+"text": "Cum iam semianimum laceraret Flavius orbem"
+},
+{
+"id": "4.38",
+"label": "Juv. 4.38",
+"text": "ultimus et calvo serviret Roma Neroni,"
+},
+{
+"id": "4.39",
+"label": "Juv. 4.39",
+"text": "incidit Hadriaci spatium admirabile rhombi"
+},
+{
+"id": "4.40",
+"label": "Juv. 4.40",
+"text": "ante domum Veneris, quam Dorica sustinet Ancon,"
+},
+{
+"id": "4.41",
+"label": "Juv. 4.41",
+"text": "implevitque sinus; nec enim minor haeserat illis"
+},
+{
+"id": "4.42",
+"label": "Juv. 4.42",
+"text": "quos operit glacies Maeotica ruptaque tandem"
+},
+{
+"id": "4.43",
+"label": "Juv. 4.43",
+"text": "solibus effundit torrentis ad ostia Ponti"
+},
+{
+"id": "4.44",
+"label": "Juv. 4.44",
+"text": "desidia tardos et longo frigore pingues,"
+},
+{
+"id": "4.45",
+"label": "Juv. 4.45",
+"text": "destinat hoc monstrum cumbae Unique magister"
+},
+{
+"id": "4.46",
+"label": "Juv. 4.46",
+"text": "pontifici summo, quis enim proponere talem"
+},
+{
+"id": "4.47",
+"label": "Juv. 4.47",
+"text": "aut emere auderet, cum plena et litora multo"
+},
+{
+"id": "4.48",
+"label": "Juv. 4.48",
+"text": "delatore forent? dispersi protinus algae"
+},
+{
+"id": "4.49",
+"label": "Juv. 4.49",
+"text": "inquisitores agerent cum remige nudo"
+},
+{
+"id": "4.50",
+"label": "Juv. 4.50",
+"text": "non dubitaturi fugitivum dicere piscem"
+},
+{
+"id": "4.51",
+"label": "Juv. 4.51",
+"text": "depastumque diu vivaria Caesaris, inde"
+},
+{
+"id": "4.52",
+"label": "Juv. 4.52",
+"text": "elapsum veterem ad dominum debere reverti,"
+},
+{
+"id": "4.53",
+"label": "Juv. 4.53",
+"text": "si quid Palfurio, si credimus Armillato,"
+},
+{
+"id": "4.54",
+"label": "Juv. 4.54",
+"text": "quidquid conspicuum pulchrumque est aequore toto,"
+},
+{
+"id": "4.55",
+"label": "Juv. 4.55",
+"text": "res fisci est, ubicumque natat, donabitur ergo,"
+},
+{
+"id": "4.56",
+"label": "Juv. 4.56",
+"text": "ne pereat. Iam letifero cedente pruinis"
+},
+{
+"id": "4.57",
+"label": "Juv. 4.57",
+"text": "autumno, iam quartanam sperantibus aegris"
+},
+{
+"id": "4.58",
+"label": "Juv. 4.58",
+"text": "stridebat deformis hiems praedamque recentem"
+},
+{
+"id": "4.59",
+"label": "Juv. 4.59",
+"text": "servabat, tamen hic properat, velut urgueat Auster,"
+},
+{
+"id": "4.60",
+"label": "Juv. 4.60",
+"text": "utque lacus suberant, ubi quamquam diruta servat"
+},
+{
+"id": "4.61",
+"label": "Juv. 4.61",
+"text": "ignem Troianum et Vestam colit Alba minorem,"
+},
+{
+"id": "4.62",
+"label": "Juv. 4.62",
+"text": "obstitit intranti miratrix turba parumper,"
+},
+{
+"id": "4.63",
+"label": "Juv. 4.63",
+"text": "ut cessit, facili patuerunt cardine valvae;"
+},
+{
+"id": "4.64",
+"label": "Juv. 4.64",
+"text": "exclusi spectant admissa obsonia patres."
+},
+{
+"id": "4.65",
+"label": "Juv. 4.65",
+"text": "itur ad Atriden. tum Picens accipe, dixit,"
+},
+{
+"id": "4.66",
+"label": "Juv. 4.66",
+"text": "‘privatis maiora focis, genialis agatur"
+},
+{
+"id": "4.67",
+"label": "Juv. 4.67",
+"text": "iste dies, propera stomachum laxare sagina,"
+},
+{
+"id": "4.68",
+"label": "Juv. 4.68",
+"text": "et tua servatum consume in saecula rhombum."
+},
+{
+"id": "4.69",
+"label": "Juv. 4.69",
+"text": "ipse capi voluit.’ quid apertius? et tamen illi"
+},
+{
+"id": "4.70",
+"label": "Juv. 4.70",
+"text": "surgebant cristae; nihil est quod credere de se"
+},
+{
+"id": "4.71",
+"label": "Juv. 4.71",
+"text": "non possit cum laudatur dis aequa potestas."
+},
+{
+"id": "4.72",
+"label": "Juv. 4.72",
+"text": "sed derat pisci patinae mensura, vocantur"
+},
+{
+"id": "4.73",
+"label": "Juv. 4.73",
+"text": "ergo in consilium proceres, quos oderat ille,"
+},
+{
+"id": "4.74",
+"label": "Juv. 4.74",
+"text": "in quorum facie miserae magnaeque sedebat"
+},
+{
+"id": "4.75",
+"label": "Juv. 4.75",
+"text": "pallor amicitiae, primus clamante Liburno"
+},
+{
+"id": "4.76",
+"label": "Juv. 4.76",
+"text": "currite, iam sedit rapta properabat abolla"
+},
+{
+"id": "4.77",
+"label": "Juv. 4.77",
+"text": "Pegasus, attonitae positus modo vilicus urbi."
+},
+{
+"id": "4.78",
+"label": "Juv. 4.78",
+"text": "anne aliud tum praefecti? quorum optimus atque"
+},
+{
+"id": "4.79",
+"label": "Juv. 4.79",
+"text": "interpres legum sanctissimus omnia, quamquam"
+},
+{
+"id": "4.80",
+"label": "Juv. 4.80",
+"text": "temporibus diris, tractanda putabat inermi"
+},
+{
+"id": "4.81",
+"label": "Juv. 4.81",
+"text": "iustitia, venit et Crispi iucunda senectus,"
+},
+{
+"id": "4.82",
+"label": "Juv. 4.82",
+"text": "cuius erant mores qualis facundia, mite"
+},
+{
+"id": "4.83",
+"label": "Juv. 4.83",
+"text": "ingenium, maria ac terras populosque regenti"
+},
+{
+"id": "4.84",
+"label": "Juv. 4.84",
+"text": "quis comes utilior, si clade et peste sub illa"
+},
+{
+"id": "4.85",
+"label": "Juv. 4.85",
+"text": "saevitiam damnare et honestum adferre liceret"
+},
+{
+"id": "4.86",
+"label": "Juv. 4.86",
+"text": "consilium? sed quid violentius aure tyranni,"
+},
+{
+"id": "4.87",
+"label": "Juv. 4.87",
+"text": "cum quo de pluviis aut aestibus aut nimboso"
+},
+{
+"id": "4.88",
+"label": "Juv. 4.88",
+"text": "vere locuturi fatum pendebat amici?"
+},
+{
+"id": "4.89",
+"label": "Juv. 4.89",
+"text": "illa igitur numquam derexit bracchia contra"
+},
+{
+"id": "4.90",
+"label": "Juv. 4.90",
+"text": "torrentem, nec civis erat qui libera posset"
+},
+{
+"id": "4.91",
+"label": "Juv. 4.91",
+"text": "verba animi proferre et vitam inpendere vero."
+},
+{
+"id": "4.92",
+"label": "Juv. 4.92",
+"text": "sic multas hiemes atque octogensima vidit"
+},
+{
+"id": "4.93",
+"label": "Juv. 4.93",
+"text": "solstitia, his armis illa quoque tutus in aula."
+},
+{
+"id": "4.94",
+"label": "Juv. 4.94",
+"text": "Proximus eiusdem properabat Acilius aevi"
+},
+{
+"id": "4.95",
+"label": "Juv. 4.95",
+"text": "cum iuvene indigno quem mors tam saeva maneret"
+},
+{
+"id": "4.96",
+"label": "Juv. 4.96",
+"text": "et domini gladiis tam festinata; sed olim"
+},
+{
+"id": "4.97",
+"label": "Juv. 4.97",
+"text": "prodigio par est in nobilitate senectus,"
+},
+{
+"id": "4.98",
+"label": "Juv. 4.98",
+"text": "unde fit ut malim fraterculus esse gigantis."
+},
+{
+"id": "4.99",
+"label": "Juv. 4.99",
+"text": "profuit ergo nihil misero, quod comminus ursos"
+},
+{
+"id": "4.100",
+"label": "Juv. 4.100",
+"text": "figebat Numidas Albana nudus harena"
+},
+{
+"id": "4.101",
+"label": "Juv. 4.101",
+"text": "venator, quis enim iam non intellegat artes"
+},
+{
+"id": "4.102",
+"label": "Juv. 4.102",
+"text": "patricias? quis priscum illud miratur acumen."
+},
+{
+"id": "4.103",
+"label": "Juv. 4.103",
+"text": "Brute, tuum? facile est barbato inponere regi."
+},
+{
+"id": "4.104",
+"label": "Juv. 4.104",
+"text": "Nec melior vultu quamvis ignobilis ibat"
+},
+{
+"id": "4.105",
+"label": "Juv. 4.105",
+"text": "Rubrius, offensae veteris reus atque tacendae,"
+},
+{
+"id": "4.106",
+"label": "Juv. 4.106",
+"text": "et tamen inprobior saturam scribente cinaedo."
+},
+{
+"id": "4.107",
+"label": "Juv. 4.107",
+"text": "Montani quoque venter adest abdomine tardus,"
+},
+{
+"id": "4.108",
+"label": "Juv. 4.108",
+"text": "et matutino sudans Crispinus amomo"
+},
+{
+"id": "4.109",
+"label": "Juv. 4.109",
+"text": "quantum vix redolent duo funera, saevior illo"
+},
+{
+"id": "4.110",
+"label": "Juv. 4.110",
+"text": "Pompeius tenui iugulos aperire susurro,"
+},
+{
+"id": "4.111",
+"label": "Juv. 4.111",
+"text": "et qui vulturibus servabat viscera Dacis"
+},
+{
+"id": "4.112",
+"label": "Juv. 4.112",
+"text": "Fuscus marmorea meditatus proelia villa,"
+},
+{
+"id": "4.113",
+"label": "Juv. 4.113",
+"text": "et cum mortifero prudens Veiento Catullo,"
+},
+{
+"id": "4.114",
+"label": "Juv. 4.114",
+"text": "qui numquam visae flagrabat amore puellae,"
+},
+{
+"id": "4.115",
+"label": "Juv. 4.115",
+"text": "grande et conspicuum nostro quoque tempore monstrum,"
+},
+{
+"id": "4.116",
+"label": "Juv. 4.116",
+"text": "caecus adulator, dirusque a ponte satelles"
+},
+{
+"id": "4.117",
+"label": "Juv. 4.117",
+"text": "dignus Aricinos qui mendicaret ad axes"
+},
+{
+"id": "4.118",
+"label": "Juv. 4.118",
+"text": "blandaque devexae iactaret basia raedae."
+},
+{
+"id": "4.119",
+"label": "Juv. 4.119",
+"text": "nemo magis rhombum stupuit; nam plurima dixit"
+},
+{
+"id": "4.120",
+"label": "Juv. 4.120",
+"text": "in laevum conversus, at illi dextra iacebat"
+},
+{
+"id": "4.121",
+"label": "Juv. 4.121",
+"text": "belua, sic pugnas Cilicis laudabat et ictus"
+},
+{
+"id": "4.122",
+"label": "Juv. 4.122",
+"text": "et pegma et pueros inde ad velaria raptos."
+},
+{
+"id": "4.123",
+"label": "Juv. 4.123",
+"text": "Non cedit Veiento, set ut fanaticus oestro"
+},
+{
+"id": "4.124",
+"label": "Juv. 4.124",
+"text": "percussus, Bellona, tuo divinat et ‘ingens"
+},
+{
+"id": "4.125",
+"label": "Juv. 4.125",
+"text": "omen habes,’ inquit, ‘magni clarique triumphi."
+},
+{
+"id": "4.126",
+"label": "Juv. 4.126",
+"text": "regem aliquem capies, aut de temone Britanno"
+},
+{
+"id": "4.127",
+"label": "Juv. 4.127",
+"text": "excidet Arviragus. peregrina est belua, cernis"
+},
+{
+"id": "4.128",
+"label": "Juv. 4.128",
+"text": "erectas in terga sudes?‘ hoc defuit unum"
+},
+{
+"id": "4.129",
+"label": "Juv. 4.129",
+"text": "Fabricio, patriam ut rhombi memoraret et annos."
+},
+{
+"id": "4.130",
+"label": "Juv. 4.130",
+"text": "Quidnam igitur censes? conciditur? ‘absit ab illo"
+},
+{
+"id": "4.131",
+"label": "Juv. 4.131",
+"text": "dedecus hoc,’ Montanus ait, ‘testa alta paretur,"
+},
+{
+"id": "4.132",
+"label": "Juv. 4.132",
+"text": "quae tenui muro spatiosum colligat orbem,"
+},
+{
+"id": "4.133",
+"label": "Juv. 4.133",
+"text": "debetur magnus patinae subitusque Prometheus,"
+},
+{
+"id": "4.134",
+"label": "Juv. 4.134",
+"text": "argillam atque rotam citius properate; sed ex hoc"
+},
+{
+"id": "4.135",
+"label": "Juv. 4.135",
+"text": "tempore iam, Caesar, figuli tua castra sequantur.’"
+},
+{
+"id": "4.136",
+"label": "Juv. 4.136",
+"text": "vicit digna viro sententia, noverat ille"
+},
+{
+"id": "4.137",
+"label": "Juv. 4.137",
+"text": "luxuriam inperii veterem noctesque Neronis"
+},
+{
+"id": "4.138",
+"label": "Juv. 4.138",
+"text": "iam medias aliamque famem, cum pulmo Falerno"
+},
+{
+"id": "4.139",
+"label": "Juv. 4.139",
+"text": "arderet, nulli maior fuit usus edendi"
+},
+{
+"id": "4.140",
+"label": "Juv. 4.140",
+"text": "tempestate mea; Circeis nata forent an"
+},
+{
+"id": "4.141",
+"label": "Juv. 4.141",
+"text": "Lucrinum ad saxum Rutupinove edita fundo"
+},
+{
+"id": "4.142",
+"label": "Juv. 4.142",
+"text": "ostrea callebat primo deprendere morsu,"
+},
+{
+"id": "4.143",
+"label": "Juv. 4.143",
+"text": "et semel aspecti litus dicebat echini."
+},
+{
+"id": "4.144",
+"label": "Juv. 4.144",
+"text": "Surgitur et misso proceres exire iubentur"
+},
+{
+"id": "4.145",
+"label": "Juv. 4.145",
+"text": "consilio, quos Albanam dux magnus in arcem"
+},
+{
+"id": "4.146",
+"label": "Juv. 4.146",
+"text": "traxerat attonitos et festinare coactos"
+},
+{
+"id": "4.147",
+"label": "Juv. 4.147",
+"text": "tamquam de Chattis aliquid torvisque Sygambris"
+},
+{
+"id": "4.148",
+"label": "Juv. 4.148",
+"text": "dicturus, tamquam ex diversis partibus orbis"
+},
+{
+"id": "4.149",
+"label": "Juv. 4.149",
+"text": "anxia praecipiti venisset epistula pinna."
+},
+{
+"id": "4.150",
+"label": "Juv. 4.150",
+"text": "Atque utinam his potius nugis tota illa dedisset"
+},
+{
+"id": "4.151",
+"label": "Juv. 4.151",
+"text": "tempora saevitiae, claras quibus abstulit urbi"
+},
+{
+"id": "4.152",
+"label": "Juv. 4.152",
+"text": "inlustresque animas impune et vindice nullo,"
+},
+{
+"id": "4.153",
+"label": "Juv. 4.153",
+"text": "sed periit postquam cerdonibus esse timendus"
+},
+{
+"id": "4.154",
+"label": "Juv. 4.154",
+"text": "coeperat; hoc nocuit Lamiarum caede madenti."
+}
+]
+}

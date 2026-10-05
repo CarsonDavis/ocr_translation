@@ -1,0 +1,1282 @@
+{
+"corpus": "vulgate",
+"unit": "2-corinthians",
+"title": "2 Corinthians (ad Corinthios II)",
+"passages": [
+{
+"id": "2 Corinthians 1:1",
+"label": "2 Corinthians 1:1",
+"text": "Paulus, Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater, ecclesiæ Dei, quæ est Corinthi cum omnibus sanctis, qui sunt in universa Achaia."
+},
+{
+"id": "2 Corinthians 1:2",
+"label": "2 Corinthians 1:2",
+"text": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo."
+},
+{
+"id": "2 Corinthians 1:3",
+"label": "2 Corinthians 1:3",
+"text": "Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis,"
+},
+{
+"id": "2 Corinthians 1:4",
+"label": "2 Corinthians 1:4",
+"text": "qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo."
+},
+{
+"id": "2 Corinthians 1:5",
+"label": "2 Corinthians 1:5",
+"text": "Quoniam sicut abundant passiones Christi in nobis: ita et per Christum abundat consolatio nostra."
+},
+{
+"id": "2 Corinthians 1:6",
+"label": "2 Corinthians 1:6",
+"text": "Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quæ operatur tolerantiam earumdem passionum, quas et nos patimur:"
+},
+{
+"id": "2 Corinthians 1:7",
+"label": "2 Corinthians 1:7",
+"text": "ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis."
+},
+{
+"id": "2 Corinthians 1:8",
+"label": "2 Corinthians 1:8",
+"text": "Non enim volumus ignorare vos, fratres, de tribulatione nostra, quæ facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut tæderet nos etiam vivere."
+},
+{
+"id": "2 Corinthians 1:9",
+"label": "2 Corinthians 1:9",
+"text": "Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Deo, qui suscitat mortuos:"
+},
+{
+"id": "2 Corinthians 1:10",
+"label": "2 Corinthians 1:10",
+"text": "qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,"
+},
+{
+"id": "2 Corinthians 1:11",
+"label": "2 Corinthians 1:11",
+"text": "adjuvantibus et vobis in oratione pro nobis: ut ex multorum personis, ejus quæ in nobis est donationis, per multos gratiæ agantur pro nobis."
+},
+{
+"id": "2 Corinthians 1:12",
+"label": "2 Corinthians 1:12",
+"text": "Nam gloria nostra hæc est: testimonium conscientiæ nostræ, quod in simplicitate cordis et sinceritate Dei, et non in sapientia carnali, sed in gratia Dei, conversati sumus in hoc mundo: abundantius autem ad vos."
+},
+{
+"id": "2 Corinthians 1:13",
+"label": "2 Corinthians 1:13",
+"text": "Non enim alia scribimus vobis, quam quæ legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,"
+},
+{
+"id": "2 Corinthians 1:14",
+"label": "2 Corinthians 1:14",
+"text": "sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Jesu Christi."
+},
+{
+"id": "2 Corinthians 1:15",
+"label": "2 Corinthians 1:15",
+"text": "Et hac confidentia volui prius venire ad vos, ut secundam gratiam haberetis:"
+},
+{
+"id": "2 Corinthians 1:16",
+"label": "2 Corinthians 1:16",
+"text": "et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Judæam."
+},
+{
+"id": "2 Corinthians 1:17",
+"label": "2 Corinthians 1:17",
+"text": "Cum ergo hoc voluissem, numquid levitate usus sum? aut quæ cogito, secundum carnem cogito, ut sit apud me Est et Non?"
+},
+{
+"id": "2 Corinthians 1:18",
+"label": "2 Corinthians 1:18",
+"text": "Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo Est et Non."
+},
+{
+"id": "2 Corinthians 1:19",
+"label": "2 Corinthians 1:19",
+"text": "Dei enim Filius Jesus Christus, qui in vobis per nos prædicatus est, per me, et Silvanum, et Timotheum, non fuit Est et Non, sed Est in illo fuit."
+},
+{
+"id": "2 Corinthians 1:20",
+"label": "2 Corinthians 1:20",
+"text": "Quotquot enim promissiones Dei sunt, in illo Est: ideo et per ipsum Amen Deo ad gloriam nostram."
+},
+{
+"id": "2 Corinthians 1:21",
+"label": "2 Corinthians 1:21",
+"text": "Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:"
+},
+{
+"id": "2 Corinthians 1:22",
+"label": "2 Corinthians 1:22",
+"text": "qui et signavit nos, et dedit pignus Spiritus in cordibus nostris."
+},
+{
+"id": "2 Corinthians 1:23",
+"label": "2 Corinthians 1:23",
+"text": "Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum: non quia dominamur fidei vestæ, sed adjutores sumus gaudii vestri: nam fide statis."
+},
+{
+"id": "2 Corinthians 2:1",
+"label": "2 Corinthians 2:1",
+"text": "Statui autem hoc ipsum apud me, ne iterum in tristitia venirem ad vos."
+},
+{
+"id": "2 Corinthians 2:2",
+"label": "2 Corinthians 2:2",
+"text": "Si enim ego contristo vos: et quis est, qui me lætificet, nisi qui contristatur ex me?"
+},
+{
+"id": "2 Corinthians 2:3",
+"label": "2 Corinthians 2:3",
+"text": "Et hoc ipsum scripsi vobis, ut non cum venero, tristitiam super tristitiam habeam, de quibus oportuerat me gaudere: confidens in omnibus vobis, quia meum gaudium, omnium vestrum est."
+},
+{
+"id": "2 Corinthians 2:4",
+"label": "2 Corinthians 2:4",
+"text": "Nam ex multa tribulatione et angustia cordis scripsi vobis per multas lacrimas: non ut contristemini, sed ut sciatis, quam caritatem habeam abundantius in vobis."
+},
+{
+"id": "2 Corinthians 2:5",
+"label": "2 Corinthians 2:5",
+"text": "Si quis autem contristavit, non me contristavit: sed ex parte, ut non onerem omnes vos."
+},
+{
+"id": "2 Corinthians 2:6",
+"label": "2 Corinthians 2:6",
+"text": "Sufficit illi, qui ejusmodi est, objurgatio hæc, quæ fit a pluribus:"
+},
+{
+"id": "2 Corinthians 2:7",
+"label": "2 Corinthians 2:7",
+"text": "ita ut e contrario magis donetis, et consolemini, ne forte abundantiori tristitia absorbeatur qui ejusmodi est."
+},
+{
+"id": "2 Corinthians 2:8",
+"label": "2 Corinthians 2:8",
+"text": "Propter quod obsecro vos, ut confirmetis in illum caritatem."
+},
+{
+"id": "2 Corinthians 2:9",
+"label": "2 Corinthians 2:9",
+"text": "Ideo enim et scripsi, ut cognoscam experimentum vestrum, an in omnibus obedientes sitis."
+},
+{
+"id": "2 Corinthians 2:10",
+"label": "2 Corinthians 2:10",
+"text": "Cui autem aliquid donastis, et ego: nam et ego quod donavi, si quid donavi, propter vos in persona Christi,"
+},
+{
+"id": "2 Corinthians 2:11",
+"label": "2 Corinthians 2:11",
+"text": "ut non circumveniamur a Satana: non enim ignoramus cogitationes ejus."
+},
+{
+"id": "2 Corinthians 2:12",
+"label": "2 Corinthians 2:12",
+"text": "Cum venissem autem Troadem propter Evangelium Christi, et ostium mihi apertum esset in Domino,"
+},
+{
+"id": "2 Corinthians 2:13",
+"label": "2 Corinthians 2:13",
+"text": "non habui requiem spiritui meo, eo quod non invenerim Titum fratrem meum, sed valefaciens eis, profectus sum in Macedoniam."
+},
+{
+"id": "2 Corinthians 2:14",
+"label": "2 Corinthians 2:14",
+"text": "Deo autem gratias, qui semper triumphat nos in Christo Jesu, et odorem notitiæ suæ manifestat per nos in omni loco:"
+},
+{
+"id": "2 Corinthians 2:15",
+"label": "2 Corinthians 2:15",
+"text": "quia Christi bonus odor sumus Deo in iis qui salvi fiunt, et in iis qui pereunt:"
+},
+{
+"id": "2 Corinthians 2:16",
+"label": "2 Corinthians 2:16",
+"text": "aliis quidem odor mortis in mortem: aliis autem odor vitæ in vitam. Et ad hæc quis tam idoneus?"
+},
+{
+"id": "2 Corinthians 2:17",
+"label": "2 Corinthians 2:17",
+"text": "non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sed sicut ex Deo, coram Deo, in Christo loquimur."
+},
+{
+"id": "2 Corinthians 3:1",
+"label": "2 Corinthians 3:1",
+"text": "Incipimus iterum nosmetipsos commendare? aut numquid egemus (sicut quidam) commendatitiis epistolis ad vos, aut ex vobis?"
+},
+{
+"id": "2 Corinthians 3:2",
+"label": "2 Corinthians 3:2",
+"text": "Epistola nostra vos estis, scripta in cordibus nostris, quæ scitur, et legitur ab omnibus hominibus:"
+},
+{
+"id": "2 Corinthians 3:3",
+"label": "2 Corinthians 3:3",
+"text": "manifestati quod epistola estis Christi, ministrata a nobis, et scripta non atramento, sed Spiritu Dei vivi: non in tabulis lapideis, sed in tabulis cordis carnalibus."
+},
+{
+"id": "2 Corinthians 3:4",
+"label": "2 Corinthians 3:4",
+"text": "Fiduciam autem talem habemus per Christum ad Deum:"
+},
+{
+"id": "2 Corinthians 3:5",
+"label": "2 Corinthians 3:5",
+"text": "non quod sufficientes simus cogitare aliquid a nobis, quasi ex nobis: sed sufficientia nostra ex Deo est:"
+},
+{
+"id": "2 Corinthians 3:6",
+"label": "2 Corinthians 3:6",
+"text": "qui et idoneos nos fecit ministros novi testamenti: non littera, sed Spiritu: littera enim occidit, Spiritus autem vivificat."
+},
+{
+"id": "2 Corinthians 3:7",
+"label": "2 Corinthians 3:7",
+"text": "Quod si ministratio mortis litteris deformata in lapidibus fuit in gloria, ita ut non possent intendere filii Israël in faciem Moysi propter gloriam vultus ejus, quæ evacuatur:"
+},
+{
+"id": "2 Corinthians 3:8",
+"label": "2 Corinthians 3:8",
+"text": "quomodo non magis ministratio Spiritus erit in gloria?"
+},
+{
+"id": "2 Corinthians 3:9",
+"label": "2 Corinthians 3:9",
+"text": "Nam si ministratio damnationis gloria est: multo magis abundat ministerium justitiæ in gloria."
+},
+{
+"id": "2 Corinthians 3:10",
+"label": "2 Corinthians 3:10",
+"text": "Nam nec glorificatum est, quod claruit in hac parte, propter excellentem gloriam."
+},
+{
+"id": "2 Corinthians 3:11",
+"label": "2 Corinthians 3:11",
+"text": "Si enim quod evacuatur, per gloriam est: multo magis quod manet, in gloria est."
+},
+{
+"id": "2 Corinthians 3:12",
+"label": "2 Corinthians 3:12",
+"text": "Habentes igitur talem spem, multa fiducia utimur:"
+},
+{
+"id": "2 Corinthians 3:13",
+"label": "2 Corinthians 3:13",
+"text": "et non sicut Moyses ponebat velamen super faciem suam, ut non intenderent filii Israël in faciem ejus, quod evacuatur,"
+},
+{
+"id": "2 Corinthians 3:14",
+"label": "2 Corinthians 3:14",
+"text": "sed obtusi sunt sensus eorum. Usque in hodiernum enim diem, idipsum velamen in lectione veteris testamenti manet non revelatum (quoniam in Christo evacuatur),"
+},
+{
+"id": "2 Corinthians 3:15",
+"label": "2 Corinthians 3:15",
+"text": "sed usque in hodiernum diem, cum legitur Moyses, velamen positum est super cor eorum."
+},
+{
+"id": "2 Corinthians 3:16",
+"label": "2 Corinthians 3:16",
+"text": "Cum autem conversus fuerit ad Dominum, auferetur velamen."
+},
+{
+"id": "2 Corinthians 3:17",
+"label": "2 Corinthians 3:17",
+"text": "Dominus autem Spiritus est: ubi autem Spiritus Domini, ibi libertas."
+},
+{
+"id": "2 Corinthians 3:18",
+"label": "2 Corinthians 3:18",
+"text": "Nos vero omnes, revelata facie gloriam Domini speculantes, in eamdem imaginem transformamur a claritate in claritatem, tamquam a Domini Spiritu."
+},
+{
+"id": "2 Corinthians 4:1",
+"label": "2 Corinthians 4:1",
+"text": "Ideo habentes administrationem, juxta quod misericordiam consecuti sumus, non deficimus,"
+},
+{
+"id": "2 Corinthians 4:2",
+"label": "2 Corinthians 4:2",
+"text": "sed abdicamus occulta dedecoris, non ambulantes in astutia, neque adulterantes verbum Dei, sed in manifestatione veritatis commendantes nosmetipsos ad omnem conscientiam hominum coram Deo."
+},
+{
+"id": "2 Corinthians 4:3",
+"label": "2 Corinthians 4:3",
+"text": "Quod si etiam opertum est Evangelium nostrum, in iis, qui pereunt, est opertum:"
+},
+{
+"id": "2 Corinthians 4:4",
+"label": "2 Corinthians 4:4",
+"text": "in quibus Deus hujus sæculi excæcavit mentes infidelium, ut non fulgeat illis illuminatio Evangelii gloriæ Christi, qui est imago Dei."
+},
+{
+"id": "2 Corinthians 4:5",
+"label": "2 Corinthians 4:5",
+"text": "Non enim nosmetipsos prædicamus, sed Jesum Christum Dominum nostrum: nos autem servos vestros per Jesum:"
+},
+{
+"id": "2 Corinthians 4:6",
+"label": "2 Corinthians 4:6",
+"text": "quoniam Deus, qui dixit de tenebris lucem splendescere, ipse illuxit in cordibus nostris ad illuminationem scientiæ claritatis Dei, in facie Christi Jesu."
+},
+{
+"id": "2 Corinthians 4:7",
+"label": "2 Corinthians 4:7",
+"text": "Habemus autem thesaurum istum in vasis fictilibus: ut sublimitas sit virtutis Dei, et non ex nobis."
+},
+{
+"id": "2 Corinthians 4:8",
+"label": "2 Corinthians 4:8",
+"text": "In omnibus tribulationem patimur, sed non angustiamur: aporiamur, sed non destituimur:"
+},
+{
+"id": "2 Corinthians 4:9",
+"label": "2 Corinthians 4:9",
+"text": "persecutionem patimur, sed non derelinquimur: dejicimur, sed non perimus:"
+},
+{
+"id": "2 Corinthians 4:10",
+"label": "2 Corinthians 4:10",
+"text": "semper mortificationem Jesu in corpore nostro circumferentes, ut et vita Jesu manifestetur in corporibus nostris."
+},
+{
+"id": "2 Corinthians 4:11",
+"label": "2 Corinthians 4:11",
+"text": "Semper enim nos, qui vivimus, in mortem tradimur propter Jesum: ut et vita Jesu manifestetur in carne nostra mortali."
+},
+{
+"id": "2 Corinthians 4:12",
+"label": "2 Corinthians 4:12",
+"text": "Ergo mors in nobis operatur, vita autem in vobis."
+},
+{
+"id": "2 Corinthians 4:13",
+"label": "2 Corinthians 4:13",
+"text": "Habentes autem eumdem spiritum fidei, sicut scriptum est: Credidi, propter quod locutus sum: et nos credimus, propter quod et loquimur:"
+},
+{
+"id": "2 Corinthians 4:14",
+"label": "2 Corinthians 4:14",
+"text": "scientes quoniam qui suscitavit Jesum, et nos cum Jesu suscitabit, et constituet vobiscum."
+},
+{
+"id": "2 Corinthians 4:15",
+"label": "2 Corinthians 4:15",
+"text": "Omnia enim propter vos: ut gratia abundans, per multos in gratiarum actione, abundet in gloriam Dei."
+},
+{
+"id": "2 Corinthians 4:16",
+"label": "2 Corinthians 4:16",
+"text": "Propter quod non deficimus: sed licet is, qui foris est, noster homo corrumpatur, tamen is, qui intus est, renovatur de die in diem."
+},
+{
+"id": "2 Corinthians 4:17",
+"label": "2 Corinthians 4:17",
+"text": "Id enim, quod in præsenti est momentaneum et leve tribulationis nostræ, supra modum in sublimitate æternum gloriæ pondus operatur in nobis,"
+},
+{
+"id": "2 Corinthians 4:18",
+"label": "2 Corinthians 4:18",
+"text": "non contemplantibus nobis quæ videntur, sed quæ non videntur. Quæ enim videntur, temporalia sunt: quæ autem non videntur, æterna sunt."
+},
+{
+"id": "2 Corinthians 5:1",
+"label": "2 Corinthians 5:1",
+"text": "Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quod ædificationem ex Deo habemus, domum non manufactam, æternam in cælis."
+},
+{
+"id": "2 Corinthians 5:2",
+"label": "2 Corinthians 5:2",
+"text": "Nam et in hoc ingemiscimus, habitationem nostram, quæ de cælo est, superindui cupientes:"
+},
+{
+"id": "2 Corinthians 5:3",
+"label": "2 Corinthians 5:3",
+"text": "si tamen vestiti, non nudi inveniamur."
+},
+{
+"id": "2 Corinthians 5:4",
+"label": "2 Corinthians 5:4",
+"text": "Nam et qui sumus in hoc tabernaculo, ingemiscimus gravati: eo quod nolumus expoliari, sed supervestiri, ut absorbeatur quod mortale est, a vita."
+},
+{
+"id": "2 Corinthians 5:5",
+"label": "2 Corinthians 5:5",
+"text": "Qui autem efficit nos in hoc ipsum, Deus, qui dedit nobis pignus Spiritus."
+},
+{
+"id": "2 Corinthians 5:6",
+"label": "2 Corinthians 5:6",
+"text": "Audentes igitur semper, scientes quoniam dum sumus in corpore, peregrinamur a Domino"
+},
+{
+"id": "2 Corinthians 5:7",
+"label": "2 Corinthians 5:7",
+"text": "(per fidem enim ambulamus, et non per speciem):"
+},
+{
+"id": "2 Corinthians 5:8",
+"label": "2 Corinthians 5:8",
+"text": "audemus autem, et bonam voluntatem habemus magis peregrinari a corpore, et præsentes esse ad Dominum."
+},
+{
+"id": "2 Corinthians 5:9",
+"label": "2 Corinthians 5:9",
+"text": "Et ideo contendimus, sive absentes, sive præsentes, placere illi."
+},
+{
+"id": "2 Corinthians 5:10",
+"label": "2 Corinthians 5:10",
+"text": "Omnes enim nos manifestari oportet ante tribunal Christi, ut referat unusquisque propria corporis, prout gessit, sive bonum, sive malum."
+},
+{
+"id": "2 Corinthians 5:11",
+"label": "2 Corinthians 5:11",
+"text": "Scientes ergo timorem Domini, hominibus suademus, Deo autem manifesti sumus. Spero autem et in conscientiis vestris manifestos nos esse."
+},
+{
+"id": "2 Corinthians 5:12",
+"label": "2 Corinthians 5:12",
+"text": "Non iterum commendamus nos vobis, sed occasionem damus vobis gloriandi pro nobis: ut habeatis ad eos qui in facie gloriantur, et non in corde."
+},
+{
+"id": "2 Corinthians 5:13",
+"label": "2 Corinthians 5:13",
+"text": "Sive enim mente excedimus Deo: sive sobrii sumus, vobis."
+},
+{
+"id": "2 Corinthians 5:14",
+"label": "2 Corinthians 5:14",
+"text": "Caritas enim Christi urget nos: æstimantes hoc, quoniam si unus pro omnibus mortuus est, ergo omnes mortui sunt:"
+},
+{
+"id": "2 Corinthians 5:15",
+"label": "2 Corinthians 5:15",
+"text": "et pro omnibus mortuus est Christus: ut, et qui vivunt, jam non sibi vivant, sed ei qui pro ipsis mortuus est et resurrexit."
+},
+{
+"id": "2 Corinthians 5:16",
+"label": "2 Corinthians 5:16",
+"text": "Itaque nos ex hoc neminem novimus secundum carnem. Et si cognovimus secundum carnem Christum, sed nunc jam non novimus."
+},
+{
+"id": "2 Corinthians 5:17",
+"label": "2 Corinthians 5:17",
+"text": "Si qua ergo in Christo nova creatura, vetera transierunt: ecce facta sunt omnia nova."
+},
+{
+"id": "2 Corinthians 5:18",
+"label": "2 Corinthians 5:18",
+"text": "Omnia autem ex Deo, qui nos reconciliavit sibi per Christum: et dedit nobis ministerium reconciliationis,"
+},
+{
+"id": "2 Corinthians 5:19",
+"label": "2 Corinthians 5:19",
+"text": "quoniam quidem Deus erat in Christo mundum reconcilians sibi, non reputans illis delicta ipsorum, et posuit in nobis verbum reconciliationis."
+},
+{
+"id": "2 Corinthians 5:20",
+"label": "2 Corinthians 5:20",
+"text": "Pro Christo ergo legatione fungimur, tamquam Deo exhortante per nos. Obsecramus pro Christo, reconciliamini Deo."
+},
+{
+"id": "2 Corinthians 5:21",
+"label": "2 Corinthians 5:21",
+"text": "Eum, qui non noverat peccatum, pro nobis peccatum fecit, ut nos efficeremur justitia Dei in ipso."
+},
+{
+"id": "2 Corinthians 6:1",
+"label": "2 Corinthians 6:1",
+"text": "Adjuvantes autem exhortamur ne in vacuum gratiam Dei recipiatis."
+},
+{
+"id": "2 Corinthians 6:2",
+"label": "2 Corinthians 6:2",
+"text": "Ait enim: Tempore accepto exaudivi te, et in die salutis adjuvi te. Ecce nunc tempus acceptabile, ecce nunc dies salutis."
+},
+{
+"id": "2 Corinthians 6:3",
+"label": "2 Corinthians 6:3",
+"text": "Nemini dantes ullam offensionem, ut non vituperetur ministerium nostrum:"
+},
+{
+"id": "2 Corinthians 6:4",
+"label": "2 Corinthians 6:4",
+"text": "sed in omnibus exhibeamus nosmetipsos sicut Dei ministros in multa patientia, in tribulationibus, in necessitatibus, in angustiis,"
+},
+{
+"id": "2 Corinthians 6:5",
+"label": "2 Corinthians 6:5",
+"text": "in plagis, in carceribus, in seditionibus, in laboribus, in vigiliis, in jejuniis,"
+},
+{
+"id": "2 Corinthians 6:6",
+"label": "2 Corinthians 6:6",
+"text": "in castitate, in scientia, in longanimitate, in suavitate, in Spiritu Sancto, in caritate non ficta,"
+},
+{
+"id": "2 Corinthians 6:7",
+"label": "2 Corinthians 6:7",
+"text": "in verbo veritatis, in virtute Dei, per arma justitiæ a dextris et a sinistris,"
+},
+{
+"id": "2 Corinthians 6:8",
+"label": "2 Corinthians 6:8",
+"text": "per gloriam, et ignobilitatem, per infamiam, et bonam famam: ut seductores, et veraces, sicut qui ignoti, et cogniti:"
+},
+{
+"id": "2 Corinthians 6:9",
+"label": "2 Corinthians 6:9",
+"text": "quasi morientes, et ecce vivimus: ut castigati, et non mortificati:"
+},
+{
+"id": "2 Corinthians 6:10",
+"label": "2 Corinthians 6:10",
+"text": "quasi tristes, semper autem gaudentes: sicut egentes, multos autem locupletantes: tamquam nihil habentes, et omnia possidentes."
+},
+{
+"id": "2 Corinthians 6:11",
+"label": "2 Corinthians 6:11",
+"text": "Os nostrum patet ad vos, o Corinthii; cor nostrum dilatatum est."
+},
+{
+"id": "2 Corinthians 6:12",
+"label": "2 Corinthians 6:12",
+"text": "Non angustiamini in nobis: angustiamini autem in visceribus vestris:"
+},
+{
+"id": "2 Corinthians 6:13",
+"label": "2 Corinthians 6:13",
+"text": "eamdem autem habentes remunerationem, tamquam filiis dico, dilatamini et vos."
+},
+{
+"id": "2 Corinthians 6:14",
+"label": "2 Corinthians 6:14",
+"text": "Nolite jugum ducere cum infidelibus. Quæ enim participatio justitiæ cum iniquitate? aut quæ societas luci ad tenebras?"
+},
+{
+"id": "2 Corinthians 6:15",
+"label": "2 Corinthians 6:15",
+"text": "quæ autem conventio Christi ad Belial? aut quæ pars fideli cum infideli?"
+},
+{
+"id": "2 Corinthians 6:16",
+"label": "2 Corinthians 6:16",
+"text": "qui autem consensus templo Dei cum idolis? vos enim estis templum Dei vivi, sicut dicit Deus: Quoniam inhabitabo in illis, et inambulabo inter eos,\net ero illorum Deus, et ipsi erunt mihi populus."
+},
+{
+"id": "2 Corinthians 6:17",
+"label": "2 Corinthians 6:17",
+"text": "Propter quod exite de medio eorum,\net separamini, dicit Dominus,\net immundum ne tetigeritis:"
+},
+{
+"id": "2 Corinthians 6:18",
+"label": "2 Corinthians 6:18",
+"text": "et ego recipiam vos:\net ero vobis in patrem,\net vos eritis mihi in filios et filias,\ndicit Dominus omnipotens."
+},
+{
+"id": "2 Corinthians 7:1",
+"label": "2 Corinthians 7:1",
+"text": "Has ergo habentes promissiones, carissimi, mundemus nos ab omni inquinamento carnis et spiritus, perficientes sanctificationem in timore Dei."
+},
+{
+"id": "2 Corinthians 7:2",
+"label": "2 Corinthians 7:2",
+"text": "Capite nos. Neminem læsimus, neminem corrupimus, neminem circumvenimus."
+},
+{
+"id": "2 Corinthians 7:3",
+"label": "2 Corinthians 7:3",
+"text": "Non ad condemnationem vestram dico: prædiximus enim quod in cordibus nostris estis ad commoriendum et ad convivendum."
+},
+{
+"id": "2 Corinthians 7:4",
+"label": "2 Corinthians 7:4",
+"text": "Multa mihi fiducia est apud vos, multa mihi gloriatio pro vobis: repletus sum consolatione; superabundo gaudio in omni tribulatione nostra."
+},
+{
+"id": "2 Corinthians 7:5",
+"label": "2 Corinthians 7:5",
+"text": "Nam et cum venissemus in Macedoniam, nullam requiem habuit caro nostra, sed omnem tribulationem passi sumus: foris pugnæ, intus timores."
+},
+{
+"id": "2 Corinthians 7:6",
+"label": "2 Corinthians 7:6",
+"text": "Sed qui consolatur humiles, consolatus est nos Deus in adventu Titi."
+},
+{
+"id": "2 Corinthians 7:7",
+"label": "2 Corinthians 7:7",
+"text": "Non solum autem in adventu ejus, sed etiam in consolatione, qua consolatus est in vobis, referens nobis vestrum desiderium, vestrum fletum, vestram æmulationem pro me, ita ut magis gauderem."
+},
+{
+"id": "2 Corinthians 7:8",
+"label": "2 Corinthians 7:8",
+"text": "Quoniam etsi contristavi vos in epistola, non me pœnitet: etsi pœniteret, videns quod epistola illa (etsi ad horam) vos contristavit,"
+},
+{
+"id": "2 Corinthians 7:9",
+"label": "2 Corinthians 7:9",
+"text": "nunc gaudeo: non quia contristati estis, sed quia contristati estis ad pœnitentiam. Contristati enim estis ad Deum, ut in nullo detrimentum patiamini ex nobis."
+},
+{
+"id": "2 Corinthians 7:10",
+"label": "2 Corinthians 7:10",
+"text": "Quæ enim secundum Deum tristitia est, pœnitentiam in salutem stabilem operatur: sæculi autem tristitia mortem operatur."
+},
+{
+"id": "2 Corinthians 7:11",
+"label": "2 Corinthians 7:11",
+"text": "Ecce enim hoc ipsum, secundum Deum contristari vos, quantam in vobis operatur sollicitudinem: sed defensionem, sed indignationem, sed timorem, sed desiderium, sed æmulationem, sed vindictam: in omnibus exhibuistis vos incontaminatos esse negotio."
+},
+{
+"id": "2 Corinthians 7:12",
+"label": "2 Corinthians 7:12",
+"text": "Igitur, etsi scripsi vobis, non propter eum qui fecit injuriam, nec propter eum qui passus est: sed ad manifestandam sollicitudinem nostram, quam habemus pro vobis"
+},
+{
+"id": "2 Corinthians 7:13",
+"label": "2 Corinthians 7:13",
+"text": "coram Deo: ideo consolati sumus. In consolatione autem nostra, abundantius magis gavisi sumus super gaudio Titi, quia refectus est spiritus ejus ab omnibus vobis:"
+},
+{
+"id": "2 Corinthians 7:14",
+"label": "2 Corinthians 7:14",
+"text": "et si quid apud illum de vobis gloriatus sum, non sum confusus: sed sicut omnia vobis in veritate locuti sumus, ita et gloriatio nostra, quæ fuit ad Titum, veritas facta est,"
+},
+{
+"id": "2 Corinthians 7:15",
+"label": "2 Corinthians 7:15",
+"text": "et viscera ejus abundantius in vobis sunt, reminiscentis omnium vestrum obedientiam: quomodo cum timore et tremore excepistis illum."
+},
+{
+"id": "2 Corinthians 7:16",
+"label": "2 Corinthians 7:16",
+"text": "Gaudeo quod in omnibus confido in vobis."
+},
+{
+"id": "2 Corinthians 8:1",
+"label": "2 Corinthians 8:1",
+"text": "Notam autem facimus vobis, fratres, gratiam Dei, quæ data est in ecclesiis Macedoniæ:"
+},
+{
+"id": "2 Corinthians 8:2",
+"label": "2 Corinthians 8:2",
+"text": "quod in multo experimento tribulationis abundantia gaudii ipsorum fuit, et altissima paupertas eorum, abundavit in divitias simplicitatis eorum:"
+},
+{
+"id": "2 Corinthians 8:3",
+"label": "2 Corinthians 8:3",
+"text": "quia secundum virtutem testimonium illis reddo, et supra virtutem voluntarii fuerunt,"
+},
+{
+"id": "2 Corinthians 8:4",
+"label": "2 Corinthians 8:4",
+"text": "cum multa exhortatione obsecrantes nos gratiam, et communicationem ministerii, quod fit in sanctos."
+},
+{
+"id": "2 Corinthians 8:5",
+"label": "2 Corinthians 8:5",
+"text": "Et non sicut speravimus, sed semetipsos dederunt primum Domino, deinde nobis per voluntatem Dei,"
+},
+{
+"id": "2 Corinthians 8:6",
+"label": "2 Corinthians 8:6",
+"text": "ita ut rogaremus Titum, ut quemadmodum cœpit, ita et perficiat in vobis etiam gratiam istam."
+},
+{
+"id": "2 Corinthians 8:7",
+"label": "2 Corinthians 8:7",
+"text": "Sed sicut in omnibus abundatis fide, et sermone, et scientia, et omni sollicitudine, insuper et caritate vestra in nos, ut et in hac gratia abundetis."
+},
+{
+"id": "2 Corinthians 8:8",
+"label": "2 Corinthians 8:8",
+"text": "Non quasi imperans dico: sed per aliorum sollicitudinem, etiam vestræ caritatis ingenium bonum comprobans."
+},
+{
+"id": "2 Corinthians 8:9",
+"label": "2 Corinthians 8:9",
+"text": "Scitis enim gratiam Domini nostri Jesu Christi, quoniam propter vos egenus factus est, cum esset dives, ut illius inopia vos divites essetis."
+},
+{
+"id": "2 Corinthians 8:10",
+"label": "2 Corinthians 8:10",
+"text": "Et consilium in hoc do: hoc enim vobis utile est, qui non solum facere, sed et velle cœpistis ab anno priore:"
+},
+{
+"id": "2 Corinthians 8:11",
+"label": "2 Corinthians 8:11",
+"text": "nunc vero et facto perficite: ut quemadmodum promptus est animus voluntatis, ita sit et perficiendi ex eo quod habetis."
+},
+{
+"id": "2 Corinthians 8:12",
+"label": "2 Corinthians 8:12",
+"text": "Si enim voluntas prompta est, secundum id quod habet, accepta est, non secundum id quod non habet."
+},
+{
+"id": "2 Corinthians 8:13",
+"label": "2 Corinthians 8:13",
+"text": "Non enim ut aliis sit remissio, vobis autem tribulatio, sed ex æqualitate."
+},
+{
+"id": "2 Corinthians 8:14",
+"label": "2 Corinthians 8:14",
+"text": "In præsenti tempore vestra abundantia illorum inopiam suppleat: ut et illorum abundantia vestræ inopiæ sit supplementum, ut fiat æqualitas, sicut scriptum est:"
+},
+{
+"id": "2 Corinthians 8:15",
+"label": "2 Corinthians 8:15",
+"text": "Qui multum, non abundavit: et qui modicum, non minoravit."
+},
+{
+"id": "2 Corinthians 8:16",
+"label": "2 Corinthians 8:16",
+"text": "Gratias autem Deo, qui dedit eamdem sollicitudinem pro vobis in corde Titi,"
+},
+{
+"id": "2 Corinthians 8:17",
+"label": "2 Corinthians 8:17",
+"text": "quoniam exhortationem quidem suscepit: sed cum sollicitior esset, sua voluntate profectus est ad vos."
+},
+{
+"id": "2 Corinthians 8:18",
+"label": "2 Corinthians 8:18",
+"text": "Misimus etiam cum illo fratrem, cujus laus est in Evangelio per omnes ecclesias:"
+},
+{
+"id": "2 Corinthians 8:19",
+"label": "2 Corinthians 8:19",
+"text": "non solum autem, sed et ordinatus est ab ecclesiis comes peregrinationis nostræ in hanc gratiam, quæ ministratur a nobis ad Domini gloriam, et destinatam voluntatem nostram:"
+},
+{
+"id": "2 Corinthians 8:20",
+"label": "2 Corinthians 8:20",
+"text": "devitantes hoc, ne quis nos vituperet in hac plenitudine, quæ ministratur a nobis."
+},
+{
+"id": "2 Corinthians 8:21",
+"label": "2 Corinthians 8:21",
+"text": "Providemus enim bona non solum coram Deo, sed etiam coram hominibus."
+},
+{
+"id": "2 Corinthians 8:22",
+"label": "2 Corinthians 8:22",
+"text": "Misimus autem cum illis et fratrem nostrum, quem probavimus in multis sæpe sollicitum esse: nunc autem multo sollicitiorem, confidentia multa in vos,"
+},
+{
+"id": "2 Corinthians 8:23",
+"label": "2 Corinthians 8:23",
+"text": "sive pro Tito, qui est socius meus, et in vos adjutor, sive fratres nostri, Apostoli ecclesiarum, gloria Christi."
+},
+{
+"id": "2 Corinthians 8:24",
+"label": "2 Corinthians 8:24",
+"text": "Ostensionem ergo, quæ est caritatis vestræ, et nostræ gloriæ pro vobis, in illos ostendite in faciem ecclesiarum."
+},
+{
+"id": "2 Corinthians 9:1",
+"label": "2 Corinthians 9:1",
+"text": "Nam de ministerio, quod fit in sanctos ex abundanti est mihi scribere vobis."
+},
+{
+"id": "2 Corinthians 9:2",
+"label": "2 Corinthians 9:2",
+"text": "Scio enim promptum animum vestrum: pro quo de vobis glorior apud Macedones. Quoniam et Achaia parata est ab anno præterito, et vestra æmulatio provocavit plurimos."
+},
+{
+"id": "2 Corinthians 9:3",
+"label": "2 Corinthians 9:3",
+"text": "Misi autem fratres: ut ne quod gloriamur de vobis, evacuetur in hac parte, ut (quemadmodum dixi) parati sitis:"
+},
+{
+"id": "2 Corinthians 9:4",
+"label": "2 Corinthians 9:4",
+"text": "ne cum venerint Macedones mecum, et invenerint vos imparatos, erubescamus nos (ut non dicamus vos) in hac substantia."
+},
+{
+"id": "2 Corinthians 9:5",
+"label": "2 Corinthians 9:5",
+"text": "Necessarium ergo existimavi rogare fratres, ut præveniant ad vos, et præparent repromissam benedictionem hanc paratam esse sic, quasi benedictionem, non tamquam avaritiam."
+},
+{
+"id": "2 Corinthians 9:6",
+"label": "2 Corinthians 9:6",
+"text": "Hoc autem dico: qui parce seminat, parce et metet: et qui seminat in benedictionibus, de benedictionibus et metet."
+},
+{
+"id": "2 Corinthians 9:7",
+"label": "2 Corinthians 9:7",
+"text": "Unusquisque, prout destinavit in corde suo, non ex tristitia, aut ex necessitate: hilarem enim datorem diligit Deus."
+},
+{
+"id": "2 Corinthians 9:8",
+"label": "2 Corinthians 9:8",
+"text": "Potens est autem Deus omnem gratiam abundare facere in vobis: ut in omnibus semper omnem sufficientiam habentes, abundetis in omne opus bonum,"
+},
+{
+"id": "2 Corinthians 9:9",
+"label": "2 Corinthians 9:9",
+"text": "sicut scriptum est: Dispersit, dedit pauperibus: justitia ejus manet in sæculum sæculi."
+},
+{
+"id": "2 Corinthians 9:10",
+"label": "2 Corinthians 9:10",
+"text": "Qui autem administrat semen seminanti: et panem ad manducandum præstabit, et multiplicabit semen vestrum, et augebit incrementa frugum justitiæ vestræ:"
+},
+{
+"id": "2 Corinthians 9:11",
+"label": "2 Corinthians 9:11",
+"text": "ut in omnibus locupletati abundetis in omnem simplicitatem, quæ operatur per nos gratiarum actionem Deo."
+},
+{
+"id": "2 Corinthians 9:12",
+"label": "2 Corinthians 9:12",
+"text": "Quoniam ministerium hujus officii non solum supplet ea quæ desunt sanctis, sed etiam abundat per multas gratiarum actiones in Domino,"
+},
+{
+"id": "2 Corinthians 9:13",
+"label": "2 Corinthians 9:13",
+"text": "per probationem ministerii hujus, glorificantes Deum in obedientia confessionis vestræ, in Evangelium Christi, et simplicitate communicationis in illos, et in omnes,"
+},
+{
+"id": "2 Corinthians 9:14",
+"label": "2 Corinthians 9:14",
+"text": "et in ipsorum obsecratione pro vobis, desiderantium vos propter eminentem gratiam Dei in vobis."
+},
+{
+"id": "2 Corinthians 9:15",
+"label": "2 Corinthians 9:15",
+"text": "Gratias Deo super inenarrabili dono ejus."
+},
+{
+"id": "2 Corinthians 10:1",
+"label": "2 Corinthians 10:1",
+"text": "Ipse autem ego Paulus obsecro vos per mansuetudinem et modestiam Christi, qui in facie quidem humilis sum inter vos, absens autem confido in vos."
+},
+{
+"id": "2 Corinthians 10:2",
+"label": "2 Corinthians 10:2",
+"text": "Rogo autem vos ne præsens audeam per eam confidentiam, qua existimor audere in quosdam, qui arbitrantur nos tamquam secundum carnem ambulemus."
+},
+{
+"id": "2 Corinthians 10:3",
+"label": "2 Corinthians 10:3",
+"text": "In carne enim ambulantes, non secundum carnem militamus."
+},
+{
+"id": "2 Corinthians 10:4",
+"label": "2 Corinthians 10:4",
+"text": "Nam arma militiæ nostræ non carnalia sunt, sed potentia Deo ad destructionem munitionum, consilia destruentes,"
+},
+{
+"id": "2 Corinthians 10:5",
+"label": "2 Corinthians 10:5",
+"text": "et omnem altitudinem extollentem se adversus scientiam Dei, et in captivitatem redigentes omnem intellectum in obsequium Christi,"
+},
+{
+"id": "2 Corinthians 10:6",
+"label": "2 Corinthians 10:6",
+"text": "et in promptu habentes ulcisci omnem inobedientiam, cum impleta fuerit vestra obedientia."
+},
+{
+"id": "2 Corinthians 10:7",
+"label": "2 Corinthians 10:7",
+"text": "Quæ secundum faciem sunt, videte. Si quis confidit sibi Christi se esse, hoc cogitet iterum apud se: quia sicut ipse Christi est, ita et nos."
+},
+{
+"id": "2 Corinthians 10:8",
+"label": "2 Corinthians 10:8",
+"text": "Nam etsi amplius aliquid gloriatus fuero de potestate nostra, quam dedit nobis Dominus in ædificationem, et non in destructionem vestram, non erubescam."
+},
+{
+"id": "2 Corinthians 10:9",
+"label": "2 Corinthians 10:9",
+"text": "Ut autem non existimer tamquam terrere vos per epistolas:"
+},
+{
+"id": "2 Corinthians 10:10",
+"label": "2 Corinthians 10:10",
+"text": "quoniam quidem epistolæ, inquiunt, graves sunt et fortes: præsentia autem corporis infirma, et sermo contemptibilis:"
+},
+{
+"id": "2 Corinthians 10:11",
+"label": "2 Corinthians 10:11",
+"text": "hoc cogitet qui ejusmodi est, quia quales sumus verbo per epistolas absentes, tales et præsentes in facto."
+},
+{
+"id": "2 Corinthians 10:12",
+"label": "2 Corinthians 10:12",
+"text": "Non enim audemus inserere, aut comparare nos quibusdam, qui seipsos commendant: sed ipsi in nobis nosmetipsos metientes, et comparantes nosmetipsos nobis."
+},
+{
+"id": "2 Corinthians 10:13",
+"label": "2 Corinthians 10:13",
+"text": "Nos autem non in immensum gloriabimur, sed secundum mensuram regulæ, qua mensus est nobis Deus, mensuram pertingendi usque ad vos."
+},
+{
+"id": "2 Corinthians 10:14",
+"label": "2 Corinthians 10:14",
+"text": "Non enim quasi non pertingentes ad vos, superextendimus nos: usque ad vos enim pervenimus in Evangelio Christi."
+},
+{
+"id": "2 Corinthians 10:15",
+"label": "2 Corinthians 10:15",
+"text": "Non in immensum gloriantes in alienis laboribus: spem autem habentes crescentis fidei vestræ, in vobis magnificari secundum regulam nostram in abundantiam,"
+},
+{
+"id": "2 Corinthians 10:16",
+"label": "2 Corinthians 10:16",
+"text": "etiam in illa, quæ ultra vos sunt, evangelizare, non in aliena regula in iis quæ præparata sunt gloriari."
+},
+{
+"id": "2 Corinthians 10:17",
+"label": "2 Corinthians 10:17",
+"text": "Qui autem gloriatur, in Domino glorietur."
+},
+{
+"id": "2 Corinthians 10:18",
+"label": "2 Corinthians 10:18",
+"text": "Non enim qui seipsum commendat, ille probatus est: sed quem Deus commendat."
+},
+{
+"id": "2 Corinthians 11:1",
+"label": "2 Corinthians 11:1",
+"text": "Utinam sustineretis modicum quid insipientiæ meæ, sed et supportare me:"
+},
+{
+"id": "2 Corinthians 11:2",
+"label": "2 Corinthians 11:2",
+"text": "æmulor enim vos Dei æmulatione. Despondi enim vos uni viro, virginem castam exhibere Christo."
+},
+{
+"id": "2 Corinthians 11:3",
+"label": "2 Corinthians 11:3",
+"text": "Timeo autem ne sicut serpens Hevam seduxit astutia sua, ita corrumpantur sensus vestri, et excidant a simplicitate, quæ est in Christo."
+},
+{
+"id": "2 Corinthians 11:4",
+"label": "2 Corinthians 11:4",
+"text": "Nam si is qui venit, alium Christum prædicat, quem non prædicavimus, aut alium spiritum accipitis, quem non accepistis: aut aliud Evangelium, quod non recepistis: recte pateremini."
+},
+{
+"id": "2 Corinthians 11:5",
+"label": "2 Corinthians 11:5",
+"text": "Existimo enim nihil me minus fecisse a magnis Apostolis."
+},
+{
+"id": "2 Corinthians 11:6",
+"label": "2 Corinthians 11:6",
+"text": "Nam etsi imperitus sermone, sed non scientia, in omnibus autem manifestati sumus vobis."
+},
+{
+"id": "2 Corinthians 11:7",
+"label": "2 Corinthians 11:7",
+"text": "Aut numquid peccatum feci, meipsum humilians, ut vos exaltemini? quoniam gratis Evangelium Dei evangelizavi vobis?"
+},
+{
+"id": "2 Corinthians 11:8",
+"label": "2 Corinthians 11:8",
+"text": "Alias ecclesias expoliavi, accipiens stipendium ad ministerium vestrum."
+},
+{
+"id": "2 Corinthians 11:9",
+"label": "2 Corinthians 11:9",
+"text": "Et cum essem apud vos, et egerem, nulli onerosus fui: nam quod mihi deerat, suppleverunt fratres, qui venerunt a Macedonia: et in omnibus sine onere me vobis servavi, et servabo."
+},
+{
+"id": "2 Corinthians 11:10",
+"label": "2 Corinthians 11:10",
+"text": "Est veritas Christi in me, quoniam hæc gloriatio non infringetur in me in regionibus Achaiæ."
+},
+{
+"id": "2 Corinthians 11:11",
+"label": "2 Corinthians 11:11",
+"text": "Quare? quia non diligo vos? Deus scit."
+},
+{
+"id": "2 Corinthians 11:12",
+"label": "2 Corinthians 11:12",
+"text": "Quod autem facio, et faciam: ut amputem occasionem eorum qui volunt occasionem, ut in quo gloriantur, inveniantur sicut et nos."
+},
+{
+"id": "2 Corinthians 11:13",
+"label": "2 Corinthians 11:13",
+"text": "Nam ejusmodi pseudoapostoli sunt operarii subdoli, transfigurantes se in apostolos Christi."
+},
+{
+"id": "2 Corinthians 11:14",
+"label": "2 Corinthians 11:14",
+"text": "Et non mirum: ipse enim Satanas transfigurat se in angelum lucis."
+},
+{
+"id": "2 Corinthians 11:15",
+"label": "2 Corinthians 11:15",
+"text": "Non est ergo magnum, si ministri ejus transfigurentur velut ministri justitiæ: quorum finis erit secundum opera ipsorum."
+},
+{
+"id": "2 Corinthians 11:16",
+"label": "2 Corinthians 11:16",
+"text": "Iterum dico (ne quis me putet insipientem esse, alioquin velut insipientem accipite me, ut et ego modicum quid glorier),"
+},
+{
+"id": "2 Corinthians 11:17",
+"label": "2 Corinthians 11:17",
+"text": "quod loquor, non loquor secundum Deum, sed quasi in insipientia, in hac substantia gloriæ."
+},
+{
+"id": "2 Corinthians 11:18",
+"label": "2 Corinthians 11:18",
+"text": "Quoniam multi gloriantur secundum carnem: et ego gloriabor."
+},
+{
+"id": "2 Corinthians 11:19",
+"label": "2 Corinthians 11:19",
+"text": "Libenter enim suffertis insipientes, cum sitis ipsi sapientes."
+},
+{
+"id": "2 Corinthians 11:20",
+"label": "2 Corinthians 11:20",
+"text": "Sustinetis enim si quis vos in servitutem redigit, si quis devorat, si quis accipit, si quis extollitur, si quis in faciem vos cædit."
+},
+{
+"id": "2 Corinthians 11:21",
+"label": "2 Corinthians 11:21",
+"text": "Secundum ignobilitatem dico, quasi nos infirmi fuerimus in hac parte. In quo quis audet (in insipientia dico) audeo et ego:"
+},
+{
+"id": "2 Corinthians 11:22",
+"label": "2 Corinthians 11:22",
+"text": "Hebræi sunt, et ego: Israëlitæ sunt, et ego: semen Abrahæ sunt, et ego."
+},
+{
+"id": "2 Corinthians 11:23",
+"label": "2 Corinthians 11:23",
+"text": "Ministri Christi sunt (ut minus sapiens dico), plus ego: in laboribus plurimis, in carceribus abundantius, in plagis supra modum, in mortibus frequenter."
+},
+{
+"id": "2 Corinthians 11:24",
+"label": "2 Corinthians 11:24",
+"text": "A Judæis quinquies, quadragenas, una minus, accepi."
+},
+{
+"id": "2 Corinthians 11:25",
+"label": "2 Corinthians 11:25",
+"text": "Ter virgis cæsus sum, semel lapidatus sum: ter naufragium feci, nocte et die in profundo maris fui,"
+},
+{
+"id": "2 Corinthians 11:26",
+"label": "2 Corinthians 11:26",
+"text": "in itineribus sæpe, periculis fluminum, periculis latronum, periculis ex genere, periculis ex gentibus, periculis in civitate, periculis in solitudine, periculis in mari, periculis in falsis fratribus:"
+},
+{
+"id": "2 Corinthians 11:27",
+"label": "2 Corinthians 11:27",
+"text": "in labore et ærumna, in vigiliis multis, in fame et siti, in jejuniis multis, in frigore et nuditate,"
+},
+{
+"id": "2 Corinthians 11:28",
+"label": "2 Corinthians 11:28",
+"text": "præter illa quæ extrinsecus sunt, instantia mea quotidiana, sollicitudo omnium ecclesiarum."
+},
+{
+"id": "2 Corinthians 11:29",
+"label": "2 Corinthians 11:29",
+"text": "Quis infirmatur, et ego non infirmor? quis scandalizatur, et ego non uror?"
+},
+{
+"id": "2 Corinthians 11:30",
+"label": "2 Corinthians 11:30",
+"text": "Si gloriari oportet, quæ infirmitatis meæ sunt, gloriabor."
+},
+{
+"id": "2 Corinthians 11:31",
+"label": "2 Corinthians 11:31",
+"text": "Deus et Pater Domini nostri Jesu Christi, qui est benedictus in sæcula, scit quod non mentior."
+},
+{
+"id": "2 Corinthians 11:32",
+"label": "2 Corinthians 11:32",
+"text": "Damasci præpositus gentis Aretæ regis custodiebat civitatem Damascenorum ut me comprehenderet:"
+},
+{
+"id": "2 Corinthians 11:33",
+"label": "2 Corinthians 11:33",
+"text": "et per fenestram in sporta dimissus sum per murum, et sic effugi manus ejus."
+},
+{
+"id": "2 Corinthians 12:1",
+"label": "2 Corinthians 12:1",
+"text": "Si gloriari oportet (non expedit quidem), veniam autem ad visiones et revelationes Domini."
+},
+{
+"id": "2 Corinthians 12:2",
+"label": "2 Corinthians 12:2",
+"text": "Scio hominem in Christo ante annos quatuordecim, sive in corpore nescio, sive extra corpus nescio, Deus scit, raptum hujusmodi usque ad tertium cælum."
+},
+{
+"id": "2 Corinthians 12:3",
+"label": "2 Corinthians 12:3",
+"text": "Et scio hujusmodi hominem sive in corpore, sive extra corpus nescio, Deus scit:"
+},
+{
+"id": "2 Corinthians 12:4",
+"label": "2 Corinthians 12:4",
+"text": "quoniam raptus est in paradisum: et audivit arcana verba, quæ non licet homini loqui."
+},
+{
+"id": "2 Corinthians 12:5",
+"label": "2 Corinthians 12:5",
+"text": "Pro hujusmodi gloriabor: pro me autem nihil gloriabor nisi in infirmitatibus meis."
+},
+{
+"id": "2 Corinthians 12:6",
+"label": "2 Corinthians 12:6",
+"text": "Nam etsi voluero gloriari, non ero insipiens: veritatem enim dicam: parco autem, ne quis me existimet supra id quod videt in me, aut aliquid audit ex me."
+},
+{
+"id": "2 Corinthians 12:7",
+"label": "2 Corinthians 12:7",
+"text": "Et ne magnitudo revelationum extollat me, datus est mihi stimulus carnis meæ angelus Satanæ, qui me colaphizet."
+},
+{
+"id": "2 Corinthians 12:8",
+"label": "2 Corinthians 12:8",
+"text": "Propter quod ter Dominum rogavi ut discederet a me:"
+},
+{
+"id": "2 Corinthians 12:9",
+"label": "2 Corinthians 12:9",
+"text": "et dixit mihi: Sufficit tibi gratia mea: nam virtus in infirmitate perficitur. Libenter igitur gloriabor in infirmitatibus meis, ut inhabitet in me virtus Christi."
+},
+{
+"id": "2 Corinthians 12:10",
+"label": "2 Corinthians 12:10",
+"text": "Propter quod placeo mihi in infirmitatibus meis, in contumeliis, in necessitatibus, in persecutionibus, in angustiis pro Christo: cum enim infirmor, tunc potens sum."
+},
+{
+"id": "2 Corinthians 12:11",
+"label": "2 Corinthians 12:11",
+"text": "Factus sum insipiens, vos me coëgistis. Ego enim a vobis debui commendari: nihil enim minus fui ab iis, qui sunt supra modum Apostoli: tametsi nihil sum:"
+},
+{
+"id": "2 Corinthians 12:12",
+"label": "2 Corinthians 12:12",
+"text": "signa tamen apostolatus mei facta sunt super vos in omni patientia, in signis, et prodigiis, et virtutibus."
+},
+{
+"id": "2 Corinthians 12:13",
+"label": "2 Corinthians 12:13",
+"text": "Quid est enim, quod minus habuistis præ ceteris ecclesiis, nisi quod ego ipse non gravavi vos? donate mihi hanc injuriam."
+},
+{
+"id": "2 Corinthians 12:14",
+"label": "2 Corinthians 12:14",
+"text": "Ecce tertio hoc paratus sum venire ad vos: et non ero gravis vobis. Non enim quæro quæ vestra sunt, sed vos. Nec enim debent filii parentibus thesaurizare, sed parentes filiis."
+},
+{
+"id": "2 Corinthians 12:15",
+"label": "2 Corinthians 12:15",
+"text": "Ego autem libentissime impendam, et super impendar ipse pro animabus vestris: licet plus vos diligens, minus diligar."
+},
+{
+"id": "2 Corinthians 12:16",
+"label": "2 Corinthians 12:16",
+"text": "Sed esto: ego vos non gravavi: sed cum essem astutus, dolo vos cepi."
+},
+{
+"id": "2 Corinthians 12:17",
+"label": "2 Corinthians 12:17",
+"text": "Numquid per aliquem eorum, quod misi ad vos, circumveni vos?"
+},
+{
+"id": "2 Corinthians 12:18",
+"label": "2 Corinthians 12:18",
+"text": "Rogavi Titum, et misi cum illo fratrem. Numquid Titus vos circumvenit? nonne eodem spiritu ambulavimus? nonne iisdem vestigiis?"
+},
+{
+"id": "2 Corinthians 12:19",
+"label": "2 Corinthians 12:19",
+"text": "Olim putatis quod excusemus nos apud vos? coram Deo in Christo loquimur: omnia autem, carissimi, propter ædificationem vestram."
+},
+{
+"id": "2 Corinthians 12:20",
+"label": "2 Corinthians 12:20",
+"text": "Timeo enim ne forte cum venero, non quales volo, inveniam vos: et ego inveniar a vobis, qualem non vultis: ne forte contentiones, æmulationes, animositates, dissensiones, detractiones, susurrationes, inflationes, seditiones sint inter vos:"
+},
+{
+"id": "2 Corinthians 12:21",
+"label": "2 Corinthians 12:21",
+"text": "ne iterum cum venero, humiliet me Deus apud vos, et lugeam multos ex iis qui ante peccaverunt, et non egerunt pœnitentiam super immunditia, et fornicatione, et impudicitia, quam gesserunt."
+},
+{
+"id": "2 Corinthians 13:1",
+"label": "2 Corinthians 13:1",
+"text": "Ecce tertio hoc venio ad vos: in ore duorum vel trium testium stabit omne verbum."
+},
+{
+"id": "2 Corinthians 13:2",
+"label": "2 Corinthians 13:2",
+"text": "Prædixi, et prædico, ut præsens, et nunc absens iis qui ante peccaverunt, et ceteris omnibus, quoniam si venero iterum, non parcam."
+},
+{
+"id": "2 Corinthians 13:3",
+"label": "2 Corinthians 13:3",
+"text": "An experimentum quæritis ejus, qui in me loquitur Christus, qui in vobis non infirmatur, sed potens est in vobis?"
+},
+{
+"id": "2 Corinthians 13:4",
+"label": "2 Corinthians 13:4",
+"text": "Nam etsi crucifixus est ex infirmitate: sed vivit ex virtute Dei. Nam et nos infirmi sumus in illo: sed vivemus cum eo ex virtute Dei in vobis."
+},
+{
+"id": "2 Corinthians 13:5",
+"label": "2 Corinthians 13:5",
+"text": "Vosmetipsos tentate si estis in fide: ipsi vos probate. An non cognoscitis vosmetipsos quia Christus Jesus in vobis est? nisi forte reprobi estis."
+},
+{
+"id": "2 Corinthians 13:6",
+"label": "2 Corinthians 13:6",
+"text": "Spero autem quod cognoscetis, quia nos non sumus reprobi."
+},
+{
+"id": "2 Corinthians 13:7",
+"label": "2 Corinthians 13:7",
+"text": "Oramus autem Deum ut nihil mali faciatis, non ut nos probati appareamus, sed ut vos quod bonum est faciatis: nos autem ut reprobi simus."
+},
+{
+"id": "2 Corinthians 13:8",
+"label": "2 Corinthians 13:8",
+"text": "Non enim possumus aliquid adversus veritatem, sed pro veritate."
+},
+{
+"id": "2 Corinthians 13:9",
+"label": "2 Corinthians 13:9",
+"text": "Gaudemus enim, quoniam nos infirmi sumus, vos autem potentes estis. Hoc et oramus, vestram consummationem."
+},
+{
+"id": "2 Corinthians 13:10",
+"label": "2 Corinthians 13:10",
+"text": "Ideo hæc absens scribo, ut non præsens durius agam secundum potestatem, quam Dominus dedit mihi in ædificationem, et non in destructionem."
+},
+{
+"id": "2 Corinthians 13:11",
+"label": "2 Corinthians 13:11",
+"text": "De cetero, fratres, gaudete, perfecti estote, exhortamini, idem sapite, pacem habete, et Deus pacis et dilectionis erit vobiscum."
+},
+{
+"id": "2 Corinthians 13:12",
+"label": "2 Corinthians 13:12",
+"text": "Salutate invicem in osculo sancto. Salutant vos omnes sancti."
+},
+{
+"id": "2 Corinthians 13:13",
+"label": "2 Corinthians 13:13",
+"text": "Gratia Domini nostri Jesu Christi, et caritas Dei, et communicatio Sancti Spiritus sit cum omnibus vobis. Amen."
+}
+]
+}

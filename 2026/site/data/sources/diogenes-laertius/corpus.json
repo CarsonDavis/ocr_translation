@@ -1,0 +1,24 @@
+{
+ "id": "diogenes-laertius",
+ "title": "Diogenes Laertius, Vitae philosophorum",
+ "language": "grc",
+ "edition": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων — Perseus Digital Library TEI (tlg0004.tlg001.perseus-grc2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-greekLit TEI tlg0004.tlg001.perseus-grc2",
+ "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0004.tlg001.perseus-grc2/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.section (the chapter is given in the label)",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-grc2.xml"
+}

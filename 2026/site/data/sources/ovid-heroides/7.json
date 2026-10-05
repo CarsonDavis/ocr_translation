@@ -1,0 +1,987 @@
+{
+"corpus": "ovid-heroides",
+"unit": "7",
+"title": "Ovid, Heroides (Epistulae), Her. 7",
+"passages": [
+{
+"id": "7.1",
+"label": "Ov. Her. 7.1",
+"text": "Sic ubi fata vocant, udis abiectus in herbis"
+},
+{
+"id": "7.2",
+"label": "Ov. Her. 7.2",
+"text": "Ad vada Maeandri concinit albus olor."
+},
+{
+"id": "7.3",
+"label": "Ov. Her. 7.3",
+"text": "Nec quia te nostra sperem prece posse moveri,"
+},
+{
+"id": "7.4",
+"label": "Ov. Her. 7.4",
+"text": "Adloquor — adverso movimus ista deo;"
+},
+{
+"id": "7.5",
+"label": "Ov. Her. 7.5",
+"text": "Sed merita et famam corpusque animumque pudicum"
+},
+{
+"id": "7.6",
+"label": "Ov. Her. 7.6",
+"text": "Cum male perdiderim, perdere verba leve est."
+},
+{
+"id": "7.7",
+"label": "Ov. Her. 7.7",
+"text": "Certus es ire tamen miseramque relinquere Dido,"
+},
+{
+"id": "7.8",
+"label": "Ov. Her. 7.8",
+"text": "Atque idem venti vela fidemque ferent?"
+},
+{
+"id": "7.9",
+"label": "Ov. Her. 7.9",
+"text": "Certus es, Aenea, cum foedere solvere naves,"
+},
+{
+"id": "7.10",
+"label": "Ov. Her. 7.10",
+"text": "Quaeque ubi sint nescis, Itala regna sequi?"
+},
+{
+"id": "7.11",
+"label": "Ov. Her. 7.11",
+"text": "Nec nova Carthago, nec te crescentia tangunt"
+},
+{
+"id": "7.12",
+"label": "Ov. Her. 7.12",
+"text": "Moenia nec sceptro tradita summa tuo?"
+},
+{
+"id": "7.13",
+"label": "Ov. Her. 7.13",
+"text": "Facta fugis, facienda petis; quaerenda per orbem"
+},
+{
+"id": "7.14",
+"label": "Ov. Her. 7.14",
+"text": "Altera, quaesita est altera terra tibi."
+},
+{
+"id": "7.15",
+"label": "Ov. Her. 7.15",
+"text": "Ut terram invenias, quis eam tibi tradet habendam?"
+},
+{
+"id": "7.16",
+"label": "Ov. Her. 7.16",
+"text": "Quis sua non notis arva tenenda dabit?"
+},
+{
+"id": "7.17",
+"label": "Ov. Her. 7.17",
+"text": "Scilicet alter amor tibi restat et altera Dido;"
+},
+{
+"id": "7.18",
+"label": "Ov. Her. 7.18",
+"text": "Quamque iterum fallas altera danda fides."
+},
+{
+"id": "7.19",
+"label": "Ov. Her. 7.19",
+"text": "Quando erit, ut condas instar Carthaginis urbem"
+},
+{
+"id": "7.20",
+"label": "Ov. Her. 7.20",
+"text": "Et videas populos altus ab arce tuos?"
+},
+{
+"id": "7.21",
+"label": "Ov. Her. 7.21",
+"text": "Omnia ut eveniant, nec te tua vota morentur,"
+},
+{
+"id": "7.22",
+"label": "Ov. Her. 7.22",
+"text": "Unde tibi, quae te sic amet, uxor erit?"
+},
+{
+"id": "7.23",
+"label": "Ov. Her. 7.23",
+"text": "Uror, ut inducto ceratae sulpure taedae,"
+},
+{
+"id": "7.24",
+"label": "Ov. Her. 7.24",
+"text": "Ut pia fumosis addita tura focis."
+},
+{
+"id": "7.25",
+"label": "Ov. Her. 7.25",
+"text": "Aeneas oculis semper vigilantis inhaeret;"
+},
+{
+"id": "7.26",
+"label": "Ov. Her. 7.26",
+"text": "Aenean animo noxque quiesque refert."
+},
+{
+"id": "7.27",
+"label": "Ov. Her. 7.27",
+"text": "Ille quidem male gratus et ad mea munera surdus,"
+},
+{
+"id": "7.28",
+"label": "Ov. Her. 7.28",
+"text": "Et quo, si non sim stulta, carere velim;"
+},
+{
+"id": "7.29",
+"label": "Ov. Her. 7.29",
+"text": "Non tamen Aenean, quamvis male cogitat, odi,"
+},
+{
+"id": "7.30",
+"label": "Ov. Her. 7.30",
+"text": "Sed queror infidum questaque peius amo."
+},
+{
+"id": "7.31",
+"label": "Ov. Her. 7.31",
+"text": "Parce, Venus, nurui, durumque amplectere fratrem,"
+},
+{
+"id": "7.32",
+"label": "Ov. Her. 7.32",
+"text": "Frater Amor, castris militet ille tuis!"
+},
+{
+"id": "7.33",
+"label": "Ov. Her. 7.33",
+"text": "Aut ego, quae coepi, (neque enim dedignor) amorem,"
+},
+{
+"id": "7.34",
+"label": "Ov. Her. 7.34",
+"text": "Materiam curae praebeat ille meae!"
+},
+{
+"id": "7.35",
+"label": "Ov. Her. 7.35",
+"text": "Fallor, et ista mihi falso iactatur imago;"
+},
+{
+"id": "7.36",
+"label": "Ov. Her. 7.36",
+"text": "Matris ab ingenio dissidet ille suae."
+},
+{
+"id": "7.37",
+"label": "Ov. Her. 7.37",
+"text": "Te lapis et montes innataque rupibus altis"
+},
+{
+"id": "7.38",
+"label": "Ov. Her. 7.38",
+"text": "Robora, te saevae progenuere ferae,"
+},
+{
+"id": "7.39",
+"label": "Ov. Her. 7.39",
+"text": "Aut mare, quale vides agitari nunc quoque ventis,"
+},
+{
+"id": "7.40",
+"label": "Ov. Her. 7.40",
+"text": "Qua tamen adversis fluctibus ire paras."
+},
+{
+"id": "7.41",
+"label": "Ov. Her. 7.41",
+"text": "Quo fugis? obstat hiemps. hiemis mihi gratia prosit!"
+},
+{
+"id": "7.42",
+"label": "Ov. Her. 7.42",
+"text": "Adspice, ut eversas concitet Eurus aquas!"
+},
+{
+"id": "7.43",
+"label": "Ov. Her. 7.43",
+"text": "Quod tibi malueram, sine me debere procellis;"
+},
+{
+"id": "7.44",
+"label": "Ov. Her. 7.44",
+"text": "Iustior est animo ventus et unda tuo."
+},
+{
+"id": "7.45",
+"label": "Ov. Her. 7.45",
+"text": "Non ego sum tanti — quid non censeris inique? —"
+},
+{
+"id": "7.46",
+"label": "Ov. Her. 7.46",
+"text": "Ut pereas, dum me per freta longa fugis."
+},
+{
+"id": "7.47",
+"label": "Ov. Her. 7.47",
+"text": "Exerces pretiosa odia et constantia magno,"
+},
+{
+"id": "7.48",
+"label": "Ov. Her. 7.48",
+"text": "Si, dum me careas, est tibi vile mori."
+},
+{
+"id": "7.49",
+"label": "Ov. Her. 7.49",
+"text": "Iam venti ponent, strataque aequaliter unda"
+},
+{
+"id": "7.50",
+"label": "Ov. Her. 7.50",
+"text": "Caeruleis Triton per mare curret equis."
+},
+{
+"id": "7.51",
+"label": "Ov. Her. 7.51",
+"text": "Tu quoque cum ventis utinam mutabilis esses!"
+},
+{
+"id": "7.52",
+"label": "Ov. Her. 7.52",
+"text": "Et, nisi duritia robora vincis, eris."
+},
+{
+"id": "7.53",
+"label": "Ov. Her. 7.53",
+"text": "Quid, quasi nescires, insana quid aequora possint,"
+},
+{
+"id": "7.54",
+"label": "Ov. Her. 7.54",
+"text": "Expertae totiens tam male credis aquae?"
+},
+{
+"id": "7.55",
+"label": "Ov. Her. 7.55",
+"text": "Ut, pelago suadente viam, retinacula solvas,"
+},
+{
+"id": "7.56",
+"label": "Ov. Her. 7.56",
+"text": "Multa tamen latus tristia pontus habet."
+},
+{
+"id": "7.57",
+"label": "Ov. Her. 7.57",
+"text": "Nec violasse fidem temptantibus aequora prodest;"
+},
+{
+"id": "7.58",
+"label": "Ov. Her. 7.58",
+"text": "Perfidiae poenas exigit ille locus,"
+},
+{
+"id": "7.59",
+"label": "Ov. Her. 7.59",
+"text": "Praecipue cum laesus amor, quia mater Amorum"
+},
+{
+"id": "7.60",
+"label": "Ov. Her. 7.60",
+"text": "Nuda Cytheriacis edita fertur aquis."
+},
+{
+"id": "7.61",
+"label": "Ov. Her. 7.61",
+"text": "Perdita ne perdam, timeo, noceamve nocenti,"
+},
+{
+"id": "7.62",
+"label": "Ov. Her. 7.62",
+"text": "Neu bibat aequoreas naufragus hostis aquas."
+},
+{
+"id": "7.63",
+"label": "Ov. Her. 7.63",
+"text": "Vive, precor! sic te melius quam funere perdam."
+},
+{
+"id": "7.64",
+"label": "Ov. Her. 7.64",
+"text": "Tu potius leti causa ferere mei."
+},
+{
+"id": "7.65",
+"label": "Ov. Her. 7.65",
+"text": "Finge, age, te rapido — nullum sit in omine pondus! —"
+},
+{
+"id": "7.66",
+"label": "Ov. Her. 7.66",
+"text": "Turbine deprendi; quid tibi mentis erit?"
+},
+{
+"id": "7.67",
+"label": "Ov. Her. 7.67",
+"text": "Protinus occurrent falsae periuria linguae,"
+},
+{
+"id": "7.68",
+"label": "Ov. Her. 7.68",
+"text": "Et Phrygia Dido fraude coacta mori;"
+},
+{
+"id": "7.69",
+"label": "Ov. Her. 7.69",
+"text": "Coniugis ante oculos deceptae stabit imago"
+},
+{
+"id": "7.70",
+"label": "Ov. Her. 7.70",
+"text": "Tristis et effusis sanguinolenta comis."
+},
+{
+"id": "7.71",
+"label": "Ov. Her. 7.71",
+"text": "Quid tanti est ut tum 'merui! concedite!' dicas,"
+},
+{
+"id": "7.72",
+"label": "Ov. Her. 7.72",
+"text": "Quaeque cadent, in te fulmina missa putes?"
+},
+{
+"id": "7.73",
+"label": "Ov. Her. 7.73",
+"text": "Da breve saevitiae spatium pelagique tuaeque;"
+},
+{
+"id": "7.74",
+"label": "Ov. Her. 7.74",
+"text": "Grande morae pretium tuta futura via est."
+},
+{
+"id": "7.75",
+"label": "Ov. Her. 7.75",
+"text": "Haec minus ut cures, puero parcatur Iulo!"
+},
+{
+"id": "7.76",
+"label": "Ov. Her. 7.76",
+"text": "Te satis est titulum mortis habere meae."
+},
+{
+"id": "7.77",
+"label": "Ov. Her. 7.77",
+"text": "Quid puer Ascanius, quid di meruere Penates?"
+},
+{
+"id": "7.78",
+"label": "Ov. Her. 7.78",
+"text": "Ignibus ereptos obruet unda deos?"
+},
+{
+"id": "7.79",
+"label": "Ov. Her. 7.79",
+"text": "Sed neque fers tecum, nec, quae mihi, perfide, iactas,"
+},
+{
+"id": "7.80",
+"label": "Ov. Her. 7.80",
+"text": "Presserunt umeros sacra paterque tuos."
+},
+{
+"id": "7.81",
+"label": "Ov. Her. 7.81",
+"text": "Omnia mentiris, neque enim tua fallere lingua"
+},
+{
+"id": "7.82",
+"label": "Ov. Her. 7.82",
+"text": "Incipit a nobis, primaque plector ego."
+},
+{
+"id": "7.83",
+"label": "Ov. Her. 7.83",
+"text": "Si quaeras, ubi sit formosi mater Iuli —"
+},
+{
+"id": "7.84",
+"label": "Ov. Her. 7.84",
+"text": "Occidit a duro sola relicta viro!"
+},
+{
+"id": "7.85",
+"label": "Ov. Her. 7.85",
+"text": "Haec mihi narraras — sat me monuere! merentem"
+},
+{
+"id": "7.86",
+"label": "Ov. Her. 7.86",
+"text": "Ure; minor culpa poena futura mea est."
+},
+{
+"id": "7.87",
+"label": "Ov. Her. 7.87",
+"text": "Nec mihi mens dubia est, quin te tua numina damnent."
+},
+{
+"id": "7.88",
+"label": "Ov. Her. 7.88",
+"text": "Per mare, per terras septima iactat hiemps."
+},
+{
+"id": "7.89",
+"label": "Ov. Her. 7.89",
+"text": "Fluctibus eiectum tuta statione recepi"
+},
+{
+"id": "7.90",
+"label": "Ov. Her. 7.90",
+"text": "Vixque bene audito nomine regna dedi."
+},
+{
+"id": "7.91",
+"label": "Ov. Her. 7.91",
+"text": "His tamen officiis utinam contenta fuissem,"
+},
+{
+"id": "7.92",
+"label": "Ov. Her. 7.92",
+"text": "Et mihi concubitus fama sepulta foret!"
+},
+{
+"id": "7.93",
+"label": "Ov. Her. 7.93",
+"text": "Illa dies nocuit, qua nos declive sub antrum"
+},
+{
+"id": "7.94",
+"label": "Ov. Her. 7.94",
+"text": "Caeruleus subitis conpulit imber aquis."
+},
+{
+"id": "7.95",
+"label": "Ov. Her. 7.95",
+"text": "Audieram vocem; nymphas ululasse putavi —"
+},
+{
+"id": "7.96",
+"label": "Ov. Her. 7.96",
+"text": "Eumenides fati signa dedere mei!"
+},
+{
+"id": "7.97",
+"label": "Ov. Her. 7.97",
+"text": "Exige, laese pudor, poenas! violate Sychaei"
+},
+{
+"id": "7.98",
+"label": "Ov. Her. 7.98",
+"text": "Ad quas, me miseram, plena pudoris eo."
+},
+{
+"id": "7.99",
+"label": "Ov. Her. 7.99",
+"text": "Est mihi marmorea sacratus in aede Sychaeus"
+},
+{
+"id": "7.100",
+"label": "Ov. Her. 7.100",
+"text": "(Oppositae frondes velleraque alba tegunt)."
+},
+{
+"id": "7.101",
+"label": "Ov. Her. 7.101",
+"text": "Hinc ego me sensi noto quater ore citari;"
+},
+{
+"id": "7.102",
+"label": "Ov. Her. 7.102",
+"text": "Ipse sono tenui dixit 'Elissa, veni!'"
+},
+{
+"id": "7.103",
+"label": "Ov. Her. 7.103",
+"text": "Nulla mora est, venio, venio tibi debita coniunx;"
+},
+{
+"id": "7.104",
+"label": "Ov. Her. 7.104",
+"text": "Sum tamen admissi tarda pudore mei."
+},
+{
+"id": "7.105",
+"label": "Ov. Her. 7.105",
+"text": "Da veniam culpae! decepit idoneus auctor;"
+},
+{
+"id": "7.106",
+"label": "Ov. Her. 7.106",
+"text": "Invidiam noxae detrahit ille meae."
+},
+{
+"id": "7.107",
+"label": "Ov. Her. 7.107",
+"text": "Diva parens seniorque pater, pia sarcina nati,"
+},
+{
+"id": "7.108",
+"label": "Ov. Her. 7.108",
+"text": "Spem mihi mansuri rite dedere viri."
+},
+{
+"id": "7.109",
+"label": "Ov. Her. 7.109",
+"text": "Si fuit errandum, causas habet error honestas;"
+},
+{
+"id": "7.110",
+"label": "Ov. Her. 7.110",
+"text": "Adde fidem, nulla parte pigendus erit."
+},
+{
+"id": "7.111",
+"label": "Ov. Her. 7.111",
+"text": "Durat in extremum vitaeque novissima nostrae"
+},
+{
+"id": "7.112",
+"label": "Ov. Her. 7.112",
+"text": "Prosequitur fati, qui fuit ante, tenor."
+},
+{
+"id": "7.113",
+"label": "Ov. Her. 7.113",
+"text": "Occidit internas coniunx mactatus ad aras,"
+},
+{
+"id": "7.114",
+"label": "Ov. Her. 7.114",
+"text": "Et sceleris tanti praemia frater habet;"
+},
+{
+"id": "7.115",
+"label": "Ov. Her. 7.115",
+"text": "Exul agor cineresque viri patriamque relinquo,"
+},
+{
+"id": "7.116",
+"label": "Ov. Her. 7.116",
+"text": "Et feror in dubias hoste sequente vias."
+},
+{
+"id": "7.117",
+"label": "Ov. Her. 7.117",
+"text": "Adplicor his oris fratrique elapsa fretoque"
+},
+{
+"id": "7.118",
+"label": "Ov. Her. 7.118",
+"text": "Quod tibi donavi, perfide, litus emo."
+},
+{
+"id": "7.119",
+"label": "Ov. Her. 7.119",
+"text": "Urbem constitui lateque patentia fixi"
+},
+{
+"id": "7.120",
+"label": "Ov. Her. 7.120",
+"text": "Moenia finitimis invidiosa locis."
+},
+{
+"id": "7.121",
+"label": "Ov. Her. 7.121",
+"text": "Bella tument; bellis peregrina et femina temptor,"
+},
+{
+"id": "7.122",
+"label": "Ov. Her. 7.122",
+"text": "Vixque rudis portas urbis et arma paro."
+},
+{
+"id": "7.123",
+"label": "Ov. Her. 7.123",
+"text": "Mille procis placui, qui me coiere querentes"
+},
+{
+"id": "7.124",
+"label": "Ov. Her. 7.124",
+"text": "Nescio quem thalamis praeposuisse suis."
+},
+{
+"id": "7.125",
+"label": "Ov. Her. 7.125",
+"text": "Quid dubitas vinctam Gaetulo tradere Iarbae?"
+},
+{
+"id": "7.126",
+"label": "Ov. Her. 7.126",
+"text": "Praebuerim sceleri bracchia nostra tuo."
+},
+{
+"id": "7.127",
+"label": "Ov. Her. 7.127",
+"text": "Est etiam frater, cuius manus inpia poscit"
+},
+{
+"id": "7.128",
+"label": "Ov. Her. 7.128",
+"text": "Respergi nostro, sparsa cruore viri."
+},
+{
+"id": "7.129",
+"label": "Ov. Her. 7.129",
+"text": "Pone deos et quae tangendo sacra profanas!"
+},
+{
+"id": "7.130",
+"label": "Ov. Her. 7.130",
+"text": "Non bene caelestis inpia dextra colit."
+},
+{
+"id": "7.131",
+"label": "Ov. Her. 7.131",
+"text": "Si tu cultor eras elapsis igne futurus,"
+},
+{
+"id": "7.132",
+"label": "Ov. Her. 7.132",
+"text": "Paenitet elapsos ignibus esse deos."
+},
+{
+"id": "7.133",
+"label": "Ov. Her. 7.133",
+"text": "Forsitan et gravidam Dido, scelerate, relinquas,"
+},
+{
+"id": "7.134",
+"label": "Ov. Her. 7.134",
+"text": "Parsque tui lateat corpore clausa meo."
+},
+{
+"id": "7.135",
+"label": "Ov. Her. 7.135",
+"text": "Accedet fatis matris miserabilis infans,"
+},
+{
+"id": "7.136",
+"label": "Ov. Her. 7.136",
+"text": "Et nondum nato funeris auctor eris,"
+},
+{
+"id": "7.137",
+"label": "Ov. Her. 7.137",
+"text": "Cumque parente sua frater morietur Iuli,"
+},
+{
+"id": "7.138",
+"label": "Ov. Her. 7.138",
+"text": "Poenaque conexos auferet una duos."
+},
+{
+"id": "7.139",
+"label": "Ov. Her. 7.139",
+"text": "'Sed iubet ire deus.' vellem, vetuisset adire,"
+},
+{
+"id": "7.140",
+"label": "Ov. Her. 7.140",
+"text": "Punica nec Teucris pressa fuisset humus!"
+},
+{
+"id": "7.141",
+"label": "Ov. Her. 7.141",
+"text": "Hoc duce nempe deo ventis agitaris iniquis"
+},
+{
+"id": "7.142",
+"label": "Ov. Her. 7.142",
+"text": "Et teris in rabido tempora longa freto?"
+},
+{
+"id": "7.143",
+"label": "Ov. Her. 7.143",
+"text": "Pergama vix tanto tibi erant repetenda labore,"
+},
+{
+"id": "7.144",
+"label": "Ov. Her. 7.144",
+"text": "Hectore si vivo quanta fuere forent."
+},
+{
+"id": "7.145",
+"label": "Ov. Her. 7.145",
+"text": "Non patrium Simoenta petis, sed Thybridis undas —"
+},
+{
+"id": "7.146",
+"label": "Ov. Her. 7.146",
+"text": "Nempe ut pervenias, quo cupis, hospes eris;"
+},
+{
+"id": "7.147",
+"label": "Ov. Her. 7.147",
+"text": "Utque latet vitatque tuas abstrusa carinas,"
+},
+{
+"id": "7.148",
+"label": "Ov. Her. 7.148",
+"text": "Vix tibi continget terra petita seni."
+},
+{
+"id": "7.149",
+"label": "Ov. Her. 7.149",
+"text": "Hos potius populos in dotem, ambage remissa,"
+},
+{
+"id": "7.150",
+"label": "Ov. Her. 7.150",
+"text": "Accipe et advectas Pygmalionis opes."
+},
+{
+"id": "7.151",
+"label": "Ov. Her. 7.151",
+"text": "Ilion in Tyriam transfer felicius urbem"
+},
+{
+"id": "7.152",
+"label": "Ov. Her. 7.152",
+"text": "Resque loco regis sceptraque sacra tene!"
+},
+{
+"id": "7.153",
+"label": "Ov. Her. 7.153",
+"text": "Si tibi mens avida est belli, si quaerit Iulus,"
+},
+{
+"id": "7.154",
+"label": "Ov. Her. 7.154",
+"text": "Unde suo partus Marte triumphus eat,"
+},
+{
+"id": "7.155",
+"label": "Ov. Her. 7.155",
+"text": "Quem superet, nequid desit, praebebimus hostem;"
+},
+{
+"id": "7.156",
+"label": "Ov. Her. 7.156",
+"text": "Hic pacis leges, hic locus arma capit."
+},
+{
+"id": "7.157",
+"label": "Ov. Her. 7.157",
+"text": "Tu modo, per matrem fraternaque tela, sagittas,"
+},
+{
+"id": "7.158",
+"label": "Ov. Her. 7.158",
+"text": "Perque fugae comites, Dardana sacra, deos —"
+},
+{
+"id": "7.159",
+"label": "Ov. Her. 7.159",
+"text": "Sic superent, quoscumque tua de gente reportat"
+},
+{
+"id": "7.160",
+"label": "Ov. Her. 7.160",
+"text": "Mars ferus, et damni sit modus ille tui,"
+},
+{
+"id": "7.161",
+"label": "Ov. Her. 7.161",
+"text": "Ascaniusque suos feliciter inpleat annos,"
+},
+{
+"id": "7.162",
+"label": "Ov. Her. 7.162",
+"text": "Et senis Anchisae molliter ossa cubent! —"
+},
+{
+"id": "7.163",
+"label": "Ov. Her. 7.163",
+"text": "Parce, precor, domui, quae se tibi tradit habendam!"
+},
+{
+"id": "7.164",
+"label": "Ov. Her. 7.164",
+"text": "Quod crimen dicis praeter amasse meum?"
+},
+{
+"id": "7.165",
+"label": "Ov. Her. 7.165",
+"text": "Non ego sum Pthias magnisque oriunda Mycenis,"
+},
+{
+"id": "7.166",
+"label": "Ov. Her. 7.166",
+"text": "Nec steterunt in te virque paterque meus."
+},
+{
+"id": "7.167",
+"label": "Ov. Her. 7.167",
+"text": "Si pudet uxoris, non nupta, sed hospita dicar;"
+},
+{
+"id": "7.168",
+"label": "Ov. Her. 7.168",
+"text": "Dum tua sit, Dido quidlibet esse feret."
+},
+{
+"id": "7.169",
+"label": "Ov. Her. 7.169",
+"text": "Nota mihi freta sunt Afrum plangentia litus;"
+},
+{
+"id": "7.170",
+"label": "Ov. Her. 7.170",
+"text": "Temporibus certis dantque negantque viam."
+},
+{
+"id": "7.171",
+"label": "Ov. Her. 7.171",
+"text": "Cum dabit aura viam, praebebis carbasa ventis;"
+},
+{
+"id": "7.172",
+"label": "Ov. Her. 7.172",
+"text": "Nunc levis eiectam continet alga ratem."
+},
+{
+"id": "7.173",
+"label": "Ov. Her. 7.173",
+"text": "Tempus ut observem, manda mihi; certius ibis,"
+},
+{
+"id": "7.174",
+"label": "Ov. Her. 7.174",
+"text": "Nec te, si cupies, ipsa manere sinam."
+},
+{
+"id": "7.175",
+"label": "Ov. Her. 7.175",
+"text": "Et socii requiem poscunt, laniataque classis"
+},
+{
+"id": "7.176",
+"label": "Ov. Her. 7.176",
+"text": "Postulat exiguas semirefecta moras;"
+},
+{
+"id": "7.177",
+"label": "Ov. Her. 7.177",
+"text": "Pro meritis et siqua tibi debebimus ultra,"
+},
+{
+"id": "7.178",
+"label": "Ov. Her. 7.178",
+"text": "Pro spe coniugii tempora parva peto —"
+},
+{
+"id": "7.179",
+"label": "Ov. Her. 7.179",
+"text": "Dum freta mitescunt et amor, dum tempore et usu"
+},
+{
+"id": "7.180",
+"label": "Ov. Her. 7.180",
+"text": "Fortiter edisco tristia posse pati."
+},
+{
+"id": "7.181",
+"label": "Ov. Her. 7.181",
+"text": "Si minus, est animus nobis effundere vitam;"
+},
+{
+"id": "7.182",
+"label": "Ov. Her. 7.182",
+"text": "In me crudelis non potes esse diu."
+},
+{
+"id": "7.183",
+"label": "Ov. Her. 7.183",
+"text": "Adspicias utinam, quae sit scribentis imago!"
+},
+{
+"id": "7.184",
+"label": "Ov. Her. 7.184",
+"text": "Scribimus, et gremio Troicus ensis adest,"
+},
+{
+"id": "7.185",
+"label": "Ov. Her. 7.185",
+"text": "Perque genas lacrimae strictum labuntur in ensem,"
+},
+{
+"id": "7.186",
+"label": "Ov. Her. 7.186",
+"text": "Qui iam pro lacrimis sanguine tinctus erit."
+},
+{
+"id": "7.187",
+"label": "Ov. Her. 7.187",
+"text": "Quam bene conveniunt fato tua munera nostro!"
+},
+{
+"id": "7.188",
+"label": "Ov. Her. 7.188",
+"text": "Instruis inpensa nostra sepulcra brevi."
+},
+{
+"id": "7.189",
+"label": "Ov. Her. 7.189",
+"text": "Nec mea nunc primum feriuntur pectora telo;"
+},
+{
+"id": "7.190",
+"label": "Ov. Her. 7.190",
+"text": "Ille locus saevi vulnus amoris habet."
+},
+{
+"id": "7.191",
+"label": "Ov. Her. 7.191",
+"text": "Anna soror, soror Anna, meae male conscia culpae,"
+},
+{
+"id": "7.192",
+"label": "Ov. Her. 7.192",
+"text": "Iam dabis in cineres ultima dona meos."
+},
+{
+"id": "7.193",
+"label": "Ov. Her. 7.193",
+"text": "Nec consumpta rogis inscribar Elissa Sychaei,"
+},
+{
+"id": "7.194",
+"label": "Ov. Her. 7.194",
+"text": "Hoc tantum in tumuli marmore carmen erit:"
+},
+{
+"id": "7.195",
+"label": "Ov. Her. 7.195",
+"text": "Praebuit Aeneas et causam mortis et ensem;"
+},
+{
+"id": "7.196",
+"label": "Ov. Her. 7.196",
+"text": "Ipsa sua Dido concidit usa manu."
+}
+]
+}

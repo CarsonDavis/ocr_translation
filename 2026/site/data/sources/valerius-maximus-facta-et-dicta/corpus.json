@@ -1,0 +1,24 @@
+{
+ "id": "valerius-maximus-facta-et-dicta",
+ "title": "Valerius Maximus, Facta et dicta memorabilia",
+ "language": "la",
+ "edition": "Facta et Dicta Memorabilia — Perseus Digital Library TEI (phi1038.phi001.perseus-lat1)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-latinLit TEI phi1038.phi001.perseus-lat1",
+ "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1038.phi001.perseus-lat1/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.chapter.section",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9"
+ ],
+ "passage_note": "Perseus's external-example chapters ('9.15e') are written '9.15.ext.N'",
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1038/phi001/phi1038.phi001.perseus-lat1.xml"
+}

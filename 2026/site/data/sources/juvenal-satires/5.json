@@ -1,0 +1,867 @@
+{
+"corpus": "juvenal-satires",
+"unit": "5",
+"title": "Juvenal, Satires, 5",
+"passages": [
+{
+"id": "5.1",
+"label": "Juv. 5.1",
+"text": "Si te propositi nondum pudet atque eadem est mens,"
+},
+{
+"id": "5.2",
+"label": "Juv. 5.2",
+"text": "ut bona summa putes aliena vivere quadra;"
+},
+{
+"id": "5.3",
+"label": "Juv. 5.3",
+"text": "si potes illa pati quae nec Sarmentus iniquas"
+},
+{
+"id": "5.4",
+"label": "Juv. 5.4",
+"text": "Caesaris ad mensas nec vilis Gabba tulisset,"
+},
+{
+"id": "5.5",
+"label": "Juv. 5.5",
+"text": "quamvis iurato metuam tibi credere testi."
+},
+{
+"id": "5.6",
+"label": "Juv. 5.6",
+"text": "ventre nihil novi frugalius; hoc tamen ipsum"
+},
+{
+"id": "5.7",
+"label": "Juv. 5.7",
+"text": "defecisse puta, quod inani sufficit alvo:"
+},
+{
+"id": "5.8",
+"label": "Juv. 5.8",
+"text": "nulla crepido vacat? nusquam pons et tegetis pars"
+},
+{
+"id": "5.9",
+"label": "Juv. 5.9",
+"text": "dimidia brevior? tantine iniuria cenae,"
+},
+{
+"id": "5.10",
+"label": "Juv. 5.10",
+"text": "tam ieiuna fames, cum possit honestius illic"
+},
+{
+"id": "5.11",
+"label": "Juv. 5.11",
+"text": "et tremere et sordes farris mordere canini?"
+},
+{
+"id": "5.12",
+"label": "Juv. 5.12",
+"text": "Primo fige loco, quod tu discumbere iussus"
+},
+{
+"id": "5.13",
+"label": "Juv. 5.13",
+"text": "mercedem solidam veterum capis officiorum,"
+},
+{
+"id": "5.14",
+"label": "Juv. 5.14",
+"text": "fructus amicitiae magnae cibus; inputat hunc rex,"
+},
+{
+"id": "5.15",
+"label": "Juv. 5.15",
+"text": "et quamvis rarum tamen inputat. ergo duos post"
+},
+{
+"id": "5.16",
+"label": "Juv. 5.16",
+"text": "si libuit menses neglectum adhibere clientem,"
+},
+{
+"id": "5.17",
+"label": "Juv. 5.17",
+"text": "tertia ne vacuo cessaret culcita lecto,"
+},
+{
+"id": "5.18",
+"label": "Juv. 5.18",
+"text": "una simus, ait. votorum summa! quid ultra"
+},
+{
+"id": "5.19",
+"label": "Juv. 5.19",
+"text": "quaeris? habet Trebius propter quod rumpere somnum"
+},
+{
+"id": "5.20",
+"label": "Juv. 5.20",
+"text": "debeat et ligulas dimittere, sollicitus ne"
+},
+{
+"id": "5.21",
+"label": "Juv. 5.21",
+"text": "tota salutatrix iam turba peregerit orbem,"
+},
+{
+"id": "5.22",
+"label": "Juv. 5.22",
+"text": "sideribus dubiis aut illo tempore quo se"
+},
+{
+"id": "5.23",
+"label": "Juv. 5.23",
+"text": "frigida circumagunt pigri serraca Bootae."
+},
+{
+"id": "5.24",
+"label": "Juv. 5.24",
+"text": "Qualis cena tamen! vinum quod sucida nolit"
+},
+{
+"id": "5.25",
+"label": "Juv. 5.25",
+"text": "lana pati: de conviva Corybanta videbis."
+},
+{
+"id": "5.26",
+"label": "Juv. 5.26",
+"text": "iurgia proludunt, sed mox et pocula torques"
+},
+{
+"id": "5.27",
+"label": "Juv. 5.27",
+"text": "saucius et rubra deterges vulnera mappa,"
+},
+{
+"id": "5.28",
+"label": "Juv. 5.28",
+"text": "inter vos quotiens libertorumque cohortem"
+},
+{
+"id": "5.29",
+"label": "Juv. 5.29",
+"text": "pugna Saguntina fervet commissa lagona."
+},
+{
+"id": "5.30",
+"label": "Juv. 5.30",
+"text": "ipse capillato diffusum consule potat,"
+},
+{
+"id": "5.31",
+"label": "Juv. 5.31",
+"text": "calcatamque tenet bellis socialibus uvam,"
+},
+{
+"id": "5.32",
+"label": "Juv. 5.32",
+"text": "cardiaco numquam cyathum missurus amico;"
+},
+{
+"id": "5.33",
+"label": "Juv. 5.33",
+"text": "cras bibet Albanis aliquid de montibus aut de"
+},
+{
+"id": "5.34",
+"label": "Juv. 5.34",
+"text": "Setinis, cuius patriam titulumque senectus"
+},
+{
+"id": "5.35",
+"label": "Juv. 5.35",
+"text": "delevit multa veteris fuligine testae,"
+},
+{
+"id": "5.36",
+"label": "Juv. 5.36",
+"text": "quale coronati Thrasea Helvidiusque bibebant"
+},
+{
+"id": "5.37",
+"label": "Juv. 5.37",
+"text": "Brutorum et Cassi natalibus. Ipse capaces"
+},
+{
+"id": "5.38",
+"label": "Juv. 5.38",
+"text": "Heliadum crustas et inaequales berullo"
+},
+{
+"id": "5.39",
+"label": "Juv. 5.39",
+"text": "Virro tenet phialas: tibi non committitur aurum,"
+},
+{
+"id": "5.40",
+"label": "Juv. 5.40",
+"text": "vel si quando datur, custos adfixus ibidem,"
+},
+{
+"id": "5.41",
+"label": "Juv. 5.41",
+"text": "qui numeret gemmas, ungues observet acutos."
+},
+{
+"id": "5.42",
+"label": "Juv. 5.42",
+"text": "da veniam, praeclara illi laudatur iaspis;"
+},
+{
+"id": "5.43",
+"label": "Juv. 5.43",
+"text": "nam Virro, ut multi, gemmas ad pocula transfert"
+},
+{
+"id": "5.44",
+"label": "Juv. 5.44",
+"text": "a digitis, quas in vaginae fronte solebat"
+},
+{
+"id": "5.45",
+"label": "Juv. 5.45",
+"text": "ponere zelotypo iuvenis praelatus Iarbae."
+},
+{
+"id": "5.46",
+"label": "Juv. 5.46",
+"text": "tu Beneventani sutoris nomen habentem"
+},
+{
+"id": "5.47",
+"label": "Juv. 5.47",
+"text": "siccabis calicem nasorum quattuor ac iam"
+},
+{
+"id": "5.48",
+"label": "Juv. 5.48",
+"text": "quassatum et rupto poscentem sulpura vitro."
+},
+{
+"id": "5.49",
+"label": "Juv. 5.49",
+"text": "Si stomachus domini fervet vinoque ciboque,"
+},
+{
+"id": "5.50",
+"label": "Juv. 5.50",
+"text": "frigidior Geticis petitur decocta pruinis."
+},
+{
+"id": "5.51",
+"label": "Juv. 5.51",
+"text": "non eadem vobis poni modo vina querebar:"
+},
+{
+"id": "5.52",
+"label": "Juv. 5.52",
+"text": "vos aliam potatis aquam, tibi pocula cursor"
+},
+{
+"id": "5.53",
+"label": "Juv. 5.53",
+"text": "Gaetulus dabit aut nigri manus ossea Mauri"
+},
+{
+"id": "5.54",
+"label": "Juv. 5.54",
+"text": "et cui per mediam nolis occurrere noctem,"
+},
+{
+"id": "5.55",
+"label": "Juv. 5.55",
+"text": "clivosae veheris dum per monumenta Latinae:"
+},
+{
+"id": "5.56",
+"label": "Juv. 5.56",
+"text": "flos Asiae ante ipsum, pretio maiore paratus"
+},
+{
+"id": "5.57",
+"label": "Juv. 5.57",
+"text": "quam fuit et Tulli census pugnacis et Anci"
+},
+{
+"id": "5.58",
+"label": "Juv. 5.58",
+"text": "et, ne te teneam, Romanorum omnia regum"
+},
+{
+"id": "5.59",
+"label": "Juv. 5.59",
+"text": "frivola. quod cum ita sit, tu Gaetulum Ganymedem"
+},
+{
+"id": "5.60",
+"label": "Juv. 5.60",
+"text": "respice, cum sities. nescit tot milibus emptus"
+},
+{
+"id": "5.61",
+"label": "Juv. 5.61",
+"text": "pauperibus miscere puer; set forma, set aetas"
+},
+{
+"id": "5.62",
+"label": "Juv. 5.62",
+"text": "digna supercilio, quando ad te pervenit ille?"
+},
+{
+"id": "5.63",
+"label": "Juv. 5.63",
+"text": "quando rogatus adest calidae gelidaeque minister?"
+},
+{
+"id": "5.64",
+"label": "Juv. 5.64",
+"text": "quippe indignatur veteri parere clienti,"
+},
+{
+"id": "5.65",
+"label": "Juv. 5.65",
+"text": "quodque aliquid poscas et quod se stante recumbas."
+},
+{
+"id": "5.67",
+"label": "Juv. 5.67",
+"text": "ecce alius quanto porrexit murmure panem"
+},
+{
+"id": "5.68",
+"label": "Juv. 5.68",
+"text": "vix fractum, solidae iam mucida frusta farinae,"
+},
+{
+"id": "5.69",
+"label": "Juv. 5.69",
+"text": "quae genuinum agitent, non admittentia morsum;"
+},
+{
+"id": "5.70",
+"label": "Juv. 5.70",
+"text": "sed tener et niveus mollique siligine fictus"
+},
+{
+"id": "5.71",
+"label": "Juv. 5.71",
+"text": "servatur domino, dextram cohibere memento,"
+},
+{
+"id": "5.72",
+"label": "Juv. 5.72",
+"text": "salva sit artoptae reverentia, finge tamen te"
+},
+{
+"id": "5.73",
+"label": "Juv. 5.73",
+"text": "inprobulum, superest illic qui ponere cogat:"
+},
+{
+"id": "5.74",
+"label": "Juv. 5.74",
+"text": "‘vis tu consuetis, audax conviva, canistris"
+},
+{
+"id": "5.75",
+"label": "Juv. 5.75",
+"text": "impleri panisque tui novisse colorem?’"
+},
+{
+"id": "5.76",
+"label": "Juv. 5.76",
+"text": "‘scilicet hoc fuerat, propter quod saepe relicta"
+},
+{
+"id": "5.77",
+"label": "Juv. 5.77",
+"text": "coniuge per montem adversum gelidasque cucurri"
+},
+{
+"id": "5.78",
+"label": "Juv. 5.78",
+"text": "Esquilias, fremeret saeva cum grandine vernus"
+},
+{
+"id": "5.79",
+"label": "Juv. 5.79",
+"text": "Iuppiter et multo stillaret paenula nimbo.’"
+},
+{
+"id": "5.80",
+"label": "Juv. 5.80",
+"text": "Aspice quam longo distinguat pectore lancem"
+},
+{
+"id": "5.81",
+"label": "Juv. 5.81",
+"text": "quae fertur domino squilla, et quibus undique saepta"
+},
+{
+"id": "5.82",
+"label": "Juv. 5.82",
+"text": "asparagis qua despiciat convivia cauda,"
+},
+{
+"id": "5.83",
+"label": "Juv. 5.83",
+"text": "dum venit excelsi manibus sublata ministri."
+},
+{
+"id": "5.84",
+"label": "Juv. 5.84",
+"text": "set tibi dimidio constrictus cammarus ovo"
+},
+{
+"id": "5.85",
+"label": "Juv. 5.85",
+"text": "ponitur exigua feralis cena patella."
+},
+{
+"id": "5.86",
+"label": "Juv. 5.86",
+"text": "ipse Venafrano piscem perfundit: at hic qui"
+},
+{
+"id": "5.87",
+"label": "Juv. 5.87",
+"text": "pallidus adfertur misero tibi caulis olebit"
+},
+{
+"id": "5.88",
+"label": "Juv. 5.88",
+"text": "lanternam; illud enim vestris datur alveolis quod"
+},
+{
+"id": "5.89",
+"label": "Juv. 5.89",
+"text": "canna Micipsarum prora subvexit acuta,"
+},
+{
+"id": "5.90",
+"label": "Juv. 5.90",
+"text": "propter quod Romae cum Boccare nemo lavatur,"
+},
+{
+"id": "5.91",
+"label": "Juv. 5.91",
+"text": "quod tutos etiam facit a serpentibus atris."
+},
+{
+"id": "5.92",
+"label": "Juv. 5.92",
+"text": "Mullus erit domini, quem misit Corsica vel quem"
+},
+{
+"id": "5.93",
+"label": "Juv. 5.93",
+"text": "Tauromenitanae rupes, quando omne peractum est"
+},
+{
+"id": "5.94",
+"label": "Juv. 5.94",
+"text": "et iam defecit nostrum mare, dum gula saevit,"
+},
+{
+"id": "5.95",
+"label": "Juv. 5.95",
+"text": "retibus adsiduis penitus scrutante macello"
+},
+{
+"id": "5.96",
+"label": "Juv. 5.96",
+"text": "proxima, nec patimur Tyrrhenum crescere piscem,"
+},
+{
+"id": "5.97",
+"label": "Juv. 5.97",
+"text": "instruit ergo focum provincia, sumitur illinc"
+},
+{
+"id": "5.98",
+"label": "Juv. 5.98",
+"text": "quod captator emat Laenas, Aurelia vendat."
+},
+{
+"id": "5.99",
+"label": "Juv. 5.99",
+"text": "Virroni muraena datur, quae maxima venit"
+},
+{
+"id": "5.100",
+"label": "Juv. 5.100",
+"text": "gurgite de Siculo; nam dum se continet Auster,"
+},
+{
+"id": "5.101",
+"label": "Juv. 5.101",
+"text": "dum sedet et siccat madidas in carcere pinnas,"
+},
+{
+"id": "5.102",
+"label": "Juv. 5.102",
+"text": "contemnunt mediam temeraria lina Charybdim."
+},
+{
+"id": "5.103",
+"label": "Juv. 5.103",
+"text": "vos anguilla manet longae cognata colubrae,"
+},
+{
+"id": "5.104",
+"label": "Juv. 5.104",
+"text": "aut glacie aspersus maculis Tiberinus, et ipse"
+},
+{
+"id": "5.105",
+"label": "Juv. 5.105",
+"text": "vernula riparum, pinguis torrente cloaca."
+},
+{
+"id": "5.106",
+"label": "Juv. 5.106",
+"text": "et solitus mediae cryptam penetrare Suburae."
+},
+{
+"id": "5.107",
+"label": "Juv. 5.107",
+"text": "Ipsi pauca velim, facilem si praebeat aurem."
+},
+{
+"id": "5.108",
+"label": "Juv. 5.108",
+"text": "‘nemo petit, modicis quae mittebantur amicis"
+},
+{
+"id": "5.109",
+"label": "Juv. 5.109",
+"text": "a Seneca, quae Piso bonus, quae Cotta solebat"
+},
+{
+"id": "5.110",
+"label": "Juv. 5.110",
+"text": "largiri; namque et titulis et fascibus olim"
+},
+{
+"id": "5.111",
+"label": "Juv. 5.111",
+"text": "maior habebatur donandi gloria, solum"
+},
+{
+"id": "5.112",
+"label": "Juv. 5.112",
+"text": "poscimus ut cenes civiliter, hoc face et esto,"
+},
+{
+"id": "5.113",
+"label": "Juv. 5.113",
+"text": "esto, ut nunc multi, dives tibi, pauper amicis.’"
+},
+{
+"id": "5.114",
+"label": "Juv. 5.114",
+"text": "Anseris ante ipsum magni iecur, anseribus par"
+},
+{
+"id": "5.115",
+"label": "Juv. 5.115",
+"text": "altilis, et flavi dignus ferro Meleagri"
+},
+{
+"id": "5.116",
+"label": "Juv. 5.116",
+"text": "spumat aper. post hunc tradentur tubera, si ver"
+},
+{
+"id": "5.117",
+"label": "Juv. 5.117",
+"text": "tunc erit et facient optata tonitrua cenas"
+},
+{
+"id": "5.118",
+"label": "Juv. 5.118",
+"text": "maiores. tibi habe frumentum, Alledius inquit,"
+},
+{
+"id": "5.119",
+"label": "Juv. 5.119",
+"text": "o Libye, disiunge boves, dum tubera mittas."
+},
+{
+"id": "5.120",
+"label": "Juv. 5.120",
+"text": "Structorem interea, nequa indignatio desit,"
+},
+{
+"id": "5.121",
+"label": "Juv. 5.121",
+"text": "saltantem spectes et chironomunta volanti"
+},
+{
+"id": "5.122",
+"label": "Juv. 5.122",
+"text": "cultello, donec peragat dictata magistri"
+},
+{
+"id": "5.123",
+"label": "Juv. 5.123",
+"text": "omnia; nec minimo sane discrimine refert,"
+},
+{
+"id": "5.124",
+"label": "Juv. 5.124",
+"text": "quo gestu lepores et quo gallina secetur."
+},
+{
+"id": "5.125",
+"label": "Juv. 5.125",
+"text": "duceris planta velut ictus ab Hercule Cacus"
+},
+{
+"id": "5.126",
+"label": "Juv. 5.126",
+"text": "et ponere foris, si quid temptaveris umquam"
+},
+{
+"id": "5.127",
+"label": "Juv. 5.127",
+"text": "hiscere, tamquam habeas tria nomina, quando propinat"
+},
+{
+"id": "5.128",
+"label": "Juv. 5.128",
+"text": "Virro tibi, sumitve tuis contacta labellis"
+},
+{
+"id": "5.129",
+"label": "Juv. 5.129",
+"text": "pocula? quis vestrum temerarius usque adeo, quis"
+},
+{
+"id": "5.130",
+"label": "Juv. 5.130",
+"text": "perditus, ut dicat regi bibe? plurima sunt quae"
+},
+{
+"id": "5.131",
+"label": "Juv. 5.131",
+"text": "non audent homines perfusa dicere laena."
+},
+{
+"id": "5.132",
+"label": "Juv. 5.132",
+"text": "quadringenta tibi si quis deus aut similis dis"
+},
+{
+"id": "5.133",
+"label": "Juv. 5.133",
+"text": "et melior fatis donaret homuncio, quantus,"
+},
+{
+"id": "5.134",
+"label": "Juv. 5.134",
+"text": "ex nihilo, quantus fieres Virronis amicus!"
+},
+{
+"id": "5.135",
+"label": "Juv. 5.135",
+"text": "‘da Trebio, pone ad Trebium. vis, frater, ab ipsis"
+},
+{
+"id": "5.136",
+"label": "Juv. 5.136",
+"text": "ilibus?’ o nummi, vobis hunc praestat honorem,"
+},
+{
+"id": "5.137",
+"label": "Juv. 5.137",
+"text": "vos estis fratres, dominus tamen et domini rex"
+},
+{
+"id": "5.138",
+"label": "Juv. 5.138",
+"text": "si vis tu fieri, nullus tibi parvolus aula"
+},
+{
+"id": "5.139",
+"label": "Juv. 5.139",
+"text": "luserit Aeneas nec filia dulcior illo;"
+},
+{
+"id": "5.140",
+"label": "Juv. 5.140",
+"text": "iucundum et carum sterilis facit uxor amicum."
+},
+{
+"id": "5.141",
+"label": "Juv. 5.141",
+"text": "sed tua nunc Mycale pariat licet et pueros tres"
+},
+{
+"id": "5.142",
+"label": "Juv. 5.142",
+"text": "in gremium patris fundat semel, ipse loquaci"
+},
+{
+"id": "5.143",
+"label": "Juv. 5.143",
+"text": "gaudebit nido, viridem thoraca iubebit"
+},
+{
+"id": "5.144",
+"label": "Juv. 5.144",
+"text": "adferri minimasque nuces assemque rogatum,"
+},
+{
+"id": "5.145",
+"label": "Juv. 5.145",
+"text": "ad mensam quotiens parasitus venerit infans."
+},
+{
+"id": "5.146",
+"label": "Juv. 5.146",
+"text": "Vilibus ancipites fungi ponentur amicis,"
+},
+{
+"id": "5.147",
+"label": "Juv. 5.147",
+"text": "boletus domino, set quales Claudius edit"
+},
+{
+"id": "5.148",
+"label": "Juv. 5.148",
+"text": "ante illum uxoris, post quem nihil amplius edit."
+},
+{
+"id": "5.149",
+"label": "Juv. 5.149",
+"text": "Virro sibi et reliquis Virronibus illa iubebit"
+},
+{
+"id": "5.150",
+"label": "Juv. 5.150",
+"text": "poma dari, quorum solo pascaris odore,"
+},
+{
+"id": "5.151",
+"label": "Juv. 5.151",
+"text": "qualia perpetuus Phaeacum autumnus habebat,"
+},
+{
+"id": "5.152",
+"label": "Juv. 5.152",
+"text": "credere quae possis subrepta sororibus Afris:"
+},
+{
+"id": "5.153",
+"label": "Juv. 5.153",
+"text": "tu scabie frueris mali, quod in aggere rodit"
+},
+{
+"id": "5.154",
+"label": "Juv. 5.154",
+"text": "qui tegitur parma et galea, metuensque flagelli"
+},
+{
+"id": "5.155",
+"label": "Juv. 5.155",
+"text": "discit ab hirsuta iaculum torquere capella."
+},
+{
+"id": "5.156",
+"label": "Juv. 5.156",
+"text": "Forsitan inpensae Virronem parcere credas,"
+},
+{
+"id": "5.157",
+"label": "Juv. 5.157",
+"text": "hoc agit ut doleas; nam quae comoedia, mimus"
+},
+{
+"id": "5.158",
+"label": "Juv. 5.158",
+"text": "quis melior plorante gula? ergo omnia fiunt,"
+},
+{
+"id": "5.159",
+"label": "Juv. 5.159",
+"text": "si nescis, ut per lacrimas effundere bilem"
+},
+{
+"id": "5.160",
+"label": "Juv. 5.160",
+"text": "cogaris pressoque diu stridere molari."
+},
+{
+"id": "5.161",
+"label": "Juv. 5.161",
+"text": "tu tibi liber homo et regis conviva videris:"
+},
+{
+"id": "5.162",
+"label": "Juv. 5.162",
+"text": "captum te nidore suae putat ille culinae;"
+},
+{
+"id": "5.163",
+"label": "Juv. 5.163",
+"text": "nec male coniectat: quis enim tam nudus, ut illum"
+},
+{
+"id": "5.164",
+"label": "Juv. 5.164",
+"text": "bis ferat, Etruscum puero si contigit aurum"
+},
+{
+"id": "5.165",
+"label": "Juv. 5.165",
+"text": "vel nodus tantum et signum de paupere loro?"
+},
+{
+"id": "5.166",
+"label": "Juv. 5.166",
+"text": "spes bene cenandi vos decipit: ‘ecce dabit iam"
+},
+{
+"id": "5.167",
+"label": "Juv. 5.167",
+"text": "semesum leporem atque aliquid de clunibus apri,"
+},
+{
+"id": "5.168",
+"label": "Juv. 5.168",
+"text": "ad nos iam veniet minor altilis.’ inde parato"
+},
+{
+"id": "5.169",
+"label": "Juv. 5.169",
+"text": "intactoque omnes et stricto pane tacetis."
+},
+{
+"id": "5.170",
+"label": "Juv. 5.170",
+"text": "ille sapit qui te sic utitur, omnia ferre"
+},
+{
+"id": "5.171",
+"label": "Juv. 5.171",
+"text": "si potes, et debes, pulsandum vertice raso"
+},
+{
+"id": "5.172",
+"label": "Juv. 5.172",
+"text": "praebebis quandoque caput, nec dura timebis"
+},
+{
+"id": "5.173",
+"label": "Juv. 5.173",
+"text": "flagra pati, his epulis et tali dignus amico."
+}
+]
+}

@@ -1,0 +1,841 @@
+{
+"corpus": "digest",
+"unit": "7.1",
+"title": "D. 7.1 De usu fructu et quemadmodum quis utatur fruatur",
+"passages": [
+{
+"id": "7.1.1",
+"label": "D. 7.1.1 (Paulus)",
+"text": "Usus fructus est ius alienis rebus utendi fruendi salva rerum substantia.",
+"inscription": "Paulus libro tertio ad Vitellium"
+},
+{
+"id": "7.1.2",
+"label": "D. 7.1.2 (Celsus)",
+"text": "Est enim usus fructus ius in corpore, quo sublato et ipsum tolli necesse est.",
+"inscription": "Celsus libro 18 digestorum"
+},
+{
+"id": "7.1.3.pr",
+"label": "D. 7.1.3 pr. (Gaius)",
+"text": "Omnium praediorum iure legati potest constitui usus fructus, ut heres iubeatur dare alicui usum fructum. Dare autem intellegitur, si induxerit in fundum legatarium eumve patiatur uti frui. Et sine testamento autem si quis velit usum fructum constituere, pactionibus et stipulationibus id efficere potest.",
+"inscription": "Gaius libro secundo rerum cottidianarum sive aureorum"
+},
+{
+"id": "7.1.3.1",
+"label": "D. 7.1.3.1",
+"text": "Constitit autem usus fructus non tantum in fundo et aedibus, verum etiam in servis et iumentis ceterisque rebus."
+},
+{
+"id": "7.1.3.2",
+"label": "D. 7.1.3.2",
+"text": "Ne tamen in universum inutiles essent proprietates semper abscedente usu fructu, placuit certis modis extingui usum fructum et ad proprietatem reverti."
+},
+{
+"id": "7.1.3.3",
+"label": "D. 7.1.3.3",
+"text": "Quibus autem modis usus fructus et constitit et finitur, isdem modis etiam nudus usus solet et constitui et finiri."
+},
+{
+"id": "7.1.4",
+"label": "D. 7.1.4 (Paulus)",
+"text": "Usus fructus in multis casibus pars dominii est, et exstat, quod vel praesens vel ex die dari potest.",
+"inscription": "Paulus libro secundo ad edictum"
+},
+{
+"id": "7.1.5",
+"label": "D. 7.1.5 (Papinianus)",
+"text": "Usus fructus et ab initio pro parte indivisa vel divisa constitui et legitimo tempore similiter amitti eademque ratione per legem Falcidiam minui potest: reo quoque promittendi defuncto in partes hereditarias usus fructus obligatio dividitur: et si ex communi praedio debeatur, uno ex sociis defendente pro parte defendentis fiet restitutio.",
+"inscription": "Papinianus libro septimo quaestionum"
+},
+{
+"id": "7.1.6.pr",
+"label": "D. 7.1.6 pr. (Gaius)",
+"text": "Usus fructus pluribus modis constituitur: ut ecce, si legatus fuerit. Sed et proprietas deducto usu fructu legari potest, ut apud heredem maneat usus fructus.",
+"inscription": "Gaius libro septimo ad edictum provinciale"
+},
+{
+"id": "7.1.6.1",
+"label": "D. 7.1.6.1",
+"text": "Constituitur adhuc usus fructus et in iudicio familiae herciscundae et communi dividundo, si iudex alii proprietatem adiudicaverit, alii usum fructum."
+},
+{
+"id": "7.1.6.2",
+"label": "D. 7.1.6.2",
+"text": "Adquiritur autem nobis usus fructus non solum per nosmet ipsos, sed etiam per eas quoque personas, quas iuri nostro subiectas habemus."
+},
+{
+"id": "7.1.6.3",
+"label": "D. 7.1.6.3",
+"text": "Nihil autem vetat servo meo herede instituto legari proprietatem deducto usu fructu."
+},
+{
+"id": "7.1.7.pr",
+"label": "D. 7.1.7 pr. (Ulpianus)",
+"text": "Usu fructu legato omnis fructus rei ad fructuarium pertinet. Et aut rei soli aut rei mobilis usus fructus legatur.",
+"inscription": "Ulpianus libro 17 ad Sabinum"
+},
+{
+"id": "7.1.7.1",
+"label": "D. 7.1.7.1",
+"text": "Rei soli, ut puta aedium, usu fructu legato quicumque reditus est, ad usufructuarium pertinet quaeque obventiones sunt ex aedificiis, ex areis et ceteris, quaecumque aedium sunt. Unde etiam mitti eum in possessionem vicinarum aedium causa damni infecti placuit, et iure dominii possessurum eas aedes, si perseveretur non caveri, nec quicquam amittere finito usu fructu. Hac ratione Labeo scribit nec aedificium licere domino te invito altius tollere, sicut nec areae usu fructu legato potest in area aedificium poni: quam sententiam puto veram."
+},
+{
+"id": "7.1.7.2",
+"label": "D. 7.1.7.2",
+"text": "Quoniam igitur omnis fructus rei ad eum pertinet, reficere quoque eum ad aedes per arbitrum cogi Celsus scribit Celsus libro octavo decimo digestorum, hactenus tamen, ut sarta tecta habeat: si qua tamen vetustate corruissent, neutrum cogi reficere, sed si heres refecerit, passurum fructuarium uti. Unde Celsus de modo sarta tecta habendi quaerit, si quae vetustate corruerunt reficere non cogitur: modica igitur refectio ad eum pertinet, quoniam et alia onera adgnoscit usu fructu legato: ut puta stipendium vel tributum vel salarium vel alimenta ab ea re relicta. Et ita Marcellus libro tertio decimo scribit."
+},
+{
+"id": "7.1.7.3",
+"label": "D. 7.1.7.3",
+"text": "Cassius quoque scribit libro octavo iuris civilis fructuarium per arbitrum cogi reficere, quemadmodum adserere cogitur arbores: et Aristo notat haec vera esse. Neratius autem libro quarto membranarum ait non posse fructuarium prohiberi, quo minus reficiat, quia nec arare prohiberi potest aut colere: nec solum necessarias refectiones facturum, sed etiam voluptatis causa ut tectoria et pavimenta et similia facere, neque autem ampliare nec utile detrahere posse,"
+},
+{
+"id": "7.1.8",
+"label": "D. 7.1.8 (Ulpianus)",
+"text": "quamvis melius repositurus sit: quae sententia vera est.",
+"inscription": "Ulpianus libro 40 ad edictum"
+},
+{
+"id": "7.1.9.pr",
+"label": "D. 7.1.9 pr. (Ulpianus)",
+"text": "Item si fundi usus fructus sit legatus, quidquid in fundo nascitur, quidquid inde percipi potest, ipsius fructus est, sic tamen ut boni viri arbitratu fruatur. Nam et Celsus libro octavo decimo digestorum scribit cogi eum posse recte colere.",
+"inscription": "Ulpianus libro 17 ad Sabinum"
+},
+{
+"id": "7.1.9.1",
+"label": "D. 7.1.9.1",
+"text": "Et si apes in eo fundo sint, earum quoque usus fructus ad eum pertinet."
+},
+{
+"id": "7.1.9.2",
+"label": "D. 7.1.9.2",
+"text": "Sed si lapidicinas habeat et lapidem caedere velit vel cretifodinas habeat vel harenas, omnibus his usurum Sabinus ait quasi bonum patrem familias: quam sententiam puto veram."
+},
+{
+"id": "7.1.9.3",
+"label": "D. 7.1.9.3",
+"text": "Sed si haec metalla post usum fructum legatum sint inventa, cum totius agri relinquatur usus fructus, non partium, continentur legato."
+},
+{
+"id": "7.1.9.4",
+"label": "D. 7.1.9.4",
+"text": "Huic vicinus tractatus est, qui solet in eo quod accessit tractari: et placuit alluvionis quoque usum fructum ad fructuarium pertinere. Sed si insula iuxta fundum in flumine nata sit, eius usum fructum ad fructuarium non pertinere Pegasus scribit, licet proprietati accedat: esse enim veluti proprium fundum, cuius usus fructus ad te non pertineat. Quae sententia non est sine ratione: nam ubi latitet incrementum, et usus fructus augetur, ubi autem apparet separatum, fructuario non accedit."
+},
+{
+"id": "7.1.9.5",
+"label": "D. 7.1.9.5",
+"text": "Aucupiorum quoque et venationum reditum Cassius ait libro octavo iuris civilis ad fructuarium pertinere: ergo et piscationum."
+},
+{
+"id": "7.1.9.6",
+"label": "D. 7.1.9.6",
+"text": "Seminarii autem fructum puto ad fructuarium pertinere ita tamen, ut et vendere ei et seminare liceat: debet tamen conserendi agri causa seminarium paratum semper renovare quasi instrumentum agri, ut finito usu fructu domino restituatur."
+},
+{
+"id": "7.1.9.7",
+"label": "D. 7.1.9.7",
+"text": "Instrumenti autem fructum habere debet: vendendi tamen facultatem non habet. Nam et si fundi usus fructus fuerit legatus et sit ager, unde palo in fundum, cuius usus fructus legatus est, solebat pater familias uti, vel salice vel harundine, puto fructuarium hactenus uti posse, ne ex eo vendat, nisi forte salicti ei vel silvae palaris vel harundineti usus fructus sit legatus: tunc enim et vendere potest. Nam et Trebatius scribit silvam caeduam et harundinetum posse fructuarium caedere, sicut pater familias caedebat, et vendere, licet pater familias non solebat vendere, sed ipse uti: ad modum enim referendum est, non ad qualitatem utendi."
+},
+{
+"id": "7.1.10",
+"label": "D. 7.1.10 (Pomponius)",
+"text": "Ex silva caedua pedamenta et ramos ex arbore usufructuarium sumpturum: ex non caedua in vineam sumpturum, dum ne fundum deteriorem faciat.",
+"inscription": "Pomponius libro quinto ad Sabinum"
+},
+{
+"id": "7.1.11",
+"label": "D. 7.1.11 (Paulus)",
+"text": "Sed si grandes arbores essent, non posse eas caedere.",
+"inscription": "Paulus libro secundo epitomarum Alfeni digestorum"
+},
+{
+"id": "7.1.12.pr",
+"label": "D. 7.1.12 pr. (Ulpianus)",
+"text": "Arboribus evolsis vel vi ventorum deiectis usque ad usum suum et villae posse usufructuarium ferre Labeo ait: nec materia eum pro ligno usurum, si habeat unde utatur ligno. Quam sententiam puto veram: alioquin et si totus ager sit hunc casum passus, omnes arbores auferret fructuarius: materiam tamen ipsum succidere quantum ad villae refectionem putat posse: quemadmodum calcem, inquit, coquere vel harenam fodere aliudve quid aedificio necessarium sumere.",
+"inscription": "Ulpianus libro 17 ad Sabinum"
+},
+{
+"id": "7.1.12.1",
+"label": "D. 7.1.12.1",
+"text": "Navis usu fructu legato navigandum mittendam puto, licet naufragii periculum immineat: navis etenim ad hoc paratur, ut naviget."
+},
+{
+"id": "7.1.12.2",
+"label": "D. 7.1.12.2",
+"text": "Usufructuarius vel ipse frui ea re vel alii fruendam concedere vel locare vel vendere potest: nam et qui locat utitur, et qui vendit utitur. Sed et si alii precario concedat vel donet, puto eum uti atque ideo retinere usum fructum, et hoc Cassius et Pegasus responderunt et Pomponius libro quinto ex Sabino probat. Non solum autem si ego locavero, retineo usum fructum, sed et si alius negotium meum gerens locaverit usum fructum, Iulianus libro trigensimo quinto scripsit retinere me usum fructum. Quid tamen si non locavero, sed absente et ignorante me negotium meum gerens utatur quis et fruatur? Nihilo minus retineo usum fructum (quod et Pomponius libro quinto probat) per hoc, quod negotiorum gestorum actionem adquisivi."
+},
+{
+"id": "7.1.12.3",
+"label": "D. 7.1.12.3",
+"text": "De illo Pomponius dubitat, si fugitivus, in quo meus usus fructus est, stipuletur aliquid ex re mea vel per traditionem accipiat: an per hoc ipsum, quasi utar, retineam usum fructum? Magisque admitti retinere. Nam saepe etiamsi praesentibus servis non utamur, tamen usum fructum retinemus: ut puta aegrotante servo vel infante, cuius operae nullae sunt, vel defectae senectutis homine: nam et si agrum aremus, licet tam sterilis sit, ut nullus fructus nascatur, retinemus usum fructum. Iulianus tamen libro trigensimo quinto digestorum scribit, etiamsi non stipuletur quid servus fugitivus, retineri tamen usum fructum: nam qua ratione, inquit, retinetur a proprietario possessio, etiamsi in fuga servus sit, pari ratione etiam usus fructus retinetur."
+},
+{
+"id": "7.1.12.4",
+"label": "D. 7.1.12.4",
+"text": "Idem tractat: quid si quis possessionem eius nactus sit, an, quemadmodum a proprietario possideri desinit, ita etiam usus fructus amittatur? Et primo quidem ait posse dici amitti usum fructum, sed licet amittatur, tamen dicendum, quod intra constitutum tempus ex re fructuarii stipulatus est, fructuario adquiri potest. Per quod colligi posse dici, ne quidem si possideatur ab alio, amitti usum fructum, si modo mihi aliquid stipuletur, parvique referre, ab herede possideatur vel ab alio cui hereditas vendita sit vel cui proprietas legata sit, an a praedone: sufficere enim ad retinendum usum fructum esse affectum retinere volentis et servum nomine fructuarii aliquid facere: quae sententia habet rationem."
+},
+{
+"id": "7.1.12.5",
+"label": "D. 7.1.12.5",
+"text": "Iulianus libro trigensimo quinto digestorum tractat, si fur decerpserit vel desecuerit fructus maturos pendentes, cui condictione teneatur, domino fundi an fructuario? Et putat, quoniam fructus non fiunt fructuarii, nisi ab eo percipiantur, licet ab alio terra separentur, magis proprietario condictionem competere, fructuario autem furti actionem, quoniam interfuit eius fructus non esse ablatos. Marcellus autem movetur eo, quod, si postea fructus istos nactus fuerit fructuarius, fortassis fiant eius: nam si fiunt, qua ratione hoc evenit? Nisi ea, ut interim fierent proprietarii, mox adprehensi fructuarii efficientur, exemplo rei sub condicione legatae, quae interim heredis est, existente autem condicione ad legatarium transit. Verum est enim condictionem competere proprietario: cum autem in pendenti est dominium (ut ipse Iulianus ait in fetu qui summittitur et in eo quod servus fructuarius per traditionem accepit nondum quidem pretio soluto, sed tamen ab eo satisfacto), dicendum est condictionem pendere magisque in pendenti esse dominium."
+},
+{
+"id": "7.1.13.pr",
+"label": "D. 7.1.13 pr. (Ulpianus)",
+"text": "Si cuius rei usus fructus legatus erit, dominus potest in ea re satisdationem desiderare, ut officio iudicis hoc fiat: nam sicuti debet fructuarius uti frui, ita et proprietatis dominus securus esse debet de proprietate. Haec autem ad omnem usum fructum pertinere Iulianus libro trigensimo octavo digestorum probat. Si usus fructus legatus sit, non prius dandam actionem usufructuario, quam satisdederit se boni viri arbitratu usurum fruiturum: sed et si plures sint, a quibus usus fructus relictus est, singulis satisdari oportet.",
+"inscription": "Ulpianus libro 18 ad Sabinum"
+},
+{
+"id": "7.1.13.1",
+"label": "D. 7.1.13.1",
+"text": "Cum igitur de usu fructu agitur, non solum quod factum est arbitratur, sed etiam in futurum quemadmodum uti frui debet."
+},
+{
+"id": "7.1.13.2",
+"label": "D. 7.1.13.2",
+"text": "De praeteritis autem damnis fructuarius etiam lege Aquilia tenetur et interdicto quod vi aut clam, ut Iulianus ait: nam fructuarium quoque teneri his actionibus nec non furti certum est, sicut quemlibet alium, qui in aliena re tale quid commiserit. Denique consultus, quo bonum fuit actionem polliceri praetorem, cum competat legis Aquiliae actio, respondit, quia sunt casus, quibus cessat Aquiliae actio, ideo iudicem dari, ut eius arbitratu utatur: nam qui agrum non proscindit, qui vites non subserit, item aquarum ductus conrumpi patitur, lege Aquilia non tenetur. Eadem et in usuario dicenda sunt."
+},
+{
+"id": "7.1.13.3",
+"label": "D. 7.1.13.3",
+"text": "Sed si inter duos fructuarios sit controversia, Iulianus libro trigensimo octavo digestorum scribit aequissimum esse quasi communi dividundo iudicium dari vel stipulatione inter se eos cavere, qualiter fruantur: cur enim, inquit Iulianus, ad arma et rixam procedere patiatur praetor, quos potest iurisdictione sua componere? Quam sententiam Celsus quoque libro vicensimo digestorum probat, et ego puto veram."
+},
+{
+"id": "7.1.13.4",
+"label": "D. 7.1.13.4",
+"text": "Fructuarius causam proprietatis deteriorem facere non debet, meliorem facere potest. Et aut fundi est usus fructus legatus, et non debet neque arbores frugiferas excidere neque villam diruere nec quicquam facere in perniciem proprietatis. Et si forte voluptarium fuit praedium, virdiaria vel gestationes vel deambulationes arboribus infructuosis opacas atque amoenas habens, non debebit deicere, ut forte hortos olitorios faciat vel aliud quid, quod ad reditum spectat."
+},
+{
+"id": "7.1.13.5",
+"label": "D. 7.1.13.5",
+"text": "Inde est quaesitum, an lapidicinas vel cretifodinas vel harenifodinas ipse instituere possit: et ego puto etiam ipsum instituere posse, si non agri partem necessariam huic rei occupaturus est. Proinde venas quoque lapidicinarum et huiusmodi metallorum inquirere poterit: ergo et auri et argenti et sulpuris et aeris et ferri et ceterorum fodinas vel quas pater familias instituit exercere poterit vel ipse instituere, si nihil agriculturae nocebit. Et si forte in hoc quod instituit plus reditus sit quam in vineis vel arbustis vel olivetis quae fuerunt, forsitan etiam haec deicere poterit, si quidem ei permittitur meliorare proprietatem."
+},
+{
+"id": "7.1.13.6",
+"label": "D. 7.1.13.6",
+"text": "Si tamen quae instituit usufructuarius aut caelum corrumpant agri aut magnum apparatum sint desideratura opificum forte vel legulorum, quae non potest sustinere proprietarius, non videbitur viri boni arbitratu frui: sed nec aedificium quidem positurum in fundo, nisi quod ad fructum percipiendum necessarium sit."
+},
+{
+"id": "7.1.13.7",
+"label": "D. 7.1.13.7",
+"text": "Sed si aedium usus fructus legatus sit, Nerva filius et lumina immittere eum posse ait: sed et colores et picturas et marmora poterit et sigilla et si quid ad domus ornatum. Sed neque diaetas transformare vel coniungere aut separare ei permittetur, vel aditus posticasve vertere, vel refugia aperire, vel atrium mutare, vel virdiaria ad alium modum convertere: excolere enim quod invenit potest qualitate aedium non immutata. Item Nerva eum, cui aedium usus fructus legatus sit, altius tollere non posse, quamvis lumina non obscurentur, quia tectum magis turbatur: quod Labeo etiam in proprietatis domino scribit. Idem Nerva nec obstruere eum posse."
+},
+{
+"id": "7.1.13.8",
+"label": "D. 7.1.13.8",
+"text": "Item si domus usus fructus legatus sit, meritoria illic facere fructuarius non debet nec per cenacula dividere domum: atquin locare potest, sed oportebit quasi domum locare. Nec balineum ibi faciendum est. Quod autem dicit meritoria non facturum ita accipe quae volgo deversoria vel fullonica appellant. Ego quidem, et si balineum sit in domo usibus dominicis solitum vacare in intima parte domus vel inter diaetas amoenas, non recte nec ex boni viri arbitratu facturum, si id locare coeperit, ut publice lavet, non magis quam si domum ad stationem iumentorum locaverit, aut si stabulum quod erat \"orat\" domus iumentis et carruchis vacans, pistrino locaverit,"
+},
+{
+"id": "7.1.14",
+"label": "D. 7.1.14 (Paulus)",
+"text": "licet multo minus ex ea re fructum percipiat.",
+"inscription": "Paulus libro tertio ad Sabinum"
+},
+{
+"id": "7.1.15.pr",
+"label": "D. 7.1.15 pr. (Ulpianus)",
+"text": "Sed si quid inaedificaverit, postea eum neque tollere hoc neque refigere posse: refixa plane posse vindicare.",
+"inscription": "Ulpianus libro 18 ad Sabinum"
+},
+{
+"id": "7.1.15.1",
+"label": "D. 7.1.15.1",
+"text": "Mancipiorum quoque usus fructus legato non debet abuti, sed secundum condicionem eorum uti: nam si librarium rus mittat et qualum et calcem portare cogat, histrionem balniatorem faciat, vel de symphonia atriensem, vel de palaestra stercorandis latrinis praeponat, abuti videbitur proprietate."
+},
+{
+"id": "7.1.15.2",
+"label": "D. 7.1.15.2",
+"text": "Sufficienter autem alere et vestire debet secundum ordinem et dignitatem mancipiorum."
+},
+{
+"id": "7.1.15.3",
+"label": "D. 7.1.15.3",
+"text": "Et generaliter Labeo ait in omnibus rebus mobilibus modum eum tenere debere, ne sua feritate vel saevitia ea corrumpat: alioquin etiam lege Aquilia eum conveniri."
+},
+{
+"id": "7.1.15.4",
+"label": "D. 7.1.15.4",
+"text": "Et si vestimentorum usus fructus legatus sit non sic, ut quantitatis usus fructus legetur, dicendum est ita uti eum debere, ne abutatur: nec tamen locaturum, quia vir bonus ita non uteretur."
+},
+{
+"id": "7.1.15.5",
+"label": "D. 7.1.15.5",
+"text": "Proinde etsi scaenicae vestis usus fructus legetur vel aulaei vel alterius apparatus, alibi quam in scaena non utetur, sed an et locare possit, videndum est: et puto locaturum, et licet testator commodare, non locare fuerit solitus, tamen ipsum fructuarium locaturum tam scaenicam quam funebrem vestem."
+},
+{
+"id": "7.1.15.6",
+"label": "D. 7.1.15.6",
+"text": "Proprietatis dominus non debebit impedire fructuarium ita utentem, ne deteriorem eius condicionem faciat. De quibusdam plane dubitatur, si eum uti prohibeat, an iure id faciat: ut puta doleis, si forte fundi usus fructus sit legatus, et putant quidam, etsi defossa sint, uti prohibendum: idem et in seriis et in cuppis et in cadis et amphoris putant: idem et in specularibus, si domus usus fructus legetur. Sed ego puto, nisi sit contraria voluntas, etiam instrumentum fundi vel domus contineri."
+},
+{
+"id": "7.1.15.7",
+"label": "D. 7.1.15.7",
+"text": "Sed nec servitutem imponere fundo potest proprietarius nec amittere servitutem: adquirere plane servitutem eum posse etiam invito fructuario Iulianus scripsit. Quibus consequenter fructuarius quidem adquirere fundo servitutem non potest, retinere autem potest: et si forte fuerint non utente fructuario amissae, hoc quoque nomine tenebitur. Proprietatis dominus ne quidem consentiente fructuario servitutem imponere potest,"
+},
+{
+"id": "7.1.16",
+"label": "D. 7.1.16 (Paulus)",
+"text": "nisi per quam deterior fructuarii condicio non fiat, veluti si talem servitutem vicino concesserit ius sibi non esse altius tollere.",
+"inscription": "Paulus libro tertio ad Sabinum"
+},
+{
+"id": "7.1.17.pr",
+"label": "D. 7.1.17 pr. (Ulpianus)",
+"text": "Locum autem religiosum facere potest consentiente usufructuario: et hoc verum est favore religionis. Sed interdum et solus proprietatis dominus locum religiosum facere potest: finge enim eum testatorem inferre, cum non esset tam oportune, ubi sepeliretur.",
+"inscription": "Ulpianus libro 18 ad Sabinum"
+},
+{
+"id": "7.1.17.1",
+"label": "D. 7.1.17.1",
+"text": "Ex eo, ne deteriorem condicionem fructuarii faciat proprietarius, solet quaeri, an servum dominus coercere possit. Et aristo apud Cassium notat plenissimam eum coercitionem habere, si modo sine dolo malo faciat: quamvis usufructuarius nec contrariis quidem ministeriis aut inusitatis artificium eius corrumpere possit nec servum cicatricibus deformare."
+},
+{
+"id": "7.1.17.2",
+"label": "D. 7.1.17.2",
+"text": "Proprietarius autem et servum noxae dedere poterit, si hoc sine dolo malo faciat, quoniam noxae deditio iure non peremit usum fructum, non magis quam usucapio proprietatis, quae post constitutum usum fructum contingit. Debebit plane denegari usus fructus persecutio, si ei qui noxae accepit litis aestimatio non offeratur a fructuario."
+},
+{
+"id": "7.1.17.3",
+"label": "D. 7.1.17.3",
+"text": "Si quis servum occiderit, utilem actionem exemplo Aquiliae fructuario dandam numquam dubitavi."
+},
+{
+"id": "7.1.18",
+"label": "D. 7.1.18 (Paulus)",
+"text": "Agri usu fructu legato in locum demortuarum arborum aliae substituendae sunt et priores ad fructuarium pertinent.",
+"inscription": "Paulus libro tertio ad Sabinum"
+},
+{
+"id": "7.1.19.pr",
+"label": "D. 7.1.19 pr. (Pomponius)",
+"text": "Proculus putat insulam posse ita legari, ut ei servitus imponatur, quae alteri insulae hereditariae debeatur, hoc modo: \"Si ille heredi meo promiserit per se non fore, quo altius ea aedificia tollantur, tum ei eorum aedificiorum usum fructum do lego\" vel sic: \"aedium illarum, quoad altius, quam uti nunc sunt, aedificatae non erunt, illi usum fructum do lego. \"",
+"inscription": "Pomponius libro quinto ad Sabinum"
+},
+{
+"id": "7.1.19.1",
+"label": "D. 7.1.19.1",
+"text": "Si arbores vento deiectas dominus non tollat, per quod incommodior is sit usus fructus vel iter, suis actionibus usufructuario cum eo experiundum."
+},
+{
+"id": "7.1.20",
+"label": "D. 7.1.20 (Ulpianus)",
+"text": "Si quis ita legaverit: \"Fructus annuos fundi Corneliani Gaio Maevio do lego\", perinde accipi debet hic sermo ac si usus fructus fundi esset legatus.",
+"inscription": "Ulpianus libro 18 ad Sabinum"
+},
+{
+"id": "7.1.21",
+"label": "D. 7.1.21 (Ulpianus)",
+"text": "Si servi usus fructus sit legatus, quidquid is ex opera sua adquirit vel ex re fructuarii, ad eum pertinet, sive stipuletur sive ei possessio fuerit tradita. Si vero heres institutus sit vel legatum acceperit, Labeo distinguit, cuius gratia vel heres instituitur vel legatum acceperit.",
+"inscription": "Ulpianus libro 17 ad Sabinum"
+},
+{
+"id": "7.1.22",
+"label": "D. 7.1.22 (Ulpianus)",
+"text": "Sed et si quid donetur servo, in quo usus fructus alterius est, quaeritur, quid fieri oporteat. Et in omnibus istis, si quidem contemplatione fructuarii aliquid ei relictum vel donatum est, ipsi adquiret: sin vero proprietarii, proprietario: si ipsius servi, adquiretur domino, nec distinguimus, unde cognitum eum et cuius merito habuit, qui donavit vel reliquit. Sed et si condicionis implendae causa quid servus fructuarius consequatur et constiterit contemplatione fructuarii eam condicionem adscriptam, dicendum est ipsi adquiri: nam et in mortis causa donatione idem dicendum est.",
+"inscription": "Ulpianus libro 18 ad Sabinum"
+},
+{
+"id": "7.1.23.pr",
+"label": "D. 7.1.23 pr. (Ulpianus)",
+"text": "Sed sicuti stipulando fructuario adquirit, ita etiam paciscendo eum adquirere exceptionem fructuario Iulianus libro trigensimo digestorum scribit. Idemque et si acceptum rogaverit, liberationem ei parere.",
+"inscription": "Ulpianus libro 17 ad Sabinum"
+},
+{
+"id": "7.1.23.1",
+"label": "D. 7.1.23.1",
+"text": "Quoniam autem diximus quod ex operis adquiritur ad fructuarium pertinere, sciendum est etiam cogendum eum operari: etenim modicam quoque castigationem fructuario competere Sabinus respondit et Cassius libro octavo iuris civilis scripsit, ut neque torqueat, neque flagellis caedat."
+},
+{
+"id": "7.1.24",
+"label": "D. 7.1.24 (Paulus)",
+"text": "Si quis donaturus usufructuario spoponderit servo in quem usum fructum habet stipulanti, ipsi usufructuario obligabitur, quia ut ei servus talis stipulari possit, usitatum est.",
+"inscription": "Paulus libro decimo ad Sabinum"
+},
+{
+"id": "7.1.25.pr",
+"label": "D. 7.1.25 pr. (Ulpianus)",
+"text": "Sed et si quid stipuletur sibi aut Sticho servo fructuario donandi causa, dum vult fructuario praestitum, dicendum, si ei solvatur, fructuario adquiri.",
+"inscription": "Ulpianus libro 18 ad Sabinum"
+},
+{
+"id": "7.1.25.1",
+"label": "D. 7.1.25.1",
+"text": "Interdum tamen in pendenti est, cui adquirat iste fructuarius servus: ut puta si servum emit et per traditionem accepit necdum pretium numeravit, sed tantummodo pro eo fecit satis, interim cuius sit, quaeritur. Et Iulianus libro trigensimo quinto digestorum scripsit in pendenti esse dominium eius et numerationem pretii declaraturam, cuius sit: nam si ex re fructuarii, retro fructuarii fuisse. Idemque est et si forte stipulatus sit servus numeraturus pecuniam: nam numeratio declarabit, cui sit adquisita stipulatio. Ergo ostendimus in pendenti esse dominium, donec pretium numeretur. Quid ergo si amisso usu fructu tunc pretium numeretur? Iulianus quidem libro trigensimo quinto digestorum scripsit adhuc interesse, unde sit pretium numeratum: Marcellus vero et Mauricianus amisso usu fructu iam putant dominium adquisitum proprietatis domino: sed Iuliani sententia humanior est. Quod si ex re utriusque pretium fuerit solutum, ad utrumque dominium pertinere Iulianus scripsit, scilicet pro rata pretii soluti. Quid tamen si forte simul solverit ex re utriusque, ut puta decem milia pretii nomine debebat et dena solvit ex re singulorum: cui magis servus adquirat? Si numeratione solvat, intererit, cuius priores nummos solvat: nam quos postea solverit, aut vindicabit aut, si fuerint nummi consumpti, ad condictionem pertinent: si vero simul in sacculo solvit, nihil fecit accipientis et ideo nondum adquisisse cuiquam dominium videtur, quia cum plus pretium solvit servus, non faciet nummos accipientis."
+},
+{
+"id": "7.1.25.2",
+"label": "D. 7.1.25.2",
+"text": "Si operas suas iste servus locaverit et in annos singulos certum aliquid stipuletur, eorum quidem annorum stipulatio, quibus usus fructus mansit, adquiretur fructuario, sequentium vero stipulatio ad proprietarium transit semel adquisita fructuario, quamvis non soleat stipulatio semel cui quaesita ad alium transire nisi ad heredem vel adrogatorem. Proinde si forte usus fructus in annos singulos fuerit legatus et iste servus operas suas locavit et stipulatus est ut supra scriptum est, prout capitis minutione amissus fuerit usus fructus, mox restitutus, ambulabit stipulatio profectaque ad heredem redibit ad fructuarium."
+},
+{
+"id": "7.1.25.3",
+"label": "D. 7.1.25.3",
+"text": "Quaestionis est, an id quod adquiri fructuario non potest proprietario adquiratur. Et Iulianus quidem libro trigensimo quinto digestorum scripsit, quod fructuario adquiri non potest proprietario quaeri. Denique scribit eum, qui ex re fructuarii stipuletur nominatim proprietario vel iussu eius, ipsi adquirere. Contra autem nihil agit, si non ex re fructuarii nec ex operis suis fructuario stipuletur."
+},
+{
+"id": "7.1.25.4",
+"label": "D. 7.1.25.4",
+"text": "Servus fructuarius si usum fructum in se dari stipuletur aut sine nomine aut nominatim proprietario, ipsi adquirit exemplo servi communis, qui stipulando rem alteri ex dominis cuius res est, nihil agit, quoniam rem suam stipulando quis nihil agit, alteri stipulando adquirit solidum."
+},
+{
+"id": "7.1.25.5",
+"label": "D. 7.1.25.5",
+"text": "Idem Iulianus eodem libro scripsit: si servo fructuarius operas eius locaverit, nihil agit: nam et si ex re mea, inquit, a me stipulatus sit, nihil agit, non magis quam servus alienus bona fide mihi serviens idem agendo domino quicquam adquirit. Simili modo, ait, ne quidem si rem meam a me fructuario conducat, me non obligabit. Et regulariter definiit: quod quis ab alio stipulando mihi adquirit, id a me stipulando nihil agit: nisi forte, inquit, nominatim domino suo stipuletur a me vel conducat."
+},
+{
+"id": "7.1.25.6",
+"label": "D. 7.1.25.6",
+"text": "Si duos fructuarios proponas et ex alterius re servus sit stipulatus, quaeritur, utrum totum an pro parte, qua habet usum fructum, ei quaeratur. Nam et in duobus bonae fidei possessoribus hoc idem est apud Scaevolam agitatum libro secundo quaestionum, et ait volgo creditum rationemque hoc facere, ut si ex re alterius stipuletur, partem ei dumtaxat quaeri, partem domino: quod si nominatim sit stipulatus, nec dubitari debere, quin adiecto nomine solidum ei quaeratur. Idemque ait et si iussu eius stipuletur, quoniam iussum pro nomine accipimus. Idem et in fructuariis erit dicendum, ut quo casu non totum adquiretur fructuario, proprietatis domino erit quaesitum, quoniam ex re fructuarii quaeri ei posse ostendimus."
+},
+{
+"id": "7.1.25.7",
+"label": "D. 7.1.25.7",
+"text": "Quod autem diximus ex re fructuarii vel ex operis posse adquirere, utrum tunc locum habeat, quotiens iure legati usus fructus sit constitutus, an et si per traditionem vel stipulationem vel alium quemcumque modum, videndum. Et vera est Pegasi sententia, quam et Iulianus libro sexto decimo secutus est, omni fructuario adquiri."
+},
+{
+"id": "7.1.26",
+"label": "D. 7.1.26 (Paulus)",
+"text": "Si operas suas locaverit servus fructuarius et imperfecto tempore locationis usus fructus interierit, quod superest ad proprietarium pertinebit. Sed et si ab initio certam summam propter operas certas stipulatus fuerit, capite deminuto eo idem dicendum est.",
+"inscription": "Paulus libro tertio ad Sabinum"
+},
+{
+"id": "7.1.27.pr",
+"label": "D. 7.1.27 pr. (Ulpianus)",
+"text": "Si pendentes fructus iam maturos reliquisset testator, fructuarius eos feret, si die legati cedente adhuc pendentes deprehendisset: nam et stantes fructus ad fructuarium pertinent.",
+"inscription": "Ulpianus libro 18 ad Sabinum"
+},
+{
+"id": "7.1.27.1",
+"label": "D. 7.1.27.1",
+"text": "Si dominus solitus fuit tabernis ad merces suas uti vel ad negotiationem, utique permittetur fructuario locare eas et ad alias merces, et illud solum observandum, ne vel abutatur usufructuarius vel contumeliose iniurioseve utatur usu fructu."
+},
+{
+"id": "7.1.27.2",
+"label": "D. 7.1.27.2",
+"text": "Si servi usus fructus legatus est, cuius testator quasi ministerio vacuo utebatur, si eum disciplinis vel arte instituerit usufructuarius, arte eius vel peritia utetur."
+},
+{
+"id": "7.1.27.3",
+"label": "D. 7.1.27.3",
+"text": "Si quid cloacarii nomine debeatur vel si quid ob formam aquae ductus, quae per agrum transit, pendatur, ad onus fructuarii pertinebit: sed et si quid ad collationem viae, puto hoc quoque fructuarium subiturum: ergo et quod ob transitum exercitus confertur ex fructibus: sed et si quid municipio, nam solent possessores certam partem fructuum municipio viliori pretio addicere: solent et fisco fusiones praestare. Haec onera ad fructuarium pertinebunt."
+},
+{
+"id": "7.1.27.4",
+"label": "D. 7.1.27.4",
+"text": "Si qua servitus imposita est fundo, necesse habebit fructuarius sustinere: unde et si per stipulationem servitus debeatur, idem puto dicendum."
+},
+{
+"id": "7.1.27.5",
+"label": "D. 7.1.27.5",
+"text": "Sed et si servus sub poena emptus sit interdictis certis quibusdam, an si usus fructus eius fuerit legatus, observare haec fructuarius debeat? Et puto debere eum observare: alioquin non boni viri arbitratu utitur et fruitur."
+},
+{
+"id": "7.1.28",
+"label": "D. 7.1.28 (Pomponius)",
+"text": "Nomismatum aureorum vel argenteorum veterum, quibus pro gemmis uti solent, usus fructus legari potest.",
+"inscription": "Pomponius libro quinto ad Sabinum"
+},
+{
+"id": "7.1.29",
+"label": "D. 7.1.29 (Ulpianus)",
+"text": "Omnium bonorum usum fructum posse legari, nisi excedat dodrantis aestimationem, Celsus libro trigensimo secundo digestorum et Iulianus libro sexagensimo primo scribit: et est verius.",
+"inscription": "Ulpianus libro 18 ad Sabinum"
+},
+{
+"id": "7.1.30",
+"label": "D. 7.1.30 (Paulus)",
+"text": "Si is, qui binas aedes habeat, aliarum usum fructum legaverit, posse heredem Marcellus scribit alteras altius tollendo obscurare luminibus, quoniam habitari potest etiam obscuratis aedibus. Quod usque adeo temperandum est, ut non in totum aedes obscurentur, sed modicum lumen, quod habitantibus sufficit, habeant.",
+"inscription": "Paulus libro tertio ad Sabinum"
+},
+{
+"id": "7.1.31",
+"label": "D. 7.1.31 (Paulus)",
+"text": "Ex re fructuarii etiam id intellegitur, quod ei fructuarius donaverit concesseritve vel ex administratione rerum eius compendii servus fecerit.",
+"inscription": "Paulus libro decimo ad Sabinum"
+},
+{
+"id": "7.1.32",
+"label": "D. 7.1.32 (Pomponius)",
+"text": "Si quis unas aedes, quas solas habet, vel fundum tradit, excipere potest id, quod personae, non praedii est, veluti usum et usum fructum. Sed et si excipiat, ut pascere sibi vel inhabitare liceat, valet exceptio, cum ex multis saltibus pastione fructus perciperetur. Et habitationis exceptione, sive temporali sive usque ad mortem eius qui excepit, usus videtur exceptus.",
+"inscription": "Pomponius libro 33 ad Sabinum"
+},
+{
+"id": "7.1.33.pr",
+"label": "D. 7.1.33 pr. (Papinianus)",
+"text": "Si Titio fructus, Maevio proprietas legata sit et vivo testatore Titius decedat, nihil apud scriptum heredem relinquetur: et id Neratius quoque respondit.",
+"inscription": "Papinianus libro 17 quaestionum"
+},
+{
+"id": "7.1.33.1",
+"label": "D. 7.1.33.1",
+"text": "Usum fructum in quibusdam casibus non partis effectum optinere convenit: unde si fundi vel fructus portio petatur et absolutione secuta postea pars altera quae adcrevit vindicetur, in lite quidem proprietatis iudicatae rei exceptionem obstare, in fructus vero non obstare scribit Iulianus, quoniam portio fundi velut alluvio portioni, personae fructus adcresceret."
+},
+{
+"id": "7.1.34.pr",
+"label": "D. 7.1.34 pr. (Iulianus)",
+"text": "Quotiens duobus usus fructus legatur ita, ut alternis annis utantur fruantur, si quidem ita legatus fuerit \"Titio et Maevio\", potest dici priori Titio, deinde Maevio legatum datum. Si vero duo eiusdem nominis fuerint et ita scriptum fuerit \"Titiis usum fructum alternis annis do\": nisi consenserint, uter eorum prior utatur, invicem sibi impedient. Quod si Titius eo anno, quo frueretur, proprietatem accepisset, interim legatum non habebit, sed ad Maevium alternis annis usus fructus pertinebit: et si Titius proprietatem alienasset, habebit eum usum fructum, quia et si sub condicione usus fructus mihi legatus fuerit et interim proprietatem ab herede accepero, pendente autem condicione eandem alienavero, ad legatum admittar.",
+"inscription": "Iulianus libro 35 digestorum"
+},
+{
+"id": "7.1.34.1",
+"label": "D. 7.1.34.1",
+"text": "Si colono tuo usum fructum fundi legaveris, usum fructum vindicabit et cum herede tuo aget ex conducto et consequetur, ut neque mercedes praestet et impensas, quas in culturam fecerat, recipiat."
+},
+{
+"id": "7.1.34.2",
+"label": "D. 7.1.34.2",
+"text": "Universorum bonorum an singularum rerum usus fructus legetur, hactenus interesse puto, quod, si aedes incensae fuerint, usus fructus specialiter aedium legatus peti non potest, bonorum autem usu fructu legato areae usus fructus peti poterit: quoniam qui bonorum suorum usum fructum legat, non solum eorum, quae in specie sunt, sed et substantiae omnis usum fructum legare videtur: in substantia autem bonorum etiam area est."
+},
+{
+"id": "7.1.35.pr",
+"label": "D. 7.1.35 pr. (Iulianus)",
+"text": "Si usus fructus legatus est, sed heres scriptus ob hoc tardius adit, ut tardius ad legatum perveniretur, hoc quoque praestabitur, ut Sabino placuit.",
+"inscription": "Iulianus libro primo ad Urseium Ferocem"
+},
+{
+"id": "7.1.35.1",
+"label": "D. 7.1.35.1",
+"text": "Usus fructus servi mihi legatus est isque, cum ego uti frui desissem, liber esse iussus est: deinde ego ab herede aestimationem legati tuli: nihilo magis eum liberum fore Sabinus respondit (namque videri me uti frui homine, pro quo aliquam rem habeam), condicionem autem eius libertatis eandem manere, ita ut mortis meae aut capitis deminutionis interventu liber futurus esset."
+},
+{
+"id": "7.1.36.pr",
+"label": "D. 7.1.36 pr. (Africanus)",
+"text": "Qui usum fructum areae legaverat, insulam ibi aedificavit: ea vivo eo decidit vel deusta est: usum fructum deberi existimavit. Contra autem non idem iuris esse, si insulae usu fructu legato area, deinde insula facta sit. Idemque esse, et si scyphorum usus fructus legatus sit, deinde massa facta et iterum scyphi: licet enim pristina qualitas scyphorum restituta sit, non tamen illos esse, quorum usus fructus legatus sit.",
+"inscription": "Africanus libro quinto quaestionum"
+},
+{
+"id": "7.1.36.1",
+"label": "D. 7.1.36.1",
+"text": "Stipulatus sum de Titio fundum Cornelianum detracto usu fructu: Titius decessit: quaesitum est, quid mihi heredem eius praestare oportet. Respondit referre, qua mente usus fructus exceptus sit: nam si quidem hoc actum est, ut in cuiuslibet persona usus fructus constitueretur, solam proprietatem heredem debiturum: sin autem id actum sit, ut promissori dumtaxat usus fructus reciperetur, plenam proprietatem heredem eius debiturum. Hoc ita se habere manifestius in causa legatorum apparere: etenim si heres, a quo detracto usu fructu proprietas legata sit, priusquam ex testamento ageretur, decesserit, minus dubitandum, quin heres eius plenam proprietatem sit debiturus. Idemque et si sub condicione similiter legatum sit et pendente condicione heres decessit."
+},
+{
+"id": "7.1.36.2",
+"label": "D. 7.1.36.2",
+"text": "Usus fructus servi Titio legatus est: cum per heredem staret, quo minus praestaretur, servus mortuus est: aliud dici non posse ait, quam in id obligatum esse heredem, quanti legatarii intersit moram factam non esse, ut scilicet ex eo tempore in diem, in quo servus sit mortuus, usus fructus aestimetur. Cui illud quoque consequens esse, ut si ipse Titius moriatur, similiter ex eo tempore, quo mora sit facta, in diem mortis aestimatio usus fructus heredi eius praestaretur."
+},
+{
+"id": "7.1.37",
+"label": "D. 7.1.37 (Africanus)",
+"text": "Quaesitum est, si, cum in annos decem proximos usum fructum de te dari stipulatus essem, per te steterit quo minus dares et quinquennium transierit, quid iuris sit. Item si Stichi decem annorum proximorum operas de te dari stipulatus sim et similiter quinquennium praeteriit. Respondit eius temporis usum fructum et operas recte peti, quod per te transactum est quo minus darentur.",
+"inscription": "Africanus libro septimo quaestionum"
+},
+{
+"id": "7.1.38",
+"label": "D. 7.1.38 (Marcianus)",
+"text": "Non utitur usufructuarius, si nec ipse utatur nec nomine eius alius, puta qui emit vel qui conduxit vel cui donatus est vel qui negotium eius gerit. Plane illud interest, quod, si vendidero usum fructum, etiamsi emptor non utatur, videor usum fructum retinere,",
+"inscription": "Marcianus libro tertio institutionum"
+},
+{
+"id": "7.1.39",
+"label": "D. 7.1.39 (Gaius)",
+"text": "quia qui pretio fruitur, non minus habere intellegitur, quam qui principali re utitur fruitur.",
+"inscription": "Gaius libro septimo ad edictum provinciale"
+},
+{
+"id": "7.1.40",
+"label": "D. 7.1.40 (Marcianus)",
+"text": "Quod si donavero, non alias retineo, nisi ille utatur.",
+"inscription": "Marcianus libro tertio institutionum"
+},
+{
+"id": "7.1.41.pr",
+"label": "D. 7.1.41 pr. (Marcianus)",
+"text": "Statuae et imaginis usum fructum posse relinqui magis est, quia et ipsae habent aliquam utilitatem, si quo loco oportuno ponantur.",
+"inscription": "Marcianus libro septimo institutionum"
+},
+{
+"id": "7.1.41.1",
+"label": "D. 7.1.41.1",
+"text": "Licet praedia quaedam talia sint, ut magis in ea impendamus, quam de illis adquiramus, tamen usus fructus eorum relinqui potest."
+},
+{
+"id": "7.1.42.pr",
+"label": "D. 7.1.42 pr. (Florentinus)",
+"text": "Si alii usus, alii fructus eiusdem rei legetur, id percipiet fructuarius, quod usuario supererit: nec minus et ipse fruendi causa et usum habebit.",
+"inscription": "Florentinus libro 11 institutionum"
+},
+{
+"id": "7.1.42.1",
+"label": "D. 7.1.42.1",
+"text": "Rerum an aestimationis usus fructus tibi legetur, interest: nam si quidem rerum legetur, deducto eo, quod praeterea tibi legatum est, ex reliquis bonis usum fructum feres: sin autem aestimationis usus fructus legatus est, id quoque aestimabitur, quod praeterea tibi legatum est. Nam saepius idem legando non ampliat testator legatum: re autem legata etiam aestimationem eius legando ampliare legatum possumus."
+},
+{
+"id": "7.1.43",
+"label": "D. 7.1.43 (Ulpianus)",
+"text": "Etiam partis bonorum usus fructus legari potest. Si tamen non sit specialiter facta partis mentio, dimidia pars bonorum continetur.",
+"inscription": "Ulpianus libro septimo regularum"
+},
+{
+"id": "7.1.44",
+"label": "D. 7.1.44 (Neratius)",
+"text": "Usufructuarius novum tectorium parietibus, qui rudes fuissent, imponere non potest, quia tametsi meliorem excolendo aedificium domini causam facturus esset, non tamen id iure suo facere potest, aliudque est tueri quod accepisset an novum faceret.",
+"inscription": "Neratius libro tertio membranarum"
+},
+{
+"id": "7.1.45",
+"label": "D. 7.1.45 (Gaius)",
+"text": "Sicut impendia cibariorum in servum, cuius usus fructus ad aliquem pertinet, ita et valetudinis impendia ad eum respicere natura manifestum est.",
+"inscription": "Gaius libro septimo ad edictum provinciale"
+},
+{
+"id": "7.1.46.pr",
+"label": "D. 7.1.46 pr. (Paulus)",
+"text": "Si extraneo scripto et emancipato praeterito matri defuncti deducto usu fructu proprietas legata sit, petita contra tabulas bonorum possessione plena proprietas pietatis respectu matri praestanda est.",
+"inscription": "Paulus libro nono ad Plautium"
+},
+{
+"id": "7.1.46.1",
+"label": "D. 7.1.46.1",
+"text": "Si testator iusserit, ut heres reficeret insulam, cuius usum fructum legavit, potest fructuarius ex testamento agere, ut heres reficeret."
+},
+{
+"id": "7.1.47",
+"label": "D. 7.1.47 (Pomponius)",
+"text": "Quod si heres hoc non fecisset et ob id fructuarius frui non potuisset, heres etiam fructuarii eo nomine habebit actionem, quanti fructuarii interfuisset non cessasse heredem, licet usus fructus morte eius interisset.",
+"inscription": "Pomponius libro quinto ex Plautio"
+},
+{
+"id": "7.1.48.pr",
+"label": "D. 7.1.48 pr. (Paulus)",
+"text": "Si absente fructuario heres quasi negotium eius gerens reficiat, negotiorum gestorum actionem adversus fructuarium habet, tametsi sibi in futurum heres prospiceret. Sed si paratus sit recedere ab usu fructu fructuarius, non est cogendus reficere, sed actione negotiorum gestorum liberatur.",
+"inscription": "Paulus libro nono ad Plautium"
+},
+{
+"id": "7.1.48.1",
+"label": "D. 7.1.48.1",
+"text": "Silvam caeduam, etiamsi intempestive caesa sit, in fructu esse constat, sicut olea immatura lecta, item faenum immaturum caesum in fructu est."
+},
+{
+"id": "7.1.49",
+"label": "D. 7.1.49 (Pomponius)",
+"text": "Si mihi et tibi a Sempronio et Mucio heredibus usus fructus legatus sit, ego in partem Sempronii quadrantem, in partem Mucii alterum quadrantem habebo, tu item in utriusque parte eorum quadrantes habes.",
+"inscription": "Pomponius libro septimo ad Plautium"
+},
+{
+"id": "7.1.50",
+"label": "D. 7.1.50 (Paulus)",
+"text": "Titius Maevio fundum Tusculanum reliquit eiusque fidei commisit, ut eiusdem fundi partis dimidiae usum fructum titiae praestaret: Maevius villam vetustate corruptam necessariam cogendis et conservandis fructibus aedificavit: quaesitum est, an sumptus partem pro portione usus fructus titia adgnoscere debeat. Respondit scaevola, si priusquam usus fructus praestaretur, necessario aedificasset, non alias cogendum restituere quam eius sumptus ratio haberetur.",
+"inscription": "Paulus libro tertio ad Vitellium"
+},
+{
+"id": "7.1.51",
+"label": "D. 7.1.51 (Modestinus)",
+"text": "Titio \"cum morietur\" usus fructus inutiliter legari intellegitur, in id tempus videlicet collatus, quo \"qua\" a persona discedere incipit.",
+"inscription": "Modestinus libro nono differentiarum"
+},
+{
+"id": "7.1.52",
+"label": "D. 7.1.52 (Modestinus)",
+"text": "Usu fructu relicto si tributa eius rei praestentur, ea usufructuarium praestare debere dubium non est, nisi specialiter nomine fideicommissi testatori placuisse probetur haec quoque ab herede dari.",
+"inscription": "Modestinus libro nono regularum"
+},
+{
+"id": "7.1.53",
+"label": "D. 7.1.53 (Iavolenus)",
+"text": "Si cui insulae usus fructus legatus est, quamdiu quaelibet portio eius insulae remanet, totius soli usum fructum retinet.",
+"inscription": "Iavolenus libro secundo epistularum"
+},
+{
+"id": "7.1.54",
+"label": "D. 7.1.54 (Iavolenus)",
+"text": "Sub condicione usus fructus fundi a te herede Titio legatus est: tu fundum mihi vendidisti et tradidisti detracto usu fructu: quaero, si non extiterit condicio, aut extiterit et interiit usus fructus, ad quem pertineat. Respondit: intellego te de usu fructu quaerere qui legatus est: itaque si condicio eius legati extiterit, dubium non est, quin ad legatarium is usus fructus pertineat et si aliquo casu ab eo amissus fuerit, ad proprietatem fundi revertatur: quod si condicio non extiterit, usus fructus ad heredem pertinebit, ita ut in eius persona omnia eadem serventur, quae ad amittendum usum fructum pertinent et servari solent. Ceterum in eiusmodi venditione spectandum id erit, quod inter ementem vendentemque convenerit, ut, si apparuerit legati causa eum usum fructum exceptum esse, etiamsi condicio non extiterit, restitui a venditore emptori debeat.",
+"inscription": "Iavolenus libro tertio epistularum"
+},
+{
+"id": "7.1.55",
+"label": "D. 7.1.55 (Pomponius)",
+"text": "Si infantis usus tantummodo legatus sit, etiamsi nullus interim sit, cum tamen infantis aetatem excesserit, esse incipit.",
+"inscription": "Pomponius libro 26 ad Quintum Mucium"
+},
+{
+"id": "7.1.56",
+"label": "D. 7.1.56 (Gaius)",
+"text": "An usus fructus nomine actio municipibus dari debeat, quaesitum est: periculum enim esse videbatur, ne perpetuus fieret, quia neque morte nec facile capitis deminutione periturus est, qua ratione proprietas inutilis esset futura semper abscedente usu fructu. Sed tamen placuit dandam esse actionem. Unde sequens dubitatio est, quousque tuendi essent in eo usu fructu municipes: et placuit centum annos tuendos esse municipes, quia is finis vitae longaevi hominis est.",
+"inscription": "Gaius libro 17 ad edictum provinciale"
+},
+{
+"id": "7.1.57.pr",
+"label": "D. 7.1.57 pr. (Papinianus)",
+"text": "Dominus fructuario praedium, quod ei per usum fructum serviebat, legavit, idque praedium aliquamdiu possessum legatarius restituere filio, qui causam inofficiosi testamenti recte pertulerat, coactus est: mansisse fructus ius integrum ex post facto apparuit.",
+"inscription": "Papinianus libro septimo responsorum"
+},
+{
+"id": "7.1.57.1",
+"label": "D. 7.1.57.1",
+"text": "Per fideicommissum fructu praediorum ob alimenta libertis relicto partium emolumentum ex persona vita decedentium ad dominum proprietatis recurrit."
+},
+{
+"id": "7.1.58.pr",
+"label": "D. 7.1.58 pr. (Scaevola)",
+"text": "Defuncta fructuaria mense decembri iam omnibus fructibus, qui in his agris nascuntur, mense octobri per colonos sublatis quaesitum est, utrum pensio heredi fructuariae solvi deberet, quamvis fructuaria ante kalendas martias, quibus pensiones inferri debeant, decesserit, an dividi debeat inter heredem fructuariae et rem publicam, cui proprietas legata est. Respondi rem publicam quidem cum colono nullam actionem habere, fructuariae vero heredem sua die secundum ea quae proponerentur integram pensionem percepturum.",
+"inscription": "Scaevola libro tertio responsorum"
+},
+{
+"id": "7.1.58.1",
+"label": "D. 7.1.58.1",
+"text": "\"Sempronio do lego ex redactu fructuum holeris et porrinae, quae habeo in agro farrariorum, partem sextam\". Quaeritur, an his verbis usus fructus legatus videatur. Respondi non usum fructum, sed ex eo quod redactum esset partem legatam."
+},
+{
+"id": "7.1.58.2",
+"label": "D. 7.1.58.2",
+"text": "Item quaesitum est, si usus fructus non esset, an quotannis partem sextam redactam legaverit. Respondi quotannis videri relictum, nisi contrarium specialiter ab herede adprobetur."
+},
+{
+"id": "7.1.59.pr",
+"label": "D. 7.1.59 pr. (Paulus)",
+"text": "Arbores vi tempestatis, non culpa fructuarii eversas ab eo substitui non placet.",
+"inscription": "Paulus libro tertio sententiarum"
+},
+{
+"id": "7.1.59.1",
+"label": "D. 7.1.59.1",
+"text": "Quidquid in fundo nascitur vel quidquid inde percipitur, ad fructuarium pertinet, pensiones quoque iam antea locatorum agrorum, si ipsae quoque specialiter comprehensae sint. Sed ad exemplum venditionis, nisi fuerint specialiter exceptae, potest usufructuarius conductorem repellere."
+},
+{
+"id": "7.1.59.2",
+"label": "D. 7.1.59.2",
+"text": "Caesae harundinis vel pali compendium, si in eo quoque fundi vectigal esse consuevit, ad fructuarium pertinet."
+},
+{
+"id": "7.1.60.pr",
+"label": "D. 7.1.60 pr. (Paulus)",
+"text": "Cuiuscumque fundi usufructuarius prohibitus aut deiectus de restitutione omnium rerum simul occupatarum agit: sed et si medio tempore alio casu interciderit usus fructus, aeque de perceptis antea fructibus utilis actio tribuitur.",
+"inscription": "Paulus libro quinto sententiarum"
+},
+{
+"id": "7.1.60.1",
+"label": "D. 7.1.60.1",
+"text": "Si fundus, cuius usus fructus petitur, non a domino possideatur, actio redditur. Et ideo si de fundi proprietate inter duos quaestio sit, fructuarius nihilo minus in possessione esse debet satisque ei a possessore cavendum est, quod non sit prohibiturus frui eum, cui usus fructus relictus est, quamdiu de iure suo probet. Sed si ipsi usufructuario quaestio moveatur, interim usus fructus eius differtur: sed caveri de restituendo eo, quod ex his fructibus percepturus est, vel si satis non detur, ipse frui permittitur."
+},
+{
+"id": "7.1.61",
+"label": "D. 7.1.61 (Neratius)",
+"text": "Usufructuarius novum rivum parietibus non potest imponere. Aedificium inchoatum fructuarium consummare non posse placet, etiamsi eo loco aliter uti non possit, sed nec eius quidem usum fructum esse: nisi in constituendo vel legando usu fructu hoc specialiter adiectum sit, ut utrumque ei liceat.",
+"inscription": "Neratius libro secundo responsorum"
+},
+{
+"id": "7.1.62.pr",
+"label": "D. 7.1.62 pr. (Tryphoninus)",
+"text": "Usufructuarium venari in saltibus vel montibus possessionis probe dicitur: nec aprum aut cervum quem ceperit proprium domini capit, sed aut fructus iure aut gentium suos facit.",
+"inscription": "Tryphoninus libro septimo disputationum"
+},
+{
+"id": "7.1.62.1",
+"label": "D. 7.1.62.1",
+"text": "Si vivariis inclusae ferae in ea possessione custodiebantur, quando usus fructus coepit, num exercere eas fructuarius possit, occidere non possit? Alias si quas initio incluserit operis suis vel post sibimet ipsae inciderint delapsaeve fuerint, hae fructuarii iuris sint? Commodissime tamen, ne per singula animalia facultatis fructuarii propter discretionem difficilem ius incertum sit, sufficit eundem numerum per singula quoque genera ferarum finito usu fructu domino proprietatis adsignare, qui fuit coepti usus fructus tempore."
+},
+{
+"id": "7.1.63",
+"label": "D. 7.1.63 (Paulus)",
+"text": "Quod nostrum non est, transferemus ad alios: veluti is qui fundum habet, quamquam usum fructum non habeat, tamen usum fructum cedere potest.",
+"inscription": "Paulus libro singulari de iure singulari"
+},
+{
+"id": "7.1.64",
+"label": "D. 7.1.64 (Ulpianus)",
+"text": "Cum fructuarius paratus est usum fructum derelinquere, non est cogendus domum reficere, in quibus casibus et usufructuario hoc onus incumbit. Sed et post acceptum contra eum iudicium parato fructuario derelinquere usum fructum dicendum est absolvi eum debere a iudice.",
+"inscription": "Ulpianus libro 51 ad edictum"
+},
+{
+"id": "7.1.65.pr",
+"label": "D. 7.1.65 pr. (Pomponius)",
+"text": "Sed cum fructuarius debeat quod suo suorumque facto deterius factum sit reficere, non est absolvendus, licet usum fructum derelinquere paratus sit: debet enim omne, quod diligens pater familias in sua domo facit, et ipse facere.",
+"inscription": "Pomponius libro quinto ex Plautio"
+},
+{
+"id": "7.1.65.1",
+"label": "D. 7.1.65.1",
+"text": "Non magis heres reficere debet quod vetustate iam deterius factum reliquisset testator, quam si proprietatem alicui testator legasset."
+},
+{
+"id": "7.1.66",
+"label": "D. 7.1.66 (Paulus)",
+"text": "Cum usufructuario non solum legis Aquiliae actio competere potest, sed et servi corrupti et iniuriarum, si servum torquendo deteriorem fecerit.",
+"inscription": "Paulus libro 47 ad edictum"
+},
+{
+"id": "7.1.67",
+"label": "D. 7.1.67 (Iulianus)",
+"text": "Cui usus fructus legatus est, etiam invito herede eum extraneo vendere potest.",
+"inscription": "Iulianus libro primo ex Minicio"
+},
+{
+"id": "7.1.68.pr",
+"label": "D. 7.1.68 pr. (Ulpianus)",
+"text": "Vetus fuit quaestio, an partus ad fructuarium pertineret: sed bruti sententia optinuit fructuarium in eo locum non habere: neque enim in fructu hominis homo esse potest. Hac ratione nec usum fructum in eo fructuarius habebit. Quid tamen si fuerit etiam partus usus fructus relictus, an habeat in eo usum fructum? Et cum possit partus legari, poterit et usus fructus eius.",
+"inscription": "Ulpianus libro 17 ad Sabinum"
+},
+{
+"id": "7.1.68.1",
+"label": "D. 7.1.68.1",
+"text": "Fetus tamen pecorum Sabinus et Cassius opinati sunt ad fructuarium pertinere."
+},
+{
+"id": "7.1.68.2",
+"label": "D. 7.1.68.2",
+"text": "Plane si gregis vel armenti sit usus fructus legatus, debebit ex adgnatis gregem supplere, id est in locum capitum defunctorum."
+},
+{
+"id": "7.1.69",
+"label": "D. 7.1.69 (Pomponius)",
+"text": "Vel inutilium alia summittere, ut post substituta fiant propria fructuarii, ne lucro ea res cedat domino. Et sicut substituta statim domini fiunt, ita priora quoque ex natura fructus desinunt eius esse: nam alioquin quod nascitur fructuarii est et cum substituit, desinit eius esse.",
+"inscription": "Pomponius libro quinto ad Sabinum"
+},
+{
+"id": "7.1.70.pr",
+"label": "D. 7.1.70 pr. (Ulpianus)",
+"text": "Quid ergo si non faciat nec suppleat? Teneri eum proprietario Gaius Cassius scribit libro decimo iuris civilis.",
+"inscription": "Ulpianus libro 17 ad Sabinum"
+},
+{
+"id": "7.1.70.1",
+"label": "D. 7.1.70.1",
+"text": "Interim tamen, quamdiu summittantur et suppleantur capita quae demortua sunt, cuius sit fetus quaeritur. Et Iulianus libro tricensimo quinto digestorum scribit pendere eorum dominium, ut, si summittantur, sint proprietarii, si non summittantur, fructuarii: quae sententia vera est."
+},
+{
+"id": "7.1.70.2",
+"label": "D. 7.1.70.2",
+"text": "Secundum quae si decesserit fetus, periculum erit fructuarii, non proprietarii et necesse habebit alios fetus summittere. Unde Gaius Cassius libro octavo scribit carnem fetus demortui ad fructuarium pertinere."
+},
+{
+"id": "7.1.70.3",
+"label": "D. 7.1.70.3",
+"text": "Sed quod dicitur debere eum summittere, totiens verum est, quotiens gregis vel armenti vel equitii, id est universitatis usus fructus legatus est: ceterum si singulorum capitum, nihil supplebit."
+},
+{
+"id": "7.1.70.4",
+"label": "D. 7.1.70.4",
+"text": "Item si forte eo tempore, quo fetus editi sunt, nihil fuit quod summitti deberet, nunc et \"est\" post editionem: utrum ex his quae edentur summittere debebit, an ex his quae edita sunt, videndum est. Puto autem verius ea, quae pleno grege edita sunt, ad fructuarium pertinere, sed posteriorem gregis casum nocere debere fructuario."
+},
+{
+"id": "7.1.70.5",
+"label": "D. 7.1.70.5",
+"text": "Summittere autem facti est et Iulianus proprie dicit dispertire et dividere et divisionem quandam facere: quod dominium erit summissorum proprietarii."
+},
+{
+"id": "7.1.71",
+"label": "D. 7.1.71 (Marcellus)",
+"text": "Si in area, cuius usus fructus alienus esset, quis aedificasset, intra tempus quo usus fructus perit superficie sublata restitui usum fructum veteres responderunt.",
+"inscription": "Marcellus libro 17 digestorum"
+},
+{
+"id": "7.1.72",
+"label": "D. 7.1.72 (Ulpianus)",
+"text": "Si dominus nudae proprietatis usum fructum legaverit, verum est, quod Maecianus scripsit libro tertio quaestionum de fideicommissis, valere legatum: et si forte in vita testatoris vel ante aditam hereditatem proprietati accesserit, ad legatarium pertinere. Plus admittit Maecianus, etiamsi post aditam hereditatem accessisset usus fructus, utiliter diem cedere et ad legatarium pertinere.",
+"inscription": "Ulpianus libro 17 ad Sabinum"
+},
+{
+"id": "7.1.73",
+"label": "D. 7.1.73 (Pomponius)",
+"text": "Si areae usus fructus legatus sit mihi, posse me casam ibi aedificare custodiae causa earum rerum, quae in area sint.",
+"inscription": "Pomponius libro quinto ad Sabinum"
+},
+{
+"id": "7.1.74",
+"label": "D. 7.1.74 (Gaius)",
+"text": "Si Sticho servo tuo et Pamphilo meo legatus fuerit usus fructus, tale est legatum, quale si mihi et tibi legatus esset: et ideo dubium non est, quin aequaliter ad nos pertineat.",
+"inscription": "Gaius libro septimo ad edictum provinciale"
+}
+]
+}

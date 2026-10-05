@@ -1,0 +1,857 @@
+{
+"corpus": "juvenal-satires",
+"unit": "2",
+"title": "Juvenal, Satires, 2",
+"passages": [
+{
+"id": "2.1",
+"label": "Juv. 2.1",
+"text": "ultra Sauromatas fugere hinc libet et glacialem"
+},
+{
+"id": "2.2",
+"label": "Juv. 2.2",
+"text": "Oceanum, quotiens aliquid de moribus audent"
+},
+{
+"id": "2.3",
+"label": "Juv. 2.3",
+"text": "qui Curios simulant et Bacchanalia vivunt,"
+},
+{
+"id": "2.4",
+"label": "Juv. 2.4",
+"text": "indocti primum, quamquam plena omnia gypso"
+},
+{
+"id": "2.5",
+"label": "Juv. 2.5",
+"text": "Chrysippi invenias; nam perfectissimus horum,"
+},
+{
+"id": "2.6",
+"label": "Juv. 2.6",
+"text": "si quis Aristotelen similem vel Pittacon emit"
+},
+{
+"id": "2.7",
+"label": "Juv. 2.7",
+"text": "et iubet archetypos pluteum servare Cleanthas."
+},
+{
+"id": "2.8",
+"label": "Juv. 2.8",
+"text": "frontis nulla fides; quis enim non vicus abundat"
+},
+{
+"id": "2.9",
+"label": "Juv. 2.9",
+"text": "tristibus obscaenis? castigas turpia, cum sis"
+},
+{
+"id": "2.10",
+"label": "Juv. 2.10",
+"text": "inter Socraticos notissima fossa cinaedos?"
+},
+{
+"id": "2.11",
+"label": "Juv. 2.11",
+"text": "hispida membra quidem et durae per bracchia saetae"
+},
+{
+"id": "2.12",
+"label": "Juv. 2.12",
+"text": "promittunt atrocem animum, sed podice levi"
+},
+{
+"id": "2.13",
+"label": "Juv. 2.13",
+"text": "caeduntur tumidae medico ridente mariscae."
+},
+{
+"id": "2.14",
+"label": "Juv. 2.14",
+"text": "rarus sermo illis et magna libido tacendi"
+},
+{
+"id": "2.15",
+"label": "Juv. 2.15",
+"text": "atque supercilio brevior coma. verius ergo"
+},
+{
+"id": "2.16",
+"label": "Juv. 2.16",
+"text": "et magis ingenue Peribomius; hunc ego fatis"
+},
+{
+"id": "2.17",
+"label": "Juv. 2.17",
+"text": "inputo, qui vultu morbum incessuque fatetur."
+},
+{
+"id": "2.18",
+"label": "Juv. 2.18",
+"text": "horum simplicitas miserabilis, his furor ipse"
+},
+{
+"id": "2.19",
+"label": "Juv. 2.19",
+"text": "dat veniam; sed peiores, qui talia verbis"
+},
+{
+"id": "2.20",
+"label": "Juv. 2.20",
+"text": "Herculis invadunt et de virtute locuti"
+},
+{
+"id": "2.21",
+"label": "Juv. 2.21",
+"text": "clunem agitant, ego te ceventem, Sexte, verebor?"
+},
+{
+"id": "2.22",
+"label": "Juv. 2.22",
+"text": "infamis Varillus ait quo deterior te?"
+},
+{
+"id": "2.23",
+"label": "Juv. 2.23",
+"text": "loripedem rectus derideat, Aethiopem albus;"
+},
+{
+"id": "2.24",
+"label": "Juv. 2.24",
+"text": "quis tulerit Gracchos de seditione querentes?"
+},
+{
+"id": "2.25",
+"label": "Juv. 2.25",
+"text": "quis caelum terris non misceat et mare caelo,"
+},
+{
+"id": "2.26",
+"label": "Juv. 2.26",
+"text": "si fur displiceat Verri, homicida Miloni,"
+},
+{
+"id": "2.27",
+"label": "Juv. 2.27",
+"text": "Clodius accuset moechos, Catilina Cethegum,"
+},
+{
+"id": "2.28",
+"label": "Juv. 2.28",
+"text": "in tabulam Syllae si dicant discipuli tres?"
+},
+{
+"id": "2.29",
+"label": "Juv. 2.29",
+"text": "qualis erat nuper tragico pollutus adulter"
+},
+{
+"id": "2.30",
+"label": "Juv. 2.30",
+"text": "concubitu, qui tunc leges revocabat amaras"
+},
+{
+"id": "2.31",
+"label": "Juv. 2.31",
+"text": "omnibus atque ipsis Veneri Martique timendas,"
+},
+{
+"id": "2.32",
+"label": "Juv. 2.32",
+"text": "cum tot abortivis fecundam Iulia vulvam"
+},
+{
+"id": "2.33",
+"label": "Juv. 2.33",
+"text": "solveret et patruo similes effunderet offas."
+},
+{
+"id": "2.34",
+"label": "Juv. 2.34",
+"text": "nonne igitur iure ac merito vitia ultima fictos"
+},
+{
+"id": "2.35",
+"label": "Juv. 2.35",
+"text": "contemnunt Scauros et castigata remordent?"
+},
+{
+"id": "2.36",
+"label": "Juv. 2.36",
+"text": "Non tulit ex illis torvum Laronia quendam"
+},
+{
+"id": "2.37",
+"label": "Juv. 2.37",
+"text": "clamantem totiens ubi nunc, lex Iulia? dormis?"
+},
+{
+"id": "2.38",
+"label": "Juv. 2.38",
+"text": "atque ita subridens: ‘felicia tempora, quae te"
+},
+{
+"id": "2.39",
+"label": "Juv. 2.39",
+"text": "moribus opponunt. habeat iam Roma pudorem,"
+},
+{
+"id": "2.40",
+"label": "Juv. 2.40",
+"text": "tertius e caelo cecidit Cato. sed tamen unde"
+},
+{
+"id": "2.41",
+"label": "Juv. 2.41",
+"text": "haec emis, hirsuto spirant opobalsama collo"
+},
+{
+"id": "2.42",
+"label": "Juv. 2.42",
+"text": "quae tibi? ne pudeat dominum monstrare tabernae,"
+},
+{
+"id": "2.43",
+"label": "Juv. 2.43",
+"text": "quod si vexantur leges ac iura, citari"
+},
+{
+"id": "2.44",
+"label": "Juv. 2.44",
+"text": "ante omnes debet Scantinia: respice primum"
+},
+{
+"id": "2.45",
+"label": "Juv. 2.45",
+"text": "et scrutare viros; faciunt nam plura, sed illos"
+},
+{
+"id": "2.46",
+"label": "Juv. 2.46",
+"text": "defendit numerus iunctaeque umbone phalanges,"
+},
+{
+"id": "2.47",
+"label": "Juv. 2.47",
+"text": "magna inter molles concordia, non erit ullum"
+},
+{
+"id": "2.48",
+"label": "Juv. 2.48",
+"text": "exemplum in nostro tam detestabile sexu."
+},
+{
+"id": "2.49",
+"label": "Juv. 2.49",
+"text": "Media non lambit Cluviam nec Flora Catullam:"
+},
+{
+"id": "2.50",
+"label": "Juv. 2.50",
+"text": "Hispo subit iuvenes et morbo pallet utroque."
+},
+{
+"id": "2.51",
+"label": "Juv. 2.51",
+"text": "Numquid nos agimus causas, civilia iura"
+},
+{
+"id": "2.52",
+"label": "Juv. 2.52",
+"text": "novimus, aut ullo strepitu fora vestra movemus?"
+},
+{
+"id": "2.53",
+"label": "Juv. 2.53",
+"text": "luctantur paucae, comedunt colyphia paucae:"
+},
+{
+"id": "2.54",
+"label": "Juv. 2.54",
+"text": "vos lanam trahitis calathisque peracta refertis"
+},
+{
+"id": "2.55",
+"label": "Juv. 2.55",
+"text": "vellera, vos tenui praegnantem stamine fusum"
+},
+{
+"id": "2.56",
+"label": "Juv. 2.56",
+"text": "Penelope melius, levius torquetis Arachne,"
+},
+{
+"id": "2.57",
+"label": "Juv. 2.57",
+"text": "horrida quale facit residens in codice paelex,"
+},
+{
+"id": "2.58",
+"label": "Juv. 2.58",
+"text": "notum est cur solo tabulas inpleverit Hister"
+},
+{
+"id": "2.59",
+"label": "Juv. 2.59",
+"text": "liberto, dederit vivus cur multa puellae;"
+},
+{
+"id": "2.60",
+"label": "Juv. 2.60",
+"text": "dives erit magno quae dormit tertia lecto;"
+},
+{
+"id": "2.61",
+"label": "Juv. 2.61",
+"text": "tu nube atque tace: donant arcana cylindros."
+},
+{
+"id": "2.62",
+"label": "Juv. 2.62",
+"text": "de nobis post haec tristis sententia fertur?"
+},
+{
+"id": "2.63",
+"label": "Juv. 2.63",
+"text": "dat veniam corvis, vexat censura columbas.’"
+},
+{
+"id": "2.64",
+"label": "Juv. 2.64",
+"text": "Fugerunt trepidi vera ac manifesta canentem"
+},
+{
+"id": "2.65",
+"label": "Juv. 2.65",
+"text": "Stoicidae; quid enim falsi Laronia? sed quid"
+},
+{
+"id": "2.66",
+"label": "Juv. 2.66",
+"text": "non facient alii, cum tu multicia sumas,"
+},
+{
+"id": "2.67",
+"label": "Juv. 2.67",
+"text": "Cretice, et hanc vestem populo mirante perores"
+},
+{
+"id": "2.68",
+"label": "Juv. 2.68",
+"text": "in Proculas et Pollittas? est moecha Fabulla,"
+},
+{
+"id": "2.69",
+"label": "Juv. 2.69",
+"text": "damnetur, si vis, etiam Carfinia: talem"
+},
+{
+"id": "2.70",
+"label": "Juv. 2.70",
+"text": "non sumet damnata togam. ‘sed Iulius ardet,"
+},
+{
+"id": "2.71",
+"label": "Juv. 2.71",
+"text": "aestuo.’ nudus agas: minus est insania turpis,"
+},
+{
+"id": "2.72",
+"label": "Juv. 2.72",
+"text": "en habitum quo te leges ac iura ferentem"
+},
+{
+"id": "2.73",
+"label": "Juv. 2.73",
+"text": "vulneribus crudis populus modo victor, et illud"
+},
+{
+"id": "2.74",
+"label": "Juv. 2.74",
+"text": "montanum positis audiret vulgus aratris."
+},
+{
+"id": "2.75",
+"label": "Juv. 2.75",
+"text": "quid non proclames, in corpore iudicis ista"
+},
+{
+"id": "2.76",
+"label": "Juv. 2.76",
+"text": "si videas? quaero an deceant multicia testem,"
+},
+{
+"id": "2.77",
+"label": "Juv. 2.77",
+"text": "acer et indomitus libertatisque magister,"
+},
+{
+"id": "2.78",
+"label": "Juv. 2.78",
+"text": "Cretice, perluces. dedit hanc contagio labem"
+},
+{
+"id": "2.79",
+"label": "Juv. 2.79",
+"text": "et dabit in plures, sicut grex totus in agris"
+},
+{
+"id": "2.80",
+"label": "Juv. 2.80",
+"text": "unius scabie cadit et porrigine porci"
+},
+{
+"id": "2.81",
+"label": "Juv. 2.81",
+"text": "uvaque conspecta livorem ducit ab uva."
+},
+{
+"id": "2.82",
+"label": "Juv. 2.82",
+"text": "Foedius hoc aliquid quandoque audebis amictu;"
+},
+{
+"id": "2.83",
+"label": "Juv. 2.83",
+"text": "nemo repente fuit turpissimus, accipient te"
+},
+{
+"id": "2.84",
+"label": "Juv. 2.84",
+"text": "paulatim qui longa domi redimicula sumunt"
+},
+{
+"id": "2.85",
+"label": "Juv. 2.85",
+"text": "frontibus et toto posuere monilia collo,"
+},
+{
+"id": "2.86",
+"label": "Juv. 2.86",
+"text": "atque bonam tenerae placant abdomine porcae"
+},
+{
+"id": "2.87",
+"label": "Juv. 2.87",
+"text": "et magno cratere deam; sed more sinistro"
+},
+{
+"id": "2.88",
+"label": "Juv. 2.88",
+"text": "exagitata procul non intrat femina limen:"
+},
+{
+"id": "2.89",
+"label": "Juv. 2.89",
+"text": "solis ara deae maribus patet, ite profanae,"
+},
+{
+"id": "2.90",
+"label": "Juv. 2.90",
+"text": "clamatur, nullo gemit hic tibicina cornu."
+},
+{
+"id": "2.91",
+"label": "Juv. 2.91",
+"text": "talia secreta coluerunt orgia taeda"
+},
+{
+"id": "2.92",
+"label": "Juv. 2.92",
+"text": "Cecropiam soliti Baptae lassare Cotyton."
+},
+{
+"id": "2.93",
+"label": "Juv. 2.93",
+"text": "ille supercilium madida fuligine tinctum"
+},
+{
+"id": "2.94",
+"label": "Juv. 2.94",
+"text": "obliqua producit acu pingitque trementis"
+},
+{
+"id": "2.95",
+"label": "Juv. 2.95",
+"text": "attolens oculos; vitreo bibit ille priapo,"
+},
+{
+"id": "2.96",
+"label": "Juv. 2.96",
+"text": "reticulumque comis aura tum ingentibus implet"
+},
+{
+"id": "2.97",
+"label": "Juv. 2.97",
+"text": "caerulea indutus scutulata aut galbina rasa,"
+},
+{
+"id": "2.98",
+"label": "Juv. 2.98",
+"text": "et per Iunonem domini iurante ministro;"
+},
+{
+"id": "2.99",
+"label": "Juv. 2.99",
+"text": "ille tenet speculum, pathici gestamen Othonis,"
+},
+{
+"id": "2.100",
+"label": "Juv. 2.100",
+"text": "Actoris Aurunci spolium, quo se ille videbat"
+},
+{
+"id": "2.101",
+"label": "Juv. 2.101",
+"text": "armatum, cum iam tolli vexilla iuberet,"
+},
+{
+"id": "2.102",
+"label": "Juv. 2.102",
+"text": "res memoranda novis annalibus atque recenti"
+},
+{
+"id": "2.103",
+"label": "Juv. 2.103",
+"text": "historia, speculum civilis sarcina belli;"
+},
+{
+"id": "2.104",
+"label": "Juv. 2.104",
+"text": "nimirum summi ducis est occidere Galbam"
+},
+{
+"id": "2.105",
+"label": "Juv. 2.105",
+"text": "et curare cutem; summi constantia civis"
+},
+{
+"id": "2.106",
+"label": "Juv. 2.106",
+"text": "Bebriacis campis spolium adfectare Palati,"
+},
+{
+"id": "2.107",
+"label": "Juv. 2.107",
+"text": "et pressum in faciem digitis extendere panem,"
+},
+{
+"id": "2.108",
+"label": "Juv. 2.108",
+"text": "quod nec in Assyrio pharetrata Samiramis orbe,"
+},
+{
+"id": "2.109",
+"label": "Juv. 2.109",
+"text": "maesta nec Actiaca fecit Cleopatra carina,"
+},
+{
+"id": "2.110",
+"label": "Juv. 2.110",
+"text": "hic nullus verbis pudor aut reverentia mensae,"
+},
+{
+"id": "2.111",
+"label": "Juv. 2.111",
+"text": "hic turpis Cybeles et fracta voce loquendi"
+},
+{
+"id": "2.112",
+"label": "Juv. 2.112",
+"text": "libertas et crine senex fanaticus albo"
+},
+{
+"id": "2.113",
+"label": "Juv. 2.113",
+"text": "sacrorum antistes, rarum ac memorabile magni"
+},
+{
+"id": "2.114",
+"label": "Juv. 2.114",
+"text": "gutturis exemplum conducendusque magister,"
+},
+{
+"id": "2.115",
+"label": "Juv. 2.115",
+"text": "quid tamen expectant, Phrygio quos tempus erat iam"
+},
+{
+"id": "2.116",
+"label": "Juv. 2.116",
+"text": "more supervacuam cultris abrumpere carnem?"
+},
+{
+"id": "2.117",
+"label": "Juv. 2.117",
+"text": "Quadringenta dedit Gracchus sestertia dotem"
+},
+{
+"id": "2.118",
+"label": "Juv. 2.118",
+"text": "cornicini, sive hic recto cantaverat aere;"
+},
+{
+"id": "2.119",
+"label": "Juv. 2.119",
+"text": "signatae tabulae, dictum feliciter, ingens"
+},
+{
+"id": "2.120",
+"label": "Juv. 2.120",
+"text": "cena sedet, gremio iacuit nova nupta mariti."
+},
+{
+"id": "2.121",
+"label": "Juv. 2.121",
+"text": "o proceres, censore opus est an haruspice nobis?"
+},
+{
+"id": "2.122",
+"label": "Juv. 2.122",
+"text": "scilicet horreres maioraque monstra putares,"
+},
+{
+"id": "2.123",
+"label": "Juv. 2.123",
+"text": "si mulier vitulum vel si bos ederet agnum?"
+},
+{
+"id": "2.124",
+"label": "Juv. 2.124",
+"text": "segmenta et longos habitus et flammea sumit"
+},
+{
+"id": "2.125",
+"label": "Juv. 2.125",
+"text": "arcano qui sacra ferens nutantia loro"
+},
+{
+"id": "2.126",
+"label": "Juv. 2.126",
+"text": "sudavit clupeis ancilibus. o pater urbis,"
+},
+{
+"id": "2.127",
+"label": "Juv. 2.127",
+"text": "unde nefas tantum Latiis pastoribus? unde"
+},
+{
+"id": "2.128",
+"label": "Juv. 2.128",
+"text": "haec tetigit, Gradive, tuos urtica nepotes?"
+},
+{
+"id": "2.129",
+"label": "Juv. 2.129",
+"text": "traditur ecce viro clarus genere atque opibus vir,"
+},
+{
+"id": "2.130",
+"label": "Juv. 2.130",
+"text": "nec galeam quassas, nec terram cuspide pulsas,"
+},
+{
+"id": "2.131",
+"label": "Juv. 2.131",
+"text": "nec quereris patri? vade ergo et cede severi"
+},
+{
+"id": "2.132",
+"label": "Juv. 2.132",
+"text": "iugeribus campi, quem neglegis. ‘Officium cras"
+},
+{
+"id": "2.133",
+"label": "Juv. 2.133",
+"text": "primo sole mihi peragendum in valle Quirini.’"
+},
+{
+"id": "2.134",
+"label": "Juv. 2.134",
+"text": "quae causa officii? ‘quid quaeris? nubit amicus"
+},
+{
+"id": "2.135",
+"label": "Juv. 2.135",
+"text": "nec multos adhibet.’ liceat modo vivere, fient,"
+},
+{
+"id": "2.136",
+"label": "Juv. 2.136",
+"text": "fient ista palam, cupient et in acta referri,"
+},
+{
+"id": "2.137",
+"label": "Juv. 2.137",
+"text": "interea tormentum ingens nubentibus haeret"
+},
+{
+"id": "2.138",
+"label": "Juv. 2.138",
+"text": "quod nequeant parere et partu retinere maritos,"
+},
+{
+"id": "2.139",
+"label": "Juv. 2.139",
+"text": "sed melius, quod nil animis in corpora iuris"
+},
+{
+"id": "2.140",
+"label": "Juv. 2.140",
+"text": "natura indulget: steriles moriuntur, et illis"
+},
+{
+"id": "2.141",
+"label": "Juv. 2.141",
+"text": "turgida non prodest condita pyxide Lyde,"
+},
+{
+"id": "2.142",
+"label": "Juv. 2.142",
+"text": "nec prodest agili palmas praebere luperco."
+},
+{
+"id": "2.143",
+"label": "Juv. 2.143",
+"text": "Vicit et hoc monstrum tunicati fuscina Gracchi,"
+},
+{
+"id": "2.144",
+"label": "Juv. 2.144",
+"text": "lustravitque fuga mediam gladiator harenam"
+},
+{
+"id": "2.145",
+"label": "Juv. 2.145",
+"text": "et Capitolinis generosior et Marcellis"
+},
+{
+"id": "2.146",
+"label": "Juv. 2.146",
+"text": "et Catuli Paulique minoribus et Fabiis et"
+},
+{
+"id": "2.147",
+"label": "Juv. 2.147",
+"text": "omnibus ad podium spectantibus, his licet ipsum"
+},
+{
+"id": "2.148",
+"label": "Juv. 2.148",
+"text": "admoveas cuius tunc munere retia misit."
+},
+{
+"id": "2.149",
+"label": "Juv. 2.149",
+"text": "Esse aliquos manes et subterranea regna"
+},
+{
+"id": "2.150",
+"label": "Juv. 2.150",
+"text": "Cocytum et Stygio ranas in gurgite nigras,"
+},
+{
+"id": "2.151",
+"label": "Juv. 2.151",
+"text": "atque una transire vadum tot milia cumba"
+},
+{
+"id": "2.152",
+"label": "Juv. 2.152",
+"text": "nec pueri credunt, nisi qui nondum aere lavantur."
+},
+{
+"id": "2.153",
+"label": "Juv. 2.153",
+"text": "sed tu vera puta: Curius quid sentit et ambo"
+},
+{
+"id": "2.154",
+"label": "Juv. 2.154",
+"text": "Scipiadae, quid Fabricius manesque Camilli,"
+},
+{
+"id": "2.155",
+"label": "Juv. 2.155",
+"text": "quid Cremerae legio et Cannis consumpta iuventus,"
+},
+{
+"id": "2.156",
+"label": "Juv. 2.156",
+"text": "tot bellorum animae, quotiens hinc talis ad illos"
+},
+{
+"id": "2.157",
+"label": "Juv. 2.157",
+"text": "umbra venit? cuperent lustrari, si qua darentur"
+},
+{
+"id": "2.158",
+"label": "Juv. 2.158",
+"text": "sulpura cum taedis et si foret umida laurus,"
+},
+{
+"id": "2.159",
+"label": "Juv. 2.159",
+"text": "illic heu miseri traducimur. arma quidem ultra"
+},
+{
+"id": "2.160",
+"label": "Juv. 2.160",
+"text": "litora Iuvernae promovimus et modo captas"
+},
+{
+"id": "2.161",
+"label": "Juv. 2.161",
+"text": "Orcadas ac minima contentos nocte Britannos;"
+},
+{
+"id": "2.162",
+"label": "Juv. 2.162",
+"text": "sed quae nunc populi fiunt victoris in urbe,"
+},
+{
+"id": "2.163",
+"label": "Juv. 2.163",
+"text": "non faciunt illi quos vicimus, et tamen unus"
+},
+{
+"id": "2.164",
+"label": "Juv. 2.164",
+"text": "Armenius Zalaces cunctis narratur ephebis"
+},
+{
+"id": "2.165",
+"label": "Juv. 2.165",
+"text": "mollior ardenti sese indulsisse tribuno."
+},
+{
+"id": "2.166",
+"label": "Juv. 2.166",
+"text": "aspice quid faciant commercia: venerat obses,"
+},
+{
+"id": "2.167",
+"label": "Juv. 2.167",
+"text": "hic fiunt homines, nam si mora longior urbem"
+},
+{
+"id": "2.168",
+"label": "Juv. 2.168",
+"text": "indulsit pueris, non umquam derit amator,"
+},
+{
+"id": "2.169",
+"label": "Juv. 2.169",
+"text": "mittentur bracae cultelli frena flagellum;"
+},
+{
+"id": "2.170",
+"label": "Juv. 2.170",
+"text": "sic praetextatos referunt Artaxata mores."
+}
+]
+}

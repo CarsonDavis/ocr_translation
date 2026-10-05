@@ -1,0 +1,827 @@
+{
+"corpus": "ovid-heroides",
+"unit": "6",
+"title": "Ovid, Heroides (Epistulae), Her. 6",
+"passages": [
+{
+"id": "6.1",
+"label": "Ov. Her. 6.1",
+"text": "Litora Thessaliae reduci tetigisse carina"
+},
+{
+"id": "6.2",
+"label": "Ov. Her. 6.2",
+"text": "Diceris auratae vellere dives ovis."
+},
+{
+"id": "6.3",
+"label": "Ov. Her. 6.3",
+"text": "Gratulor incolumi, quantum sinis; hoc tamen ipsum"
+},
+{
+"id": "6.4",
+"label": "Ov. Her. 6.4",
+"text": "Debueram scripto certior esse tuo."
+},
+{
+"id": "6.5",
+"label": "Ov. Her. 6.5",
+"text": "Nam ne pacta tibi praeter mea regna redires,"
+},
+{
+"id": "6.6",
+"label": "Ov. Her. 6.6",
+"text": "Cum cuperes, ventos non habuisse potes;"
+},
+{
+"id": "6.7",
+"label": "Ov. Her. 6.7",
+"text": "Quamlibet adverso signatur epistula vento."
+},
+{
+"id": "6.8",
+"label": "Ov. Her. 6.8",
+"text": "Hypsipyle missa digna salute fui."
+},
+{
+"id": "6.9",
+"label": "Ov. Her. 6.9",
+"text": "Cur mihi fama prior de te quam littera venit:"
+},
+{
+"id": "6.10",
+"label": "Ov. Her. 6.10",
+"text": "Isse sacros Marti sub iuga panda boves,"
+},
+{
+"id": "6.11",
+"label": "Ov. Her. 6.11",
+"text": "Seminibus iactis segetes adolesse virorum"
+},
+{
+"id": "6.12",
+"label": "Ov. Her. 6.12",
+"text": "Inque necem dextra non eguisse tua,"
+},
+{
+"id": "6.13",
+"label": "Ov. Her. 6.13",
+"text": "Pervigilem spolium pecudis servasse draconem,"
+},
+{
+"id": "6.14",
+"label": "Ov. Her. 6.14",
+"text": "Rapta tamen forti vellera fulva manu?"
+},
+{
+"id": "6.15",
+"label": "Ov. Her. 6.15",
+"text": "O ego, si possem timide credentibus ista"
+},
+{
+"id": "6.16",
+"label": "Ov. Her. 6.16",
+"text": "'Ipse mihi scripsit' dicere, quanta forem!"
+},
+{
+"id": "6.17",
+"label": "Ov. Her. 6.17",
+"text": "Quid queror officium lenti cessasse mariti?"
+},
+{
+"id": "6.18",
+"label": "Ov. Her. 6.18",
+"text": "Obsequium, maneo si tua, grande tuli!"
+},
+{
+"id": "6.19",
+"label": "Ov. Her. 6.19",
+"text": "Barbara narratur venisse venefica tecum,"
+},
+{
+"id": "6.20",
+"label": "Ov. Her. 6.20",
+"text": "In mihi promissi parte recepta tori."
+},
+{
+"id": "6.21",
+"label": "Ov. Her. 6.21",
+"text": "Credula res amor est; utinam temeraria dicar"
+},
+{
+"id": "6.22",
+"label": "Ov. Her. 6.22",
+"text": "Criminibus falsis insimulasse virum!"
+},
+{
+"id": "6.23",
+"label": "Ov. Her. 6.23",
+"text": "Nuper ab Haemoniis hospes mihi Thessalus oris"
+},
+{
+"id": "6.24",
+"label": "Ov. Her. 6.24",
+"text": "Venit et, ut tactum vix bene limen erat,"
+},
+{
+"id": "6.25",
+"label": "Ov. Her. 6.25",
+"text": "'Aesonides,' dixi, 'quid agit meus?' ille pudore"
+},
+{
+"id": "6.26",
+"label": "Ov. Her. 6.26",
+"text": "Haesit in opposita lumina fixus humo."
+},
+{
+"id": "6.27",
+"label": "Ov. Her. 6.27",
+"text": "Protinus exilui tunicisque a pectore ruptis"
+},
+{
+"id": "6.28",
+"label": "Ov. Her. 6.28",
+"text": "'Vivit? an,' exclamo, 'me quoque fata vocant?'"
+},
+{
+"id": "6.29",
+"label": "Ov. Her. 6.29",
+"text": "'Vivit,' ait. timidum quod amat; iurare coegi."
+},
+{
+"id": "6.30",
+"label": "Ov. Her. 6.30",
+"text": "Vix mihi teste deo credita vita tua est."
+},
+{
+"id": "6.31",
+"label": "Ov. Her. 6.31",
+"text": "Utque animus rediit, tua facta requirere coepi."
+},
+{
+"id": "6.32",
+"label": "Ov. Her. 6.32",
+"text": "Narrat aenipedes Martis arasse boves,"
+},
+{
+"id": "6.33",
+"label": "Ov. Her. 6.33",
+"text": "Vipereos dentes in humum pro semine iactos,"
+},
+{
+"id": "6.34",
+"label": "Ov. Her. 6.34",
+"text": "Et subito natos arma tulisse viros —"
+},
+{
+"id": "6.35",
+"label": "Ov. Her. 6.35",
+"text": "Terrigenas populos civili Marte peremptos"
+},
+{
+"id": "6.36",
+"label": "Ov. Her. 6.36",
+"text": "Inplesse aetatis fata diurna suae."
+},
+{
+"id": "6.37",
+"label": "Ov. Her. 6.37",
+"text": "Devictus serpens. iterum, si vivat Iason,"
+},
+{
+"id": "6.38",
+"label": "Ov. Her. 6.38",
+"text": "Quaerimus; alternant spesque timorque vicem."
+},
+{
+"id": "6.39",
+"label": "Ov. Her. 6.39",
+"text": "Singula dum narrat, studio cursuque loquendi"
+},
+{
+"id": "6.40",
+"label": "Ov. Her. 6.40",
+"text": "Detegit ingenio vulnera nostra suo."
+},
+{
+"id": "6.41",
+"label": "Ov. Her. 6.41",
+"text": "Heu! ubi pacta fides? ubi conubialia iura"
+},
+{
+"id": "6.42",
+"label": "Ov. Her. 6.42",
+"text": "Faxque sub arsuros dignior ire rogos?"
+},
+{
+"id": "6.43",
+"label": "Ov. Her. 6.43",
+"text": "Non ego sum furto tibi cognita; pronuba Iuno"
+},
+{
+"id": "6.44",
+"label": "Ov. Her. 6.44",
+"text": "Adfuit et sertis tempora vinctus Hymen."
+},
+{
+"id": "6.45",
+"label": "Ov. Her. 6.45",
+"text": "At mihi nec Iuno, nec Hymen, sed tristis Erinys"
+},
+{
+"id": "6.46",
+"label": "Ov. Her. 6.46",
+"text": "Praetulit infaustas sanguinolenta faces."
+},
+{
+"id": "6.47",
+"label": "Ov. Her. 6.47",
+"text": "Quid mihi cum Minyis, quid cum Dodonide pinu?"
+},
+{
+"id": "6.48",
+"label": "Ov. Her. 6.48",
+"text": "Quid tibi cum patria, navita Tiphy, mea?"
+},
+{
+"id": "6.49",
+"label": "Ov. Her. 6.49",
+"text": "Non erat hic aries villo spectabilis aureo,"
+},
+{
+"id": "6.50",
+"label": "Ov. Her. 6.50",
+"text": "Nec senis Aeetae regia Lemnos erat."
+},
+{
+"id": "6.51",
+"label": "Ov. Her. 6.51",
+"text": "Certa fui primo (sed me mala fata trahebant)"
+},
+{
+"id": "6.52",
+"label": "Ov. Her. 6.52",
+"text": "Hospita feminea pellere castra manu;"
+},
+{
+"id": "6.53",
+"label": "Ov. Her. 6.53",
+"text": "Lemniadesque viros, nimium quoque, vincere norunt."
+},
+{
+"id": "6.54",
+"label": "Ov. Her. 6.54",
+"text": "Milite tam forti terra tuenda fuit!"
+},
+{
+"id": "6.55",
+"label": "Ov. Her. 6.55",
+"text": "Urbe virum iuvi, tectoque animoque recepi!"
+},
+{
+"id": "6.56",
+"label": "Ov. Her. 6.56",
+"text": "Hic tibi bisque aestas bisque cucurrit hiemps."
+},
+{
+"id": "6.57",
+"label": "Ov. Her. 6.57",
+"text": "Tertia messis erat, cum tu dare vela coactus"
+},
+{
+"id": "6.58",
+"label": "Ov. Her. 6.58",
+"text": "Inplesti lacrimis talia verba suis:"
+},
+{
+"id": "6.59",
+"label": "Ov. Her. 6.59",
+"text": "'Abstrahor, Hypsipyle; sed dent modo fata recursus,"
+},
+{
+"id": "6.60",
+"label": "Ov. Her. 6.60",
+"text": "Vir tuus hinc abeo, vir tibi semper ero."
+},
+{
+"id": "6.61",
+"label": "Ov. Her. 6.61",
+"text": "Quod tamen e nobis gravida celatur in alvo,"
+},
+{
+"id": "6.62",
+"label": "Ov. Her. 6.62",
+"text": "Vivat, et eiusdem simus uterque parens!'"
+},
+{
+"id": "6.63",
+"label": "Ov. Her. 6.63",
+"text": "Hactenus, et lacrimis in falsa cadentibus ora"
+},
+{
+"id": "6.64",
+"label": "Ov. Her. 6.64",
+"text": "Cetera te memini non potuisse loqui."
+},
+{
+"id": "6.65",
+"label": "Ov. Her. 6.65",
+"text": "Ultimus e sociis sacram conscendis in Argo."
+},
+{
+"id": "6.66",
+"label": "Ov. Her. 6.66",
+"text": "Illa volat; ventus concava vela tenet;"
+},
+{
+"id": "6.67",
+"label": "Ov. Her. 6.67",
+"text": "Caerula propulsae subducitur unda carinae;"
+},
+{
+"id": "6.68",
+"label": "Ov. Her. 6.68",
+"text": "Terra tibi, nobis adspiciuntur aquae."
+},
+{
+"id": "6.69",
+"label": "Ov. Her. 6.69",
+"text": "In latus omne patens turris circumspicit undas;"
+},
+{
+"id": "6.70",
+"label": "Ov. Her. 6.70",
+"text": "Huc feror, et lacrimis osque sinusque madent."
+},
+{
+"id": "6.71",
+"label": "Ov. Her. 6.71",
+"text": "Per lacrimas specto, cupidaeque faventia menti"
+},
+{
+"id": "6.72",
+"label": "Ov. Her. 6.72",
+"text": "Longius adsueto lumina nostra vident."
+},
+{
+"id": "6.73",
+"label": "Ov. Her. 6.73",
+"text": "Adde preces castas inmixtaque vota timori —"
+},
+{
+"id": "6.74",
+"label": "Ov. Her. 6.74",
+"text": "Nunc quoque te salvo persoluenda mihi."
+},
+{
+"id": "6.75",
+"label": "Ov. Her. 6.75",
+"text": "Vota ego persolvam? votis Medea fruetur!"
+},
+{
+"id": "6.76",
+"label": "Ov. Her. 6.76",
+"text": "Cor dolet, atque ira mixtus abundat amor."
+},
+{
+"id": "6.77",
+"label": "Ov. Her. 6.77",
+"text": "Dona feram templis, vivum quod Iasona perdo?"
+},
+{
+"id": "6.78",
+"label": "Ov. Her. 6.78",
+"text": "Hostia pro damnis concidat icta meis?"
+},
+{
+"id": "6.79",
+"label": "Ov. Her. 6.79",
+"text": "Non equidem secura fui semperque verebar,"
+},
+{
+"id": "6.80",
+"label": "Ov. Her. 6.80",
+"text": "Ne pater Argolica sumeret urbe nurum."
+},
+{
+"id": "6.81",
+"label": "Ov. Her. 6.81",
+"text": "Argolidas timui — nocuit mihi barbara paelex!"
+},
+{
+"id": "6.82",
+"label": "Ov. Her. 6.82",
+"text": "Non expectata vulnus ab hoste tuli."
+},
+{
+"id": "6.83",
+"label": "Ov. Her. 6.83",
+"text": "Nec facie meritisque placet, sed carmina novit"
+},
+{
+"id": "6.84",
+"label": "Ov. Her. 6.84",
+"text": "Diraque cantata pabula falce metit."
+},
+{
+"id": "6.85",
+"label": "Ov. Her. 6.85",
+"text": "Illa reluctantem cursu deducere lunam"
+},
+{
+"id": "6.86",
+"label": "Ov. Her. 6.86",
+"text": "Nititur et tenebris abdere solis equos;"
+},
+{
+"id": "6.87",
+"label": "Ov. Her. 6.87",
+"text": "Illa refrenat aquas obliquaque flumina sistit;"
+},
+{
+"id": "6.88",
+"label": "Ov. Her. 6.88",
+"text": "Illa loco silvas vivaque saxa movet."
+},
+{
+"id": "6.89",
+"label": "Ov. Her. 6.89",
+"text": "Per tumulos errat passis discincta capillis"
+},
+{
+"id": "6.90",
+"label": "Ov. Her. 6.90",
+"text": "Certaque de tepidis colligit ossa rogis."
+},
+{
+"id": "6.91",
+"label": "Ov. Her. 6.91",
+"text": "Devovet absentis simulacraque cerea figit,"
+},
+{
+"id": "6.92",
+"label": "Ov. Her. 6.92",
+"text": "Et miserum tenuis in iecur urget acus —"
+},
+{
+"id": "6.93",
+"label": "Ov. Her. 6.93",
+"text": "Et quae nescierim melius. male quaeritur herbis"
+},
+{
+"id": "6.94",
+"label": "Ov. Her. 6.94",
+"text": "Moribus et forma conciliandus amor."
+},
+{
+"id": "6.95",
+"label": "Ov. Her. 6.95",
+"text": "Hanc potes amplecti thalamoque relictus in uno"
+},
+{
+"id": "6.96",
+"label": "Ov. Her. 6.96",
+"text": "Inpavidus somno nocte silente frui?"
+},
+{
+"id": "6.97",
+"label": "Ov. Her. 6.97",
+"text": "Scilicet ut tauros, ita te iuga ferre coegit"
+},
+{
+"id": "6.98",
+"label": "Ov. Her. 6.98",
+"text": "Quaque feros anguis, te quoque mulcet ope."
+},
+{
+"id": "6.99",
+"label": "Ov. Her. 6.99",
+"text": "Adde, quod adscribi factis procerumque tuisque"
+},
+{
+"id": "6.100",
+"label": "Ov. Her. 6.100",
+"text": "Sese avet, et titulo coniugis uxor obest."
+},
+{
+"id": "6.101",
+"label": "Ov. Her. 6.101",
+"text": "Atque aliquis Peliae de partibus acta venenis"
+},
+{
+"id": "6.102",
+"label": "Ov. Her. 6.102",
+"text": "Inputat et populum, qui sibi credat, habet:"
+},
+{
+"id": "6.103",
+"label": "Ov. Her. 6.103",
+"text": "'Non haec Aesonides, sed Phasias Aeetine"
+},
+{
+"id": "6.104",
+"label": "Ov. Her. 6.104",
+"text": "Aurea Phrixeae terga revellit ovis.'"
+},
+{
+"id": "6.105",
+"label": "Ov. Her. 6.105",
+"text": "Non probat Alcimede mater tua — consule matrem —"
+},
+{
+"id": "6.106",
+"label": "Ov. Her. 6.106",
+"text": "Non pater, a gelido cui venit axe nurus."
+},
+{
+"id": "6.107",
+"label": "Ov. Her. 6.107",
+"text": "Illa sibi a Tanai Scythiaeque paludibus udae"
+},
+{
+"id": "6.108",
+"label": "Ov. Her. 6.108",
+"text": "Quaerat et a ripa Phasidos usque virum!"
+},
+{
+"id": "6.109",
+"label": "Ov. Her. 6.109",
+"text": "Mobilis Aesonide vernaque incertior aura,"
+},
+{
+"id": "6.110",
+"label": "Ov. Her. 6.110",
+"text": "Cur tua polliciti pondere verba carent?"
+},
+{
+"id": "6.111",
+"label": "Ov. Her. 6.111",
+"text": "Vir meus hinc ieras: cur non meus inde redisti?"
+},
+{
+"id": "6.112",
+"label": "Ov. Her. 6.112",
+"text": "Sim reducis coniunx, sicut euntis eram!"
+},
+{
+"id": "6.113",
+"label": "Ov. Her. 6.113",
+"text": "Si te nobilitas generosaque nomina tangunt —"
+},
+{
+"id": "6.114",
+"label": "Ov. Her. 6.114",
+"text": "En, ego Minoo nata Thoante feror!"
+},
+{
+"id": "6.115",
+"label": "Ov. Her. 6.115",
+"text": "Bacchus avus; Bacchi coniunx redimita corona"
+},
+{
+"id": "6.116",
+"label": "Ov. Her. 6.116",
+"text": "Praeradiat stellis signa minora suis."
+},
+{
+"id": "6.117",
+"label": "Ov. Her. 6.117",
+"text": "Dos tibi Lemnos erit, terra ingeniosa colenti;"
+},
+{
+"id": "6.118",
+"label": "Ov. Her. 6.118",
+"text": "Me quoque dotalis inter habere potes."
+},
+{
+"id": "6.119",
+"label": "Ov. Her. 6.119",
+"text": "Nunc etiam peperi; gratare ambobus, Iason!"
+},
+{
+"id": "6.120",
+"label": "Ov. Her. 6.120",
+"text": "Dulce mihi gravidae fecerat auctor onus."
+},
+{
+"id": "6.121",
+"label": "Ov. Her. 6.121",
+"text": "Felix in numero quoque sum prolemque gemellam,"
+},
+{
+"id": "6.122",
+"label": "Ov. Her. 6.122",
+"text": "Pignora Lucina bina favente dedi."
+},
+{
+"id": "6.123",
+"label": "Ov. Her. 6.123",
+"text": "Si quaeris, cui sint similes, cognosceris illis."
+},
+{
+"id": "6.124",
+"label": "Ov. Her. 6.124",
+"text": "Fallere non norunt; cetera patris habent."
+},
+{
+"id": "6.125",
+"label": "Ov. Her. 6.125",
+"text": "Legatos quos paene dedi pro matre ferendos;"
+},
+{
+"id": "6.126",
+"label": "Ov. Her. 6.126",
+"text": "Sed tenuit coeptas saeva noverca vias."
+},
+{
+"id": "6.127",
+"label": "Ov. Her. 6.127",
+"text": "Medeam timui: plus est Medea noverca;"
+},
+{
+"id": "6.128",
+"label": "Ov. Her. 6.128",
+"text": "Medeae faciunt ad scelus omne manus."
+},
+{
+"id": "6.129",
+"label": "Ov. Her. 6.129",
+"text": "Spargere quae fratris potuit lacerata per agros"
+},
+{
+"id": "6.130",
+"label": "Ov. Her. 6.130",
+"text": "Corpora, pignoribus parceret illa meis?"
+},
+{
+"id": "6.131",
+"label": "Ov. Her. 6.131",
+"text": "Hanc tamen o demens Colchisque ablate venenis,"
+},
+{
+"id": "6.132",
+"label": "Ov. Her. 6.132",
+"text": "Diceris Hypsipyles praeposuisse toro."
+},
+{
+"id": "6.133",
+"label": "Ov. Her. 6.133",
+"text": "Turpiter illa virum cognovit adultera virgo;"
+},
+{
+"id": "6.134",
+"label": "Ov. Her. 6.134",
+"text": "Me tibi teque mihi taeda pudica dedit."
+},
+{
+"id": "6.135",
+"label": "Ov. Her. 6.135",
+"text": "Prodidit illa patrem; rapui de clade Thoanta."
+},
+{
+"id": "6.136",
+"label": "Ov. Her. 6.136",
+"text": "Deseruit Colchos; me mea Lemnos habet."
+},
+{
+"id": "6.137",
+"label": "Ov. Her. 6.137",
+"text": "Quid refert, scelerata piam si vincet et ipso"
+},
+{
+"id": "6.138",
+"label": "Ov. Her. 6.138",
+"text": "Crimine dotata est emeruitque virum?"
+},
+{
+"id": "6.139",
+"label": "Ov. Her. 6.139",
+"text": "Lemniadum facinus culpo, non miror, Iason;"
+},
+{
+"id": "6.140",
+"label": "Ov. Her. 6.140",
+"text": "Quamlibet ignavis iste dat arma dolor."
+},
+{
+"id": "6.141",
+"label": "Ov. Her. 6.141",
+"text": "Dic age, si ventis, ut oportuit, actus iniquis"
+},
+{
+"id": "6.142",
+"label": "Ov. Her. 6.142",
+"text": "Intrasses portus tuque comesque meos,"
+},
+{
+"id": "6.143",
+"label": "Ov. Her. 6.143",
+"text": "Obviaque exissem fetu comitante gemello —"
+},
+{
+"id": "6.144",
+"label": "Ov. Her. 6.144",
+"text": "Hiscere nempe tibi terra roganda fuit! —"
+},
+{
+"id": "6.145",
+"label": "Ov. Her. 6.145",
+"text": "Quo vultu natos, quo me, scelerate, videres?"
+},
+{
+"id": "6.146",
+"label": "Ov. Her. 6.146",
+"text": "Perfidiae pretio qua nece dignus eras?"
+},
+{
+"id": "6.147",
+"label": "Ov. Her. 6.147",
+"text": "Ipse quidem per me tutus sospesque fuisses —"
+},
+{
+"id": "6.148",
+"label": "Ov. Her. 6.148",
+"text": "Non quia tu dignus, sed quia mitis ego."
+},
+{
+"id": "6.149",
+"label": "Ov. Her. 6.149",
+"text": "Paelicis ipsa meos inplessem sanguine vultus,"
+},
+{
+"id": "6.150",
+"label": "Ov. Her. 6.150",
+"text": "Quosque veneficiis abstulit illa suis!"
+},
+{
+"id": "6.151",
+"label": "Ov. Her. 6.151",
+"text": "Medeae Medea forem! quodsi quid ab alto"
+},
+{
+"id": "6.152",
+"label": "Ov. Her. 6.152",
+"text": "Iustus adest votis Iuppiter ille meis,"
+},
+{
+"id": "6.153",
+"label": "Ov. Her. 6.153",
+"text": "Quod gemit Hypsipyle, lecti quoque subnuba nostri"
+},
+{
+"id": "6.154",
+"label": "Ov. Her. 6.154",
+"text": "Maereat et leges sentiat ipsa suas;"
+},
+{
+"id": "6.155",
+"label": "Ov. Her. 6.155",
+"text": "Utque ego destituor coniunx materque duorum,"
+},
+{
+"id": "6.156",
+"label": "Ov. Her. 6.156",
+"text": "A totidem natis orba sit illa viro!"
+},
+{
+"id": "6.157",
+"label": "Ov. Her. 6.157",
+"text": "Nec male parta diu teneat peiusque relinquat —"
+},
+{
+"id": "6.158",
+"label": "Ov. Her. 6.158",
+"text": "Exulet et toto quaerat in orbe fugam!"
+},
+{
+"id": "6.159",
+"label": "Ov. Her. 6.159",
+"text": "Quam fratri germana fuit miseroque parenti"
+},
+{
+"id": "6.160",
+"label": "Ov. Her. 6.160",
+"text": "Filia, tam natis, tam sit acerba viro!"
+},
+{
+"id": "6.161",
+"label": "Ov. Her. 6.161",
+"text": "Cum mare, cum terras consumpserit, aera temptet;"
+},
+{
+"id": "6.162",
+"label": "Ov. Her. 6.162",
+"text": "Erret inops, exspes, caede cruenta sua!"
+},
+{
+"id": "6.163",
+"label": "Ov. Her. 6.163",
+"text": "Haec ego, coniugio fraudata Thoantias oro."
+},
+{
+"id": "6.164",
+"label": "Ov. Her. 6.164",
+"text": "Vivite, devoto nuptaque virque toro!"
+}
+]
+}

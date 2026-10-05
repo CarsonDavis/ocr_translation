@@ -1,0 +1,258 @@
+{
+"corpus": "digest",
+"unit": "1.3",
+"title": "D. 1.3 De legibus senatusque consultis et longa consuetudine",
+"passages": [
+{
+"id": "1.3.1",
+"label": "D. 1.3.1 (Papinianus)",
+"text": "Lex est commune praeceptum, virorum prudentium consultum, delictorum quae sponte vel ignorantia contrahuntur coercitio, communis rei publicae sponsio.",
+"inscription": "Papinianus libro primo definitionum"
+},
+{
+"id": "1.3.2",
+"label": "D. 1.3.2 (Marcianus)",
+"text": "Nam et Demosthenes orator sic definit: touto estin nomos, hw pantas anvrwpous prosykei peivesvai dia polla, kai malista hoti pas estin nomos ehurema men kai dwron veou, dogma de anvrwpwn fronimwn, epanorvwma de twn hekousiwn kai akousiwn hamartymatwn, polews de sunvyky koiny, kav' hyn hapasi prosykei zyn tois en ty polei . Sed et philosophus summae stoicae sapientiae Chrysippus sic incipit libro, quem fecit peri nomou: ho nomos pantwn esti basileus veiwn te kai anvrwpinwn pragmatwn: dei de auton prostatyn te einai twn kalwn kai twn aisxrwn kai arxonta kai hygemona, kai kata touto kanona te einai dikaiwn kai adikwn kai twn fusei politikwn zwwn prostaktikon men hwn poiyteon, apagoreutikon de hwn ou poiyteon .",
+"inscription": "Marcianus libro primo institutionum"
+},
+{
+"id": "1.3.3",
+"label": "D. 1.3.3 (Pomponius)",
+"text": "Iura constitui oportet, ut dixit Theophrastus, in his, quae epi to pleiston accidunt, non quae ek paralogou .",
+"inscription": "Pomponius libro 25 ad Sabinum"
+},
+{
+"id": "1.3.4",
+"label": "D. 1.3.4 (Celsus)",
+"text": "Ex his, quae forte uno aliquo casu accidere possunt, iura non constituuntur:",
+"inscription": "Celsus libro quinto digestorum"
+},
+{
+"id": "1.3.5",
+"label": "D. 1.3.5 (Celsus)",
+"text": "Nam ad ea potius debet aptari ius, quae et frequenter et facile, quam quae perraro eveniunt.",
+"inscription": "Celsus libro 17 digestorum"
+},
+{
+"id": "1.3.6",
+"label": "D. 1.3.6 (Paulus)",
+"text": "To gar hapac y dis , ut ait Theophrastus, parabainousin hoi nomovetai .",
+"inscription": "Paulus libro 17 ad Plautium"
+},
+{
+"id": "1.3.7",
+"label": "D. 1.3.7 (Modestinus)",
+"text": "Legis virtus haec est imperare vetare permittere punire.",
+"inscription": "Modestinus libro secundo regularum"
+},
+{
+"id": "1.3.8",
+"label": "D. 1.3.8 (Ulpianus)",
+"text": "Iura non in singulas personas, sed generaliter constituuntur.",
+"inscription": "Ulpianus libro tertio ad Sabinum"
+},
+{
+"id": "1.3.9",
+"label": "D. 1.3.9 (Ulpianus)",
+"text": "Non ambigitur senatum ius facere posse.",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "1.3.10",
+"label": "D. 1.3.10 (Iulianus)",
+"text": "Neque leges neque senatus consulta ita scribi possunt, ut omnes casus qui quandoque inciderint comprehendantur, sed sufficit ea quae plerumque accidunt contineri.",
+"inscription": "Iulianus libro 59 digestorum"
+},
+{
+"id": "1.3.11",
+"label": "D. 1.3.11 (Iulianus)",
+"text": "Et ideo de his, quae primo constituuntur, aut interpretatione aut constitutione optimi principis certius statuendum est.",
+"inscription": "Iulianus libro 90 digestorum"
+},
+{
+"id": "1.3.12",
+"label": "D. 1.3.12 (Iulianus)",
+"text": "Non possunt omnes singillatim aut legibus aut senatus consultis comprehendi: sed cum in aliqua causa sententia eorum manifesta est, is qui iurisdictioni praeest ad similia procedere atque ita ius dicere debet.",
+"inscription": "Iulianus libro 15 digestorum"
+},
+{
+"id": "1.3.13",
+"label": "D. 1.3.13 (Ulpianus)",
+"text": "Nam, ut ait pedius, quotiens lege aliquid unum vel alterum introductum est, bona occasio est cetera, quae tendunt ad eandem utilitatem, vel interpretatione vel certe iurisdictione suppleri.",
+"inscription": "Ulpianus libro primo ad edictum aedilis curulis"
+},
+{
+"id": "1.3.14",
+"label": "D. 1.3.14 (Paulus)",
+"text": "Quod vero contra rationem iuris receptum est, non est producendum ad consequentias.",
+"inscription": "Paulus libro 54 ad edictum"
+},
+{
+"id": "1.3.15",
+"label": "D. 1.3.15 (Iulianus)",
+"text": "In his, quae contra rationem iuris constituta sunt, non possumus sequi regulam iuris.",
+"inscription": "Iulianus libro 27 digestorum"
+},
+{
+"id": "1.3.16",
+"label": "D. 1.3.16 (Paulus)",
+"text": "Ius singulare est, quod contra tenorem rationis propter aliquam utilitatem auctoritate constituentium introductum est.",
+"inscription": "Paulus libro singulari de iure singulari"
+},
+{
+"id": "1.3.17",
+"label": "D. 1.3.17 (Celsus)",
+"text": "Scire leges non hoc est verba earum tenere, sed vim ac potestatem.",
+"inscription": "Celsus libro 26 digestorum"
+},
+{
+"id": "1.3.18",
+"label": "D. 1.3.18 (Celsus)",
+"text": "Benignius leges interpraetandae sunt, quo voluntas earum conservetur.",
+"inscription": "Celsus libro 29 digestorum"
+},
+{
+"id": "1.3.19",
+"label": "D. 1.3.19 (Celsus)",
+"text": "In ambigua voce legis ea potius accipienda est significatio, quae vitio caret, praesertim cum etiam voluntas legis ex hoc colligi possit.",
+"inscription": "Celsus libro 33 digestorum"
+},
+{
+"id": "1.3.20",
+"label": "D. 1.3.20 (Iulianus)",
+"text": "Non omnium, quae a maioribus constituta sunt, ratio reddi potest,",
+"inscription": "Iulianus libro 55 digestorum"
+},
+{
+"id": "1.3.21",
+"label": "D. 1.3.21 (Neratius)",
+"text": "Et ideo rationes eorum, quae constituuntur, inquiri non oportet: alioquin multa ex his quae certa sunt subvertuntur.",
+"inscription": "Neratius libro sexto membranarum"
+},
+{
+"id": "1.3.22",
+"label": "D. 1.3.22 (Ulpianus)",
+"text": "Cum lex in praeteritum quid indulget, in futurum vetat.",
+"inscription": "Ulpianus libro 35 ad edictum"
+},
+{
+"id": "1.3.23",
+"label": "D. 1.3.23 (Paulus)",
+"text": "Minime sunt mutanda, quae interpretationem certam semper habuerunt.",
+"inscription": "Paulus libro quarto ad Plautium"
+},
+{
+"id": "1.3.24",
+"label": "D. 1.3.24 (Celsus)",
+"text": "In civile est nisi tota lege perspecta una aliqua particula eius proposita iudicare vel respondere.",
+"inscription": "Celsus libro nono digestorum"
+},
+{
+"id": "1.3.25",
+"label": "D. 1.3.25 (Modestinus)",
+"text": "Nulla iuris ratio aut aequitatis benignitas patitur, ut quae salubriter pro utilitate hominum introducuntur, ea nos duriore interpretatione contra ipsorum commodum producamus ad severitatem.",
+"inscription": "Modestinus libro octavo responsorum"
+},
+{
+"id": "1.3.26",
+"label": "D. 1.3.26 (Paulus)",
+"text": "Non est novum, ut priores leges ad posteriores trahantur.",
+"inscription": "Paulus libro quarto quaestionum"
+},
+{
+"id": "1.3.27",
+"label": "D. 1.3.27 (Tertullianus)",
+"text": "Ideo, quia antiquiores leges ad posteriores trahi usitatum est, semper quasi hoc legibus inesse credi oportet, ut ad eas quoque personas et ad eas res pertinerent, quae quandoque similes erunt.",
+"inscription": "Tertullianus libro primo quaestionum"
+},
+{
+"id": "1.3.28",
+"label": "D. 1.3.28 (Paulus)",
+"text": "Sed et posteriores leges ad priores pertinent, nisi contrariae sint, idque multis argumentis probatur.",
+"inscription": "Paulus libro quinto ad legem Iuliam et Papiam"
+},
+{
+"id": "1.3.29",
+"label": "D. 1.3.29 (Paulus)",
+"text": "Contra legem facit, qui id facit quod lex prohibet, in fraudem vero, qui salvis verbis legis sententiam eius circumvenit.",
+"inscription": "Paulus libro singulari ad legem Cinciam"
+},
+{
+"id": "1.3.30",
+"label": "D. 1.3.30 (Ulpianus)",
+"text": "Fraus enim legi fit, ubi quod fieri noluit, fieri autem non vetuit, id fit: et quod distat hryton apo dianoias, hoc distat fraus ab eo, quod contra legem fit.",
+"inscription": "Ulpianus libro quarto ad edictum"
+},
+{
+"id": "1.3.31",
+"label": "D. 1.3.31 (Ulpianus)",
+"text": "Princeps legibus solutus est: Augusta autem licet legibus soluta non est, principes tamen eadem illi privilegia tribuunt, quae ipsi habent.",
+"inscription": "Ulpianus libro 13 ad legem Iuliam et Papiam"
+},
+{
+"id": "1.3.32.pr",
+"label": "D. 1.3.32 pr. (Iulianus)",
+"text": "De quibus causis scriptis legibus non utimur, id custodiri oportet, quod moribus et consuetudine inductum est: et si qua in re hoc deficeret, tunc quod proximum et consequens ei est: si nec id quidem appareat, tunc ius, quo urbs Roma utitur, servari oportet.",
+"inscription": "Iulianus libro 84 digestorum"
+},
+{
+"id": "1.3.32.1",
+"label": "D. 1.3.32.1",
+"text": "Inveterata consuetudo pro lege non immerito custoditur, et hoc est ius quod dicitur moribus constitutum. Nam cum ipsae leges nulla alia ex causa nos teneant, quam quod iudicio populi receptae sunt, merito et ea, quae sine ullo scripto populus probavit, tenebunt omnes: nam quid interest suffragio populus voluntatem suam declaret an rebus ipsis et factis? Quare rectissime etiam illud receptum est, ut leges non solum suffragio legis latoris, sed etiam tacito consensu omnium per desuetudinem abrogentur."
+},
+{
+"id": "1.3.33",
+"label": "D. 1.3.33 (Ulpianus)",
+"text": "Diuturna consuetudo pro iure et lege in his quae non ex scripto descendunt observari solet.",
+"inscription": "Ulpianus libro primo de officio proconsulis"
+},
+{
+"id": "1.3.34",
+"label": "D. 1.3.34 (Ulpianus)",
+"text": "Cum de consuetudine civitatis vel provinciae confidere quis videtur, primum quidem illud explorandum arbitror, an etiam contradictio aliquando iudicio consuetudo firmata sit.",
+"inscription": "Ulpianus libro quarto de officio proconsulis"
+},
+{
+"id": "1.3.35",
+"label": "D. 1.3.35 (Hermogenianus)",
+"text": "Sed et ea, quae longa consuetudine comprobata sunt ac per annos plurimos observata, velut tacita civium conventio non minus quam ea quae scripta sunt iura servantur.",
+"inscription": "Hermogenianus libro primo epitomarum"
+},
+{
+"id": "1.3.36",
+"label": "D. 1.3.36 (Paulus)",
+"text": "Immo magnae auctoritatis hoc ius habetur, quod in tantum probatum est, ut non fuerit necesse scripto id comprehendere.",
+"inscription": "Paulus libro septimo ad Sabinum"
+},
+{
+"id": "1.3.37",
+"label": "D. 1.3.37 (Paulus)",
+"text": "Si de interpretatione legis quaeratur, in primis inspiciendum est, quo iure civitas retro in eiusmodi casibus usa fuisset: optima enim est legum interpres consuetudo.",
+"inscription": "Paulus libro primo quaestionum"
+},
+{
+"id": "1.3.38",
+"label": "D. 1.3.38 (Callistratus)",
+"text": "Nam imperator noster Severus rescripsit in ambiguitatibus quae ex legibus proficiscuntur consuetudinem aut rerum perpetuo similiter iudicatarum auctoritatem vim legis optinere debere.",
+"inscription": "Callistratus libro primo quaestionum"
+},
+{
+"id": "1.3.39",
+"label": "D. 1.3.39 (Celsus)",
+"text": "Quod non ratione introductum, sed errore primum, deinde consuetudine optentum est, in aliis similibus non optinet.",
+"inscription": "Celsus libro 23 digestorum"
+},
+{
+"id": "1.3.40",
+"label": "D. 1.3.40 (Modestinus)",
+"text": "Ergo omne ius aut consensus fecit aut necessitas constituit aut firmavit consuetudo.",
+"inscription": "Modestinus libro secundo regularum"
+},
+{
+"id": "1.3.41",
+"label": "D. 1.3.41 (Ulpianus)",
+"text": "Totum autem ius constitit aut in adquirendo aut in conservando aut in minuendo: aut enim hoc agitur, quemadmodum quid cuiusque fiat, aut quemadmodum quis rem vel ius suum conservet, aut quomodo alienet aut admittat.",
+"inscription": "Ulpianus libro secundo institutionum"
+}
+]
+}

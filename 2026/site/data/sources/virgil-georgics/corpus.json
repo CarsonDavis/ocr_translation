@@ -1,0 +1,18 @@
+{
+ "id": "virgil-georgics",
+ "title": "Virgil, Georgics",
+ "language": "la",
+ "edition": "Georgicon — Perseus Digital Library TEI (phi0690.phi002.perseus-lat2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-latinLit TEI phi0690.phi002.perseus-lat2",
+ "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi002.perseus-lat2/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.line",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0690/phi002/phi0690.phi002.perseus-lat2.xml"
+}

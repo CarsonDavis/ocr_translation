@@ -1,0 +1,40 @@
+{
+ "id": "cassiodorus-variae",
+ "title": "Cassiodorus, Variae",
+ "language": "la",
+ "edition": "The Latin Library transcription",
+ "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+ "attribution": "Text: The Latin Library (thelatinlibrary.com), ed. William L. Carey",
+ "url": "https://www.thelatinlibrary.com/cassiodorus/varia1.shtml",
+ "unit_scheme": "book",
+ "passage_scheme": "book.chapter[.section]",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
+  "11",
+  "12"
+ ],
+ "passage_note": "chapter 'pr' is a preface; Roman chapter numerals are given in Arabic",
+ "source_files": [
+  "https://www.thelatinlibrary.com/cassiodorus/varia1.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia2.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia3.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia4.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia5.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia6.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia7.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia8.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia9.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia10.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia11.shtml",
+  "https://www.thelatinlibrary.com/cassiodorus/varia12.shtml"
+ ]
+}

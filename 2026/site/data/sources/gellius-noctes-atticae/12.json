@@ -1,0 +1,782 @@
+{
+"corpus": "gellius-noctes-atticae",
+"unit": "12",
+"title": "Aulus Gellius, Noctes Atticae, 12",
+"passages": [
+{
+"id": "12.1.a",
+"label": "Gell. 12.1.a",
+"text": "Dissertatio Favorini philosophi, qua suasit nobili feminae uti liberos quos peperisset, non nutricum aliarum, sed sibi suo lacte aleret."
+},
+{
+"id": "12.1.1",
+"label": "Gell. 12.1.1",
+"text": "NUNTIATUM quondam est Favorino philosopho, nobis praesentibus, uxorem auditoris sectatorisque sui paululum ante enixam auctumque eum esse nato filio."
+},
+{
+"id": "12.1.2",
+"label": "Gell. 12.1.2",
+"text": "Eamus, inquit, et puerum visum et patri gratulatum."
+},
+{
+"id": "12.1.3",
+"label": "Gell. 12.1.3",
+"text": "Is erat loci senatorii, ex familia nobiliore. Imus una qui tum aderamus prosecutique eum sumus ad domum quo pergebat, et cum eo simul introgressi sumus."
+},
+{
+"id": "12.1.4",
+"label": "Gell. 12.1.4",
+"text": "Tum in primis aedibus complexus hominem congratulatusque adsedit. Atque ubi percontatus est quam diutinum puerperium et quam laboriosi nixus fuissent, puellamque defessam labore ac vigilia somnum capere cognovit, fabulari instituit prolixius et: Nihil, inquit, dubito quin filium lacte suo nutritura sit."
+},
+{
+"id": "12.1.5",
+"label": "Gell. 12.1.5",
+"text": "Sed cum mater puellae parcendum esse ei diceret adhibendasque puero nutrices, ne ad dolores quos in enitendo tulisset munus quoque nutricationis grave ac difficile accederet, Oro te, inquit, mulier, sine eam totam integram matrem esse filii sui."
+},
+{
+"id": "12.1.6",
+"label": "Gell. 12.1.6",
+"text": "Quod est enim hoc contra naturam inperfectum atque dimidiatum matris genus, peperisse ac statim a sese abiecisse? aluisse in utero sanguine suo nescio quid quod non videret, non alere nunc suo lacte quod videat, iam viventem, iam hominem, iam matris officia inplorantem?"
+},
+{
+"id": "12.1.7",
+"label": "Gell. 12.1.7",
+"text": "An tu quoque, inquit, putas naturam feminis mammarum ubera quasi quosdam venustiores naevulos, non liberum alendorum, sed ornandi pectoris causa dedisse?"
+},
+{
+"id": "12.1.8",
+"label": "Gell. 12.1.8",
+"text": "Sic enim, quod a vobis scilicet abest, pleraeque istae prodigiosae mulieres fontem illum sanctissimum corporis, generis humani educatorem, arefacere et extinguere cum periculo quoque aversi corruptique lactis laborant, tamquam pulcritudinis sibi insignia devenustet, quod quidem faciunt eadem vecordia, qua quibusdam commenticiis fraudibus nituntur ut fetus quoque ipsi, in corpore suo concepti, aboriantur, ne aequor illud ventris inrugetur ac de gravitate oneris et labore partus fatiscat."
+},
+{
+"id": "12.1.9",
+"label": "Gell. 12.1.9",
+"text": "Quod cum sit publica detestatione communique odio dignum, in ipsis hominem primordiis, dum fingitur, dum animatur, inter ipsas artificis naturae manus interfectum ire, quantulum hinc abest, iam perfectum, iam genitum, iam filium proprii atque consueti atque cogniti sanguinis alimonia privare?"
+},
+{
+"id": "12.1.10",
+"label": "Gell. 12.1.10",
+"text": "Sed nihil interest, hoc enim dicitur, dum alatur et vivat, cuius id lacte fiat."
+},
+{
+"id": "12.1.11",
+"label": "Gell. 12.1.11",
+"text": "Cur igitur iste qui hoc dicit, si in capessendis naturae sensibus tam obsurduit, non id quoque nihil interesse putat, cuius in corpore cuiusque ex sanguine concretus homo et coalitus sit?"
+},
+{
+"id": "12.1.12",
+"label": "Gell. 12.1.12",
+"text": "an quia spiritu multo et calore exalbuit, non idem sanguis est nunc in uberibus, qui in utero fuit?"
+},
+{
+"id": "12.1.13",
+"label": "Gell. 12.1.13",
+"text": "Nonne hac quoque in re sollertia naturae evidens est, quod, postquam sanguis ille opifex in penetralibus suis omne corpus hominis finxit, adventante iam partus tempore, in supernas se partis perfert, ad fovenda vitae atque lucis rudimenta praesto est et recens natis notum et familiarem victum offert?"
+},
+{
+"id": "12.1.14",
+"label": "Gell. 12.1.14",
+"text": "Quamobrem non frustra creditum est, sicut valeat ad fingendas corporis atque animi similitudines vis et natura seminis, non secus ad eandem rem lactis quoque ingenia et proprietates valere."
+},
+{
+"id": "12.1.15",
+"label": "Gell. 12.1.15",
+"text": "Neque in hominibus id solum, sed in pecudibus quoque animadversum. Nam si ovium lacte haedi aut caprarum agni alantur, constat ferme in his lanam duriorem, in illis capillum gigni teneriorem."
+},
+{
+"id": "12.1.16",
+"label": "Gell. 12.1.16",
+"text": "In arboribus etiam et frugibus maior plerumque vis et potestas est ad earum indolem vel detrectandam vel augendam aquarum atque terrarum quae alunt, quam ipsius quod iacitur seminis, ac saepe videas arborem laetam et nitentem, in locum alium transpositam, deterioris terrae suco deperisse."
+},
+{
+"id": "12.1.17",
+"label": "Gell. 12.1.17",
+"text": "Quae, malum, igitur ratio est, nobilitatem istam nati modo hominis corpusque et animum, bene ingeniatis primordiis inchoatum, insitivo degenerique alimento lactis alieni corrumpere? praesertim si ista quam ad praebendum lactem adhibebitis, aut serva aut servilis est et, ut plerumque solet, externae et barbarae nationis est, si inproba, si informis, si inpudica, si temulenta est; nam plerumque sine discrimine, quaecumque id temporis lactans est adhiberi solet."
+},
+{
+"id": "12.1.18",
+"label": "Gell. 12.1.18",
+"text": "Patiemurne igitur infantem hunc nostrum pernicioso contagio infici et spiritum ducere in animum atque in corpus suum ex corpore et animo deterrimo?"
+},
+{
+"id": "12.1.19",
+"label": "Gell. 12.1.19",
+"text": "Id hercle ipsum est quod saepenumero miramur, quosdam pudicarum mulierum liberos parentum suorum neque corporibus neque animis similes existere."
+},
+{
+"id": "12.1.20",
+"label": "Gell. 12.1.20",
+"text": "Scite igitur et perite noster Maro, quod, cum versus illos Homeri consectaretur: οὐκ ἄρα σοί γε πατὴρ ἦν ἱππότα Πηλεύς, Οὐδὲ Θέτις μήτηρ· γλαυκὴ δέ σε τίκτε θάλασσα Πέτραι τʼ ἠλίβατοι, ὅτι τοι νόος ἐστὶν ἀπηνής,\n\nnon partionem solam, tamquam ille quem sequebatur, sed alituram quoque feram et saevam criminatus est; addidit enim hoc de suo: Hyrcanaeque admorunt ubera tigres,\n\nquoniam videlicet in moribus inolescendis magnam fere partem ingenium altricis et natura lactis tenet, quae iam a principio imbuta paterni seminis concretione, ex matris etiam corpore et animo recentem indolem configurat."
+},
+{
+"id": "12.1.21",
+"label": "Gell. 12.1.21",
+"text": "Et praeter haec autem, quis illud etiam neglegere aspernarique possit, quod quae partus suos deserunt ablegantque a sese et aliis nutriendos dedunt, vinculum illud coagulumque animi atque amoris, quo parentes cum filiis natura consociat, interscindunt aut certe quidem diluunt deteruntque."
+},
+{
+"id": "12.1.22",
+"label": "Gell. 12.1.22",
+"text": "Nam ubi infantis aliorsum dati facta ex oculis amolitiost, vigor ille maternae flagrantiae sensim atque paulatim restinguitur omnisque inpatientissimae sollicitudinis strepitus consilescit, neque multo minor amendati ad nutricem aliam filii, quam morte amissi, obliviost."
+},
+{
+"id": "12.1.23",
+"label": "Gell. 12.1.23",
+"text": "Ipsius quoque infantis adfectio animi, amoris, consuetudinis in ea sola unde alitur occupatur, et proinde, ut in expositis usu venit, matris quae genuit neque sensum ullum neque desiderium capit. Ac propterea, oblitteratis et abolitis nativae pietatis elementis, quicquid ita educati liberi amare patrem atque matrem videntur, magnam fere partem non naturalis ille amor est, sed civilis et opinabilis."
+},
+{
+"id": "12.1.24",
+"label": "Gell. 12.1.24",
+"text": "Haec Favorinum dicentem audivi Graeca oratione. Cuius sententias communis utilitatis gratia, quantum meminisse potui, rettuli, amoenitates vero et copias ubertatesque verborum Latina omnis facundia vix quaedam indipisci potuerit, mea tenuitas nequaquam."
+},
+{
+"id": "12.2.a",
+"label": "Gell. 12.2.a",
+"text": "Quod Annaeus Seneca, iudicans de Q. Ennio deque M. Tullio, levi futtilique iudicio fuit."
+},
+{
+"id": "12.2.1",
+"label": "Gell. 12.2.1",
+"text": "DE Annaeo Seneca partim existimant ut de scriptore minime utili, cuius libros adtingere nullum pretium operae sit, quod oratio eius vulgaria videatur et protrita, res atque sententiae aut inepto inanique impetu sint aut levi et causidicali argutia, eruditio autem vernacula et plebeia nihilque ex veterum scriptis habens neque gratiae neque dignitatis. Alii vero elegantiae quidem in verbis parum esse non infitias eunt, sed et rerum quas dicat scientiam doctrinamque ei non deesse dicunt et in vitiis morum obiurgandis severitatem gravitatemque non invenustam."
+},
+{
+"id": "12.2.2",
+"label": "Gell. 12.2.2",
+"text": "Mihi de omni eius ingenio deque omni scripto iudicium censuramque facere non necessum est; sed quod de M. Cicerone et Q. Ennio et P. Vergilio iudicavit, ea res cuimodi sit, ad considerandum ponemus."
+},
+{
+"id": "12.2.3",
+"label": "Gell. 12.2.3",
+"text": "In libro enim vicesimo secundo Epistularum Moralium quas ad Lucilium conposuit, deridiculos versus Q. Ennium de Cetego antiquo viro fecisse hos dicit: is dictust ollis popularibus olim Qui tum vivebant homines atque aevum agitabant, Flos delibatus populi, Suadaeque medulla."
+},
+{
+"id": "12.2.4",
+"label": "Gell. 12.2.4",
+"text": "Ac deinde scripsit de isdem versibus verba haec: Admiror eloquentissimos viros et deditos Ennio pro optimis ridicula laudasse. Cicero certe inter bonos eius versus et hos refert."
+},
+{
+"id": "12.2.5",
+"label": "Gell. 12.2.5",
+"text": "Atque id etiam de Cicerone dicit: Non miror, inquit, fuisse qui hos versus scriberet, cum fuerit qui laudaret; nisi forte Cicero summus orator agebat causam suam et volebat suos versus videri bonos."
+},
+{
+"id": "12.2.6",
+"label": "Gell. 12.2.6",
+"text": "Postea hoc etiam addidit insulsissime: Aput ipsum quoque, inquit, Ciceronem invenies, etiam in prosa oratione, quaedam ex quibus intellegas ilium non perdidisse operam, quod Ennium legit."
+},
+{
+"id": "12.2.7",
+"label": "Gell. 12.2.7",
+"text": "Ponit deinde quae apud Ciceronem reprehendat, quasi Enniana, quod ita scripserit in libris De Republica: Ut Menelao Laconi quaedam fuit suaviloquens iucunditas, et quod alio in loco dixerit: breviloquentiam in dicendo colit. Atque ibi homo nugator Ciceronis errores deprecatur et: Non fuit, inquit, Ciceronis hoc vitium, sed temporis; necesse erat haec dici, cum illa legerentur."
+},
+{
+"id": "12.2.9",
+"label": "Gell. 12.2.9",
+"text": "Deinde adscribit Ciceronem haec ipsa interposuisse ad effugiendam infamiam nimis lascivae orationis et nitidae."
+},
+{
+"id": "12.2.10",
+"label": "Gell. 12.2.10",
+"text": "De Vergilio quoque eodem in loco verba haec ponit: Vergilius quoque noster non ex alia causa duros quosdam versus et enormes et aliquid supra mensuram trahentis interposuit quam ut Ennianus populus adgnosceret in novo carmine aliquid antiquitatis."
+},
+{
+"id": "12.2.11",
+"label": "Gell. 12.2.11",
+"text": "Sed iam verborum Senecae piget; haec tamen inepti et insubidi hominis ioca non praeteribo: Quidam sunt, inquit, tam magni sensus Q. Ennii, ut, licet scripti sint inter hircosos, possint tamen inter unguentatos placere; et, cum reprehendisset versus quos supra de Cetego posuimus: Qui huiuscemodi, inquit, versus amant, liqueat tibi eosdem admirari et Soterici lectos."
+},
+{
+"id": "12.2.12",
+"label": "Gell. 12.2.12",
+"text": "Dignus sane Seneca videatur lectione ac studio adulescentium, qui honorem coloremque veteris orationis Soterici lectis compararit, quasi minimae scilicet gratiae et relictis iam contemptisque."
+},
+{
+"id": "12.2.13",
+"label": "Gell. 12.2.13",
+"text": "Audias tamen commemorari ac referri pauca quaedam quae idem ipse Seneca bene dixerit, quale est illud, quod in hominem avarum et avidum et pecuniae sitientem dixit: Quid enim refert quantum habeas? multo illud plus est quod non habes."
+},
+{
+"id": "12.2.14",
+"label": "Gell. 12.2.14",
+"text": "Benene hoc? sane bene; sed adulescentium indolem non tam iuvant quae bene dicta sunt quam inficiunt quae pessime, multoque tanto magis, si et plura sunt quae deteriora sunt, et quaedam in his non pro enthymemate aliquo rei parvae ac simplicis, sed in re ancipiti pro consilio dicuntur."
+},
+{
+"id": "12.3.a",
+"label": "Gell. 12.3.a",
+"text": "Lictoris vocabulum qua ratione conceptum ortumque sit; et super eo diversae sententiae Valgi Rufi et Tulli Tironis."
+},
+{
+"id": "12.3.1",
+"label": "Gell. 12.3.1",
+"text": "VALGIUS RUFUS in secundo librorum quos inscripsit De Rebus per Epistulam Quaesitis, lictorem dicit a ligando appellatum esse, quod, cum magistratus populi Romani virgis quempiam verberari iussissent, crura eius et manus ligari vincirique a viatore solita sint, et inde is qui ex conlegio viatorum officium ligandi haberet lictor sit appellatus; utiturque ad eam rem testimonio M. Tulli verbaque eius refert ex oratione quae dicta est Pro C. Rabirio: Lictor, inquit, conliga manus."
+},
+{
+"id": "12.3.2",
+"label": "Gell. 12.3.2",
+"text": "Haec ita Valgius."
+},
+{
+"id": "12.3.3",
+"label": "Gell. 12.3.3",
+"text": "Et nos sane cum illo sentimus; sed Tiro Tullius M. Ciceronis libertus, lictorem vel a limo vel a licio dictum scripsit: Licio enim transverse, quod limum appellatur, qui magistratibus, inquit, praeministrabant cincti erant."
+},
+{
+"id": "12.3.4",
+"label": "Gell. 12.3.4",
+"text": "Si quis autem est qui propterea putat probabilius esse quod Tiro dixit, quoniam prima syllaba in lictore, sicuti in licio, producta est et in eo verbo quod est ligo correpta est, nihil ad rem istud pertinet. Nam sicut a ligando lictor et a legendo lector et a viendo vitor et tuendo tutor et struendo structor productis quae corripiebantur vocalibus dicta sunt."
+},
+{
+"id": "12.4.a",
+"label": "Gell. 12.4.a",
+"text": "Versus accepti ex Q. Enni septimo Annalium, quibus depingitur finiturque ingenium comitasque hominis minoris erga amicum superiorem."
+},
+{
+"id": "12.4.1",
+"label": "Gell. 12.4.1",
+"text": "DESCRIPTUM definitumque est a Quinto Ennio in Annali septimo graphice admodum sciteque sub historia Gemini Servili, viri nobilis, quo ingenio, qua comitate, qua modestia, qua fide, qua linguae parsimonia, qua loquendi opportunitate, quanta rerum antiquarum morumque veterum ac novorum scientia quantaque servandi tuendique secreti religione, qualibus denique ad muniendas vitae molestias fomentis, levamentis, solacis amicum esse conveniat hominis genere et fortuna superioris."
+},
+{
+"id": "12.4.2",
+"label": "Gell. 12.4.2",
+"text": "Eos ego versus non minus frequenti adsiduoque memoratu dignos puto quam philosophorum de officiis decreta."
+},
+{
+"id": "12.4.3",
+"label": "Gell. 12.4.3",
+"text": "Ad hoc color quidam vetustatis in his versibus tam reverendus est, suavitas tam inpromisca tamque a fuco omni remota est, ut mea quidem sententia pro antiquis sacratisque amicitias legibus observandi, tenendi colendique sint. Quapropter adscribendos eos existimavi,"
+},
+{
+"id": "12.4.4",
+"label": "Gell. 12.4.4",
+"text": "si quis iam statim desideraret: Haece locutus vocat quocum bene saepe libenter Mensam sermonesque suos rerumque suarum Comiter inpertit, magnam cum lassus diei Partem fuisset, de summis rebus regundis Consilio indu foro lato sanctoque senatu; Cui res audacter magnas parvasque iocumque Eloqueretur sed cura malaque et bona dictu Evomeret, si qui vellet, tutoque locaret, Quocum multa volup ac gaudia clamque palamque; Ingenium cui nulla malum sententia suadet Ut faceret facinus levis aut malus; doctus, fidelis, Suavis homo, facundus, suo contentus, beatus, Scitus, secunda loquens in tempore, commodus, verbum Paucum, multa tenens antiqua sepulta, vetustas Quem facit et mores veteresque novosque tenentem, Multorum veterum leges divumque hominumque; Prudenter qui dicta loquive tacereve posset; Hunc inter pugnas conpellat Servilius sic.\n\nL. Aelium Stilonem dicere solitum ferunt Q. Ennium de semet ipso haec scripsisse picturamque istam morum et ingenii ipsius Q. Ennii factam esse."
+},
+{
+"id": "12.5.a",
+"label": "Gell. 12.5.a",
+"text": "Sermo Tauri philosophi de modo atque ratione tolerandi doloris secundum Stoicorum decreta."
+},
+{
+"id": "12.5.1",
+"label": "Gell. 12.5.1",
+"text": "CUM Delphos ad Pythia conventumque totius ferme Graeciae visendum philosophus Taurus iret nosque ei comites essemus inque eo itinere Lebadiam venissemus, quod est oppidum anticum in terra Boeotia, adfertur ibi ad Taurum amicum eius quempiam, nobilem in Stoica disciplina philosophum, aegra valitudine oppressum, decumbere."
+},
+{
+"id": "12.5.2",
+"label": "Gell. 12.5.2",
+"text": "Tunc omisso itinere, quod alioquin maturandum erat, et relictis vehiculis, pergit eum propere videre, nosque de more, quem in locum cumque iret, secuti sumus. Et ubi ad aedes in quis ille aegrotus erat pervenimus, videmus hominem doloribus cruciatibusque alvi, quod Graeci κόλον dicunt, et febri simul rapida adflictari gemitusque ex eo conpressos erumpere spiritusque et anhelitus e pectore eius evadere, non dolorem magis indicantes quam pugnam adversum dolorem."
+},
+{
+"id": "12.5.3",
+"label": "Gell. 12.5.3",
+"text": "Post deinde, cum Taurus et medicos accersisset conlocutusque de facienda medella esset et eum ipsum ad retinendam patientiam, testimonio tolerantiae quam videbat perhibito, stabilisset, egressique inde ad vehicula et ad comites rediremus: Vidistis, inquit Taurus, non sane iucundum spectaculum, sed cognitu tamen utile, congredientes conpugnantesque philosophum et dolorem. Faciebat vis illa et natura morbi, quod erat suum, distractionem cruciatumque membrorum, faciebat contra ratio et natura animi, quod erat aeque suum: perpetiebatur et cohibebat coercebatque infra sese violentias effrenati doloris. Nullos eiulatus, nullas conplorationes, ne ullas quidem voces indecoras edebat, signa tamen quaedam, sicut vidistis, existebant virtutis et corporis, de possessione hominis pugnantium."
+},
+{
+"id": "12.5.4",
+"label": "Gell. 12.5.4",
+"text": "Tum e sectatoribus Tauri invenis, in disciplinis philosophiae non ignavus, Si tanta, inquit, doloris acerbitas est, ut contra voluntatem contraque iudicium animi nitatur invitumque hominem cogat ad gemendum confitendumque de malo morbi saevientis, cur dolor aput Stoicos indifferens esse dicitur, non malum? Cur deinde aut Stoicus homo cogi aliquid potest aut dolor cogere, cum et dolorem Stoici nihil cogere et sapientem nihil cogi posse dicant?"
+},
+{
+"id": "12.5.5",
+"label": "Gell. 12.5.5",
+"text": "Ad ea Taurus vultu iam propemodum laetiore, delectatus enim videbatur inlecebra quaestionis, Si iam amicus, inquit, hic noster melius valeret, gemitus eiusmodi necessarios a calumnia defendisset et hanc, opinor, tibi quaestionem dissolvisset, me autem scis cum Stoicis non bene convenire, vel cum Stoica potius; est enim pleraque et sibi et nobis incongruens, sicut libro quem supra illa re composuimus declaratur."
+},
+{
+"id": "12.5.6",
+"label": "Gell. 12.5.6",
+"text": "Sed ut tibi a me mos geratur, dicam ego indoctius, ut aiunt, et apertius, quae fuisse dicturum puto sinuosius atque sollertius, si quis nunc adesset Stoicorum; nosti enim, credo, verbum illud vetus et pervolgatum: Ἀμαθέστερόν πως εἰπὲ καὶ σαφέστερον λέγε.\n\nAtque hine exorsus de dolore atque de gemitu Stoici aegrotantis ita disseruit:"
+},
+{
+"id": "12.5.7",
+"label": "Gell. 12.5.7",
+"text": "Natura, inquit, omnium rerum quae nos genuit, induit nobis inolevitque in ipsis statim principiis quibus nati sumus, amorem nostri et caritatem, ita prorsus ut nihil quicquam esset carius pensiusque nobis quam nosmet ipsi, atque hoc esse fundamentum ratast conservandae hominum perpetuitatis, si unusquisque nostrum, simul atque editus in lucem foret, harum prius rerum sensum adfectionemque caperet quae a veteribus philosophis τὰ πρῶτα κατὰ φύσιν appellata sunt; ut omnibus scilicet corporis sui commodis gauderet, ab incommodis omnibus abhorreret. Postea per incrementa aetatis exorta e seminibus suis ratiost et utendi consilii reputatio et honestatis utilitatisque verae contemplatio subtiliorque et exploratior commodorum incommodorumque dilectus; atque ita prae ceteris omnibus enituit et praefulsit decori et honesti dignitas ac, si ei retinendae obtinendaeve incommodum extrinsecus aliquod obstaret, contemptum est; neque aliud esse vere et simpliciter bonum nisi honestum, aliud quicquam malum nisi quod turpe esset existimatum est. Reliqua omnia, quae in medio forent ac neque honesta essent neque turpia, neque bona esse neque mala decretum est. Productiones tamen et relationes suis quaeque momentis distinctae divisaeque sunt, quae προηγμένα et ἀποπροηγμένα ipsi vocant. Propterea voluptas quoque et dolor, quod ad finem ipsum bene beateque vivendi pertinet, et in mediis relicta et neque in bonis neque in malis iudicata sunt."
+},
+{
+"id": "12.5.8",
+"label": "Gell. 12.5.8",
+"text": "Sed enim quoniam his primis sensibus doloris voluptatisque ante consilii et rationis exortum recens natus homo inbutus est et voluptati quidem a natura conciliatus, a dolore autem, quasi a gravi quodam inimico, abiunctus alienatusque est—circo adfectiones istas primitus penitusque inditas ratio ipsi post addita convellere ab stirpe atque extinguere vix potest. Pugnat autem cum his semper et exultantis eas opprimit obteritque et parere sibi atque oboedire cogit."
+},
+{
+"id": "12.5.9",
+"label": "Gell. 12.5.9",
+"text": "Itaque vidistis philosophum, ratione decreti sui nixum, cum petulantia morbi dolorisque exultantia conluctantem, nihil cedentem, nihil confitentem, neque ut plerique dolentes solent, eiulantem atque lamentantem ac miserum sese et infelicem appellantem, sed acres tantum anhelitus et robustos gemitus edentem, signa atque indicia non victi nec obpressi a dolore, sed vincere eum atque obprimere enitentis."
+},
+{
+"id": "12.5.10",
+"label": "Gell. 12.5.10",
+"text": "Sed haut scio, inquit, an dicat aliquis, ipsum illud quod pugnat, quod gemit, si malum dolor non est, cur necesse est gemere et pugnare? Quia enim omnia quae non sunt mala molestia quoque omni non carent, sed sunt pleraque noxa quidem magna et pernicie privata, quia non sunt turpia, contra naturae tamen mansuetudinem lenitatemque opposita sunt et infesta per obscuram quandam et necessariam ipsius naturae consequentiam. Haec ergo vir sapiens tolerare et exanclare potest, non admittere omnino in sensum sui non potest; ἀναλγησία enim atque ἀπάθεια non meo tantum, inquit, sed quorundam etiam ex eadem porticu prudentiorum hominum, sicuti iudicio Panaetii, gravis atque docti viri, inprobata abiectaque est."
+},
+{
+"id": "12.5.11",
+"label": "Gell. 12.5.11",
+"text": "Sed cur contra voluntatem suam gemitus facere cogitur philosophus Stoicus, quem nihil cogi posse dicunt? Nihil sane potest cogi vir sapiens, cum est rationi obtinendae locus; cum vero natura cogit, ratio quoque a natura data cogitur. Quaere etiam, si videtur, cur manu alicuius ob oculos suos repente agitata invitus coniveat, cur fulgente caelo a luminis iactu non sua sponte et caput et oculos declinet, cur tonitru vehementius facto sensim pavescat, cur sternumentis quatiatur, cur aut in ardoribus solis aestuet aut in pruinis inmanibus obrigescat."
+},
+{
+"id": "12.5.12",
+"label": "Gell. 12.5.12",
+"text": "Haec enim et pleraque alia non voluntas nec consilium nec ratio moderatur, set naturae necessitatisque decreta sunt."
+},
+{
+"id": "12.5.13",
+"label": "Gell. 12.5.13",
+"text": "Fortitudo autem non east, quae contra naturam monstri vicem nititur ultraque modum eius egreditur aut stupore animi aut inmanitate aut quadam misera et necessaria in perpetiendis doloribus exercitatione— qualemn fuisse accepimus ferum quendam in ludo Caesaris gladiatorem, qui, cum vulnera eius a medicis exsecabantur, ridere solitus fuit—sed ea vera et proba fortitudost, quam maiores nostri scientiam esse dixerunt rerum tolerandarum et non tolerandarum."
+},
+{
+"id": "12.5.14",
+"label": "Gell. 12.5.14",
+"text": "Per quod apparet esse quaedam intolerabilia, a quibus fortes viri aut obeundis abhorreant aut sustinendis."
+},
+{
+"id": "12.5.15",
+"label": "Gell. 12.5.15",
+"text": "Cum haec Taurus dixisset videreturque in eandem rem plura etiam dicturus, perventum est ad vehicula et conscendimus."
+},
+{
+"id": "12.6.a",
+"label": "Gell. 12.6.a",
+"text": "De aenigmate."
+},
+{
+"id": "12.6.1",
+"label": "Gell. 12.6.1",
+"text": "QUAE Graeci dicunt aenigmata, hoc genus quidam ex nostris veteribus scirpos appellaverunt. Quale est quod nuper invenimus per hercle antiquum, perquam lepidum, tribus versibus senariis compositum aenigma, quod reliquimus inenarratum, ut legentium coniecturas in requirendo acueremus. Versus tres hi sunt:"
+},
+{
+"id": "12.6.2",
+"label": "Gell. 12.6.2",
+"text": "Semel minusne an bis minus sit, nescio; An utrumque eorum, ut quondam audivi dicier, Iovi ipsi regi noluit concedere."
+},
+{
+"id": "12.6.3",
+"label": "Gell. 12.6.3",
+"text": "Hoc qui nolit diutius aput sese quaerere, inveniet quid sit in M. Varronis De Sermone Latino ad Marcellum libro secundo."
+},
+{
+"id": "12.7.a",
+"label": "Gell. 12.7.a",
+"text": "Quam ob causam Cn. Dolabella proconsul ream mulierem veneficii confitentemque ad Ariopagitas reiecerit."
+},
+{
+"id": "12.7.1",
+"label": "Gell. 12.7.1",
+"text": "AD Cn. Dolabellam, proconsulari imperio provinciam Asiam obtinentem, deducta mulier Smyrnaea est."
+},
+{
+"id": "12.7.2",
+"label": "Gell. 12.7.2",
+"text": "Eadem mulier virum et filium eodem tempore venenis clam datis vita interfecerat atque id fecisse se confitebatur dicebatque habuisse se faciendi causam, quoniam idem illi maritus et filius alterum filium mulieris, ex viro priore genitum, adulescentem optimum et innocentissimum, exceptum insidiis occidissent."
+},
+{
+"id": "12.7.3",
+"label": "Gell. 12.7.3",
+"text": "Idque ita esse factum, controversia non erat. Dolabella retulit ad consilium."
+},
+{
+"id": "12.7.4",
+"label": "Gell. 12.7.4",
+"text": "Nemo quisquam ex consilio sententiam ferre in causa tam ancipiti audebat, quod et confessum veneficium, quo maritus et filius necat forent, non admittendum inpunitum videbatur et digna tamen poena in homines sceleratos vindicatum fuisset. Dolabella eam rem Athenas ad Ariopagitas,"
+},
+{
+"id": "12.7.5",
+"label": "Gell. 12.7.5",
+"text": "ut ad iudices graviores exercitatioresque, reiecit."
+},
+{
+"id": "12.7.6",
+"label": "Gell. 12.7.6",
+"text": "Ariopagitae, cognita causa, accusatorem mulieris et ipsam quae accusabatur centesimo anno adesse iusserunt."
+},
+{
+"id": "12.7.7",
+"label": "Gell. 12.7.7",
+"text": "Sic neque absolutum mulieris veneficium est, quod per leges non licuit, neque nocens damnata poenitaque quae digna venia fuit."
+},
+{
+"id": "12.7.8",
+"label": "Gell. 12.7.8",
+"text": "Scripta haec historiast in libro Valerii Maximi Factorum et Dictorum Memorabilium nono."
+},
+{
+"id": "12.8.a",
+"label": "Gell. 12.8.a",
+"text": "Reditiones in gratiam nobilium virorum memoratu dignae."
+},
+{
+"id": "12.8.1",
+"label": "Gell. 12.8.1",
+"text": "P. AFRICANUS superior et Tiberius Gracchus, Tiberii et C. Gracchorum pater, rerum gestarum magnitudine et honorum atque vitae dignitate inlustres viri, dissenserunt saepenumero de republican et ea sive qua alia re non amici fuerunt."
+},
+{
+"id": "12.8.2",
+"label": "Gell. 12.8.2",
+"text": "Ea simultas cum diu mansisset et sollemni die epulum Iovi libaretur atque ob id sacrificium senatus in Capitolio epularetur, fors fuit ut aput eandem mensam duo illi iunctim locarentur."
+},
+{
+"id": "12.8.3",
+"label": "Gell. 12.8.3",
+"text": "Tum, quasi diis inmortalibus arbitris in convivio Iovis Optimi Maximi dexteras eorum conducentibus, repente amicissimi facti. Neque solum amicitia incepta, sed adfinitas simul instituta;"
+},
+{
+"id": "12.8.4",
+"label": "Gell. 12.8.4",
+"text": "nam P. Scipio filiam virginem habens iam viro maturam, ibi tunc eodem in loco despondit eam Tiberio Graccho, quem probaverat elegeratque exploratissimo iudicii tempore, dum inimicus esset."
+},
+{
+"id": "12.8.5",
+"label": "Gell. 12.8.5",
+"text": "Aemilius quoque Lepidus et Fulvius Flaccus, nobili genere amplissimisque honoribus ac summo loco in civitate praediti, odio inter sese gravi et simultate diutina conflictati sunt."
+},
+{
+"id": "12.8.6",
+"label": "Gell. 12.8.6",
+"text": "Postea populus eos simul censores facit. Atque illi, ubi voce praeconis renuntiati sunt, ibidem in campo statim, nondum dimissa contione, ultro uterque et pari voluntate coniuncti complexique sunt, exque eo die et in ipsa censura et postea iugi concordia fidissime amicissimeque vixerunt."
+},
+{
+"id": "12.9.a",
+"label": "Gell. 12.9.a",
+"text": "Quae dicantur vocabula ancipitia; et quod honoris quoque vocabulum ancipiti sententia fuerit."
+},
+{
+"id": "12.9.1",
+"label": "Gell. 12.9.1",
+"text": "EST plurifariam videre atque animadvertere in veteribus scriptis pleraque vocabula, quae nunc in sermonibus vulgi unam certamque rem demonstrent, ita fuisse media et communia ut significare et capere possent duas inter se res contrarias. Ex quibus quaedam satis nota sunt, ut tempestas, valitudo, facinus, dolus, gratia, industria. Haec"
+},
+{
+"id": "12.9.2",
+"label": "Gell. 12.9.2",
+"text": "enim fere iam vulgatum est ancipitia esse et utroqueversus dici posse.\n\nPericulum etiam et venenum et contagium non, uti nunc dicuntur, pro malis tantum dicta esse, multum exemplorum huiusmodi reperias."
+},
+{
+"id": "12.9.3",
+"label": "Gell. 12.9.3",
+"text": "Sed honorem quoque mediam vocem fuisse et ita appellatum, ut etiam malus honos diceretur et significaret iniuriam, id profecto rarissimum. Quintus autem Metellus Numidicus,"
+},
+{
+"id": "12.9.4",
+"label": "Gell. 12.9.4",
+"text": "in oratione quam De Triumpho Suo dixit, his verbis usus est: Qua in re quanto universi me unum antistatis, tanto vobis quam mihi maiorem iniuriam atque contumeliam facit, Quirites, et quanto probi iniuriam facilius accipiunt quam alteri tradunt, tanto ille vobis quam mihi peiorem honorem habuit; nam me iniuriam ferre, vos facere vult, Quirites, ut hic conquestio, istic vituperatio relinquatur. Honorem, inquit, peiorem vobis habuit quam mihi;"
+},
+{
+"id": "12.9.5",
+"label": "Gell. 12.9.5",
+"text": "cuius verbi sententia est quam ipse quoque supra dicit: maiore vos adfecit iniuria et contumelia quam me."
+},
+{
+"id": "12.9.6",
+"label": "Gell. 12.9.6",
+"text": "Praeter huius autem verbi notionem adscribendam esse hanc sententiam ex oratione Quinti Metelli existimavi, ut definiremus Socratis esse decretum: κάκιον εἶναι τὸ ἀδικεῖν ἢ τὸ ἀδικεῖσθαι."
+},
+{
+"id": "12.10.a",
+"label": "Gell. 12.10.a",
+"text": "Quod aeditumus verbum Latinum sit."
+},
+{
+"id": "12.10.1",
+"label": "Gell. 12.10.1",
+"text": "AEDITIMUS verbum Latinum est et vetus, ea forma dictum qua finitimus et legitimus."
+},
+{
+"id": "12.10.2",
+"label": "Gell. 12.10.2",
+"text": "Pro eo a plerisque nunc aedituus dicitur nova et commenticia usurpatione,"
+},
+{
+"id": "12.10.3",
+"label": "Gell. 12.10.3",
+"text": "quasi a tuendis aedibus appellatus. Satis hoc esse potuit admonendi gratia dixisse propter agrestes quosdam et indomitos certatores, qui nisi auctoritatibus adhibitis non comprimuntur."
+},
+{
+"id": "12.10.4",
+"label": "Gell. 12.10.4",
+"text": "M. Varro in libro secundo Ad Marcellum De Latino Sermone aeditumum dici oportere censet magis quam aedituum, quod alterum sit recenti novitate fictum, alterum antiqua origine incorruptum. Laevius quoque,"
+},
+{
+"id": "12.10.5",
+"label": "Gell. 12.10.5",
+"text": "ut opinor in Protesilaodamia, claustritumum dixit qui claustris ianuae praeesset, eadem scilicet figura qua aeditumum dici videbat qui aedibus praeest."
+},
+{
+"id": "12.10.6",
+"label": "Gell. 12.10.6",
+"text": "In IV in Verrem M. Tullii in exemplaribus fidelissimis ita inveni scriptum: Aeditumi custodesque mature sentiunt, in libris autem hoc vulgariis aeditui scriptum est."
+},
+{
+"id": "12.10.7",
+"label": "Gell. 12.10.7",
+"text": "pomponii fabula Atellania est quae ita scripta est: Aeditumus. In qua hic versus est: Quí postquam tibi appáreo atque aedítumor in templó tuo."
+},
+{
+"id": "12.10.8",
+"label": "Gell. 12.10.8",
+"text": "Titus autem Lucretius in carmine suo pro aedituis aedituentes appellat."
+},
+{
+"id": "12.11.a",
+"label": "Gell. 12.11.a",
+"text": "Errare istos qui spe et fiducia latendi peccent, cum latebra peccati perpetua nulla sit; et super ea re Peregrini philosophi sermo et Sophocli poetae sententia."
+},
+{
+"id": "12.11.1",
+"label": "Gell. 12.11.1",
+"text": "PHILOSOPHUM nomine Peregrinum, cui postea cognomentum Proteus factum est, virum gravem atque constantem, vidimus, cum Athenis essemus, deversantem in quodam tugurio extra urbem. Cumque ad eum frequenter ventitaremus, multa hercle dicere eum utiliter et honeste audivimus. In quibus id fuit, quod praecipuum auditu meminimus:"
+},
+{
+"id": "12.11.2",
+"label": "Gell. 12.11.2",
+"text": "Virum quidem sapientem non peccaturum esse dicebat, etiamsi peccasse eum dii atque homines ignoraturi forent."
+},
+{
+"id": "12.11.3",
+"label": "Gell. 12.11.3",
+"text": "Non enim poenae aut infamiae metu non esse peccandum censebat, sed iusti honestique studio et officio."
+},
+{
+"id": "12.11.4",
+"label": "Gell. 12.11.4",
+"text": "Si qui tamen non essent tali vel ingenio vel disciplina praediti, uti se vi sua ac sua sponte facile a peccando tenerent, eos omnis tunc peccare proclivius existimabat, cum latere posse id peccatum putarent inpunitatemque ex ea latebra sperarent."
+},
+{
+"id": "12.11.5",
+"label": "Gell. 12.11.5",
+"text": "At si sciant, inquit, homines nihil omnium rerum diutius posse celari, repressius pudentiusque peccabitur."
+},
+{
+"id": "12.11.6",
+"label": "Gell. 12.11.6",
+"text": "Propterea versus istos Sophocli, prudentissimi poetarum, in ore esse habendos dicebat: Πρὸς ταῦτα κρύπτε μηδέν, ὡς ἅπανθʼ ὁρῶν Καὶ πάντʼ ἀκούων πάντʼ ἀναπτύσσει χρόνος."
+},
+{
+"id": "12.11.7",
+"label": "Gell. 12.11.7",
+"text": "Alius quidam veterum poetarum, cuius nomen mihi nunc memoriae non est, Veritatem Temporis filiam esse dixit."
+},
+{
+"id": "12.12.a",
+"label": "Gell. 12.12.a",
+"text": "Faceta responsio M. Ciceronis, amolientis a se crimen manifesti mendacii."
+},
+{
+"id": "12.12.1",
+"label": "Gell. 12.12.1",
+"text": "HAEC quoque disciplina rhetorica est, callide et cum astu res criminosas citra periculum confiteri, ut si obiectum sit turpe aliquid quod negari non queat, responsione ioculari eludas et rem facias risu magis dignam quam crimine, sicut fecisse Ciceronem scriptum est, cum id quod infitiari non poterat urbano facetoque dicto diluit."
+},
+{
+"id": "12.12.2",
+"label": "Gell. 12.12.2",
+"text": "Nam cum emere vellet in Palatio domum et pecuniam in praesens non haberet, a P. Sulla, qui tum reus erat, mutua sestertium viciens tacita accepit."
+},
+{
+"id": "12.12.3",
+"label": "Gell. 12.12.3",
+"text": "Ea res tamen, priusquam emeret, prodita est et in vulgus exivit, obiectumque ei est quod pecuniam domus emendae causa a reo accepisset."
+},
+{
+"id": "12.12.4",
+"label": "Gell. 12.12.4",
+"text": "Tum Cicero, inopinata obprobratione permotus, accepisse se negavit ac domum quoque se empturum negavit atque Adeo, inquit, verum sit accepisse me pecuniam, si domum emero. Sed cum postea emisset et hoc mendacium in senatu ei ab amicis obiceretur, risit satis atque inter ridendum: Ἀκοινονόητοι, inquit, homines estis, cum ignoratis prudentis et cauti patrisfamilias esse, quod emere velit empturum sese negare propter competitores emptionis."
+},
+{
+"id": "12.13.a",
+"label": "Gell. 12.13.a",
+"text": "Intra Kalendas cum dicitur, quid significet, utrum ante Kalendas an Kalendis an utrumque; atque inibi, quid sit in oratione M. Tulli intra oceanum et intra monte Taurum et in quadam epistula intra modum."
+},
+{
+"id": "12.13.1",
+"label": "Gell. 12.13.1",
+"text": "CUM Romae a consulibus iudex extra ordinem datus pronuntiare intra Kalendas iussus essem, Sulpicium Apollinarem, doctum hominem, percontatus sum an his verbis intra Kalendas ipsae quoque Kalendae tenerentur, dixique ei me videlicet datum Kalendasque mihi prodictas, ut intra eum diem pronuntiarem. Cur, inquit,"
+},
+{
+"id": "12.13.2",
+"label": "Gell. 12.13.2",
+"text": "hoc me potius rogas quam ex istis aliquem peritis studiosisque iuris, quos adhibere in consilium iudicaturi soletis? Tum illi ego ita respondi:"
+},
+{
+"id": "12.13.3",
+"label": "Gell. 12.13.3",
+"text": "Si aut de vetere, inquam, iure et recepto aut controverso et ambiguo aut novo et constituto discendum esset, issem plane sciscitatum ad istos quos dicis;"
+},
+{
+"id": "12.13.4",
+"label": "Gell. 12.13.4",
+"text": "sed cum verborum Latinorum sententia, usus, ratio exploranda sit, scaevus profecto et caecus animi forem, si, cum haberem tui copiam, issem magis ad alium quam ad te."
+},
+{
+"id": "12.13.5",
+"label": "Gell. 12.13.5",
+"text": "Audi igitur, inquit, de ratione verbi quid existimem, sed eo tamen pacto ut id facias, non quod ego de proprietate vocis disseruero, sed quod in ea re omnium pluriumve consensu observari cognoveris; non enim verborum tantum communium verae atque propriae significationes longiore usu mutantur, sed legum quoque ipsarum iussa consensu tacito oblitterantur."
+},
+{
+"id": "12.13.6",
+"label": "Gell. 12.13.6",
+"text": "Tum deinde disseruit, me et plerisque aliis audientibus, in hunc ferme modum: Cum dies, inquit, ita praefinita est, ut iudex intra Kalendas pronuntiet, occupavit iam haec omnes opinio, non esse dubium quin ante Kalendas iure pronuntietur, et id tantum ambigi video quod tu quaeris, an Kalendis quoque iure pronuntietur."
+},
+{
+"id": "12.13.7",
+"label": "Gell. 12.13.7",
+"text": "Ipsum autem verbum sic procul dubio natum est atque ita sese habet, ut, cum dicitur intra Kalendas, non alius accipi dies debeat quam solae Kalendae. Nam tres istae voces intra, citra, ultra, quibus certi locorum fines demonstrantur, singularibus apud veteres syllabis appellabantur in, cis, uls."
+},
+{
+"id": "12.13.8",
+"label": "Gell. 12.13.8",
+"text": "Haec deinde particulae quoniam parvo exiguoque sonitu obscurius promebantur, addita est tribus omnibus eadem syllaba, et quod dicebatur cis Tiberim et uls Tiberim dici coeptum est citra Tiberim et ultra Tiberim; item quod erat in, accedente eadem syllaba, intra factum est."
+},
+{
+"id": "12.13.9",
+"label": "Gell. 12.13.9",
+"text": "Sunt ergo haec omnia quasi contermina iunctis inter se finibus cohaerentia: intra oppidum, ultra oppidum, citra oppidum, ex quibus intra, sicuti dixi, in significat;"
+},
+{
+"id": "12.13.10",
+"label": "Gell. 12.13.10",
+"text": "nam qui dicit intra oppidum, intra cubiculum, intra ferias, non dicit aliud quam in oppido, in cubiculo, in feriis."
+},
+{
+"id": "12.13.11",
+"label": "Gell. 12.13.11",
+"text": "Intra Kalendas igitur non ante Kalendas est, sed in Kalendis; id est, eo ipso die quo Kalendae sunt."
+},
+{
+"id": "12.13.12",
+"label": "Gell. 12.13.12",
+"text": "Itaque secundum verbi ipsius rationem qui iussus est intra Kalendas pronuntiare, nisi Kalendis pronuntiet, contra iussum vocis facit;"
+},
+{
+"id": "12.13.13",
+"label": "Gell. 12.13.13",
+"text": "nam, si ante id fiat, non intra pronuntiat, sed citra."
+},
+{
+"id": "12.13.14",
+"label": "Gell. 12.13.14",
+"text": "Nescio quo autem pacto recepta vulgo interpretatio est absurdissima, ut intra Kalendas significare videatur etiam citra Kalendas vel ante Kalendas, nihil enim ferme interest."
+},
+{
+"id": "12.13.15",
+"label": "Gell. 12.13.15",
+"text": "Atque insuper dubitatur an Kalendis quoque pronuntiari possit, quando neque ultra neque citra, set, quod inter haec medium est, intra Kalendas, id est Kalendis, pronuntiandum sit."
+},
+{
+"id": "12.13.16",
+"label": "Gell. 12.13.16",
+"text": "Sed nimirum consuetudo vicit, quae cum omnium domina rerum, tum maxime verborum est."
+},
+{
+"id": "12.13.17",
+"label": "Gell. 12.13.17",
+"text": "Ea omnia cum Apollinaris scite perquam atque enucleate disputavisset, tum ego haec dixi: Cordi, inquam, mihi fuit, priusquam ad te irem, quaerere explorareque quonam modo veteres nostri particula ista qua de agitur usi sint, atque ita invenimus Tullium in Tertia in Verrem scripsisse istoc modo: Locus intra oceanum iam nullus est, neque tam longincus neque tam reconditus, quo non per haec tempora nostrorum hominum libido iniquitasque pervaserit."
+},
+{
+"id": "12.13.18",
+"label": "Gell. 12.13.18",
+"text": "Intra oceanum dicit contra rationem tuam; non enim vult, opinor, dicere in oceano; terras enim demonstrat omnis quae oceano ambiuntur, ad quas a nostris hominibus adiri potest, quae sunt citra oceanum, non in oceano; neque enim videri potest insulas significare nescio quas, quae penitus esse intra aequora ipsa oceani dicuntur."
+},
+{
+"id": "12.13.19",
+"label": "Gell. 12.13.19",
+"text": "Tunc Sulpicius Apollinaris renidens: Non me hercule inargute, inquit, nec incallide opposuisti hoc Tullianum; sed Cicero intra oceanum, non, ut tu interpretare,"
+},
+{
+"id": "12.13.20",
+"label": "Gell. 12.13.20",
+"text": "citra oceanum dixit. Quid enim potest dici citra oceanum esse, cum undique oceanus circumscribat omnis terras et ambiat? Nam citra quod est, id extra est; qui autem potest intra esse dici, quod extra est? Sed si ex una tantum parte orbis oceanus foret, tum quae terra ad eam partem foret, citra oceanum esse dici posset vel ante oceanum; cum vero omnis terras omnifariam et undiqueversum circumfluat, nihil citra eum est, sed, undarum illius ambitu terris omnibus convallatis, in medio eius sunt omnia, quae intra oras eius inclusa sunt, sicuti hercle sol non citra caelum vertitur, sed in caelo et intra caelum.\n\nHaec tunc Apollinaris scite acuteque dicere visus est."
+},
+{
+"id": "12.13.21",
+"label": "Gell. 12.13.21",
+"text": "Set postea in libro M. Tullii Epistularum ad Servium Sulpicium sic dictum esse invenimus intra modum, ut intra Kalendas dicunt qui dicere citra Kalendas volunt."
+},
+{
+"id": "12.13.22",
+"label": "Gell. 12.13.22",
+"text": "Verba haec Ciceronis sunt, quae adposui: Sed tamen, quoniam effugi eius offensionem, qui fortasse arbitraretur me hanc rem publicam non putare, si perpetuo tacerem, modice hoc faciam aut etiam intra modum, ut et illius voluntati et meis studiis serviam."
+},
+{
+"id": "12.13.23",
+"label": "Gell. 12.13.23",
+"text": "Modice dixerat hoc faciam, id est cum modo aequo et pari;"
+},
+{
+"id": "12.13.24",
+"label": "Gell. 12.13.24",
+"text": "deinde, quasi hoc displiceret et corrigere id vellet, addit: aut etiam intra modum, per quod ostendit minus sese id facturum esse quam quod fieri modice videretur; id est, non ad ipsum modum, sed retro paululum et citra modum."
+},
+{
+"id": "12.13.25",
+"label": "Gell. 12.13.25",
+"text": "In oratione etiam, quam Pro P. Sestio scripsit, intra montem Taurum sic dicit, ut non significet in monte Tauro, sed usque ad montem cum ipso monte."
+},
+{
+"id": "12.13.26",
+"label": "Gell. 12.13.26",
+"text": "Verba sunt haec ipsius M. Tullii ex ea qua dixi oratione: Antiochum Magnum illum maiores nostri magna belli contentione terra marique superatum intra montem Taurum regnare iusserunt; Asiam, qua illum multarunt, Attalo, ut is in ea regnaret, condonarunt."
+},
+{
+"id": "12.13.27",
+"label": "Gell. 12.13.27",
+"text": "Intra montem, inquit, Taurum regnare iusserunt, quod non proinde est, ut intra cubiculum dicimus, nisi videri potest id esse intra montem quod est intra regiones quae Tauri montis obiectu separantur."
+},
+{
+"id": "12.13.28",
+"label": "Gell. 12.13.28",
+"text": "Nam sicuti qui intra cubiculum est, is non in cubiculi parietibus, sed intra parietes est quibus cubiculum includitur, qui tamen ipsi quoque parietes in cubiculo sunt, ita, qui regnat intra montem Taurum, non solum in monte Tauro regnat, sed in his etiam regionibus quae Tauro monte clauduntur."
+},
+{
+"id": "12.13.29",
+"label": "Gell. 12.13.29",
+"text": "Num igitur secundum istam verborum M. Tullii similitudinem, qui iubetur intra Kalendas pronuntiare, is et ante Kalendas et ipsis Kalendis iure pronuntiare potest? Neque id fit quasi privilegio quodam inscitae consuetudinis, sed certa rationis observatione, quoniam omne tempus, quod Kalendarum die includitur, intra Kalendas esse recte dicitur."
+},
+{
+"id": "12.14.a",
+"label": "Gell. 12.14.a",
+"text": "Saltem particula quam vim habeat et quam originem."
+},
+{
+"id": "12.14.1",
+"label": "Gell. 12.14.1",
+"text": "SALTEM particula quam haberet principem significationem, quaeque vocis istius origo esset, quaerebamus."
+},
+{
+"id": "12.14.2",
+"label": "Gell. 12.14.2",
+"text": "Ita enim primitus factam esse apparet, ut non videatur, sicuti quaedam subplementa orationis, temere et incondite adsumpta."
+},
+{
+"id": "12.14.3",
+"label": "Gell. 12.14.3",
+"text": "Atque erat qui diceret legisse se in Grammaticis Commentariis P. Nigidii, saltem ex eo dictum quod esset si aliter, idque ipsum dici solitum per defectionem, nam plenam esse sententiam, si aliter non potest. Sed id nos in isdem commentariis P. Nigidii,"
+},
+{
+"id": "12.14.4",
+"label": "Gell. 12.14.4",
+"text": "cum eos non, opinor, incuriose legissemus, nusquam invenimus."
+},
+{
+"id": "12.14.5",
+"label": "Gell. 12.14.5",
+"text": "Videntur autem verba ista si aliter non potest a significatione quidem voculae huius de qua quaerimus non abhorrere. Set tot verba tamen in paucissimas litteras cludere, inprobae cuiusdam subtilitatis est."
+},
+{
+"id": "12.14.6",
+"label": "Gell. 12.14.6",
+"text": "Fuit etiam qui diceret, homo in libris atque in litteris adsiduus, saltem sibi dictum videri u littera media extrita; salutem enim ante dictum, quod nos saltem diceremus. Nam cum alia quaedam petita et non impetrata sunt, tum solemus, inquit, quasi extremum aliquid petituri quod negari minime debeat, dicere hoc saltem fieri aut dari oportere, tamquam salutem postremo petentes, quam impetrari certe et obtineri sit aequissimum."
+},
+{
+"id": "12.14.7",
+"label": "Gell. 12.14.7",
+"text": "Sed hoc itidem non inlepide quidem fictum, nimis tamen esse videtur commenticium. Censuimus igitur amplius quaerendum."
+},
+{
+"id": "12.15.a",
+"label": "Gell. 12.15.a",
+"text": "Quod Sisenna in libris Historiarum adverbis huiuscemodi saepenumero usus est: celatim, vellicatim, saltuatim."
+},
+{
+"id": "12.15.1",
+"label": "Gell. 12.15.1",
+"text": "CUM lectitaremus Historiam Sisennae adsidue. huiuscemodi figurae adverbia in oratione eius animadvertimus cuimodi sunt haec: cursim, properatim, celatim, vellicatim, saltuatim."
+},
+{
+"id": "12.15.2",
+"label": "Gell. 12.15.2",
+"text": "Ex quibus duo prima, quia sunt notiora, exemplis non indigebant, reliqua in Historiarum sexto sic scripta sunt: Quam maxime celatim poterat, in insidiis suos disponit. Item alio in loco: Nos una aestate in Asia et Graecia gesta litteris idcirco continentia mandavimus, ne vellicatim aut saltuatim scribendo lectorum animos impediremus."
+}
+]
+}

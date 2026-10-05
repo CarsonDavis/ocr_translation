@@ -1,0 +1,704 @@
+{
+"corpus": "digest",
+"unit": "4.8",
+"title": "D. 4.8 De receptis: qui arbitrium receperint ut sententiam dicant",
+"passages": [
+{
+"id": "4.8.1",
+"label": "D. 4.8.1 (Paulus)",
+"text": "Compromissum ad similitudinem iudiciorum redigitur et ad finiendas lites pertinet.",
+"inscription": "Paulus libro secundo ad edictum"
+},
+{
+"id": "4.8.2",
+"label": "D. 4.8.2 (Ulpianus)",
+"text": "Ex compromisso placet exceptionem non nasci, sed poenae petitionem.",
+"inscription": "Ulpianus libro quarto ad edictum"
+},
+{
+"id": "4.8.3.pr",
+"label": "D. 4.8.3 pr. (Ulpianus)",
+"text": "Labeo ait, si compromisso facto sententia dicta est, quo quis a minore viginti quinque annis tutelae absolveretur, ratum id a praetore non habendum: neque poenae eo nomine commissae petitio dabitur.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.3.1",
+"label": "D. 4.8.3.1",
+"text": "Tametsi neminem praetor cogat arbitrium recipere, quoniam haec res libera et soluta est et extra necessitatem iurisdictionis posita, attamen ubi semel quis in se receperit arbitrium, ad curam et sollicitudinem suam hanc rem pertinere praetor putat: non tantum quod studeret lites finiri, verum quoniam non deberent decipi, qui eum quasi virum bonum disceptatorem inter se elegerunt. Finge enim post causam iam semel atque iterum tractatam, post nudata utriusque intima et secreta negotii aperta, arbitrum vel gratiae dantem vel sordibus corruptum vel alia qua ex causa nolle sententiam dicere: quisquamne potest negare aequissimum fore praetorem interponere se debuisse, ut officium quod in se recepit impleret?"
+},
+{
+"id": "4.8.3.2",
+"label": "D. 4.8.3.2",
+"text": "Ait praetor: \"Qui arbitrium pecunia compromissa receperit\"."
+},
+{
+"id": "4.8.3.3",
+"label": "D. 4.8.3.3",
+"text": "Tractemus de personis arbitrantium. Et quidem arbitrum cuiuscumque dignitatis coget officio quod susceperit perfungi, etiam si sit consularis: nisi forte sit in aliquo magistratu positus vel potestate, consul forte vel praetor, quoniam in hoc imperium non habet."
+},
+{
+"id": "4.8.4",
+"label": "D. 4.8.4 (Paulus)",
+"text": "Nam magistratus superiore aut pari imperio nullo modo possunt cogi: nec interest ante an in ipso magistratu arbitrium susceperint. Inferiores possunt cogi.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.5",
+"label": "D. 4.8.5 (Ulpianus)",
+"text": "Sed et filius familias compelletur.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.6",
+"label": "D. 4.8.6 (Gaius)",
+"text": "Quin etiam de re patris dicitur, filium familias arbitrum esse posse: nam et iudicem eum esse posse plerisque placet.",
+"inscription": "Gaius libro quinto ad edictum provinciale"
+},
+{
+"id": "4.8.7.pr",
+"label": "D. 4.8.7 pr. (Ulpianus)",
+"text": "Pedius libro nono et Pomponius libro trigensimo tertio scribunt parvi referre, ingenuus quis an libertinus sit, integrae famae quis sit arbiter an ignominiosus. In servum Labeo compromitti non posse libro undecimo scribit: et est verum.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.7.1",
+"label": "D. 4.8.7.1",
+"text": "Unde Iulianus ait, si in Titium et servum compromissum sit, nec Titium cogendum sententiam dicere, quia cum alio receperit: quamvis servi, inquit, arbiterium nullum sit. Quid tamen si dixerit sententiam Titius? Poena non committitur, quia non, ut receperit, dixit sententiam."
+},
+{
+"id": "4.8.8",
+"label": "D. 4.8.8 (Paulus)",
+"text": "Sed si ita compromissum sit, ut vel alterutrius sententia valeat, titium cogendum.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.9.pr",
+"label": "D. 4.8.9 pr. (Ulpianus)",
+"text": "Sed si in servum compromittatur et liber sententiam dixerit, puto, si liber factus fecerit consentientibus partibus, valere.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.9.1",
+"label": "D. 4.8.9.1",
+"text": "Sed neque in pupillum neque in furiosum aut surdum aut mutum compromittetur, ut Pomponius libro trigensimo tertio scribit."
+},
+{
+"id": "4.8.9.2",
+"label": "D. 4.8.9.2",
+"text": "Si quis iudex sit, arbitrium recipere eius rei, de qua iudex est, inve se compromitti iubere prohibetur lege Iulia: et si sententiam dixerit non est danda poenae persecutio."
+},
+{
+"id": "4.8.9.3",
+"label": "D. 4.8.9.3",
+"text": "Sunt et alii, qui non coguntur sententiam dicere, ut puta si sordes aut turpitudo arbitri manifesta sit."
+},
+{
+"id": "4.8.9.4",
+"label": "D. 4.8.9.4",
+"text": "Iulianus ait, si eum infamaverunt litigatores, non omnimodo praetorem debere eum excusare, sed causa cognita."
+},
+{
+"id": "4.8.9.5",
+"label": "D. 4.8.9.5",
+"text": "Idem et si spreta auctoritate eius ad iudicium."
+},
+{
+"id": "4.8.10",
+"label": "D. 4.8.10 (Paulus)",
+"text": "Vel alium arbitrum.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.11.pr",
+"label": "D. 4.8.11 pr. (Ulpianus)",
+"text": "Litigatores ierint, mox ad eundem arbitrum redierint, praetorem non debere eum cogere inter eos disceptare, qui ei contumeliam hanc fecerunt, ut eum spernerent et ad alium irent.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.11.1",
+"label": "D. 4.8.11.1",
+"text": "Arbitrum autem cogendum non esse sententiam dicere, nisi compromissum intervenerit."
+},
+{
+"id": "4.8.11.2",
+"label": "D. 4.8.11.2",
+"text": "Quod ait praetor: \"Pecuniam compromissam\", accipere nos debere, non si utrimque poena nummaria, sed si et alia res vice poenae, si quis arbitri sententia non steterit, promissa sit: et ita Pomponius scribit. Quid ergo, si res apud arbitrum depositae sunt eo pacto, ut ei daret qui vicerit, vel ut eam rem daret, si non pareatur sententiae, an cogendus sit sententiam dicere? Et puto cogendum. Tantundem et si quantitas certa ad hoc apud eum deponatur. Proinde et si alter rem, alter pecuniam stipulanti promiserit, plenum compromissum est et cogetur sententiam dicere."
+},
+{
+"id": "4.8.11.3",
+"label": "D. 4.8.11.3",
+"text": "Interdum, ut Pomponius scribit, recte nudo pacto fiet compromissum, ut puta si ambo debitores fuerunt et pacti sunt, ne petat quod sibi debetur qui sententiae arbitri non paruit."
+},
+{
+"id": "4.8.11.4",
+"label": "D. 4.8.11.4",
+"text": "Item Iulianus scribit non cogendum arbitrum sententiam dicere, si alter promiserit, alter non. Idem dicit, et si sub condicione fuerit poena compromissa, veluti \"si navis ex Asia venerit, tot milia\": non enim prius arbitrum cogendum sententiam dicere, quam condicio exstiterit: ne sit inefficax deficiente condicione. Et ita Pomponius libro trigensimo tertio ad edictum scribit."
+},
+{
+"id": "4.8.12",
+"label": "D. 4.8.12 (Paulus)",
+"text": "Quo casu ad praetorem pertinebit in eo forsitan solo, ut si possit dies compromissi proferri, proferatur.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.13.pr",
+"label": "D. 4.8.13 pr. (Ulpianus)",
+"text": "Pomponius ait, et si alteri accepto lata sit poena compromissi, non debere eum compelli sententiam dicere.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.13.1",
+"label": "D. 4.8.13.1",
+"text": "Idem Pomponius scribit, si de meis solis controversiis sit compromissum et de te poenam sim stipulatus, videndum ne non sit compromissum. Sed cui rei moveatur, non video: nam si ideo, quia de unius controversiis solum compromissum est, nulla ratio est: licet enim et de una re compromittere: si vero ideo, quia ex altera dumtaxat parte stipulatio intervenit, est ratio. Quamquam si petitor fuit qui stipulatus est, possit dici plenum esse compromissum, quia is qui convenitur tutus est veluti pacti exceptione, is qui convenit, si arbitro non pareatur, habet stipulationem. Sed id verum esse non puto: neque enim sufficit exceptionem habere, ut arbiter sententiam dicere cogatur."
+},
+{
+"id": "4.8.13.2",
+"label": "D. 4.8.13.2",
+"text": "Recepisse autem arbitrium videtur, ut Pedius libro nono dicit, qui iudicis partes suscepit finemque se sua sententia controversiis impositurum pollicetur. Quod si, inquit, hactenus intervenit, ut experiretur, an consilio suo vel auctoritate discuti litem paterentur, non videtur arbitrium recepisse."
+},
+{
+"id": "4.8.13.3",
+"label": "D. 4.8.13.3",
+"text": "Arbiter ex compromisso his diebus non cogitur sententiam dicere, quibus iudex non cogetur, nisi dies compromissi exitura sit nec proferri possit."
+},
+{
+"id": "4.8.13.4",
+"label": "D. 4.8.13.4",
+"text": "Proinde si forte urgueatur a praetore ad sententiam, aequissimum erit, si iuret sibi de causa nondum liquere, spatium ei ad pronuntiandum dari."
+},
+{
+"id": "4.8.14",
+"label": "D. 4.8.14 (Pomponius)",
+"text": "Sed si compromissum sine die confectum est, necesse est arbitro omnimodo dies statuere, partibus scilicet consentientibus, et ita causam disceptari: quod si hoc praetermiserit, omni tempore cogendus est sententiam dicere.",
+"inscription": "Pomponius libro 11 ad Quintum Mucium"
+},
+{
+"id": "4.8.15",
+"label": "D. 4.8.15 (Ulpianus)",
+"text": "Licet autem praetor destricte edicat sententiam se arbitrum dicere coacturum, attamen interdum rationem eius habere debet et excusationem recipere causa cognita: ut puta si fuerit infamatus a litigatoribus, aut si inimicitiae capitales inter eum et litigatores aut alterum ex litigatoribus intercesserint, aut si aetas aut valetudo quae postea contigit id ei munus remittat, aut occupatio negotiorum propriorum vel profectio urguens aut munus aliquod rei publicae: et ita Labeo:",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.16.pr",
+"label": "D. 4.8.16 pr. (Paulus)",
+"text": "Et si qua alia incommoditas ei post arbiterium susceptum incidat. Sed in causa valetudinis similibusve causa cognita differre cogitur.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.16.1",
+"label": "D. 4.8.16.1",
+"text": "Arbiter iudicii sui nomine, quod publicum aut privatum habet, excusatus esse debet a compromisso, utique si dies compromissi proferri non potest: quod si potest, quare non cogat eum, cum potest, proferre? Quod sine ulla distinctione ipsius interdum futurum est. Si tamen uterque velit eum sententiam dicere, an, quamvis cautum non sit de die proferenda, non alias impetret, quia iudicium habet, ne cogatur, quam si consentiat denuo in se compromitti? Haec scilicet si dies exitura est."
+},
+{
+"id": "4.8.17.pr",
+"label": "D. 4.8.17 pr. (Ulpianus)",
+"text": "Item si unus ex litigatoribus bonis suis cedat, Iulianus libro quarto digestorum scribit non esse cogendum arbitrum sententiam dicere, cum neque agere neque conveniri possit.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.17.1",
+"label": "D. 4.8.17.1",
+"text": "Si multo post revertantur ad arbitrum litigatores, non esse cogendum sententiam dicere Labeo scribit."
+},
+{
+"id": "4.8.17.2",
+"label": "D. 4.8.17.2",
+"text": "Item si plures sunt qui arbitrium receperunt, nemo unus cogendus erit sententiam dicere, sed aut omnes aut nullus."
+},
+{
+"id": "4.8.17.3",
+"label": "D. 4.8.17.3",
+"text": "Inde Pomponius libro trigensimo tertio quaerit, si ita sit compromissum, ut quod Titio disceptatori placet, id Seius pronuntiet, quis sit cogendus? Et puto tale arbitrium non valere, in quo libera facultas arbitri sententiae non est futura."
+},
+{
+"id": "4.8.17.4",
+"label": "D. 4.8.17.4",
+"text": "Sed si ita sit compromissum arbitratu titii aut seii fieri, Pomponius scribit et nos putamus compromissum valere: sed is erit cogendus sententiam dicere, in quem litigatores consenserint."
+},
+{
+"id": "4.8.17.5",
+"label": "D. 4.8.17.5",
+"text": "Si in duos fuerit sic compromissum, ut si dissentirent, tertium adsumant, puto tale compromissum non valere: nam in adsumendo possunt dissentire. Sed si ita sit, ut eis tertius adsumeretur Sempronius, valet compromissum, quoniam in adsumendo dissentire non possunt."
+},
+{
+"id": "4.8.17.6",
+"label": "D. 4.8.17.6",
+"text": "Principaliter tamen quaeramus, si in duos arbitros sit compromissum, an cogere eos praetor debeat sententiam dicere, quia res fere sine exitu futura est propter naturalem hominum ad dissentiendum facilitatem. In inpari enim numero idcirco compromissum admittitur, non quoniam consentire omnes facile est, sed quia et si dissentiant, invenitur pars maior, cuius arbitrio stabitur. Sed usitatum est etiam in duos compromitti, et debet praetor cogere arbitros, si non consentiant, tertiam certam eligere personam, cuius auctoritati pareatur."
+},
+{
+"id": "4.8.17.7",
+"label": "D. 4.8.17.7",
+"text": "Celsus libro secundo digestorum scribit, si in tres fuerit compromissum, sufficere quidem duorum consensum, sed si praesens fuerit et tertius: alioquin absente eo licet duo consentiant, arbitrium non valere, quia in plures fuit compromissum et potuit praesentia eius trahere eos in eius sententiam:"
+},
+{
+"id": "4.8.18",
+"label": "D. 4.8.18 (Pomponius)",
+"text": "Sicuti tribus iudicibus datis quod duo ex consensu absente tertio iudicaverunt, nihil valet, quia id \"tum\" demum, quod maior pars omnium iudicavit, ratum est, cum et omnes iudicasse palam est.",
+"inscription": "Pomponius libro 17 epistularum et variis lectionibus"
+},
+{
+"id": "4.8.19.pr",
+"label": "D. 4.8.19 pr. (Paulus)",
+"text": "Qualem autem sententiam dicat arbiter, ad praetorem non pertinere Labeo ait, dummodo dicat quod ipsi videtur. Et ideo si sic fuit in arbitrium compromissum, ut certam sententiam dicat, nullum esse arbitrium, nec cogendum sententiam dicere Iulianus scribit libro quarto digestorum.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.19.1",
+"label": "D. 4.8.19.1",
+"text": "Dicere autem sententiam existimamus eum, qui ea mente quid pronuntiat, ut secundum id discedere eos a tota controversia velit, sed si de pluribus rebus sit arbiterium receptum, nisi omnes controversias finierit, non videtur dicta sententia, sed adhuc erit a praetore cogendus."
+},
+{
+"id": "4.8.19.2",
+"label": "D. 4.8.19.2",
+"text": "Unde videndum erit, an mutare sententiam possit. Et alias quidem est agitatum, si arbiter iussit dari, mox vetuit, utrum eo quod iussit an eo quod vetuit stari debeat. Et Sabinus quidem putavit posse. Cassius sententiam magistri sui bene excusat et ait Sabinum non de ea sensisse sententia, quae arbitrium finiat, sed de praeparatione causae: ut puta si iussit litigatores calendis adesse, mox idibus iubeat: nam mutare eum diem posse. Ceterum si condemnavit vel absolvit, dum arbiter esse desierit, mutare sententiam non posse,"
+},
+{
+"id": "4.8.20",
+"label": "D. 4.8.20 (Gaius)",
+"text": "Quia arbiter, etsi erraverit in sententia dicenda, corrigere eam non potest.",
+"inscription": "Gaius libro quinto ad edictum provinciale"
+},
+{
+"id": "4.8.21.pr",
+"label": "D. 4.8.21 pr. (Ulpianus)",
+"text": "Quid tamen si de pluribus controversiis sumptus est nihil sibi communibus et de una sententiam dixit, de aliis nondum, numquid desiit esse arbiter? Videamus igitur, an in prima controversia possit mutare sententiam, de qua iam dixerat. Et multum interest, de omnibus simul ut dicat sententiam compromissum est, an non: nam si de omnibus, poterit mutare (nondum enim dixit sententiam): quod si et separatim, quasi plura sunt compromissa, et ideo quantum ad illam controversiam pertinet, arbiter esse desierat.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.21.1",
+"label": "D. 4.8.21.1",
+"text": "Si arbiter ita pronuntiasset nihil videri titium debere seio: tametsi seium non vetuisset petere, tamen si quid petisset, videri contra sententiam arbitri fecisse: et id Ofilius et Trebatius responderunt."
+},
+{
+"id": "4.8.21.2",
+"label": "D. 4.8.21.2",
+"text": "Solutioni diem posse arbitrum statuere puto: et ita et Trebatius videtur sentire."
+},
+{
+"id": "4.8.21.3",
+"label": "D. 4.8.21.3",
+"text": "Pomponius ait inutiliter arbitrum incertam sententiam dicere, ut puta: \"quantum ei debes redde \" : \"divisioni vestrae stari placet\": \"pro ea parte, quam creditoribus tuis solvisti, accipe\"."
+},
+{
+"id": "4.8.21.4",
+"label": "D. 4.8.21.4",
+"text": "Item si arbiter poenam ex compromisso peti vetuerit, in libro trigensimo tertio apud Pomponium scriptum habeo non valere: et habet rationem, quia non de poena compromissum est."
+},
+{
+"id": "4.8.21.5",
+"label": "D. 4.8.21.5",
+"text": "Papinianus libro tertio quaestionum ait, si cum dies compromissi finiretur, prolato die litigatores denuo in eum compromiserint nec secundi compromissi arbitrium receperit, non esse cogendum recipere, si ipse in mora non fuit, quo minus partibus suis fungeretur: quod si per eum factum est, aequissimum esse cogi eum a praetore sequens recipere. Quae quaestio ita procedit, si nihil in priore compromisso de die proferendo caveatur: ceterum si cavebatur et ipse protulit, mansit arbiter."
+},
+{
+"id": "4.8.21.6",
+"label": "D. 4.8.21.6",
+"text": "Plenum compromissum appellatur, quod \"de rebus controversiisve\" compositum est: nam ad omnes controversias pertinet. Sed si forte de una re sit disputatio, licet pleno compromisso actum sit, tamen ex ceteris causis actiones superesse: id enim venit in compromissum, de quo actum est ut veniret. Sed est tutius, si quis de certa re compromissum facturus sit, de ea sola exprimere in compromisso."
+},
+{
+"id": "4.8.21.7",
+"label": "D. 4.8.21.7",
+"text": "Non debent autem obtemperare litigatores, si arbiter aliquid non honestum iusserit."
+},
+{
+"id": "4.8.21.8",
+"label": "D. 4.8.21.8",
+"text": "Si intra diem compromissi aditus arbiter post diem compromissi adesse iusserit, poena non committetur."
+},
+{
+"id": "4.8.21.9",
+"label": "D. 4.8.21.9",
+"text": "Si quis ex litigatoribus ideo non adfuerit, quod valetudine vel rei publicae causa absentia impeditus sit aut magistratu aut alia iusta de causa, poenam committi Proculus et Atilicinus aiunt: sed si paratus sit in eundem compromittere, actionem denegari aut exceptione tutum fore. Sed hoc ita demum verum erit, si arbiter recipere in se arbiterium fuerit paratus: nam invitum non esse cogendum Iulianus libro quarto digestorum recte scribit: ipse autem nihilo minus poena absolvitur."
+},
+{
+"id": "4.8.21.10",
+"label": "D. 4.8.21.10",
+"text": "Si arbiter iussit puta in provincia adesse litigatores, cum Romae esset in eum compromissum, an ei impune non pareatur, quaeritur. Et est verius, quod Iulianus ait libro quarto, eum locum compromisso inesse, de quo actum sit ut promitteretur: impune igitur ei non parebitur, si alio loci adesse iusserit. Quid ergo, si non appareat, de quo loco actum sit? Melius dicetur eum locum contineri, ubi compromissum est. Quid tamen si in eo loco, qui sit circa urbem, adesse iusserit? Pegasus admittit valere iussum. Quod puto ita verum esse, si et eius sit auctoritatis arbiter, ut in secessibus soleat agere, et litigatores facile eo loci venire possint."
+},
+{
+"id": "4.8.21.11",
+"label": "D. 4.8.21.11",
+"text": "Sed si in aliquem locum inhonestum adesse iusserit, puta in popinam vel in lupanarium, ut Vivianus ait, sine dubio impune ei non parebitur: quam sententiam et Celsus libro secundo digestorum probat. Unde eleganter tractat, si is sit locus, in quem alter ex litigatoribus honeste venire non possit, alter possit, et is non venerit, qui sine sua turpitudine eo venire possit, is venerit, qui inhoneste venerat, an committatur poena compromissi an quasi opera non praebita. Et recte putat non committi: absurdum enim esse iussum in alterius persona ratum esse, in alterius non."
+},
+{
+"id": "4.8.21.12",
+"label": "D. 4.8.21.12",
+"text": "Intra quantum autem temporis, nisi detur quod arbiter iusserit, committatur stipulatio, videndum est. Et si quidem dies adiectus non sit, Celsus scribit libro secundo digestorum inesse quoddam modicum tempus: quod ubi praeterierit, poena statim peti potest: et tamen, inquit, et si dederit ante acceptum iudicium, agi ex stipulatu non poterit:"
+},
+{
+"id": "4.8.22",
+"label": "D. 4.8.22 (Paulus)",
+"text": "Utique nisi eius interfuerit tunc solvi.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.23.pr",
+"label": "D. 4.8.23 pr. (Ulpianus)",
+"text": "Celsus ait, si arbiter intra kalendas septembres dari iusserit nec datum erit, licet postea offeratur, attamen semel commissam poenam compromissi non evanescere, quoniam semper verum est intra kalendas datum non esse: sin autem oblatum accepit, poenam petere non potest doli exceptione removendus. contra, ubi dumtaxat dare iussus est.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.23.1",
+"label": "D. 4.8.23.1",
+"text": "Idem ait, si iusserit me tibi dare et valetudine sis impeditus, quo minus accipias, aut alia iusta ex causa, Proculum existimare poenam non committi, nec si post kalendas te parato accipere non dem. Sed ipse recte putat duo esse arbitri praecepta, unum pecuniam dari, aliud intra kalendas dari: licet igitur in poenam non committas, quod intra calendas non dederis, quoniam per te non stetit, tamen committis in eam partem, quod non das."
+},
+{
+"id": "4.8.23.2",
+"label": "D. 4.8.23.2",
+"text": "Idem ait nihil aliud esse sententiae stare posse, quam id agere, quantum in ipso sit, ut arbitri pareatur sententiae."
+},
+{
+"id": "4.8.23.3",
+"label": "D. 4.8.23.3",
+"text": "Idem celsus ait, si arbiter me tibi certa die pecuniam dare iusserit, tu accipere noluisti, posse defendi ipso iure poenam non committi."
+},
+{
+"id": "4.8.24",
+"label": "D. 4.8.24 (Paulus)",
+"text": "Sed si postea ille paratus sit accipere, non impune me non daturum: non enim ante feceram.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.25.pr",
+"label": "D. 4.8.25 pr. (Ulpianus)",
+"text": "Labeo ait, si arbiter, cum in compromisso cautum esset, ut eadem die de omnibus sententiam diceret et ut posset diem proferre, de quibusdam rebus dicta sententia, de quibusdam non dicta diem protulit: valere prolationem sententiaeque eius posse impune non pareri. Et Pomponius probat Labeonis sententiam, quod et mihi videtur: quia officio in sententia functus non est.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.25.1",
+"label": "D. 4.8.25.1",
+"text": "Haec autem clausula \"diem compromissi proferre\" nullam aliam dat arbitro facultatem quam diem prorogandi: et ideo condicionem primi compromissi neque minuere neque immutare potest: et ideo cetera quoque discutere et pro omnibus unam sententiam ferre debebit."
+},
+{
+"id": "4.8.25.2",
+"label": "D. 4.8.25.2",
+"text": "Si per fideiussorem fuerit cautum in primo compromisso, et sequens similiter proferendum Labeo dicit. Sed Pomponius dubitat, utrum isdem an et aliis tam idoneis: quid enim, inquit, si idem fideiubere noluerint? Sed puto, si noluerint fideiubere, tunc alios non absimiles adhibendos,"
+},
+{
+"id": "4.8.26",
+"label": "D. 4.8.26 (Paulus)",
+"text": "Ne in potestate sit fideiussorum postea se non obligantium, ut poena committatur. Idemque et si decesserint.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.27.pr",
+"label": "D. 4.8.27 pr. (Ulpianus)",
+"text": "Diem proferre vel praesens vel per nuntium vel per epistulam potest.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.27.1",
+"label": "D. 4.8.27.1",
+"text": "Si heredis mentio vel ceterorum facta in compromisso non fuerit, morte solvetur compromissum: nec utimur Labeonis sententia, qui existimavit, si arbiter aliquem pecuniam dare iusserit et is decesserit antequam daret, poenam committi, licet heres eius paratus sit offerre."
+},
+{
+"id": "4.8.27.2",
+"label": "D. 4.8.27.2",
+"text": "Stari autem debet sententiae arbitri, quam de ea re dixerit, sive aequa sive iniqua sit: et sibi imputet qui compromisit. Nam et divi Pii rescripto adicitur: \"Vel minus probabilem sententiam aequo animo ferre debet\"."
+},
+{
+"id": "4.8.27.3",
+"label": "D. 4.8.27.3",
+"text": "Si plures arbitri fuerint et diversas sententias dixerint, licebit sententia eorum non stari: sed si maior pars consentiat, ea stabitur, alioquin poena committetur. Inde quaeritur apud Iulianum, si ex tribus arbitris unus quindecim, alius decem, tertius quinque condemnent, qua sententia stetur: et Iulianus scribit quinque debere praestari, quia in hanc summam omnes consenserunt."
+},
+{
+"id": "4.8.27.4",
+"label": "D. 4.8.27.4",
+"text": "Si quis litigatorum defuerit, quia per eum factum est, quo minus arbitretur, poena committetur. Proinde sententia quidem dicta non coram litigatoribus non valebit, nisi in compromissis hoc specialiter expressum sit, ut vel uno vel utroque absente sententia promatur: poenam autem is qui defuit committit, quia per eum factum est quo minus arbitretur."
+},
+{
+"id": "4.8.27.5",
+"label": "D. 4.8.27.5",
+"text": "Coram autem dicere sententiam videtur, qui sapientibus dicit: ceterum coram furioso vel demente non videtur dici: item coram pupillo non videri sententiam dictam, nisi tutor praesens fuit: et ita de his omnibus Iulianus libro quarto digestorum scribit."
+},
+{
+"id": "4.8.27.6",
+"label": "D. 4.8.27.6",
+"text": "Et si quis praesens arbitrum sententiam dicere prohibuit, poena committetur."
+},
+{
+"id": "4.8.27.7",
+"label": "D. 4.8.27.7",
+"text": "Sed si poena non fuisset adiecta compromisso, sed simpliciter sententia stari quis promiserit, incerti adversus eum foret actio."
+},
+{
+"id": "4.8.28",
+"label": "D. 4.8.28 (Paulus)",
+"text": "Non autem interest, certa an incerta summa compromissa sit, ut puta \" quanti ea res erit\".",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.29",
+"label": "D. 4.8.29 (Ulpianus)",
+"text": "Adversus sententiam arbitri fit, si petatur ab eo a quo arbiter peti vetuit. Quid ergo si a fideiussore eius petatur, an poena committatur? Et puto committi, et ita Sabinus scribit: nam ty dunamei a reo petit. Sed si cum fideiussore compromisi et a reo petatur, nisi intersit fideiussoris, non committetur.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.30",
+"label": "D. 4.8.30 (Paulus)",
+"text": "Si quis rem, de qua compromissum sit, in iudicium deducat, quidam dicunt praetorem non intervenire ad cogendum arbitrum sententiam dicere, quia iam poena non potest esse, atque si solutum est compromissum. Sed si hoc optinuerit, futurum est, ut in potestate eius, quem paenitet compromisisse, sit compromissum eludere. Ergo adversus eum poena committenda est lite apud iudicem suo ordine peragenda.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.31",
+"label": "D. 4.8.31 (Ulpianus)",
+"text": "Ita demum autem committetur stipulatio, cum adversus eam quid fit, si sine dolo malo stipulantis factum est: sub hac enim condicione committitur stipulatio, ne quis doli sui praemium ferat. Sed si quidem compromisso adiciatur \"ut si quid dolo in ea re factum sit\", ex stipulatu conveniri qui dolo fecit potest: et ideo si arbitrum quis corrupit vel pecunia vel ambitione, vel advocatum diversae partis, vel aliquem ex his, quibus causam suam commiserat, ex doli clausula poterit conveniri, vel si adversarium callide circumvenit, et omnino si in hac lite dolose versatus est, locum habebit ex stipulatu actio: et ideo si velit de dolo actionem exercere adversarius, non debebit, cum habeat ex stipulatu actionem. quod si huiusmodi clausula in compromisso adscripta non est, tunc de dolo actio vel exceptio locum habebit. Hoc autem compromissum plenum est, quod et doli clausulae habet mentionem.",
+"inscription": "Ulpianus libro 13 ad edictum"
+},
+{
+"id": "4.8.32.pr",
+"label": "D. 4.8.32 pr. (Paulus)",
+"text": "Non distinguemus in compromissis, minor an maior sit poena quam res de qua agitur.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.32.1",
+"label": "D. 4.8.32.1",
+"text": "Non cogetur arbiter sententiam dicere, si poena commissa sit."
+},
+{
+"id": "4.8.32.2",
+"label": "D. 4.8.32.2",
+"text": "Si mulier alieno nomine compromittat, non erit pecunia compromissa propter intercessionem."
+},
+{
+"id": "4.8.32.3",
+"label": "D. 4.8.32.3",
+"text": "Summa rei est, ut praetor se non interponat, sive initio nullum sit compromissum: sive sit, sed pendeat, an ex eo poena exigi potest: sive postea deficiat poena compromisso soluto die morte acceptilatione iudicio pacto."
+},
+{
+"id": "4.8.32.4",
+"label": "D. 4.8.32.4",
+"text": "Sacerdotio obveniente videbimus an cogatur arbiter sententiam dicere: id enim non tantum honori personarum, sed et maiestati dei indulgetur, cuius sacris vacare sacerdotes oportet. Ceterum si postea suscepit, iste quoque omnimodo sententiam ferre debet."
+},
+{
+"id": "4.8.32.5",
+"label": "D. 4.8.32.5",
+"text": "Item non est cogendus, si de negotio transactum est, vel homo mortuus est de quo erat compromissum: nisi si posteriore casu aliquid litigantium intersit."
+},
+{
+"id": "4.8.32.6",
+"label": "D. 4.8.32.6",
+"text": "Iulianus indistincte scribit: si per errorem de famoso delicto ad arbitrum itum est, vel de ea re, de qua publicum iudicium sit constitutum, veluti de adulteriis sicariis et similibus, vetare debet praetor sententiam dicere nec dare dictae exsecutionem."
+},
+{
+"id": "4.8.32.7",
+"label": "D. 4.8.32.7",
+"text": "De liberali causa compromisso facto recte non compelletur arbiter sententiam dicere, quia favor libertatis est, ut maiores iudices habere debeat. Eadem dicenda sunt, sive de ingenuitate sive de libertinitate quaestio sit et si ex fideicommissi causa libertas deberi dicatur. Idem dicendum est in populari actione."
+},
+{
+"id": "4.8.32.8",
+"label": "D. 4.8.32.8",
+"text": "Si servus compromiserit, non cogendum dicere sententiam arbitrum, nec si dixerit, poenae exsecutionem dandam de peculio putat octavenus. Sed an, si liber cum eo compromiserit, exsecutio adversus liberum detur, videamus: sed magis est, ut non detur."
+},
+{
+"id": "4.8.32.9",
+"label": "D. 4.8.32.9",
+"text": "Item si quis Romae compromiserit, mox Romam in legationem venerit: non est cogendus arbiter sententiam dicere, non magis quam cogeretur, si litem ante contestatus esset, nunc eam exercere: nec interest, tunc quoque in legatione fuerit an non. Sed si nunc in legatione compromittat, puto cogendum arbitrum sententiam dicere, quia et si iudicium sponte accepisset, cogeretur peragere. Sunt tamen qui de isto non recte dubitant: qui utique nullo modo dubitabunt, si de ea re in legatione compromisit, quam in legatione contraxit: quia et iudicium eo nomine accipere cogeretur. Illud in prima specie potest dispici, an, si ante compromisit legatus, cogendus sit arbiter sententiam dicere, si ipse legatus postulet: quod prima ratione poterit videri iniquum, ut in ipsius potestate sit. Sed hoc tale erit, quale si actionem velit dictare, quod facere ei licet. Sed compromissum istud comparabimus ordinariae actioni, ut non alias audiatur desiderans, ut arbiter sententiam dicat, quam si se defendat."
+},
+{
+"id": "4.8.32.10",
+"label": "D. 4.8.32.10",
+"text": "Si is faciat controversiam hereditatis, qui cum defuncto compromiserat, futurum est praeiudicium hereditati, si arbiter sententiam dicat: ergo interea inhibendus est arbiter."
+},
+{
+"id": "4.8.32.11",
+"label": "D. 4.8.32.11",
+"text": "Dies compromissi proferri potest, non cum ex conventione, sed cum iussu arbitri eam proferri necesse est, ne poena committatur."
+},
+{
+"id": "4.8.32.12",
+"label": "D. 4.8.32.12",
+"text": "Si arbiter sese celare temperaverit, praetor eum investigare debet, et si diu non paruerit, multa adversus eum dicenda est."
+},
+{
+"id": "4.8.32.13",
+"label": "D. 4.8.32.13",
+"text": "Cum in plures compromissum est ea condicione, ut quilibet vel unus dixisset sententiam, eo staretur, absentibus ceteris nihilo minus qui praesens est cogetur: at si ea condicione, ut omnes dicant, vel quod de maioris partis sententia placuerit, non debet singulos separatim cogere, quia singulorum sententia ad poenam non facit."
+},
+{
+"id": "4.8.32.14",
+"label": "D. 4.8.32.14",
+"text": "Cum quidam arbiter ex aliis causis inimicus manifeste apparuisset, testationibus etiam conventus, ne sententiam diceret, nihilo minus nullo cogente dicere perseverasset, libello cuiusdam id querentis imperator Antoninus subscripsit posse eum uti doli mali exceptione. Et idem, cum a iudice consuleretur, apud quem poena petebatur, rescripsit, etiamsi appellari non potest, doli mali exceptionem in poenae petitione obstaturam. Per hanc ergo exceptionem quaedam appellandi species est, cum liceat retractare de sententia arbitri."
+},
+{
+"id": "4.8.32.15",
+"label": "D. 4.8.32.15",
+"text": "De officio arbitri tractantibus sciendum est omnem tractatum ex ipso compromisso sumendum: nec enim aliud illi licebit, quam quod ibi ut efficere possit cautum est: non ergo quod libet statuere arbiter poterit nec in qua re libet nisi de qua re compromissum est et quatenus compromissum est."
+},
+{
+"id": "4.8.32.16",
+"label": "D. 4.8.32.16",
+"text": "Quaesitum est de sententia dicenda, et dictum non quamlibet, licet de quibusdam variatum sit. Et puto vere non committi, si dicat ad iudicem de hoc eundum vel in se vel in alium compromittendum. Nam et Iulianus impune non pareri, si iubeat ad alium arbitrum ire, ne finis non sit: quod si hoc modo dixerit, ut arbitrio publii maevii fundus traderetur aut satisdatio detur, parendum esse sententiae. Idem pedius probat: ne propagentur arbitria, aut in alios interdum inimicos agentium transferantur, sua sententia finem controversiae eum imponere oportet: non autem finiri controversiam, cum aut differatur arbitrium aut in alium transferatur: partemque sententiae esse, quemadmodum satisdetur, quibus fideiussoribus, idque delegari non posse, nisi ad hoc compromissum sit, ut arbiter statueret, cuius arbitratu satisdaretur."
+},
+{
+"id": "4.8.32.17",
+"label": "D. 4.8.32.17",
+"text": "Item si iubeat sibi alium coniungi, cum id in compromisso non sit, non dicit sententiam: nam sententia esse debet de re compromissa, de hoc autem compromissum non est."
+},
+{
+"id": "4.8.32.18",
+"label": "D. 4.8.32.18",
+"text": "Si domini, qui invicem stipulati sint, procuratores suos agere apud arbitrum velint, potest iubere ipsos etiam adesse:"
+},
+{
+"id": "4.8.32.19",
+"label": "D. 4.8.32.19",
+"text": "Sed si et heredis in compromissis mentio fit, potest iubere etiam heredem eorum adesse."
+},
+{
+"id": "4.8.32.20",
+"label": "D. 4.8.32.20",
+"text": "Arbitri officio continetur et quemadmodum detur vacua possessio. an et satis ratam rem habiturum? Sextus Pedius putat, quod nullam rationem habet: nam si ratum non habeat dominus, committetur stipulatio."
+},
+{
+"id": "4.8.32.21",
+"label": "D. 4.8.32.21",
+"text": "Arbiter nihil extra compromissum facere potest et ideo necessarium est adici de die compromissi proferenda: ceterum impune iubenti non parebitur."
+},
+{
+"id": "4.8.33",
+"label": "D. 4.8.33 (Papinianus)",
+"text": "Arbiter ita sumptus ex compromisso, ut et diem proferre possit, hoc quidem facere potest: referre autem contradicentibus litigatoribus non potest.",
+"inscription": "Papinianus libro primo quaestionum"
+},
+{
+"id": "4.8.34.pr",
+"label": "D. 4.8.34 pr. (Paulus)",
+"text": "Si duo rei sunt aut credendi aut debendi et unus compromiserit isque vetitus sit petere aut ne ab eo petatur: videndum est, an si alius petat vel ab alio petatur, poena committatur: idem in duobus argentariis quorum nomina simul eunt. Et fortasse poterimus ita fideiussoribus coniungere, si socii sunt: alias nec a te petitur, nec ego peto, nec meo nomine petitur, licet a te petatur.",
+"inscription": "Paulus libro 13 ad edictum"
+},
+{
+"id": "4.8.34.1",
+"label": "D. 4.8.34.1",
+"text": "Semel commissa poena solvi compromissum rectius puto dici nec amplius posse committi, nisi id actum sit ut in singulas causas totiens committatur."
+},
+{
+"id": "4.8.35",
+"label": "D. 4.8.35 (Gaius)",
+"text": "Si pupillus sine tutoris auctoritate compromiserit, non est arbiter cogendus pronuntiare, quia si contra eum pronuntietur, poena non tenetur: praeterquam si fideiussorem dederit, a quo poena peti possit. Idque et Iulianus sentit.",
+"inscription": "Gaius libro quinto ad edictum provinciale"
+},
+{
+"id": "4.8.36",
+"label": "D. 4.8.36 (Ulpianus)",
+"text": "Si feriatis diebus cogente praetore arbiter dicat sententiam et petatur ex compromisso poena, exceptionem locum non habere constat, nisi alia lege eadem dies feriata, in qua sententia dicta est, excepta.",
+"inscription": "Ulpianus libro 77 ad edictum"
+},
+{
+"id": "4.8.37",
+"label": "D. 4.8.37 (Celsus)",
+"text": "Quamvis arbiter alterum ab altero petere vetuit, si tamen heres petit, poenam committet: non enim differendarum litium causa, sed tollendarum ad arbitros itur.",
+"inscription": "Celsus libro secundo digestorum"
+},
+{
+"id": "4.8.38",
+"label": "D. 4.8.38 (Modestinus)",
+"text": "Cum poena ex compromisso petitur, is qui commisit damnandus est, nec interest, an adversarii eius interfuit arbitri sententia stari nec ne.",
+"inscription": "Modestinus libro sexto regularum"
+},
+{
+"id": "4.8.39.pr",
+"label": "D. 4.8.39 pr. (Iavolenus)",
+"text": "Non ex omnibus causis, ex quibus arbitri paritum sententiae non est, poena ex compromisso committitur, sed ex his dumtaxat, quae ad solutionem pecuniae aut operam praebendam pertinent. Idem contumaciam litigatoris arbiter punire poterit pecuniam eum adversario dare iubendo: quo in numero haberi non oportet, si testium nomina ex sententia arbitri exhibita non sunt.",
+"inscription": "Iavolenus libro 11 ex Cassio"
+},
+{
+"id": "4.8.39.1",
+"label": "D. 4.8.39.1",
+"text": "Cum arbiter diem compromissi proferri iussit, cum hoc ei permissum est, alterius mora alteri ad poenam committendam prodest."
+},
+{
+"id": "4.8.40",
+"label": "D. 4.8.40 (Pomponius)",
+"text": "Arbiter calendis ianuariis adesse iussit et ante eum diem decessit: alter ex litigatoribus non adfuit. Procul dubio poena minime commissa est: nam et Cassium audisse se dicentem aristo ait in eo arbitro, qui ipse non venisset, non esse commissam: quemadmodum servius ait, si per stipulatorem stet, quo minus accipiat, non committi poenam.",
+"inscription": "Pomponius libro 11 ex variis lectionibus"
+},
+{
+"id": "4.8.41",
+"label": "D. 4.8.41 (Callistratus)",
+"text": "Cum lege Iulia cautum sit, ne minor viginti annis iudicare cogatur, nemini licere minorem viginti annis compromissarium iudicem eligere: ideoque poena ex sententia eius nullo modo committitur. Maiori tamen viginti annis, si minor viginti quinque annis sit, ex hac causa succurrendum, si temere auditorium receperit, multi dixerunt.",
+"inscription": "Callistratus libro primo edicti monitorii"
+},
+{
+"id": "4.8.42",
+"label": "D. 4.8.42 (Papinianus)",
+"text": "Arbiter intra certum diem servos restitui iussit, quibus non restitutis poenae causa fisco secundum formam compromissi condemnavit: ob eam sententiam fisco nihil adquiritur, sed nihilo minus stipulationis poena committitur, quod ab arbitro statuto non sit obtemperatum.",
+"inscription": "Papinianus libro secundo responsorum"
+},
+{
+"id": "4.8.43",
+"label": "D. 4.8.43 (Scaevola)",
+"text": "De rebus controversiisque omnibus compromissum in arbitrum a Lucio Titio et Maevio Sempronio factum est, sed errore quaedam species in petitionem a Lucio Titio deductae non sunt nec arbiter de his quicquam pronuntiavit: quaesitum est an species omissae peti possint. Respondit peti posse nec poenam ex compromisso committi. Quod si maligne hoc fecit, petere quidem potest, sed poenae subiugabitur.",
+"inscription": "Scaevola libro primo responsorum"
+},
+{
+"id": "4.8.44",
+"label": "D. 4.8.44 (Scaevola)",
+"text": "Inter Castellianum et Seium controversia de finibus orta est et arbiter electus est, ut arbitratu eius res terminetur: ipse sententiam dixit praesentibus partibus et terminos posuit: quaesitum est, an si ex parte Castelliani arbitro paritum non esset, poena ex compromisso commissa est. Respondi, si arbitro paritum non esset in eo, quod utroque praesente arbitratus esset, poenam commissam.",
+"inscription": "Scaevola libro secundo digestorum"
+},
+{
+"id": "4.8.45",
+"label": "D. 4.8.45 (Ulpianus)",
+"text": "In compromissis arbitrium personae insertum personam non egreditur.",
+"inscription": "Ulpianus libro 28 ad Sabinum"
+},
+{
+"id": "4.8.46",
+"label": "D. 4.8.46 (Paulus)",
+"text": "De his rebus et rationibus et controversiis iudicare arbiter potest, quae ab initio fuissent inter eos qui compromiserunt, non quae postea supervenerunt.",
+"inscription": "Paulus libro 12 ad Sabinum"
+},
+{
+"id": "4.8.47.pr",
+"label": "D. 4.8.47 pr. (Iulianus)",
+"text": "Si compromissum ita factum est, ut praesente utroque aut heredibus eorum arbiter sententiam dicat et alter ex litigatoribus decesserit pupillo herede relicto, non aliter videtur sententia dicta esse, nisi tutoris auctoritas interposita fuerit.",
+"inscription": "Iulianus libro quarto digestorum"
+},
+{
+"id": "4.8.47.1",
+"label": "D. 4.8.47.1",
+"text": "Item si alter ex compromittentibus furere coeperit,"
+},
+{
+"id": "4.8.48",
+"label": "D. 4.8.48 (Modestinus)",
+"text": "Arbiter ad ferendam sententiam non compelletur:",
+"inscription": "Modestinus libro quarto regularum"
+},
+{
+"id": "4.8.49.pr",
+"label": "D. 4.8.49 pr. (Iulianus)",
+"text": "Sed et interpellatur, quo minus sententiam dicat, quia nihil coram furioso fieri intellegitur. Quod si furiosus curatorem habet vel habuerit adhuc litigio pendente, potest praesente curatore sententia dici.",
+"inscription": "Iulianus libro quarto digestorum"
+},
+{
+"id": "4.8.49.1",
+"label": "D. 4.8.49.1",
+"text": "Arbiter adesse litigatores vel per nuntium vel epistulam iubere potest."
+},
+{
+"id": "4.8.49.2",
+"label": "D. 4.8.49.2",
+"text": "Si ab altera dumtaxat parte heredis mentio comprehensa fuerit, compromissum solvetur morte cuiusque ex litigatoribus, sicut solveretur altero mortuo, si neutrius heredis persona comprehenderetur."
+},
+{
+"id": "4.8.50",
+"label": "D. 4.8.50 (Alfenus)",
+"text": "Arbiter ex compromisso sumptus cum ante eum diem, qui constitutus compromisso erat, sententiam dicere non posset, diem compromissi proferri iusserat: alter ex litigatoribus dicto audiens non fuerat: consulebatur possetne ab eo pecunia ex compromisso peti. Respondi non posse, ideo quod non esset arbitro permissum ut id iuberet.",
+"inscription": "Alfenus libro septimo digestorum"
+},
+{
+"id": "4.8.51",
+"label": "D. 4.8.51 (Marcianus)",
+"text": "Si de re sua quis arbiter factus sit, sententiam dicere non potest, quia se facere iubeat aut petere prohibeat: neque autem imperare sibi neque se prohibere quisquam potest.",
+"inscription": "Marcianus libro secundo regularum"
+},
+{
+"id": "4.8.52",
+"label": "D. 4.8.52 (Marcianus)",
+"text": "Si qui iussus est ab arbitro ex compromisso solvere pecuniam moram fecerit, poenam ex compromisso debet, sed postea solvendo poena liberatur.",
+"inscription": "Marcianus libro quarto regularum"
+}
+]
+}

@@ -1,0 +1,2387 @@
+{
+"corpus": "horace-ars-poetica",
+"unit": "all",
+"title": "Horace, Ars poetica",
+"passages": [
+{
+"id": "1",
+"label": "Hor. Ars 1",
+"text": "Humano capiti cervicem pictor equinam"
+},
+{
+"id": "2",
+"label": "Hor. Ars 2",
+"text": "iungere si velit, et varias inducere plumas,"
+},
+{
+"id": "3",
+"label": "Hor. Ars 3",
+"text": "undique conlatis membris, ut turpiter atrum"
+},
+{
+"id": "4",
+"label": "Hor. Ars 4",
+"text": "desinat in piscem mulier formosa superne,"
+},
+{
+"id": "5",
+"label": "Hor. Ars 5",
+"text": "spectatum admissi risum teneatis, amici?"
+},
+{
+"id": "6",
+"label": "Hor. Ars 6",
+"text": "credite, Pisones, isti tabulae fore librum"
+},
+{
+"id": "7",
+"label": "Hor. Ars 7",
+"text": "persimilem, cuius, velut aegri somnia, vanae"
+},
+{
+"id": "8",
+"label": "Hor. Ars 8",
+"text": "fingentur species, ut nec pes nec caput uni"
+},
+{
+"id": "9",
+"label": "Hor. Ars 9",
+"text": "reddatur formae. 'pictoribus atque poetis"
+},
+{
+"id": "10",
+"label": "Hor. Ars 10",
+"text": "quidlibet audendi semper fuit aequa potestas.'"
+},
+{
+"id": "11",
+"label": "Hor. Ars 11",
+"text": "scimus, et hanc veniam petimusque damusque vicissim;"
+},
+{
+"id": "12",
+"label": "Hor. Ars 12",
+"text": "sed non ut placidis coeant inmitia, non ut"
+},
+{
+"id": "13",
+"label": "Hor. Ars 13",
+"text": "serpentes avibus geminentur, tigribus agni."
+},
+{
+"id": "14",
+"label": "Hor. Ars 14",
+"text": "inceptis gravibus plerumque et magna professis"
+},
+{
+"id": "15",
+"label": "Hor. Ars 15",
+"text": "purpureus, late qui splendeat, unus et alter"
+},
+{
+"id": "16",
+"label": "Hor. Ars 16",
+"text": "adsuitur pannus, cum lucus et ara Dianae"
+},
+{
+"id": "17",
+"label": "Hor. Ars 17",
+"text": "et properantis aquae per amoenos ambitus agros"
+},
+{
+"id": "18",
+"label": "Hor. Ars 18",
+"text": "aut flumen Rhenum aut pluvius describitur arcus;"
+},
+{
+"id": "19",
+"label": "Hor. Ars 19",
+"text": "sed nunc non erat his locus. et fortasse cupressum"
+},
+{
+"id": "20",
+"label": "Hor. Ars 20",
+"text": "scis simulare: quid hoc, si fractis enatat exspes"
+},
+{
+"id": "21",
+"label": "Hor. Ars 21",
+"text": "navibus, aere dato qui pingitur? amphora coepit"
+},
+{
+"id": "22",
+"label": "Hor. Ars 22",
+"text": "institui: currente rota cur urceus exit?"
+},
+{
+"id": "23",
+"label": "Hor. Ars 23",
+"text": "denique sit quodvis, simplex dumtaxat et unum."
+},
+{
+"id": "24",
+"label": "Hor. Ars 24",
+"text": "maxima pars vatum, pater et iuvenes patre digni,"
+},
+{
+"id": "25",
+"label": "Hor. Ars 25",
+"text": "decipimur specie recti: brevis esse laboro,"
+},
+{
+"id": "26",
+"label": "Hor. Ars 26",
+"text": "obscurus fio; sectantem levia nervi"
+},
+{
+"id": "27",
+"label": "Hor. Ars 27",
+"text": "deficiunt animique; professus grandia turget;"
+},
+{
+"id": "28",
+"label": "Hor. Ars 28",
+"text": "serpit humi tutus nimium timidusque procellae:"
+},
+{
+"id": "29",
+"label": "Hor. Ars 29",
+"text": "qui variare cupit rem prodigialiter unam,"
+},
+{
+"id": "30",
+"label": "Hor. Ars 30",
+"text": "delphinum silvis adpingit, fluctibus aprum:"
+},
+{
+"id": "31",
+"label": "Hor. Ars 31",
+"text": "in vitium ducit culpae fuga, si caret arte."
+},
+{
+"id": "32",
+"label": "Hor. Ars 32",
+"text": "Aemilium circa ludum faber imus et unguis"
+},
+{
+"id": "33",
+"label": "Hor. Ars 33",
+"text": "exprimet et mollis imitabitur aere capillos,"
+},
+{
+"id": "34",
+"label": "Hor. Ars 34",
+"text": "infelix operis summa, quia ponere totum"
+},
+{
+"id": "35",
+"label": "Hor. Ars 35",
+"text": "nesciet: hunc ego me, si quid componere curem,"
+},
+{
+"id": "36",
+"label": "Hor. Ars 36",
+"text": "non magis esse velim quam naso vivere pravo,"
+},
+{
+"id": "37",
+"label": "Hor. Ars 37",
+"text": "spectandum nigris oculis nigroque capillo."
+},
+{
+"id": "38",
+"label": "Hor. Ars 38",
+"text": "sumite materiam vestris, qui scribitis, aequam"
+},
+{
+"id": "39",
+"label": "Hor. Ars 39",
+"text": "viribus et versate diu, quid ferre recusent,"
+},
+{
+"id": "40",
+"label": "Hor. Ars 40",
+"text": "quid valeant umeri. cui lecta potenter erit res,"
+},
+{
+"id": "41",
+"label": "Hor. Ars 41",
+"text": "nec facundia deseret hunc nec lucidus ordo."
+},
+{
+"id": "42",
+"label": "Hor. Ars 42",
+"text": "ordinis haec virtus erit et venus, aut ego fallor,"
+},
+{
+"id": "43",
+"label": "Hor. Ars 43",
+"text": "ut iam nunc dicat iam nunc debentia dici,"
+},
+{
+"id": "44",
+"label": "Hor. Ars 44",
+"text": "pleraque differat et praesens in tempus omittat."
+},
+{
+"id": "46",
+"label": "Hor. Ars 46",
+"text": "in verbis etiam tenuis cautusque serendis"
+},
+{
+"id": "45",
+"label": "Hor. Ars 45",
+"text": "hoc amet, hoc spernat promissi carminis auctor."
+},
+{
+"id": "47",
+"label": "Hor. Ars 47",
+"text": "dixeris egregie, notum si callida verbum"
+},
+{
+"id": "48",
+"label": "Hor. Ars 48",
+"text": "reddiderit iunctura novum. si forte necesse est"
+},
+{
+"id": "49",
+"label": "Hor. Ars 49",
+"text": "indiciis monstrare recentibus abdita rerum et"
+},
+{
+"id": "50",
+"label": "Hor. Ars 50",
+"text": "fingere cinctutis non exaudita Cethegis,"
+},
+{
+"id": "51",
+"label": "Hor. Ars 51",
+"text": "continget dabiturque licentia sumpta pudenter,"
+},
+{
+"id": "52",
+"label": "Hor. Ars 52",
+"text": "et nova fictaque nuper habebunt verba fidem, si"
+},
+{
+"id": "53",
+"label": "Hor. Ars 53",
+"text": "Graeco fonte cadent parce detorta. quid autem"
+},
+{
+"id": "54",
+"label": "Hor. Ars 54",
+"text": "Caecilio Plautoque dabit Romanus ademptum"
+},
+{
+"id": "55",
+"label": "Hor. Ars 55",
+"text": "Vergilio Varioque? ego cur, adquirere pauca"
+},
+{
+"id": "56",
+"label": "Hor. Ars 56",
+"text": "si possum, invideor, cum lingua Catonis et Enni"
+},
+{
+"id": "57",
+"label": "Hor. Ars 57",
+"text": "sermonem patrium ditaverit et nova rerum"
+},
+{
+"id": "58",
+"label": "Hor. Ars 58",
+"text": "nomina protulerit? licuit semperque licebit"
+},
+{
+"id": "59",
+"label": "Hor. Ars 59",
+"text": "signatum praesente nota producere nomen."
+},
+{
+"id": "60",
+"label": "Hor. Ars 60",
+"text": "ut silvae foliis pronos mutantur in annos,"
+},
+{
+"id": "61",
+"label": "Hor. Ars 61",
+"text": "prima cadunt: ita verborum vetus interit aetas,"
+},
+{
+"id": "62",
+"label": "Hor. Ars 62",
+"text": "et iuvenum ritu florent modo nata vigentque."
+},
+{
+"id": "63",
+"label": "Hor. Ars 63",
+"text": "debemur morti nos nostraque: sive receptus"
+},
+{
+"id": "64",
+"label": "Hor. Ars 64",
+"text": "terra Neptunus classes Aquilonibus arcet,"
+},
+{
+"id": "65",
+"label": "Hor. Ars 65",
+"text": "regis opus, sterilisve diu palus aptaque remis"
+},
+{
+"id": "66",
+"label": "Hor. Ars 66",
+"text": "vicinas urbes alit et grave sentit aratrum,"
+},
+{
+"id": "67",
+"label": "Hor. Ars 67",
+"text": "seu cursum mutavit iniquum frugibus amnis"
+},
+{
+"id": "68",
+"label": "Hor. Ars 68",
+"text": "doctus iter melius: mortalia facta peribunt,"
+},
+{
+"id": "69",
+"label": "Hor. Ars 69",
+"text": "nedum sermonum stet honos et gratia vivax."
+},
+{
+"id": "70",
+"label": "Hor. Ars 70",
+"text": "multa renascentur quae iam cecidere cadentque"
+},
+{
+"id": "71",
+"label": "Hor. Ars 71",
+"text": "quae nunc sunt in honore vocabula, si volet usus,"
+},
+{
+"id": "72",
+"label": "Hor. Ars 72",
+"text": "quem penes arbitrium est et ius et norma loquendi."
+},
+{
+"id": "73",
+"label": "Hor. Ars 73",
+"text": "res gestae regumque ducumque et tristia bella"
+},
+{
+"id": "74",
+"label": "Hor. Ars 74",
+"text": "quo scribi possent numero, monstravit Homerus;"
+},
+{
+"id": "75",
+"label": "Hor. Ars 75",
+"text": "versibus inpariter iunctis querimonia primum,"
+},
+{
+"id": "76",
+"label": "Hor. Ars 76",
+"text": "post etiam inclusa est voti sententia compos;"
+},
+{
+"id": "77",
+"label": "Hor. Ars 77",
+"text": "quis tamen exiguos elegos emiserit auctor,"
+},
+{
+"id": "78",
+"label": "Hor. Ars 78",
+"text": "grammatici certant et adhuc sub iudice lis est;"
+},
+{
+"id": "79",
+"label": "Hor. Ars 79",
+"text": "Archilochum proprio rabies armavit iambo;"
+},
+{
+"id": "80",
+"label": "Hor. Ars 80",
+"text": "hunc socci cepere pedem grandesque cothurni,"
+},
+{
+"id": "81",
+"label": "Hor. Ars 81",
+"text": "alternis aptum sermonibus et popularis"
+},
+{
+"id": "82",
+"label": "Hor. Ars 82",
+"text": "vincentem strepitus et natum rebus agendis;"
+},
+{
+"id": "83",
+"label": "Hor. Ars 83",
+"text": "musa dedit fidibus Divos puerosque Deorum"
+},
+{
+"id": "84",
+"label": "Hor. Ars 84",
+"text": "et pugilem victorem et equum certamine primum"
+},
+{
+"id": "85",
+"label": "Hor. Ars 85",
+"text": "et iuvenum curas et libera vina referre:"
+},
+{
+"id": "86",
+"label": "Hor. Ars 86",
+"text": "descriptas servare vices operumque colores"
+},
+{
+"id": "87",
+"label": "Hor. Ars 87",
+"text": "cur ego si nequeo ignoroque poeta salutor?"
+},
+{
+"id": "88",
+"label": "Hor. Ars 88",
+"text": "cur nescire pudens prave quam discere malo?"
+},
+{
+"id": "89",
+"label": "Hor. Ars 89",
+"text": "versibus exponi tragicis res comica non volt;"
+},
+{
+"id": "90",
+"label": "Hor. Ars 90",
+"text": "indignatur item privatis ac prope socco"
+},
+{
+"id": "91",
+"label": "Hor. Ars 91",
+"text": "dignis carminibus narrari cena Thyestae:"
+},
+{
+"id": "92",
+"label": "Hor. Ars 92",
+"text": "singula quaeque locum teneant sortita decentem."
+},
+{
+"id": "93",
+"label": "Hor. Ars 93",
+"text": "interdum tamen et vocem comoedia tollit"
+},
+{
+"id": "94",
+"label": "Hor. Ars 94",
+"text": "iratusque Chremes tumido delitigat ore;"
+},
+{
+"id": "95",
+"label": "Hor. Ars 95",
+"text": "et tragicus plerumque dolet sermone pedestri,"
+},
+{
+"id": "96",
+"label": "Hor. Ars 96",
+"text": "Telephus et Peleus cum pauper et exsul uterque"
+},
+{
+"id": "97",
+"label": "Hor. Ars 97",
+"text": "proiicit ampullas et sesquipedalia verba,"
+},
+{
+"id": "98",
+"label": "Hor. Ars 98",
+"text": "si curat cor spectantis tetigisse querella."
+},
+{
+"id": "99",
+"label": "Hor. Ars 99",
+"text": "non satis est pulchra esse poemata: dulcia sunto"
+},
+{
+"id": "100",
+"label": "Hor. Ars 100",
+"text": "et quocumque volent animum auditoris agunto."
+},
+{
+"id": "101",
+"label": "Hor. Ars 101",
+"text": "ut ridentibus adrident, ita flentibus adflent"
+},
+{
+"id": "102",
+"label": "Hor. Ars 102",
+"text": "humani voltus. si vis me flere, dolendum est"
+},
+{
+"id": "103",
+"label": "Hor. Ars 103",
+"text": "primum ipsi tibi: tum tua me infortunia laedent,"
+},
+{
+"id": "104",
+"label": "Hor. Ars 104",
+"text": "Telephe vel Peleu; male si mandata loqueris,"
+},
+{
+"id": "105",
+"label": "Hor. Ars 105",
+"text": "aut dormitabo aut ridebo. tristia maestum"
+},
+{
+"id": "106",
+"label": "Hor. Ars 106",
+"text": "voltum verba decent, iratum plena minarum,"
+},
+{
+"id": "107",
+"label": "Hor. Ars 107",
+"text": "ludentem lasciva, severum seria dictu."
+},
+{
+"id": "108",
+"label": "Hor. Ars 108",
+"text": "format enim natura prius nos intus ad omnem"
+},
+{
+"id": "109",
+"label": "Hor. Ars 109",
+"text": "fortunarum habitum: iuvat aut inpellit ad iram"
+},
+{
+"id": "110",
+"label": "Hor. Ars 110",
+"text": "aut ad humum maerore gravi deducit et angit:"
+},
+{
+"id": "111",
+"label": "Hor. Ars 111",
+"text": "post effert animi motus interprete lingua."
+},
+{
+"id": "112",
+"label": "Hor. Ars 112",
+"text": "si dicentis erunt fortunis absona dicta,"
+},
+{
+"id": "113",
+"label": "Hor. Ars 113",
+"text": "Romani tollent equites peditesque cachinnum."
+},
+{
+"id": "114",
+"label": "Hor. Ars 114",
+"text": "intererit multum, Davusne loquatur an heros,"
+},
+{
+"id": "115",
+"label": "Hor. Ars 115",
+"text": "maturusne senex an adhuc florente iuventa"
+},
+{
+"id": "116",
+"label": "Hor. Ars 116",
+"text": "fervidus, et matrona potens an sedula nutrix,"
+},
+{
+"id": "117",
+"label": "Hor. Ars 117",
+"text": "mercatorne vagus cultorne virentis agelli,"
+},
+{
+"id": "118",
+"label": "Hor. Ars 118",
+"text": "Colchus an Assyrius, Thebis nutritus, an Argis."
+},
+{
+"id": "119",
+"label": "Hor. Ars 119",
+"text": "aut famam sequere aut sibi convenientia finge"
+},
+{
+"id": "120",
+"label": "Hor. Ars 120",
+"text": "scriptor. honoratum si forte reponis Achillem,"
+},
+{
+"id": "121",
+"label": "Hor. Ars 121",
+"text": "inpiger, iracundus, inexorabilis, acer"
+},
+{
+"id": "122",
+"label": "Hor. Ars 122",
+"text": "iura neget sibi nata, nihil non adroget armis."
+},
+{
+"id": "123",
+"label": "Hor. Ars 123",
+"text": "sit Medea ferox invictaque, flebilis Ino,"
+},
+{
+"id": "124",
+"label": "Hor. Ars 124",
+"text": "perfidus Ixion, Io vaga, tristis Orestes."
+},
+{
+"id": "125",
+"label": "Hor. Ars 125",
+"text": "si quid inexpertum scaenae conmittis et audes"
+},
+{
+"id": "126",
+"label": "Hor. Ars 126",
+"text": "personam formare novam, servetur ad imum,"
+},
+{
+"id": "127",
+"label": "Hor. Ars 127",
+"text": "qualis ab incepto processerit, et sibi constet."
+},
+{
+"id": "128",
+"label": "Hor. Ars 128",
+"text": "difficile est proprie communia dicere, tuque"
+},
+{
+"id": "129",
+"label": "Hor. Ars 129",
+"text": "rectius Iliacum carmen deducis in actus"
+},
+{
+"id": "130",
+"label": "Hor. Ars 130",
+"text": "quam si proferres ignota indictaque primus:"
+},
+{
+"id": "131",
+"label": "Hor. Ars 131",
+"text": "publica materies privati iuris erit, si"
+},
+{
+"id": "132",
+"label": "Hor. Ars 132",
+"text": "non circa vilem patulumque moraberis orbem"
+},
+{
+"id": "133",
+"label": "Hor. Ars 133",
+"text": "nec verbo verbum curabis reddere fidus"
+},
+{
+"id": "134",
+"label": "Hor. Ars 134",
+"text": "interpres nec desilies imitator in artum,"
+},
+{
+"id": "135",
+"label": "Hor. Ars 135",
+"text": "unde pedem proferre pudor vetet aut operis lex,"
+},
+{
+"id": "136",
+"label": "Hor. Ars 136",
+"text": "nec sic incipies, ut scriptor cyclicus olim:"
+},
+{
+"id": "137",
+"label": "Hor. Ars 137",
+"text": "'fortunam Priami cantabo et nobile bellum.'"
+},
+{
+"id": "138",
+"label": "Hor. Ars 138",
+"text": "quid dignum tanto feret hic promissor hiatu?"
+},
+{
+"id": "139",
+"label": "Hor. Ars 139",
+"text": "parturient montes, nascetur ridiculus mus."
+},
+{
+"id": "140",
+"label": "Hor. Ars 140",
+"text": "quanto rectius hic, qui nil molitur inepte:"
+},
+{
+"id": "141",
+"label": "Hor. Ars 141",
+"text": "'dic mihi, Musa, virum, captae post tempora Troiae"
+},
+{
+"id": "142",
+"label": "Hor. Ars 142",
+"text": "qui mores hominum multorum vidit et urbes.'"
+},
+{
+"id": "143",
+"label": "Hor. Ars 143",
+"text": "non fumum ex fulgore, sed ex fumo dare lucem"
+},
+{
+"id": "144",
+"label": "Hor. Ars 144",
+"text": "cogitat, ut speciosa dehinc miracula promat,"
+},
+{
+"id": "145",
+"label": "Hor. Ars 145",
+"text": "Antiphaten, Scyllamque, et cum Cyclope Charybdim;"
+},
+{
+"id": "146",
+"label": "Hor. Ars 146",
+"text": "nec reditum Diomedis ab interitu Meleagri"
+},
+{
+"id": "147",
+"label": "Hor. Ars 147",
+"text": "nec gemino bellum Troianum orditur ab ovo:"
+},
+{
+"id": "148",
+"label": "Hor. Ars 148",
+"text": "semper ad eventum festinat et in medias res"
+},
+{
+"id": "149",
+"label": "Hor. Ars 149",
+"text": "non secus ac notas auditorem rapit et quae"
+},
+{
+"id": "150",
+"label": "Hor. Ars 150",
+"text": "desperat tractata nitescere posse relinquit"
+},
+{
+"id": "151",
+"label": "Hor. Ars 151",
+"text": "atque ita mentitur, sic veris falsa remiscet,"
+},
+{
+"id": "152",
+"label": "Hor. Ars 152",
+"text": "primo ne medium, medio ne discrepet imum."
+},
+{
+"id": "153",
+"label": "Hor. Ars 153",
+"text": "tu, quid ego et populus mecum desideret, audi,"
+},
+{
+"id": "154",
+"label": "Hor. Ars 154",
+"text": "si plausoris eges aulaea manentis et usque"
+},
+{
+"id": "155",
+"label": "Hor. Ars 155",
+"text": "sessuri, donec cantor 'vos plaudite' dicat."
+},
+{
+"id": "156",
+"label": "Hor. Ars 156",
+"text": "aetatis cuiusque notandi sunt tibi mores,"
+},
+{
+"id": "157",
+"label": "Hor. Ars 157",
+"text": "mobilibusque decor naturis dandus et annis."
+},
+{
+"id": "158",
+"label": "Hor. Ars 158",
+"text": "reddere qui voces iam scit puer et pede certo"
+},
+{
+"id": "159",
+"label": "Hor. Ars 159",
+"text": "signat humum, gestit paribus conludere et iram"
+},
+{
+"id": "160",
+"label": "Hor. Ars 160",
+"text": "colligit ac ponit temere et mutatur in horas."
+},
+{
+"id": "161",
+"label": "Hor. Ars 161",
+"text": "inberbis iuvenis, tandem custode remoto,"
+},
+{
+"id": "162",
+"label": "Hor. Ars 162",
+"text": "gaudet equis canibusque et aprici gramine campi,"
+},
+{
+"id": "163",
+"label": "Hor. Ars 163",
+"text": "cereus in vitium flecti, monitoribus asper,"
+},
+{
+"id": "164",
+"label": "Hor. Ars 164",
+"text": "utilium tardus provisor, prodigus aeris,"
+},
+{
+"id": "165",
+"label": "Hor. Ars 165",
+"text": "sublimis cupidusque et amata relinquere pernix."
+},
+{
+"id": "166",
+"label": "Hor. Ars 166",
+"text": "conversis studiis aetas animusque virilis"
+},
+{
+"id": "167",
+"label": "Hor. Ars 167",
+"text": "quaerit opes et amicitias, inservit honori,"
+},
+{
+"id": "168",
+"label": "Hor. Ars 168",
+"text": "conmisisse cavet quod mox mutare laboret."
+},
+{
+"id": "169",
+"label": "Hor. Ars 169",
+"text": "multa senem circumveniunt incommoda, vel quod"
+},
+{
+"id": "170",
+"label": "Hor. Ars 170",
+"text": "quaerit et inventis miser abstinet ac timet uti,"
+},
+{
+"id": "171",
+"label": "Hor. Ars 171",
+"text": "vel quod res omnis timide gelideque ministrat,"
+},
+{
+"id": "172",
+"label": "Hor. Ars 172",
+"text": "dilator, spe longus, iners avidusque futuri,"
+},
+{
+"id": "173",
+"label": "Hor. Ars 173",
+"text": "difficilis, querulus, laudator temporis acti"
+},
+{
+"id": "174",
+"label": "Hor. Ars 174",
+"text": "se puero, castigator censorque minorum."
+},
+{
+"id": "175",
+"label": "Hor. Ars 175",
+"text": "multa ferunt anni venientes commoda secum,"
+},
+{
+"id": "176",
+"label": "Hor. Ars 176",
+"text": "multa recedentes adimunt: ne forte seniles"
+},
+{
+"id": "177",
+"label": "Hor. Ars 177",
+"text": "mandentur iuveni partes pueroque viriles:"
+},
+{
+"id": "178",
+"label": "Hor. Ars 178",
+"text": "semper in adiunctis aevoque morabitur aptis."
+},
+{
+"id": "179",
+"label": "Hor. Ars 179",
+"text": "aut agitur res in scaenis aut acta refertur."
+},
+{
+"id": "180",
+"label": "Hor. Ars 180",
+"text": "segnius inritant animos demissa per aurem"
+},
+{
+"id": "181",
+"label": "Hor. Ars 181",
+"text": "quam quae sunt oculis subiecta fidelibus et quae"
+},
+{
+"id": "182",
+"label": "Hor. Ars 182",
+"text": "ipse sibi tradit spectator: non tamen intus"
+},
+{
+"id": "183",
+"label": "Hor. Ars 183",
+"text": "digna geri promes in scaenam multaque tolles"
+},
+{
+"id": "184",
+"label": "Hor. Ars 184",
+"text": "ex oculis, quae mox narret facundia praesens:"
+},
+{
+"id": "185",
+"label": "Hor. Ars 185",
+"text": "ne pueros coram populo Medea trucidet"
+},
+{
+"id": "186",
+"label": "Hor. Ars 186",
+"text": "aut humana palam coquat exta nefarius atreus"
+},
+{
+"id": "187",
+"label": "Hor. Ars 187",
+"text": "aut in avem Procne vertatur, Cadmus in anguem."
+},
+{
+"id": "188",
+"label": "Hor. Ars 188",
+"text": "quodcumque ostendis mihi sic, incredulus odi."
+},
+{
+"id": "189",
+"label": "Hor. Ars 189",
+"text": "neve minor neu sit quinto productior actu"
+},
+{
+"id": "190",
+"label": "Hor. Ars 190",
+"text": "fabula quae posci volt et spectanda reponi."
+},
+{
+"id": "191",
+"label": "Hor. Ars 191",
+"text": "nec Deus intersit, nisi dignus vindice nodus"
+},
+{
+"id": "192",
+"label": "Hor. Ars 192",
+"text": "inciderit, nec quarta loqui persona laboret."
+},
+{
+"id": "193",
+"label": "Hor. Ars 193",
+"text": "actoris partis chorus officiumque virile"
+},
+{
+"id": "194",
+"label": "Hor. Ars 194",
+"text": "defendat, neu quid medios intercinat actus"
+},
+{
+"id": "195",
+"label": "Hor. Ars 195",
+"text": "quod non proposito conducat et haereat apte."
+},
+{
+"id": "196",
+"label": "Hor. Ars 196",
+"text": "ille bonis faveatque et consilietur amice"
+},
+{
+"id": "197",
+"label": "Hor. Ars 197",
+"text": "et regat iratos et amet pacare tumentis,"
+},
+{
+"id": "198",
+"label": "Hor. Ars 198",
+"text": "ille dapes laudet mensae brevis, ille salubrem"
+},
+{
+"id": "199",
+"label": "Hor. Ars 199",
+"text": "iustitiam legesque et apertis otia portis,"
+},
+{
+"id": "200",
+"label": "Hor. Ars 200",
+"text": "ille tegat conmissa Deosque precetur et oret,"
+},
+{
+"id": "201",
+"label": "Hor. Ars 201",
+"text": "ut redeat miseris, abeat fortuna superbis."
+},
+{
+"id": "202",
+"label": "Hor. Ars 202",
+"text": "tibia non, ut nunc orichalco, vincta tubaeque"
+},
+{
+"id": "203",
+"label": "Hor. Ars 203",
+"text": "aemula, sed tenuis simplexque foramine pauco"
+},
+{
+"id": "204",
+"label": "Hor. Ars 204",
+"text": "adspirare et adesse choris erat utilis atque"
+},
+{
+"id": "205",
+"label": "Hor. Ars 205",
+"text": "nondum spissa nimis complere sedilia flatu;"
+},
+{
+"id": "206",
+"label": "Hor. Ars 206",
+"text": "quo sane populus numerabilis, utpote parvos,"
+},
+{
+"id": "207",
+"label": "Hor. Ars 207",
+"text": "et frugi castusque verecundusque coibat."
+},
+{
+"id": "208",
+"label": "Hor. Ars 208",
+"text": "postquam coepit agros extendere victor et urbis"
+},
+{
+"id": "209",
+"label": "Hor. Ars 209",
+"text": "latior amplecti murus vinoque diurno"
+},
+{
+"id": "210",
+"label": "Hor. Ars 210",
+"text": "placari Genius festis inpune diebus,"
+},
+{
+"id": "211",
+"label": "Hor. Ars 211",
+"text": "accessit numerisque modisque licentia maior."
+},
+{
+"id": "212",
+"label": "Hor. Ars 212",
+"text": "indoctus quid enim saperet liberque laborum"
+},
+{
+"id": "213",
+"label": "Hor. Ars 213",
+"text": "rusticus urbano confusus, turpis honesto?"
+},
+{
+"id": "214",
+"label": "Hor. Ars 214",
+"text": "sic priscae motumque et luxuriem addidit arti"
+},
+{
+"id": "215",
+"label": "Hor. Ars 215",
+"text": "tibicen traxitque vagus per pulpita vestem;"
+},
+{
+"id": "216",
+"label": "Hor. Ars 216",
+"text": "sic etiam fidibus voces crevere severis,"
+},
+{
+"id": "217",
+"label": "Hor. Ars 217",
+"text": "et tulit eloquium insolitum facundia praeceps"
+},
+{
+"id": "218",
+"label": "Hor. Ars 218",
+"text": "utiliumque sagax rerum et divina futuri"
+},
+{
+"id": "219",
+"label": "Hor. Ars 219",
+"text": "sortilegis non discrepuit sententia Delphis."
+},
+{
+"id": "220",
+"label": "Hor. Ars 220",
+"text": "carmine qui tragico vilem certavit ob hircum,"
+},
+{
+"id": "221",
+"label": "Hor. Ars 221",
+"text": "mox etiam agrestis Satyros nudavit et asper"
+},
+{
+"id": "222",
+"label": "Hor. Ars 222",
+"text": "incolumi gravitate iocum temptavit eo quod"
+},
+{
+"id": "223",
+"label": "Hor. Ars 223",
+"text": "inlecebris erat et grata novitate morandus"
+},
+{
+"id": "224",
+"label": "Hor. Ars 224",
+"text": "spectator functusque sacris et potus et exlex."
+},
+{
+"id": "225",
+"label": "Hor. Ars 225",
+"text": "verum ita risores, ita commendare dicacis"
+},
+{
+"id": "226",
+"label": "Hor. Ars 226",
+"text": "conveniet Satyros, ita vertere seria ludo,"
+},
+{
+"id": "227",
+"label": "Hor. Ars 227",
+"text": "ne, quicumque Deus, quicumque adhibebitur heros,"
+},
+{
+"id": "228",
+"label": "Hor. Ars 228",
+"text": "regali conspectus in auro nuper et ostro,"
+},
+{
+"id": "229",
+"label": "Hor. Ars 229",
+"text": "migret in obscuras humili sermone tabernas"
+},
+{
+"id": "230",
+"label": "Hor. Ars 230",
+"text": "aut, dum vitat humum, nubis et inania captet."
+},
+{
+"id": "231",
+"label": "Hor. Ars 231",
+"text": "effutire levis indigna tragoedia versus,"
+},
+{
+"id": "232",
+"label": "Hor. Ars 232",
+"text": "ut festis matrona moveri iussa diebus,"
+},
+{
+"id": "233",
+"label": "Hor. Ars 233",
+"text": "intererit Satyris paulum pudibunda protervis."
+},
+{
+"id": "234",
+"label": "Hor. Ars 234",
+"text": "non ego inornata et dominantia nomina solum"
+},
+{
+"id": "235",
+"label": "Hor. Ars 235",
+"text": "verbaque, Pisones, Satyrorum scriptor amabo"
+},
+{
+"id": "236",
+"label": "Hor. Ars 236",
+"text": "nec sic enitar tragico differre colori,"
+},
+{
+"id": "237",
+"label": "Hor. Ars 237",
+"text": "ut nihil intersit, Davusne loquatur et audax"
+},
+{
+"id": "238",
+"label": "Hor. Ars 238",
+"text": "Pythias, emuncto lucrata Simone talentum,"
+},
+{
+"id": "239",
+"label": "Hor. Ars 239",
+"text": "an custos famulusque Dei Silenus alumni."
+},
+{
+"id": "240",
+"label": "Hor. Ars 240",
+"text": "ex noto fictum carmen sequar, ut sibi quivis"
+},
+{
+"id": "241",
+"label": "Hor. Ars 241",
+"text": "speret idem, sudet multum frustraque laboret"
+},
+{
+"id": "242",
+"label": "Hor. Ars 242",
+"text": "ausus idem: tantum series iuncturaque pollet,"
+},
+{
+"id": "243",
+"label": "Hor. Ars 243",
+"text": "tantum de medio sumptis accedit honoris."
+},
+{
+"id": "244",
+"label": "Hor. Ars 244",
+"text": "silvis deducti caveant, me iudice, Fauni,"
+},
+{
+"id": "245",
+"label": "Hor. Ars 245",
+"text": "ne velut innati triviis ac paene forenses."
+},
+{
+"id": "246",
+"label": "Hor. Ars 246",
+"text": "aut nimium teneris iuvenentur versibus umquam"
+},
+{
+"id": "247",
+"label": "Hor. Ars 247",
+"text": "aut inmunda crepent ignominiosaque dicta."
+},
+{
+"id": "248",
+"label": "Hor. Ars 248",
+"text": "offenduntur enim, quibus est equus et pater et res,"
+},
+{
+"id": "249",
+"label": "Hor. Ars 249",
+"text": "nec, siquid fricti ciceris probat et nucis emptor,"
+},
+{
+"id": "250",
+"label": "Hor. Ars 250",
+"text": "aequis accipiunt animis donantve corona."
+},
+{
+"id": "251",
+"label": "Hor. Ars 251",
+"text": "syllaba longa brevi subiecta vocatur Iambus,"
+},
+{
+"id": "252",
+"label": "Hor. Ars 252",
+"text": "pes citus: unde etiam trimetris adcrescere iussit"
+},
+{
+"id": "253",
+"label": "Hor. Ars 253",
+"text": "nomen iambeis, cum senos redderet ictus,"
+},
+{
+"id": "254",
+"label": "Hor. Ars 254",
+"text": "primus ad extremum similis sibi: non ita pridem,"
+},
+{
+"id": "255",
+"label": "Hor. Ars 255",
+"text": "tardior ut paulo graviorque veniret ad auris,"
+},
+{
+"id": "256",
+"label": "Hor. Ars 256",
+"text": "spondeos stabilis in iura paterna recepit"
+},
+{
+"id": "257",
+"label": "Hor. Ars 257",
+"text": "commodus et patiens, non ut de sede secunda"
+},
+{
+"id": "258",
+"label": "Hor. Ars 258",
+"text": "cederet aut quarta socialiter. hic et in Acci"
+},
+{
+"id": "259",
+"label": "Hor. Ars 259",
+"text": "nobilibus trimetris adparet rarus et Enni"
+},
+{
+"id": "260",
+"label": "Hor. Ars 260",
+"text": "in scaenam missos cum magno pondere versus"
+},
+{
+"id": "261",
+"label": "Hor. Ars 261",
+"text": "aut operae celeris nimium curaque carentis"
+},
+{
+"id": "262",
+"label": "Hor. Ars 262",
+"text": "aut ignoratae premit artis crimine turpi."
+},
+{
+"id": "263",
+"label": "Hor. Ars 263",
+"text": "non quivis videt inmodulata poemata iudex"
+},
+{
+"id": "264",
+"label": "Hor. Ars 264",
+"text": "et data Romanis venia est indigna poetis."
+},
+{
+"id": "265",
+"label": "Hor. Ars 265",
+"text": "idcircone vager scribamque licenter? an omnis"
+},
+{
+"id": "266",
+"label": "Hor. Ars 266",
+"text": "visuros peccata putem mea, tutus et intra"
+},
+{
+"id": "267",
+"label": "Hor. Ars 267",
+"text": "spem veniae cautus? vitavi denique culpam,"
+},
+{
+"id": "268",
+"label": "Hor. Ars 268",
+"text": "non laudem merui. vos exemplaria Graeca"
+},
+{
+"id": "269",
+"label": "Hor. Ars 269",
+"text": "nocturna versate manu, versate diurna."
+},
+{
+"id": "270",
+"label": "Hor. Ars 270",
+"text": "at nostri proavi Plautinos et numeros et"
+},
+{
+"id": "271",
+"label": "Hor. Ars 271",
+"text": "laudavere sales, nimium patienter utrumque,"
+},
+{
+"id": "272",
+"label": "Hor. Ars 272",
+"text": "ne dicam stulte, mirati, si modo ego et vos"
+},
+{
+"id": "273",
+"label": "Hor. Ars 273",
+"text": "scimus inurbanum lepido seponere dicto"
+},
+{
+"id": "274",
+"label": "Hor. Ars 274",
+"text": "legitimumque sonum digitis callemus et aure."
+},
+{
+"id": "275",
+"label": "Hor. Ars 275",
+"text": "ignotum tragicae genus invenisse Camenae"
+},
+{
+"id": "276",
+"label": "Hor. Ars 276",
+"text": "dicitur et plaustris vexisse poemata Thespis,"
+},
+{
+"id": "277",
+"label": "Hor. Ars 277",
+"text": "quae canerent agerentque peruncti faecibus ora."
+},
+{
+"id": "278",
+"label": "Hor. Ars 278",
+"text": "post hunc personae pallaeque repertor honestae"
+},
+{
+"id": "279",
+"label": "Hor. Ars 279",
+"text": "Aeschylus et modicis instravit pulpita tignis"
+},
+{
+"id": "280",
+"label": "Hor. Ars 280",
+"text": "et docuit magnumque loqui nitique cothurno."
+},
+{
+"id": "281",
+"label": "Hor. Ars 281",
+"text": "successit vetus his comoedia, non sine multa"
+},
+{
+"id": "282",
+"label": "Hor. Ars 282",
+"text": "laude; sed in vitium libertas excidit et vim"
+},
+{
+"id": "283",
+"label": "Hor. Ars 283",
+"text": "dignam lege regi: lex est accepta chorusque"
+},
+{
+"id": "284",
+"label": "Hor. Ars 284",
+"text": "turpiter obticuit sublato iure nocendi."
+},
+{
+"id": "285",
+"label": "Hor. Ars 285",
+"text": "nil intemptatum nostri liquere poetae"
+},
+{
+"id": "286",
+"label": "Hor. Ars 286",
+"text": "nec minimum meruere decus vestigia Graeca"
+},
+{
+"id": "287",
+"label": "Hor. Ars 287",
+"text": "ausi deserere et celebrare domestica facta"
+},
+{
+"id": "288",
+"label": "Hor. Ars 288",
+"text": "vel qui praetextas vel qui docuere togatas."
+},
+{
+"id": "289",
+"label": "Hor. Ars 289",
+"text": "nec virtute foret clarisve potentius armis"
+},
+{
+"id": "290",
+"label": "Hor. Ars 290",
+"text": "quam lingua Latium, si non offenderet unum"
+},
+{
+"id": "291",
+"label": "Hor. Ars 291",
+"text": "quemque poetarum limae labor et mora. vos, o"
+},
+{
+"id": "292",
+"label": "Hor. Ars 292",
+"text": "Pompilius sanguis, carmen reprehendite, quod non"
+},
+{
+"id": "293",
+"label": "Hor. Ars 293",
+"text": "multa dies et multa litura coercuit atque"
+},
+{
+"id": "294",
+"label": "Hor. Ars 294",
+"text": "praesectum deciens non castigavit ad unguem."
+},
+{
+"id": "295",
+"label": "Hor. Ars 295",
+"text": "ingenium misera quia fortunatius arte"
+},
+{
+"id": "296",
+"label": "Hor. Ars 296",
+"text": "credit et excludit sanos Helicone poetas"
+},
+{
+"id": "297",
+"label": "Hor. Ars 297",
+"text": "Democritus, bona pars non unguis ponere curat,"
+},
+{
+"id": "298",
+"label": "Hor. Ars 298",
+"text": "non barbam, secreta petit loca, balnea vitat."
+},
+{
+"id": "299",
+"label": "Hor. Ars 299",
+"text": "nanciscetur enim pretium nomenque poetae,"
+},
+{
+"id": "300",
+"label": "Hor. Ars 300",
+"text": "si tribus Anticyris caput insanabile numquam"
+},
+{
+"id": "301",
+"label": "Hor. Ars 301",
+"text": "tonsori Licino conmiserit. o ego laevus,"
+},
+{
+"id": "302",
+"label": "Hor. Ars 302",
+"text": "qui purgor bilem sub verni temporis horam."
+},
+{
+"id": "303",
+"label": "Hor. Ars 303",
+"text": "non alius faceret meliora poemata; verum"
+},
+{
+"id": "304",
+"label": "Hor. Ars 304",
+"text": "nil tanti est. ergo fungar vice cotis, acutum"
+},
+{
+"id": "305",
+"label": "Hor. Ars 305",
+"text": "reddere quae ferrum valet exsors ipsa secandi;"
+},
+{
+"id": "306",
+"label": "Hor. Ars 306",
+"text": "munus et officium, nil scribens ipse, docebo,"
+},
+{
+"id": "307",
+"label": "Hor. Ars 307",
+"text": "unde parentur opes, quid alat formetque poetam,"
+},
+{
+"id": "308",
+"label": "Hor. Ars 308",
+"text": "quid deceat, quid non, quo virtus, quo ferat error."
+},
+{
+"id": "309",
+"label": "Hor. Ars 309",
+"text": "scribendi recte sapere est et principium et fons."
+},
+{
+"id": "310",
+"label": "Hor. Ars 310",
+"text": "rem tibi Socraticae poterunt ostendere chartae"
+},
+{
+"id": "311",
+"label": "Hor. Ars 311",
+"text": "verbaque provisam rem non invita sequentur."
+},
+{
+"id": "312",
+"label": "Hor. Ars 312",
+"text": "qui didicit, patriae quid debeat et quid amicis,"
+},
+{
+"id": "313",
+"label": "Hor. Ars 313",
+"text": "quo sit amore parens, quo frater amandus et hospes,"
+},
+{
+"id": "314",
+"label": "Hor. Ars 314",
+"text": "quod sit conscripti, quod iudicis officium, quae"
+},
+{
+"id": "315",
+"label": "Hor. Ars 315",
+"text": "partes in bellum missi ducis, ille profecto"
+},
+{
+"id": "316",
+"label": "Hor. Ars 316",
+"text": "reddere personae scit convenientia cuique."
+},
+{
+"id": "317",
+"label": "Hor. Ars 317",
+"text": "respicere exemplar vitae morumque iubebo"
+},
+{
+"id": "318",
+"label": "Hor. Ars 318",
+"text": "doctum imitatorem et vivas hinc ducere voces."
+},
+{
+"id": "319",
+"label": "Hor. Ars 319",
+"text": "interdum speciosa locis morataque recte"
+},
+{
+"id": "320",
+"label": "Hor. Ars 320",
+"text": "fabula nullius veneris, sine pondere et arte,"
+},
+{
+"id": "321",
+"label": "Hor. Ars 321",
+"text": "valdius oblectat populum meliusque moratur"
+},
+{
+"id": "322",
+"label": "Hor. Ars 322",
+"text": "quam versus inopes rerum nugaeque canorae."
+},
+{
+"id": "323",
+"label": "Hor. Ars 323",
+"text": "Graiis ingenium, Graiis dedit ore rotundo"
+},
+{
+"id": "324",
+"label": "Hor. Ars 324",
+"text": "Musa loqui, praeter laudem nullius avaris."
+},
+{
+"id": "325",
+"label": "Hor. Ars 325",
+"text": "Romani pueri longis rationibus assem"
+},
+{
+"id": "326",
+"label": "Hor. Ars 326",
+"text": "discunt in partis centum diducere. 'dicat"
+},
+{
+"id": "327",
+"label": "Hor. Ars 327",
+"text": "filius Albini: si de quincunce remota est"
+},
+{
+"id": "328",
+"label": "Hor. Ars 328",
+"text": "uncia, quid superat? poteras dixisse.' 'triens.' 'eu,"
+},
+{
+"id": "329",
+"label": "Hor. Ars 329",
+"text": "rem poteris servare tuam. redit uncia, quid fit?'"
+},
+{
+"id": "330",
+"label": "Hor. Ars 330",
+"text": "'semis.' an, haec animos aerugo et cura peculi"
+},
+{
+"id": "331",
+"label": "Hor. Ars 331",
+"text": "cum semel imbuerit, speremus carmina fingi"
+},
+{
+"id": "332",
+"label": "Hor. Ars 332",
+"text": "posse linenda cedro et levi servanda cupresso?"
+},
+{
+"id": "333",
+"label": "Hor. Ars 333",
+"text": "aut prodesse volunt aut delectare poetae"
+},
+{
+"id": "334",
+"label": "Hor. Ars 334",
+"text": "aut simul et iucunda et idonea dicere vitae."
+},
+{
+"id": "335",
+"label": "Hor. Ars 335",
+"text": "quidquid praecipies, esto brevis, ut cito dicta"
+},
+{
+"id": "336",
+"label": "Hor. Ars 336",
+"text": "percipiant animi dociles teneantque fideles:"
+},
+{
+"id": "337",
+"label": "Hor. Ars 337",
+"text": "omne supervacuum pleno de pectore manat."
+},
+{
+"id": "338",
+"label": "Hor. Ars 338",
+"text": "ficta voluptatis causa sint proxima veris:"
+},
+{
+"id": "339",
+"label": "Hor. Ars 339",
+"text": "ne quodcumque volet poscat sibi fabula credi"
+},
+{
+"id": "340",
+"label": "Hor. Ars 340",
+"text": "neu pransae Lamiae vivum puerum extrahat alvo."
+},
+{
+"id": "341",
+"label": "Hor. Ars 341",
+"text": "centuriae seniorum agitant expertia frugis,"
+},
+{
+"id": "342",
+"label": "Hor. Ars 342",
+"text": "celsi praetereunt austera poemata Rhamnes:"
+},
+{
+"id": "343",
+"label": "Hor. Ars 343",
+"text": "omne tulit punctum, qui miscuit utile dulci"
+},
+{
+"id": "344",
+"label": "Hor. Ars 344",
+"text": "lectorem delectando pariterque monendo."
+},
+{
+"id": "345",
+"label": "Hor. Ars 345",
+"text": "hic meret aera liber Sosiis, hic et mare transit"
+},
+{
+"id": "346",
+"label": "Hor. Ars 346",
+"text": "et longum noto scriptori prorogat aevum."
+},
+{
+"id": "347",
+"label": "Hor. Ars 347",
+"text": "sunt delicta tamen, quibus ignovisse velimus:"
+},
+{
+"id": "348",
+"label": "Hor. Ars 348",
+"text": "nam neque chorda sonum reddit quem volt manus et mens,"
+},
+{
+"id": "349",
+"label": "Hor. Ars 349",
+"text": "poscentique gravem persaepe remittit acutum,"
+},
+{
+"id": "350",
+"label": "Hor. Ars 350",
+"text": "nec semper feriet quodcumque minabitur arcus."
+},
+{
+"id": "351",
+"label": "Hor. Ars 351",
+"text": "verum ubi plura nitent in carmine, non ego paucis"
+},
+{
+"id": "352",
+"label": "Hor. Ars 352",
+"text": "offendar maculis, quas aut incuria fudit"
+},
+{
+"id": "353",
+"label": "Hor. Ars 353",
+"text": "aut humana parum cavit natura. quid ergo est?"
+},
+{
+"id": "354",
+"label": "Hor. Ars 354",
+"text": "ut scriptor si peccat idem librarius usque,"
+},
+{
+"id": "355",
+"label": "Hor. Ars 355",
+"text": "quamvis est monitus, venia caret, et citharoedus"
+},
+{
+"id": "356",
+"label": "Hor. Ars 356",
+"text": "ridetur, chorda qui semper oberrat eadem,"
+},
+{
+"id": "357",
+"label": "Hor. Ars 357",
+"text": "sic mihi, qui multum cessat, fit Choerilus ille,"
+},
+{
+"id": "358",
+"label": "Hor. Ars 358",
+"text": "quem bis terve bonum cum risu miror; et idem"
+},
+{
+"id": "359",
+"label": "Hor. Ars 359",
+"text": "indignor, quandoque bonus dormitat Homerus;"
+},
+{
+"id": "360",
+"label": "Hor. Ars 360",
+"text": "verum operi longo fas est obrepere somnum."
+},
+{
+"id": "361",
+"label": "Hor. Ars 361",
+"text": "ut pictura poesis: erit quae, si propius stes,"
+},
+{
+"id": "362",
+"label": "Hor. Ars 362",
+"text": "te capiat magis, et quaedam, si longius abstes;"
+},
+{
+"id": "363",
+"label": "Hor. Ars 363",
+"text": "haec amat obscurum, volet haec sub luce videri,"
+},
+{
+"id": "364",
+"label": "Hor. Ars 364",
+"text": "iudicis argutum quae non formidat acumen;"
+},
+{
+"id": "365",
+"label": "Hor. Ars 365",
+"text": "haec placuit semel, haec deciens repetita placebit."
+},
+{
+"id": "366",
+"label": "Hor. Ars 366",
+"text": "o maior iuvenum, quamvis et voce paterna"
+},
+{
+"id": "367",
+"label": "Hor. Ars 367",
+"text": "fingeris ad rectum et per te sapis, hoc tibi dictum"
+},
+{
+"id": "368",
+"label": "Hor. Ars 368",
+"text": "tolle memor, certis medium et tolerabile rebus"
+},
+{
+"id": "369",
+"label": "Hor. Ars 369",
+"text": "recte concedi: consultus iuris et actor"
+},
+{
+"id": "370",
+"label": "Hor. Ars 370",
+"text": "causarum mediocris abest virtute diserti"
+},
+{
+"id": "371",
+"label": "Hor. Ars 371",
+"text": "Messallae nec scit quantum Cascellius Aulus,"
+},
+{
+"id": "372",
+"label": "Hor. Ars 372",
+"text": "sed tamen in pretio est: mediocribus esse poetis"
+},
+{
+"id": "373",
+"label": "Hor. Ars 373",
+"text": "non homines, non Di, non concessere columnae."
+},
+{
+"id": "374",
+"label": "Hor. Ars 374",
+"text": "ut gratas inter mensas symphonia discors"
+},
+{
+"id": "375",
+"label": "Hor. Ars 375",
+"text": "et crassum unguentum et Sardo cum melle papaver"
+},
+{
+"id": "376",
+"label": "Hor. Ars 376",
+"text": "offendunt, poterat duci quia cena sine istis:"
+},
+{
+"id": "377",
+"label": "Hor. Ars 377",
+"text": "sic animis natum inventumque poema iuvandis,"
+},
+{
+"id": "378",
+"label": "Hor. Ars 378",
+"text": "si paulum summo decessit, vergit ad imum."
+},
+{
+"id": "379",
+"label": "Hor. Ars 379",
+"text": "ludere qui nescit, campestribus abstinet armis"
+},
+{
+"id": "380",
+"label": "Hor. Ars 380",
+"text": "indoctusque pilae discive trochive quiescit,"
+},
+{
+"id": "381",
+"label": "Hor. Ars 381",
+"text": "ne spissae risum tollant inpune coronae:"
+},
+{
+"id": "382",
+"label": "Hor. Ars 382",
+"text": "qui nescit versus, tamen audet fingere. quidni?"
+},
+{
+"id": "383",
+"label": "Hor. Ars 383",
+"text": "liber et ingenuus, praesertim census equestrem"
+},
+{
+"id": "384",
+"label": "Hor. Ars 384",
+"text": "summam nummorum vitioque remotus ab omni."
+},
+{
+"id": "385",
+"label": "Hor. Ars 385",
+"text": "tu nihil invita dices faciesve Minerva:"
+},
+{
+"id": "386",
+"label": "Hor. Ars 386",
+"text": "id tibi iudicium est, ea mens. siquid tamen olim"
+},
+{
+"id": "387",
+"label": "Hor. Ars 387",
+"text": "scripseris, in Meti descendat iudicis auris"
+},
+{
+"id": "388",
+"label": "Hor. Ars 388",
+"text": "et patris et nostras nonumque prematur in annum"
+},
+{
+"id": "389",
+"label": "Hor. Ars 389",
+"text": "membranis intus positis: delere licebit,"
+},
+{
+"id": "390",
+"label": "Hor. Ars 390",
+"text": "quod non edideris, nescit vox missa reverti."
+},
+{
+"id": "391",
+"label": "Hor. Ars 391",
+"text": "silvestris homines sacer interpresque Deorum"
+},
+{
+"id": "392",
+"label": "Hor. Ars 392",
+"text": "caedibus et victu foedo deterruit Orpheus,"
+},
+{
+"id": "393",
+"label": "Hor. Ars 393",
+"text": "dictus ob hoc lenire tigres rabidosque leones;"
+},
+{
+"id": "394",
+"label": "Hor. Ars 394",
+"text": "dictus et Amphion, Thebanae conditor urbis,"
+},
+{
+"id": "395",
+"label": "Hor. Ars 395",
+"text": "saxa movere sono testudinis et prece blanda"
+},
+{
+"id": "396",
+"label": "Hor. Ars 396",
+"text": "ducere quo vellet. fuit haec sapientia quondam,"
+},
+{
+"id": "397",
+"label": "Hor. Ars 397",
+"text": "publica privatis secernere, sacra profanis,"
+},
+{
+"id": "398",
+"label": "Hor. Ars 398",
+"text": "concubitu prohibere vago, dare iura maritis,"
+},
+{
+"id": "399",
+"label": "Hor. Ars 399",
+"text": "oppida moliri, leges incidere ligno."
+},
+{
+"id": "400",
+"label": "Hor. Ars 400",
+"text": "sic honor et nomen divinis vatibus atque"
+},
+{
+"id": "401",
+"label": "Hor. Ars 401",
+"text": "carminibus venit. post hos insignis Homerus"
+},
+{
+"id": "402",
+"label": "Hor. Ars 402",
+"text": "Tyrtaeusque mares animos in Martia bella"
+},
+{
+"id": "403",
+"label": "Hor. Ars 403",
+"text": "versibus exacuit; dictae per carmina sortes"
+},
+{
+"id": "404",
+"label": "Hor. Ars 404",
+"text": "et vitae monstrata via est et gratia regum"
+},
+{
+"id": "405",
+"label": "Hor. Ars 405",
+"text": "Pieriis temptata modis ludusque repertus"
+},
+{
+"id": "406",
+"label": "Hor. Ars 406",
+"text": "et longorum operum finis: ne forte pudori"
+},
+{
+"id": "407",
+"label": "Hor. Ars 407",
+"text": "sit tibi Musa lyrae sollers et cantor Apollo."
+},
+{
+"id": "408",
+"label": "Hor. Ars 408",
+"text": "natura fieret laudabile carmen an arte,"
+},
+{
+"id": "409",
+"label": "Hor. Ars 409",
+"text": "quaesitum est: ego nec studium sine divite vena"
+},
+{
+"id": "410",
+"label": "Hor. Ars 410",
+"text": "nec rude quid prosit video ingenium: alterius sic"
+},
+{
+"id": "411",
+"label": "Hor. Ars 411",
+"text": "altera poscit opem res et coniurat amice."
+},
+{
+"id": "412",
+"label": "Hor. Ars 412",
+"text": "qui studet optatam cursu contingere metam,"
+},
+{
+"id": "413",
+"label": "Hor. Ars 413",
+"text": "multa tulit fecitque puer, sudavit et alsit,"
+},
+{
+"id": "414",
+"label": "Hor. Ars 414",
+"text": "abstinuit venere et vino; qui Pythia cantat"
+},
+{
+"id": "415",
+"label": "Hor. Ars 415",
+"text": "tibicen, didicit prius extimuitque magistrum."
+},
+{
+"id": "416",
+"label": "Hor. Ars 416",
+"text": "nunc satis est dixisse 'ego mira poemata pango;"
+},
+{
+"id": "417",
+"label": "Hor. Ars 417",
+"text": "occupet extremum scabies; mihi turpe relinqui est"
+},
+{
+"id": "418",
+"label": "Hor. Ars 418",
+"text": "et quod non didici sane nescire fateri'."
+},
+{
+"id": "419",
+"label": "Hor. Ars 419",
+"text": "ut praeco, ad merces turbam qui cogit emendas,"
+},
+{
+"id": "420",
+"label": "Hor. Ars 420",
+"text": "adsentatores iubet ad lucrum ire poeta"
+},
+{
+"id": "421",
+"label": "Hor. Ars 421",
+"text": "dives agris, dives positis in fenore nummis."
+},
+{
+"id": "422",
+"label": "Hor. Ars 422",
+"text": "si vero est, unctum qui recte ponere possit"
+},
+{
+"id": "423",
+"label": "Hor. Ars 423",
+"text": "et spondere levi pro paupere et eripere artis"
+},
+{
+"id": "424",
+"label": "Hor. Ars 424",
+"text": "litibus inplicitum, mirabor, si sciet inter-"
+},
+{
+"id": "425",
+"label": "Hor. Ars 425",
+"text": "noscere mendacem verumque beatus amicum."
+},
+{
+"id": "426",
+"label": "Hor. Ars 426",
+"text": "tu seu donaris seu quid donare voles cui,"
+},
+{
+"id": "427",
+"label": "Hor. Ars 427",
+"text": "nolito ad versus tibi factos ducere plenum"
+},
+{
+"id": "428",
+"label": "Hor. Ars 428",
+"text": "laetitiae; clamabit enim 'pulchre! bene! recte!'"
+},
+{
+"id": "429",
+"label": "Hor. Ars 429",
+"text": "pallescet, super his etiam stillabit amicis"
+},
+{
+"id": "430",
+"label": "Hor. Ars 430",
+"text": "ex oculis rorem, saliet, tundet pede terram."
+},
+{
+"id": "431",
+"label": "Hor. Ars 431",
+"text": "ut, qui conducti plorant in funere, dicunt"
+},
+{
+"id": "432",
+"label": "Hor. Ars 432",
+"text": "et faciunt prope plura dolentibus ex animo, sic"
+},
+{
+"id": "433",
+"label": "Hor. Ars 433",
+"text": "derisor vero plus laudatore movetur."
+},
+{
+"id": "434",
+"label": "Hor. Ars 434",
+"text": "reges dicuntur multis urgere culillis"
+},
+{
+"id": "435",
+"label": "Hor. Ars 435",
+"text": "et torquere mero, quem perspexisse laborent"
+},
+{
+"id": "436",
+"label": "Hor. Ars 436",
+"text": "an sit amicitia dignus; si carmina condes,"
+},
+{
+"id": "437",
+"label": "Hor. Ars 437",
+"text": "numquam te fallent animi sub vulpe latentes."
+},
+{
+"id": "438",
+"label": "Hor. Ars 438",
+"text": "Quintilio siquid recitares, 'corrige sodes"
+},
+{
+"id": "439",
+"label": "Hor. Ars 439",
+"text": "hoc' aiebat 'et hoc'. mulius te posse negares"
+},
+{
+"id": "440",
+"label": "Hor. Ars 440",
+"text": "bis terque expertum frustra: delere iubebat"
+},
+{
+"id": "441",
+"label": "Hor. Ars 441",
+"text": "et male tornatos incudi reddere versus."
+},
+{
+"id": "442",
+"label": "Hor. Ars 442",
+"text": "si defendere delictum quam vertere malles,"
+},
+{
+"id": "443",
+"label": "Hor. Ars 443",
+"text": "nullum ultra verbum aut operam insumebat inanem,"
+},
+{
+"id": "444",
+"label": "Hor. Ars 444",
+"text": "quin sine rivali teque et tua solus amares."
+},
+{
+"id": "445",
+"label": "Hor. Ars 445",
+"text": "vir bonus et prudens versus reprehendet inertis,"
+},
+{
+"id": "446",
+"label": "Hor. Ars 446",
+"text": "culpabit duros, incomptis adlinet atrum"
+},
+{
+"id": "447",
+"label": "Hor. Ars 447",
+"text": "transverso calamo signum, ambitiosa recidet"
+},
+{
+"id": "448",
+"label": "Hor. Ars 448",
+"text": "ornamenta, parum claris lucem dare coget,"
+},
+{
+"id": "449",
+"label": "Hor. Ars 449",
+"text": "arguet ambigue dictum, mutanda notabit:"
+},
+{
+"id": "450",
+"label": "Hor. Ars 450",
+"text": "fiet Aristarchus; non dicet 'cur ego amicum"
+},
+{
+"id": "451",
+"label": "Hor. Ars 451",
+"text": "offendam in nugis?' hae nugae seria ducent"
+},
+{
+"id": "452",
+"label": "Hor. Ars 452",
+"text": "in mala derisum semel exceptumque sinistre."
+},
+{
+"id": "453",
+"label": "Hor. Ars 453",
+"text": "ut mala quem scabies aut morbus regius urget"
+},
+{
+"id": "454",
+"label": "Hor. Ars 454",
+"text": "aut fanaticus error et iracunda Diana,"
+},
+{
+"id": "455",
+"label": "Hor. Ars 455",
+"text": "vesanum tetigisse timent fugiuntque poetam"
+},
+{
+"id": "456",
+"label": "Hor. Ars 456",
+"text": "qui sapiunt, agitant pueri incautique sequuntur."
+},
+{
+"id": "457",
+"label": "Hor. Ars 457",
+"text": "hic, dum sublimis versus ructatur et errat,"
+},
+{
+"id": "458",
+"label": "Hor. Ars 458",
+"text": "si veluti merulis intentus decidit auceps"
+},
+{
+"id": "459",
+"label": "Hor. Ars 459",
+"text": "in puteum foveamve, licet 'succurrite' longum"
+},
+{
+"id": "460",
+"label": "Hor. Ars 460",
+"text": "clamet, 'io cives', non sit qui tollere curet."
+},
+{
+"id": "461",
+"label": "Hor. Ars 461",
+"text": "si curet quis opem ferre et demittere funem,"
+},
+{
+"id": "462",
+"label": "Hor. Ars 462",
+"text": "'qui scis, an prudens huc se deiecerit atque"
+},
+{
+"id": "463",
+"label": "Hor. Ars 463",
+"text": "servari nolit?' dicam siculique poetae"
+},
+{
+"id": "464",
+"label": "Hor. Ars 464",
+"text": "narrabo interitum. 'Deus inmortalis haberi"
+},
+{
+"id": "465",
+"label": "Hor. Ars 465",
+"text": "dum cupit Empedocles, ardentem frigidus Aetnam"
+},
+{
+"id": "466",
+"label": "Hor. Ars 466",
+"text": "insiluit. sit ius liceatque perire poetis:"
+},
+{
+"id": "467",
+"label": "Hor. Ars 467",
+"text": "invitum qui servat, idem facit occidenti."
+},
+{
+"id": "468",
+"label": "Hor. Ars 468",
+"text": "nec semel hoc fecit nec, si retractus erit, iam"
+},
+{
+"id": "469",
+"label": "Hor. Ars 469",
+"text": "fiet homo et ponet famosae mortis amorem."
+},
+{
+"id": "470",
+"label": "Hor. Ars 470",
+"text": "nec satis adparet, cur versus factitet, utrum"
+},
+{
+"id": "471",
+"label": "Hor. Ars 471",
+"text": "minxerit in patrios cineres an triste bidental"
+},
+{
+"id": "472",
+"label": "Hor. Ars 472",
+"text": "moverit incestus: certe furit ac velut ursus,"
+},
+{
+"id": "473",
+"label": "Hor. Ars 473",
+"text": "obiectos caveae valuit si frangere clatros,"
+},
+{
+"id": "474",
+"label": "Hor. Ars 474",
+"text": "indoctum doctumque fugat recitator acerbus;"
+},
+{
+"id": "475",
+"label": "Hor. Ars 475",
+"text": "quem vero arripuit, tenet occiditque legendo,"
+},
+{
+"id": "476",
+"label": "Hor. Ars 476",
+"text": "non missura cutem, nisi plena cruoris, hirudo.'"
+}
+]
+}

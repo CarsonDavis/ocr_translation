@@ -1,0 +1,30 @@
+{
+ "id": "cicero-ad-familiares",
+ "title": "Cicero, Epistulae ad familiares",
+ "language": "la",
+ "edition": "Epistulae ad Familiares — Perseus Digital Library TEI (phi0474.phi056.perseus-lat2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-latinLit TEI phi0474.phi056.perseus-lat2",
+ "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi056.perseus-lat2/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.letter.section",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
+  "11",
+  "12",
+  "13",
+  "14",
+  "15",
+  "16"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat2.xml"
+}

@@ -1,0 +1,782 @@
+{
+"corpus": "vulgate",
+"unit": "ephesians",
+"title": "Ephesians (ad Ephesios)",
+"passages": [
+{
+"id": "Ephesians 1:1",
+"label": "Ephesians 1:1",
+"text": "Paulus Apostolus Jesu Christi per voluntatem Dei, omnibus sanctis qui sunt Ephesi, et fidelibus in Christo Jesu."
+},
+{
+"id": "Ephesians 1:2",
+"label": "Ephesians 1:2",
+"text": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo."
+},
+{
+"id": "Ephesians 1:3",
+"label": "Ephesians 1:3",
+"text": "Benedictus Deus et Pater Domini nostri Jesu Christi, qui benedixit nos in omni benedictione spirituali in cælestibus in Christo,"
+},
+{
+"id": "Ephesians 1:4",
+"label": "Ephesians 1:4",
+"text": "sicut elegit nos in ipso ante mundi constitutionem, ut essemus sancti et immaculati in conspectu ejus in caritate."
+},
+{
+"id": "Ephesians 1:5",
+"label": "Ephesians 1:5",
+"text": "Qui prædestinavit nos in adoptionem filiorum per Jesum Christum in ipsum: secundum propositum voluntatis suæ,"
+},
+{
+"id": "Ephesians 1:6",
+"label": "Ephesians 1:6",
+"text": "in laudem gloriæ gratiæ suæ, in qua gratificavit nos in dilecto Filio suo."
+},
+{
+"id": "Ephesians 1:7",
+"label": "Ephesians 1:7",
+"text": "In quo habemus redemptionem per sanguinem ejus, remissionem peccatorum secundum divitias gratiæ ejus,"
+},
+{
+"id": "Ephesians 1:8",
+"label": "Ephesians 1:8",
+"text": "quæ superabundavit in nobis in omni sapientia et prudentia:"
+},
+{
+"id": "Ephesians 1:9",
+"label": "Ephesians 1:9",
+"text": "ut notum faceret nobis sacramentum voluntatis suæ, secundum beneplacitum ejus, quod proposuit in eo,"
+},
+{
+"id": "Ephesians 1:10",
+"label": "Ephesians 1:10",
+"text": "in dispensatione plenitudinis temporum, instaurare omnia in Christo, quæ in cælis et quæ in terra sunt, in ipso;"
+},
+{
+"id": "Ephesians 1:11",
+"label": "Ephesians 1:11",
+"text": "in quo etiam et nos sorte vocati sumus prædestinati secundum propositum ejus qui operatur omnia secundum consilium voluntatis suæ:"
+},
+{
+"id": "Ephesians 1:12",
+"label": "Ephesians 1:12",
+"text": "ut simus in laudem gloriæ ejus nos, qui ante speravimus in Christo;"
+},
+{
+"id": "Ephesians 1:13",
+"label": "Ephesians 1:13",
+"text": "in quo et vos, cum audissetis verbum veritatis, Evangelium salutis vestræ, in quo et credentes signati estis Spiritu promissionis Sancto,"
+},
+{
+"id": "Ephesians 1:14",
+"label": "Ephesians 1:14",
+"text": "qui est pignus hæreditatis nostræ, in redemptionem acquisitionis, in laudem gloriæ ipsius."
+},
+{
+"id": "Ephesians 1:15",
+"label": "Ephesians 1:15",
+"text": "Propterea et ego audiens fidem vestram, quæ est in Domino Jesu, et dilectionem in omnes sanctos,"
+},
+{
+"id": "Ephesians 1:16",
+"label": "Ephesians 1:16",
+"text": "non cesso gratias agens pro vobis, memoriam vestri faciens in orationibus meis:"
+},
+{
+"id": "Ephesians 1:17",
+"label": "Ephesians 1:17",
+"text": "ut Deus, Domini nostri Jesu Christi Pater gloriæ, det vobis spiritum sapientiæ et revelationis in agnitione ejus,"
+},
+{
+"id": "Ephesians 1:18",
+"label": "Ephesians 1:18",
+"text": "illuminatos oculos cordis vestri, ut sciatis quæ sit spes vocationis ejus, et quæ divitiæ gloriæ hæreditatis ejus in sanctis,"
+},
+{
+"id": "Ephesians 1:19",
+"label": "Ephesians 1:19",
+"text": "et quæ sit supereminens magnitudo virtutis ejus in nos, qui credimus secundum operationem potentiæ virtutis ejus,"
+},
+{
+"id": "Ephesians 1:20",
+"label": "Ephesians 1:20",
+"text": "quam operatus est in Christo, suscitans illum a mortuis, et constituens ad dexteram suam in cælestibus:"
+},
+{
+"id": "Ephesians 1:21",
+"label": "Ephesians 1:21",
+"text": "supra omnem principatum, et potestatem, et virtutem, et dominationem, et omne nomen, quod nominatur non solum in hoc sæculo, sed etiam in futuro."
+},
+{
+"id": "Ephesians 1:22",
+"label": "Ephesians 1:22",
+"text": "Et omnia subjecit sub pedibus ejus: et ipsum dedit caput supra omnem ecclesiam,"
+},
+{
+"id": "Ephesians 1:23",
+"label": "Ephesians 1:23",
+"text": "quæ est corpus ipsius, et plenitudo ejus, qui omnia in omnibus adimpletur."
+},
+{
+"id": "Ephesians 2:1",
+"label": "Ephesians 2:1",
+"text": "Et vos, cum essetis mortui delictis et peccatis vestris,"
+},
+{
+"id": "Ephesians 2:2",
+"label": "Ephesians 2:2",
+"text": "in quibus aliquando ambulastis secundum sæculum mundi hujus, secundum principem potestatis aëris hujus, spiritus, qui nunc operatur in filios diffidentiæ,"
+},
+{
+"id": "Ephesians 2:3",
+"label": "Ephesians 2:3",
+"text": "in quibus et nos omnes aliquando conversati sumus in desideriis carnis nostræ, facientes voluntatem carnis et cogitationum, et eramus natura filii iræ, sicut et ceteri:"
+},
+{
+"id": "Ephesians 2:4",
+"label": "Ephesians 2:4",
+"text": "Deus autem, qui dives est in misericordia, propter nimiam caritatem suam, qua dilexit nos,"
+},
+{
+"id": "Ephesians 2:5",
+"label": "Ephesians 2:5",
+"text": "et cum essemus mortui peccatis, convivificavit nos in Christo (cujus gratia estis salvati),"
+},
+{
+"id": "Ephesians 2:6",
+"label": "Ephesians 2:6",
+"text": "et conresuscitavit, et consedere fecit in cælestibus in Christo Jesu:"
+},
+{
+"id": "Ephesians 2:7",
+"label": "Ephesians 2:7",
+"text": "ut ostenderet in sæculis supervenientibus abundantes divitias gratiæ suæ, in bonitate super nos in Christo Jesu."
+},
+{
+"id": "Ephesians 2:8",
+"label": "Ephesians 2:8",
+"text": "Gratia enim estis salvati per fidem, et hoc non ex vobis: Dei enim donum est:"
+},
+{
+"id": "Ephesians 2:9",
+"label": "Ephesians 2:9",
+"text": "non ex operibus, ut ne quis glorietur."
+},
+{
+"id": "Ephesians 2:10",
+"label": "Ephesians 2:10",
+"text": "Ipsius enim sumus factura, creati in Christo Jesu in operibus bonis, quæ præparavit Deus ut in illis ambulemus."
+},
+{
+"id": "Ephesians 2:11",
+"label": "Ephesians 2:11",
+"text": "Propter quod memores estote quod aliquando vos gentes in carne, qui dicimini præputium ab ea quæ dicitur circumcisio in carne, manu facta:"
+},
+{
+"id": "Ephesians 2:12",
+"label": "Ephesians 2:12",
+"text": "quia eratis illo in tempore sine Christo, alienati a conversatione Israël, et hospites testamentorum, promissionis spem non habentes, et sine Deo in hoc mundo."
+},
+{
+"id": "Ephesians 2:13",
+"label": "Ephesians 2:13",
+"text": "Nunc autem in Christo Jesu, vos, qui aliquando eratis longe, facti estis prope in sanguine Christi."
+},
+{
+"id": "Ephesians 2:14",
+"label": "Ephesians 2:14",
+"text": "Ipse enim est pax nostra, qui fecit utraque unum, et medium parietem maceriæ solvens, inimicitias in carne sua,"
+},
+{
+"id": "Ephesians 2:15",
+"label": "Ephesians 2:15",
+"text": "legem mandatorum decretis evacuans, ut duos condat in semetipso in unum novum hominem, faciens pacem:"
+},
+{
+"id": "Ephesians 2:16",
+"label": "Ephesians 2:16",
+"text": "et reconciliet ambos in uno corpore, Deo per crucem, interficiens inimicitias in semetipso."
+},
+{
+"id": "Ephesians 2:17",
+"label": "Ephesians 2:17",
+"text": "Et veniens evangelizavit pacem vobis, qui longe fuistis, et pacem iis, qui prope."
+},
+{
+"id": "Ephesians 2:18",
+"label": "Ephesians 2:18",
+"text": "Quoniam per ipsum habemus accessum ambo in uno Spiritu ad Patrem."
+},
+{
+"id": "Ephesians 2:19",
+"label": "Ephesians 2:19",
+"text": "Ergo jam non estis hospites, et advenæ: sed estis cives sanctorum, et domestici Dei,"
+},
+{
+"id": "Ephesians 2:20",
+"label": "Ephesians 2:20",
+"text": "superædificati super fundamentum apostolorum, et prophetarum, ipso summo angulari lapide Christo Jesu:"
+},
+{
+"id": "Ephesians 2:21",
+"label": "Ephesians 2:21",
+"text": "in quo omnis ædificatio constructa crescit in templum sanctum in Domino,"
+},
+{
+"id": "Ephesians 2:22",
+"label": "Ephesians 2:22",
+"text": "in quo et vos coædificamini in habitaculum Dei in Spiritu."
+},
+{
+"id": "Ephesians 3:1",
+"label": "Ephesians 3:1",
+"text": "Hujus rei gratia, ego Paulus vinctus Christi Jesu, pro vobis gentibus,"
+},
+{
+"id": "Ephesians 3:2",
+"label": "Ephesians 3:2",
+"text": "si tamen audistis dispensationem gratiæ Dei, quæ data est mihi in vobis:"
+},
+{
+"id": "Ephesians 3:3",
+"label": "Ephesians 3:3",
+"text": "quoniam secundum revelationem notum mihi factum est sacramentum, sicut supra scripsi in brevi,"
+},
+{
+"id": "Ephesians 3:4",
+"label": "Ephesians 3:4",
+"text": "prout potestis legentes intelligere prudentiam meam in mysterio Christi:"
+},
+{
+"id": "Ephesians 3:5",
+"label": "Ephesians 3:5",
+"text": "quod aliis generationibus non est agnitum filiis hominum, sicuti nunc revelatum est sanctis apostolis ejus et prophetis in Spiritu,"
+},
+{
+"id": "Ephesians 3:6",
+"label": "Ephesians 3:6",
+"text": "gentes esse cohæredes, et concorporales, et comparticipes promissionis ejus in Christo Jesu per Evangelium:"
+},
+{
+"id": "Ephesians 3:7",
+"label": "Ephesians 3:7",
+"text": "cujus factus sum minister secundum donum gratiæ Dei, quæ data est mihi secundum operationem virtutis ejus."
+},
+{
+"id": "Ephesians 3:8",
+"label": "Ephesians 3:8",
+"text": "Mihi omnium sanctorum minimo data est gratia hæc, in gentibus evangelizare investigabiles divitias Christi,"
+},
+{
+"id": "Ephesians 3:9",
+"label": "Ephesians 3:9",
+"text": "et illuminare omnes, quæ sit dispensatio sacramenti absconditi a sæculis in Deo, qui omnia creavit:"
+},
+{
+"id": "Ephesians 3:10",
+"label": "Ephesians 3:10",
+"text": "ut innotescat principatibus et potestatibus in cælestibus per Ecclesiam, multiformis sapientia Dei,"
+},
+{
+"id": "Ephesians 3:11",
+"label": "Ephesians 3:11",
+"text": "secundum præfinitionem sæculorum, quam fecit in Christo Jesu Domino nostro:"
+},
+{
+"id": "Ephesians 3:12",
+"label": "Ephesians 3:12",
+"text": "in quo habemus fiduciam, et accessum in confidentia per fidem ejus."
+},
+{
+"id": "Ephesians 3:13",
+"label": "Ephesians 3:13",
+"text": "Propter quod peto ne deficiatis in tribulationibus meis pro vobis: quæ est gloria vestra."
+},
+{
+"id": "Ephesians 3:14",
+"label": "Ephesians 3:14",
+"text": "Hujus rei gratia flecto genua mea ad Patrem Domini nostri Jesu Christi,"
+},
+{
+"id": "Ephesians 3:15",
+"label": "Ephesians 3:15",
+"text": "ex quo omnis paternitas in cælis et in terra nominatur,"
+},
+{
+"id": "Ephesians 3:16",
+"label": "Ephesians 3:16",
+"text": "ut det vobis secundum divitias gloriæ suæ, virtute corroborari per Spiritum ejus in interiorem hominem,"
+},
+{
+"id": "Ephesians 3:17",
+"label": "Ephesians 3:17",
+"text": "Christum habitare per fidem in cordibus vestris: in caritate radicati, et fundati,"
+},
+{
+"id": "Ephesians 3:18",
+"label": "Ephesians 3:18",
+"text": "ut possitis comprehendere cum omnibus sanctis, quæ sit latitudo, et longitudo, et sublimitas, et profundum:"
+},
+{
+"id": "Ephesians 3:19",
+"label": "Ephesians 3:19",
+"text": "scire etiam supereminentem scientiæ caritatem Christi, ut impleamini in omnem plenitudinem Dei."
+},
+{
+"id": "Ephesians 3:20",
+"label": "Ephesians 3:20",
+"text": "Ei autem, qui potens est omnia facere superabundanter quam petimus aut intelligimus, secundum virtutem, quæ operatur in nobis:"
+},
+{
+"id": "Ephesians 3:21",
+"label": "Ephesians 3:21",
+"text": "ipsi gloria in Ecclesia, et in Christo Jesu, in omnes generationes sæculi sæculorum. Amen."
+},
+{
+"id": "Ephesians 4:1",
+"label": "Ephesians 4:1",
+"text": "Obsecro itaque vos ego vinctus in Domino, ut digne ambuletis vocatione, qua vocati estis,"
+},
+{
+"id": "Ephesians 4:2",
+"label": "Ephesians 4:2",
+"text": "cum omni humilitate, et mansuetudine, cum patientia, supportantes invicem in caritate,"
+},
+{
+"id": "Ephesians 4:3",
+"label": "Ephesians 4:3",
+"text": "solliciti servare unitatem Spiritus in vinculo pacis."
+},
+{
+"id": "Ephesians 4:4",
+"label": "Ephesians 4:4",
+"text": "Unum corpus, et unus Spiritus, sicut vocati estis in una spe vocationis vestræ."
+},
+{
+"id": "Ephesians 4:5",
+"label": "Ephesians 4:5",
+"text": "Unus Dominus, una fides, unum baptisma."
+},
+{
+"id": "Ephesians 4:6",
+"label": "Ephesians 4:6",
+"text": "Unus Deus et Pater omnium, qui est super omnes, et per omnia, et in omnibus nobis."
+},
+{
+"id": "Ephesians 4:7",
+"label": "Ephesians 4:7",
+"text": "Unicuique autem nostrum data est gratia secundum mensuram donationis Christi."
+},
+{
+"id": "Ephesians 4:8",
+"label": "Ephesians 4:8",
+"text": "Propter quod dicit: Ascendens in altum, captivam duxit captivitatem: dedit dona hominibus."
+},
+{
+"id": "Ephesians 4:9",
+"label": "Ephesians 4:9",
+"text": "Quod autem ascendit, quid est, nisi quia et descendit primum in inferiores partes terræ?"
+},
+{
+"id": "Ephesians 4:10",
+"label": "Ephesians 4:10",
+"text": "Qui descendit, ipse est et qui ascendit super omnes cælos, ut impleret omnia."
+},
+{
+"id": "Ephesians 4:11",
+"label": "Ephesians 4:11",
+"text": "Et ipse dedit quosdam quidem apostolos, quosdam autem prophetas, alios vero evangelistas, alios autem pastores et doctores,"
+},
+{
+"id": "Ephesians 4:12",
+"label": "Ephesians 4:12",
+"text": "ad consummationem sanctorum in opus ministerii, in ædificationem corporis Christi:"
+},
+{
+"id": "Ephesians 4:13",
+"label": "Ephesians 4:13",
+"text": "donec occurramus omnes in unitatem fidei, et agnitionis Filii Dei, in virum perfectum, in mensuram ætatis plenitudinis Christi:"
+},
+{
+"id": "Ephesians 4:14",
+"label": "Ephesians 4:14",
+"text": "ut jam non simus parvuli fluctuantes, et circumferamur omni vento doctrinæ in nequitia hominum, in astutia ad circumventionem erroris."
+},
+{
+"id": "Ephesians 4:15",
+"label": "Ephesians 4:15",
+"text": "Veritatem autem facientes in caritate, crescamus in illo per omnia, qui est caput Christus:"
+},
+{
+"id": "Ephesians 4:16",
+"label": "Ephesians 4:16",
+"text": "ex quo totum corpus compactum et connexum per omnem juncturam subministrationis, secundum operationem in mensuram uniuscujusque membri, augmentum corporis facit in ædificationem sui in caritate."
+},
+{
+"id": "Ephesians 4:17",
+"label": "Ephesians 4:17",
+"text": "Hoc igitur dico, et testificor in Domino, ut jam non ambuletis, sicut et gentes ambulant in vanitate sensus sui,"
+},
+{
+"id": "Ephesians 4:18",
+"label": "Ephesians 4:18",
+"text": "tenebris obscuratum habentes intellectum, alienati a vita Dei per ignorantiam, quæ est in illis, propter cæcitatem cordis ipsorum,"
+},
+{
+"id": "Ephesians 4:19",
+"label": "Ephesians 4:19",
+"text": "qui desperantes, semetipsos tradiderunt impudicitiæ, in operationem immunditiæ omnis in avaritiam."
+},
+{
+"id": "Ephesians 4:20",
+"label": "Ephesians 4:20",
+"text": "Vos autem non ita didicistis Christum,"
+},
+{
+"id": "Ephesians 4:21",
+"label": "Ephesians 4:21",
+"text": "si tamen illum audistis, et in ipso edocti estis, sicut est veritas in Jesu,"
+},
+{
+"id": "Ephesians 4:22",
+"label": "Ephesians 4:22",
+"text": "deponere vos secundum pristinam conversationem veterem hominem, qui corrumpitur secundum desideria erroris."
+},
+{
+"id": "Ephesians 4:23",
+"label": "Ephesians 4:23",
+"text": "Renovamini autem spiritu mentis vestræ,"
+},
+{
+"id": "Ephesians 4:24",
+"label": "Ephesians 4:24",
+"text": "et induite novum hominem, qui secundum Deum creatus est in justitia, et sanctitate veritatis."
+},
+{
+"id": "Ephesians 4:25",
+"label": "Ephesians 4:25",
+"text": "Propter quod deponentes mendacium, loquimini veritatem unusquisque cum proximo suo: quoniam sumus invicem membra."
+},
+{
+"id": "Ephesians 4:26",
+"label": "Ephesians 4:26",
+"text": "Irascimini, et nolite peccare: sol non occidat super iracundiam vestram."
+},
+{
+"id": "Ephesians 4:27",
+"label": "Ephesians 4:27",
+"text": "Nolite locum dare diabolo:"
+},
+{
+"id": "Ephesians 4:28",
+"label": "Ephesians 4:28",
+"text": "qui furabatur, jam non furetur: magis autem laboret, operando manibus suis, quod bonum est, ut habeat unde tribuat necessitatem patienti."
+},
+{
+"id": "Ephesians 4:29",
+"label": "Ephesians 4:29",
+"text": "Omnis sermo malus ex ore vestro non procedat: sed si quis bonus ad ædificationem fidei ut det gratiam audientibus."
+},
+{
+"id": "Ephesians 4:30",
+"label": "Ephesians 4:30",
+"text": "Et nolite contristare Spiritum Sanctum Dei: in quo signati estis in diem redemptionis."
+},
+{
+"id": "Ephesians 4:31",
+"label": "Ephesians 4:31",
+"text": "Omnis amaritudo, et ira, et indignatio, et clamor, et blasphemia tollatur a vobis cum omni malitia."
+},
+{
+"id": "Ephesians 4:32",
+"label": "Ephesians 4:32",
+"text": "Estote autem invicem benigni, misericordes, donantes invicem sicut et Deus in Christo donavit vobis."
+},
+{
+"id": "Ephesians 5:1",
+"label": "Ephesians 5:1",
+"text": "Estote ergo imitatores Dei, sicut filii carissimi,"
+},
+{
+"id": "Ephesians 5:2",
+"label": "Ephesians 5:2",
+"text": "et ambulate in dilectione, sicut et Christus dilexit nos, et tradidit semetipsum pro nobis, oblationem et hostiam Deo in odorem suavitatis."
+},
+{
+"id": "Ephesians 5:3",
+"label": "Ephesians 5:3",
+"text": "Fornicatio autem, et omnis immunditia, aut avaritia, nec nominetur in vobis, sicut decet sanctos:"
+},
+{
+"id": "Ephesians 5:4",
+"label": "Ephesians 5:4",
+"text": "aut turpitudo, aut stultiloquium, aut scurrilitas, quæ ad rem non pertinet: sed magis gratiarum actio."
+},
+{
+"id": "Ephesians 5:5",
+"label": "Ephesians 5:5",
+"text": "Hoc enim scitote intelligentes: quod omnis fornicator, aut immundus, aut avarus, quod est idolorum servitus, non habet hæreditatem in regno Christi et Dei."
+},
+{
+"id": "Ephesians 5:6",
+"label": "Ephesians 5:6",
+"text": "Nemo vos seducat inanibus verbis: propter hæc enim venit ira Dei in filios diffidentiæ."
+},
+{
+"id": "Ephesians 5:7",
+"label": "Ephesians 5:7",
+"text": "Nolite ergo effici participes eorum."
+},
+{
+"id": "Ephesians 5:8",
+"label": "Ephesians 5:8",
+"text": "Eratis enim aliquando tenebræ: nunc autem lux in Domino. Ut filii lucis ambulate:"
+},
+{
+"id": "Ephesians 5:9",
+"label": "Ephesians 5:9",
+"text": "fructus enim lucis est in omni bonitate, et justitia, et veritate:"
+},
+{
+"id": "Ephesians 5:10",
+"label": "Ephesians 5:10",
+"text": "probantes quid sit beneplacitum Deo:"
+},
+{
+"id": "Ephesians 5:11",
+"label": "Ephesians 5:11",
+"text": "et nolite communicare operibus infructuosis tenebrarum, magis autem redarguite."
+},
+{
+"id": "Ephesians 5:12",
+"label": "Ephesians 5:12",
+"text": "Quæ enim in occulto fiunt ab ipsis, turpe est et dicere."
+},
+{
+"id": "Ephesians 5:13",
+"label": "Ephesians 5:13",
+"text": "Omnia autem, quæ arguuntur, a lumine manifestantur: omne enim, quod manifestatur, lumen est."
+},
+{
+"id": "Ephesians 5:14",
+"label": "Ephesians 5:14",
+"text": "Propter quod dicit: Surge qui dormis, et exsurge a mortuis, et illuminabit te Christus."
+},
+{
+"id": "Ephesians 5:15",
+"label": "Ephesians 5:15",
+"text": "Videte itaque, fratres, quomodo caute ambuletis: non quasi insipientes,"
+},
+{
+"id": "Ephesians 5:16",
+"label": "Ephesians 5:16",
+"text": "sed ut sapientes: redimentes tempus, quoniam dies mali sunt."
+},
+{
+"id": "Ephesians 5:17",
+"label": "Ephesians 5:17",
+"text": "Propterea nolite fieri imprudentes, sed intelligentes quæ sit voluntas Dei."
+},
+{
+"id": "Ephesians 5:18",
+"label": "Ephesians 5:18",
+"text": "Et nolite inebriari vino, in quo est luxuria, sed implemini Spiritu Sancto,"
+},
+{
+"id": "Ephesians 5:19",
+"label": "Ephesians 5:19",
+"text": "loquentes vobismetipsis in psalmis, et hymnis, et canticis spiritualibus, cantantes et psallentes in cordibus vestris Domino,"
+},
+{
+"id": "Ephesians 5:20",
+"label": "Ephesians 5:20",
+"text": "gratias agentes semper pro omnibus in nomine Domini nostri Jesu Christi Deo et Patri,"
+},
+{
+"id": "Ephesians 5:21",
+"label": "Ephesians 5:21",
+"text": "subjecti invicem in timore Christi."
+},
+{
+"id": "Ephesians 5:22",
+"label": "Ephesians 5:22",
+"text": "Mulieres viris suis subditæ sint, sicut Domino:"
+},
+{
+"id": "Ephesians 5:23",
+"label": "Ephesians 5:23",
+"text": "quoniam vir caput est mulieris, sicut Christus caput est Ecclesiæ: ipse, salvator corporis ejus."
+},
+{
+"id": "Ephesians 5:24",
+"label": "Ephesians 5:24",
+"text": "Sed sicut Ecclesia subjecta est Christo, ita et mulieres viris suis in omnibus."
+},
+{
+"id": "Ephesians 5:25",
+"label": "Ephesians 5:25",
+"text": "Viri, diligite uxores vestras, sicut et Christus dilexit Ecclesiam, et seipsum tradidit pro ea,"
+},
+{
+"id": "Ephesians 5:26",
+"label": "Ephesians 5:26",
+"text": "ut illam sanctificaret, mundans lavacro aquæ in verbo vitæ,"
+},
+{
+"id": "Ephesians 5:27",
+"label": "Ephesians 5:27",
+"text": "ut exhiberet ipse sibi gloriosam Ecclesiam, non habentem maculam, aut rugam, aut aliquid hujusmodi, sed ut sit sancta et immaculata."
+},
+{
+"id": "Ephesians 5:28",
+"label": "Ephesians 5:28",
+"text": "Ita et viri debent diligere uxores suas ut corpora sua. Qui suam uxorem diligit, seipsum diligit."
+},
+{
+"id": "Ephesians 5:29",
+"label": "Ephesians 5:29",
+"text": "Nemo enim umquam carnem suam odio habuit: sed nutrit et fovet eam, sicut et Christus Ecclesiam:"
+},
+{
+"id": "Ephesians 5:30",
+"label": "Ephesians 5:30",
+"text": "quia membra sumus corporis ejus, de carne ejus et de ossibus ejus."
+},
+{
+"id": "Ephesians 5:31",
+"label": "Ephesians 5:31",
+"text": "Propter hoc relinquet homo patrem et matrem suam, et adhærebit uxori suæ, et erunt duo in carne una."
+},
+{
+"id": "Ephesians 5:32",
+"label": "Ephesians 5:32",
+"text": "Sacramentum hoc magnum est, ego autem dico in Christo et in Ecclesia."
+},
+{
+"id": "Ephesians 5:33",
+"label": "Ephesians 5:33",
+"text": "Verumtamen et vos singuli, unusquisque uxorem suam sicut seipsum diligat: uxor autem timeat virum suum."
+},
+{
+"id": "Ephesians 6:1",
+"label": "Ephesians 6:1",
+"text": "Filii, obedite parentibus vestris in Domino: hoc enim justum est."
+},
+{
+"id": "Ephesians 6:2",
+"label": "Ephesians 6:2",
+"text": "Honora patrem tuum, et matrem tuam, quod est mandatum primum in promissione:"
+},
+{
+"id": "Ephesians 6:3",
+"label": "Ephesians 6:3",
+"text": "ut bene sit tibi, et sis longævus super terram."
+},
+{
+"id": "Ephesians 6:4",
+"label": "Ephesians 6:4",
+"text": "Et vos patres, nolite ad iracundiam provocare filios vestros: sed educate illos in disciplina et correptione Domini."
+},
+{
+"id": "Ephesians 6:5",
+"label": "Ephesians 6:5",
+"text": "Servi, obedite dominis carnalibus cum timore et tremore, in simplicitate cordis vestri, sicut Christo:"
+},
+{
+"id": "Ephesians 6:6",
+"label": "Ephesians 6:6",
+"text": "non ad oculum servientes, quasi hominibus placentes, sed ut servi Christi, facientes voluntatem Dei ex animo,"
+},
+{
+"id": "Ephesians 6:7",
+"label": "Ephesians 6:7",
+"text": "cum bona voluntate servientes, sicut Domino, et non hominibus:"
+},
+{
+"id": "Ephesians 6:8",
+"label": "Ephesians 6:8",
+"text": "scientes quoniam unusquisque quodcumque fecerit bonum, hoc recipiet a Domino, sive servus, sive liber."
+},
+{
+"id": "Ephesians 6:9",
+"label": "Ephesians 6:9",
+"text": "Et vos domini, eadem facite illis, remittentes minas: scientes quia et illorum et vester Dominus est in cælis: et personarum acceptio non est apud eum."
+},
+{
+"id": "Ephesians 6:10",
+"label": "Ephesians 6:10",
+"text": "De cetero, fratres, confortamini in Domino, et in potentia virtutis ejus."
+},
+{
+"id": "Ephesians 6:11",
+"label": "Ephesians 6:11",
+"text": "Induite vos armaturam Dei, ut possitis stare adversus insidias diaboli:"
+},
+{
+"id": "Ephesians 6:12",
+"label": "Ephesians 6:12",
+"text": "quoniam non est nobis colluctatio adversus carnem et sanguinem, sed adversus principes, et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiæ, in cælestibus."
+},
+{
+"id": "Ephesians 6:13",
+"label": "Ephesians 6:13",
+"text": "Propterea accipite armaturam Dei, ut possitis resistere in die malo, et in omnibus perfecti stare."
+},
+{
+"id": "Ephesians 6:14",
+"label": "Ephesians 6:14",
+"text": "State ergo succincti lumbos vestros in veritate, et induti loricam justitiæ,"
+},
+{
+"id": "Ephesians 6:15",
+"label": "Ephesians 6:15",
+"text": "et calceati pedes in præparatione Evangelii pacis,"
+},
+{
+"id": "Ephesians 6:16",
+"label": "Ephesians 6:16",
+"text": "in omnibus sumentes scutum fidei, in quo possitis omnia tela nequissimi ignea extinguere:"
+},
+{
+"id": "Ephesians 6:17",
+"label": "Ephesians 6:17",
+"text": "et galeam salutis assumite, et gladium spiritus (quod est verbum Dei),"
+},
+{
+"id": "Ephesians 6:18",
+"label": "Ephesians 6:18",
+"text": "per omnem orationem et obsecrationem orantes omni tempore in spiritu: et in ipso vigilantes in omni instantia et obsecratione pro omnibus sanctis:"
+},
+{
+"id": "Ephesians 6:19",
+"label": "Ephesians 6:19",
+"text": "et pro me, ut detur mihi sermo in apertione oris mei cum fiducia, notum facere mysterium Evangelii:"
+},
+{
+"id": "Ephesians 6:20",
+"label": "Ephesians 6:20",
+"text": "pro quo legatione fungor in catena, ita ut in ipso audeam, prout oportet me loqui."
+},
+{
+"id": "Ephesians 6:21",
+"label": "Ephesians 6:21",
+"text": "Ut autem et vos sciatis quæ circa me sunt, quid agam, omnia vobis nota faciet Tychicus, carissimus frater, et fidelis minister in Domino:"
+},
+{
+"id": "Ephesians 6:22",
+"label": "Ephesians 6:22",
+"text": "quem misi ad vos in hoc ipsum, ut cognoscatis quæ circa nos sunt, et consoletur corda vestra."
+},
+{
+"id": "Ephesians 6:23",
+"label": "Ephesians 6:23",
+"text": "Pax fratribus, et caritas cum fide a Deo Patre et Domino Jesu Christo."
+},
+{
+"id": "Ephesians 6:24",
+"label": "Ephesians 6:24",
+"text": "Gratia cum omnibus qui diligunt Dominum nostrum Jesum Christum in incorruptione. Amen."
+}
+]
+}

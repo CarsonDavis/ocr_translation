@@ -1,0 +1,2172 @@
+{
+"corpus": "vulgate",
+"unit": "romans",
+"title": "Romans (ad Romanos)",
+"passages": [
+{
+"id": "Romans 1:1",
+"label": "Romans 1:1",
+"text": "Paulus, servus Jesu Christi, vocatus Apostolus, segregatus in Evangelium Dei,"
+},
+{
+"id": "Romans 1:2",
+"label": "Romans 1:2",
+"text": "quod ante promiserat per prophetas suos in Scripturis sanctis"
+},
+{
+"id": "Romans 1:3",
+"label": "Romans 1:3",
+"text": "de Filio suo, qui factus est ei ex semine David secundum carnem,"
+},
+{
+"id": "Romans 1:4",
+"label": "Romans 1:4",
+"text": "qui prædestinatus est Filius Dei in virtute secundum spiritum sanctificationis ex resurrectione mortuorum Jesu Christi Domini nostri:"
+},
+{
+"id": "Romans 1:5",
+"label": "Romans 1:5",
+"text": "per quem accepimus gratiam, et apostolatum ad obediendum fidei in omnibus gentibus pro nomine ejus,"
+},
+{
+"id": "Romans 1:6",
+"label": "Romans 1:6",
+"text": "in quibus estis et vos vocati Jesu Christi:"
+},
+{
+"id": "Romans 1:7",
+"label": "Romans 1:7",
+"text": "omnibus qui sunt Romæ, dilectis Dei, vocatis sanctis. Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo."
+},
+{
+"id": "Romans 1:8",
+"label": "Romans 1:8",
+"text": "Primum quidem gratias ago Deo meo per Jesum Christum pro omnibus vobis: quia fides vestra annuntiatur in universo mundo."
+},
+{
+"id": "Romans 1:9",
+"label": "Romans 1:9",
+"text": "Testis enim mihi est Deus, cui servio in spiritu meo in Evangelio Filii ejus, quod sine intermissione memoriam vestri facio"
+},
+{
+"id": "Romans 1:10",
+"label": "Romans 1:10",
+"text": "semper in orationibus meis: obsecrans, si quomodo tandem aliquando prosperum iter habeam in voluntate Dei veniendi ad vos."
+},
+{
+"id": "Romans 1:11",
+"label": "Romans 1:11",
+"text": "Desidero enim videre vos, ut aliquid impertiar vobis gratiæ spiritualis ad confirmandos vos:"
+},
+{
+"id": "Romans 1:12",
+"label": "Romans 1:12",
+"text": "id est, simul consolari in vobis per eam quæ invicem est, fidem vestram atque meam."
+},
+{
+"id": "Romans 1:13",
+"label": "Romans 1:13",
+"text": "Nolo autem vos ignorare fratres: quia sæpe proposui venire ad vos (et prohibitus sum usque adhuc) ut aliquem fructum habeam et in vobis, sicut et in ceteris gentibus."
+},
+{
+"id": "Romans 1:14",
+"label": "Romans 1:14",
+"text": "Græcis ac barbaris, sapientibus, et insipientibus debitor sum:"
+},
+{
+"id": "Romans 1:15",
+"label": "Romans 1:15",
+"text": "ita (quod in me) promptum est et vobis, qui Romæ estis, evangelizare."
+},
+{
+"id": "Romans 1:16",
+"label": "Romans 1:16",
+"text": "Non enim erubesco Evangelium. Virtus enim Dei est in salutem omni credenti, Judæo primum, et Græco."
+},
+{
+"id": "Romans 1:17",
+"label": "Romans 1:17",
+"text": "Justitia enim Dei in eo revelatur ex fide in fidem: sicut scriptum est: Justus autem ex fide vivit."
+},
+{
+"id": "Romans 1:18",
+"label": "Romans 1:18",
+"text": "Revelatur enim ira Dei de cælo super omnem impietatem, et injustitiam hominum eorum, qui veritatem Dei in injustitia detinent:"
+},
+{
+"id": "Romans 1:19",
+"label": "Romans 1:19",
+"text": "quia quod notum est Dei, manifestum est in illis. Deus enim illis manifestavit."
+},
+{
+"id": "Romans 1:20",
+"label": "Romans 1:20",
+"text": "Invisibilia enim ipsius, a creatura mundi, per ea quæ facta sunt, intellecta, conspiciuntur: sempiterna quoque ejus virtus, et divinitas: ita ut sint inexcusabiles."
+},
+{
+"id": "Romans 1:21",
+"label": "Romans 1:21",
+"text": "Quia cum cognovissent Deum, non sicut Deum glorificaverunt, aut gratias egerunt: sed evanuerunt in cogitationibus suis, et obscuratum est insipiens cor eorum:"
+},
+{
+"id": "Romans 1:22",
+"label": "Romans 1:22",
+"text": "dicentes enim se esse sapientes, stulti facti sunt."
+},
+{
+"id": "Romans 1:23",
+"label": "Romans 1:23",
+"text": "Et mutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis, et volucrum, et quadrupedum, et serpentium."
+},
+{
+"id": "Romans 1:24",
+"label": "Romans 1:24",
+"text": "Propter quod tradidit illos Deus in desideria cordis eorum, in immunditiam, ut contumeliis afficiant corpora sua in semetipsis:"
+},
+{
+"id": "Romans 1:25",
+"label": "Romans 1:25",
+"text": "qui commutaverunt veritatem Dei in mendacium: et coluerunt, et servierunt creaturæ potius quam Creatori, qui est benedictus in sæcula. Amen."
+},
+{
+"id": "Romans 1:26",
+"label": "Romans 1:26",
+"text": "Propterea tradidit illos Deus in passiones ignominiæ: nam feminæ eorum immutaverunt naturalem usum in eum usum qui est contra naturam."
+},
+{
+"id": "Romans 1:27",
+"label": "Romans 1:27",
+"text": "Similiter autem et masculi, relicto naturali usu feminæ, exarserunt in desideriis suis in invicem, masculi in masculos turpitudinem operantes, et mercedem, quam oportuit, erroris sui in semetipsis recipientes."
+},
+{
+"id": "Romans 1:28",
+"label": "Romans 1:28",
+"text": "Et sicut non probaverunt Deum habere in notitia, tradidit illos Deus in reprobum sensum, ut faciant ea quæ non conveniunt,"
+},
+{
+"id": "Romans 1:29",
+"label": "Romans 1:29",
+"text": "repletos omni iniquitate, malitia, fornicatione, avaritia, nequitia, plenos invidia, homicidio, contentione, dolo, malignitate: susurrones,"
+},
+{
+"id": "Romans 1:30",
+"label": "Romans 1:30",
+"text": "detractores, Deo odibiles, contumeliosos, superbos, elatos, inventores malorum, parentibus non obedientes,"
+},
+{
+"id": "Romans 1:31",
+"label": "Romans 1:31",
+"text": "insipientes, incompositos, sine affectione, absque fœdere, sine misericordia."
+},
+{
+"id": "Romans 1:32",
+"label": "Romans 1:32",
+"text": "Qui cum justitiam Dei cognovissent, non intellexerunt quoniam qui talia agunt, digni sunt morte: et non solum qui ea faciunt, sed etiam qui consentiunt facientibus."
+},
+{
+"id": "Romans 2:1",
+"label": "Romans 2:1",
+"text": "Propter quod inexcusabilis es, o homo omnis qui judicas. In quo enim judicas alterum, teipsum condemnas: eadem enim agis quæ judicas."
+},
+{
+"id": "Romans 2:2",
+"label": "Romans 2:2",
+"text": "Scimus enim quoniam judicium Dei est secundum veritatem in eos qui talia agunt."
+},
+{
+"id": "Romans 2:3",
+"label": "Romans 2:3",
+"text": "Existimas autem hoc, o homo, qui judicas eos qui talia agunt, et facis ea, quia tu effugies judicium Dei?"
+},
+{
+"id": "Romans 2:4",
+"label": "Romans 2:4",
+"text": "an divitias bonitatis ejus, et patientiæ, et longanimitatis contemnis? ignoras quoniam benignitas Dei ad pœnitentiam te adducit?"
+},
+{
+"id": "Romans 2:5",
+"label": "Romans 2:5",
+"text": "Secundum autem duritiam tuam, et impœnitens cor, thesaurizas tibi iram in die iræ, et revelationis justi judicii Dei,"
+},
+{
+"id": "Romans 2:6",
+"label": "Romans 2:6",
+"text": "qui reddet unicuique secundum opera ejus:"
+},
+{
+"id": "Romans 2:7",
+"label": "Romans 2:7",
+"text": "iis quidem qui secundum patientiam boni operis, gloriam, et honorem, et incorruptionem quærunt, vitam æternam:"
+},
+{
+"id": "Romans 2:8",
+"label": "Romans 2:8",
+"text": "iis autem qui sunt ex contentione, et qui non acquiescunt veritati, credunt autem iniquitati, ira et indignatio."
+},
+{
+"id": "Romans 2:9",
+"label": "Romans 2:9",
+"text": "Tribulatio et angustia in omnem animam hominis operantis malum, Judæi primum, et Græci:"
+},
+{
+"id": "Romans 2:10",
+"label": "Romans 2:10",
+"text": "gloria autem, et honor, et pax omni operanti bonum, Judæo primum, et Græco:"
+},
+{
+"id": "Romans 2:11",
+"label": "Romans 2:11",
+"text": "non enim est acceptio personarum apud Deum."
+},
+{
+"id": "Romans 2:12",
+"label": "Romans 2:12",
+"text": "Quicumque enim sine lege peccaverunt, sine lege peribunt: et quicumque in lege peccaverunt, per legem judicabuntur."
+},
+{
+"id": "Romans 2:13",
+"label": "Romans 2:13",
+"text": "Non enim auditores legis justi sunt apud Deum, sed factores legis justificabuntur."
+},
+{
+"id": "Romans 2:14",
+"label": "Romans 2:14",
+"text": "Cum autem gentes, quæ legem non habent, naturaliter ea, quæ legis sunt, faciunt, ejusmodi legem non habentes, ipsi sibi sunt lex:"
+},
+{
+"id": "Romans 2:15",
+"label": "Romans 2:15",
+"text": "qui ostendunt opus legis scriptum in cordibus suis, testimonium reddente illis conscientia ipsorum, et inter se invicem cogitationibus accusantibus, aut etiam defendentibus,"
+},
+{
+"id": "Romans 2:16",
+"label": "Romans 2:16",
+"text": "in die, cum judicabit Deus occulta hominum, secundum Evangelium meum per Jesum Christum."
+},
+{
+"id": "Romans 2:17",
+"label": "Romans 2:17",
+"text": "Si autem tu Judæus cognominaris, et requiescis in lege, et gloriaris in Deo,"
+},
+{
+"id": "Romans 2:18",
+"label": "Romans 2:18",
+"text": "et nosti voluntatem ejus, et probas utiliora, instructus per legem,"
+},
+{
+"id": "Romans 2:19",
+"label": "Romans 2:19",
+"text": "confidis teipsum esse ducem cæcorum, lumen eorum qui in tenebris sunt,"
+},
+{
+"id": "Romans 2:20",
+"label": "Romans 2:20",
+"text": "eruditorem insipientium, magistrum infantium, habentem formam scientiæ, et veritatis in lege."
+},
+{
+"id": "Romans 2:21",
+"label": "Romans 2:21",
+"text": "Qui ergo alium doces, teipsum non doces: qui prædicas non furandum, furaris:"
+},
+{
+"id": "Romans 2:22",
+"label": "Romans 2:22",
+"text": "qui dicis non mœchandum, mœcharis: qui abominaris idola, sacrilegium facis:"
+},
+{
+"id": "Romans 2:23",
+"label": "Romans 2:23",
+"text": "qui in lege gloriaris, per prævaricationem legis Deum inhonoras."
+},
+{
+"id": "Romans 2:24",
+"label": "Romans 2:24",
+"text": "(Nomen enim Dei per vos blasphematur inter gentes, sicut scriptum est.)"
+},
+{
+"id": "Romans 2:25",
+"label": "Romans 2:25",
+"text": "Circumcisio quidem prodest, si legem observes: si autem prævaricator legis sis, circumcisio tua præputium facta est."
+},
+{
+"id": "Romans 2:26",
+"label": "Romans 2:26",
+"text": "Si igitur præputium justitias legis custodiat, nonne præputium illius in circumcisionem reputabitur?"
+},
+{
+"id": "Romans 2:27",
+"label": "Romans 2:27",
+"text": "et judicabit id quod ex natura est præputium, legem consummans, te, qui per litteram et circumcisionem prævaricator legis es?"
+},
+{
+"id": "Romans 2:28",
+"label": "Romans 2:28",
+"text": "Non enim qui in manifesto, Judæus est: neque quæ in manifesto, in carne, est circumcisio:"
+},
+{
+"id": "Romans 2:29",
+"label": "Romans 2:29",
+"text": "sed qui in abscondito, Judæus est: et circumcisio cordis in spiritu, non littera: cujus laus non ex hominibus, sed ex Deo est."
+},
+{
+"id": "Romans 3:1",
+"label": "Romans 3:1",
+"text": "Quid ergo amplius Judæo est? aut quæ utilitas circumcisionis?"
+},
+{
+"id": "Romans 3:2",
+"label": "Romans 3:2",
+"text": "Multum per omnem modum. Primum quidem quia credita sunt illis eloquia Dei."
+},
+{
+"id": "Romans 3:3",
+"label": "Romans 3:3",
+"text": "Quid enim si quidam illorum non crediderunt? numquid incredulitas illorum fidem Dei evacuabit? Absit."
+},
+{
+"id": "Romans 3:4",
+"label": "Romans 3:4",
+"text": "Est autem Deus verax: omnis autem homo mendax, sicut scriptum est: Ut justificeris in sermonibus tuis:\net vincas cum judicaris."
+},
+{
+"id": "Romans 3:5",
+"label": "Romans 3:5",
+"text": "Si autem iniquitas nostra justitiam Dei commendat, quid dicemus? Numquid iniquus est Deus, qui infert iram?"
+},
+{
+"id": "Romans 3:6",
+"label": "Romans 3:6",
+"text": "secundum hominem dico. Absit. Alioquin quomodo judicabit Deus hunc mundum?"
+},
+{
+"id": "Romans 3:7",
+"label": "Romans 3:7",
+"text": "Si enim veritas Dei in meo mendacio abundavit in gloriam ipsius: quid adhuc et ego tamquam peccator judicor?"
+},
+{
+"id": "Romans 3:8",
+"label": "Romans 3:8",
+"text": "et non (sicut blasphemamur, et sicut aiunt quidam nos dicere) faciamus mala ut veniant bona: quorum damnatio justa est."
+},
+{
+"id": "Romans 3:9",
+"label": "Romans 3:9",
+"text": "Quid ergo? præcellimus eos? Nequaquam. Causati enim sumus Judæos et Græcos omnes sub peccato esse,"
+},
+{
+"id": "Romans 3:10",
+"label": "Romans 3:10",
+"text": "sicut scriptum est: Quia non est justus quisquam:"
+},
+{
+"id": "Romans 3:11",
+"label": "Romans 3:11",
+"text": "non est intelligens, non est requirens Deum."
+},
+{
+"id": "Romans 3:12",
+"label": "Romans 3:12",
+"text": "Omnes declinaverunt, simul inutiles facti sunt:\nnon est qui faciat bonum, non est usque ad unum."
+},
+{
+"id": "Romans 3:13",
+"label": "Romans 3:13",
+"text": "Sepulchrum patens est guttur eorum,\nlinguis suis dolose agebant:\nvenenum aspidum sub labiis eorum:"
+},
+{
+"id": "Romans 3:14",
+"label": "Romans 3:14",
+"text": "quorum os maledictione, et amaritudine plenum est:"
+},
+{
+"id": "Romans 3:15",
+"label": "Romans 3:15",
+"text": "veloces pedes eorum ad effundendum sanguinem:"
+},
+{
+"id": "Romans 3:16",
+"label": "Romans 3:16",
+"text": "contritio et infelicitas in viis eorum:"
+},
+{
+"id": "Romans 3:17",
+"label": "Romans 3:17",
+"text": "et viam pacis non cognoverunt:"
+},
+{
+"id": "Romans 3:18",
+"label": "Romans 3:18",
+"text": "non est timor Dei ante oculos eorum."
+},
+{
+"id": "Romans 3:19",
+"label": "Romans 3:19",
+"text": "Scimus autem quoniam quæcumque lex loquitur, iis, qui in lege sunt, loquitur: ut omne os obstruatur, et subditus fiat omnis mundus Deo:"
+},
+{
+"id": "Romans 3:20",
+"label": "Romans 3:20",
+"text": "quia ex operibus legis non justificabitur omnis caro coram illo. Per legem enim cognitio peccati."
+},
+{
+"id": "Romans 3:21",
+"label": "Romans 3:21",
+"text": "Nunc autem sine lege justitia Dei manifestata est: testificata a lege et prophetis."
+},
+{
+"id": "Romans 3:22",
+"label": "Romans 3:22",
+"text": "Justitia autem Dei per fidem Jesu Christi in omnes et super omnes qui credunt in eum: non enim est distinctio:"
+},
+{
+"id": "Romans 3:23",
+"label": "Romans 3:23",
+"text": "omnes enim peccaverunt, et egent gloria Dei."
+},
+{
+"id": "Romans 3:24",
+"label": "Romans 3:24",
+"text": "Justificati gratis per gratiam ipsius, per redemptionem quæ est in Christo Jesu,"
+},
+{
+"id": "Romans 3:25",
+"label": "Romans 3:25",
+"text": "quem proposuit Deus propitiationem per fidem in sanguine ipsius, ad ostensionem justitiæ suæ propter remissionem præcedentium delictorum"
+},
+{
+"id": "Romans 3:26",
+"label": "Romans 3:26",
+"text": "in sustentatione Dei, ad ostensionem justitiæ ejus in hoc tempore: ut sit ipse justus, et justificans eum, qui est ex fide Jesu Christi."
+},
+{
+"id": "Romans 3:27",
+"label": "Romans 3:27",
+"text": "Ubi est ergo gloriatio tua? Exclusa est. Per quam legem? Factorum? Non: sed per legem fidei."
+},
+{
+"id": "Romans 3:28",
+"label": "Romans 3:28",
+"text": "Arbitramur enim justificari hominem per fidem sine operibus legis."
+},
+{
+"id": "Romans 3:29",
+"label": "Romans 3:29",
+"text": "An Judæorum Deus tantum? nonne et gentium? Immo et gentium:"
+},
+{
+"id": "Romans 3:30",
+"label": "Romans 3:30",
+"text": "quoniam quidem unus est Deus, qui justificat circumcisionem ex fide, et præputium per fidem."
+},
+{
+"id": "Romans 3:31",
+"label": "Romans 3:31",
+"text": "Legem ergo destruimus per fidem? Absit: sed legem statuimus."
+},
+{
+"id": "Romans 4:1",
+"label": "Romans 4:1",
+"text": "Quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem?"
+},
+{
+"id": "Romans 4:2",
+"label": "Romans 4:2",
+"text": "Si enim Abraham ex operibus justificatus est, habet gloriam, sed non apud Deum."
+},
+{
+"id": "Romans 4:3",
+"label": "Romans 4:3",
+"text": "Quid enim dicit Scriptura? Credidit Abraham Deo, et reputatam est illi ad justitiam."
+},
+{
+"id": "Romans 4:4",
+"label": "Romans 4:4",
+"text": "Ei autem qui operatur, merces non imputatur secundum gratiam, sed secundum debitum."
+},
+{
+"id": "Romans 4:5",
+"label": "Romans 4:5",
+"text": "Ei vero qui non operatur, credenti autem in eum, qui justificat impium, reputatur fides ejus ad justitiam secundum propositum gratiæ Dei."
+},
+{
+"id": "Romans 4:6",
+"label": "Romans 4:6",
+"text": "Sicut et David dicit beatitudinem hominis, cui Deus accepto fert justitiam sine operibus:"
+},
+{
+"id": "Romans 4:7",
+"label": "Romans 4:7",
+"text": "Beati, quorum remissæ sunt iniquitates,\net quorum tecta sunt peccata."
+},
+{
+"id": "Romans 4:8",
+"label": "Romans 4:8",
+"text": "Beatus vir, cui non imputavit Dominus peccatum."
+},
+{
+"id": "Romans 4:9",
+"label": "Romans 4:9",
+"text": "Beatitudo ergo hæc in circumcisione tantum manet, an etiam in præputio? Dicimus enim quia reputata est Abrahæ fides ad justitiam."
+},
+{
+"id": "Romans 4:10",
+"label": "Romans 4:10",
+"text": "Quomodo ergo reputata est? in circumcisione, an in præputio? Non in circumcisione, sed in præputio."
+},
+{
+"id": "Romans 4:11",
+"label": "Romans 4:11",
+"text": "Et signum accepit circumcisionis, signaculum justitiæ fidei, quæ est in præputio: ut sit pater omnium credentium per præputium, ut reputetur et illis ad justitiam:"
+},
+{
+"id": "Romans 4:12",
+"label": "Romans 4:12",
+"text": "et sit pater circumcisionis non iis tantum, qui sunt ex circumcisione, sed et iis qui sectantur vestigia fidei, quæ est in præputio patris nostri Abrahæ."
+},
+{
+"id": "Romans 4:13",
+"label": "Romans 4:13",
+"text": "Non enim per legem promissio Abrahæ, aut semini ejus ut hæres esset mundi: sed per justitiam fidei."
+},
+{
+"id": "Romans 4:14",
+"label": "Romans 4:14",
+"text": "Si enim qui ex lege, hæredes sunt: exinanita est fides, abolita est promissio."
+},
+{
+"id": "Romans 4:15",
+"label": "Romans 4:15",
+"text": "Lex enim iram operatur. Ubi enim non est lex, nec prævaricatio."
+},
+{
+"id": "Romans 4:16",
+"label": "Romans 4:16",
+"text": "Ideo ex fide, ut secundum gratiam firma sit promissio omni semini, non ei qui ex lege est solum, sed et ei qui ex fide est Abrahæ, qui pater est omnium nostrum"
+},
+{
+"id": "Romans 4:17",
+"label": "Romans 4:17",
+"text": "(sicut scriptum est: Quia patrem multarum gentium posui te) ante Deum, cui credidit, qui vivificat mortuos, et vocat ea quæ non sunt, tamquam ea quæ sunt:"
+},
+{
+"id": "Romans 4:18",
+"label": "Romans 4:18",
+"text": "qui contra spem in spem credidit, ut fieret pater multarum gentium secundum quod dictum est ei: Sic erit semen tuum."
+},
+{
+"id": "Romans 4:19",
+"label": "Romans 4:19",
+"text": "Et non infirmatus est fide, nec consideravit corpus suum emortuum, cum jam fere centum esset annorum, et emortuam vulvam Saræ."
+},
+{
+"id": "Romans 4:20",
+"label": "Romans 4:20",
+"text": "In repromissione etiam Dei non hæsitavit diffidentia, sed confortatus est fide, dans gloriam Deo:"
+},
+{
+"id": "Romans 4:21",
+"label": "Romans 4:21",
+"text": "plenissime sciens, quia quæcumque promisit, potens est et facere."
+},
+{
+"id": "Romans 4:22",
+"label": "Romans 4:22",
+"text": "Ideo et reputatum est illi ad justitiam."
+},
+{
+"id": "Romans 4:23",
+"label": "Romans 4:23",
+"text": "Non est autem scriptum tantum propter ipsum quia reputatum est illi ad justitiam:"
+},
+{
+"id": "Romans 4:24",
+"label": "Romans 4:24",
+"text": "sed et propter nos, quibus reputabitur credentibus in eum, qui suscitavit Jesum Christum Dominum nostrum a mortuis,"
+},
+{
+"id": "Romans 4:25",
+"label": "Romans 4:25",
+"text": "qui traditus est propter delicta nostra, et resurrexit propter justificationem nostram."
+},
+{
+"id": "Romans 5:1",
+"label": "Romans 5:1",
+"text": "Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum:"
+},
+{
+"id": "Romans 5:2",
+"label": "Romans 5:2",
+"text": "per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriæ filiorum Dei."
+},
+{
+"id": "Romans 5:3",
+"label": "Romans 5:3",
+"text": "Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:"
+},
+{
+"id": "Romans 5:4",
+"label": "Romans 5:4",
+"text": "patientia autem probationem, probatio vero spem,"
+},
+{
+"id": "Romans 5:5",
+"label": "Romans 5:5",
+"text": "spes autem non confundit: quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis."
+},
+{
+"id": "Romans 5:6",
+"label": "Romans 5:6",
+"text": "Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est?"
+},
+{
+"id": "Romans 5:7",
+"label": "Romans 5:7",
+"text": "vix enim pro justo quis moritur: nam pro bono forsitan quis audeat mori."
+},
+{
+"id": "Romans 5:8",
+"label": "Romans 5:8",
+"text": "Commendat autem caritatem suam Deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus,"
+},
+{
+"id": "Romans 5:9",
+"label": "Romans 5:9",
+"text": "Christus pro nobis mortuus est: multo igitur magis nunc justificati in sanguine ipsius, salvi erimus ab ira per ipsum."
+},
+{
+"id": "Romans 5:10",
+"label": "Romans 5:10",
+"text": "Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii ejus: multo magis reconciliati, salvi erimus in vita ipsius."
+},
+{
+"id": "Romans 5:11",
+"label": "Romans 5:11",
+"text": "Non solum autem: sed et gloriamur in Deo per Dominum nostrum Jesum Christum, per quem nunc reconciliationem accepimus."
+},
+{
+"id": "Romans 5:12",
+"label": "Romans 5:12",
+"text": "Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt."
+},
+{
+"id": "Romans 5:13",
+"label": "Romans 5:13",
+"text": "Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset."
+},
+{
+"id": "Romans 5:14",
+"label": "Romans 5:14",
+"text": "Sed regnavit mors ab Adam usque ad Moysen etiam in eos qui non peccaverunt in similitudinem prævaricationis Adæ, qui est forma futuri."
+},
+{
+"id": "Romans 5:15",
+"label": "Romans 5:15",
+"text": "Sed non sicut delictum, ita et donum: si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Jesu Christi in plures abundavit."
+},
+{
+"id": "Romans 5:16",
+"label": "Romans 5:16",
+"text": "Et non sicut per unum peccatum, ita et donum. Nam judicium quidem ex uno in condemnationem: gratia autem ex multis delictis in justificationem."
+},
+{
+"id": "Romans 5:17",
+"label": "Romans 5:17",
+"text": "Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiæ, et donationis, et justitiæ accipientes, in vita regnabunt per unum Jesum Christum."
+},
+{
+"id": "Romans 5:18",
+"label": "Romans 5:18",
+"text": "Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius justitiam in omnes homines in justificationem vitæ."
+},
+{
+"id": "Romans 5:19",
+"label": "Romans 5:19",
+"text": "Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, justi constituentur multi."
+},
+{
+"id": "Romans 5:20",
+"label": "Romans 5:20",
+"text": "Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia:"
+},
+{
+"id": "Romans 5:21",
+"label": "Romans 5:21",
+"text": "ut sicut regnavit peccatum in mortem: ita et gratia regnet per justitiam in vitam æternam, per Jesum Christum Dominum nostrum."
+},
+{
+"id": "Romans 6:1",
+"label": "Romans 6:1",
+"text": "Quid ergo dicemus? permanebimus in peccato ut gratia abundet?"
+},
+{
+"id": "Romans 6:2",
+"label": "Romans 6:2",
+"text": "Absit. Qui enim mortui sumus peccato, quomodo adhuc vivemus in illo?"
+},
+{
+"id": "Romans 6:3",
+"label": "Romans 6:3",
+"text": "an ignoratis quia quicumque baptizati sumus in Christo Jesu, in morte ipsius baptizati sumus?"
+},
+{
+"id": "Romans 6:4",
+"label": "Romans 6:4",
+"text": "Consepulti enim sumus cum illo per baptismum in mortem: ut quomodo Christus surrexit a mortuis per gloriam Patris, ita et nos in novitate vitæ ambulemus."
+},
+{
+"id": "Romans 6:5",
+"label": "Romans 6:5",
+"text": "Si enim complantati facti sumus similitudini mortis ejus: simul et resurrectionis erimus."
+},
+{
+"id": "Romans 6:6",
+"label": "Romans 6:6",
+"text": "Hoc scientes, quia vetus homo noster simul crucifixus est, ut destruatur corpus peccati, et ultra non serviamus peccato."
+},
+{
+"id": "Romans 6:7",
+"label": "Romans 6:7",
+"text": "Qui enim mortuus est, justificatus est a peccato."
+},
+{
+"id": "Romans 6:8",
+"label": "Romans 6:8",
+"text": "Si autem mortui sumus cum Christo, credimus quia simul etiam vivemus cum Christo,"
+},
+{
+"id": "Romans 6:9",
+"label": "Romans 6:9",
+"text": "scientes quod Christus resurgens ex mortuis jam non moritur: mors illi ultra non dominabitur."
+},
+{
+"id": "Romans 6:10",
+"label": "Romans 6:10",
+"text": "Quod enim mortuus est peccato, mortuus est semel: quod autem vivit, vivit Deo."
+},
+{
+"id": "Romans 6:11",
+"label": "Romans 6:11",
+"text": "Ita et vos existimate vos mortuos quidem esse peccato, viventes autem Deo, in Christo Jesu Domino nostro."
+},
+{
+"id": "Romans 6:12",
+"label": "Romans 6:12",
+"text": "Non ergo regnet peccatum in vestro mortali corpore ut obediatis concupiscentiis ejus."
+},
+{
+"id": "Romans 6:13",
+"label": "Romans 6:13",
+"text": "Sed neque exhibeatis membra vestra arma iniquitatis peccato: sed exhibete vos Deo, tamquam ex mortuis viventes: et membra vestra arma justitiæ Deo."
+},
+{
+"id": "Romans 6:14",
+"label": "Romans 6:14",
+"text": "Peccatum enim vobis non dominabitur: non enim sub lege estis, sed sub gratia."
+},
+{
+"id": "Romans 6:15",
+"label": "Romans 6:15",
+"text": "Quid ergo? peccabimus, quoniam non sumus sub lege, sed sub gratia? Absit."
+},
+{
+"id": "Romans 6:16",
+"label": "Romans 6:16",
+"text": "Nescitis quoniam cui exhibetis vos servos ad obediendum, servi estis ejus, cui obeditis, sive peccati ad mortem, sive obeditionis ad justitiam?"
+},
+{
+"id": "Romans 6:17",
+"label": "Romans 6:17",
+"text": "Gratias autem Deo quod fuistis servi peccati, obedistis autem ex corde in eam formam doctrinæ, in quam traditi estis."
+},
+{
+"id": "Romans 6:18",
+"label": "Romans 6:18",
+"text": "Liberati autem a peccato, servi facti estis justitiæ."
+},
+{
+"id": "Romans 6:19",
+"label": "Romans 6:19",
+"text": "Humanum dico, propter infirmitatem carnis vestræ: sicut enim exhibuistis membra vestra servire immunditiæ, et iniquitati ad iniquitatem, ita nunc exhibete membra vestra servire justitiæ in sanctificationem."
+},
+{
+"id": "Romans 6:20",
+"label": "Romans 6:20",
+"text": "Cum enim servi essetis peccati, liberi fuistis justitiæ."
+},
+{
+"id": "Romans 6:21",
+"label": "Romans 6:21",
+"text": "Quem ergo fructum habuistis tunc in illis, in quibus nunc erubescitis? nam finis illorum mors est."
+},
+{
+"id": "Romans 6:22",
+"label": "Romans 6:22",
+"text": "Nunc vero liberati a peccato, servi autem facti Deo, habetis fructum vestrum in sanctificationem, finem vero vitam æternam."
+},
+{
+"id": "Romans 6:23",
+"label": "Romans 6:23",
+"text": "Stipendia enim peccati, mors. Gratia autem Dei, vita æterna, in Christo Jesu Domino nostro."
+},
+{
+"id": "Romans 7:1",
+"label": "Romans 7:1",
+"text": "An ignoratis, fratres (scientibus enim legem loquor), quia lex in homine dominatur quanto tempore vivit?"
+},
+{
+"id": "Romans 7:2",
+"label": "Romans 7:2",
+"text": "Nam quæ sub viro est mulier, vivente viro, alligata est legi: si autem mortuus fuerit vir ejus, soluta est a lege viri."
+},
+{
+"id": "Romans 7:3",
+"label": "Romans 7:3",
+"text": "Igitur, vivente viro, vocabitur adultera si fuerit cum alio viro: si autem mortuus fuerit vir ejus, liberata est a lege viri, ut non sit adultera si fuerit cum alio viro."
+},
+{
+"id": "Romans 7:4",
+"label": "Romans 7:4",
+"text": "Itaque fratres mei, et vos mortificati estis legi per corpus Christi: ut sitis alterius, qui ex mortuis resurrexit, ut fructificemus Deo."
+},
+{
+"id": "Romans 7:5",
+"label": "Romans 7:5",
+"text": "Cum enim essemus in carne, passiones peccatorum, quæ per legem erant, operabantur in membris nostris, ut fructificarent morti."
+},
+{
+"id": "Romans 7:6",
+"label": "Romans 7:6",
+"text": "Nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litteræ."
+},
+{
+"id": "Romans 7:7",
+"label": "Romans 7:7",
+"text": "Quid ergo dicemus? lex peccatum est? Absit. Sed peccatum non cognovi, nisi per legem: nam concupiscentiam nesciebam, nisi lex diceret: Non concupisces."
+},
+{
+"id": "Romans 7:8",
+"label": "Romans 7:8",
+"text": "Occasione autem accepta, peccatum per mandatum operatum est in me omnem concupiscentiam. Sine lege enim peccatum mortuum erat."
+},
+{
+"id": "Romans 7:9",
+"label": "Romans 7:9",
+"text": "Ego autem vivebam sine lege aliquando: sed cum venisset mandatum, peccatum revixit."
+},
+{
+"id": "Romans 7:10",
+"label": "Romans 7:10",
+"text": "Ego autem mortuus sum: et inventum est mihi mandatum, quod erat ad vitam, hoc esse ad mortem."
+},
+{
+"id": "Romans 7:11",
+"label": "Romans 7:11",
+"text": "Nam peccatum occasione accepta per mandatum, seduxit me, et per illud occidit."
+},
+{
+"id": "Romans 7:12",
+"label": "Romans 7:12",
+"text": "Itaque lex quidem sancta, et mandatum sanctum, et justum, et bonum."
+},
+{
+"id": "Romans 7:13",
+"label": "Romans 7:13",
+"text": "Quod ergo bonum est, mihi factum est mors? Absit. Sed peccatum, ut appareat peccatum, per bonum operatum est mihi mortem: ut fiat supra modum peccans peccatum per mandatum."
+},
+{
+"id": "Romans 7:14",
+"label": "Romans 7:14",
+"text": "Scimus enim quia lex spiritualis est: ego autem carnalis sum, venundatus sub peccato."
+},
+{
+"id": "Romans 7:15",
+"label": "Romans 7:15",
+"text": "Quod enim operor, non intelligo: non enim quod volo bonum, hoc ago: sed quod odi malum, illud facio."
+},
+{
+"id": "Romans 7:16",
+"label": "Romans 7:16",
+"text": "Si autem quod nolo, illud facio: consentio legi, quoniam bona est."
+},
+{
+"id": "Romans 7:17",
+"label": "Romans 7:17",
+"text": "Nunc autem jam non ego operor illud, sed quod habitat in me peccatum."
+},
+{
+"id": "Romans 7:18",
+"label": "Romans 7:18",
+"text": "Scio enim quia non habitat in me, hoc est in carne mea, bonum. Nam velle, adjacet mihi: perficere autem bonum, non invenio."
+},
+{
+"id": "Romans 7:19",
+"label": "Romans 7:19",
+"text": "Non enim quod volo bonum, hoc facio: sed quod nolo malum, hoc ago."
+},
+{
+"id": "Romans 7:20",
+"label": "Romans 7:20",
+"text": "Si autem quod nolo, illud facio: jam non ego operor illud, sed quod habitat in me, peccatum."
+},
+{
+"id": "Romans 7:21",
+"label": "Romans 7:21",
+"text": "Invenio igitur legem, volenti mihi facere bonum, quoniam mihi malum adjacet:"
+},
+{
+"id": "Romans 7:22",
+"label": "Romans 7:22",
+"text": "condelector enim legi Dei secundum interiorem hominem:"
+},
+{
+"id": "Romans 7:23",
+"label": "Romans 7:23",
+"text": "video autem aliam legem in membris meis, repugnantem legi mentis meæ, et captivantem me in lege peccati, quæ est in membris meis."
+},
+{
+"id": "Romans 7:24",
+"label": "Romans 7:24",
+"text": "Infelix ego homo, quis me liberabit de corpore mortis hujus?"
+},
+{
+"id": "Romans 7:25",
+"label": "Romans 7:25",
+"text": "gratia Dei per Jesum Christum Dominum nostrum. Igitur ego ipse mente servio legi Dei: carne autem, legi peccati."
+},
+{
+"id": "Romans 8:1",
+"label": "Romans 8:1",
+"text": "Nihil ergo nunc damnationis est iis qui sunt in Christo Jesu: qui non secundum carnem ambulant."
+},
+{
+"id": "Romans 8:2",
+"label": "Romans 8:2",
+"text": "Lex enim spiritus vitæ in Christo Jesu liberavit me a lege peccati et mortis."
+},
+{
+"id": "Romans 8:3",
+"label": "Romans 8:3",
+"text": "Nam quod impossibile erat legi, in quo infirmabatur per carnem: Deus Filium suum mittens in similitudinem carnis peccati et de peccato, damnavit peccatum in carne,"
+},
+{
+"id": "Romans 8:4",
+"label": "Romans 8:4",
+"text": "ut justificatio legis impleretur in nobis, qui non secundum carnem ambulamus, sed secundum spiritum."
+},
+{
+"id": "Romans 8:5",
+"label": "Romans 8:5",
+"text": "Qui enim secundum carnem sunt, quæ carnis sunt, sapiunt: qui vero secundum spiritum sunt, quæ sunt spiritus, sentiunt."
+},
+{
+"id": "Romans 8:6",
+"label": "Romans 8:6",
+"text": "Nam prudentia carnis, mors est: prudentia autem spiritus, vita et pax:"
+},
+{
+"id": "Romans 8:7",
+"label": "Romans 8:7",
+"text": "quoniam sapientia carnis inimica est Deo: legi enim Dei non est subjecta, nec enim potest."
+},
+{
+"id": "Romans 8:8",
+"label": "Romans 8:8",
+"text": "Qui autem in carne sunt, Deo placere non possunt."
+},
+{
+"id": "Romans 8:9",
+"label": "Romans 8:9",
+"text": "Vos autem in carne non estis, sed in spiritu: si tamen Spiritus Dei habitat in vobis. Si quis autem Spiritum Christi non habet, hic non est ejus."
+},
+{
+"id": "Romans 8:10",
+"label": "Romans 8:10",
+"text": "Si autem Christus in vobis est, corpus quidem mortuum est propter peccatum, spiritus vero vivit propter justificationem."
+},
+{
+"id": "Romans 8:11",
+"label": "Romans 8:11",
+"text": "Quod si Spiritus ejus, qui suscitavit Jesum a mortuis, habitat in vobis: qui suscitavit Jesum Christum a mortuis, vivificabit et mortalia corpora vestra, propter inhabitantem Spiritum ejus in vobis."
+},
+{
+"id": "Romans 8:12",
+"label": "Romans 8:12",
+"text": "Ergo fratres, debitores sumus non carni, ut secundum carnem vivamus."
+},
+{
+"id": "Romans 8:13",
+"label": "Romans 8:13",
+"text": "Si enim secundum carnem vixeritis, moriemini: si autem spiritu facta carnis mortificaveritis, vivetis."
+},
+{
+"id": "Romans 8:14",
+"label": "Romans 8:14",
+"text": "Quicumque enim Spiritu Dei aguntur, ii sunt filii Dei."
+},
+{
+"id": "Romans 8:15",
+"label": "Romans 8:15",
+"text": "Non enim accepistis spiritum servitutis iterum in timore, sed accepistis spiritum adoptionis filiorum, in quo clamamus: Abba (Pater)."
+},
+{
+"id": "Romans 8:16",
+"label": "Romans 8:16",
+"text": "Ipse enim Spiritus testimonium reddit spiritui nostro quod sumus filii Dei."
+},
+{
+"id": "Romans 8:17",
+"label": "Romans 8:17",
+"text": "Si autem filii, et hæredes: hæredes, quidem Dei, cohæredes autem Christi: si tamen compatimur ut et conglorificemur."
+},
+{
+"id": "Romans 8:18",
+"label": "Romans 8:18",
+"text": "Existimo enim quod non sunt condignæ passiones hujus temporis ad futuram gloriam, quæ revelabitur in nobis."
+},
+{
+"id": "Romans 8:19",
+"label": "Romans 8:19",
+"text": "Nam exspectatio creaturæ revelationem filiorum Dei exspectat."
+},
+{
+"id": "Romans 8:20",
+"label": "Romans 8:20",
+"text": "Vanitati enim creatura subjecta est non volens, sed propter eum, qui subjecit eam in spe:"
+},
+{
+"id": "Romans 8:21",
+"label": "Romans 8:21",
+"text": "quia et ipsa creatura liberabitur a servitute corruptionis in libertatem gloriæ filiorum Dei."
+},
+{
+"id": "Romans 8:22",
+"label": "Romans 8:22",
+"text": "Scimus enim quod omnis creatura ingemiscit, et parturit usque adhuc."
+},
+{
+"id": "Romans 8:23",
+"label": "Romans 8:23",
+"text": "Non solum autem illa, sed et nos ipsi primitias spiritus habentes: et ipsi intra nos gemimus adoptionem filiorum Dei exspectantes, redemptionem corporis nostri."
+},
+{
+"id": "Romans 8:24",
+"label": "Romans 8:24",
+"text": "Spe enim salvi facti sumus. Spes autem, quæ videtur, non est spes: nam quod videt quis, quid sperat?"
+},
+{
+"id": "Romans 8:25",
+"label": "Romans 8:25",
+"text": "Si autem quod non videmus, speramus: per patientiam exspectamus."
+},
+{
+"id": "Romans 8:26",
+"label": "Romans 8:26",
+"text": "Similiter autem et Spiritus adjuvat infirmitatem nostram: nam quid oremus, sicut oportet, nescimus: sed ipse Spiritus postulat pro nobis gemitibus inenarrabilibus."
+},
+{
+"id": "Romans 8:27",
+"label": "Romans 8:27",
+"text": "Qui autem scrutatur corda, scit quid desideret Spiritus: quia secundum Deum postulat pro sanctis."
+},
+{
+"id": "Romans 8:28",
+"label": "Romans 8:28",
+"text": "Scimus autem quoniam diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti."
+},
+{
+"id": "Romans 8:29",
+"label": "Romans 8:29",
+"text": "Nam quos præscivit, et prædestinavit conformes fieri imaginis Filii sui, ut sit ipse primogenitus in multis fratribus."
+},
+{
+"id": "Romans 8:30",
+"label": "Romans 8:30",
+"text": "Quos autem prædestinavit, hos et vocavit: et quos vocavit, hos et justificavit: quos autem justificavit, illos et glorificavit."
+},
+{
+"id": "Romans 8:31",
+"label": "Romans 8:31",
+"text": "Quid ergo dicemus ad hæc? si Deus pro nobis, quis contra nos?"
+},
+{
+"id": "Romans 8:32",
+"label": "Romans 8:32",
+"text": "Qui etiam proprio Filio suo non pepercit, sed pro nobis omnibus tradidit illum: quomodo non etiam cum illo omnia nobis donavit?"
+},
+{
+"id": "Romans 8:33",
+"label": "Romans 8:33",
+"text": "Quis accusabit adversus electos Dei? Deus qui justificat,"
+},
+{
+"id": "Romans 8:34",
+"label": "Romans 8:34",
+"text": "quis est qui condemnet? Christus Jesus, qui mortuus est, immo qui et resurrexit, qui est ad dexteram Dei, qui etiam interpellat pro nobis."
+},
+{
+"id": "Romans 8:35",
+"label": "Romans 8:35",
+"text": "Quis ergo nos separabit a caritate Christi? tribulatio? an angustia? an fames? an nuditas? an periculum? an persecutio? an gladius?"
+},
+{
+"id": "Romans 8:36",
+"label": "Romans 8:36",
+"text": "(Sicut scriptum est: Quia propter te mortificamur tota die:\næstimati sumus sicut oves occisionis.)"
+},
+{
+"id": "Romans 8:37",
+"label": "Romans 8:37",
+"text": "Sed in his omnibus superamus propter eum qui dilexit nos."
+},
+{
+"id": "Romans 8:38",
+"label": "Romans 8:38",
+"text": "Certus sum enim quia neque mors, neque vita, neque angeli, neque principatus, neque virtutes, neque instantia, neque futura, neque fortitudo,"
+},
+{
+"id": "Romans 8:39",
+"label": "Romans 8:39",
+"text": "neque altitudo, neque profundum, neque creatura alia poterit nos separare a caritate Dei, quæ est in Christo Jesu Domino nostro."
+},
+{
+"id": "Romans 9:1",
+"label": "Romans 9:1",
+"text": "Veritatem dico in Christo, non mentior: testimonium mihi perhibente conscientia mea in Spiritu Sancto:"
+},
+{
+"id": "Romans 9:2",
+"label": "Romans 9:2",
+"text": "quoniam tristitia mihi magna est, et continuus dolor cordi meo."
+},
+{
+"id": "Romans 9:3",
+"label": "Romans 9:3",
+"text": "Optabam enim ego ipse anathema esse a Christo pro fratribus meis, qui sunt cognati mei secundum carnem,"
+},
+{
+"id": "Romans 9:4",
+"label": "Romans 9:4",
+"text": "qui sunt Israëlitæ, quorum adoptio est filiorum, et gloria, et testamentum, et legislatio, et obsequium, et promissa:"
+},
+{
+"id": "Romans 9:5",
+"label": "Romans 9:5",
+"text": "quorum patres, et ex quibus est Christus secundum carnem, qui est super omnia Deus benedictus in sæcula. Amen."
+},
+{
+"id": "Romans 9:6",
+"label": "Romans 9:6",
+"text": "Non autem quod exciderit verbum Dei. Non enim omnes qui ex Israël sunt, ii sunt Israëlitæ:"
+},
+{
+"id": "Romans 9:7",
+"label": "Romans 9:7",
+"text": "neque qui semen sunt Abrahæ, omnes filii: sed in Isaac vocabitur tibi semen:"
+},
+{
+"id": "Romans 9:8",
+"label": "Romans 9:8",
+"text": "id est, non qui filii carnis, hi filii Dei: sed qui filii sunt promissionis, æstimantur in semine."
+},
+{
+"id": "Romans 9:9",
+"label": "Romans 9:9",
+"text": "Promissionis enim verbum hoc est: Secundum hoc tempus veniam: et erit Saræ filius."
+},
+{
+"id": "Romans 9:10",
+"label": "Romans 9:10",
+"text": "Non solum autem illa: sed et Rebecca ex uno concubitu habens, Isaac patris nostri."
+},
+{
+"id": "Romans 9:11",
+"label": "Romans 9:11",
+"text": "Cum enim nondum nati fuissent, aut aliquid boni egissent, aut mali (ut secundum electionem propositum Dei maneret),"
+},
+{
+"id": "Romans 9:12",
+"label": "Romans 9:12",
+"text": "non ex operibus, sed ex vocante dictum est ei quia major serviet minori,"
+},
+{
+"id": "Romans 9:13",
+"label": "Romans 9:13",
+"text": "sicut scriptum est: Jacob dilexi, Esau autem odio habui."
+},
+{
+"id": "Romans 9:14",
+"label": "Romans 9:14",
+"text": "Quid ergo dicemus? numquid iniquitas apud Deum? Absit."
+},
+{
+"id": "Romans 9:15",
+"label": "Romans 9:15",
+"text": "Moysi enim dicit: Miserebor cujus misereor: et misericordiam præstabo cujus miserebor."
+},
+{
+"id": "Romans 9:16",
+"label": "Romans 9:16",
+"text": "Igitur non volentis, neque currentis, sed miserentis est Dei."
+},
+{
+"id": "Romans 9:17",
+"label": "Romans 9:17",
+"text": "Dicit enim Scriptura Pharaoni: Quia in hoc ipsum excitavi te, ut ostendam in te virtutem meam: et ut annuntietur nomen meum in universa terra."
+},
+{
+"id": "Romans 9:18",
+"label": "Romans 9:18",
+"text": "Ergo cujus vult miseretur, et quem vult indurat."
+},
+{
+"id": "Romans 9:19",
+"label": "Romans 9:19",
+"text": "Dicis itaque mihi: Quid adhuc queritur? voluntati enim ejus quis resistit?"
+},
+{
+"id": "Romans 9:20",
+"label": "Romans 9:20",
+"text": "O homo, tu quis es, qui respondeas Deo? numquid dicit figmentum ei qui se finxit: Quid me fecisti sic?"
+},
+{
+"id": "Romans 9:21",
+"label": "Romans 9:21",
+"text": "an non habet potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud vero in contumeliam?"
+},
+{
+"id": "Romans 9:22",
+"label": "Romans 9:22",
+"text": "Quod si Deus volens ostendere iram, et notum facere potentiam suam, sustinuit in multa patientia vasa iræ, apta in interitum,"
+},
+{
+"id": "Romans 9:23",
+"label": "Romans 9:23",
+"text": "ut ostenderet divitias gloriæ suæ in vasa misericordiæ, quæ præparavit in gloriam."
+},
+{
+"id": "Romans 9:24",
+"label": "Romans 9:24",
+"text": "Quos et vocavit nos non solum ex Judæis, sed etiam in gentibus,"
+},
+{
+"id": "Romans 9:25",
+"label": "Romans 9:25",
+"text": "sicut in Osee dicit: Vocabo non plebem meam, plebem meam: et non dilectam, dilectam: et non misericordiam consecutam, misericordiam consecutam."
+},
+{
+"id": "Romans 9:26",
+"label": "Romans 9:26",
+"text": "Et erit: in loco, ubi dictum est eis: Non plebs mea vos: ibi vocabuntur filii Dei vivi."
+},
+{
+"id": "Romans 9:27",
+"label": "Romans 9:27",
+"text": "Isaias autem clamat pro Israël: Si fuerit numerus filiorum Israël tamquam arena maris, reliquiæ salvæ fient."
+},
+{
+"id": "Romans 9:28",
+"label": "Romans 9:28",
+"text": "Verbum enim consummans, et abbrevians in æquitate: quia verbum breviatum faciet Dominus super terram:"
+},
+{
+"id": "Romans 9:29",
+"label": "Romans 9:29",
+"text": "et sicut prædixit Isaias: Nisi Dominus Sabaoth reliquisset nobis semen, sicut Sodoma facti essemus, et sicut Gomorrha similes fuissemus."
+},
+{
+"id": "Romans 9:30",
+"label": "Romans 9:30",
+"text": "Quid ergo dicemus? Quod gentes, quæ non sectabantur justitiam, apprehenderunt justitiam: justitiam autem, quæ ex fide est."
+},
+{
+"id": "Romans 9:31",
+"label": "Romans 9:31",
+"text": "Israël vero sectando legem justitiæ, in legem justitiæ non pervenit."
+},
+{
+"id": "Romans 9:32",
+"label": "Romans 9:32",
+"text": "Quare? Quia non ex fide, sed quasi ex operibus: offenderunt enim in lapidem offensionis,"
+},
+{
+"id": "Romans 9:33",
+"label": "Romans 9:33",
+"text": "sicut scriptum est: Ecce pono in Sion lapidem offensionis, et petram scandali: et omnis qui credit in eum, non confundetur."
+},
+{
+"id": "Romans 10:1",
+"label": "Romans 10:1",
+"text": "Fratres, voluntas quidem cordis mei, et obsecratio ad Deum, fit pro illis in salutem."
+},
+{
+"id": "Romans 10:2",
+"label": "Romans 10:2",
+"text": "Testimonium enim perhibeo illis quod æmulationem Dei habent, sed non secundum scientiam."
+},
+{
+"id": "Romans 10:3",
+"label": "Romans 10:3",
+"text": "Ignorantes enim justitiam Dei, et suam quærentes statuere, justitiæ Dei non sunt subjecti."
+},
+{
+"id": "Romans 10:4",
+"label": "Romans 10:4",
+"text": "Finis enim legis, Christus, ad justitiam omni credenti."
+},
+{
+"id": "Romans 10:5",
+"label": "Romans 10:5",
+"text": "Moyses enim scripsit, quoniam justitiam, quæ ex lege est, qui fecerit homo, vivet in ea."
+},
+{
+"id": "Romans 10:6",
+"label": "Romans 10:6",
+"text": "Quæ autem ex fide est justitia, sic dicit: Ne dixeris in corde tuo: Quis ascendet in cælum? id est, Christum deducere:"
+},
+{
+"id": "Romans 10:7",
+"label": "Romans 10:7",
+"text": "aut, Quis descendet in abyssum? hoc est, Christum a mortuis revocare."
+},
+{
+"id": "Romans 10:8",
+"label": "Romans 10:8",
+"text": "Sed quid dicit Scriptura? Prope est verbum in ore tuo, et in corde tuo: hoc est verbum fidei, quod prædicamus."
+},
+{
+"id": "Romans 10:9",
+"label": "Romans 10:9",
+"text": "Quia si confitearis in ore tuo Dominum Jesum, et in corde tuo credideris quod Deus illum suscitavit a mortuis, salvus eris."
+},
+{
+"id": "Romans 10:10",
+"label": "Romans 10:10",
+"text": "Corde enim creditur ad justitiam: ore autem confessio fit ad salutem."
+},
+{
+"id": "Romans 10:11",
+"label": "Romans 10:11",
+"text": "Dicit enim Scriptura: Omnis qui credit in illum, non confundetur."
+},
+{
+"id": "Romans 10:12",
+"label": "Romans 10:12",
+"text": "Non enim est distinctio Judæi et Græci: nam idem Dominus omnium, dives in omnes qui invocant illum."
+},
+{
+"id": "Romans 10:13",
+"label": "Romans 10:13",
+"text": "Omnis enim quicumque invocaverit nomen Domini, salvus erit."
+},
+{
+"id": "Romans 10:14",
+"label": "Romans 10:14",
+"text": "Quomodo ergo invocabunt, in quem non crediderunt? aut quomodo credent ei, quem non audierunt? quomodo autem audient sine prædicante?"
+},
+{
+"id": "Romans 10:15",
+"label": "Romans 10:15",
+"text": "quomodo vero prædicabunt nisi mittantur? sicut scriptum est: Quam speciosi pedes evangelizantium pacem, evangelizantium bona!"
+},
+{
+"id": "Romans 10:16",
+"label": "Romans 10:16",
+"text": "Sed non omnes obediunt Evangelio. Isaias enim dicit: Domine, quis credidit auditui nostro?"
+},
+{
+"id": "Romans 10:17",
+"label": "Romans 10:17",
+"text": "Ergo fides ex auditu, auditus autem per verbum Christi."
+},
+{
+"id": "Romans 10:18",
+"label": "Romans 10:18",
+"text": "Sed dico: Numquid non audierunt? Et quidem in omnem terram exivit sonus eorum, et in fines orbis terræ verba eorum."
+},
+{
+"id": "Romans 10:19",
+"label": "Romans 10:19",
+"text": "Sed dico: Numquid Israël non cognovit? Primus Moyses dicit: Ego ad æmulationem vos adducam in non gentem: in gentem insipientem, in iram vos mittam."
+},
+{
+"id": "Romans 10:20",
+"label": "Romans 10:20",
+"text": "Isaias autem audet, et dicit: Inventus sum a non quærentibus me: palam apparui iis qui me non interrogabant."
+},
+{
+"id": "Romans 10:21",
+"label": "Romans 10:21",
+"text": "Ad Israël autem dicit: Tota die expandi manus meas ad populum non credentem, et contradicentem."
+},
+{
+"id": "Romans 11:1",
+"label": "Romans 11:1",
+"text": "Dico ergo: Numquid Deus repulit populum suum? Absit. Nam et ego Israëlita sum ex semine Abraham, de tribu Benjamin:"
+},
+{
+"id": "Romans 11:2",
+"label": "Romans 11:2",
+"text": "non repulit Deus plebem suam, quam præscivit. An nescitis in Elia quid dicit Scriptura? quemadmodum interpellat Deum adversum Israël:"
+},
+{
+"id": "Romans 11:3",
+"label": "Romans 11:3",
+"text": "Domine, prophetas tuos occiderunt, altaria tua suffoderunt: et ego relictus sum solus, et quærunt animam meam."
+},
+{
+"id": "Romans 11:4",
+"label": "Romans 11:4",
+"text": "Sed quid dicit illi divinum responsum? Reliqui mihi septem millia virorum, qui non curvaverunt genua ante Baal."
+},
+{
+"id": "Romans 11:5",
+"label": "Romans 11:5",
+"text": "Sic ergo et in hoc tempore reliquiæ secundum electionem gratiæ salvæ factæ sunt."
+},
+{
+"id": "Romans 11:6",
+"label": "Romans 11:6",
+"text": "Si autem gratia, jam non ex operibus: alioquin gratia jam non est gratia."
+},
+{
+"id": "Romans 11:7",
+"label": "Romans 11:7",
+"text": "Quid ergo? Quod quærebat Israël, hoc non est consecutus: electio autem consecuta est: ceteri vero excæcati sunt:"
+},
+{
+"id": "Romans 11:8",
+"label": "Romans 11:8",
+"text": "sicut scriptum est: Dedit illis Deus spiritum compunctionis: oculos ut non videant, et aures ut non audiant, usque in hodiernum diem."
+},
+{
+"id": "Romans 11:9",
+"label": "Romans 11:9",
+"text": "Et David dicit: Fiat mensa eorum in laqueum, et in captionem, et in scandalum, et in retributionem illis."
+},
+{
+"id": "Romans 11:10",
+"label": "Romans 11:10",
+"text": "Obscurentur oculi eorum ne videant: et dorsum eorum semper incurva."
+},
+{
+"id": "Romans 11:11",
+"label": "Romans 11:11",
+"text": "Dico ergo: Numquid sic offenderunt ut caderent? Absit. Sed illorum delicto, salus est gentibus ut illos æmulentur."
+},
+{
+"id": "Romans 11:12",
+"label": "Romans 11:12",
+"text": "Quod si delictum illorum divitiæ sunt mundi, et diminutio eorum divitiæ gentium: quanto magis plenitudo eorum?"
+},
+{
+"id": "Romans 11:13",
+"label": "Romans 11:13",
+"text": "Vobis enim dico gentibus: Quamdiu quidem ego sum gentium Apostolus, ministerium meum honorificabo,"
+},
+{
+"id": "Romans 11:14",
+"label": "Romans 11:14",
+"text": "si quomodo ad æmulandum provocem carnem meam, et salvos faciam aliquos ex illis."
+},
+{
+"id": "Romans 11:15",
+"label": "Romans 11:15",
+"text": "Si enim amissio eorum, reconciliatio est mundi: quæ assumptio, nisi vita ex mortuis?"
+},
+{
+"id": "Romans 11:16",
+"label": "Romans 11:16",
+"text": "Quod si delibatio sancta est, et massa: et si radix sancta, et rami."
+},
+{
+"id": "Romans 11:17",
+"label": "Romans 11:17",
+"text": "Quod si aliqui ex ramis fracti sunt, tu autem cum oleaster esses, insertus es in illis, et socius radicis, et pinguedinis olivæ factus es,"
+},
+{
+"id": "Romans 11:18",
+"label": "Romans 11:18",
+"text": "noli gloriari adversus ramos. Quod si gloriaris: non tu radicem portas, sed radix te."
+},
+{
+"id": "Romans 11:19",
+"label": "Romans 11:19",
+"text": "Dices ergo: Fracti sunt rami ut ego inserar."
+},
+{
+"id": "Romans 11:20",
+"label": "Romans 11:20",
+"text": "Bene: propter incredulitatem fracti sunt. Tu autem fide stas: noli altum sapere, sed time."
+},
+{
+"id": "Romans 11:21",
+"label": "Romans 11:21",
+"text": "Si enim Deus naturalibus ramis non pepercit: ne forte nec tibi parcat."
+},
+{
+"id": "Romans 11:22",
+"label": "Romans 11:22",
+"text": "Vide ergo bonitatem, et severitatem Dei: in eos quidem qui ceciderunt, severitatem: in te autem bonitatem Dei, si permanseris in bonitate, alioquin et tu excideris."
+},
+{
+"id": "Romans 11:23",
+"label": "Romans 11:23",
+"text": "Sed et illi, si non permanserint in incredulitate, inserentur: potens est enim Deus iterum inserere illos."
+},
+{
+"id": "Romans 11:24",
+"label": "Romans 11:24",
+"text": "Nam si tu ex naturali excisus es oleastro, et contra naturam insertus es in bonam olivam: quanto magis ii qui secundum naturam inserentur suæ olivæ?"
+},
+{
+"id": "Romans 11:25",
+"label": "Romans 11:25",
+"text": "Nolo enim vos ignorare, fratres, mysterium hoc (ut non sitis vobis ipsis sapientes), quia cæcitas ex parte contigit in Israël, donec plenitudo gentium intraret,"
+},
+{
+"id": "Romans 11:26",
+"label": "Romans 11:26",
+"text": "et sic omnis Israël salvus fieret, sicut scriptum est: Veniet ex Sion, qui eripiat, et avertat impietatem a Jacob."
+},
+{
+"id": "Romans 11:27",
+"label": "Romans 11:27",
+"text": "Et hoc illis a me testamentum: cum abstulero peccata eorum."
+},
+{
+"id": "Romans 11:28",
+"label": "Romans 11:28",
+"text": "Secundum Evangelium quidem, inimici propter vos: secundum electionem autem, carissimi propter patres."
+},
+{
+"id": "Romans 11:29",
+"label": "Romans 11:29",
+"text": "Sine pœnitentia enim sunt dona et vocatio Dei."
+},
+{
+"id": "Romans 11:30",
+"label": "Romans 11:30",
+"text": "Sicut enim aliquando et vos non credidistis Deo, nunc autem misericordiam consecuti estis propter incredulitatem illorum:"
+},
+{
+"id": "Romans 11:31",
+"label": "Romans 11:31",
+"text": "ita et isti nunc non crediderunt in vestram misericordiam: ut et ipsi misericordiam consequantur."
+},
+{
+"id": "Romans 11:32",
+"label": "Romans 11:32",
+"text": "Conclusit enim Deus omnia in incredulitate, ut omnium misereatur."
+},
+{
+"id": "Romans 11:33",
+"label": "Romans 11:33",
+"text": "O altitudo divitiarum sapientiæ, et scientiæ Dei: quam incomprehensibilia sunt judicia ejus, et investigabiles viæ ejus!"
+},
+{
+"id": "Romans 11:34",
+"label": "Romans 11:34",
+"text": "Quis enim cognovit sensum Domini? aut quis consiliarius ejus fuit?"
+},
+{
+"id": "Romans 11:35",
+"label": "Romans 11:35",
+"text": "aut quis prior dedit illi, et retribuetur ei?"
+},
+{
+"id": "Romans 11:36",
+"label": "Romans 11:36",
+"text": "Quoniam ex ipso, et per ipsum, et in ipso sunt omnia: ipsi gloria in sæcula. Amen."
+},
+{
+"id": "Romans 12:1",
+"label": "Romans 12:1",
+"text": "Obsecro itaque vos fratres per misericordiam Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem, rationabile obsequium vestrum."
+},
+{
+"id": "Romans 12:2",
+"label": "Romans 12:2",
+"text": "Et nolite conformari huic sæculo, sed reformamini in novitate sensus vestri: ut probetis quæ sit voluntas Dei bona, et beneplacens, et perfecta."
+},
+{
+"id": "Romans 12:3",
+"label": "Romans 12:3",
+"text": "Dico enim per gratiam quæ data est mihi, omnibus qui sunt inter vos, non plus sapere quam oportet sapere, sed sapere ad sobrietatem: et unicuique sicut Deus divisit mensuram fidei."
+},
+{
+"id": "Romans 12:4",
+"label": "Romans 12:4",
+"text": "Sicut enim in uno corpore multa membra habemus, omnia autem membra non eumdem actum habent:"
+},
+{
+"id": "Romans 12:5",
+"label": "Romans 12:5",
+"text": "ita multi unum corpus sumus in Christo, singuli autem alter alterius membra."
+},
+{
+"id": "Romans 12:6",
+"label": "Romans 12:6",
+"text": "Habentes autem donationes secundum gratiam, quæ data est nobis, differentes: sive prophetiam secundum rationem fidei,"
+},
+{
+"id": "Romans 12:7",
+"label": "Romans 12:7",
+"text": "sive ministerium in ministrando, sive qui docet in doctrina,"
+},
+{
+"id": "Romans 12:8",
+"label": "Romans 12:8",
+"text": "qui exhortatur in exhortando, qui tribuit in simplicitate, qui præest in sollicitudine, qui miseretur in hilaritate."
+},
+{
+"id": "Romans 12:9",
+"label": "Romans 12:9",
+"text": "Dilectio sine simulatione: odientes malum, adhærentes bono:"
+},
+{
+"id": "Romans 12:10",
+"label": "Romans 12:10",
+"text": "caritate fraternitatis invicem diligentes: honore invicem prævenientes:"
+},
+{
+"id": "Romans 12:11",
+"label": "Romans 12:11",
+"text": "sollicitudine non pigri: spiritu ferventes: Domino servientes:"
+},
+{
+"id": "Romans 12:12",
+"label": "Romans 12:12",
+"text": "spe gaudentes: in tribulatione patientes: orationi instantes:"
+},
+{
+"id": "Romans 12:13",
+"label": "Romans 12:13",
+"text": "necessitatibus sanctorum communicantes: hospitalitatem sectantes."
+},
+{
+"id": "Romans 12:14",
+"label": "Romans 12:14",
+"text": "Benedicite persequentibus vos: benedicite, et nolite maledicere."
+},
+{
+"id": "Romans 12:15",
+"label": "Romans 12:15",
+"text": "Gaudere cum gaudentibus, flere cum flentibus:"
+},
+{
+"id": "Romans 12:16",
+"label": "Romans 12:16",
+"text": "idipsum invicem sentientes: non alta sapientes, sed humilibus consentientes. Nolite esse prudentes apud vosmetipsos:"
+},
+{
+"id": "Romans 12:17",
+"label": "Romans 12:17",
+"text": "nulli malum pro malo reddentes: providentes bona non tantum coram Deo, sed etiam coram omnibus hominibus."
+},
+{
+"id": "Romans 12:18",
+"label": "Romans 12:18",
+"text": "Si fieri potest, quod ex vobis est, cum omnibus hominibus pacem habentes:"
+},
+{
+"id": "Romans 12:19",
+"label": "Romans 12:19",
+"text": "non vosmetipsos defendentes carissimi, sed date locum iræ. Scriptum est enim: Mihi vindicta: ego retribuam, dicit Dominus."
+},
+{
+"id": "Romans 12:20",
+"label": "Romans 12:20",
+"text": "Sed si esurierit inimicus tuus, ciba illum: si sitit, potum da illi: hoc enim faciens, carbones ignis congeres super caput ejus."
+},
+{
+"id": "Romans 12:21",
+"label": "Romans 12:21",
+"text": "Noli vinci a malo, sed vince in bono malum."
+},
+{
+"id": "Romans 13:1",
+"label": "Romans 13:1",
+"text": "Omnis anima potestatibus sublimioribus subdita sit: non est enim potestas nisi a Deo: quæ autem sunt, a Deo ordinatæ sunt."
+},
+{
+"id": "Romans 13:2",
+"label": "Romans 13:2",
+"text": "Itaque qui resistit potestati, Dei ordinationi resistit. Qui autem resistunt, ipsi sibi damnationem acquirunt:"
+},
+{
+"id": "Romans 13:3",
+"label": "Romans 13:3",
+"text": "nam principes non sunt timori boni operis, sed mali. Vis autem non timere potestatem? Bonum fac: et habebis laudem ex illa:"
+},
+{
+"id": "Romans 13:4",
+"label": "Romans 13:4",
+"text": "Dei enim minister est tibi in bonum. Si autem malum feceris, time: non enim sine causa gladium portat. Dei enim minister est: vindex in iram ei qui malum agit."
+},
+{
+"id": "Romans 13:5",
+"label": "Romans 13:5",
+"text": "Ideo necessitate subditi estote non solum propter iram, sed etiam propter conscientiam."
+},
+{
+"id": "Romans 13:6",
+"label": "Romans 13:6",
+"text": "Ideo enim et tributa præstatis: ministri enim Dei sunt, in hoc ipsum servientes."
+},
+{
+"id": "Romans 13:7",
+"label": "Romans 13:7",
+"text": "Reddite ergo omnibus debita: cui tributum, tributum: cui vectigal, vectigal: cui timorem, timorem: cui honorem, honorem."
+},
+{
+"id": "Romans 13:8",
+"label": "Romans 13:8",
+"text": "Nemini quidquam debeatis, nisi ut invicem diligatis: qui enim diligit proximum, legem implevit."
+},
+{
+"id": "Romans 13:9",
+"label": "Romans 13:9",
+"text": "Nam: Non adulterabis: non occides: non furaberis: non falsum testimonium dices: non concupisces: et si quod est aliud mandatum, in hoc verbo instauratur: diliges proximum tuum sicut teipsum."
+},
+{
+"id": "Romans 13:10",
+"label": "Romans 13:10",
+"text": "Dilectio proximi malum non operatur. Plenitudo ergo legis est dilectio."
+},
+{
+"id": "Romans 13:11",
+"label": "Romans 13:11",
+"text": "Et hoc scientes tempus: quia hora est jam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus."
+},
+{
+"id": "Romans 13:12",
+"label": "Romans 13:12",
+"text": "Nox præcessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, et induamur arma lucis."
+},
+{
+"id": "Romans 13:13",
+"label": "Romans 13:13",
+"text": "Sicut in die honeste ambulemus: non in comessationibus, et ebrietatibus, non in cubilibus, et impudicitiis, non in contentione, et æmulatione:"
+},
+{
+"id": "Romans 13:14",
+"label": "Romans 13:14",
+"text": "sed induimini Dominum Jesum Christum, et carnis curam ne feceritis in desideriis."
+},
+{
+"id": "Romans 14:1",
+"label": "Romans 14:1",
+"text": "Infirmum autem in fide assumite, non in disceptationibus cogitationum."
+},
+{
+"id": "Romans 14:2",
+"label": "Romans 14:2",
+"text": "Alius enim credit se manducare omnia: qui autem infirmus est, olus manducet."
+},
+{
+"id": "Romans 14:3",
+"label": "Romans 14:3",
+"text": "Is qui manducat, non manducantem non spernat: et qui non manducat, manducantem non judicet: Deus enim illum assumpsit."
+},
+{
+"id": "Romans 14:4",
+"label": "Romans 14:4",
+"text": "Tu quis es, qui judicas alienum servum? domino suo stat, aut cadit: stabit autem: potens est enim Deus statuere illum."
+},
+{
+"id": "Romans 14:5",
+"label": "Romans 14:5",
+"text": "Nam alius judicat diem inter diem: alius autem judicat omnem diem: unusquisque in suo sensu abundet."
+},
+{
+"id": "Romans 14:6",
+"label": "Romans 14:6",
+"text": "Qui sapit diem, Domino sapit, et qui manducat, Domino manducat: gratias enim agit Deo. Et qui non manducat, Domino non manducat, et gratias agit Deo."
+},
+{
+"id": "Romans 14:7",
+"label": "Romans 14:7",
+"text": "Nemo enim nostrum sibi vivit, et nemo sibi moritur."
+},
+{
+"id": "Romans 14:8",
+"label": "Romans 14:8",
+"text": "Sive enim vivemus, Domino vivimus: sive morimur, Domino morimur. Sive ergo vivimus, sive morimur, Domini sumus."
+},
+{
+"id": "Romans 14:9",
+"label": "Romans 14:9",
+"text": "In hoc enim Christus mortuus est, et resurrexit: ut et mortuorum et vivorum dominetur."
+},
+{
+"id": "Romans 14:10",
+"label": "Romans 14:10",
+"text": "Tu autem quid judicas fratrem tuum? aut tu quare spernis fratrem tuum? omnes enim stabimus ante tribunal Christi."
+},
+{
+"id": "Romans 14:11",
+"label": "Romans 14:11",
+"text": "Scriptum est enim: Vivo ego, dicit Dominus, quoniam mihi flectetur omne genu: et omnis lingua confitebitur Deo."
+},
+{
+"id": "Romans 14:12",
+"label": "Romans 14:12",
+"text": "Itaque unusquisque nostrum pro se rationem reddet Deo."
+},
+{
+"id": "Romans 14:13",
+"label": "Romans 14:13",
+"text": "Non ergo amplius invicem judicemus: sed hoc judicate magis, ne ponatis offendiculum fratri, vel scandalum."
+},
+{
+"id": "Romans 14:14",
+"label": "Romans 14:14",
+"text": "Scio, et confido in Domino Jesu, quia nihil commune per ipsum, nisi ei qui existimat quid commune esset, illi commune est."
+},
+{
+"id": "Romans 14:15",
+"label": "Romans 14:15",
+"text": "Si enim propter cibum frater tuus contristatur, jam non secundum caritatem ambulas. Noli cibo tuo illum perdere, pro quo Christus mortuus est."
+},
+{
+"id": "Romans 14:16",
+"label": "Romans 14:16",
+"text": "Non ergo blasphemetur bonum nostrum."
+},
+{
+"id": "Romans 14:17",
+"label": "Romans 14:17",
+"text": "Non est enim regnum Dei esca et potus: sed justitia, et pax, et gaudium in Spiritu Sancto:"
+},
+{
+"id": "Romans 14:18",
+"label": "Romans 14:18",
+"text": "qui enim in hoc servit Christo, placet Deo, et probatus est hominibus."
+},
+{
+"id": "Romans 14:19",
+"label": "Romans 14:19",
+"text": "Itaque quæ pacis sunt, sectemur: et quæ ædificationis sunt, in invicem custodiamus."
+},
+{
+"id": "Romans 14:20",
+"label": "Romans 14:20",
+"text": "Noli propter escam destruere opus Dei, omnia quidem sunt munda: sed malum est homini, qui per offendiculum manducat."
+},
+{
+"id": "Romans 14:21",
+"label": "Romans 14:21",
+"text": "Bonum est non manducare carnem, et non bibere vinum, neque in quo frater tuus offenditur, aut scandalizatur, aut infirmatur."
+},
+{
+"id": "Romans 14:22",
+"label": "Romans 14:22",
+"text": "Tu fidem habes? penes temetipsum habe coram Deo. Beatus qui non judicat semetipsum in eo quod probat."
+},
+{
+"id": "Romans 14:23",
+"label": "Romans 14:23",
+"text": "Qui autem discernit, si manducaverit, damnatus est: quia non ex fide. Omne autem, quod non est ex fide, peccatum est."
+},
+{
+"id": "Romans 15:1",
+"label": "Romans 15:1",
+"text": "Debemus autem nos firmiores imbecillitates infirmorum sustinere, et non nobis placere."
+},
+{
+"id": "Romans 15:2",
+"label": "Romans 15:2",
+"text": "Unusquisque vestrum proximo suo placeat in bonum, ad ædificationem."
+},
+{
+"id": "Romans 15:3",
+"label": "Romans 15:3",
+"text": "Etenim Christus non sibi placuit, sed sicut scriptum est: Improperia improperantium tibi ceciderunt super me."
+},
+{
+"id": "Romans 15:4",
+"label": "Romans 15:4",
+"text": "Quæcumque enim scripta sunt, ad nostram doctrinam scripta sunt: ut per patientiam, et consolationem Scripturarum, spem habeamus."
+},
+{
+"id": "Romans 15:5",
+"label": "Romans 15:5",
+"text": "Deus autem patientiæ et solatii det vobis idipsum sapere in alterutrum secundum Jesum Christum:"
+},
+{
+"id": "Romans 15:6",
+"label": "Romans 15:6",
+"text": "ut unanimes, uno ore honorificetis Deum et patrem Domini nostri Jesu Christi."
+},
+{
+"id": "Romans 15:7",
+"label": "Romans 15:7",
+"text": "Propter quod suscipite invicem, sicut et Christus suscepit vos in honorem Dei."
+},
+{
+"id": "Romans 15:8",
+"label": "Romans 15:8",
+"text": "Dico enim Christum Jesum ministrum fuisse circumcisionis propter veritatem Dei, ad confirmandas promissiones patrum:"
+},
+{
+"id": "Romans 15:9",
+"label": "Romans 15:9",
+"text": "gentes autem super misericordia honorare Deum, sicut scriptum est: Propterea confitebor tibi in gentibus, Domine, et nomini tuo cantabo."
+},
+{
+"id": "Romans 15:10",
+"label": "Romans 15:10",
+"text": "Et iterum dicit: Lætamini gentes cum plebe ejus."
+},
+{
+"id": "Romans 15:11",
+"label": "Romans 15:11",
+"text": "Et iterum: Laudate omnes gentes Dominum: et magnificate eum omnes populi."
+},
+{
+"id": "Romans 15:12",
+"label": "Romans 15:12",
+"text": "Et rursus Isaias ait: Erit radix Jesse, et qui exsurget regere gentes, in eum gentes sperabunt."
+},
+{
+"id": "Romans 15:13",
+"label": "Romans 15:13",
+"text": "Deus autem spei repleat vos omni gaudio, et pace in credendo: ut abundetis in spe, et virtute Spiritus Sancti."
+},
+{
+"id": "Romans 15:14",
+"label": "Romans 15:14",
+"text": "Certus sum autem fratres mei et ego ipse de vobis, quoniam et ipsi pleni estis dilectione, repleti omni scientia, ita ut possitis alterutrum monere."
+},
+{
+"id": "Romans 15:15",
+"label": "Romans 15:15",
+"text": "Audacius autem scripsi vobis fratres ex parte, tamquam in memoriam vos reducens: propter gratiam, quæ data est mihi a Deo,"
+},
+{
+"id": "Romans 15:16",
+"label": "Romans 15:16",
+"text": "ut sim minister Christi Jesu in gentibus: sanctificans Evangelium Dei, ut fiat oblatio gentium accepta, et sanctificata in Spiritu Sancto."
+},
+{
+"id": "Romans 15:17",
+"label": "Romans 15:17",
+"text": "Habeo igitur gloriam in Christo Jesu ad Deum."
+},
+{
+"id": "Romans 15:18",
+"label": "Romans 15:18",
+"text": "Non enim audeo aliquid loqui eorum, quæ per me non efficit Christus in obedientiam gentium, verbo et factis:"
+},
+{
+"id": "Romans 15:19",
+"label": "Romans 15:19",
+"text": "in virtute signorum, et prodigiorum, in virtute Spiritus Sancti: ita ut ab Jerusalem per circuitum usque ad Illyricum repleverim Evangelium Christi."
+},
+{
+"id": "Romans 15:20",
+"label": "Romans 15:20",
+"text": "Sic autem prædicavi Evangelium hoc, non ubi nominatus est Christus, ne super alienum fundamentum ædificarem:"
+},
+{
+"id": "Romans 15:21",
+"label": "Romans 15:21",
+"text": "sed sicut scriptum est: Quibus non est annuntiatum de eo, videbunt: et qui non audierunt, intelligent."
+},
+{
+"id": "Romans 15:22",
+"label": "Romans 15:22",
+"text": "Propter quod et impediebar plurimum venire ad vos, et prohibitus sum usque adhuc."
+},
+{
+"id": "Romans 15:23",
+"label": "Romans 15:23",
+"text": "Nunc vero ulterius locum non habens in his regionibus, cupiditatem autem habens veniendi ad vos ex multis jam præcedentibus annis:"
+},
+{
+"id": "Romans 15:24",
+"label": "Romans 15:24",
+"text": "cum in Hispaniam proficisci cœpero, spero quod præteriens videam vos, et a vobis deducar illuc, si vobis primum ex parte fruitus fuero."
+},
+{
+"id": "Romans 15:25",
+"label": "Romans 15:25",
+"text": "Nunc igitur proficiscar in Jerusalem ministrare sanctis."
+},
+{
+"id": "Romans 15:26",
+"label": "Romans 15:26",
+"text": "Probaverunt enim Macedonia et Achaia collationem aliquam facere in pauperes sanctorum, qui sunt in Jerusalem."
+},
+{
+"id": "Romans 15:27",
+"label": "Romans 15:27",
+"text": "Placuit enim eis: et debitores sunt eorum. Nam si spiritualium eorum participes facti sunt gentiles, debent et in carnalibus ministrare illis."
+},
+{
+"id": "Romans 15:28",
+"label": "Romans 15:28",
+"text": "Hoc igitur cum consummavero, et assignavero eis fructum hunc, per vos proficiscar in Hispaniam."
+},
+{
+"id": "Romans 15:29",
+"label": "Romans 15:29",
+"text": "Scio autem quoniam veniens ad vos, in abundantia benedictionis Evangelii Christi veniam."
+},
+{
+"id": "Romans 15:30",
+"label": "Romans 15:30",
+"text": "Obsecro ergo vos fratres per Dominum nostrum Jesum Christum, et per caritatem Sancti Spiritus, ut adjuvetis me in orationibus vestris pro me ad Deum,"
+},
+{
+"id": "Romans 15:31",
+"label": "Romans 15:31",
+"text": "ut liberer ab infidelibus, qui sunt in Judæa, et obsequii mei oblatio accepta fiat in Jerusalem sanctis,"
+},
+{
+"id": "Romans 15:32",
+"label": "Romans 15:32",
+"text": "ut veniam ad vos in gaudio per voluntatem Dei, et refrigerer vobiscum."
+},
+{
+"id": "Romans 15:33",
+"label": "Romans 15:33",
+"text": "Deus autem pacis sit cum omnibus vobis. Amen."
+},
+{
+"id": "Romans 16:1",
+"label": "Romans 16:1",
+"text": "Commendo autem vobis Phœben sororem nostram, quæ est in ministerio ecclesiæ, quæ est in Cenchris:"
+},
+{
+"id": "Romans 16:2",
+"label": "Romans 16:2",
+"text": "ut eam suscipiatis in Domino digne sanctis: et assistatis ei in quocumque negotio vestri indiguerit: etenim ipsa quoque astitit multis, et mihi ipsi."
+},
+{
+"id": "Romans 16:3",
+"label": "Romans 16:3",
+"text": "Salutate Priscam et Aquilam, adjutores meos in Christo Jesu"
+},
+{
+"id": "Romans 16:4",
+"label": "Romans 16:4",
+"text": "(qui pro anima mea suas cervices supposuerunt: quibus non solus ego gratias ago, sed et cunctæ ecclesiæ gentium),"
+},
+{
+"id": "Romans 16:5",
+"label": "Romans 16:5",
+"text": "et domesticam ecclesiam eorum. Salutate Epænetum dilectum mihi, qui est primitivus Asiæ in Christo."
+},
+{
+"id": "Romans 16:6",
+"label": "Romans 16:6",
+"text": "Salutate Mariam, quæ multum laboravit in vobis."
+},
+{
+"id": "Romans 16:7",
+"label": "Romans 16:7",
+"text": "Salutate Andronicum et Juniam, cognatos, et concaptivos meos: qui sunt nobiles in Apostolis, qui et ante me fuerunt in Christo."
+},
+{
+"id": "Romans 16:8",
+"label": "Romans 16:8",
+"text": "Salutate Ampliatum dilectissimum mihi in Domino."
+},
+{
+"id": "Romans 16:9",
+"label": "Romans 16:9",
+"text": "Salutate Urbanum adjutorem nostrum in Christo Jesu, et Stachyn dilectum meum."
+},
+{
+"id": "Romans 16:10",
+"label": "Romans 16:10",
+"text": "Salutate Apellen probum in Christo."
+},
+{
+"id": "Romans 16:11",
+"label": "Romans 16:11",
+"text": "Salutate eos qui sunt ex Aristoboli domo. Salutate Herodionem cognatum meum. Salutate eos qui sunt ex Narcisi domo, qui sunt in Domino."
+},
+{
+"id": "Romans 16:12",
+"label": "Romans 16:12",
+"text": "Salutate Tryphænam et Tryphosam, quæ laborant in Domino. Salutate Persidem carissimam, quæ multum laboravit in Domino."
+},
+{
+"id": "Romans 16:13",
+"label": "Romans 16:13",
+"text": "Salutate Rufum electum in Domino, et matrem ejus, et meam."
+},
+{
+"id": "Romans 16:14",
+"label": "Romans 16:14",
+"text": "Salutate Asyncritum, Phlegontem, Hermam, Patrobam, Hermen, et qui cum eis sunt, fratres."
+},
+{
+"id": "Romans 16:15",
+"label": "Romans 16:15",
+"text": "Salutate Philologum et Juliam, Nereum, et sororem ejus, et Olympiadem, et omnes qui cum eis sunt, sanctos."
+},
+{
+"id": "Romans 16:16",
+"label": "Romans 16:16",
+"text": "Salutate invicem in osculo sancto. Salutant vos omnes ecclesiæ Christi."
+},
+{
+"id": "Romans 16:17",
+"label": "Romans 16:17",
+"text": "Rogo autem vos fratres, ut observetis eos qui dissensiones et offendicula, præter doctrinam, quam vos didicistis, faciunt, et declinate ab illis."
+},
+{
+"id": "Romans 16:18",
+"label": "Romans 16:18",
+"text": "Hujuscemodi enim Christo Domino nostro non serviunt, sed suo ventri: et per dulces sermones et benedictiones seducunt corda innocentium."
+},
+{
+"id": "Romans 16:19",
+"label": "Romans 16:19",
+"text": "Vestra enim obedientia in omnem locum divulgata est. Gaudeo igitur in vobis. Sed volo vos sapientes esse in bono, et simplices in malo."
+},
+{
+"id": "Romans 16:20",
+"label": "Romans 16:20",
+"text": "Deus autem pacis conterat Satanam sub pedibus vestris velociter. Gratia Domini nostri Jesu Christi vobiscum."
+},
+{
+"id": "Romans 16:21",
+"label": "Romans 16:21",
+"text": "Salutat vos Timotheus adjutor meus, et Lucius, et Jason, et Sosipater cognati mei."
+},
+{
+"id": "Romans 16:22",
+"label": "Romans 16:22",
+"text": "Saluto vos ego Tertius, qui scripsi epistolam, in Domino."
+},
+{
+"id": "Romans 16:23",
+"label": "Romans 16:23",
+"text": "Salutat vos Cajus hospes meus, et universa ecclesia. Salutat vos Erastus arcarius civitatis, et Quartus, frater."
+},
+{
+"id": "Romans 16:24",
+"label": "Romans 16:24",
+"text": "Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen."
+},
+{
+"id": "Romans 16:25",
+"label": "Romans 16:25",
+"text": "Ei autem, qui potens est vos confirmare juxta Evangelium meum, et prædicationem Jesu Christi, secundum revelationem mysterii temporibus æternis taciti"
+},
+{
+"id": "Romans 16:26",
+"label": "Romans 16:26",
+"text": "(quod nunc patefactum est per Scripturas prophetarum secundum præceptum æterni Dei, ad obeditionem fidei), in cunctis gentibus cogniti,"
+},
+{
+"id": "Romans 16:27",
+"label": "Romans 16:27",
+"text": "soli sapienti Deo, per Jesum Christum, cui honor et gloria in sæcula sæculorum. Amen."
+}
+]
+}

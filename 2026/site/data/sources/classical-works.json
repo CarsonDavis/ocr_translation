@@ -1,0 +1,1090 @@
+[
+ {
+  "work_id": "pliny-naturalis-historia",
+  "author": "Pliny the Elder",
+  "work": "Naturalis historia",
+  "citations": 19,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0978.phi001.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 37
+ },
+ {
+  "work_id": "valerius-maximus-facta-et-dicta",
+  "author": "Valerius Maximus",
+  "work": "Facta et dicta memorabilia",
+  "citations": 11,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1038.phi001.perseus-lat1/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 9
+ },
+ {
+  "work_id": "crinito-de-honesta-disciplina",
+  "author": "Pietro Crinito",
+  "work": "De honesta disciplina",
+  "citations": 9,
+  "source": "https://archive.org/details/bub_gb_954MRWBwQSAC",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "gellius-noctes-atticae",
+  "author": "Aulus Gellius",
+  "work": "Noctes Atticae",
+  "citations": 8,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 20
+ },
+ {
+  "work_id": "solinus-collectanea",
+  "author": "Solinus",
+  "work": "Collectanea rerum memorabilium (Polyhistor)",
+  "citations": 8,
+  "source": "https://www.thelatinlibrary.com/solinus1a.html",
+  "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "virgil-aeneid",
+  "author": "Virgil",
+  "work": "Aeneid",
+  "citations": 8,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi003.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 12
+ },
+ {
+  "work_id": "augustine-de-civitate-dei",
+  "author": "Augustine",
+  "work": "De civitate Dei",
+  "citations": 6,
+  "source": "https://www.thelatinlibrary.com/augustine/civ1.shtml",
+  "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+  "status": "fetched",
+  "units": 22
+ },
+ {
+  "work_id": "cicero-tusculanae-disputationes",
+  "author": "Cicero",
+  "work": "Tusculanae disputationes",
+  "citations": 6,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi049.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 5
+ },
+ {
+  "work_id": "plutarch-lives",
+  "author": "Plutarch",
+  "work": "Parallel Lives",
+  "citations": 6,
+  "source": "https://scaife.perseus.org/library/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 6
+ },
+ {
+  "work_id": "aristotle-nicomachean-ethics",
+  "author": "Aristotle",
+  "work": "Nicomachean Ethics",
+  "citations": 5,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 10
+ },
+ {
+  "work_id": "historia-augusta",
+  "author": "Scriptores Historiae Augustae",
+  "work": "Historia Augusta",
+  "citations": 5,
+  "source": "https://scaife.perseus.org/library/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 16
+ },
+ {
+  "work_id": "horace-odes",
+  "author": "Horace",
+  "work": "Odes (Carmina)",
+  "citations": 4,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 4
+ },
+ {
+  "work_id": "josephus-antiquitates",
+  "author": "Josephus",
+  "work": "Antiquitates Iudaicae",
+  "citations": 4,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg001.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 20
+ },
+ {
+  "work_id": "ovid-ibis",
+  "author": "Ovid",
+  "work": "Ibis",
+  "citations": 4,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi010.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "aristotle-history-of-animals",
+  "author": "Aristotle",
+  "work": "Historia animalium",
+  "citations": 3,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "cicero-de-amicitia",
+  "author": "Cicero",
+  "work": "De amicitia (Laelius)",
+  "citations": 3,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "cicero-de-oratore",
+  "author": "Cicero",
+  "work": "De oratore",
+  "citations": 3,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi037.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 3
+ },
+ {
+  "work_id": "fregoso-de-dictis-factisque-memorabilibus",
+  "author": "Battista Fregoso",
+  "work": "De dictis factisque memorabilibus collectanea",
+  "citations": 3,
+  "source": "https://archive.org/details/baptistefulgosid00freg",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "horace-ars-poetica",
+  "author": "Horace",
+  "work": "Ars poetica",
+  "citations": 3,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi006.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "lactantius-divinae-institutiones",
+  "author": "Lactantius",
+  "work": "Divinae institutiones",
+  "citations": 3,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "propertius-elegies",
+  "author": "Propertius",
+  "work": "Elegies",
+  "citations": 3,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0620.phi001.perseus-lat3/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 4
+ },
+ {
+  "work_id": "alexander-aphrodisias-problemata",
+  "author": "Alexander of Aphrodisias",
+  "work": "Problemata",
+  "citations": 2,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "aristotle-generation-of-animals",
+  "author": "Aristotle",
+  "work": "De generatione animalium",
+  "citations": 2,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "augustine-de-adulterinis-coniugiis",
+  "author": "Augustine",
+  "work": "De adulterinis coniugiis",
+  "citations": 2,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "cicero-ad-familiares",
+  "author": "Cicero",
+  "work": "Epistulae ad familiares",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi056.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 16
+ },
+ {
+  "work_id": "cicero-de-divinatione",
+  "author": "Cicero",
+  "work": "De divinatione",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi053.perseus-lat3/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 2
+ },
+ {
+  "work_id": "cicero-de-senectute",
+  "author": "Cicero",
+  "work": "De senectute (Cato maior)",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi051.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "cicero-in-verrem",
+  "author": "Cicero",
+  "work": "In Verrem",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi005.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 6
+ },
+ {
+  "work_id": "cicero-pro-caelio",
+  "author": "Cicero",
+  "work": "Pro Caelio",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi024.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "cicero-pro-fonteio",
+  "author": "Cicero",
+  "work": "Pro M. Fonteio",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi007.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "cicero-pro-roscio-amerino",
+  "author": "Cicero",
+  "work": "Pro Sex. Roscio Amerino",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi002.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "galen",
+  "author": "Galen",
+  "work": "De usu partium; De semine",
+  "citations": 2,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "herodotus-histories",
+  "author": "Herodotus",
+  "work": "Histories",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 13
+ },
+ {
+  "work_id": "homer-odyssey",
+  "author": "Homer",
+  "work": "Odyssey",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg002.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 24
+ },
+ {
+  "work_id": "jerome-epistulae",
+  "author": "Jerome",
+  "work": "Epistulae",
+  "citations": 2,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "Perseus (stoa0162.stoa004) and The Latin Library carry selections of the letters without Ep. 72, the one cited"
+ },
+ {
+  "work_id": "justin-epitome",
+  "author": "Justin",
+  "work": "Epitoma historiarum Philippicarum Pompei Trogi",
+  "citations": 2,
+  "source": "https://www.thelatinlibrary.com/justin/1.html",
+  "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+  "status": "fetched",
+  "units": 44
+ },
+ {
+  "work_id": "livy-ab-urbe-condita",
+  "author": "Livy",
+  "work": "Ab urbe condita",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 35
+ },
+ {
+  "work_id": "ovid-ars-amatoria",
+  "author": "Ovid",
+  "work": "Ars amatoria",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi004.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 3
+ },
+ {
+  "work_id": "ovid-metamorphoses",
+  "author": "Ovid",
+  "work": "Metamorphoses",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi006.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 15
+ },
+ {
+  "work_id": "paolo-emili-de-rebus-gestis-francorum",
+  "author": "Paolo Emili",
+  "work": "De rebus gestis Francorum",
+  "citations": 2,
+  "source": "https://archive.org/details/bub_gb_b89bjW1HheEC",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "platina-vitae-pontificum",
+  "author": "Platina",
+  "work": "Liber de vita Christi ac omnium pontificum",
+  "citations": 2,
+  "source": "https://archive.org/details/bub_gb_yC2IsGhJtqYC",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "plautus-amphitruo",
+  "author": "Plautus",
+  "work": "Amphitruo",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi001.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "pseudo-plutarch-de-placitis",
+  "author": "Pseudo-Plutarch",
+  "work": "De placitis philosophorum",
+  "citations": 2,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "seneca-elder-controversiae",
+  "author": "Seneca the Elder",
+  "work": "Controversiae",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1014.phi001.perseus-lat1/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 5
+ },
+ {
+  "work_id": "strabo-geography",
+  "author": "Strabo",
+  "work": "Geography",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 18
+ },
+ {
+  "work_id": "suetonius-de-vita-caesarum",
+  "author": "Suetonius",
+  "work": "De vita Caesarum",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 12
+ },
+ {
+  "work_id": "varro-antiquitates",
+  "author": "Varro",
+  "work": "Antiquitates rerum divinarum (lost)",
+  "citations": 2,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "virgil-eclogues",
+  "author": "Virgil",
+  "work": "Eclogues",
+  "citations": 2,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 10
+ },
+ {
+  "work_id": "aelian-varia-historia",
+  "author": "Aelian",
+  "work": "Varia historia",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0545.tlg002.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 14
+ },
+ {
+  "work_id": "alexander-ab-alexandro-dies-geniales",
+  "author": "Alessandro Alessandri (Alexander ab Alexandro)",
+  "work": "Genialium dierum libri sex",
+  "citations": 1,
+  "source": "https://archive.org/details/bub_gb_sSjxKpodtgYC",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "ambrose-de-officiis",
+  "author": "Ambrose",
+  "work": "De officiis ministrorum",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "andrelini-livia",
+  "author": "Publio Fausto Andrelini",
+  "work": "Livia (Amores)",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no scan located"
+ },
+ {
+  "work_id": "appian-mithridatica",
+  "author": "Appian",
+  "work": "Mithridatica",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg014.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 2
+ },
+ {
+  "work_id": "appian-syriaca",
+  "author": "Appian",
+  "work": "Syriaca",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg013.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "aristotle-metaphysics",
+  "author": "Aristotle",
+  "work": "Metaphysics",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg025.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 14
+ },
+ {
+  "work_id": "aristotle-politics",
+  "author": "Aristotle",
+  "work": "Politics",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg035.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 8
+ },
+ {
+  "work_id": "aristotle-problems",
+  "author": "Aristotle",
+  "work": "Problemata",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "augustine-contra-faustum",
+  "author": "Augustine",
+  "work": "Contra Faustum Manichaeum",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "bude-annotationes-in-pandectas",
+  "author": "Guillaume Budé",
+  "work": "Annotationes in Pandectas",
+  "citations": 1,
+  "source": "https://archive.org/details/bub_gb_Yi67rXVfrQUC",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "callimachus-epigrams",
+  "author": "Callimachus",
+  "work": "Epigrams",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "cassiodorus-variae",
+  "author": "Cassiodorus",
+  "work": "Variae",
+  "citations": 1,
+  "source": "https://www.thelatinlibrary.com/cassiodorus/varia1.shtml",
+  "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+  "status": "fetched",
+  "units": 12
+ },
+ {
+  "work_id": "cicero-academica",
+  "author": "Cicero",
+  "work": "Academica (Lucullus)",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi046.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "cicero-ad-quintum-fratrem",
+  "author": "Cicero",
+  "work": "Epistulae ad Quintum fratrem",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi058.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 3
+ },
+ {
+  "work_id": "cicero-de-finibus",
+  "author": "Cicero",
+  "work": "De finibus bonorum et malorum",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi048.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 5
+ },
+ {
+  "work_id": "cicero-de-inventione",
+  "author": "Cicero",
+  "work": "De inventione",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi036.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 2
+ },
+ {
+  "work_id": "cicero-de-officiis",
+  "author": "Cicero",
+  "work": "De officiis",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi055.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 3
+ },
+ {
+  "work_id": "cicero-in-vatinium",
+  "author": "Cicero",
+  "work": "In Vatinium",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi023.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "cicero-paradoxa-stoicorum",
+  "author": "Cicero",
+  "work": "Paradoxa Stoicorum",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi047.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 7
+ },
+ {
+  "work_id": "cicero-partitiones-oratoriae",
+  "author": "Cicero",
+  "work": "Partitiones oratoriae",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi038.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "cicero-post-reditum-ad-quirites",
+  "author": "Cicero",
+  "work": "Post reditum ad Quirites",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi019.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "cicero-pro-rabirio-postumo",
+  "author": "Cicero",
+  "work": "Pro Rabirio Postumo",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi029.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "dio-cassius-roman-history",
+  "author": "Dio Cassius",
+  "work": "Roman History",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "the Perseus Greek text (tlg0385.tlg001) has only books 36-55; the cited book 69 (Xiphilinus's epitome) is not in it"
+ },
+ {
+  "work_id": "diogenes-laertius",
+  "author": "Diogenes Laertius",
+  "work": "Vitae philosophorum",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0004.tlg001.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 10
+ },
+ {
+  "work_id": "euripides-alcestis",
+  "author": "Euripides",
+  "work": "Alcestis",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "euripides-medea",
+  "author": "Euripides",
+  "work": "Medea",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "eusebius-historia-ecclesiastica",
+  "author": "Eusebius",
+  "work": "Historia ecclesiastica",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "galeotto-marzio-de-doctrina-promiscua",
+  "author": "Galeotto Marzio",
+  "work": "De doctrina promiscua",
+  "citations": 1,
+  "source": "https://archive.org/details/bub_gb_8CB0TmdH6oMC",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "homer-iliad",
+  "author": "Homer",
+  "work": "Iliad",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 24
+ },
+ {
+  "work_id": "iamblichus-de-mysteriis",
+  "author": "Iamblichus",
+  "work": "De mysteriis",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "jerome-apologia-adversus-rufinum",
+  "author": "Jerome",
+  "work": "Apologia adversus Rufinum",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "jerome-chronicon",
+  "author": "Jerome",
+  "work": "Chronicon (continuation of Eusebius)",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "jerome-quaestiones-hebraicae-in-genesim",
+  "author": "Jerome",
+  "work": "Quaestiones hebraicae in Genesim",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "juvenal-satires",
+  "author": "Juvenal",
+  "work": "Satires",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1276.phi001.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 16
+ },
+ {
+  "work_id": "macrobius-in-somnium-scipionis",
+  "author": "Macrobius",
+  "work": "Commentarii in Somnium Scipionis",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "macrobius-saturnalia",
+  "author": "Macrobius",
+  "work": "Saturnalia",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "manilius-astronomica",
+  "author": "Manilius",
+  "work": "Astronomica",
+  "citations": 1,
+  "source": "https://www.thelatinlibrary.com/manilius1.html",
+  "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+  "status": "fetched",
+  "units": 5
+ },
+ {
+  "work_id": "martial-epigrams",
+  "author": "Martial",
+  "work": "Epigrams",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1294.phi002.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 14
+ },
+ {
+  "work_id": "munster-cosmographia",
+  "author": "Sebastian Münster",
+  "work": "Cosmographia universalis",
+  "citations": 1,
+  "source": "https://archive.org/details/bub_man_11b03d11d783622cfdb59473f35bcef0",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "ovid-fasti",
+  "author": "Ovid",
+  "work": "Fasti",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi007.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 6
+ },
+ {
+  "work_id": "ovid-heroides",
+  "author": "Ovid",
+  "work": "Heroides (Epistulae)",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi002.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 21
+ },
+ {
+  "work_id": "pausanias-description-of-greece",
+  "author": "Pausanias",
+  "work": "Description of Greece",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0525.tlg001.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 14
+ },
+ {
+  "work_id": "plato-laws",
+  "author": "Plato",
+  "work": "Laws",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg034.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 12
+ },
+ {
+  "work_id": "plato-phaedo",
+  "author": "Plato",
+  "work": "Phaedo",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg004.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "plato-republic",
+  "author": "Plato",
+  "work": "Republic",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg030.perseus-grc2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 10
+ },
+ {
+  "work_id": "plautus-menaechmi",
+  "author": "Plautus",
+  "work": "Menaechmi",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi010.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "plautus-poenulus",
+  "author": "Plautus",
+  "work": "Poenulus",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "plautus-truculentus",
+  "author": "Plautus",
+  "work": "Truculentus",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "plutarch-parallela-minora",
+  "author": "Plutarch",
+  "work": "Parallela minora (Moralia)",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "polydore-vergil-de-inventoribus-rerum",
+  "author": "Polydore Vergil",
+  "work": "De inventoribus rerum",
+  "citations": 1,
+  "source": "https://archive.org/details/kpbc.umk.pl.Publikacja-WiMBP-070607_204379",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "pseudo-clement-epistola-ad-iacobum",
+  "author": "Pseudo-Clement",
+  "work": "Epistola Clementis ad Iacobum",
+  "citations": 1,
+  "source": null,
+  "license": null,
+  "status": "not-found",
+  "note": "no openly licensed machine-readable text located"
+ },
+ {
+  "work_id": "pseudo-sallust-in-ciceronem",
+  "author": "Pseudo-Sallust",
+  "work": "In M. Tullium Ciceronem invectiva",
+  "citations": 1,
+  "source": "https://www.thelatinlibrary.com/sall.invectiva.html",
+  "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "rhodiginus-lectiones-antiquae",
+  "author": "Lodovico Ricchieri (Caelius Rhodiginus)",
+  "work": "Lectionum antiquarum libri",
+  "citations": 1,
+  "source": "https://archive.org/details/bub_gb_EwjmCxHKgN0C",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "seneca-de-tranquillitate-animi",
+  "author": "Seneca",
+  "work": "De tranquillitate animi",
+  "citations": 1,
+  "source": "https://www.thelatinlibrary.com/sen/sen.tranq.shtml",
+  "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "seneca-troades",
+  "author": "Seneca",
+  "work": "Troades",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1017.phi002.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "statius-thebaid",
+  "author": "Statius",
+  "work": "Thebaid",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1020.phi001.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 12
+ },
+ {
+  "work_id": "terence-adelphoe",
+  "author": "Terence",
+  "work": "Adelphoe",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi006.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "tertullian-apologeticum",
+  "author": "Tertullian",
+  "work": "Apologeticum",
+  "citations": 1,
+  "source": "https://www.thelatinlibrary.com/tertullian/tertullian.apol.shtml",
+  "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+  "status": "fetched",
+  "units": 1
+ },
+ {
+  "work_id": "virgil-georgics",
+  "author": "Virgil",
+  "work": "Georgics",
+  "citations": 1,
+  "source": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi002.perseus-lat2/",
+  "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+  "status": "fetched",
+  "units": 4
+ },
+ {
+  "work_id": "vives-commentary-de-civitate-dei",
+  "author": "Juan Luis Vives",
+  "work": "Commentarii in De civitate Dei",
+  "citations": 1,
+  "source": "https://archive.org/details/bub_gb_dT4eNG3BJWkC",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ },
+ {
+  "work_id": "volaterranus-commentarii-urbani",
+  "author": "Raffaele Maffei (Volaterranus)",
+  "work": "Commentariorum urbanorum libri XXXVIII",
+  "citations": 1,
+  "source": "https://archive.org/details/ned-kbn-all-00002512-001",
+  "license": "page images only; not fetched",
+  "status": "scan-only"
+ }
+]

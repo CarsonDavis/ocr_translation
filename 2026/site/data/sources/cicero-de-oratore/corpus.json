@@ -1,0 +1,17 @@
+{
+ "id": "cicero-de-oratore",
+ "title": "Cicero, De oratore",
+ "language": "la",
+ "edition": "De Oratore — Perseus Digital Library TEI (phi0474.phi037.perseus-lat2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-latinLit TEI phi0474.phi037.perseus-lat2",
+ "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi037.perseus-lat2/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.section",
+ "units": [
+  "1",
+  "2",
+  "3"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi037/phi0474.phi037.perseus-lat2.xml"
+}

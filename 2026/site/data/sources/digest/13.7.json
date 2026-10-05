@@ -1,0 +1,485 @@
+{
+"corpus": "digest",
+"unit": "13.7",
+"title": "D. 13.7 De pigneraticia actione vel contra",
+"passages": [
+{
+"id": "13.7.1.pr",
+"label": "D. 13.7.1 pr. (Ulpianus)",
+"text": "Pignus contrahitur non sola tradidione, sed etiam nuda conventione, etsi non traditum est.",
+"inscription": "Ulpianus libro 40 ad Sabinum"
+},
+{
+"id": "13.7.1.1",
+"label": "D. 13.7.1.1",
+"text": "Si igitur contractum sit pignus nuda conventione, videamus, an, si quis aurum ostenderit quasi pignori daturus et aes dederit, obligaverit aurum pignori: et consequens est ut aurum obligetur, non autem aes, quia in hoc non consenserint."
+},
+{
+"id": "13.7.1.2",
+"label": "D. 13.7.1.2",
+"text": "Si quis tamen, cum aes pignori daret, adfirmavit hoc aurum esse et ita pignori dederit, videndum erit, an aes pignori obligaverit et numquid, quia in corpus consensum est, pignori esse videatur: quod magis est. Tenebitur tamen pigneraticia contraria actione qui dedit, praeter stellionatum quem fecit."
+},
+{
+"id": "13.7.2",
+"label": "D. 13.7.2 (Pomponius)",
+"text": "Si debitor rem pignori datam vendidit et tradidit tuque ei nummos credidisti, quos ille solvit ei creditori, cui pignus dederat, tibique cum eo convenit, ut ea res, quam iam vendiderat, pignori tibi esset, nihil te egisse constat, quia rem alienam pignori acceperis: ea enim ratione emptorem pignus liberatum habere coepisse neque ad rem pertinuisse, quod tua pecunia pignus sit liberatum.",
+"inscription": "Pomponius libro sexto ad Sabinum"
+},
+{
+"id": "13.7.3",
+"label": "D. 13.7.3 (Pomponius)",
+"text": "Si quasi recepturus a debitore tuo comminus pecuniam reddidisti ei pignus isque per fenestram id misit excepturo eo, quem de industria ad id posuerit, Labeo ait furti te agere cum debitore posse et ad exhibendum: et, si agente te contraria pigneraticia excipiat debitor de pignore sibi reddito, replicabitur de dolo et fraude, per quam nec redditum, sed per Fallaciam ablatum id intellegitur.",
+"inscription": "Pomponius libro 18 ad Sabinum"
+},
+{
+"id": "13.7.4",
+"label": "D. 13.7.4 (Ulpianus)",
+"text": "Si convenit de distrahendo pignore sive ab initio sive postea, non tantum venditio valet, verum incipit emptor dominium rei habere. Sed etsi non convenerit de distrahendo pignore, hoc tamen iure utimur, ut liceat distrahere, si modo non convenit, ne liceat. Ubi vero convenit, ne distraheretur, creditor, si distraxerit, furti obligatur, nisi ei ter fuerit denuntiatum ut solvat et cessaverit.",
+"inscription": "Ulpianus libro 41 ad Sabinum"
+},
+{
+"id": "13.7.5",
+"label": "D. 13.7.5 (Pomponius)",
+"text": "Idque iuris est, sive omnino fuerint pacti, ne veneat, sive in summa aut condicione aut loco contra pactionem factum sit.",
+"inscription": "Pomponius libro 19 ad Sabinum"
+},
+{
+"id": "13.7.6.pr",
+"label": "D. 13.7.6 pr. (Pomponius)",
+"text": "Quamvis convenerit, ut fundum pigneraticium tibi vendere liceret, nihilo magis cogendus es vendere, licet solvendo non sit is qui pignus dederit, quia tua causa id caveatur. Sed Atilicinus ex causa cogendum creditorem esse ad vendendum dicit: quid enim si multo minus sit quod debeatur et hodie pluris venire possit pignus quam postea? Melius autem est dici eum, qui dederit pignus, posse vendere et accepta pecunia solvere id quod debeatur, ita tamen, ut creditor necessitatem habeat ostendere rem pigneratam, si mobilis sit, prius idonea cautela a debitore pro indemnitate ei praestanda. Invitum enim creditorem cogi vendere satis inhumanum est.",
+"inscription": "Pomponius libro 35 ad Sabinum"
+},
+{
+"id": "13.7.6.1",
+"label": "D. 13.7.6.1",
+"text": "Si creditor pluris fundum pigneratum vendiderit, si id faeneret, usuram eius pecuniae praestare debet ei, qui dederit pignus: sed et si ipse usus sit ea pecunia, usuram praestari oportet. Quod si eam depositam habuerit, usuras non debet."
+},
+{
+"id": "13.7.7",
+"label": "D. 13.7.7 (Paulus)",
+"text": "Si autem tardius superfluum restituat creditor id quod apud eum depositum est, ex mora etiam usuras debitori hoc nomine praestare cogendus est.",
+"inscription": "Paulus libro secundo sententiarum"
+},
+{
+"id": "13.7.8.pr",
+"label": "D. 13.7.8 pr. (Pomponius)",
+"text": "Si necessarias impensas fecerim in servum aut in fundum, quem pignoris causa acceperim, non tantum retentionem, sed etiam contrariam pigneraticiam actionem habebo: finge enim medicis, cum aegrotaret servus, dedisse me pecuniam et eum decessisse, item insulam fulsisse vel refecisse et postea deustam esse, nec habere quod possem retinere.",
+"inscription": "Pomponius libro 35 ad Sabinum"
+},
+{
+"id": "13.7.8.1",
+"label": "D. 13.7.8.1",
+"text": "Si pignori plura mancipia data sint, et quaedam certis pretiis ita vendiderit creditor ut evictionem eorum praestaret, et creditum suum habeat, reliqua mancipia potest retinere, donec ei caveatur, quod evictionis nomine promiserit, indemnem eum futurum."
+},
+{
+"id": "13.7.8.2",
+"label": "D. 13.7.8.2",
+"text": "Si unus ex heredibus debitoris portionem suam solverit, tamen tota res pignori data venire poterit, quemadmodum si ipse debitor portionem solvisset."
+},
+{
+"id": "13.7.8.3",
+"label": "D. 13.7.8.3",
+"text": "Si annua bima trima die triginta stipulatus acceperim pignus pactusque sim, ut nisi sua quaque die pecunia soluta esset, vendere eam mihi liceret, placet, antequam omnium pensionum dies veniret, non posse me pignus vendere, quia eis verbis omnes pensiones demonstrarentur: nec verum est sua quaque die non solutam pecuniam, antequam omnes dies venirent. Sed omnibus pensionibus praeteritis, etiamsi una portio soluta non sit, pignus potest venire. Sed si ita scriptum sit: \"si qua pecunia sua die soluta non erit\", statim competit ei pacti conventio."
+},
+{
+"id": "13.7.8.4",
+"label": "D. 13.7.8.4",
+"text": "De vendendo pignore in rem pactio concipienda est, ut omnes contineantur: sed et si creditoris dumtaxat persona fuerit comprehensa, etiam heres eius iure vendet, si nihil in contrarium actum est."
+},
+{
+"id": "13.7.8.5",
+"label": "D. 13.7.8.5",
+"text": "Cum pignus ex pactione venire potest, non solum ob sortem non solutam venire poterit, sed ob cetera quoque, veluti usuras et quae in id impensa sunt."
+},
+{
+"id": "13.7.9.pr",
+"label": "D. 13.7.9 pr. (Ulpianus)",
+"text": "Si rem alienam mihi debitor pignori dedit aut malitiose in pignore versatus sit, dicendum est locum habere contrarium iudicium.",
+"inscription": "Ulpianus libro 28 ad edictum"
+},
+{
+"id": "13.7.9.1",
+"label": "D. 13.7.9.1",
+"text": "Non tantum autem ob pecuniam, sed et ob aliam causam pignus dari potest, veluti si quis pignus alicui dederit, ut pro se fideiubeat."
+},
+{
+"id": "13.7.9.2",
+"label": "D. 13.7.9.2",
+"text": "Proprie pignus dicimus, quod ad creditorem transit, hypothecam, cum non transit nec possessio ad creditorem."
+},
+{
+"id": "13.7.9.3",
+"label": "D. 13.7.9.3",
+"text": "Omnis pecunia exsoluta esse debet aut eo nomine satisfactum esse, ut nascatur pigneraticia actio. Satisfactum autem accipimus, quemadmodum voluit creditor, licet non sit solutum: sive aliis pignoribus sibi caveri voluit, ut ab hoc recedat, sive fideiussoribus sive reo dato sive pretio aliquo vel nuda conventione, nascitur pigneraticia actio. Et generaliter dicendum erit, quotiens recedere voluit creditor a pignore, videri ei satisfactum, si ut ipse voluit sibi cavit, licet in hoc deceptus sit."
+},
+{
+"id": "13.7.9.4",
+"label": "D. 13.7.9.4",
+"text": "Is quoque, qui rem alienam pignori dedit, soluta pecunia potest pigneraticia experiri."
+},
+{
+"id": "13.7.9.5",
+"label": "D. 13.7.9.5",
+"text": "Qui ante solutionem egit pigneraticia, licet non recte egit, tamen, si offerat in iudicio pecuniam, debet rem pigneratam et quod sua interest consequi."
+},
+{
+"id": "13.7.10",
+"label": "D. 13.7.10 (Gaius)",
+"text": "Quod si non solvere, sed alia ratione satisfacere paratus est, forte si expromissorem dare vult, nihil ei prodest.",
+"inscription": "Gaius libro nono ad edictum provinciale"
+},
+{
+"id": "13.7.11.pr",
+"label": "D. 13.7.11 pr. (Ulpianus)",
+"text": "Solutum non videtur, si lis contestata cum debitore sit de ipso debito vel si fideiussor conventus fuerit.",
+"inscription": "Ulpianus libro 28 ad edictum"
+},
+{
+"id": "13.7.11.1",
+"label": "D. 13.7.11.1",
+"text": "Novata autem debiti obligatio pignus peremit, nisi convenit, ut pignus repetatur."
+},
+{
+"id": "13.7.11.2",
+"label": "D. 13.7.11.2",
+"text": "Si quasi daturus tibi pecuniam pignus accepero nec dedero, pigneraticia actione tenebor et nulla solutione facta: idemque et si accepto lata sit pecunia, vel condicio defecit, ob quam pignus contractum est, vel si pactum, cui standum est, de pecunia non petenda factum est."
+},
+{
+"id": "13.7.11.3",
+"label": "D. 13.7.11.3",
+"text": "Si in sortem dumtaxat vel in usuras obstrictum est pignus, eo soluto propter quod obligatum est locum habet pigneraticia. Sive autem usurae in stipulatum sint deductae sive non, si tamen pignus et in eas obligatum fuit, quamdiu quid ex his debetur, pigneraticia cessabit. Alia causa est earum, quas quis supra licitum modum promisit: nam hae penitus illicitae sunt."
+},
+{
+"id": "13.7.11.4",
+"label": "D. 13.7.11.4",
+"text": "Si creditori plures heredes exstiterint et uni ex his pars eius solvatur, non debent ceteri heredes creditoris iniuria adfici, sed possunt totum fundum vendere oblato debitori eo, quod coheredi eorum solvit: quae sententia non est sine ratione."
+},
+{
+"id": "13.7.11.5",
+"label": "D. 13.7.11.5",
+"text": "Solutam autem pecuniam accipiendum non solum, si ipsi, cui obligata res est, sed et si alii sit soluta voluntate eius, vel ei cui heres exstitit, vel procuratori eius, vel servo pecuniis exigendis praeposito. Unde si domum conduxeris et eius partem mihi locaveris egoque locatori tuo pensionem solvero, pigneraticia adversus te potero experiri (nam Iulianus scribit solvi ei posse): et si partem tibi, partem ei solvero, tantundem erit dicendum. Plane in eam dumtaxat summam invecta mea et illata tenebuntur, in quam cenaculum conduxi: non enim credibile est hoc convenisse, ut ad universam pensionem insulae frivola mea tenebuntur. Videtur autem tacite et cum domino aedium hoc convenisse, ut non pactio cenacularii proficiat domino, sed sua propria."
+},
+{
+"id": "13.7.11.6",
+"label": "D. 13.7.11.6",
+"text": "Per liberam autem personam pignoris obligatio nobis non adquiritur, adeo ut ne per procuratorem plerumque vel tutorem adquiratur: et ideo ipsi actione pigneraticia convenientur. Sed nec mutat, quod constitutum est ab imperatore nostro posse per liberam personam possessionem adquiri: nam hoc eo pertinebit, ut possimus pignoris nobis obligati possessionem per procuratorem vel tutorem adprehendere, ipsam autem obligationem libera persona nobis non semper adquiret."
+},
+{
+"id": "13.7.11.7",
+"label": "D. 13.7.11.7",
+"text": "Sed si procurator meus vel tutor rem pignori dederit, ipse agere pigneraticia poterit: quod in procuratore ita procedit, si ei mandatum fuit \"fuerit\" pignori dare."
+},
+{
+"id": "13.7.12",
+"label": "D. 13.7.12 (Gaius)",
+"text": "Vel universorum bonorum administratio ei permissa est ab eo, qui sub pignoribus solebat mutuas pecunias accipere.",
+"inscription": "Gaius libro nono ad edictum provinciale"
+},
+{
+"id": "13.7.13.pr",
+"label": "D. 13.7.13 pr. (Ulpianus)",
+"text": "Si, cum venderet creditor pignus, convenerit inter ipsum et emptorem, ut, si solverit debitor pecuniam pretii emptori, liceret ei recipere rem suam, scripsit Iulianus et est rescriptum ob hanc conventionem pigneraticiis actionibus teneri creditorem, ut debitori mandet ex vendito actionem adversus emptorem. Sed et ipse debitor aut vindicare rem poterit aut in factum actione adversus emptorem agere.",
+"inscription": "Ulpianus libro 38 ad edictum"
+},
+{
+"id": "13.7.13.1",
+"label": "D. 13.7.13.1",
+"text": "Venit autem in hac actione et dolus et culpa, ut in commodato: venit et custodia: vis maior non venit."
+},
+{
+"id": "13.7.14",
+"label": "D. 13.7.14 (Paulus)",
+"text": "Ea igitur, quae diligens pater familias in suis rebus praestare solet, a creditore exiguntur.",
+"inscription": "Paulus libro 29 ad edictum"
+},
+{
+"id": "13.7.15",
+"label": "D. 13.7.15 (Ulpianus)",
+"text": "Creditor cum pignus reddit, de dolo debet debitori repromittere: et si praedium fuit pigneratum, et de iure eius repromittendum est, ne forte servitutes cessante uti creditore amissae sint.",
+"inscription": "Ulpianus libro 28 ad edictum"
+},
+{
+"id": "13.7.16.pr",
+"label": "D. 13.7.16 pr. (Paulus)",
+"text": "Tutor lege non refragante si dederit rem pupilli pignori, tuendum erit, scilicet si in rem pupilli pecuniam accipiat. Idem est et in curatore adulescentis vel furiosi.",
+"inscription": "Paulus libro 29 ad edictum"
+},
+{
+"id": "13.7.16.1",
+"label": "D. 13.7.16.1",
+"text": "Contrariam pigneraticiam creditori actionem competere certum est: proinde si rem alienam vel alii pigneratam vel in publicum obligatam dedit, tenebitur, quamvis et stellionatus crimen committat. Sed utrum ita demum, si scit, an et si ignoravit? Et quantum ad crimen pertinet, excusat ignorantia: quantum ad contrarium iudicium, ignorantia eum non excusat, ut Marcellus libro sexto digestorum scribit. Sed si sciens creditor accipiat vel alienum vel obligatum vel morbosum, contrarium ei non competit."
+},
+{
+"id": "13.7.16.2",
+"label": "D. 13.7.16.2",
+"text": "Etiam vectigale praedium pignori dari potest: sed et superficiarium, quia hodie utiles actiones superficiariis dantur."
+},
+{
+"id": "13.7.17",
+"label": "D. 13.7.17 (Marcianus)",
+"text": "Sane divi Severus et Antoninus rescripserunt, ut sine deminutione mercedis soli obligabitur.",
+"inscription": "Marcianus libro singulari ad formulam hypothecarum"
+},
+{
+"id": "13.7.18.pr",
+"label": "D. 13.7.18 pr. (Paulus)",
+"text": "Si convenerit, ut nomen debitoris mei pignori tibi sit, tuenda est a praetore haec conventio, ut et te in exigenda pecunia et debitorem adversus me, si cum eo experiar, tueatur. Ergo si id nomen pecuniarium fuerit, exactam pecuniam tecum pensabis, si vero corporis alicuius, id quod acceperis erit tibi pignoris loco.",
+"inscription": "Paulus libro 29 ad edictum"
+},
+{
+"id": "13.7.18.1",
+"label": "D. 13.7.18.1",
+"text": "Si nuda proprietas pignori data sit, usus fructus, qui postea adcreverit, pignori erit: eandem causa est alluvionis."
+},
+{
+"id": "13.7.18.2",
+"label": "D. 13.7.18.2",
+"text": "Si fundus pigneratus venierit, manere causam pignoris, quia cum sua causa fundus transeat: sicut in partu ancillae, qui post venditionem natus sit."
+},
+{
+"id": "13.7.18.3",
+"label": "D. 13.7.18.3",
+"text": "Si quis caverit, ut silva sibi pignori esset, navem ex ea materia factam non esse pignori Cassius ait, quia aliud sit materia, aliud navis: et ideo nominatim in dando pignore adiciendum esse ait: \"Quaeque ex silva facta natave sint\"."
+},
+{
+"id": "13.7.18.4",
+"label": "D. 13.7.18.4",
+"text": "Servus rem peculiarem si pignori dederit, tuendum est, si liberam peculii administrationem habuit: nam et alienare eas res potest."
+},
+{
+"id": "13.7.19",
+"label": "D. 13.7.19 (Marcianus)",
+"text": "Eadem et de filio familias dicta intellegemus.",
+"inscription": "Marcianus libro singulari ad formulam hypothecarum"
+},
+{
+"id": "13.7.20.pr",
+"label": "D. 13.7.20 pr. (Paulus)",
+"text": "Aliena res pignori dari voluntate domini potest: sed et si ignorante eo data sit et ratum habuerit, pignus valebit.",
+"inscription": "Paulus libro 29 ad edictum"
+},
+{
+"id": "13.7.20.1",
+"label": "D. 13.7.20.1",
+"text": "Si pluribus res simul pignori detur, aequalis omnium causa est."
+},
+{
+"id": "13.7.20.2",
+"label": "D. 13.7.20.2",
+"text": "Si per creditorem stetit, quo minus ei solvatur, recte agitur pigneraticia."
+},
+{
+"id": "13.7.20.3",
+"label": "D. 13.7.20.3",
+"text": "Interdum etsi soluta sit pecunia, tamen pigneraticia actio inhibenda est, veluti si creditor pignus suum emerit a debitore."
+},
+{
+"id": "13.7.21",
+"label": "D. 13.7.21 (Paulus)",
+"text": "Domo pignori data et area eius tenebitur: est enim pars eius. et contra ius soli sequetur aedificium.",
+"inscription": "Paulus libro sexto brevium"
+},
+{
+"id": "13.7.22.pr",
+"label": "D. 13.7.22 pr. (Ulpianus)",
+"text": "Si pignore subrepto furti egerit creditor, totum, quidquid percepit, debito eum imputare Papinianus confitetur, et est verum, etiamsi culpa creditoris furtum factum sit. Multo magis hoc erit dicendum in eo, quod ex condictione consecutus est. Sed quod ipse debitor furti actione praestitit creditori vel condictione, an debito sit imputandum videamus: et quidem non oportere id ei restitui, quod ipse ex furti actione praestitit, peraeque relatum est et traditum, et ita Papinianus libro nono quaestionum ait.",
+"inscription": "Ulpianus libro 30 ad edictum"
+},
+{
+"id": "13.7.22.1",
+"label": "D. 13.7.22.1",
+"text": "Idem Papinianus ait et si metus causa servum pigneratum debitori tradiderit, quem bona fide pignori acceperat: nam si egerit quod metus causa factum est et quadruplum sit consecutus, nihil neque restituet ex eo quod consecutus est nec debito imputabit."
+},
+{
+"id": "13.7.22.2",
+"label": "D. 13.7.22.2",
+"text": "Si praedo rem pignori dederit, competit ei et de fructibus pigneraticia actio, quamvis ipse fructus suos non faciet (a praedone enim fructus et vindicari extantes possunt et consumpti condici): proderit igitur ei, quod creditor bona fide possessor fuit."
+},
+{
+"id": "13.7.22.3",
+"label": "D. 13.7.22.3",
+"text": "Si post distractum pignus debitor, qui precario rogavit vel conduxit pignus, possessionem non restituat, contrario iudicio tenetur."
+},
+{
+"id": "13.7.22.4",
+"label": "D. 13.7.22.4",
+"text": "Si creditor, cum venderet pignus, duplam promisit (nam usu hoc evenerat et conventus ob evictionem erat et condemnatus), an haberet regressum pigneraticiae contrariae actionis? Et potest dici esse regressum, si modo sine dolo et culpa sic vendidit et ut pater familias diligens id gessit: si vero nullum emolumentum talis venditio attulit, sed tanti venderet, quanto vendere potuit, etiamsi haec non promisit, regressum non habere."
+},
+{
+"id": "13.7.23",
+"label": "D. 13.7.23 (Tryphoninus)",
+"text": "Nec enim amplius a debitore quam debiti summa consequi poterit. Sed si stipulatio usurarum fuerat et post quinquennium forte, quam pretium ex re obligata victus eam emptori restituit, etiam medii temporis usuras a debitore petere potest, quia nihil ei solutum esse, ut auferri non possit, palam factum est: sed si simplum praestitit, doli exceptione repellendus erit ab usurarum petitione, quia habuit usum pecuniae pretii, quod ab emptore acceperat.",
+"inscription": "Tryphoninus libro octavo disputationum"
+},
+{
+"id": "13.7.24.pr",
+"label": "D. 13.7.24 pr. (Ulpianus)",
+"text": "Eleganter apud me quaesitum est, si impetrasset creditor a caesare, ut pignus possideret idque evictum esset, an habeat contrariam pigneraticiam. Et videtur finita esse pignoris obligatio et a contractu recessum. Immo utilis ex empto accommodata est, quemadmodum si pro soluto ei res data fuerit, ut in quantitatem debiti ei satisfiat vel in quantum eius intersit, et compensationem habere potest creditor, si forte pigneraticia vel ex alia causa cum eo agetur.",
+"inscription": "Ulpianus libro 30 ad edictum"
+},
+{
+"id": "13.7.24.1",
+"label": "D. 13.7.24.1",
+"text": "Qui reprobos nummos solvit creditori, an habet pigneraticiam actionem quasi soluta pecunia, quaeritur: et constat neque pigneraticia eum agere neque liberari posse, quia reproba pecunia non liberat solventem, reprobis videlicet nummis reddendis."
+},
+{
+"id": "13.7.24.2",
+"label": "D. 13.7.24.2",
+"text": "Si vendiderit quidem creditor pignus pluris quam debitum erat, nondum autem pretium ab emptore exegerit, an pigneraticio iudicio conveniri possit ad superfluum reddendum, an vero vel exspectare debeat, quoad emptor solvat, vel suscipere actiones adversus emptorem? Et arbitror non esse urguendum ad solutionem creditorem, sed aut exspectare debere debitorem aut, si non exspectat, mandandas ei actiones adversus emptorem periculo tamen venditoris. Quod si accepit iam pecuniam, superfluum reddit."
+},
+{
+"id": "13.7.24.3",
+"label": "D. 13.7.24.3",
+"text": "In pigneraticio iudicio venit et si res pignori datas male tractavit creditor vel servos debilitavit. Plane si pro maleficiis suis coercuit vel vinxit vel optulit praefecturae vel praesidi, dicendum est pigneraticia creditorem non teneri. Quare si prostituit ancillam vel aliud improbatum facere coegit, ilico pignus ancillae solvitur."
+},
+{
+"id": "13.7.25",
+"label": "D. 13.7.25 (Ulpianus)",
+"text": "Si servos pigneratos artificiis instruxit creditor, si quidem iam imbutos vel voluntate debitoris, erit actio contraria: si vero nihil horum intercessit, si quidem artificiis necessariis, erit actio contraria, non tamen sic, ut cogatur servis carere pro quantitate sumptuum debitor. Sicut enim neglegere creditorem dolus et culpa quam praestat non patitur, ita nec talem efficere rem pigneratam, ut gravis sit debitori ad reciperandum: puta saltum grandem pignori datum ab homine, qui vix luere potest, nedum excolere, tu acceptum pignori excoluisti sic, ut magni pretii faceres. Alioquin non est aequum aut quaerere me alios creditores aut cogi distrahere quod velim receptum aut tibi paenuria coactum derelinquere. Medie igitur haec a iudice erunt dispicienda, ut neque delicatus debitor neque onerosus creditor audiatur.",
+"inscription": "Ulpianus libro 31 ad edictum"
+},
+{
+"id": "13.7.26.pr",
+"label": "D. 13.7.26 pr. (Ulpianus)",
+"text": "Non est mirum, si ex quacumque causa magistratus in possessionem aliquem miserit, pignus constitui, cum testamento quoque pignus constitui posse imperator noster cum patre saepissime rescripsit.",
+"inscription": "Ulpianus libro tertio disputationum"
+},
+{
+"id": "13.7.26.1",
+"label": "D. 13.7.26.1",
+"text": "Sciendum est, ubi iussu magistratus pignus constituitur, non alias constitui, nisi ventum fuerit in possessionem."
+},
+{
+"id": "13.7.27",
+"label": "D. 13.7.27 (Ulpianus)",
+"text": "Petenti mutuam pecuniam creditori, cum prae manu debitor non haberet, species auri dedit, ut pignori apud alium creditorem poneret. Si iam solutione liberatas receptasque eas is qui susceperat tenet, exhibere iubendus est: quod si etiam nunc apud creditorem creditoris sunt, voluntate domini nexae videntur, sed ut liberatae tradantur, domino earum propria actio adversus suum creditorem competit.",
+"inscription": "Ulpianus libro sexto opinionum"
+},
+{
+"id": "13.7.28.pr",
+"label": "D. 13.7.28 pr. (Iulianus)",
+"text": "Si creditor, qui rem pignori acceperat, amissa eius possessione serviana actione petierit et litis aestimationem consecutus sit, postea debitor eandem rem petens exceptione summovetur, nisi offerat ei debitor, quod pro eo solutum est.",
+"inscription": "Iulianus libro 11 digestorum"
+},
+{
+"id": "13.7.28.1",
+"label": "D. 13.7.28.1",
+"text": "Si servus pro peculiari nomine pignus acceperit, actio pigneraticia adversus dominum debitori competit."
+},
+{
+"id": "13.7.29",
+"label": "D. 13.7.29 (Iulianus)",
+"text": "Si rem alienam bona fide emeris et mihi pignori dederis ac precario rogaveris, deinde me dominus heredem instituerit, desinet \"desinit\" pignus esse et sola precarii rogatio supererit: idcirco usucapio tua interpellabitur.",
+"inscription": "Iulianus libro 44 digestorum"
+},
+{
+"id": "13.7.30",
+"label": "D. 13.7.30 (Paulus)",
+"text": "Qui ratiario crediderat, cum ad diem pecunia non solveretur, ratem in flumine sua auctoritate detinuit: postea flumen crevit et ratem abstulit. Si invito ratiario retinuisset, eius periculo ratem fuisse respondit: sed si debitor sua voluntate concessisset, ut retineret, culpam dumtaxat ei praestandam, non vim maiorem.",
+"inscription": "Paulus libro quinto epitomarum Alfeni digestorum"
+},
+{
+"id": "13.7.31",
+"label": "D. 13.7.31 (Africanus)",
+"text": "Si servus pignori datus creditori furtum faciat, liberum est debitori servum pro noxae deditione relinquere: quod si sciens furem pignori dederit, etsi paratus fuerit pro noxae dedito apud me relinquere, nihilo minus habiturum me pigneraticiam actionem, ut indemnem me praestet. Eadem servanda esse Iulianus ait etiam cum depositus vel commodatus servus furtum faciat.",
+"inscription": "Africanus libro octavo quaestionum"
+},
+{
+"id": "13.7.32",
+"label": "D. 13.7.32 (Marcianus)",
+"text": "Cum debitore, qui alienam rem pignori dedit, potest creditor contraria pigneraticia agere, etsi solvendo debitor sit.",
+"inscription": "Marcianus libro quarto regularum"
+},
+{
+"id": "13.7.33",
+"label": "D. 13.7.33 (Marcianus)",
+"text": "Si pecuniam debitor solverit, potest pigneraticia actione uti ad reciperandam antixrysin: nam cum pignus sit hoc verbo poterit uti.",
+"inscription": "Marcianus libro singulari ad formulam hypothecarum"
+},
+{
+"id": "13.7.34",
+"label": "D. 13.7.34 (Marcellus)",
+"text": "Titius cum credidisset pecuniam Sempronio et ob eam pignus accepisset futurumque esset, ut distraheret eam creditor, quia pecunia non solveretur, petit a creditore, ut fundum certo pretio emptum haberet, et cum impetrasset, epistulam, qua se vendidisse fundum creditori significaret, emisit: quaero, an hanc venditionem debitor revocare possit offerendo sortem et usuras quae debentur. Marcellus respondit secundum ea quae proposita essent, revocare non posse.",
+"inscription": "Marcellus libro singulari responsorum"
+},
+{
+"id": "13.7.35.pr",
+"label": "D. 13.7.35 pr. (Florentinus)",
+"text": "Cum et sortis nomine et usurarum aliquid debetur ab eo, qui sub pignoribus pecuniam debet, quidquid ex venditione pignorum recipiatur, primum usuris, quas iam tunc deberi constat, deinde si quid superest sorti accepto ferendum est: nec audiendus est debitor, si, cum parum idoneum se esse sciat, eligit, quo nomine exonerari pignus suum malit.",
+"inscription": "Florentinus libro octavo institutionum"
+},
+{
+"id": "13.7.35.1",
+"label": "D. 13.7.35.1",
+"text": "Pignus manente proprietate debitoris solam possessionem transfert ad creditorem: potest tamen et precario et pro conducto debitor re sua uti."
+},
+{
+"id": "13.7.36.pr",
+"label": "D. 13.7.36 pr. (Ulpianus)",
+"text": "Si quis in pignore pro auro aes subiecisset creditori, qualiter teneatur, quaesitum est. In qua specie rectissime Sabinus scribit, si quidem dato auro aes subiecisset, furti teneri: quod si in dando aes subiecisset, turpiter fecisse, non furem esse. Sed et hic puto pigneraticium iudicium locum habere, et ita Pomponius scribit. Sed et extra ordinem stellionatus nomine plectetur, ut est saepissime rescriptum.",
+"inscription": "Ulpianus libro 11 ad edictum"
+},
+{
+"id": "13.7.36.1",
+"label": "D. 13.7.36.1",
+"text": "Sed et si quis rem alienam mihi pignori dederit sciens prudensque vel si quis alii obligatam mihi obligavit nec me de hoc certioraverit, eodem crimine plectetur. Plane si ea res ampla est et ad modicum aeris fuerit pignerata, dici debebit cessare non solum stellionatus crimen, sed etiam pigneraticiam et de dolo actionem, quasi in nullo captus sit, qui pignori secundo loco accepit."
+},
+{
+"id": "13.7.37",
+"label": "D. 13.7.37 (Paulus)",
+"text": "Si pignus mihi traditum locassem domino, per locationem retineo possessionem, quia antequam conduceret debitor, non fuerit eius possessio, cum et animus mihi retinendi sit et conducenti non sit animus possessionem apiscendi.",
+"inscription": "Paulus libro quinto ad Plautium"
+},
+{
+"id": "13.7.38",
+"label": "D. 13.7.38 (Modestinus)",
+"text": "Pupillo capienti pignus propter metum pigneraticiae actionis necessaria est tutoris auctoritas.",
+"inscription": "Modestinus libro primo differentiarum"
+},
+{
+"id": "13.7.39",
+"label": "D. 13.7.39 (Modestinus)",
+"text": "Gaius Seius ob pecuniam mutuam fundum suum Lucio Titio pignori dedit: postea pactum inter eos factum est, ut creditor pignus suum in compensationem pecuniae suae certo tempore possideret: verum ante expletum tempus creditor cum suprema sua ordinaret, testamento cavit, ut alter ex filiis suis haberet eum fundum et addidit \"quem de Lucio Titio emi\", cum non emisset: hoc testamentum inter ceteros signavit et Gaius Seius, qui fuit debitor. Quaero, an ex hoc quod signavit praeiudicium aliquod sibi fecerit, cum nullum instrumentum venditionis proferatur, sed solum pactum, ut creditor certi temporis fructus caperet. Herennius Modestinus respondit contractui pignoris non obesse, quod debitor testamentum creditoris, in quo se emisse pignus expressit, signasse proponitur.",
+"inscription": "Modestinus libro quarto responsorum"
+},
+{
+"id": "13.7.40.pr",
+"label": "D. 13.7.40 pr. (Papinianus)",
+"text": "Debitor a creditore pignus quod dedit frustra emit, cum rei suae nulla emptio sit: nec si minoris emerit et pignus petat aut dominium vindicet, ei non totum debitum offerenti creditor possessionem restituere cogetur.",
+"inscription": "Papinianus libro tertio responsorum"
+},
+{
+"id": "13.7.40.1",
+"label": "D. 13.7.40.1",
+"text": "Debitoris filius, qui manet in patris potestate, frustra pignus a creditore patris peculiaribus nummis comparat: et ideo si patronus debitoris contra tabulas eius possessionem acceperit, dominii partem optinebit: nam pecunia, quam filius ex re patris in pretium dedit, pignus liberatur."
+},
+{
+"id": "13.7.40.2",
+"label": "D. 13.7.40.2",
+"text": "Soluta pecunia creditor possessionem pignoris, quae corporalis apud eum fuit, restituere debet nec quicquam amplius praestare cogitur. Itaque si medio tempore pignus creditor pignori dederit, domino solvente pecuniam quam debuit secundi pignoris neque persecutio dabitur neque retentio relinquetur."
+},
+{
+"id": "13.7.41",
+"label": "D. 13.7.41 (Paulus)",
+"text": "Rem alienam pignori dedisti, deinde dominus rei eius esse coepisti: datur utilis actio pigneraticia creditori. Non est idem dicendum, si ego Titio, qui rem meam obligaverat sine mea voluntate, heres extitero: hoc enim modo pignoris persecutio concedenda non est creditori, nec utique sufficit ad competendam utilem pigneraticiam actionem eundem esse dominum, qui etiam pecuniam debet. Sed si convenisset de pignore, ut ex suo mendacio arguatur, improbe resistit, quo minus utilis actio moveatur.",
+"inscription": "Paulus libro tertio quaestionum"
+},
+{
+"id": "13.7.42",
+"label": "D. 13.7.42 (Papinianus)",
+"text": "Creditor iudicio, quod de pignore dato proponitur, ut superfluum pretii cum usuris restituat, iure cogitur, nec audiendus erit, si velit emptorem delegare, cum in venditione, quae fit ex facto, suum creditor negotium gerat.",
+"inscription": "Papinianus libro tertio responsorum"
+},
+{
+"id": "13.7.43.pr",
+"label": "D. 13.7.43 pr. (Scaevola)",
+"text": "Locum purum pignori creditori obligavit eique instrumentum emptionis tradidit: et cum eum locum inaedificare vellet, mota sibi controversia a vicino de latitudine, quod alias probare non poterat, petit a creditore, ut instrumentum a se traditum auctoritatis exhiberet: quo non exhibente minorem locum aedificavit atque ita damnum passus est. Quaesitum est, an, si creditor pecuniam petat vel pignus vindicet, doli exceptione posita iudex huius damni rationem habere debeat. Respondit, si operam non dedisset, ut instrumenti facultate subducta debitor caperetur, posse debitorem pecunia soluta pigneraticia agere: opera autem in eo data tunc et ante pecuniam solutam in id quod interest cum creditore agi.",
+"inscription": "Scaevola libro quinto digestorum"
+},
+{
+"id": "13.7.43.1",
+"label": "D. 13.7.43.1",
+"text": "Titius cum pecuniam mutuam accepit a Gaio Seio sub pignore culleorum: istos culleos cum Seius in horreo haberet, missus ex officio annonae centurio culleos ad annonam sustulit ac postea instantia Gaii Seii creditoris reciperati sunt: quaero, intertrituram, quae ex operis facta est, utrum Titius debitor an Seius creditor adgnosecere debeat. Respondit secundum ea quae proponerentur ob id, quod eo nomine intertrimenti adcidisset, non teneri."
+}
+]
+}

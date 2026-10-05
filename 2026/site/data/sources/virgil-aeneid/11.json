@@ -1,0 +1,4577 @@
+{
+"corpus": "virgil-aeneid",
+"unit": "11",
+"title": "Virgil, Aeneid, Aen. 11",
+"passages": [
+{
+"id": "11.1",
+"label": "Verg. Aen. 11.1",
+"text": "Oceanum interea surgens Aurora reliquit:"
+},
+{
+"id": "11.2",
+"label": "Verg. Aen. 11.2",
+"text": "Aeneas, quamquam et sociis dare tempus humandis"
+},
+{
+"id": "11.3",
+"label": "Verg. Aen. 11.3",
+"text": "praecipitant curae turbataque funere mens est,"
+},
+{
+"id": "11.4",
+"label": "Verg. Aen. 11.4",
+"text": "vota deum primo victor solvebat Eoo."
+},
+{
+"id": "11.5",
+"label": "Verg. Aen. 11.5",
+"text": "Ingentem quercum decisis undique ramis"
+},
+{
+"id": "11.6",
+"label": "Verg. Aen. 11.6",
+"text": "constituit tumulo fulgentiaque induit arma,"
+},
+{
+"id": "11.7",
+"label": "Verg. Aen. 11.7",
+"text": "Mezenti ducis exuvias, tibi, magne, tropaeum,"
+},
+{
+"id": "11.8",
+"label": "Verg. Aen. 11.8",
+"text": "bellipotens: aptat rorantis sanguine cristas"
+},
+{
+"id": "11.9",
+"label": "Verg. Aen. 11.9",
+"text": "telaque trunca viri et bis sex thoraca petitum"
+},
+{
+"id": "11.10",
+"label": "Verg. Aen. 11.10",
+"text": "perfossumque locis clipeumque ex aere sinistrae"
+},
+{
+"id": "11.11",
+"label": "Verg. Aen. 11.11",
+"text": "subligat atque ensem collo suspendit eburnum."
+},
+{
+"id": "11.12",
+"label": "Verg. Aen. 11.12",
+"text": "Tum socios, namque omnis eum stipata tegebat"
+},
+{
+"id": "11.13",
+"label": "Verg. Aen. 11.13",
+"text": "turba ducum, sic incipiens hortatur ovantis:"
+},
+{
+"id": "11.14",
+"label": "Verg. Aen. 11.14",
+"text": "Maxima res effecta, viri; timor omnis abesto,"
+},
+{
+"id": "11.15",
+"label": "Verg. Aen. 11.15",
+"text": "quod superest: haec sunt spolia et de rege superbo"
+},
+{
+"id": "11.16",
+"label": "Verg. Aen. 11.16",
+"text": "primitiae, manibusque meis Mezentius hic est."
+},
+{
+"id": "11.17",
+"label": "Verg. Aen. 11.17",
+"text": "Nunc iter ad regem nobis murosque Latinos."
+},
+{
+"id": "11.18",
+"label": "Verg. Aen. 11.18",
+"text": "Arma parate animis et spe praesumite bellum,"
+},
+{
+"id": "11.19",
+"label": "Verg. Aen. 11.19",
+"text": "nequa mora ignaros, ubi primum vellere signa"
+},
+{
+"id": "11.20",
+"label": "Verg. Aen. 11.20",
+"text": "adnuerint superi pubemque educere castris,"
+},
+{
+"id": "11.21",
+"label": "Verg. Aen. 11.21",
+"text": "impediat segnisve metu sententia tardet."
+},
+{
+"id": "11.22",
+"label": "Verg. Aen. 11.22",
+"text": "Interea socios inhumataque corpora terrae"
+},
+{
+"id": "11.23",
+"label": "Verg. Aen. 11.23",
+"text": "mandemus, qui solus honos Acheronte sub imo est."
+},
+{
+"id": "11.24",
+"label": "Verg. Aen. 11.24",
+"text": "Ite, ait, egregias animas, quae sanguine nobis"
+},
+{
+"id": "11.25",
+"label": "Verg. Aen. 11.25",
+"text": "hanc patriam peperere suo, decorate supremis"
+},
+{
+"id": "11.26",
+"label": "Verg. Aen. 11.26",
+"text": "muneribus, maestamque Evandri primus ad urbem"
+},
+{
+"id": "11.27",
+"label": "Verg. Aen. 11.27",
+"text": "mittatur Pallas, quem non virtutis egentem"
+},
+{
+"id": "11.28",
+"label": "Verg. Aen. 11.28",
+"text": "abstulit atra dies et funere mersit acerbo."
+},
+{
+"id": "11.29",
+"label": "Verg. Aen. 11.29",
+"text": "Sic ait inlacrimans recipitque ad limina gressum,"
+},
+{
+"id": "11.30",
+"label": "Verg. Aen. 11.30",
+"text": "corpus ubi exanimi positum Pallantis Acoetes"
+},
+{
+"id": "11.31",
+"label": "Verg. Aen. 11.31",
+"text": "servabat senior, qui Parrhasio Evandro"
+},
+{
+"id": "11.32",
+"label": "Verg. Aen. 11.32",
+"text": "armiger ante fuit, sed non felicibus aeque"
+},
+{
+"id": "11.33",
+"label": "Verg. Aen. 11.33",
+"text": "tum comes auspiciis caro datus ibat alumno."
+},
+{
+"id": "11.34",
+"label": "Verg. Aen. 11.34",
+"text": "Circum omnis famulumque manus Troianaque turba"
+},
+{
+"id": "11.35",
+"label": "Verg. Aen. 11.35",
+"text": "et maestum Iliades crinem de more solutae."
+},
+{
+"id": "11.36",
+"label": "Verg. Aen. 11.36",
+"text": "Ut vero Aeneas foribus sese intulit altis,"
+},
+{
+"id": "11.37",
+"label": "Verg. Aen. 11.37",
+"text": "ingentem gemitum tunsis ad sidera tollunt"
+},
+{
+"id": "11.38",
+"label": "Verg. Aen. 11.38",
+"text": "pectoribus, maestoque immugit regia luctu."
+},
+{
+"id": "11.39",
+"label": "Verg. Aen. 11.39",
+"text": "Ipse caput nivei fultum Pallantis et ora"
+},
+{
+"id": "11.40",
+"label": "Verg. Aen. 11.40",
+"text": "ut vidit levique patens in pectore vulnus"
+},
+{
+"id": "11.41",
+"label": "Verg. Aen. 11.41",
+"text": "cuspidis Ausoniae, lacrimis ita fatur obortis."
+},
+{
+"id": "11.42",
+"label": "Verg. Aen. 11.42",
+"text": "Tene, inquit, miserande puer, cum laeta veniret,"
+},
+{
+"id": "11.43",
+"label": "Verg. Aen. 11.43",
+"text": "invidit Fortuna mihi, ne regna videres"
+},
+{
+"id": "11.44",
+"label": "Verg. Aen. 11.44",
+"text": "nostra neque ad sedes victor veherere paternas?"
+},
+{
+"id": "11.45",
+"label": "Verg. Aen. 11.45",
+"text": "Non haec Evandro de te promissa parenti"
+},
+{
+"id": "11.46",
+"label": "Verg. Aen. 11.46",
+"text": "discedens dederam, cum me complexus euntem"
+},
+{
+"id": "11.47",
+"label": "Verg. Aen. 11.47",
+"text": "mitteret in magnum imperium metuensque moneret"
+},
+{
+"id": "11.48",
+"label": "Verg. Aen. 11.48",
+"text": "acris esse viros, cum dura proelia gente."
+},
+{
+"id": "11.49",
+"label": "Verg. Aen. 11.49",
+"text": "Et nunc ille quidem spe multum captus inani"
+},
+{
+"id": "11.50",
+"label": "Verg. Aen. 11.50",
+"text": "fors et vota facit cumulatque altaria donis:"
+},
+{
+"id": "11.51",
+"label": "Verg. Aen. 11.51",
+"text": "nos iuvenem exanimum et nil iam caelestibus ullis"
+},
+{
+"id": "11.52",
+"label": "Verg. Aen. 11.52",
+"text": "debentem vano maesti comitamur honore."
+},
+{
+"id": "11.53",
+"label": "Verg. Aen. 11.53",
+"text": "Infelix, nati funus crudele videbis!"
+},
+{
+"id": "11.54",
+"label": "Verg. Aen. 11.54",
+"text": "Hi nostri reditus expectatique triumphi!"
+},
+{
+"id": "11.55",
+"label": "Verg. Aen. 11.55",
+"text": "Haec mea magna fides! At non, Evandre, pudendis"
+},
+{
+"id": "11.56",
+"label": "Verg. Aen. 11.56",
+"text": "vulneribus pulsum adspicies nec sospite dirum"
+},
+{
+"id": "11.57",
+"label": "Verg. Aen. 11.57",
+"text": "optabis nato funus pater. Ei mihi, quantum"
+},
+{
+"id": "11.58",
+"label": "Verg. Aen. 11.58",
+"text": "praesidium Ausonia et quantum tu perdis, Iule!"
+},
+{
+"id": "11.59",
+"label": "Verg. Aen. 11.59",
+"text": "Haec ubi deflevit, tolli miserabile corpus"
+},
+{
+"id": "11.60",
+"label": "Verg. Aen. 11.60",
+"text": "imperat et toto lectos ex agmine mittit"
+},
+{
+"id": "11.61",
+"label": "Verg. Aen. 11.61",
+"text": "mille viros, qui supremum comitentur honorem"
+},
+{
+"id": "11.62",
+"label": "Verg. Aen. 11.62",
+"text": "intersintque patris lacrimis, solacia luctus"
+},
+{
+"id": "11.63",
+"label": "Verg. Aen. 11.63",
+"text": "exigua ingentis, misero sed debita patri."
+},
+{
+"id": "11.64",
+"label": "Verg. Aen. 11.64",
+"text": "Haud segnes alii crates et molle feretrum"
+},
+{
+"id": "11.65",
+"label": "Verg. Aen. 11.65",
+"text": "arbuteis texunt virgis et vimine querno"
+},
+{
+"id": "11.66",
+"label": "Verg. Aen. 11.66",
+"text": "exstructosque toros obtentu frondis inumbrant."
+},
+{
+"id": "11.67",
+"label": "Verg. Aen. 11.67",
+"text": "Hic iuvenem agresti sublimem stramine ponunt,"
+},
+{
+"id": "11.68",
+"label": "Verg. Aen. 11.68",
+"text": "qualem virgineo demessum pollice florem"
+},
+{
+"id": "11.69",
+"label": "Verg. Aen. 11.69",
+"text": "seu mollis violae seu languentis hyacinthi,"
+},
+{
+"id": "11.70",
+"label": "Verg. Aen. 11.70",
+"text": "cui neque fulgor adhuc necdum sua forma recessit:"
+},
+{
+"id": "11.71",
+"label": "Verg. Aen. 11.71",
+"text": "non iam mater alit tellus viresque ministrat."
+},
+{
+"id": "11.72",
+"label": "Verg. Aen. 11.72",
+"text": "Tum geminas vestes auroque ostroque rigentis"
+},
+{
+"id": "11.73",
+"label": "Verg. Aen. 11.73",
+"text": "extulit Aeneas, quas illi laeta laborum"
+},
+{
+"id": "11.74",
+"label": "Verg. Aen. 11.74",
+"text": "ipsa suis quondam manibus Sidonia Dido"
+},
+{
+"id": "11.75",
+"label": "Verg. Aen. 11.75",
+"text": "fecerat et tenui telas discreverat auro."
+},
+{
+"id": "11.76",
+"label": "Verg. Aen. 11.76",
+"text": "Harum unam iuveni supremum maestus honorem"
+},
+{
+"id": "11.77",
+"label": "Verg. Aen. 11.77",
+"text": "induit arsurasque comas obnubit amictu,"
+},
+{
+"id": "11.78",
+"label": "Verg. Aen. 11.78",
+"text": "multaque praeterea Laurentis praemia pugnae"
+},
+{
+"id": "11.79",
+"label": "Verg. Aen. 11.79",
+"text": "aggerat et longo praedam iubet ordine duci."
+},
+{
+"id": "11.80",
+"label": "Verg. Aen. 11.80",
+"text": "Addit equos et tela, quibus spoliaverat hostem."
+},
+{
+"id": "11.81",
+"label": "Verg. Aen. 11.81",
+"text": "Vinxerat et post terga manus, quos mitteret umbris"
+},
+{
+"id": "11.82",
+"label": "Verg. Aen. 11.82",
+"text": "inferias, caeso sparsuros sanguine flammas,"
+},
+{
+"id": "11.83",
+"label": "Verg. Aen. 11.83",
+"text": "indutosque iubet truncos hostilibus armis"
+},
+{
+"id": "11.84",
+"label": "Verg. Aen. 11.84",
+"text": "ipsos ferre duces inimicaque nomina figi."
+},
+{
+"id": "11.85",
+"label": "Verg. Aen. 11.85",
+"text": "Ducitur infelix aevo confectus Acoetes:"
+},
+{
+"id": "11.86",
+"label": "Verg. Aen. 11.86",
+"text": "pectora nunc foedans pugnis, nunc unguibus ora"
+},
+{
+"id": "11.87",
+"label": "Verg. Aen. 11.87",
+"text": "sternitur et toto proiectus corpore terrae.~.~."
+},
+{
+"id": "11.88",
+"label": "Verg. Aen. 11.88",
+"text": "Ducunt et Rutulo perfusos sanguine currus."
+},
+{
+"id": "11.89",
+"label": "Verg. Aen. 11.89",
+"text": "Post bellator equus positis insignibus Aethon"
+},
+{
+"id": "11.90",
+"label": "Verg. Aen. 11.90",
+"text": "it lacrimans guttisque umectat grandibus ora."
+},
+{
+"id": "11.91",
+"label": "Verg. Aen. 11.91",
+"text": "Hastam alii galeamque ferunt, nam cetera Turnus"
+},
+{
+"id": "11.92",
+"label": "Verg. Aen. 11.92",
+"text": "victor habet. Tum maesta phalanx Teucrique sequuntur"
+},
+{
+"id": "11.93",
+"label": "Verg. Aen. 11.93",
+"text": "Tyrrhenique omnes et versis Arcades armis."
+},
+{
+"id": "11.94",
+"label": "Verg. Aen. 11.94",
+"text": "Postquam omnis longe comitum praecesserat ordo,"
+},
+{
+"id": "11.95",
+"label": "Verg. Aen. 11.95",
+"text": "substitit Aeneas gemituque haec addidit alto:"
+},
+{
+"id": "11.96",
+"label": "Verg. Aen. 11.96",
+"text": "Nos alias hinc ad lacrimas eadem horrida belli"
+},
+{
+"id": "11.97",
+"label": "Verg. Aen. 11.97",
+"text": "fata vocant: salve aeternum mihi, maxime Palla,"
+},
+{
+"id": "11.98",
+"label": "Verg. Aen. 11.98",
+"text": "aeternumque vale. Nec plura effatus ad altos"
+},
+{
+"id": "11.99",
+"label": "Verg. Aen. 11.99",
+"text": "tendebat muros gressumque in castra ferebat."
+},
+{
+"id": "11.100",
+"label": "Verg. Aen. 11.100",
+"text": "Iamque oratores aderant ex urbe Latina,"
+},
+{
+"id": "11.101",
+"label": "Verg. Aen. 11.101",
+"text": "velati ramis oleae veniamque rogantes:"
+},
+{
+"id": "11.102",
+"label": "Verg. Aen. 11.102",
+"text": "corpora, per campos ferro quae fusa iacebant,"
+},
+{
+"id": "11.103",
+"label": "Verg. Aen. 11.103",
+"text": "redderet ac tumulo sineret succedere terrae;"
+},
+{
+"id": "11.104",
+"label": "Verg. Aen. 11.104",
+"text": "nullum cum victis certamen et aethere cassis;"
+},
+{
+"id": "11.105",
+"label": "Verg. Aen. 11.105",
+"text": "parceret hospitibus quondam socerisque vocatis."
+},
+{
+"id": "11.106",
+"label": "Verg. Aen. 11.106",
+"text": "Quos bonus Aeneas haud aspernanda precantis"
+},
+{
+"id": "11.107",
+"label": "Verg. Aen. 11.107",
+"text": "prosequitur venia et verbis haec insuper addit:"
+},
+{
+"id": "11.108",
+"label": "Verg. Aen. 11.108",
+"text": "Quaenam vos tanto fortuna indigna, Latini,"
+},
+{
+"id": "11.109",
+"label": "Verg. Aen. 11.109",
+"text": "implicuit bello, qui nos fugiatis amicos?"
+},
+{
+"id": "11.110",
+"label": "Verg. Aen. 11.110",
+"text": "Pacem me exanimis et Martis sorte peremptis"
+},
+{
+"id": "11.111",
+"label": "Verg. Aen. 11.111",
+"text": "oratis? Equidem et vivis concedere vellem."
+},
+{
+"id": "11.112",
+"label": "Verg. Aen. 11.112",
+"text": "Nec veni, nisi fata locum sedemque dedissent,"
+},
+{
+"id": "11.113",
+"label": "Verg. Aen. 11.113",
+"text": "nec bellum cum gente gero: rex nostra reliquit"
+},
+{
+"id": "11.114",
+"label": "Verg. Aen. 11.114",
+"text": "hospitia et Turni potius se credidit armis."
+},
+{
+"id": "11.115",
+"label": "Verg. Aen. 11.115",
+"text": "Aequius huic Turnum fuerat se opponere morti."
+},
+{
+"id": "11.116",
+"label": "Verg. Aen. 11.116",
+"text": "Si bellum finire manu, si pellere Teucros"
+},
+{
+"id": "11.117",
+"label": "Verg. Aen. 11.117",
+"text": "apparat, his mecum decuit concurrere telis:"
+},
+{
+"id": "11.118",
+"label": "Verg. Aen. 11.118",
+"text": "vixet, cui vitam deus aut sua dextra dedisset."
+},
+{
+"id": "11.119",
+"label": "Verg. Aen. 11.119",
+"text": "Nunc ite et miseris supponite civibus ignem."
+},
+{
+"id": "11.120",
+"label": "Verg. Aen. 11.120",
+"text": "Dixerat Aeneas. Illi obstipuere silentes"
+},
+{
+"id": "11.121",
+"label": "Verg. Aen. 11.121",
+"text": "conversique oculos inter se atque ora tenebant."
+},
+{
+"id": "11.122",
+"label": "Verg. Aen. 11.122",
+"text": "Tum senior semperque odiis et crimine Drances"
+},
+{
+"id": "11.123",
+"label": "Verg. Aen. 11.123",
+"text": "infensus iuveni Turno sic ore vicissim"
+},
+{
+"id": "11.124",
+"label": "Verg. Aen. 11.124",
+"text": "orsa refert: O fama ingens, ingentior armis"
+},
+{
+"id": "11.125",
+"label": "Verg. Aen. 11.125",
+"text": "vir Troiane, quibus caelo te laudibus aequem?"
+},
+{
+"id": "11.126",
+"label": "Verg. Aen. 11.126",
+"text": "Iustitiaene prius mirer belline laborum?"
+},
+{
+"id": "11.127",
+"label": "Verg. Aen. 11.127",
+"text": "Nos vero haec patriam grati referemus ad urbem"
+},
+{
+"id": "11.128",
+"label": "Verg. Aen. 11.128",
+"text": "et te, siqua viam dederit fortuna, Latino"
+},
+{
+"id": "11.129",
+"label": "Verg. Aen. 11.129",
+"text": "iungemus regi: quaerat sibi foedera Turnus."
+},
+{
+"id": "11.130",
+"label": "Verg. Aen. 11.130",
+"text": "Quin et fatalis murorum attollere moles"
+},
+{
+"id": "11.131",
+"label": "Verg. Aen. 11.131",
+"text": "saxaque subvectare umeris Troiana iuvabit."
+},
+{
+"id": "11.132",
+"label": "Verg. Aen. 11.132",
+"text": "Dixerat haec, unoque omnes eadem ore fremebant."
+},
+{
+"id": "11.133",
+"label": "Verg. Aen. 11.133",
+"text": "Bis senos pepigere dies et pace sequestra"
+},
+{
+"id": "11.134",
+"label": "Verg. Aen. 11.134",
+"text": "per silvas Teucri mixtique inpune Latini"
+},
+{
+"id": "11.135",
+"label": "Verg. Aen. 11.135",
+"text": "erravere iugis. Ferro sonat alta bipenni"
+},
+{
+"id": "11.136",
+"label": "Verg. Aen. 11.136",
+"text": "fraxinus, evertunt actas ad sidera pinus,"
+},
+{
+"id": "11.137",
+"label": "Verg. Aen. 11.137",
+"text": "robora nec cuneis et olentem scindere cedrum"
+},
+{
+"id": "11.138",
+"label": "Verg. Aen. 11.138",
+"text": "nec plaustris cessant vectare gementibus ornos."
+},
+{
+"id": "11.139",
+"label": "Verg. Aen. 11.139",
+"text": "Et iam Fama volans, tanti praenuntia luctus,"
+},
+{
+"id": "11.140",
+"label": "Verg. Aen. 11.140",
+"text": "Evandrum Evandrique domos et moenia replet,"
+},
+{
+"id": "11.141",
+"label": "Verg. Aen. 11.141",
+"text": "quae modo victorem Latio Pallanta ferebat."
+},
+{
+"id": "11.142",
+"label": "Verg. Aen. 11.142",
+"text": "Arcades ad portas ruere et de more vetusto"
+},
+{
+"id": "11.143",
+"label": "Verg. Aen. 11.143",
+"text": "funereas rapuere faces; lucet via longo"
+},
+{
+"id": "11.144",
+"label": "Verg. Aen. 11.144",
+"text": "ordine flammarum et late discriminat agros."
+},
+{
+"id": "11.145",
+"label": "Verg. Aen. 11.145",
+"text": "Contra turba Phrygum veniens plangentia iungit"
+},
+{
+"id": "11.146",
+"label": "Verg. Aen. 11.146",
+"text": "agmina. Quae postquam matres succedere tectis"
+},
+{
+"id": "11.147",
+"label": "Verg. Aen. 11.147",
+"text": "viderunt, maestam incendunt clamoribus urbem."
+},
+{
+"id": "11.148",
+"label": "Verg. Aen. 11.148",
+"text": "At non Evandrum potis est vis ulla tenere,"
+},
+{
+"id": "11.149",
+"label": "Verg. Aen. 11.149",
+"text": "sed venit in medios. Feretro Pallanta reposto"
+},
+{
+"id": "11.150",
+"label": "Verg. Aen. 11.150",
+"text": "procubuit super atque haeret lacrimansque gemensque,"
+},
+{
+"id": "11.151",
+"label": "Verg. Aen. 11.151",
+"text": "et via vix tandem vocis laxata dolore est."
+},
+{
+"id": "11.152",
+"label": "Verg. Aen. 11.152",
+"text": "Non haec, O Palla, dederas promissa parenti,"
+},
+{
+"id": "11.153",
+"label": "Verg. Aen. 11.153",
+"text": "cautius ut saevo velles te credere Marti;"
+},
+{
+"id": "11.154",
+"label": "Verg. Aen. 11.154",
+"text": "haud ignarus eram, quantum nova gloria in armis"
+},
+{
+"id": "11.155",
+"label": "Verg. Aen. 11.155",
+"text": "et praedulce decus primo certamine posset."
+},
+{
+"id": "11.156",
+"label": "Verg. Aen. 11.156",
+"text": "Primitiae iuvenis miserae bellique propinqui"
+},
+{
+"id": "11.157",
+"label": "Verg. Aen. 11.157",
+"text": "dura rudimenta et nulli exaudita deorum"
+},
+{
+"id": "11.158",
+"label": "Verg. Aen. 11.158",
+"text": "vota precesque meae! Tuque, O sanctissima coniunx,"
+},
+{
+"id": "11.159",
+"label": "Verg. Aen. 11.159",
+"text": "felix morte tua neque in hunc servata dolorem!"
+},
+{
+"id": "11.160",
+"label": "Verg. Aen. 11.160",
+"text": "Contra ego vivendo vici mea fata, superstes"
+},
+{
+"id": "11.161",
+"label": "Verg. Aen. 11.161",
+"text": "restarem ut genitor. Troum socia arma secutum"
+},
+{
+"id": "11.162",
+"label": "Verg. Aen. 11.162",
+"text": "obruerent Rutuli telis! Animam ipse dedissem"
+},
+{
+"id": "11.163",
+"label": "Verg. Aen. 11.163",
+"text": "atque haec pompa domum me, non Pallanta, referret,"
+},
+{
+"id": "11.164",
+"label": "Verg. Aen. 11.164",
+"text": "nec vos arguerim, Teucri, nec foedera nec quas"
+},
+{
+"id": "11.165",
+"label": "Verg. Aen. 11.165",
+"text": "iunximus hospitio dextras: sors ista senectae"
+},
+{
+"id": "11.166",
+"label": "Verg. Aen. 11.166",
+"text": "debita erat nostrae. Quod si immatura manebat"
+},
+{
+"id": "11.167",
+"label": "Verg. Aen. 11.167",
+"text": "mors natum, caesis Volscorum milibus ante"
+},
+{
+"id": "11.168",
+"label": "Verg. Aen. 11.168",
+"text": "ducentem in Latium Teucros cecidisse iuvabit."
+},
+{
+"id": "11.169",
+"label": "Verg. Aen. 11.169",
+"text": "Quin ego non alio digner te funere, Palla,"
+},
+{
+"id": "11.170",
+"label": "Verg. Aen. 11.170",
+"text": "quam pius Aeneas"
+},
+{
+"id": "11.172",
+"label": "Verg. Aen. 11.172",
+"text": "Magna tropaea ferunt, quos dat tua dextera Leto:"
+},
+{
+"id": "11.173",
+"label": "Verg. Aen. 11.173",
+"text": "tu quoque nunc stares immanis truncus in armis,"
+},
+{
+"id": "11.174",
+"label": "Verg. Aen. 11.174",
+"text": "esset par aetas et idem si robur ab annis,"
+},
+{
+"id": "11.175",
+"label": "Verg. Aen. 11.175",
+"text": "Turne. Sed infelix Teucros quid demoror armis?"
+},
+{
+"id": "11.176",
+"label": "Verg. Aen. 11.176",
+"text": "Vadite et haec memores regi mandata referte:"
+},
+{
+"id": "11.177",
+"label": "Verg. Aen. 11.177",
+"text": "quod vitam moror invisam Pallante perempto,"
+},
+{
+"id": "11.178",
+"label": "Verg. Aen. 11.178",
+"text": "dextera causa tua est, Turnum natoque patrique"
+},
+{
+"id": "11.179",
+"label": "Verg. Aen. 11.179",
+"text": "quam debere vides. Meritis vacat hic tibi solus"
+},
+{
+"id": "11.180",
+"label": "Verg. Aen. 11.180",
+"text": "fortunaeque locus. Non vitae gaudia quaero,"
+},
+{
+"id": "11.181",
+"label": "Verg. Aen. 11.181",
+"text": "nec fas, sed nato Manis perferre sub imos."
+},
+{
+"id": "11.182",
+"label": "Verg. Aen. 11.182",
+"text": "Aurora interea miseris mortalibus almam"
+},
+{
+"id": "11.183",
+"label": "Verg. Aen. 11.183",
+"text": "extulerat lucem, referens opera atque labores:"
+},
+{
+"id": "11.184",
+"label": "Verg. Aen. 11.184",
+"text": "iam pater Aeneas, iam curvo in litore Tarchon"
+},
+{
+"id": "11.185",
+"label": "Verg. Aen. 11.185",
+"text": "constituere pyras. Huc corpora quisque suorum"
+},
+{
+"id": "11.186",
+"label": "Verg. Aen. 11.186",
+"text": "more tulere patrum, subiectisque ignibus atris"
+},
+{
+"id": "11.187",
+"label": "Verg. Aen. 11.187",
+"text": "conditur in tenebras altum caligine caelum."
+},
+{
+"id": "11.188",
+"label": "Verg. Aen. 11.188",
+"text": "Ter circum accensos cincti fulgentibus armis"
+},
+{
+"id": "11.189",
+"label": "Verg. Aen. 11.189",
+"text": "decurrere rogos, ter maestum funeris ignem"
+},
+{
+"id": "11.190",
+"label": "Verg. Aen. 11.190",
+"text": "lustravere in equis ululatusque ore dedere;"
+},
+{
+"id": "11.191",
+"label": "Verg. Aen. 11.191",
+"text": "spargitur et tellus lacrimis, sparguntur et arma:"
+},
+{
+"id": "11.192",
+"label": "Verg. Aen. 11.192",
+"text": "it caelo clamorque virum clangorque tubarum."
+},
+{
+"id": "11.193",
+"label": "Verg. Aen. 11.193",
+"text": "Hic alii spolia occisis derepta Latinis"
+},
+{
+"id": "11.194",
+"label": "Verg. Aen. 11.194",
+"text": "coniciunt igni, galeas ensesque decoros"
+},
+{
+"id": "11.195",
+"label": "Verg. Aen. 11.195",
+"text": "frenaque ferventisque rotas; pars munera nota,"
+},
+{
+"id": "11.196",
+"label": "Verg. Aen. 11.196",
+"text": "ipsorum clipeos et non felicia tela."
+},
+{
+"id": "11.197",
+"label": "Verg. Aen. 11.197",
+"text": "Multa boum circa mactantur corpora Morti,"
+},
+{
+"id": "11.198",
+"label": "Verg. Aen. 11.198",
+"text": "saetigerosque sues raptasque ex omnibus agris"
+},
+{
+"id": "11.199",
+"label": "Verg. Aen. 11.199",
+"text": "in flammam iugulant pecudes. Tum litore toto"
+},
+{
+"id": "11.200",
+"label": "Verg. Aen. 11.200",
+"text": "ardentis spectant socios semustaque servant"
+},
+{
+"id": "11.201",
+"label": "Verg. Aen. 11.201",
+"text": "busta neque avelli possunt, nox umida donec"
+},
+{
+"id": "11.202",
+"label": "Verg. Aen. 11.202",
+"text": "invertit caelum stellis ardentibus aptum."
+},
+{
+"id": "11.203",
+"label": "Verg. Aen. 11.203",
+"text": "Nec minus et miseri diversa in parte Latini"
+},
+{
+"id": "11.204",
+"label": "Verg. Aen. 11.204",
+"text": "innumeras struxere pyras, et corpora partim"
+},
+{
+"id": "11.205",
+"label": "Verg. Aen. 11.205",
+"text": "multa virum terrae infodiunt avectaque partim"
+},
+{
+"id": "11.206",
+"label": "Verg. Aen. 11.206",
+"text": "finitimos tollunt in agros urbique remittunt,"
+},
+{
+"id": "11.207",
+"label": "Verg. Aen. 11.207",
+"text": "cetera confusaeque ingentem caedis acervum"
+},
+{
+"id": "11.208",
+"label": "Verg. Aen. 11.208",
+"text": "nec numero nec honore cremant: tunc undique vasti"
+},
+{
+"id": "11.209",
+"label": "Verg. Aen. 11.209",
+"text": "certatim crebris conlucent ignibus agri."
+},
+{
+"id": "11.210",
+"label": "Verg. Aen. 11.210",
+"text": "Tertia lux gelidam caelo dimoverat umbram:"
+},
+{
+"id": "11.211",
+"label": "Verg. Aen. 11.211",
+"text": "maerentes altum cinerem et confusa ruebant"
+},
+{
+"id": "11.212",
+"label": "Verg. Aen. 11.212",
+"text": "ossa focis tepidoque onerabant aggere terrae."
+},
+{
+"id": "11.213",
+"label": "Verg. Aen. 11.213",
+"text": "Iam vero in tectis, praedivitis urbe Latini,"
+},
+{
+"id": "11.214",
+"label": "Verg. Aen. 11.214",
+"text": "praecipuus fragor et longi pars maxima luctus."
+},
+{
+"id": "11.215",
+"label": "Verg. Aen. 11.215",
+"text": "Hic matres miseraeque nurus, hic cara sororum"
+},
+{
+"id": "11.216",
+"label": "Verg. Aen. 11.216",
+"text": "pectora maerentum puerique parentibus orbi"
+},
+{
+"id": "11.217",
+"label": "Verg. Aen. 11.217",
+"text": "dirum exsecrantur bellum Turnique hymenaeos:"
+},
+{
+"id": "11.218",
+"label": "Verg. Aen. 11.218",
+"text": "ipsum armis ipsumque iubent decernere ferro,"
+},
+{
+"id": "11.219",
+"label": "Verg. Aen. 11.219",
+"text": "qui regnum Italiae et primos sibi poscat honores."
+},
+{
+"id": "11.220",
+"label": "Verg. Aen. 11.220",
+"text": "ingravat haec saevus Drances solumque vocari"
+},
+{
+"id": "11.221",
+"label": "Verg. Aen. 11.221",
+"text": "testatur, solum posci in certamina Turnum."
+},
+{
+"id": "11.222",
+"label": "Verg. Aen. 11.222",
+"text": "Multa simul contra variis sententia dictis"
+},
+{
+"id": "11.223",
+"label": "Verg. Aen. 11.223",
+"text": "pro Turno, et magnum reginae nomen obumbrat,"
+},
+{
+"id": "11.224",
+"label": "Verg. Aen. 11.224",
+"text": "multa virum meritis sustentat fama tropaeis."
+},
+{
+"id": "11.225",
+"label": "Verg. Aen. 11.225",
+"text": "Hos inter motus, medio in flagrante tumultu,"
+},
+{
+"id": "11.226",
+"label": "Verg. Aen. 11.226",
+"text": "ecce super maesti magna Diomedis ab urbe"
+},
+{
+"id": "11.227",
+"label": "Verg. Aen. 11.227",
+"text": "legati responsa ferunt: nihil omnibus actum"
+},
+{
+"id": "11.228",
+"label": "Verg. Aen. 11.228",
+"text": "tantorum impensis operum, nil dona neque aurum"
+},
+{
+"id": "11.229",
+"label": "Verg. Aen. 11.229",
+"text": "nec magnas valuisse preces, alia arma Latinis"
+},
+{
+"id": "11.230",
+"label": "Verg. Aen. 11.230",
+"text": "quaerenda aut pacem Troiano ab rege petendum."
+},
+{
+"id": "11.231",
+"label": "Verg. Aen. 11.231",
+"text": "Deficit ingenti luctu rex ipse Latinus."
+},
+{
+"id": "11.232",
+"label": "Verg. Aen. 11.232",
+"text": "Fatalem Aenean manifesto numine ferri"
+},
+{
+"id": "11.233",
+"label": "Verg. Aen. 11.233",
+"text": "admonet ira deum tumulique ante ora recentes."
+},
+{
+"id": "11.234",
+"label": "Verg. Aen. 11.234",
+"text": "Ergo concilium magnum primosque suorum"
+},
+{
+"id": "11.235",
+"label": "Verg. Aen. 11.235",
+"text": "imperio accitos alta intra limina cogit."
+},
+{
+"id": "11.236",
+"label": "Verg. Aen. 11.236",
+"text": "olli convenere fluuntque ad regia plenis"
+},
+{
+"id": "11.237",
+"label": "Verg. Aen. 11.237",
+"text": "tecta viis. Sedet in mediis et maximus aevo"
+},
+{
+"id": "11.238",
+"label": "Verg. Aen. 11.238",
+"text": "et primus sceptris haud laeta fronte Latinus."
+},
+{
+"id": "11.239",
+"label": "Verg. Aen. 11.239",
+"text": "Atque hic legatos Aetola ex urbe remissos,"
+},
+{
+"id": "11.240",
+"label": "Verg. Aen. 11.240",
+"text": "quae referant, fari iubet et responsa reposcit"
+},
+{
+"id": "11.241",
+"label": "Verg. Aen. 11.241",
+"text": "ordine cuncta suo. Tum facta silentia linguis,"
+},
+{
+"id": "11.242",
+"label": "Verg. Aen. 11.242",
+"text": "et Venulus dicto parens ita farier infit:"
+},
+{
+"id": "11.243",
+"label": "Verg. Aen. 11.243",
+"text": "Vidimus, o cives, Diomedem Argivaque castra"
+},
+{
+"id": "11.244",
+"label": "Verg. Aen. 11.244",
+"text": "atque iter emensi casus superavimus omnis"
+},
+{
+"id": "11.245",
+"label": "Verg. Aen. 11.245",
+"text": "contigimusque manum, qua concidit Ilia tellus."
+},
+{
+"id": "11.246",
+"label": "Verg. Aen. 11.246",
+"text": "Ille urbem Argyripam patriae cognomine gentis"
+},
+{
+"id": "11.247",
+"label": "Verg. Aen. 11.247",
+"text": "victor Gargani condebat Iapygis agris."
+},
+{
+"id": "11.248",
+"label": "Verg. Aen. 11.248",
+"text": "Postquam introgressi et coram data copia fandi,"
+},
+{
+"id": "11.249",
+"label": "Verg. Aen. 11.249",
+"text": "munera praeferimus, nomen patriamque docemus,"
+},
+{
+"id": "11.250",
+"label": "Verg. Aen. 11.250",
+"text": "qui bellum intulerint, quae causa attraxerit Arpos."
+},
+{
+"id": "11.251",
+"label": "Verg. Aen. 11.251",
+"text": "Auditis ille haec placido sic reddidit ore:"
+},
+{
+"id": "11.252",
+"label": "Verg. Aen. 11.252",
+"text": "O fortunatae gentes, Saturnia regna,"
+},
+{
+"id": "11.253",
+"label": "Verg. Aen. 11.253",
+"text": "antiqui Ausonii, quae vos fortuna quietos"
+},
+{
+"id": "11.254",
+"label": "Verg. Aen. 11.254",
+"text": "sollicitat suadetque ignota lacessere bella?"
+},
+{
+"id": "11.255",
+"label": "Verg. Aen. 11.255",
+"text": "Quicumque Iliacos ferro violavimus agros,"
+},
+{
+"id": "11.256",
+"label": "Verg. Aen. 11.256",
+"text": "mitto ea, quae muris bellando exhausta sub altis,"
+},
+{
+"id": "11.257",
+"label": "Verg. Aen. 11.257",
+"text": "quos Simois premat ille viros, infanda per orbem"
+},
+{
+"id": "11.258",
+"label": "Verg. Aen. 11.258",
+"text": "supplicia et scelerum poenas expendimus omnes,"
+},
+{
+"id": "11.259",
+"label": "Verg. Aen. 11.259",
+"text": "vel Priamo miseranda manus: scit triste Minervae"
+},
+{
+"id": "11.260",
+"label": "Verg. Aen. 11.260",
+"text": "sidus et Euboicae cautes ultorque Caphareus."
+},
+{
+"id": "11.261",
+"label": "Verg. Aen. 11.261",
+"text": "Militia ex illa diversum ad litus abacti"
+},
+{
+"id": "11.262",
+"label": "Verg. Aen. 11.262",
+"text": "Atrides Protei Menelaus adusque columnas"
+},
+{
+"id": "11.263",
+"label": "Verg. Aen. 11.263",
+"text": "exsulat, Aetnaeos vidit Cyclopas Ulixes."
+},
+{
+"id": "11.264",
+"label": "Verg. Aen. 11.264",
+"text": "Regna Neoptolemi referam versosque penates"
+},
+{
+"id": "11.265",
+"label": "Verg. Aen. 11.265",
+"text": "Idomenei? Libycone habitantis litore Locros?"
+},
+{
+"id": "11.266",
+"label": "Verg. Aen. 11.266",
+"text": "Ipse Mycenaeus magnorum ductor Achivom"
+},
+{
+"id": "11.267",
+"label": "Verg. Aen. 11.267",
+"text": "coniugis infandae prima inter limina dextra"
+},
+{
+"id": "11.268",
+"label": "Verg. Aen. 11.268",
+"text": "oppetiit: devictam Asiam subsedit adulter."
+},
+{
+"id": "11.269",
+"label": "Verg. Aen. 11.269",
+"text": "Invidisse deos, patriis ut redditus aris"
+},
+{
+"id": "11.270",
+"label": "Verg. Aen. 11.270",
+"text": "coniugium optatum et pulchram Calydona viderem?"
+},
+{
+"id": "11.271",
+"label": "Verg. Aen. 11.271",
+"text": "Nunc etiam horribili visu portenta sequuntur,"
+},
+{
+"id": "11.272",
+"label": "Verg. Aen. 11.272",
+"text": "et socii amissi petierunt aethera pennis"
+},
+{
+"id": "11.273",
+"label": "Verg. Aen. 11.273",
+"text": "fluminibusque vagantur aves, heu dira meorum"
+},
+{
+"id": "11.274",
+"label": "Verg. Aen. 11.274",
+"text": "supplicia, et scopulos lacrimosis vocibus implent."
+},
+{
+"id": "11.275",
+"label": "Verg. Aen. 11.275",
+"text": "Haec adeo ex illo mihi iam speranda fuerunt"
+},
+{
+"id": "11.276",
+"label": "Verg. Aen. 11.276",
+"text": "tempore, cum ferro caelestia corpora demens"
+},
+{
+"id": "11.277",
+"label": "Verg. Aen. 11.277",
+"text": "adpetii et Veneris violavi volnere dextram."
+},
+{
+"id": "11.278",
+"label": "Verg. Aen. 11.278",
+"text": "Ne vero, ne me ad talis impellite pugnas:"
+},
+{
+"id": "11.279",
+"label": "Verg. Aen. 11.279",
+"text": "nec mihi cum Teucris ullum post eruta bellum"
+},
+{
+"id": "11.280",
+"label": "Verg. Aen. 11.280",
+"text": "Pergama, nec veterum memini laetorve malorum."
+},
+{
+"id": "11.281",
+"label": "Verg. Aen. 11.281",
+"text": "Munera, quae patriis ad me portatis ab oris,"
+},
+{
+"id": "11.282",
+"label": "Verg. Aen. 11.282",
+"text": "vertite ad Aenean. Stetimus tela aspera contra"
+},
+{
+"id": "11.283",
+"label": "Verg. Aen. 11.283",
+"text": "contulimusque manus: experto credite, quantus"
+},
+{
+"id": "11.284",
+"label": "Verg. Aen. 11.284",
+"text": "in clipeum adsurgat, quo turbine torqueat hastam."
+},
+{
+"id": "11.285",
+"label": "Verg. Aen. 11.285",
+"text": "Si duo praeterea talis Idaea tulisset"
+},
+{
+"id": "11.286",
+"label": "Verg. Aen. 11.286",
+"text": "terra viros, ultro Inachias venisset ad urbes"
+},
+{
+"id": "11.287",
+"label": "Verg. Aen. 11.287",
+"text": "Dardanus, et versis lugeret Graecia fatis."
+},
+{
+"id": "11.288",
+"label": "Verg. Aen. 11.288",
+"text": "Quidquid apud durae cessatum est moenia Troiae,"
+},
+{
+"id": "11.289",
+"label": "Verg. Aen. 11.289",
+"text": "Hectoris Aeneaeque manu victoria Graium"
+},
+{
+"id": "11.290",
+"label": "Verg. Aen. 11.290",
+"text": "haesit et in decimum vestigia rettulit annum."
+},
+{
+"id": "11.291",
+"label": "Verg. Aen. 11.291",
+"text": "Ambo animis, ambo insignes praestantibus armis"
+},
+{
+"id": "11.292",
+"label": "Verg. Aen. 11.292",
+"text": "hic pietate prior. Coeant in foedera dextrae,"
+},
+{
+"id": "11.293",
+"label": "Verg. Aen. 11.293",
+"text": "qua datur; ast armis concurrant arma cavete."
+},
+{
+"id": "11.294",
+"label": "Verg. Aen. 11.294",
+"text": "Et responsa simul quae sint, rex optime, regis"
+},
+{
+"id": "11.295",
+"label": "Verg. Aen. 11.295",
+"text": "audisti et quae sit magno sententia bello."
+},
+{
+"id": "11.296",
+"label": "Verg. Aen. 11.296",
+"text": "Vix ea legati, variusque per ora cucurrit"
+},
+{
+"id": "11.297",
+"label": "Verg. Aen. 11.297",
+"text": "Ausonidum turbata fremor: ceu saxa morantur"
+},
+{
+"id": "11.298",
+"label": "Verg. Aen. 11.298",
+"text": "cum rapidos amnis, fit clauso gurgite murmur"
+},
+{
+"id": "11.299",
+"label": "Verg. Aen. 11.299",
+"text": "vicinaeque fremunt ripae crepitantibus undis."
+},
+{
+"id": "11.300",
+"label": "Verg. Aen. 11.300",
+"text": "Ut primum placati animi et trepida ora quierunt,"
+},
+{
+"id": "11.301",
+"label": "Verg. Aen. 11.301",
+"text": "praefatus divos solio rex infit ab alto:"
+},
+{
+"id": "11.302",
+"label": "Verg. Aen. 11.302",
+"text": "Ante equidem summa de re statuisse, Latini,"
+},
+{
+"id": "11.303",
+"label": "Verg. Aen. 11.303",
+"text": "et vellem et fuerat melius, non tempore tali"
+},
+{
+"id": "11.304",
+"label": "Verg. Aen. 11.304",
+"text": "cogere concilium, cum muros adsidet hostis."
+},
+{
+"id": "11.305",
+"label": "Verg. Aen. 11.305",
+"text": "Bellum importunum, cives, cum gente deorum"
+},
+{
+"id": "11.306",
+"label": "Verg. Aen. 11.306",
+"text": "invictisque viris gerimus, quos nulla fatigant"
+},
+{
+"id": "11.307",
+"label": "Verg. Aen. 11.307",
+"text": "proelia: nec victi possunt absistere ferro."
+},
+{
+"id": "11.308",
+"label": "Verg. Aen. 11.308",
+"text": "Spem siquam adscitis Aetolum habuistis in armis,"
+},
+{
+"id": "11.309",
+"label": "Verg. Aen. 11.309",
+"text": "ponite. Spes sibi quisque, sed haec quam angusta videtis;"
+},
+{
+"id": "11.310",
+"label": "Verg. Aen. 11.310",
+"text": "cetera qua rerum iaceant perculsa ruina,"
+},
+{
+"id": "11.311",
+"label": "Verg. Aen. 11.311",
+"text": "ante oculos interque manus sunt omnia vestras."
+},
+{
+"id": "11.312",
+"label": "Verg. Aen. 11.312",
+"text": "Nec quemquam incuso: potuit quae plurima virtus"
+},
+{
+"id": "11.313",
+"label": "Verg. Aen. 11.313",
+"text": "esse, fuit; toto certatum est corpore regni."
+},
+{
+"id": "11.314",
+"label": "Verg. Aen. 11.314",
+"text": "Nunc adeo quae sit dubiae sententia menti"
+},
+{
+"id": "11.315",
+"label": "Verg. Aen. 11.315",
+"text": "expediam et paucis, animos adhibete, docebo."
+},
+{
+"id": "11.316",
+"label": "Verg. Aen. 11.316",
+"text": "Est antiquus ager Tusco mihi proximus amni,"
+},
+{
+"id": "11.317",
+"label": "Verg. Aen. 11.317",
+"text": "longus in occasum, finis super usque Sicanos;"
+},
+{
+"id": "11.318",
+"label": "Verg. Aen. 11.318",
+"text": "Aurunci Rutulique serunt et vomere duros"
+},
+{
+"id": "11.319",
+"label": "Verg. Aen. 11.319",
+"text": "exercent colles atque horum asperrima pascunt."
+},
+{
+"id": "11.320",
+"label": "Verg. Aen. 11.320",
+"text": "Haec omnis regio et celsi plaga pinea montis"
+},
+{
+"id": "11.321",
+"label": "Verg. Aen. 11.321",
+"text": "cedat amicitiae Teucrorum, et foederis aequas"
+},
+{
+"id": "11.322",
+"label": "Verg. Aen. 11.322",
+"text": "dicamus leges sociosque in regna vocemus."
+},
+{
+"id": "11.323",
+"label": "Verg. Aen. 11.323",
+"text": "Considant, si tantus amor, et moenia condant."
+},
+{
+"id": "11.324",
+"label": "Verg. Aen. 11.324",
+"text": "Sin alios finis aliamque capessere gentem"
+},
+{
+"id": "11.325",
+"label": "Verg. Aen. 11.325",
+"text": "est animus possuntque solo decedere nostro:"
+},
+{
+"id": "11.326",
+"label": "Verg. Aen. 11.326",
+"text": "bis denas Italo texamus robore navis"
+},
+{
+"id": "11.327",
+"label": "Verg. Aen. 11.327",
+"text": "seu pluris complere valent, iacet omnis ad undam"
+},
+{
+"id": "11.328",
+"label": "Verg. Aen. 11.328",
+"text": "materies, ipsi numerumque modumque carinis"
+},
+{
+"id": "11.329",
+"label": "Verg. Aen. 11.329",
+"text": "praecipiant, nos aera manus navalia demus."
+},
+{
+"id": "11.330",
+"label": "Verg. Aen. 11.330",
+"text": "Praeterea qui dicta ferant et foedera firment"
+},
+{
+"id": "11.331",
+"label": "Verg. Aen. 11.331",
+"text": "centum oratores prima de gente Latinos"
+},
+{
+"id": "11.332",
+"label": "Verg. Aen. 11.332",
+"text": "ire placet pacisque manu praetendere ramos,"
+},
+{
+"id": "11.333",
+"label": "Verg. Aen. 11.333",
+"text": "munera portantis aurique eborisque talenta"
+},
+{
+"id": "11.334",
+"label": "Verg. Aen. 11.334",
+"text": "et sellam regni trabeamque insignia nostri."
+},
+{
+"id": "11.335",
+"label": "Verg. Aen. 11.335",
+"text": "Consulite in medium et rebus succurrite fessis."
+},
+{
+"id": "11.336",
+"label": "Verg. Aen. 11.336",
+"text": "Tum Drances idem infensus, quem gloria Turni"
+},
+{
+"id": "11.337",
+"label": "Verg. Aen. 11.337",
+"text": "obliqua invidia stimulisque agitabat amaris,"
+},
+{
+"id": "11.338",
+"label": "Verg. Aen. 11.338",
+"text": "largus opum et lingua melior, sed frigida bello"
+},
+{
+"id": "11.339",
+"label": "Verg. Aen. 11.339",
+"text": "dextera, consiliis habitus non futilis auctor,"
+},
+{
+"id": "11.340",
+"label": "Verg. Aen. 11.340",
+"text": "seditione potens (genus huic materna superbum"
+},
+{
+"id": "11.341",
+"label": "Verg. Aen. 11.341",
+"text": "nobilitas dabat, incertum de patre ferebat),"
+},
+{
+"id": "11.342",
+"label": "Verg. Aen. 11.342",
+"text": "surgit et his onerat dictis atque aggerat iras:"
+},
+{
+"id": "11.343",
+"label": "Verg. Aen. 11.343",
+"text": "Rem nulli obscuram nostrae nec vocis egentem"
+},
+{
+"id": "11.344",
+"label": "Verg. Aen. 11.344",
+"text": "consulis, O bone rex: cuncti se scire fatentur,"
+},
+{
+"id": "11.345",
+"label": "Verg. Aen. 11.345",
+"text": "quid fortuna ferat populi, sed dicere mussant."
+},
+{
+"id": "11.346",
+"label": "Verg. Aen. 11.346",
+"text": "Det libertatem fandi flatusque remittat"
+},
+{
+"id": "11.347",
+"label": "Verg. Aen. 11.347",
+"text": "cuius ob auspicium infaustum moresque sinistros"
+},
+{
+"id": "11.348",
+"label": "Verg. Aen. 11.348",
+"text": "(dicam equidem, licet arma mihi mortemque minetur)"
+},
+{
+"id": "11.349",
+"label": "Verg. Aen. 11.349",
+"text": "lumina tot cecidisse ducum totamque videmus"
+},
+{
+"id": "11.350",
+"label": "Verg. Aen. 11.350",
+"text": "consedisse urbem luctu, dum Troia temptat"
+},
+{
+"id": "11.351",
+"label": "Verg. Aen. 11.351",
+"text": "castra fugae fidens et caelum territat armis."
+},
+{
+"id": "11.352",
+"label": "Verg. Aen. 11.352",
+"text": "Unum etiam donis istis, quae plurima mitti"
+},
+{
+"id": "11.353",
+"label": "Verg. Aen. 11.353",
+"text": "Dardanidis dicique iubes, unum, optime regum,"
+},
+{
+"id": "11.354",
+"label": "Verg. Aen. 11.354",
+"text": "adicias nec te ullius violentia vincat,"
+},
+{
+"id": "11.355",
+"label": "Verg. Aen. 11.355",
+"text": "quin natam egregio genero dignisque hymenaeis"
+},
+{
+"id": "11.356",
+"label": "Verg. Aen. 11.356",
+"text": "des, pater, et pacem hanc aeterno foedere iungas."
+},
+{
+"id": "11.357",
+"label": "Verg. Aen. 11.357",
+"text": "Quod si tantus habet mentes et pectora terror,"
+},
+{
+"id": "11.358",
+"label": "Verg. Aen. 11.358",
+"text": "ipsum obtestemur veniamque oremus ab ipso:"
+},
+{
+"id": "11.359",
+"label": "Verg. Aen. 11.359",
+"text": "cedat, ius proprium regi patriaeque remittat."
+},
+{
+"id": "11.360",
+"label": "Verg. Aen. 11.360",
+"text": "Quid miseros totiens in aperta pericula cives"
+},
+{
+"id": "11.361",
+"label": "Verg. Aen. 11.361",
+"text": "proicis, O Latio caput horum et causa malorum?"
+},
+{
+"id": "11.362",
+"label": "Verg. Aen. 11.362",
+"text": "Nulla salus bello: pacem te poscimus omnes,"
+},
+{
+"id": "11.363",
+"label": "Verg. Aen. 11.363",
+"text": "Turne, simul pacis solum inviolabile pignus."
+},
+{
+"id": "11.364",
+"label": "Verg. Aen. 11.364",
+"text": "Primus ego, invisum quem tu tibi fingis, et esse"
+},
+{
+"id": "11.365",
+"label": "Verg. Aen. 11.365",
+"text": "nil moror, en supplex venio. Miserere tuorum,"
+},
+{
+"id": "11.366",
+"label": "Verg. Aen. 11.366",
+"text": "pone animos et pulsus abi. Sat funera fusi"
+},
+{
+"id": "11.367",
+"label": "Verg. Aen. 11.367",
+"text": "vidimus ingentis et desolavimus agros."
+},
+{
+"id": "11.368",
+"label": "Verg. Aen. 11.368",
+"text": "Aut si fama movet, si tantum pectore robur"
+},
+{
+"id": "11.369",
+"label": "Verg. Aen. 11.369",
+"text": "concipis et si adeo dotalis regia cordi est,"
+},
+{
+"id": "11.370",
+"label": "Verg. Aen. 11.370",
+"text": "aude atque adversum fidens fer pectus in hostem."
+},
+{
+"id": "11.371",
+"label": "Verg. Aen. 11.371",
+"text": "Scilicet ut Turno contingat regia coniunx,"
+},
+{
+"id": "11.372",
+"label": "Verg. Aen. 11.372",
+"text": "nos animae viles, inhumata infletaque turba,"
+},
+{
+"id": "11.373",
+"label": "Verg. Aen. 11.373",
+"text": "sternamur campis. Etiam tu, siqua tibi vis,"
+},
+{
+"id": "11.374",
+"label": "Verg. Aen. 11.374",
+"text": "si patrii quid Martis habes, illum aspice contra,"
+},
+{
+"id": "11.375",
+"label": "Verg. Aen. 11.375",
+"text": "qui vocat."
+},
+{
+"id": "11.376",
+"label": "Verg. Aen. 11.376",
+"text": "Talibus exarsit dictis violentia Turni;"
+},
+{
+"id": "11.377",
+"label": "Verg. Aen. 11.377",
+"text": "dat gemitum rumpitque has imo pectore voces"
+},
+{
+"id": "11.378",
+"label": "Verg. Aen. 11.378",
+"text": "Larga quidem, Drance, semper tibi copia fandi"
+},
+{
+"id": "11.379",
+"label": "Verg. Aen. 11.379",
+"text": "tum, cum bella manus poscunt, patribusque vocatis"
+},
+{
+"id": "11.380",
+"label": "Verg. Aen. 11.380",
+"text": "primus ades. Sed non replenda est curia verbis,"
+},
+{
+"id": "11.381",
+"label": "Verg. Aen. 11.381",
+"text": "quae tuto tibi magna volant, dum distinet hostem"
+},
+{
+"id": "11.382",
+"label": "Verg. Aen. 11.382",
+"text": "agger murorum nec inundant sanguine fossae."
+},
+{
+"id": "11.383",
+"label": "Verg. Aen. 11.383",
+"text": "Proinde tona eloquio, solitum tibi, meque timoris"
+},
+{
+"id": "11.384",
+"label": "Verg. Aen. 11.384",
+"text": "argue tu, Drance, quando tot stragis acervos"
+},
+{
+"id": "11.385",
+"label": "Verg. Aen. 11.385",
+"text": "Teucrorum tua dextra dedit passimque tropaeis"
+},
+{
+"id": "11.386",
+"label": "Verg. Aen. 11.386",
+"text": "insignis agros. Possit quid vivida virtus,"
+},
+{
+"id": "11.387",
+"label": "Verg. Aen. 11.387",
+"text": "experiare licet; nec longe scilicet hostes"
+},
+{
+"id": "11.388",
+"label": "Verg. Aen. 11.388",
+"text": "quaerendi nobis: circumstant undique muros."
+},
+{
+"id": "11.389",
+"label": "Verg. Aen. 11.389",
+"text": "Imus in adversos: quid cessas? An tibi Mavors"
+},
+{
+"id": "11.390",
+"label": "Verg. Aen. 11.390",
+"text": "ventosa in lingua pedibusque fugacibus istis"
+},
+{
+"id": "11.391",
+"label": "Verg. Aen. 11.391",
+"text": "semper erit?"
+},
+{
+"id": "11.392",
+"label": "Verg. Aen. 11.392",
+"text": "Pulsus ego? Aut quisquam merito, foedissime, pulsum"
+},
+{
+"id": "11.393",
+"label": "Verg. Aen. 11.393",
+"text": "arguet, Iliaco tumidum qui crescere Thybrim"
+},
+{
+"id": "11.394",
+"label": "Verg. Aen. 11.394",
+"text": "sanguine et Evandri totam cum stirpe videbit"
+},
+{
+"id": "11.395",
+"label": "Verg. Aen. 11.395",
+"text": "procubuisse domum atque exutos Arcadas armis?"
+},
+{
+"id": "11.396",
+"label": "Verg. Aen. 11.396",
+"text": "Haud ita me experti Bitias et Pandarus ingens"
+},
+{
+"id": "11.397",
+"label": "Verg. Aen. 11.397",
+"text": "et quos mille die victor sub Tartara misi,"
+},
+{
+"id": "11.398",
+"label": "Verg. Aen. 11.398",
+"text": "inclusus muris hostilique aggere saeptus."
+},
+{
+"id": "11.399",
+"label": "Verg. Aen. 11.399",
+"text": "Nulla salus bello. Capiti cane talia, demens,"
+},
+{
+"id": "11.400",
+"label": "Verg. Aen. 11.400",
+"text": "Dardanio rebusque tuis. Proinde omnia magno"
+},
+{
+"id": "11.401",
+"label": "Verg. Aen. 11.401",
+"text": "ne cessa turbare metu atque extollere vires"
+},
+{
+"id": "11.402",
+"label": "Verg. Aen. 11.402",
+"text": "gentis bis victae, contra premere arma Latini."
+},
+{
+"id": "11.403",
+"label": "Verg. Aen. 11.403",
+"text": "Nunc et Myrmidonum proceres Phrygia arma tremescunt,"
+},
+{
+"id": "11.404",
+"label": "Verg. Aen. 11.404",
+"text": "nunc et Tydides et Larissaeus Achilles,"
+},
+{
+"id": "11.405",
+"label": "Verg. Aen. 11.405",
+"text": "amnis et Hadriacas retro fugit Aufidus undas."
+},
+{
+"id": "11.406",
+"label": "Verg. Aen. 11.406",
+"text": "Vel cum se pavidum contra mea iurgia fingit"
+},
+{
+"id": "11.407",
+"label": "Verg. Aen. 11.407",
+"text": "artificis scelus et formidine crimen acerbat."
+},
+{
+"id": "11.408",
+"label": "Verg. Aen. 11.408",
+"text": "Numquam animam talem dextra hac, absiste moveri,"
+},
+{
+"id": "11.409",
+"label": "Verg. Aen. 11.409",
+"text": "amittes: habitet tecum et sit pectore in isto."
+},
+{
+"id": "11.410",
+"label": "Verg. Aen. 11.410",
+"text": "Nunc ad te et tua magna, pater, consulta revertor."
+},
+{
+"id": "11.411",
+"label": "Verg. Aen. 11.411",
+"text": "Si nullam nostris ultra spem ponis in armis,"
+},
+{
+"id": "11.412",
+"label": "Verg. Aen. 11.412",
+"text": "si tam deserti sumus et semel agmine verso"
+},
+{
+"id": "11.413",
+"label": "Verg. Aen. 11.413",
+"text": "funditus occidimus neque habet Fortuna regressum?"
+},
+{
+"id": "11.414",
+"label": "Verg. Aen. 11.414",
+"text": "oremus pacem et dextras tendamus inertis."
+},
+{
+"id": "11.415",
+"label": "Verg. Aen. 11.415",
+"text": "Quamquam O, si solitae quicquam virtutis adesset!"
+},
+{
+"id": "11.416",
+"label": "Verg. Aen. 11.416",
+"text": "Ille mihi ante alios fortunatusque laborum"
+},
+{
+"id": "11.417",
+"label": "Verg. Aen. 11.417",
+"text": "egregiusque animi, qui, nequid tale videret,"
+},
+{
+"id": "11.418",
+"label": "Verg. Aen. 11.418",
+"text": "procubuit moriens et humum semel ore momordit."
+},
+{
+"id": "11.419",
+"label": "Verg. Aen. 11.419",
+"text": "Sin et opes nobis et adhuc intacta iuventus"
+},
+{
+"id": "11.420",
+"label": "Verg. Aen. 11.420",
+"text": "auxilioque urbes Italae populique supersunt,"
+},
+{
+"id": "11.421",
+"label": "Verg. Aen. 11.421",
+"text": "sin et Troianis cum multo gloria venit"
+},
+{
+"id": "11.422",
+"label": "Verg. Aen. 11.422",
+"text": "sanguine, sunt illis sua funera parque per omnis"
+},
+{
+"id": "11.423",
+"label": "Verg. Aen. 11.423",
+"text": "tempestas: cur indecores in limine primo"
+},
+{
+"id": "11.424",
+"label": "Verg. Aen. 11.424",
+"text": "deficimus? Cur ante tubam tremor occupat artus?"
+},
+{
+"id": "11.425",
+"label": "Verg. Aen. 11.425",
+"text": "Multa dies variisque labor mutabilis aevi"
+},
+{
+"id": "11.426",
+"label": "Verg. Aen. 11.426",
+"text": "rettulit in melius, multos alterna revisens"
+},
+{
+"id": "11.427",
+"label": "Verg. Aen. 11.427",
+"text": "lusit et in solido rursus Fortuna locavit."
+},
+{
+"id": "11.428",
+"label": "Verg. Aen. 11.428",
+"text": "Non erit auxilio nobis Aetolus et Arpi:"
+},
+{
+"id": "11.429",
+"label": "Verg. Aen. 11.429",
+"text": "at Messapus erit felixque Tolumnius et quos"
+},
+{
+"id": "11.430",
+"label": "Verg. Aen. 11.430",
+"text": "tot populi misere duces, nec parva sequetur"
+},
+{
+"id": "11.431",
+"label": "Verg. Aen. 11.431",
+"text": "gloria delectos Latio et Laurentibus agris."
+},
+{
+"id": "11.432",
+"label": "Verg. Aen. 11.432",
+"text": "Est et Volscorum egregia de gente Camilla,"
+},
+{
+"id": "11.433",
+"label": "Verg. Aen. 11.433",
+"text": "agmen agens equitum et florentis aere catervas."
+},
+{
+"id": "11.434",
+"label": "Verg. Aen. 11.434",
+"text": "Quod si me solum Teucri in certamina poscunt"
+},
+{
+"id": "11.435",
+"label": "Verg. Aen. 11.435",
+"text": "idque placet tantumque bonis communibus obsto,"
+},
+{
+"id": "11.436",
+"label": "Verg. Aen. 11.436",
+"text": "non adeo has exosa manus Victoria fugit,"
+},
+{
+"id": "11.437",
+"label": "Verg. Aen. 11.437",
+"text": "ut tanta quicquam pro spe temptare recusem."
+},
+{
+"id": "11.438",
+"label": "Verg. Aen. 11.438",
+"text": "Ibo animis contra, vel magnum praestet Achillem"
+},
+{
+"id": "11.439",
+"label": "Verg. Aen. 11.439",
+"text": "factaque Vulcani manibus paria induat arma"
+},
+{
+"id": "11.440",
+"label": "Verg. Aen. 11.440",
+"text": "ille licet. Vobis animam hanc soceroque Latino"
+},
+{
+"id": "11.441",
+"label": "Verg. Aen. 11.441",
+"text": "Turnus ego, haud ulli veterum virtute secundus,"
+},
+{
+"id": "11.442",
+"label": "Verg. Aen. 11.442",
+"text": "devovi. Solum Aeneas vocat: et vocet oro,"
+},
+{
+"id": "11.443",
+"label": "Verg. Aen. 11.443",
+"text": "nec Drances potius, sive est haec ira deorum,"
+},
+{
+"id": "11.444",
+"label": "Verg. Aen. 11.444",
+"text": "morte luat, sive est virtus et gloria, tollat."
+},
+{
+"id": "11.445",
+"label": "Verg. Aen. 11.445",
+"text": "Illi haec inter se dubiis de rebus agebant"
+},
+{
+"id": "11.446",
+"label": "Verg. Aen. 11.446",
+"text": "certantes; castra Aeneas aciemque movebat:"
+},
+{
+"id": "11.447",
+"label": "Verg. Aen. 11.447",
+"text": "nuntius ingenti per regia tecta tumultu"
+},
+{
+"id": "11.448",
+"label": "Verg. Aen. 11.448",
+"text": "ecce ruit magnisque urbem terroribus implet,"
+},
+{
+"id": "11.449",
+"label": "Verg. Aen. 11.449",
+"text": "instructos acie Tiberino a flumine Teucros"
+},
+{
+"id": "11.450",
+"label": "Verg. Aen. 11.450",
+"text": "Tyrrhenamque manum totis descendere campis."
+},
+{
+"id": "11.451",
+"label": "Verg. Aen. 11.451",
+"text": "Extemplo turbati animi concussaque vulgi"
+},
+{
+"id": "11.452",
+"label": "Verg. Aen. 11.452",
+"text": "pectora et adrectae stimulis haud mollibus irae."
+},
+{
+"id": "11.453",
+"label": "Verg. Aen. 11.453",
+"text": "Arma manu trepidi poscunt, fremit arma iuventus,"
+},
+{
+"id": "11.454",
+"label": "Verg. Aen. 11.454",
+"text": "flent maesti mussantque patres. Hic undique clamor"
+},
+{
+"id": "11.455",
+"label": "Verg. Aen. 11.455",
+"text": "dissensu vario magnus se tollit in auras"
+},
+{
+"id": "11.456",
+"label": "Verg. Aen. 11.456",
+"text": "haud secus atque alto in luco cum forte catervae"
+},
+{
+"id": "11.457",
+"label": "Verg. Aen. 11.457",
+"text": "consedere avium piscosove amne Padusae"
+},
+{
+"id": "11.458",
+"label": "Verg. Aen. 11.458",
+"text": "dant sonitum rauci per stagna loquacia cycni."
+},
+{
+"id": "11.459",
+"label": "Verg. Aen. 11.459",
+"text": "Immo, ait, O cives adrepto tempore, Turnus,"
+},
+{
+"id": "11.460",
+"label": "Verg. Aen. 11.460",
+"text": "cogite concilium et pacem laudate sedentes:"
+},
+{
+"id": "11.461",
+"label": "Verg. Aen. 11.461",
+"text": "illi armis in regna ruunt. Nec plura locutus"
+},
+{
+"id": "11.462",
+"label": "Verg. Aen. 11.462",
+"text": "corripuit sese et tectis citus extulit altis."
+},
+{
+"id": "11.463",
+"label": "Verg. Aen. 11.463",
+"text": "Tu, Voluse, armari Volscorum edice maniplos,"
+},
+{
+"id": "11.464",
+"label": "Verg. Aen. 11.464",
+"text": "duc, ait, et Rutulos. Equitem Messapus in armis"
+},
+{
+"id": "11.465",
+"label": "Verg. Aen. 11.465",
+"text": "et cum fratre Coras latis diffundite campis."
+},
+{
+"id": "11.466",
+"label": "Verg. Aen. 11.466",
+"text": "Pars aditus urbis firmet turrisque capessat,"
+},
+{
+"id": "11.467",
+"label": "Verg. Aen. 11.467",
+"text": "cetera, qua iusso, mecum manus inferat arma."
+},
+{
+"id": "11.468",
+"label": "Verg. Aen. 11.468",
+"text": "Ilicet in muros tota discurritur urbe."
+},
+{
+"id": "11.469",
+"label": "Verg. Aen. 11.469",
+"text": "Consilium ipse pater et magna incepta Latinus"
+},
+{
+"id": "11.470",
+"label": "Verg. Aen. 11.470",
+"text": "deserit ac tristi turbatus tempore differt"
+},
+{
+"id": "11.471",
+"label": "Verg. Aen. 11.471",
+"text": "multaque se incusat, qui non adceperit ultro"
+},
+{
+"id": "11.472",
+"label": "Verg. Aen. 11.472",
+"text": "Dardanium Aenean generumque adsciverit urbi."
+},
+{
+"id": "11.473",
+"label": "Verg. Aen. 11.473",
+"text": "Praefodiunt alii portas aut saxa sudesque"
+},
+{
+"id": "11.474",
+"label": "Verg. Aen. 11.474",
+"text": "subvectant. Bello dat signum rauca cruentum"
+},
+{
+"id": "11.475",
+"label": "Verg. Aen. 11.475",
+"text": "bucina. Tum muros varia cinxere corona"
+},
+{
+"id": "11.476",
+"label": "Verg. Aen. 11.476",
+"text": "matronae puerique: vocat labor ultimus omnis."
+},
+{
+"id": "11.477",
+"label": "Verg. Aen. 11.477",
+"text": "Nec non ad templum summasque ad Palladis arces"
+},
+{
+"id": "11.478",
+"label": "Verg. Aen. 11.478",
+"text": "subvehitur magna matrum regina caterva"
+},
+{
+"id": "11.479",
+"label": "Verg. Aen. 11.479",
+"text": "dona ferens, iuxtaque comes Lavinia virgo,"
+},
+{
+"id": "11.480",
+"label": "Verg. Aen. 11.480",
+"text": "causa mali tanti, oculos deiecta decoros."
+},
+{
+"id": "11.481",
+"label": "Verg. Aen. 11.481",
+"text": "Succedunt matres et templum ture vaporant"
+},
+{
+"id": "11.482",
+"label": "Verg. Aen. 11.482",
+"text": "et maestas alto fundunt de limine voces:"
+},
+{
+"id": "11.483",
+"label": "Verg. Aen. 11.483",
+"text": "Armipotens, praeses belli, Tritonia virgo,"
+},
+{
+"id": "11.484",
+"label": "Verg. Aen. 11.484",
+"text": "frange manu telum Phrygii praedonis et ipsum"
+},
+{
+"id": "11.485",
+"label": "Verg. Aen. 11.485",
+"text": "pronum sterne solo portisque effunde sub altis."
+},
+{
+"id": "11.486",
+"label": "Verg. Aen. 11.486",
+"text": "Cingitur ipse furens certatim in proelia Turnus."
+},
+{
+"id": "11.487",
+"label": "Verg. Aen. 11.487",
+"text": "Iamque adeo rutilum thoraca indutus aenis"
+},
+{
+"id": "11.488",
+"label": "Verg. Aen. 11.488",
+"text": "horrebat squamis surasque incluserat auro,"
+},
+{
+"id": "11.489",
+"label": "Verg. Aen. 11.489",
+"text": "tempora nudus adhuc, laterique adcinxerat ensem"
+},
+{
+"id": "11.490",
+"label": "Verg. Aen. 11.490",
+"text": "fulgebatque alta decurrens aureus arce,"
+},
+{
+"id": "11.491",
+"label": "Verg. Aen. 11.491",
+"text": "exsultatque animis et spe iam praecipit hostem:"
+},
+{
+"id": "11.492",
+"label": "Verg. Aen. 11.492",
+"text": "qualis ubi abruptis fugit praesaepia vinclis"
+},
+{
+"id": "11.493",
+"label": "Verg. Aen. 11.493",
+"text": "tandem liber equus campoque potitus aperto"
+},
+{
+"id": "11.494",
+"label": "Verg. Aen. 11.494",
+"text": "aut ille in pastus armentaque tendit equarum"
+},
+{
+"id": "11.495",
+"label": "Verg. Aen. 11.495",
+"text": "aut adsuetus aquae perfundi flumine noto"
+},
+{
+"id": "11.496",
+"label": "Verg. Aen. 11.496",
+"text": "emicat adrectisque fremit cervicibus alte"
+},
+{
+"id": "11.497",
+"label": "Verg. Aen. 11.497",
+"text": "luxurians, luduntque iubae per colla, per armos."
+},
+{
+"id": "11.498",
+"label": "Verg. Aen. 11.498",
+"text": "Obvia cui Volscorum acie comitante Camilla"
+},
+{
+"id": "11.499",
+"label": "Verg. Aen. 11.499",
+"text": "occurrit portisque ab equo regina sub ipsis"
+},
+{
+"id": "11.500",
+"label": "Verg. Aen. 11.500",
+"text": "desiluit, quam tota cohors imitata relictis"
+},
+{
+"id": "11.501",
+"label": "Verg. Aen. 11.501",
+"text": "ad terram defluxit equis; tum talia fatur:"
+},
+{
+"id": "11.502",
+"label": "Verg. Aen. 11.502",
+"text": "Turne, sui merito siqua est fiducia forti,"
+},
+{
+"id": "11.503",
+"label": "Verg. Aen. 11.503",
+"text": "audeo et Aeneadum promitto occurrere turmae"
+},
+{
+"id": "11.504",
+"label": "Verg. Aen. 11.504",
+"text": "solaque Tyrrhenos equites ire obvia contra."
+},
+{
+"id": "11.505",
+"label": "Verg. Aen. 11.505",
+"text": "Me sine prima manu temptare pericula belli"
+},
+{
+"id": "11.506",
+"label": "Verg. Aen. 11.506",
+"text": "tu pedes ad muros subsiste et moenia serva."
+},
+{
+"id": "11.507",
+"label": "Verg. Aen. 11.507",
+"text": "Turnus ad haec, oculos horrenda in virgine fixus:"
+},
+{
+"id": "11.508",
+"label": "Verg. Aen. 11.508",
+"text": "O decus Italiae virgo, quas dicere grates"
+},
+{
+"id": "11.509",
+"label": "Verg. Aen. 11.509",
+"text": "quasve referre parem? Sed nunc, est omnia quando"
+},
+{
+"id": "11.510",
+"label": "Verg. Aen. 11.510",
+"text": "iste animus supra, mecum partire laborem."
+},
+{
+"id": "11.511",
+"label": "Verg. Aen. 11.511",
+"text": "Aeneas, ut fama fidem missique reportant"
+},
+{
+"id": "11.512",
+"label": "Verg. Aen. 11.512",
+"text": "exploratores, equitum levia improbus arma"
+},
+{
+"id": "11.513",
+"label": "Verg. Aen. 11.513",
+"text": "praemisit, quaterent campos; ipse ardua montis"
+},
+{
+"id": "11.514",
+"label": "Verg. Aen. 11.514",
+"text": "per deserta iugo superans adventat ad urbem."
+},
+{
+"id": "11.515",
+"label": "Verg. Aen. 11.515",
+"text": "Furta paro belli convexo in tramite silvae,"
+},
+{
+"id": "11.516",
+"label": "Verg. Aen. 11.516",
+"text": "ut bivias armato obsidam milite fauces."
+},
+{
+"id": "11.517",
+"label": "Verg. Aen. 11.517",
+"text": "Tu Tyrrhenum equitem conlatis excipe signis;"
+},
+{
+"id": "11.518",
+"label": "Verg. Aen. 11.518",
+"text": "tecum acer Messapus erit turmaeque Latinae"
+},
+{
+"id": "11.519",
+"label": "Verg. Aen. 11.519",
+"text": "Tiburtique manus, ducis et tu concipe curam."
+},
+{
+"id": "11.520",
+"label": "Verg. Aen. 11.520",
+"text": "Sic ait, et paribus Messapum in proelia dictis"
+},
+{
+"id": "11.521",
+"label": "Verg. Aen. 11.521",
+"text": "hortatur sociosque duces et pergit in hostem."
+},
+{
+"id": "11.522",
+"label": "Verg. Aen. 11.522",
+"text": "Est curvo anfractu valles, adcommoda fraudi"
+},
+{
+"id": "11.523",
+"label": "Verg. Aen. 11.523",
+"text": "armorumque dolis, quam densis frondibus atrum"
+},
+{
+"id": "11.524",
+"label": "Verg. Aen. 11.524",
+"text": "urget utrimque latus, tenuis quo semita ducit"
+},
+{
+"id": "11.525",
+"label": "Verg. Aen. 11.525",
+"text": "angustaeque ferunt fauces aditusque maligni."
+},
+{
+"id": "11.526",
+"label": "Verg. Aen. 11.526",
+"text": "Hanc super in speculis summoque in vertice montis"
+},
+{
+"id": "11.527",
+"label": "Verg. Aen. 11.527",
+"text": "planities ignota iacet tutique receptus,"
+},
+{
+"id": "11.528",
+"label": "Verg. Aen. 11.528",
+"text": "seu dextra laevaque velis occurrere pugnae,"
+},
+{
+"id": "11.529",
+"label": "Verg. Aen. 11.529",
+"text": "sive instare iugis et grandia volvere saxa."
+},
+{
+"id": "11.530",
+"label": "Verg. Aen. 11.530",
+"text": "Huc iuvenis nota fertur regione viarum"
+},
+{
+"id": "11.531",
+"label": "Verg. Aen. 11.531",
+"text": "arripuitque locum et silvis insedit iniquis."
+},
+{
+"id": "11.532",
+"label": "Verg. Aen. 11.532",
+"text": "Velocem interea superis in sedibus Opim,"
+},
+{
+"id": "11.533",
+"label": "Verg. Aen. 11.533",
+"text": "unam ex virginibus sociis sacraque caterva,"
+},
+{
+"id": "11.534",
+"label": "Verg. Aen. 11.534",
+"text": "compellabat et has tristis Latonia voces"
+},
+{
+"id": "11.535",
+"label": "Verg. Aen. 11.535",
+"text": "ore dabat: Graditur bellum ad crudele Camilla,"
+},
+{
+"id": "11.536",
+"label": "Verg. Aen. 11.536",
+"text": "O virgo, et nostris nequiquam cingitur armis,"
+},
+{
+"id": "11.537",
+"label": "Verg. Aen. 11.537",
+"text": "cara mihi ante alias. Neque enim novus iste Dianae"
+},
+{
+"id": "11.538",
+"label": "Verg. Aen. 11.538",
+"text": "venit amor subitaque animum dulcedine movit."
+},
+{
+"id": "11.539",
+"label": "Verg. Aen. 11.539",
+"text": "Pulsus ob invidiam regno viresque superbas"
+},
+{
+"id": "11.540",
+"label": "Verg. Aen. 11.540",
+"text": "Priverno antiqua Metabus cum excederet urbe,"
+},
+{
+"id": "11.541",
+"label": "Verg. Aen. 11.541",
+"text": "infantem fugiens media inter proelia belli"
+},
+{
+"id": "11.542",
+"label": "Verg. Aen. 11.542",
+"text": "sustulit exsilio comitem matrisque vocavit"
+},
+{
+"id": "11.543",
+"label": "Verg. Aen. 11.543",
+"text": "nomine Casmillae mutata parte Camillam."
+},
+{
+"id": "11.544",
+"label": "Verg. Aen. 11.544",
+"text": "Ipse sinu prae se portans iuga longa petebat"
+},
+{
+"id": "11.545",
+"label": "Verg. Aen. 11.545",
+"text": "solorum nemorum: tela undique saeva premebant"
+},
+{
+"id": "11.546",
+"label": "Verg. Aen. 11.546",
+"text": "et circumfuso volitabant milite Volsci."
+},
+{
+"id": "11.547",
+"label": "Verg. Aen. 11.547",
+"text": "Ecce fugae medio summis Amasenus abundans"
+},
+{
+"id": "11.548",
+"label": "Verg. Aen. 11.548",
+"text": "spumabat ripis: tantus se nubibus imber"
+},
+{
+"id": "11.549",
+"label": "Verg. Aen. 11.549",
+"text": "ruperat. Ille, innare parans, infantis amore"
+},
+{
+"id": "11.550",
+"label": "Verg. Aen. 11.550",
+"text": "tardatur caroque oneri timet. Omnia secum"
+},
+{
+"id": "11.551",
+"label": "Verg. Aen. 11.551",
+"text": "versanti subito vix haec sententia sedit."
+},
+{
+"id": "11.552",
+"label": "Verg. Aen. 11.552",
+"text": "Telum immane manu valida quod forte gerebat"
+},
+{
+"id": "11.553",
+"label": "Verg. Aen. 11.553",
+"text": "bellator, solidum nodis et robore cocto,"
+},
+{
+"id": "11.554",
+"label": "Verg. Aen. 11.554",
+"text": "huic natam, libro et silvestri subere clausam,"
+},
+{
+"id": "11.555",
+"label": "Verg. Aen. 11.555",
+"text": "implicat atque habilem mediae circumligat hastae;"
+},
+{
+"id": "11.556",
+"label": "Verg. Aen. 11.556",
+"text": "quam dextra ingenti librans ita ad aethera fatur:"
+},
+{
+"id": "11.557",
+"label": "Verg. Aen. 11.557",
+"text": "Alma, tibi hanc, nemorum cultrix, Latonia virgo,"
+},
+{
+"id": "11.558",
+"label": "Verg. Aen. 11.558",
+"text": "ipse pater famulam voveo; tua prima per auras"
+},
+{
+"id": "11.559",
+"label": "Verg. Aen. 11.559",
+"text": "tela tenens supplex hostem fugit. Accipe, testor,"
+},
+{
+"id": "11.560",
+"label": "Verg. Aen. 11.560",
+"text": "diva tuam, quae nunc dubiis committitur auris."
+},
+{
+"id": "11.561",
+"label": "Verg. Aen. 11.561",
+"text": "Dixit et adducto contortum hastile lacerto"
+},
+{
+"id": "11.562",
+"label": "Verg. Aen. 11.562",
+"text": "immittit: sonuere undae, rapidum super amnem"
+},
+{
+"id": "11.563",
+"label": "Verg. Aen. 11.563",
+"text": "infelix fugit in iaculo stridente Camilla."
+},
+{
+"id": "11.564",
+"label": "Verg. Aen. 11.564",
+"text": "At Metabus, magna propius iam urgente caterva,"
+},
+{
+"id": "11.565",
+"label": "Verg. Aen. 11.565",
+"text": "dat sese fluvio atque hastam cum virgine victor"
+},
+{
+"id": "11.566",
+"label": "Verg. Aen. 11.566",
+"text": "gramineo donum Triviae de caespite vellit."
+},
+{
+"id": "11.567",
+"label": "Verg. Aen. 11.567",
+"text": "Non illum tectis ullae, non moenibus urbes"
+},
+{
+"id": "11.568",
+"label": "Verg. Aen. 11.568",
+"text": "accepere neque ipse manus feritate dedisset:"
+},
+{
+"id": "11.569",
+"label": "Verg. Aen. 11.569",
+"text": "pastorum et solis exegit montibus aevom."
+},
+{
+"id": "11.570",
+"label": "Verg. Aen. 11.570",
+"text": "Hic natam in dumis interque horrentia lustra"
+},
+{
+"id": "11.571",
+"label": "Verg. Aen. 11.571",
+"text": "armentalis equae mammis et lacte ferino"
+},
+{
+"id": "11.572",
+"label": "Verg. Aen. 11.572",
+"text": "nutribat, teneris immulgens ubera labris."
+},
+{
+"id": "11.573",
+"label": "Verg. Aen. 11.573",
+"text": "Utque pedum primis infans vestigia plantis"
+},
+{
+"id": "11.574",
+"label": "Verg. Aen. 11.574",
+"text": "institerat, iaculo palmas armavit acuto"
+},
+{
+"id": "11.575",
+"label": "Verg. Aen. 11.575",
+"text": "spiculaque ex umero parvae suspendit et arcum."
+},
+{
+"id": "11.576",
+"label": "Verg. Aen. 11.576",
+"text": "Pro crinali auro, pro longae tegmine pallae"
+},
+{
+"id": "11.577",
+"label": "Verg. Aen. 11.577",
+"text": "tigridis exuviae per dorsum a vertice pendent."
+},
+{
+"id": "11.578",
+"label": "Verg. Aen. 11.578",
+"text": "Tela manu iam tum tenera puerilia torsit"
+},
+{
+"id": "11.579",
+"label": "Verg. Aen. 11.579",
+"text": "et fundam tereti circum caput egit habena"
+},
+{
+"id": "11.580",
+"label": "Verg. Aen. 11.580",
+"text": "Strymoniamque gruem aut album deiecit olorem."
+},
+{
+"id": "11.581",
+"label": "Verg. Aen. 11.581",
+"text": "Multae illam frustra Tyrrhena per oppida matres"
+},
+{
+"id": "11.582",
+"label": "Verg. Aen. 11.582",
+"text": "optavere nurum: sola contenta Diana"
+},
+{
+"id": "11.583",
+"label": "Verg. Aen. 11.583",
+"text": "aeternum telorum et virginitatis amorem"
+},
+{
+"id": "11.584",
+"label": "Verg. Aen. 11.584",
+"text": "intemerata colit. Vellem haud correpta fuisset"
+},
+{
+"id": "11.585",
+"label": "Verg. Aen. 11.585",
+"text": "militia tali, conata lacessere Teucros:"
+},
+{
+"id": "11.586",
+"label": "Verg. Aen. 11.586",
+"text": "cara mihi comitumque foret nunc una mearum."
+},
+{
+"id": "11.587",
+"label": "Verg. Aen. 11.587",
+"text": "Verum age, quandoquidem fatis urgetur acerbis,"
+},
+{
+"id": "11.588",
+"label": "Verg. Aen. 11.588",
+"text": "abere, nympha, polo finisque invise Latinos,"
+},
+{
+"id": "11.589",
+"label": "Verg. Aen. 11.589",
+"text": "tristis ubi infausto committitur omine pugna."
+},
+{
+"id": "11.590",
+"label": "Verg. Aen. 11.590",
+"text": "Haec cape et ultricem pharetra deprome sagittam:"
+},
+{
+"id": "11.591",
+"label": "Verg. Aen. 11.591",
+"text": "hac quicumque sacrum violarit volnere corpus,"
+},
+{
+"id": "11.592",
+"label": "Verg. Aen. 11.592",
+"text": "Tros Italusque, mihi pariter det sanguine poenas."
+},
+{
+"id": "11.593",
+"label": "Verg. Aen. 11.593",
+"text": "Post ego nube cava miserandae corpus et arma"
+},
+{
+"id": "11.594",
+"label": "Verg. Aen. 11.594",
+"text": "inspoliata feram tumulo patriaeque reponam."
+},
+{
+"id": "11.595",
+"label": "Verg. Aen. 11.595",
+"text": "Dixit; at illa levis caeli delapsa per auras"
+},
+{
+"id": "11.596",
+"label": "Verg. Aen. 11.596",
+"text": "insonuit, nigro circumdata turbine corpus."
+},
+{
+"id": "11.597",
+"label": "Verg. Aen. 11.597",
+"text": "At manus interea muris Troiana propinquat"
+},
+{
+"id": "11.598",
+"label": "Verg. Aen. 11.598",
+"text": "Etruscique duces equitumque exercitus omnis,"
+},
+{
+"id": "11.599",
+"label": "Verg. Aen. 11.599",
+"text": "compositi numero in turmas. Fremit aequore toto"
+},
+{
+"id": "11.600",
+"label": "Verg. Aen. 11.600",
+"text": "insultans sonipes et pressis pugnat habenis"
+},
+{
+"id": "11.601",
+"label": "Verg. Aen. 11.601",
+"text": "huc conversus et huc; tum late ferreus hastis"
+},
+{
+"id": "11.602",
+"label": "Verg. Aen. 11.602",
+"text": "horret ager campique armis sublimibus ardent."
+},
+{
+"id": "11.603",
+"label": "Verg. Aen. 11.603",
+"text": "Nec non Messapus contra celeresque Latini"
+},
+{
+"id": "11.604",
+"label": "Verg. Aen. 11.604",
+"text": "et cum fratre Coras et virginis ala Camillae"
+},
+{
+"id": "11.605",
+"label": "Verg. Aen. 11.605",
+"text": "adversi campo apparent hastasque reductis"
+},
+{
+"id": "11.606",
+"label": "Verg. Aen. 11.606",
+"text": "protendunt longe dextris et spicula vibrant,"
+},
+{
+"id": "11.607",
+"label": "Verg. Aen. 11.607",
+"text": "adventusque virum fremitusque ardescit equorum."
+},
+{
+"id": "11.608",
+"label": "Verg. Aen. 11.608",
+"text": "Iamque intra iactum teli progressus uterque"
+},
+{
+"id": "11.609",
+"label": "Verg. Aen. 11.609",
+"text": "substiterat: subito erumpunt clamore furentisque"
+},
+{
+"id": "11.610",
+"label": "Verg. Aen. 11.610",
+"text": "exhortantur equos; fundunt simul undique tela"
+},
+{
+"id": "11.611",
+"label": "Verg. Aen. 11.611",
+"text": "crebra nivis ritu caelumque obtexitur umbra."
+},
+{
+"id": "11.612",
+"label": "Verg. Aen. 11.612",
+"text": "Continuo adversis Tyrrhenus et acer Aconteus"
+},
+{
+"id": "11.613",
+"label": "Verg. Aen. 11.613",
+"text": "conixi incurrunt hastis primique ruina"
+},
+{
+"id": "11.614",
+"label": "Verg. Aen. 11.614",
+"text": "dant sonitum ingenti perfractaque quadrupedantum"
+},
+{
+"id": "11.615",
+"label": "Verg. Aen. 11.615",
+"text": "pectora pectoribus rumpunt: excussus Aconteus"
+},
+{
+"id": "11.616",
+"label": "Verg. Aen. 11.616",
+"text": "fulminis in morem aut tormento ponderis acti"
+},
+{
+"id": "11.617",
+"label": "Verg. Aen. 11.617",
+"text": "praecipitat longe et vitam dispergit in auras."
+},
+{
+"id": "11.618",
+"label": "Verg. Aen. 11.618",
+"text": "Extemplo turbatae acies, versique Latini"
+},
+{
+"id": "11.619",
+"label": "Verg. Aen. 11.619",
+"text": "reiciunt parmas et equos ad moenia vertunt."
+},
+{
+"id": "11.620",
+"label": "Verg. Aen. 11.620",
+"text": "Troes agunt, princeps turmas inducit Asilas."
+},
+{
+"id": "11.621",
+"label": "Verg. Aen. 11.621",
+"text": "Iamque propinquabant portis, rursusque Latini"
+},
+{
+"id": "11.622",
+"label": "Verg. Aen. 11.622",
+"text": "clamorem tollunt et mollia colla reflectunt:"
+},
+{
+"id": "11.623",
+"label": "Verg. Aen. 11.623",
+"text": "hi fugiunt penitusque datis referuntur habenis."
+},
+{
+"id": "11.624",
+"label": "Verg. Aen. 11.624",
+"text": "Qualis ubi alterno procurrens gurgite pontus"
+},
+{
+"id": "11.625",
+"label": "Verg. Aen. 11.625",
+"text": "nunc ruit ad terram scopulusque superiacit unda"
+},
+{
+"id": "11.626",
+"label": "Verg. Aen. 11.626",
+"text": "spumeus extremamque sinu perfundit arenam,"
+},
+{
+"id": "11.627",
+"label": "Verg. Aen. 11.627",
+"text": "nunc rapidus retro atque aestu revoluta resorbens"
+},
+{
+"id": "11.628",
+"label": "Verg. Aen. 11.628",
+"text": "saxa fugit litusque vado labente relinquit:"
+},
+{
+"id": "11.629",
+"label": "Verg. Aen. 11.629",
+"text": "bis Tusci Rutulos egere ad moenia versos,"
+},
+{
+"id": "11.630",
+"label": "Verg. Aen. 11.630",
+"text": "bis reiecti armis respectant terga tegentes."
+},
+{
+"id": "11.631",
+"label": "Verg. Aen. 11.631",
+"text": "Tertia sed postquam congressi in proelia totas"
+},
+{
+"id": "11.632",
+"label": "Verg. Aen. 11.632",
+"text": "implicuere inter se acies legitque virum vir:"
+},
+{
+"id": "11.633",
+"label": "Verg. Aen. 11.633",
+"text": "tum vero et gemitus morientum et sanguine in alto"
+},
+{
+"id": "11.634",
+"label": "Verg. Aen. 11.634",
+"text": "armaque corporaque et permixti caede virorum"
+},
+{
+"id": "11.635",
+"label": "Verg. Aen. 11.635",
+"text": "semianimes volvuntur equi, pugna aspera surgit."
+},
+{
+"id": "11.636",
+"label": "Verg. Aen. 11.636",
+"text": "Orsilochus Remuli, quando ipsum horrebat adire,"
+},
+{
+"id": "11.637",
+"label": "Verg. Aen. 11.637",
+"text": "hastam intorsit equo ferrumque sub aure reliquit."
+},
+{
+"id": "11.638",
+"label": "Verg. Aen. 11.638",
+"text": "Quo sonipes ictu furit arduus altaque iactat"
+},
+{
+"id": "11.639",
+"label": "Verg. Aen. 11.639",
+"text": "vulneris impatiens arrecto pectore crura:"
+},
+{
+"id": "11.640",
+"label": "Verg. Aen. 11.640",
+"text": "volvitur ille excussus humi. Catillus Iollan"
+},
+{
+"id": "11.641",
+"label": "Verg. Aen. 11.641",
+"text": "ingentemque animis, ingentem corpore et armis"
+},
+{
+"id": "11.642",
+"label": "Verg. Aen. 11.642",
+"text": "deicit Herminium, nudo cui vertice fulva"
+},
+{
+"id": "11.643",
+"label": "Verg. Aen. 11.643",
+"text": "caesaries nudique umeri, nec vulnera terrent:"
+},
+{
+"id": "11.644",
+"label": "Verg. Aen. 11.644",
+"text": "tantus in arma patet. Latos huic hasta per armos"
+},
+{
+"id": "11.645",
+"label": "Verg. Aen. 11.645",
+"text": "acta tremit duplicatque virum transfixa dolore."
+},
+{
+"id": "11.646",
+"label": "Verg. Aen. 11.646",
+"text": "Funditur ater ubique cruor; dant funera ferro"
+},
+{
+"id": "11.647",
+"label": "Verg. Aen. 11.647",
+"text": "certantes pulchramque petunt per vulnera mortem."
+},
+{
+"id": "11.648",
+"label": "Verg. Aen. 11.648",
+"text": "At medias inter caedes exsultat Amazon,"
+},
+{
+"id": "11.649",
+"label": "Verg. Aen. 11.649",
+"text": "unum exserta latus pugnae, pharetrata Camilla,"
+},
+{
+"id": "11.650",
+"label": "Verg. Aen. 11.650",
+"text": "et nunc lenta manu spargens hastilia denset,"
+},
+{
+"id": "11.651",
+"label": "Verg. Aen. 11.651",
+"text": "nunc validam dextra rapit indefessa bipennem;"
+},
+{
+"id": "11.652",
+"label": "Verg. Aen. 11.652",
+"text": "aureus ex umero sonat arcus et arma Dianae."
+},
+{
+"id": "11.653",
+"label": "Verg. Aen. 11.653",
+"text": "Illa etiam in tergum, siquando pulsa recessit,"
+},
+{
+"id": "11.654",
+"label": "Verg. Aen. 11.654",
+"text": "spicula converso fugientia dirigit arcu."
+},
+{
+"id": "11.655",
+"label": "Verg. Aen. 11.655",
+"text": "At circum lectae comites, Larinaque virgo"
+},
+{
+"id": "11.656",
+"label": "Verg. Aen. 11.656",
+"text": "Tullaque et aeratam quatiens Tarpeia securem,"
+},
+{
+"id": "11.657",
+"label": "Verg. Aen. 11.657",
+"text": "Italides, quas ipsa decus sibi dia Camilla"
+},
+{
+"id": "11.658",
+"label": "Verg. Aen. 11.658",
+"text": "delegit pacisque bonas bellique ministras:"
+},
+{
+"id": "11.659",
+"label": "Verg. Aen. 11.659",
+"text": "quales Threiciae cum flumina Thermodontis"
+},
+{
+"id": "11.660",
+"label": "Verg. Aen. 11.660",
+"text": "pulsant et pictis bellantur Amazones armis"
+},
+{
+"id": "11.661",
+"label": "Verg. Aen. 11.661",
+"text": "seu circum Hippolyten, seu cum se Martia curru"
+},
+{
+"id": "11.662",
+"label": "Verg. Aen. 11.662",
+"text": "Penthesilea refert, magnoque ululante tumultu"
+},
+{
+"id": "11.663",
+"label": "Verg. Aen. 11.663",
+"text": "feminea exsultant lunatis agmina peltis."
+},
+{
+"id": "11.664",
+"label": "Verg. Aen. 11.664",
+"text": "Quem telo primum, quem postremum, aspera virgo,"
+},
+{
+"id": "11.665",
+"label": "Verg. Aen. 11.665",
+"text": "deicis? Aut quot humi morientia corpora fundis?"
+},
+{
+"id": "11.666",
+"label": "Verg. Aen. 11.666",
+"text": "Eunaeum Clitio primum patre, cuius apertum"
+},
+{
+"id": "11.667",
+"label": "Verg. Aen. 11.667",
+"text": "adversi longa transverberat abiete pectus:"
+},
+{
+"id": "11.668",
+"label": "Verg. Aen. 11.668",
+"text": "sanguinis ille vomens rivos cadit atque cruentam"
+},
+{
+"id": "11.669",
+"label": "Verg. Aen. 11.669",
+"text": "mandit humum moriensque suo se in volnere versat."
+},
+{
+"id": "11.670",
+"label": "Verg. Aen. 11.670",
+"text": "Tum Lirim Pagasumque super; quorum alter habenas"
+},
+{
+"id": "11.671",
+"label": "Verg. Aen. 11.671",
+"text": "suffosso revolutus equo dum colligit, alter"
+},
+{
+"id": "11.672",
+"label": "Verg. Aen. 11.672",
+"text": "dum subit ac dextram labenti tendit inermem,"
+},
+{
+"id": "11.673",
+"label": "Verg. Aen. 11.673",
+"text": "praecipites pariterque ruunt. His addit Amastrum"
+},
+{
+"id": "11.674",
+"label": "Verg. Aen. 11.674",
+"text": "Hippotaden, sequiturque incumbens eminus hasta"
+},
+{
+"id": "11.675",
+"label": "Verg. Aen. 11.675",
+"text": "Tereaque Harpalycumque et Demophoonta Chrominque;"
+},
+{
+"id": "11.676",
+"label": "Verg. Aen. 11.676",
+"text": "quotque emissa manu contorsit spicula virgo,"
+},
+{
+"id": "11.677",
+"label": "Verg. Aen. 11.677",
+"text": "tot Phrygii cecidere viri. Procul Ornytus armis"
+},
+{
+"id": "11.678",
+"label": "Verg. Aen. 11.678",
+"text": "ignotis et equo venator Iapyge fertur,"
+},
+{
+"id": "11.679",
+"label": "Verg. Aen. 11.679",
+"text": "cui pellis latos umeros erepta iuvenco"
+},
+{
+"id": "11.680",
+"label": "Verg. Aen. 11.680",
+"text": "pugnatori operit, caput ingens oris hiatus"
+},
+{
+"id": "11.681",
+"label": "Verg. Aen. 11.681",
+"text": "et malae texere lupi cum dentibus albis,"
+},
+{
+"id": "11.682",
+"label": "Verg. Aen. 11.682",
+"text": "agrestisque manus armat sparus; ipse catervis"
+},
+{
+"id": "11.683",
+"label": "Verg. Aen. 11.683",
+"text": "vertitur in mediis et toto vertice supra est."
+},
+{
+"id": "11.684",
+"label": "Verg. Aen. 11.684",
+"text": "Hunc illa exceptum, neque enim labor agmine verso,"
+},
+{
+"id": "11.685",
+"label": "Verg. Aen. 11.685",
+"text": "traicit et super haec inimico pectore fatur:"
+},
+{
+"id": "11.686",
+"label": "Verg. Aen. 11.686",
+"text": "Silvis te, Tyrrhene, feras agitare putasti?"
+},
+{
+"id": "11.687",
+"label": "Verg. Aen. 11.687",
+"text": "Advenit qui vestra dies muliebribus armis"
+},
+{
+"id": "11.688",
+"label": "Verg. Aen. 11.688",
+"text": "verba redarguerit. Nomen tamen haud leve patrum"
+},
+{
+"id": "11.689",
+"label": "Verg. Aen. 11.689",
+"text": "manibus hoc referes, telo cecidisse Camillae."
+},
+{
+"id": "11.690",
+"label": "Verg. Aen. 11.690",
+"text": "Protinus Orsilochum et Buten, duo maxima Teucrum"
+},
+{
+"id": "11.691",
+"label": "Verg. Aen. 11.691",
+"text": "corpora, sed Buten aversum cuspide fixit"
+},
+{
+"id": "11.692",
+"label": "Verg. Aen. 11.692",
+"text": "loricam galeamque inter, qua colla sedentis"
+},
+{
+"id": "11.693",
+"label": "Verg. Aen. 11.693",
+"text": "lucent et laevo dependet parma lacerto,"
+},
+{
+"id": "11.694",
+"label": "Verg. Aen. 11.694",
+"text": "Orsilochum fugiens magnumque agitata per orbem"
+},
+{
+"id": "11.695",
+"label": "Verg. Aen. 11.695",
+"text": "eludit gyro interior sequiturque sequentem,"
+},
+{
+"id": "11.696",
+"label": "Verg. Aen. 11.696",
+"text": "tum validam perque arma viro perque ossa securim"
+},
+{
+"id": "11.697",
+"label": "Verg. Aen. 11.697",
+"text": "altior exsurgens oranti et multa precanti"
+},
+{
+"id": "11.698",
+"label": "Verg. Aen. 11.698",
+"text": "congeminat: vulnus calido rigat ora cerebro."
+},
+{
+"id": "11.699",
+"label": "Verg. Aen. 11.699",
+"text": "Incidit huic subitoque aspectu territus haesit"
+},
+{
+"id": "11.700",
+"label": "Verg. Aen. 11.700",
+"text": "Appenninicolae bellator filius Auni,"
+},
+{
+"id": "11.701",
+"label": "Verg. Aen. 11.701",
+"text": "haud Ligurum extremus, dum fallere fata sinebant."
+},
+{
+"id": "11.702",
+"label": "Verg. Aen. 11.702",
+"text": "Isque ubi se nullo iam cursu evadere pugnae"
+},
+{
+"id": "11.703",
+"label": "Verg. Aen. 11.703",
+"text": "posse neque instantem reginam avertere cernit,"
+},
+{
+"id": "11.704",
+"label": "Verg. Aen. 11.704",
+"text": "consilio versare dolos ingressus et astu"
+},
+{
+"id": "11.705",
+"label": "Verg. Aen. 11.705",
+"text": "incipit haec: Quid tam egregium, si femina forti"
+},
+{
+"id": "11.706",
+"label": "Verg. Aen. 11.706",
+"text": "fidis equo? Dimitte fugam et te comminus aequo"
+},
+{
+"id": "11.707",
+"label": "Verg. Aen. 11.707",
+"text": "mecum crede solo pugnaeque adcinge pedestri:"
+},
+{
+"id": "11.708",
+"label": "Verg. Aen. 11.708",
+"text": "iam nosces, ventosa ferat cui gloria fraudem."
+},
+{
+"id": "11.709",
+"label": "Verg. Aen. 11.709",
+"text": "Dixit, at illa furens acrique adcensa dolore"
+},
+{
+"id": "11.710",
+"label": "Verg. Aen. 11.710",
+"text": "tradit equum comiti paribusque resistit in armis,"
+},
+{
+"id": "11.711",
+"label": "Verg. Aen. 11.711",
+"text": "ense pedes nudo puraque interrita parma."
+},
+{
+"id": "11.712",
+"label": "Verg. Aen. 11.712",
+"text": "At iuvenis, vicisse dolo ratus, avolat ipse,"
+},
+{
+"id": "11.713",
+"label": "Verg. Aen. 11.713",
+"text": "haud mora, conversisque fugax aufertur habenis"
+},
+{
+"id": "11.714",
+"label": "Verg. Aen. 11.714",
+"text": "quadrupedemque citum ferrata calce fatigat."
+},
+{
+"id": "11.715",
+"label": "Verg. Aen. 11.715",
+"text": "Vane Ligus frustraque animis elate superbis,"
+},
+{
+"id": "11.716",
+"label": "Verg. Aen. 11.716",
+"text": "nequiquam patrias temptasti lubricus artis,"
+},
+{
+"id": "11.717",
+"label": "Verg. Aen. 11.717",
+"text": "nec fraus te incolumem fallaci perferet Auno,"
+},
+{
+"id": "11.718",
+"label": "Verg. Aen. 11.718",
+"text": "haec fatur virgo et pernicibus ignea plantis"
+},
+{
+"id": "11.719",
+"label": "Verg. Aen. 11.719",
+"text": "transit equum cursu frenisque adversa prehensis"
+},
+{
+"id": "11.720",
+"label": "Verg. Aen. 11.720",
+"text": "congreditur poenasque inimico ex sanguine sumit:"
+},
+{
+"id": "11.721",
+"label": "Verg. Aen. 11.721",
+"text": "quam facile accipiter saxo sacer ales ab alto"
+},
+{
+"id": "11.722",
+"label": "Verg. Aen. 11.722",
+"text": "consequitur pennis sublimem in nube columbam"
+},
+{
+"id": "11.723",
+"label": "Verg. Aen. 11.723",
+"text": "comprensamque tenet pedibusque eviscerat uncis;"
+},
+{
+"id": "11.724",
+"label": "Verg. Aen. 11.724",
+"text": "tum cruor et vulsae labuntur ab aethere plumae."
+},
+{
+"id": "11.725",
+"label": "Verg. Aen. 11.725",
+"text": "At non haec nullis hominum sator atque deorum"
+},
+{
+"id": "11.726",
+"label": "Verg. Aen. 11.726",
+"text": "observans oculis summo sedet altus Olympo:"
+},
+{
+"id": "11.727",
+"label": "Verg. Aen. 11.727",
+"text": "Tyrrhenum genitor Tarchonem in proelia saeva"
+},
+{
+"id": "11.728",
+"label": "Verg. Aen. 11.728",
+"text": "suscitat et stimulis haud mollibus incitat iras."
+},
+{
+"id": "11.729",
+"label": "Verg. Aen. 11.729",
+"text": "Ergo inter caedes cedentiaque agmina Tarchon"
+},
+{
+"id": "11.730",
+"label": "Verg. Aen. 11.730",
+"text": "fertur equo variisque instigat vocibus alas,"
+},
+{
+"id": "11.731",
+"label": "Verg. Aen. 11.731",
+"text": "nomine quemque vocans, reficitque in proelia pulsos."
+},
+{
+"id": "11.732",
+"label": "Verg. Aen. 11.732",
+"text": "Quis metus, O numquam dolituri, O semper inertes"
+},
+{
+"id": "11.733",
+"label": "Verg. Aen. 11.733",
+"text": "Tyrrheni, quae tanta animis ignavia venit?"
+},
+{
+"id": "11.734",
+"label": "Verg. Aen. 11.734",
+"text": "Femina palantis agit atque haec agmina vertit!"
+},
+{
+"id": "11.735",
+"label": "Verg. Aen. 11.735",
+"text": "Quo ferrum quidve haec gerimus tela inrita dextris?"
+},
+{
+"id": "11.736",
+"label": "Verg. Aen. 11.736",
+"text": "At non in Venerem segnes nocturnaque bella"
+},
+{
+"id": "11.737",
+"label": "Verg. Aen. 11.737",
+"text": "aut ubi curva choros indixit tibia Bacchi,"
+},
+{
+"id": "11.738",
+"label": "Verg. Aen. 11.738",
+"text": "exspectate dapes et plenae pocula mensae,"
+},
+{
+"id": "11.739",
+"label": "Verg. Aen. 11.739",
+"text": "hic amor, hoc studium, dum sacra secundus haruspex"
+},
+{
+"id": "11.740",
+"label": "Verg. Aen. 11.740",
+"text": "nuntiet ac lucos vocet hostia pinguis in altos!"
+},
+{
+"id": "11.741",
+"label": "Verg. Aen. 11.741",
+"text": "Haec effatus equum in medios, moriturus et ipse,"
+},
+{
+"id": "11.742",
+"label": "Verg. Aen. 11.742",
+"text": "concitat et Venulo adversum se turbidus infert"
+},
+{
+"id": "11.743",
+"label": "Verg. Aen. 11.743",
+"text": "dereptumque ab equo dextra complectitur hostem"
+},
+{
+"id": "11.744",
+"label": "Verg. Aen. 11.744",
+"text": "et gremium ante suum multa vi concitus aufert."
+},
+{
+"id": "11.745",
+"label": "Verg. Aen. 11.745",
+"text": "Tollitur in caelum clamor, cunctique Latini"
+},
+{
+"id": "11.746",
+"label": "Verg. Aen. 11.746",
+"text": "convertere oculos. Volat igneus aequore Tarchon"
+},
+{
+"id": "11.747",
+"label": "Verg. Aen. 11.747",
+"text": "arma virumque ferens; tum summa ipsius ab hasta"
+},
+{
+"id": "11.748",
+"label": "Verg. Aen. 11.748",
+"text": "defringit ferrum et partis rimatur apertas,"
+},
+{
+"id": "11.749",
+"label": "Verg. Aen. 11.749",
+"text": "qua vulnus letale ferat; contra ille repugnans"
+},
+{
+"id": "11.750",
+"label": "Verg. Aen. 11.750",
+"text": "sustinet a iugulo dextram et vim viribus exit."
+},
+{
+"id": "11.751",
+"label": "Verg. Aen. 11.751",
+"text": "Utque volans alte raptum cum fulva draconem"
+},
+{
+"id": "11.752",
+"label": "Verg. Aen. 11.752",
+"text": "fert aquila implicuitque pedes atque unguibus haesit,"
+},
+{
+"id": "11.753",
+"label": "Verg. Aen. 11.753",
+"text": "saucius at serpens sinuosa volumina versat"
+},
+{
+"id": "11.754",
+"label": "Verg. Aen. 11.754",
+"text": "adrectisque horret squamis et sibilat ore,"
+},
+{
+"id": "11.755",
+"label": "Verg. Aen. 11.755",
+"text": "arduus insurgens; illa haud minus urget obunco"
+},
+{
+"id": "11.756",
+"label": "Verg. Aen. 11.756",
+"text": "luctantem rostro, simul aethera verberat alis:"
+},
+{
+"id": "11.757",
+"label": "Verg. Aen. 11.757",
+"text": "haud aliter praedam Tiburtum ex agmine Tarchon"
+},
+{
+"id": "11.758",
+"label": "Verg. Aen. 11.758",
+"text": "portat ovans. Ducis exemplum eventumque secuti"
+},
+{
+"id": "11.759",
+"label": "Verg. Aen. 11.759",
+"text": "Maeonidae incurrunt. Tum fatis debitus Arruns"
+},
+{
+"id": "11.760",
+"label": "Verg. Aen. 11.760",
+"text": "velocem iaculo et multa prior arte Camillam"
+},
+{
+"id": "11.761",
+"label": "Verg. Aen. 11.761",
+"text": "circuit et quae sit fortuna facillima, temptat."
+},
+{
+"id": "11.762",
+"label": "Verg. Aen. 11.762",
+"text": "Qua se cumque furens medio tulit agmine virgo,"
+},
+{
+"id": "11.763",
+"label": "Verg. Aen. 11.763",
+"text": "hac Arruns subit et tacitus vestigia lustrat;"
+},
+{
+"id": "11.764",
+"label": "Verg. Aen. 11.764",
+"text": "qua victrix redit illa pedemque ex hoste reportat,"
+},
+{
+"id": "11.765",
+"label": "Verg. Aen. 11.765",
+"text": "hac iuvenis furtim celeris detorquet habenas."
+},
+{
+"id": "11.766",
+"label": "Verg. Aen. 11.766",
+"text": "Hos aditus iamque hos aditus omnemque pererrat"
+},
+{
+"id": "11.767",
+"label": "Verg. Aen. 11.767",
+"text": "undique circuitum et certam quatit improbus hastam."
+},
+{
+"id": "11.768",
+"label": "Verg. Aen. 11.768",
+"text": "Forte sacer Cybelo Chloreus olimque sacerdos"
+},
+{
+"id": "11.769",
+"label": "Verg. Aen. 11.769",
+"text": "insignis longe Phrygiis fulgebat in armis"
+},
+{
+"id": "11.770",
+"label": "Verg. Aen. 11.770",
+"text": "spumantemque agitabat equum, quem pellis aënis"
+},
+{
+"id": "11.771",
+"label": "Verg. Aen. 11.771",
+"text": "in plumam squamis auro conserta tegebat."
+},
+{
+"id": "11.772",
+"label": "Verg. Aen. 11.772",
+"text": "Ipse, peregrina ferrugine clarus et ostro,"
+},
+{
+"id": "11.773",
+"label": "Verg. Aen. 11.773",
+"text": "spicula torquebat Lycio Gortynia cornu;"
+},
+{
+"id": "11.774",
+"label": "Verg. Aen. 11.774",
+"text": "aureus ex umeris erat arcus et aurea vati"
+},
+{
+"id": "11.775",
+"label": "Verg. Aen. 11.775",
+"text": "cassida; tum croceam chlamydemque sinusque crepantis"
+},
+{
+"id": "11.776",
+"label": "Verg. Aen. 11.776",
+"text": "carbaseos fulvo in nodum collegerat auro"
+},
+{
+"id": "11.777",
+"label": "Verg. Aen. 11.777",
+"text": "pictus acu tunicas et barbara tegmina crurum."
+},
+{
+"id": "11.778",
+"label": "Verg. Aen. 11.778",
+"text": "Hunc virgo, sive ut templis praefigeret arma"
+},
+{
+"id": "11.779",
+"label": "Verg. Aen. 11.779",
+"text": "Troïa, captivo sive ut se ferret in auro"
+},
+{
+"id": "11.780",
+"label": "Verg. Aen. 11.780",
+"text": "venatrix, unum ex omni certamine pugnae"
+},
+{
+"id": "11.781",
+"label": "Verg. Aen. 11.781",
+"text": "caeca sequebatur totumque incauta per agmen"
+},
+{
+"id": "11.782",
+"label": "Verg. Aen. 11.782",
+"text": "femineo praedae et spoliorum ardebat amore,"
+},
+{
+"id": "11.783",
+"label": "Verg. Aen. 11.783",
+"text": "telum ex insidiis cum tandem tempore capto"
+},
+{
+"id": "11.784",
+"label": "Verg. Aen. 11.784",
+"text": "concitat et superos Arruns sic voce precatur:"
+},
+{
+"id": "11.785",
+"label": "Verg. Aen. 11.785",
+"text": "Summe deum, sancti custos Soractis Apollo,"
+},
+{
+"id": "11.786",
+"label": "Verg. Aen. 11.786",
+"text": "quem primi colimus, cui pineus ardor acervo"
+},
+{
+"id": "11.787",
+"label": "Verg. Aen. 11.787",
+"text": "pascitur et medium freti pietate per ignem"
+},
+{
+"id": "11.788",
+"label": "Verg. Aen. 11.788",
+"text": "cultores multa premimus vestigia pruna,"
+},
+{
+"id": "11.789",
+"label": "Verg. Aen. 11.789",
+"text": "da, pater, hoc nostris aboleri dedecus armis,"
+},
+{
+"id": "11.790",
+"label": "Verg. Aen. 11.790",
+"text": "omnipotens. Non exuvias pulsaeve tropaeum"
+},
+{
+"id": "11.791",
+"label": "Verg. Aen. 11.791",
+"text": "virginis aut spolia ulla peto (mihi cetera laudem"
+},
+{
+"id": "11.792",
+"label": "Verg. Aen. 11.792",
+"text": "facta ferent): haec dira meo dum vulnere pestis"
+},
+{
+"id": "11.793",
+"label": "Verg. Aen. 11.793",
+"text": "pulsa cadat, patrias remeabo inglorius urbes."
+},
+{
+"id": "11.794",
+"label": "Verg. Aen. 11.794",
+"text": "Audiit et voti Phoebus succedere partem"
+},
+{
+"id": "11.795",
+"label": "Verg. Aen. 11.795",
+"text": "mente dedit, partem volucris dispersit in auras:"
+},
+{
+"id": "11.796",
+"label": "Verg. Aen. 11.796",
+"text": "sterneret ut subita turbatam morte Camillam,"
+},
+{
+"id": "11.797",
+"label": "Verg. Aen. 11.797",
+"text": "adnuit oranti; reducem ut patria alta videret,"
+},
+{
+"id": "11.798",
+"label": "Verg. Aen. 11.798",
+"text": "non dedit, inque Notos vocem vertere procellae."
+},
+{
+"id": "11.799",
+"label": "Verg. Aen. 11.799",
+"text": "Ergo ut missa manu sonitum dedit hasta per auras,"
+},
+{
+"id": "11.800",
+"label": "Verg. Aen. 11.800",
+"text": "convertere animos acris oculosque tulere"
+},
+{
+"id": "11.801",
+"label": "Verg. Aen. 11.801",
+"text": "cuncti ad reginam Volsci. Nihil ipsa nec aurae"
+},
+{
+"id": "11.802",
+"label": "Verg. Aen. 11.802",
+"text": "nec sonitus memor aut venientis ab aethere teli,"
+},
+{
+"id": "11.803",
+"label": "Verg. Aen. 11.803",
+"text": "hasta sub exsertam donec perlata papillam"
+},
+{
+"id": "11.804",
+"label": "Verg. Aen. 11.804",
+"text": "haesit virgineumque alte bibit acta cruorem."
+},
+{
+"id": "11.805",
+"label": "Verg. Aen. 11.805",
+"text": "Concurrunt trepidae comites dominamque ruentem"
+},
+{
+"id": "11.806",
+"label": "Verg. Aen. 11.806",
+"text": "suscipiunt. Fugit ante omnis exterritus Arruns,"
+},
+{
+"id": "11.807",
+"label": "Verg. Aen. 11.807",
+"text": "laetitia mixtoque metu, nec iam amplius hastae"
+},
+{
+"id": "11.808",
+"label": "Verg. Aen. 11.808",
+"text": "credere nec telis occurrere virginis audet."
+},
+{
+"id": "11.809",
+"label": "Verg. Aen. 11.809",
+"text": "Ac velut ille, prius quam tela inimica sequantur,"
+},
+{
+"id": "11.810",
+"label": "Verg. Aen. 11.810",
+"text": "continuo in montis sese avius abdidit altos"
+},
+{
+"id": "11.811",
+"label": "Verg. Aen. 11.811",
+"text": "occiso pastore lupus magnove iuvenco,"
+},
+{
+"id": "11.812",
+"label": "Verg. Aen. 11.812",
+"text": "conscius audacis facti, caudamque remulcens"
+},
+{
+"id": "11.813",
+"label": "Verg. Aen. 11.813",
+"text": "subiecit pavitantem utero silvasque petivit:"
+},
+{
+"id": "11.814",
+"label": "Verg. Aen. 11.814",
+"text": "haud secus ex oculis se turbidus abstulit Arruns"
+},
+{
+"id": "11.815",
+"label": "Verg. Aen. 11.815",
+"text": "contentusque fuga mediis se immiscuit armis."
+},
+{
+"id": "11.816",
+"label": "Verg. Aen. 11.816",
+"text": "Illa manu moriens telum trahit, ossa sed inter"
+},
+{
+"id": "11.817",
+"label": "Verg. Aen. 11.817",
+"text": "ferreus ad costas alto stat vulnere mucro:"
+},
+{
+"id": "11.818",
+"label": "Verg. Aen. 11.818",
+"text": "labitur exsanguis, labuntur frigida leto"
+},
+{
+"id": "11.819",
+"label": "Verg. Aen. 11.819",
+"text": "lumina, purpureus quondam color ora reliquit."
+},
+{
+"id": "11.820",
+"label": "Verg. Aen. 11.820",
+"text": "Tum sic exspirans Accam ex aequalibus unam"
+},
+{
+"id": "11.821",
+"label": "Verg. Aen. 11.821",
+"text": "adloquitur fidam ante alias, quae sola Camillae,"
+},
+{
+"id": "11.822",
+"label": "Verg. Aen. 11.822",
+"text": "quicum partiri curas; atque haec ita fatur:"
+},
+{
+"id": "11.823",
+"label": "Verg. Aen. 11.823",
+"text": "Hactenus, Acca soror, potui: nunc vulnus acerbum"
+},
+{
+"id": "11.824",
+"label": "Verg. Aen. 11.824",
+"text": "conficit, et tenebris nigrescunt omnia circum."
+},
+{
+"id": "11.825",
+"label": "Verg. Aen. 11.825",
+"text": "Effuge et haec Turno mandata novissima perfer:"
+},
+{
+"id": "11.826",
+"label": "Verg. Aen. 11.826",
+"text": "succedat pugnae Troianosque arceat urbe."
+},
+{
+"id": "11.827",
+"label": "Verg. Aen. 11.827",
+"text": "Iamque vale. Simul his dictis linquebat habenas,"
+},
+{
+"id": "11.828",
+"label": "Verg. Aen. 11.828",
+"text": "ad terram non sponte fluens. Tum frigida toto"
+},
+{
+"id": "11.829",
+"label": "Verg. Aen. 11.829",
+"text": "paulatim exsolvit se corpore lentaque colla"
+},
+{
+"id": "11.830",
+"label": "Verg. Aen. 11.830",
+"text": "et captum leto posuit caput, arma relinquunt,"
+},
+{
+"id": "11.831",
+"label": "Verg. Aen. 11.831",
+"text": "vitaque cum gemitu fugit indignata sub umbras."
+},
+{
+"id": "11.832",
+"label": "Verg. Aen. 11.832",
+"text": "Tum vero immensus surgens ferit aurea clamor"
+},
+{
+"id": "11.833",
+"label": "Verg. Aen. 11.833",
+"text": "sidera: deiecta crudescit pugna Camilla,"
+},
+{
+"id": "11.834",
+"label": "Verg. Aen. 11.834",
+"text": "incurrunt densi simul omnis copia Teucrum"
+},
+{
+"id": "11.835",
+"label": "Verg. Aen. 11.835",
+"text": "Tyrrhenique duces Evandrique Arcades alae."
+},
+{
+"id": "11.836",
+"label": "Verg. Aen. 11.836",
+"text": "At Triviae custos iamdudum in montibus Opis"
+},
+{
+"id": "11.837",
+"label": "Verg. Aen. 11.837",
+"text": "alta sedet summis spectatque interrita pugnas."
+},
+{
+"id": "11.838",
+"label": "Verg. Aen. 11.838",
+"text": "Utque procul medio iuvenum in clamore furentum"
+},
+{
+"id": "11.839",
+"label": "Verg. Aen. 11.839",
+"text": "prospexit tristi multatam morte Camillam,"
+},
+{
+"id": "11.840",
+"label": "Verg. Aen. 11.840",
+"text": "ingemuitque deditque has imo pectore voces:"
+},
+{
+"id": "11.841",
+"label": "Verg. Aen. 11.841",
+"text": "Heu nimium, virgo, nimium crudele luisti"
+},
+{
+"id": "11.842",
+"label": "Verg. Aen. 11.842",
+"text": "supplicium, Teucros conata lacessere bello!"
+},
+{
+"id": "11.843",
+"label": "Verg. Aen. 11.843",
+"text": "Nec tibi desertae in dumis coluisse Dianam"
+},
+{
+"id": "11.844",
+"label": "Verg. Aen. 11.844",
+"text": "profuit aut nostras umero gessisse sagittas."
+},
+{
+"id": "11.845",
+"label": "Verg. Aen. 11.845",
+"text": "Non tamen indecorem tua te regina reliquit"
+},
+{
+"id": "11.846",
+"label": "Verg. Aen. 11.846",
+"text": "extrema iam in morte, neque hoc sine nomine letum"
+},
+{
+"id": "11.847",
+"label": "Verg. Aen. 11.847",
+"text": "per gentis erit aut famam patieris inultae."
+},
+{
+"id": "11.848",
+"label": "Verg. Aen. 11.848",
+"text": "Nam quicumque tuum violavit vulnere corpus,"
+},
+{
+"id": "11.849",
+"label": "Verg. Aen. 11.849",
+"text": "morte luet merita. Fuit ingens monte sub alto"
+},
+{
+"id": "11.850",
+"label": "Verg. Aen. 11.850",
+"text": "regis Dercenni terreno ex aggere bustum"
+},
+{
+"id": "11.851",
+"label": "Verg. Aen. 11.851",
+"text": "antiqui Laurentis opacaque ilice tectum:"
+},
+{
+"id": "11.852",
+"label": "Verg. Aen. 11.852",
+"text": "hic dea se primum rapido pulcherrima nisu"
+},
+{
+"id": "11.853",
+"label": "Verg. Aen. 11.853",
+"text": "sistit et Arruntem tumulo speculatur ab alto."
+},
+{
+"id": "11.854",
+"label": "Verg. Aen. 11.854",
+"text": "Ut vidit laetantem animis ac vana tumentem,"
+},
+{
+"id": "11.855",
+"label": "Verg. Aen. 11.855",
+"text": "Cur, inquit, diversus abis? Huc dirige gressum,"
+},
+{
+"id": "11.856",
+"label": "Verg. Aen. 11.856",
+"text": "huc periture veni, capias ut digna Camillae"
+},
+{
+"id": "11.857",
+"label": "Verg. Aen. 11.857",
+"text": "praemia. Tune etiam telis moriere Dianae?"
+},
+{
+"id": "11.858",
+"label": "Verg. Aen. 11.858",
+"text": "dixit, et aurata volucrem Threissa sagittam"
+},
+{
+"id": "11.859",
+"label": "Verg. Aen. 11.859",
+"text": "deprompsit pharetra cornuque infensa tetendit"
+},
+{
+"id": "11.860",
+"label": "Verg. Aen. 11.860",
+"text": "et duxit longe, donec curvata coirent"
+},
+{
+"id": "11.861",
+"label": "Verg. Aen. 11.861",
+"text": "inter se capita et manibus iam tangeret aequis,"
+},
+{
+"id": "11.862",
+"label": "Verg. Aen. 11.862",
+"text": "laeva aciem ferri, dextra nervoque papillam."
+},
+{
+"id": "11.863",
+"label": "Verg. Aen. 11.863",
+"text": "Extemplo teli stridorem aurasque sonantis"
+},
+{
+"id": "11.864",
+"label": "Verg. Aen. 11.864",
+"text": "audiit una Arruns, haesitque in corpore ferrum."
+},
+{
+"id": "11.865",
+"label": "Verg. Aen. 11.865",
+"text": "Illum exspirantem socii atque extrema gementem"
+},
+{
+"id": "11.866",
+"label": "Verg. Aen. 11.866",
+"text": "obliti ignoto camporum in pulvere linquunt,"
+},
+{
+"id": "11.867",
+"label": "Verg. Aen. 11.867",
+"text": "Opis ad aetherium pennis aufertur Olympum."
+},
+{
+"id": "11.868",
+"label": "Verg. Aen. 11.868",
+"text": "Prima fugit domina amissa levis ala Camillae;"
+},
+{
+"id": "11.869",
+"label": "Verg. Aen. 11.869",
+"text": "turbati fugiunt Rutuli, fugit acer Atinas"
+},
+{
+"id": "11.870",
+"label": "Verg. Aen. 11.870",
+"text": "disiectique duces desolatique manipli"
+},
+{
+"id": "11.871",
+"label": "Verg. Aen. 11.871",
+"text": "tuta petunt et equis aversi ad moenia tendunt."
+},
+{
+"id": "11.872",
+"label": "Verg. Aen. 11.872",
+"text": "Nec quisquam instantis Teucros letumque ferentis"
+},
+{
+"id": "11.873",
+"label": "Verg. Aen. 11.873",
+"text": "sustentare valet telis aut sistere contra,"
+},
+{
+"id": "11.874",
+"label": "Verg. Aen. 11.874",
+"text": "sed laxos referunt umeris languentibus arcus,"
+},
+{
+"id": "11.875",
+"label": "Verg. Aen. 11.875",
+"text": "quadrupedumque putrem cursu quatit ungula campum."
+},
+{
+"id": "11.876",
+"label": "Verg. Aen. 11.876",
+"text": "Volvitur ad muros caligine turbidus atra"
+},
+{
+"id": "11.877",
+"label": "Verg. Aen. 11.877",
+"text": "pulvis, et e speculis percussae pectora matres"
+},
+{
+"id": "11.878",
+"label": "Verg. Aen. 11.878",
+"text": "femineum clamorem ad caeli sidera tollunt."
+},
+{
+"id": "11.879",
+"label": "Verg. Aen. 11.879",
+"text": "Qui cursu portas primi inrupere patentis,"
+},
+{
+"id": "11.880",
+"label": "Verg. Aen. 11.880",
+"text": "hos inimica super mixto premit agmine turba;"
+},
+{
+"id": "11.881",
+"label": "Verg. Aen. 11.881",
+"text": "nec miseram effugiunt mortem, sed limine in ipso,"
+},
+{
+"id": "11.882",
+"label": "Verg. Aen. 11.882",
+"text": "moenibus in patriis atque inter tuta domorum"
+},
+{
+"id": "11.883",
+"label": "Verg. Aen. 11.883",
+"text": "confixi exspirant animas. Pars claudere portas:"
+},
+{
+"id": "11.884",
+"label": "Verg. Aen. 11.884",
+"text": "nec sociis aperire viam nec moenibus audent"
+},
+{
+"id": "11.885",
+"label": "Verg. Aen. 11.885",
+"text": "accipere orantis, oriturque miserrima caedes"
+},
+{
+"id": "11.886",
+"label": "Verg. Aen. 11.886",
+"text": "defendentum armis aditus inque arma ruentum."
+},
+{
+"id": "11.887",
+"label": "Verg. Aen. 11.887",
+"text": "Exclusi ante oculos lacrumantumque ora parentum"
+},
+{
+"id": "11.888",
+"label": "Verg. Aen. 11.888",
+"text": "pars in praecipitis fossas urgente ruina"
+},
+{
+"id": "11.889",
+"label": "Verg. Aen. 11.889",
+"text": "volvitur, immissis pars caeca et concita frenis"
+},
+{
+"id": "11.890",
+"label": "Verg. Aen. 11.890",
+"text": "arietat in portas et duros obice postis."
+},
+{
+"id": "11.891",
+"label": "Verg. Aen. 11.891",
+"text": "Ipsae de muris summo certamine matres,"
+},
+{
+"id": "11.892",
+"label": "Verg. Aen. 11.892",
+"text": "monstrat amor verus patriae, ut videre Camillam,"
+},
+{
+"id": "11.893",
+"label": "Verg. Aen. 11.893",
+"text": "tela manu trepidae iaciunt ac robore duro"
+},
+{
+"id": "11.894",
+"label": "Verg. Aen. 11.894",
+"text": "stipitibus ferrum sudibusque imitantur obustis"
+},
+{
+"id": "11.895",
+"label": "Verg. Aen. 11.895",
+"text": "praecipites primaeque mori pro moenibus ardent."
+},
+{
+"id": "11.896",
+"label": "Verg. Aen. 11.896",
+"text": "Interea Turnum in silvis saevissimus implet"
+},
+{
+"id": "11.897",
+"label": "Verg. Aen. 11.897",
+"text": "nuntius, et iuveni ingentem fert Acca tumultum:"
+},
+{
+"id": "11.898",
+"label": "Verg. Aen. 11.898",
+"text": "deletas Volscorum acies, cecidisse Camillam,"
+},
+{
+"id": "11.899",
+"label": "Verg. Aen. 11.899",
+"text": "ingruere infensos hostis et Marte secundo"
+},
+{
+"id": "11.900",
+"label": "Verg. Aen. 11.900",
+"text": "omnia corripuisse, metum iam ad moenia ferri."
+},
+{
+"id": "11.901",
+"label": "Verg. Aen. 11.901",
+"text": "Ille furens, et saeva Iovis sic numina pellunt,"
+},
+{
+"id": "11.902",
+"label": "Verg. Aen. 11.902",
+"text": "deserit obsessos collis, nemora aspera linquit."
+},
+{
+"id": "11.903",
+"label": "Verg. Aen. 11.903",
+"text": "Vix e conspectu exierat campumque tenebat,"
+},
+{
+"id": "11.904",
+"label": "Verg. Aen. 11.904",
+"text": "cum pater Aeneas saltus ingressus apertos"
+},
+{
+"id": "11.905",
+"label": "Verg. Aen. 11.905",
+"text": "exsuperatque iugum silvaque evadit opaca."
+},
+{
+"id": "11.906",
+"label": "Verg. Aen. 11.906",
+"text": "Sic ambo ad muros rapidi totoque feruntur"
+},
+{
+"id": "11.907",
+"label": "Verg. Aen. 11.907",
+"text": "agmine nec longis inter se passibus absunt;"
+},
+{
+"id": "11.908",
+"label": "Verg. Aen. 11.908",
+"text": "ac simul Aeneas fumantis pulvere campos"
+},
+{
+"id": "11.909",
+"label": "Verg. Aen. 11.909",
+"text": "prospexit longe Laurentiaque agmina vidit,"
+},
+{
+"id": "11.910",
+"label": "Verg. Aen. 11.910",
+"text": "et saevum Aenean adgnovit Turnus in armis"
+},
+{
+"id": "11.911",
+"label": "Verg. Aen. 11.911",
+"text": "adventumque pedum flatusque audivit equorum."
+},
+{
+"id": "11.912",
+"label": "Verg. Aen. 11.912",
+"text": "Continuoque ineant pugnas et proelia temptent,"
+},
+{
+"id": "11.913",
+"label": "Verg. Aen. 11.913",
+"text": "ni roseus fessos iam gurgite Phoebus Hibero"
+},
+{
+"id": "11.914",
+"label": "Verg. Aen. 11.914",
+"text": "tinguat equos noctemque die labente reducat:"
+},
+{
+"id": "11.915",
+"label": "Verg. Aen. 11.915",
+"text": "considunt castris ante urbem et moenia vallant."
+}
+]
+}

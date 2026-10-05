@@ -1,0 +1,6062 @@
+{
+"corpus": "seneca-troades",
+"unit": "all",
+"title": "Seneca, Troades",
+"passages": [
+{
+"id": "1",
+"label": "Sen. Tro. 1",
+"text": "Quicumque regno fidit et magna potens"
+},
+{
+"id": "2",
+"label": "Sen. Tro. 2",
+"text": "dominatur aula nec leves metuit deos"
+},
+{
+"id": "3",
+"label": "Sen. Tro. 3",
+"text": "animumque rebus credulum laetis dedit,"
+},
+{
+"id": "4",
+"label": "Sen. Tro. 4",
+"text": "me videat et' te, Troia: non umquam tulit"
+},
+{
+"id": "5",
+"label": "Sen. Tro. 5",
+"text": "documenta fors maiora, quam fragili loco"
+},
+{
+"id": "6",
+"label": "Sen. Tro. 6",
+"text": "starent superbi, columen eversum occidit"
+},
+{
+"id": "7",
+"label": "Sen. Tro. 7",
+"text": "pollentis Asiae, caelitum egregius labor;"
+},
+{
+"id": "8",
+"label": "Sen. Tro. 8",
+"text": "ad cuius arma venit et qui frigidum"
+},
+{
+"id": "9",
+"label": "Sen. Tro. 9",
+"text": "septena Tanain ora pandentem bibit,"
+},
+{
+"id": "12",
+"label": "Sen. Tro. 12",
+"text": "et quae vagos vicina prospiciens Scythas"
+},
+{
+"id": "13",
+"label": "Sen. Tro. 13",
+"text": "ripam catervis Ponticam viduis ferit,"
+},
+{
+"id": "10",
+"label": "Sen. Tro. 10",
+"text": "et qui renatum primus excipiens diem"
+},
+{
+"id": "11",
+"label": "Sen. Tro. 11",
+"text": "tepidum rubenti Tigrin inmiscet freto,"
+},
+{
+"id": "14",
+"label": "Sen. Tro. 14",
+"text": "excisa ferro est, Pergamum incubuit sibi."
+},
+{
+"id": "15",
+"label": "Sen. Tro. 15",
+"text": "en alta muri decora congesti iacent"
+},
+{
+"id": "16",
+"label": "Sen. Tro. 16",
+"text": "tectis adustis; regiam flammae ambiunt"
+},
+{
+"id": "17",
+"label": "Sen. Tro. 17",
+"text": "omnisque late fumat Assaraci domus."
+},
+{
+"id": "18",
+"label": "Sen. Tro. 18",
+"text": "non prohibet avidas flamma victoris manus:"
+},
+{
+"id": "19",
+"label": "Sen. Tro. 19",
+"text": "diripitur ardens Troia, nec caelum patet"
+},
+{
+"id": "20",
+"label": "Sen. Tro. 20",
+"text": "undante fumo: nube ceu densa obsitus"
+},
+{
+"id": "21",
+"label": "Sen. Tro. 21",
+"text": "ater favilla squalet Iliaca dies."
+},
+{
+"id": "22",
+"label": "Sen. Tro. 22",
+"text": "stat avidus irae victor et lentum Ilium"
+},
+{
+"id": "23",
+"label": "Sen. Tro. 23",
+"text": "metitur oculis ac decem tandem ferus"
+},
+{
+"id": "24",
+"label": "Sen. Tro. 24",
+"text": "ignoscit annis; horret afflictam quoque,"
+},
+{
+"id": "25",
+"label": "Sen. Tro. 25",
+"text": "victamque quamvis videat, haut credit sibi"
+},
+{
+"id": "26",
+"label": "Sen. Tro. 26",
+"text": "potuisse vinci, spolia populator rapit"
+},
+{
+"id": "27",
+"label": "Sen. Tro. 27",
+"text": "Dardania; praedam mille non capiunt rates."
+},
+{
+"id": "28",
+"label": "Sen. Tro. 28",
+"text": "Testor deorum numen adversum mihi,"
+},
+{
+"id": "29",
+"label": "Sen. Tro. 29",
+"text": "patriaeque cineres teque rectorem Phrygum"
+},
+{
+"id": "30",
+"label": "Sen. Tro. 30",
+"text": "quem Troia toto conditum regno tegit,"
+},
+{
+"id": "31",
+"label": "Sen. Tro. 31",
+"text": "tuosque manes quo stetit stante Ilium,"
+},
+{
+"id": "32",
+"label": "Sen. Tro. 32",
+"text": "et vos meorum liberam magni greges,"
+},
+{
+"id": "33",
+"label": "Sen. Tro. 33",
+"text": "umbrae minores: quicquid adversi accidit,"
+},
+{
+"id": "34",
+"label": "Sen. Tro. 34",
+"text": "quaecumque Phoebas ore lymphato furens"
+},
+{
+"id": "35",
+"label": "Sen. Tro. 35",
+"text": "credi deo vetante praedixit mala,"
+},
+{
+"id": "36",
+"label": "Sen. Tro. 36",
+"text": "prior Hecuba vidi. gravida nec tacui metus"
+},
+{
+"id": "37",
+"label": "Sen. Tro. 37",
+"text": "et vana vates ante Cassandram fui."
+},
+{
+"id": "38",
+"label": "Sen. Tro. 38",
+"text": "non cautus ignes Ithacus aut Itbaci comes"
+},
+{
+"id": "39",
+"label": "Sen. Tro. 39",
+"text": "nocturnus in vos sparsit aut fallax Sinon:"
+},
+{
+"id": "40",
+"label": "Sen. Tro. 40",
+"text": "meus ignis iste est, facibus ardetis meis."
+},
+{
+"id": "41",
+"label": "Sen. Tro. 41",
+"text": "sed quid ruinas urbis eversae gemis,"
+},
+{
+"id": "42",
+"label": "Sen. Tro. 42",
+"text": "vivax senectus? respice infelix ad hos"
+},
+{
+"id": "43",
+"label": "Sen. Tro. 43",
+"text": "luctus recentes: Troia iam vetus est malum,"
+},
+{
+"id": "44",
+"label": "Sen. Tro. 44",
+"text": "vidi execrandum regiae caedis nefas"
+},
+{
+"id": "45",
+"label": "Sen. Tro. 45",
+"text": "ipsasque ad aras maius admissum scelus"
+},
+{
+"id": "46",
+"label": "Sen. Tro. 46",
+"text": "Aeacidis armis, cum ferox, scaeva manu"
+},
+{
+"id": "47",
+"label": "Sen. Tro. 47",
+"text": "coma reflectens regium torta caput,"
+},
+{
+"id": "48",
+"label": "Sen. Tro. 48",
+"text": "alto nefandum vulneri ferrum abdidit;"
+},
+{
+"id": "49",
+"label": "Sen. Tro. 49",
+"text": "quod. penitus actum cum recepisset, libens"
+},
+{
+"id": "50",
+"label": "Sen. Tro. 50",
+"text": "ensis senili siccus e iugulo redit."
+},
+{
+"id": "51",
+"label": "Sen. Tro. 51",
+"text": "placare quem non potuit a caede effera"
+},
+{
+"id": "52",
+"label": "Sen. Tro. 52",
+"text": "mortalis aevi cardinem extremum premens"
+},
+{
+"id": "53",
+"label": "Sen. Tro. 53",
+"text": "superique testes sceleris et quoddam sacrum"
+},
+{
+"id": "54",
+"label": "Sen. Tro. 54",
+"text": "regni iacentis? ille tot regum parens"
+},
+{
+"id": "55",
+"label": "Sen. Tro. 55",
+"text": "caret sepulcro Priamus et flamma indiget"
+},
+{
+"id": "56",
+"label": "Sen. Tro. 56",
+"text": "ardente Troia, non tamen superis sat est:"
+},
+{
+"id": "57",
+"label": "Sen. Tro. 57",
+"text": "dominum ecce Priami nuribus et natis legens"
+},
+{
+"id": "58",
+"label": "Sen. Tro. 58",
+"text": "sortitur urna praedaque en vilis sequar."
+},
+{
+"id": "59",
+"label": "Sen. Tro. 59",
+"text": "hic Hectoris coniugia despondet sibi."
+},
+{
+"id": "60",
+"label": "Sen. Tro. 60",
+"text": "hic optat Heleni coniugem. hic Antenoris;"
+},
+{
+"id": "61",
+"label": "Sen. Tro. 61",
+"text": "nec dest tuos. Cassandra, qui thalamos petat."
+},
+{
+"id": "62",
+"label": "Sen. Tro. 62",
+"text": "mea sors timetur, sola sum Danais metus."
+},
+{
+"id": "63",
+"label": "Sen. Tro. 63",
+"text": "Lamenta cessant? turba captivae mea,"
+},
+{
+"id": "64",
+"label": "Sen. Tro. 64",
+"text": "ferite palmis pectora et planctus date"
+},
+{
+"id": "65",
+"label": "Sen. Tro. 65",
+"text": "et iusta Troiae facite, iamdudum sonet"
+},
+{
+"id": "66",
+"label": "Sen. Tro. 66",
+"text": "fatalis Ide, iudicis diri domus."
+},
+{
+"id": "67",
+"label": "Sen. Tro. 67",
+"text": "Non rude vulgus lacrimisque a ovum"
+},
+{
+"id": "68",
+"label": "Sen. Tro. 68",
+"text": "lugere iubes:"
+},
+{
+"id": "69",
+"label": "Sen. Tro. 69",
+"text": "hoc continuis egimus annis,"
+},
+{
+"id": "69b",
+"label": "Sen. Tro. 69b",
+"text": "ex quo tetigit"
+},
+{
+"id": "70",
+"label": "Sen. Tro. 70",
+"text": "Phrygius Graias hospes Amyclas"
+},
+{
+"id": "71",
+"label": "Sen. Tro. 71",
+"text": "securique fretum"
+},
+{
+"id": "72",
+"label": "Sen. Tro. 72",
+"text": "pinus matri sacra Cybebae."
+},
+{
+"id": "73",
+"label": "Sen. Tro. 73",
+"text": "deciens nivibus canuit Ide,"
+},
+{
+"id": "74",
+"label": "Sen. Tro. 74",
+"text": "deciens nostris nudata rogis,"
+},
+{
+"id": "75",
+"label": "Sen. Tro. 75",
+"text": "et Sigeis trepidus campis"
+},
+{
+"id": "76",
+"label": "Sen. Tro. 76",
+"text": "decumas secuit messor aristas,"
+},
+{
+"id": "77",
+"label": "Sen. Tro. 77",
+"text": "ut nulla dies maerore caret."
+},
+{
+"id": "78",
+"label": "Sen. Tro. 78",
+"text": "sed nova fletus causa ministrat:"
+},
+{
+"id": "79",
+"label": "Sen. Tro. 79",
+"text": "ite ad planctus,"
+},
+{
+"id": "80",
+"label": "Sen. Tro. 80",
+"text": "miseramque leva, regina, manum."
+},
+{
+"id": "81",
+"label": "Sen. Tro. 81",
+"text": "vulgus dominam vile sequemur:"
+},
+{
+"id": "82",
+"label": "Sen. Tro. 82",
+"text": "non indociles lugere sumus."
+},
+{
+"id": "83",
+"label": "Sen. Tro. 83",
+"text": "Fidae casus nostri comites,"
+},
+{
+"id": "84",
+"label": "Sen. Tro. 84",
+"text": "solvite crinem,"
+},
+{
+"id": "85",
+"label": "Sen. Tro. 85",
+"text": "per colla fluant maesta capilli"
+},
+{
+"id": "86",
+"label": "Sen. Tro. 86",
+"text": "tepido Troiae pulvere turpes:"
+},
+{
+"id": "102b",
+"label": "Sen. Tro. 102b",
+"text": "complete manus,"
+},
+{
+"id": "103",
+"label": "Sen. Tro. 103",
+"text": "hoc ex Troia sumpsisse licet."
+},
+{
+"id": "87",
+"label": "Sen. Tro. 87",
+"text": "paret exertos turba lacertos;"
+},
+{
+"id": "88",
+"label": "Sen. Tro. 88",
+"text": "veste remissa substringe sinus"
+},
+{
+"id": "89",
+"label": "Sen. Tro. 89",
+"text": "uteroque tenus pateant artus."
+},
+{
+"id": "90",
+"label": "Sen. Tro. 90",
+"text": "cui coniugio"
+},
+{
+"id": "91",
+"label": "Sen. Tro. 91",
+"text": "pectora velas, captive pudor?"
+},
+{
+"id": "92",
+"label": "Sen. Tro. 92",
+"text": "cingat tunicas palla solutas,"
+},
+{
+"id": "93",
+"label": "Sen. Tro. 93",
+"text": "vacet ad crebri verbera planctus"
+},
+{
+"id": "94",
+"label": "Sen. Tro. 94",
+"text": "furibunda manus— placet hic habitus,"
+},
+{
+"id": "95",
+"label": "Sen. Tro. 95",
+"text": "placet: agnosco Troada turbam."
+},
+{
+"id": "96",
+"label": "Sen. Tro. 96",
+"text": "iterum luctus redeant veteres,"
+},
+{
+"id": "97",
+"label": "Sen. Tro. 97",
+"text": "solitum flendi vincite morem:"
+},
+{
+"id": "98",
+"label": "Sen. Tro. 98",
+"text": "Hectora flemus."
+},
+{
+"id": "99",
+"label": "Sen. Tro. 99",
+"text": "Solvimus omnes lacerum multo"
+},
+{
+"id": "100",
+"label": "Sen. Tro. 100",
+"text": "funere crinem;"
+},
+{
+"id": "101",
+"label": "Sen. Tro. 101",
+"text": "coma demissa est libera nodo"
+},
+{
+"id": "102",
+"label": "Sen. Tro. 102",
+"text": "sparsitque cinis fervidus ora."
+},
+{
+"id": "104",
+"label": "Sen. Tro. 104",
+"text": "cadit ex umeris vestis apertis"
+},
+{
+"id": "105",
+"label": "Sen. Tro. 105",
+"text": "imumque tegit suffulta latus;"
+},
+{
+"id": "106",
+"label": "Sen. Tro. 106",
+"text": "iam nuda vocant pectora dextras:"
+},
+{
+"id": "107",
+"label": "Sen. Tro. 107",
+"text": "nunc, nunc viles exprome, dolor."
+},
+{
+"id": "108",
+"label": "Sen. Tro. 108",
+"text": "Rhoetea sonent litora planctus,"
+},
+{
+"id": "109",
+"label": "Sen. Tro. 109",
+"text": "habitantque cavis montibus Echo"
+},
+{
+"id": "110",
+"label": "Sen. Tro. 110",
+"text": "non, ut solita est, extrema brevis"
+},
+{
+"id": "111",
+"label": "Sen. Tro. 111",
+"text": "verba remittat,"
+},
+{
+"id": "112",
+"label": "Sen. Tro. 112",
+"text": "totos reddat Troiae gemitus:"
+},
+{
+"id": "113",
+"label": "Sen. Tro. 113",
+"text": "audiat omnis pontus et aether."
+},
+{
+"id": "113b",
+"label": "Sen. Tro. 113b",
+"text": "saevite, manus,"
+},
+{
+"id": "114",
+"label": "Sen. Tro. 114",
+"text": "pulsu pectus tundite vasto,"
+},
+{
+"id": "115",
+"label": "Sen. Tro. 115",
+"text": "non sum solito contenta sono:"
+},
+{
+"id": "116",
+"label": "Sen. Tro. 116",
+"text": "Hectora flemus."
+},
+{
+"id": "117",
+"label": "Sen. Tro. 117",
+"text": "HEC Tibi nostra ferit dextra lacertos"
+},
+{
+"id": "118",
+"label": "Sen. Tro. 118",
+"text": "umerosque ferit tibi sanguineos,"
+},
+{
+"id": "119",
+"label": "Sen. Tro. 119",
+"text": "tibi nostra caput dextera pulsat,"
+},
+{
+"id": "120",
+"label": "Sen. Tro. 120",
+"text": "tibi maternis ubera palmis"
+},
+{
+"id": "121",
+"label": "Sen. Tro. 121",
+"text": "laniata iacent:"
+},
+{
+"id": "122",
+"label": "Sen. Tro. 122",
+"text": "fluat et multo sanguine manet"
+},
+{
+"id": "122b",
+"label": "Sen. Tro. 122b",
+"text": "quamcumque tuo"
+},
+{
+"id": "123",
+"label": "Sen. Tro. 123",
+"text": "funere feci rapta cicatrix."
+},
+{
+"id": "124",
+"label": "Sen. Tro. 124",
+"text": "columen patriae, mora fatorum,"
+},
+{
+"id": "125",
+"label": "Sen. Tro. 125",
+"text": "tu praesidium Phrygibus fessis,"
+},
+{
+"id": "126",
+"label": "Sen. Tro. 126",
+"text": "tu murus eras umerisque tuis"
+},
+{
+"id": "127",
+"label": "Sen. Tro. 127",
+"text": "stetit illa decem fulta per annos:"
+},
+{
+"id": "128",
+"label": "Sen. Tro. 128",
+"text": "tecum cecidit summusque dies"
+},
+{
+"id": "129",
+"label": "Sen. Tro. 129",
+"text": "Hectoris idem patriaeque fuit."
+},
+{
+"id": "130",
+"label": "Sen. Tro. 130",
+"text": "Vertite planctus: Priamo vestros"
+},
+{
+"id": "131",
+"label": "Sen. Tro. 131",
+"text": "fundite fletus, satis Hector habet."
+},
+{
+"id": "132",
+"label": "Sen. Tro. 132",
+"text": "Accipe, rector Phrygiae, planctus,"
+},
+{
+"id": "133",
+"label": "Sen. Tro. 133",
+"text": "accipe fletus, bis capte senex,"
+},
+{
+"id": "134",
+"label": "Sen. Tro. 134",
+"text": "nil Troia semel te rege tulit,"
+},
+{
+"id": "135",
+"label": "Sen. Tro. 135",
+"text": "bis pulsari Dardana Graio"
+},
+{
+"id": "136",
+"label": "Sen. Tro. 136",
+"text": "moenia ferro"
+},
+{
+"id": "137",
+"label": "Sen. Tro. 137",
+"text": "bisque pharetras passa Herculeas."
+},
+{
+"id": "137b",
+"label": "Sen. Tro. 137b",
+"text": "post elatos"
+},
+{
+"id": "138",
+"label": "Sen. Tro. 138",
+"text": "Hecubae partus regumque gregem"
+},
+{
+"id": "139",
+"label": "Sen. Tro. 139",
+"text": "postrema pater funera cludis"
+},
+{
+"id": "140",
+"label": "Sen. Tro. 140",
+"text": "magnoque Iovi victima caesus"
+},
+{
+"id": "141",
+"label": "Sen. Tro. 141",
+"text": "Sigea, premis litora truncus."
+},
+{
+"id": "142",
+"label": "Sen. Tro. 142",
+"text": "Alio lacrimas flectite vestras:"
+},
+{
+"id": "143",
+"label": "Sen. Tro. 143",
+"text": "non est Priami miseranda mei"
+},
+{
+"id": "144",
+"label": "Sen. Tro. 144",
+"text": "mors, Iliades."
+},
+{
+"id": "145",
+"label": "Sen. Tro. 145",
+"text": "felix Priamus dicite cunctae:"
+},
+{
+"id": "146",
+"label": "Sen. Tro. 146",
+"text": "liber manes vadit ad imos,"
+},
+{
+"id": "147",
+"label": "Sen. Tro. 147",
+"text": "nec feret umquam victa Graium"
+},
+{
+"id": "147b",
+"label": "Sen. Tro. 147b",
+"text": "cervice iugum;"
+},
+{
+"id": "148",
+"label": "Sen. Tro. 148",
+"text": "non ille duos videt Atridas"
+},
+{
+"id": "149",
+"label": "Sen. Tro. 149",
+"text": "nec fallacem cernit Vlixen;"
+},
+{
+"id": "150",
+"label": "Sen. Tro. 150",
+"text": "non Argolici praeda triumphi"
+},
+{
+"id": "151",
+"label": "Sen. Tro. 151",
+"text": "subiecta feret colla tropaeis;"
+},
+{
+"id": "152",
+"label": "Sen. Tro. 152",
+"text": "non adsuetas ad sceptra manus"
+},
+{
+"id": "153",
+"label": "Sen. Tro. 153",
+"text": "posterga dabit"
+},
+{
+"id": "154",
+"label": "Sen. Tro. 154",
+"text": "currusque sequens Agamemnonios"
+},
+{
+"id": "155",
+"label": "Sen. Tro. 155",
+"text": "aurea dextra vincula gestans"
+},
+{
+"id": "156",
+"label": "Sen. Tro. 156",
+"text": "latis fiet pompa Mycenis."
+},
+{
+"id": "157",
+"label": "Sen. Tro. 157",
+"text": "Felix Priamus dicimus omnes:"
+},
+{
+"id": "158",
+"label": "Sen. Tro. 158",
+"text": "secum excedens sua regna tulit;"
+},
+{
+"id": "159",
+"label": "Sen. Tro. 159",
+"text": "nunc Elysii nemoris tutis"
+},
+{
+"id": "160",
+"label": "Sen. Tro. 160",
+"text": "errat in umbris interque pias"
+},
+{
+"id": "161",
+"label": "Sen. Tro. 161",
+"text": "felix animas Hectora quaerit."
+},
+{
+"id": "161b",
+"label": "Sen. Tro. 161b",
+"text": "felix Priamus,"
+},
+{
+"id": "162",
+"label": "Sen. Tro. 162",
+"text": "felix quisquis bello moriens"
+},
+{
+"id": "163",
+"label": "Sen. Tro. 163",
+"text": "omnia secum consumpta tulit."
+},
+{
+"id": "164",
+"label": "Sen. Tro. 164",
+"text": "O longa Danais semper in portu mora,"
+},
+{
+"id": "165",
+"label": "Sen. Tro. 165",
+"text": "seu petere bellum, petere seu patriam volunt."
+},
+{
+"id": "166",
+"label": "Sen. Tro. 166",
+"text": "Quae causa ratibus faciat et Danais moram,"
+},
+{
+"id": "167",
+"label": "Sen. Tro. 167",
+"text": "effare, reduces quis deus claudat vias."
+},
+{
+"id": "168",
+"label": "Sen. Tro. 168",
+"text": "Pavet animus, artus horridus quassat tremor,"
+},
+{
+"id": "169",
+"label": "Sen. Tro. 169",
+"text": "maiora veris monstra (vix capiunt fidem)"
+},
+{
+"id": "170",
+"label": "Sen. Tro. 170",
+"text": "vidi ipse, vidi. summa iam Titan iuga"
+},
+{
+"id": "170b",
+"label": "Sen. Tro. 170b",
+"text": "stringebat ortu, vicerat noctem dies,"
+},
+{
+"id": "171",
+"label": "Sen. Tro. 171",
+"text": "cum subito caeco terra mugitu fremens"
+},
+{
+"id": "172",
+"label": "Sen. Tro. 172",
+"text": "concussa totos traxit ex imo sinus;"
+},
+{
+"id": "173",
+"label": "Sen. Tro. 173",
+"text": "movere silvae capita et excelsum nemus"
+},
+{
+"id": "174",
+"label": "Sen. Tro. 174",
+"text": "fragore vasto tonuit et lucus sacer:"
+},
+{
+"id": "175",
+"label": "Sen. Tro. 175",
+"text": "Idaea ruptis saxa ceciderunt iugis."
+},
+{
+"id": "176",
+"label": "Sen. Tro. 176",
+"text": "nec terra solum tremuit: et pontus suum"
+},
+{
+"id": "177",
+"label": "Sen. Tro. 177",
+"text": "adesse Achillen sensit ac stravit vada."
+},
+{
+"id": "178",
+"label": "Sen. Tro. 178",
+"text": "tum scissa vallis aperit immensos specus"
+},
+{
+"id": "179",
+"label": "Sen. Tro. 179",
+"text": "et hiatus Erebi pervium ad superos iter"
+},
+{
+"id": "180",
+"label": "Sen. Tro. 180",
+"text": "tellure fracta praebet ac tumulum levat."
+},
+{
+"id": "181",
+"label": "Sen. Tro. 181",
+"text": "emicuit ingens umbra Thessalici ducis,"
+},
+{
+"id": "182",
+"label": "Sen. Tro. 182",
+"text": "Threicia qualis arma proludens tuis"
+},
+{
+"id": "183",
+"label": "Sen. Tro. 183",
+"text": "iam, Troia, fatis stravit aut Neptunium"
+},
+{
+"id": "184",
+"label": "Sen. Tro. 184",
+"text": "cana nitentem perculit iuvenem coma,"
+},
+{
+"id": "185",
+"label": "Sen. Tro. 185",
+"text": "aut cum inter acies Marte violento furens"
+},
+{
+"id": "186",
+"label": "Sen. Tro. 186",
+"text": "corporibus amnes clusit et quaerens iter"
+},
+{
+"id": "187",
+"label": "Sen. Tro. 187",
+"text": "tardus cruento Xanthus erravit vado,"
+},
+{
+"id": "188",
+"label": "Sen. Tro. 188",
+"text": "aut cum superbo victor in curru stetit"
+},
+{
+"id": "189",
+"label": "Sen. Tro. 189",
+"text": "egitque habenas Hectorem et Troiam trahens."
+},
+{
+"id": "190",
+"label": "Sen. Tro. 190",
+"text": "implevit omne litus irati sonus:"
+},
+{
+"id": "191",
+"label": "Sen. Tro. 191",
+"text": "cite, ite inertes, manibus meis debitos"
+},
+{
+"id": "192",
+"label": "Sen. Tro. 192",
+"text": "auferte honores, solvite ingratas rates"
+},
+{
+"id": "193",
+"label": "Sen. Tro. 193",
+"text": "per nostra ituri maria, non parvo luit"
+},
+{
+"id": "194",
+"label": "Sen. Tro. 194",
+"text": "iras Achillis Graecia et magno luet:"
+},
+{
+"id": "195",
+"label": "Sen. Tro. 195",
+"text": "desponsa nostris cineribus Polyxene"
+},
+{
+"id": "196",
+"label": "Sen. Tro. 196",
+"text": "Pyrrhi manu mactetur et tumulum riget.'"
+},
+{
+"id": "197",
+"label": "Sen. Tro. 197",
+"text": "haec fatus alta nocte demersit diem"
+},
+{
+"id": "198",
+"label": "Sen. Tro. 198",
+"text": "repetensque Ditem rursus ingentem specum"
+},
+{
+"id": "199",
+"label": "Sen. Tro. 199",
+"text": "coeunte terra iunxit, immoti iacent"
+},
+{
+"id": "200",
+"label": "Sen. Tro. 200",
+"text": "tranquilla pelagi, ventus abiecit minas"
+},
+{
+"id": "201",
+"label": "Sen. Tro. 201",
+"text": "placidumque fluctu murmurat leni mare,"
+},
+{
+"id": "202",
+"label": "Sen. Tro. 202",
+"text": "Tritonum ab alto cecinit hymenaeum chorus."
+},
+{
+"id": "203",
+"label": "Sen. Tro. 203",
+"text": "Cum laeta pelago vela rediturus dares,"
+},
+{
+"id": "204",
+"label": "Sen. Tro. 204",
+"text": "excidit Achilles, cuius unius manu"
+},
+{
+"id": "205",
+"label": "Sen. Tro. 205",
+"text": "impulsa Troia, quicquid accessit morae"
+},
+{
+"id": "206",
+"label": "Sen. Tro. 206",
+"text": "illo remoto, dubia quo caderet stetit,"
+},
+{
+"id": "207",
+"label": "Sen. Tro. 207",
+"text": "velis licet quod petitur ac properes dare,"
+},
+{
+"id": "208",
+"label": "Sen. Tro. 208",
+"text": "sero es daturus: iam suum cuncti duces"
+},
+{
+"id": "209",
+"label": "Sen. Tro. 209",
+"text": "tulere pretium, quae minor merces potest"
+},
+{
+"id": "210",
+"label": "Sen. Tro. 210",
+"text": "tantae dari virtutis? an meruit parum"
+},
+{
+"id": "211",
+"label": "Sen. Tro. 211",
+"text": "qui, fugere bellum iussus et longa sedens"
+},
+{
+"id": "212",
+"label": "Sen. Tro. 212",
+"text": "aevum senecta ducere ac Pylii senis"
+},
+{
+"id": "213",
+"label": "Sen. Tro. 213",
+"text": "transcendere annos, exuit matris dolos"
+},
+{
+"id": "214",
+"label": "Sen. Tro. 214",
+"text": "falsasque vestes, fassus est armis virum?"
+},
+{
+"id": "215",
+"label": "Sen. Tro. 215",
+"text": "inhospitali Telephus regno impotens,"
+},
+{
+"id": "216",
+"label": "Sen. Tro. 216",
+"text": "dum Mysiae ferocis introitus negat,"
+},
+{
+"id": "217",
+"label": "Sen. Tro. 217",
+"text": "rudem cruore regio dextram imbuit"
+},
+{
+"id": "218",
+"label": "Sen. Tro. 218",
+"text": "fortemque eandem sensit et mitem manum."
+},
+{
+"id": "219",
+"label": "Sen. Tro. 219",
+"text": "cecidere Thebae, vidit Eetion capi"
+},
+{
+"id": "220",
+"label": "Sen. Tro. 220",
+"text": "sua regna victus; clade subversa est pari"
+},
+{
+"id": "221",
+"label": "Sen. Tro. 221",
+"text": "apposita celso parva Lyrnesos iugo,"
+},
+{
+"id": "222",
+"label": "Sen. Tro. 222",
+"text": "captaque tellus nobilis Briseide"
+},
+{
+"id": "223",
+"label": "Sen. Tro. 223",
+"text": "et causa litis regibus Chryse iacet"
+},
+{
+"id": "224",
+"label": "Sen. Tro. 224",
+"text": "et nota fama Tenedos et quae pascuo"
+},
+{
+"id": "225",
+"label": "Sen. Tro. 225",
+"text": "fecunda pingui Thracios nutrit greges"
+},
+{
+"id": "226",
+"label": "Sen. Tro. 226",
+"text": "Scyros fretumque Lesbos Aegaeum secans"
+},
+{
+"id": "227",
+"label": "Sen. Tro. 227",
+"text": "et cara Phoebo Cilla; quid quas alluit"
+},
+{
+"id": "228",
+"label": "Sen. Tro. 228",
+"text": "vernis Caycus gurgitem attollens aquis?"
+},
+{
+"id": "229",
+"label": "Sen. Tro. 229",
+"text": "haec tanta clades gentium ac tantus pavor,"
+},
+{
+"id": "230",
+"label": "Sen. Tro. 230",
+"text": "sparsae tot urbes turbinis vasti modo"
+},
+{
+"id": "231",
+"label": "Sen. Tro. 231",
+"text": "alterius esset gloria ac summum decus:"
+},
+{
+"id": "232",
+"label": "Sen. Tro. 232",
+"text": "iter est Achiilis; sic meus venit pater"
+},
+{
+"id": "233",
+"label": "Sen. Tro. 233",
+"text": "et tanta gessit bella, dum bellum parat."
+},
+{
+"id": "234",
+"label": "Sen. Tro. 234",
+"text": "ut alia sileam merita, non unus satis"
+},
+{
+"id": "235",
+"label": "Sen. Tro. 235",
+"text": "Hector fuisset? Iliun vicit pater,"
+},
+{
+"id": "236",
+"label": "Sen. Tro. 236",
+"text": "vos diruistis. inclitas laudes iuvat"
+},
+{
+"id": "237",
+"label": "Sen. Tro. 237",
+"text": "et facta magni clara genitoris sequi:"
+},
+{
+"id": "238",
+"label": "Sen. Tro. 238",
+"text": "iacuit peremptus Hector ante oculos patris"
+},
+{
+"id": "239",
+"label": "Sen. Tro. 239",
+"text": "patruique Memnon, cuius ob luctum parens"
+},
+{
+"id": "240",
+"label": "Sen. Tro. 240",
+"text": "pallente maestum protulit vultu diem;"
+},
+{
+"id": "241",
+"label": "Sen. Tro. 241",
+"text": "suique victor operis exemplum horruit"
+},
+{
+"id": "242",
+"label": "Sen. Tro. 242",
+"text": "didicitque Achilles et dea natos mori."
+},
+{
+"id": "243",
+"label": "Sen. Tro. 243",
+"text": "tum saeva Amazon ultimus cecidit metus."
+},
+{
+"id": "244",
+"label": "Sen. Tro. 244",
+"text": "debes Achilli, merita si digne aestimas,"
+},
+{
+"id": "245",
+"label": "Sen. Tro. 245",
+"text": "et si ex Mycenis virginem atque Argis petat."
+},
+{
+"id": "246",
+"label": "Sen. Tro. 246",
+"text": "dubitatur et iam placita nunc subito improbas"
+},
+{
+"id": "247",
+"label": "Sen. Tro. 247",
+"text": "Priamique natam Pelei nato ferum"
+},
+{
+"id": "248",
+"label": "Sen. Tro. 248",
+"text": "mactare credis? at tuam natam parens"
+},
+{
+"id": "249",
+"label": "Sen. Tro. 249",
+"text": "Helenae immolasti: solita iam et facta expeto."
+},
+{
+"id": "250",
+"label": "Sen. Tro. 250",
+"text": "Iuvenile vitium est regere non posse impetum;"
+},
+{
+"id": "251",
+"label": "Sen. Tro. 251",
+"text": "aetatis alios fervor hic primus rapit,"
+},
+{
+"id": "252",
+"label": "Sen. Tro. 252",
+"text": "Pyrrhum paternus, spiritus quondam trucis"
+},
+{
+"id": "253",
+"label": "Sen. Tro. 253",
+"text": "minasque tumidi lentus Aeacidae tuli:"
+},
+{
+"id": "254",
+"label": "Sen. Tro. 254",
+"text": "quo plura possis, plura patienter feras."
+},
+{
+"id": "255",
+"label": "Sen. Tro. 255",
+"text": "Quid caede dira nobiles clari ducis"
+},
+{
+"id": "256",
+"label": "Sen. Tro. 256",
+"text": "aspergis umbras? noscere hoc primum decet,"
+},
+{
+"id": "257",
+"label": "Sen. Tro. 257",
+"text": "quid facere victor debeat, victus pati."
+},
+{
+"id": "258",
+"label": "Sen. Tro. 258",
+"text": "violenta nemo imperia continuit diu,"
+},
+{
+"id": "259",
+"label": "Sen. Tro. 259",
+"text": "moderata durant: quoque Fortuna altius"
+},
+{
+"id": "260",
+"label": "Sen. Tro. 260",
+"text": "evexit ac levavit humanas opes,"
+},
+{
+"id": "261",
+"label": "Sen. Tro. 261",
+"text": "hoc se magis supprimere felicem decet"
+},
+{
+"id": "262",
+"label": "Sen. Tro. 262",
+"text": "variosque casus tremere metuentem deos"
+},
+{
+"id": "263",
+"label": "Sen. Tro. 263",
+"text": "nimium faventes. magna momento obrui"
+},
+{
+"id": "264",
+"label": "Sen. Tro. 264",
+"text": "vincendo didici. Troia nos tumidos facit"
+},
+{
+"id": "265",
+"label": "Sen. Tro. 265",
+"text": "nimium ac feroces? stamus hoc Danai loco,"
+},
+{
+"id": "266",
+"label": "Sen. Tro. 266",
+"text": "unde illa cecidit, fateor, aliquando impotens"
+},
+{
+"id": "267",
+"label": "Sen. Tro. 267",
+"text": "regno ac superbus altius memet tuli;"
+},
+{
+"id": "268",
+"label": "Sen. Tro. 268",
+"text": "sed fregit illos spiritus haec quae dare"
+},
+{
+"id": "269",
+"label": "Sen. Tro. 269",
+"text": "potuisset aliis causa, Fortunae favor,"
+},
+{
+"id": "270",
+"label": "Sen. Tro. 270",
+"text": "tu me superbum, Priame, tu timidum facis."
+},
+{
+"id": "271",
+"label": "Sen. Tro. 271",
+"text": "ego esse quicquam sceptra nisi vano putem"
+},
+{
+"id": "272",
+"label": "Sen. Tro. 272",
+"text": "fulgore tectum nomen et falso comam"
+},
+{
+"id": "273",
+"label": "Sen. Tro. 273",
+"text": "vinclo decentem? casus haec rapiet brevis,"
+},
+{
+"id": "274",
+"label": "Sen. Tro. 274",
+"text": "nec mille forsan ratibus aut annis decem:"
+},
+{
+"id": "275",
+"label": "Sen. Tro. 275",
+"text": "non omnibus fortuna tam lenta imminet."
+},
+{
+"id": "276",
+"label": "Sen. Tro. 276",
+"text": "equidem fatebor (pace dixisse hoc tua,"
+},
+{
+"id": "277",
+"label": "Sen. Tro. 277",
+"text": "Argiva tellus, liceat) affligi Phrygas"
+},
+{
+"id": "278",
+"label": "Sen. Tro. 278",
+"text": "vinci que volui: ruere et aequari solo"
+},
+{
+"id": "279",
+"label": "Sen. Tro. 279",
+"text": "utinam arcuissem. sed regi frenis nequit"
+},
+{
+"id": "280",
+"label": "Sen. Tro. 280",
+"text": "et ira et ardens hostis et victoria"
+},
+{
+"id": "281",
+"label": "Sen. Tro. 281",
+"text": "commissa nocti quicquid indignum aut ferum"
+},
+{
+"id": "282",
+"label": "Sen. Tro. 282",
+"text": "cuiquam videri potuit, hoc fecit dolor"
+},
+{
+"id": "283",
+"label": "Sen. Tro. 283",
+"text": "tenebraeque, per quas ipse se inritat furor,"
+},
+{
+"id": "284",
+"label": "Sen. Tro. 284",
+"text": "gladiisque felix, cuius infecti semel"
+},
+{
+"id": "285",
+"label": "Sen. Tro. 285",
+"text": "vecors libido est. quicquid eversae potest"
+},
+{
+"id": "286",
+"label": "Sen. Tro. 286",
+"text": "superesse Troiae, maneat: exactum satis"
+},
+{
+"id": "287",
+"label": "Sen. Tro. 287",
+"text": "poenarum et ultra est. regia ut virgo occidat"
+},
+{
+"id": "288",
+"label": "Sen. Tro. 288",
+"text": "tumuloque donum detur et cineres riget"
+},
+{
+"id": "289",
+"label": "Sen. Tro. 289",
+"text": "et facinus atrox caedis ut thalamos vocent?"
+},
+{
+"id": "290",
+"label": "Sen. Tro. 290",
+"text": "non patiar, in me culpa cunctorum redit:"
+},
+{
+"id": "291",
+"label": "Sen. Tro. 291",
+"text": "qui non vetat peccare, cum possit, iubet."
+},
+{
+"id": "292",
+"label": "Sen. Tro. 292",
+"text": "Nullumne Achillis praemium manes ferent? 1"
+},
+{
+"id": "293",
+"label": "Sen. Tro. 293",
+"text": "Ferent, et illum laudibus cuncti canent"
+},
+{
+"id": "294",
+"label": "Sen. Tro. 294",
+"text": "magnumque terrae nomen ignotae audient."
+},
+{
+"id": "295",
+"label": "Sen. Tro. 295",
+"text": "quod si levatur sanguine infuso cinis,"
+},
+{
+"id": "296",
+"label": "Sen. Tro. 296",
+"text": "opima Phrygii colla caedantur greges"
+},
+{
+"id": "297",
+"label": "Sen. Tro. 297",
+"text": "fluatque nulli flebilis matri cruor."
+},
+{
+"id": "298",
+"label": "Sen. Tro. 298",
+"text": "quis iste mos est, quando in inferias homo est"
+},
+{
+"id": "299",
+"label": "Sen. Tro. 299",
+"text": "impensus hominis? detrahe invidiam tuo"
+},
+{
+"id": "300",
+"label": "Sen. Tro. 300",
+"text": "odiumque patri, quem coli poena iubes."
+},
+{
+"id": "301",
+"label": "Sen. Tro. 301",
+"text": "O tumide, rerum dum secundarum status"
+},
+{
+"id": "302",
+"label": "Sen. Tro. 302",
+"text": "extollit animos, timide cum increpuit metus,"
+},
+{
+"id": "303",
+"label": "Sen. Tro. 303",
+"text": "regum tyranne! etiamne flammatum geris"
+},
+{
+"id": "304",
+"label": "Sen. Tro. 304",
+"text": "amoris aestu pectus ac veneris novae?"
+},
+{
+"id": "305",
+"label": "Sen. Tro. 305",
+"text": "solusne totiens spolia de nobis feres?"
+},
+{
+"id": "306",
+"label": "Sen. Tro. 306",
+"text": "hac dextra Achilli victimam reddam suam."
+},
+{
+"id": "307",
+"label": "Sen. Tro. 307",
+"text": "quam si negas retinesque, maiorem dabo"
+},
+{
+"id": "308",
+"label": "Sen. Tro. 308",
+"text": "dignamque quam det Pyrrhus; et nimium diu"
+},
+{
+"id": "309",
+"label": "Sen. Tro. 309",
+"text": "a caede nostra regia cessat manus"
+},
+{
+"id": "310",
+"label": "Sen. Tro. 310",
+"text": "paremque poscit Priamus,"
+},
+{
+"id": "310b",
+"label": "Sen. Tro. 310b",
+"text": "Haud equidem nego"
+},
+{
+"id": "311",
+"label": "Sen. Tro. 311",
+"text": "hoc esse Pyrrhi maximum in bello decus,"
+},
+{
+"id": "312",
+"label": "Sen. Tro. 312",
+"text": "saevo peremptus ense quod Priamus iacet,"
+},
+{
+"id": "313",
+"label": "Sen. Tro. 313",
+"text": "supplex paternus,"
+},
+{
+"id": "313b",
+"label": "Sen. Tro. 313b",
+"text": "Supplices nostri patris"
+},
+{
+"id": "314",
+"label": "Sen. Tro. 314",
+"text": "hostesque eosdem novimus. Priamus tamen"
+},
+{
+"id": "315",
+"label": "Sen. Tro. 315",
+"text": "praesens rogavit; tu gravi pavidus metu,"
+},
+{
+"id": "316",
+"label": "Sen. Tro. 316",
+"text": "nec ad rogandum fortis, Aiaci preces"
+},
+{
+"id": "317",
+"label": "Sen. Tro. 317",
+"text": "Ithacoque mandas clausus atque hostem tremens."
+},
+{
+"id": "318",
+"label": "Sen. Tro. 318",
+"text": "At non timebat tunc tuus, fateor, parens,"
+},
+{
+"id": "319",
+"label": "Sen. Tro. 319",
+"text": "interque caedes Graeciae atque ustas rates"
+},
+{
+"id": "320",
+"label": "Sen. Tro. 320",
+"text": "segnis iacebat belli et armorum immemor,"
+},
+{
+"id": "321",
+"label": "Sen. Tro. 321",
+"text": "levi canoram verberans plectro chelyn."
+},
+{
+"id": "322",
+"label": "Sen. Tro. 322",
+"text": "Tunc magnus Hector, arma contemnens tua,"
+},
+{
+"id": "323",
+"label": "Sen. Tro. 323",
+"text": "cantus Achillis timuit, et tanto in metu"
+},
+{
+"id": "324",
+"label": "Sen. Tro. 324",
+"text": "navalibus pax alta Thessalicis fuit."
+},
+{
+"id": "325",
+"label": "Sen. Tro. 325",
+"text": "Nempe isdem in istis Thessalis navalibus"
+},
+{
+"id": "326",
+"label": "Sen. Tro. 326",
+"text": "pax alta rursus Hectoris patri fuit."
+},
+{
+"id": "327",
+"label": "Sen. Tro. 327",
+"text": "Est regis alti spiritum regi dare."
+},
+{
+"id": "328",
+"label": "Sen. Tro. 328",
+"text": "Cur dextra regi spiritum eripuit tua?"
+},
+{
+"id": "329",
+"label": "Sen. Tro. 329",
+"text": "Mortem misericors saepe pro vita dabit."
+},
+{
+"id": "330",
+"label": "Sen. Tro. 330",
+"text": "Et nunc misericors virginem busto petis?"
+},
+{
+"id": "331",
+"label": "Sen. Tro. 331",
+"text": "Iamne immolari virgines credis nefas?"
+},
+{
+"id": "332",
+"label": "Sen. Tro. 332",
+"text": "Praeferre patriam liberis regem decet."
+},
+{
+"id": "333",
+"label": "Sen. Tro. 333",
+"text": "Lex nulla capto parcit aut poenam impedit."
+},
+{
+"id": "334",
+"label": "Sen. Tro. 334",
+"text": "Quod non vetat lex, hoc vetat fieri pudor."
+},
+{
+"id": "335",
+"label": "Sen. Tro. 335",
+"text": "Quodcumque libuit facere victori licet."
+},
+{
+"id": "336",
+"label": "Sen. Tro. 336",
+"text": "Minimum decet libere cui multum licet."
+},
+{
+"id": "337",
+"label": "Sen. Tro. 337",
+"text": "His ista iactas, quos decem annorum gravi"
+},
+{
+"id": "338",
+"label": "Sen. Tro. 338",
+"text": "regno subactos Pyrrhus exsolvit iugo? caret."
+},
+{
+"id": "339",
+"label": "Sen. Tro. 339",
+"text": "Hos Scyrus animos?"
+},
+{
+"id": "339b",
+"label": "Sen. Tro. 339b",
+"text": "Scelere quae fratrum"
+},
+{
+"id": "340",
+"label": "Sen. Tro. 340",
+"text": "Inclusa fluctu—"
+},
+{
+"id": "340b",
+"label": "Sen. Tro. 340b",
+"text": "Nempe cognati maris:"
+},
+{
+"id": "341",
+"label": "Sen. Tro. 341",
+"text": "Atrei et Thyestae nobilem novi domum."
+},
+{
+"id": "342",
+"label": "Sen. Tro. 342",
+"text": "EX virginis concepte furtivo stupro"
+},
+{
+"id": "343",
+"label": "Sen. Tro. 343",
+"text": "et ex Achilles nate, sed nondum viro—"
+},
+{
+"id": "344",
+"label": "Sen. Tro. 344",
+"text": "Illo ex Achille, genere qui mundum suo"
+},
+{
+"id": "345",
+"label": "Sen. Tro. 345",
+"text": "sparsus per omne caelitum regnum tenet:"
+},
+{
+"id": "346",
+"label": "Sen. Tro. 346",
+"text": "Thetide aequor, umbras Aeaco, caelum Iove."
+},
+{
+"id": "347",
+"label": "Sen. Tro. 347",
+"text": "Illo ex Achille, qui manu Paridis iacet."
+},
+{
+"id": "348",
+"label": "Sen. Tro. 348",
+"text": ". Quem nec deorum comminus quisquam petit."
+},
+{
+"id": "349",
+"label": "Sen. Tro. 349",
+"text": "Compescere equidem verba et audacem malo"
+},
+{
+"id": "350",
+"label": "Sen. Tro. 350",
+"text": "* poteram domare: sed meus captis quoque"
+},
+{
+"id": "351",
+"label": "Sen. Tro. 351",
+"text": "scit parcere ensis, potius interpres deum"
+},
+{
+"id": "352",
+"label": "Sen. Tro. 352",
+"text": "Calchas vocetur: fata si poscent, dabo."
+},
+{
+"id": "353",
+"label": "Sen. Tro. 353",
+"text": "Tu qui Pelasgae vincla solvisti rati"
+},
+{
+"id": "354",
+"label": "Sen. Tro. 354",
+"text": "morasque bellis, arte qui reseras polum,"
+},
+{
+"id": "355",
+"label": "Sen. Tro. 355",
+"text": "cui viscerum secreta, cui mundi fragor"
+},
+{
+"id": "356",
+"label": "Sen. Tro. 356",
+"text": "et stella longa semitam flamina trahens"
+},
+{
+"id": "357",
+"label": "Sen. Tro. 357",
+"text": "dant signa fati, cuius ingenti mihi"
+},
+{
+"id": "358",
+"label": "Sen. Tro. 358",
+"text": "mercede constant ora: quid iubeat deus"
+},
+{
+"id": "359",
+"label": "Sen. Tro. 359",
+"text": "effare, Calchas, nosque consilio rege."
+},
+{
+"id": "360",
+"label": "Sen. Tro. 360",
+"text": "Dant fata Danais quo solent pretio viam:"
+},
+{
+"id": "361",
+"label": "Sen. Tro. 361",
+"text": "mactanda virgo est Thessali busto ducis;"
+},
+{
+"id": "362",
+"label": "Sen. Tro. 362",
+"text": "sed quo iugari Thessalae cultu solent"
+},
+{
+"id": "363",
+"label": "Sen. Tro. 363",
+"text": "Ionidesve vel Mycenaeae nurus,"
+},
+{
+"id": "364",
+"label": "Sen. Tro. 364",
+"text": "Pyrrhus parenti coniugem tradat suo:"
+},
+{
+"id": "365",
+"label": "Sen. Tro. 365",
+"text": "sic rite dabitur, non tamen nostras tenet"
+},
+{
+"id": "366",
+"label": "Sen. Tro. 366",
+"text": "haec una puppes causa: nobilior tuo,"
+},
+{
+"id": "367",
+"label": "Sen. Tro. 367",
+"text": "Polyxene, cruore debetur cruor,"
+},
+{
+"id": "368",
+"label": "Sen. Tro. 368",
+"text": "quem fata quaerunt, turre de summa cadat"
+},
+{
+"id": "369",
+"label": "Sen. Tro. 369",
+"text": "Priami nepos Hectoreus et letum oppetat."
+},
+{
+"id": "370",
+"label": "Sen. Tro. 370",
+"text": "tum mille velis impleat classis freta."
+},
+{
+"id": "371",
+"label": "Sen. Tro. 371",
+"text": "Verum est an timidos fabula decipit"
+},
+{
+"id": "372",
+"label": "Sen. Tro. 372",
+"text": "umbras corporibus vivere conditis,"
+},
+{
+"id": "373",
+"label": "Sen. Tro. 373",
+"text": "cum coniunx oculis imposuit manum"
+},
+{
+"id": "374",
+"label": "Sen. Tro. 374",
+"text": "supremusque dies solibus obstitit"
+},
+{
+"id": "375",
+"label": "Sen. Tro. 375",
+"text": "et tristis cineres urna cohercuit?"
+},
+{
+"id": "376",
+"label": "Sen. Tro. 376",
+"text": "non prodest animam tradere funeri,"
+},
+{
+"id": "377",
+"label": "Sen. Tro. 377",
+"text": "sed restat miseris vivere longius?"
+},
+{
+"id": "378",
+"label": "Sen. Tro. 378",
+"text": "an toti morimur nullaque pars manet"
+},
+{
+"id": "379",
+"label": "Sen. Tro. 379",
+"text": "nostri, cum profugo spiritus halitu"
+},
+{
+"id": "380",
+"label": "Sen. Tro. 380",
+"text": "immixtus nebulis cessit in aera"
+},
+{
+"id": "381",
+"label": "Sen. Tro. 381",
+"text": "et nudum tetigit subdita fax latus?"
+},
+{
+"id": "382",
+"label": "Sen. Tro. 382",
+"text": "Quicquid sol oriens, quicquid et occidens"
+},
+{
+"id": "383",
+"label": "Sen. Tro. 383",
+"text": "novit, caeruleis Oceanus fretis"
+},
+{
+"id": "384",
+"label": "Sen. Tro. 384",
+"text": "quicquid bis veniens et fugiens lavat, ,"
+},
+{
+"id": "385",
+"label": "Sen. Tro. 385",
+"text": "aetas Pegaseo corripiet gradu."
+},
+{
+"id": "386",
+"label": "Sen. Tro. 386",
+"text": "quo bis sena volant sidera turbine,"
+},
+{
+"id": "387",
+"label": "Sen. Tro. 387",
+"text": "quo cursu properat volvere saecula"
+},
+{
+"id": "388",
+"label": "Sen. Tro. 388",
+"text": "astrorum dominus, quo properat modo"
+},
+{
+"id": "389",
+"label": "Sen. Tro. 389",
+"text": "obliquis Hecate currere flexibus:"
+},
+{
+"id": "390",
+"label": "Sen. Tro. 390",
+"text": "hoc omnes petimus fata nec amplius,"
+},
+{
+"id": "391",
+"label": "Sen. Tro. 391",
+"text": "iuratos superis qui tetigit lacus,"
+},
+{
+"id": "392",
+"label": "Sen. Tro. 392",
+"text": "usquam est: ut calidis fumus ab ignibus"
+},
+{
+"id": "393",
+"label": "Sen. Tro. 393",
+"text": "vanescit, spatium per breve sordidus,"
+},
+{
+"id": "394",
+"label": "Sen. Tro. 394",
+"text": "ut nubes, gravidas quas modo vidimus,"
+},
+{
+"id": "395",
+"label": "Sen. Tro. 395",
+"text": "arctoi Boreae dissicit impetus:"
+},
+{
+"id": "396",
+"label": "Sen. Tro. 396",
+"text": "sic hic, quo regimur, spiritus effluet."
+},
+{
+"id": "397",
+"label": "Sen. Tro. 397",
+"text": "post mortem nihil est ipsaque mors nihil,"
+},
+{
+"id": "398",
+"label": "Sen. Tro. 398",
+"text": "velocis spatii meta novissima;"
+},
+{
+"id": "399",
+"label": "Sen. Tro. 399",
+"text": "spem ponant avidi, solliciti metum:"
+},
+{
+"id": "400",
+"label": "Sen. Tro. 400",
+"text": "tempus nos avidum devorat et chaos."
+},
+{
+"id": "401",
+"label": "Sen. Tro. 401",
+"text": "mors individua est, noxia corpori"
+},
+{
+"id": "402",
+"label": "Sen. Tro. 402",
+"text": "nec parcens animae: Taenara et aspero"
+},
+{
+"id": "403",
+"label": "Sen. Tro. 403",
+"text": "regnum sub domino limen et obsidens"
+},
+{
+"id": "404",
+"label": "Sen. Tro. 404",
+"text": "custos non facili Cerberus ostio"
+},
+{
+"id": "405",
+"label": "Sen. Tro. 405",
+"text": "rumores vacui verbaque inania"
+},
+{
+"id": "406",
+"label": "Sen. Tro. 406",
+"text": "et par sollicito fabula somnio."
+},
+{
+"id": "407",
+"label": "Sen. Tro. 407",
+"text": "quaeris quo iaceas post obitum loco?"
+},
+{
+"id": "408",
+"label": "Sen. Tro. 408",
+"text": "quo non nata iacent.—\n\nAndromacha Senex Astyanax"
+},
+{
+"id": "409",
+"label": "Sen. Tro. 409",
+"text": "Quid, maesta Phrygiae turba, laceratis comas"
+},
+{
+"id": "410",
+"label": "Sen. Tro. 410",
+"text": "miseramque tunsae pectus effuso genas"
+},
+{
+"id": "411",
+"label": "Sen. Tro. 411",
+"text": "fletu rigatis? levia perpessae sumus,"
+},
+{
+"id": "412",
+"label": "Sen. Tro. 412",
+"text": "si flenda patimur. Ilium vobis modo,"
+},
+{
+"id": "413",
+"label": "Sen. Tro. 413",
+"text": "mihi cecidit olim. cum ferus curru incito"
+},
+{
+"id": "414",
+"label": "Sen. Tro. 414",
+"text": "mea membra raperet et gravi gemeret sono"
+},
+{
+"id": "415",
+"label": "Sen. Tro. 415",
+"text": "Peliacus axis pondere Hectoreo tremens."
+},
+{
+"id": "416",
+"label": "Sen. Tro. 416",
+"text": "tunc obruta atque eversa quodcumque accidit"
+},
+{
+"id": "417",
+"label": "Sen. Tro. 417",
+"text": "torpens malis rigensque sine sensu fero."
+},
+{
+"id": "418",
+"label": "Sen. Tro. 418",
+"text": "iam erepta Danais coniugem sequerer meum,"
+},
+{
+"id": "419",
+"label": "Sen. Tro. 419",
+"text": "nisi hic teneret: hic meos animos domat"
+},
+{
+"id": "420",
+"label": "Sen. Tro. 420",
+"text": "morique prohibet; cogit hic aliquid deos"
+},
+{
+"id": "421",
+"label": "Sen. Tro. 421",
+"text": "adhuc rogare— tempus aeramnae addidit,"
+},
+{
+"id": "422",
+"label": "Sen. Tro. 422",
+"text": "hic mihi malorum maximum fructum abstulit,"
+},
+{
+"id": "423",
+"label": "Sen. Tro. 423",
+"text": "nihil timere: prosperis rebus locus"
+},
+{
+"id": "424",
+"label": "Sen. Tro. 424",
+"text": "ereptus omnis, dira qua veniant habent,"
+},
+{
+"id": "425",
+"label": "Sen. Tro. 425",
+"text": "miserrimum est timere, cum speres nihil."
+},
+{
+"id": "426",
+"label": "Sen. Tro. 426",
+"text": "Quis te repens commovit afflictam metus?"
+},
+{
+"id": "427",
+"label": "Sen. Tro. 427",
+"text": "Exoritur aliquod maius ex magno malum,"
+},
+{
+"id": "428",
+"label": "Sen. Tro. 428",
+"text": "nondum mentis Ilii fatum stetit."
+},
+{
+"id": "429",
+"label": "Sen. Tro. 429",
+"text": "Et quas reperiet, ut velit, clades deus?"
+},
+{
+"id": "430",
+"label": "Sen. Tro. 430",
+"text": "Stygis profundae claustra et obscuri specus"
+},
+{
+"id": "431",
+"label": "Sen. Tro. 431",
+"text": "laxantur et, ne desit e versis metus,"
+},
+{
+"id": "432",
+"label": "Sen. Tro. 432",
+"text": "hostes ab imo conditi Dite exeunt—"
+},
+{
+"id": "433",
+"label": "Sen. Tro. 433",
+"text": "solisne retro pervium est Danais iter?"
+},
+{
+"id": "434",
+"label": "Sen. Tro. 434",
+"text": "certe aequa mors est— turbat atque agitat Phrygas"
+},
+{
+"id": "435",
+"label": "Sen. Tro. 435",
+"text": "communis iste terror, hic proprie meum"
+},
+{
+"id": "436",
+"label": "Sen. Tro. 436",
+"text": "exterret animum, noctis horrendae sopor."
+},
+{
+"id": "437",
+"label": "Sen. Tro. 437",
+"text": "Quae visa portas? effer in medium metus."
+},
+{
+"id": "438",
+"label": "Sen. Tro. 438",
+"text": "Partes fere nox alma transierat duas"
+},
+{
+"id": "439",
+"label": "Sen. Tro. 439",
+"text": "clarumque septem verterant stellae iugum;"
+},
+{
+"id": "440",
+"label": "Sen. Tro. 440",
+"text": "ignota tandem venit afflictae quies"
+},
+{
+"id": "441",
+"label": "Sen. Tro. 441",
+"text": "brevisque fessis somnus obrepsit genis,"
+},
+{
+"id": "442",
+"label": "Sen. Tro. 442",
+"text": "si somnus ille est mentis attonitae stupor:"
+},
+{
+"id": "443",
+"label": "Sen. Tro. 443",
+"text": "cum subito nostros Hector ante oculos stetit,"
+},
+{
+"id": "444",
+"label": "Sen. Tro. 444",
+"text": "non qualis ultro bella in Argivos ferens"
+},
+{
+"id": "445",
+"label": "Sen. Tro. 445",
+"text": "Graias petebat facibus Idaeis rates,"
+},
+{
+"id": "446",
+"label": "Sen. Tro. 446",
+"text": "nec caede multa qualis in Danaos furens"
+},
+{
+"id": "447",
+"label": "Sen. Tro. 447",
+"text": "vera ex Achille spolia simulato tulit,"
+},
+{
+"id": "448",
+"label": "Sen. Tro. 448",
+"text": "non ille vultus flammeum intendens iubar,"
+},
+{
+"id": "449",
+"label": "Sen. Tro. 449",
+"text": "sed fessus ac deiectus et fletu gravis"
+},
+{
+"id": "450",
+"label": "Sen. Tro. 450",
+"text": "similisque maesto, squalida obtectus coma."
+},
+{
+"id": "451",
+"label": "Sen. Tro. 451",
+"text": "iuvat tamen vidisse; tum quassans caput:"
+},
+{
+"id": "452",
+"label": "Sen. Tro. 452",
+"text": "'dispelle somnos' inquitet natum eripe,"
+},
+{
+"id": "453",
+"label": "Sen. Tro. 453",
+"text": "o fida coniunx: lateat, haec una est salus."
+},
+{
+"id": "454",
+"label": "Sen. Tro. 454",
+"text": "omitte fletus— Troia quod cecidit gemis?"
+},
+{
+"id": "455",
+"label": "Sen. Tro. 455",
+"text": "utinam iaceret tota. festina, amove"
+},
+{
+"id": "456",
+"label": "Sen. Tro. 456",
+"text": "quocumque nostrae parvulam stirpem domus.'"
+},
+{
+"id": "457",
+"label": "Sen. Tro. 457",
+"text": "mihi gelidus horror ac tremor somnum expulit,"
+},
+{
+"id": "458",
+"label": "Sen. Tro. 458",
+"text": "oculosque nunc huc pavida, nunc illuc ferens"
+},
+{
+"id": "459",
+"label": "Sen. Tro. 459",
+"text": "oblita nati misera quaesivi Hectorem:"
+},
+{
+"id": "460",
+"label": "Sen. Tro. 460",
+"text": "fallax per ipsos umbra complexus abit."
+},
+{
+"id": "461",
+"label": "Sen. Tro. 461",
+"text": "O nate, magni certa progenies patris,"
+},
+{
+"id": "462",
+"label": "Sen. Tro. 462",
+"text": "spes una Phrygibus, unica adflictae domus,"
+},
+{
+"id": "463",
+"label": "Sen. Tro. 463",
+"text": "veterisque suboles sanguinis nimium inclita"
+},
+{
+"id": "464",
+"label": "Sen. Tro. 464",
+"text": "nimiumque patri similis: hos vultus meus"
+},
+{
+"id": "465",
+"label": "Sen. Tro. 465",
+"text": "habebat Hector, talis incessu fuit"
+},
+{
+"id": "466",
+"label": "Sen. Tro. 466",
+"text": "habituque talis, sic tulit fortes manus,"
+},
+{
+"id": "467",
+"label": "Sen. Tro. 467",
+"text": "Sic celsus umeris, fronte sic torva minax"
+},
+{
+"id": "468",
+"label": "Sen. Tro. 468",
+"text": "cervice fusam dissipans iacta comam—"
+},
+{
+"id": "469",
+"label": "Sen. Tro. 469",
+"text": "o nate sero Phrygibus, o matri cito,"
+},
+{
+"id": "470",
+"label": "Sen. Tro. 470",
+"text": "eritne tempus illud ac felix dies"
+},
+{
+"id": "471",
+"label": "Sen. Tro. 471",
+"text": "quo Troici defensor et vindex soli"
+},
+{
+"id": "472",
+"label": "Sen. Tro. 472",
+"text": "recidiva ponas Pergama et sparsos fuga"
+},
+{
+"id": "473",
+"label": "Sen. Tro. 473",
+"text": "cives reducas, nomen et patriae suum"
+},
+{
+"id": "474",
+"label": "Sen. Tro. 474",
+"text": "Phrygibusque reddas? sed mei fati memor"
+},
+{
+"id": "475",
+"label": "Sen. Tro. 475",
+"text": "tam magna timeo vota— quod captis sat est,"
+},
+{
+"id": "476",
+"label": "Sen. Tro. 476",
+"text": "vivamus, heu me, quis locus fidus meo"
+},
+{
+"id": "477",
+"label": "Sen. Tro. 477",
+"text": "erit timori quave te sede occulam?"
+},
+{
+"id": "478",
+"label": "Sen. Tro. 478",
+"text": "arx illa pollens opibus et muris deum,"
+},
+{
+"id": "479",
+"label": "Sen. Tro. 479",
+"text": "gentes per omnes clara et invidiae gravis,"
+},
+{
+"id": "480",
+"label": "Sen. Tro. 480",
+"text": "nunc pulvis altus, strata sunt flamma omnia"
+},
+{
+"id": "481",
+"label": "Sen. Tro. 481",
+"text": "superestque vasta ex urbe ne tantum quidem,"
+},
+{
+"id": "482",
+"label": "Sen. Tro. 482",
+"text": "quo lateat infans, quem locum fraudi legam,1?"
+},
+{
+"id": "483",
+"label": "Sen. Tro. 483",
+"text": "est tumulus ingens coniugis cari sacer,"
+},
+{
+"id": "484",
+"label": "Sen. Tro. 484",
+"text": "verendus hosti, mole quem immensa parens"
+},
+{
+"id": "485",
+"label": "Sen. Tro. 485",
+"text": "opibusque magnis struxit, in luctus suos"
+},
+{
+"id": "486",
+"label": "Sen. Tro. 486",
+"text": "rex non avarus: optime credam patri,"
+},
+{
+"id": "487",
+"label": "Sen. Tro. 487",
+"text": "sudor per artus frigidus totos cadit:"
+},
+{
+"id": "488",
+"label": "Sen. Tro. 488",
+"text": "omen tremesco misera feralis loci."
+},
+{
+"id": "497",
+"label": "Sen. Tro. 497",
+"text": "Miser occupet praesidia, securus legat."
+},
+{
+"id": "496",
+"label": "Sen. Tro. 496",
+"text": "Quid quod latere sine metu magno nequit?"
+},
+{
+"id": "492",
+"label": "Sen. Tro. 492",
+"text": "Ne prodat aliquis, amove testes doli. ,"
+},
+{
+"id": "493",
+"label": "Sen. Tro. 493",
+"text": "Si quaeret hostis?"
+},
+{
+"id": "493b",
+"label": "Sen. Tro. 493b",
+"text": "Vrbe in eversa perit."
+},
+{
+"id": "489",
+"label": "Sen. Tro. 489",
+"text": "haec causa multos una ab interitu arcuit:"
+},
+{
+"id": "490",
+"label": "Sen. Tro. 490",
+"text": "credi perisse,"
+},
+{
+"id": "490b",
+"label": "Sen. Tro. 490b",
+"text": "Vix spei quicquam est super:"
+},
+{
+"id": "494",
+"label": "Sen. Tro. 494",
+"text": "quid proderit latuisse redituro in manus?"
+},
+{
+"id": "495",
+"label": "Sen. Tro. 495",
+"text": "Victor feroces impetus primos habet."
+},
+{
+"id": "491",
+"label": "Sen. Tro. 491",
+"text": "Grave pondus illum magna nobilitas premit;"
+},
+{
+"id": "498",
+"label": "Sen. Tro. 498",
+"text": "quis te locus, quae regio seducta, invia"
+},
+{
+"id": "499",
+"label": "Sen. Tro. 499",
+"text": "tuto reponet? quis feret trepidis opem?"
+},
+{
+"id": "500",
+"label": "Sen. Tro. 500",
+"text": "quis proteget? qui semper, etiam nunc tuos,"
+},
+{
+"id": "501",
+"label": "Sen. Tro. 501",
+"text": "Hector, tuere: coniugis furtum piae"
+},
+{
+"id": "502",
+"label": "Sen. Tro. 502",
+"text": "serva et fideli cinere victurum excipe,"
+},
+{
+"id": "503",
+"label": "Sen. Tro. 503",
+"text": "succede tumulo, nate— quid retro fugis?"
+},
+{
+"id": "504",
+"label": "Sen. Tro. 504",
+"text": "turpisne latebras spernis? agnosco indolem:"
+},
+{
+"id": "505",
+"label": "Sen. Tro. 505",
+"text": "pudet timere, spiritus magnos fuga"
+},
+{
+"id": "506",
+"label": "Sen. Tro. 506",
+"text": "animosque veteres, sume quos casus dedit,"
+},
+{
+"id": "507",
+"label": "Sen. Tro. 507",
+"text": "en intuere, turba quae simus super:"
+},
+{
+"id": "508",
+"label": "Sen. Tro. 508",
+"text": "tumulus, puer, captiva: cedendum est malis,"
+},
+{
+"id": "509",
+"label": "Sen. Tro. 509",
+"text": "sanctas parentis conditi sedes age"
+},
+{
+"id": "510",
+"label": "Sen. Tro. 510",
+"text": "aude subire, fata si miseros iuvant,"
+},
+{
+"id": "511",
+"label": "Sen. Tro. 511",
+"text": "habes salutem; fata si vitam negant,"
+},
+{
+"id": "512",
+"label": "Sen. Tro. 512",
+"text": "habes sepulchrum."
+},
+{
+"id": "512b",
+"label": "Sen. Tro. 512b",
+"text": "Claustra commissum tegunt;"
+},
+{
+"id": "513",
+"label": "Sen. Tro. 513",
+"text": "quem ne tuus producat in medium timor,"
+},
+{
+"id": "514",
+"label": "Sen. Tro. 514",
+"text": "procul hinc recede teque diversam amove."
+},
+{
+"id": "515",
+"label": "Sen. Tro. 515",
+"text": "Levius solet timere, qui propius timet;"
+},
+{
+"id": "516",
+"label": "Sen. Tro. 516",
+"text": "sed, si placet, referamus hinc alio pedem."
+},
+{
+"id": "517",
+"label": "Sen. Tro. 517",
+"text": "Cohibe parumper ora questusque opprime:"
+},
+{
+"id": "518",
+"label": "Sen. Tro. 518",
+"text": "gressus nefandos dux Cephallanum admovet."
+},
+{
+"id": "519",
+"label": "Sen. Tro. 519",
+"text": "Dehisce tellus tuque, coniunx, ultimo"
+},
+{
+"id": "520",
+"label": "Sen. Tro. 520",
+"text": "specu revulsam scinde tellurem et Stygis"
+},
+{
+"id": "521",
+"label": "Sen. Tro. 521",
+"text": "sinu profundo conde depositum meum."
+},
+{
+"id": "522",
+"label": "Sen. Tro. 522",
+"text": "adest Vlixes, et quidem dubio gradu"
+},
+{
+"id": "523",
+"label": "Sen. Tro. 523",
+"text": "vultuque: nectit pectore astus callido."
+},
+{
+"id": "524",
+"label": "Sen. Tro. 524",
+"text": "Durae minister sortis hoc primum peto."
+},
+{
+"id": "525",
+"label": "Sen. Tro. 525",
+"text": "ut, ore quamvis verba dicantur meo,"
+},
+{
+"id": "526",
+"label": "Sen. Tro. 526",
+"text": "non esse credas nostra: Graiorum omnium"
+},
+{
+"id": "527",
+"label": "Sen. Tro. 527",
+"text": "procerumque vox est, petere quos seras domos"
+},
+{
+"id": "528",
+"label": "Sen. Tro. 528",
+"text": "Hectorea suboles prohibet: hanc fata expetunt."
+},
+{
+"id": "529",
+"label": "Sen. Tro. 529",
+"text": "sollicita Danaos pacis incertae fides"
+},
+{
+"id": "530",
+"label": "Sen. Tro. 530",
+"text": "semper tenebit, semper a tergo timor"
+},
+{
+"id": "531",
+"label": "Sen. Tro. 531",
+"text": "respicere coget arma nec poni sinet,"
+},
+{
+"id": "532",
+"label": "Sen. Tro. 532",
+"text": "dum Phrygibus animos natus eversis dabit,"
+},
+{
+"id": "533",
+"label": "Sen. Tro. 533",
+"text": "Andromacha, † vester, augur haec Calchas canit;"
+},
+{
+"id": "534",
+"label": "Sen. Tro. 534",
+"text": "et, si taceret augur haec Calchas, tamen"
+},
+{
+"id": "535",
+"label": "Sen. Tro. 535",
+"text": "dicebat Hector, cuius et stirpem horreo."
+},
+{
+"id": "536",
+"label": "Sen. Tro. 536",
+"text": "generosa in ortus semina exsurgunt suos:"
+},
+{
+"id": "537",
+"label": "Sen. Tro. 537",
+"text": "sic ille magni parvus armenti comes"
+},
+{
+"id": "538",
+"label": "Sen. Tro. 538",
+"text": "primisque nondum cornibus findens cutem"
+},
+{
+"id": "539",
+"label": "Sen. Tro. 539",
+"text": "cervice subito celsus et fronte arduus"
+},
+{
+"id": "540",
+"label": "Sen. Tro. 540",
+"text": "gregem paternum ducit ac pecori imperat;"
+},
+{
+"id": "541",
+"label": "Sen. Tro. 541",
+"text": "quae tenera caeso virga de trunco stetit,"
+},
+{
+"id": "542",
+"label": "Sen. Tro. 542",
+"text": "par ipsa matri tempore exiguo subit"
+},
+{
+"id": "543",
+"label": "Sen. Tro. 543",
+"text": "umbrasque terris reddit et caelo nemus;"
+},
+{
+"id": "544",
+"label": "Sen. Tro. 544",
+"text": "sic male relictus igne de magno cinis"
+},
+{
+"id": "545",
+"label": "Sen. Tro. 545",
+"text": "vires resumit. est quidem iniustus dolor"
+},
+{
+"id": "546",
+"label": "Sen. Tro. 546",
+"text": "rerum aestimator: si tamen tecum exigas,"
+},
+{
+"id": "547",
+"label": "Sen. Tro. 547",
+"text": "veniam dabis, quod bella post hiemes decem"
+},
+{
+"id": "548",
+"label": "Sen. Tro. 548",
+"text": "totidemque messes iam senex miles timet"
+},
+{
+"id": "549",
+"label": "Sen. Tro. 549",
+"text": "aliasque clades rursus ac numquam bene"
+},
+{
+"id": "550",
+"label": "Sen. Tro. 550",
+"text": "Troiam iacentem, magna res Danaos movet,"
+},
+{
+"id": "551",
+"label": "Sen. Tro. 551",
+"text": "futurus Hector: libera Graios metu."
+},
+{
+"id": "552",
+"label": "Sen. Tro. 552",
+"text": "haec una naves causa deductas tenet,"
+},
+{
+"id": "553",
+"label": "Sen. Tro. 553",
+"text": "hac classis haeret, neve crudelem putes,"
+},
+{
+"id": "554",
+"label": "Sen. Tro. 554",
+"text": "quod sorte iussus Hectoris natum petam:"
+},
+{
+"id": "555",
+"label": "Sen. Tro. 555",
+"text": "petissem Oresten. patere quod victor tulit."
+},
+{
+"id": "556",
+"label": "Sen. Tro. 556",
+"text": "Vtinam quidem esses, nate, materna in manu,"
+},
+{
+"id": "557",
+"label": "Sen. Tro. 557",
+"text": "nossemque quis te casus ereptum mihi"
+},
+{
+"id": "558",
+"label": "Sen. Tro. 558",
+"text": "teneret, aut quae regio— non hostilibus"
+},
+{
+"id": "559",
+"label": "Sen. Tro. 559",
+"text": "confossa telis pectus aut vinclis manus"
+},
+{
+"id": "560",
+"label": "Sen. Tro. 560",
+"text": "secantibus praestricta, non acri latus"
+},
+{
+"id": "561",
+"label": "Sen. Tro. 561",
+"text": "utrumque flamma cincta maternam fidem"
+},
+{
+"id": "562",
+"label": "Sen. Tro. 562",
+"text": "umquam exuissem. nate, quis te nunc locus,"
+},
+{
+"id": "563",
+"label": "Sen. Tro. 563",
+"text": "fortuna quae possedit? errore avio"
+},
+{
+"id": "564",
+"label": "Sen. Tro. 564",
+"text": "vagus arva lustras? vastus an patriae vapor"
+},
+{
+"id": "565",
+"label": "Sen. Tro. 565",
+"text": "corripuit artus? saevus an victor tuo"
+},
+{
+"id": "566",
+"label": "Sen. Tro. 566",
+"text": "lusit cruore? numquid immanis ferae"
+},
+{
+"id": "567",
+"label": "Sen. Tro. 567",
+"text": "morsu peremptus pascis Idaeas aves?"
+},
+{
+"id": "568",
+"label": "Sen. Tro. 568",
+"text": "Simulata remove verba; non facile est tibi"
+},
+{
+"id": "569",
+"label": "Sen. Tro. 569",
+"text": "decipere Vlixen: vicimus matrum dolos"
+},
+{
+"id": "570",
+"label": "Sen. Tro. 570",
+"text": "etiam dearum. cassa consilia amove;"
+},
+{
+"id": "571",
+"label": "Sen. Tro. 571",
+"text": "ubi natus est?"
+},
+{
+"id": "571b",
+"label": "Sen. Tro. 571b",
+"text": "Vbi Hector? ubi cuncti Phryges?"
+},
+{
+"id": "572",
+"label": "Sen. Tro. 572",
+"text": "ubi Priamus? unum quaeris: ego quaero omnia."
+},
+{
+"id": "573",
+"label": "Sen. Tro. 573",
+"text": "VLBL Coacta dices sponte quod fari abnuis."
+},
+{
+"id": "574",
+"label": "Sen. Tro. 574",
+"text": "Tuta est, perire quae potest debet cupit."
+},
+{
+"id": "575",
+"label": "Sen. Tro. 575",
+"text": "Magnifica verba mors prope admota excutit."
+},
+{
+"id": "576",
+"label": "Sen. Tro. 576",
+"text": "Si vis, Vlixe, cogere Andromacham metu,"
+},
+{
+"id": "577",
+"label": "Sen. Tro. 577",
+"text": "vitam minare: nam mori votum est mihi."
+},
+{
+"id": "578",
+"label": "Sen. Tro. 578",
+"text": "Verberibus igni t morte cruciatu eloqui"
+},
+{
+"id": "579",
+"label": "Sen. Tro. 579",
+"text": "quodcumque celas adiget invitam dolor"
+},
+{
+"id": "580",
+"label": "Sen. Tro. 580",
+"text": "et pectore imo condita arcana eruet:"
+},
+{
+"id": "581",
+"label": "Sen. Tro. 581",
+"text": "necessitas plus posse quam pietas solet."
+},
+{
+"id": "582",
+"label": "Sen. Tro. 582",
+"text": "Propone flammas, vulnera et diras mali"
+},
+{
+"id": "583",
+"label": "Sen. Tro. 583",
+"text": "doloris artes et famem et saevam sitim"
+},
+{
+"id": "584",
+"label": "Sen. Tro. 584",
+"text": "variasque pestes undique, et ferrum inditum"
+},
+{
+"id": "585",
+"label": "Sen. Tro. 585",
+"text": "visceribus istis, carceris caeci luem,"
+},
+{
+"id": "586",
+"label": "Sen. Tro. 586",
+"text": "et quicquid audet victor iratus timens:"
+},
+{
+"id": "588",
+"label": "Sen. Tro. 588",
+"text": "animosa nullos mater admittit metus."
+},
+{
+"id": "589",
+"label": "Sen. Tro. 589",
+"text": "Hic ipse, quo nunc contumax perstas, amor"
+},
+{
+"id": "590",
+"label": "Sen. Tro. 590",
+"text": "consulere parvis liberis Danaos monet."
+},
+{
+"id": "591",
+"label": "Sen. Tro. 591",
+"text": "post arma tam longinqua, post annos decem"
+},
+{
+"id": "592",
+"label": "Sen. Tro. 592",
+"text": "minus timerem quos facit Calchas metus,"
+},
+{
+"id": "593",
+"label": "Sen. Tro. 593",
+"text": "si mihi timerem: bella Telemacho paras."
+},
+{
+"id": "594",
+"label": "Sen. Tro. 594",
+"text": "Invita, Vlixe, gaudium Danais dabo:"
+},
+{
+"id": "595",
+"label": "Sen. Tro. 595",
+"text": "dandum est; fatere quos premis luctus, dolor."
+},
+{
+"id": "596",
+"label": "Sen. Tro. 596",
+"text": "gaudete, Atridae, tuque laetifica, ut soles,"
+},
+{
+"id": "597",
+"label": "Sen. Tro. 597",
+"text": "refer Pelasgis: Hectoris proles obit."
+},
+{
+"id": "598",
+"label": "Sen. Tro. 598",
+"text": "Et esse verum hoc qua probas Danais fide?"
+},
+{
+"id": "599",
+"label": "Sen. Tro. 599",
+"text": "Ita quod minari maximum victor potest"
+},
+{
+"id": "600",
+"label": "Sen. Tro. 600",
+"text": "contingat et me fata maturo exitu"
+},
+{
+"id": "601",
+"label": "Sen. Tro. 601",
+"text": "facilique solvant ac meo condant solo"
+},
+{
+"id": "602",
+"label": "Sen. Tro. 602",
+"text": "et patria tellus Hectorem leviter premat,"
+},
+{
+"id": "603",
+"label": "Sen. Tro. 603",
+"text": "ut luce caruit: inter extinctos iacet"
+},
+{
+"id": "604",
+"label": "Sen. Tro. 604",
+"text": "datumque tumulo debita exanimis tulit."
+},
+{
+"id": "605",
+"label": "Sen. Tro. 605",
+"text": "Expleta fata stirpe sublata Hectoris"
+},
+{
+"id": "606",
+"label": "Sen. Tro. 606",
+"text": "solidamque pacem laetus ad Danaos feram—"
+},
+{
+"id": "607",
+"label": "Sen. Tro. 607",
+"text": "quid agis, Vlixe? Danaidae credent tibi:"
+},
+{
+"id": "608",
+"label": "Sen. Tro. 608",
+"text": "tu cui? parenti— fingit an quisquam hoc parens,"
+},
+{
+"id": "609",
+"label": "Sen. Tro. 609",
+"text": "nec abominandae mortis auspicium pavet?"
+},
+{
+"id": "610",
+"label": "Sen. Tro. 610",
+"text": "auspicia metuunt qui nihil maius timent."
+},
+{
+"id": "611",
+"label": "Sen. Tro. 611",
+"text": "fidem alligavit iure iurando suam—"
+},
+{
+"id": "612",
+"label": "Sen. Tro. 612",
+"text": "si peierat, timere quid gravius potest?"
+},
+{
+"id": "613",
+"label": "Sen. Tro. 613",
+"text": "nunc advoca astus, anime, nunc fraudes, dolos."
+},
+{
+"id": "614",
+"label": "Sen. Tro. 614",
+"text": "nunc totum Vlixen; veritas numquam perit."
+},
+{
+"id": "615",
+"label": "Sen. Tro. 615",
+"text": "scrutare matrem, maeret, illacrimat, gemit;"
+},
+{
+"id": "616",
+"label": "Sen. Tro. 616",
+"text": "sed et huc et illuc anxios gressus refert"
+},
+{
+"id": "617",
+"label": "Sen. Tro. 617",
+"text": "missasque voces aure sollicita excipit:"
+},
+{
+"id": "618",
+"label": "Sen. Tro. 618",
+"text": "magis haec timet, quam maeret. ingenio est onus."
+},
+{
+"id": "619",
+"label": "Sen. Tro. 619",
+"text": "Alios parentes alioqui in luctu decet:"
+},
+{
+"id": "620",
+"label": "Sen. Tro. 620",
+"text": "tibi gratulandum est. misera, quod nato cares."
+},
+{
+"id": "621",
+"label": "Sen. Tro. 621",
+"text": "quem mors manebat saeva praecipitem datum"
+},
+{
+"id": "622",
+"label": "Sen. Tro. 622",
+"text": "e turre, lapsis sola quae muris manet."
+},
+{
+"id": "623",
+"label": "Sen. Tro. 623",
+"text": "Reliquit animus membra, quatiuntur, labant"
+},
+{
+"id": "624",
+"label": "Sen. Tro. 624",
+"text": "torpetque vinctus frigido sanguis gelu."
+},
+{
+"id": "625",
+"label": "Sen. Tro. 625",
+"text": "Intremuit: hac, hac parte quaerenda est mihi;"
+},
+{
+"id": "626",
+"label": "Sen. Tro. 626",
+"text": "matrem timor detexit: iterabo metum.—"
+},
+{
+"id": "627",
+"label": "Sen. Tro. 627",
+"text": "ite, ite celeres, fraude materna abditum"
+},
+{
+"id": "628",
+"label": "Sen. Tro. 628",
+"text": "hostem, Pelasgi nominis pestem ultimam,"
+},
+{
+"id": "629",
+"label": "Sen. Tro. 629",
+"text": "ubicumque latitat, erutam in medium date."
+},
+{
+"id": "630",
+"label": "Sen. Tro. 630",
+"text": "bene est: tenetur, perge, festina, attrahe—"
+},
+{
+"id": "631",
+"label": "Sen. Tro. 631",
+"text": "quid respicis trepidasque? iam certe perit."
+},
+{
+"id": "632",
+"label": "Sen. Tro. 632",
+"text": "Vtinam timerem, solitus ex longo est metus:"
+},
+{
+"id": "633",
+"label": "Sen. Tro. 633",
+"text": "dediscit animus †scire quod didicit diu."
+},
+{
+"id": "634",
+"label": "Sen. Tro. 634",
+"text": "Lustrale quoniam debitum muris puer"
+},
+{
+"id": "635",
+"label": "Sen. Tro. 635",
+"text": "sacrum antecessit nec potest vatem sequi"
+},
+{
+"id": "636",
+"label": "Sen. Tro. 636",
+"text": "meliore fato raptus, hoc Calchas ait"
+},
+{
+"id": "637",
+"label": "Sen. Tro. 637",
+"text": "modo piari posse redituras rates,"
+},
+{
+"id": "638",
+"label": "Sen. Tro. 638",
+"text": "si placet undas Hectoris sparsi cinis"
+},
+{
+"id": "639",
+"label": "Sen. Tro. 639",
+"text": "ac tumulus imo totus aequetur solo."
+},
+{
+"id": "640",
+"label": "Sen. Tro. 640",
+"text": "nunc ille quoniam debitam effugit necem,"
+},
+{
+"id": "641",
+"label": "Sen. Tro. 641",
+"text": "erit admovenda sedibus sacris manus."
+},
+{
+"id": "642",
+"label": "Sen. Tro. 642",
+"text": "Quid agimus? animum distrahit geminus timor:"
+},
+{
+"id": "643",
+"label": "Sen. Tro. 643",
+"text": "hinc natus, illinc coniugis sacri cinis,"
+},
+{
+"id": "644",
+"label": "Sen. Tro. 644",
+"text": "pars utra vincet? testor immites deos,"
+},
+{
+"id": "645",
+"label": "Sen. Tro. 645",
+"text": "deosque veros coniugis manes mei:"
+},
+{
+"id": "646",
+"label": "Sen. Tro. 646",
+"text": "non aliud, Hector, in meo nato mihi"
+},
+{
+"id": "647",
+"label": "Sen. Tro. 647",
+"text": "placere quam te. vivat, ut possit tuos"
+},
+{
+"id": "648",
+"label": "Sen. Tro. 648",
+"text": "referre vultus— prorutus tumulo cinis"
+},
+{
+"id": "649",
+"label": "Sen. Tro. 649",
+"text": "mergetur? ossa fluctibus spargi sinam"
+},
+{
+"id": "650",
+"label": "Sen. Tro. 650",
+"text": "disiecta vastis? potius hic mortem oppetat.—"
+},
+{
+"id": "651",
+"label": "Sen. Tro. 651",
+"text": "poteris nefandae deditum mater neci"
+},
+{
+"id": "652",
+"label": "Sen. Tro. 652",
+"text": "videre? poteris celsa per fastigia"
+},
+{
+"id": "653",
+"label": "Sen. Tro. 653",
+"text": "missum rotari? potero, perpetiar, feram,"
+},
+{
+"id": "654",
+"label": "Sen. Tro. 654",
+"text": "dum non meus post fata victoris manu"
+},
+{
+"id": "655",
+"label": "Sen. Tro. 655",
+"text": "iactetur Hector.— hic suam poenam potest"
+},
+{
+"id": "656",
+"label": "Sen. Tro. 656",
+"text": "sentire, at illum fata iam in tuto locant—"
+},
+{
+"id": "657",
+"label": "Sen. Tro. 657",
+"text": "quid fluctuaris? statue, quem poenae extrahas."
+},
+{
+"id": "658",
+"label": "Sen. Tro. 658",
+"text": "ingrata, dubitas? Hector est illinc tuus—"
+},
+{
+"id": "659",
+"label": "Sen. Tro. 659",
+"text": "erras: utrimque est Hector; hic sensus potens,"
+},
+{
+"id": "660",
+"label": "Sen. Tro. 660",
+"text": "forsan futurus ultor extincti patris—"
+},
+{
+"id": "661",
+"label": "Sen. Tro. 661",
+"text": "utrique parci non potest: quid iam facis?"
+},
+{
+"id": "662",
+"label": "Sen. Tro. 662",
+"text": "serva e duobus, anime, quem Danai timent."
+},
+{
+"id": "663",
+"label": "Sen. Tro. 663",
+"text": "Responsa peragam: funditus busta eruam."
+},
+{
+"id": "664",
+"label": "Sen. Tro. 664",
+"text": "Quae vendidistis?"
+},
+{
+"id": "664b",
+"label": "Sen. Tro. 664b",
+"text": "Pergam et e summo aggere"
+},
+{
+"id": "665",
+"label": "Sen. Tro. 665",
+"text": "traham sepulchra,"
+},
+{
+"id": "665b",
+"label": "Sen. Tro. 665b",
+"text": "Caelitum appello fidem"
+},
+{
+"id": "666",
+"label": "Sen. Tro. 666",
+"text": "fidemque Achillis: Pyrrhe, genitoris tui"
+},
+{
+"id": "667",
+"label": "Sen. Tro. 667",
+"text": "munus tuere."
+},
+{
+"id": "667b",
+"label": "Sen. Tro. 667b",
+"text": "Tumulus hic campo statim"
+},
+{
+"id": "668",
+"label": "Sen. Tro. 668",
+"text": "toto iacebit."
+},
+{
+"id": "668b",
+"label": "Sen. Tro. 668b",
+"text": "Fuerat hoc prorsus nefas"
+},
+{
+"id": "669",
+"label": "Sen. Tro. 669",
+"text": "Danais inausum. templa violastis, deos"
+},
+{
+"id": "670",
+"label": "Sen. Tro. 670",
+"text": "etiam faventes: busta transierat furor."
+},
+{
+"id": "671",
+"label": "Sen. Tro. 671",
+"text": "resistam, inermis offeram armatis manus,"
+},
+{
+"id": "672",
+"label": "Sen. Tro. 672",
+"text": "dabit ira vires, qualis Argolicas ferox"
+},
+{
+"id": "673",
+"label": "Sen. Tro. 673",
+"text": "turmas Amazon stravit, aut qualis deo"
+},
+{
+"id": "674",
+"label": "Sen. Tro. 674",
+"text": "percussa Maenas entheo silvas gradu"
+},
+{
+"id": "675",
+"label": "Sen. Tro. 675",
+"text": "armata thyrso terret atque expers sui"
+},
+{
+"id": "676",
+"label": "Sen. Tro. 676",
+"text": "vulnus dedit nec sensit, in medios ruam."
+},
+{
+"id": "677",
+"label": "Sen. Tro. 677",
+"text": "tumuloque cineris socia defenso cadam."
+},
+{
+"id": "678",
+"label": "Sen. Tro. 678",
+"text": "Cessatis .et vos flebilis clamor movet"
+},
+{
+"id": "679",
+"label": "Sen. Tro. 679",
+"text": "furorque cassus feminae? iussa ocius"
+},
+{
+"id": "680",
+"label": "Sen. Tro. 680",
+"text": "peragite."
+},
+{
+"id": "680b",
+"label": "Sen. Tro. 680b",
+"text": "Me, me sternite hic ferro prius."
+},
+{
+"id": "681",
+"label": "Sen. Tro. 681",
+"text": "repellor, heu me. rumpe fatorum moras,"
+},
+{
+"id": "682",
+"label": "Sen. Tro. 682",
+"text": "molire terras, Hector: ut Vlixen domes,"
+},
+{
+"id": "683",
+"label": "Sen. Tro. 683",
+"text": "vel umbra satis es— arma concussit manu,"
+},
+{
+"id": "684",
+"label": "Sen. Tro. 684",
+"text": "iaculatur ignes— cernitis, Danai, Hectorem?"
+},
+{
+"id": "685",
+"label": "Sen. Tro. 685",
+"text": "an sola video?"
+},
+{
+"id": "685b",
+"label": "Sen. Tro. 685b",
+"text": "Funditus cuncta eruam."
+},
+{
+"id": "686",
+"label": "Sen. Tro. 686",
+"text": "Quid agis? ruina pariter et natum et virum"
+},
+{
+"id": "687",
+"label": "Sen. Tro. 687",
+"text": "prosternis una? forsitan Danaos prece"
+},
+{
+"id": "688",
+"label": "Sen. Tro. 688",
+"text": "placare poteris, conditum illidet statim :"
+},
+{
+"id": "689",
+"label": "Sen. Tro. 689",
+"text": "immane busti pondus— intereat miser"
+},
+{
+"id": "690",
+"label": "Sen. Tro. 690",
+"text": "ubicumque potius, ne pater natum obruat"
+},
+{
+"id": "691",
+"label": "Sen. Tro. 691",
+"text": "prematque patrem natus.— Ad genua accido"
+},
+{
+"id": "692",
+"label": "Sen. Tro. 692",
+"text": "supplex, Vlixe, quamque nullius pedes"
+},
+{
+"id": "693",
+"label": "Sen. Tro. 693",
+"text": "novere dextram pedibus admoveo tuis."
+},
+{
+"id": "694",
+"label": "Sen. Tro. 694",
+"text": "miserere matris et preces placidus pias"
+},
+{
+"id": "695",
+"label": "Sen. Tro. 695",
+"text": "patiensque recipe, quoque te celsum altius"
+},
+{
+"id": "696",
+"label": "Sen. Tro. 696",
+"text": "superi levarunt, mitius lapsos preme:"
+},
+{
+"id": "697",
+"label": "Sen. Tro. 697",
+"text": "misero datur quodcumque, fortunae datur."
+},
+{
+"id": "698",
+"label": "Sen. Tro. 698",
+"text": "sic te revisat coniugis sanctae torus,"
+},
+{
+"id": "699",
+"label": "Sen. Tro. 699",
+"text": "annosque, dum te recipit, extendat suos"
+},
+{
+"id": "700",
+"label": "Sen. Tro. 700",
+"text": "Laerta; sic te iuvenis excipiat tuus,"
+},
+{
+"id": "701",
+"label": "Sen. Tro. 701",
+"text": "et vota vincens vestra felici indole"
+},
+{
+"id": "702",
+"label": "Sen. Tro. 702",
+"text": "aetate avum transcendat, ingenio patrem."
+},
+{
+"id": "703",
+"label": "Sen. Tro. 703",
+"text": "miserere matris: unicum adflictae mihi"
+},
+{
+"id": "704",
+"label": "Sen. Tro. 704",
+"text": "solamen hic est."
+},
+{
+"id": "704b",
+"label": "Sen. Tro. 704b",
+"text": "Exhibe natum et roga."
+},
+{
+"id": "705",
+"label": "Sen. Tro. 705",
+"text": "Huc e latebris procede tuis,"
+},
+{
+"id": "706",
+"label": "Sen. Tro. 706",
+"text": "flebile matris furtum miserae."
+},
+{
+"id": "707",
+"label": "Sen. Tro. 707",
+"text": "hic est, hic est terror, Vlixe,"
+},
+{
+"id": "708",
+"label": "Sen. Tro. 708",
+"text": "mille carinis. submitte manus"
+},
+{
+"id": "709",
+"label": "Sen. Tro. 709",
+"text": "dominique pedes supplice dextra"
+},
+{
+"id": "710",
+"label": "Sen. Tro. 710",
+"text": "stratus adora nec turpe puta"
+},
+{
+"id": "711",
+"label": "Sen. Tro. 711",
+"text": "quicquid miseros fortuna iubet."
+},
+{
+"id": "712",
+"label": "Sen. Tro. 712",
+"text": "pone ex animo reges atavos"
+},
+{
+"id": "713",
+"label": "Sen. Tro. 713",
+"text": "magnique senis iura per omnis"
+},
+{
+"id": "714",
+"label": "Sen. Tro. 714",
+"text": "incluta terras j excidat Hector,"
+},
+{
+"id": "715",
+"label": "Sen. Tro. 715",
+"text": "gere captivum positoque genu,"
+},
+{
+"id": "716",
+"label": "Sen. Tro. 716",
+"text": "si tua nondum funera sentis,"
+},
+{
+"id": "717",
+"label": "Sen. Tro. 717",
+"text": "matris fletus imitare tuae."
+},
+{
+"id": "718",
+"label": "Sen. Tro. 718",
+"text": "Vidit pueri regis lacrimas"
+},
+{
+"id": "719",
+"label": "Sen. Tro. 719",
+"text": "et Troia prior, parvusque minas"
+},
+{
+"id": "720",
+"label": "Sen. Tro. 720",
+"text": "trucis Alcidae flexit Priamus."
+},
+{
+"id": "721",
+"label": "Sen. Tro. 721",
+"text": "ille, ille ferox, cuius vastis"
+},
+{
+"id": "722",
+"label": "Sen. Tro. 722",
+"text": "viribus omnes cessere ferae,"
+},
+{
+"id": "723",
+"label": "Sen. Tro. 723",
+"text": "qui perfracto limine Ditis"
+},
+{
+"id": "724",
+"label": "Sen. Tro. 724",
+"text": "caecum retro patefecit iter,"
+},
+{
+"id": "725",
+"label": "Sen. Tro. 725",
+"text": "hostis parvi victus lacrimis:"
+},
+{
+"id": "726",
+"label": "Sen. Tro. 726",
+"text": "'suscipe' dixit 'rector habenas"
+},
+{
+"id": "727",
+"label": "Sen. Tro. 727",
+"text": "patrioque sede celsus solio;"
+},
+{
+"id": "728",
+"label": "Sen. Tro. 728",
+"text": "sed sceptra fide meliore tene.'"
+},
+{
+"id": "729",
+"label": "Sen. Tro. 729",
+"text": "hoc fuit illo victore capi:"
+},
+{
+"id": "730",
+"label": "Sen. Tro. 730",
+"text": "discite mites Herculis iras."
+},
+{
+"id": "731",
+"label": "Sen. Tro. 731",
+"text": "an sola placent Herculis arma?"
+},
+{
+"id": "732",
+"label": "Sen. Tro. 732",
+"text": "iacet ante pedes non minor illo"
+},
+{
+"id": "733",
+"label": "Sen. Tro. 733",
+"text": "supplice supplex vitamque petit—"
+},
+{
+"id": "734",
+"label": "Sen. Tro. 734",
+"text": "regnum Troiae"
+},
+{
+"id": "735",
+"label": "Sen. Tro. 735",
+"text": "quocumque volet Fortuna ferat."
+},
+{
+"id": "736",
+"label": "Sen. Tro. 736",
+"text": "Matris quidem me maeror attonitae movet,"
+},
+{
+"id": "737",
+"label": "Sen. Tro. 737",
+"text": "magis Pelasgae me tamen matres movent,"
+},
+{
+"id": "738",
+"label": "Sen. Tro. 738",
+"text": "quarum iste magnos crescit in luctus puer."
+},
+{
+"id": "739",
+"label": "Sen. Tro. 739",
+"text": "Has, has ruinas urbis in cinerem datae"
+},
+{
+"id": "740",
+"label": "Sen. Tro. 740",
+"text": "hic excitabit? hae manus Troiam erigent?"
+},
+{
+"id": "741",
+"label": "Sen. Tro. 741",
+"text": "nullas habet spes Troia, si tales habet."
+},
+{
+"id": "742",
+"label": "Sen. Tro. 742",
+"text": "non sic iacemus Troes, ut cuiquam metus"
+},
+{
+"id": "743",
+"label": "Sen. Tro. 743",
+"text": "possimus esse. spiritus genitor fecit?"
+},
+{
+"id": "744",
+"label": "Sen. Tro. 744",
+"text": "sed nempe tractus, ipse post Troiam pater"
+},
+{
+"id": "745",
+"label": "Sen. Tro. 745",
+"text": "posuisset animos, magna quos frangunt mala."
+},
+{
+"id": "746",
+"label": "Sen. Tro. 746",
+"text": "si poena petitur, (quae peti gravior potest?)"
+},
+{
+"id": "747",
+"label": "Sen. Tro. 747",
+"text": "famulare collo nobili subeat iugum,"
+},
+{
+"id": "748",
+"label": "Sen. Tro. 748",
+"text": "servire liceat, aliquis hoc regi negat?"
+},
+{
+"id": "749",
+"label": "Sen. Tro. 749",
+"text": "Non hoc Vlixes, sed negat Calchas tibi."
+},
+{
+"id": "750",
+"label": "Sen. Tro. 750",
+"text": "O machinator fraudis et scelerum artifex,"
+},
+{
+"id": "751",
+"label": "Sen. Tro. 751",
+"text": "virtute cuius bellica nemo occidit,"
+},
+{
+"id": "752",
+"label": "Sen. Tro. 752",
+"text": "dolis et astu maleficae mentis iacent"
+},
+{
+"id": "753",
+"label": "Sen. Tro. 753",
+"text": "etiam Pelasgi, vatem et insontes deos"
+},
+{
+"id": "754",
+"label": "Sen. Tro. 754",
+"text": "praetendis? hoc est pectoris facinus tui."
+},
+{
+"id": "755",
+"label": "Sen. Tro. 755",
+"text": "nocturne miles, fortis in pueri necem"
+},
+{
+"id": "756",
+"label": "Sen. Tro. 756",
+"text": "iam solus audes aliquid et claro die."
+},
+{
+"id": "757",
+"label": "Sen. Tro. 757",
+"text": "Virtus Vlixis Danaidis nota est satis"
+},
+{
+"id": "758",
+"label": "Sen. Tro. 758",
+"text": "nimisque Phrygibus. non vacat vanis diem"
+},
+{
+"id": "759",
+"label": "Sen. Tro. 759",
+"text": "conterere verbis: ancoras classis legit."
+},
+{
+"id": "760",
+"label": "Sen. Tro. 760",
+"text": "Brevem moram largire, dum officium parens"
+},
+{
+"id": "761",
+"label": "Sen. Tro. 761",
+"text": "nato supremum reddo et amplexu ultimo"
+},
+{
+"id": "762",
+"label": "Sen. Tro. 762",
+"text": "avidos dolores satio."
+},
+{
+"id": "762b",
+"label": "Sen. Tro. 762b",
+"text": "Misereri tui"
+},
+{
+"id": "763",
+"label": "Sen. Tro. 763",
+"text": "utinam liceret, quod tamen solum licet,"
+},
+{
+"id": "764",
+"label": "Sen. Tro. 764",
+"text": "tempus moramque dabimus, arbitrio tuo"
+},
+{
+"id": "765",
+"label": "Sen. Tro. 765",
+"text": "implere lacrimis: fletus aerumnas levat."
+},
+{
+"id": "766",
+"label": "Sen. Tro. 766",
+"text": "O dulce pignus, o decus lapsae domus"
+},
+{
+"id": "767",
+"label": "Sen. Tro. 767",
+"text": "summumque Troiae funus, o Danaum timor,"
+},
+{
+"id": "768",
+"label": "Sen. Tro. 768",
+"text": "genetricis o spes vana, cui demens ego"
+},
+{
+"id": "769",
+"label": "Sen. Tro. 769",
+"text": "laudes parentis bellicas, annos avi"
+},
+{
+"id": "770",
+"label": "Sen. Tro. 770",
+"text": "demens precabar, vota destituit deus."
+},
+{
+"id": "775",
+"label": "Sen. Tro. 775",
+"text": "non arma tenera patria tractabis manu"
+},
+{
+"id": "776",
+"label": "Sen. Tro. 776",
+"text": "sparsasque passim saltibus latis feras"
+},
+{
+"id": "777",
+"label": "Sen. Tro. 777",
+"text": "audax sequeris nec stato lustri die,"
+},
+{
+"id": "778",
+"label": "Sen. Tro. 778",
+"text": "solemne referens Troici lusus sacrum,"
+},
+{
+"id": "779",
+"label": "Sen. Tro. 779",
+"text": "puer citatas nobilis turmas ages;"
+},
+{
+"id": "780",
+"label": "Sen. Tro. 780",
+"text": "non inter aras mobili velox pede,"
+},
+{
+"id": "781",
+"label": "Sen. Tro. 781",
+"text": "reboante flexo concitos cornu modos,"
+},
+{
+"id": "782",
+"label": "Sen. Tro. 782",
+"text": "barbarica prisco templa saltatu coles."
+},
+{
+"id": "771",
+"label": "Sen. Tro. 771",
+"text": "Iliaca non tu sceptra regali potens"
+},
+{
+"id": "772",
+"label": "Sen. Tro. 772",
+"text": "gestabis aula, iura nec populis dabis"
+},
+{
+"id": "773",
+"label": "Sen. Tro. 773",
+"text": "victasque gentes sub tuum mittes iugum,"
+},
+{
+"id": "774",
+"label": "Sen. Tro. 774",
+"text": "non Graia caedes terga, non Pyrrhum trahes."
+},
+{
+"id": "783",
+"label": "Sen. Tro. 783",
+"text": "o Marte diro tristius leti genus!"
+},
+{
+"id": "784",
+"label": "Sen. Tro. 784",
+"text": "flebilius aliquid Hectoris magni nece"
+},
+{
+"id": "785",
+"label": "Sen. Tro. 785",
+"text": "muri videbunt,"
+},
+{
+"id": "785b",
+"label": "Sen. Tro. 785b",
+"text": "Rumpe iam fletus, parens:"
+},
+{
+"id": "786",
+"label": "Sen. Tro. 786",
+"text": "magnus sibi ipse non facit finem dolor."
+},
+{
+"id": "787",
+"label": "Sen. Tro. 787",
+"text": "Lacrimis, Vlixe, parva quam petimus mora est;"
+},
+{
+"id": "788",
+"label": "Sen. Tro. 788",
+"text": "concede patiens, ut mea condam manu"
+},
+{
+"id": "789",
+"label": "Sen. Tro. 789",
+"text": "viventis oculos, occidis parvus quidem,"
+},
+{
+"id": "790",
+"label": "Sen. Tro. 790",
+"text": "sed iam timendus. Troia te expectat tua:"
+},
+{
+"id": "791",
+"label": "Sen. Tro. 791",
+"text": "i, vade liber, liberos Troas vide."
+},
+{
+"id": "792",
+"label": "Sen. Tro. 792",
+"text": "Miserere, mater."
+},
+{
+"id": "792b",
+"label": "Sen. Tro. 792b",
+"text": "Quid meos retines sinus"
+},
+{
+"id": "793",
+"label": "Sen. Tro. 793",
+"text": "manusque matris cassa praesidia occupas?"
+},
+{
+"id": "794",
+"label": "Sen. Tro. 794",
+"text": "fremitu leonis qualis audito tener"
+},
+{
+"id": "795",
+"label": "Sen. Tro. 795",
+"text": "timidum iuvencus applicat matri latus,"
+},
+{
+"id": "796",
+"label": "Sen. Tro. 796",
+"text": "at ille saevus matre summota loco"
+},
+{
+"id": "797",
+"label": "Sen. Tro. 797",
+"text": "praedam minorem morsibus vastis tenens"
+},
+{
+"id": "798",
+"label": "Sen. Tro. 798",
+"text": "frangit venitque: talis e nostro sinu"
+},
+{
+"id": "799",
+"label": "Sen. Tro. 799",
+"text": "te rapiet hostis, oscula et fletus, puer,"
+},
+{
+"id": "800",
+"label": "Sen. Tro. 800",
+"text": "lacerosque crines excipe et plenus mei"
+},
+{
+"id": "801",
+"label": "Sen. Tro. 801",
+"text": "occurre patri; pauca maternae tamen"
+},
+{
+"id": "802",
+"label": "Sen. Tro. 802",
+"text": "perfer querelae verba: 'si manes habent"
+},
+{
+"id": "803",
+"label": "Sen. Tro. 803",
+"text": "curas priores nec perit flammis amor,"
+},
+{
+"id": "804",
+"label": "Sen. Tro. 804",
+"text": "servire Graio pateris Andromachen viro,"
+},
+{
+"id": "805",
+"label": "Sen. Tro. 805",
+"text": "crudelis Hector? lentus et segnis iaces?"
+},
+{
+"id": "806",
+"label": "Sen. Tro. 806",
+"text": "redit Achilles.' sume nunc iterum comas"
+},
+{
+"id": "807",
+"label": "Sen. Tro. 807",
+"text": "et sume lacrimas, quicquid e misero viri"
+},
+{
+"id": "808",
+"label": "Sen. Tro. 808",
+"text": "funere relictum est, sume quae reddas tuo"
+},
+{
+"id": "809",
+"label": "Sen. Tro. 809",
+"text": "Oscula parenti, matris hanc solacio"
+},
+{
+"id": "810",
+"label": "Sen. Tro. 810",
+"text": "relinque vestem: tumulus hanc tetigit meus"
+},
+{
+"id": "811",
+"label": "Sen. Tro. 811",
+"text": "manesque cari. si quid hic cineris latet,"
+},
+{
+"id": "812",
+"label": "Sen. Tro. 812",
+"text": "scrutabor ore."
+},
+{
+"id": "812b",
+"label": "Sen. Tro. 812b",
+"text": "Nullus est flendi modus:"
+},
+{
+"id": "813",
+"label": "Sen. Tro. 813",
+"text": "abripite propere classis Argolicae moram."
+},
+{
+"id": "814",
+"label": "Sen. Tro. 814",
+"text": "Quae vocat sedes habitanda captas?"
+},
+{
+"id": "815",
+"label": "Sen. Tro. 815",
+"text": "Thessali montes et opaca Tempe,"
+},
+{
+"id": "819",
+"label": "Sen. Tro. 819",
+"text": "an maris vasti domitrix Iolcos?"
+},
+{
+"id": "821",
+"label": "Sen. Tro. 821",
+"text": "parva Gortynis sterilisque Tricce,"
+},
+{
+"id": "822",
+"label": "Sen. Tro. 822",
+"text": "an frequens rivis levibus Mothone,"
+},
+{
+"id": "816",
+"label": "Sen. Tro. 816",
+"text": "an viros tellus dare militares"
+},
+{
+"id": "817",
+"label": "Sen. Tro. 817",
+"text": "aptior Phthie meliorque fetu"
+},
+{
+"id": "818",
+"label": "Sen. Tro. 818",
+"text": "fortis armenti lapidosa Trachin,"
+},
+{
+"id": "823",
+"label": "Sen. Tro. 823",
+"text": "quae sub Oetaeis latebrosa silvis"
+},
+{
+"id": "824",
+"label": "Sen. Tro. 824",
+"text": "misit infestos Troiae ruinis"
+},
+{
+"id": "825",
+"label": "Sen. Tro. 825",
+"text": "non semel arcus?"
+},
+{
+"id": "826",
+"label": "Sen. Tro. 826",
+"text": "Olenos tectis habitata raris,"
+},
+{
+"id": "827",
+"label": "Sen. Tro. 827",
+"text": "virgini Pleuron inimica divae,"
+},
+{
+"id": "828",
+"label": "Sen. Tro. 828",
+"text": "an maris lati sinuosa Troezen?"
+},
+{
+"id": "829",
+"label": "Sen. Tro. 829",
+"text": "Pelion regnum Prothoi superbum,"
+},
+{
+"id": "830",
+"label": "Sen. Tro. 830",
+"text": "tertius caelo gradus? (hic recumbens"
+},
+{
+"id": "831",
+"label": "Sen. Tro. 831",
+"text": "montis exesi spatiosus antro"
+},
+{
+"id": "832",
+"label": "Sen. Tro. 832",
+"text": "iam trucis Chiron pueri magister,"
+},
+{
+"id": "833",
+"label": "Sen. Tro. 833",
+"text": "tinnulas plectro feriente chordas,"
+},
+{
+"id": "834",
+"label": "Sen. Tro. 834",
+"text": "tunc quoque ingentes acuebat iras"
+},
+{
+"id": "835",
+"label": "Sen. Tro. 835",
+"text": "bella canendo)"
+},
+{
+"id": "836",
+"label": "Sen. Tro. 836",
+"text": "An ferax varii lapidis Carystos,"
+},
+{
+"id": "820",
+"label": "Sen. Tro. 820",
+"text": "urbibus centum spatiosa Crete,"
+},
+{
+"id": "837",
+"label": "Sen. Tro. 837",
+"text": "an premens litus maris inquieti"
+},
+{
+"id": "838",
+"label": "Sen. Tro. 838",
+"text": "semper Euripo properante Chalcis?"
+},
+{
+"id": "839",
+"label": "Sen. Tro. 839",
+"text": "quolibet vento faciles Calydnae,"
+},
+{
+"id": "840",
+"label": "Sen. Tro. 840",
+"text": "an carens numquam Gonoessa vento"
+},
+{
+"id": "841",
+"label": "Sen. Tro. 841",
+"text": "quaeque formidat Borean Enispe?"
+},
+{
+"id": "842",
+"label": "Sen. Tro. 842",
+"text": "Attica pendens Peparethos ora,"
+},
+{
+"id": "843",
+"label": "Sen. Tro. 843",
+"text": "an sacris gaudens tacitis Eleusin?"
+},
+{
+"id": "843l",
+"label": "Sen. Tro. 843l",
+"text": "*"
+},
+{
+"id": "844",
+"label": "Sen. Tro. 844",
+"text": "numquid Aiacis Salamina veram"
+},
+{
+"id": "845",
+"label": "Sen. Tro. 845",
+"text": "aut fera notam Calydona saeva,"
+},
+{
+"id": "846",
+"label": "Sen. Tro. 846",
+"text": "quasque perfundit subiturus aequor"
+},
+{
+"id": "847",
+"label": "Sen. Tro. 847",
+"text": "segnibus terras Titaressos undis?"
+},
+{
+"id": "848",
+"label": "Sen. Tro. 848",
+"text": "Bessan et Scarphen, Pylon an senilem?"
+},
+{
+"id": "849",
+"label": "Sen. Tro. 849",
+"text": "Pharin an Pisas Iovis et coronis"
+},
+{
+"id": "850",
+"label": "Sen. Tro. 850",
+"text": "Elida claram?"
+},
+{
+"id": "851",
+"label": "Sen. Tro. 851",
+"text": "Quolibet tristis miseras procella"
+},
+{
+"id": "852",
+"label": "Sen. Tro. 852",
+"text": "mittat et donet cuicumque terrae,"
+},
+{
+"id": "853",
+"label": "Sen. Tro. 853",
+"text": "dum luem tantam Troiae atque Achivis"
+},
+{
+"id": "854",
+"label": "Sen. Tro. 854",
+"text": "quae tulit, Sparte, procul absit, absit"
+},
+{
+"id": "855",
+"label": "Sen. Tro. 855",
+"text": "Argos et saevi Pelopis Mycenae,"
+},
+{
+"id": "856",
+"label": "Sen. Tro. 856",
+"text": "Neritos parva brevior Zacyntho"
+},
+{
+"id": "857",
+"label": "Sen. Tro. 857",
+"text": "et nocens saxis Ithace dolosis."
+},
+{
+"id": "858",
+"label": "Sen. Tro. 858",
+"text": "Quod manet fatum dominusque quis te,"
+},
+{
+"id": "859",
+"label": "Sen. Tro. 859",
+"text": "aut quibus terris, Hecuba, videndam"
+},
+{
+"id": "860",
+"label": "Sen. Tro. 860",
+"text": "ducet? in cuius moriere regno?"
+},
+{
+"id": "861",
+"label": "Sen. Tro. 861",
+"text": "Quicumque hymen funestas, inlaetabilis"
+},
+{
+"id": "862",
+"label": "Sen. Tro. 862",
+"text": "lamenta caedes sanguinem gemitus habet"
+},
+{
+"id": "863",
+"label": "Sen. Tro. 863",
+"text": "est auspice Helena dignus, eversis quoque"
+},
+{
+"id": "864",
+"label": "Sen. Tro. 864",
+"text": "nocere cogor Phrygibus: ego Pyrrhi toros"
+},
+{
+"id": "865",
+"label": "Sen. Tro. 865",
+"text": "narrare falsos iubeor, ego cultus dare"
+},
+{
+"id": "866",
+"label": "Sen. Tro. 866",
+"text": "habitusque Graios. arte capietur mea"
+},
+{
+"id": "867",
+"label": "Sen. Tro. 867",
+"text": "meaque fraude concidet Paridis soror,"
+},
+{
+"id": "868",
+"label": "Sen. Tro. 868",
+"text": "fallatur; ipsi levius hoc equidem reor:"
+},
+{
+"id": "869",
+"label": "Sen. Tro. 869",
+"text": "optanda mors est sine metu mortis mori."
+},
+{
+"id": "870",
+"label": "Sen. Tro. 870",
+"text": "quid iussa cessas agere? ad auctorem redit"
+},
+{
+"id": "871",
+"label": "Sen. Tro. 871",
+"text": "sceleris coacti culpa.— Dardaniae domus"
+},
+{
+"id": "872",
+"label": "Sen. Tro. 872",
+"text": "generosa virgo, melior afflictos deus"
+},
+{
+"id": "873",
+"label": "Sen. Tro. 873",
+"text": "respicere coepit teque felici parat"
+},
+{
+"id": "874",
+"label": "Sen. Tro. 874",
+"text": "dotare thalamo; tale coniugium tibi"
+},
+{
+"id": "875",
+"label": "Sen. Tro. 875",
+"text": "non ipsa sospes Troia, non Priamus daret."
+},
+{
+"id": "876",
+"label": "Sen. Tro. 876",
+"text": "nam te Pelasgae maximum gentis decus,"
+},
+{
+"id": "878",
+"label": "Sen. Tro. 878",
+"text": "cui regna campi lata Thessalici patent,"
+},
+{
+"id": "877",
+"label": "Sen. Tro. 877",
+"text": "ad sancta lecti iura legitimi petit."
+},
+{
+"id": "879",
+"label": "Sen. Tro. 879",
+"text": "te magna Tethys teque tot pelagi deae"
+},
+{
+"id": "880",
+"label": "Sen. Tro. 880",
+"text": "placidumque numen aequoris tumidi Thetis"
+},
+{
+"id": "881",
+"label": "Sen. Tro. 881",
+"text": "suam vocabunt, te datam Pyrrho socer"
+},
+{
+"id": "882",
+"label": "Sen. Tro. 882",
+"text": "Peleus nurum vocabit et Nereus nurum."
+},
+{
+"id": "883",
+"label": "Sen. Tro. 883",
+"text": "depone cultus squalidos, festos cape."
+},
+{
+"id": "884",
+"label": "Sen. Tro. 884",
+"text": "dedisce captam; deprime horrentis comas"
+},
+{
+"id": "885",
+"label": "Sen. Tro. 885",
+"text": "crinemque docta patere distingui manu."
+},
+{
+"id": "886",
+"label": "Sen. Tro. 886",
+"text": "hic forsitan te casus excelso magis"
+},
+{
+"id": "887",
+"label": "Sen. Tro. 887",
+"text": "solio reponet. profuit multis capi."
+},
+{
+"id": "888",
+"label": "Sen. Tro. 888",
+"text": "Hoc derat unum Phrygibus eversis malum,"
+},
+{
+"id": "889",
+"label": "Sen. Tro. 889",
+"text": "gaudere— flagrant strata passim Pergama:"
+},
+{
+"id": "890",
+"label": "Sen. Tro. 890",
+"text": "o coniugale tempus! an quisquam audeat"
+},
+{
+"id": "891",
+"label": "Sen. Tro. 891",
+"text": "negare? quisquam dubius ad thalamos eat."
+},
+{
+"id": "892",
+"label": "Sen. Tro. 892",
+"text": "quos Helena suadet? pestis exitium lues"
+},
+{
+"id": "893",
+"label": "Sen. Tro. 893",
+"text": "utriusque populi, cernis hos tumulos ducum"
+},
+{
+"id": "894",
+"label": "Sen. Tro. 894",
+"text": "et nuda totis ossa quae passim iacent"
+},
+{
+"id": "895",
+"label": "Sen. Tro. 895",
+"text": "inhumata campis? haec hymen sparsit tuus."
+},
+{
+"id": "896",
+"label": "Sen. Tro. 896",
+"text": "tibi fluxit Asiae, fluxit Europae cruor,"
+},
+{
+"id": "897",
+"label": "Sen. Tro. 897",
+"text": "cum dimicantes lenta prospiceres viros,"
+},
+{
+"id": "898",
+"label": "Sen. Tro. 898",
+"text": "incerta voti— perge, thalamos appara."
+},
+{
+"id": "899",
+"label": "Sen. Tro. 899",
+"text": "taedis quid opus est quidve solemni face?"
+},
+{
+"id": "900",
+"label": "Sen. Tro. 900",
+"text": "quid igne? thalamis Troia praelucet novis."
+},
+{
+"id": "901",
+"label": "Sen. Tro. 901",
+"text": "celebrate Pyrrhi, Troades, conubia,"
+},
+{
+"id": "902",
+"label": "Sen. Tro. 902",
+"text": "celebrate digne: planctus et gemitus sonet."
+},
+{
+"id": "903",
+"label": "Sen. Tro. 903",
+"text": "Ratione quamvis careat et flecti neget"
+},
+{
+"id": "904",
+"label": "Sen. Tro. 904",
+"text": "magnus dolor sociosque nonnumquam sui"
+},
+{
+"id": "905",
+"label": "Sen. Tro. 905",
+"text": "maeroris ipsos oderit: causam tamen"
+},
+{
+"id": "906",
+"label": "Sen. Tro. 906",
+"text": "possum tueri iudice infesto meam,"
+},
+{
+"id": "907",
+"label": "Sen. Tro. 907",
+"text": "graviora passa, luget Andromacha Hectorem"
+},
+{
+"id": "908",
+"label": "Sen. Tro. 908",
+"text": "et Hecuba Priamum: solus occulte Paris"
+},
+{
+"id": "909",
+"label": "Sen. Tro. 909",
+"text": "lugendus Helenae est. dirum et invisum et grave est"
+},
+{
+"id": "910",
+"label": "Sen. Tro. 910",
+"text": "servitia ferre? patior hoc olim iugum,"
+},
+{
+"id": "911",
+"label": "Sen. Tro. 911",
+"text": "annis decem captiva, prostratum Ilium est,"
+},
+{
+"id": "912",
+"label": "Sen. Tro. 912",
+"text": "versi penates? perdere est patriam grave,"
+},
+{
+"id": "913",
+"label": "Sen. Tro. 913",
+"text": "gravius timere, vos levat tanti mali"
+},
+{
+"id": "914",
+"label": "Sen. Tro. 914",
+"text": "comitatus: in me victor et victus furit,"
+},
+{
+"id": "915",
+"label": "Sen. Tro. 915",
+"text": "quam quisque famulam traheret incerto diu"
+},
+{
+"id": "916",
+"label": "Sen. Tro. 916",
+"text": "casu pependit, me meus traxit statim"
+},
+{
+"id": "917",
+"label": "Sen. Tro. 917",
+"text": "sine sorte dominus, causa bellorum fui"
+},
+{
+"id": "918",
+"label": "Sen. Tro. 918",
+"text": "tantaeque Teucris cladis? hoc Verum puta."
+},
+{
+"id": "919",
+"label": "Sen. Tro. 919",
+"text": "Spartana puppis vestra si secuit freta;"
+},
+{
+"id": "920",
+"label": "Sen. Tro. 920",
+"text": "sin rapta Phrygiis praeda remigibus fui"
+},
+{
+"id": "921",
+"label": "Sen. Tro. 921",
+"text": "deditque donum iudici victrix dea."
+},
+{
+"id": "922",
+"label": "Sen. Tro. 922",
+"text": "ignosce raptae, iudicem iratum mea"
+},
+{
+"id": "923",
+"label": "Sen. Tro. 923",
+"text": "habitura causa est: ista Menelaum manent"
+},
+{
+"id": "924",
+"label": "Sen. Tro. 924",
+"text": "arbitria, nunc hanc luctibus paulum tuis,"
+},
+{
+"id": "925",
+"label": "Sen. Tro. 925",
+"text": "Andromacha, omissis flecto— vix lacrimas queo"
+},
+{
+"id": "926",
+"label": "Sen. Tro. 926",
+"text": "retinere,"
+},
+{
+"id": "926b",
+"label": "Sen. Tro. 926b",
+"text": "Quantum est Helena quod lacrimat malum."
+},
+{
+"id": "927",
+"label": "Sen. Tro. 927",
+"text": "cur lacrimat autem? fare quos Ithacus dolos,"
+},
+{
+"id": "928",
+"label": "Sen. Tro. 928",
+"text": "quae scelera nectat; utrum ab Idaeis iugis"
+},
+{
+"id": "929",
+"label": "Sen. Tro. 929",
+"text": "iactanda virgo est, arcis an celsae edito"
+},
+{
+"id": "930",
+"label": "Sen. Tro. 930",
+"text": "mittenda saxo? num per has vastum in mare"
+},
+{
+"id": "931",
+"label": "Sen. Tro. 931",
+"text": "volvenda rupes, latere quas scisso levat"
+},
+{
+"id": "932",
+"label": "Sen. Tro. 932",
+"text": "altum vadoso Sigeon spectans sinu?"
+},
+{
+"id": "933",
+"label": "Sen. Tro. 933",
+"text": "dic, fare, quicquid subdolo vultu tegis."
+},
+{
+"id": "934",
+"label": "Sen. Tro. 934",
+"text": "leviora mala sunt cuncta, quam Priami gener"
+},
+{
+"id": "935",
+"label": "Sen. Tro. 935",
+"text": "Hecubaeque Pyrrhus, fare, quam poenam pares"
+},
+{
+"id": "936",
+"label": "Sen. Tro. 936",
+"text": "exprome et unum hoc deme nostris cladibus"
+},
+{
+"id": "937",
+"label": "Sen. Tro. 937",
+"text": "falli: paratas perpeti mortem vides."
+},
+{
+"id": "938",
+"label": "Sen. Tro. 938",
+"text": "Vtinam iuberet me quoque interpres deum"
+},
+{
+"id": "939",
+"label": "Sen. Tro. 939",
+"text": "abrumpere ense lucis invisae moras"
+},
+{
+"id": "940",
+"label": "Sen. Tro. 940",
+"text": "vel Achillis ante busta furibunda manu"
+},
+{
+"id": "941",
+"label": "Sen. Tro. 941",
+"text": "occidere Pyrrhi, fata comitantem tua,"
+},
+{
+"id": "942",
+"label": "Sen. Tro. 942",
+"text": "Polyxene miseranda, quam tradi sibi"
+},
+{
+"id": "943",
+"label": "Sen. Tro. 943",
+"text": "cineremque Achilles ante mactari suum, ,"
+},
+{
+"id": "944",
+"label": "Sen. Tro. 944",
+"text": "campo maritus ut sit Elysio, iubet."
+},
+{
+"id": "945",
+"label": "Sen. Tro. 945",
+"text": "Vide ut animus ingens laetus audierit necem."
+},
+{
+"id": "946",
+"label": "Sen. Tro. 946",
+"text": "cultus decoros regiae vestis petit"
+},
+{
+"id": "947",
+"label": "Sen. Tro. 947",
+"text": "et admoveri crinibus patitur manum."
+},
+{
+"id": "948",
+"label": "Sen. Tro. 948",
+"text": "mortem putabat illud, hoc thalamos putat."
+},
+{
+"id": "949",
+"label": "Sen. Tro. 949",
+"text": "at misera luctu mater audito stupet;"
+},
+{
+"id": "950",
+"label": "Sen. Tro. 950",
+"text": "labefacta mens succubuit. assurge, alleva"
+},
+{
+"id": "951",
+"label": "Sen. Tro. 951",
+"text": "animum et cadentem, misera, firma spiritum."
+},
+{
+"id": "952",
+"label": "Sen. Tro. 952",
+"text": "quam tenuis anima vinculo pendet levi—"
+},
+{
+"id": "953",
+"label": "Sen. Tro. 953",
+"text": "minimum est quod Hecubam facere felicem potest."
+},
+{
+"id": "954",
+"label": "Sen. Tro. 954",
+"text": "spirat, revixit, prima mors miseros fugit."
+},
+{
+"id": "955",
+"label": "Sen. Tro. 955",
+"text": "Adhuc Achilles vivit in poenas Phrygum?"
+},
+{
+"id": "956",
+"label": "Sen. Tro. 956",
+"text": "adhuc rebellat? o manum Paridis levem,"
+},
+{
+"id": "957",
+"label": "Sen. Tro. 957",
+"text": "cinis ipse nostrum sanguinem ac tumulus sitit,"
+},
+{
+"id": "958",
+"label": "Sen. Tro. 958",
+"text": "modo turba felix latera cingebat mea,"
+},
+{
+"id": "959",
+"label": "Sen. Tro. 959",
+"text": "lassabar in tot oscula et tantum gregem"
+},
+{
+"id": "960",
+"label": "Sen. Tro. 960",
+"text": "dividere matrem; sola nunc haec est super"
+},
+{
+"id": "961",
+"label": "Sen. Tro. 961",
+"text": "votum, comes, levamen, afflictae quies;"
+},
+{
+"id": "962",
+"label": "Sen. Tro. 962",
+"text": "haec totus Hecubae fetus, hac sola vocor"
+},
+{
+"id": "963",
+"label": "Sen. Tro. 963",
+"text": "iam voce mater, dura et infelix age"
+},
+{
+"id": "964",
+"label": "Sen. Tro. 964",
+"text": "elabere anima, denique hoc unum mihi"
+},
+{
+"id": "965",
+"label": "Sen. Tro. 965",
+"text": "remitte funus, inrigat fletus genas"
+},
+{
+"id": "966",
+"label": "Sen. Tro. 966",
+"text": "imberque victo subitus e vultu cadit."
+},
+{
+"id": "969",
+"label": "Sen. Tro. 969",
+"text": "Nos Hecuba, nos, nos, Hecuba, lugendae sumus,"
+},
+{
+"id": "970",
+"label": "Sen. Tro. 970",
+"text": "quas mota classis huc et huc sparsas feret;"
+},
+{
+"id": "971",
+"label": "Sen. Tro. 971",
+"text": "hanc cara tellus sedibus patriis teget."
+},
+{
+"id": "972",
+"label": "Sen. Tro. 972",
+"text": "Magis invidebis, si tuam sortem scies."
+},
+{
+"id": "973",
+"label": "Sen. Tro. 973",
+"text": "An aliqua poenae pars meae ignota est mihi?"
+},
+{
+"id": "974",
+"label": "Sen. Tro. 974",
+"text": "Versata dominos urna captivis dedit."
+},
+{
+"id": "975",
+"label": "Sen. Tro. 975",
+"text": "Cui famula trador ? ede; quem dominum voco ?"
+},
+{
+"id": "976",
+"label": "Sen. Tro. 976",
+"text": "Te sorte prima Scyrius iuvenis tulit."
+},
+{
+"id": "977",
+"label": "Sen. Tro. 977",
+"text": "Cassandra felix, quam furor sorti exim it"
+},
+{
+"id": "978",
+"label": "Sen. Tro. 978",
+"text": "Phoebusque."
+},
+{
+"id": "978b",
+"label": "Sen. Tro. 978b",
+"text": "Regum hanc maximus rector tenet."
+},
+{
+"id": "967",
+"label": "Sen. Tro. 967",
+"text": "Laetare, gaude, nata. quam vellet tuos"
+},
+{
+"id": "968",
+"label": "Sen. Tro. 968",
+"text": "Cassandra thalamos, vellet Andromache tuos."
+},
+{
+"id": "979",
+"label": "Sen. Tro. 979",
+"text": "estne aliquis, Hecubam qui suam dici velit?"
+},
+{
+"id": "980",
+"label": "Sen. Tro. 980",
+"text": "Ithaco obtigisti praeda nolenti brevis."
+},
+{
+"id": "981",
+"label": "Sen. Tro. 981",
+"text": "Quis tam impotens ac durus et iniquae ferus"
+},
+{
+"id": "982",
+"label": "Sen. Tro. 982",
+"text": "sortitor urnae regibus reges dedit?"
+},
+{
+"id": "983",
+"label": "Sen. Tro. 983",
+"text": "quis tam sinister dividit captas deus?"
+},
+{
+"id": "984",
+"label": "Sen. Tro. 984",
+"text": "quis arbiter crudelis et miseris gravis"
+},
+{
+"id": "985",
+"label": "Sen. Tro. 985",
+"text": "eligere dominos nescit et"
+},
+{
+"id": "986",
+"label": "Sen. Tro. 986",
+"text": "matrem Hectoris"
+},
+{
+"id": "987",
+"label": "Sen. Tro. 987",
+"text": "armis Achillis miscet? ad Vlixen vocor:"
+},
+{
+"id": "988",
+"label": "Sen. Tro. 988",
+"text": "nunc victa, nunc captiva, nunc cunctis mihi"
+},
+{
+"id": "989",
+"label": "Sen. Tro. 989",
+"text": "obsessa videor cladibus— domini pudet,"
+},
+{
+"id": "990",
+"label": "Sen. Tro. 990",
+"text": "non servitutis."
+},
+{
+"id": "991",
+"label": "Sen. Tro. 991",
+"text": "sterilis et saevis fretis"
+},
+{
+"id": "992",
+"label": "Sen. Tro. 992",
+"text": "inclusa tellus non capit tumulos meos—"
+},
+{
+"id": "993",
+"label": "Sen. Tro. 993",
+"text": "duc, duc, Vlixe, nil moror, dominum sequor;"
+},
+{
+"id": "994",
+"label": "Sen. Tro. 994",
+"text": "me mea sequentur fata: non pelago quies"
+},
+{
+"id": "995",
+"label": "Sen. Tro. 995",
+"text": "tranquilla veniet, saevi et ventis mare,"
+},
+{
+"id": "995l",
+"label": "Sen. Tro. 995l",
+"text": "*"
+},
+{
+"id": "996",
+"label": "Sen. Tro. 996",
+"text": "et bella et ignes et mea et Priami mala."
+},
+{
+"id": "997",
+"label": "Sen. Tro. 997",
+"text": "dumque ista veniant, interim hoc poenae loco est:"
+},
+{
+"id": "998",
+"label": "Sen. Tro. 998",
+"text": "sortem occupavi, praemium eripui tibi.—"
+},
+{
+"id": "999",
+"label": "Sen. Tro. 999",
+"text": "Sed en citato Pyrrhus accurrit gradu"
+},
+{
+"id": "1000",
+"label": "Sen. Tro. 1000",
+"text": "vultuque torvo. Pyrrhe, quid cessas? age"
+},
+{
+"id": "1001",
+"label": "Sen. Tro. 1001",
+"text": "recludo ferro pectus et Achillis tui"
+},
+{
+"id": "1002",
+"label": "Sen. Tro. 1002",
+"text": "coniunge soceros, perge, mactator senum,"
+},
+{
+"id": "1003",
+"label": "Sen. Tro. 1003",
+"text": "et hic decet te sanguis: abreptam trabe."
+},
+{
+"id": "1004",
+"label": "Sen. Tro. 1004",
+"text": "maculate superos caede funesta deos,"
+},
+{
+"id": "1005",
+"label": "Sen. Tro. 1005",
+"text": "maculate manes— quid precer vobis? precor"
+},
+{
+"id": "1006",
+"label": "Sen. Tro. 1006",
+"text": "his digna sacris aequora: hoc classi accidat"
+},
+{
+"id": "1007",
+"label": "Sen. Tro. 1007",
+"text": "toti Pelasgae, ratibus hoc mille accidat"
+},
+{
+"id": "1008",
+"label": "Sen. Tro. 1008",
+"text": "meae precabor, cum vehar, quicquid rati."
+},
+{
+"id": "1009",
+"label": "Sen. Tro. 1009",
+"text": "Dulce maerenti populus dolentium,"
+},
+{
+"id": "1010",
+"label": "Sen. Tro. 1010",
+"text": "dulce lamentis resonare gentes;"
+},
+{
+"id": "1011",
+"label": "Sen. Tro. 1011",
+"text": "lenius luctus lacrimaeque mordent,"
+},
+{
+"id": "1012",
+"label": "Sen. Tro. 1012",
+"text": "turba quas fletu similis frequentat."
+},
+{
+"id": "1013",
+"label": "Sen. Tro. 1013",
+"text": "semper a semper dolor est malignus:"
+},
+{
+"id": "1014",
+"label": "Sen. Tro. 1014",
+"text": "gaudet in multos sua fata mitti"
+},
+{
+"id": "1015",
+"label": "Sen. Tro. 1015",
+"text": "seque non solum placuisse poenae."
+},
+{
+"id": "1016",
+"label": "Sen. Tro. 1016",
+"text": "ferre quam sortem patiuntur omnes,"
+},
+{
+"id": "1017",
+"label": "Sen. Tro. 1017",
+"text": "nemo recusat."
+},
+{
+"id": "1019a1018b",
+"label": "Sen. Tro. 1019a1018b",
+"text": "Tolle felices: miseram, licet sit,"
+},
+{
+"id": "1018a1019b",
+"label": "Sen. Tro. 1018a1019b",
+"text": "nemo se credet; removete multo"
+},
+{
+"id": "1020",
+"label": "Sen. Tro. 1020",
+"text": "divites auro, removete centum"
+},
+{
+"id": "1021",
+"label": "Sen. Tro. 1021",
+"text": "* rura qui scindunt opulenta bubus:"
+},
+{
+"id": "1022",
+"label": "Sen. Tro. 1022",
+"text": "pauperi surgent animi iacentes—"
+},
+{
+"id": "1023",
+"label": "Sen. Tro. 1023",
+"text": "est miser nemo nisi comparatus."
+},
+{
+"id": "1024",
+"label": "Sen. Tro. 1024",
+"text": "dulce in immensis posito ruinis,"
+},
+{
+"id": "1025",
+"label": "Sen. Tro. 1025",
+"text": "nemiuem laetos habuisse vultus:"
+},
+{
+"id": "1026",
+"label": "Sen. Tro. 1026",
+"text": "ille deplorat queriturque fatum,"
+},
+{
+"id": "1027",
+"label": "Sen. Tro. 1027",
+"text": "qui secans fluctum rate singulari"
+},
+{
+"id": "1028",
+"label": "Sen. Tro. 1028",
+"text": "nudus in portus cecidit petitos;"
+},
+{
+"id": "1029",
+"label": "Sen. Tro. 1029",
+"text": "aequior casum tulit et procellas,"
+},
+{
+"id": "1030",
+"label": "Sen. Tro. 1030",
+"text": "mille qui ponto pariter carinas"
+},
+{
+"id": "1031",
+"label": "Sen. Tro. 1031",
+"text": "obrui vidit tabulaque latus"
+},
+{
+"id": "1032",
+"label": "Sen. Tro. 1032",
+"text": "naufraga, terris mare dum coactis"
+},
+{
+"id": "1033",
+"label": "Sen. Tro. 1033",
+"text": "fluctibus Coras prohibet, revertit."
+},
+{
+"id": "1034",
+"label": "Sen. Tro. 1034",
+"text": "questus est Hellen cecidisse Phrixus,"
+},
+{
+"id": "1035",
+"label": "Sen. Tro. 1035",
+"text": "cum gregis ductor radiante villo"
+},
+{
+"id": "1036",
+"label": "Sen. Tro. 1036",
+"text": "aureo fratrem simul ac sororem"
+},
+{
+"id": "1037",
+"label": "Sen. Tro. 1037",
+"text": "sustulit tergo medioque iactum"
+},
+{
+"id": "1038",
+"label": "Sen. Tro. 1038",
+"text": "fecit in ponto; tenuit querelas"
+},
+{
+"id": "1039",
+"label": "Sen. Tro. 1039",
+"text": "et vir et Pyrrha, mare cum viderent,"
+},
+{
+"id": "1040",
+"label": "Sen. Tro. 1040",
+"text": "et nihil praeter mare cum viderent"
+},
+{
+"id": "1041",
+"label": "Sen. Tro. 1041",
+"text": "unici terris homines relicti."
+},
+{
+"id": "1042",
+"label": "Sen. Tro. 1042",
+"text": "Solvet hunc 'questum lacrimasque nostras"
+},
+{
+"id": "1043",
+"label": "Sen. Tro. 1043",
+"text": "sparget huc illuc agitata classis,"
+},
+{
+"id": "1044",
+"label": "Sen. Tro. 1044",
+"text": "cum tuba iussi dare vela nautae"
+},
+{
+"id": "1045",
+"label": "Sen. Tro. 1045",
+"text": "et simul ventis properante remo"
+},
+{
+"id": "1046",
+"label": "Sen. Tro. 1046",
+"text": "prenderint altum fugietque litus,"
+},
+{
+"id": "1047",
+"label": "Sen. Tro. 1047",
+"text": "quis status mentis miseris, ubi omnis"
+},
+{
+"id": "1048",
+"label": "Sen. Tro. 1048",
+"text": "terra decrescet pelagusque crescet,"
+},
+{
+"id": "1049",
+"label": "Sen. Tro. 1049",
+"text": "celsa cum longe latitabit Ide?"
+},
+{
+"id": "1050",
+"label": "Sen. Tro. 1050",
+"text": "tum puer matri genetrixque nato,"
+},
+{
+"id": "1051",
+"label": "Sen. Tro. 1051",
+"text": "Troia qua flagret regione, monstrans"
+},
+{
+"id": "1052",
+"label": "Sen. Tro. 1052",
+"text": "dicet et longe digito notabit:"
+},
+{
+"id": "1053",
+"label": "Sen. Tro. 1053",
+"text": "Ilium est illic, ubi fumus alte"
+},
+{
+"id": "1054",
+"label": "Sen. Tro. 1054",
+"text": "serpit in caelum nebulaeque turpes.'"
+},
+{
+"id": "1055",
+"label": "Sen. Tro. 1055",
+"text": "Troes hoc signo patriam videbunt."
+},
+{
+"id": "1056",
+"label": "Sen. Tro. 1056",
+"text": "O dura fata, saeva miseranda horrida!"
+},
+{
+"id": "1057",
+"label": "Sen. Tro. 1057",
+"text": "quod tam ferum, tam triste bis quinis scelus"
+},
+{
+"id": "1058",
+"label": "Sen. Tro. 1058",
+"text": "Mars vidit annis? quid prius referens gemam,"
+},
+{
+"id": "1059",
+"label": "Sen. Tro. 1059",
+"text": "tuosne potius, an tuos luctus, anus?"
+},
+{
+"id": "1060",
+"label": "Sen. Tro. 1060",
+"text": "Quoscumque luctus fleveris, flebis meos:"
+},
+{
+"id": "1061",
+"label": "Sen. Tro. 1061",
+"text": "sua quemque tantum, me omnium clades premit;"
+},
+{
+"id": "1062",
+"label": "Sen. Tro. 1062",
+"text": "mihi cuncta pereunt: quisquis est Hecubae est miser."
+},
+{
+"id": "1063",
+"label": "Sen. Tro. 1063",
+"text": "Mactata virgo est, missus e muris puer;"
+},
+{
+"id": "1064",
+"label": "Sen. Tro. 1064",
+"text": "sed uterque letum mente generosa tulit."
+},
+{
+"id": "1065",
+"label": "Sen. Tro. 1065",
+"text": "Expone seriem caedis, et duplex nefas"
+},
+{
+"id": "1066",
+"label": "Sen. Tro. 1066",
+"text": "persequere: gaudet magnus aerumnas dolor"
+},
+{
+"id": "1067",
+"label": "Sen. Tro. 1067",
+"text": "tractare totas, ede et enarra omnia."
+},
+{
+"id": "1068",
+"label": "Sen. Tro. 1068",
+"text": "Est una magna turris e Troia super,"
+},
+{
+"id": "1069",
+"label": "Sen. Tro. 1069",
+"text": "assueta Priamo, cuius e fastigio"
+},
+{
+"id": "1070",
+"label": "Sen. Tro. 1070",
+"text": "summisque pinnis arbiter belli sedens"
+},
+{
+"id": "1071",
+"label": "Sen. Tro. 1071",
+"text": "regebat acies, turre in hac blando sinu"
+},
+{
+"id": "1072",
+"label": "Sen. Tro. 1072",
+"text": "fovens nepotem, cum metu versos gravi"
+},
+{
+"id": "1073",
+"label": "Sen. Tro. 1073",
+"text": "Danaos fugaret Hector et ferro et face,"
+},
+{
+"id": "1074",
+"label": "Sen. Tro. 1074",
+"text": "paterna puero bella monstrabat senex"
+},
+{
+"id": "1075",
+"label": "Sen. Tro. 1075",
+"text": "haec nota quondam turris et muri decus,"
+},
+{
+"id": "1076",
+"label": "Sen. Tro. 1076",
+"text": "nunc saeva «cautes, undique adfusa dueum"
+},
+{
+"id": "1077",
+"label": "Sen. Tro. 1077",
+"text": "plebisque turba cingitur; totum coit"
+},
+{
+"id": "1078",
+"label": "Sen. Tro. 1078",
+"text": "ratibus relictis vulgus, his collis procul"
+},
+{
+"id": "1079",
+"label": "Sen. Tro. 1079",
+"text": "aciem patenti liberam praebet loco,"
+},
+{
+"id": "1080",
+"label": "Sen. Tro. 1080",
+"text": "his alta rupes, cuius in cacumine"
+},
+{
+"id": "1081",
+"label": "Sen. Tro. 1081",
+"text": "erecta summos turba libravit pedes."
+},
+{
+"id": "1082",
+"label": "Sen. Tro. 1082",
+"text": "hunc pinus, illum laurus, hunc fagus gerit"
+},
+{
+"id": "1083",
+"label": "Sen. Tro. 1083",
+"text": "et tota populo silva suspenso tremit."
+},
+{
+"id": "1084",
+"label": "Sen. Tro. 1084",
+"text": "extrema montis ille praerupti petit,"
+},
+{
+"id": "1085",
+"label": "Sen. Tro. 1085",
+"text": "semusta at ille tecta vel saxum imminens"
+},
+{
+"id": "1086",
+"label": "Sen. Tro. 1086",
+"text": "muri cadentis pressit, atque aliquis (nefas)"
+},
+{
+"id": "1087",
+"label": "Sen. Tro. 1087",
+"text": "tumulo ferus spectator Hectoreo sedet."
+},
+{
+"id": "1088",
+"label": "Sen. Tro. 1088",
+"text": "per spatia late plena sublimi gradu"
+},
+{
+"id": "1089",
+"label": "Sen. Tro. 1089",
+"text": "incedit Ithacus parvulum dextra trahens"
+},
+{
+"id": "1090",
+"label": "Sen. Tro. 1090",
+"text": "Priami nepotem, nec gradu segni puer"
+},
+{
+"id": "1091",
+"label": "Sen. Tro. 1091",
+"text": "ad alta pergit moenia, ut summa stetit"
+},
+{
+"id": "1092",
+"label": "Sen. Tro. 1092",
+"text": "pro turre, vultus huc et huc acres tulit"
+},
+{
+"id": "1093",
+"label": "Sen. Tro. 1093",
+"text": "intrepidus animo, qualis ingentis ferae"
+},
+{
+"id": "1094",
+"label": "Sen. Tro. 1094",
+"text": "parvus tenerque fetus et nondum potens"
+},
+{
+"id": "1095",
+"label": "Sen. Tro. 1095",
+"text": "saevire dente— iam tamen tollit minas"
+},
+{
+"id": "1096",
+"label": "Sen. Tro. 1096",
+"text": "morsusque inanes temptat atque animis tumet:"
+},
+{
+"id": "1097",
+"label": "Sen. Tro. 1097",
+"text": "sic ille dextra prensus hostili puer"
+},
+{
+"id": "1098",
+"label": "Sen. Tro. 1098",
+"text": "ferox t superbe, moverat vulgum ac duces"
+},
+{
+"id": "1099",
+"label": "Sen. Tro. 1099",
+"text": "ipsumque Vlixen. non fiet e turba omnium"
+},
+{
+"id": "1100",
+"label": "Sen. Tro. 1100",
+"text": "qui fletur; ac, dum verba fatidici et preces :"
+},
+{
+"id": "1101",
+"label": "Sen. Tro. 1101",
+"text": "concipit Vlixes vatis et saevos ciet"
+},
+{
+"id": "1102",
+"label": "Sen. Tro. 1102",
+"text": "ad sacra superos, sponte desiluit sua"
+},
+{
+"id": "1103",
+"label": "Sen. Tro. 1103",
+"text": "in media Priami regna.— ..."
+},
+{
+"id": "1104",
+"label": "Sen. Tro. 1104",
+"text": "Quis Colchus hoc, quis sedis incertae Scytha"
+},
+{
+"id": "1105",
+"label": "Sen. Tro. 1105",
+"text": "commisit, aut quae Caspium tangens mare"
+},
+{
+"id": "1106",
+"label": "Sen. Tro. 1106",
+"text": "gens iuris expers ausa? non Busiridis"
+},
+{
+"id": "1107",
+"label": "Sen. Tro. 1107",
+"text": "puerilis aras sanguis aspersit feri,"
+},
+{
+"id": "1108",
+"label": "Sen. Tro. 1108",
+"text": "nec parva gregibus membra Diomedes suis"
+},
+{
+"id": "1109",
+"label": "Sen. Tro. 1109",
+"text": "epulanda posuit, quis tuos artus leget"
+},
+{
+"id": "1110",
+"label": "Sen. Tro. 1110",
+"text": "tumuloque tradet?"
+},
+{
+"id": "1110b",
+"label": "Sen. Tro. 1110b",
+"text": "Quos enim praeceps locus"
+},
+{
+"id": "1111",
+"label": "Sen. Tro. 1111",
+"text": "reliquit artus? ossa disiecta et gravi"
+},
+{
+"id": "1112",
+"label": "Sen. Tro. 1112",
+"text": "elisa casu; signa clari corporis,"
+},
+{
+"id": "1113",
+"label": "Sen. Tro. 1113",
+"text": "et ora et illas nobiles patris notas,"
+},
+{
+"id": "1114",
+"label": "Sen. Tro. 1114",
+"text": "confudit imam pondus ad terram datum;"
+},
+{
+"id": "1115",
+"label": "Sen. Tro. 1115",
+"text": "soluta cervix silicis impulsu, caput,"
+},
+{
+"id": "1116",
+"label": "Sen. Tro. 1116",
+"text": "raptum cerebro penitus expresso— iacet"
+},
+{
+"id": "1117",
+"label": "Sen. Tro. 1117",
+"text": "deforme corpus,"
+},
+{
+"id": "1117b",
+"label": "Sen. Tro. 1117b",
+"text": "Sic quoque est similis patri."
+},
+{
+"id": "1118",
+"label": "Sen. Tro. 1118",
+"text": "Praeceps ut altis cecidit e muris puer"
+},
+{
+"id": "1119",
+"label": "Sen. Tro. 1119",
+"text": "flevitque Achivum turba quod fecit nefas,"
+},
+{
+"id": "1120",
+"label": "Sen. Tro. 1120",
+"text": "idem ille populus aliud ad facinus redit"
+},
+{
+"id": "1121",
+"label": "Sen. Tro. 1121",
+"text": "tumulumque Achillis. cuius extremum Litus"
+},
+{
+"id": "1122",
+"label": "Sen. Tro. 1122",
+"text": "Rhoetea leni verberant fluctu vada;"
+},
+{
+"id": "1123",
+"label": "Sen. Tro. 1123",
+"text": "adversa cingit campus et clivo levi"
+},
+{
+"id": "1124",
+"label": "Sen. Tro. 1124",
+"text": "erecta medium vallis includens locum"
+},
+{
+"id": "1125",
+"label": "Sen. Tro. 1125",
+"text": "crescit theatri more. concursus frequens"
+},
+{
+"id": "1126",
+"label": "Sen. Tro. 1126",
+"text": "implevit omne litus :n hi classis moram"
+},
+{
+"id": "1127",
+"label": "Sen. Tro. 1127",
+"text": "hac morte solvi rentur, hi stirpem hostium"
+},
+{
+"id": "1128",
+"label": "Sen. Tro. 1128",
+"text": "gaudent recidi. magna pars vulgi levis"
+},
+{
+"id": "1129",
+"label": "Sen. Tro. 1129",
+"text": "odit scelus spectatque; nec Troes minus"
+},
+{
+"id": "1130",
+"label": "Sen. Tro. 1130",
+"text": "suum frequentant funus et pavidi metu"
+},
+{
+"id": "1131",
+"label": "Sen. Tro. 1131",
+"text": "partem mentis ultimam Troiae vident:"
+},
+{
+"id": "1132",
+"label": "Sen. Tro. 1132",
+"text": "cum subito thalami more praecedunt faces"
+},
+{
+"id": "1133",
+"label": "Sen. Tro. 1133",
+"text": "et pronuba illi Tyndaris, maestum caput"
+},
+{
+"id": "1134",
+"label": "Sen. Tro. 1134",
+"text": "demissa. 'tali nnbat Hermione modo'"
+},
+{
+"id": "1135",
+"label": "Sen. Tro. 1135",
+"text": "Phryges precantur ?sic viro turpis suo"
+},
+{
+"id": "1136",
+"label": "Sen. Tro. 1136",
+"text": "reddatur Helena.' terror attonitos tenet"
+},
+{
+"id": "1137",
+"label": "Sen. Tro. 1137",
+"text": "utrosque populos, ipsa deiectos gerit"
+},
+{
+"id": "1138",
+"label": "Sen. Tro. 1138",
+"text": "vultus pudore, sed tamen fulgent genae"
+},
+{
+"id": "1139",
+"label": "Sen. Tro. 1139",
+"text": "magisque solito splendet extremus decor,"
+},
+{
+"id": "1140",
+"label": "Sen. Tro. 1140",
+"text": "ut esse Phoebi dulcius lumen solet"
+},
+{
+"id": "1141",
+"label": "Sen. Tro. 1141",
+"text": "iamiam cadentis, astra cum repetunt vices"
+},
+{
+"id": "1142",
+"label": "Sen. Tro. 1142",
+"text": "premiturque dubius nocte vicina dies."
+},
+{
+"id": "1143",
+"label": "Sen. Tro. 1143",
+"text": "stupet omne vulgus— et fere cuncti magis"
+},
+{
+"id": "1144",
+"label": "Sen. Tro. 1144",
+"text": "peritura laudant, hos movet formae decus,"
+},
+{
+"id": "1145",
+"label": "Sen. Tro. 1145",
+"text": "hos mollis aetas, hos vagae rerum vices;"
+},
+{
+"id": "1146",
+"label": "Sen. Tro. 1146",
+"text": "movet animus omnes fortis et leto obvius."
+},
+{
+"id": "1147",
+"label": "Sen. Tro. 1147",
+"text": "Pyrrhum antecedit; omnium mentes tremunt,"
+},
+{
+"id": "1148",
+"label": "Sen. Tro. 1148",
+"text": "mirantur ac miserantur, ut primum ardui"
+},
+{
+"id": "1149",
+"label": "Sen. Tro. 1149",
+"text": "sublime montis tetigit atque alte edito"
+},
+{
+"id": "1150",
+"label": "Sen. Tro. 1150",
+"text": "iuvenis paterni, vertice in busti stetit,"
+},
+{
+"id": "1151",
+"label": "Sen. Tro. 1151",
+"text": "audax virago non tulit retro gradum;"
+},
+{
+"id": "1152",
+"label": "Sen. Tro. 1152",
+"text": "conversa ad ictum stat truci vultu ferox."
+},
+{
+"id": "1153",
+"label": "Sen. Tro. 1153",
+"text": "tam fortis animus omnium mentes ferit,"
+},
+{
+"id": "1154",
+"label": "Sen. Tro. 1154",
+"text": "novumque monstrum est Pyrrhus ad caedem piger."
+},
+{
+"id": "1155",
+"label": "Sen. Tro. 1155",
+"text": "ut dextra ferrum penitus exactum abdidit,"
+},
+{
+"id": "1156",
+"label": "Sen. Tro. 1156",
+"text": "subitus recepta morte prorupit cruor"
+},
+{
+"id": "1157",
+"label": "Sen. Tro. 1157",
+"text": "per vulnus ingens, nec tamen moriens adhuc"
+},
+{
+"id": "1158",
+"label": "Sen. Tro. 1158",
+"text": "deponit animos: cecidit, ut Achilli gravem"
+},
+{
+"id": "1159",
+"label": "Sen. Tro. 1159",
+"text": "factura terram, prona et irato impetu."
+},
+{
+"id": "1160",
+"label": "Sen. Tro. 1160",
+"text": "uterque flevit coetus; at timidum Phryges"
+},
+{
+"id": "1161",
+"label": "Sen. Tro. 1161",
+"text": "misere gemitum, clarius victor gemit."
+},
+{
+"id": "1162",
+"label": "Sen. Tro. 1162",
+"text": "hic ordo sacri, non stetit fusus cruor"
+},
+{
+"id": "1163",
+"label": "Sen. Tro. 1163",
+"text": "humove summa fluxit: obduxit statim"
+},
+{
+"id": "1164",
+"label": "Sen. Tro. 1164",
+"text": "saevasque totum sanguinem tumulus bibit."
+},
+{
+"id": "1165",
+"label": "Sen. Tro. 1165",
+"text": "Ite, ite, Danai, petite iam tuti domos;"
+},
+{
+"id": "1166",
+"label": "Sen. Tro. 1166",
+"text": "optata velis maria diffusis secet"
+},
+{
+"id": "1167",
+"label": "Sen. Tro. 1167",
+"text": "secura classis: concidit virgo ac puer;"
+},
+{
+"id": "1168",
+"label": "Sen. Tro. 1168",
+"text": "bellum peractum est. quo meas lacrimas feram?"
+},
+{
+"id": "1169",
+"label": "Sen. Tro. 1169",
+"text": "ubi hanc anilis expuam leti moram?"
+},
+{
+"id": "1170",
+"label": "Sen. Tro. 1170",
+"text": "natam an nepotem, coniugem an patriam fleam?"
+},
+{
+"id": "1171",
+"label": "Sen. Tro. 1171",
+"text": "an omnia an me sola? Mors votum meum,"
+},
+{
+"id": "1172",
+"label": "Sen. Tro. 1172",
+"text": "infantibus violenta virginibus venis,"
+},
+{
+"id": "1173",
+"label": "Sen. Tro. 1173",
+"text": "ubique properas, saeva: me solam times"
+},
+{
+"id": "1174",
+"label": "Sen. Tro. 1174",
+"text": "vitasque, gladios inter ac tela et faces"
+},
+{
+"id": "1175",
+"label": "Sen. Tro. 1175",
+"text": "quaesita tota nocte, cupientem fugis. ,"
+},
+{
+"id": "1176",
+"label": "Sen. Tro. 1176",
+"text": "non hostis aut ruina, non ignis meos"
+},
+{
+"id": "1177",
+"label": "Sen. Tro. 1177",
+"text": "absumpsit artus: quam prope a Priamo steti."
+},
+{
+"id": "1178",
+"label": "Sen. Tro. 1178",
+"text": "Repetite celeri maria, captivae, gradu:"
+},
+{
+"id": "1179",
+"label": "Sen. Tro. 1179",
+"text": "iam vela puppis laxat et classis movet."
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "appian-mithridatica",
+ "title": "Appian, Mithridatica",
+ "language": "grc",
+ "edition": "Μιθριδάτειος — Perseus Digital Library TEI (tlg0551.tlg014.perseus-grc2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-greekLit TEI tlg0551.tlg014.perseus-grc2",
+ "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg014.perseus-grc2/",
+ "unit_scheme": "work",
+ "passage_scheme": "section (the chapter is given in the label)",
+ "units": [
+  "alla",
+  "allb"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0551/tlg014/tlg0551.tlg014.perseus-grc2.xml",
+ "split_units": {
+  "all": [
+   {
+    "unit": "alla",
+    "passage_range": [
+     "1",
+     "111"
+    ]
+   },
+   {
+    "unit": "allb",
+    "passage_range": [
+     "112",
+     "121"
+    ]
+   }
+  ]
+ },
+ "split_note": "Units larger than ~300 KB are split at passage boundaries into <unit>a, <unit>b, ...; split_units maps the unit to its parts with each part's first and last passage id.",
+ "unit_note": "Short work, or a work without books: one unit named 'all'."
+}

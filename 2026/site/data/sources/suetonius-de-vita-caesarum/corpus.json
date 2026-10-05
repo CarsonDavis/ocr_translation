@@ -1,0 +1,39 @@
+{
+ "id": "suetonius-de-vita-caesarum",
+ "title": "Suetonius, De vita Caesarum",
+ "language": "la",
+ "edition": "Perseus Digital Library TEI, one file per part (perseus-lat2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-latinLit TEI",
+ "url": "https://scaife.perseus.org/library/",
+ "unit_scheme": "part (life name, lower-case, hyphenated)",
+ "passage_scheme": "part.chapter.section",
+ "units": [
+  "augustus",
+  "caligula",
+  "claudius",
+  "domitian",
+  "galba",
+  "julius",
+  "nero",
+  "otho",
+  "tiberius",
+  "titus",
+  "vespasian",
+  "vitellius"
+ ],
+ "source_files": [
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo011/phi1348.abo011.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo012/phi1348.abo012.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo013/phi1348.abo013.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo014/phi1348.abo014.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo015/phi1348.abo015.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo016/phi1348.abo016.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo017/phi1348.abo017.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo018/phi1348.abo018.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo019/phi1348.abo019.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo020/phi1348.abo020.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo021/phi1348.abo021.perseus-lat2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo022/phi1348.abo022.perseus-lat2.xml"
+ ]
+}

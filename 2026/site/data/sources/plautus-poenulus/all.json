@@ -1,0 +1,8832 @@
+{
+"corpus": "plautus-poenulus",
+"unit": "all",
+"title": "Plautus, Poenulus",
+"passages": [
+{
+"id": "1",
+"label": "Plaut. Poen. 1",
+"text": "Achillem Aristarchi mihi commentari lubet:"
+},
+{
+"id": "2",
+"label": "Plaut. Poen. 2",
+"text": "inde míhi principium capiam, ex ea tragoedia."
+},
+{
+"id": "3",
+"label": "Plaut. Poen. 3",
+"text": "sileteque et tacete atque animum advortite,"
+},
+{
+"id": "4",
+"label": "Plaut. Poen. 4",
+"text": "audire iúbet vos imperator histricus,"
+},
+{
+"id": "5",
+"label": "Plaut. Poen. 5",
+"text": "bonoque ut animo sedeate in subselliis,"
+},
+{
+"id": "6",
+"label": "Plaut. Poen. 6",
+"text": "et qui esurientes et qui saturi venerint:"
+},
+{
+"id": "7",
+"label": "Plaut. Poen. 7",
+"text": "qui edistis, multo fecistis sapientius,"
+},
+{
+"id": "8",
+"label": "Plaut. Poen. 8",
+"text": "qui non edistis, saturi fite fabulis;"
+},
+{
+"id": "9",
+"label": "Plaut. Poen. 9",
+"text": "nam cui paratumst quod edit, nostra gratia"
+},
+{
+"id": "10",
+"label": "Plaut. Poen. 10",
+"text": "nimia est stultitia sessum impransum incedere."
+},
+{
+"id": "11",
+"label": "Plaut. Poen. 11",
+"text": "exsurge, praeco, fac populo audientiam;"
+},
+{
+"id": "12",
+"label": "Plaut. Poen. 12",
+"text": "iam dudum exspecto, si tuom officium scias:"
+},
+{
+"id": "13",
+"label": "Plaut. Poen. 13",
+"text": "exerce vocem, quam per vivisque et † colis."
+},
+{
+"id": "14",
+"label": "Plaut. Poen. 14",
+"text": "nam nisi clamabis, tacitum te obrepet fames."
+},
+{
+"id": "15",
+"label": "Plaut. Poen. 15",
+"text": "age nunc reside, duplicem ut mercedem feras."
+},
+{
+"id": "16",
+"label": "Plaut. Poen. 16",
+"text": "bonum factum esse, edicta ut servetis mea."
+},
+{
+"id": "17",
+"label": "Plaut. Poen. 17",
+"text": "scortum exoletum ne quis in proscaenio"
+},
+{
+"id": "18",
+"label": "Plaut. Poen. 18",
+"text": "sedeat, neu lictor verbum aut virgae muttiant,"
+},
+{
+"id": "19",
+"label": "Plaut. Poen. 19",
+"text": "neu dissignator praeter os obambulet"
+},
+{
+"id": "20",
+"label": "Plaut. Poen. 20",
+"text": "neu sessum ducat, dum histrio in scaena siet."
+},
+{
+"id": "21",
+"label": "Plaut. Poen. 21",
+"text": "diu quí domi otiosi dormierunt, decet"
+},
+{
+"id": "22",
+"label": "Plaut. Poen. 22",
+"text": "animo aequo nunc stent, vel dormire temperent."
+},
+{
+"id": "23",
+"label": "Plaut. Poen. 23",
+"text": "servi ne obsideant, liberis ut sit locus,"
+},
+{
+"id": "24",
+"label": "Plaut. Poen. 24",
+"text": "vel aes pro capite dent; si id facere non queunt,"
+},
+{
+"id": "25",
+"label": "Plaut. Poen. 25",
+"text": "domum abeant, vitent ancipiti infortunio,"
+},
+{
+"id": "26",
+"label": "Plaut. Poen. 26",
+"text": "ne et hic varientur virgis et loris domi,"
+},
+{
+"id": "27",
+"label": "Plaut. Poen. 27",
+"text": "si minus curassint, quóm eri reveniant domum."
+},
+{
+"id": "28",
+"label": "Plaut. Poen. 28",
+"text": "nutrices pueros infantis minutulos"
+},
+{
+"id": "29",
+"label": "Plaut. Poen. 29",
+"text": "domi ut procurent neu quae spectatum adferat,"
+},
+{
+"id": "30",
+"label": "Plaut. Poen. 30",
+"text": "ne et ipsae sitiant et pueri pereant fame"
+},
+{
+"id": "31",
+"label": "Plaut. Poen. 31",
+"text": "neve esurientes hic quasi haedi obvagiant."
+},
+{
+"id": "32",
+"label": "Plaut. Poen. 32",
+"text": "matronae tacitae spectent, tacitae rideant,"
+},
+{
+"id": "33",
+"label": "Plaut. Poen. 33",
+"text": "canora hic voce sua tinnire temperent,"
+},
+{
+"id": "34",
+"label": "Plaut. Poen. 34",
+"text": "domum sermones fabulandi conferant,"
+},
+{
+"id": "35",
+"label": "Plaut. Poen. 35",
+"text": "ne et hic viris sint et domi molestiae."
+},
+{
+"id": "36",
+"label": "Plaut. Poen. 36",
+"text": "quodque ad ludorum curatores attinet,"
+},
+{
+"id": "37",
+"label": "Plaut. Poen. 37",
+"text": "ne palma detur quoiquam artifici iniuria"
+},
+{
+"id": "38",
+"label": "Plaut. Poen. 38",
+"text": "neve ambitionis causa extrudantur foras,"
+},
+{
+"id": "39",
+"label": "Plaut. Poen. 39",
+"text": "quo deteriores anteponantur bonis."
+},
+{
+"id": "40",
+"label": "Plaut. Poen. 40",
+"text": "et hoc quoque etiam, quod paene oblitus fui:"
+},
+{
+"id": "41",
+"label": "Plaut. Poen. 41",
+"text": "dum ludi fiunt, in popinam, pedisequi,"
+},
+{
+"id": "42",
+"label": "Plaut. Poen. 42",
+"text": "inruptionem facite; nunc dum occasio est,"
+},
+{
+"id": "43",
+"label": "Plaut. Poen. 43",
+"text": "nunc dum scriblitae aéstuant, occurrite."
+},
+{
+"id": "44",
+"label": "Plaut. Poen. 44",
+"text": "haec quae imperata sunt pro imperio hístrico,"
+},
+{
+"id": "45",
+"label": "Plaut. Poen. 45",
+"text": "bonum hercle factum pro se quisque ut meminerit."
+},
+{
+"id": "46",
+"label": "Plaut. Poen. 46",
+"text": "ad argumentum nunc vicissatim volo"
+},
+{
+"id": "47",
+"label": "Plaut. Poen. 47",
+"text": "remigrare, ut aeque mecum sitis gnarures."
+},
+{
+"id": "48",
+"label": "Plaut. Poen. 48",
+"text": "eius núnc regiones, limites, confinia"
+},
+{
+"id": "49",
+"label": "Plaut. Poen. 49",
+"text": "determinabo: ei rei ego finitor factus sum."
+},
+{
+"id": "50",
+"label": "Plaut. Poen. 50",
+"text": "sed nisi molestumst, nomen dare vobis volo"
+},
+{
+"id": "51",
+"label": "Plaut. Poen. 51",
+"text": "comoediai; sin odiost, dicam tamen,"
+},
+{
+"id": "52",
+"label": "Plaut. Poen. 52",
+"text": "siquidém licebit pér illos quibus est in manu."
+},
+{
+"id": "53",
+"label": "Plaut. Poen. 53",
+"text": "Carchedonius vocatur haec comoedia,"
+},
+{
+"id": "54",
+"label": "Plaut. Poen. 54",
+"text": "latine Plautus patruus pultiphagonides."
+},
+{
+"id": "55",
+"label": "Plaut. Poen. 55",
+"text": "nomen iam habetis. nunc rationes ceteras"
+},
+{
+"id": "56",
+"label": "Plaut. Poen. 56",
+"text": "accipite; nam argumentum hoc hic censebitur:"
+},
+{
+"id": "57",
+"label": "Plaut. Poen. 57",
+"text": "locus argumentost suom sibi proscaenium,"
+},
+{
+"id": "58",
+"label": "Plaut. Poen. 58",
+"text": "vos iuratores estis. quaeso, operam date."
+},
+{
+"id": "59",
+"label": "Plaut. Poen. 59",
+"text": "Carthaginienses fratres patrueles duo"
+},
+{
+"id": "60",
+"label": "Plaut. Poen. 60",
+"text": "fuere, summo genere et summis ditiis;"
+},
+{
+"id": "61",
+"label": "Plaut. Poen. 61",
+"text": "eorum álter vivit, alter est emortuos."
+},
+{
+"id": "62",
+"label": "Plaut. Poen. 62",
+"text": "propterea apud vos dico confidentius,"
+},
+{
+"id": "63",
+"label": "Plaut. Poen. 63",
+"text": "quia mihi pollictor dixit qui eum pollinxerat."
+},
+{
+"id": "64",
+"label": "Plaut. Poen. 64",
+"text": "sed illí seni qui mortuost, ei filius,"
+},
+{
+"id": "65",
+"label": "Plaut. Poen. 65",
+"text": "unicus qui fuerat, ab divitiis a patre"
+},
+{
+"id": "66",
+"label": "Plaut. Poen. 66",
+"text": "puer séptuennis surripitur Carthagine,"
+},
+{
+"id": "67",
+"label": "Plaut. Poen. 67",
+"text": "sexennio prius quidem quam moritur pater."
+},
+{
+"id": "68",
+"label": "Plaut. Poen. 68",
+"text": "quoniam periisse sibi videt gnatum unicum,"
+},
+{
+"id": "69",
+"label": "Plaut. Poen. 69",
+"text": "conicitur ipse in morbum ex aegritudine:"
+},
+{
+"id": "70",
+"label": "Plaut. Poen. 70",
+"text": "facit illum heredem fratrem patruelem suom,"
+},
+{
+"id": "71",
+"label": "Plaut. Poen. 71",
+"text": "ipse abit ad Acheruntem sine viatico."
+},
+{
+"id": "72",
+"label": "Plaut. Poen. 72",
+"text": "ille quí surripuit puerum Calydonem avehit,"
+},
+{
+"id": "73",
+"label": "Plaut. Poen. 73",
+"text": "vendit eum domino hic diviti quoidam seni,"
+},
+{
+"id": "74",
+"label": "Plaut. Poen. 74",
+"text": "cupienti liberorum, osori mulierum."
+},
+{
+"id": "75",
+"label": "Plaut. Poen. 75",
+"text": "emit hospitalem is filium imprudens senex"
+},
+{
+"id": "76",
+"label": "Plaut. Poen. 76",
+"text": "puerum illum eumque adoptat sibi pro filio"
+},
+{
+"id": "77",
+"label": "Plaut. Poen. 77",
+"text": "eumque heredem fecit, quom ipse obiit diem."
+},
+{
+"id": "78",
+"label": "Plaut. Poen. 78",
+"text": "is illíc adulescens habitat in illisce aedibus."
+},
+{
+"id": "79",
+"label": "Plaut. Poen. 79",
+"text": "revertor rursus denuo Carthaginem:"
+},
+{
+"id": "80",
+"label": "Plaut. Poen. 80",
+"text": "si quid mandare voltis aut curarier,"
+},
+{
+"id": "81",
+"label": "Plaut. Poen. 81",
+"text": "argentum nisi qui dederit, nugas egerit;"
+},
+{
+"id": "82",
+"label": "Plaut. Poen. 82",
+"text": "qui dederit, magis maiores nugas egerit."
+},
+{
+"id": "83",
+"label": "Plaut. Poen. 83",
+"text": "sed illi patruo húius, qui vivit senex,"
+},
+{
+"id": "84",
+"label": "Plaut. Poen. 84",
+"text": "Carthaginiensi duae fuere filiae,"
+},
+{
+"id": "85",
+"label": "Plaut. Poen. 85",
+"text": "altera quinquennis, altera quadrimula:"
+},
+{
+"id": "86",
+"label": "Plaut. Poen. 86",
+"text": "cum nutrice una periere a Magaribus."
+},
+{
+"id": "87",
+"label": "Plaut. Poen. 87",
+"text": "eas quí surripuit, in Anactorium devehit,"
+},
+{
+"id": "88",
+"label": "Plaut. Poen. 88",
+"text": "vendit eas omnis, et nutricem et virgines,"
+},
+{
+"id": "89",
+"label": "Plaut. Poen. 89",
+"text": "praesenti argento hómini, si leno est homo,"
+},
+{
+"id": "90",
+"label": "Plaut. Poen. 90",
+"text": "quantum hominum terra sustinet sacerrumo."
+},
+{
+"id": "91",
+"label": "Plaut. Poen. 91",
+"text": "vosmet nunc facite coniecturam ceterum,"
+},
+{
+"id": "92",
+"label": "Plaut. Poen. 92",
+"text": "quid id sit hominis, cui Lyco nomen siet."
+},
+{
+"id": "93",
+"label": "Plaut. Poen. 93",
+"text": "is ex Anactorio, ubi prius habitaverat,"
+},
+{
+"id": "94",
+"label": "Plaut. Poen. 94",
+"text": "huc commigravit in Calydonem haú diu,"
+},
+{
+"id": "95",
+"label": "Plaut. Poen. 95",
+"text": "sui quaésti causa. is in illis habitat aedibus."
+},
+{
+"id": "96",
+"label": "Plaut. Poen. 96",
+"text": "earum híc adulescens alteram efflictim perit,"
+},
+{
+"id": "97",
+"label": "Plaut. Poen. 97",
+"text": "suam síbi cognatam, imprudens, neque scit quae siet"
+},
+{
+"id": "98",
+"label": "Plaut. Poen. 98",
+"text": "neque eam umquam tetigit, ita eum leno macerat:"
+},
+{
+"id": "101",
+"label": "Plaut. Poen. 101",
+"text": "quia amare cernit, tangere hominem volt bolo."
+},
+{
+"id": "102",
+"label": "Plaut. Poen. 102",
+"text": "illam minorem in concubinatum sibi"
+},
+{
+"id": "103",
+"label": "Plaut. Poen. 103",
+"text": "volt emere miles quidam, qui illam deperit."
+},
+{
+"id": "104",
+"label": "Plaut. Poen. 104",
+"text": "sed pater illarum Poenus, postquam eas perdidit,"
+},
+{
+"id": "105",
+"label": "Plaut. Poen. 105",
+"text": "mari terraque úsquequaque quaeritat."
+},
+{
+"id": "106",
+"label": "Plaut. Poen. 106",
+"text": "ubi quamque in urbem ést ingressus, ilico"
+},
+{
+"id": "107",
+"label": "Plaut. Poen. 107",
+"text": "omnes meretrices, ubi quisque habitant, invenit;"
+},
+{
+"id": "108",
+"label": "Plaut. Poen. 108",
+"text": "dat aurum, ducit noctem, rogitat postibi"
+},
+{
+"id": "109",
+"label": "Plaut. Poen. 109",
+"text": "unde sít, quoiatis, captane an surrupta sit,"
+},
+{
+"id": "110",
+"label": "Plaut. Poen. 110",
+"text": "quo genere gnata, qui parentes fuerint."
+},
+{
+"id": "111",
+"label": "Plaut. Poen. 111",
+"text": "ita docte atque astu filias quaerit suas."
+},
+{
+"id": "112",
+"label": "Plaut. Poen. 112",
+"text": "et is omnis linguas scit, sed dissimulat sciens"
+},
+{
+"id": "113",
+"label": "Plaut. Poen. 113",
+"text": "se scire: Poenus plane est. quid verbis opust?"
+},
+{
+"id": "114",
+"label": "Plaut. Poen. 114",
+"text": "is heri huc in portum navi venit vesperi,"
+},
+{
+"id": "115",
+"label": "Plaut. Poen. 115",
+"text": "pater harunc; idem huic patruos adulescentulo est:"
+},
+{
+"id": "116",
+"label": "Plaut. Poen. 116",
+"text": "iamne hoc tenetis? si tenetis, ducite;"
+},
+{
+"id": "117",
+"label": "Plaut. Poen. 117",
+"text": "cave dírumpatis, quaeso, sinite transigi."
+},
+{
+"id": "118",
+"label": "Plaut. Poen. 118",
+"text": "ehem, paéne oblitus sum relicuom dicere."
+},
+{
+"id": "119",
+"label": "Plaut. Poen. 119",
+"text": "ille quí adoptavit hunc sibi pro filio,"
+},
+{
+"id": "120",
+"label": "Plaut. Poen. 120",
+"text": "is illi Poeno húius patruo hospes fuit."
+},
+{
+"id": "121",
+"label": "Plaut. Poen. 121",
+"text": "is hodie huc veniet reperietque hic filias"
+},
+{
+"id": "122",
+"label": "Plaut. Poen. 122",
+"text": "et hunc sui fratris filium, ut quidem dídici ego."
+},
+{
+"id": "123",
+"label": "Plaut. Poen. 123",
+"text": "ego ibo, ornabor; vos aequo animo noscite."
+},
+{
+"id": "124",
+"label": "Plaut. Poen. 124",
+"text": "hic qui hodie veniet, reperiet suas filias"
+},
+{
+"id": "125",
+"label": "Plaut. Poen. 125",
+"text": "et hunc sui fratris filium. dehinc ceterum"
+},
+{
+"id": "126",
+"label": "Plaut. Poen. 126",
+"text": "valete, adeste. ibo, alius nunc fieri volo:"
+},
+{
+"id": "127",
+"label": "Plaut. Poen. 127",
+"text": "quod restat, restant alii qui faciant palam."
+},
+{
+"id": "128",
+"label": "Plaut. Poen. 128",
+"text": "valete atque adiuvate, ut vos servet Salus."
+},
+{
+"id": "129",
+"label": "Plaut. Poen. 129",
+"text": "Saepe ego res multas tibi mandavi, Milphio,"
+},
+{
+"id": "130",
+"label": "Plaut. Poen. 130",
+"text": "dubias, egenas, inopiosas consili,"
+},
+{
+"id": "131",
+"label": "Plaut. Poen. 131",
+"text": "quas tu sapienter, docte et cordate et cate"
+},
+{
+"id": "132",
+"label": "Plaut. Poen. 132",
+"text": "mihi reddidisti ópiparas opera tua."
+},
+{
+"id": "133",
+"label": "Plaut. Poen. 133",
+"text": "quibus pró bene factis fateor deberi tibi"
+},
+{
+"id": "134",
+"label": "Plaut. Poen. 134",
+"text": "et libertatem et multas grates gratias."
+},
+{
+"id": "135",
+"label": "Plaut. Poen. 135",
+"text": "Scitumst, per tempus si obviamst, verbum vetus."
+},
+{
+"id": "136",
+"label": "Plaut. Poen. 136",
+"text": "nam tuae blanditiae mihi sunt, quod dici solet,"
+},
+{
+"id": "137",
+"label": "Plaut. Poen. 137",
+"text": "gerrae germanae, σαὶ δὲ κολλῦραι λύραι."
+},
+{
+"id": "138",
+"label": "Plaut. Poen. 138",
+"text": "nunc mihi blandidicus es: heri in tergo meo"
+},
+{
+"id": "139",
+"label": "Plaut. Poen. 139",
+"text": "tris facile corios contrivisti bubulos."
+},
+{
+"id": "140",
+"label": "Plaut. Poen. 140",
+"text": "Amans per amorem si quid feci, Milphio,"
+},
+{
+"id": "141",
+"label": "Plaut. Poen. 141",
+"text": "ignoscere id te mi aequom est."
+},
+{
+"id": "141b",
+"label": "Plaut. Poen. 141b",
+"text": "Haud vidi magis."
+},
+{
+"id": "142",
+"label": "Plaut. Poen. 142",
+"text": "em, nunc ego amore pereo. sine te verberem,"
+},
+{
+"id": "143",
+"label": "Plaut. Poen. 143",
+"text": "item ut tu mihi fecisti, ob nullam noxiam:"
+},
+{
+"id": "144",
+"label": "Plaut. Poen. 144",
+"text": "post id locorum tu mihi amanti ignoscito."
+},
+{
+"id": "145",
+"label": "Plaut. Poen. 145",
+"text": "Si tibi lubido est aut voluptati, sino:"
+},
+{
+"id": "146",
+"label": "Plaut. Poen. 146",
+"text": "suspende, vinci, verbera; auctor sum, sino."
+},
+{
+"id": "147",
+"label": "Plaut. Poen. 147",
+"text": "Si auctoritatem postea defugeris,"
+},
+{
+"id": "148",
+"label": "Plaut. Poen. 148",
+"text": "ubi dissolutus tu sies, ego pendeam."
+},
+{
+"id": "149",
+"label": "Plaut. Poen. 149",
+"text": "Egone istuc ausim facere, praesertim tibi?"
+},
+{
+"id": "150",
+"label": "Plaut. Poen. 150",
+"text": "quin si feriri video te, extemplo dolet."
+},
+{
+"id": "151",
+"label": "Plaut. Poen. 151",
+"text": "Mihi quidem hercle."
+},
+{
+"id": "151b",
+"label": "Plaut. Poen. 151b",
+"text": "Immo mihi."
+},
+{
+"id": "151c",
+"label": "Plaut. Poen. 151c",
+"text": "Istuc mavelim."
+},
+{
+"id": "152",
+"label": "Plaut. Poen. 152",
+"text": "sed quid nunc tibi vis?"
+},
+{
+"id": "152b",
+"label": "Plaut. Poen. 152b",
+"text": "Cur ego apud te mentiar?"
+},
+{
+"id": "153",
+"label": "Plaut. Poen. 153",
+"text": "amo immodeste."
+},
+{
+"id": "153b",
+"label": "Plaut. Poen. 153b",
+"text": "Meae istuc scapulae sentiunt."
+},
+{
+"id": "154",
+"label": "Plaut. Poen. 154",
+"text": "At ego hanc vicinam dico Adelphasium meam,"
+},
+{
+"id": "155",
+"label": "Plaut. Poen. 155",
+"text": "lenonis huius meretricem maiusculam."
+},
+{
+"id": "156",
+"label": "Plaut. Poen. 156",
+"text": "Iam pridem equidem istuc ex te audivi."
+},
+{
+"id": "156b",
+"label": "Plaut. Poen. 156b",
+"text": "Differor"
+},
+{
+"id": "157",
+"label": "Plaut. Poen. 157",
+"text": "cupidine eius. sed lenone istoc Lyco,"
+},
+{
+"id": "158",
+"label": "Plaut. Poen. 158",
+"text": "illius domino, non lutumst lutulentius."
+},
+{
+"id": "159",
+"label": "Plaut. Poen. 159",
+"text": "Vin tu illi nequam dare nunc?"
+},
+{
+"id": "159b",
+"label": "Plaut. Poen. 159b",
+"text": "Cupio."
+},
+{
+"id": "159c",
+"label": "Plaut. Poen. 159c",
+"text": "Em me dato."
+},
+{
+"id": "160",
+"label": "Plaut. Poen. 160",
+"text": "Abi díerectus."
+},
+{
+"id": "160b",
+"label": "Plaut. Poen. 160b",
+"text": "Dic mihi vero serio:"
+},
+{
+"id": "161",
+"label": "Plaut. Poen. 161",
+"text": "vin dare malum illi?"
+},
+{
+"id": "161b",
+"label": "Plaut. Poen. 161b",
+"text": "Cupio."
+},
+{
+"id": "161c",
+"label": "Plaut. Poen. 161c",
+"text": "Em, eundem me dato:"
+},
+{
+"id": "162",
+"label": "Plaut. Poen. 162",
+"text": "utrumque faxo habebit, et nequam et malum."
+},
+{
+"id": "163",
+"label": "Plaut. Poen. 163",
+"text": "Iocare."
+},
+{
+"id": "163b",
+"label": "Plaut. Poen. 163b",
+"text": "Vin tu illam hodie sine dispendio"
+},
+{
+"id": "164",
+"label": "Plaut. Poen. 164",
+"text": "tuo túam libertam facere?"
+},
+{
+"id": "164b",
+"label": "Plaut. Poen. 164b",
+"text": "Cupio, Milphio."
+},
+{
+"id": "165",
+"label": "Plaut. Poen. 165",
+"text": "Ego faciam ut facias. sunt tibi intus aurei"
+},
+{
+"id": "166",
+"label": "Plaut. Poen. 166",
+"text": "trecenti nummi Philippi?"
+},
+{
+"id": "166b",
+"label": "Plaut. Poen. 166b",
+"text": "Sescenti quoque."
+},
+{
+"id": "167",
+"label": "Plaut. Poen. 167",
+"text": "Satis súnt trecenti."
+},
+{
+"id": "167b",
+"label": "Plaut. Poen. 167b",
+"text": "Quid iis facturu's facturus es ?"
+},
+{
+"id": "167c",
+"label": "Plaut. Poen. 167c",
+"text": "Tace."
+},
+{
+"id": "168",
+"label": "Plaut. Poen. 168",
+"text": "totum lenonem tibi cum tota familia"
+},
+{
+"id": "169",
+"label": "Plaut. Poen. 169",
+"text": "dabo hodie dono."
+},
+{
+"id": "169b",
+"label": "Plaut. Poen. 169b",
+"text": "Qui id facturu's facturus es ?"
+},
+{
+"id": "169c",
+"label": "Plaut. Poen. 169c",
+"text": "Iam scies."
+},
+{
+"id": "170",
+"label": "Plaut. Poen. 170",
+"text": "tuos Cóllybiscus nunc in urbest vilicus;"
+},
+{
+"id": "171",
+"label": "Plaut. Poen. 171",
+"text": "eum hic non novit leno. satin intellegis?"
+},
+{
+"id": "172",
+"label": "Plaut. Poen. 172",
+"text": "Intellego hercle, sed quo evadas nescio."
+},
+{
+"id": "173",
+"label": "Plaut. Poen. 173",
+"text": "Non scis?"
+},
+{
+"id": "173b",
+"label": "Plaut. Poen. 173b",
+"text": "Non hercle."
+},
+{
+"id": "173c",
+"label": "Plaut. Poen. 173c",
+"text": "At ego iam faxo scies."
+},
+{
+"id": "174",
+"label": "Plaut. Poen. 174",
+"text": "ei dabitur aurum, ut ad lenonem deferat"
+},
+{
+"id": "175",
+"label": "Plaut. Poen. 175",
+"text": "dicatque se peregrinum esse, ex alio oppido:"
+},
+{
+"id": "176",
+"label": "Plaut. Poen. 176",
+"text": "se amare velle atque obsequí animo suo;"
+},
+{
+"id": "177",
+"label": "Plaut. Poen. 177",
+"text": "locum sibi velle liberum praeberier,"
+},
+{
+"id": "178",
+"label": "Plaut. Poen. 178",
+"text": "ubi nequam faciat clam, ne quis sit arbiter."
+},
+{
+"id": "179",
+"label": "Plaut. Poen. 179",
+"text": "leno ad se accipiet auri cupidus ilico:"
+},
+{
+"id": "180",
+"label": "Plaut. Poen. 180",
+"text": "celabit hominem et aurum."
+},
+{
+"id": "180b",
+"label": "Plaut. Poen. 180b",
+"text": "Consilium placet."
+},
+{
+"id": "181",
+"label": "Plaut. Poen. 181",
+"text": "Rogato, servos veneritne ad eum tuos."
+},
+{
+"id": "182",
+"label": "Plaut. Poen. 182",
+"text": "ille mé censebit quaeri: continuo tibi"
+},
+{
+"id": "183",
+"label": "Plaut. Poen. 183",
+"text": "negabit. quid tu dubitas, quin extempulo"
+},
+{
+"id": "184",
+"label": "Plaut. Poen. 184",
+"text": "dupli tibi auri et hominis fur leno siet?"
+},
+{
+"id": "185",
+"label": "Plaut. Poen. 185",
+"text": "neque id unde efficiat habet: ubi in ius venerit,"
+},
+{
+"id": "186",
+"label": "Plaut. Poen. 186",
+"text": "addicet praetor familiam totam tibi."
+},
+{
+"id": "187",
+"label": "Plaut. Poen. 187",
+"text": "ita decipiemus fovea lenonem Lycum."
+},
+{
+"id": "188",
+"label": "Plaut. Poen. 188",
+"text": "Placet consilium."
+},
+{
+"id": "188b",
+"label": "Plaut. Poen. 188b",
+"text": "Immo etiam, ubi expolivero,"
+},
+{
+"id": "189",
+"label": "Plaut. Poen. 189",
+"text": "magis hoc tum demum dices: nunc etiam rudest."
+},
+{
+"id": "190",
+"label": "Plaut. Poen. 190",
+"text": "Ego in aedem Veneris eo, nisi quid vis, Milphio."
+},
+{
+"id": "191",
+"label": "Plaut. Poen. 191",
+"text": "Aphrodisia hodie sunt."
+},
+{
+"id": "191b",
+"label": "Plaut. Poen. 191b",
+"text": "Scio."
+},
+{
+"id": "191c",
+"label": "Plaut. Poen. 191c",
+"text": "Oculos volo"
+},
+{
+"id": "192",
+"label": "Plaut. Poen. 192",
+"text": "meos délectare munditiis meretriciis."
+},
+{
+"id": "193",
+"label": "Plaut. Poen. 193",
+"text": "Hoc primum agamus quod consilium cepimus."
+},
+{
+"id": "194",
+"label": "Plaut. Poen. 194",
+"text": "abeamus intro, ut Collybiscum vilicum"
+},
+{
+"id": "195",
+"label": "Plaut. Poen. 195",
+"text": "hanc perdoceamus ut ferat fallaciam."
+},
+{
+"id": "196",
+"label": "Plaut. Poen. 196",
+"text": "Quamquam Cupido in corde vorsatur, tamen"
+},
+{
+"id": "197",
+"label": "Plaut. Poen. 197",
+"text": "tibi auscultabo.—"
+},
+{
+"id": "197b",
+"label": "Plaut. Poen. 197b",
+"text": "Faciam ut facto gaudeas."
+},
+{
+"id": "198",
+"label": "Plaut. Poen. 198",
+"text": "inest amoris macula huic homini in pectore,"
+},
+{
+"id": "199",
+"label": "Plaut. Poen. 199",
+"text": "sine damno magno quae elui ne utiquam potest."
+},
+{
+"id": "200",
+"label": "Plaut. Poen. 200",
+"text": "itaque hic scelestus est homo leno Lycus,"
+},
+{
+"id": "201",
+"label": "Plaut. Poen. 201",
+"text": "quoi iam infortuni intenta ballistast probe,"
+},
+{
+"id": "202",
+"label": "Plaut. Poen. 202",
+"text": "quam ego haud multo post mittam e ballistario."
+},
+{
+"id": "203",
+"label": "Plaut. Poen. 203",
+"text": "sed Adelphasium eccam exit atque Anterastilis."
+},
+{
+"id": "204",
+"label": "Plaut. Poen. 204",
+"text": "haec est prior, quae meum erum dementem facit."
+},
+{
+"id": "205",
+"label": "Plaut. Poen. 205",
+"text": "sed evocabo. heus, i foras, Agorastocles,"
+},
+{
+"id": "206",
+"label": "Plaut. Poen. 206",
+"text": "si vis videre ludos iucundissimos."
+},
+{
+"id": "207",
+"label": "Plaut. Poen. 207",
+"text": "Quid istúc tumultist, Milphio?"
+},
+{
+"id": "207b",
+"label": "Plaut. Poen. 207b",
+"text": "Em amores tuos,"
+},
+{
+"id": "208",
+"label": "Plaut. Poen. 208",
+"text": "si vis spectare."
+},
+{
+"id": "208b",
+"label": "Plaut. Poen. 208b",
+"text": "O multa tibi di dent bona,"
+},
+{
+"id": "209",
+"label": "Plaut. Poen. 209",
+"text": "quom hoc mi optulisti tam lepidum spectaculum."
+},
+{
+"id": "210",
+"label": "Plaut. Poen. 210",
+"text": "Negóti sibí qui volét vim paráre,"
+},
+{
+"id": "211",
+"label": "Plaut. Poen. 211",
+"text": "navem et mulierem, haec duo comparato."
+},
+{
+"id": "212",
+"label": "Plaut. Poen. 212",
+"text": "nam nullae magis res duae plus negoti"
+},
+{
+"id": "213",
+"label": "Plaut. Poen. 213",
+"text": "habent, forte si occeperis exornare,"
+},
+{
+"id": "215",
+"label": "Plaut. Poen. 215",
+"text": "neque eis ulla ornandi satis satietas est."
+},
+{
+"id": "216",
+"label": "Plaut. Poen. 216",
+"text": "atque haec, ut loquor, nunc domo docta dico."
+},
+{
+"id": "217",
+"label": "Plaut. Poen. 217",
+"text": "nam nos usque ab aurora ad hoc quod diei est,"
+},
+{
+"id": "219",
+"label": "Plaut. Poen. 219",
+"text": "ex industria ambae numquam concessamus"
+},
+{
+"id": "220",
+"label": "Plaut. Poen. 220",
+"text": "lavari aut fricari aut tergeri aut ornari,"
+},
+{
+"id": "221",
+"label": "Plaut. Poen. 221",
+"text": "poliri expoliri, pingi fingi; et una"
+},
+{
+"id": "222",
+"label": "Plaut. Poen. 222",
+"text": "binae singulis quae dataé nobis ancíllae,"
+},
+{
+"id": "223",
+"label": "Plaut. Poen. 223",
+"text": "eae nos lavando eluendo operam déderunt,"
+},
+{
+"id": "224",
+"label": "Plaut. Poen. 224",
+"text": "aggerúndaque aqua sunt viri duo defessi."
+},
+{
+"id": "225",
+"label": "Plaut. Poen. 225",
+"text": "apage sis, negoti quantum in muliere una est."
+},
+{
+"id": "226",
+"label": "Plaut. Poen. 226",
+"text": "sed vero duae, sat scio, maxumo uni"
+},
+{
+"id": "227",
+"label": "Plaut. Poen. 227",
+"text": "poplo cuilubet plus satis dare potis sunt,"
+},
+{
+"id": "228",
+"label": "Plaut. Poen. 228",
+"text": "quae noctes diesque omni in aetate semper"
+},
+{
+"id": "229",
+"label": "Plaut. Poen. 229",
+"text": "ornantur, lavantur, tergentur, poliuntur."
+},
+{
+"id": "230",
+"label": "Plaut. Poen. 230",
+"text": "postremo modus muliebris nullust: numquam"
+},
+{
+"id": "231",
+"label": "Plaut. Poen. 231",
+"text": "lavando et fricando scimus facere finem."
+},
+{
+"id": "233",
+"label": "Plaut. Poen. 233",
+"text": "Mirór equidem, sóror, te istaec sic fabulari,"
+},
+{
+"id": "234",
+"label": "Plaut. Poen. 234",
+"text": "quae tam callida et docta sis et faceta."
+},
+{
+"id": "235",
+"label": "Plaut. Poen. 235",
+"text": "nam quom sedulo munditer nos habemus,"
+},
+{
+"id": "236",
+"label": "Plaut. Poen. 236",
+"text": "vix aegreque amatorculos invenimus."
+},
+{
+"id": "237",
+"label": "Plaut. Poen. 237",
+"text": "Ita est. verum hoc unum tamen cogitato:"
+},
+{
+"id": "238",
+"label": "Plaut. Poen. 238",
+"text": "modus ómnibus rebús, soror, optimus est habitu."
+},
+{
+"id": "239",
+"label": "Plaut. Poen. 239",
+"text": "nimia ómnia nimium éxhibent negóti hominibus éx se."
+},
+{
+"id": "240",
+"label": "Plaut. Poen. 240",
+"text": "Sorór, cogitá, amabo, itém nos perhibéri"
+},
+{
+"id": "241",
+"label": "Plaut. Poen. 241",
+"text": "quam si salsa muriatica esse autumantur:"
+},
+{
+"id": "243",
+"label": "Plaut. Poen. 243",
+"text": "nisí multa aqua usque et diu macerantur,"
+},
+{
+"id": "244",
+"label": "Plaut. Poen. 244",
+"text": "olént, salsa súnt, tangere út non velís."
+},
+{
+"id": "245",
+"label": "Plaut. Poen. 245",
+"text": "itém nos sumús"
+},
+{
+"id": "246",
+"label": "Plaut. Poen. 246",
+"text": "insúlsae admodum átque invenústae"
+},
+{
+"id": "247",
+"label": "Plaut. Poen. 247",
+"text": "sine múnditia et súmptu."
+},
+{
+"id": "248",
+"label": "Plaut. Poen. 248",
+"text": "Coqua ést haec quidem, Ágorastoclés, ut ego opínor:"
+},
+{
+"id": "249",
+"label": "Plaut. Poen. 249",
+"text": "scit, muriatica ut maceret."
+},
+{
+"id": "249b",
+"label": "Plaut. Poen. 249b",
+"text": "Quid molestu's molestus es ?"
+},
+{
+"id": "250",
+"label": "Plaut. Poen. 250",
+"text": "Soror, parce, amabo: sat est istuc alios"
+},
+{
+"id": "251",
+"label": "Plaut. Poen. 251",
+"text": "dicere nobis, ne nosmet in nostra etiam vitia loquamur."
+},
+{
+"id": "252",
+"label": "Plaut. Poen. 252",
+"text": "Quiésco."
+},
+{
+"id": "252b",
+"label": "Plaut. Poen. 252b",
+"text": "Ergo amó te. sed hóc nunc respónde"
+},
+{
+"id": "253",
+"label": "Plaut. Poen. 253",
+"text": "mihí: sunt hic ómnia,"
+},
+{
+"id": "254",
+"label": "Plaut. Poen. 254",
+"text": "quae ad deúm pacem opórtet adésse?"
+},
+{
+"id": "254b",
+"label": "Plaut. Poen. 254b",
+"text": "Omnia áccuravi."
+},
+{
+"id": "255",
+"label": "Plaut. Poen. 255",
+"text": "Diém pulchrum et célebrem et venústatis plénum,"
+},
+{
+"id": "256",
+"label": "Plaut. Poen. 256",
+"text": "dignúm Venere pól, quoi sunt Áphrodisia hódie."
+},
+{
+"id": "257",
+"label": "Plaut. Poen. 257",
+"text": "Ecquid gratiae, quom huc foras te evocavi?"
+},
+{
+"id": "258",
+"label": "Plaut. Poen. 258",
+"text": "iam núm me decét donari"
+},
+{
+"id": "259",
+"label": "Plaut. Poen. 259",
+"text": "cadó vini véteris? dic dáre. nil respóndes?"
+},
+{
+"id": "260",
+"label": "Plaut. Poen. 260",
+"text": "lingua huíc excidít, ut ego opínor."
+},
+{
+"id": "261",
+"label": "Plaut. Poen. 261",
+"text": "quíd hic, malum, astans ópstipuisti?"
+},
+{
+"id": "261b",
+"label": "Plaut. Poen. 261b",
+"text": "Síne amem, ne opturba ac tace."
+},
+{
+"id": "262",
+"label": "Plaut. Poen. 262",
+"text": "Taceo."
+},
+{
+"id": "262b",
+"label": "Plaut. Poen. 262b",
+"text": "Si tacuisses, iam istuc taceo non gnatum foret."
+},
+{
+"id": "263",
+"label": "Plaut. Poen. 263",
+"text": "Eamus, mea soror."
+},
+{
+"id": "263b",
+"label": "Plaut. Poen. 263b",
+"text": "Eho amabo, quid illo nunc properas?"
+},
+{
+"id": "263c",
+"label": "Plaut. Poen. 263c",
+"text": "Rogas?"
+},
+{
+"id": "264",
+"label": "Plaut. Poen. 264",
+"text": "quia erus nos apud aedem Veneris mantat."
+},
+{
+"id": "264b",
+"label": "Plaut. Poen. 264b",
+"text": "Maneat pol. mane."
+},
+{
+"id": "265",
+"label": "Plaut. Poen. 265",
+"text": "turba est nunc apud aram. an te ibi vis inter istás versarier"
+},
+{
+"id": "266",
+"label": "Plaut. Poen. 266",
+"text": "prosedas, pistorum amicas, reliquias alicarias,"
+},
+{
+"id": "267",
+"label": "Plaut. Poen. 267",
+"text": "miseras schoeno delibutas servolicolas sordidas,"
+},
+{
+"id": "268",
+"label": "Plaut. Poen. 268",
+"text": "quae tibi olant stabulum statumque, sellam et sessibulum merum,"
+},
+{
+"id": "269",
+"label": "Plaut. Poen. 269",
+"text": "quas adeo hau quisquam umquam liber tetigit neque duxit domum,"
+},
+{
+"id": "270",
+"label": "Plaut. Poen. 270",
+"text": "servolorum sordidulorum scorta diobolaria?"
+},
+{
+"id": "271",
+"label": "Plaut. Poen. 271",
+"text": "I in malam crucem. tun audes etiam servos spernere,"
+},
+{
+"id": "272",
+"label": "Plaut. Poen. 272",
+"text": "propudium? quasi bella sit, quasi eampse reges ductitent,"
+},
+{
+"id": "273",
+"label": "Plaut. Poen. 273",
+"text": "monstrum mulieris, tantilla tanta verba funditat,"
+},
+{
+"id": "274",
+"label": "Plaut. Poen. 274",
+"text": "quoius egó nebulai cyatho septem noctes non emam."
+},
+{
+"id": "275",
+"label": "Plaut. Poen. 275",
+"text": "Di immortales omnipotentes, quid est apud vos pulchrius?"
+},
+{
+"id": "276",
+"label": "Plaut. Poen. 276",
+"text": "quid habetis qui mage immortales vos credam esse quam ego siem,"
+},
+{
+"id": "277",
+"label": "Plaut. Poen. 277",
+"text": "qui haec tanta oculis bona concipio? nam Venus non est Venus:"
+},
+{
+"id": "278",
+"label": "Plaut. Poen. 278",
+"text": "hanc equidem Venerem venerabor, me ut amet posthac propitia."
+},
+{
+"id": "279",
+"label": "Plaut. Poen. 279",
+"text": "Milphio, heus, ubi es?"
+},
+{
+"id": "279b",
+"label": "Plaut. Poen. 279b",
+"text": "Assum ápud te, eccum."
+},
+{
+"id": "279c",
+"label": "Plaut. Poen. 279c",
+"text": "At ego elixus sis volo."
+},
+{
+"id": "280",
+"label": "Plaut. Poen. 280",
+"text": "Enim vero, ere, facis delicias."
+},
+{
+"id": "280b",
+"label": "Plaut. Poen. 280b",
+"text": "De tequidem haéc didici omnia."
+},
+{
+"id": "281",
+"label": "Plaut. Poen. 281",
+"text": "Etiamne ut ames eam quam numquam tetigeris?"
+},
+{
+"id": "281b",
+"label": "Plaut. Poen. 281b",
+"text": "Nihil id quidemst:"
+},
+{
+"id": "282",
+"label": "Plaut. Poen. 282",
+"text": "deos quoque edepol et amo et metuo, quíbus tamen ábstineo manus."
+},
+{
+"id": "283",
+"label": "Plaut. Poen. 283",
+"text": "Eu ecastor, quom ornatum aspicio nostrum ambarum, paenitet"
+},
+{
+"id": "284",
+"label": "Plaut. Poen. 284",
+"text": "exornatae ut simus."
+},
+{
+"id": "284b",
+"label": "Plaut. Poen. 284b",
+"text": "Immo vero sane commode;"
+},
+{
+"id": "285",
+"label": "Plaut. Poen. 285",
+"text": "nam pro erili et nostro quaestu satis bene ornatae sumus."
+},
+{
+"id": "286",
+"label": "Plaut. Poen. 286",
+"text": "non enim pótis est quaestus fieri, ni sumptus sequitur, scio,"
+},
+{
+"id": "287",
+"label": "Plaut. Poen. 287",
+"text": "et tamen quaéstus non consistet, si eum sumptus superat, soror."
+},
+{
+"id": "288",
+"label": "Plaut. Poen. 288",
+"text": "eo illud satiust, satis quod habitu, haud satis est quod plus quam sat est."
+},
+{
+"id": "289",
+"label": "Plaut. Poen. 289",
+"text": "Ita me di ament, ut illa me amet malim quam di, Milphio."
+},
+{
+"id": "290",
+"label": "Plaut. Poen. 290",
+"text": "nam illa mulier lapidem silicem subigere, ut se amet, potest."
+},
+{
+"id": "291",
+"label": "Plaut. Poen. 291",
+"text": "Pol id quidem hau mentire, nam tu es lapide silice stultior,"
+},
+{
+"id": "292",
+"label": "Plaut. Poen. 292",
+"text": "qui hanc ames."
+},
+{
+"id": "292b",
+"label": "Plaut. Poen. 292b",
+"text": "At vide sis, cum illac numquam limavi caput."
+},
+{
+"id": "293",
+"label": "Plaut. Poen. 293",
+"text": "Curram igitur aliquo ad piscinam aut ad lacum, limum petam."
+},
+{
+"id": "294",
+"label": "Plaut. Poen. 294",
+"text": "Quid eo opust?"
+},
+{
+"id": "294b",
+"label": "Plaut. Poen. 294b",
+"text": "Ego dicam: ut illi ét tibi limem caput."
+},
+{
+"id": "295",
+"label": "Plaut. Poen. 295",
+"text": "I in malam rem."
+},
+{
+"id": "295b",
+"label": "Plaut. Poen. 295b",
+"text": "Ibi sum équidem."
+},
+{
+"id": "295c",
+"label": "Plaut. Poen. 295c",
+"text": "Perdis."
+},
+{
+"id": "295d",
+"label": "Plaut. Poen. 295d",
+"text": "Taceo."
+},
+{
+"id": "295e",
+"label": "Plaut. Poen. 295e",
+"text": "At perpetuo volo."
+},
+{
+"id": "296",
+"label": "Plaut. Poen. 296",
+"text": "Enim vero, ere, meo me lacessis ludo et delicias facis."
+},
+{
+"id": "297",
+"label": "Plaut. Poen. 297",
+"text": "Satis nunc lepide ornatam credo, soror, te tibi viderier;"
+},
+{
+"id": "298",
+"label": "Plaut. Poen. 298",
+"text": "sed ubi exempla conferentur meretricum aliarum, ibi tibi"
+},
+{
+"id": "299",
+"label": "Plaut. Poen. 299",
+"text": "erit cordolium, si quam ornatam melius forte aspexeris."
+},
+{
+"id": "300",
+"label": "Plaut. Poen. 300",
+"text": "Invidia in me numquam innatast neque malitia, mea soror."
+},
+{
+"id": "301",
+"label": "Plaut. Poen. 301",
+"text": "bono med esse ingenio ornatam quam auro multo mavolo:"
+},
+{
+"id": "302",
+"label": "Plaut. Poen. 302",
+"text": "aurum, id fortuna invenitur, natura ingenium bonum."
+},
+{
+"id": "304",
+"label": "Plaut. Poen. 304",
+"text": "meretricem pudorem gerere magis decet quam purpuram:"
+},
+{
+"id": "306",
+"label": "Plaut. Poen. 306",
+"text": "pulchrum ornatum turpes mores peius caeno conlinunt,"
+},
+{
+"id": "307",
+"label": "Plaut. Poen. 307",
+"text": "lepidi mores turpem ornatum facile factis comprobant."
+},
+{
+"id": "308",
+"label": "Plaut. Poen. 308",
+"text": "Eho tu, vin tu facinus facere lepidum et festivom?"
+},
+{
+"id": "308b",
+"label": "Plaut. Poen. 308b",
+"text": "Volo."
+},
+{
+"id": "309",
+"label": "Plaut. Poen. 309",
+"text": "Potesne mi auscultare?"
+},
+{
+"id": "309b",
+"label": "Plaut. Poen. 309b",
+"text": "Possum."
+},
+{
+"id": "309c",
+"label": "Plaut. Poen. 309c",
+"text": "Abi domum ac suspende te."
+},
+{
+"id": "310",
+"label": "Plaut. Poen. 310",
+"text": "Quam ob rem?"
+},
+{
+"id": "310b",
+"label": "Plaut. Poen. 310b",
+"text": "Quia iam numquam audibis verba tot tam suavia."
+},
+{
+"id": "311",
+"label": "Plaut. Poen. 311",
+"text": "quid tibi opust vixisse? ausculta mihi modo ac suspende te."
+},
+{
+"id": "312",
+"label": "Plaut. Poen. 312",
+"text": "Siquidem tu es mecum futurus pro uva passa pensilis."
+},
+{
+"id": "313",
+"label": "Plaut. Poen. 313",
+"text": "At ego amo hanc."
+},
+{
+"id": "313b",
+"label": "Plaut. Poen. 313b",
+"text": "At ego esse et bibere."
+},
+{
+"id": "313c",
+"label": "Plaut. Poen. 313c",
+"text": "Eho tu, quid ais?"
+},
+{
+"id": "313d",
+"label": "Plaut. Poen. 313d",
+"text": "Quid rogas?"
+},
+{
+"id": "314",
+"label": "Plaut. Poen. 314",
+"text": "Viden tu? pleni oculi sorderum quí erant, iam splendent mihi."
+},
+{
+"id": "315",
+"label": "Plaut. Poen. 315",
+"text": "Immo etiam in medio oculo paullum sordest."
+},
+{
+"id": "315b",
+"label": "Plaut. Poen. 315b",
+"text": "Cedo sis dexteram."
+},
+{
+"id": "316",
+"label": "Plaut. Poen. 316",
+"text": "Vt quidem tu huius oculos inlutis manibus tractes aut teras?"
+},
+{
+"id": "317",
+"label": "Plaut. Poen. 317",
+"text": "Nimia nos socordia hodie tenuit."
+},
+{
+"id": "317b",
+"label": "Plaut. Poen. 317b",
+"text": "Qua de re, obsecro?"
+},
+{
+"id": "318",
+"label": "Plaut. Poen. 318",
+"text": "Quia non iam dudum ante lucem ad aedem Veneris venimus,"
+},
+{
+"id": "319",
+"label": "Plaut. Poen. 319",
+"text": "primae ut inferremus ignem in aram."
+},
+{
+"id": "319b",
+"label": "Plaut. Poen. 319b",
+"text": "Aha, non factost opus:"
+},
+{
+"id": "320",
+"label": "Plaut. Poen. 320",
+"text": "quaé habent nocturna ora, noctu sacruficatum ire occupant."
+},
+{
+"id": "321",
+"label": "Plaut. Poen. 321",
+"text": "prius quam Venus expergiscatur, prius deproperant sedulo"
+},
+{
+"id": "322",
+"label": "Plaut. Poen. 322",
+"text": "sacruficare; nam vigilante Venere si veniant eae,"
+},
+{
+"id": "323",
+"label": "Plaut. Poen. 323",
+"text": "ita sunt turpes, credo ecastor Venerem ipsam e fano fugent."
+},
+{
+"id": "324",
+"label": "Plaut. Poen. 324",
+"text": "Milphio."
+},
+{
+"id": "324b",
+"label": "Plaut. Poen. 324b",
+"text": "Edepol Milphionem miserum. quid nunc vis tibi?"
+},
+{
+"id": "325",
+"label": "Plaut. Poen. 325",
+"text": "Opsecro hercle, ut mulsa loquitur."
+},
+{
+"id": "325b",
+"label": "Plaut. Poen. 325b",
+"text": "Nil nisi laterculos,"
+},
+{
+"id": "326",
+"label": "Plaut. Poen. 326",
+"text": "sesumam papaveremque, triticum et frictas nuces."
+},
+{
+"id": "327",
+"label": "Plaut. Poen. 327",
+"text": "Ecquid amare videor?"
+},
+{
+"id": "327b",
+"label": "Plaut. Poen. 327b",
+"text": "Damnum, quod Mercurius minime amat."
+},
+{
+"id": "328",
+"label": "Plaut. Poen. 328",
+"text": "Namque edepol lucrum amare nullum amatorem addecet."
+},
+{
+"id": "329",
+"label": "Plaut. Poen. 329",
+"text": "Eamus, mea germana."
+},
+{
+"id": "329b",
+"label": "Plaut. Poen. 329b",
+"text": "Age sis, ut lubet."
+},
+{
+"id": "329c",
+"label": "Plaut. Poen. 329c",
+"text": "Sequere hac."
+},
+{
+"id": "329d",
+"label": "Plaut. Poen. 329d",
+"text": "Sequor."
+},
+{
+"id": "330",
+"label": "Plaut. Poen. 330",
+"text": "Eunt hae."
+},
+{
+"id": "330b",
+"label": "Plaut. Poen. 330b",
+"text": "Quid si adeamus?"
+},
+{
+"id": "330c",
+"label": "Plaut. Poen. 330c",
+"text": "Adeas."
+},
+{
+"id": "330d",
+"label": "Plaut. Poen. 330d",
+"text": "Primum prima salva sis,"
+},
+{
+"id": "331",
+"label": "Plaut. Poen. 331",
+"text": "et secunda tu secundo salve in pretio; tertia"
+},
+{
+"id": "332",
+"label": "Plaut. Poen. 332",
+"text": "salve extra pretium."
+},
+{
+"id": "332b",
+"label": "Plaut. Poen. 332b",
+"text": "Tum pol ego et oleum et operam perdidi."
+},
+{
+"id": "333",
+"label": "Plaut. Poen. 333",
+"text": "Quo te agis?"
+},
+{
+"id": "333b",
+"label": "Plaut. Poen. 333b",
+"text": "Egone? in aedem Veneris."
+},
+{
+"id": "333c",
+"label": "Plaut. Poen. 333c",
+"text": "Quid eo?"
+},
+{
+"id": "333d",
+"label": "Plaut. Poen. 333d",
+"text": "Vt Venerem propitiem."
+},
+{
+"id": "334",
+"label": "Plaut. Poen. 334",
+"text": "Eho, an irata est? propitia hercle est. vel ego pro illa spondeo."
+},
+{
+"id": "335",
+"label": "Plaut. Poen. 335",
+"text": "quid tu ais?"
+},
+{
+"id": "335b",
+"label": "Plaut. Poen. 335b",
+"text": "Quid mihi molestu's molestus es , opsecro?"
+},
+{
+"id": "335c",
+"label": "Plaut. Poen. 335c",
+"text": "Aha, tam saeviter."
+},
+{
+"id": "336",
+"label": "Plaut. Poen. 336",
+"text": "Mitte, amabo."
+},
+{
+"id": "336b",
+"label": "Plaut. Poen. 336b",
+"text": "Quid festinas? turba nunc illi est."
+},
+{
+"id": "336c",
+"label": "Plaut. Poen. 336c",
+"text": "Scio."
+},
+{
+"id": "337",
+"label": "Plaut. Poen. 337",
+"text": "sunt illi aliae quas spectare ego, et me spectari volo."
+},
+{
+"id": "338",
+"label": "Plaut. Poen. 338",
+"text": "Qui lubet spectare turpes, pulchram spectandam dare?"
+},
+{
+"id": "339",
+"label": "Plaut. Poen. 339",
+"text": "Quia apud aedem Veneris hodie est mercatus meretricius:"
+},
+{
+"id": "340",
+"label": "Plaut. Poen. 340",
+"text": "eo conveniunt mercatores, ibi ego me ostendi volo."
+},
+{
+"id": "341",
+"label": "Plaut. Poen. 341",
+"text": "Invendibili merci oportet ultro emptorem adducere:"
+},
+{
+"id": "342",
+"label": "Plaut. Poen. 342",
+"text": "proba mers facile emptorem reperit, tam etsi in abstruso sitast."
+},
+{
+"id": "343",
+"label": "Plaut. Poen. 343",
+"text": "quid ais tu? quando illi apud me mecum caput et corpus copulas? †"
+},
+{
+"id": "344",
+"label": "Plaut. Poen. 344",
+"text": "Quo die Orcus Acherunte mortuos amiserit."
+},
+{
+"id": "345",
+"label": "Plaut. Poen. 345",
+"text": "Sunt mihi intus nescio quot nummi aurei lymphatici."
+},
+{
+"id": "346",
+"label": "Plaut. Poen. 346",
+"text": "Deferto ad me, faxo actutum constiterit lymphaticum."
+},
+{
+"id": "347",
+"label": "Plaut. Poen. 347",
+"text": "Bellula hercle."
+},
+{
+"id": "347b",
+"label": "Plaut. Poen. 347b",
+"text": "I díerecte in maxumam malam crucem."
+},
+{
+"id": "348",
+"label": "Plaut. Poen. 348",
+"text": "Quam magis aspecto, tam magis est nimbata et nugae merae."
+},
+{
+"id": "349",
+"label": "Plaut. Poen. 349",
+"text": "Segrega sermonem. taedet."
+},
+{
+"id": "349b",
+"label": "Plaut. Poen. 349b",
+"text": "Age, sustolle hoc amiculum."
+},
+{
+"id": "350",
+"label": "Plaut. Poen. 350",
+"text": "Pura sum, comperce amabo me attrectare, Agorastocles."
+},
+{
+"id": "351",
+"label": "Plaut. Poen. 351",
+"text": "Quid agam nunc?"
+},
+{
+"id": "351b",
+"label": "Plaut. Poen. 351b",
+"text": "Si sapias, curam hanc facere compendi potes."
+},
+{
+"id": "352",
+"label": "Plaut. Poen. 352",
+"text": "Quid? ego non te curem? quid ais, Milphio?"
+},
+{
+"id": "352b",
+"label": "Plaut. Poen. 352b",
+"text": "Ecce odium meum."
+},
+{
+"id": "353",
+"label": "Plaut. Poen. 353",
+"text": "quid me vis?"
+},
+{
+"id": "353b",
+"label": "Plaut. Poen. 353b",
+"text": "Cur mi haec irata est?"
+},
+{
+"id": "353c",
+"label": "Plaut. Poen. 353c",
+"text": "Cur haec irata est tibi?"
+},
+{
+"id": "354",
+"label": "Plaut. Poen. 354",
+"text": "cur ego id curem? namque istaec magis meast curatio. †"
+},
+{
+"id": "355",
+"label": "Plaut. Poen. 355",
+"text": "Iam hercle tu periisti, nísi illam mihi tam tranquillam facis"
+},
+{
+"id": "356",
+"label": "Plaut. Poen. 356",
+"text": "quam mare olimst, quóm ibi alcedo pullos educit suos."
+},
+{
+"id": "357",
+"label": "Plaut. Poen. 357",
+"text": "Quid faciam?"
+},
+{
+"id": "357b",
+"label": "Plaut. Poen. 357b",
+"text": "Exora, blandire, expalpa."
+},
+{
+"id": "357c",
+"label": "Plaut. Poen. 357c",
+"text": "Faciam sedulo."
+},
+{
+"id": "358",
+"label": "Plaut. Poen. 358",
+"text": "sed vide sís, ne tu oratorem hunc pugnis pectas postea."
+},
+{
+"id": "359",
+"label": "Plaut. Poen. 359",
+"text": "Non faciam."
+},
+{
+"id": "359b",
+"label": "Plaut. Poen. 359b",
+"text": "Non aequos in me es, sed morare et male facis."
+},
+{
+"id": "360",
+"label": "Plaut. Poen. 360",
+"text": "bene promittis multa ex multis: omnia in cassum cadunt."
+},
+{
+"id": "361",
+"label": "Plaut. Poen. 361",
+"text": "liberare iuravisti me haud semel, sed centiens:"
+},
+{
+"id": "362",
+"label": "Plaut. Poen. 362",
+"text": "dum te exspecto, neque ego usquam aliam mihi paravi copiam"
+},
+{
+"id": "363",
+"label": "Plaut. Poen. 363",
+"text": "neque istuc usquam apparet; ita nunc servio nihilo minus."
+},
+{
+"id": "364",
+"label": "Plaut. Poen. 364",
+"text": "i, soror. apscede tu a me."
+},
+{
+"id": "364b",
+"label": "Plaut. Poen. 364b",
+"text": "Perii. ecquid agis, Milphio?"
+},
+{
+"id": "365",
+"label": "Plaut. Poen. 365",
+"text": "Mea voluptas, mea delicia, mea vita, mea amoenitas,"
+},
+{
+"id": "366",
+"label": "Plaut. Poen. 366",
+"text": "meus ocellus, meum labellum, mea salus, meum savium,"
+},
+{
+"id": "367",
+"label": "Plaut. Poen. 367",
+"text": "meum mel, meum cor, mea colustra, meus molliculus caseus—"
+},
+{
+"id": "368",
+"label": "Plaut. Poen. 368",
+"text": "Mene ego illaéc patiar praesente dici? discrucior miser,"
+},
+{
+"id": "369",
+"label": "Plaut. Poen. 369",
+"text": "nisi ego illum iubeo quadrigis cursim ad carnificem rapi."
+},
+{
+"id": "370",
+"label": "Plaut. Poen. 370",
+"text": "Noli, amabo, suscensere ero meo, causa mea."
+},
+{
+"id": "371",
+"label": "Plaut. Poen. 371",
+"text": "ego faxo, si non irata es, ninnium pro te dabit"
+},
+{
+"id": "372",
+"label": "Plaut. Poen. 372",
+"text": "atque te fáciet ut sis civis Attica atque libera."
+},
+{
+"id": "373",
+"label": "Plaut. Poen. 373",
+"text": "quin adire sínis? quin tibi qui bene volunt, bene vis item?"
+},
+{
+"id": "374",
+"label": "Plaut. Poen. 374",
+"text": "si ante quid mentitust, nunciam dehinc érit verax tibi."
+},
+{
+"id": "375",
+"label": "Plaut. Poen. 375",
+"text": "sine te exorem, sine prehendam auriculis, sine dem savium."
+},
+{
+"id": "376",
+"label": "Plaut. Poen. 376",
+"text": "Apscede hinc sis, sycophanta par ero."
+},
+{
+"id": "376b",
+"label": "Plaut. Poen. 376b",
+"text": "At scin quo modo?"
+},
+{
+"id": "377",
+"label": "Plaut. Poen. 377",
+"text": "iam hercle ego faciam ploratillum, nisi te facio propitiam,"
+},
+{
+"id": "378",
+"label": "Plaut. Poen. 378",
+"text": "atque hic ne me verberetillum faciat, nisi te propitio,"
+},
+{
+"id": "379",
+"label": "Plaut. Poen. 379",
+"text": "male formido: novi ego huius mores morosi malos."
+},
+{
+"id": "380",
+"label": "Plaut. Poen. 380",
+"text": "quam ob rem amabo, mea voluptas, sine te hoc exorarier."
+},
+{
+"id": "381",
+"label": "Plaut. Poen. 381",
+"text": "Non ego homo trioboli sum, nisi ego illi mastigiae"
+},
+{
+"id": "382",
+"label": "Plaut. Poen. 382",
+"text": "exturbo oculos atque dentes. em voluptatem tibi,"
+},
+{
+"id": "383",
+"label": "Plaut. Poen. 383",
+"text": "em mel, em cor, em labellum, em salutem, em savium."
+},
+{
+"id": "384",
+"label": "Plaut. Poen. 384",
+"text": "Impias, ere, te: oratorem verberas."
+},
+{
+"id": "384b",
+"label": "Plaut. Poen. 384b",
+"text": "Iam istoc magis:"
+},
+{
+"id": "386",
+"label": "Plaut. Poen. 386",
+"text": "sicine ego te orare iussi?"
+},
+{
+"id": "386b",
+"label": "Plaut. Poen. 386b",
+"text": "Quo modo ergo orem?"
+},
+{
+"id": "386c",
+"label": "Plaut. Poen. 386c",
+"text": "Rogas?"
+},
+{
+"id": "387",
+"label": "Plaut. Poen. 387",
+"text": "sic enim díceres, sceleste: huius voluptas, te opsecro,"
+},
+{
+"id": "388",
+"label": "Plaut. Poen. 388",
+"text": "huius mel, huius cor, huius labellum, huius lingua, huius savium,"
+},
+{
+"id": "389",
+"label": "Plaut. Poen. 389",
+"text": "huius delicia, huiús salus amoena, huius festivitas:"
+},
+{
+"id": "391",
+"label": "Plaut. Poen. 391",
+"text": "omnia illa, quae dicebas tua, ésse ea memorares mea."
+},
+{
+"id": "392",
+"label": "Plaut. Poen. 392",
+"text": "Opsecro hercle te, voluptas huius atque odium meum,"
+},
+{
+"id": "393",
+"label": "Plaut. Poen. 393",
+"text": "huius amica mammeata, mea inimica et malevola,"
+},
+{
+"id": "394",
+"label": "Plaut. Poen. 394",
+"text": "oculus huius, lippitudo mea, mel huius, fel meum,"
+},
+{
+"id": "395",
+"label": "Plaut. Poen. 395",
+"text": "ut tu huic irata ne sis aut, si id fieri non potest,"
+},
+{
+"id": "396",
+"label": "Plaut. Poen. 396",
+"text": "capias restim ac te suspendas cúm ero et vostra familia."
+},
+{
+"id": "397",
+"label": "Plaut. Poen. 397",
+"text": "nam mihi iam video propter te victitandum sorbilo,"
+},
+{
+"id": "398",
+"label": "Plaut. Poen. 398",
+"text": "itaque iam quasi ostreatum tergum ulceribus gestito"
+},
+{
+"id": "399",
+"label": "Plaut. Poen. 399",
+"text": "propter amorem vestrum."
+},
+{
+"id": "399b",
+"label": "Plaut. Poen. 399b",
+"text": "Amabo, men prohibere postulas"
+},
+{
+"id": "400",
+"label": "Plaut. Poen. 400",
+"text": "ne te verberet magis quám ne mendax me advorsum siet?"
+},
+{
+"id": "401",
+"label": "Plaut. Poen. 401",
+"text": "Aliquid huic responde, amabo, commode, ne incommodus"
+},
+{
+"id": "402",
+"label": "Plaut. Poen. 402",
+"text": "nobis sit. nam detinet nos de nostro negotio."
+},
+{
+"id": "403",
+"label": "Plaut. Poen. 403",
+"text": "Verum. etiam tibi hanc amittam noxiam unam, Agorastocles."
+},
+{
+"id": "404",
+"label": "Plaut. Poen. 404",
+"text": "non sum irata."
+},
+{
+"id": "404b",
+"label": "Plaut. Poen. 404b",
+"text": "Non es?"
+},
+{
+"id": "404c",
+"label": "Plaut. Poen. 404c",
+"text": "Non sum."
+},
+{
+"id": "404d",
+"label": "Plaut. Poen. 404d",
+"text": "Da ergo, ut credam, savium."
+},
+{
+"id": "405",
+"label": "Plaut. Poen. 405",
+"text": "Mox dabo, quom ab re divina rediero."
+},
+{
+"id": "405b",
+"label": "Plaut. Poen. 405b",
+"text": "I ergo strenue."
+},
+{
+"id": "406",
+"label": "Plaut. Poen. 406",
+"text": "Sequere me, soror."
+},
+{
+"id": "406b",
+"label": "Plaut. Poen. 406b",
+"text": "Atque audin etiam? Veneri dicito"
+},
+{
+"id": "407",
+"label": "Plaut. Poen. 407",
+"text": "multam meis verbis salutem."
+},
+{
+"id": "407b",
+"label": "Plaut. Poen. 407b",
+"text": "Dicam."
+},
+{
+"id": "407c",
+"label": "Plaut. Poen. 407c",
+"text": "Atque hoc audi."
+},
+{
+"id": "407d",
+"label": "Plaut. Poen. 407d",
+"text": "Quid est?"
+},
+{
+"id": "408",
+"label": "Plaut. Poen. 408",
+"text": "Paucis verbis rem divinam facito. atque audin? respice."
+},
+{
+"id": "409",
+"label": "Plaut. Poen. 409",
+"text": "respexit. idem edepol Venerem credo facturam tibi."
+},
+{
+"id": "410",
+"label": "Plaut. Poen. 410",
+"text": "quid nunc mi es auctor, Milphio?"
+},
+{
+"id": "410b",
+"label": "Plaut. Poen. 410b",
+"text": "Vt me verberes"
+},
+{
+"id": "411",
+"label": "Plaut. Poen. 411",
+"text": "atque auctionem facias: nam impunissume"
+},
+{
+"id": "412",
+"label": "Plaut. Poen. 412",
+"text": "tibi quidem hercle vendere hasce aedis licet."
+},
+{
+"id": "413",
+"label": "Plaut. Poen. 413",
+"text": "Quid iam?"
+},
+{
+"id": "413b",
+"label": "Plaut. Poen. 413b",
+"text": "Maiorem partem in ore habitas meo."
+},
+{
+"id": "414",
+"label": "Plaut. Poen. 414",
+"text": "Supersede istis verbis."
+},
+{
+"id": "414b",
+"label": "Plaut. Poen. 414b",
+"text": "Quid nunc vis tibi?"
+},
+{
+"id": "415",
+"label": "Plaut. Poen. 415",
+"text": "Trecentos Philippos Collybisco vilico"
+},
+{
+"id": "416",
+"label": "Plaut. Poen. 416",
+"text": "dedi dúdum, prius quam me evocavisti foras."
+},
+{
+"id": "417",
+"label": "Plaut. Poen. 417",
+"text": "nunc opsecro te, Milphio, hanc per dexteram"
+},
+{
+"id": "418",
+"label": "Plaut. Poen. 418",
+"text": "perque hanc sororem laevam perque oculos tuos"
+},
+{
+"id": "420",
+"label": "Plaut. Poen. 420",
+"text": "perque tuam libertatem—"
+},
+{
+"id": "420b",
+"label": "Plaut. Poen. 420b",
+"text": "Em nunc nihil opsecras."
+},
+{
+"id": "421",
+"label": "Plaut. Poen. 421",
+"text": "Mi Milphidisce, mea commoditas, mea salus,"
+},
+{
+"id": "422",
+"label": "Plaut. Poen. 422",
+"text": "fac quod facturum te esse promisti mihi,"
+},
+{
+"id": "423",
+"label": "Plaut. Poen. 423",
+"text": "ut ego hunc lenonem perdam."
+},
+{
+"id": "423b",
+"label": "Plaut. Poen. 423b",
+"text": "Perfacile id quidemst."
+},
+{
+"id": "424",
+"label": "Plaut. Poen. 424",
+"text": "i, adduce testis tecum; ego intus interim"
+},
+{
+"id": "425",
+"label": "Plaut. Poen. 425",
+"text": "iam et ornamentis meis et sycophantiis"
+},
+{
+"id": "426",
+"label": "Plaut. Poen. 426",
+"text": "tuom exornabo vilicum. propera atque abi."
+},
+{
+"id": "427",
+"label": "Plaut. Poen. 427",
+"text": "Fugio."
+},
+{
+"id": "427b",
+"label": "Plaut. Poen. 427b",
+"text": "Meum est ístuc magis officium quam tuom."
+},
+{
+"id": "428",
+"label": "Plaut. Poen. 428",
+"text": "Egone egone, si istuc lepide ecfexis—"
+},
+{
+"id": "428b",
+"label": "Plaut. Poen. 428b",
+"text": "I modo."
+},
+{
+"id": "429",
+"label": "Plaut. Poen. 429",
+"text": "Vt non ego te hodie—"
+},
+{
+"id": "429b",
+"label": "Plaut. Poen. 429b",
+"text": "Abi modo."
+},
+{
+"id": "429c",
+"label": "Plaut. Poen. 429c",
+"text": "Emittam manu—"
+},
+{
+"id": "430",
+"label": "Plaut. Poen. 430",
+"text": "I modo."
+},
+{
+"id": "430b",
+"label": "Plaut. Poen. 430b",
+"text": "Non hercle meream."
+},
+{
+"id": "430c",
+"label": "Plaut. Poen. 430c",
+"text": "Oh—"
+},
+{
+"id": "430d",
+"label": "Plaut. Poen. 430d",
+"text": "Vah—"
+},
+{
+"id": "430e",
+"label": "Plaut. Poen. 430e",
+"text": "Abi modo."
+},
+{
+"id": "431",
+"label": "Plaut. Poen. 431",
+"text": "Quantum Acheruntest mortuorum."
+},
+{
+"id": "431b",
+"label": "Plaut. Poen. 431b",
+"text": "Etiamne abis?"
+},
+{
+"id": "432",
+"label": "Plaut. Poen. 432",
+"text": "Neque quantum aquaist in mari."
+},
+{
+"id": "432b",
+"label": "Plaut. Poen. 432b",
+"text": "Abiturun es?"
+},
+{
+"id": "433",
+"label": "Plaut. Poen. 433",
+"text": "Neque nubes omnes quantumst."
+},
+{
+"id": "433b",
+"label": "Plaut. Poen. 433b",
+"text": "Pergin pergere?"
+},
+{
+"id": "434",
+"label": "Plaut. Poen. 434",
+"text": "Neque stellae in caelo."
+},
+{
+"id": "434b",
+"label": "Plaut. Poen. 434b",
+"text": "Pergin auris tundere?"
+},
+{
+"id": "435",
+"label": "Plaut. Poen. 435",
+"text": "Neque hoc neque illud neque—enim vero serio—"
+},
+{
+"id": "436",
+"label": "Plaut. Poen. 436",
+"text": "neque—hercle vero—quid opust verbis? quippini?"
+},
+{
+"id": "437",
+"label": "Plaut. Poen. 437",
+"text": "quod uno verbo—dicere hic quidvis licet,"
+},
+{
+"id": "438",
+"label": "Plaut. Poen. 438",
+"text": "neque—hercle vero serio, scin quomodo?"
+},
+{
+"id": "439",
+"label": "Plaut. Poen. 439",
+"text": "ita me di amabunt, vin bona dicam fide,"
+},
+{
+"id": "440",
+"label": "Plaut. Poen. 440",
+"text": "quod hic inter nos liceat? ita me Iuppiter,"
+},
+{
+"id": "441",
+"label": "Plaut. Poen. 441",
+"text": "scin quam videtur? credin quod ego fabuler?"
+},
+{
+"id": "442",
+"label": "Plaut. Poen. 442",
+"text": "Si nequeo facere ut abeas, egomet abiero;"
+},
+{
+"id": "443",
+"label": "Plaut. Poen. 443",
+"text": "nam isti quidem hercle orationi Oedipo"
+},
+{
+"id": "444",
+"label": "Plaut. Poen. 444",
+"text": "opust cóniectore, qui Sphingi interpres fuit.—"
+},
+{
+"id": "445",
+"label": "Plaut. Poen. 445",
+"text": "Illic hínc iratus abiit. nunc mihi cautio est,"
+},
+{
+"id": "446",
+"label": "Plaut. Poen. 446",
+"text": "ne meámet culpa meo amori obiexim moram."
+},
+{
+"id": "447",
+"label": "Plaut. Poen. 447",
+"text": "ibo atque arcessam testis, quando Amor iubet"
+},
+{
+"id": "448",
+"label": "Plaut. Poen. 448",
+"text": "me oboedientem ésse servo liberum.—"
+},
+{
+"id": "449",
+"label": "Plaut. Poen. 449",
+"text": "Di illum infelicent omnes, qui post hunc diem"
+},
+{
+"id": "450",
+"label": "Plaut. Poen. 450",
+"text": "leno ullam Veneri umquam immolarit hostiam"
+},
+{
+"id": "451",
+"label": "Plaut. Poen. 451",
+"text": "quive ullum turis granum sacruficaverit."
+},
+{
+"id": "452",
+"label": "Plaut. Poen. 452",
+"text": "nam ego hodie infelix dis meis iratissumis"
+},
+{
+"id": "453",
+"label": "Plaut. Poen. 453",
+"text": "sex immolavi ágnos, nec potui tamen"
+},
+{
+"id": "454",
+"label": "Plaut. Poen. 454",
+"text": "propitiam Venerem facere utí esset mihi."
+},
+{
+"id": "455",
+"label": "Plaut. Poen. 455",
+"text": "quoniam litare nequeo, ábii illim ilico"
+},
+{
+"id": "456",
+"label": "Plaut. Poen. 456",
+"text": "iratus, votui éxta prosicarier;"
+},
+{
+"id": "457",
+"label": "Plaut. Poen. 457",
+"text": "eo pacto avarae Veneri pulchre adii manum."
+},
+{
+"id": "458",
+"label": "Plaut. Poen. 458",
+"text": "quando id quod sat erat satis habere noluit,"
+},
+{
+"id": "459",
+"label": "Plaut. Poen. 459",
+"text": "ego pausam feci. sic ago, sic me decet."
+},
+{
+"id": "460",
+"label": "Plaut. Poen. 460",
+"text": "ego faxo posthac di deaeque ceteri"
+},
+{
+"id": "461",
+"label": "Plaut. Poen. 461",
+"text": "contentiores mage erunt atque avidi minus,"
+},
+{
+"id": "462",
+"label": "Plaut. Poen. 462",
+"text": "quom scibunt, Veneri ut adierit leno manum."
+},
+{
+"id": "463",
+"label": "Plaut. Poen. 463",
+"text": "condigne haruspex, non homo trioboli,"
+},
+{
+"id": "464",
+"label": "Plaut. Poen. 464",
+"text": "omnibus in extis aibat portendi mihi"
+},
+{
+"id": "465",
+"label": "Plaut. Poen. 465",
+"text": "malum damnumque et deos esse iratos mihi."
+},
+{
+"id": "466",
+"label": "Plaut. Poen. 466",
+"text": "quid ei divini aut humani aequomst credere?"
+},
+{
+"id": "467",
+"label": "Plaut. Poen. 467",
+"text": "mina mihi argenti dono postilla datast."
+},
+{
+"id": "468",
+"label": "Plaut. Poen. 468",
+"text": "sed quaeso, ubi nam illic restitit miles modo,"
+},
+{
+"id": "469",
+"label": "Plaut. Poen. 469",
+"text": "qui hanc mihi donavit, quem ego vocavi ad prandium?"
+},
+{
+"id": "470",
+"label": "Plaut. Poen. 470",
+"text": "sed eccum incedit."
+},
+{
+"id": "470b",
+"label": "Plaut. Poen. 470b",
+"text": "Ita ut occepi dicere,"
+},
+{
+"id": "471",
+"label": "Plaut. Poen. 471",
+"text": "lenulle, de illa pugna Pentetronica,"
+},
+{
+"id": "472",
+"label": "Plaut. Poen. 472",
+"text": "quom sexaginta milia hominum uno die"
+},
+{
+"id": "473",
+"label": "Plaut. Poen. 473",
+"text": "volaticorum manibus occidi meis."
+},
+{
+"id": "474",
+"label": "Plaut. Poen. 474",
+"text": "Volaticorum hóminum?"
+},
+{
+"id": "474b",
+"label": "Plaut. Poen. 474b",
+"text": "Ita dico quidem."
+},
+{
+"id": "475",
+"label": "Plaut. Poen. 475",
+"text": "An, opsecro, usquam sunt homines volatici?"
+},
+{
+"id": "476",
+"label": "Plaut. Poen. 476",
+"text": "Fuere. verum ego interfeci."
+},
+{
+"id": "476b",
+"label": "Plaut. Poen. 476b",
+"text": "Quo modo"
+},
+{
+"id": "477",
+"label": "Plaut. Poen. 477",
+"text": "potuisti?"
+},
+{
+"id": "477b",
+"label": "Plaut. Poen. 477b",
+"text": "Dicam. viscum legioni dedi"
+},
+{
+"id": "478",
+"label": "Plaut. Poen. 478",
+"text": "fundasque; eo praésternebant folia farferi."
+},
+{
+"id": "479",
+"label": "Plaut. Poen. 479",
+"text": "Quoi rei?"
+},
+{
+"id": "479b",
+"label": "Plaut. Poen. 479b",
+"text": "Ad fundas viscus né adhaeresceret."
+},
+{
+"id": "480",
+"label": "Plaut. Poen. 480",
+"text": "Perge. optume hercle perieras. quid postea?"
+},
+{
+"id": "481",
+"label": "Plaut. Poen. 481",
+"text": "In fundas visci indebant grandiculos globos,"
+},
+{
+"id": "482",
+"label": "Plaut. Poen. 482",
+"text": "eo illós volantis iussi funditarier."
+},
+{
+"id": "483",
+"label": "Plaut. Poen. 483",
+"text": "quid multa verba? quemquem visco offenderant,"
+},
+{
+"id": "484_485",
+"label": "Plaut. Poen. 484_485",
+"text": "tam crebri ad terram áccidebant quam pira."
+},
+{
+"id": "486",
+"label": "Plaut. Poen. 486",
+"text": "ut quisque acciderat, eum necabam ílico"
+},
+{
+"id": "487",
+"label": "Plaut. Poen. 487",
+"text": "per cerebrum pinna sua sibi, quasi turturem."
+},
+{
+"id": "488",
+"label": "Plaut. Poen. 488",
+"text": "Si hercle istuc umquam factum est, tum me Iuppiter"
+},
+{
+"id": "489",
+"label": "Plaut. Poen. 489",
+"text": "faciat ut semper sacruficem nec umquám litem."
+},
+{
+"id": "490",
+"label": "Plaut. Poen. 490",
+"text": "An mi haec non credis?"
+},
+{
+"id": "490b",
+"label": "Plaut. Poen. 490b",
+"text": "Credo, ut mi aequomst credier."
+},
+{
+"id": "491",
+"label": "Plaut. Poen. 491",
+"text": "age eamus intro."
+},
+{
+"id": "491b",
+"label": "Plaut. Poen. 491b",
+"text": "Dum exta referuntur, volo"
+},
+{
+"id": "492",
+"label": "Plaut. Poen. 492",
+"text": "narrare tibi etiam unam pugnam."
+},
+{
+"id": "492b",
+"label": "Plaut. Poen. 492b",
+"text": "Nil moror."
+},
+{
+"id": "493",
+"label": "Plaut. Poen. 493",
+"text": "Ausculta."
+},
+{
+"id": "493b",
+"label": "Plaut. Poen. 493b",
+"text": "Non hercle auscultabo."
+},
+{
+"id": "493c",
+"label": "Plaut. Poen. 493c",
+"text": "Quo modo?"
+},
+{
+"id": "494",
+"label": "Plaut. Poen. 494",
+"text": "colaphis quidem hercle tuom iam dilidam caput,"
+},
+{
+"id": "495",
+"label": "Plaut. Poen. 495",
+"text": "nisi aut auscultas aut is in malam crucem."
+},
+{
+"id": "496",
+"label": "Plaut. Poen. 496",
+"text": "Malam crucem ibo potius."
+},
+{
+"id": "496b",
+"label": "Plaut. Poen. 496b",
+"text": "Certumnest tibi?"
+},
+{
+"id": "497",
+"label": "Plaut. Poen. 497",
+"text": "Certum."
+},
+{
+"id": "497b",
+"label": "Plaut. Poen. 497b",
+"text": "Tum tu igitur die bonó Aphrodisiis"
+},
+{
+"id": "498",
+"label": "Plaut. Poen. 498",
+"text": "addice tuam mihi meretricem minusculam."
+},
+{
+"id": "499",
+"label": "Plaut. Poen. 499",
+"text": "Ita res divina mihi fuit: res serias"
+},
+{
+"id": "500",
+"label": "Plaut. Poen. 500",
+"text": "omnis extollo ex hoc die in alium diem."
+},
+{
+"id": "501",
+"label": "Plaut. Poen. 501",
+"text": "Profestos festos habeam decretum est mihi."
+},
+{
+"id": "502",
+"label": "Plaut. Poen. 502",
+"text": "Nunc hinc eamus intro. sequere hac me.—"
+},
+{
+"id": "502b",
+"label": "Plaut. Poen. 502b",
+"text": "Seqor."
+},
+{
+"id": "503",
+"label": "Plaut. Poen. 503",
+"text": "in hunc diem iam tuos sum mercennarius.—"
+},
+{
+"id": "504",
+"label": "Plaut. Poen. 504",
+"text": "Íta me di ament, tardo amico nihil est quicquam inaequius,"
+},
+{
+"id": "505",
+"label": "Plaut. Poen. 505",
+"text": "praesertim homini amanti, qui quidquid agit properat omnia."
+},
+{
+"id": "506",
+"label": "Plaut. Poen. 506",
+"text": "sicut ego hos duco advocatos, homines spissigradissimos,"
+},
+{
+"id": "507",
+"label": "Plaut. Poen. 507",
+"text": "tardiores quam corbitae sunt in tranquillo mari."
+},
+{
+"id": "508",
+"label": "Plaut. Poen. 508",
+"text": "atque equidem hercle dedita opera amicos fugitavi senes:"
+},
+{
+"id": "509",
+"label": "Plaut. Poen. 509",
+"text": "scibam aetate tardiores, metui meo amori moram."
+},
+{
+"id": "510",
+"label": "Plaut. Poen. 510",
+"text": "nequiquam hos procos mi elegi loripedis, tardissimos."
+},
+{
+"id": "511",
+"label": "Plaut. Poen. 511",
+"text": "quin si ituri hodie estis, ite, aut ite hinc in malam crucem."
+},
+{
+"id": "512",
+"label": "Plaut. Poen. 512",
+"text": "sicine oportet ire amicos homini amanti operam datum?"
+},
+{
+"id": "513",
+"label": "Plaut. Poen. 513",
+"text": "nam iste quidem gradus succretust cribro pollinario,"
+},
+{
+"id": "514",
+"label": "Plaut. Poen. 514",
+"text": "nisi cum pedicis condidicistis istoc grassari gradu."
+},
+{
+"id": "515",
+"label": "Plaut. Poen. 515",
+"text": "Heus tu, quamquam nos videmur tibi plebeii et pauperes,"
+},
+{
+"id": "516",
+"label": "Plaut. Poen. 516",
+"text": "si nec recte dicis nobis, dives de summo loco,"
+},
+{
+"id": "517",
+"label": "Plaut. Poen. 517",
+"text": "divitem audacter solemus mactare infortunio."
+},
+{
+"id": "518",
+"label": "Plaut. Poen. 518",
+"text": "nec tibi nos obnoxii istuc, quid tu ames aut oderis:"
+},
+{
+"id": "519",
+"label": "Plaut. Poen. 519",
+"text": "quom argentum pro capite dedimus, nostrum dedimus, non tuom;"
+},
+{
+"id": "520",
+"label": "Plaut. Poen. 520",
+"text": "liberos nos esse oportet. nos te nihili pendimus,"
+},
+{
+"id": "521",
+"label": "Plaut. Poen. 521",
+"text": "ne tuo nos amori servos esse addictos censeas."
+},
+{
+"id": "522",
+"label": "Plaut. Poen. 522",
+"text": "liberos homines per urbem modico magis par est gradu"
+},
+{
+"id": "523",
+"label": "Plaut. Poen. 523",
+"text": "ire, servile esse duco festinantem currere."
+},
+{
+"id": "524",
+"label": "Plaut. Poen. 524",
+"text": "praesertim in re populi placida atque interfectis hostibus"
+},
+{
+"id": "525",
+"label": "Plaut. Poen. 525",
+"text": "non decet tumultuari. sed si properabas magis,"
+},
+{
+"id": "526",
+"label": "Plaut. Poen. 526",
+"text": "pridie nos te advocatos huc duxisse oportuit."
+},
+{
+"id": "527",
+"label": "Plaut. Poen. 527",
+"text": "ne tu opinere, haud quisquam hodie nostrum curret per vias,"
+},
+{
+"id": "528",
+"label": "Plaut. Poen. 528",
+"text": "neque nos populus pro cerritis insectabit lapidibus."
+},
+{
+"id": "529",
+"label": "Plaut. Poen. 529",
+"text": "At si ad prandium me in aedem vos dixissem ducere,"
+},
+{
+"id": "530",
+"label": "Plaut. Poen. 530",
+"text": "vinceretis cervom cursu vel gralatorem gradu;"
+},
+{
+"id": "531",
+"label": "Plaut. Poen. 531",
+"text": "nunc vos quia mihi advocatos dixi et testis ducere,"
+},
+{
+"id": "532",
+"label": "Plaut. Poen. 532",
+"text": "podagrosi estis ac vicistis cochleam tarditudine."
+},
+{
+"id": "533",
+"label": "Plaut. Poen. 533",
+"text": "An vero non iusta causa est, quor curratur celeriter"
+},
+{
+"id": "534",
+"label": "Plaut. Poen. 534",
+"text": "ubi bibas, edas de alieno quantum velis usque ad fatim,"
+},
+{
+"id": "535",
+"label": "Plaut. Poen. 535",
+"text": "quod tu invitus numquam reddas domino, de quoio ederis?"
+},
+{
+"id": "536",
+"label": "Plaut. Poen. 536",
+"text": "sed tamen cum eo cum quiqui, quamquam sumus pauperculi,"
+},
+{
+"id": "537",
+"label": "Plaut. Poen. 537",
+"text": "est domi quod edimus, ne nos tam contemptim conteras."
+},
+{
+"id": "538",
+"label": "Plaut. Poen. 538",
+"text": "quidquid est pauxillulum illuc, nostrum id omne, non tuomst,"
+},
+{
+"id": "539",
+"label": "Plaut. Poen. 539",
+"text": "neque nos quemquam flagitamus neque nos quisquam flagitat."
+},
+{
+"id": "540",
+"label": "Plaut. Poen. 540",
+"text": "tua causa nemo nostrorumst suos rupturus ramites."
+},
+{
+"id": "541",
+"label": "Plaut. Poen. 541",
+"text": "Nimis iracundi estis: equidem haec vobis dixi per iocum."
+},
+{
+"id": "542",
+"label": "Plaut. Poen. 542",
+"text": "Per iocum itidem dictum habeto quae nos tibi respondimus."
+},
+{
+"id": "547",
+"label": "Plaut. Poen. 547",
+"text": "Scitis rem, narravi vobis quod vestra opera mi opus siet,"
+},
+{
+"id": "548",
+"label": "Plaut. Poen. 548",
+"text": "de lenone hoc, qui me amantem ludificatur tam diu,"
+},
+{
+"id": "549",
+"label": "Plaut. Poen. 549",
+"text": "ei paratae ut sint insidiae de auro et de servo meo."
+},
+{
+"id": "550",
+"label": "Plaut. Poen. 550",
+"text": "Omnia istaec scimus iam nos, si hi spectatores sciant;"
+},
+{
+"id": "551",
+"label": "Plaut. Poen. 551",
+"text": "horunc hic nunc causa haec agitur spectatorum fabula:"
+},
+{
+"id": "552",
+"label": "Plaut. Poen. 552",
+"text": "hos te satius est docere, ut, quando agas, quid agas sciant."
+},
+{
+"id": "553",
+"label": "Plaut. Poen. 553",
+"text": "nos tu ne curassis: scimus rem omnem, quippe omnes simul"
+},
+{
+"id": "554",
+"label": "Plaut. Poen. 554",
+"text": "didicimus tecum una, ut respondere possemus tibi."
+},
+{
+"id": "555",
+"label": "Plaut. Poen. 555",
+"text": "Ita profecto est. sed agite igitur, ut sciam vos scire rem,"
+},
+{
+"id": "556",
+"label": "Plaut. Poen. 556",
+"text": "expedite mihi quae vobis dudum dixi dicite."
+},
+{
+"id": "557",
+"label": "Plaut. Poen. 557",
+"text": "Itane? temptas an sciamus? non meminisse nos ratu's ratus es ,"
+},
+{
+"id": "558",
+"label": "Plaut. Poen. 558",
+"text": "quo modo trecentos Philippos Collybisco vilico"
+},
+{
+"id": "559",
+"label": "Plaut. Poen. 559",
+"text": "dederis, quos deferret huc ad lenonem inimicum tuom,"
+},
+{
+"id": "560",
+"label": "Plaut. Poen. 560",
+"text": "sé ut assimularet peregrinum esse aliunde ex alio oppido?"
+},
+{
+"id": "561",
+"label": "Plaut. Poen. 561",
+"text": "ubi is detulerit, tu eo quaesitum servom advenies tuom"
+},
+{
+"id": "562",
+"label": "Plaut. Poen. 562",
+"text": "cum pecunia."
+},
+{
+"id": "562b",
+"label": "Plaut. Poen. 562b",
+"text": "Meministis memoriter, servastis me."
+},
+{
+"id": "563",
+"label": "Plaut. Poen. 563",
+"text": "Ille negabit: Milphionem quaeri censebit tuom;"
+},
+{
+"id": "564",
+"label": "Plaut. Poen. 564",
+"text": "id duplicabit omne furtum. leno addicetur tibi."
+},
+{
+"id": "565",
+"label": "Plaut. Poen. 565",
+"text": "ad eam rem nos esse testis vis tibi."
+},
+{
+"id": "565b",
+"label": "Plaut. Poen. 565b",
+"text": "Tenetis rem."
+},
+{
+"id": "566",
+"label": "Plaut. Poen. 566",
+"text": "Vix quidem hercle, íta pauxilla est, digitulis primoribus."
+},
+{
+"id": "574b",
+"label": "Plaut. Poen. 574b",
+"text": "Callemus probe:"
+},
+{
+"id": "576",
+"label": "Plaut. Poen. 576",
+"text": "euge, opportune egrediuntur Milphio una et vilicus."
+},
+{
+"id": "577",
+"label": "Plaut. Poen. 577",
+"text": "basilice exornatus incedit et fabre ad fallaciam."
+},
+{
+"id": "578",
+"label": "Plaut. Poen. 578",
+"text": "Iam tenes praecepta in corde?"
+},
+{
+"id": "578b",
+"label": "Plaut. Poen. 578b",
+"text": "Pulchre."
+},
+{
+"id": "578c",
+"label": "Plaut. Poen. 578c",
+"text": "Vide sis calleas."
+},
+{
+"id": "579",
+"label": "Plaut. Poen. 579",
+"text": "Quid opust verbis? callum aprugnum callere aeque non sinam."
+},
+{
+"id": "580",
+"label": "Plaut. Poen. 580",
+"text": "Fac modo ut condocta tibi sint dicta ad hanc fallaciam."
+},
+{
+"id": "581",
+"label": "Plaut. Poen. 581",
+"text": "Quin edepol condoctior sum, quam tragoedi aut comici."
+},
+{
+"id": "582",
+"label": "Plaut. Poen. 582",
+"text": "Probus homost."
+},
+{
+"id": "582b",
+"label": "Plaut. Poen. 582b",
+"text": "Adeamus propius."
+},
+{
+"id": "582c",
+"label": "Plaut. Poen. 582c",
+"text": "Adsunt testes?"
+},
+{
+"id": "582d",
+"label": "Plaut. Poen. 582d",
+"text": "Tot quidem."
+},
+{
+"id": "583",
+"label": "Plaut. Poen. 583",
+"text": "Non potuisti adducere homines magis ad hanc rem idoneos."
+},
+{
+"id": "584",
+"label": "Plaut. Poen. 584",
+"text": "nam istorum nullus nefastust: comitiales sunt meri;"
+},
+{
+"id": "585",
+"label": "Plaut. Poen. 585",
+"text": "ibi habitant, ibi eos conspicias quam praetorem saepius."
+},
+{
+"id": "586",
+"label": "Plaut. Poen. 586",
+"text": "hodie iuris coctiores non sunt qui lites creant,"
+},
+{
+"id": "587",
+"label": "Plaut. Poen. 587",
+"text": "quam hi sunt, qui si nihil est quicum litigent, lites emunt."
+},
+{
+"id": "588",
+"label": "Plaut. Poen. 588",
+"text": "Di te perdant."
+},
+{
+"id": "588b",
+"label": "Plaut. Poen. 588b",
+"text": "Vos quidem hercle—cum eo cum quiqui tamen"
+},
+{
+"id": "589",
+"label": "Plaut. Poen. 589",
+"text": "et bene et benigne facitis, quóm ero amanti operam datis."
+},
+{
+"id": "590",
+"label": "Plaut. Poen. 590",
+"text": "sed isti iam sciunt, negoti quid sit?"
+},
+{
+"id": "590b",
+"label": "Plaut. Poen. 590b",
+"text": "Omne in ordine."
+},
+{
+"id": "591",
+"label": "Plaut. Poen. 591",
+"text": "Tum vos animum advortite igitur. hunc vos lenonem Lycum"
+},
+{
+"id": "592",
+"label": "Plaut. Poen. 592",
+"text": "novistis?"
+},
+{
+"id": "592b",
+"label": "Plaut. Poen. 592b",
+"text": "Facile."
+},
+{
+"id": "592c",
+"label": "Plaut. Poen. 592c",
+"text": "At pol ego eum, qua sit facie, nescio."
+},
+{
+"id": "593",
+"label": "Plaut. Poen. 593",
+"text": "eum mihi volo demonstretis hominem."
+},
+{
+"id": "593b",
+"label": "Plaut. Poen. 593b",
+"text": "Nos curabimus."
+},
+{
+"id": "594",
+"label": "Plaut. Poen. 594",
+"text": "satis praeceptumst."
+},
+{
+"id": "594b",
+"label": "Plaut. Poen. 594b",
+"text": "Hic trecentos nummos numeratos habet."
+},
+{
+"id": "595",
+"label": "Plaut. Poen. 595",
+"text": "Ergo nos inspicere oportet istuc aurum, Agorastocles,"
+},
+{
+"id": "596",
+"label": "Plaut. Poen. 596",
+"text": "ut sciamus quid dicamus mox pro testimonio."
+},
+{
+"id": "597",
+"label": "Plaut. Poen. 597",
+"text": "Agite, inspicite."
+},
+{
+"id": "597b",
+"label": "Plaut. Poen. 597b",
+"text": "Aurum est profecto hoc, spectatores, comicum:"
+},
+{
+"id": "598",
+"label": "Plaut. Poen. 598",
+"text": "macerato hoc pingues fiunt auro in barbaria boves;"
+},
+{
+"id": "599",
+"label": "Plaut. Poen. 599",
+"text": "verum ad hanc rem agundam Philippum est: ita nos adsimulabimus."
+},
+{
+"id": "600",
+"label": "Plaut. Poen. 600",
+"text": "Sed ita adsimulatote quasi ego sim peregrinus."
+},
+{
+"id": "600b",
+"label": "Plaut. Poen. 600b",
+"text": "Scilicet,"
+},
+{
+"id": "601",
+"label": "Plaut. Poen. 601",
+"text": "et quidem quasi tu nobiscum adveniens hodie oraveris,"
+},
+{
+"id": "602",
+"label": "Plaut. Poen. 602",
+"text": "liberum ut commostraremus tibi locum et voluptarium,"
+},
+{
+"id": "603",
+"label": "Plaut. Poen. 603",
+"text": "ubi ames, potes, pergraecere."
+},
+{
+"id": "603b",
+"label": "Plaut. Poen. 603b",
+"text": "Eu, edepol mortales malos."
+},
+{
+"id": "604",
+"label": "Plaut. Poen. 604",
+"text": "Ego enim docui."
+},
+{
+"id": "604b",
+"label": "Plaut. Poen. 604b",
+"text": "Quis te porro?"
+},
+{
+"id": "604c",
+"label": "Plaut. Poen. 604c",
+"text": "Agite intro abite, Agorastocles,"
+},
+{
+"id": "605",
+"label": "Plaut. Poen. 605",
+"text": "ne hic vos mecum conspicetur leno neu fallaciae"
+},
+{
+"id": "606",
+"label": "Plaut. Poen. 606",
+"text": "praepedimentum obiciatur."
+},
+{
+"id": "606b",
+"label": "Plaut. Poen. 606b",
+"text": "Hic homo sapienter sapit."
+},
+{
+"id": "607",
+"label": "Plaut. Poen. 607",
+"text": "facite quod iubet."
+},
+{
+"id": "607b",
+"label": "Plaut. Poen. 607b",
+"text": "Abeamus. sed vos—"
+},
+{
+"id": "607c",
+"label": "Plaut. Poen. 607c",
+"text": "Satis dictumst. abi."
+},
+{
+"id": "608",
+"label": "Plaut. Poen. 608",
+"text": "Abeo."
+},
+{
+"id": "608b",
+"label": "Plaut. Poen. 608b",
+"text": "Quaeso, di immortales, quin abis?"
+},
+{
+"id": "608c",
+"label": "Plaut. Poen. 608c",
+"text": "Abeo.—"
+},
+{
+"id": "608d",
+"label": "Plaut. Poen. 608d",
+"text": "Sapis."
+},
+{
+"id": "608a",
+"label": "Plaut. Poen. 608a",
+"text": "St,"
+},
+{
+"id": "609",
+"label": "Plaut. Poen. 609",
+"text": "tace."
+},
+{
+"id": "609b",
+"label": "Plaut. Poen. 609b",
+"text": "Quid est?"
+},
+{
+"id": "609c",
+"label": "Plaut. Poen. 609c",
+"text": "Fores haé fecerunt magnum flagitium modo."
+},
+{
+"id": "610",
+"label": "Plaut. Poen. 610",
+"text": "Quid id est flagiti?"
+},
+{
+"id": "610b",
+"label": "Plaut. Poen. 610b",
+"text": "Crepuerunt clare."
+},
+{
+"id": "610c",
+"label": "Plaut. Poen. 610c",
+"text": "Di te perduint."
+},
+{
+"id": "611",
+"label": "Plaut. Poen. 611",
+"text": "pone nos recede."
+},
+{
+"id": "611b",
+"label": "Plaut. Poen. 611b",
+"text": "Fiat."
+},
+{
+"id": "611c",
+"label": "Plaut. Poen. 611c",
+"text": "Nos priores ibimus."
+},
+{
+"id": "612",
+"label": "Plaut. Poen. 612",
+"text": "Faciunt scurrae quod consuerunt: pone sese homines locant."
+},
+{
+"id": "613",
+"label": "Plaut. Poen. 613",
+"text": "Illic homo est, qui egreditur, leno."
+},
+{
+"id": "613b",
+"label": "Plaut. Poen. 613b",
+"text": "Bonus est, nam similis malist."
+},
+{
+"id": "614",
+"label": "Plaut. Poen. 614",
+"text": "iam nunc ego illi égredienti sanguinem exsugam procul."
+},
+{
+"id": "615",
+"label": "Plaut. Poen. 615",
+"text": "Iam ego istúc revortar, miles: convivas volo"
+},
+{
+"id": "616",
+"label": "Plaut. Poen. 616",
+"text": "reperire nobis commodos, qui una sient;"
+},
+{
+"id": "617",
+"label": "Plaut. Poen. 617",
+"text": "interibi attulerint exta, atque eádem mulieres"
+},
+{
+"id": "618",
+"label": "Plaut. Poen. 618",
+"text": "iam ab re divina credo apparebunt domi."
+},
+{
+"id": "619",
+"label": "Plaut. Poen. 619",
+"text": "sed quid huc tantum hominum incedunt? ecquidnam adferunt?"
+},
+{
+"id": "620",
+"label": "Plaut. Poen. 620",
+"text": "et illé chlamydatus quisnam est, qui sequitur procul?"
+},
+{
+"id": "621",
+"label": "Plaut. Poen. 621",
+"text": "Aetoli cives te salutamus, Lyce,"
+},
+{
+"id": "622",
+"label": "Plaut. Poen. 622",
+"text": "quamquam hanc salutem ferimus inviti tibi."
+},
+{
+"id": "623",
+"label": "Plaut. Poen. 623",
+"text": "Fortunati omnes sitis, quod certo scio"
+},
+{
+"id": "624",
+"label": "Plaut. Poen. 624",
+"text": "nec fore nec fortunam id situram fieri."
+},
+{
+"id": "625",
+"label": "Plaut. Poen. 625",
+"text": "Istic ést thensaurus stultis in lingua situs,"
+},
+{
+"id": "626",
+"label": "Plaut. Poen. 626",
+"text": "ut quaestui habeant male loqui melioribus."
+},
+{
+"id": "627",
+"label": "Plaut. Poen. 627",
+"text": "Viam qui nescit, qua deveniat ad mare,"
+},
+{
+"id": "628",
+"label": "Plaut. Poen. 628",
+"text": "eum oportet amnem quaerere comitem sibi."
+},
+{
+"id": "629",
+"label": "Plaut. Poen. 629",
+"text": "ego male loquendi vobis nescivi viam:"
+},
+{
+"id": "630",
+"label": "Plaut. Poen. 630",
+"text": "nunc vos mihi amnes estis; vos certum est sequi:"
+},
+{
+"id": "631",
+"label": "Plaut. Poen. 631",
+"text": "si bene dicetis, vostra ripa vos sequar,"
+},
+{
+"id": "632",
+"label": "Plaut. Poen. 632",
+"text": "si male dicetis, vostro gradiar limite."
+},
+{
+"id": "633",
+"label": "Plaut. Poen. 633",
+"text": "Malo bene facere tantundemst periculum"
+},
+{
+"id": "634",
+"label": "Plaut. Poen. 634",
+"text": "quantum bono male facere."
+},
+{
+"id": "634b",
+"label": "Plaut. Poen. 634b",
+"text": "Qui vero?"
+},
+{
+"id": "634c",
+"label": "Plaut. Poen. 634c",
+"text": "Scies."
+},
+{
+"id": "635",
+"label": "Plaut. Poen. 635",
+"text": "malo si quid bene facias, beneficium interit;"
+},
+{
+"id": "636",
+"label": "Plaut. Poen. 636",
+"text": "bono si quid male facias, aetatem expetit."
+},
+{
+"id": "637",
+"label": "Plaut. Poen. 637",
+"text": "Facete dictum. sed quid istúc ad me attinet?"
+},
+{
+"id": "638",
+"label": "Plaut. Poen. 638",
+"text": "Quia nos honoris tui causa ad te venimus,"
+},
+{
+"id": "639",
+"label": "Plaut. Poen. 639",
+"text": "quamquam bene volumus leniter lenonibus."
+},
+{
+"id": "640",
+"label": "Plaut. Poen. 640",
+"text": "Si quid boni adportatis, habeo gratiam."
+},
+{
+"id": "641",
+"label": "Plaut. Poen. 641",
+"text": "Boni de nostro tibi nec ferimus nec damus"
+},
+{
+"id": "642",
+"label": "Plaut. Poen. 642",
+"text": "neque pollicemur, neque adeo volumus datum."
+},
+{
+"id": "643",
+"label": "Plaut. Poen. 643",
+"text": "Credo hercle vobis: ita vestra est benignitas."
+},
+{
+"id": "644",
+"label": "Plaut. Poen. 644",
+"text": "sed quid nunc voltis?"
+},
+{
+"id": "644b",
+"label": "Plaut. Poen. 644b",
+"text": "Hunc chlamydatum quem vides,"
+},
+{
+"id": "645",
+"label": "Plaut. Poen. 645",
+"text": "ei Mars iratust."
+},
+{
+"id": "645b",
+"label": "Plaut. Poen. 645b",
+"text": "Capiti vestro istuc quidem."
+},
+{
+"id": "646",
+"label": "Plaut. Poen. 646",
+"text": "Nunc hunc, Lyce, ad te diripiundum adducimus."
+},
+{
+"id": "647",
+"label": "Plaut. Poen. 647",
+"text": "Cum praeda hic hodie incedet venator domum:"
+},
+{
+"id": "648",
+"label": "Plaut. Poen. 648",
+"text": "canes compellunt in plagas lepide lupum."
+},
+{
+"id": "649",
+"label": "Plaut. Poen. 649",
+"text": "Quis hic est?"
+},
+{
+"id": "649b",
+"label": "Plaut. Poen. 649b",
+"text": "Nescimus nos quidem istum qui siet;"
+},
+{
+"id": "650",
+"label": "Plaut. Poen. 650",
+"text": "nisi dudum mane ut ad portum processimus,"
+},
+{
+"id": "651",
+"label": "Plaut. Poen. 651",
+"text": "atque istum e navi éxeuntem oneraria"
+},
+{
+"id": "652",
+"label": "Plaut. Poen. 652",
+"text": "videmus. adiit ad nos extemplo exiens;"
+},
+{
+"id": "653",
+"label": "Plaut. Poen. 653",
+"text": "salutat, respondemus."
+},
+{
+"id": "653b",
+"label": "Plaut. Poen. 653b",
+"text": "Mortalis malos,"
+},
+{
+"id": "654",
+"label": "Plaut. Poen. 654",
+"text": "ut ingrediuntur docte in sycophantiam."
+},
+{
+"id": "655",
+"label": "Plaut. Poen. 655",
+"text": "Quid deinde?"
+},
+{
+"id": "655b",
+"label": "Plaut. Poen. 655b",
+"text": "Sermonem ibi nobiscum copulat."
+},
+{
+"id": "656",
+"label": "Plaut. Poen. 656",
+"text": "ait sé peregrinum esse huius ignarum oppidi;"
+},
+{
+"id": "657",
+"label": "Plaut. Poen. 657",
+"text": "locum sibi velle liberum praeberier,"
+},
+{
+"id": "658",
+"label": "Plaut. Poen. 658",
+"text": "ubi nequam faciat. nos hominem ad te adduximus."
+},
+{
+"id": "659",
+"label": "Plaut. Poen. 659",
+"text": "tu si te di amant, agere tuam rem occasiost."
+},
+{
+"id": "660",
+"label": "Plaut. Poen. 660",
+"text": "Itane?"
+},
+{
+"id": "660b",
+"label": "Plaut. Poen. 660b",
+"text": "Ille est cupiens, aurum habet."
+},
+{
+"id": "660c",
+"label": "Plaut. Poen. 660c",
+"text": "Praeda haec meast."
+},
+{
+"id": "661",
+"label": "Plaut. Poen. 661",
+"text": "Potare, amare volt."
+},
+{
+"id": "661b",
+"label": "Plaut. Poen. 661b",
+"text": "Locum lepidum dabo."
+},
+{
+"id": "662",
+"label": "Plaut. Poen. 662",
+"text": "At enim hic clam furtim ésse volt, ne quis sciat"
+},
+{
+"id": "663",
+"label": "Plaut. Poen. 663",
+"text": "neve arbiter sit. nam hic latro in Sparta fuit,"
+},
+{
+"id": "664",
+"label": "Plaut. Poen. 664",
+"text": "ut quidem ipse nobis dixit, apud regem Attalum;"
+},
+{
+"id": "665",
+"label": "Plaut. Poen. 665",
+"text": "inde huc aufugit, quoniam capitur oppidum."
+},
+{
+"id": "666",
+"label": "Plaut. Poen. 666",
+"text": "Nimis lépide de latrone, de Sparta optume."
+},
+{
+"id": "667",
+"label": "Plaut. Poen. 667",
+"text": "Di deaeque vobis multa bona dent, quom mihi"
+},
+{
+"id": "668",
+"label": "Plaut. Poen. 668",
+"text": "et bene praecipitis et bonam praedam datis."
+},
+{
+"id": "669",
+"label": "Plaut. Poen. 669",
+"text": "Immo ut ipse nobis dixit, quo accures magis,"
+},
+{
+"id": "670",
+"label": "Plaut. Poen. 670",
+"text": "trecentos nummos Philippos portat praesidi."
+},
+{
+"id": "671",
+"label": "Plaut. Poen. 671",
+"text": "Rex sum, si ego illum hodie ad me hominem adlexero."
+},
+{
+"id": "672",
+"label": "Plaut. Poen. 672",
+"text": "Quin hic quidem tuos est."
+},
+{
+"id": "672b",
+"label": "Plaut. Poen. 672b",
+"text": "Opsecro hercle hortamini,"
+},
+{
+"id": "673",
+"label": "Plaut. Poen. 673",
+"text": "ut devortatur ad me in hospitium optumum."
+},
+{
+"id": "674",
+"label": "Plaut. Poen. 674",
+"text": "Neque nos hortari neque dehortari decet"
+},
+{
+"id": "675",
+"label": "Plaut. Poen. 675",
+"text": "hominem peregrinum: tuam rem tú ages, si sapis."
+},
+{
+"id": "676",
+"label": "Plaut. Poen. 676",
+"text": "nos tibi palumbem ad aream usque adduximus:"
+},
+{
+"id": "677",
+"label": "Plaut. Poen. 677",
+"text": "nunc te illum meliust capere, si captum esse vis."
+},
+{
+"id": "678",
+"label": "Plaut. Poen. 678",
+"text": "Iamne itis? quid quod vobis mandavi, hospites?"
+},
+{
+"id": "679",
+"label": "Plaut. Poen. 679",
+"text": "Cum illoc te meliust tuam rem, ádulescens, loqui:"
+},
+{
+"id": "680",
+"label": "Plaut. Poen. 680",
+"text": "illic ést ad istas res probus, quas quaeritas."
+},
+{
+"id": "681",
+"label": "Plaut. Poen. 681",
+"text": "Videre equidem vos vellem, quom huic aurum darem."
+},
+{
+"id": "682",
+"label": "Plaut. Poen. 682",
+"text": "Illinc procul nos istuc inspectabimus."
+},
+{
+"id": "683",
+"label": "Plaut. Poen. 683",
+"text": "Bonam dedistis mihi operam."
+},
+{
+"id": "683b",
+"label": "Plaut. Poen. 683b",
+"text": "It ad me lucrum."
+},
+{
+"id": "684",
+"label": "Plaut. Poen. 684",
+"text": "Illud quidem quorsum asinus caedit calcibus."
+},
+{
+"id": "685",
+"label": "Plaut. Poen. 685",
+"text": "Blande hominem compellabo. hóspes hospitem"
+},
+{
+"id": "686",
+"label": "Plaut. Poen. 686",
+"text": "salutat. salvom te advenire gaudeo."
+},
+{
+"id": "687",
+"label": "Plaut. Poen. 687",
+"text": "Multa tibi di dent bona, quom me salvom esse vis."
+},
+{
+"id": "688",
+"label": "Plaut. Poen. 688",
+"text": "Hospitium te aiunt quaeritare."
+},
+{
+"id": "688b",
+"label": "Plaut. Poen. 688b",
+"text": "Quaerito."
+},
+{
+"id": "689",
+"label": "Plaut. Poen. 689",
+"text": "Ita illí dixerunt, qui hinc a me abierunt modo,"
+},
+{
+"id": "690",
+"label": "Plaut. Poen. 690",
+"text": "te quaeritare a muscis."
+},
+{
+"id": "690b",
+"label": "Plaut. Poen. 690b",
+"text": "Minime gentium."
+},
+{
+"id": "691",
+"label": "Plaut. Poen. 691",
+"text": "Quid itá?"
+},
+{
+"id": "691b",
+"label": "Plaut. Poen. 691b",
+"text": "Quia a muscis si mi hospitium quaererem,"
+},
+{
+"id": "692",
+"label": "Plaut. Poen. 692",
+"text": "adveniens irem in carcerem recta via."
+},
+{
+"id": "693",
+"label": "Plaut. Poen. 693",
+"text": "ego id quaero hospitium, ubi ego curer mollius,"
+},
+{
+"id": "694",
+"label": "Plaut. Poen. 694",
+"text": "quam regi Antiocho óculi curari solent."
+},
+{
+"id": "695",
+"label": "Plaut. Poen. 695",
+"text": "Edepol ne tibi illud possum festivom dare,"
+},
+{
+"id": "696",
+"label": "Plaut. Poen. 696",
+"text": "siquidém potes ésse te pati in lepido loco,"
+},
+{
+"id": "697",
+"label": "Plaut. Poen. 697",
+"text": "in lecto lepide strato lepidam mulierem"
+},
+{
+"id": "698",
+"label": "Plaut. Poen. 698",
+"text": "complexum contrectare."
+},
+{
+"id": "698b",
+"label": "Plaut. Poen. 698b",
+"text": "Is, leno, viam."
+},
+{
+"id": "699",
+"label": "Plaut. Poen. 699",
+"text": "Vbi tu Leucadio, Lesbio, Thasio, Chio,"
+},
+{
+"id": "700",
+"label": "Plaut. Poen. 700",
+"text": "vetustáte vino edentulo aetatem inriges;"
+},
+{
+"id": "701",
+"label": "Plaut. Poen. 701",
+"text": "ibi ego te replebo usque unguentum geumatis,"
+},
+{
+"id": "702",
+"label": "Plaut. Poen. 702",
+"text": "quid multa verba? faciam, ubi tu laveris,"
+},
+{
+"id": "703",
+"label": "Plaut. Poen. 703",
+"text": "ibi ut bálneator faciat unguentariam."
+},
+{
+"id": "704",
+"label": "Plaut. Poen. 704",
+"text": "sed haec latrocinantur, quae ego dixi, omnia."
+},
+{
+"id": "705",
+"label": "Plaut. Poen. 705",
+"text": "Quid itá?"
+},
+{
+"id": "705b",
+"label": "Plaut. Poen. 705b",
+"text": "Quia aurum poscunt praesentarium."
+},
+{
+"id": "706",
+"label": "Plaut. Poen. 706",
+"text": "Quin hercle accipere tu non mavis quam ego dare."
+},
+{
+"id": "707",
+"label": "Plaut. Poen. 707",
+"text": "Quid si evocemus huc foras Agorastoclem,"
+},
+{
+"id": "708",
+"label": "Plaut. Poen. 708",
+"text": "ut ipsus testis sit sibi certissumus?"
+},
+{
+"id": "709",
+"label": "Plaut. Poen. 709",
+"text": "heus tu, qui furem captas, egredere ocius,"
+},
+{
+"id": "710",
+"label": "Plaut. Poen. 710",
+"text": "ut tute inspectes aurum lenoni dari."
+},
+{
+"id": "711",
+"label": "Plaut. Poen. 711",
+"text": "Quid est? quid voltis, testes?"
+},
+{
+"id": "711b",
+"label": "Plaut. Poen. 711b",
+"text": "Specta ad dexteram."
+},
+{
+"id": "712",
+"label": "Plaut. Poen. 712",
+"text": "tuos sérvos aurum ípsi lenoni dabit."
+},
+{
+"id": "713",
+"label": "Plaut. Poen. 713",
+"text": "Age, accipe hoc sis: hic sunt numerati aurei"
+},
+{
+"id": "714",
+"label": "Plaut. Poen. 714",
+"text": "trecenti nummi, qui vocantur Philippei."
+},
+{
+"id": "715",
+"label": "Plaut. Poen. 715",
+"text": "hinc me procura; propere hosce apsumi volo."
+},
+{
+"id": "716",
+"label": "Plaut. Poen. 716",
+"text": "Edepol fecisti prodigum promum tibi."
+},
+{
+"id": "717",
+"label": "Plaut. Poen. 717",
+"text": "age, eamus intro."
+},
+{
+"id": "717b",
+"label": "Plaut. Poen. 717b",
+"text": "Te sequor."
+},
+{
+"id": "717c",
+"label": "Plaut. Poen. 717c",
+"text": "Age, age, ambula,"
+},
+{
+"id": "718",
+"label": "Plaut. Poen. 718",
+"text": "ibí, quae reliqua, alia fabulabimur."
+},
+{
+"id": "719",
+"label": "Plaut. Poen. 719",
+"text": "Eadém narrabo tibi res Spartiaticas."
+},
+{
+"id": "720",
+"label": "Plaut. Poen. 720",
+"text": "Quin sequere me ergo.—"
+},
+{
+"id": "720b",
+"label": "Plaut. Poen. 720b",
+"text": "Abduc intro. addictum tenes.—"
+},
+{
+"id": "721",
+"label": "Plaut. Poen. 721",
+"text": "Quid nunc mi auctores estis?"
+},
+{
+"id": "721b",
+"label": "Plaut. Poen. 721b",
+"text": "Vt frugi sies."
+},
+{
+"id": "722",
+"label": "Plaut. Poen. 722",
+"text": "Quid si animus esse non sinit?"
+},
+{
+"id": "722b",
+"label": "Plaut. Poen. 722b",
+"text": "Esto ut sinit."
+},
+{
+"id": "723",
+"label": "Plaut. Poen. 723",
+"text": "Vidistis, leno quom aurum accepit?"
+},
+{
+"id": "723b",
+"label": "Plaut. Poen. 723b",
+"text": "Vidimus."
+},
+{
+"id": "724",
+"label": "Plaut. Poen. 724",
+"text": "Eum vos meum esse servom scitis?"
+},
+{
+"id": "724b",
+"label": "Plaut. Poen. 724b",
+"text": "Scivimus."
+},
+{
+"id": "725",
+"label": "Plaut. Poen. 725",
+"text": "Rem adversus populi saepe leges?"
+},
+{
+"id": "725b",
+"label": "Plaut. Poen. 725b",
+"text": "Scivimus."
+},
+{
+"id": "726",
+"label": "Plaut. Poen. 726",
+"text": "Em istaec volo ergo vos commeminisse omnia,"
+},
+{
+"id": "727",
+"label": "Plaut. Poen. 727",
+"text": "mox quom ad praetorem úsus veniet."
+},
+{
+"id": "727b",
+"label": "Plaut. Poen. 727b",
+"text": "Meminimus."
+},
+{
+"id": "728",
+"label": "Plaut. Poen. 728",
+"text": "Quid si recenti re aedis pultem?"
+},
+{
+"id": "728b",
+"label": "Plaut. Poen. 728b",
+"text": "Censeo."
+},
+{
+"id": "729",
+"label": "Plaut. Poen. 729",
+"text": "Si pultem, non recludet?"
+},
+{
+"id": "729b",
+"label": "Plaut. Poen. 729b",
+"text": "Panem frangito."
+},
+{
+"id": "730",
+"label": "Plaut. Poen. 730",
+"text": "Si exierit leno, quid tum? hominem interrogem,"
+},
+{
+"id": "731",
+"label": "Plaut. Poen. 731",
+"text": "meus sérvos ad eum veneritne?"
+},
+{
+"id": "731b",
+"label": "Plaut. Poen. 731b",
+"text": "Quippini?"
+},
+{
+"id": "733c",
+"label": "Plaut. Poen. 733c",
+"text": "Rogas?"
+},
+{
+"id": "736",
+"label": "Plaut. Poen. 736",
+"text": "Extemplo denegabit."
+},
+{
+"id": "736b",
+"label": "Plaut. Poen. 736b",
+"text": "Iuratus quidem."
+},
+{
+"id": "737",
+"label": "Plaut. Poen. 737",
+"text": "Homo fúrti sese adstringet."
+},
+{
+"id": "737b",
+"label": "Plaut. Poen. 737b",
+"text": "Hau dubium id quidemst."
+},
+{
+"id": "738",
+"label": "Plaut. Poen. 738",
+"text": "Quantum quantum ad eum erit delatum."
+},
+{
+"id": "738b",
+"label": "Plaut. Poen. 738b",
+"text": "Quippini?"
+},
+{
+"id": "739",
+"label": "Plaut. Poen. 739",
+"text": "Diespiter vos perduit."
+},
+{
+"id": "739b",
+"label": "Plaut. Poen. 739b",
+"text": "Te quippini?"
+},
+{
+"id": "740",
+"label": "Plaut. Poen. 740",
+"text": "Ibo et pultabo ianuam iam."
+},
+{
+"id": "740b",
+"label": "Plaut. Poen. 740b",
+"text": "Quippini?"
+},
+{
+"id": "741",
+"label": "Plaut. Poen. 741",
+"text": "Tacendi tempus est, nam crepuerunt fores."
+},
+{
+"id": "742",
+"label": "Plaut. Poen. 742",
+"text": "foras égrediri video lenonem Lycum."
+},
+{
+"id": "743",
+"label": "Plaut. Poen. 743",
+"text": "adeste quaeso."
+},
+{
+"id": "743b",
+"label": "Plaut. Poen. 743b",
+"text": "Quippini? † si voles"
+},
+{
+"id": "744",
+"label": "Plaut. Poen. 744",
+"text": "operire capita, ne nos leno noverit,"
+},
+{
+"id": "745",
+"label": "Plaut. Poen. 745",
+"text": "qui illi malae rei tantae fuimus inlices."
+},
+{
+"id": "746",
+"label": "Plaut. Poen. 746",
+"text": "Suspendant omnes nunciam se haruspices,"
+},
+{
+"id": "747",
+"label": "Plaut. Poen. 747",
+"text": "quam ego illis posthac quod loquantur creduam,"
+},
+{
+"id": "748",
+"label": "Plaut. Poen. 748",
+"text": "qui in re divina dudum dicebant mihi"
+},
+{
+"id": "749",
+"label": "Plaut. Poen. 749",
+"text": "malum damnumque maximum portendier:"
+},
+{
+"id": "750",
+"label": "Plaut. Poen. 750",
+"text": "is explicavi meam rem postilla lucro."
+},
+{
+"id": "751",
+"label": "Plaut. Poen. 751",
+"text": "Salvos sis, leno."
+},
+{
+"id": "751b",
+"label": "Plaut. Poen. 751b",
+"text": "Di te ament, Agorastocles."
+},
+{
+"id": "752",
+"label": "Plaut. Poen. 752",
+"text": "Magis mé benigne nunc salutas quam antidhac."
+},
+{
+"id": "753",
+"label": "Plaut. Poen. 753",
+"text": "Tranquillitas evenit, quasi navi in mari:"
+},
+{
+"id": "754",
+"label": "Plaut. Poen. 754",
+"text": "utquomque est ventus, exim velum vortitur."
+},
+{
+"id": "755",
+"label": "Plaut. Poen. 755",
+"text": "Valeant apud te quos volo; atque haud te volo."
+},
+{
+"id": "756",
+"label": "Plaut. Poen. 756",
+"text": "Valent ut postulatumst, verum non tibi."
+},
+{
+"id": "757",
+"label": "Plaut. Poen. 757",
+"text": "Mitte ad me, si audes, hodie Adelphasium tuam,"
+},
+{
+"id": "758",
+"label": "Plaut. Poen. 758",
+"text": "die fésto celebri nobilique Aphrodisiis."
+},
+{
+"id": "759",
+"label": "Plaut. Poen. 759",
+"text": "Calidum prandisti prandium hodie? dic mihi."
+},
+{
+"id": "760",
+"label": "Plaut. Poen. 760",
+"text": "Quid iam?"
+},
+{
+"id": "760b",
+"label": "Plaut. Poen. 760b",
+"text": "Quia os nunc frigefactas, quom rogas."
+},
+{
+"id": "761",
+"label": "Plaut. Poen. 761",
+"text": "Hoc age sis, leno. servom esse audivi meum"
+},
+{
+"id": "762",
+"label": "Plaut. Poen. 762",
+"text": "apud te."
+},
+{
+"id": "762b",
+"label": "Plaut. Poen. 762b",
+"text": "Apud me? numquam factum reperies."
+},
+{
+"id": "763",
+"label": "Plaut. Poen. 763",
+"text": "Mentire. nam ad te venit aurumque attulit."
+},
+{
+"id": "764",
+"label": "Plaut. Poen. 764",
+"text": "ita mihi renuntiatumst, quibus credo satis."
+},
+{
+"id": "765",
+"label": "Plaut. Poen. 765",
+"text": "Malus es, captatum me advenis cum testibus."
+},
+{
+"id": "766",
+"label": "Plaut. Poen. 766",
+"text": "tuorum apud me nemost nec quicquam tui."
+},
+{
+"id": "767",
+"label": "Plaut. Poen. 767",
+"text": "Mementote illud, advocati."
+},
+{
+"id": "767b",
+"label": "Plaut. Poen. 767b",
+"text": "Meminimus."
+},
+{
+"id": "768",
+"label": "Plaut. Poen. 768",
+"text": "Hahahae, iam teneo quid sit, perspexi modo."
+},
+{
+"id": "769",
+"label": "Plaut. Poen. 769",
+"text": "hi qui illum dudum conciliaverunt mihi"
+},
+{
+"id": "770",
+"label": "Plaut. Poen. 770",
+"text": "peregrinum Spartanum, id nunc his cerebrum uritur,"
+},
+{
+"id": "771",
+"label": "Plaut. Poen. 771",
+"text": "me esse hos trecentos Philippos facturum lucri."
+},
+{
+"id": "772",
+"label": "Plaut. Poen. 772",
+"text": "nunc hunc inimicum quía esse sciverunt mihi,"
+},
+{
+"id": "773",
+"label": "Plaut. Poen. 773",
+"text": "eum adlegarunt, suom qui servom diceret"
+},
+{
+"id": "774",
+"label": "Plaut. Poen. 774",
+"text": "cum auro esse apud me; compositast fallacia,"
+},
+{
+"id": "775",
+"label": "Plaut. Poen. 775",
+"text": "ut eo me privent atque inter se dividant."
+},
+{
+"id": "776",
+"label": "Plaut. Poen. 776",
+"text": "lupo agnum eripere postulant. nugas agunt."
+},
+{
+"id": "777",
+"label": "Plaut. Poen. 777",
+"text": "Negasne apud te esse aurum, nec servom meum?"
+},
+{
+"id": "778",
+"label": "Plaut. Poen. 778",
+"text": "Nego: et negando, si quid refert, ravio."
+},
+{
+"id": "779",
+"label": "Plaut. Poen. 779",
+"text": "Periisti, leno. nam istest huius vilicus"
+},
+{
+"id": "780",
+"label": "Plaut. Poen. 780",
+"text": "quem tibi nos esse Spartiatam diximus,"
+},
+{
+"id": "781",
+"label": "Plaut. Poen. 781",
+"text": "qui ad te trecentos Philippeos modo detulit."
+},
+{
+"id": "782",
+"label": "Plaut. Poen. 782",
+"text": "idque in istoc adeo aúrum inest marsuppio."
+},
+{
+"id": "783",
+"label": "Plaut. Poen. 783",
+"text": "Vae vostrae aetati."
+},
+{
+"id": "783b",
+"label": "Plaut. Poen. 783b",
+"text": "Id quidem in mundo est tuae."
+},
+{
+"id": "784",
+"label": "Plaut. Poen. 784",
+"text": "Age omitte actutum, furcifer, marsuppium:"
+},
+{
+"id": "785",
+"label": "Plaut. Poen. 785",
+"text": "manifesto fur es mihi. quaeso hercle, operam date,"
+},
+{
+"id": "786",
+"label": "Plaut. Poen. 786",
+"text": "dum me videatis servom ab hoc abducere.—"
+},
+{
+"id": "787",
+"label": "Plaut. Poen. 787",
+"text": "Nunc pol ego perii certo, haud arbitrario."
+},
+{
+"id": "788",
+"label": "Plaut. Poen. 788",
+"text": "consulto hoc factum est, mihi ut insidiae fierent."
+},
+{
+"id": "789",
+"label": "Plaut. Poen. 789",
+"text": "sed quid ego dubito fugere hinc in malam crucem,"
+},
+{
+"id": "790",
+"label": "Plaut. Poen. 790",
+"text": "prius quam hínc optorto collo ad praetorem trahor?"
+},
+{
+"id": "791",
+"label": "Plaut. Poen. 791",
+"text": "eheu, quom ego habui háriolos haruspices;"
+},
+{
+"id": "792",
+"label": "Plaut. Poen. 792",
+"text": "qui si quid bene promittunt, perspisso evenit,"
+},
+{
+"id": "793",
+"label": "Plaut. Poen. 793",
+"text": "id quod mali promittunt, praesentarium est."
+},
+{
+"id": "794",
+"label": "Plaut. Poen. 794",
+"text": "nunc ibo, amicos consulam, quo me modo"
+},
+{
+"id": "795",
+"label": "Plaut. Poen. 795",
+"text": "suspendere aequom censeant potissimum.—"
+},
+{
+"id": "796",
+"label": "Plaut. Poen. 796",
+"text": "Age tu progredere, ut videant te ire istinc foras."
+},
+{
+"id": "797",
+"label": "Plaut. Poen. 797",
+"text": "estne hic meus servos?"
+},
+{
+"id": "797b",
+"label": "Plaut. Poen. 797b",
+"text": "Sum hercle vero, Agorastocles."
+},
+{
+"id": "798",
+"label": "Plaut. Poen. 798",
+"text": "Quid nunc, sceleste leno?"
+},
+{
+"id": "798b",
+"label": "Plaut. Poen. 798b",
+"text": "Quicum litigas"
+},
+{
+"id": "799",
+"label": "Plaut. Poen. 799",
+"text": "apscessit."
+},
+{
+"id": "799b",
+"label": "Plaut. Poen. 799b",
+"text": "Vtinam hinc abierit malam crucem."
+},
+{
+"id": "800",
+"label": "Plaut. Poen. 800",
+"text": "Ita nos velle aequom est."
+},
+{
+"id": "800b",
+"label": "Plaut. Poen. 800b",
+"text": "Cras subscribam homini dicam."
+},
+{
+"id": "801",
+"label": "Plaut. Poen. 801",
+"text": "Numquid me?"
+},
+{
+"id": "801b",
+"label": "Plaut. Poen. 801b",
+"text": "Apscedas, sumas ornatum tuom."
+},
+{
+"id": "802",
+"label": "Plaut. Poen. 802",
+"text": "Non sum nequiquam miles factus; paululum"
+},
+{
+"id": "803",
+"label": "Plaut. Poen. 803",
+"text": "praedae intus feci: dum lenonis familia"
+},
+{
+"id": "804",
+"label": "Plaut. Poen. 804",
+"text": "dormitat, extis sum satur factus probe."
+},
+{
+"id": "805",
+"label": "Plaut. Poen. 805",
+"text": "abscedam hinc intro.—"
+},
+{
+"id": "805b",
+"label": "Plaut. Poen. 805b",
+"text": "Factum a vobis comiter."
+},
+{
+"id": "806",
+"label": "Plaut. Poen. 806",
+"text": "bonam dedistis, advocati, operam mihi."
+},
+{
+"id": "807",
+"label": "Plaut. Poen. 807",
+"text": "cras mane, quaeso, in comitio estote obviam."
+},
+{
+"id": "808",
+"label": "Plaut. Poen. 808",
+"text": "tu sequere me intro. vos valete.—"
+},
+{
+"id": "808b",
+"label": "Plaut. Poen. 808b",
+"text": "Et tu vale."
+},
+{
+"id": "809",
+"label": "Plaut. Poen. 809",
+"text": "iniuriam illic insignite postulat:"
+},
+{
+"id": "810",
+"label": "Plaut. Poen. 810",
+"text": "nostro servire nos sibi censet cibo."
+},
+{
+"id": "811",
+"label": "Plaut. Poen. 811",
+"text": "verum ita sunt isti nostri divites:"
+},
+{
+"id": "812",
+"label": "Plaut. Poen. 812",
+"text": "si quid bene facias, levior pluma est gratia,"
+},
+{
+"id": "813",
+"label": "Plaut. Poen. 813",
+"text": "si quid peccatumst, plumbeas iras gerunt."
+},
+{
+"id": "814",
+"label": "Plaut. Poen. 814",
+"text": "domos abeamus nostras, sultis, nunciam,"
+},
+{
+"id": "815",
+"label": "Plaut. Poen. 815",
+"text": "quando id, quoi rei operam dedimus, impetravimus,"
+},
+{
+"id": "816",
+"label": "Plaut. Poen. 816",
+"text": "ut perderemus corruptorem civium.—"
+},
+{
+"id": "817",
+"label": "Plaut. Poen. 817",
+"text": "Exspécto quo pactó meae techinaé processuraé sient."
+},
+{
+"id": "818",
+"label": "Plaut. Poen. 818",
+"text": "studeo hunc lenonem perdere, qui meum erum miserum macerat,"
+},
+{
+"id": "819",
+"label": "Plaut. Poen. 819",
+"text": "is me autem porro verberat, incursat pugnis, calcibus:"
+},
+{
+"id": "820",
+"label": "Plaut. Poen. 820",
+"text": "servire amanti miseria est, praesertim qui quod amat caret."
+},
+{
+"id": "821",
+"label": "Plaut. Poen. 821",
+"text": "attat, e fano recipere video se Syncerastum,"
+},
+{
+"id": "822",
+"label": "Plaut. Poen. 822",
+"text": "lenonis servom; quid habeat sermonis auscultabo."
+},
+{
+"id": "823",
+"label": "Plaut. Poen. 823",
+"text": "Sátis spectatum est, deos atque homines eius neglegere gratiam,"
+},
+{
+"id": "824",
+"label": "Plaut. Poen. 824",
+"text": "quoí hominí erus est consimilis velut ego habeo hunc huius modi."
+},
+{
+"id": "825",
+"label": "Plaut. Poen. 825",
+"text": "neque periurior neque peior alter usquam est gentium,"
+},
+{
+"id": "826",
+"label": "Plaut. Poen. 826",
+"text": "quám erus meus est, neque tam luteus neque tam caeno conlitus."
+},
+{
+"id": "827",
+"label": "Plaut. Poen. 827",
+"text": "ita me di ament, vel in lautumiis vel in pistrino mavelim"
+},
+{
+"id": "828",
+"label": "Plaut. Poen. 828",
+"text": "agere aetatem praepeditus latere forti ferreo,"
+},
+{
+"id": "829",
+"label": "Plaut. Poen. 829",
+"text": "quam ápud lenonem hunc servitutem colere. quid illuc est genus,"
+},
+{
+"id": "830",
+"label": "Plaut. Poen. 830",
+"text": "quae illic hominum corruptelae fiunt. di vostram fidem,"
+},
+{
+"id": "831",
+"label": "Plaut. Poen. 831",
+"text": "quodvis genus ibi hominum videas, quasi Acheruntem veneris,"
+},
+{
+"id": "832",
+"label": "Plaut. Poen. 832",
+"text": "equitem peditem, libertinum, furem an fugitivom velis,"
+},
+{
+"id": "833",
+"label": "Plaut. Poen. 833",
+"text": "verberatum, vinctum, addictum: quí habet quod det, utut homo est,"
+},
+{
+"id": "834",
+"label": "Plaut. Poen. 834",
+"text": "omnia genera recipiuntur; itaque in totis aedibus"
+},
+{
+"id": "835",
+"label": "Plaut. Poen. 835",
+"text": "tenebrae latebrae, bibitur estur quasi in popina, hau secus."
+},
+{
+"id": "836",
+"label": "Plaut. Poen. 836",
+"text": "ibi tu videas litteratas fictiles epistulas,"
+},
+{
+"id": "837",
+"label": "Plaut. Poen. 837",
+"text": "pice signatas, nomina insunt cubitum longis litteris:"
+},
+{
+"id": "838",
+"label": "Plaut. Poen. 838",
+"text": "ita vinariorum habemus nostrae dilectum domi."
+},
+{
+"id": "839",
+"label": "Plaut. Poen. 839",
+"text": "Omnia edepol mira sunt, nisi erus hunc heredem facit,"
+},
+{
+"id": "840",
+"label": "Plaut. Poen. 840",
+"text": "nam id quidem, illi, uti meditatur, verba faciet mortuo."
+},
+{
+"id": "841",
+"label": "Plaut. Poen. 841",
+"text": "et adire lubet hominem et autem nimis eum ausculto lubens."
+},
+{
+"id": "842",
+"label": "Plaut. Poen. 842",
+"text": "Haec quom hic video fieri, crucior: pretiis emptos maxumis,"
+},
+{
+"id": "843",
+"label": "Plaut. Poen. 843",
+"text": "apud nos expeculiatos servos fieri suis eris."
+},
+{
+"id": "844",
+"label": "Plaut. Poen. 844",
+"text": "sed ad postremum nihil apparet: male partum male disperit."
+},
+{
+"id": "845",
+"label": "Plaut. Poen. 845",
+"text": "Proinde habet orationem, quasi ipse sit frugi bonae,"
+},
+{
+"id": "846",
+"label": "Plaut. Poen. 846",
+"text": "qui ipsus hercle ignaviorem potis est facere Ignaviam."
+},
+{
+"id": "847",
+"label": "Plaut. Poen. 847",
+"text": "Nunc domum haec ab aede Veneris refero vasa, ubi hostiis"
+},
+{
+"id": "848",
+"label": "Plaut. Poen. 848",
+"text": "erus nequivit propitiare Venerem suo festo die."
+},
+{
+"id": "849",
+"label": "Plaut. Poen. 849",
+"text": "Lepidam Venerem."
+},
+{
+"id": "849b",
+"label": "Plaut. Poen. 849b",
+"text": "Nam meretrices nostrae primis hostiis"
+},
+{
+"id": "850",
+"label": "Plaut. Poen. 850",
+"text": "Venerem placavere extemplo."
+},
+{
+"id": "850b",
+"label": "Plaut. Poen. 850b",
+"text": "O lepidam Venerem denuo."
+},
+{
+"id": "851",
+"label": "Plaut. Poen. 851",
+"text": "Nunc domum ibo."
+},
+{
+"id": "851b",
+"label": "Plaut. Poen. 851b",
+"text": "Heus, Synceraste."
+},
+{
+"id": "851c",
+"label": "Plaut. Poen. 851c",
+"text": "Syncerastum qui vocat?"
+},
+{
+"id": "852",
+"label": "Plaut. Poen. 852",
+"text": "Tuos amicus."
+},
+{
+"id": "852b",
+"label": "Plaut. Poen. 852b",
+"text": "Haud amice facis, qui cum onere offers moram."
+},
+{
+"id": "853",
+"label": "Plaut. Poen. 853",
+"text": "At ob hanc moram tibi reddam operam úbi voles, ubi iusseris."
+},
+{
+"id": "854",
+"label": "Plaut. Poen. 854",
+"text": "habe rem pactam."
+},
+{
+"id": "854b",
+"label": "Plaut. Poen. 854b",
+"text": "Si futurumst, do tibi operam hanc."
+},
+{
+"id": "854c",
+"label": "Plaut. Poen. 854c",
+"text": "Quo modo?"
+},
+{
+"id": "855",
+"label": "Plaut. Poen. 855",
+"text": "Vt enim ubi mihi vapulandum sit, tu corium sufferas."
+},
+{
+"id": "856",
+"label": "Plaut. Poen. 856",
+"text": "apage, nesció quid viri sis."
+},
+{
+"id": "856b",
+"label": "Plaut. Poen. 856b",
+"text": "Malus sum."
+},
+{
+"id": "856c",
+"label": "Plaut. Poen. 856c",
+"text": "Tibi sis."
+},
+{
+"id": "856d",
+"label": "Plaut. Poen. 856d",
+"text": "Te volo."
+},
+{
+"id": "857",
+"label": "Plaut. Poen. 857",
+"text": "At onus urget."
+},
+{
+"id": "857b",
+"label": "Plaut. Poen. 857b",
+"text": "At tu appone et respice ad me."
+},
+{
+"id": "857c",
+"label": "Plaut. Poen. 857c",
+"text": "Fecero,"
+},
+{
+"id": "858",
+"label": "Plaut. Poen. 858",
+"text": "quamquam haud otiumst."
+},
+{
+"id": "858b",
+"label": "Plaut. Poen. 858b",
+"text": "Salvos sis, Synceraste."
+},
+{
+"id": "858c",
+"label": "Plaut. Poen. 858c",
+"text": "O Milphio,"
+},
+{
+"id": "859",
+"label": "Plaut. Poen. 859",
+"text": "di omnes deaeque ament."
+},
+{
+"id": "859b",
+"label": "Plaut. Poen. 859b",
+"text": "Quemnam hominem?"
+},
+{
+"id": "859c",
+"label": "Plaut. Poen. 859c",
+"text": "Nec te nec me, Milphio:"
+},
+{
+"id": "860",
+"label": "Plaut. Poen. 860",
+"text": "neque erum meum ádeo."
+},
+{
+"id": "860b",
+"label": "Plaut. Poen. 860b",
+"text": "Quém ament igitur?"
+},
+{
+"id": "860c",
+"label": "Plaut. Poen. 860c",
+"text": "Aliquem, dignus qui siet."
+},
+{
+"id": "861",
+"label": "Plaut. Poen. 861",
+"text": "nam nostrorum nemo dignust."
+},
+{
+"id": "861b",
+"label": "Plaut. Poen. 861b",
+"text": "Lepide loquere."
+},
+{
+"id": "861c",
+"label": "Plaut. Poen. 861c",
+"text": "Me decet."
+},
+{
+"id": "862",
+"label": "Plaut. Poen. 862",
+"text": "Quid agis?"
+},
+{
+"id": "862b",
+"label": "Plaut. Poen. 862b",
+"text": "Facio quod manufesti moechi haú ferme solent."
+},
+{
+"id": "863",
+"label": "Plaut. Poen. 863",
+"text": "Quid id est?"
+},
+{
+"id": "863b",
+"label": "Plaut. Poen. 863b",
+"text": "Refero vasa salva."
+},
+{
+"id": "863c",
+"label": "Plaut. Poen. 863c",
+"text": "Di te et tuom erum perduint."
+},
+{
+"id": "864",
+"label": "Plaut. Poen. 864",
+"text": "Me non perdent; illum ut perdant facere possum, si velim,"
+},
+{
+"id": "865",
+"label": "Plaut. Poen. 865",
+"text": "meum erum ut perdant, ni mihi metuam, Milphio."
+},
+{
+"id": "865b",
+"label": "Plaut. Poen. 865b",
+"text": "Quid id est? cedo."
+},
+{
+"id": "866",
+"label": "Plaut. Poen. 866",
+"text": "Malus es?"
+},
+{
+"id": "866b",
+"label": "Plaut. Poen. 866b",
+"text": "Malus sum."
+},
+{
+"id": "866c",
+"label": "Plaut. Poen. 866c",
+"text": "Male mihi est."
+},
+{
+"id": "866d",
+"label": "Plaut. Poen. 866d",
+"text": "Memora, num esse aliter decet?"
+},
+{
+"id": "867",
+"label": "Plaut. Poen. 867",
+"text": "quid est, quod male sit tibi, quoi domi sit quod edis quod ames adfatim,"
+},
+{
+"id": "868",
+"label": "Plaut. Poen. 868",
+"text": "neque triobolum ullum amicae das et ductas gratiis?"
+},
+{
+"id": "869",
+"label": "Plaut. Poen. 869",
+"text": "Diespiter me sic amabit,"
+},
+{
+"id": "869b",
+"label": "Plaut. Poen. 869b",
+"text": "Vt quidem edepol dignus es."
+},
+{
+"id": "870",
+"label": "Plaut. Poen. 870",
+"text": "Vt ego hanc familiam interire cupio."
+},
+{
+"id": "870b",
+"label": "Plaut. Poen. 870b",
+"text": "Adde operam, si cupis."
+},
+{
+"id": "871",
+"label": "Plaut. Poen. 871",
+"text": "Sine pennis volare hau facilest: meae alae pennas non habent."
+},
+{
+"id": "872",
+"label": "Plaut. Poen. 872",
+"text": "Nolito edepol devellisse: iam his duobus mensibus"
+},
+{
+"id": "873",
+"label": "Plaut. Poen. 873",
+"text": "volucres tibi erunt tuae hirquinae."
+},
+{
+"id": "873b",
+"label": "Plaut. Poen. 873b",
+"text": "I in malam rem."
+},
+{
+"id": "873c",
+"label": "Plaut. Poen. 873c",
+"text": "I tu atque erus."
+},
+{
+"id": "874",
+"label": "Plaut. Poen. 874",
+"text": "Verum. enim qui hómo eum norit, norit. cito homo pervorti potest."
+},
+{
+"id": "875",
+"label": "Plaut. Poen. 875",
+"text": "Quid iam?"
+},
+{
+"id": "875b",
+"label": "Plaut. Poen. 875b",
+"text": "Quasi tu tacitum habere quicquam potis sis."
+},
+{
+"id": "875c",
+"label": "Plaut. Poen. 875c",
+"text": "Rectius"
+},
+{
+"id": "876",
+"label": "Plaut. Poen. 876",
+"text": "tacitas tibi res sistam quam quod dictum est mutae mulieri."
+},
+{
+"id": "877",
+"label": "Plaut. Poen. 877",
+"text": "Animum inducam facile ut tibi istuc credam, ni te noverim."
+},
+{
+"id": "878",
+"label": "Plaut. Poen. 878",
+"text": "Crede audacter meo periclo."
+},
+{
+"id": "878b",
+"label": "Plaut. Poen. 878b",
+"text": "Male credam, et credam tamen."
+},
+{
+"id": "879",
+"label": "Plaut. Poen. 879",
+"text": "Scin tu erum tuom meo ero esse inimicum capitalem?"
+},
+{
+"id": "879b",
+"label": "Plaut. Poen. 879b",
+"text": "Scio."
+},
+{
+"id": "880",
+"label": "Plaut. Poen. 880",
+"text": "Propter amorem—"
+},
+{
+"id": "880b",
+"label": "Plaut. Poen. 880b",
+"text": "Omnem operam perdis."
+},
+{
+"id": "880c",
+"label": "Plaut. Poen. 880c",
+"text": "Quid iam?"
+},
+{
+"id": "880d",
+"label": "Plaut. Poen. 880d",
+"text": "Quia doctum doces."
+},
+{
+"id": "881",
+"label": "Plaut. Poen. 881",
+"text": "Quid ergo dubitas quin lubenter tuo ero meus quid possiet"
+},
+{
+"id": "882",
+"label": "Plaut. Poen. 882",
+"text": "facere faciat male, eius merito? tum autem si quid tu adiuvas,"
+},
+{
+"id": "883",
+"label": "Plaut. Poen. 883",
+"text": "eo facilius facere poterit."
+},
+{
+"id": "883b",
+"label": "Plaut. Poen. 883b",
+"text": "At ego hoc metuo, Milphio."
+},
+{
+"id": "884",
+"label": "Plaut. Poen. 884",
+"text": "Quid est quod metuas?"
+},
+{
+"id": "884b",
+"label": "Plaut. Poen. 884b",
+"text": "Dúm ero insidias paritem, ne me perduim."
+},
+{
+"id": "885",
+"label": "Plaut. Poen. 885",
+"text": "si erus meus me esse elocutum quoiquam mortali sciat,"
+},
+{
+"id": "886",
+"label": "Plaut. Poen. 886",
+"text": "continuo is me ex Syncerasto Crurifragium fecerit."
+},
+{
+"id": "887",
+"label": "Plaut. Poen. 887",
+"text": "Numquam edepol mortalis quisquam fiet e me certior,"
+},
+{
+"id": "888",
+"label": "Plaut. Poen. 888",
+"text": "nisi ero meo uni indicasso, atque ei quoque ut ne enuntiet"
+},
+{
+"id": "889",
+"label": "Plaut. Poen. 889",
+"text": "id esse facinus ex ted ortum."
+},
+{
+"id": "889b",
+"label": "Plaut. Poen. 889b",
+"text": "Male credam, et credam tamen."
+},
+{
+"id": "890",
+"label": "Plaut. Poen. 890",
+"text": "sed hoc tu tecum tacitum habeto."
+},
+{
+"id": "890b",
+"label": "Plaut. Poen. 890b",
+"text": "Fide non melius creditur."
+},
+{
+"id": "891",
+"label": "Plaut. Poen. 891",
+"text": "loquere (locus occasioque est) libere: hic soli sumus."
+},
+{
+"id": "892",
+"label": "Plaut. Poen. 892",
+"text": "Erus si tuos volt facere frugem, meum erum perdet."
+},
+{
+"id": "892b",
+"label": "Plaut. Poen. 892b",
+"text": "Qui id potest?"
+},
+{
+"id": "893",
+"label": "Plaut. Poen. 893",
+"text": "Facile."
+},
+{
+"id": "893b",
+"label": "Plaut. Poen. 893b",
+"text": "Fac ergo id facile noscam ego, ut ille possit noscere."
+},
+{
+"id": "894",
+"label": "Plaut. Poen. 894",
+"text": "Quia Adelphasium, quám erus deamat tuos, ingenuast."
+},
+{
+"id": "894b",
+"label": "Plaut. Poen. 894b",
+"text": "Quo modo?"
+},
+{
+"id": "895",
+"label": "Plaut. Poen. 895",
+"text": "Eodem quo soror illius altera Anterastilis."
+},
+{
+"id": "896",
+"label": "Plaut. Poen. 896",
+"text": "Cedo qui id credam."
+},
+{
+"id": "896b",
+"label": "Plaut. Poen. 896b",
+"text": "Quia illas emit in Anactorio parvolas"
+},
+{
+"id": "897",
+"label": "Plaut. Poen. 897",
+"text": "de praedone Siculo."
+},
+{
+"id": "897b",
+"label": "Plaut. Poen. 897b",
+"text": "Quanti?"
+},
+{
+"id": "897c",
+"label": "Plaut. Poen. 897c",
+"text": "Duodeviginti minis,"
+},
+{
+"id": "898",
+"label": "Plaut. Poen. 898",
+"text": "duas illas et Giddenenem nutricem earum tertiam."
+},
+{
+"id": "899",
+"label": "Plaut. Poen. 899",
+"text": "et ille qui eas vendebat dixit se furtivas vendere:"
+},
+{
+"id": "900",
+"label": "Plaut. Poen. 900",
+"text": "ingenuas Carthagine aibat esse."
+},
+{
+"id": "900b",
+"label": "Plaut. Poen. 900b",
+"text": "Di vostram fidem,"
+},
+{
+"id": "901",
+"label": "Plaut. Poen. 901",
+"text": "nimium lepidum memoras facinus. nam erus meus Agorastocles"
+},
+{
+"id": "902",
+"label": "Plaut. Poen. 902",
+"text": "ibidem gnatust, inde surptus fere sexennis, postibi"
+},
+{
+"id": "903",
+"label": "Plaut. Poen. 903",
+"text": "qui eum surrupuit huc devexit meoque ero eum hic vendidit."
+},
+{
+"id": "904",
+"label": "Plaut. Poen. 904",
+"text": "is in divitias homo adoptavit hunc, quom diem obiit suom."
+},
+{
+"id": "905",
+"label": "Plaut. Poen. 905",
+"text": "Omnia memoras quo id facilius fiat: manu eas adserat"
+},
+{
+"id": "906",
+"label": "Plaut. Poen. 906",
+"text": "suas popularis liberali causa."
+},
+{
+"id": "906b",
+"label": "Plaut. Poen. 906b",
+"text": "Tacitus tace modo."
+},
+{
+"id": "907",
+"label": "Plaut. Poen. 907",
+"text": "Profecto ad incitas lenonem rediget, si eas abduxerit."
+},
+{
+"id": "908",
+"label": "Plaut. Poen. 908",
+"text": "Quin prius disperibit faxo, quam unam calcem civerit."
+},
+{
+"id": "909",
+"label": "Plaut. Poen. 909",
+"text": "ita paratumst."
+},
+{
+"id": "909b",
+"label": "Plaut. Poen. 909b",
+"text": "Ita di faxint, ne apud lenonem hunc serviam."
+},
+{
+"id": "910",
+"label": "Plaut. Poen. 910",
+"text": "Hercle qui meus conlibertus faxo eris, si di volent."
+},
+{
+"id": "911",
+"label": "Plaut. Poen. 911",
+"text": "Ita di faxint. numquid aliud me morare, Milphio?"
+},
+{
+"id": "912",
+"label": "Plaut. Poen. 912",
+"text": "Valeas beneque ut tibi sit."
+},
+{
+"id": "912b",
+"label": "Plaut. Poen. 912b",
+"text": "Pol istuc tibi et tuost ero in manu."
+},
+{
+"id": "913",
+"label": "Plaut. Poen. 913",
+"text": "vale et haec cura clanculum ut sint dicta."
+},
+{
+"id": "913b",
+"label": "Plaut. Poen. 913b",
+"text": "Non dictumst. vale."
+},
+{
+"id": "914",
+"label": "Plaut. Poen. 914",
+"text": "At enim nihil est, nisi dum calet hoc agitur."
+},
+{
+"id": "914b",
+"label": "Plaut. Poen. 914b",
+"text": "Lepidu's lepidus es , quom mones."
+},
+{
+"id": "915",
+"label": "Plaut. Poen. 915",
+"text": "et ita hoc fiet."
+},
+{
+"id": "915b",
+"label": "Plaut. Poen. 915b",
+"text": "Proba materies data est, si probum adhibes fabrum."
+},
+{
+"id": "916",
+"label": "Plaut. Poen. 916",
+"text": "Potin ut taceas?"
+},
+{
+"id": "916b",
+"label": "Plaut. Poen. 916b",
+"text": "Taceo atque abeo.—"
+},
+{
+"id": "916c",
+"label": "Plaut. Poen. 916c",
+"text": "Mihi commoditatem creas."
+},
+{
+"id": "917",
+"label": "Plaut. Poen. 917",
+"text": "illic hinc abiit. di immortales meum erum servatum volunt"
+},
+{
+"id": "918",
+"label": "Plaut. Poen. 918",
+"text": "et hunc disperditum lenonem: tantum eum instat exiti."
+},
+{
+"id": "919",
+"label": "Plaut. Poen. 919",
+"text": "satine prius quam unumst iniectum telum, iam instat alterum?"
+},
+{
+"id": "920",
+"label": "Plaut. Poen. 920",
+"text": "ibo intro, haec ut meo ero memorem. nam huc si ante aedes evocem,"
+},
+{
+"id": "921",
+"label": "Plaut. Poen. 921",
+"text": "quae audivistis modo, nunc si eadem híc iterum iterem, inscitiast."
+},
+{
+"id": "922",
+"label": "Plaut. Poen. 922",
+"text": "uni potius intus ero odio, quam hic sim vobis omnibus.—"
+},
+{
+"id": "930",
+"label": "Plaut. Poen. 930",
+"text": "Yth alonim ualonuth sicorathi symacom syth"
+},
+{
+"id": "931",
+"label": "Plaut. Poen. 931",
+"text": "chy mlachthi in ythmum ysthyalm ych-ibarcu mysehi"
+},
+{
+"id": "932",
+"label": "Plaut. Poen. 932",
+"text": "li pho caneth yth bynuthi uad edin byn ui"
+},
+{
+"id": "933",
+"label": "Plaut. Poen. 933",
+"text": "bymarob syllohom alonim ubymysyrthohom"
+},
+{
+"id": "934",
+"label": "Plaut. Poen. 934",
+"text": "byth limmoth ynnocho thuulech-antidamas chon"
+},
+{
+"id": "935",
+"label": "Plaut. Poen. 935",
+"text": "ys sidobrim chi fel yth chyl is chon chen liful"
+},
+{
+"id": "936",
+"label": "Plaut. Poen. 936",
+"text": "yth binim ys dybur ch-innocho-tnu agorastocles"
+},
+{
+"id": "937",
+"label": "Plaut. Poen. 937",
+"text": "yth emanethi hy chirs aelichot sithi nasot"
+},
+{
+"id": "938",
+"label": "Plaut. Poen. 938",
+"text": "bynu yid ch-illuch ily gubulim lasibithim"
+},
+{
+"id": "939",
+"label": "Plaut. Poen. 939",
+"text": "bodi aly thera ynnynu yslym min cho-th iusim"
+},
+{
+"id": "940",
+"label": "Plaut. Poen. 940",
+"text": "Ythalonimualoniuthsicorathiisthymhimihymacomsyth"
+},
+{
+"id": "941",
+"label": "Plaut. Poen. 941",
+"text": "combaepumamitalmetlotiambeat"
+},
+{
+"id": "942",
+"label": "Plaut. Poen. 942",
+"text": "iulecantheconaalonimbalumbar dechor"
+},
+{
+"id": "943",
+"label": "Plaut. Poen. 943",
+"text": "bats hunesobinesubicsillimbalim"
+},
+{
+"id": "944",
+"label": "Plaut. Poen. 944",
+"text": "esseantidamossonalemuedubertefet"
+},
+{
+"id": "945",
+"label": "Plaut. Poen. 945",
+"text": "donobun.huneccilthumucommucroluful"
+},
+{
+"id": "946",
+"label": "Plaut. Poen. 946",
+"text": "altanimauosduberithemhuarcharistolem"
+},
+{
+"id": "947",
+"label": "Plaut. Poen. 947",
+"text": "sittesedanecnasotersahelicot"
+},
+{
+"id": "948",
+"label": "Plaut. Poen. 948",
+"text": "alemusdubertimurmucopsuistiti"
+},
+{
+"id": "949",
+"label": "Plaut. Poen. 949",
+"text": "aoccaaneclictorbodesiussilimlimmimcolus"
+},
+{
+"id": "950",
+"label": "Plaut. Poen. 950",
+"text": "deos deasque veneror, qui hanc urbem colunt,"
+},
+{
+"id": "951",
+"label": "Plaut. Poen. 951",
+"text": "ut quod de mea re huc veni rite venerim,"
+},
+{
+"id": "952",
+"label": "Plaut. Poen. 952",
+"text": "measque híc ut gnatas et mei fratris filium"
+},
+{
+"id": "953",
+"label": "Plaut. Poen. 953",
+"text": "reperire me siritis, di vostram fidem."
+},
+{
+"id": "955",
+"label": "Plaut. Poen. 955",
+"text": "sed hic mihi antehac hospes Antidamas fuit;"
+},
+{
+"id": "956",
+"label": "Plaut. Poen. 956",
+"text": "eum fécisse aiunt, sibi quod faciundum fuit."
+},
+{
+"id": "957",
+"label": "Plaut. Poen. 957",
+"text": "eius fílium esse hic praedicant Agorastoclem:"
+},
+{
+"id": "958",
+"label": "Plaut. Poen. 958",
+"text": "ad eum hospitalem hanc tesseram mecum fero;"
+},
+{
+"id": "959",
+"label": "Plaut. Poen. 959",
+"text": "is in hisce habitare monstratust regionibus."
+},
+{
+"id": "960",
+"label": "Plaut. Poen. 960",
+"text": "hos percontabor qui hinc egrediuntur foras."
+},
+{
+"id": "961",
+"label": "Plaut. Poen. 961",
+"text": "Ain tú tibi dixe Syncerastum, Milphio,"
+},
+{
+"id": "962",
+"label": "Plaut. Poen. 962",
+"text": "eas ésse ingenuas ambas surrupticias"
+},
+{
+"id": "963",
+"label": "Plaut. Poen. 963",
+"text": "Charthaginiensis?"
+},
+{
+"id": "963b",
+"label": "Plaut. Poen. 963b",
+"text": "Aio, et, si frugi esse vis,"
+},
+{
+"id": "964",
+"label": "Plaut. Poen. 964",
+"text": "eas líberali iam adseres causa manu."
+},
+{
+"id": "965",
+"label": "Plaut. Poen. 965",
+"text": "nam tuom flagitiumst tuas te popularis pati"
+},
+{
+"id": "966",
+"label": "Plaut. Poen. 966",
+"text": "servire ante oculos, domi quae fuerint liberae."
+},
+{
+"id": "967",
+"label": "Plaut. Poen. 967",
+"text": "Pro di immortales, opsecro vostram fidem,"
+},
+{
+"id": "968",
+"label": "Plaut. Poen. 968",
+"text": "quam orationem hanc aures dulcem devorant."
+},
+{
+"id": "969",
+"label": "Plaut. Poen. 969",
+"text": "creta est profecto hórum hominum oratio,"
+},
+{
+"id": "970",
+"label": "Plaut. Poen. 970",
+"text": "ut mi apsterserunt omnem sorditudinem."
+},
+{
+"id": "971",
+"label": "Plaut. Poen. 971",
+"text": "Si ad eam rem testis habeam, faciam quod iubes."
+},
+{
+"id": "972",
+"label": "Plaut. Poen. 972",
+"text": "Quid tu mihi testis? quin tu insistis fortiter?"
+},
+{
+"id": "973",
+"label": "Plaut. Poen. 973",
+"text": "aliqua Fortuna fuerit adiutrix tibi."
+},
+{
+"id": "974",
+"label": "Plaut. Poen. 974",
+"text": "Incipere multost quam impetrare facilius."
+},
+{
+"id": "975",
+"label": "Plaut. Poen. 975",
+"text": "Sed quae illaec avis est, quae huc cum tunicis advenit?"
+},
+{
+"id": "976",
+"label": "Plaut. Poen. 976",
+"text": "numnam in balineis circumductust pallio?"
+},
+{
+"id": "977",
+"label": "Plaut. Poen. 977",
+"text": "Facies quidem edepol Punicast."
+},
+{
+"id": "977b",
+"label": "Plaut. Poen. 977b",
+"text": "Guggast homo."
+},
+{
+"id": "978",
+"label": "Plaut. Poen. 978",
+"text": "servos quidem edepol veteres antiquosque habet."
+},
+{
+"id": "979",
+"label": "Plaut. Poen. 979",
+"text": "Qui scis?"
+},
+{
+"id": "979b",
+"label": "Plaut. Poen. 979b",
+"text": "Viden homines sarcinatos consequi?"
+},
+{
+"id": "980",
+"label": "Plaut. Poen. 980",
+"text": "† atque ut opinor digitos in manibus non habent."
+},
+{
+"id": "981",
+"label": "Plaut. Poen. 981",
+"text": "Quid iam?"
+},
+{
+"id": "981b",
+"label": "Plaut. Poen. 981b",
+"text": "Quia incedunt cum anulatis auribus."
+},
+{
+"id": "982",
+"label": "Plaut. Poen. 982",
+"text": "Adibo hosce atque áppellabo Punice."
+},
+{
+"id": "983",
+"label": "Plaut. Poen. 983",
+"text": "si respondebunt, Punice pergam loqui;"
+},
+{
+"id": "984",
+"label": "Plaut. Poen. 984",
+"text": "si non, tum ad horum mores linguam vertero."
+},
+{
+"id": "985",
+"label": "Plaut. Poen. 985",
+"text": "Quid ais tu? écquid commeministi Punice?"
+},
+{
+"id": "986",
+"label": "Plaut. Poen. 986",
+"text": "Nihil edepol. nam qui scire potui, dic mihi,"
+},
+{
+"id": "987",
+"label": "Plaut. Poen. 987",
+"text": "qui illim sexennis perierim Carthagine?"
+},
+{
+"id": "988",
+"label": "Plaut. Poen. 988",
+"text": "Pro di immortales, plurumi ad illum modum"
+},
+{
+"id": "989",
+"label": "Plaut. Poen. 989",
+"text": "periere pueri liberi Carthagine."
+},
+{
+"id": "990",
+"label": "Plaut. Poen. 990",
+"text": "Quid ais tu?"
+},
+{
+"id": "990b",
+"label": "Plaut. Poen. 990b",
+"text": "Quid vis?"
+},
+{
+"id": "990c",
+"label": "Plaut. Poen. 990c",
+"text": "Vin appellem hunc Punice?"
+},
+{
+"id": "991",
+"label": "Plaut. Poen. 991",
+"text": "An scis?"
+},
+{
+"id": "991b",
+"label": "Plaut. Poen. 991b",
+"text": "Nullus me est hodie Poenus Poenior."
+},
+{
+"id": "992",
+"label": "Plaut. Poen. 992",
+"text": "Adi atque appella, quid velit, quid venerit,"
+},
+{
+"id": "993",
+"label": "Plaut. Poen. 993",
+"text": "qui sit, quoiatis, unde sit: ne parseris."
+},
+{
+"id": "994",
+"label": "Plaut. Poen. 994",
+"text": "Avo. quoiates estis aut quo ex oppido?"
+},
+{
+"id": "995",
+"label": "Plaut. Poen. 995",
+"text": "Anno byn mytthymballe udradait annech."
+},
+{
+"id": "996",
+"label": "Plaut. Poen. 996",
+"text": "Quid ait?"
+},
+{
+"id": "996b",
+"label": "Plaut. Poen. 996b",
+"text": "Hannonem se esse ait Carthagine,"
+},
+{
+"id": "997",
+"label": "Plaut. Poen. 997",
+"text": "Carthaginiensis Mytthumbalis filium."
+},
+{
+"id": "998",
+"label": "Plaut. Poen. 998",
+"text": "Avo."
+},
+{
+"id": "998b",
+"label": "Plaut. Poen. 998b",
+"text": "Salutat."
+},
+{
+"id": "998c",
+"label": "Plaut. Poen. 998c",
+"text": "Donni."
+},
+{
+"id": "998d",
+"label": "Plaut. Poen. 998d",
+"text": "Doni volt tibi"
+},
+{
+"id": "999",
+"label": "Plaut. Poen. 999",
+"text": "dare hic nescio quid. audin pollicitarier?"
+},
+{
+"id": "1000",
+"label": "Plaut. Poen. 1000",
+"text": "Saluta hunc rursus Punice verbis meis."
+},
+{
+"id": "1001",
+"label": "Plaut. Poen. 1001",
+"text": "Avo donni inquit hic tibi verbis suis."
+},
+{
+"id": "1002",
+"label": "Plaut. Poen. 1002",
+"text": "Me har bocca."
+},
+{
+"id": "1002b",
+"label": "Plaut. Poen. 1002b",
+"text": "Istuc tibi sit potius quam mihi."
+},
+{
+"id": "1003",
+"label": "Plaut. Poen. 1003",
+"text": "Quid ait?"
+},
+{
+"id": "1003b",
+"label": "Plaut. Poen. 1003b",
+"text": "Miseram esse praedicat buccam sibi."
+},
+{
+"id": "1004",
+"label": "Plaut. Poen. 1004",
+"text": "fortasse medicos nos esse arbitrarier."
+},
+{
+"id": "1005",
+"label": "Plaut. Poen. 1005",
+"text": "Si ita est, nega esse; nolo ego errare hospitem."
+},
+{
+"id": "1006",
+"label": "Plaut. Poen. 1006",
+"text": "Audin tu?"
+},
+{
+"id": "1006b",
+"label": "Plaut. Poen. 1006b",
+"text": "Rufeyn nyccho issam."
+},
+{
+"id": "1006c",
+"label": "Plaut. Poen. 1006c",
+"text": "Sic volo"
+},
+{
+"id": "1007",
+"label": "Plaut. Poen. 1007",
+"text": "profecto vera cuncta huic expedirier."
+},
+{
+"id": "1008",
+"label": "Plaut. Poen. 1008",
+"text": "roga númquid opus sit."
+},
+{
+"id": "1008b",
+"label": "Plaut. Poen. 1008b",
+"text": "Tu qui zonam non habes,"
+},
+{
+"id": "1009",
+"label": "Plaut. Poen. 1009",
+"text": "quid in hanc venistis urbem aút quid quaeritis?"
+},
+{
+"id": "1010",
+"label": "Plaut. Poen. 1010",
+"text": "Muphursa."
+},
+{
+"id": "1010b",
+"label": "Plaut. Poen. 1010b",
+"text": "Quid ait?"
+},
+{
+"id": "1010c",
+"label": "Plaut. Poen. 1010c",
+"text": "Miuulec hianna."
+},
+{
+"id": "1010d",
+"label": "Plaut. Poen. 1010d",
+"text": "Quid venit?"
+},
+{
+"id": "1011",
+"label": "Plaut. Poen. 1011",
+"text": "Non audis? mures Africanos praedicat"
+},
+{
+"id": "1012",
+"label": "Plaut. Poen. 1012",
+"text": "in pompam ludis dare se velle aedilibus."
+},
+{
+"id": "1013",
+"label": "Plaut. Poen. 1013",
+"text": "Lech lachanna nilimniichto."
+},
+{
+"id": "1013b",
+"label": "Plaut. Poen. 1013b",
+"text": "Quid nunc ait?"
+},
+{
+"id": "1014",
+"label": "Plaut. Poen. 1014",
+"text": "Ligulas, canalis ait se advexisse et nuces:"
+},
+{
+"id": "1015",
+"label": "Plaut. Poen. 1015",
+"text": "nunc orat, operam ut des sibi, ut ea veneant."
+},
+{
+"id": "1016",
+"label": "Plaut. Poen. 1016",
+"text": "Mercator credo est."
+},
+{
+"id": "1016b",
+"label": "Plaut. Poen. 1016b",
+"text": "Assam."
+},
+{
+"id": "1016c",
+"label": "Plaut. Poen. 1016c",
+"text": "Arvinam quidem."
+},
+{
+"id": "1017",
+"label": "Plaut. Poen. 1017",
+"text": "Palu mirga detha."
+},
+{
+"id": "1017b",
+"label": "Plaut. Poen. 1017b",
+"text": "Milphio, quid nunc ait?"
+},
+{
+"id": "1018",
+"label": "Plaut. Poen. 1018",
+"text": "Palas vendundas sibi ait et mergas datas,"
+},
+{
+"id": "1019",
+"label": "Plaut. Poen. 1019",
+"text": "ad messim credo, nisi quid tú aliud sapis."
+},
+{
+"id": "1021",
+"label": "Plaut. Poen. 1021",
+"text": "Quid istuc ad me?"
+},
+{
+"id": "1021b",
+"label": "Plaut. Poen. 1021b",
+"text": "Certiorem te esse volt,"
+},
+{
+"id": "1022",
+"label": "Plaut. Poen. 1022",
+"text": "ne quid clam furtim se accepisse censeas."
+},
+{
+"id": "1023",
+"label": "Plaut. Poen. 1023",
+"text": "Mufonnim siccoratim."
+},
+{
+"id": "1023b",
+"label": "Plaut. Poen. 1023b",
+"text": "Hem, cave sis feceris"
+},
+{
+"id": "1024",
+"label": "Plaut. Poen. 1024",
+"text": "quod hic te órat."
+},
+{
+"id": "1024b",
+"label": "Plaut. Poen. 1024b",
+"text": "Quid ait aut quid orat? expedi."
+},
+{
+"id": "1025",
+"label": "Plaut. Poen. 1025",
+"text": "Sub cratim ut iubeas se supponi átque eo"
+},
+{
+"id": "1026",
+"label": "Plaut. Poen. 1026",
+"text": "lapides imponi multos, ut sese neces."
+},
+{
+"id": "1027",
+"label": "Plaut. Poen. 1027",
+"text": "Gunebbal samem lyryla."
+},
+{
+"id": "1027b",
+"label": "Plaut. Poen. 1027b",
+"text": "Narra, quid est?"
+},
+{
+"id": "1028",
+"label": "Plaut. Poen. 1028",
+"text": "quid ait?"
+},
+{
+"id": "1028b",
+"label": "Plaut. Poen. 1028b",
+"text": "Non hercle nunc quidem quicquam scio."
+},
+{
+"id": "1029",
+"label": "Plaut. Poen. 1029",
+"text": "At ut scias, nunc dehinc latine iam loquar."
+},
+{
+"id": "1030",
+"label": "Plaut. Poen. 1030",
+"text": "servom hercle te esse oportet et nequam et malum,"
+},
+{
+"id": "1031",
+"label": "Plaut. Poen. 1031",
+"text": "hominem peregrinum atque advenam qui inrideas."
+},
+{
+"id": "1032",
+"label": "Plaut. Poen. 1032",
+"text": "At hercle te hominem et sycophantam et subdolum,"
+},
+{
+"id": "1033",
+"label": "Plaut. Poen. 1033",
+"text": "qui huc advenisti nos captatum, migdilix,"
+},
+{
+"id": "1034",
+"label": "Plaut. Poen. 1034",
+"text": "bisulci lingua quasi proserpens bestia."
+},
+{
+"id": "1035",
+"label": "Plaut. Poen. 1035",
+"text": "Maledicta hinc aufer, linguam compescas face."
+},
+{
+"id": "1036",
+"label": "Plaut. Poen. 1036",
+"text": "maledicere huic tu temperabis, si sapis."
+},
+{
+"id": "1037",
+"label": "Plaut. Poen. 1037",
+"text": "meis cónsanguineis nolo te iniuste loqui."
+},
+{
+"id": "1038",
+"label": "Plaut. Poen. 1038",
+"text": "Carthagini ego sum gnatus, ut tu sis sciens."
+},
+{
+"id": "1039",
+"label": "Plaut. Poen. 1039",
+"text": "O mi popularis, salve."
+},
+{
+"id": "1039b",
+"label": "Plaut. Poen. 1039b",
+"text": "Et tu edepol, quisquis es."
+},
+{
+"id": "1040",
+"label": "Plaut. Poen. 1040",
+"text": "et si quid opus est, quaeso, dic atque impera"
+},
+{
+"id": "1041",
+"label": "Plaut. Poen. 1041",
+"text": "popularitatis causa."
+},
+{
+"id": "1041b",
+"label": "Plaut. Poen. 1041b",
+"text": "Habeo gratiam."
+},
+{
+"id": "1044",
+"label": "Plaut. Poen. 1044",
+"text": "sed ecquem ádulescentem tu hic novisti Agorastoclem?"
+},
+{
+"id": "1045",
+"label": "Plaut. Poen. 1045",
+"text": "Siquidem Ántidamai quaeris ádoptaticium,"
+},
+{
+"id": "1046",
+"label": "Plaut. Poen. 1046",
+"text": "ego sum ipsus quem tu quaeris."
+},
+{
+"id": "1046b",
+"label": "Plaut. Poen. 1046b",
+"text": "Hem, quid ego audio?"
+},
+{
+"id": "1047",
+"label": "Plaut. Poen. 1047",
+"text": "Antidamae gnatum me esse."
+},
+{
+"id": "1047b",
+"label": "Plaut. Poen. 1047b",
+"text": "Sí itast, tesseram"
+},
+{
+"id": "1048",
+"label": "Plaut. Poen. 1048",
+"text": "conferre si vis hospitalem, eccam attuli."
+},
+{
+"id": "1049",
+"label": "Plaut. Poen. 1049",
+"text": "Agedum huc ostende. est par probe, quam habeo domi."
+},
+{
+"id": "1050",
+"label": "Plaut. Poen. 1050",
+"text": "O mi hospes, salve multum. nam mihi tuos pater"
+},
+{
+"id": "1051",
+"label": "Plaut. Poen. 1051",
+"text": "patritus † ergo hospes Antidamas fuit."
+},
+{
+"id": "1052",
+"label": "Plaut. Poen. 1052",
+"text": "haec mi hospitalis tessera cum illo fuit."
+},
+{
+"id": "1053",
+"label": "Plaut. Poen. 1053",
+"text": "Ergo hic apud me hospitium tibi praebebitur."
+},
+{
+"id": "1054",
+"label": "Plaut. Poen. 1054",
+"text": "nam haúd repudio hospitium neque Carthaginem,"
+},
+{
+"id": "1055",
+"label": "Plaut. Poen. 1055",
+"text": "unde súm oriundus."
+},
+{
+"id": "1055b",
+"label": "Plaut. Poen. 1055b",
+"text": "Di dent tibi omnes quae velis."
+},
+{
+"id": "1056",
+"label": "Plaut. Poen. 1056",
+"text": "quid ais? qui potuit fieri, ut Carthagini"
+},
+{
+"id": "1057",
+"label": "Plaut. Poen. 1057",
+"text": "gnatus sis? hic autem habuisti Aetolum patrem."
+},
+{
+"id": "1058",
+"label": "Plaut. Poen. 1058",
+"text": "Surruptus sum illinc. hic me Antidama hospes tuos"
+},
+{
+"id": "1059",
+"label": "Plaut. Poen. 1059",
+"text": "emit, et is me sibi adoptavit filium."
+},
+{
+"id": "1060",
+"label": "Plaut. Poen. 1060",
+"text": "Demarcho item ipse fuit adoptaticius."
+},
+{
+"id": "1061",
+"label": "Plaut. Poen. 1061",
+"text": "sed mitto de illoc, ad te redeo. dic mihi,"
+},
+{
+"id": "1062",
+"label": "Plaut. Poen. 1062",
+"text": "ecquid meministi tuom parentum nomina,"
+},
+{
+"id": "1063",
+"label": "Plaut. Poen. 1063",
+"text": "patris atque matris?"
+},
+{
+"id": "1063b",
+"label": "Plaut. Poen. 1063b",
+"text": "Memini."
+},
+{
+"id": "1063c",
+"label": "Plaut. Poen. 1063c",
+"text": "Memoradum mihi,"
+},
+{
+"id": "1064",
+"label": "Plaut. Poen. 1064",
+"text": "si novi forte aut si sunt cognati mihi."
+},
+{
+"id": "1065",
+"label": "Plaut. Poen. 1065",
+"text": "Ampsigura mater mihi fuit, Iahon pater."
+},
+{
+"id": "1066",
+"label": "Plaut. Poen. 1066",
+"text": "Patrem atque matrem viverent vellem tibi."
+},
+{
+"id": "1067",
+"label": "Plaut. Poen. 1067",
+"text": "An mortui sunt?"
+},
+{
+"id": "1067b",
+"label": "Plaut. Poen. 1067b",
+"text": "Factum, quod aegre tuli. †"
+},
+{
+"id": "1068",
+"label": "Plaut. Poen. 1068",
+"text": "nam mihi sobrina Ampsigura tua mater fuit;"
+},
+{
+"id": "1069",
+"label": "Plaut. Poen. 1069",
+"text": "pater tuos, is erat frater patruelis meus,"
+},
+{
+"id": "1070",
+"label": "Plaut. Poen. 1070",
+"text": "et is me heredem fecit, quom suom obiit diem,"
+},
+{
+"id": "1071",
+"label": "Plaut. Poen. 1071",
+"text": "quo me privatum aégre patior mortuo."
+},
+{
+"id": "1072",
+"label": "Plaut. Poen. 1072",
+"text": "sed sí ita est, ut tu sis Iahonis filius,"
+},
+{
+"id": "1073",
+"label": "Plaut. Poen. 1073",
+"text": "signum esse oportet in manu laeva tibi,"
+},
+{
+"id": "1074",
+"label": "Plaut. Poen. 1074",
+"text": "ludenti puero quod memordit simia."
+},
+{
+"id": "1075",
+"label": "Plaut. Poen. 1075",
+"text": "ostende, inspiciam."
+},
+{
+"id": "1075b",
+"label": "Plaut. Poen. 1075b",
+"text": "Em ostendo."
+},
+{
+"id": "1075c",
+"label": "Plaut. Poen. 1075c",
+"text": "Aperi. audi atque ades:"
+},
+{
+"id": "1076",
+"label": "Plaut. Poen. 1076",
+"text": "Mi patrue, salve."
+},
+{
+"id": "1076b",
+"label": "Plaut. Poen. 1076b",
+"text": "Ét tu salve, Agorastocles."
+},
+{
+"id": "1077",
+"label": "Plaut. Poen. 1077",
+"text": "iterum mihi gnatus videor, quom te repperi."
+},
+{
+"id": "1078",
+"label": "Plaut. Poen. 1078",
+"text": "Pol istám rem vobis bene evenisse gaudeo."
+},
+{
+"id": "1079",
+"label": "Plaut. Poen. 1079",
+"text": "sed te moneri num nevis?"
+},
+{
+"id": "1079b",
+"label": "Plaut. Poen. 1079b",
+"text": "Sane volo."
+},
+{
+"id": "1080",
+"label": "Plaut. Poen. 1080",
+"text": "Paterna oportet filio reddi bona."
+},
+{
+"id": "1081",
+"label": "Plaut. Poen. 1081",
+"text": "aequomst habere hunc bona quae possedit pater."
+},
+{
+"id": "1082",
+"label": "Plaut. Poen. 1082",
+"text": "Haud postulo aliter: restituentur omnia;"
+},
+{
+"id": "1083",
+"label": "Plaut. Poen. 1083",
+"text": "suam síbi rem salvam sistam, si illo advenerit."
+},
+{
+"id": "1084",
+"label": "Plaut. Poen. 1084",
+"text": "Facito sis reddas, etsi hic habitabit, tamen."
+},
+{
+"id": "1085",
+"label": "Plaut. Poen. 1085",
+"text": "Quin mea quoque iste habebit, si quid me fuat."
+},
+{
+"id": "1086",
+"label": "Plaut. Poen. 1086",
+"text": "Festivom facinus venit mi in mentem modo."
+},
+{
+"id": "1087",
+"label": "Plaut. Poen. 1087",
+"text": "Quid id est?"
+},
+{
+"id": "1087b",
+"label": "Plaut. Poen. 1087b",
+"text": "Tua opus est opera."
+},
+{
+"id": "1087c",
+"label": "Plaut. Poen. 1087c",
+"text": "Dic mihi quid lubet:"
+},
+{
+"id": "1088",
+"label": "Plaut. Poen. 1088",
+"text": "profecto uteris, ut voles, operam meam."
+},
+{
+"id": "1089",
+"label": "Plaut. Poen. 1089",
+"text": "quid est negoti?"
+},
+{
+"id": "1089b",
+"label": "Plaut. Poen. 1089b",
+"text": "Potin tu fieri subdolus?"
+},
+{
+"id": "1090",
+"label": "Plaut. Poen. 1090",
+"text": "Inimico possum, amico ínsipientia est."
+},
+{
+"id": "1091",
+"label": "Plaut. Poen. 1091",
+"text": "Inimicus hercle est huius."
+},
+{
+"id": "1091b",
+"label": "Plaut. Poen. 1091b",
+"text": "Male faxim lubens."
+},
+{
+"id": "1092",
+"label": "Plaut. Poen. 1092",
+"text": "Amat ab lenone hic."
+},
+{
+"id": "1092b",
+"label": "Plaut. Poen. 1092b",
+"text": "Facere sapienter puto."
+},
+{
+"id": "1093",
+"label": "Plaut. Poen. 1093",
+"text": "Leno hic habitat vicinus."
+},
+{
+"id": "1093b",
+"label": "Plaut. Poen. 1093b",
+"text": "Male faxim lubens."
+},
+{
+"id": "1094",
+"label": "Plaut. Poen. 1094",
+"text": "Ei duae puellae sunt meretrices servolae"
+},
+{
+"id": "1095",
+"label": "Plaut. Poen. 1095",
+"text": "sorores: earum hic alteram efflictim perit,"
+},
+{
+"id": "1096",
+"label": "Plaut. Poen. 1096",
+"text": "neque eam incestavit umquam."
+},
+{
+"id": "1096b",
+"label": "Plaut. Poen. 1096b",
+"text": "Acerba amatiost."
+},
+{
+"id": "1097",
+"label": "Plaut. Poen. 1097",
+"text": "Hunc leno ludificatur."
+},
+{
+"id": "1097b",
+"label": "Plaut. Poen. 1097b",
+"text": "Suom quaestum colit."
+},
+{
+"id": "1098",
+"label": "Plaut. Poen. 1098",
+"text": "Hic illi malam rem dare volt."
+},
+{
+"id": "1098b",
+"label": "Plaut. Poen. 1098b",
+"text": "Frugist, si id facit."
+},
+{
+"id": "1099",
+"label": "Plaut. Poen. 1099",
+"text": "Nunc hoc consilium capio et hanc fabricam apparo,"
+},
+{
+"id": "1100",
+"label": "Plaut. Poen. 1100",
+"text": "ut te allegemus, filias dicas tuas"
+},
+{
+"id": "1101",
+"label": "Plaut. Poen. 1101",
+"text": "surruptasque esse parvolas Carthagine"
+},
+{
+"id": "1102",
+"label": "Plaut. Poen. 1102",
+"text": "manu líberali causa ámbas adseras,"
+},
+{
+"id": "1103",
+"label": "Plaut. Poen. 1103",
+"text": "quasi filiae tuae sint. iamne intellegis?"
+},
+{
+"id": "1104",
+"label": "Plaut. Poen. 1104",
+"text": "Intellego hercle. nam mihi item gnatae duae"
+},
+{
+"id": "1105",
+"label": "Plaut. Poen. 1105",
+"text": "cum nutrice una sunt surruptae parvolae."
+},
+{
+"id": "1106",
+"label": "Plaut. Poen. 1106",
+"text": "Lepide hercle adsimulas. iam in principio id mihi placet."
+},
+{
+"id": "1107",
+"label": "Plaut. Poen. 1107",
+"text": "Pol magis quam vellem."
+},
+{
+"id": "1107b",
+"label": "Plaut. Poen. 1107b",
+"text": "Eu hércle mortalem catum,"
+},
+{
+"id": "1108",
+"label": "Plaut. Poen. 1108",
+"text": "malum crudumque, estolidum et subdolum."
+},
+{
+"id": "1109",
+"label": "Plaut. Poen. 1109",
+"text": "ut adflet, quo illud gestu faciat facilius."
+},
+{
+"id": "1110",
+"label": "Plaut. Poen. 1110",
+"text": "me quoque dolis iam superat architectonem."
+},
+{
+"id": "1111",
+"label": "Plaut. Poen. 1111",
+"text": "Sed earum nutrix qua sit facie, mi expedi."
+},
+{
+"id": "1112",
+"label": "Plaut. Poen. 1112",
+"text": "Statura hau magna, corpore aquilost."
+},
+{
+"id": "1112b",
+"label": "Plaut. Poen. 1112b",
+"text": "Ipsa east."
+},
+{
+"id": "1113",
+"label": "Plaut. Poen. 1113",
+"text": "Specie venusta, óre atque oculis pernigris."
+},
+{
+"id": "1114",
+"label": "Plaut. Poen. 1114",
+"text": "Formam quidem hercle verbis depinxti probe."
+},
+{
+"id": "1115",
+"label": "Plaut. Poen. 1115",
+"text": "Vin eam videre?"
+},
+{
+"id": "1115b",
+"label": "Plaut. Poen. 1115b",
+"text": "Filias malo meas."
+},
+{
+"id": "1116",
+"label": "Plaut. Poen. 1116",
+"text": "sed i átque evoca illam; sí eae meae sunt filiae,"
+},
+{
+"id": "1117",
+"label": "Plaut. Poen. 1117",
+"text": "si illarum est nutrix, me continuo noverit."
+},
+{
+"id": "1118",
+"label": "Plaut. Poen. 1118",
+"text": "Heus, ecquis hic est? nuntiate ut prodeat"
+},
+{
+"id": "1119",
+"label": "Plaut. Poen. 1119",
+"text": "foras Gíddeneni. est qui illam conventam esse volt."
+},
+{
+"id": "1120",
+"label": "Plaut. Poen. 1120",
+"text": "Quis pultat?"
+},
+{
+"id": "1120b",
+"label": "Plaut. Poen. 1120b",
+"text": "Qui te proximust."
+},
+{
+"id": "1120c",
+"label": "Plaut. Poen. 1120c",
+"text": "Quid vis?"
+},
+{
+"id": "1120d",
+"label": "Plaut. Poen. 1120d",
+"text": "Eho,"
+},
+{
+"id": "1121",
+"label": "Plaut. Poen. 1121",
+"text": "novistin tu illunc tunicatum hominem qui siet?"
+},
+{
+"id": "1122",
+"label": "Plaut. Poen. 1122",
+"text": "Nam quém ego aspicio? pro supreme Iuppiter,"
+},
+{
+"id": "1123",
+"label": "Plaut. Poen. 1123",
+"text": "erus meus hic quidem est, mearum alumnarum pater,"
+},
+{
+"id": "1124",
+"label": "Plaut. Poen. 1124",
+"text": "Hanno Carthaginiensis."
+},
+{
+"id": "1124b",
+"label": "Plaut. Poen. 1124b",
+"text": "Ecce autem mala."
+},
+{
+"id": "1127",
+"label": "Plaut. Poen. 1127",
+"text": "O mí ere, salve, Hánno, insperatissume"
+},
+{
+"id": "1128",
+"label": "Plaut. Poen. 1128",
+"text": "mihi tuisque filiis, salve atque—eho,"
+},
+{
+"id": "1129",
+"label": "Plaut. Poen. 1129",
+"text": "mirari noli neque me contemplarier."
+},
+{
+"id": "1130",
+"label": "Plaut. Poen. 1130",
+"text": "cognoscin Giddenenem áncillam tuam?"
+},
+{
+"id": "1131",
+"label": "Plaut. Poen. 1131",
+"text": "Novi. sed ubi sunt meae gnatae? id scire expeto."
+},
+{
+"id": "1132",
+"label": "Plaut. Poen. 1132",
+"text": "Apud aedem Veneris."
+},
+{
+"id": "1132b",
+"label": "Plaut. Poen. 1132b",
+"text": "Quid ibi faciunt? dic mihi."
+},
+{
+"id": "1133",
+"label": "Plaut. Poen. 1133",
+"text": "Aphrodisia hodie Veneris est festus dies:"
+},
+{
+"id": "1134",
+"label": "Plaut. Poen. 1134",
+"text": "oratum ierunt deam, ut sibi esset propitia."
+},
+{
+"id": "1135",
+"label": "Plaut. Poen. 1135",
+"text": "Pol satis scio, impetrarunt, quando hic hic adest."
+},
+{
+"id": "1136",
+"label": "Plaut. Poen. 1136",
+"text": "Eho an huius sunt illae filiae?"
+},
+{
+"id": "1136b",
+"label": "Plaut. Poen. 1136b",
+"text": "Ita ut praedicas."
+},
+{
+"id": "1137",
+"label": "Plaut. Poen. 1137",
+"text": "tua pietas nobis plane aúxilio fuit,"
+},
+{
+"id": "1138",
+"label": "Plaut. Poen. 1138",
+"text": "quom huc advenisti hodie in ipso tempore;"
+},
+{
+"id": "1139",
+"label": "Plaut. Poen. 1139",
+"text": "namque hodie earum mutarentur nomina"
+},
+{
+"id": "1140",
+"label": "Plaut. Poen. 1140",
+"text": "facerentque indignum genere quaestum corpore."
+},
+{
+"id": "1141",
+"label": "Plaut. Poen. 1141",
+"text": "Auamma illi."
+},
+{
+"id": "1141b",
+"label": "Plaut. Poen. 1141b",
+"text": "Hauon bane silli in mustine."
+},
+{
+"id": "1142",
+"label": "Plaut. Poen. 1142",
+"text": "Mepstaetemes tas dum et alanna cestimim."
+},
+{
+"id": "1143",
+"label": "Plaut. Poen. 1143",
+"text": "Quid illí locuti sunt inter se? dic mihi."
+},
+{
+"id": "1144",
+"label": "Plaut. Poen. 1144",
+"text": "Matrem hic salutat suam, haec autem hunc filium."
+},
+{
+"id": "1145",
+"label": "Plaut. Poen. 1145",
+"text": "tace atque parce muliebri supellectili."
+},
+{
+"id": "1146",
+"label": "Plaut. Poen. 1146",
+"text": "Quae east supellex?"
+},
+{
+"id": "1146b",
+"label": "Plaut. Poen. 1146b",
+"text": "Clarus clamor."
+},
+{
+"id": "1146c",
+"label": "Plaut. Poen. 1146c",
+"text": "Sine modo."
+},
+{
+"id": "1147",
+"label": "Plaut. Poen. 1147",
+"text": "Tu abduc hosce intro; et una nutricem simul"
+},
+{
+"id": "1148",
+"label": "Plaut. Poen. 1148",
+"text": "iube hanc abire hinc ad te."
+},
+{
+"id": "1148b",
+"label": "Plaut. Poen. 1148b",
+"text": "Fac quod imperat."
+},
+{
+"id": "1149",
+"label": "Plaut. Poen. 1149",
+"text": "Sed quís illas tibi monstrabit?"
+},
+{
+"id": "1149b",
+"label": "Plaut. Poen. 1149b",
+"text": "Ego doctissume."
+},
+{
+"id": "1150",
+"label": "Plaut. Poen. 1150",
+"text": "Abeo igitur."
+},
+{
+"id": "1150b",
+"label": "Plaut. Poen. 1150b",
+"text": "Facias modo quam memores mavelim."
+},
+{
+"id": "1151",
+"label": "Plaut. Poen. 1151",
+"text": "patruo advenienti cena curetur volo."
+},
+{
+"id": "1152",
+"label": "Plaut. Poen. 1152",
+"text": "Lachanna vos, quos ego iam detrudam ad molas,"
+},
+{
+"id": "1153",
+"label": "Plaut. Poen. 1153",
+"text": "inde pórro ad puteum atque ad robustum codicem."
+},
+{
+"id": "1154",
+"label": "Plaut. Poen. 1154",
+"text": "ego faxo hospitium hoc leniter laudabitis.—"
+},
+{
+"id": "1155",
+"label": "Plaut. Poen. 1155",
+"text": "Audin tu, patrue? dico, ne dictum neges:"
+},
+{
+"id": "1156",
+"label": "Plaut. Poen. 1156",
+"text": "tuam míhi maiorem filiam despondeas."
+},
+{
+"id": "1157",
+"label": "Plaut. Poen. 1157",
+"text": "Pactam rem habeto."
+},
+{
+"id": "1157b",
+"label": "Plaut. Poen. 1157b",
+"text": "Spondesne igitur?"
+},
+{
+"id": "1157c",
+"label": "Plaut. Poen. 1157c",
+"text": "Spondeo."
+},
+{
+"id": "1158",
+"label": "Plaut. Poen. 1158",
+"text": "Mi patrue, salve. nam nunc es plane meus."
+},
+{
+"id": "1159",
+"label": "Plaut. Poen. 1159",
+"text": "nunc demum ego cum illa fabulabor libere."
+},
+{
+"id": "1160",
+"label": "Plaut. Poen. 1160",
+"text": "nunc, patrue, si vis tuas videre filias,"
+},
+{
+"id": "1161",
+"label": "Plaut. Poen. 1161",
+"text": "me sequere."
+},
+{
+"id": "1161b",
+"label": "Plaut. Poen. 1161b",
+"text": "Iamdudum equidem cupio, et te sequor."
+},
+{
+"id": "1166",
+"label": "Plaut. Poen. 1166",
+"text": "sed eccás video ipsas."
+},
+{
+"id": "1166b",
+"label": "Plaut. Poen. 1166b",
+"text": "Haecine meae sunt filiae?"
+},
+{
+"id": "1167",
+"label": "Plaut. Poen. 1167",
+"text": "quantae e quantillis iam sunt factae."
+},
+{
+"id": "1167b",
+"label": "Plaut. Poen. 1167b",
+"text": "Scin quid est?"
+},
+{
+"id": "1168",
+"label": "Plaut. Poen. 1168",
+"text": "tragicae sunt: in calones sustolli solent."
+},
+{
+"id": "1174",
+"label": "Plaut. Poen. 1174",
+"text": "Fuit hódie operae pretiúm cuivis qui amábilitati animum adiceret,"
+},
+{
+"id": "1175",
+"label": "Plaut. Poen. 1175",
+"text": "oculís epulas dare, délubrum qui hodie órnatum eo visére venit."
+},
+{
+"id": "1176",
+"label": "Plaut. Poen. 1176",
+"text": "deamávi ecastor ílli hodie lepidíssima munera méretricum,"
+},
+{
+"id": "1177",
+"label": "Plaut. Poen. 1177",
+"text": "digná dea venustissimá Venere, neque cóntempsi eius opés hodie."
+},
+{
+"id": "1178",
+"label": "Plaut. Poen. 1178",
+"text": "tanta íbi copia venustátum aderat, in suó quique loco síta munde."
+},
+{
+"id": "1179",
+"label": "Plaut. Poen. 1179",
+"text": "arás tus, murrinus, ómnis odor complébat. haud sordére visust"
+},
+{
+"id": "1180",
+"label": "Plaut. Poen. 1180",
+"text": "festús dies, Venus, nec tuóm fanum: tantús ibi clientarum érat numerus,"
+},
+{
+"id": "1181",
+"label": "Plaut. Poen. 1181",
+"text": "quae ad Cálydoniam venérant Venerem."
+},
+{
+"id": "1181a",
+"label": "Plaut. Poen. 1181a",
+"text": "Certo enim, quod quidem ad nos duas"
+},
+{
+"id": "1182",
+"label": "Plaut. Poen. 1182",
+"text": "attínuit, praepotentés pulchre pacísque potentes, sóror, fuimus,"
+},
+{
+"id": "1183",
+"label": "Plaut. Poen. 1183",
+"text": "neque ab iúventute inibi inrídiculo habitaé, quod pol,"
+},
+{
+"id": "1183b",
+"label": "Plaut. Poen. 1183b",
+"text": "soror, céteris omnibus fáctumst."
+},
+{
+"id": "1184",
+"label": "Plaut. Poen. 1184",
+"text": "Malim ístuc aliis vídeatur, quam uti tú te, soror, conlaúdes."
+},
+{
+"id": "1185",
+"label": "Plaut. Poen. 1185",
+"text": "Spero équidem."
+},
+{
+"id": "1185b",
+"label": "Plaut. Poen. 1185b",
+"text": "Et pól ego, quom, íngeniis quibus súmus atque aliae, gnósco;"
+},
+{
+"id": "1186",
+"label": "Plaut. Poen. 1186",
+"text": "eo súmus gnatae genere, út deceat nos ésse a culpa cástas."
+},
+{
+"id": "1187",
+"label": "Plaut. Poen. 1187",
+"text": "Iuppíter, qui genus colis álisque hominum, per quém vivimus vitálem aevom,"
+},
+{
+"id": "1188",
+"label": "Plaut. Poen. 1188",
+"text": "quem pénes spes vitae súnt hominum omniúm, da diem hunc sospítem quaeso,"
+},
+{
+"id": "1189",
+"label": "Plaut. Poen. 1189",
+"text": "† rebus meis agundis, ut quíbus annos multós carui quasque é patria"
+},
+{
+"id": "1190",
+"label": "Plaut. Poen. 1190",
+"text": "perdidi parvas † redde is libertatem, invictae praemium ut esse sciam pietati."
+},
+{
+"id": "1191",
+"label": "Plaut. Poen. 1191",
+"text": "Omnía faciet Iuppíter faxo, nam mi ést obnoxius ét me metuít."
+},
+{
+"id": "1191b",
+"label": "Plaut. Poen. 1191b",
+"text": "Tace quaeso."
+},
+{
+"id": "1191a",
+"label": "Plaut. Poen. 1191a",
+"text": "Ne lácruma, patrue."
+},
+{
+"id": "1192",
+"label": "Plaut. Poen. 1192",
+"text": "Vt vólup est homini, méa soror, si quód agit cluet victória;"
+},
+{
+"id": "1193",
+"label": "Plaut. Poen. 1193",
+"text": "sicút nos hodie intér alias praestítimus pulchritúdine."
+},
+{
+"id": "1194",
+"label": "Plaut. Poen. 1194",
+"text": "Stultá, soror, magis es quám volo. an tu éo pulchra videre, óbsecro,"
+},
+{
+"id": "1195",
+"label": "Plaut. Poen. 1195",
+"text": "si tíbi illi non os óblitumst fulígine?"
+},
+{
+"id": "1195b",
+"label": "Plaut. Poen. 1195b",
+"text": "O pátrue, o patrue mí."
+},
+{
+"id": "1195c",
+"label": "Plaut. Poen. 1195c",
+"text": "Quid est,"
+},
+{
+"id": "1196",
+"label": "Plaut. Poen. 1196",
+"text": "fratris mei gnate, gnate, quid vis? expedi."
+},
+{
+"id": "1196b",
+"label": "Plaut. Poen. 1196b",
+"text": "At enim hóc volo agas."
+},
+{
+"id": "1196c",
+"label": "Plaut. Poen. 1196c",
+"text": "At enim ágo istuc."
+},
+{
+"id": "1197",
+"label": "Plaut. Poen. 1197",
+"text": "O pátrue mi patruíssime."
+},
+{
+"id": "1197b",
+"label": "Plaut. Poen. 1197b",
+"text": "Quid est?"
+},
+{
+"id": "1197c",
+"label": "Plaut. Poen. 1197c",
+"text": "Ést lepida et lauta. út sapit."
+},
+{
+"id": "1198",
+"label": "Plaut. Poen. 1198",
+"text": "Ingénium patris habet quód sapit."
+},
+{
+"id": "1199",
+"label": "Plaut. Poen. 1199",
+"text": "Quae rés? iam diu édepol sápientiám tuam haéc quidem abusast."
+},
+{
+"id": "1200",
+"label": "Plaut. Poen. 1200",
+"text": "nunc hínc sapit, hinc sentít, quidquid sapit, éx meo amore."
+},
+{
+"id": "1201",
+"label": "Plaut. Poen. 1201",
+"text": "Nón eo genere súmus prognatae, tam étsi sumus servaé, soror,"
+},
+{
+"id": "1202",
+"label": "Plaut. Poen. 1202",
+"text": "ut deceat nos facere quicquam quod homo quisquam inrideat."
+},
+{
+"id": "1203",
+"label": "Plaut. Poen. 1203",
+"text": "multa mulierum sunt vitia, sed hoc e multis maxumumst,"
+},
+{
+"id": "1204",
+"label": "Plaut. Poen. 1204",
+"text": "quom sibi nimis placent minusque áddunt operam, uti placeant viris."
+},
+{
+"id": "1205",
+"label": "Plaut. Poen. 1205",
+"text": "Nimiae voluptatist quod in extis nostris portentumst, soror,"
+},
+{
+"id": "1206",
+"label": "Plaut. Poen. 1206",
+"text": "quodque haruspéx de ambabus dixit."
+},
+{
+"id": "1206b",
+"label": "Plaut. Poen. 1206b",
+"text": "Velim de me aliquid dixerit."
+},
+{
+"id": "1207",
+"label": "Plaut. Poen. 1207",
+"text": "Nos fore invíto domino nostro diebus paucis liberas."
+},
+{
+"id": "1208",
+"label": "Plaut. Poen. 1208",
+"text": "id ego nisi quid di aut parentes faxint, qui sperem hau scio."
+},
+{
+"id": "1209",
+"label": "Plaut. Poen. 1209",
+"text": "Mea fiducia hercle haruspex, patrue, his promisit, scio,"
+},
+{
+"id": "1210",
+"label": "Plaut. Poen. 1210",
+"text": "libertatem, quia me amare hanc scit."
+},
+{
+"id": "1210b",
+"label": "Plaut. Poen. 1210b",
+"text": "Soror, sequere hac."
+},
+{
+"id": "1210c",
+"label": "Plaut. Poen. 1210c",
+"text": "Sequor."
+},
+{
+"id": "1211",
+"label": "Plaut. Poen. 1211",
+"text": "Prius quam abitis, vos volo ambas. nisi piget, consistite."
+},
+{
+"id": "1212",
+"label": "Plaut. Poen. 1212",
+"text": "Quis revocat?"
+},
+{
+"id": "1212b",
+"label": "Plaut. Poen. 1212b",
+"text": "Qui bene volt vobis facere."
+},
+{
+"id": "1212c",
+"label": "Plaut. Poen. 1212c",
+"text": "Facere occasiost."
+},
+{
+"id": "1213",
+"label": "Plaut. Poen. 1213",
+"text": "sed quis homost?"
+},
+{
+"id": "1213b",
+"label": "Plaut. Poen. 1213b",
+"text": "Amicus vobis."
+},
+{
+"id": "1213c",
+"label": "Plaut. Poen. 1213c",
+"text": "Qui quidem inimicus non siet."
+},
+{
+"id": "1214",
+"label": "Plaut. Poen. 1214",
+"text": "Bonus est hic homo, mea voluptas."
+},
+{
+"id": "1214b",
+"label": "Plaut. Poen. 1214b",
+"text": "Pol istum malim quam malum."
+},
+{
+"id": "1215",
+"label": "Plaut. Poen. 1215",
+"text": "Siquidem amicitiast habenda, cum hoc habendast."
+},
+{
+"id": "1215b",
+"label": "Plaut. Poen. 1215b",
+"text": "Hau precor."
+},
+{
+"id": "1216",
+"label": "Plaut. Poen. 1216",
+"text": "Multa bona volt vobis facere."
+},
+{
+"id": "1216b",
+"label": "Plaut. Poen. 1216b",
+"text": "Bonus bonis bene feceris."
+},
+{
+"id": "1219",
+"label": "Plaut. Poen. 1219",
+"text": "Patrue mi, ita me di amabunt, ut ego, si sim Iuppiter,"
+},
+{
+"id": "1220",
+"label": "Plaut. Poen. 1220",
+"text": "iam hercle ego illam uxorem ducam et Iunonem extrudam foras."
+},
+{
+"id": "1221",
+"label": "Plaut. Poen. 1221",
+"text": "ut pudice verba fecit, cogitate et commode,"
+},
+{
+"id": "1222",
+"label": "Plaut. Poen. 1222",
+"text": "ut modeste orationem praebuit."
+},
+{
+"id": "1222b",
+"label": "Plaut. Poen. 1222b",
+"text": "Certo haec meast."
+},
+{
+"id": "1223",
+"label": "Plaut. Poen. 1223",
+"text": "sed ut astú sum adgressus ad eas."
+},
+{
+"id": "1223b",
+"label": "Plaut. Poen. 1223b",
+"text": "Lepide hercle atque commode."
+},
+{
+"id": "1224",
+"label": "Plaut. Poen. 1224",
+"text": "Pergo etiam temptare?"
+},
+{
+"id": "1224b",
+"label": "Plaut. Poen. 1224b",
+"text": "In pauca confer: sitiunt qui sedent."
+},
+{
+"id": "1225",
+"label": "Plaut. Poen. 1225",
+"text": "Quid istic? quod faciundumst cur non agimus? in ius vos voco."
+},
+{
+"id": "1226",
+"label": "Plaut. Poen. 1226",
+"text": "Nunc, pátrue, tu frugí bonae es. tené. vin ego hanc adpréndam?"
+},
+{
+"id": "1227",
+"label": "Plaut. Poen. 1227",
+"text": "An patruos est, Agorastocles, tuos hic?"
+},
+{
+"id": "1227b",
+"label": "Plaut. Poen. 1227b",
+"text": "Iam faxo scibis."
+},
+{
+"id": "1228",
+"label": "Plaut. Poen. 1228",
+"text": "nunc pol ego te ulciscar probe, nam faxo—mea eris sponsa."
+},
+{
+"id": "1229",
+"label": "Plaut. Poen. 1229",
+"text": "Ite in ius, ne moramini. antestare me atque duce."
+},
+{
+"id": "1230",
+"label": "Plaut. Poen. 1230",
+"text": "Ego te antestabor, postea hanc amabo atque amplexabor."
+},
+{
+"id": "1231",
+"label": "Plaut. Poen. 1231",
+"text": "sed illúd quidem volui dícere—immo hercle díxi quod volebam."
+},
+{
+"id": "1232",
+"label": "Plaut. Poen. 1232",
+"text": "Moramini. in ius vos voco, nisi honestiust prehendi."
+},
+{
+"id": "1233",
+"label": "Plaut. Poen. 1233",
+"text": "Quid in iús vocas nos? quid tibi debemus?"
+},
+{
+"id": "1233b",
+"label": "Plaut. Poen. 1233b",
+"text": "Dicet illi."
+},
+{
+"id": "1234",
+"label": "Plaut. Poen. 1234",
+"text": "Etiam me meae latrant canes?"
+},
+{
+"id": "1234b",
+"label": "Plaut. Poen. 1234b",
+"text": "At tu hercle adludiato:"
+},
+{
+"id": "1235",
+"label": "Plaut. Poen. 1235",
+"text": "dato mihi pro offa savium, pro ósse linguam obicito."
+},
+{
+"id": "1236",
+"label": "Plaut. Poen. 1236",
+"text": "ita hanc canem faciam tibi oleo tranquilliorem."
+},
+{
+"id": "1237",
+"label": "Plaut. Poen. 1237",
+"text": "Ite si ítis."
+},
+{
+"id": "1237b",
+"label": "Plaut. Poen. 1237b",
+"text": "Quid nos fecimus tibi?"
+},
+{
+"id": "1237c",
+"label": "Plaut. Poen. 1237c",
+"text": "Fures estis ambae."
+},
+{
+"id": "1238",
+"label": "Plaut. Poen. 1238",
+"text": "Nosne tíbi?"
+},
+{
+"id": "1238b",
+"label": "Plaut. Poen. 1238b",
+"text": "Vos inquam."
+},
+{
+"id": "1238c",
+"label": "Plaut. Poen. 1238c",
+"text": "Atque ego scio."
+},
+{
+"id": "1238d",
+"label": "Plaut. Poen. 1238d",
+"text": "Quid id fúrtist?"
+},
+{
+"id": "1238e",
+"label": "Plaut. Poen. 1238e",
+"text": "Hunc rogato."
+},
+{
+"id": "1239",
+"label": "Plaut. Poen. 1239",
+"text": "Quia annos multos filias meas célavistis clam me,"
+},
+{
+"id": "1240",
+"label": "Plaut. Poen. 1240",
+"text": "atque equidem ingenuas liberas summoque genere gnatas."
+},
+{
+"id": "1241",
+"label": "Plaut. Poen. 1241",
+"text": "Numquam mecastor reperies tu istuc probrum penes nos."
+},
+{
+"id": "1242",
+"label": "Plaut. Poen. 1242",
+"text": "Da pignus, ni nunc perieres, in savium, uter utri det."
+},
+{
+"id": "1243",
+"label": "Plaut. Poen. 1243",
+"text": "Nil tecum ago, apscede opsecro."
+},
+{
+"id": "1243b",
+"label": "Plaut. Poen. 1243b",
+"text": "Atque hércle mecum agendum est."
+},
+{
+"id": "1244",
+"label": "Plaut. Poen. 1244",
+"text": "nam hic patruos meus est, pro hoc mihi patronus sim necesse est;"
+},
+{
+"id": "1245",
+"label": "Plaut. Poen. 1245",
+"text": "et praedicabo quo modo furta faciatis multa"
+},
+{
+"id": "1246",
+"label": "Plaut. Poen. 1246",
+"text": "quoque modo húius filias apud vós habeatis servas,"
+},
+{
+"id": "1247",
+"label": "Plaut. Poen. 1247",
+"text": "quas vos ex patria liberas surruptas esse scitis."
+},
+{
+"id": "1248",
+"label": "Plaut. Poen. 1248",
+"text": "Vbi sunt eae? aut quas, opsecro?"
+},
+{
+"id": "1248b",
+"label": "Plaut. Poen. 1248b",
+"text": "Satis iám sunt maceratae."
+},
+{
+"id": "1249",
+"label": "Plaut. Poen. 1249",
+"text": "Quid si eloquamur?"
+},
+{
+"id": "1249b",
+"label": "Plaut. Poen. 1249b",
+"text": "Censeo hercle, patrue."
+},
+{
+"id": "1249c",
+"label": "Plaut. Poen. 1249c",
+"text": "Misera timeo,"
+},
+{
+"id": "1250",
+"label": "Plaut. Poen. 1250",
+"text": "quid hoc sít negoti, mea soror; ita stupida sine animo asto."
+},
+{
+"id": "1251",
+"label": "Plaut. Poen. 1251",
+"text": "Advortite animum, mulieres. primum, si id fieri possit,"
+},
+{
+"id": "1252",
+"label": "Plaut. Poen. 1252",
+"text": "ne indigna indignis di darent, id ego evenire vellem;"
+},
+{
+"id": "1253",
+"label": "Plaut. Poen. 1253",
+"text": "nunc quod boni mihi di danunt, vobis vostraeque matri,"
+},
+{
+"id": "1254",
+"label": "Plaut. Poen. 1254",
+"text": "eas dís est aequom gratias nos agere sempiternas,"
+},
+{
+"id": "1255",
+"label": "Plaut. Poen. 1255",
+"text": "quom nostram pietatem adprobant decorantque di immortales."
+},
+{
+"id": "1256",
+"label": "Plaut. Poen. 1256",
+"text": "vos meae estis ambae filiae et hic ést cognatus vester,"
+},
+{
+"id": "1257",
+"label": "Plaut. Poen. 1257",
+"text": "huiusce fratris filius, Agorastocles."
+},
+{
+"id": "1257b",
+"label": "Plaut. Poen. 1257b",
+"text": "Amabo,"
+},
+{
+"id": "1258",
+"label": "Plaut. Poen. 1258",
+"text": "num hi falso oblectant gaudio nos?"
+},
+{
+"id": "1258b",
+"label": "Plaut. Poen. 1258b",
+"text": "At ita me di servent,"
+},
+{
+"id": "1259",
+"label": "Plaut. Poen. 1259",
+"text": "ut hic páter est vester. date manus."
+},
+{
+"id": "1259b",
+"label": "Plaut. Poen. 1259b",
+"text": "Salve, insperate nobis"
+},
+{
+"id": "1260",
+"label": "Plaut. Poen. 1260",
+"text": "pater, té complecti nos sine."
+},
+{
+"id": "1260b",
+"label": "Plaut. Poen. 1260b",
+"text": "Cupite atque exspectate"
+},
+{
+"id": "1261",
+"label": "Plaut. Poen. 1261",
+"text": "pater, salve."
+},
+{
+"id": "1261b",
+"label": "Plaut. Poen. 1261b",
+"text": "Ambae filiae sumus."
+},
+{
+"id": "1261c",
+"label": "Plaut. Poen. 1261c",
+"text": "Amplectamur ambae."
+},
+{
+"id": "1262",
+"label": "Plaut. Poen. 1262",
+"text": "Quis me amplectetur postea?"
+},
+{
+"id": "1262b",
+"label": "Plaut. Poen. 1262b",
+"text": "Nunc ego sum fotunatus,"
+},
+{
+"id": "1263",
+"label": "Plaut. Poen. 1263",
+"text": "multorum annorum miserias nunc hac voluptate sedo."
+},
+{
+"id": "1264",
+"label": "Plaut. Poen. 1264",
+"text": "Vix hoc videmur credere."
+},
+{
+"id": "1264b",
+"label": "Plaut. Poen. 1264b",
+"text": "Magis quí credatis dicam."
+},
+{
+"id": "1265",
+"label": "Plaut. Poen. 1265",
+"text": "nam vostra nutrix † primum me cognovit."
+},
+{
+"id": "1265b",
+"label": "Plaut. Poen. 1265b",
+"text": "Vbi ea, amabo, est?"
+},
+{
+"id": "1266",
+"label": "Plaut. Poen. 1266",
+"text": "Apud hunc est."
+},
+{
+"id": "1266b",
+"label": "Plaut. Poen. 1266b",
+"text": "Quaeso, qui lubet tam diu tenere collum?"
+},
+{
+"id": "1267",
+"label": "Plaut. Poen. 1267",
+"text": "omitte saltem tu altera. nolo ego istuc."
+},
+{
+"id": "1267b",
+"label": "Plaut. Poen. 1267b",
+"text": "Enicas me."
+},
+{
+"id": "1268",
+"label": "Plaut. Poen. 1268",
+"text": "prius quám tibi desponderit."
+},
+{
+"id": "1268b",
+"label": "Plaut. Poen. 1268b",
+"text": "Mitto."
+},
+{
+"id": "1268c",
+"label": "Plaut. Poen. 1268c",
+"text": "Sperate, salve."
+},
+{
+"id": "1269",
+"label": "Plaut. Poen. 1269",
+"text": "Condamus alter alterum ergo in nervom bracchialem."
+},
+{
+"id": "1270",
+"label": "Plaut. Poen. 1270",
+"text": "quibus núnc in terra melius est?"
+},
+{
+"id": "1270b",
+"label": "Plaut. Poen. 1270b",
+"text": "Eveniunt digna dignis."
+},
+{
+"id": "1271",
+"label": "Plaut. Poen. 1271",
+"text": "Tandem huic cupitum contigit."
+},
+{
+"id": "1271b",
+"label": "Plaut. Poen. 1271b",
+"text": "O Apella, o Zeuxis pictor,"
+},
+{
+"id": "1272",
+"label": "Plaut. Poen. 1272",
+"text": "cur numero éstis mortui, hoc exemplo ut pingeretis?"
+},
+{
+"id": "1273",
+"label": "Plaut. Poen. 1273",
+"text": "nam alios pictores nil moror huius modi tractare exempla."
+},
+{
+"id": "1274",
+"label": "Plaut. Poen. 1274",
+"text": "Dí deaeque omnes, vóbis habeo mérito magnas grátias,"
+},
+{
+"id": "1275",
+"label": "Plaut. Poen. 1275",
+"text": "quom hac me laetitia adfecistis tanta et tantis gaudiis,"
+},
+{
+"id": "1276",
+"label": "Plaut. Poen. 1276",
+"text": "ut meae gnátae ad me redirent in potestatem meam."
+},
+{
+"id": "1279",
+"label": "Plaut. Poen. 1279",
+"text": "mihi te despondisse."
+},
+{
+"id": "1279b",
+"label": "Plaut. Poen. 1279b",
+"text": "Memini."
+},
+{
+"id": "1280",
+"label": "Plaut. Poen. 1280",
+"text": "Si ego minam non ultus fuero probe, quam lenoni dedi,"
+},
+{
+"id": "1281",
+"label": "Plaut. Poen. 1281",
+"text": "tum profecto me sibi habento scurrae ludificatui."
+},
+{
+"id": "1282",
+"label": "Plaut. Poen. 1282",
+"text": "is etiam me ad prandium ad se abduxit ignavissimus,"
+},
+{
+"id": "1283",
+"label": "Plaut. Poen. 1283",
+"text": "ipse abiit foras, mé reliquit pro atriensi in aedibus,"
+},
+{
+"id": "1284",
+"label": "Plaut. Poen. 1284",
+"text": "ubi nec leno néque illae redeunt, nec quod edim quicquam datur."
+},
+{
+"id": "1285",
+"label": "Plaut. Poen. 1285",
+"text": "pro maiore parte prandi pignus cepi, abii foras;"
+},
+{
+"id": "1286",
+"label": "Plaut. Poen. 1286",
+"text": "sic dedero: aere militari tetigero lenunculum."
+},
+{
+"id": "1287",
+"label": "Plaut. Poen. 1287",
+"text": "nanctus est hominem, mina quem argenti circumduceret."
+},
+{
+"id": "1288",
+"label": "Plaut. Poen. 1288",
+"text": "sed mea amica nunc mihi irato obviam veniat velim:"
+},
+{
+"id": "1289",
+"label": "Plaut. Poen. 1289",
+"text": "iam pol ego illam pugnis totam faciam uti sit merulea,"
+},
+{
+"id": "1290",
+"label": "Plaut. Poen. 1290",
+"text": "ita replebo átritate, átrior multo ut siet,"
+},
+{
+"id": "1291",
+"label": "Plaut. Poen. 1291",
+"text": "quam Aegyptini, qui cortinam ludis per circum ferunt."
+},
+{
+"id": "1292",
+"label": "Plaut. Poen. 1292",
+"text": "Tene sis me arte, mea voluptas; male ego metuo miluos,"
+},
+{
+"id": "1293",
+"label": "Plaut. Poen. 1293",
+"text": "mala illa bestia est, ne forte me auferat pullum tuom."
+},
+{
+"id": "1294",
+"label": "Plaut. Poen. 1294",
+"text": "Vt nequeo te satis complecti, mi pater."
+},
+{
+"id": "1294b",
+"label": "Plaut. Poen. 1294b",
+"text": "Ego me moror."
+},
+{
+"id": "1295",
+"label": "Plaut. Poen. 1295",
+"text": "propemodúm hoc opsonare prandium potero mihi."
+},
+{
+"id": "1296",
+"label": "Plaut. Poen. 1296",
+"text": "sed quid hoc ést? quid est? quid hóc est? quid ego video? quo modo?"
+},
+{
+"id": "1297",
+"label": "Plaut. Poen. 1297",
+"text": "quid hoc est conduplicationis? quae haec est congeminatio?"
+},
+{
+"id": "1298",
+"label": "Plaut. Poen. 1298",
+"text": "quis hic homo est cum tunicis longis quasi puer cauponius?"
+},
+{
+"id": "1299",
+"label": "Plaut. Poen. 1299",
+"text": "satin ego oculis cerno? estne illaec mea amica Anterastilis?"
+},
+{
+"id": "1300",
+"label": "Plaut. Poen. 1300",
+"text": "et ea est certo. iam pridem ego me sensi nihili pendier."
+},
+{
+"id": "1301",
+"label": "Plaut. Poen. 1301",
+"text": "non pudet puellam ámplexari baiolum in media via?"
+},
+{
+"id": "1302",
+"label": "Plaut. Poen. 1302",
+"text": "iam hercle ego illum éxcruciandum totum carnufici dabo."
+},
+{
+"id": "1303",
+"label": "Plaut. Poen. 1303",
+"text": "sane genus hoc mulierosumst tunicis demissiciis."
+},
+{
+"id": "1304",
+"label": "Plaut. Poen. 1304",
+"text": "sed adire certum est hanc amatricem Africam."
+},
+{
+"id": "1305",
+"label": "Plaut. Poen. 1305",
+"text": "heus tu, tibi dico, mulier, ecquid te pudet?"
+},
+{
+"id": "1306",
+"label": "Plaut. Poen. 1306",
+"text": "quid tibi negoti est autem cum istac? dic mihi."
+},
+{
+"id": "1307",
+"label": "Plaut. Poen. 1307",
+"text": "Adulescens, salve."
+},
+{
+"id": "1307b",
+"label": "Plaut. Poen. 1307b",
+"text": "Nolo, nihil ad te attinet."
+},
+{
+"id": "1308",
+"label": "Plaut. Poen. 1308",
+"text": "quid tibi hanc digito tactio est?"
+},
+{
+"id": "1308b",
+"label": "Plaut. Poen. 1308b",
+"text": "Quia mihi lubet."
+},
+{
+"id": "1309",
+"label": "Plaut. Poen. 1309",
+"text": "Lubet?"
+},
+{
+"id": "1309b",
+"label": "Plaut. Poen. 1309b",
+"text": "Ita dico."
+},
+{
+"id": "1309c",
+"label": "Plaut. Poen. 1309c",
+"text": "Ligula, i in malam crucem."
+},
+{
+"id": "1310",
+"label": "Plaut. Poen. 1310",
+"text": "tune hic amator audes esse, hallex viri,"
+},
+{
+"id": "1311",
+"label": "Plaut. Poen. 1311",
+"text": "aut contrectare quod mares homines amant?"
+},
+{
+"id": "1312",
+"label": "Plaut. Poen. 1312",
+"text": "deglupta mena, sarrapis, sementium,"
+},
+{
+"id": "1313",
+"label": "Plaut. Poen. 1313",
+"text": "manstruca, halagora, sampsa, tum autem plenior"
+},
+{
+"id": "1314",
+"label": "Plaut. Poen. 1314",
+"text": "ali ulpicique quam Romani remiges."
+},
+{
+"id": "1315",
+"label": "Plaut. Poen. 1315",
+"text": "Num tibi, adulescens, malae aut dentes pruriunt,"
+},
+{
+"id": "1316",
+"label": "Plaut. Poen. 1316",
+"text": "qui huic es molestus, an malam rem quaeritas?"
+},
+{
+"id": "1317",
+"label": "Plaut. Poen. 1317",
+"text": "Quin adhibuisti, dum istaec loquere, tympanum?"
+},
+{
+"id": "1318",
+"label": "Plaut. Poen. 1318",
+"text": "nam te cinaedum esse arbitror magis quam virum."
+},
+{
+"id": "1319",
+"label": "Plaut. Poen. 1319",
+"text": "Scin quam cinaedus sum? ite istinc, servi, foras,"
+},
+{
+"id": "1320",
+"label": "Plaut. Poen. 1320",
+"text": "ecferte fustis."
+},
+{
+"id": "1320b",
+"label": "Plaut. Poen. 1320b",
+"text": "Heus tu, si quid per iocum"
+},
+{
+"id": "1321",
+"label": "Plaut. Poen. 1321",
+"text": "dixi, nolito in serium convertere."
+},
+{
+"id": "1322",
+"label": "Plaut. Poen. 1322",
+"text": "Qui tibi lubido est, opsecro, Antamonides,"
+},
+{
+"id": "1323",
+"label": "Plaut. Poen. 1323",
+"text": "loqui inclementer nostro cognato et patri?"
+},
+{
+"id": "1324",
+"label": "Plaut. Poen. 1324",
+"text": "nam hic noster pater est; hic nos cognovit modo"
+},
+{
+"id": "1325",
+"label": "Plaut. Poen. 1325",
+"text": "et hunc sui fratris filium."
+},
+{
+"id": "1325b",
+"label": "Plaut. Poen. 1325b",
+"text": "Ita me Iuppiter"
+},
+{
+"id": "1326",
+"label": "Plaut. Poen. 1326",
+"text": "bene amet, bene factum. gaudeo et volup est mihi,"
+},
+{
+"id": "1327",
+"label": "Plaut. Poen. 1327",
+"text": "si quid lenoni óptigit magni mali."
+},
+{
+"id": "1332",
+"label": "Plaut. Poen. 1332",
+"text": "Bonum virum eccum video, se recipit domum;"
+},
+{
+"id": "1333b",
+"label": "Plaut. Poen. 1333b",
+"text": "Vtrumvis est, vel leno vel Lycus."
+},
+{
+"id": "1334",
+"label": "Plaut. Poen. 1334",
+"text": "in servitute hic filias habuit tuas"
+},
+{
+"id": "1335",
+"label": "Plaut. Poen. 1335",
+"text": "et mi auri fur est."
+},
+{
+"id": "1336",
+"label": "Plaut. Poen. 1336",
+"text": "rapiamus in ius."
+},
+{
+"id": "1336b",
+"label": "Plaut. Poen. 1336b",
+"text": "Minime."
+},
+{
+"id": "1336c",
+"label": "Plaut. Poen. 1336c",
+"text": "Quapropter?"
+},
+{
+"id": "1336d",
+"label": "Plaut. Poen. 1336d",
+"text": "Quia"
+},
+{
+"id": "1337",
+"label": "Plaut. Poen. 1337",
+"text": "†iniuriarum multo induci satius est."
+},
+{
+"id": "1338",
+"label": "Plaut. Poen. 1338",
+"text": "Decipitur nemo, mea quidem sententia,"
+},
+{
+"id": "1339",
+"label": "Plaut. Poen. 1339",
+"text": "qui suis amicis narrat recte res suas;"
+},
+{
+"id": "1340",
+"label": "Plaut. Poen. 1340",
+"text": "nam omnibus amicis meis idem unum convenit,"
+},
+{
+"id": "1341",
+"label": "Plaut. Poen. 1341",
+"text": "ut me suspendam, ne addicar Agorastocli."
+},
+{
+"id": "1342",
+"label": "Plaut. Poen. 1342",
+"text": "Leno, eamus in ius."
+},
+{
+"id": "1342b",
+"label": "Plaut. Poen. 1342b",
+"text": "Opsecro te, Agorastocles,"
+},
+{
+"id": "1343",
+"label": "Plaut. Poen. 1343",
+"text": "suspendere ut me liceat."
+},
+{
+"id": "1343b",
+"label": "Plaut. Poen. 1343b",
+"text": "In ius te voco."
+},
+{
+"id": "1344",
+"label": "Plaut. Poen. 1344",
+"text": "Quid tibi mecum autem?"
+},
+{
+"id": "1344b",
+"label": "Plaut. Poen. 1344b",
+"text": "Quia hasce aio liberas"
+},
+{
+"id": "1345",
+"label": "Plaut. Poen. 1345",
+"text": "ingenuasque esse filias ambas meas;"
+},
+{
+"id": "1346",
+"label": "Plaut. Poen. 1346",
+"text": "eae súnt surruptae cum nutrice parvolae."
+},
+{
+"id": "1347",
+"label": "Plaut. Poen. 1347",
+"text": "Iam pridem equidem istuc scivi, et miratus fui,"
+},
+{
+"id": "1348",
+"label": "Plaut. Poen. 1348",
+"text": "neminem venire qui istas adsereret manu."
+},
+{
+"id": "1351",
+"label": "Plaut. Poen. 1351",
+"text": "Duplum pro furto mi opus est."
+},
+{
+"id": "1351b",
+"label": "Plaut. Poen. 1351b",
+"text": "Sume hinc quid lubet."
+},
+{
+"id": "1352",
+"label": "Plaut. Poen. 1352",
+"text": "Et mihi suppliciis multis."
+},
+{
+"id": "1352b",
+"label": "Plaut. Poen. 1352b",
+"text": "Sume hinc quid lubet:"
+},
+{
+"id": "1354",
+"label": "Plaut. Poen. 1354",
+"text": "collo rem solvam iam omnibus, quasi baiolus."
+},
+{
+"id": "1365",
+"label": "Plaut. Poen. 1365",
+"text": "ut sis apud me lignea in custodia."
+},
+{
+"id": "1372",
+"label": "Plaut. Poen. 1372",
+"text": "Quam rém agis, miles? qui lubet patruo meo"
+},
+{
+"id": "1373",
+"label": "Plaut. Poen. 1373",
+"text": "loqui inclementer? ne mirere, mulieres"
+},
+{
+"id": "1374",
+"label": "Plaut. Poen. 1374",
+"text": "quod eum secuntur: modo cognovit filias"
+},
+{
+"id": "1375",
+"label": "Plaut. Poen. 1375",
+"text": "suas ésse hasce ambas."
+},
+{
+"id": "1375b",
+"label": "Plaut. Poen. 1375b",
+"text": "Hem, quod verbum aures meas"
+},
+{
+"id": "1376",
+"label": "Plaut. Poen. 1376",
+"text": "tetigit? nunc perii."
+},
+{
+"id": "1376b",
+"label": "Plaut. Poen. 1376b",
+"text": "Vnde haec perierunt domo?"
+},
+{
+"id": "1377",
+"label": "Plaut. Poen. 1377",
+"text": "Carthaginienses sunt."
+},
+{
+"id": "1377b",
+"label": "Plaut. Poen. 1377b",
+"text": "At ego sum perditus."
+},
+{
+"id": "1378",
+"label": "Plaut. Poen. 1378",
+"text": "illuc ego metui semper, ne cognosceret"
+},
+{
+"id": "1379",
+"label": "Plaut. Poen. 1379",
+"text": "eas áliquis, quod nunc factumst. vae misero mihi,"
+},
+{
+"id": "1380",
+"label": "Plaut. Poen. 1380",
+"text": "periere, opinor, duodeviginti minae,"
+},
+{
+"id": "1381",
+"label": "Plaut. Poen. 1381",
+"text": "qui hasce emi."
+},
+{
+"id": "1381b",
+"label": "Plaut. Poen. 1381b",
+"text": "Et tute ipse periisti, Lyce."
+},
+{
+"id": "1382",
+"label": "Plaut. Poen. 1382",
+"text": "Quis hic est?"
+},
+{
+"id": "1382b",
+"label": "Plaut. Poen. 1382b",
+"text": "Vtrumvis est, vel leno vel Lycus."
+},
+{
+"id": "1383",
+"label": "Plaut. Poen. 1383",
+"text": "in servitute hic filias habuit tuas,"
+},
+{
+"id": "1384",
+"label": "Plaut. Poen. 1384",
+"text": "et mi auri fur est."
+},
+{
+"id": "1384b",
+"label": "Plaut. Poen. 1384b",
+"text": "Bellum hominem, quem noveris."
+},
+{
+"id": "1385",
+"label": "Plaut. Poen. 1385",
+"text": "Leno, rapacem te esse semper credidi,"
+},
+{
+"id": "1386",
+"label": "Plaut. Poen. 1386",
+"text": "verúm etiam furacem qui norunt magis."
+},
+{
+"id": "1387",
+"label": "Plaut. Poen. 1387",
+"text": "Accedam. per ego tua te genua óbsecro"
+},
+{
+"id": "1388",
+"label": "Plaut. Poen. 1388",
+"text": "et hunc, cognatum quem tuom esse intellego:"
+},
+{
+"id": "1389",
+"label": "Plaut. Poen. 1389",
+"text": "quando boni estis, ut bonos facere addecet"
+},
+{
+"id": "1390",
+"label": "Plaut. Poen. 1390",
+"text": "faciatis, vestro subveniatis supplici."
+},
+{
+"id": "1391",
+"label": "Plaut. Poen. 1391",
+"text": "iam pridem equidem istas scivi ésse liberas"
+},
+{
+"id": "1392",
+"label": "Plaut. Poen. 1392",
+"text": "et exspectabam, si qui eas ássereret manu."
+},
+{
+"id": "1393",
+"label": "Plaut. Poen. 1393",
+"text": "nam non meae sunt prosum. tum autem aurum tuom"
+},
+{
+"id": "1394",
+"label": "Plaut. Poen. 1394",
+"text": "reddam, quod apud me est, et iusiurandum dabo,"
+},
+{
+"id": "1395",
+"label": "Plaut. Poen. 1395",
+"text": "me malitiose nil fecisse, Agorastocles."
+},
+{
+"id": "1396",
+"label": "Plaut. Poen. 1396",
+"text": "Quid mihi par facere sit, ego mecum consulam."
+},
+{
+"id": "1397",
+"label": "Plaut. Poen. 1397",
+"text": "omitte genua."
+},
+{
+"id": "1397b",
+"label": "Plaut. Poen. 1397b",
+"text": "Mitto, si ita sententia est."
+},
+{
+"id": "1398",
+"label": "Plaut. Poen. 1398",
+"text": "Heús tu leno."
+},
+{
+"id": "1398b",
+"label": "Plaut. Poen. 1398b",
+"text": "Quid lenonem vis inter negotium?"
+},
+{
+"id": "1399",
+"label": "Plaut. Poen. 1399",
+"text": "Vt minam mi argenti reddas, prius quam in nervom abducere."
+},
+{
+"id": "1400",
+"label": "Plaut. Poen. 1400",
+"text": "Di meliora faxint."
+},
+{
+"id": "1400b",
+"label": "Plaut. Poen. 1400b",
+"text": "Sic est: hodie cenabis toris."
+},
+{
+"id": "1401",
+"label": "Plaut. Poen. 1401",
+"text": "aurum argentum collum, leno, tris res nunc debes simul."
+},
+{
+"id": "1402",
+"label": "Plaut. Poen. 1402",
+"text": "Quid me in hac re facere deceat, egomet mecum cogito."
+},
+{
+"id": "1403",
+"label": "Plaut. Poen. 1403",
+"text": "si volo hunc ulcisci, litis sequar in alieno oppido,"
+},
+{
+"id": "1404",
+"label": "Plaut. Poen. 1404",
+"text": "quantum audivi ingenium et mores eius quo pacto sient."
+},
+{
+"id": "1405",
+"label": "Plaut. Poen. 1405",
+"text": "Mi pater, ne quid tibi cum istoc rei sit pessumo, obsecro."
+},
+{
+"id": "1406",
+"label": "Plaut. Poen. 1406",
+"text": "Ausculta sorori. abi, díiunge inimicitias cum improbo."
+},
+{
+"id": "1407",
+"label": "Plaut. Poen. 1407",
+"text": "Hoc age sis, leno. quamquam ego te meruisse ut pereas scio,"
+},
+{
+"id": "1408",
+"label": "Plaut. Poen. 1408",
+"text": "non experiar tecum."
+},
+{
+"id": "1408b",
+"label": "Plaut. Poen. 1408b",
+"text": "Neque ego; si aurum mihi reddes meum,"
+},
+{
+"id": "1409",
+"label": "Plaut. Poen. 1409",
+"text": "leno, quando ex nervo emissu's emissus es — compingare in carcerem."
+},
+{
+"id": "1410",
+"label": "Plaut. Poen. 1410",
+"text": "Iamne autem ut soles?"
+},
+{
+"id": "1410b",
+"label": "Plaut. Poen. 1410b",
+"text": "Ego, Poene, tibi me purgatum volo."
+},
+{
+"id": "1411",
+"label": "Plaut. Poen. 1411",
+"text": "si quid dixi iratus advorsum animi tui sententiam,"
+},
+{
+"id": "1412",
+"label": "Plaut. Poen. 1412",
+"text": "id uti ignoscas quaeso; et quom istas invenisti filias,"
+},
+{
+"id": "1413",
+"label": "Plaut. Poen. 1413",
+"text": "ita me di ament ut mihi volup est."
+},
+{
+"id": "1413b",
+"label": "Plaut. Poen. 1413b",
+"text": "Ignosco et credo tibi."
+},
+{
+"id": "1414",
+"label": "Plaut. Poen. 1414",
+"text": "Leno, tu autem amicam mihi des facito aut mihi reddas minam."
+},
+{
+"id": "1415",
+"label": "Plaut. Poen. 1415",
+"text": "Vin tibicinam meam habere?"
+},
+{
+"id": "1415b",
+"label": "Plaut. Poen. 1415b",
+"text": "Nil moror tibicinam;"
+},
+{
+"id": "1416",
+"label": "Plaut. Poen. 1416",
+"text": "nescias, utrum ei maiores buccaene an mammae sient."
+},
+{
+"id": "1417",
+"label": "Plaut. Poen. 1417",
+"text": "Dabo quae placeat."
+},
+{
+"id": "1417b",
+"label": "Plaut. Poen. 1417b",
+"text": "Cura."
+},
+{
+"id": "1417c",
+"label": "Plaut. Poen. 1417c",
+"text": "Aúrum cras ad te referam tuom."
+},
+{
+"id": "1418",
+"label": "Plaut. Poen. 1418",
+"text": "Facito in memoria habeas."
+},
+{
+"id": "1418b",
+"label": "Plaut. Poen. 1418b",
+"text": "Miles, sequere me.—"
+},
+{
+"id": "1418c",
+"label": "Plaut. Poen. 1418c",
+"text": "Ego vero sequor.—"
+},
+{
+"id": "1419",
+"label": "Plaut. Poen. 1419",
+"text": "Quid ais, patrue? quando hinc ire cogitas Carthaginem?"
+},
+{
+"id": "1420",
+"label": "Plaut. Poen. 1420",
+"text": "nam tecum mi una ire certum est."
+},
+{
+"id": "1420b",
+"label": "Plaut. Poen. 1420b",
+"text": "Vbi primum potero, ilico."
+},
+{
+"id": "1421",
+"label": "Plaut. Poen. 1421",
+"text": "Dum auctionem facio, hic opus est aliquot ut maneas dies."
+},
+{
+"id": "1422",
+"label": "Plaut. Poen. 1422",
+"text": "Faciam ita ut vis."
+},
+{
+"id": "1422b",
+"label": "Plaut. Poen. 1422b",
+"text": "Age sis, eamus, nos curemus. plaudite."
+}
+]
+}

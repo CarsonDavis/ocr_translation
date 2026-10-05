@@ -1,0 +1,4697 @@
+{
+"corpus": "statius-thebaid",
+"unit": "6",
+"title": "Statius, Thebaid, Theb. 6",
+"passages": [
+{
+"id": "6.1",
+"label": "Stat. Theb. 6.1",
+"text": "Nuntia multivago Danaas perlabitur urbes"
+},
+{
+"id": "6.2",
+"label": "Stat. Theb. 6.2",
+"text": "Fama gradu, sancire novo sollemnia busto"
+},
+{
+"id": "6.3",
+"label": "Stat. Theb. 6.3",
+"text": "Inachidas ludumque super, quo Martia bellis"
+},
+{
+"id": "6.4",
+"label": "Stat. Theb. 6.4",
+"text": "praesudare paret seseque accendere virtus."
+},
+{
+"id": "6.5",
+"label": "Stat. Theb. 6.5",
+"text": "Graium ex more decus: primus Pisaea per arva"
+},
+{
+"id": "6.6",
+"label": "Stat. Theb. 6.6",
+"text": "hunc pius Alcides Pelopi certavit honorem"
+},
+{
+"id": "6.7",
+"label": "Stat. Theb. 6.7",
+"text": "pulvereumque fera crinem detersit oliva:"
+},
+{
+"id": "6.8",
+"label": "Stat. Theb. 6.8",
+"text": "proxima vipereo celebratur libera nexu"
+},
+{
+"id": "6.9",
+"label": "Stat. Theb. 6.9",
+"text": "Phocis, Apollineae bellum puerile pharetrae;"
+},
+{
+"id": "6.10",
+"label": "Stat. Theb. 6.10",
+"text": "mox circum tristes servata Palaemonis aras"
+},
+{
+"id": "6.11",
+"label": "Stat. Theb. 6.11",
+"text": "nigra superstitio, quotiens animosa resumit"
+},
+{
+"id": "6.12",
+"label": "Stat. Theb. 6.12",
+"text": "Leucothea gemitus et amica ad litora festa"
+},
+{
+"id": "6.13",
+"label": "Stat. Theb. 6.13",
+"text": "tempestate venit: planctu conclamat uterque"
+},
+{
+"id": "6.14",
+"label": "Stat. Theb. 6.14",
+"text": "Isthmos. Echioniae responsant flebile Thebae,"
+},
+{
+"id": "6.15",
+"label": "Stat. Theb. 6.15",
+"text": "et nunc eximii regum, quibus Argos alumnis"
+},
+{
+"id": "6.16",
+"label": "Stat. Theb. 6.16",
+"text": "conexum caelo, quorumque ingentia tellus"
+},
+{
+"id": "6.17",
+"label": "Stat. Theb. 6.17",
+"text": "Aonis et Tyriae suspirant nomina matres,"
+},
+{
+"id": "6.18",
+"label": "Stat. Theb. 6.18",
+"text": "concurrunt nudasque movent in proelia vires:"
+},
+{
+"id": "6.19",
+"label": "Stat. Theb. 6.19",
+"text": "ceu primum ausurae trans alta ignota biremes,"
+},
+{
+"id": "6.20",
+"label": "Stat. Theb. 6.20",
+"text": "seu Tyrrhenam hiemem, seu stagna Aegaea lacessant,"
+},
+{
+"id": "6.21",
+"label": "Stat. Theb. 6.21",
+"text": "tranquillo prius arma lacu clavumque levesque"
+},
+{
+"id": "6.22",
+"label": "Stat. Theb. 6.22",
+"text": "explorant remos atque ipsa pericula discunt;"
+},
+{
+"id": "6.23",
+"label": "Stat. Theb. 6.23",
+"text": "at cum experta cohors, tune pontum inrumpere fretae"
+},
+{
+"id": "6.24",
+"label": "Stat. Theb. 6.24",
+"text": "longius ereptasque oculis non quaerere terras."
+},
+{
+"id": "6.25",
+"label": "Stat. Theb. 6.25",
+"text": "Clara laboriferos caelo Tithonia currus"
+},
+{
+"id": "6.26",
+"label": "Stat. Theb. 6.26",
+"text": "extulerat vigilesque deae pallentis habenas"
+},
+{
+"id": "6.27",
+"label": "Stat. Theb. 6.27",
+"text": "et Nox et cornu fugiebat Somnus inani;"
+},
+{
+"id": "6.28",
+"label": "Stat. Theb. 6.28",
+"text": "iam plangore viae, gemitu iam regia mugit"
+},
+{
+"id": "6.29",
+"label": "Stat. Theb. 6.29",
+"text": "flebilis, acceptos longe nemora avia frangunt"
+},
+{
+"id": "6.30",
+"label": "Stat. Theb. 6.30",
+"text": "multiplicantque sonos, sedet ipse exutus honoro"
+},
+{
+"id": "6.31",
+"label": "Stat. Theb. 6.31",
+"text": "vittarum nexu genitor squalentiaque ora"
+},
+{
+"id": "6.32",
+"label": "Stat. Theb. 6.32",
+"text": "sparsus et incultam ferali pulvere barbam,"
+},
+{
+"id": "6.33",
+"label": "Stat. Theb. 6.33",
+"text": "asperior contra planctusque egressa viriles"
+},
+{
+"id": "6.34",
+"label": "Stat. Theb. 6.34",
+"text": "exemplo famulas premit hortaturque volentes"
+},
+{
+"id": "6.35",
+"label": "Stat. Theb. 6.35",
+"text": "orba parens, lacerasque super prorumpere nati"
+},
+{
+"id": "6.36",
+"label": "Stat. Theb. 6.36",
+"text": "relliquias ardet totiensque avolsa refertur,"
+},
+{
+"id": "6.37",
+"label": "Stat. Theb. 6.37",
+"text": "arcet et ipse pater, mox ut maerentia dignis"
+},
+{
+"id": "6.38",
+"label": "Stat. Theb. 6.38",
+"text": "vultibus Inachii penetrarunt limina reges,"
+},
+{
+"id": "6.39",
+"label": "Stat. Theb. 6.39",
+"text": "ceu nova tunc clades et primo saueius infans"
+},
+{
+"id": "6.40",
+"label": "Stat. Theb. 6.40",
+"text": "vulnere letalisve inrumperet atria serpens,"
+},
+{
+"id": "6.41",
+"label": "Stat. Theb. 6.41",
+"text": "sic alium ex alio quamquam lassata fragorem"
+},
+{
+"id": "6.42",
+"label": "Stat. Theb. 6.42",
+"text": "pectora congeminant, integratoque resultant"
+},
+{
+"id": "6.43",
+"label": "Stat. Theb. 6.43",
+"text": "accensae clamore fores; sensere Pelasgi"
+},
+{
+"id": "6.44",
+"label": "Stat. Theb. 6.44",
+"text": "invidiam et lacrimis excusant crimen obortis."
+},
+{
+"id": "6.45",
+"label": "Stat. Theb. 6.45",
+"text": "Ipse, datum quotiens intereisoque tumultu"
+},
+{
+"id": "6.46",
+"label": "Stat. Theb. 6.46",
+"text": "conticuit stupefacta domus, solatur Adrastus"
+},
+{
+"id": "6.47",
+"label": "Stat. Theb. 6.47",
+"text": "adloquiis genitorem ultro, nune fata recensens"
+},
+{
+"id": "6.48",
+"label": "Stat. Theb. 6.48",
+"text": "resque hominum duras et inexorabile pensum,"
+},
+{
+"id": "6.49",
+"label": "Stat. Theb. 6.49",
+"text": "nune aliam prolem mansuraque numine dextro"
+},
+{
+"id": "6.50",
+"label": "Stat. Theb. 6.50",
+"text": "pignora, nondum orsis modus, et lamenta redibant."
+},
+{
+"id": "6.51",
+"label": "Stat. Theb. 6.51",
+"text": "ille quoque adfatus non mollius audit amicos,"
+},
+{
+"id": "6.52",
+"label": "Stat. Theb. 6.52",
+"text": "quam trucis Ionii rabies clamantia ponto"
+},
+{
+"id": "6.53",
+"label": "Stat. Theb. 6.53",
+"text": "vota virum aut tenues curant vaga fulmina nimbos."
+},
+{
+"id": "6.54",
+"label": "Stat. Theb. 6.54",
+"text": "Tristibus interea ramis teneraque cupresso"
+},
+{
+"id": "6.55",
+"label": "Stat. Theb. 6.55",
+"text": "damnatus flammae torus et puerile feretrum"
+},
+{
+"id": "6.56",
+"label": "Stat. Theb. 6.56",
+"text": "texitur: ima virent agresti stramina cultu;"
+},
+{
+"id": "6.57",
+"label": "Stat. Theb. 6.57",
+"text": "proxima gramineis operosior area sertis,"
+},
+{
+"id": "6.58",
+"label": "Stat. Theb. 6.58",
+"text": "et picturatus morituris floribus agger;"
+},
+{
+"id": "6.59",
+"label": "Stat. Theb. 6.59",
+"text": "tertius adsurgens Arabum strue tollitur ordo"
+},
+{
+"id": "6.60",
+"label": "Stat. Theb. 6.60",
+"text": "Eoas complexus opes incanaque glebis"
+},
+{
+"id": "6.61",
+"label": "Stat. Theb. 6.61",
+"text": "tura et ab antiquo durantia cinnama Belo."
+},
+{
+"id": "6.62",
+"label": "Stat. Theb. 6.62",
+"text": "summa crepant auro, Tyrioque attollitur ostro"
+},
+{
+"id": "6.63",
+"label": "Stat. Theb. 6.63",
+"text": "molle supercilium, teretes hoc undique gemmae"
+},
+{
+"id": "6.64",
+"label": "Stat. Theb. 6.64",
+"text": "inradiant, medio Linus intertextus acantho"
+},
+{
+"id": "6.65",
+"label": "Stat. Theb. 6.65",
+"text": "letiferique canes: opus admirabile semper"
+},
+{
+"id": "6.66",
+"label": "Stat. Theb. 6.66",
+"text": "oderat atque oculos flectebat ab omine mater,"
+},
+{
+"id": "6.67",
+"label": "Stat. Theb. 6.67",
+"text": "arma etiam et veterum exuvias circumdat avorum"
+},
+{
+"id": "6.68",
+"label": "Stat. Theb. 6.68",
+"text": "gloria mixta malis adflictaeque ambitus aulae,"
+},
+{
+"id": "6.69",
+"label": "Stat. Theb. 6.69",
+"text": "ceu grande exsequiis onus atque immensa ferantur"
+},
+{
+"id": "6.70",
+"label": "Stat. Theb. 6.70",
+"text": "membra rogo, sed cassa tamen sterilisque dolentes"
+},
+{
+"id": "6.71",
+"label": "Stat. Theb. 6.71",
+"text": "fama iuvat, parvique augescunt funere manes,"
+},
+{
+"id": "6.72",
+"label": "Stat. Theb. 6.72",
+"text": "inde ingens lacrimis honor et miseranda voluptas,"
+},
+{
+"id": "6.73",
+"label": "Stat. Theb. 6.73",
+"text": "muneraque in cineres annis graviora feruntur —"
+},
+{
+"id": "6.74",
+"label": "Stat. Theb. 6.74",
+"text": "namque illi et pharetras brevioraque tela dicarat"
+},
+{
+"id": "6.75",
+"label": "Stat. Theb. 6.75",
+"text": "festinus voti pater insontesque sagittas;"
+},
+{
+"id": "6.76",
+"label": "Stat. Theb. 6.76",
+"text": "iam tunc et nota stabuli de gente probatos"
+},
+{
+"id": "6.77",
+"label": "Stat. Theb. 6.77",
+"text": "in nomen pascebat equos — cinctusque sonantes"
+},
+{
+"id": "6.78",
+"label": "Stat. Theb. 6.78",
+"text": "armaque maiores exspectatura lacertos."
+},
+{
+"id": "6.79",
+"label": "Stat. Theb. 6.79",
+"text": "spes avidae! quas non in nomen credula vestes"
+},
+{
+"id": "6.80",
+"label": "Stat. Theb. 6.80",
+"text": "urgebat studio cultusque insignia regni"
+},
+{
+"id": "6.81",
+"label": "Stat. Theb. 6.81",
+"text": "purpureos sceptrumque minus? cuncta ignibus atris"
+},
+{
+"id": "6.82",
+"label": "Stat. Theb. 6.82",
+"text": "damnat atrox suaque ipse parens gestamina ferri,"
+},
+{
+"id": "6.83",
+"label": "Stat. Theb. 6.83",
+"text": "si damnis rabidum queat exsaturare dolorem."
+},
+{
+"id": "6.84",
+"label": "Stat. Theb. 6.84",
+"text": "Parte alia gnari monitis exercitus instat"
+},
+{
+"id": "6.85",
+"label": "Stat. Theb. 6.85",
+"text": "auguris aeriam truncis nemorumque ruina,"
+},
+{
+"id": "6.86",
+"label": "Stat. Theb. 6.86",
+"text": "montis opus, cumulare pyram, quae crimina caesi"
+},
+{
+"id": "6.87",
+"label": "Stat. Theb. 6.87",
+"text": "anguis et infausti cremet atra piacula belli,"
+},
+{
+"id": "6.88",
+"label": "Stat. Theb. 6.88",
+"text": "his labor accisam Nemeen umbrosaque tempe"
+},
+{
+"id": "6.89",
+"label": "Stat. Theb. 6.89",
+"text": "praecipitare solo lucosque ostendere Phoebo,"
+},
+{
+"id": "6.90",
+"label": "Stat. Theb. 6.90",
+"text": "sternitur extemplo veteres incaedua ferro"
+},
+{
+"id": "6.91",
+"label": "Stat. Theb. 6.91",
+"text": "silva comas, largae qua non opulentior umbrae"
+},
+{
+"id": "6.92",
+"label": "Stat. Theb. 6.92",
+"text": "Argolicos inter saltusque educta Lycaeos"
+},
+{
+"id": "6.93",
+"label": "Stat. Theb. 6.93",
+"text": "extulerat super astra caput: stat sacra senectae"
+},
+{
+"id": "6.94",
+"label": "Stat. Theb. 6.94",
+"text": "numine, nec solos hominum transgressa veterno"
+},
+{
+"id": "6.95",
+"label": "Stat. Theb. 6.95",
+"text": "fertur avos, Nymphas etiam mutasse superstes"
+},
+{
+"id": "6.96",
+"label": "Stat. Theb. 6.96",
+"text": "Faunorumque greges, aderat miserabile luco"
+},
+{
+"id": "6.97",
+"label": "Stat. Theb. 6.97",
+"text": "exscidium: fugere ferae, nidosque tepentes"
+},
+{
+"id": "6.98",
+"label": "Stat. Theb. 6.98",
+"text": "absiliunt — metus urget — aves; cadit ardua fagus,"
+},
+{
+"id": "6.99",
+"label": "Stat. Theb. 6.99",
+"text": "Chaoniumque nemus brumaeque inlaesa cupressus,"
+},
+{
+"id": "6.100",
+"label": "Stat. Theb. 6.100",
+"text": "procumbunt piceae, flammis alimenta supremis,"
+},
+{
+"id": "6.101",
+"label": "Stat. Theb. 6.101",
+"text": "ornique iliceaeque trabes metuendaque suco"
+},
+{
+"id": "6.102",
+"label": "Stat. Theb. 6.102",
+"text": "taxus et infandos belli potura cruores"
+},
+{
+"id": "6.103",
+"label": "Stat. Theb. 6.103",
+"text": "fraxinus atque situ non expugnabile robur."
+},
+{
+"id": "6.104",
+"label": "Stat. Theb. 6.104",
+"text": "hinc audax abies et odoro vulnere pinus"
+},
+{
+"id": "6.105",
+"label": "Stat. Theb. 6.105",
+"text": "scinditur, adclinant intonsa cacumina terrae"
+},
+{
+"id": "6.106",
+"label": "Stat. Theb. 6.106",
+"text": "alnus amica fretis nec inhospita vitibus ulmus."
+},
+{
+"id": "6.107",
+"label": "Stat. Theb. 6.107",
+"text": "dat gemitum tellus: non sic eversa feruntur"
+},
+{
+"id": "6.108",
+"label": "Stat. Theb. 6.108",
+"text": "Ismara, cum fracto Boreas caput extulit antro,"
+},
+{
+"id": "6.109",
+"label": "Stat. Theb. 6.109",
+"text": "non grassante noto citius nocturna peregit"
+},
+{
+"id": "6.110",
+"label": "Stat. Theb. 6.110",
+"text": "flamma nemus; linquunt flentes dilecta locorum"
+},
+{
+"id": "6.111",
+"label": "Stat. Theb. 6.111",
+"text": "otia cana Pales Silvanusque arbiter umbrae"
+},
+{
+"id": "6.112",
+"label": "Stat. Theb. 6.112",
+"text": "semideumque pecus, migrantibus adgemit illis"
+},
+{
+"id": "6.113",
+"label": "Stat. Theb. 6.113",
+"text": "silva, nec amplexae dimittunt robora Nymphae."
+},
+{
+"id": "6.114",
+"label": "Stat. Theb. 6.114",
+"text": "ut cum possessas avidis victoribus arces"
+},
+{
+"id": "6.115",
+"label": "Stat. Theb. 6.115",
+"text": "dux raptare dedit, vix signa audita, nec urbem"
+},
+{
+"id": "6.116",
+"label": "Stat. Theb. 6.116",
+"text": "invenias; ducunt sternuntque abiguntque feruntque"
+},
+{
+"id": "6.117",
+"label": "Stat. Theb. 6.117",
+"text": "immodici, minor ille fragor, quo bella gerebant."
+},
+{
+"id": "6.118",
+"label": "Stat. Theb. 6.118",
+"text": "Iamque pari cumulo geminas hanc tristibus umbris,"
+},
+{
+"id": "6.119",
+"label": "Stat. Theb. 6.119",
+"text": "ast illam superis aequus labor auxerat aras,"
+},
+{
+"id": "6.120",
+"label": "Stat. Theb. 6.120",
+"text": "cum signum luctus cornu grave mugit adunco"
+},
+{
+"id": "6.121",
+"label": "Stat. Theb. 6.121",
+"text": "tibia, cui teneros suetum producere manes"
+},
+{
+"id": "6.122",
+"label": "Stat. Theb. 6.122",
+"text": "lege Phrygum maesta. Pelopem monstrasse ferebant"
+},
+{
+"id": "6.123",
+"label": "Stat. Theb. 6.123",
+"text": "exsequiale sacrum carmenque minoribus umbris"
+},
+{
+"id": "6.124",
+"label": "Stat. Theb. 6.124",
+"text": "utile, quo geminis Niobe consumpta pharetris"
+},
+{
+"id": "6.125",
+"label": "Stat. Theb. 6.125",
+"text": "squalida bissenas Sipylon deduxerat urnas."
+},
+{
+"id": "6.126",
+"label": "Stat. Theb. 6.126",
+"text": "Portant inferias arsuraque fercula primi"
+},
+{
+"id": "6.127",
+"label": "Stat. Theb. 6.127",
+"text": "Graiorum, titulisque pios testantur honores"
+},
+{
+"id": "6.128",
+"label": "Stat. Theb. 6.128",
+"text": "gentis quisque suae; longo post tempore surgit"
+},
+{
+"id": "6.129",
+"label": "Stat. Theb. 6.129",
+"text": "colla super iuvenum — numero dux legerat omni —"
+},
+{
+"id": "6.130",
+"label": "Stat. Theb. 6.130",
+"text": "ipse fero clamore torus, cinxere Lycurgum"
+},
+{
+"id": "6.131",
+"label": "Stat. Theb. 6.131",
+"text": "Leni a ei proceres, genetricem mollior ambit"
+},
+{
+"id": "6.132",
+"label": "Stat. Theb. 6.132",
+"text": "turba, nec Hypsipyle raro subit agmine; valiant"
+},
+{
+"id": "6.133",
+"label": "Stat. Theb. 6.133",
+"text": "Inachidae memores, sustentant livida nati"
+},
+{
+"id": "6.134",
+"label": "Stat. Theb. 6.134",
+"text": "bracchia et inventae concedunt plangere matri."
+},
+{
+"id": "6.135",
+"label": "Stat. Theb. 6.135",
+"text": "Illic infaustos ut primum egressa penates"
+},
+{
+"id": "6.136",
+"label": "Stat. Theb. 6.136",
+"text": "Eurydice, nudo vocem de pectore rumpit"
+},
+{
+"id": "6.137",
+"label": "Stat. Theb. 6.137",
+"text": "planctuque et longis praefata ululatibus infit:"
+},
+{
+"id": "6.138",
+"label": "Stat. Theb. 6.138",
+"text": "‘non hoc Argolidum coetu circumdata matrum"
+},
+{
+"id": "6.139",
+"label": "Stat. Theb. 6.139",
+"text": "speravi te, nate, sequi, nec talia demens"
+},
+{
+"id": "6.140",
+"label": "Stat. Theb. 6.140",
+"text": "fingebam votis annorum elementa tuorum,"
+},
+{
+"id": "6.141",
+"label": "Stat. Theb. 6.141",
+"text": "nil saevum reputans; etenim his in finibus aevi"
+},
+{
+"id": "6.142",
+"label": "Stat. Theb. 6.142",
+"text": "unde ego bella tibi Thebasque ignara timerem?"
+},
+{
+"id": "6.143",
+"label": "Stat. Theb. 6.143",
+"text": "cui superum nostro committere sanguine pugnas"
+},
+{
+"id": "6.144",
+"label": "Stat. Theb. 6.144",
+"text": "dulce? quis hoc armis vovit scelus? at tua nondum,"
+},
+{
+"id": "6.145",
+"label": "Stat. Theb. 6.145",
+"text": "Cadme, domus, nullus Tyrio grege plangitur infans,"
+},
+{
+"id": "6.146",
+"label": "Stat. Theb. 6.146",
+"text": "primitias egomet lacrimarum et caedis acerbae"
+},
+{
+"id": "6.147",
+"label": "Stat. Theb. 6.147",
+"text": "ante tubas ferrumque tuli, dum deside cura"
+},
+{
+"id": "6.148",
+"label": "Stat. Theb. 6.148",
+"text": "credo sinus fidos altricis et ubera mando,"
+},
+{
+"id": "6.149",
+"label": "Stat. Theb. 6.149",
+"text": "quidni ego? narrabat servatum fraude parentem"
+},
+{
+"id": "6.150",
+"label": "Stat. Theb. 6.150",
+"text": "insontesque manus, en! quam ferale putemus"
+},
+{
+"id": "6.151",
+"label": "Stat. Theb. 6.151",
+"text": "abiurasse sacrum et Lemni gentilibus unam"
+},
+{
+"id": "6.152",
+"label": "Stat. Theb. 6.152",
+"text": "inmunem furiis, haec illa — et creditis ausae ! —"
+},
+{
+"id": "6.153",
+"label": "Stat. Theb. 6.153",
+"text": "haec pietate potens solis abiecit in arvis"
+},
+{
+"id": "6.154",
+"label": "Stat. Theb. 6.154",
+"text": "non regem dominumve, alienos impia partus,"
+},
+{
+"id": "6.155",
+"label": "Stat. Theb. 6.155",
+"text": "hoc tantum, silvaeque infamis tramite liquit,"
+},
+{
+"id": "6.156",
+"label": "Stat. Theb. 6.156",
+"text": "quem non anguis atrox — quid enim hac opus, ei mihi, leti"
+},
+{
+"id": "6.157",
+"label": "Stat. Theb. 6.157",
+"text": "mole fuit? — tantum caeli violentior aura"
+},
+{
+"id": "6.158",
+"label": "Stat. Theb. 6.158",
+"text": "impulsaeque noto frondes eassusque valeret"
+},
+{
+"id": "6.159",
+"label": "Stat. Theb. 6.159",
+"text": "exanimare timor, nec vos incessere luctu"
+},
+{
+"id": "6.160",
+"label": "Stat. Theb. 6.160",
+"text": "orba aveo, fixum matri immotumque manebat"
+},
+{
+"id": "6.161",
+"label": "Stat. Theb. 6.161",
+"text": "hac altrice nefas; atquin et blandus ad illam,"
+},
+{
+"id": "6.162",
+"label": "Stat. Theb. 6.162",
+"text": "nate, magis, solam nosse atque audire vocantem,"
+},
+{
+"id": "6.163",
+"label": "Stat. Theb. 6.163",
+"text": "ignarusque mei: nulla ex te gaudia matri,"
+},
+{
+"id": "6.164",
+"label": "Stat. Theb. 6.164",
+"text": "illa tuos questus lacrimososque impia risus"
+},
+{
+"id": "6.165",
+"label": "Stat. Theb. 6.165",
+"text": "audiit et vocis decerpsit murmura primae."
+},
+{
+"id": "6.166",
+"label": "Stat. Theb. 6.166",
+"text": "illa tibi genetrix semper, dum vita manebat,"
+},
+{
+"id": "6.167",
+"label": "Stat. Theb. 6.167",
+"text": "nune ego. sed miserae mihi nec punire potestas"
+},
+{
+"id": "6.168",
+"label": "Stat. Theb. 6.168",
+"text": "sic meritam! quid dona, duces, quid inania fertis"
+},
+{
+"id": "6.169",
+"label": "Stat. Theb. 6.169",
+"text": "iusta rogis? illam — nil poscunt amplius umbrae, —"
+},
+{
+"id": "6.170",
+"label": "Stat. Theb. 6.170",
+"text": "illam, oro, cineri simul excisaeque parenti"
+},
+{
+"id": "6.171",
+"label": "Stat. Theb. 6.171",
+"text": "reddite, quaeso, duces, per ego haec primordia belli,"
+},
+{
+"id": "6.172",
+"label": "Stat. Theb. 6.172",
+"text": "cui peperi; sic aequa gemant mihi funera matres"
+},
+{
+"id": "6.173",
+"label": "Stat. Theb. 6.173",
+"text": "Oxygiae.’ sternit crines iteratque precando:"
+},
+{
+"id": "6.174",
+"label": "Stat. Theb. 6.174",
+"text": "‘reddite, nec vero crudelem avidamque vocate"
+},
+{
+"id": "6.175",
+"label": "Stat. Theb. 6.175",
+"text": "sanguinis: oceumbam pariter, dum vulnere iusto"
+},
+{
+"id": "6.176",
+"label": "Stat. Theb. 6.176",
+"text": "exsaturata oculos, unum impellamur in ignem.’"
+},
+{
+"id": "6.177",
+"label": "Stat. Theb. 6.177",
+"text": "talia vociferans alia de parte gementem"
+},
+{
+"id": "6.178",
+"label": "Stat. Theb. 6.178",
+"text": "Hypsipylen — neque enim illa comas nec pectora servat —"
+},
+{
+"id": "6.179",
+"label": "Stat. Theb. 6.179",
+"text": "agnovit longe, et socium indignata dolorem:"
+},
+{
+"id": "6.180",
+"label": "Stat. Theb. 6.180",
+"text": "‘hoc saltem, o proceres, tuque o, cui pignora nostri"
+},
+{
+"id": "6.181",
+"label": "Stat. Theb. 6.181",
+"text": "proturbata tori, prohibete, auferte supremis"
+},
+{
+"id": "6.182",
+"label": "Stat. Theb. 6.182",
+"text": "invisam exsequiis. quid se funesta parenti"
+},
+{
+"id": "6.183",
+"label": "Stat. Theb. 6.183",
+"text": "miscet et in nostris spectatur et ipsa ruinis?’"
+},
+{
+"id": "6.185",
+"label": "Stat. Theb. 6.185",
+"text": "sic ait abruptisque immutuit ore querellis:"
+},
+{
+"id": "6.186",
+"label": "Stat. Theb. 6.186",
+"text": "non secus ac primo fraudatum lacte iuvencum,"
+},
+{
+"id": "6.187",
+"label": "Stat. Theb. 6.187",
+"text": "cui trepidae vires et solus ab ubere sanguis,"
+},
+{
+"id": "6.188",
+"label": "Stat. Theb. 6.188",
+"text": "seu fera seu duras avexit pastor ad aras;"
+},
+{
+"id": "6.189",
+"label": "Stat. Theb. 6.189",
+"text": "nunc vallem spoliata parens, nunc flumina questu,"
+},
+{
+"id": "6.190",
+"label": "Stat. Theb. 6.190",
+"text": "nunc armenta movet vacuosque interrogat agros;"
+},
+{
+"id": "6.191",
+"label": "Stat. Theb. 6.191",
+"text": "tunc piget ire domum, maestoque novissima campo"
+},
+{
+"id": "6.192",
+"label": "Stat. Theb. 6.192",
+"text": "exit et oppositas impasta avertitur herbas."
+},
+{
+"id": "6.193",
+"label": "Stat. Theb. 6.193",
+"text": "At genitor sceptrique decus cultusque Tonantis"
+},
+{
+"id": "6.194",
+"label": "Stat. Theb. 6.194",
+"text": "inicit ipse rogis, tergoque et pectore fusam"
+},
+{
+"id": "6.195",
+"label": "Stat. Theb. 6.195",
+"text": "caesariem ferro minuit sectisque iacentis"
+},
+{
+"id": "6.196",
+"label": "Stat. Theb. 6.196",
+"text": "obnubit tenuia ora comis, ac talia fletu"
+},
+{
+"id": "6.197",
+"label": "Stat. Theb. 6.197",
+"text": "verba pio miscens: ‘alio tibi, perfide, pacto,"
+},
+{
+"id": "6.198",
+"label": "Stat. Theb. 6.198",
+"text": "Iuppiter, hunc crinem voti reus ante dicaram,"
+},
+{
+"id": "6.199",
+"label": "Stat. Theb. 6.199",
+"text": "si pariter virides nati libare dedisses"
+},
+{
+"id": "6.200",
+"label": "Stat. Theb. 6.200",
+"text": "ad tua templa genas, sed non ratus ore sacerdos,"
+},
+{
+"id": "6.201",
+"label": "Stat. Theb. 6.201",
+"text": "damnataeque preces: ferat haec, quae dignior, umbra.’"
+},
+{
+"id": "6.202",
+"label": "Stat. Theb. 6.202",
+"text": "iam face subiecta primis in frondibus ignis"
+},
+{
+"id": "6.203",
+"label": "Stat. Theb. 6.203",
+"text": "exclamat, labor insanos arcere parentes."
+},
+{
+"id": "6.204",
+"label": "Stat. Theb. 6.204",
+"text": "Stant iussi Danaum atque obtentis eminus armis"
+},
+{
+"id": "6.205",
+"label": "Stat. Theb. 6.205",
+"text": "prospectu visus interclusere nefasto."
+},
+{
+"id": "6.206",
+"label": "Stat. Theb. 6.206",
+"text": "ditantur flammae; non umquam opulentior illic"
+},
+{
+"id": "6.207",
+"label": "Stat. Theb. 6.207",
+"text": "ante cinis: crepitant gemmae, atque immane liquescit"
+},
+{
+"id": "6.208",
+"label": "Stat. Theb. 6.208",
+"text": "argentum, et pictis exsudat vestibus aurum;"
+},
+{
+"id": "6.209",
+"label": "Stat. Theb. 6.209",
+"text": "nec non Assyriis pinguescunt robora sucis,"
+},
+{
+"id": "6.210",
+"label": "Stat. Theb. 6.210",
+"text": "pallentique croco strident ardentia mella,"
+},
+{
+"id": "6.211",
+"label": "Stat. Theb. 6.211",
+"text": "spumantesque mero paterae verguntur et atri"
+},
+{
+"id": "6.212",
+"label": "Stat. Theb. 6.212",
+"text": "sanguinis et rapti gratissima cymbia lactis,"
+},
+{
+"id": "6.213",
+"label": "Stat. Theb. 6.213",
+"text": "tunc septem numero turmas — centenus ubique"
+},
+{
+"id": "6.214",
+"label": "Stat. Theb. 6.214",
+"text": "surgit eques — versis ducunt insignibus ipsi"
+},
+{
+"id": "6.215",
+"label": "Stat. Theb. 6.215",
+"text": "Graiugenae reges, lustrantque ex more sinistro"
+},
+{
+"id": "6.216",
+"label": "Stat. Theb. 6.216",
+"text": "orbe rogum et stantes inclinant pulvere flammas,"
+},
+{
+"id": "6.217",
+"label": "Stat. Theb. 6.217",
+"text": "ter curvos egere sinus, inlisaque telis"
+},
+{
+"id": "6.218",
+"label": "Stat. Theb. 6.218",
+"text": "tela sonant, quater horrendum pepulere fragorem"
+},
+{
+"id": "6.219",
+"label": "Stat. Theb. 6.219",
+"text": "arma, quater mollem famularum bracchia planctum,"
+},
+{
+"id": "6.220",
+"label": "Stat. Theb. 6.220",
+"text": "semianimas alter pecudes spumantiaque ignis"
+},
+{
+"id": "6.221",
+"label": "Stat. Theb. 6.221",
+"text": "accipit armenta; hic luctus abolere noviqvie"
+},
+{
+"id": "6.222",
+"label": "Stat. Theb. 6.222",
+"text": "funeris auspicium vates, quamquam omina sentit"
+},
+{
+"id": "6.223",
+"label": "Stat. Theb. 6.223",
+"text": "vera, iubet: dextri gyro et vibrantibus hastis"
+},
+{
+"id": "6.224",
+"label": "Stat. Theb. 6.224",
+"text": "hac redeunt, raptumque suis libamen ab armis"
+},
+{
+"id": "6.225",
+"label": "Stat. Theb. 6.225",
+"text": "quisque iacit, seu frena libet seu cingula flammis"
+},
+{
+"id": "6.226",
+"label": "Stat. Theb. 6.226",
+"text": "mergere seu iaculum summae seu cassidis umbram,"
+},
+{
+"id": "6.234",
+"label": "Stat. Theb. 6.234",
+"text": "Finis erat, lassusque putres iam Mulciber ibat"
+},
+{
+"id": "6.235",
+"label": "Stat. Theb. 6.235",
+"text": "in cineres; instant flammis multoque soporant"
+},
+{
+"id": "6.236",
+"label": "Stat. Theb. 6.236",
+"text": "imbre rogum, posito donec cum sole labores"
+},
+{
+"id": "6.237",
+"label": "Stat. Theb. 6.237",
+"text": "exhausti; seris vix cessit cura tenebris,"
+},
+{
+"id": "6.238",
+"label": "Stat. Theb. 6.238",
+"text": "roscida iam novies caelo dimiserat astra"
+},
+{
+"id": "6.239",
+"label": "Stat. Theb. 6.239",
+"text": "Lucifer et totidem Lunae pracvenerat ignes"
+},
+{
+"id": "6.240",
+"label": "Stat. Theb. 6.240",
+"text": "mutato nocturnus equo, nec conscia fallit"
+},
+{
+"id": "6.241",
+"label": "Stat. Theb. 6.241",
+"text": "sidera et alterno deprenditur unus in ortu;"
+},
+{
+"id": "6.242",
+"label": "Stat. Theb. 6.242",
+"text": "mirum, opus adcelerasse manus1: stat saxea moles,"
+},
+{
+"id": "6.243",
+"label": "Stat. Theb. 6.243",
+"text": "templum ingens cineri, rerumque effictus in illa"
+},
+{
+"id": "6.244",
+"label": "Stat. Theb. 6.244",
+"text": "ordo docet casus: fessis hic flumina monstrat"
+},
+{
+"id": "6.245",
+"label": "Stat. Theb. 6.245",
+"text": "Hypsipyle Danais, hic reptat flebilis infans,"
+},
+{
+"id": "6.246",
+"label": "Stat. Theb. 6.246",
+"text": "hic iacet, extremum tumuli circum asperat orbem"
+},
+{
+"id": "6.247",
+"label": "Stat. Theb. 6.247",
+"text": "squameus; exspectes morientis ab ore cruenta"
+},
+{
+"id": "6.248",
+"label": "Stat. Theb. 6.248",
+"text": "sibila, marmorea sic volvitur anguis in hasta."
+},
+{
+"id": "6.249",
+"label": "Stat. Theb. 6.249",
+"text": "Iamque avidum pugnas visendi vulgus inermes"
+},
+{
+"id": "6.250",
+"label": "Stat. Theb. 6.250",
+"text": "fama vocat; cunctis arvis ac moenibus adsunt"
+},
+{
+"id": "6.251",
+"label": "Stat. Theb. 6.251",
+"text": "exciti; illi etiam, quis belli incognitus horror,"
+},
+{
+"id": "6.252",
+"label": "Stat. Theb. 6.252",
+"text": "quos effeta domi, quos prima reliquerat aetas,"
+},
+{
+"id": "6.253",
+"label": "Stat. Theb. 6.253",
+"text": "conveniunt: non aut Ephyraeo in litore tanta"
+},
+{
+"id": "6.254",
+"label": "Stat. Theb. 6.254",
+"text": "umquam aut Oenomai fremuerunt agmina circo."
+},
+{
+"id": "6.255",
+"label": "Stat. Theb. 6.255",
+"text": "Collibus incurvis viridique obsessa corona"
+},
+{
+"id": "6.256",
+"label": "Stat. Theb. 6.256",
+"text": "vallis in amplexu nemorum sedet; hispida circum"
+},
+{
+"id": "6.257",
+"label": "Stat. Theb. 6.257",
+"text": "stant iuga, et obiectus geminis umbonibus agger"
+},
+{
+"id": "6.258",
+"label": "Stat. Theb. 6.258",
+"text": "campum exire vetat, longo quem tramite planum"
+},
+{
+"id": "6.259",
+"label": "Stat. Theb. 6.259",
+"text": "gramineae frontes sinuataque caespite vivo"
+},
+{
+"id": "6.260",
+"label": "Stat. Theb. 6.260",
+"text": "mollia non subitis augent fastigia clivis."
+},
+{
+"id": "6.261",
+"label": "Stat. Theb. 6.261",
+"text": "illic conferti, iam sole rubentibus arvis,"
+},
+{
+"id": "6.262",
+"label": "Stat. Theb. 6.262",
+"text": "bellatrix sedere cohors; ibi corpore mixto"
+},
+{
+"id": "6.263",
+"label": "Stat. Theb. 6.263",
+"text": "metiri numerum vultusque habitusque suorum"
+},
+{
+"id": "6.264",
+"label": "Stat. Theb. 6.264",
+"text": "dulce viris, tantique iuvat fiducia belli."
+},
+{
+"id": "6.265",
+"label": "Stat. Theb. 6.265",
+"text": "centum ibi nigrantes, armenti robora, tauros"
+},
+{
+"id": "6.266",
+"label": "Stat. Theb. 6.266",
+"text": "lenta mole trahunt; idem numerusque colorque"
+},
+{
+"id": "6.267",
+"label": "Stat. Theb. 6.267",
+"text": "matribus et nondum lunatis fronte iuvencis."
+},
+{
+"id": "6.268",
+"label": "Stat. Theb. 6.268",
+"text": "Exin magnanimum series antiqua parentum"
+},
+{
+"id": "6.269",
+"label": "Stat. Theb. 6.269",
+"text": "invenitur, miris in vultum animata figuris."
+},
+{
+"id": "6.270",
+"label": "Stat. Theb. 6.270",
+"text": "primus anhelantem duro Tirynthius angens"
+},
+{
+"id": "6.271",
+"label": "Stat. Theb. 6.271",
+"text": "pectoris attritu sua frangit in ossa leonem,"
+},
+{
+"id": "6.272",
+"label": "Stat. Theb. 6.272",
+"text": "haud illum impavidi, quamvis et in aere suumque"
+},
+{
+"id": "6.273",
+"label": "Stat. Theb. 6.273",
+"text": "Inachidae videre decus, pater ordine iuncto"
+},
+{
+"id": "6.274",
+"label": "Stat. Theb. 6.274",
+"text": "laevus harundinae recubans super aggere ripae"
+},
+{
+"id": "6.275",
+"label": "Stat. Theb. 6.275",
+"text": "cernitur emissaeque indulgens Inachus urnae."
+},
+{
+"id": "6.276",
+"label": "Stat. Theb. 6.276",
+"text": "Io post tergum, iam prona dolorque parentis,"
+},
+{
+"id": "6.277",
+"label": "Stat. Theb. 6.277",
+"text": "spectat inocciduis stellatum visibus Argum."
+},
+{
+"id": "6.278",
+"label": "Stat. Theb. 6.278",
+"text": "ast illam melior Phariis erexerat arvis"
+},
+{
+"id": "6.279",
+"label": "Stat. Theb. 6.279",
+"text": "Iuppiter atque hospes iam tunc Aurora colebat."
+},
+{
+"id": "6.280",
+"label": "Stat. Theb. 6.280",
+"text": "Tantalus inde parens, non qui fallentibus undis"
+},
+{
+"id": "6.281",
+"label": "Stat. Theb. 6.281",
+"text": "imminet aut refugae sterilem rapit aera silvae,"
+},
+{
+"id": "6.282",
+"label": "Stat. Theb. 6.282",
+"text": "sed pius et magni vehitur conviva Tonantis."
+},
+{
+"id": "6.283",
+"label": "Stat. Theb. 6.283",
+"text": "parte alia victor curru Neptunia tendit"
+},
+{
+"id": "6.284",
+"label": "Stat. Theb. 6.284",
+"text": "lora Pelops, prensatque rotas auriga natantes"
+},
+{
+"id": "6.285",
+"label": "Stat. Theb. 6.285",
+"text": "Myrtilos et volucri iam iamque relinquitur axe."
+},
+{
+"id": "6.286",
+"label": "Stat. Theb. 6.286",
+"text": "et gravis Acrisius speciesque horrenda Coroebi"
+},
+{
+"id": "6.287",
+"label": "Stat. Theb. 6.287",
+"text": "et Danae culpata sinus, et in amne reperto"
+},
+{
+"id": "6.288",
+"label": "Stat. Theb. 6.288",
+"text": "tristis Amymone, parvoque Alcmena superbit"
+},
+{
+"id": "6.289",
+"label": "Stat. Theb. 6.289",
+"text": "Hercule, tergemina crinem circumdata luna."
+},
+{
+"id": "6.290",
+"label": "Stat. Theb. 6.290",
+"text": "iungunt discordes inimica in foedera dextras"
+},
+{
+"id": "6.291",
+"label": "Stat. Theb. 6.291",
+"text": "Belidae fratres; sed vultu mitior adstat"
+},
+{
+"id": "6.292",
+"label": "Stat. Theb. 6.292",
+"text": "Aegyptus, Danai manifestum adgnoscere ficto"
+},
+{
+"id": "6.293",
+"label": "Stat. Theb. 6.293",
+"text": "ore notas pacisque malae noctisque futurae,"
+},
+{
+"id": "6.294",
+"label": "Stat. Theb. 6.294",
+"text": "mille dehinc species, tandem satiata voluptas"
+},
+{
+"id": "6.295",
+"label": "Stat. Theb. 6.295",
+"text": "praestantesque viros vocat ad sua praemia virtus."
+},
+{
+"id": "6.296",
+"label": "Stat. Theb. 6.296",
+"text": "Primus sudor equis, dic inclyta, Phoebe, regentum"
+},
+{
+"id": "6.297",
+"label": "Stat. Theb. 6.297",
+"text": "nomina, dic ipsos; neque enim generosior umquam"
+},
+{
+"id": "6.298",
+"label": "Stat. Theb. 6.298",
+"text": "alipedum conlata acies, ceu praepete cursu"
+},
+{
+"id": "6.299",
+"label": "Stat. Theb. 6.299",
+"text": "confligant densae volucres aut litore in uno"
+},
+{
+"id": "6.300",
+"label": "Stat. Theb. 6.300",
+"text": "Aeolus insanis statuat certamina ventis."
+},
+{
+"id": "6.301",
+"label": "Stat. Theb. 6.301",
+"text": "Ducitur ante omnis rutilae manifestus Arion"
+},
+{
+"id": "6.302",
+"label": "Stat. Theb. 6.302",
+"text": "igne iubae. Neptunus equo, si certa priorum"
+},
+{
+"id": "6.303",
+"label": "Stat. Theb. 6.303",
+"text": "fama, pater; primus teneri laesisse lupatis"
+},
+{
+"id": "6.304",
+"label": "Stat. Theb. 6.304",
+"text": "ora et litoreo domitasse in pulvere fertur,"
+},
+{
+"id": "6.305",
+"label": "Stat. Theb. 6.305",
+"text": "verberibus parcens; etenim insatiatus eundi"
+},
+{
+"id": "6.306",
+"label": "Stat. Theb. 6.306",
+"text": "ardor et hiberno par inconstantia ponto."
+},
+{
+"id": "6.307",
+"label": "Stat. Theb. 6.307",
+"text": "saepe per Ionium Libycumque natantibus ire"
+},
+{
+"id": "6.308",
+"label": "Stat. Theb. 6.308",
+"text": "interiunctus equis omnesque adsuerat in oras"
+},
+{
+"id": "6.309",
+"label": "Stat. Theb. 6.309",
+"text": "caeruleum deferre patrem; stupuere relicta"
+},
+{
+"id": "6.310",
+"label": "Stat. Theb. 6.310",
+"text": "Nubila, certantes Eurique Notique sequuntur."
+},
+{
+"id": "6.311",
+"label": "Stat. Theb. 6.311",
+"text": "nec minor in terris bella Eurysthea gerentem"
+},
+{
+"id": "6.312",
+"label": "Stat. Theb. 6.312",
+"text": "Amphitryoniaden alto per gramina sulco"
+},
+{
+"id": "6.313",
+"label": "Stat. Theb. 6.313",
+"text": "duxerat, illi etiam ferus indocilisque teneri,"
+},
+{
+"id": "6.314",
+"label": "Stat. Theb. 6.314",
+"text": "mox divum dono regis dignatus Adrasti"
+},
+{
+"id": "6.315",
+"label": "Stat. Theb. 6.315",
+"text": "imperia et multum mediis mansueverat annis."
+},
+{
+"id": "6.316",
+"label": "Stat. Theb. 6.316",
+"text": "tunc rector genero Polynici indulget agendum"
+},
+{
+"id": "6.317",
+"label": "Stat. Theb. 6.317",
+"text": "multa monens, ubi fervor equo, qua suetus ab arte"
+},
+{
+"id": "6.318",
+"label": "Stat. Theb. 6.318",
+"text": "mulceri, ne saeva manus, ne liber habenis"
+},
+{
+"id": "6.319",
+"label": "Stat. Theb. 6.319",
+"text": "impetus, ‘urge alios\" inquit \"stimulisque minisque;"
+},
+{
+"id": "6.320",
+"label": "Stat. Theb. 6.320",
+"text": "ille ibit, minus ipse voles.’ sic ignea lora"
+},
+{
+"id": "6.321",
+"label": "Stat. Theb. 6.321",
+"text": "cum daret et rapido Sol natum imponeret axi,"
+},
+{
+"id": "6.322",
+"label": "Stat. Theb. 6.322",
+"text": "gaudentem lacrimans astra insidiosa docebat"
+},
+{
+"id": "6.323",
+"label": "Stat. Theb. 6.323",
+"text": "nolentesque teri zonas mediamque polorum"
+},
+{
+"id": "6.324",
+"label": "Stat. Theb. 6.324",
+"text": "temperiem: pius ille quidem et formidine cauta,"
+},
+{
+"id": "6.325",
+"label": "Stat. Theb. 6.325",
+"text": "sed iuvenem durae prohibebant discere Parcae."
+},
+{
+"id": "6.326",
+"label": "Stat. Theb. 6.326",
+"text": "Oebalios sublimis agit, spes proxima palmae,"
+},
+{
+"id": "6.327",
+"label": "Stat. Theb. 6.327",
+"text": "Amphiaraus equos; tua furto lapsa propago,"
+},
+{
+"id": "6.328",
+"label": "Stat. Theb. 6.328",
+"text": "Cyllare, dum Scythici diversus ad ostia Ponti"
+},
+{
+"id": "6.329",
+"label": "Stat. Theb. 6.329",
+"text": "Castor Amyclaeas remo permutat habenas."
+},
+{
+"id": "6.330",
+"label": "Stat. Theb. 6.330",
+"text": "ipse habitu niveus, nivei dant colla iugales,"
+},
+{
+"id": "6.331",
+"label": "Stat. Theb. 6.331",
+"text": "concolor est albis et cassis et infula cristis,"
+},
+{
+"id": "6.332",
+"label": "Stat. Theb. 6.332",
+"text": "quin et Thessalicis felix Admetus ab oris"
+},
+{
+"id": "6.333",
+"label": "Stat. Theb. 6.333",
+"text": "vix steriles compescit equas; Centaurica dicunt"
+},
+{
+"id": "6.334",
+"label": "Stat. Theb. 6.334",
+"text": "semina (credo, adeo sexum indignantur, et omnis"
+},
+{
+"id": "6.335",
+"label": "Stat. Theb. 6.335",
+"text": "in vires adducta venus); noctemque diemque"
+},
+{
+"id": "6.336",
+"label": "Stat. Theb. 6.336",
+"text": "adsimulant, maculis internigrantibus albae:"
+},
+{
+"id": "6.337",
+"label": "Stat. Theb. 6.337",
+"text": "tantus uterque color, credi nec degener illo"
+},
+{
+"id": "6.338",
+"label": "Stat. Theb. 6.338",
+"text": "de grege, Castaliae stupuit qui sibila cannae"
+},
+{
+"id": "6.339",
+"label": "Stat. Theb. 6.339",
+"text": "laetus et audito contempsit Apolline pasci."
+},
+{
+"id": "6.340",
+"label": "Stat. Theb. 6.340",
+"text": "ecce et Iasonidae iuvenes, nova gloria matris"
+},
+{
+"id": "6.341",
+"label": "Stat. Theb. 6.341",
+"text": "Hypsipyles, subiere iugo, quo vectus uterque,"
+},
+{
+"id": "6.342",
+"label": "Stat. Theb. 6.342",
+"text": "nomen avo gentile Thoas atque omine dictus"
+},
+{
+"id": "6.343",
+"label": "Stat. Theb. 6.343",
+"text": "Euneos Argoo. geminis eadem omnia: vultus,"
+},
+{
+"id": "6.344",
+"label": "Stat. Theb. 6.344",
+"text": "currus, equi, vestes, par et concordia votis,"
+},
+{
+"id": "6.345",
+"label": "Stat. Theb. 6.345",
+"text": "vincere vel solo cupiunt a fratcre relinqui."
+},
+{
+"id": "6.346",
+"label": "Stat. Theb. 6.346",
+"text": "it Chromis Hippodamusque, alter satus Hercule magno,"
+},
+{
+"id": "6.347",
+"label": "Stat. Theb. 6.347",
+"text": "alter ab Oenomao: dubites, uter effera presset"
+},
+{
+"id": "6.348",
+"label": "Stat. Theb. 6.348",
+"text": "frena magis. Getici pecus hic Diomedis, at ille"
+},
+{
+"id": "6.349",
+"label": "Stat. Theb. 6.349",
+"text": "Pisaei iuga patris habet, crudelibus ambo"
+},
+{
+"id": "6.350",
+"label": "Stat. Theb. 6.350",
+"text": "exuviis diroque imbuti sanguine currus."
+},
+{
+"id": "6.351",
+"label": "Stat. Theb. 6.351",
+"text": "metarum instar erant hinc nudo robore quercus,"
+},
+{
+"id": "6.352",
+"label": "Stat. Theb. 6.352",
+"text": "olim omnis exuta comas, hinc saxeus umbo,"
+},
+{
+"id": "6.353",
+"label": "Stat. Theb. 6.353",
+"text": "arbiter agricolis; finem iacet inter utrumque,"
+},
+{
+"id": "6.354",
+"label": "Stat. Theb. 6.354",
+"text": "quale quater iaculo spatium, ter harundine vincas."
+},
+{
+"id": "6.355",
+"label": "Stat. Theb. 6.355",
+"text": "Interea cantu Musarum nobile muleens"
+},
+{
+"id": "6.356",
+"label": "Stat. Theb. 6.356",
+"text": "concilium citharaeque manus insertus Apollo"
+},
+{
+"id": "6.357",
+"label": "Stat. Theb. 6.357",
+"text": "Parnassi summo spectabat ab aethere terras;"
+},
+{
+"id": "6.358",
+"label": "Stat. Theb. 6.358",
+"text": "orsa deum — nam saepe Iovem Phlegramque suique"
+},
+{
+"id": "6.359",
+"label": "Stat. Theb. 6.359",
+"text": "anguis opus fratrumque pius cantarat honores —"
+},
+{
+"id": "6.360",
+"label": "Stat. Theb. 6.360",
+"text": "tunc aperit, quis fulmen agat, quis sidera ducat"
+},
+{
+"id": "6.361",
+"label": "Stat. Theb. 6.361",
+"text": "spiritus, unde animi fluviis, quae pabula ventis,"
+},
+{
+"id": "6.362",
+"label": "Stat. Theb. 6.362",
+"text": "quo fonte immensum vivat mare, quae via solis"
+},
+{
+"id": "6.363",
+"label": "Stat. Theb. 6.363",
+"text": "praecipitet noctem, quae porrigat, imane tellus"
+},
+{
+"id": "6.364",
+"label": "Stat. Theb. 6.364",
+"text": "an media et rursus mundo succincta latenti."
+},
+{
+"id": "6.365",
+"label": "Stat. Theb. 6.365",
+"text": "finis erat, differt avidas audire sorores,"
+},
+{
+"id": "6.366",
+"label": "Stat. Theb. 6.366",
+"text": "dumque chelyn lauro textumque inlustre coronae"
+},
+{
+"id": "6.367",
+"label": "Stat. Theb. 6.367",
+"text": "subligat et picto discingit pectora limbo,"
+},
+{
+"id": "6.368",
+"label": "Stat. Theb. 6.368",
+"text": "haud procul Herculeam Nemcen clamore reductus"
+},
+{
+"id": "6.369",
+"label": "Stat. Theb. 6.369",
+"text": "aspicit atque illic ingens certaminis instar"
+},
+{
+"id": "6.370",
+"label": "Stat. Theb. 6.370",
+"text": "quadriiugi. noscit cunctos, et forte propinquo"
+},
+{
+"id": "6.371",
+"label": "Stat. Theb. 6.371",
+"text": "constiterant Admetus et Amphiaraus in arvo."
+},
+{
+"id": "6.372",
+"label": "Stat. Theb. 6.372",
+"text": "tunc secum: ‘quisnam iste duos, fidissima Phoebi"
+},
+{
+"id": "6.373",
+"label": "Stat. Theb. 6.373",
+"text": "nomina, commisit deus in discrimina reges?"
+},
+{
+"id": "6.374",
+"label": "Stat. Theb. 6.374",
+"text": "ambo pii cariquc ambo; nequeam ipse priorem"
+},
+{
+"id": "6.375",
+"label": "Stat. Theb. 6.375",
+"text": "dicere. Peliacis hic cum famularer in arvis —"
+},
+{
+"id": "6.376",
+"label": "Stat. Theb. 6.376",
+"text": "sic Iovis imperia et nigrae voluere Sorores —"
+},
+{
+"id": "6.377",
+"label": "Stat. Theb. 6.377",
+"text": "tura dabat famulo nec me sentire minorem"
+},
+{
+"id": "6.378",
+"label": "Stat. Theb. 6.378",
+"text": "ausus; at hic tripodum comes et pius artis alumnus"
+},
+{
+"id": "6.379",
+"label": "Stat. Theb. 6.379",
+"text": "aetheriae. potior meritis tamen ille, sed huius"
+},
+{
+"id": "6.380",
+"label": "Stat. Theb. 6.380",
+"text": "extrema iam fila colu; datur ordo senectae"
+},
+{
+"id": "6.381",
+"label": "Stat. Theb. 6.381",
+"text": "Admeto serumque mori; tibi nulla supersunt"
+},
+{
+"id": "6.382",
+"label": "Stat. Theb. 6.382",
+"text": "gaudia, nam Thebae iuxta et tenebrosa vorago."
+},
+{
+"id": "6.383",
+"label": "Stat. Theb. 6.383",
+"text": "scis miser, et nostrae pridem cecinere volucres.’"
+},
+{
+"id": "6.384",
+"label": "Stat. Theb. 6.384",
+"text": "dixit, et os fletu paene inviolabile tinctus"
+},
+{
+"id": "6.385",
+"label": "Stat. Theb. 6.385",
+"text": "extemplo Nemeen radiante per aera saltu"
+},
+{
+"id": "6.386",
+"label": "Stat. Theb. 6.386",
+"text": "ocior et patrio venit igne suisque sagittis,"
+},
+{
+"id": "6.387",
+"label": "Stat. Theb. 6.387",
+"text": "ipse olim in terris, caelo vestigia durant,"
+},
+{
+"id": "6.388",
+"label": "Stat. Theb. 6.388",
+"text": "claraque per zephyros etiamnum semita lucet."
+},
+{
+"id": "6.389",
+"label": "Stat. Theb. 6.389",
+"text": "Et iam sortitus Prothous versarat aena"
+},
+{
+"id": "6.390",
+"label": "Stat. Theb. 6.390",
+"text": "casside, iamque locus cuique est et liminis ordo."
+},
+{
+"id": "6.391",
+"label": "Stat. Theb. 6.391",
+"text": "terrarum decora ampla viri, decora aequa iugales,"
+},
+{
+"id": "6.392",
+"label": "Stat. Theb. 6.392",
+"text": "divum utrumque genus, stant uno margine clausi"
+},
+{
+"id": "6.393",
+"label": "Stat. Theb. 6.393",
+"text": "spesque audaxque una metus et fiducia pallens."
+},
+{
+"id": "6.394",
+"label": "Stat. Theb. 6.394",
+"text": "nil fixum cordi: pugnant exire .paventque,"
+},
+{
+"id": "6.395",
+"label": "Stat. Theb. 6.395",
+"text": "concurrit summos animosum frigus in artus."
+},
+{
+"id": "6.396",
+"label": "Stat. Theb. 6.396",
+"text": "qui dominis, idem ardor equis; face lumina surgunt,"
+},
+{
+"id": "6.397",
+"label": "Stat. Theb. 6.397",
+"text": "ora sonant morsu, spumisque et sanguine ferrum"
+},
+{
+"id": "6.398",
+"label": "Stat. Theb. 6.398",
+"text": "uritur, impulsi nequeunt obsistere postes"
+},
+{
+"id": "6.399",
+"label": "Stat. Theb. 6.399",
+"text": "claustraque, compressae transfumat anhelitus irae."
+},
+{
+"id": "6.400",
+"label": "Stat. Theb. 6.400",
+"text": "stare adeo miserum est, pereunt vestigia mille"
+},
+{
+"id": "6.401",
+"label": "Stat. Theb. 6.401",
+"text": "ante fugam, absentemque ferit gravis ungula campum,"
+},
+{
+"id": "6.402",
+"label": "Stat. Theb. 6.402",
+"text": "circumstant fidi, nexusque et torta iubarum"
+},
+{
+"id": "6.403",
+"label": "Stat. Theb. 6.403",
+"text": "expediunt firmantque animos et plurima monstrant."
+},
+{
+"id": "6.404",
+"label": "Stat. Theb. 6.404",
+"text": "insonuit contra Tyrrhenum murmur, et omnes"
+},
+{
+"id": "6.405",
+"label": "Stat. Theb. 6.405",
+"text": "exsiluere loco. quae tantum carbasa ponto,"
+},
+{
+"id": "6.406",
+"label": "Stat. Theb. 6.406",
+"text": "quae bello sic tela volant, quae nubila caelo?"
+},
+{
+"id": "6.407",
+"label": "Stat. Theb. 6.407",
+"text": "amnibus hibernis minor est, minor impetus igni,"
+},
+{
+"id": "6.408",
+"label": "Stat. Theb. 6.408",
+"text": "tardius astra cadunt, glomerantur tardius imbres,"
+},
+{
+"id": "6.409",
+"label": "Stat. Theb. 6.409",
+"text": "tardius e summo decurrunt flumina monte."
+},
+{
+"id": "6.410",
+"label": "Stat. Theb. 6.410",
+"text": "Emissos videre atque agnovere Pelasgi."
+},
+{
+"id": "6.411",
+"label": "Stat. Theb. 6.411",
+"text": "et iam rapti oculis, iam caeco pulvere mixti"
+},
+{
+"id": "6.412",
+"label": "Stat. Theb. 6.412",
+"text": "una in nube latent, vultusque umbrante tumultu"
+},
+{
+"id": "6.413",
+"label": "Stat. Theb. 6.413",
+"text": "vix inter sese clamore et nomine noscunt."
+},
+{
+"id": "6.414",
+"label": "Stat. Theb. 6.414",
+"text": "evolvere globum, et spatio quo quisque valebat"
+},
+{
+"id": "6.415",
+"label": "Stat. Theb. 6.415",
+"text": "diducti: delet sulcos iterata priores"
+},
+{
+"id": "6.416",
+"label": "Stat. Theb. 6.416",
+"text": "orbita, nunc avidi prono iuga pectore tangunt,"
+},
+{
+"id": "6.417",
+"label": "Stat. Theb. 6.417",
+"text": "nunc pugnante genu et pressis duplicantur habenis."
+},
+{
+"id": "6.418",
+"label": "Stat. Theb. 6.418",
+"text": "colla toris crinita tument, stantesque repectit"
+},
+{
+"id": "6.419",
+"label": "Stat. Theb. 6.419",
+"text": "aura iubas, bibit albentes humus arida nimbos,"
+},
+{
+"id": "6.420",
+"label": "Stat. Theb. 6.420",
+"text": "fit sonus humanisque pedum tenuisque rotarum."
+},
+{
+"id": "6.421",
+"label": "Stat. Theb. 6.421",
+"text": "nulla manu requies, densis insibilat aer"
+},
+{
+"id": "6.422",
+"label": "Stat. Theb. 6.422",
+"text": "verberibus; gelida non crebrior exsilit Arcto"
+},
+{
+"id": "6.423",
+"label": "Stat. Theb. 6.423",
+"text": "grando, nec Olentis manant tot cornibus imbres."
+},
+{
+"id": "6.424",
+"label": "Stat. Theb. 6.424",
+"text": "Senserat adductis alium praesagus Arion"
+},
+{
+"id": "6.425",
+"label": "Stat. Theb. 6.425",
+"text": "stare ducem loris, dirumque expaverat insons"
+},
+{
+"id": "6.426",
+"label": "Stat. Theb. 6.426",
+"text": "Oedipodioniden; iam illinc a limine discors"
+},
+{
+"id": "6.427",
+"label": "Stat. Theb. 6.427",
+"text": "iratusque oneri solito truculentior ardet."
+},
+{
+"id": "6.428",
+"label": "Stat. Theb. 6.428",
+"text": "Inachidae credunt accensum laudibus; ille"
+},
+{
+"id": "6.429",
+"label": "Stat. Theb. 6.429",
+"text": "aurigam fugit, aurigae furiale minatur"
+},
+{
+"id": "6.430",
+"label": "Stat. Theb. 6.430",
+"text": "efferus, et campo dominum circumspicit omni."
+},
+{
+"id": "6.431",
+"label": "Stat. Theb. 6.431",
+"text": "ante tamen cunctos sequitur longeque secundus"
+},
+{
+"id": "6.432",
+"label": "Stat. Theb. 6.432",
+"text": "Amphiaraus agit, quem Thessalus aequat eundo"
+},
+{
+"id": "6.433",
+"label": "Stat. Theb. 6.433",
+"text": "Admetus: iuxta gemini, nunc Euneos ante"
+},
+{
+"id": "6.434",
+"label": "Stat. Theb. 6.434",
+"text": "et nunc ante Thoas, cedunt vincuntque, nec umquam"
+},
+{
+"id": "6.435",
+"label": "Stat. Theb. 6.435",
+"text": "ambitiosa pios conlidit gloria fratres."
+},
+{
+"id": "6.436",
+"label": "Stat. Theb. 6.436",
+"text": "postremum discrimen erant Chromis asper et asper"
+},
+{
+"id": "6.437",
+"label": "Stat. Theb. 6.437",
+"text": "Hippodamus, non arte rudes, sed mole tenentur"
+},
+{
+"id": "6.438",
+"label": "Stat. Theb. 6.438",
+"text": "cornipedum; prior Hippodamus fert ora sequentum,"
+},
+{
+"id": "6.439",
+"label": "Stat. Theb. 6.439",
+"text": "fert gemitus multaque umeros incenditur aura."
+},
+{
+"id": "6.440",
+"label": "Stat. Theb. 6.440",
+"text": "speravit flexae circum compendia metae"
+},
+{
+"id": "6.441",
+"label": "Stat. Theb. 6.441",
+"text": "interius ductis Phoebeius augur habenis"
+},
+{
+"id": "6.442",
+"label": "Stat. Theb. 6.442",
+"text": "anticipasse viam; nec non et Thessalus heros"
+},
+{
+"id": "6.443",
+"label": "Stat. Theb. 6.443",
+"text": "spe propiore calet, dum non cohibente magistro"
+},
+{
+"id": "6.444",
+"label": "Stat. Theb. 6.444",
+"text": "spargitur in gyros dexterque exerrat Arion."
+},
+{
+"id": "6.445",
+"label": "Stat. Theb. 6.445",
+"text": "iam prior Oeclides et iam non tertius ibat"
+},
+{
+"id": "6.446",
+"label": "Stat. Theb. 6.446",
+"text": "Admetus, laxo cum tandem ambo orbe reductus"
+},
+{
+"id": "6.447",
+"label": "Stat. Theb. 6.447",
+"text": "aequoreus sonipes premit evaditque parumper"
+},
+{
+"id": "6.448",
+"label": "Stat. Theb. 6.448",
+"text": "gavisos; subit astra fragor, caelumque tremiscit,"
+},
+{
+"id": "6.449",
+"label": "Stat. Theb. 6.449",
+"text": "omniaque excusso patuere sedilia vulgo,"
+},
+{
+"id": "6.450",
+"label": "Stat. Theb. 6.450",
+"text": "sed nec lora regit nec verbera pallidus audet"
+},
+{
+"id": "6.451",
+"label": "Stat. Theb. 6.451",
+"text": "Labdacides: lassa veluti ratione magister"
+},
+{
+"id": "6.452",
+"label": "Stat. Theb. 6.452",
+"text": "in fluctus, in saxa ruit nec iam amplius astra"
+},
+{
+"id": "6.453",
+"label": "Stat. Theb. 6.453",
+"text": "respicit et victam proiecit casibus artem."
+},
+{
+"id": "6.454",
+"label": "Stat. Theb. 6.454",
+"text": "Rursus praecipites in recta ac devia campi"
+},
+{
+"id": "6.455",
+"label": "Stat. Theb. 6.455",
+"text": "obliquant tenduntque vias, iterum axibus axes"
+},
+{
+"id": "6.456",
+"label": "Stat. Theb. 6.456",
+"text": "inflicti, radiisque rotae; pax nulla fidesque:"
+},
+{
+"id": "6.457",
+"label": "Stat. Theb. 6.457",
+"text": "bella geri ferro levius, bella horrida credas;"
+},
+{
+"id": "6.458",
+"label": "Stat. Theb. 6.458",
+"text": "is furor in laudes, trepidant mortemque minantur,"
+},
+{
+"id": "6.459",
+"label": "Stat. Theb. 6.459",
+"text": "multaque transversis praestringitur ungula campis,"
+},
+{
+"id": "6.460",
+"label": "Stat. Theb. 6.460",
+"text": "nec iam sufficiunt stimuli, non verbera, voce"
+},
+{
+"id": "6.461",
+"label": "Stat. Theb. 6.461",
+"text": "nominibusque dent Pholoen Admetus et Irin"
+},
+{
+"id": "6.462",
+"label": "Stat. Theb. 6.462",
+"text": "fumantemque Thoen, rapidum Danaeius augur"
+},
+{
+"id": "6.463",
+"label": "Stat. Theb. 6.463",
+"text": "Ascheton increpitans meritumque voeabula Cygnum,"
+},
+{
+"id": "6.464",
+"label": "Stat. Theb. 6.464",
+"text": "audit et Herculeum Strymon Chromin, Euneon audit"
+},
+{
+"id": "6.465",
+"label": "Stat. Theb. 6.465",
+"text": "igneus Acthion; tardumque Cydona lacessit"
+},
+{
+"id": "6.466",
+"label": "Stat. Theb. 6.466",
+"text": "Hippodamus, variumque Thoas rogat ire Podarcen."
+},
+{
+"id": "6.467",
+"label": "Stat. Theb. 6.467",
+"text": "solus Echionides errante silentia curru"
+},
+{
+"id": "6.468",
+"label": "Stat. Theb. 6.468",
+"text": "maesta tenet trepidaque timet se voce fateri."
+},
+{
+"id": "6.469",
+"label": "Stat. Theb. 6.469",
+"text": "vixdum coeptus equis labor, et iam pulvere quarto"
+},
+{
+"id": "6.470",
+"label": "Stat. Theb. 6.470",
+"text": "campum ineunt, iamque et tepidis sudoribus artus"
+},
+{
+"id": "6.471",
+"label": "Stat. Theb. 6.471",
+"text": "effeti, et crassum rapit eiectatque vaporem"
+},
+{
+"id": "6.472",
+"label": "Stat. Theb. 6.472",
+"text": "cornipedum flammata sitis, nec iam integer illis"
+},
+{
+"id": "6.473",
+"label": "Stat. Theb. 6.473",
+"text": "impetus, et longi suspendunt ilia flatus,"
+},
+{
+"id": "6.474",
+"label": "Stat. Theb. 6.474",
+"text": "hic anceps Fortuna diu decernere primum"
+},
+{
+"id": "6.475",
+"label": "Stat. Theb. 6.475",
+"text": "ausa venit, ruit, Haemonium dum fervidus instat"
+},
+{
+"id": "6.476",
+"label": "Stat. Theb. 6.476",
+"text": "Admetum superare, Thoas, nec pertulit ullam"
+},
+{
+"id": "6.477",
+"label": "Stat. Theb. 6.477",
+"text": "frater opem. velit ille quidem, sed Martius ante"
+},
+{
+"id": "6.478",
+"label": "Stat. Theb. 6.478",
+"text": "obstitit Hippodamus mediasque immisit habenas."
+},
+{
+"id": "6.479",
+"label": "Stat. Theb. 6.479",
+"text": "mox Chromis Hippodamum metae interioris ad orbem"
+},
+{
+"id": "6.480",
+"label": "Stat. Theb. 6.480",
+"text": "viribus Herculeis et toto robore patris"
+},
+{
+"id": "6.481",
+"label": "Stat. Theb. 6.481",
+"text": "axe tenet prenso, luctantur abire iugales"
+},
+{
+"id": "6.482",
+"label": "Stat. Theb. 6.482",
+"text": "nequiquam frenosque et colla rigentia tendunt."
+},
+{
+"id": "6.483",
+"label": "Stat. Theb. 6.483",
+"text": "ut Siculas si quando rates tenet aestus et ingens"
+},
+{
+"id": "6.484",
+"label": "Stat. Theb. 6.484",
+"text": "auster agit, medio stant vela tumentia ponto."
+},
+{
+"id": "6.485",
+"label": "Stat. Theb. 6.485",
+"text": "tunc ipsum fracto curru deturbat, et isset"
+},
+{
+"id": "6.486",
+"label": "Stat. Theb. 6.486",
+"text": "ante Chromis; sed Thraces equi ut videre iacentem"
+},
+{
+"id": "6.487",
+"label": "Stat. Theb. 6.487",
+"text": "Hippodamum, redit illa fames, iamiamque trementem"
+},
+{
+"id": "6.488",
+"label": "Stat. Theb. 6.488",
+"text": "partiti furiis, ni frena ipsosque frementes"
+},
+{
+"id": "6.489",
+"label": "Stat. Theb. 6.489",
+"text": "oblitus palmae retro Tirynthius heros"
+},
+{
+"id": "6.490",
+"label": "Stat. Theb. 6.490",
+"text": "torsisset victusque et conlaudatus abisset."
+},
+{
+"id": "6.491",
+"label": "Stat. Theb. 6.491",
+"text": "At tibi promissos iamdudum Phoebus honores,"
+},
+{
+"id": "6.492",
+"label": "Stat. Theb. 6.492",
+"text": "Amphiarae, cupit, tandem ratus apta favori"
+},
+{
+"id": "6.493",
+"label": "Stat. Theb. 6.493",
+"text": "tempora pulverei venit in spatia horrida circi,"
+},
+{
+"id": "6.494",
+"label": "Stat. Theb. 6.494",
+"text": "cum iam in fine viae, et summum victoria nutat;"
+},
+{
+"id": "6.495",
+"label": "Stat. Theb. 6.495",
+"text": "anguicomam monstri effigiem, saevissima visu"
+},
+{
+"id": "6.496",
+"label": "Stat. Theb. 6.496",
+"text": "ora, movet sive ille Erebo seu finxit in astus"
+},
+{
+"id": "6.497",
+"label": "Stat. Theb. 6.497",
+"text": "temporis, innumera certe formidine cultum"
+},
+{
+"id": "6.498",
+"label": "Stat. Theb. 6.498",
+"text": "tollit in astra nefas, non illud ianitor atrae"
+},
+{
+"id": "6.499",
+"label": "Stat. Theb. 6.499",
+"text": "impavidus Lethes, non ipsae horrore sine alto"
+},
+{
+"id": "6.500",
+"label": "Stat. Theb. 6.500",
+"text": "Eumenides vidisse queant, turbasset euntes"
+},
+{
+"id": "6.501",
+"label": "Stat. Theb. 6.501",
+"text": "Solis equos Martisque iugum, nam flavus Arion"
+},
+{
+"id": "6.502",
+"label": "Stat. Theb. 6.502",
+"text": "ut vidit, saliere iubae, atque erectus in armos"
+},
+{
+"id": "6.503",
+"label": "Stat. Theb. 6.503",
+"text": "stat sociumque iugi comitesque utrimque laboris"
+},
+{
+"id": "6.504",
+"label": "Stat. Theb. 6.504",
+"text": "secum alte suspendit equos, ruit ilicet exsul"
+},
+{
+"id": "6.505",
+"label": "Stat. Theb. 6.505",
+"text": "Aonius nexusque diu per terga volutus"
+},
+{
+"id": "6.506",
+"label": "Stat. Theb. 6.506",
+"text": "exuit; abripitur longe moderamine liber"
+},
+{
+"id": "6.507",
+"label": "Stat. Theb. 6.507",
+"text": "currus; at hunc putri praeter tellure iacentem"
+},
+{
+"id": "6.508",
+"label": "Stat. Theb. 6.508",
+"text": "Taenarii currus et Thessalus axis et heros"
+},
+{
+"id": "6.509",
+"label": "Stat. Theb. 6.509",
+"text": "Lemnius obliqua, quantum vitare dabatur,"
+},
+{
+"id": "6.510",
+"label": "Stat. Theb. 6.510",
+"text": "transabiere fuga. tandem caligine mersum"
+},
+{
+"id": "6.511",
+"label": "Stat. Theb. 6.511",
+"text": "erigit adcursu comitum caput aegraque tollit"
+},
+{
+"id": "6.512",
+"label": "Stat. Theb. 6.512",
+"text": "membra solo, et socero redit haud speratus Adrasto."
+},
+{
+"id": "6.513",
+"label": "Stat. Theb. 6.513",
+"text": "Quis mortis, Thebane, locus, nisi dura negasset"
+},
+{
+"id": "6.514",
+"label": "Stat. Theb. 6.514",
+"text": "Tisiphone, quantum poteras dimittere bellum?"
+},
+{
+"id": "6.515",
+"label": "Stat. Theb. 6.515",
+"text": "te Thebc fraterque palam, te plangeret Argos,"
+},
+{
+"id": "6.516",
+"label": "Stat. Theb. 6.516",
+"text": "te Nemee, tibi Lerna comas Larissaque supplex"
+},
+{
+"id": "6.517",
+"label": "Stat. Theb. 6.517",
+"text": "poneret, Archemori maior colerere sepulcro."
+},
+{
+"id": "6.518",
+"label": "Stat. Theb. 6.518",
+"text": "Tum vero Occlides, quamquam iam certa sequenti"
+},
+{
+"id": "6.519",
+"label": "Stat. Theb. 6.519",
+"text": "praemia, cum vacuus domino prior iret Arion,"
+},
+{
+"id": "6.520",
+"label": "Stat. Theb. 6.520",
+"text": "ardet adhuc cupiens vel inanem vincere currum."
+},
+{
+"id": "6.521",
+"label": "Stat. Theb. 6.521",
+"text": "dat vires refovetque deus; volat ocior euro,"
+},
+{
+"id": "6.522",
+"label": "Stat. Theb. 6.522",
+"text": "ceu modo carceribus dimissus in arva solutis,"
+},
+{
+"id": "6.523",
+"label": "Stat. Theb. 6.523",
+"text": "verberibusque iubas et terga lacessit habenis"
+},
+{
+"id": "6.524",
+"label": "Stat. Theb. 6.524",
+"text": "increpitans Caerumque levem Cygnumque nivalem."
+},
+{
+"id": "6.525",
+"label": "Stat. Theb. 6.525",
+"text": "nunc saltem, dum nemo prior, rapit igneus orbes"
+},
+{
+"id": "6.526",
+"label": "Stat. Theb. 6.526",
+"text": "axis, et effusae longe sparguntur harenae,"
+},
+{
+"id": "6.527",
+"label": "Stat. Theb. 6.527",
+"text": "dat gemitum tellus et iam tunc saeva minatur."
+},
+{
+"id": "6.528",
+"label": "Stat. Theb. 6.528",
+"text": "forsitan et victo prior isset Arion e Cygnus,"
+},
+{
+"id": "6.529",
+"label": "Stat. Theb. 6.529",
+"text": "sed vetat aequorcus vinci pater: hinc vice iusta"
+},
+{
+"id": "6.530",
+"label": "Stat. Theb. 6.530",
+"text": "gloria mansit equo, cessit victoria vati."
+},
+{
+"id": "6.531",
+"label": "Stat. Theb. 6.531",
+"text": "huic pretium palmae gemini cratera ferebant"
+},
+{
+"id": "6.532",
+"label": "Stat. Theb. 6.532",
+"text": "Herculeum iuvenes: illum Tirynthius olim"
+},
+{
+"id": "6.533",
+"label": "Stat. Theb. 6.533",
+"text": "ferre manu sola spumantemque ore supino"
+},
+{
+"id": "6.534",
+"label": "Stat. Theb. 6.534",
+"text": "vertere, seu monstri victor seu Marte, solebat."
+},
+{
+"id": "6.535",
+"label": "Stat. Theb. 6.535",
+"text": "Centauros habet arte truces aurumque figuris"
+},
+{
+"id": "6.536",
+"label": "Stat. Theb. 6.536",
+"text": "terribile: hic mixta Lapitharum caede rotantur"
+},
+{
+"id": "6.537",
+"label": "Stat. Theb. 6.537",
+"text": "saxa, faces aliique iterum crateres, ubique"
+},
+{
+"id": "6.538",
+"label": "Stat. Theb. 6.538",
+"text": "ingentes morientum irae; tenet ipse furentem"
+},
+{
+"id": "6.539",
+"label": "Stat. Theb. 6.539",
+"text": "Hylaeum et torta molitur robora barba,"
+},
+{
+"id": "6.540",
+"label": "Stat. Theb. 6.540",
+"text": "at tibi Maeonio fertur circumflua limbo"
+},
+{
+"id": "6.541",
+"label": "Stat. Theb. 6.541",
+"text": "pro meritis, Admete, chlamys repetitaque multo"
+},
+{
+"id": "6.542",
+"label": "Stat. Theb. 6.542",
+"text": "murice: Phrixei natat hic contemptor ephebus"
+},
+{
+"id": "6.543",
+"label": "Stat. Theb. 6.543",
+"text": "aequoris et picta tralucet eaerulus unda;"
+},
+{
+"id": "6.544",
+"label": "Stat. Theb. 6.544",
+"text": "in latus ire manus mutaturusque videtur"
+},
+{
+"id": "6.545",
+"label": "Stat. Theb. 6.545",
+"text": "bracchia, nec siceum speres in stamine crinem;"
+},
+{
+"id": "6.546",
+"label": "Stat. Theb. 6.546",
+"text": "contra autem frustra sedet anxia turre suprema"
+},
+{
+"id": "6.547",
+"label": "Stat. Theb. 6.547",
+"text": "Sestias in speculis, moritur prope conscius ignis,"
+},
+{
+"id": "6.548",
+"label": "Stat. Theb. 6.548",
+"text": "has Adrastus opes dono victoribus ire"
+},
+{
+"id": "6.549",
+"label": "Stat. Theb. 6.549",
+"text": "imperat; at generum famula solatur Achaea."
+},
+{
+"id": "6.550",
+"label": "Stat. Theb. 6.550",
+"text": "Sollicitat tunc ampla viros ad praemia cursu"
+},
+{
+"id": "6.551",
+"label": "Stat. Theb. 6.551",
+"text": "praeceleres: agile studium et tenuissima virtus,"
+},
+{
+"id": "6.552",
+"label": "Stat. Theb. 6.552",
+"text": "pacis opus, cum sacra vocant, nec inutile bellis"
+},
+{
+"id": "6.553",
+"label": "Stat. Theb. 6.553",
+"text": "subsidium, si dextra neget, prior omnibus Idas,"
+},
+{
+"id": "6.554",
+"label": "Stat. Theb. 6.554",
+"text": "nuper Olympiacis umbratus tempora ramis,"
+},
+{
+"id": "6.555",
+"label": "Stat. Theb. 6.555",
+"text": "prosilit; excipiunt plausu Pisaea iuventus"
+},
+{
+"id": "6.556",
+"label": "Stat. Theb. 6.556",
+"text": "Eleaeque manus, sequitur Sicyonius Alcon,"
+},
+{
+"id": "6.557",
+"label": "Stat. Theb. 6.557",
+"text": "et bis in Isthmiaca victor clamatus harena"
+},
+{
+"id": "6.558",
+"label": "Stat. Theb. 6.558",
+"text": "Phaedimus, alipedumque fugam praegressus equorum"
+},
+{
+"id": "6.559",
+"label": "Stat. Theb. 6.559",
+"text": "ante Dymas, sed tunc aevo tardante secutus,"
+},
+{
+"id": "6.560",
+"label": "Stat. Theb. 6.560",
+"text": "multi et, quos varii tacet ignorantia vulgi,"
+},
+{
+"id": "6.561",
+"label": "Stat. Theb. 6.561",
+"text": "hinc atque hinc subiere, sed Arcada Parthenopaeum"
+},
+{
+"id": "6.562",
+"label": "Stat. Theb. 6.562",
+"text": "appellant densique cient vaga murmura circi,"
+},
+{
+"id": "6.563",
+"label": "Stat. Theb. 6.563",
+"text": "nota parens cursu; quis Maenaliac Atalantes"
+},
+{
+"id": "6.564",
+"label": "Stat. Theb. 6.564",
+"text": "nesciat egregium decus et vestigia cunctis"
+},
+{
+"id": "6.565",
+"label": "Stat. Theb. 6.565",
+"text": "indeprensa procis? onerat celeberrima natum"
+},
+{
+"id": "6.566",
+"label": "Stat. Theb. 6.566",
+"text": "mater, et ipse procul fama iam notus inermes"
+},
+{
+"id": "6.567",
+"label": "Stat. Theb. 6.567",
+"text": "narratur cervas pedes inter aperta Lycaei"
+},
+{
+"id": "6.568",
+"label": "Stat. Theb. 6.568",
+"text": "tollere et emissum cursu deprendere telum,"
+},
+{
+"id": "6.569",
+"label": "Stat. Theb. 6.569",
+"text": "tandem exspectatus volucri super agmina saltu"
+},
+{
+"id": "6.570",
+"label": "Stat. Theb. 6.570",
+"text": "emicat et torto chlamydem diffibulat auro."
+},
+{
+"id": "6.571",
+"label": "Stat. Theb. 6.571",
+"text": "effulsere artus, membrorumque omnis aperta est"
+},
+{
+"id": "6.572",
+"label": "Stat. Theb. 6.572",
+"text": "laetitia, insignes umeri, nec pectora nudis"
+},
+{
+"id": "6.573",
+"label": "Stat. Theb. 6.573",
+"text": "deteriora genis, latuitque in corpore vultus."
+},
+{
+"id": "6.574",
+"label": "Stat. Theb. 6.574",
+"text": "ipse tamen formae laudem aspernatur et arcet"
+},
+{
+"id": "6.575",
+"label": "Stat. Theb. 6.575",
+"text": "mirantes; tunc Palladios non inscius haustus"
+},
+{
+"id": "6.576",
+"label": "Stat. Theb. 6.576",
+"text": "incubuit pinguique cutem fuscatur olivo."
+},
+{
+"id": "6.577",
+"label": "Stat. Theb. 6.577",
+"text": "hoc Idas, hoc more Dymas aliique nitescunt."
+},
+{
+"id": "6.578",
+"label": "Stat. Theb. 6.578",
+"text": "sic ubi tranquillo perlucent sidera ponto"
+},
+{
+"id": "6.579",
+"label": "Stat. Theb. 6.579",
+"text": "vibraturque fretis caeli stellantis imago,"
+},
+{
+"id": "6.580",
+"label": "Stat. Theb. 6.580",
+"text": "omnia clara nitent, sed clarior omnia supra"
+},
+{
+"id": "6.581",
+"label": "Stat. Theb. 6.581",
+"text": "Hesperos exercet radios, quantusque per altum"
+},
+{
+"id": "6.582",
+"label": "Stat. Theb. 6.582",
+"text": "aethera, caeruleis tantus monstratur in undis,"
+},
+{
+"id": "6.583",
+"label": "Stat. Theb. 6.583",
+"text": "proximus et forma nec multum segnior Idas"
+},
+{
+"id": "6.584",
+"label": "Stat. Theb. 6.584",
+"text": "cursibus atque aevo iuxta prior; attamen illi"
+},
+{
+"id": "6.585",
+"label": "Stat. Theb. 6.585",
+"text": "iam tenuem pingues florem induxere palaestrae,"
+},
+{
+"id": "6.586",
+"label": "Stat. Theb. 6.586",
+"text": "deserpitque genis nec se lanugo fatetur"
+},
+{
+"id": "6.587",
+"label": "Stat. Theb. 6.587",
+"text": "intonsae sub nube comae, tunc rite citatos"
+},
+{
+"id": "6.588",
+"label": "Stat. Theb. 6.588",
+"text": "explorant acuuntque gradus, variasque per artes"
+},
+{
+"id": "6.589",
+"label": "Stat. Theb. 6.589",
+"text": "exstimulant docto languentia membra tumultu:"
+},
+{
+"id": "6.590",
+"label": "Stat. Theb. 6.590",
+"text": "poplite nunc sidunt flexo, nunc lubrica forti"
+},
+{
+"id": "6.591",
+"label": "Stat. Theb. 6.591",
+"text": "pectora confidunt plausu, nunc ignea tollunt"
+},
+{
+"id": "6.592",
+"label": "Stat. Theb. 6.592",
+"text": "crura brevemque fugam necopino fine reponunt."
+},
+{
+"id": "6.593",
+"label": "Stat. Theb. 6.593",
+"text": "Ut ruit atque aequum submisit regula limen,"
+},
+{
+"id": "6.594",
+"label": "Stat. Theb. 6.594",
+"text": "corripuere leves spatium, campoque refulsit"
+},
+{
+"id": "6.595",
+"label": "Stat. Theb. 6.595",
+"text": "nuda cohors: volucres isdem modo tardius arvis"
+},
+{
+"id": "6.596",
+"label": "Stat. Theb. 6.596",
+"text": "isse videntur equi; credas e plebe Cydonum"
+},
+{
+"id": "6.597",
+"label": "Stat. Theb. 6.597",
+"text": "Parthorumque fuga totidem exsiluisse sagittas,"
+},
+{
+"id": "6.598",
+"label": "Stat. Theb. 6.598",
+"text": "non aliter celeres Hyrcana per avia cervi,"
+},
+{
+"id": "6.599",
+"label": "Stat. Theb. 6.599",
+"text": "cum procul impasti fremitum accepere leonis"
+},
+{
+"id": "6.600",
+"label": "Stat. Theb. 6.600",
+"text": "sive putant, rapit attonitos fuga caeca metusque"
+},
+{
+"id": "6.601",
+"label": "Stat. Theb. 6.601",
+"text": "congregat, et longum dant cornua mixta fragorem."
+},
+{
+"id": "6.602",
+"label": "Stat. Theb. 6.602",
+"text": "effugit hic oculos rapida puer ocior aura"
+},
+{
+"id": "6.603",
+"label": "Stat. Theb. 6.603",
+"text": "Maenalius, quem deinde gradu premit horridus Idas"
+},
+{
+"id": "6.604",
+"label": "Stat. Theb. 6.604",
+"text": "inspiratque umero, flatuque et pectoris umbra"
+},
+{
+"id": "6.605",
+"label": "Stat. Theb. 6.605",
+"text": "terga premit, post ambiguo discrimine tendunt"
+},
+{
+"id": "6.606",
+"label": "Stat. Theb. 6.606",
+"text": "Phaedimus atque Dymas, illis celer imminet Alcon."
+},
+{
+"id": "6.607",
+"label": "Stat. Theb. 6.607",
+"text": "flavus ab intonso pendebat vertice crinis"
+},
+{
+"id": "6.608",
+"label": "Stat. Theb. 6.608",
+"text": "Arcados; hoc primis Triviae pascebat ab annis"
+},
+{
+"id": "6.609",
+"label": "Stat. Theb. 6.609",
+"text": "munus et, Ogygio victor cum Marte redisset,"
+},
+{
+"id": "6.610",
+"label": "Stat. Theb. 6.610",
+"text": "nequiquam patriis audax promiserat aris."
+},
+{
+"id": "6.611",
+"label": "Stat. Theb. 6.611",
+"text": "tunc liber nexu lateque in terga solutus"
+},
+{
+"id": "6.612",
+"label": "Stat. Theb. 6.612",
+"text": "occursu zephyri retro fugit et simul ipsum"
+},
+{
+"id": "6.613",
+"label": "Stat. Theb. 6.613",
+"text": "impedit infestoque volans obtenditur Idae."
+},
+{
+"id": "6.614",
+"label": "Stat. Theb. 6.614",
+"text": "inde dolum iuvenis fraudique adcommoda sensit"
+},
+{
+"id": "6.615",
+"label": "Stat. Theb. 6.615",
+"text": "tempora; iam finem iuxta, dum limina victor"
+},
+{
+"id": "6.616",
+"label": "Stat. Theb. 6.616",
+"text": "Parthenopaeus init, correpto crine reductum"
+},
+{
+"id": "6.617",
+"label": "Stat. Theb. 6.617",
+"text": "occupat, et longae primus ferit ostia portae."
+},
+{
+"id": "6.618",
+"label": "Stat. Theb. 6.618",
+"text": "Arcades arma fremunt, armis defendere regem,"
+},
+{
+"id": "6.619",
+"label": "Stat. Theb. 6.619",
+"text": "ni raptum decus et meriti reddantur honores,"
+},
+{
+"id": "6.620",
+"label": "Stat. Theb. 6.620",
+"text": "contendunt totoque parant descendere circo."
+},
+{
+"id": "6.621",
+"label": "Stat. Theb. 6.621",
+"text": "sunt et quis Idae placeat dolus, ipse regesta"
+},
+{
+"id": "6.622",
+"label": "Stat. Theb. 6.622",
+"text": "Parthenopaeus humo vultumque oculosque madentes"
+},
+{
+"id": "6.623",
+"label": "Stat. Theb. 6.623",
+"text": "obruit, accessit lacrimarum gratia formae,"
+},
+{
+"id": "6.624",
+"label": "Stat. Theb. 6.624",
+"text": "pectora nunc maerens, nunc ora indigna cruento"
+},
+{
+"id": "6.625",
+"label": "Stat. Theb. 6.625",
+"text": "ungue secat meritamque comam, furit undique clamor"
+},
+{
+"id": "6.626",
+"label": "Stat. Theb. 6.626",
+"text": "dissonus, ambiguumque senis cunctatur Adrasti"
+},
+{
+"id": "6.627",
+"label": "Stat. Theb. 6.627",
+"text": "consilium, tandem ipse refert: ‘compescite litem,"
+},
+{
+"id": "6.628",
+"label": "Stat. Theb. 6.628",
+"text": "o pueri! virtus iterum temptanda; sed ite"
+},
+{
+"id": "6.629",
+"label": "Stat. Theb. 6.629",
+"text": "limite non uno, latus hoc conceditur Idae,"
+},
+{
+"id": "6.630",
+"label": "Stat. Theb. 6.630",
+"text": "tu diversa tene, fraus cursibus omnis abesto.’"
+},
+{
+"id": "6.631",
+"label": "Stat. Theb. 6.631",
+"text": "Audierant, dictoque manent, mox numina supplex"
+},
+{
+"id": "6.632",
+"label": "Stat. Theb. 6.632",
+"text": "affatu tacito iuvenis Tegeaeus odorat:"
+},
+{
+"id": "6.633",
+"label": "Stat. Theb. 6.633",
+"text": "‘diva potens nemorum, tibi enim hic, tibi crinis honori"
+},
+{
+"id": "6.634",
+"label": "Stat. Theb. 6.634",
+"text": "debitus, eque tuo venit haec iniuria voto,"
+},
+{
+"id": "6.635",
+"label": "Stat. Theb. 6.635",
+"text": "si bene quid genetrix, si quid venatibus ipse"
+},
+{
+"id": "6.636",
+"label": "Stat. Theb. 6.636",
+"text": "promerui, ne, quaeso, sinas hoc omine Thebas"
+},
+{
+"id": "6.637",
+"label": "Stat. Theb. 6.637",
+"text": "ire nec Arcadiae tantum meruisse pudorem.’"
+},
+{
+"id": "6.638",
+"label": "Stat. Theb. 6.638",
+"text": "auditum manifesta fides: vix campus euntem"
+},
+{
+"id": "6.639",
+"label": "Stat. Theb. 6.639",
+"text": "sentit, et exilis plantis intervenit aer,"
+},
+{
+"id": "6.640",
+"label": "Stat. Theb. 6.640",
+"text": "raraque non fracto vestigia pulvere pendent."
+},
+{
+"id": "6.641",
+"label": "Stat. Theb. 6.641",
+"text": "inrumpit clamore fores, clamore recurrit"
+},
+{
+"id": "6.642",
+"label": "Stat. Theb. 6.642",
+"text": "ante ducem prensaque fovet suspiria palma,"
+},
+{
+"id": "6.643",
+"label": "Stat. Theb. 6.643",
+"text": "finiti cursus, operumque insignia praesto."
+},
+{
+"id": "6.644",
+"label": "Stat. Theb. 6.644",
+"text": "Arcas equum dono, clipeum gerit improbus Idas,"
+},
+{
+"id": "6.645",
+"label": "Stat. Theb. 6.645",
+"text": "cetera plebs Lyciis vadit contenta pharetris."
+},
+{
+"id": "6.646",
+"label": "Stat. Theb. 6.646",
+"text": "Tunc vocat, emisso si quis decernere disco"
+},
+{
+"id": "6.647",
+"label": "Stat. Theb. 6.647",
+"text": "impiger et vires velit ostentare superbas."
+},
+{
+"id": "6.648",
+"label": "Stat. Theb. 6.648",
+"text": "it iussus Pterelas. et aenae lubrica massae"
+},
+{
+"id": "6.649",
+"label": "Stat. Theb. 6.649",
+"text": "pondera vix toto curvatus corpore iuxta"
+},
+{
+"id": "6.650",
+"label": "Stat. Theb. 6.650",
+"text": "deicit; inspectant taciti expenduntque laborem"
+},
+{
+"id": "6.651",
+"label": "Stat. Theb. 6.651",
+"text": "Inachidae. mox turba ruunt, duo gentis Achaeae,"
+},
+{
+"id": "6.652",
+"label": "Stat. Theb. 6.652",
+"text": "tres Ephyreiadae, Pisa satus unus, Acarnan"
+},
+{
+"id": "6.653",
+"label": "Stat. Theb. 6.653",
+"text": "septimus; et plures agitabat gloria, ni se"
+},
+{
+"id": "6.654",
+"label": "Stat. Theb. 6.654",
+"text": "arduus Hippomedon cavea stimulante tulisset"
+},
+{
+"id": "6.655",
+"label": "Stat. Theb. 6.655",
+"text": "in medios, lateque ferens sub pectore dextro"
+},
+{
+"id": "6.656",
+"label": "Stat. Theb. 6.656",
+"text": "orbem alium: ‘hunc potius, iuvenes, qui moenia saxis"
+},
+{
+"id": "6.657",
+"label": "Stat. Theb. 6.657",
+"text": "frangere, qui Tyrias deiectum vaditis arces,"
+},
+{
+"id": "6.658",
+"label": "Stat. Theb. 6.658",
+"text": "hunc rapite: ast illud cui non iaculabile dextrae"
+},
+{
+"id": "6.659",
+"label": "Stat. Theb. 6.659",
+"text": "pondus?’ et abreptum nullo conamine iecit"
+},
+{
+"id": "6.660",
+"label": "Stat. Theb. 6.660",
+"text": "in latus, absistunt procul attonitique fatentur"
+},
+{
+"id": "6.661",
+"label": "Stat. Theb. 6.661",
+"text": "cedere; vix unus Phlegyas acerque Menestheus —"
+},
+{
+"id": "6.662",
+"label": "Stat. Theb. 6.662",
+"text": "hos etiam pudor et magni tenuere parentes —"
+},
+{
+"id": "6.663",
+"label": "Stat. Theb. 6.663",
+"text": "promisere manum; concessit cetera pubes"
+},
+{
+"id": "6.664",
+"label": "Stat. Theb. 6.664",
+"text": "sponte et adorato rediit ingloria disco."
+},
+{
+"id": "6.665",
+"label": "Stat. Theb. 6.665",
+"text": "(malis Bistoniis clipeus Mavortis in arvis"
+},
+{
+"id": "6.666",
+"label": "Stat. Theb. 6.666",
+"text": "luce mala Pangaea ferit solemque refulgens"
+},
+{
+"id": "6.667",
+"label": "Stat. Theb. 6.667",
+"text": "territat incussaque dei grave mugit ab hasta."
+},
+{
+"id": "6.668",
+"label": "Stat. Theb. 6.668",
+"text": "Pisaeus Phlegyas opus incohat et simul omnes"
+},
+{
+"id": "6.669",
+"label": "Stat. Theb. 6.669",
+"text": "abstulit in se oculos: ea viso corpore virtus"
+},
+{
+"id": "6.670",
+"label": "Stat. Theb. 6.670",
+"text": "promissa, ac primum terra discumque manumque"
+},
+{
+"id": "6.671",
+"label": "Stat. Theb. 6.671",
+"text": "asperat, excusso mox circum pulvere versat,"
+},
+{
+"id": "6.672",
+"label": "Stat. Theb. 6.672",
+"text": "quod latus in digitos, mediae quod certius ulnae"
+},
+{
+"id": "6.673",
+"label": "Stat. Theb. 6.673",
+"text": "conveniat, non artis egens: hic semper amori"
+},
+{
+"id": "6.674",
+"label": "Stat. Theb. 6.674",
+"text": "ludus erat, patriae non tantum ubi laudis obiret"
+},
+{
+"id": "6.675",
+"label": "Stat. Theb. 6.675",
+"text": "sacra, sed alternis Alpheon utrumque solebat"
+},
+{
+"id": "6.676",
+"label": "Stat. Theb. 6.676",
+"text": "metari ripis et, qua latissima distant,"
+},
+{
+"id": "6.677",
+"label": "Stat. Theb. 6.677",
+"text": "non umquam merso transmittere flumina disco."
+},
+{
+"id": "6.678",
+"label": "Stat. Theb. 6.678",
+"text": "ergo operum fidens non protinus horrida campi"
+},
+{
+"id": "6.679",
+"label": "Stat. Theb. 6.679",
+"text": "iugera, sed caelo dextram metitur, humique"
+},
+{
+"id": "6.680",
+"label": "Stat. Theb. 6.680",
+"text": "pressus utroque genu collecto sanguine discum"
+},
+{
+"id": "6.681",
+"label": "Stat. Theb. 6.681",
+"text": "ipse super sese rotat atque in nubila condit."
+},
+{
+"id": "6.682",
+"label": "Stat. Theb. 6.682",
+"text": "ille citus sublime petit similisque cadenti"
+},
+{
+"id": "6.683",
+"label": "Stat. Theb. 6.683",
+"text": "crescit in adversum, tandemque exhaustus ab alto"
+},
+{
+"id": "6.684",
+"label": "Stat. Theb. 6.684",
+"text": "tardior ad terram redit atque immergitur arvis."
+},
+{
+"id": "6.685",
+"label": "Stat. Theb. 6.685",
+"text": "sic cadit, attonitis quotiens avellitur astris,"
+},
+{
+"id": "6.686",
+"label": "Stat. Theb. 6.686",
+"text": "Solis opaca soror; procul auxiliantia gentes"
+},
+{
+"id": "6.687",
+"label": "Stat. Theb. 6.687",
+"text": "aera crepant frustraque timent, at Thessala victrix"
+},
+{
+"id": "6.688",
+"label": "Stat. Theb. 6.688",
+"text": "ridet anhelantes audito carmine bigas."
+},
+{
+"id": "6.689",
+"label": "Stat. Theb. 6.689",
+"text": "conlaudant Danai, sed non tibi molle tuenti,"
+},
+{
+"id": "6.690",
+"label": "Stat. Theb. 6.690",
+"text": "Hippomedon, maiorque manus speratur in aequo."
+},
+{
+"id": "6.691",
+"label": "Stat. Theb. 6.691",
+"text": "Atque illi extemplo, cui spes infringere dulce"
+},
+{
+"id": "6.692",
+"label": "Stat. Theb. 6.692",
+"text": "immodicas, Fortuna venit, quid numina contra"
+},
+{
+"id": "6.693",
+"label": "Stat. Theb. 6.693",
+"text": "tendere fas homini? spatium iam immane parabat,"
+},
+{
+"id": "6.694",
+"label": "Stat. Theb. 6.694",
+"text": "iam cervix conversa, et iam latus omne redibat:"
+},
+{
+"id": "6.695",
+"label": "Stat. Theb. 6.695",
+"text": "excidit ante pedes elapsum pondus et ictus"
+},
+{
+"id": "6.696",
+"label": "Stat. Theb. 6.696",
+"text": "destituit frustraque manum demisit inanem,"
+},
+{
+"id": "6.697",
+"label": "Stat. Theb. 6.697",
+"text": "ingemuere omnes, rarisque ea visa voluptas,"
+},
+{
+"id": "6.698",
+"label": "Stat. Theb. 6.698",
+"text": "inde ad conatus timida subit arte Menestheus"
+},
+{
+"id": "6.699",
+"label": "Stat. Theb. 6.699",
+"text": "cautior, et multum te, Maia crete, rogato"
+},
+{
+"id": "6.700",
+"label": "Stat. Theb. 6.700",
+"text": "molis praevalidae castigat pulvere lapsus."
+},
+{
+"id": "6.701",
+"label": "Stat. Theb. 6.701",
+"text": "illa manu magna et multo felicior exit,"
+},
+{
+"id": "6.702",
+"label": "Stat. Theb. 6.702",
+"text": "nec partem exiguam circi transvecta quievit,"
+},
+{
+"id": "6.703",
+"label": "Stat. Theb. 6.703",
+"text": "fit sonus, et fixa signatur terra sagitta,"
+},
+{
+"id": "6.704",
+"label": "Stat. Theb. 6.704",
+"text": "tertius Hippomedon valida ad certamina tardos"
+},
+{
+"id": "6.705",
+"label": "Stat. Theb. 6.705",
+"text": "molitur gressus; namque illum corde sub alto"
+},
+{
+"id": "6.706",
+"label": "Stat. Theb. 6.706",
+"text": "et casus Phlegyae monet et fortuna Menesthei."
+},
+{
+"id": "6.707",
+"label": "Stat. Theb. 6.707",
+"text": "erigit adsuetum dextrae certamen, et alte"
+},
+{
+"id": "6.708",
+"label": "Stat. Theb. 6.708",
+"text": "sustentans rigidumque latus fortesque lacertos"
+},
+{
+"id": "6.709",
+"label": "Stat. Theb. 6.709",
+"text": "consulit ac vasto contorquet turbine, et ipse"
+},
+{
+"id": "6.710",
+"label": "Stat. Theb. 6.710",
+"text": "prosequitur, fugit horrendo per inania saltu"
+},
+{
+"id": "6.711",
+"label": "Stat. Theb. 6.711",
+"text": "iamque procul meminit dextrae servatque tenorem"
+},
+{
+"id": "6.712",
+"label": "Stat. Theb. 6.712",
+"text": "discus, nec dubia iunctave Menesthea victum"
+},
+{
+"id": "6.713",
+"label": "Stat. Theb. 6.713",
+"text": "transabiit meta: longe super aemula signa"
+},
+{
+"id": "6.714",
+"label": "Stat. Theb. 6.714",
+"text": "consedit viridesque umeros et opaca theatri"
+},
+{
+"id": "6.715",
+"label": "Stat. Theb. 6.715",
+"text": "culmina ceu latae tremefecit mole ruinae:"
+},
+{
+"id": "6.716",
+"label": "Stat. Theb. 6.716",
+"text": "quale vaporifera saxum Polyphemus ab Aetna"
+},
+{
+"id": "6.717",
+"label": "Stat. Theb. 6.717",
+"text": "lucis egente manu tamen in vestigia puppis"
+},
+{
+"id": "6.718",
+"label": "Stat. Theb. 6.718",
+"text": "auditae iuxtaque inimicum exegit Ulixen."
+},
+{
+"id": "6.719",
+"label": "Stat. Theb. 6.719",
+"text": "sic et Aloidae, cum iam calcaret Olympum"
+},
+{
+"id": "6.720",
+"label": "Stat. Theb. 6.720",
+"text": "desuper Ossa rigens, ipsum glaciale ferebant"
+},
+{
+"id": "6.721",
+"label": "Stat. Theb. 6.721",
+"text": "Pelion et trepido sperabant iungere caelo."
+},
+{
+"id": "6.722",
+"label": "Stat. Theb. 6.722",
+"text": "Tum genitus Talao victori tigrin inanem"
+},
+{
+"id": "6.723",
+"label": "Stat. Theb. 6.723",
+"text": "ire iubet, fulvo quae circumfusa nitebat"
+},
+{
+"id": "6.724",
+"label": "Stat. Theb. 6.724",
+"text": "margine et extremos auro mansueverat ungues."
+},
+{
+"id": "6.725",
+"label": "Stat. Theb. 6.725",
+"text": "Gnosiacos arcus habet et vaga tela Menestheus."
+},
+{
+"id": "6.726",
+"label": "Stat. Theb. 6.726",
+"text": "at tibi ait, ‘Phlegya, casu frustrate sinistro,"
+},
+{
+"id": "6.727",
+"label": "Stat. Theb. 6.727",
+"text": "hunc, quondam nostri decus auxiliumque Pelasgi,"
+},
+{
+"id": "6.728",
+"label": "Stat. Theb. 6.728",
+"text": "ferre damus,neque enim Hippomedon inviderit, ensem,"
+},
+{
+"id": "6.729",
+"label": "Stat. Theb. 6.729",
+"text": "nunc opus est animis: infestos tollite caestus"
+},
+{
+"id": "6.730",
+"label": "Stat. Theb. 6.730",
+"text": "comminus; haec bellis et ferro proxima virtus.’"
+},
+{
+"id": "6.731",
+"label": "Stat. Theb. 6.731",
+"text": "Constitit immanis cerni immanisque timeri"
+},
+{
+"id": "6.732",
+"label": "Stat. Theb. 6.732",
+"text": "Argolicus Capaneus, ac dum nigrantia plumbo"
+},
+{
+"id": "6.733",
+"label": "Stat. Theb. 6.733",
+"text": "tegmina cruda boum non mollior ipse lacertis"
+},
+{
+"id": "6.734",
+"label": "Stat. Theb. 6.734",
+"text": "induitur, ‘date tot iuvenum de milibus unum"
+},
+{
+"id": "6.735",
+"label": "Stat. Theb. 6.735",
+"text": "huc’ ait, ‘atque utinam potius de stirpe veniret"
+},
+{
+"id": "6.736",
+"label": "Stat. Theb. 6.736",
+"text": "aemulus Aonia, quem fas demittere leto,"
+},
+{
+"id": "6.737",
+"label": "Stat. Theb. 6.737",
+"text": "nec mea crudelis civili sanguine virtus.’"
+},
+{
+"id": "6.738",
+"label": "Stat. Theb. 6.738",
+"text": "obstipuere animi, fecitque silentia terror."
+},
+{
+"id": "6.739",
+"label": "Stat. Theb. 6.739",
+"text": "tandem insperatus nuda de plebe Laeonum"
+},
+{
+"id": "6.740",
+"label": "Stat. Theb. 6.740",
+"text": "prosilit Aleidamas, mirantur Dorica regum"
+},
+{
+"id": "6.741",
+"label": "Stat. Theb. 6.741",
+"text": "agmina; sed socii fretum Polluce magistro"
+},
+{
+"id": "6.742",
+"label": "Stat. Theb. 6.742",
+"text": "norant et sacras inter crevisse palaestras."
+},
+{
+"id": "6.743",
+"label": "Stat. Theb. 6.743",
+"text": "ipse deus posuitque manus et bracchia finxit —"
+},
+{
+"id": "6.744",
+"label": "Stat. Theb. 6.744",
+"text": "materiae suadebat amor; — tune saepe locavit"
+},
+{
+"id": "6.745",
+"label": "Stat. Theb. 6.745",
+"text": "comminus, et simili stantem miratus in ira"
+},
+{
+"id": "6.746",
+"label": "Stat. Theb. 6.746",
+"text": "sustulit exsultans nudumque in pectora pressit,"
+},
+{
+"id": "6.747",
+"label": "Stat. Theb. 6.747",
+"text": "illum indignatur Capaneus ridetque vocantem"
+},
+{
+"id": "6.748",
+"label": "Stat. Theb. 6.748",
+"text": "ut miserans, poscitque alium, tandemque coaetus"
+},
+{
+"id": "6.749",
+"label": "Stat. Theb. 6.749",
+"text": "restitit, et stimulis iam languida colla tumescunt."
+},
+{
+"id": "6.750",
+"label": "Stat. Theb. 6.750",
+"text": "fulmineas alte suspensi corpora plantis"
+},
+{
+"id": "6.751",
+"label": "Stat. Theb. 6.751",
+"text": "erexere manus; tuto procul ora recessu"
+},
+{
+"id": "6.752",
+"label": "Stat. Theb. 6.752",
+"text": "armorum in speculis, aditusque ad volnera elusi."
+},
+{
+"id": "6.753",
+"label": "Stat. Theb. 6.753",
+"text": "hic, quantum Tityos Stygiis consurgat ab arvis,"
+},
+{
+"id": "6.754",
+"label": "Stat. Theb. 6.754",
+"text": "si torvae patiantur aves, tanta undique pandit"
+},
+{
+"id": "6.755",
+"label": "Stat. Theb. 6.755",
+"text": "membrorum spatia et tantis ferus ossibus exstat."
+},
+{
+"id": "6.756",
+"label": "Stat. Theb. 6.756",
+"text": "hic paulo ante puer, sed enim maturius aevo"
+},
+{
+"id": "6.757",
+"label": "Stat. Theb. 6.757",
+"text": "robur, et ingentes spondet tener impetus annos,"
+},
+{
+"id": "6.758",
+"label": "Stat. Theb. 6.758",
+"text": "quem vinci haud quisquam saevo neque sanguine tingui"
+},
+{
+"id": "6.759",
+"label": "Stat. Theb. 6.759",
+"text": "malit, et erecto timeat spectacula voto."
+},
+{
+"id": "6.760",
+"label": "Stat. Theb. 6.760",
+"text": "Ut sese permensi oculis et uterque priorem"
+},
+{
+"id": "6.761",
+"label": "Stat. Theb. 6.761",
+"text": "speravere locum, non protinus ira nec ictus:"
+},
+{
+"id": "6.762",
+"label": "Stat. Theb. 6.762",
+"text": "alternus paulum timor et permixta furori"
+},
+{
+"id": "6.763",
+"label": "Stat. Theb. 6.763",
+"text": "consilia, inclinant tantum contraria iactu"
+},
+{
+"id": "6.764",
+"label": "Stat. Theb. 6.764",
+"text": "bracchia et explorant caestus hebetantque ferendo,"
+},
+{
+"id": "6.765",
+"label": "Stat. Theb. 6.765",
+"text": "doctior hic differt animum metuensque futuri"
+},
+{
+"id": "6.766",
+"label": "Stat. Theb. 6.766",
+"text": "cunctatus vires dispensat: at ille nocendi"
+},
+{
+"id": "6.767",
+"label": "Stat. Theb. 6.767",
+"text": "prodigus incautusque sui ruit omnis et ambas"
+},
+{
+"id": "6.768",
+"label": "Stat. Theb. 6.768",
+"text": "consumit sine lege manus atque inrita frendit"
+},
+{
+"id": "6.769",
+"label": "Stat. Theb. 6.769",
+"text": "insurgens seque ipse premit, sed providus astu"
+},
+{
+"id": "6.770",
+"label": "Stat. Theb. 6.770",
+"text": "et patria vigil arte Lacon hos reicit ictus,"
+},
+{
+"id": "6.771",
+"label": "Stat. Theb. 6.771",
+"text": "hos cavet; interdum nutu capitisque citati"
+},
+{
+"id": "6.772",
+"label": "Stat. Theb. 6.772",
+"text": "integer obsequio, manibus nunc obvia tela '"
+},
+{
+"id": "6.773",
+"label": "Stat. Theb. 6.773",
+"text": "discutiens, instat gressu voltuque recedit:"
+},
+{
+"id": "6.774",
+"label": "Stat. Theb. 6.774",
+"text": "saepe etiam iniustis conlatum viribus hostem —"
+},
+{
+"id": "6.775",
+"label": "Stat. Theb. 6.775",
+"text": "is vigor ingenio, tanta experientia dextrae est —"
+},
+{
+"id": "6.776",
+"label": "Stat. Theb. 6.776",
+"text": "ultro audax animis intratque et obumbrat et alte"
+},
+{
+"id": "6.777",
+"label": "Stat. Theb. 6.777",
+"text": "adsilit. ut praeceps cumulo salit unda minantes"
+},
+{
+"id": "6.778",
+"label": "Stat. Theb. 6.778",
+"text": "in scopulos et fracta redit, sic ille furentem"
+},
+{
+"id": "6.779",
+"label": "Stat. Theb. 6.779",
+"text": "circuit expugnans; levat ecce diuque minatur"
+},
+{
+"id": "6.780",
+"label": "Stat. Theb. 6.780",
+"text": "in latus inque oculos; illum rigida arma caventem"
+},
+{
+"id": "6.781",
+"label": "Stat. Theb. 6.781",
+"text": "avocat ac manibus necopinum interserit ictum"
+},
+{
+"id": "6.782",
+"label": "Stat. Theb. 6.782",
+"text": "callidus et mediam designat volnere frontem:"
+},
+{
+"id": "6.783",
+"label": "Stat. Theb. 6.783",
+"text": "iam cruor, et tepido signantur tempora rivo."
+},
+{
+"id": "6.784",
+"label": "Stat. Theb. 6.784",
+"text": "nescit adhue Capaneus subitumque per agmina murmur"
+},
+{
+"id": "6.785",
+"label": "Stat. Theb. 6.785",
+"text": "miratur; verum ut fessam super ora reduxit"
+},
+{
+"id": "6.786",
+"label": "Stat. Theb. 6.786",
+"text": "forte manum et summo maculas in vellere vidit,"
+},
+{
+"id": "6.787",
+"label": "Stat. Theb. 6.787",
+"text": "non leo, non iaculo tantum indignata recepto"
+},
+{
+"id": "6.788",
+"label": "Stat. Theb. 6.788",
+"text": "tigris: agit toto cedentem fervidus arvo"
+},
+{
+"id": "6.789",
+"label": "Stat. Theb. 6.789",
+"text": "praecipitatque retro iuvenem atque in terga supinat,"
+},
+{
+"id": "6.790",
+"label": "Stat. Theb. 6.790",
+"text": "dentibus horrendum stridens, geminatque rotatas"
+},
+{
+"id": "6.791",
+"label": "Stat. Theb. 6.791",
+"text": "multiplicatque manus, rapiunt conamina venti,"
+},
+{
+"id": "6.792",
+"label": "Stat. Theb. 6.792",
+"text": "pars cadit in caestus; motu Spartanus acuto"
+},
+{
+"id": "6.793",
+"label": "Stat. Theb. 6.793",
+"text": "mille cavet lapsas circum cava tempora mortes"
+},
+{
+"id": "6.794",
+"label": "Stat. Theb. 6.794",
+"text": "auxilioque pedum, sed non tamen immemor artis"
+},
+{
+"id": "6.795",
+"label": "Stat. Theb. 6.795",
+"text": "adversus fugit et fugiens tamen ictibus obstat."
+},
+{
+"id": "6.796",
+"label": "Stat. Theb. 6.796",
+"text": "Et iam utrumque labor suspiriaque aegra fatigant."
+},
+{
+"id": "6.797",
+"label": "Stat. Theb. 6.797",
+"text": "tardius ille premit, nee iam hic absistere velox,"
+},
+{
+"id": "6.798",
+"label": "Stat. Theb. 6.798",
+"text": "defectique ambo genibus pariterque quierunt."
+},
+{
+"id": "6.799",
+"label": "Stat. Theb. 6.799",
+"text": "sic ubi longa vagos lassarunt aequora nautas"
+},
+{
+"id": "6.800",
+"label": "Stat. Theb. 6.800",
+"text": "et signum de puppe datum, posuere parumper"
+},
+{
+"id": "6.801",
+"label": "Stat. Theb. 6.801",
+"text": "bracchia: vix requies, iam vox citat altera remos,"
+},
+{
+"id": "6.802",
+"label": "Stat. Theb. 6.802",
+"text": "ecce iterum immodice venientem eludit et exit"
+},
+{
+"id": "6.803",
+"label": "Stat. Theb. 6.803",
+"text": "sponte ruens mersusque umeris: effunditur ille"
+},
+{
+"id": "6.804",
+"label": "Stat. Theb. 6.804",
+"text": "in caput, adsurgentem alio puer improbus ictu"
+},
+{
+"id": "6.805",
+"label": "Stat. Theb. 6.805",
+"text": "perculit eventuque impalluit ipse secundo."
+},
+{
+"id": "6.806",
+"label": "Stat. Theb. 6.806",
+"text": "clamorem Inachidae, quantum non litora, tollunt,"
+},
+{
+"id": "6.807",
+"label": "Stat. Theb. 6.807",
+"text": "non nemora, illum ab humo conantem ut vidit Adrastus"
+},
+{
+"id": "6.808",
+"label": "Stat. Theb. 6.808",
+"text": "tollentemque manus et non toleranda parantem:"
+},
+{
+"id": "6.809",
+"label": "Stat. Theb. 6.809",
+"text": "‘ite, oro, socii, furit, ite, opponite dextras,"
+},
+{
+"id": "6.810",
+"label": "Stat. Theb. 6.810",
+"text": "festinate, furit, palmamque et praemia ferte!"
+},
+{
+"id": "6.811",
+"label": "Stat. Theb. 6.811",
+"text": "non prius, effracto quam misceat ossa cerebro,"
+},
+{
+"id": "6.812",
+"label": "Stat. Theb. 6.812",
+"text": "absistet, video, moriturum auferte Lacona.’"
+},
+{
+"id": "6.813",
+"label": "Stat. Theb. 6.813",
+"text": "nec mora, prorumpit Tydeus, nec iussa recusat"
+},
+{
+"id": "6.814",
+"label": "Stat. Theb. 6.814",
+"text": "Hippomedon: tunc vix ambo conatibus ambas"
+},
+{
+"id": "6.815",
+"label": "Stat. Theb. 6.815",
+"text": "restringunt cohibentque manus ac plurima suadent:"
+},
+{
+"id": "6.816",
+"label": "Stat. Theb. 6.816",
+"text": "‘ vineis, abi; pulchrum vitam donare minori."
+},
+{
+"id": "6.817",
+"label": "Stat. Theb. 6.817",
+"text": "noster et hic bellique comes.’ nil frangitur heros,"
+},
+{
+"id": "6.818",
+"label": "Stat. Theb. 6.818",
+"text": "ramumque oblatumque manu thoraca repellit"
+},
+{
+"id": "6.819",
+"label": "Stat. Theb. 6.819",
+"text": "vociferans: ‘liceat! non has ego pulvere crasso"
+},
+{
+"id": "6.820",
+"label": "Stat. Theb. 6.820",
+"text": "atque cruore genas, meruit quibus iste favorem"
+},
+{
+"id": "6.821",
+"label": "Stat. Theb. 6.821",
+"text": "semivir, infodiam mittamque informe sepulcro"
+},
+{
+"id": "6.822",
+"label": "Stat. Theb. 6.822",
+"text": "corpus et Ocbalio donem lugere magistro?’"
+},
+{
+"id": "6.823",
+"label": "Stat. Theb. 6.823",
+"text": "dicit; at hunc socii tumidum et vicisse negantem"
+},
+{
+"id": "6.824",
+"label": "Stat. Theb. 6.824",
+"text": "avertunt, contra laudant insignis alumnum"
+},
+{
+"id": "6.825",
+"label": "Stat. Theb. 6.825",
+"text": "Taygeti longeque minas risere Lacones."
+},
+{
+"id": "6.826",
+"label": "Stat. Theb. 6.826",
+"text": "Iamdudum variae laudes et conscia virtus"
+},
+{
+"id": "6.827",
+"label": "Stat. Theb. 6.827",
+"text": "Tydea magnanimum stimulis urgentibus angunt."
+},
+{
+"id": "6.828",
+"label": "Stat. Theb. 6.828",
+"text": "ille quidem et disco bonus et contendere cursu,"
+},
+{
+"id": "6.829",
+"label": "Stat. Theb. 6.829",
+"text": "nec caestu bellare minor, sed corde labores"
+},
+{
+"id": "6.830",
+"label": "Stat. Theb. 6.830",
+"text": "ante alios erat uncta pale. sic otia Martis"
+},
+{
+"id": "6.831",
+"label": "Stat. Theb. 6.831",
+"text": "degere et armiferas laxare adsueverat iras"
+},
+{
+"id": "6.832",
+"label": "Stat. Theb. 6.832",
+"text": "ingentes contra ille viros Acheloia circum"
+},
+{
+"id": "6.833",
+"label": "Stat. Theb. 6.833",
+"text": "litora felicesque deo monstrante palaestras."
+},
+{
+"id": "6.834",
+"label": "Stat. Theb. 6.834",
+"text": "ergo ubi luctandi iuvenes animosa citavit"
+},
+{
+"id": "6.835",
+"label": "Stat. Theb. 6.835",
+"text": "gloria, terrificos umeris Aetolus amictus"
+},
+{
+"id": "6.836",
+"label": "Stat. Theb. 6.836",
+"text": "exuitur patriumque suem, levat ardua contra"
+},
+{
+"id": "6.837",
+"label": "Stat. Theb. 6.837",
+"text": "membra Cleonaeae stirpis iactator Agylleus,"
+},
+{
+"id": "6.838",
+"label": "Stat. Theb. 6.838",
+"text": "Herculea nec mole minor, sic grandibus alte"
+},
+{
+"id": "6.839",
+"label": "Stat. Theb. 6.839",
+"text": "insurgens umeris hominem super improbus exit."
+},
+{
+"id": "6.840",
+"label": "Stat. Theb. 6.840",
+"text": "sed non ille rigor patriumque in corpore robur:"
+},
+{
+"id": "6.841",
+"label": "Stat. Theb. 6.841",
+"text": "luxuriant artus, effusaque sanguine laxo"
+},
+{
+"id": "6.842",
+"label": "Stat. Theb. 6.842",
+"text": "membra natant; unde haec audax fiducia tantum"
+},
+{
+"id": "6.843",
+"label": "Stat. Theb. 6.843",
+"text": "Oenidae superare parem, quamquam ipse videri"
+},
+{
+"id": "6.844",
+"label": "Stat. Theb. 6.844",
+"text": "exiguus, gravia ossa tamen nodisque lacerti"
+},
+{
+"id": "6.845",
+"label": "Stat. Theb. 6.845",
+"text": "difficiles, numquam hunc animum natura minori"
+},
+{
+"id": "6.846",
+"label": "Stat. Theb. 6.846",
+"text": "corpore nec tantas ausa est includere vires."
+},
+{
+"id": "6.847",
+"label": "Stat. Theb. 6.847",
+"text": "Postquam oleo gavisa cutis, petit aequor uterque"
+},
+{
+"id": "6.848",
+"label": "Stat. Theb. 6.848",
+"text": "procursu medium atque hausta vestitur harena,"
+},
+{
+"id": "6.849",
+"label": "Stat. Theb. 6.849",
+"text": "tum madidos artus alterno pulvere siccant,"
+},
+{
+"id": "6.850",
+"label": "Stat. Theb. 6.850",
+"text": "collaque demersere umeris et bracchia late"
+},
+{
+"id": "6.851",
+"label": "Stat. Theb. 6.851",
+"text": "vara tenent, iam tunc astu deducit in aequum"
+},
+{
+"id": "6.852",
+"label": "Stat. Theb. 6.852",
+"text": "callidus et celsum procurvat Agyllea Tydeus,"
+},
+{
+"id": "6.853",
+"label": "Stat. Theb. 6.853",
+"text": "submissus tergo et genibus vicinus harenae,"
+},
+{
+"id": "6.854",
+"label": "Stat. Theb. 6.854",
+"text": "ille autem, Alpini veluti regina cupressus"
+},
+{
+"id": "6.855",
+"label": "Stat. Theb. 6.855",
+"text": "verticis urgenti cervicem inclinat in austro"
+},
+{
+"id": "6.856",
+"label": "Stat. Theb. 6.856",
+"text": "vix sese radice tenens, terraeque propinquat,"
+},
+{
+"id": "6.857",
+"label": "Stat. Theb. 6.857",
+"text": "iamdudum aetherias eadem reditura sub auras:"
+},
+{
+"id": "6.858",
+"label": "Stat. Theb. 6.858",
+"text": "non secus ingentes artus praecelsus Agylleus"
+},
+{
+"id": "6.859",
+"label": "Stat. Theb. 6.859",
+"text": "sponte premit parvumque gemens duplicatur in hostem,"
+},
+{
+"id": "6.860",
+"label": "Stat. Theb. 6.860",
+"text": "et iam alterna manus frontemque umerosque latusque"
+},
+{
+"id": "6.861",
+"label": "Stat. Theb. 6.861",
+"text": "collaque pectoraque et vitantia crura lacessit."
+},
+{
+"id": "6.862",
+"label": "Stat. Theb. 6.862",
+"text": "interdumque diu pendent per mutua fulti"
+},
+{
+"id": "6.863",
+"label": "Stat. Theb. 6.863",
+"text": "bracchia, nunc saevi digitorum vincula frangunt."
+},
+{
+"id": "6.864",
+"label": "Stat. Theb. 6.864",
+"text": "non sic ductores gemini gregis horrida tauri"
+},
+{
+"id": "6.865",
+"label": "Stat. Theb. 6.865",
+"text": "bella movent; medio coniunx stat candida prato"
+},
+{
+"id": "6.866",
+"label": "Stat. Theb. 6.866",
+"text": "victorem exspectans, rumpunt obnixa furentes"
+},
+{
+"id": "6.867",
+"label": "Stat. Theb. 6.867",
+"text": "pectora, subdit amor stimulos et volnera sanat:"
+},
+{
+"id": "6.868",
+"label": "Stat. Theb. 6.868",
+"text": "fulmineo sic dente sues, sic hispida turpes"
+},
+{
+"id": "6.869",
+"label": "Stat. Theb. 6.869",
+"text": "proelia villosis ineunt complexibus ursi."
+},
+{
+"id": "6.870",
+"label": "Stat. Theb. 6.870",
+"text": "vis eadem Oenidae; nec sole aut pulvere fessa"
+},
+{
+"id": "6.871",
+"label": "Stat. Theb. 6.871",
+"text": "membra labant, riget arta cutis durisque laborum"
+},
+{
+"id": "6.872",
+"label": "Stat. Theb. 6.872",
+"text": "castigata toris, contra non integer ille"
+},
+{
+"id": "6.873",
+"label": "Stat. Theb. 6.873",
+"text": "flatibus alternis aegroque effetus hiatu"
+},
+{
+"id": "6.874",
+"label": "Stat. Theb. 6.874",
+"text": "exuit ingestas fluvio sudoris harenas"
+},
+{
+"id": "6.875",
+"label": "Stat. Theb. 6.875",
+"text": "ae furtim rapta sustentat pectora terra."
+},
+{
+"id": "6.876",
+"label": "Stat. Theb. 6.876",
+"text": "instat agens Tydeus fletumque in colla minatus"
+},
+{
+"id": "6.877",
+"label": "Stat. Theb. 6.877",
+"text": "crura subit; coeptis non evaluere potiri"
+},
+{
+"id": "6.878",
+"label": "Stat. Theb. 6.878",
+"text": "frustratae brevitate manus, venit arduus ille"
+},
+{
+"id": "6.879",
+"label": "Stat. Theb. 6.879",
+"text": "desuper oppressumque ingentis mole ruinae"
+},
+{
+"id": "6.880",
+"label": "Stat. Theb. 6.880",
+"text": "condidit, haud aliter collis scrutator Hiberi"
+},
+{
+"id": "6.881",
+"label": "Stat. Theb. 6.881",
+"text": "cum subiit longeque diem vitamque reliquit,"
+},
+{
+"id": "6.882",
+"label": "Stat. Theb. 6.882",
+"text": "si tremuit suspensus ager subitumque fragorem"
+},
+{
+"id": "6.883",
+"label": "Stat. Theb. 6.883",
+"text": "rupta dedit tellus, latet intus monte soluto"
+},
+{
+"id": "6.884",
+"label": "Stat. Theb. 6.884",
+"text": "obrutus, ac penitus fractum obtritumque cadaver"
+},
+{
+"id": "6.885",
+"label": "Stat. Theb. 6.885",
+"text": "indignantem animam propriis non reddidit astris."
+},
+{
+"id": "6.886",
+"label": "Stat. Theb. 6.886",
+"text": "acrior hoc Tydeus, animisque et pectore supra est."
+},
+{
+"id": "6.887",
+"label": "Stat. Theb. 6.887",
+"text": "nee mora, cum vinclis onerique elapsus iniquo"
+},
+{
+"id": "6.888",
+"label": "Stat. Theb. 6.888",
+"text": "circuit errantem et tergo necopinus inhaeret,"
+},
+{
+"id": "6.889",
+"label": "Stat. Theb. 6.889",
+"text": "mox latus et firmo celer implicat ilia nexu,"
+},
+{
+"id": "6.890",
+"label": "Stat. Theb. 6.890",
+"text": "poplitibus genua inde premens evadere nodos"
+},
+{
+"id": "6.891",
+"label": "Stat. Theb. 6.891",
+"text": "nequiquam et lateri dextram insertare parantem"
+},
+{
+"id": "6.892",
+"label": "Stat. Theb. 6.892",
+"text": "improbus, horrendum visu ac mirabile pondus,"
+},
+{
+"id": "6.893",
+"label": "Stat. Theb. 6.893",
+"text": "sustulit. Herculeis pressum sic fama lacertis"
+},
+{
+"id": "6.894",
+"label": "Stat. Theb. 6.894",
+"text": "terrigenam sudasse Libyn, cum fraude reperta"
+},
+{
+"id": "6.895",
+"label": "Stat. Theb. 6.895",
+"text": "raptus in excelsum, nee iam spes ulla cadendi,"
+},
+{
+"id": "6.896",
+"label": "Stat. Theb. 6.896",
+"text": "nec licet extrema matrem contingere planta,"
+},
+{
+"id": "6.897",
+"label": "Stat. Theb. 6.897",
+"text": "fit sonus, et laetos adtollunt agmina plausus,"
+},
+{
+"id": "6.898",
+"label": "Stat. Theb. 6.898",
+"text": "tunc alte librans inopinum sponte remisit"
+},
+{
+"id": "6.899",
+"label": "Stat. Theb. 6.899",
+"text": "obliquumque dedit, procumbentemque secutus"
+},
+{
+"id": "6.900",
+"label": "Stat. Theb. 6.900",
+"text": "colla simul dextra, pedibus simul inguina vinxit."
+},
+{
+"id": "6.901",
+"label": "Stat. Theb. 6.901",
+"text": "deficit obsessus soloque pudore repugnat,"
+},
+{
+"id": "6.902",
+"label": "Stat. Theb. 6.902",
+"text": "tandem pectus humi pronamque extensus in alvum"
+},
+{
+"id": "6.903",
+"label": "Stat. Theb. 6.903",
+"text": "sternitur, ac longo maestus post tempore surgit,"
+},
+{
+"id": "6.904",
+"label": "Stat. Theb. 6.904",
+"text": "turpia signata linquens vestigia terra,"
+},
+{
+"id": "6.905",
+"label": "Stat. Theb. 6.905",
+"text": "palmam autem dextra laevaque nitentia dono"
+},
+{
+"id": "6.906",
+"label": "Stat. Theb. 6.906",
+"text": "arma ferens Tydeus: ‘quid si non sanguinis huius"
+},
+{
+"id": "6.907",
+"label": "Stat. Theb. 6.907",
+"text": "partem haud exiguam — scitis — Dircaeus haberet"
+},
+{
+"id": "6.908",
+"label": "Stat. Theb. 6.908",
+"text": "campus, ubi hae nuper Thebarum foedera plagae?’"
+},
+{
+"id": "6.909",
+"label": "Stat. Theb. 6.909",
+"text": "haec simul ostentans quaesitaque praemia laudum"
+},
+{
+"id": "6.910",
+"label": "Stat. Theb. 6.910",
+"text": "dat sociis, sequitur neglectus Agyllea thorax."
+},
+{
+"id": "6.911",
+"label": "Stat. Theb. 6.911",
+"text": "Sunt et qui nudo subeant concurrere ferro,"
+},
+{
+"id": "6.912",
+"label": "Stat. Theb. 6.912",
+"text": "iamque aderant instructi armis Epidaurins Agreus"
+},
+{
+"id": "6.913",
+"label": "Stat. Theb. 6.913",
+"text": "et nondum fatis Dircaeus agentibus exsul,"
+},
+{
+"id": "6.914",
+"label": "Stat. Theb. 6.914",
+"text": "dux vetat Iasides: ‘manet ingens copia leti,"
+},
+{
+"id": "6.915",
+"label": "Stat. Theb. 6.915",
+"text": "o iuvenes! servate animos avidumque furorem"
+},
+{
+"id": "6.916",
+"label": "Stat. Theb. 6.916",
+"text": "sanguinis adversi, tuque o, quem propter avita"
+},
+{
+"id": "6.917",
+"label": "Stat. Theb. 6.917",
+"text": "iugera, dilectas cui desolavimus urbes,"
+},
+{
+"id": "6.918",
+"label": "Stat. Theb. 6.918",
+"text": "ne, precor, ante aciem ius tantum casibus esse"
+},
+{
+"id": "6.919",
+"label": "Stat. Theb. 6.919",
+"text": "fraternisque sinas — abigant hoc numina! — votis.’"
+},
+{
+"id": "6.920",
+"label": "Stat. Theb. 6.920",
+"text": "sic ait, atque ambos aurata casside ditat."
+},
+{
+"id": "6.921",
+"label": "Stat. Theb. 6.921",
+"text": "tum generum, ne laudis egens, iubet ardua necti"
+},
+{
+"id": "6.922",
+"label": "Stat. Theb. 6.922",
+"text": "tempora Thebarumque ingenti voce citari"
+},
+{
+"id": "6.923",
+"label": "Stat. Theb. 6.923",
+"text": "victorem: dirae recinebant omnia Parcae."
+},
+{
+"id": "6.924",
+"label": "Stat. Theb. 6.924",
+"text": "Ipsum etiam proprio certamina festa labore"
+},
+{
+"id": "6.925",
+"label": "Stat. Theb. 6.925",
+"text": "dignari et tumulo supremum hunc addere honorem"
+},
+{
+"id": "6.926",
+"label": "Stat. Theb. 6.926",
+"text": "hortantur proceres ac, ne victoria desit"
+},
+{
+"id": "6.927",
+"label": "Stat. Theb. 6.927",
+"text": "una ducum numero, fundat vel Lyctia cornu"
+},
+{
+"id": "6.928",
+"label": "Stat. Theb. 6.928",
+"text": "tela rogant, tenui vel nubila transeat hasta,"
+},
+{
+"id": "6.929",
+"label": "Stat. Theb. 6.929",
+"text": "obsequitur gaudens, viridique ex aggere in aecum"
+},
+{
+"id": "6.930",
+"label": "Stat. Theb. 6.930",
+"text": "stipatus summis iuvenum descendit; at illi"
+},
+{
+"id": "6.931",
+"label": "Stat. Theb. 6.931",
+"text": "pone leves portat pharetras et cornua iussus"
+},
+{
+"id": "6.932",
+"label": "Stat. Theb. 6.932",
+"text": "armiger: ingentem iactu transmittere circum"
+},
+{
+"id": "6.933",
+"label": "Stat. Theb. 6.933",
+"text": "eminus et dictae dare vulnera destinat orno."
+},
+{
+"id": "6.934",
+"label": "Stat. Theb. 6.934",
+"text": "Quis fluere occultis rerum neget omina causis?"
+},
+{
+"id": "6.935",
+"label": "Stat. Theb. 6.935",
+"text": "fata patent homini, piget inservare, peritque"
+},
+{
+"id": "6.936",
+"label": "Stat. Theb. 6.936",
+"text": "venturi praemissa fides: sic omina casum"
+},
+{
+"id": "6.937",
+"label": "Stat. Theb. 6.937",
+"text": "fecimus, et vires hausit Fortuna nocendi."
+},
+{
+"id": "6.938",
+"label": "Stat. Theb. 6.938",
+"text": "Campum emensa brevi fatalis ab arbore tacta,"
+},
+{
+"id": "6.939",
+"label": "Stat. Theb. 6.939",
+"text": "horrendum visu, per quas modo fugerat auras,"
+},
+{
+"id": "6.940",
+"label": "Stat. Theb. 6.940",
+"text": "venit harundo retro versumque a fine tenorem"
+},
+{
+"id": "6.941",
+"label": "Stat. Theb. 6.941",
+"text": "pertulit, et notae iuxta ruit ora pharetrae."
+},
+{
+"id": "6.942",
+"label": "Stat. Theb. 6.942",
+"text": "multa duces errore serunt: hi nubila et altos"
+},
+{
+"id": "6.943",
+"label": "Stat. Theb. 6.943",
+"text": "occurrisse notos, adversi roboris ictu"
+},
+{
+"id": "6.944",
+"label": "Stat. Theb. 6.944",
+"text": "tela repulsa alii. penitus latet exitus ingens"
+},
+{
+"id": "6.945",
+"label": "Stat. Theb. 6.945",
+"text": "monstratumque nefa s: uni remeabile bellum"
+},
+{
+"id": "6.946",
+"label": "Stat. Theb. 6.946",
+"text": "et tristes domino spondebat harundo recursus."
+}
+]
+}

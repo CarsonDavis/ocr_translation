@@ -1,0 +1,807 @@
+{
+"corpus": "ovid-heroides",
+"unit": "13",
+"title": "Ovid, Heroides (Epistulae), Her. 13",
+"passages": [
+{
+"id": "13.1",
+"label": "Ov. Her. 13.1",
+"text": "Mittit et optat amans, quo mittitur, ire salutem"
+},
+{
+"id": "13.2",
+"label": "Ov. Her. 13.2",
+"text": "Haemonis Haemonio Laodamia viro."
+},
+{
+"id": "13.3",
+"label": "Ov. Her. 13.3",
+"text": "Aulide te fama est vento retinente morari."
+},
+{
+"id": "13.4",
+"label": "Ov. Her. 13.4",
+"text": "At me cum fugeres, hic ubi ventus erat?"
+},
+{
+"id": "13.5",
+"label": "Ov. Her. 13.5",
+"text": "Tum freta debuerant vestris obsistere remis;"
+},
+{
+"id": "13.6",
+"label": "Ov. Her. 13.6",
+"text": "Illud erat saevis utile tempus aquis."
+},
+{
+"id": "13.7",
+"label": "Ov. Her. 13.7",
+"text": "Oscula plura viro mandataque plura dedissem;"
+},
+{
+"id": "13.8",
+"label": "Ov. Her. 13.8",
+"text": "Et sunt quae volui dicere multa tibi."
+},
+{
+"id": "13.9",
+"label": "Ov. Her. 13.9",
+"text": "Raptus es hinc praeceps, et qui tua vela vocaret,"
+},
+{
+"id": "13.10",
+"label": "Ov. Her. 13.10",
+"text": "Quem cuperent nautae, non ego, ventus erat;"
+},
+{
+"id": "13.11",
+"label": "Ov. Her. 13.11",
+"text": "Ventus erat nautis aptus, non aptus amanti."
+},
+{
+"id": "13.12",
+"label": "Ov. Her. 13.12",
+"text": "Solvor ab amplexu, Protesilae, tuo,"
+},
+{
+"id": "13.13",
+"label": "Ov. Her. 13.13",
+"text": "Linguaque mandantis verba inperfecta reliquit;"
+},
+{
+"id": "13.14",
+"label": "Ov. Her. 13.14",
+"text": "Vix illud potui dicere triste 'vale!'"
+},
+{
+"id": "13.15",
+"label": "Ov. Her. 13.15",
+"text": "Incubuit Boreas abreptaque vela tetendit,"
+},
+{
+"id": "13.16",
+"label": "Ov. Her. 13.16",
+"text": "Iamque meus longe Protesilaus erat."
+},
+{
+"id": "13.17",
+"label": "Ov. Her. 13.17",
+"text": "Dum potui spectare virum, spectare iuvabat,"
+},
+{
+"id": "13.18",
+"label": "Ov. Her. 13.18",
+"text": "Sumque tuos oculos usque secuta meis;"
+},
+{
+"id": "13.19",
+"label": "Ov. Her. 13.19",
+"text": "Ut te non poteram, poteram tua vela videre,"
+},
+{
+"id": "13.20",
+"label": "Ov. Her. 13.20",
+"text": "Vela diu vultus detinuere meos."
+},
+{
+"id": "13.21",
+"label": "Ov. Her. 13.21",
+"text": "At postquam nec te nec vela fugacia vidi,"
+},
+{
+"id": "13.22",
+"label": "Ov. Her. 13.22",
+"text": "Et quod spectarem nil nisi pontus erat,"
+},
+{
+"id": "13.23",
+"label": "Ov. Her. 13.23",
+"text": "Lux quoque tecum abiit, tenebrisque exanguis obortis"
+},
+{
+"id": "13.24",
+"label": "Ov. Her. 13.24",
+"text": "Succiduo dicor procubuisse genu."
+},
+{
+"id": "13.25",
+"label": "Ov. Her. 13.25",
+"text": "Vix socer Iphiclus, vix me grandaevus Acastus,"
+},
+{
+"id": "13.26",
+"label": "Ov. Her. 13.26",
+"text": "Vix mater gelida maesta refecit aqua;"
+},
+{
+"id": "13.27",
+"label": "Ov. Her. 13.27",
+"text": "Officium fecere pium, sed inutile nobis."
+},
+{
+"id": "13.28",
+"label": "Ov. Her. 13.28",
+"text": "Indignor miserae non licuisse mori!"
+},
+{
+"id": "13.29",
+"label": "Ov. Her. 13.29",
+"text": "Ut rediit animus, pariter rediere dolores."
+},
+{
+"id": "13.30",
+"label": "Ov. Her. 13.30",
+"text": "Pectora legitimus casta momordit amor."
+},
+{
+"id": "13.31",
+"label": "Ov. Her. 13.31",
+"text": "Nec mihi pectendos cura est praebere capillos,"
+},
+{
+"id": "13.32",
+"label": "Ov. Her. 13.32",
+"text": "Nec libet aurata corpora veste tegi."
+},
+{
+"id": "13.33",
+"label": "Ov. Her. 13.33",
+"text": "Ut quas pampinea tetigisse Bicorniger hasta,"
+},
+{
+"id": "13.34",
+"label": "Ov. Her. 13.34",
+"text": "Creditur, huc illuc, qua furor egit, eo."
+},
+{
+"id": "13.35",
+"label": "Ov. Her. 13.35",
+"text": "Conveniunt matres Phylaceides et mihi clamant:"
+},
+{
+"id": "13.36",
+"label": "Ov. Her. 13.36",
+"text": "'Indue regales, Laudamia, sinus!'"
+},
+{
+"id": "13.37",
+"label": "Ov. Her. 13.37",
+"text": "Scilicet ipsa geram saturatas murice lanas,"
+},
+{
+"id": "13.38",
+"label": "Ov. Her. 13.38",
+"text": "Bella sub Iliacis moenibus ille geret?"
+},
+{
+"id": "13.39",
+"label": "Ov. Her. 13.39",
+"text": "Ipsa comas pectar, galea caput ille premetur?"
+},
+{
+"id": "13.40",
+"label": "Ov. Her. 13.40",
+"text": "Ipsa novas vestes, dura vir arma feret?"
+},
+{
+"id": "13.41",
+"label": "Ov. Her. 13.41",
+"text": "Qua possum, squalore tuos imitata labores"
+},
+{
+"id": "13.42",
+"label": "Ov. Her. 13.42",
+"text": "Dicar, et haec belli tempora tristis agam."
+},
+{
+"id": "13.43",
+"label": "Ov. Her. 13.43",
+"text": "Dyspari Priamide, damno formose tuorum,"
+},
+{
+"id": "13.44",
+"label": "Ov. Her. 13.44",
+"text": "Tam sis hostis iners, quam malus hospes eras!"
+},
+{
+"id": "13.45",
+"label": "Ov. Her. 13.45",
+"text": "Aut te Taenariae faciem culpasse maritae,"
+},
+{
+"id": "13.46",
+"label": "Ov. Her. 13.46",
+"text": "Aut illi vellem displicuisse tuam!"
+},
+{
+"id": "13.47",
+"label": "Ov. Her. 13.47",
+"text": "Tu, qui pro rapta nimium, Menelae, laboras,"
+},
+{
+"id": "13.48",
+"label": "Ov. Her. 13.48",
+"text": "Ei mihi, quam multis flebilis ultor eris!"
+},
+{
+"id": "13.49",
+"label": "Ov. Her. 13.49",
+"text": "Di, precor, a nobis omen removete sinistrum,"
+},
+{
+"id": "13.50",
+"label": "Ov. Her. 13.50",
+"text": "Et sua det Reduci vir meus arma Iovi!"
+},
+{
+"id": "13.51",
+"label": "Ov. Her. 13.51",
+"text": "Sed timeo, quotiens subiit miserabile bellum;"
+},
+{
+"id": "13.52",
+"label": "Ov. Her. 13.52",
+"text": "More nivis lacrimae sole madentis eunt."
+},
+{
+"id": "13.53",
+"label": "Ov. Her. 13.53",
+"text": "Ilion et Tenedos Simoisque et Xanthus et Ide"
+},
+{
+"id": "13.54",
+"label": "Ov. Her. 13.54",
+"text": "Nomina sunt ipso paene timenda sono."
+},
+{
+"id": "13.55",
+"label": "Ov. Her. 13.55",
+"text": "Nec rapere ausurus, nisi se defendere posset,"
+},
+{
+"id": "13.56",
+"label": "Ov. Her. 13.56",
+"text": "Hospes erat; vires noverat ille suas."
+},
+{
+"id": "13.57",
+"label": "Ov. Her. 13.57",
+"text": "Venerat, ut fama est, multo spectabilis auro"
+},
+{
+"id": "13.58",
+"label": "Ov. Her. 13.58",
+"text": "Quique suo Phrygias corpore ferret opes,"
+},
+{
+"id": "13.59",
+"label": "Ov. Her. 13.59",
+"text": "Classe virisque potens, per quae fera bella geruntur —"
+},
+{
+"id": "13.60",
+"label": "Ov. Her. 13.60",
+"text": "Et sequitur regni pars quotacumque sui?"
+},
+{
+"id": "13.61",
+"label": "Ov. Her. 13.61",
+"text": "His ego te victam, consors Ledaea gemellis,"
+},
+{
+"id": "13.62",
+"label": "Ov. Her. 13.62",
+"text": "Suspicor; haec Danais posse nocere puto."
+},
+{
+"id": "13.65",
+"label": "Ov. Her. 13.65",
+"text": "Hectora, quisquis is est, si sum tibi cura, caveto;"
+},
+{
+"id": "13.66",
+"label": "Ov. Her. 13.66",
+"text": "Signatum memori pectore nomen habe!"
+},
+{
+"id": "13.67",
+"label": "Ov. Her. 13.67",
+"text": "Hunc ubi vitaris, alios vitare memento"
+},
+{
+"id": "13.68",
+"label": "Ov. Her. 13.68",
+"text": "Et multos illic Hectoras esse puta;"
+},
+{
+"id": "13.69",
+"label": "Ov. Her. 13.69",
+"text": "Et facito dicas, quotiens pugnare parabis:"
+},
+{
+"id": "13.70",
+"label": "Ov. Her. 13.70",
+"text": "'Parcere me iussit Laodamia sibi.'"
+},
+{
+"id": "13.71",
+"label": "Ov. Her. 13.71",
+"text": "Si cadere Argolico fas est sub milite Troiam,"
+},
+{
+"id": "13.72",
+"label": "Ov. Her. 13.72",
+"text": "Te quoque non ullum vulnus habente cadet."
+},
+{
+"id": "13.73",
+"label": "Ov. Her. 13.73",
+"text": "Pugnet et adversos tendat Menelaus in hostis;"
+},
+{
+"id": "13.74",
+"label": "Ov. Her. 13.74",
+"text": "Hostibus e mediis nupta petenda viro est."
+},
+{
+"id": "13.75",
+"label": "Ov. Her. 13.75",
+"text": "Causa tua est dispar; tu tantum vivere pugna,"
+},
+{
+"id": "13.76",
+"label": "Ov. Her. 13.76",
+"text": "Inque pios dominae posse redire sinus."
+},
+{
+"id": "13.77",
+"label": "Ov. Her. 13.77",
+"text": "Parcite, Dardanidae, de tot, precor, hostibus uni,"
+},
+{
+"id": "13.80",
+"label": "Ov. Her. 13.80",
+"text": "Ne meus ex illo corpore sanguis eat!"
+},
+{
+"id": "13.81",
+"label": "Ov. Her. 13.81",
+"text": "Non est quem deceat nudo concurrere ferro,"
+},
+{
+"id": "13.82",
+"label": "Ov. Her. 13.82",
+"text": "Saevaque in oppositos pectora ferre viros;"
+},
+{
+"id": "13.83",
+"label": "Ov. Her. 13.83",
+"text": "Fortius ille potest multo, quam pugnat, amare."
+},
+{
+"id": "13.84",
+"label": "Ov. Her. 13.84",
+"text": "Bella gerant alii; Protesilaus amet!"
+},
+{
+"id": "13.85",
+"label": "Ov. Her. 13.85",
+"text": "Nunc fateor — volui revocare, animusque ferebat;"
+},
+{
+"id": "13.86",
+"label": "Ov. Her. 13.86",
+"text": "Substitit auspicii lingua timore mali."
+},
+{
+"id": "13.87",
+"label": "Ov. Her. 13.87",
+"text": "Cum foribus velles ad Troiam exire paternis,"
+},
+{
+"id": "13.88",
+"label": "Ov. Her. 13.88",
+"text": "Pes tuus offenso limine signa dedit."
+},
+{
+"id": "13.89",
+"label": "Ov. Her. 13.89",
+"text": "Ut vidi, ingemui, tacitoque in pectore dixi:"
+},
+{
+"id": "13.90",
+"label": "Ov. Her. 13.90",
+"text": "'Signa reversuri sint, precor, ista viri!'"
+},
+{
+"id": "13.91",
+"label": "Ov. Her. 13.91",
+"text": "Haec tibi nunc refero, ne sis animosus in armis;"
+},
+{
+"id": "13.92",
+"label": "Ov. Her. 13.92",
+"text": "Fac, meus in ventos hic timor omnis eat!"
+},
+{
+"id": "13.93",
+"label": "Ov. Her. 13.93",
+"text": "Sors quoque nescio quem fato designat iniquo,"
+},
+{
+"id": "13.94",
+"label": "Ov. Her. 13.94",
+"text": "Qui primus Danaum Troada tangat humum."
+},
+{
+"id": "13.95",
+"label": "Ov. Her. 13.95",
+"text": "Infelix, quae prima virum lugebit ademptum!"
+},
+{
+"id": "13.96",
+"label": "Ov. Her. 13.96",
+"text": "Di faciant, ne tu strenuus esse velis!"
+},
+{
+"id": "13.97",
+"label": "Ov. Her. 13.97",
+"text": "Inter mille rates tua sit millensima puppis,"
+},
+{
+"id": "13.98",
+"label": "Ov. Her. 13.98",
+"text": "Iamque fatigatas ultima verset aquas!"
+},
+{
+"id": "13.99",
+"label": "Ov. Her. 13.99",
+"text": "Hoc quoque praemoneo: de nave novissimus exi;"
+},
+{
+"id": "13.100",
+"label": "Ov. Her. 13.100",
+"text": "Non est, quo properas, terra paterna tibi."
+},
+{
+"id": "13.101",
+"label": "Ov. Her. 13.101",
+"text": "Cum venies, remoque move veloque carinam"
+},
+{
+"id": "13.102",
+"label": "Ov. Her. 13.102",
+"text": "Inque tuo celerem litore siste gradum!"
+},
+{
+"id": "13.103",
+"label": "Ov. Her. 13.103",
+"text": "Sive latet Phoebus seu terris altior exstat,"
+},
+{
+"id": "13.104",
+"label": "Ov. Her. 13.104",
+"text": "Tu mihi luce celer, tu mihi nocte veni,"
+},
+{
+"id": "13.105",
+"label": "Ov. Her. 13.105",
+"text": "Nocte tamen quam luce magis — nox grata puellis"
+},
+{
+"id": "13.106",
+"label": "Ov. Her. 13.106",
+"text": "Quarum suppositus colla lacertus habet."
+},
+{
+"id": "13.107",
+"label": "Ov. Her. 13.107",
+"text": "Aucupor in lecto mendaces caelibe somnos;"
+},
+{
+"id": "13.108",
+"label": "Ov. Her. 13.108",
+"text": "Dum careo veris gaudia falsa iuvant."
+},
+{
+"id": "13.109",
+"label": "Ov. Her. 13.109",
+"text": "Sed tua cur nobis pallens occurrit imago?"
+},
+{
+"id": "13.110",
+"label": "Ov. Her. 13.110",
+"text": "Cur venit a labris multa querela tuis?"
+},
+{
+"id": "13.111",
+"label": "Ov. Her. 13.111",
+"text": "Excutior somno simulacraque noctis adoro;"
+},
+{
+"id": "13.112",
+"label": "Ov. Her. 13.112",
+"text": "Nulla caret fumo Thessalis ara meo;"
+},
+{
+"id": "13.113",
+"label": "Ov. Her. 13.113",
+"text": "Tura damus lacrimamque super, qua sparsa relucet,"
+},
+{
+"id": "13.114",
+"label": "Ov. Her. 13.114",
+"text": "Ut solet adfuso surgere flamma mero."
+},
+{
+"id": "13.115",
+"label": "Ov. Her. 13.115",
+"text": "Quando ego, te reducem cupidis amplexa lacertis,"
+},
+{
+"id": "13.116",
+"label": "Ov. Her. 13.116",
+"text": "Languida laetitia solvar ab ipsa mea?"
+},
+{
+"id": "13.117",
+"label": "Ov. Her. 13.117",
+"text": "Quando erit, ut lecto mecum bene iunctus in uno"
+},
+{
+"id": "13.118",
+"label": "Ov. Her. 13.118",
+"text": "Militiae referas splendida facta tuae?"
+},
+{
+"id": "13.119",
+"label": "Ov. Her. 13.119",
+"text": "Quae mihi dum referes, quamvis audire iuvabit,"
+},
+{
+"id": "13.120",
+"label": "Ov. Her. 13.120",
+"text": "Multa tamen capies oscula, multa dabis."
+},
+{
+"id": "13.121",
+"label": "Ov. Her. 13.121",
+"text": "Semper in his apte narrantia verba resistunt;"
+},
+{
+"id": "13.122",
+"label": "Ov. Her. 13.122",
+"text": "Promptior est dulci lingua referre mora."
+},
+{
+"id": "13.123",
+"label": "Ov. Her. 13.123",
+"text": "Sed cum Troia subit, subeunt ventique fretumque;"
+},
+{
+"id": "13.124",
+"label": "Ov. Her. 13.124",
+"text": "Spes bona sollicito victa timore cadit."
+},
+{
+"id": "13.125",
+"label": "Ov. Her. 13.125",
+"text": "Hoc quoque, quod venti prohibent exire carinas,"
+},
+{
+"id": "13.126",
+"label": "Ov. Her. 13.126",
+"text": "Me movet — invitis ire paratis aquis."
+},
+{
+"id": "13.127",
+"label": "Ov. Her. 13.127",
+"text": "Quis velit in patriam vento prohibente reverti?"
+},
+{
+"id": "13.128",
+"label": "Ov. Her. 13.128",
+"text": "A patria pelago vela vetante datis!"
+},
+{
+"id": "13.129",
+"label": "Ov. Her. 13.129",
+"text": "Ipse suam non praebet iter Neptunus ad urbem."
+},
+{
+"id": "13.130",
+"label": "Ov. Her. 13.130",
+"text": "Quo ruitis? vestras quisque redite domos!"
+},
+{
+"id": "13.131",
+"label": "Ov. Her. 13.131",
+"text": "Quo ruitis, Danai? ventos audite vetantis!"
+},
+{
+"id": "13.132",
+"label": "Ov. Her. 13.132",
+"text": "Non subiti casus, numinis ista mora est."
+},
+{
+"id": "13.133",
+"label": "Ov. Her. 13.133",
+"text": "Quid petitur tanto nisi turpis adultera bello?"
+},
+{
+"id": "13.134",
+"label": "Ov. Her. 13.134",
+"text": "Dum licet, Inachiae vertite vela rates!"
+},
+{
+"id": "13.135",
+"label": "Ov. Her. 13.135",
+"text": "Sed quid ago? revoco? revocaminis omen abesto,"
+},
+{
+"id": "13.136",
+"label": "Ov. Her. 13.136",
+"text": "Blandaque conpositas aura secundet aquas!"
+},
+{
+"id": "13.137",
+"label": "Ov. Her. 13.137",
+"text": "Troasin invideo, quae si lacrimosa suorum"
+},
+{
+"id": "13.138",
+"label": "Ov. Her. 13.138",
+"text": "Funera conspicient, nec procul hostis erit,"
+},
+{
+"id": "13.139",
+"label": "Ov. Her. 13.139",
+"text": "Ipsa suis manibus forti nova nupta marito"
+},
+{
+"id": "13.140",
+"label": "Ov. Her. 13.140",
+"text": "Inponet galeam Dardanaque arma dabit."
+},
+{
+"id": "13.141",
+"label": "Ov. Her. 13.141",
+"text": "Arma dabit, dumque arma dabit, simul oscula sumet —"
+},
+{
+"id": "13.142",
+"label": "Ov. Her. 13.142",
+"text": "Hoc genus officii dulce duobus erit —"
+},
+{
+"id": "13.143",
+"label": "Ov. Her. 13.143",
+"text": "Producetque virum, dabit et mandata reverti"
+},
+{
+"id": "13.144",
+"label": "Ov. Her. 13.144",
+"text": "Et dicet: 'referas ista fac arma Iovi!'"
+},
+{
+"id": "13.145",
+"label": "Ov. Her. 13.145",
+"text": "Ille ferens dominae mandata recentia secum"
+},
+{
+"id": "13.146",
+"label": "Ov. Her. 13.146",
+"text": "Pugnabit caute respicietque domum."
+},
+{
+"id": "13.147",
+"label": "Ov. Her. 13.147",
+"text": "Exuet haec reduci clipeum galeamque resolvet,"
+},
+{
+"id": "13.148",
+"label": "Ov. Her. 13.148",
+"text": "Excipietque suo corpora lassa sinu."
+},
+{
+"id": "13.149",
+"label": "Ov. Her. 13.149",
+"text": "Nos sumus incertae; nos anxius omnia cogit,"
+},
+{
+"id": "13.150",
+"label": "Ov. Her. 13.150",
+"text": "Quae possunt fieri, facta putare timor."
+},
+{
+"id": "13.151",
+"label": "Ov. Her. 13.151",
+"text": "Dum tamen arma geres diverso miles in orbe,"
+},
+{
+"id": "13.152",
+"label": "Ov. Her. 13.152",
+"text": "Quae referat vultus est mihi cera tuos;"
+},
+{
+"id": "13.153",
+"label": "Ov. Her. 13.153",
+"text": "Illi blanditias, illi tibi debita verba"
+},
+{
+"id": "13.154",
+"label": "Ov. Her. 13.154",
+"text": "Dicimus, amplexus accipit illa meos."
+},
+{
+"id": "13.155",
+"label": "Ov. Her. 13.155",
+"text": "Crede mihi, plus est, quam quod videatur, imago;"
+},
+{
+"id": "13.156",
+"label": "Ov. Her. 13.156",
+"text": "Adde sonum cerae, Protesilaus erit."
+},
+{
+"id": "13.157",
+"label": "Ov. Her. 13.157",
+"text": "Hanc specto teneoque sinu pro coniuge vero,"
+},
+{
+"id": "13.158",
+"label": "Ov. Her. 13.158",
+"text": "Et, tamquam possit verba referre, queror."
+},
+{
+"id": "13.159",
+"label": "Ov. Her. 13.159",
+"text": "Per reditus corpusque tuum, mea numina, iuro,"
+},
+{
+"id": "13.160",
+"label": "Ov. Her. 13.160",
+"text": "Perque pares animi coniugiique faces,"
+},
+{
+"id": "13.161",
+"label": "Ov. Her. 13.161",
+"text": "Me tibi venturam comitem, quocumque vocaris,"
+},
+{
+"id": "13.162",
+"label": "Ov. Her. 13.162",
+"text": "Sive — quod heu! timeo — sive superstes eris."
+},
+{
+"id": "13.165",
+"label": "Ov. Her. 13.165",
+"text": "Ultima mandato claudetur epistula parvo:"
+},
+{
+"id": "13.166",
+"label": "Ov. Her. 13.166",
+"text": "Si tibi cura mei, sit tibi cura tui!"
+}
+]
+}

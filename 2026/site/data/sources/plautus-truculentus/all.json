@@ -1,0 +1,5882 @@
+{
+"corpus": "plautus-truculentus",
+"unit": "all",
+"title": "Plautus, Truculentus",
+"passages": [
+{
+"id": "1",
+"label": "Plaut. Truc. 1",
+"text": "Perparvam partem postulat Plautus loci"
+},
+{
+"id": "2",
+"label": "Plaut. Truc. 2",
+"text": "de vestris magnis atque amoenis moenibus,"
+},
+{
+"id": "3",
+"label": "Plaut. Truc. 3",
+"text": "Athenas quo sine architectis conferat."
+},
+{
+"id": "4",
+"label": "Plaut. Truc. 4",
+"text": "quid nunc? daturin estis an non? adnuont."
+},
+{
+"id": "5",
+"label": "Plaut. Truc. 5",
+"text": "scio rém quidem urbis me ablaturum sine mora;"
+},
+{
+"id": "6",
+"label": "Plaut. Truc. 6",
+"text": "quid si de vostro quippiam orem? abnuont."
+},
+{
+"id": "7",
+"label": "Plaut. Truc. 7",
+"text": "eu hercle in vobis resident mores pristini,"
+},
+{
+"id": "8",
+"label": "Plaut. Truc. 8",
+"text": "ad denegandum ut celeri lingua utamini."
+},
+{
+"id": "9",
+"label": "Plaut. Truc. 9",
+"text": "sed hoc agamus quá huc ventumst gratia."
+},
+{
+"id": "10",
+"label": "Plaut. Truc. 10",
+"text": "Athenis mutabo ita ut hoc est proscaenium"
+},
+{
+"id": "11",
+"label": "Plaut. Truc. 11",
+"text": "tantisper dum transigimus hanc comoediam."
+},
+{
+"id": "12",
+"label": "Plaut. Truc. 12",
+"text": "hic habitat mulier, nomen cui est Phronesium;"
+},
+{
+"id": "13",
+"label": "Plaut. Truc. 13",
+"text": "haec huius saecli mores in se possidet:"
+},
+{
+"id": "14",
+"label": "Plaut. Truc. 14",
+"text": "numquam ab amatore postulat id quod datumst,"
+},
+{
+"id": "15",
+"label": "Plaut. Truc. 15",
+"text": "sed relicuom dat operam ne sit relicuom,"
+},
+{
+"id": "16",
+"label": "Plaut. Truc. 16",
+"text": "poscendo atque auferendo, ut mos est mulierum;"
+},
+{
+"id": "17",
+"label": "Plaut. Truc. 17",
+"text": "nam omnes id faciunt, cum se amari intellegunt."
+},
+{
+"id": "18",
+"label": "Plaut. Truc. 18",
+"text": "ea se peperisse puerum simulat militi,"
+},
+{
+"id": "19",
+"label": "Plaut. Truc. 19",
+"text": "quo citius rem ab eo averrat cum pulvisculo."
+},
+{
+"id": "20",
+"label": "Plaut. Truc. 20",
+"text": "quid multa? †stuic superet muliere"
+},
+{
+"id": "21",
+"label": "Plaut. Truc. 21",
+"text": "†hiscum anima ad eum habenti erce teritur."
+},
+{
+"id": "22",
+"label": "Plaut. Truc. 22",
+"text": "Non omnis aetas ad perdiscendum sat est"
+},
+{
+"id": "23",
+"label": "Plaut. Truc. 23",
+"text": "amanti, dum id perdiscat, quot pereat modis;"
+},
+{
+"id": "24",
+"label": "Plaut. Truc. 24",
+"text": "neque eam rationem eapse umquam educet Venus,"
+},
+{
+"id": "25",
+"label": "Plaut. Truc. 25",
+"text": "quam penes amantum summa summarum redit,"
+},
+{
+"id": "26",
+"label": "Plaut. Truc. 26",
+"text": "quot amans exemplis ludificetur, quot modis"
+},
+{
+"id": "27",
+"label": "Plaut. Truc. 27",
+"text": "pereat quotque exoretur exorabulis:"
+},
+{
+"id": "28",
+"label": "Plaut. Truc. 28",
+"text": "quot illíc blanditiae, quót illic iracundiae"
+},
+{
+"id": "29",
+"label": "Plaut. Truc. 29",
+"text": "sunt, quot supplicia danda, di vostram fidem, hui,"
+},
+{
+"id": "30",
+"label": "Plaut. Truc. 30",
+"text": "quid perierandum est etiam, praeter munera:"
+},
+{
+"id": "31",
+"label": "Plaut. Truc. 31",
+"text": "primumdum merces annua, is primus bolust,"
+},
+{
+"id": "32",
+"label": "Plaut. Truc. 32",
+"text": "ob eam tres noctes dantur; interea loci"
+},
+{
+"id": "33",
+"label": "Plaut. Truc. 33",
+"text": "†aut ara aut vinum aut oleum aut triticum,"
+},
+{
+"id": "34",
+"label": "Plaut. Truc. 34",
+"text": "temptat benignusne an bonae frugi sies:"
+},
+{
+"id": "35",
+"label": "Plaut. Truc. 35",
+"text": "quasi in piscinam rete qui iaculum parat,"
+},
+{
+"id": "36",
+"label": "Plaut. Truc. 36",
+"text": "quando abiit rete pessum, adducit lineam;"
+},
+{
+"id": "37",
+"label": "Plaut. Truc. 37",
+"text": "si inierit rete piscis, ne effugiat cavet:"
+},
+{
+"id": "38",
+"label": "Plaut. Truc. 38",
+"text": "dum huc dum illuc rete circumvortit, impedit"
+},
+{
+"id": "39",
+"label": "Plaut. Truc. 39",
+"text": "piscis usque adeo donicum eduxit foras."
+},
+{
+"id": "40",
+"label": "Plaut. Truc. 40",
+"text": "itidem si amator id quod oratur dedit"
+},
+{
+"id": "41",
+"label": "Plaut. Truc. 41",
+"text": "atque est benignus potius quam frugi bonae"
+},
+{
+"id": "42",
+"label": "Plaut. Truc. 42",
+"text": ","
+},
+{
+"id": "43",
+"label": "Plaut. Truc. 43",
+"text": "si semel amoris poculum accepit meri"
+},
+{
+"id": "44",
+"label": "Plaut. Truc. 44",
+"text": "eaque intra pectus se penetravit potio,"
+},
+{
+"id": "45",
+"label": "Plaut. Truc. 45",
+"text": "extemplo et ipsus periit et res et fides."
+},
+{
+"id": "46",
+"label": "Plaut. Truc. 46",
+"text": "si iratum scortumst forte amatori suo,"
+},
+{
+"id": "47",
+"label": "Plaut. Truc. 47",
+"text": "bis perit amator, ab re atque ab animo simul;"
+},
+{
+"id": "48",
+"label": "Plaut. Truc. 48",
+"text": "sin alter altri propitiust, idem perit:"
+},
+{
+"id": "49",
+"label": "Plaut. Truc. 49",
+"text": "si raras noctes ducit, ab animo perit;"
+},
+{
+"id": "50",
+"label": "Plaut. Truc. 50",
+"text": "sin crebras ducit, ipsus gaudet, res perit."
+},
+{
+"id": "50a",
+"label": "Plaut. Truc. 50a",
+"text": "†iteca in aedibus lenosis†"
+},
+{
+"id": "51",
+"label": "Plaut. Truc. 51",
+"text": "prius quam únum dederis, centum quae poscat parat:"
+},
+{
+"id": "52",
+"label": "Plaut. Truc. 52",
+"text": "aut periit aurum aút conscissa pallula est"
+},
+{
+"id": "53",
+"label": "Plaut. Truc. 53",
+"text": "aut empta ancilla aut aliquod vasum argenteum"
+},
+{
+"id": "54",
+"label": "Plaut. Truc. 54",
+"text": "aut vasum ahenum antiquom aut lectus †laptiles"
+},
+{
+"id": "55",
+"label": "Plaut. Truc. 55",
+"text": "aut armariola Graeca, aut aliquid semper est"
+},
+{
+"id": "56",
+"label": "Plaut. Truc. 56",
+"text": "quod † petra debeatque amans scorto suo."
+},
+{
+"id": "57",
+"label": "Plaut. Truc. 57",
+"text": "atque haec celamus nos clam magna industria,"
+},
+{
+"id": "58",
+"label": "Plaut. Truc. 58",
+"text": "quom rem fidemque nosque nosmet perdimus,"
+},
+{
+"id": "59",
+"label": "Plaut. Truc. 59",
+"text": "ne qui parentes neu cognati sentiant;"
+},
+{
+"id": "60",
+"label": "Plaut. Truc. 60",
+"text": "quos cum celamus si faximus conscios,"
+},
+{
+"id": "61",
+"label": "Plaut. Truc. 61",
+"text": "qui nostrae aetati tempestivo temperent,"
+},
+{
+"id": "62",
+"label": "Plaut. Truc. 62",
+"text": "unde anteparta demus postpartoribus,"
+},
+{
+"id": "62a",
+"label": "Plaut. Truc. 62a",
+"text": "faxim lenonum et scortorum † plus est"
+},
+{
+"id": "63",
+"label": "Plaut. Truc. 63",
+"text": "et minus damnosorum hominum quam nunc sunt siet."
+},
+{
+"id": "64",
+"label": "Plaut. Truc. 64",
+"text": "nam nunc lenonum et scortorum plus est fere,"
+},
+{
+"id": "65",
+"label": "Plaut. Truc. 65",
+"text": "quam olim muscarum est cum caletur maxime."
+},
+{
+"id": "66",
+"label": "Plaut. Truc. 66",
+"text": "nam nusquam alibi si sunt, circum argentarias"
+},
+{
+"id": "67",
+"label": "Plaut. Truc. 67",
+"text": "scorta et lenones qui sedent cottidie,"
+},
+{
+"id": "68",
+"label": "Plaut. Truc. 68",
+"text": "ea nimia est ratio; quippe qui certo scio,"
+},
+{
+"id": "69",
+"label": "Plaut. Truc. 69",
+"text": "ibi plus scortorum esse iam quam ponderum."
+},
+{
+"id": "70",
+"label": "Plaut. Truc. 70",
+"text": "quos quidem quam ád rem dicam in argentariis"
+},
+{
+"id": "71",
+"label": "Plaut. Truc. 71",
+"text": "referre habere, nisi pro tabulis, nescio,"
+},
+{
+"id": "72",
+"label": "Plaut. Truc. 72",
+"text": "ubi aera perscribantur usuraria:"
+},
+{
+"id": "73",
+"label": "Plaut. Truc. 73",
+"text": "accepta dico, expensa ne qui censeat."
+},
+{
+"id": "74",
+"label": "Plaut. Truc. 74",
+"text": "postremo id magno in populo † mulier hominibus,"
+},
+{
+"id": "75",
+"label": "Plaut. Truc. 75",
+"text": "re placida atque otiosa, victis hostibus:"
+},
+{
+"id": "76",
+"label": "Plaut. Truc. 76",
+"text": "amare oportet omnes qui quod dent habent."
+},
+{
+"id": "77",
+"label": "Plaut. Truc. 77",
+"text": "nam mihi haec méretrix quae hic habet, Phronesium,"
+},
+{
+"id": "78",
+"label": "Plaut. Truc. 78",
+"text": "suom nómen omne ex pectore exmovit meo,"
+},
+{
+"id": "78a",
+"label": "Plaut. Truc. 78a",
+"text": "phronesim, nam phronesis est sapientia."
+},
+{
+"id": "79",
+"label": "Plaut. Truc. 79",
+"text": "nam me fuisse huic fateor summum atque intumum,"
+},
+{
+"id": "80",
+"label": "Plaut. Truc. 80",
+"text": "quod amantis multo pessimum est pecuniae;"
+},
+{
+"id": "81",
+"label": "Plaut. Truc. 81",
+"text": "eadem postquam alium repperit qui plus daret,"
+},
+{
+"id": "82",
+"label": "Plaut. Truc. 82",
+"text": "damnosiorem, † mihi exinde immovit loco,"
+},
+{
+"id": "83",
+"label": "Plaut. Truc. 83",
+"text": "quem antehác odiosum sibi esse memorabat mala,"
+},
+{
+"id": "84",
+"label": "Plaut. Truc. 84",
+"text": "Babyloniensem militem. is nunc dicitur"
+},
+{
+"id": "85",
+"label": "Plaut. Truc. 85",
+"text": "venturus peregre; eo nunc commenta est dolum:"
+},
+{
+"id": "86",
+"label": "Plaut. Truc. 86",
+"text": "peperisse simulat sese, ut me extrudat foras"
+},
+{
+"id": "87",
+"label": "Plaut. Truc. 87",
+"text": "atque ut cum solo pergraecetur milite;"
+},
+{
+"id": "88",
+"label": "Plaut. Truc. 88",
+"text": "eum esse simulat militem puero patrem."
+},
+{
+"id": "88a",
+"label": "Plaut. Truc. 88a",
+"text": "eum istí suppositum puerum opinor pessumae."
+},
+{
+"id": "89",
+"label": "Plaut. Truc. 89",
+"text": "mihi verba retur dare se? án me censuit"
+},
+{
+"id": "90",
+"label": "Plaut. Truc. 90",
+"text": "celare se potesse, gravida si foret?"
+},
+{
+"id": "91",
+"label": "Plaut. Truc. 91",
+"text": "nam ego Lemno advenio Athenas nudius tertius,"
+},
+{
+"id": "92",
+"label": "Plaut. Truc. 92",
+"text": "legatus hinc quo cum publico imperio fui."
+},
+{
+"id": "93",
+"label": "Plaut. Truc. 93",
+"text": "sed haec quidem eius Astaphium est ancillula;"
+},
+{
+"id": "94",
+"label": "Plaut. Truc. 94",
+"text": "cum ea quoque etiam mihi fuit commercium."
+},
+{
+"id": "95",
+"label": "Plaut. Truc. 95",
+"text": "Ad fores auscultate atque adservate aedis,"
+},
+{
+"id": "96",
+"label": "Plaut. Truc. 96",
+"text": "ne quis adventor gravior abaetat quam adveniat,"
+},
+{
+"id": "97",
+"label": "Plaut. Truc. 97",
+"text": "neu, qui manus attulerit steriles intro ad nos,"
+},
+{
+"id": "98",
+"label": "Plaut. Truc. 98",
+"text": "gravidas foras exportet. novi ego hominum mores;"
+},
+{
+"id": "99",
+"label": "Plaut. Truc. 99",
+"text": "ita nunc adulescentes morati sunt: quini"
+},
+{
+"id": "100",
+"label": "Plaut. Truc. 100",
+"text": "aut seni adveniunt ad scorta congerrones;"
+},
+{
+"id": "101",
+"label": "Plaut. Truc. 101",
+"text": "consulta sunt consilia: quando intro advenerunt,"
+},
+{
+"id": "102",
+"label": "Plaut. Truc. 102",
+"text": "oenús eorum aliqui oscúlum amicae usque oggerít, dum illi agant ceterí cleptae;"
+},
+{
+"id": "103",
+"label": "Plaut. Truc. 103",
+"text": "sin vídent quempiam se adsérvare, obludiánt qui custodem óblectent"
+},
+{
+"id": "104",
+"label": "Plaut. Truc. 104",
+"text": "per ióculum et ludum; dé nostro saepe édunt: quod fartorés, faciunt."
+},
+{
+"id": "105",
+"label": "Plaut. Truc. 105",
+"text": "fit pól hoc, et pars spectátorum scitís pol haec vos me haud méntiri,"
+},
+{
+"id": "106",
+"label": "Plaut. Truc. 106",
+"text": "†ibi sibus pugnae et vírtuti de praédonibus praedám capere."
+},
+{
+"id": "107_110",
+"label": "Plaut. Truc. 107_110",
+"text": "at ecástor nos rursúm lepide referímus gratiam furíbus nostris:"
+},
+{
+"id": "111",
+"label": "Plaut. Truc. 111",
+"text": "nam ipsí vident cum eorum ággerimus bona atque étiam ultro ipsi aggerúnt ad nos."
+},
+{
+"id": "112",
+"label": "Plaut. Truc. 112",
+"text": "Me illís quidem haec verberat vérbis,"
+},
+{
+"id": "113",
+"label": "Plaut. Truc. 113",
+"text": "nam ego húc bona mea degéssi."
+},
+{
+"id": "114",
+"label": "Plaut. Truc. 114",
+"text": "Commémini, iam pol ego eúmpse ad nos, si dómi erit, mecum addúcam."
+},
+{
+"id": "115",
+"label": "Plaut. Truc. 115",
+"text": "Heus, máne dum, Astaphium, príus quam abis."
+},
+{
+"id": "116",
+"label": "Plaut. Truc. 116",
+"text": "Quí revocat?"
+},
+{
+"id": "116b",
+"label": "Plaut. Truc. 116b",
+"text": "Scies: réspice huc."
+},
+{
+"id": "116c",
+"label": "Plaut. Truc. 116c",
+"text": "Quis est?"
+},
+{
+"id": "117",
+"label": "Plaut. Truc. 117",
+"text": "Vobís qui multa bóna esse volt."
+},
+{
+"id": "117b",
+"label": "Plaut. Truc. 117b",
+"text": "Dato, si ésse vis."
+},
+{
+"id": "118",
+"label": "Plaut. Truc. 118",
+"text": "Fáxo erunt. réspice huc modo."
+},
+{
+"id": "118b",
+"label": "Plaut. Truc. 118b",
+"text": "Oh,"
+},
+{
+"id": "119",
+"label": "Plaut. Truc. 119",
+"text": "enícas me miseram, quísquis es."
+},
+{
+"id": "120",
+"label": "Plaut. Truc. 120",
+"text": "Péssuma, mane."
+},
+{
+"id": "121",
+"label": "Plaut. Truc. 121",
+"text": "Óptume, odio es."
+},
+{
+"id": "122",
+"label": "Plaut. Truc. 122",
+"text": "Díniarchusne íllic est? átque is est."
+},
+{
+"id": "123",
+"label": "Plaut. Truc. 123",
+"text": "Sálva sis."
+},
+{
+"id": "123b",
+"label": "Plaut. Truc. 123b",
+"text": "Ét tu."
+},
+{
+"id": "124",
+"label": "Plaut. Truc. 124",
+"text": "Fer cóntra manum et paritér gradere."
+},
+{
+"id": "125",
+"label": "Plaut. Truc. 125",
+"text": "Tuis sérvio atque audiens sum ímperiis."
+},
+{
+"id": "126",
+"label": "Plaut. Truc. 126",
+"text": "Quid agís?"
+},
+{
+"id": "126b",
+"label": "Plaut. Truc. 126b",
+"text": "Valeo et validúm teneo."
+},
+{
+"id": "127",
+"label": "Plaut. Truc. 127",
+"text": "péregre quoniam ádvenis, céna detur."
+},
+{
+"id": "128",
+"label": "Plaut. Truc. 128",
+"text": "Bene dícis benignequé vocas, Astáphium."
+},
+{
+"id": "128b",
+"label": "Plaut. Truc. 128b",
+"text": "Amabo,"
+},
+{
+"id": "129",
+"label": "Plaut. Truc. 129",
+"text": "sine me íre, era quo iussít."
+},
+{
+"id": "129b",
+"label": "Plaut. Truc. 129b",
+"text": "Eas. sed quíd ais?"
+},
+{
+"id": "129c",
+"label": "Plaut. Truc. 129c",
+"text": "Quid vis?"
+},
+{
+"id": "130",
+"label": "Plaut. Truc. 130",
+"text": "Dic quó iter inceptás; quis est quem arcéssis?"
+},
+{
+"id": "130b",
+"label": "Plaut. Truc. 130b",
+"text": "Archilínem"
+},
+{
+"id": "131",
+"label": "Plaut. Truc. 131",
+"text": "†obstetricem."
+},
+{
+"id": "131b",
+"label": "Plaut. Truc. 131b",
+"text": "Mála tu femina es, oles únde es disciplinam."
+},
+{
+"id": "132",
+"label": "Plaut. Truc. 132",
+"text": "manifesto mendaci, mala, teneo te."
+},
+{
+"id": "132b",
+"label": "Plaut. Truc. 132b",
+"text": "Quid iam, amabo?"
+},
+{
+"id": "133",
+"label": "Plaut. Truc. 133",
+"text": "Quia te adducturam huc dixeras eumpse, non eampse;"
+},
+{
+"id": "134",
+"label": "Plaut. Truc. 134",
+"text": "nunc mulier facta est iam ex viro: mala es praestrigiatrix."
+},
+{
+"id": "135",
+"label": "Plaut. Truc. 135",
+"text": "sed tandem eloquere, quis is homost, Astaphium? novos amator?"
+},
+{
+"id": "136",
+"label": "Plaut. Truc. 136",
+"text": "Nimis otiosum te arbitror hominem esse."
+},
+{
+"id": "136b",
+"label": "Plaut. Truc. 136b",
+"text": "Qui arbitrare?"
+},
+{
+"id": "137",
+"label": "Plaut. Truc. 137",
+"text": "Quia tuo vestimento et cibo alienis rebus curas."
+},
+{
+"id": "138",
+"label": "Plaut. Truc. 138",
+"text": "Vos mihi dedistis otium."
+},
+{
+"id": "138b",
+"label": "Plaut. Truc. 138b",
+"text": "Qui, amabo?"
+},
+{
+"id": "138c",
+"label": "Plaut. Truc. 138c",
+"text": "Ego expedibo."
+},
+{
+"id": "139",
+"label": "Plaut. Truc. 139",
+"text": "rem perdidi apud vos, vos meum negotium abstulistis."
+},
+{
+"id": "140",
+"label": "Plaut. Truc. 140",
+"text": "si rem servassem, fuit ubi negotiosus essem."
+},
+{
+"id": "141",
+"label": "Plaut. Truc. 141",
+"text": "An tu te Veneris publicum aut Amoris alia lege"
+},
+{
+"id": "142",
+"label": "Plaut. Truc. 142",
+"text": "habere posse postulas, quin otiosus fias?"
+},
+{
+"id": "143",
+"label": "Plaut. Truc. 143",
+"text": "Illa, haud ego, habuit publicum: pervorse interpretaris;"
+},
+{
+"id": "144",
+"label": "Plaut. Truc. 144",
+"text": "nam advorsum legem meam ob meam scripturam pecudem cepit."
+},
+{
+"id": "145",
+"label": "Plaut. Truc. 145",
+"text": "Plerique idem quod tu facis faciunt rei male gerentes:"
+},
+{
+"id": "146",
+"label": "Plaut. Truc. 146",
+"text": "ubi non est, scripturam unde dent, incusant publicanos."
+},
+{
+"id": "147",
+"label": "Plaut. Truc. 147",
+"text": "Male vertit res pecuaria mihi apud vos: nunc vicissim"
+},
+{
+"id": "148",
+"label": "Plaut. Truc. 148",
+"text": "volo habere aratiunculam pro copia hic apud vos."
+},
+{
+"id": "149",
+"label": "Plaut. Truc. 149",
+"text": "Non arvos hic, sed pascuost ager: si arationes"
+},
+{
+"id": "150",
+"label": "Plaut. Truc. 150",
+"text": "habituru's habiturus es , quí arari solent, ad pueros ire meliust."
+},
+{
+"id": "151",
+"label": "Plaut. Truc. 151",
+"text": "hunc nos habemus publicum, illi alii sunt publicani."
+},
+{
+"id": "152",
+"label": "Plaut. Truc. 152",
+"text": "Vtrosque pergnovi probe."
+},
+{
+"id": "152b",
+"label": "Plaut. Truc. 152b",
+"text": "Em istoc pol tu otiosu's otiosus es ,"
+},
+{
+"id": "153",
+"label": "Plaut. Truc. 153",
+"text": "cum et illíc et hic pervorsus es. sed utriscum rem esse mavis?"
+},
+{
+"id": "154",
+"label": "Plaut. Truc. 154",
+"text": "Procaciores estis vos, sed illí periuriores;"
+},
+{
+"id": "155",
+"label": "Plaut. Truc. 155",
+"text": "illis perit quidquid datur, neque ipsís apparet quicquam:"
+},
+{
+"id": "156",
+"label": "Plaut. Truc. 156",
+"text": "vos saltem si quid quaeritis, ecbibitis et comestis."
+},
+{
+"id": "157",
+"label": "Plaut. Truc. 157",
+"text": "postremo illi sunt improbi, vos nequam et gloriosae."
+},
+{
+"id": "158",
+"label": "Plaut. Truc. 158",
+"text": "Male quae in nos vis, ea omnia tibi dicis, Diniarche,"
+},
+{
+"id": "159",
+"label": "Plaut. Truc. 159",
+"text": "et nostram et illorum vicem."
+},
+{
+"id": "159b",
+"label": "Plaut. Truc. 159b",
+"text": "Qui istuc?"
+},
+{
+"id": "159c",
+"label": "Plaut. Truc. 159c",
+"text": "Rationem dicam:"
+},
+{
+"id": "160",
+"label": "Plaut. Truc. 160",
+"text": "quia qui alterum incusat probri, sumpse enitere oportet."
+},
+{
+"id": "161",
+"label": "Plaut. Truc. 161",
+"text": "tu a nobis sapiens nihil habes, nos nequam abs ted habemus."
+},
+{
+"id": "162",
+"label": "Plaut. Truc. 162",
+"text": "O Ástaphium, haud istoc modo solita es me ante appellare,"
+},
+{
+"id": "163",
+"label": "Plaut. Truc. 163",
+"text": "sed blande, cum illuc, quod apud vos nunc est, apud me habebam."
+},
+{
+"id": "164",
+"label": "Plaut. Truc. 164",
+"text": "Dum vivit, hominem noveris: ubi mortuost, quiescat."
+},
+{
+"id": "165",
+"label": "Plaut. Truc. 165",
+"text": "te dum vivebas noveram."
+},
+{
+"id": "165b",
+"label": "Plaut. Truc. 165b",
+"text": "An me mortuom arbitrare?"
+},
+{
+"id": "166",
+"label": "Plaut. Truc. 166",
+"text": "Qui potis , amabo, planius? qui antehac amator summus"
+},
+{
+"id": "167",
+"label": "Plaut. Truc. 167",
+"text": "habitu's habitus es , nunc ad amicam venis querimoniam deferre."
+},
+{
+"id": "168",
+"label": "Plaut. Truc. 168",
+"text": "Vestra hercle factum iniuria, quae properavistis olim:"
+},
+{
+"id": "169",
+"label": "Plaut. Truc. 169",
+"text": "rapere otiose oportuit, diu ut essem incolumis vobis."
+},
+{
+"id": "170",
+"label": "Plaut. Truc. 170",
+"text": "Amator similest oppidi hostilis."
+},
+{
+"id": "170b",
+"label": "Plaut. Truc. 170b",
+"text": "Quo argumento ?"
+},
+{
+"id": "171",
+"label": "Plaut. Truc. 171",
+"text": "Quam primum expugnari potis , tam id optimum est amicae."
+},
+{
+"id": "172",
+"label": "Plaut. Truc. 172",
+"text": "Ego fateor, sed longe aliter est amicus atque amator:"
+},
+{
+"id": "173",
+"label": "Plaut. Truc. 173",
+"text": "certe hercle quam veterrimus, tam homini optimust amicus."
+},
+{
+"id": "174",
+"label": "Plaut. Truc. 174",
+"text": "Si vivit."
+},
+{
+"id": "174b",
+"label": "Plaut. Truc. 174b",
+"text": "Non hercle occidi, sunt mi etiam fundi et aedis."
+},
+{
+"id": "175",
+"label": "Plaut. Truc. 175",
+"text": "Cur, obsecro, ergo ante ostium pro ignoto alienoque astas?"
+},
+{
+"id": "176",
+"label": "Plaut. Truc. 176",
+"text": "i intro, haud alienus tu quidem es; nam ecastor neminem hodie"
+},
+{
+"id": "177",
+"label": "Plaut. Truc. 177",
+"text": "mage amat corde atque animo suo, si quidem habes fundum atque aedis."
+},
+{
+"id": "178",
+"label": "Plaut. Truc. 178",
+"text": "In melle sunt linguae sitae vostrae atque orationes,"
+},
+{
+"id": "179",
+"label": "Plaut. Truc. 179",
+"text": "facta atque corda in felle sunt sita atque acerbo aceto:"
+},
+{
+"id": "180",
+"label": "Plaut. Truc. 180",
+"text": "eo dicta lingua dulcia datis, córde amara facitis."
+},
+{
+"id": "182",
+"label": "Plaut. Truc. 182",
+"text": "non istaec, mea benignitas, decuit te fabulari,"
+},
+{
+"id": "183",
+"label": "Plaut. Truc. 183",
+"text": "sed istós qui cum geniis suis belligerant parcipromi."
+},
+{
+"id": "184",
+"label": "Plaut. Truc. 184",
+"text": "Mala es atque eadem quae soles inlecebra."
+},
+{
+"id": "184b",
+"label": "Plaut. Truc. 184b",
+"text": "Vt exspectatus"
+},
+{
+"id": "185",
+"label": "Plaut. Truc. 185",
+"text": "peregre advenisti, quam, obsecro, cupiebat te era videre."
+},
+{
+"id": "186",
+"label": "Plaut. Truc. 186",
+"text": "Quid tandem?"
+},
+{
+"id": "186b",
+"label": "Plaut. Truc. 186b",
+"text": "Te unum ex omnibus amat."
+},
+{
+"id": "186c",
+"label": "Plaut. Truc. 186c",
+"text": "Euge, fundi et aedis,"
+},
+{
+"id": "187",
+"label": "Plaut. Truc. 187",
+"text": "per tempus subvenistis. sed quid ais, Astaphium?"
+},
+{
+"id": "187b",
+"label": "Plaut. Truc. 187b",
+"text": "Quid vis?"
+},
+{
+"id": "188",
+"label": "Plaut. Truc. 188",
+"text": "Estne intus nunc Phronesium?"
+},
+{
+"id": "188b",
+"label": "Plaut. Truc. 188b",
+"text": "Vtut aliis, tibi quidem intus."
+},
+{
+"id": "189",
+"label": "Plaut. Truc. 189",
+"text": "Valetne?"
+},
+{
+"id": "189b",
+"label": "Plaut. Truc. 189b",
+"text": "Immo edepol melius iam fore spero, te ubi videbit."
+},
+{
+"id": "190",
+"label": "Plaut. Truc. 190",
+"text": "Hoc nobis vitium maxumumst, cum amamus tum hoc perimus:"
+},
+{
+"id": "191",
+"label": "Plaut. Truc. 191",
+"text": "si illud quod volumus dicitur, palam cum mentiuntur,"
+},
+{
+"id": "192",
+"label": "Plaut. Truc. 192",
+"text": "verum esse insciti credimus, ne ut iusta utamur ira."
+},
+{
+"id": "193",
+"label": "Plaut. Truc. 193",
+"text": "Heia, haud itast res."
+},
+{
+"id": "193b",
+"label": "Plaut. Truc. 193b",
+"text": "Ain tu eam me amare?"
+},
+{
+"id": "193c",
+"label": "Plaut. Truc. 193c",
+"text": "Immo unice unum."
+},
+{
+"id": "194",
+"label": "Plaut. Truc. 194",
+"text": "Peperisse audivi."
+},
+{
+"id": "194b",
+"label": "Plaut. Truc. 194b",
+"text": "Ah obsecro, tace, Diniarche."
+},
+{
+"id": "194c",
+"label": "Plaut. Truc. 194c",
+"text": "Quid iam?"
+},
+{
+"id": "195",
+"label": "Plaut. Truc. 195",
+"text": "Horresco misera, mentio quotiens fit partionis,"
+},
+{
+"id": "196",
+"label": "Plaut. Truc. 196",
+"text": "ita paene nulla tibi fuit Phronesium. i intro, amabo,"
+},
+{
+"id": "197",
+"label": "Plaut. Truc. 197",
+"text": "vise illam. atque opperimino: iam exibit; nam lavabat."
+},
+{
+"id": "198",
+"label": "Plaut. Truc. 198",
+"text": "Quid ais tu? quae numquam fuit praegnas, qui parere potuit?"
+},
+{
+"id": "199",
+"label": "Plaut. Truc. 199",
+"text": "nam équidem illi uterum, quod sciam, numquam extumere sensi."
+},
+{
+"id": "200",
+"label": "Plaut. Truc. 200",
+"text": "Celabat metuebatque te, ne tu sibi persuaderes,"
+},
+{
+"id": "201",
+"label": "Plaut. Truc. 201",
+"text": "ut abortioni operam daret puerumque ut enicaret."
+},
+{
+"id": "202",
+"label": "Plaut. Truc. 202",
+"text": "Tum pol isti ést puero pater Babyloniensis miles,"
+},
+{
+"id": "203",
+"label": "Plaut. Truc. 203",
+"text": "quoius núnc ista adventum expetit."
+},
+{
+"id": "203b",
+"label": "Plaut. Truc. 203b",
+"text": "Immo ab eo ut nuntiatumst,"
+},
+{
+"id": "204",
+"label": "Plaut. Truc. 204",
+"text": "iam hic adfuturum aiunt eum. nondum advenisse miror."
+},
+{
+"id": "205",
+"label": "Plaut. Truc. 205",
+"text": "Ibo igitur intro?"
+},
+{
+"id": "205b",
+"label": "Plaut. Truc. 205b",
+"text": "Quippini? tam audacter quam domum ad te;"
+},
+{
+"id": "206",
+"label": "Plaut. Truc. 206",
+"text": "nam tu quidem edepol noster es etiam nunc, Diniarche."
+},
+{
+"id": "207",
+"label": "Plaut. Truc. 207",
+"text": "Quam mox te huc recipis?"
+},
+{
+"id": "207b",
+"label": "Plaut. Truc. 207b",
+"text": "Iam hic ero: propest, profecta quo sum."
+},
+{
+"id": "208",
+"label": "Plaut. Truc. 208",
+"text": "Redi véro actutum. ego interim hic apud vos opperibor.—"
+},
+{
+"id": "209",
+"label": "Plaut. Truc. 209",
+"text": "Hahahaé, requievi,"
+},
+{
+"id": "210",
+"label": "Plaut. Truc. 210",
+"text": "quia íntro abiit odiúm meum."
+},
+{
+"id": "211",
+"label": "Plaut. Truc. 211",
+"text": "tandém sola súm. nunc quidém meo arbitrátu"
+},
+{
+"id": "212",
+"label": "Plaut. Truc. 212",
+"text": "loquár liberé quae volam ét quae lubébit."
+},
+{
+"id": "213",
+"label": "Plaut. Truc. 213",
+"text": "huic hómini amanti méa era apud nos naéniam dixit domi,"
+},
+{
+"id": "214",
+"label": "Plaut. Truc. 214",
+"text": "nam fundi et aedis obligatae sunt ob Amoris praedium."
+},
+{
+"id": "215",
+"label": "Plaut. Truc. 215",
+"text": "verum apud hunc mea era sua consilia summa eloquitur libere,"
+},
+{
+"id": "216",
+"label": "Plaut. Truc. 216",
+"text": "magisque ádeo ei consiliarius hic amicust quam auxiliarius."
+},
+{
+"id": "217",
+"label": "Plaut. Truc. 217",
+"text": "dum fuit, dedit; nunc nihil habet: quod habebat nos habemus,"
+},
+{
+"id": "218",
+"label": "Plaut. Truc. 218",
+"text": "iste id habet quod nos habuimus. humanum facinus factumst."
+},
+{
+"id": "219",
+"label": "Plaut. Truc. 219",
+"text": "actutum fortunae solent mutari, varia vitast:"
+},
+{
+"id": "220",
+"label": "Plaut. Truc. 220",
+"text": "nos divitem istum meminimus atque iste pauperes nos:"
+},
+{
+"id": "221",
+"label": "Plaut. Truc. 221",
+"text": "verterunt sese memoriae; stultus sit qui id miretur."
+},
+{
+"id": "222",
+"label": "Plaut. Truc. 222",
+"text": "si eget, necessest nos pati: amavit, aequom ei factum est."
+},
+{
+"id": "223",
+"label": "Plaut. Truc. 223",
+"text": "piaculumst miserere nos hominum rei male gerentum."
+},
+{
+"id": "227",
+"label": "Plaut. Truc. 227",
+"text": "meretricem sentis similem ésse condecet,"
+},
+{
+"id": "228",
+"label": "Plaut. Truc. 228",
+"text": "quémquem hominem attigerit, profecto ei aut malum aut damnum dare."
+},
+{
+"id": "229",
+"label": "Plaut. Truc. 229",
+"text": "numquam amatoris meretricem oportet causam noscere,"
+},
+{
+"id": "230",
+"label": "Plaut. Truc. 230",
+"text": "quin, ubi nil det, pro infrequente eum mittat militia domum."
+},
+{
+"id": "231",
+"label": "Plaut. Truc. 231",
+"text": "nec umquam erit probus quísquam amator nisi qui rei inimicust suae."
+},
+{
+"id": "232",
+"label": "Plaut. Truc. 232",
+"text": "nugae sunt nisi, modo quom dederit, dare iam lubeat denuo;"
+},
+{
+"id": "233",
+"label": "Plaut. Truc. 233",
+"text": "is amatur hic apud nos, qui quod dedit id oblitust datum."
+},
+{
+"id": "234",
+"label": "Plaut. Truc. 234",
+"text": "dum habeat, dúm amet; ubi nil habeat, alium quaestum coepiat."
+},
+{
+"id": "235",
+"label": "Plaut. Truc. 235",
+"text": "aequo animo, ipse si nihil habeat, aliis quí habent, det locum."
+},
+{
+"id": "237",
+"label": "Plaut. Truc. 237",
+"text": "at nós male agere praedicant viri solere secum,"
+},
+{
+"id": "238",
+"label": "Plaut. Truc. 238",
+"text": "nosque esse avaras. qui sumus? quid male nos agimus tandem?"
+},
+{
+"id": "239",
+"label": "Plaut. Truc. 239",
+"text": "nam ecastor numquam satis dedit suae quísquam amicae amator,"
+},
+{
+"id": "240",
+"label": "Plaut. Truc. 240",
+"text": "neque pol nos satis accepimus neque umquam úlla satis poposcit."
+},
+{
+"id": "241",
+"label": "Plaut. Truc. 241",
+"text": "nam quando sterilis est amator ab datis,"
+},
+{
+"id": "242",
+"label": "Plaut. Truc. 242",
+"text": "si negat se habere quod det, soli credimus,"
+},
+{
+"id": "243",
+"label": "Plaut. Truc. 243",
+"text": "nec satis accipimus, satis cum quod det non habet:"
+},
+{
+"id": "244",
+"label": "Plaut. Truc. 244",
+"text": "semper datores novos oportet quaerere,"
+},
+{
+"id": "245",
+"label": "Plaut. Truc. 245",
+"text": "qui de thensauris integris demus danunt."
+},
+{
+"id": "246",
+"label": "Plaut. Truc. 246",
+"text": "velút hic agrestis est adulescens, qui hic habet,"
+},
+{
+"id": "247",
+"label": "Plaut. Truc. 247",
+"text": "nimis pól mortalis lepidus nimisque probus dator."
+},
+{
+"id": "250",
+"label": "Plaut. Truc. 250",
+"text": "sed est huic unus servos violentissimus,"
+},
+{
+"id": "251",
+"label": "Plaut. Truc. 251",
+"text": "qui ubi quámque nostrarum videt prope hasce aédis adgrediri,"
+},
+{
+"id": "252",
+"label": "Plaut. Truc. 252",
+"text": "item ut de frumento anseres, clamore absterret abigit;"
+},
+{
+"id": "253",
+"label": "Plaut. Truc. 253",
+"text": "ita est agrestis. sed fores, quidquid ést futurum, feriam."
+},
+{
+"id": "254_255",
+"label": "Plaut. Truc. 254_255",
+"text": "ecquis huíc tutelam ianuae gerit? ecquis intus exit?"
+},
+{
+"id": "256",
+"label": "Plaut. Truc. 256",
+"text": "Quís illic est qui tam proterve nostras aedis arietat?"
+},
+{
+"id": "257",
+"label": "Plaut. Truc. 257",
+"text": "Ego sum, respice ad me."
+},
+{
+"id": "257b",
+"label": "Plaut. Truc. 257b",
+"text": "Quid ego? nonne egó videor tibi?"
+},
+{
+"id": "258",
+"label": "Plaut. Truc. 258",
+"text": "quid tibi ad hasce accessio aedis est prope aut pultatio?"
+},
+{
+"id": "259",
+"label": "Plaut. Truc. 259",
+"text": "Salve."
+},
+{
+"id": "259b",
+"label": "Plaut. Truc. 259b",
+"text": "Sat mihi est tuae salutis. nil moror. non salveo?"
+},
+{
+"id": "260",
+"label": "Plaut. Truc. 260",
+"text": "aegrotare malim quam esse tua salute sanior."
+},
+{
+"id": "261",
+"label": "Plaut. Truc. 261",
+"text": "sed volo scíre, quid debetur hic tibi nostrae domi?"
+},
+{
+"id": "262",
+"label": "Plaut. Truc. 262",
+"text": "Comprime sis eiram."
+},
+{
+"id": "262b",
+"label": "Plaut. Truc. 262b",
+"text": "Eam quidem hercle tu, quae solita es, comprime,"
+},
+{
+"id": "263",
+"label": "Plaut. Truc. 263",
+"text": "impudens, quae per ridiculum rustico suades stuprum."
+},
+{
+"id": "264",
+"label": "Plaut. Truc. 264",
+"text": "Eiram dixi: ut decepisti! dempsisti unam litteram."
+},
+{
+"id": "265",
+"label": "Plaut. Truc. 265",
+"text": "nimis quidem hic truculentust."
+},
+{
+"id": "265b",
+"label": "Plaut. Truc. 265b",
+"text": "Pergin male loqui, mulier, mihi?"
+},
+{
+"id": "266",
+"label": "Plaut. Truc. 266",
+"text": "Quid tibi ego male dicó?"
+},
+{
+"id": "266b",
+"label": "Plaut. Truc. 266b",
+"text": "Quia enim me truncum lentum nominas."
+},
+{
+"id": "267",
+"label": "Plaut. Truc. 267",
+"text": "nunc adeo, nisi abis actutum aut dicis quid quaeras cito,"
+},
+{
+"id": "268",
+"label": "Plaut. Truc. 268",
+"text": "iam hercle ego hic te, mulier, quasi sus catulos pedibus proteram."
+},
+{
+"id": "269",
+"label": "Plaut. Truc. 269",
+"text": "Rus merum hoc quidemst."
+},
+{
+"id": "269b",
+"label": "Plaut. Truc. 269b",
+"text": "Pudendumst vero clurinum pecus."
+},
+{
+"id": "270",
+"label": "Plaut. Truc. 270",
+"text": "advenisti huc te ostentatum, cum exornatis ossibus,"
+},
+{
+"id": "271",
+"label": "Plaut. Truc. 271",
+"text": "quia tibi suaso infecisti propudiosa pallulam?"
+},
+{
+"id": "273",
+"label": "Plaut. Truc. 273",
+"text": "Nunc places, cum mi inclementer dicis."
+},
+{
+"id": "273b",
+"label": "Plaut. Truc. 273b",
+"text": "Quid hoc quod te rogo?"
+},
+{
+"id": "274",
+"label": "Plaut. Truc. 274",
+"text": "mancupion qui accipias, gestas tecum ahenos anulos?"
+},
+{
+"id": "275",
+"label": "Plaut. Truc. 275",
+"text": "pignus da ni ligneae haec sunt quas habes Victorias."
+},
+{
+"id": "276",
+"label": "Plaut. Truc. 276",
+"text": "Ne attigas me."
+},
+{
+"id": "276b",
+"label": "Plaut. Truc. 276b",
+"text": "Egon te tangam? íta me amabit sarculum,"
+},
+{
+"id": "277",
+"label": "Plaut. Truc. 277",
+"text": "ut ego me ruri amplexari mavelim patulam bovem"
+},
+{
+"id": "278",
+"label": "Plaut. Truc. 278",
+"text": "cumque ea noctem in stramentis pernoctare perpetem,"
+},
+{
+"id": "279",
+"label": "Plaut. Truc. 279",
+"text": "quam tuas centum cenatas noctes mihi dono dari."
+},
+{
+"id": "280",
+"label": "Plaut. Truc. 280",
+"text": "rus tu mi opprobras? ut nancta es hominem quem pudeat probri!"
+},
+{
+"id": "281",
+"label": "Plaut. Truc. 281",
+"text": "sed quid ápud nostras negoti, mulier, est aedis tibi?"
+},
+{
+"id": "282",
+"label": "Plaut. Truc. 282",
+"text": "quid tu huc occursas, in urbem quotienscumque advenimus?"
+},
+{
+"id": "283",
+"label": "Plaut. Truc. 283",
+"text": "Mulieres volo convenire vostras."
+},
+{
+"id": "283b",
+"label": "Plaut. Truc. 283b",
+"text": "Quas tu mulieres"
+},
+{
+"id": "284",
+"label": "Plaut. Truc. 284",
+"text": "mihi narras, ubi musca nulla feminast in aedibus?"
+},
+{
+"id": "285",
+"label": "Plaut. Truc. 285",
+"text": "Nullan istic mulier habitat?"
+},
+{
+"id": "285b",
+"label": "Plaut. Truc. 285b",
+"text": "Rus, inquam, abierunt. abi."
+},
+{
+"id": "286",
+"label": "Plaut. Truc. 286",
+"text": "Quid clamas, insane?"
+},
+{
+"id": "286b",
+"label": "Plaut. Truc. 286b",
+"text": "Abire hinc ni properas grandi gradu,"
+},
+{
+"id": "287",
+"label": "Plaut. Truc. 287",
+"text": "iam hercle ego istós fictos compositos crispos cincinnos tuos"
+},
+{
+"id": "288",
+"label": "Plaut. Truc. 288",
+"text": "unguentatos usque ex cerebro exvellam."
+},
+{
+"id": "288b",
+"label": "Plaut. Truc. 288b",
+"text": "Quanam gratia?"
+},
+{
+"id": "289",
+"label": "Plaut. Truc. 289",
+"text": "Quia ad foris nostras unguentis uncta es ausa accedere"
+},
+{
+"id": "290",
+"label": "Plaut. Truc. 290",
+"text": "quiaque istas buccas tam belle purpurissatas habes."
+},
+{
+"id": "291",
+"label": "Plaut. Truc. 291",
+"text": "Erubui mecastor misera propter clamorem tuom."
+},
+{
+"id": "292",
+"label": "Plaut. Truc. 292",
+"text": "Itane? erubuisti? quasi vero corpori reliqueris"
+},
+{
+"id": "293",
+"label": "Plaut. Truc. 293",
+"text": "tuo potestatem coloris ulli capiendi, mala."
+},
+{
+"id": "294",
+"label": "Plaut. Truc. 294",
+"text": "buccas rubrica, créta omne corpus intinxti tibi."
+},
+{
+"id": "295",
+"label": "Plaut. Truc. 295",
+"text": "pessumae estis."
+},
+{
+"id": "295b",
+"label": "Plaut. Truc. 295b",
+"text": "Quíd est quod vobis pessumae haec male fecerint?"
+},
+{
+"id": "296",
+"label": "Plaut. Truc. 296",
+"text": "Scio ego plus quam tu arbitrare scire me."
+},
+{
+"id": "296b",
+"label": "Plaut. Truc. 296b",
+"text": "Quid id obsecrost"
+},
+{
+"id": "297",
+"label": "Plaut. Truc. 297",
+"text": "quod scias?"
+},
+{
+"id": "297b",
+"label": "Plaut. Truc. 297b",
+"text": "Erilis noster filius apud vos Strabax"
+},
+{
+"id": "298",
+"label": "Plaut. Truc. 298",
+"text": "ut pereat, ut eum inliciatis in malam fraudem et probrum."
+},
+{
+"id": "299",
+"label": "Plaut. Truc. 299",
+"text": "Sanus si videare, dicam: dicis contumeliam."
+},
+{
+"id": "300",
+"label": "Plaut. Truc. 300",
+"text": "nemo homo hic solet perire apud nos: res perdunt suas;"
+},
+{
+"id": "301",
+"label": "Plaut. Truc. 301",
+"text": "ubi res perdidere, abire hinc, si volunt, salvis licet."
+},
+{
+"id": "302",
+"label": "Plaut. Truc. 302",
+"text": "ego istunc non novi adulescentem vostrum."
+},
+{
+"id": "302b",
+"label": "Plaut. Truc. 302b",
+"text": "Veron serio?"
+},
+{
+"id": "303",
+"label": "Plaut. Truc. 303",
+"text": "quid maceria illa ait, in horto quae est, quae in noctes singulas"
+},
+{
+"id": "304",
+"label": "Plaut. Truc. 304",
+"text": "latere fit minor, qua ístoc ad vos damni permensust viam?"
+},
+{
+"id": "305",
+"label": "Plaut. Truc. 305",
+"text": "Nil mirum (vetus est maceria) lateres si veteres ruont."
+},
+{
+"id": "306",
+"label": "Plaut. Truc. 306",
+"text": "Ain tu vero veteres lateres ruere? numquam edepol mihi"
+},
+{
+"id": "307",
+"label": "Plaut. Truc. 307",
+"text": "quisquam homo mortalis posthac duarum rerum creduit,"
+},
+{
+"id": "308",
+"label": "Plaut. Truc. 308",
+"text": "ní ego vostra ero maiori facta denarravero."
+},
+{
+"id": "309",
+"label": "Plaut. Truc. 309",
+"text": "Estne item violentus ut tu?"
+},
+{
+"id": "309b",
+"label": "Plaut. Truc. 309b",
+"text": "Non enim ille meretriculis"
+},
+{
+"id": "310",
+"label": "Plaut. Truc. 310",
+"text": "munerandis rem coegit, verum parsimonia"
+},
+{
+"id": "311",
+"label": "Plaut. Truc. 311",
+"text": "duritiaque: quae nunc ad vos clam exportantur, pessumae;"
+},
+{
+"id": "312",
+"label": "Plaut. Truc. 312",
+"text": "ea vos estis exunguimini ebibitis. egone haec mussitem?"
+},
+{
+"id": "313",
+"label": "Plaut. Truc. 313",
+"text": "iam quidem hercle ibo ad forum atque haec facta narrabo seni,"
+},
+{
+"id": "314",
+"label": "Plaut. Truc. 314",
+"text": "neque istuc insegesti tergo coget examen mali.—"
+},
+{
+"id": "315",
+"label": "Plaut. Truc. 315",
+"text": "Si ecastor hic homo sinapi victitet, non censeam"
+},
+{
+"id": "316",
+"label": "Plaut. Truc. 316",
+"text": "tam esse tristem posse. at pol ero benevolens visust suo."
+},
+{
+"id": "317",
+"label": "Plaut. Truc. 317",
+"text": "verum ego illúm, quamquam violentust, spero inmutari pote"
+},
+{
+"id": "318",
+"label": "Plaut. Truc. 318",
+"text": "blandimentis, oramentis, ceteris meretriciis;"
+},
+{
+"id": "319",
+"label": "Plaut. Truc. 319",
+"text": "vidi equom ex indomito domitum fieri atque alias beluas."
+},
+{
+"id": "320",
+"label": "Plaut. Truc. 320",
+"text": "nunc ad eram revidebo. sed eccum ódium progreditur meum."
+},
+{
+"id": "321",
+"label": "Plaut. Truc. 321",
+"text": "tristis exit. haud convenit etiam hic dum Phronesium."
+},
+{
+"id": "322",
+"label": "Plaut. Truc. 322",
+"text": "Piscis ego credo, qui usque dum vivont lavant,"
+},
+{
+"id": "323",
+"label": "Plaut. Truc. 323",
+"text": "minus diú lavare quam haec lavat Phronesium."
+},
+{
+"id": "324",
+"label": "Plaut. Truc. 324",
+"text": "si proinde amentur, mulieres diu quam lavant,"
+},
+{
+"id": "325",
+"label": "Plaut. Truc. 325",
+"text": "omnes amantes balneatores sient."
+},
+{
+"id": "326",
+"label": "Plaut. Truc. 326",
+"text": "Non quis parumper durare opperirier?"
+},
+{
+"id": "327",
+"label": "Plaut. Truc. 327",
+"text": "Quin hercle lassus iam sum durando miser:"
+},
+{
+"id": "328",
+"label": "Plaut. Truc. 328",
+"text": "mihi quoque prae lassitudine opus est ut lavem."
+},
+{
+"id": "329",
+"label": "Plaut. Truc. 329",
+"text": "sed obsecro hercle, Astaphium, i intro ac nuntia"
+},
+{
+"id": "330",
+"label": "Plaut. Truc. 330",
+"text": "me adesse, ut properet suade, iam ut satis laverit."
+},
+{
+"id": "331",
+"label": "Plaut. Truc. 331",
+"text": "Licet."
+},
+{
+"id": "331b",
+"label": "Plaut. Truc. 331b",
+"text": "Audin etiam?"
+},
+{
+"id": "331c",
+"label": "Plaut. Truc. 331c",
+"text": "Quid vis?"
+},
+{
+"id": "331d",
+"label": "Plaut. Truc. 331d",
+"text": "Di me perduint,"
+},
+{
+"id": "332",
+"label": "Plaut. Truc. 332",
+"text": "qui te revocavi. non tibi dicebam i modo?"
+},
+{
+"id": "333",
+"label": "Plaut. Truc. 333",
+"text": "Quidnam revocabas? improbu's improbus es nihilique homo:"
+},
+{
+"id": "334",
+"label": "Plaut. Truc. 334",
+"text": "tute tibi mille passum peperisti moram.—"
+},
+{
+"id": "335",
+"label": "Plaut. Truc. 335",
+"text": "Sed quid haec hic autem tam diu ante aedis stetit?"
+},
+{
+"id": "336",
+"label": "Plaut. Truc. 336",
+"text": "nescio quem praestolata est; credo, militem."
+},
+{
+"id": "337",
+"label": "Plaut. Truc. 337",
+"text": "illum student iam; quasi volturii triduo"
+},
+{
+"id": "338",
+"label": "Plaut. Truc. 338",
+"text": "prius praédivinant, quo die esuri sient:"
+},
+{
+"id": "339",
+"label": "Plaut. Truc. 339",
+"text": "illum inhiant omnes, illi est animus omnibus;"
+},
+{
+"id": "340",
+"label": "Plaut. Truc. 340",
+"text": "me nemo magis respiciet, ubi is huc venerit,"
+},
+{
+"id": "341",
+"label": "Plaut. Truc. 341",
+"text": "quasi abhinc ducentos annos fuerim mortuos."
+},
+{
+"id": "342",
+"label": "Plaut. Truc. 342",
+"text": "ut rem servare suave est! vae misero mihi,"
+},
+{
+"id": "343",
+"label": "Plaut. Truc. 343",
+"text": "post factum flector, qui antepartum perdidi."
+},
+{
+"id": "344",
+"label": "Plaut. Truc. 344",
+"text": "verum nunc si qua mi obtigerit hereditas"
+},
+{
+"id": "345",
+"label": "Plaut. Truc. 345",
+"text": "magna atque luculenta, nunc postquam scio"
+},
+{
+"id": "346",
+"label": "Plaut. Truc. 346",
+"text": "dulce atque amarum quid sit ex pecunia,"
+},
+{
+"id": "347",
+"label": "Plaut. Truc. 347",
+"text": "ita ego íllam edepol servem itaque parce victitem,"
+},
+{
+"id": "348",
+"label": "Plaut. Truc. 348",
+"text": "ut—nulla faxim cis dies paucos siet;"
+},
+{
+"id": "349",
+"label": "Plaut. Truc. 349",
+"text": "ego istós, qui nunc me culpant, confutaverim."
+},
+{
+"id": "350",
+"label": "Plaut. Truc. 350",
+"text": "sed aestuosas sentio aperiri fores,"
+},
+{
+"id": "351",
+"label": "Plaut. Truc. 351",
+"text": "quae obsorbent quidquid venit intra pessulos."
+},
+{
+"id": "352",
+"label": "Plaut. Truc. 352",
+"text": "Num tibi nam, amabo, ianua est mordax mea,"
+},
+{
+"id": "353",
+"label": "Plaut. Truc. 353",
+"text": "quo intro ire metuas, mea voluptas?"
+},
+{
+"id": "353b",
+"label": "Plaut. Truc. 353b",
+"text": "Ver vide,"
+},
+{
+"id": "354",
+"label": "Plaut. Truc. 354",
+"text": "ut tota floret, ut olet, ut nitide nitet."
+},
+{
+"id": "355",
+"label": "Plaut. Truc. 355",
+"text": "Quid tam inficetu's inficetus es , Lemno adveniens qui tuae"
+},
+{
+"id": "356",
+"label": "Plaut. Truc. 356",
+"text": "non des amicae, Diniarche, savium?"
+},
+{
+"id": "357",
+"label": "Plaut. Truc. 357",
+"text": "Vah, vapulo hercle ego nunc, atque adeo male."
+},
+{
+"id": "358",
+"label": "Plaut. Truc. 358",
+"text": "Quo te avortisti?"
+},
+{
+"id": "358b",
+"label": "Plaut. Truc. 358b",
+"text": "Salva sis, Phronesium."
+},
+{
+"id": "359",
+"label": "Plaut. Truc. 359",
+"text": "Salve. hicine hodie cenas, salvos cum advenis?"
+},
+{
+"id": "360",
+"label": "Plaut. Truc. 360",
+"text": "Promisi."
+},
+{
+"id": "360b",
+"label": "Plaut. Truc. 360b",
+"text": "Vbi cenabis?"
+},
+{
+"id": "360c",
+"label": "Plaut. Truc. 360c",
+"text": "Vbi tu iusseris."
+},
+{
+"id": "361",
+"label": "Plaut. Truc. 361",
+"text": "Hic me lubente facies."
+},
+{
+"id": "361b",
+"label": "Plaut. Truc. 361b",
+"text": "Edepol me magis."
+},
+{
+"id": "362",
+"label": "Plaut. Truc. 362",
+"text": "nempe tú eris hodie mecum, mea Phronesium?"
+},
+{
+"id": "363",
+"label": "Plaut. Truc. 363",
+"text": "Velim, si fieri possit."
+},
+{
+"id": "363b",
+"label": "Plaut. Truc. 363b",
+"text": "Cedo soleas mihi,"
+},
+{
+"id": "364",
+"label": "Plaut. Truc. 364",
+"text": "properate, auferte mensam."
+},
+{
+"id": "364b",
+"label": "Plaut. Truc. 364b",
+"text": "Amabo, sanun es?"
+},
+{
+"id": "365",
+"label": "Plaut. Truc. 365",
+"text": "Non edepol bibere possum iam, ita animo malest."
+},
+{
+"id": "366",
+"label": "Plaut. Truc. 366",
+"text": "Mane, aliquid fiet, né abi."
+},
+{
+"id": "366b",
+"label": "Plaut. Truc. 366b",
+"text": "Ah, aspersisti aquam."
+},
+{
+"id": "367",
+"label": "Plaut. Truc. 367",
+"text": "iam rediit animus. deme soleas, cedo bibam."
+},
+{
+"id": "368",
+"label": "Plaut. Truc. 368",
+"text": "Idem es mecastor qui soles. sed dic mihi,"
+},
+{
+"id": "369",
+"label": "Plaut. Truc. 369",
+"text": "benene ambulatumst?"
+},
+{
+"id": "369b",
+"label": "Plaut. Truc. 369b",
+"text": "Huc quidem hercle ad te bene,"
+},
+{
+"id": "370",
+"label": "Plaut. Truc. 370",
+"text": "quia tui videndi copia est."
+},
+{
+"id": "370b",
+"label": "Plaut. Truc. 370b",
+"text": "Complectere."
+},
+{
+"id": "371",
+"label": "Plaut. Truc. 371",
+"text": "Lubens. heia, hoc est melle dulci dulcius."
+},
+{
+"id": "372",
+"label": "Plaut. Truc. 372",
+"text": "hoc tuis fortunis, Iuppiter, praestant meae."
+},
+{
+"id": "373",
+"label": "Plaut. Truc. 373",
+"text": "Dan savium?"
+},
+{
+"id": "373b",
+"label": "Plaut. Truc. 373b",
+"text": "Immo vel decem."
+},
+{
+"id": "373c",
+"label": "Plaut. Truc. 373c",
+"text": "Em istoc pauper es:"
+},
+{
+"id": "374",
+"label": "Plaut. Truc. 374",
+"text": "semper plus pollicere quam ego abs te postulo."
+},
+{
+"id": "375",
+"label": "Plaut. Truc. 375",
+"text": "Vtinam a principio reí item parsisses meae"
+},
+{
+"id": "376",
+"label": "Plaut. Truc. 376",
+"text": "ut nunc reparcis saviis."
+},
+{
+"id": "376b",
+"label": "Plaut. Truc. 376b",
+"text": "Si quid tibi"
+},
+{
+"id": "377",
+"label": "Plaut. Truc. 377",
+"text": "compendi facere possim, factum edepol velim."
+},
+{
+"id": "378",
+"label": "Plaut. Truc. 378",
+"text": "Iam lauta es?"
+},
+{
+"id": "378b",
+"label": "Plaut. Truc. 378b",
+"text": "Iam pol mihi quidem atque oculis meis."
+},
+{
+"id": "379",
+"label": "Plaut. Truc. 379",
+"text": "num tibi sordere videor?"
+},
+{
+"id": "379b",
+"label": "Plaut. Truc. 379b",
+"text": "Non pol mihi quidem;"
+},
+{
+"id": "380",
+"label": "Plaut. Truc. 380",
+"text": "verum tempestas, memini, quondam etiam fuit,"
+},
+{
+"id": "381",
+"label": "Plaut. Truc. 381",
+"text": "cum inter nos sordebamus alter de altero."
+},
+{
+"id": "382",
+"label": "Plaut. Truc. 382",
+"text": "sed quid ego facinus audivi adveniens tuom,"
+},
+{
+"id": "383",
+"label": "Plaut. Truc. 383",
+"text": "quod tu hic me absente novi negoti gesseris?"
+},
+{
+"id": "384",
+"label": "Plaut. Truc. 384",
+"text": "Quid id est?"
+},
+{
+"id": "384b",
+"label": "Plaut. Truc. 384b",
+"text": "Primumdum, cum tu es aucta liberis"
+},
+{
+"id": "385",
+"label": "Plaut. Truc. 385",
+"text": "cumque bene provenisti salva, gaudeo."
+},
+{
+"id": "386",
+"label": "Plaut. Truc. 386",
+"text": "Concedite hinc vos intro atque operite ostium."
+},
+{
+"id": "387",
+"label": "Plaut. Truc. 387",
+"text": "tu nunc superstes solus sermoni meo es."
+},
+{
+"id": "388",
+"label": "Plaut. Truc. 388",
+"text": "tibi mea consilia summa semper credidi."
+},
+{
+"id": "389",
+"label": "Plaut. Truc. 389",
+"text": "equidem neque peperi puerum neque praegnas fui;"
+},
+{
+"id": "390",
+"label": "Plaut. Truc. 390",
+"text": "verum adsimulavi me esse praegnatem: haud nego."
+},
+{
+"id": "391",
+"label": "Plaut. Truc. 391",
+"text": "Quem propter, o mea vita?"
+},
+{
+"id": "391b",
+"label": "Plaut. Truc. 391b",
+"text": "Propter militem"
+},
+{
+"id": "392",
+"label": "Plaut. Truc. 392",
+"text": "Babyloniensem, qui quasi uxorem sibi"
+},
+{
+"id": "393",
+"label": "Plaut. Truc. 393",
+"text": "me habebat anno, dum hic fuit."
+},
+{
+"id": "393b",
+"label": "Plaut. Truc. 393b",
+"text": "Ego senseram."
+},
+{
+"id": "394",
+"label": "Plaut. Truc. 394",
+"text": "sed quid istuc? cui rei te adsimulare retulit?"
+},
+{
+"id": "395",
+"label": "Plaut. Truc. 395",
+"text": "Vt esset aliquis laqueus et redimiculum,"
+},
+{
+"id": "396",
+"label": "Plaut. Truc. 396",
+"text": "reversionem ut ad me faceret denuo."
+},
+{
+"id": "397",
+"label": "Plaut. Truc. 397",
+"text": "nunc huc remisit nuper ad me epistulam,"
+},
+{
+"id": "398",
+"label": "Plaut. Truc. 398",
+"text": "sese experturum quanti sese penderem:"
+},
+{
+"id": "399",
+"label": "Plaut. Truc. 399",
+"text": "si quod peperissem id non necarem ac tollerem,"
+},
+{
+"id": "400",
+"label": "Plaut. Truc. 400",
+"text": "bona sua med habiturum omnia ."
+},
+{
+"id": "400b",
+"label": "Plaut. Truc. 400b",
+"text": "Ausculto lubens."
+},
+{
+"id": "401",
+"label": "Plaut. Truc. 401",
+"text": "quid denique agitis?"
+},
+{
+"id": "401b",
+"label": "Plaut. Truc. 401b",
+"text": "Mater ancillas iubet,"
+},
+{
+"id": "402",
+"label": "Plaut. Truc. 402",
+"text": "quoniam iam decimus mensis adventat prope,"
+},
+{
+"id": "403",
+"label": "Plaut. Truc. 403",
+"text": "aliam aliorsum ire, praemandare et quaerere"
+},
+{
+"id": "404",
+"label": "Plaut. Truc. 404",
+"text": "puerum aut puellam, qui supponatur mihi."
+},
+{
+"id": "405",
+"label": "Plaut. Truc. 405",
+"text": "quid multa verba faciam? tonstricem Suram"
+},
+{
+"id": "406",
+"label": "Plaut. Truc. 406",
+"text": "novisti nostram, quae mercedem sese habet?†"
+},
+{
+"id": "407",
+"label": "Plaut. Truc. 407",
+"text": "Novi."
+},
+{
+"id": "407b",
+"label": "Plaut. Truc. 407b",
+"text": "Haec ut opera circumit, per familias,"
+},
+{
+"id": "408",
+"label": "Plaut. Truc. 408",
+"text": "puerum vestigat; clanculum ad me detulit,"
+},
+{
+"id": "409",
+"label": "Plaut. Truc. 409",
+"text": "datum sibi esse dixit."
+},
+{
+"id": "409b",
+"label": "Plaut. Truc. 409b",
+"text": "O mercis malae."
+},
+{
+"id": "410",
+"label": "Plaut. Truc. 410",
+"text": "eum núnc non illa peperit, quae peperit prior,"
+},
+{
+"id": "411",
+"label": "Plaut. Truc. 411",
+"text": "sed tu posterior."
+},
+{
+"id": "411b",
+"label": "Plaut. Truc. 411b",
+"text": "Ordine omnem rem tenes."
+},
+{
+"id": "412",
+"label": "Plaut. Truc. 412",
+"text": "nunc ut praemisit nuntium miles mihi,"
+},
+{
+"id": "413",
+"label": "Plaut. Truc. 413",
+"text": "non multo post hic aderit."
+},
+{
+"id": "413b",
+"label": "Plaut. Truc. 413b",
+"text": "Nunc tu te interim"
+},
+{
+"id": "414",
+"label": "Plaut. Truc. 414",
+"text": "quasi pro puerpera hic procuras?"
+},
+{
+"id": "414b",
+"label": "Plaut. Truc. 414b",
+"text": "Quippini,"
+},
+{
+"id": "415",
+"label": "Plaut. Truc. 415",
+"text": "ubi sine labore res geri pulcre potest?"
+},
+{
+"id": "416",
+"label": "Plaut. Truc. 416",
+"text": "ad suom quemque aequom est quaestum ésse callidum."
+},
+{
+"id": "417",
+"label": "Plaut. Truc. 417",
+"text": "Quid me futurum est, quando miles venerit?"
+},
+{
+"id": "418",
+"label": "Plaut. Truc. 418",
+"text": "relictusne abs te vivam?"
+},
+{
+"id": "418b",
+"label": "Plaut. Truc. 418b",
+"text": "Vbi illud quod volo"
+},
+{
+"id": "419",
+"label": "Plaut. Truc. 419",
+"text": "habebo ab illo, facile inveniam quo modo"
+},
+{
+"id": "420",
+"label": "Plaut. Truc. 420",
+"text": "divortium et discordiam inter nos parem:"
+},
+{
+"id": "421",
+"label": "Plaut. Truc. 421",
+"text": "post id ego tecum, mea voluptas, usque ero"
+},
+{
+"id": "422",
+"label": "Plaut. Truc. 422",
+"text": "assiduo."
+},
+{
+"id": "422b",
+"label": "Plaut. Truc. 422b",
+"text": "Immo hercle vero accubuo mavelim."
+},
+{
+"id": "423",
+"label": "Plaut. Truc. 423",
+"text": "Dis hodie sacruficare pro puero volo,"
+},
+{
+"id": "424",
+"label": "Plaut. Truc. 424",
+"text": "quinto die quod fieri oportet."
+},
+{
+"id": "424b",
+"label": "Plaut. Truc. 424b",
+"text": "Censeo."
+},
+{
+"id": "425",
+"label": "Plaut. Truc. 425",
+"text": "Non audes aliquid mihi dare munusculum?"
+},
+{
+"id": "426",
+"label": "Plaut. Truc. 426",
+"text": "Lucrum hercle videor facere mi, voluptas mea,"
+},
+{
+"id": "427",
+"label": "Plaut. Truc. 427",
+"text": "ubi quippiam me poscis."
+},
+{
+"id": "427b",
+"label": "Plaut. Truc. 427b",
+"text": "At ego, ubi abstuli."
+},
+{
+"id": "428",
+"label": "Plaut. Truc. 428",
+"text": "Iam faxo hic aderit. servolum huc mittam meum."
+},
+{
+"id": "429",
+"label": "Plaut. Truc. 429",
+"text": "Sic facito."
+},
+{
+"id": "429b",
+"label": "Plaut. Truc. 429b",
+"text": "Quidquid attulerit, boni consulas."
+},
+{
+"id": "430",
+"label": "Plaut. Truc. 430",
+"text": "Ecastor munus te curaturum scio,"
+},
+{
+"id": "431",
+"label": "Plaut. Truc. 431",
+"text": "ut cuius me nón paeniteat mittatur mihi."
+},
+{
+"id": "432",
+"label": "Plaut. Truc. 432",
+"text": "Num quippiam aliud me vis?"
+},
+{
+"id": "432b",
+"label": "Plaut. Truc. 432b",
+"text": "Vt quando otium"
+},
+{
+"id": "433",
+"label": "Plaut. Truc. 433",
+"text": "tibi sit ad me revisas, et valeas.—"
+},
+{
+"id": "433b",
+"label": "Plaut. Truc. 433b",
+"text": "Vale."
+},
+{
+"id": "434",
+"label": "Plaut. Truc. 434",
+"text": "pro di immortales, non amantis mulieris,"
+},
+{
+"id": "435",
+"label": "Plaut. Truc. 435",
+"text": "sed sociae únanimantis, fidentis fuit"
+},
+{
+"id": "436",
+"label": "Plaut. Truc. 436",
+"text": "officium facere quod modo haec fecit mihi,"
+},
+{
+"id": "437",
+"label": "Plaut. Truc. 437",
+"text": "suppositionem pueri quae mihi credidit,"
+},
+{
+"id": "438",
+"label": "Plaut. Truc. 438",
+"text": "germanae quod sorori non credit soror."
+},
+{
+"id": "439",
+"label": "Plaut. Truc. 439",
+"text": "ostendit sese iam mihi medullitus:"
+},
+{
+"id": "440",
+"label": "Plaut. Truc. 440",
+"text": "scio mi ínfidelem numquam, dum vivat, fore."
+},
+{
+"id": "441",
+"label": "Plaut. Truc. 441",
+"text": "egone illam ut non amem? egone illi ut non bene velim?"
+},
+{
+"id": "442",
+"label": "Plaut. Truc. 442",
+"text": "me potius non amabo quam huic desit amor."
+},
+{
+"id": "443",
+"label": "Plaut. Truc. 443",
+"text": "ego istí non munus mittam? iam † modo ex hoc loco"
+},
+{
+"id": "444",
+"label": "Plaut. Truc. 444",
+"text": "iubebo ad istam quinque deferri minas,"
+},
+{
+"id": "445",
+"label": "Plaut. Truc. 445",
+"text": "praeterea obsonari una dumtaxat mina."
+},
+{
+"id": "446",
+"label": "Plaut. Truc. 446",
+"text": "multo illi potius bene erit quae bene volt mihi,"
+},
+{
+"id": "447",
+"label": "Plaut. Truc. 447",
+"text": "quam mihi, qui mihimet omnia facio mala.—"
+},
+{
+"id": "448",
+"label": "Plaut. Truc. 448",
+"text": "Puero ísti date mammam. út miserae"
+},
+{
+"id": "449_450",
+"label": "Plaut. Truc. 449_450",
+"text": "matrés sollicitaeque éx animo sumus crúciamurque!"
+},
+{
+"id": "451",
+"label": "Plaut. Truc. 451",
+"text": "edepól commentum mále, cumque eam rem in córde agito,"
+},
+{
+"id": "452",
+"label": "Plaut. Truc. 452",
+"text": "nimió—minus perhibemúr malae quam sumus íngenio."
+},
+{
+"id": "453",
+"label": "Plaut. Truc. 453",
+"text": "egó prima dé me, domó docta, díco."
+},
+{
+"id": "454_455",
+"label": "Plaut. Truc. 454_455",
+"text": "quanta ést cura in animo, quantum corde capio"
+},
+{
+"id": "456",
+"label": "Plaut. Truc. 456",
+"text": "dolorem—dolus ne occidat morte pueri:"
+},
+{
+"id": "457",
+"label": "Plaut. Truc. 457",
+"text": "mater dicta quod sum, eo magis studeo vitae;"
+},
+{
+"id": "458",
+"label": "Plaut. Truc. 458",
+"text": "quae ausa hunc sum, tantundem dolum nunc adgrediar."
+},
+{
+"id": "459",
+"label": "Plaut. Truc. 459",
+"text": "lucri causa avara probrum sum exsecuta,"
+},
+{
+"id": "460",
+"label": "Plaut. Truc. 460",
+"text": "alienos dolores mihi supposivi;"
+},
+{
+"id": "461",
+"label": "Plaut. Truc. 461",
+"text": "sed nullam rem oportet dolose adgrediri,"
+},
+{
+"id": "462",
+"label": "Plaut. Truc. 462",
+"text": "nisi astu totam accurateque exsequare."
+},
+{
+"id": "463",
+"label": "Plaut. Truc. 463",
+"text": "vosmet iam videtis, ut ornata incedo:"
+},
+{
+"id": "464",
+"label": "Plaut. Truc. 464",
+"text": "puerperio ego nunc med esse aegram adsimulo."
+},
+{
+"id": "465",
+"label": "Plaut. Truc. 465",
+"text": "mále quod mulier fácere incepit, nísi id efficere pérpetrat,"
+},
+{
+"id": "466",
+"label": "Plaut. Truc. 466",
+"text": "id illi morbo, id illi seniost, ea illi miserae miseriast;"
+},
+{
+"id": "467",
+"label": "Plaut. Truc. 467",
+"text": "bene si facere incepit, eius rei nimis cito odium percipit."
+},
+{
+"id": "468",
+"label": "Plaut. Truc. 468",
+"text": "nimis quam paucae sunt defessae, male quae facere occeperunt,"
+},
+{
+"id": "469",
+"label": "Plaut. Truc. 469",
+"text": "nimisque paucae efficiunt, si quid facere occeperunt bene:"
+},
+{
+"id": "470",
+"label": "Plaut. Truc. 470",
+"text": "mulieri nimio male facere levius onus est quam bene."
+},
+{
+"id": "471",
+"label": "Plaut. Truc. 471",
+"text": "ego quod mala sum, matris opera mala sum et meapte malitia,"
+},
+{
+"id": "472",
+"label": "Plaut. Truc. 472",
+"text": "quae me gravidam esse adsimulavi militi Babylonio:"
+},
+{
+"id": "473",
+"label": "Plaut. Truc. 473",
+"text": "eam nunc malitiam accuratam miles inveniat volo."
+},
+{
+"id": "474",
+"label": "Plaut. Truc. 474",
+"text": "is hic haud multo post, credo, aderit; nunc prius praecaveo sciens"
+},
+{
+"id": "475",
+"label": "Plaut. Truc. 475",
+"text": "sumque ornata ita ut aegra videar, quasi puerperio cubem."
+},
+{
+"id": "476",
+"label": "Plaut. Truc. 476",
+"text": "date mi huc stactam atque ignem in aram, ut venerem Lucinam meam."
+},
+{
+"id": "477",
+"label": "Plaut. Truc. 477",
+"text": "hic apponite atque abite ab oculis. eho, Pithecium,"
+},
+{
+"id": "478",
+"label": "Plaut. Truc. 478",
+"text": "face ut accumbam, accede, adiuta. em sic decet puerperam."
+},
+{
+"id": "479",
+"label": "Plaut. Truc. 479",
+"text": "soleas mihi deduce, pallium inice in me huc, Archilis."
+},
+{
+"id": "480",
+"label": "Plaut. Truc. 480",
+"text": "ubi es, Astaphium? fer huc verbenam mi intus et bellaria."
+},
+{
+"id": "481",
+"label": "Plaut. Truc. 481",
+"text": "date aquam manibus. nunc ecastor adveniat miles velim."
+},
+{
+"id": "482",
+"label": "Plaut. Truc. 482",
+"text": "Ne expectetis, spectatores, meas pugnas dum praedicem:"
+},
+{
+"id": "483",
+"label": "Plaut. Truc. 483",
+"text": "manibus duella praedicare soleo, haud in sermonibus."
+},
+{
+"id": "484",
+"label": "Plaut. Truc. 484",
+"text": "scio ego multos memoravisse milites mendacium:"
+},
+{
+"id": "485",
+"label": "Plaut. Truc. 485",
+"text": "et Homeronida et postilla mille memorari pote,"
+},
+{
+"id": "486",
+"label": "Plaut. Truc. 486",
+"text": "qui et convicti et condemnati falsis de pugnis sient."
+},
+{
+"id": "487",
+"label": "Plaut. Truc. 487",
+"text": "non laudandust cui plus credit qui audit quam ille qui videt:"
+},
+{
+"id": "489",
+"label": "Plaut. Truc. 489",
+"text": "pluris est oculatus testis unus quam auriti decem;"
+},
+{
+"id": "490",
+"label": "Plaut. Truc. 490",
+"text": "qui audiunt audita dicunt, qui vident plane sciunt."
+},
+{
+"id": "491",
+"label": "Plaut. Truc. 491",
+"text": "non placet quem scurrae laudant, manipularis mussitant,"
+},
+{
+"id": "492",
+"label": "Plaut. Truc. 492",
+"text": "neque illi quorum lingua gladiorum aciem praestringit domi."
+},
+{
+"id": "493",
+"label": "Plaut. Truc. 493",
+"text": "strenui nimio plus prosunt populo quam arguti et cati:"
+},
+{
+"id": "494",
+"label": "Plaut. Truc. 494",
+"text": "facile sibi facunditatem virtus argutam invenit,"
+},
+{
+"id": "495",
+"label": "Plaut. Truc. 495",
+"text": "sine virtute argutum civem mihi habeam pro praefica,"
+},
+{
+"id": "496",
+"label": "Plaut. Truc. 496",
+"text": "quae alios conlaudat, eapse sese vero non potest."
+},
+{
+"id": "497",
+"label": "Plaut. Truc. 497",
+"text": "nunc ad amicam decimo mense post Athenas Atticas"
+},
+{
+"id": "498",
+"label": "Plaut. Truc. 498",
+"text": "viso, quam gravidam hic reliqui meo compressu, quid ea agat."
+},
+{
+"id": "499",
+"label": "Plaut. Truc. 499",
+"text": "Vide quis loquitur tam propinque."
+},
+{
+"id": "499b",
+"label": "Plaut. Truc. 499b",
+"text": "Miles, mea Phronesium,"
+},
+{
+"id": "500",
+"label": "Plaut. Truc. 500",
+"text": "tibi adest Stratophanes. nunc tibi opust, aegram ut te adsimules."
+},
+{
+"id": "500b",
+"label": "Plaut. Truc. 500b",
+"text": "Tace."
+},
+{
+"id": "501",
+"label": "Plaut. Truc. 501",
+"text": "cuí adhuc ego tam mala eram monetrix, me maleficio vinceres?"
+},
+{
+"id": "502",
+"label": "Plaut. Truc. 502",
+"text": "Peperit mulier, ut ego opinor."
+},
+{
+"id": "502b",
+"label": "Plaut. Truc. 502b",
+"text": "Vin adeam ad hominem?"
+},
+{
+"id": "502c",
+"label": "Plaut. Truc. 502c",
+"text": "Volo."
+},
+{
+"id": "503",
+"label": "Plaut. Truc. 503",
+"text": "Euge, Astaphium eccam it mi advorsum."
+},
+{
+"id": "503b",
+"label": "Plaut. Truc. 503b",
+"text": "Salve ecastor, Stratophanes."
+},
+{
+"id": "504",
+"label": "Plaut. Truc. 504",
+"text": "salvom te—"
+},
+{
+"id": "504b",
+"label": "Plaut. Truc. 504b",
+"text": "Scio. sed peperitne, ópsecro, Phronesium?"
+},
+{
+"id": "505",
+"label": "Plaut. Truc. 505",
+"text": "Peperit puerum nimium lepidum."
+},
+{
+"id": "505b",
+"label": "Plaut. Truc. 505b",
+"text": "Ehem, ecquid mei similest?"
+},
+{
+"id": "505c",
+"label": "Plaut. Truc. 505c",
+"text": "Rogas?"
+},
+{
+"id": "506",
+"label": "Plaut. Truc. 506",
+"text": "quin ubí natust machaeram et clupeum poscebat sibi?"
+},
+{
+"id": "507",
+"label": "Plaut. Truc. 507",
+"text": "Meus est, scio iam de argumentis."
+},
+{
+"id": "507b",
+"label": "Plaut. Truc. 507b",
+"text": "Nimium tuí similest."
+},
+{
+"id": "507c",
+"label": "Plaut. Truc. 507c",
+"text": "Papae,"
+},
+{
+"id": "508",
+"label": "Plaut. Truc. 508",
+"text": "iam magnust? iamne iit ad legionem? ecquae spolia rettulit?"
+},
+{
+"id": "509",
+"label": "Plaut. Truc. 509",
+"text": "Heia, nudius quintus natus ille quidem est."
+},
+{
+"id": "509b",
+"label": "Plaut. Truc. 509b",
+"text": "Quid postea?"
+},
+{
+"id": "510",
+"label": "Plaut. Truc. 510",
+"text": "inter tot dies quidem hercle iam aliquid actum oportuit."
+},
+{
+"id": "511",
+"label": "Plaut. Truc. 511",
+"text": "quid illi ex utero exitiost prius quam poterat ire in proelium?"
+},
+{
+"id": "512",
+"label": "Plaut. Truc. 512",
+"text": "Consequere atque illam saluta et gratulare illi."
+},
+{
+"id": "512b",
+"label": "Plaut. Truc. 512b",
+"text": "Sequor."
+},
+{
+"id": "513",
+"label": "Plaut. Truc. 513",
+"text": "Vbi illa, óbsecro, est quae me hic reliquit, eapse abiit? ubist?"
+},
+{
+"id": "514",
+"label": "Plaut. Truc. 514",
+"text": "Adsum, adduco tibi exoptatum Stratophanem."
+},
+{
+"id": "514b",
+"label": "Plaut. Truc. 514b",
+"text": "Vbi is est, obsecro?"
+},
+{
+"id": "515",
+"label": "Plaut. Truc. 515",
+"text": "Mars peregre adveniens salutat Nerienem uxorem suam."
+},
+{
+"id": "516",
+"label": "Plaut. Truc. 516",
+"text": "quom tu recte provenisti quomque es aucta liberis,"
+},
+{
+"id": "517",
+"label": "Plaut. Truc. 517",
+"text": "gratulor, quom mihi tibique magnum peperisti decus."
+},
+{
+"id": "518",
+"label": "Plaut. Truc. 518",
+"text": "Salve, qui me interfecisti paene vita et lumine"
+},
+{
+"id": "519",
+"label": "Plaut. Truc. 519",
+"text": "quique mihi magni doloris per voluptatem tuam"
+},
+{
+"id": "520",
+"label": "Plaut. Truc. 520",
+"text": "condidisti in corpus, quo nunc etiam morbo misera sum."
+},
+{
+"id": "521",
+"label": "Plaut. Truc. 521",
+"text": "Heia, haud ab re, mea voluptas, tibi istic obvenit labos:"
+},
+{
+"id": "522",
+"label": "Plaut. Truc. 522",
+"text": "filium peperisti, qui aedis spoliis opplebit tuas."
+},
+{
+"id": "523",
+"label": "Plaut. Truc. 523",
+"text": "Multo ecastor magis oppletis tritici ópust granariis,"
+},
+{
+"id": "524",
+"label": "Plaut. Truc. 524",
+"text": "ne, ille prius quam spolia capiat, hic nos extinxit fames."
+},
+{
+"id": "525",
+"label": "Plaut. Truc. 525",
+"text": "Habe bonum animum."
+},
+{
+"id": "525b",
+"label": "Plaut. Truc. 525b",
+"text": "Savium pete hinc sis. ah, nequeo caput"
+},
+{
+"id": "526",
+"label": "Plaut. Truc. 526",
+"text": "tollere, ita dolet itaque ego † medulo, neque etiam queo"
+},
+{
+"id": "527",
+"label": "Plaut. Truc. 527",
+"text": "pedibus mea sponte ambulare."
+},
+{
+"id": "527b",
+"label": "Plaut. Truc. 527b",
+"text": "Si hercle me ex medio mari"
+},
+{
+"id": "528",
+"label": "Plaut. Truc. 528",
+"text": "savium petere tuom iubeas, petere hau pigeat , mel meum."
+},
+{
+"id": "529",
+"label": "Plaut. Truc. 529",
+"text": "id ita esse experta es: nunc experiere, mea Phronesium,"
+},
+{
+"id": "530",
+"label": "Plaut. Truc. 530",
+"text": "me te amare. adduxi ancillas tibi eccas ex Suria duas,"
+},
+{
+"id": "531",
+"label": "Plaut. Truc. 531",
+"text": "is te dono. adduce hoc tu istas. sed istae reginae domi"
+},
+{
+"id": "532",
+"label": "Plaut. Truc. 532",
+"text": "suae fuerunt ambae, earum patriam ego excidi manu."
+},
+{
+"id": "533",
+"label": "Plaut. Truc. 533",
+"text": "his te dono."
+},
+{
+"id": "533b",
+"label": "Plaut. Truc. 533b",
+"text": "Paenitetne te quot ancillas alam,"
+},
+{
+"id": "534",
+"label": "Plaut. Truc. 534",
+"text": "quin examen super adducas, quae mihi comedint cibum?"
+},
+{
+"id": "535",
+"label": "Plaut. Truc. 535",
+"text": "Hoc quidem herclést ingratum donum. cedo tu mi istam purpuram."
+},
+{
+"id": "536",
+"label": "Plaut. Truc. 536",
+"text": "mea voluptas, attuli eccam pallulam ex Phrygia tibi."
+},
+{
+"id": "537",
+"label": "Plaut. Truc. 537",
+"text": "tene tibi."
+},
+{
+"id": "537b",
+"label": "Plaut. Truc. 537b",
+"text": "Hocine mi ob labores tantos tantillum dari?"
+},
+{
+"id": "538",
+"label": "Plaut. Truc. 538",
+"text": "Perii hercle ego miser. iam mi auro contra constat filius:"
+},
+{
+"id": "539",
+"label": "Plaut. Truc. 539",
+"text": "†etiam num mali pendit addit purpuram. ex Arabia tibi"
+},
+{
+"id": "540",
+"label": "Plaut. Truc. 540",
+"text": "attuli tus, Ponto amomum. tene tibi, voluptas mea."
+},
+{
+"id": "541",
+"label": "Plaut. Truc. 541",
+"text": "Accipe hoc, Astaphium, abduce hasce hinc e conspectu Suras."
+},
+{
+"id": "542",
+"label": "Plaut. Truc. 542",
+"text": "Ecquid amas me?"
+},
+{
+"id": "542b",
+"label": "Plaut. Truc. 542b",
+"text": "Nihil ecastor, neque meres."
+},
+{
+"id": "542c",
+"label": "Plaut. Truc. 542c",
+"text": "Nilne huic sat est?"
+},
+{
+"id": "543",
+"label": "Plaut. Truc. 543",
+"text": "ne bonum verbum quidem unum dixit. viginti minis"
+},
+{
+"id": "544",
+"label": "Plaut. Truc. 544",
+"text": "venire illaec posse credo dona quae ei dono dedi."
+},
+{
+"id": "545",
+"label": "Plaut. Truc. 545",
+"text": "vehementer nunc mi est irata, sentio atque intellego;"
+},
+{
+"id": "546",
+"label": "Plaut. Truc. 546",
+"text": "verum abibo. quid ais? nunc tu num nevis mé, voluptas mea,"
+},
+{
+"id": "547",
+"label": "Plaut. Truc. 547",
+"text": "quo vocatus sum ire ad cenam? mox huc cubitum venero."
+},
+{
+"id": "548",
+"label": "Plaut. Truc. 548",
+"text": "quid taces? planissume edepol perii. sed quid illuc novi est?"
+},
+{
+"id": "549",
+"label": "Plaut. Truc. 549",
+"text": "quis hic homost, qui ducit pompam tantam? certumst quo ferant"
+},
+{
+"id": "550",
+"label": "Plaut. Truc. 550",
+"text": "observare. huic credo fertur. verum iam scibo magis."
+},
+{
+"id": "551",
+"label": "Plaut. Truc. 551",
+"text": "Ite íte hac simúl, mulierí damnigéruli,"
+},
+{
+"id": "552",
+"label": "Plaut. Truc. 552",
+"text": "forás egerónes, bonórum exagógae."
+},
+{
+"id": "553",
+"label": "Plaut. Truc. 553",
+"text": "satin, sí quis amat, nequit quín nihili sit atque ímprobis se artibus éxpoliat?"
+},
+{
+"id": "554",
+"label": "Plaut. Truc. 554",
+"text": "nam hóc qui sciám, ne quis íd quaerat éx me,"
+},
+{
+"id": "555",
+"label": "Plaut. Truc. 555",
+"text": "domist qui facit improba facta amator,"
+},
+{
+"id": "556",
+"label": "Plaut. Truc. 556",
+"text": "qui bona sua pro stercore habet, foras iubet ferri, metuit"
+},
+{
+"id": "557",
+"label": "Plaut. Truc. 557",
+"text": "ne apud nos non mundissimum sit;"
+},
+{
+"id": "558",
+"label": "Plaut. Truc. 558",
+"text": "puras sibi esse volt aedis: domi quidquid habet, eicitur ἔξω."
+},
+{
+"id": "559",
+"label": "Plaut. Truc. 559",
+"text": "quándoquidem ipsus pérditum se it, sécreto hercle equidem éum adiutabo,"
+},
+{
+"id": "560",
+"label": "Plaut. Truc. 560",
+"text": "néque mea quidem ópera umquam hilo mínus propere quam póte peribit."
+},
+{
+"id": "561",
+"label": "Plaut. Truc. 561",
+"text": "nám iam de hoc obsónio de mína deminui uná modo"
+},
+{
+"id": "562",
+"label": "Plaut. Truc. 562",
+"text": "quínque nummos: míhi detraxi pártem Herculáneam."
+},
+{
+"id": "563",
+"label": "Plaut. Truc. 563",
+"text": "nam hoc adsimile est quasi de fluvio quí aquam derivat sibi:"
+},
+{
+"id": "564",
+"label": "Plaut. Truc. 564",
+"text": "nisi derivetur, tamen omnis ea aqua ábeat in mare;"
+},
+{
+"id": "565",
+"label": "Plaut. Truc. 565",
+"text": "nam hoc in mare abit misereque perit sine bona omni gratia."
+},
+{
+"id": "566",
+"label": "Plaut. Truc. 566",
+"text": "haec cúm video fierí, suffuror súppilo,"
+},
+{
+"id": "567",
+"label": "Plaut. Truc. 567",
+"text": "de praéda praedam cápio."
+},
+{
+"id": "568",
+"label": "Plaut. Truc. 568",
+"text": "meretrícem ego item esse reór, mare ut est:"
+},
+{
+"id": "569",
+"label": "Plaut. Truc. 569",
+"text": "quod dés devorát nec datís umquam abúndat."
+},
+{
+"id": "570",
+"label": "Plaut. Truc. 570",
+"text": "hoc sáltem: rem sérvat nec úlli ubi sit appáret:"
+},
+{
+"id": "571",
+"label": "Plaut. Truc. 571",
+"text": "dés quantumvis, nusquam apparet, neque datori neque acceptrici."
+},
+{
+"id": "572",
+"label": "Plaut. Truc. 572",
+"text": "velut haéc meretrix meum erúm miserum sua blánditia"
+},
+{
+"id": "573",
+"label": "Plaut. Truc. 573",
+"text": "paene íntulit in paupériem:"
+},
+{
+"id": "574",
+"label": "Plaut. Truc. 574",
+"text": "privábit bonís, luce, honóre atque amícis."
+},
+{
+"id": "575",
+"label": "Plaut. Truc. 575",
+"text": "áttat, eccam adest propinque. credo audisse haec me loqui."
+},
+{
+"id": "576",
+"label": "Plaut. Truc. 576",
+"text": "pallida est, ut peperit puerum. ádloquar quasi nesciam."
+},
+{
+"id": "577",
+"label": "Plaut. Truc. 577",
+"text": "iubeo vos salvere."
+},
+{
+"id": "577b",
+"label": "Plaut. Truc. 577b",
+"text": "Noster Cyame, quid agis? ut vales?"
+},
+{
+"id": "578",
+"label": "Plaut. Truc. 578",
+"text": "Valeo, et venio ad minus valentem, et melius qui valeat fero."
+},
+{
+"id": "579",
+"label": "Plaut. Truc. 579",
+"text": "erus meús, ocellus tuos, ád te ferre me haec iussit tibi"
+},
+{
+"id": "580",
+"label": "Plaut. Truc. 580",
+"text": "dona quae vides íllos ferre, et has quinque argenti minas."
+},
+{
+"id": "581",
+"label": "Plaut. Truc. 581",
+"text": "Pol haúd perit quod illum tántum amo."
+},
+{
+"id": "582",
+"label": "Plaut. Truc. 582",
+"text": "Iússit oráre, ut haec gráta haberés tibi."
+},
+{
+"id": "583",
+"label": "Plaut. Truc. 583",
+"text": "Grata ácceptaque ecastór habeo. iube vása auferri intro, i Cyame."
+},
+{
+"id": "584",
+"label": "Plaut. Truc. 584",
+"text": "Écquid audítis, haec quaé iam Cyamo ímperat?"
+},
+{
+"id": "585",
+"label": "Plaut. Truc. 585",
+"text": "Vása nolo aúferant: désiccarí iube."
+},
+{
+"id": "586",
+"label": "Plaut. Truc. 586",
+"text": "Ímpudens mecástor, Cyame, es."
+},
+{
+"id": "586b",
+"label": "Plaut. Truc. 586b",
+"text": "Égone?"
+},
+{
+"id": "586c",
+"label": "Plaut. Truc. 586c",
+"text": "Tu."
+},
+{
+"id": "586d",
+"label": "Plaut. Truc. 586d",
+"text": "Boná fide?"
+},
+{
+"id": "587",
+"label": "Plaut. Truc. 587",
+"text": "tune ais me ímpudentem esse, ipsa quae sis stabulum flagiti?"
+},
+{
+"id": "588",
+"label": "Plaut. Truc. 588",
+"text": "Díc, amabó te, ubi est Díniarchús?"
+},
+{
+"id": "588b",
+"label": "Plaut. Truc. 588b",
+"text": "Domi."
+},
+{
+"id": "589",
+"label": "Plaut. Truc. 589",
+"text": "Díc ob haec dóna, quae ad mé hodie míserit,"
+},
+{
+"id": "590",
+"label": "Plaut. Truc. 590",
+"text": "me íllum amare plurimum ómnium hominum merito,"
+},
+{
+"id": "591",
+"label": "Plaut. Truc. 591",
+"text": "méque honorem ílli habere ómnium máxumum,"
+},
+{
+"id": "592",
+"label": "Plaut. Truc. 592",
+"text": "átque ut huc véniat ad me óbsecrare."
+},
+{
+"id": "592b",
+"label": "Plaut. Truc. 592b",
+"text": "Ílicet."
+},
+{
+"id": "593",
+"label": "Plaut. Truc. 593",
+"text": "séd quisnam illic homóst, qui ipsus se cómest, tristis, oculís malis?"
+},
+{
+"id": "594",
+"label": "Plaut. Truc. 594",
+"text": "ánimo hercle homost suo miser,"
+},
+{
+"id": "595",
+"label": "Plaut. Truc. 595",
+"text": "quísquis est."
+},
+{
+"id": "595b",
+"label": "Plaut. Truc. 595b",
+"text": "Dignúst mecastor. néquam est. non nosti, óbsecro,"
+},
+{
+"id": "596",
+"label": "Plaut. Truc. 596",
+"text": "militem, hic apud me quí erat? huius pater pueri illic est."
+},
+{
+"id": "597",
+"label": "Plaut. Truc. 597",
+"text": "úsque abegi, áspuli, iússi abiret; tamen"
+},
+{
+"id": "598",
+"label": "Plaut. Truc. 598",
+"text": "mánsit: auscultát, observat quám rem agam."
+},
+{
+"id": "598b",
+"label": "Plaut. Truc. 598b",
+"text": "Novi hóminem nihili."
+},
+{
+"id": "599",
+"label": "Plaut. Truc. 599",
+"text": "íllicinest?"
+},
+{
+"id": "599b",
+"label": "Plaut. Truc. 599b",
+"text": "Íllic est."
+},
+{
+"id": "599c",
+"label": "Plaut. Truc. 599c",
+"text": "Me íntuetúr gemens;"
+},
+{
+"id": "600",
+"label": "Plaut. Truc. 600",
+"text": "traxit ex intimo ventre suspiritum."
+},
+{
+"id": "601",
+"label": "Plaut. Truc. 601",
+"text": "hoc vide, dentibus frendit, icit femur;"
+},
+{
+"id": "602",
+"label": "Plaut. Truc. 602",
+"text": "num obsecro nam hariolust, qui ipsus se verberat?"
+},
+{
+"id": "603",
+"label": "Plaut. Truc. 603",
+"text": "Nunc égo meos animos víolentos meamque íram ex pectore iám promam."
+},
+{
+"id": "604_605",
+"label": "Plaut. Truc. 604_605",
+"text": "loquere: únde es? cuius es? cúr ausu's ausus es mi inclémenter dicére?"
+},
+{
+"id": "604_605b",
+"label": "Plaut. Truc. 604_605b",
+"text": "Lubitumst."
+},
+{
+"id": "606",
+"label": "Plaut. Truc. 606",
+"text": "Istúcine mihi respóndes?"
+},
+{
+"id": "606b",
+"label": "Plaut. Truc. 606b",
+"text": "Hoc. non égo te flocci fácio."
+},
+{
+"id": "607",
+"label": "Plaut. Truc. 607",
+"text": "Quid tú? cur ausa es álium te dicére amare hominem?"
+},
+{
+"id": "607b",
+"label": "Plaut. Truc. 607b",
+"text": "Lúbitumst."
+},
+{
+"id": "608",
+"label": "Plaut. Truc. 608",
+"text": "Ain tándem? istuc primum éxperiar. tun tántilli doní causa,"
+},
+{
+"id": "609_610",
+"label": "Plaut. Truc. 609_610",
+"text": "holerum átque escarum et póscarum, moechúm malacum, cincínnatum,"
+},
+{
+"id": "611",
+"label": "Plaut. Truc. 611",
+"text": "umbráticulum, tympánotribam amás, hominem non nauci?"
+},
+{
+"id": "611b",
+"label": "Plaut. Truc. 611b",
+"text": "Quae haéc res?"
+},
+{
+"id": "612",
+"label": "Plaut. Truc. 612",
+"text": "meone , ímprobe tu, male dícere ero audés, fons viti et peiúri?"
+},
+{
+"id": "613",
+"label": "Plaut. Truc. 613",
+"text": "Verbum únum adde istoc: iam hércle ego te hic hac óffatim confíciam."
+},
+{
+"id": "614",
+"label": "Plaut. Truc. 614",
+"text": "Tangé modo, iám ego te hic agnum faciam ét medium distrúncabo."
+},
+{
+"id": "615",
+"label": "Plaut. Truc. 615",
+"text": "si tu ín legione béllator clues, át ego in culina clúeo."
+},
+{
+"id": "616",
+"label": "Plaut. Truc. 616",
+"text": "Si aequóm facias, advéntores meos nón incuses, quórum"
+},
+{
+"id": "617",
+"label": "Plaut. Truc. 617",
+"text": "mihi dóna accepta et gráta habeo, tuaque íngrata, quae abs te áccepi."
+},
+{
+"id": "618",
+"label": "Plaut. Truc. 618",
+"text": "Tum pól ego et donis prívatus sum et périi."
+},
+{
+"id": "618b",
+"label": "Plaut. Truc. 618b",
+"text": "Plane istúc est."
+},
+{
+"id": "619",
+"label": "Plaut. Truc. 619",
+"text": "Quíd nunc ergo hic ódiosu's odiosus es , confessus omnino reus?"
+},
+{
+"id": "620",
+"label": "Plaut. Truc. 620",
+"text": "Périi hercle hodie, nísi hunc a te abigo."
+},
+{
+"id": "620b",
+"label": "Plaut. Truc. 620b",
+"text": "Áccede huc modo, adi húc modo."
+},
+{
+"id": "621",
+"label": "Plaut. Truc. 621",
+"text": "Étiam, scelus virí, minitare? quém ego iam iam cóncipilabo."
+},
+{
+"id": "622",
+"label": "Plaut. Truc. 622",
+"text": "quíd tibi huc ventio est? quíd tibi hanc áditio est?"
+},
+{
+"id": "623",
+"label": "Plaut. Truc. 623",
+"text": "quid tibi hanc notio est, inquam, amicam meam?"
+},
+{
+"id": "624",
+"label": "Plaut. Truc. 624",
+"text": "emoriere ocius, ni manu viceris."
+},
+{
+"id": "625",
+"label": "Plaut. Truc. 625",
+"text": "Quid, manu vicerim?"
+},
+{
+"id": "625b",
+"label": "Plaut. Truc. 625b",
+"text": "Fac quod iussi, mane."
+},
+{
+"id": "626",
+"label": "Plaut. Truc. 626",
+"text": "iam égo te hic offatím conficiam, síc occidi te óptumum est."
+},
+{
+"id": "627",
+"label": "Plaut. Truc. 627",
+"text": "Cáptiost: istám machaeram lóngiorem habes quam haéc est."
+},
+{
+"id": "628",
+"label": "Plaut. Truc. 628",
+"text": "séd verum me sine dum petere: siquidem belligerandum est tecum,"
+},
+{
+"id": "629",
+"label": "Plaut. Truc. 629",
+"text": "adero, dum ego tecum, bellator, arbitrum aequom ceperim."
+},
+{
+"id": "630",
+"label": "Plaut. Truc. 630",
+"text": "sed ego cesso hinc me amoliri, ventre dum salvo licet?—"
+},
+{
+"id": "631",
+"label": "Plaut. Truc. 631",
+"text": "Datin sóleas? atque me intro actutum ducite,"
+},
+{
+"id": "632",
+"label": "Plaut. Truc. 632",
+"text": "nam mihi de vento miserae condoluit caput.—"
+},
+{
+"id": "633",
+"label": "Plaut. Truc. 633",
+"text": "Quid mihi futurum est, cui duae ancillae dolent,"
+},
+{
+"id": "634",
+"label": "Plaut. Truc. 634",
+"text": "quibus té donavi? iamne abiisti? em sic datur."
+},
+{
+"id": "635",
+"label": "Plaut. Truc. 635",
+"text": "quo pacto excludi, quaeso, potui planius,"
+},
+{
+"id": "636",
+"label": "Plaut. Truc. 636",
+"text": "quam exclusus nunc sum? púlcre ludificor. sine."
+},
+{
+"id": "637",
+"label": "Plaut. Truc. 637",
+"text": "quantillo mi opere nunc persuaderi potest,"
+},
+{
+"id": "638",
+"label": "Plaut. Truc. 638",
+"text": "ut ego his suffringam talos totis aedibus."
+},
+{
+"id": "639",
+"label": "Plaut. Truc. 639",
+"text": "num quippiam tam immutat mores mulierum?"
+},
+{
+"id": "640",
+"label": "Plaut. Truc. 640",
+"text": "postquam filiolum peperit, animos sustulit."
+},
+{
+"id": "641",
+"label": "Plaut. Truc. 641",
+"text": "nunc quasi mi dicat: nec te iubeo neque voto"
+},
+{
+"id": "642",
+"label": "Plaut. Truc. 642",
+"text": "intro ire in aedis. at ego nolo, non eo."
+},
+{
+"id": "643",
+"label": "Plaut. Truc. 643",
+"text": "ego faxo dicat me in diebus pauculis"
+},
+{
+"id": "644",
+"label": "Plaut. Truc. 644",
+"text": "crudum virum esse. sequere me hac. verbum sat est.—"
+},
+{
+"id": "645",
+"label": "Plaut. Truc. 645",
+"text": "Rus mane dudum hinc ire me iussit pater,"
+},
+{
+"id": "646",
+"label": "Plaut. Truc. 646",
+"text": "ut bubus glandem prandio depromerem."
+},
+{
+"id": "647",
+"label": "Plaut. Truc. 647",
+"text": "post illoc quam veni, advenit, si dis placet,"
+},
+{
+"id": "648",
+"label": "Plaut. Truc. 648",
+"text": "ad villam argentum meo qui debebat patri,"
+},
+{
+"id": "649",
+"label": "Plaut. Truc. 649",
+"text": "qui ovis Tarentínas erat mercatus de patre."
+},
+{
+"id": "650",
+"label": "Plaut. Truc. 650",
+"text": "quaerit patrem. dico esse in urbe. interrogo,"
+},
+{
+"id": "651",
+"label": "Plaut. Truc. 651",
+"text": "quid eum velit"
+},
+{
+"id": "652",
+"label": "Plaut. Truc. 652",
+"text": "homo cruminam sibi de collo detrahit,"
+},
+{
+"id": "653",
+"label": "Plaut. Truc. 653",
+"text": "minas viginti mihi dat. accipio libens,"
+},
+{
+"id": "654",
+"label": "Plaut. Truc. 654",
+"text": "condo in cruminam. ille abit. ego propere minas"
+},
+{
+"id": "655",
+"label": "Plaut. Truc. 655",
+"text": "ovis ín crumina hác in urbem detuli."
+},
+{
+"id": "656",
+"label": "Plaut. Truc. 656",
+"text": "fuít edepol Mars meo periratus patri,"
+},
+{
+"id": "657",
+"label": "Plaut. Truc. 657",
+"text": "nam oves illius hau longe absunt a lupis."
+},
+{
+"id": "658",
+"label": "Plaut. Truc. 658",
+"text": "nunc ego istos mundulos urbanos amasios"
+},
+{
+"id": "659",
+"label": "Plaut. Truc. 659",
+"text": "hoc ictu exponam atque omnis eiciam foras."
+},
+{
+"id": "660",
+"label": "Plaut. Truc. 660",
+"text": "eradicarest certum cumprimis patrem,"
+},
+{
+"id": "661",
+"label": "Plaut. Truc. 661",
+"text": "post id locorum matrem. nunc hoc deferam"
+},
+{
+"id": "662",
+"label": "Plaut. Truc. 662",
+"text": "argentum ad hanc, quam mage amo quam matrem meam."
+},
+{
+"id": "663",
+"label": "Plaut. Truc. 663",
+"text": "tat, ecquis intust? ecquis hoc aperit ostium?"
+},
+{
+"id": "664_665",
+"label": "Plaut. Truc. 664_665",
+"text": "Quid istúc? alienun es, amabo, mi Strabax,"
+},
+{
+"id": "666",
+"label": "Plaut. Truc. 666",
+"text": "qui non extemplo intro ieris?"
+},
+{
+"id": "666b",
+"label": "Plaut. Truc. 666b",
+"text": "Anne oportuit?"
+},
+{
+"id": "667",
+"label": "Plaut. Truc. 667",
+"text": "Ita te quidem, qui es familiaris."
+},
+{
+"id": "667b",
+"label": "Plaut. Truc. 667b",
+"text": "Ibitur,"
+},
+{
+"id": "668",
+"label": "Plaut. Truc. 668",
+"text": "ne me morari censeas.—"
+},
+{
+"id": "668b",
+"label": "Plaut. Truc. 668b",
+"text": "Lepide facis."
+},
+{
+"id": "669",
+"label": "Plaut. Truc. 669",
+"text": "Mirum videtur, rure erilem filium"
+},
+{
+"id": "670",
+"label": "Plaut. Truc. 670",
+"text": "Strabacem non rediisse; nisi si clanculum"
+},
+{
+"id": "671",
+"label": "Plaut. Truc. 671",
+"text": "conlapsus est hic in corruptelam suam."
+},
+{
+"id": "672",
+"label": "Plaut. Truc. 672",
+"text": "Iam pol illic inclamabit me si aspexerit."
+},
+{
+"id": "673",
+"label": "Plaut. Truc. 673",
+"text": "Nimio minus saévos iam sum, Astaphium, quam fui,"
+},
+{
+"id": "674",
+"label": "Plaut. Truc. 674",
+"text": "iam non ego sum truculentus, noli metuere."
+},
+{
+"id": "675",
+"label": "Plaut. Truc. 675",
+"text": "Quid vis? quid metuam? tuam expecto truculentiam."
+},
+{
+"id": "676",
+"label": "Plaut. Truc. 676",
+"text": "Dic impera mihi quid libet quo vis modo."
+},
+{
+"id": "677",
+"label": "Plaut. Truc. 677",
+"text": "novos ómnis mores habeo, veteres perdidi."
+},
+{
+"id": "678",
+"label": "Plaut. Truc. 678",
+"text": "vel amare possum vel iam scortum ducere."
+},
+{
+"id": "679",
+"label": "Plaut. Truc. 679",
+"text": "Lepide mecastor nuntias. sed dic mihi,"
+},
+{
+"id": "680",
+"label": "Plaut. Truc. 680",
+"text": "haben—"
+},
+{
+"id": "680b",
+"label": "Plaut. Truc. 680b",
+"text": "Marsipum te fortasse dicere?"
+},
+{
+"id": "681",
+"label": "Plaut. Truc. 681",
+"text": "Intellexisti lepide quid ego dicerem."
+},
+{
+"id": "682",
+"label": "Plaut. Truc. 682",
+"text": "Heus tu, iam postquam in urbem crebro commeo,"
+},
+{
+"id": "683",
+"label": "Plaut. Truc. 683",
+"text": "dicax sum factus. iam sum caullator probus."
+},
+{
+"id": "684",
+"label": "Plaut. Truc. 684",
+"text": "Quid id est, amabo? ístaec ridicularia,"
+},
+{
+"id": "685",
+"label": "Plaut. Truc. 685",
+"text": "cavillátiones, vis opinor dicere?"
+},
+{
+"id": "686",
+"label": "Plaut. Truc. 686",
+"text": "Istud pauxillum differt a cavillibus."
+},
+{
+"id": "687",
+"label": "Plaut. Truc. 687",
+"text": "Sequere intro , amabo, mea voluptas."
+},
+{
+"id": "687b",
+"label": "Plaut. Truc. 687b",
+"text": "Tene hoc tibi:"
+},
+{
+"id": "688",
+"label": "Plaut. Truc. 688",
+"text": "rabonem habeto, ut mecum hanc noctem sies."
+},
+{
+"id": "689",
+"label": "Plaut. Truc. 689",
+"text": "Perii, rabonem? quam esse dicam hanc beluam?"
+},
+{
+"id": "690",
+"label": "Plaut. Truc. 690",
+"text": "quin tu arrabonem dicis?"
+},
+{
+"id": "690b",
+"label": "Plaut. Truc. 690b",
+"text": "A facio lucri,"
+},
+{
+"id": "691",
+"label": "Plaut. Truc. 691",
+"text": "ut Praenestinis conia est ciconia."
+},
+{
+"id": "692",
+"label": "Plaut. Truc. 692",
+"text": "Sequere, obsecro."
+},
+{
+"id": "692b",
+"label": "Plaut. Truc. 692b",
+"text": "Strabacem hic opperiar modo,"
+},
+{
+"id": "693",
+"label": "Plaut. Truc. 693",
+"text": "si rure veniat."
+},
+{
+"id": "693b",
+"label": "Plaut. Truc. 693b",
+"text": "Is quidem hic ápud nos est Strabax,"
+},
+{
+"id": "694",
+"label": "Plaut. Truc. 694",
+"text": "modo rure venit."
+},
+{
+"id": "694b",
+"label": "Plaut. Truc. 694b",
+"text": "Priusne quam ad matrem suam?"
+},
+{
+"id": "695",
+"label": "Plaut. Truc. 695",
+"text": "eu edepol hominem nihili."
+},
+{
+"id": "695b",
+"label": "Plaut. Truc. 695b",
+"text": "Iamne autem ut soles?"
+},
+{
+"id": "696",
+"label": "Plaut. Truc. 696",
+"text": "Iamne nihil dico?"
+},
+{
+"id": "696b",
+"label": "Plaut. Truc. 696b",
+"text": "I intro, amabo, cedo manum."
+},
+{
+"id": "697",
+"label": "Plaut. Truc. 697",
+"text": "Tene. in tabernam ducor devorsoriam,"
+},
+{
+"id": "698",
+"label": "Plaut. Truc. 698",
+"text": "ubi male accipiar mea mihi pecunia.—"
+},
+{
+"id": "699",
+"label": "Plaut. Truc. 699",
+"text": "Néque gnatust neque progignetur neque potest reperirier"
+},
+{
+"id": "700",
+"label": "Plaut. Truc. 700",
+"text": "cuí ego nunc aut dictum aut factum melius quam Veneri velim."
+},
+{
+"id": "701",
+"label": "Plaut. Truc. 701",
+"text": "di magni, ut ego laetus sum et laetitia differor."
+},
+{
+"id": "702",
+"label": "Plaut. Truc. 702",
+"text": "ita ad me magna nuntiavit Cyamus hodie gaudia:"
+},
+{
+"id": "703",
+"label": "Plaut. Truc. 703",
+"text": "mea dona deamata acceptaque habita esse apud Phronesium;"
+},
+{
+"id": "704",
+"label": "Plaut. Truc. 704",
+"text": "quom hoc iam volup est, tum illuc nimium magnae mellinae mihi,"
+},
+{
+"id": "705",
+"label": "Plaut. Truc. 705",
+"text": "militis odiosa ingrataque habita. totus gaudeo."
+},
+{
+"id": "706",
+"label": "Plaut. Truc. 706",
+"text": "mea pila est: si repudiatur miles, mulier mecum erit."
+},
+{
+"id": "707",
+"label": "Plaut. Truc. 707",
+"text": "salvos sum, quia pereo; si non peream, plane perierim."
+},
+{
+"id": "708",
+"label": "Plaut. Truc. 708",
+"text": "nunc speculabor quid ibi agatur, quis eat intro, qui foras"
+},
+{
+"id": "709",
+"label": "Plaut. Truc. 709",
+"text": "veniat; procul hinc observabo, meis quid fortunis fuat."
+},
+{
+"id": "710",
+"label": "Plaut. Truc. 710",
+"text": "quia nihil habeo unum animos movi mi hic omnia agam precario†"
+},
+{
+"id": "711",
+"label": "Plaut. Truc. 711",
+"text": "Lepide éfficiam meum ego ófficium: vide intús modo ut tu tuom item éfficias."
+},
+{
+"id": "712",
+"label": "Plaut. Truc. 712",
+"text": "ama, íd quod decét, rem tuam: ístum exináni."
+},
+{
+"id": "713",
+"label": "Plaut. Truc. 713",
+"text": "nunc dum isti lubet, dum habet, tempus ei rei † secundas"
+},
+{
+"id": "714",
+"label": "Plaut. Truc. 714",
+"text": "prome venustatem amanti tuam, ut gaudeat cum perdis."
+},
+{
+"id": "715",
+"label": "Plaut. Truc. 715",
+"text": "ego híc interím restitáns praesidébo,"
+},
+{
+"id": "716",
+"label": "Plaut. Truc. 716",
+"text": "istíc dum sic fáciat domum ad te exagógam;"
+},
+{
+"id": "717",
+"label": "Plaut. Truc. 717",
+"text": "nec quémquam interim ístoc ad vós, qui sit ódio,"
+},
+{
+"id": "718",
+"label": "Plaut. Truc. 718",
+"text": "intró mittam: tú perge, ut lúbet, ludo in ístoc."
+},
+{
+"id": "719",
+"label": "Plaut. Truc. 719",
+"text": "Quis ístest, Astaphium, índica, qui périt?"
+},
+{
+"id": "719b",
+"label": "Plaut. Truc. 719b",
+"text": "Amabo, hicín tu eras?"
+},
+{
+"id": "720",
+"label": "Plaut. Truc. 720",
+"text": "Moléstusne súm?"
+},
+{
+"id": "720b",
+"label": "Plaut. Truc. 720b",
+"text": "Nunc magís quam fuísti,"
+},
+{
+"id": "721",
+"label": "Plaut. Truc. 721",
+"text": "nam si quid nobis usust nobis molestus†"
+},
+{
+"id": "722",
+"label": "Plaut. Truc. 722",
+"text": "sed óbsecro, da mi óperam, ut narrem quaé volo."
+},
+{
+"id": "723",
+"label": "Plaut. Truc. 723",
+"text": "Nám quid est? núm mea réfert?"
+},
+{
+"id": "723b",
+"label": "Plaut. Truc. 723b",
+"text": "Non mússito."
+},
+{
+"id": "724",
+"label": "Plaut. Truc. 724",
+"text": "intús bolos quós dat!"
+},
+{
+"id": "724b",
+"label": "Plaut. Truc. 724b",
+"text": "Quíd? amator novos quíspiam?"
+},
+{
+"id": "725",
+"label": "Plaut. Truc. 725",
+"text": "Íntegrum et plénum adortást thensaurúm."
+},
+{
+"id": "725b",
+"label": "Plaut. Truc. 725b",
+"text": "Quis est?"
+},
+{
+"id": "726",
+"label": "Plaut. Truc. 726",
+"text": "Éloquar, sed tú taceto. nóstin tu hunc Strabácem?"
+},
+{
+"id": "726b",
+"label": "Plaut. Truc. 726b",
+"text": "Quidni?"
+},
+{
+"id": "727",
+"label": "Plaut. Truc. 727",
+"text": "Sólus summam núnc habet hic ápud nos, nunc is est fúndus nobis."
+},
+{
+"id": "728",
+"label": "Plaut. Truc. 728",
+"text": "animó bono male rem gerit."
+},
+{
+"id": "728b",
+"label": "Plaut. Truc. 728b",
+"text": "Perit hercle, ego idem"
+},
+{
+"id": "729",
+"label": "Plaut. Truc. 729",
+"text": "bona pérdidi, mala repperi, factus sum extimus a vobis."
+},
+{
+"id": "730",
+"label": "Plaut. Truc. 730",
+"text": "Stúltus es, qui facta infecta facere verbis postules."
+},
+{
+"id": "731",
+"label": "Plaut. Truc. 731",
+"text": "Thetis quoque etiam lamentando pausam fecit filio."
+},
+{
+"id": "732",
+"label": "Plaut. Truc. 732",
+"text": "Non ego nunc intro ad vos mittar?"
+},
+{
+"id": "732b",
+"label": "Plaut. Truc. 732b",
+"text": "Quidum quam miles magis?"
+},
+{
+"id": "733",
+"label": "Plaut. Truc. 733",
+"text": "Quia enim plus dedi."
+},
+{
+"id": "733b",
+"label": "Plaut. Truc. 733b",
+"text": "Plus enim es íntro missus, quom dabas:"
+},
+{
+"id": "734",
+"label": "Plaut. Truc. 734",
+"text": "sine vicissim qui dant ob illud quod dant operis utier."
+},
+{
+"id": "735",
+"label": "Plaut. Truc. 735",
+"text": "litteras didicisti: quando scis, sine alios discere."
+},
+{
+"id": "736",
+"label": "Plaut. Truc. 736",
+"text": "Discant, dum mihi commentari liceat, ni oblitus siem."
+},
+{
+"id": "737",
+"label": "Plaut. Truc. 737",
+"text": "Quid erit interea magistrae, dum tu commentabere?"
+},
+{
+"id": "738",
+"label": "Plaut. Truc. 738",
+"text": "volt illa itidem commentari."
+},
+{
+"id": "738b",
+"label": "Plaut. Truc. 738b",
+"text": "Quid?"
+},
+{
+"id": "738c",
+"label": "Plaut. Truc. 738c",
+"text": "Rem accipere identidem."
+},
+{
+"id": "739",
+"label": "Plaut. Truc. 739",
+"text": "Dedi equidem hodie: iussi ei quinque argenti deferri minas,"
+},
+{
+"id": "740",
+"label": "Plaut. Truc. 740",
+"text": "praeterea una mína obsonatum."
+},
+{
+"id": "740b",
+"label": "Plaut. Truc. 740b",
+"text": "Idem istuc delatum scio."
+},
+{
+"id": "741",
+"label": "Plaut. Truc. 741",
+"text": "de eo nunc bene sunt tua virtute."
+},
+{
+"id": "741b",
+"label": "Plaut. Truc. 741b",
+"text": "Ei, meane inimici mei"
+},
+{
+"id": "742",
+"label": "Plaut. Truc. 742",
+"text": "bona istic caedent? mortuom hercle me quam ut id pátiar mavelim."
+},
+{
+"id": "746",
+"label": "Plaut. Truc. 746",
+"text": "†Stultus quid est aperire."
+},
+{
+"id": "746b",
+"label": "Plaut. Truc. 746b",
+"text": "Quid iam?"
+},
+{
+"id": "746c",
+"label": "Plaut. Truc. 746c",
+"text": "Quia pol mavelim"
+},
+{
+"id": "743",
+"label": "Plaut. Truc. 743",
+"text": "mihi inimicos invidere, quam med inimicis meis;"
+},
+{
+"id": "744",
+"label": "Plaut. Truc. 744",
+"text": "nam invidere alii bene esse, tibi male esse, miseria est."
+},
+{
+"id": "745",
+"label": "Plaut. Truc. 745",
+"text": "qui invident egent; illis quibus invidetur, i rem habent."
+},
+{
+"id": "747",
+"label": "Plaut. Truc. 747",
+"text": "Non mei licet obsoni me participem fieri?"
+},
+{
+"id": "748",
+"label": "Plaut. Truc. 748",
+"text": "Si volebas participari, auferres dimidium domum."
+},
+{
+"id": "749",
+"label": "Plaut. Truc. 749",
+"text": "nám item ut Acherunti hic apud nos ratio accepti scribitur:"
+},
+{
+"id": "750",
+"label": "Plaut. Truc. 750",
+"text": "intro accipitur; quando acceptumst, non potest ferri foras."
+},
+{
+"id": "751",
+"label": "Plaut. Truc. 751",
+"text": "bene vale."
+},
+{
+"id": "751b",
+"label": "Plaut. Truc. 751b",
+"text": "Resiste."
+},
+{
+"id": "751c",
+"label": "Plaut. Truc. 751c",
+"text": "Omitte."
+},
+{
+"id": "751d",
+"label": "Plaut. Truc. 751d",
+"text": "A, mitte intro."
+},
+{
+"id": "751e",
+"label": "Plaut. Truc. 751e",
+"text": "Ad te quidem."
+},
+{
+"id": "752",
+"label": "Plaut. Truc. 752",
+"text": "Immo istoc ad vos volo ire."
+},
+{
+"id": "752b",
+"label": "Plaut. Truc. 752b",
+"text": "Non potest, nimium petis."
+},
+{
+"id": "753",
+"label": "Plaut. Truc. 753",
+"text": "Experiri —"
+},
+{
+"id": "753b",
+"label": "Plaut. Truc. 753b",
+"text": "Immo opperire. vis est experirier."
+},
+{
+"id": "754",
+"label": "Plaut. Truc. 754",
+"text": "Dic me adesse."
+},
+{
+"id": "754b",
+"label": "Plaut. Truc. 754b",
+"text": "Abi, occupatast. res itast, ne frustra sis."
+},
+{
+"id": "755",
+"label": "Plaut. Truc. 755",
+"text": "Redin an non redis?"
+},
+{
+"id": "755b",
+"label": "Plaut. Truc. 755b",
+"text": "Vocat me quae in me potest plus quam potes."
+},
+{
+"id": "756",
+"label": "Plaut. Truc. 756",
+"text": "Vno verbo—"
+},
+{
+"id": "756b",
+"label": "Plaut. Truc. 756b",
+"text": "Eloquere."
+},
+{
+"id": "756c",
+"label": "Plaut. Truc. 756c",
+"text": "Mittin me intro?"
+},
+{
+"id": "756d",
+"label": "Plaut. Truc. 756d",
+"text": "Mendax es, abi."
+},
+{
+"id": "757",
+"label": "Plaut. Truc. 757",
+"text": "unum aiebas, tria iam dixti verba, atque ea mendacia.—"
+},
+{
+"id": "758",
+"label": "Plaut. Truc. 758",
+"text": "Abiit intro, exclusit. egon ut haec mihi patiar fieri?"
+},
+{
+"id": "759",
+"label": "Plaut. Truc. 759",
+"text": "iam hercle egó tibi, inlecebra, ludos faciam clamore in via,"
+},
+{
+"id": "760",
+"label": "Plaut. Truc. 760",
+"text": "quae adversum legem accepisti a plurimis pecuniam;"
+},
+{
+"id": "761",
+"label": "Plaut. Truc. 761",
+"text": "iam hercle apud nóvos omnis magistrátus faxo erit nomen tuom,"
+},
+{
+"id": "762",
+"label": "Plaut. Truc. 762",
+"text": "post id égo te manum iníciam quadrupuli, venefica,"
+},
+{
+"id": "763",
+"label": "Plaut. Truc. 763",
+"text": "suppostrix puerum. égo edepol iam tua probra aperibo omnia."
+},
+{
+"id": "764",
+"label": "Plaut. Truc. 764",
+"text": "nihil me prohibet, perdidi omne quod fuit: fio impudens,"
+},
+{
+"id": "765",
+"label": "Plaut. Truc. 765",
+"text": "nec mi adeost tantillum pensi iam, quos capiam calceos."
+},
+{
+"id": "766",
+"label": "Plaut. Truc. 766",
+"text": "sed quid ego hic clamo? quid si me iubeat intromittier?"
+},
+{
+"id": "767",
+"label": "Plaut. Truc. 767",
+"text": "conceptis me non facturum verbis iurem, si velit."
+},
+{
+"id": "768",
+"label": "Plaut. Truc. 768",
+"text": "nugae sunt. si stimulos pugnis caedis, manibus plus dolet."
+},
+{
+"id": "769",
+"label": "Plaut. Truc. 769",
+"text": "de nihilo nihil est irasci, quae te non flocci facit."
+},
+{
+"id": "770",
+"label": "Plaut. Truc. 770",
+"text": "sed quid hoc ést? pro di immortales, Calliclem video senem,"
+},
+{
+"id": "771",
+"label": "Plaut. Truc. 771",
+"text": "meus qui adfinis fuit, ancillas duas constrictas ducere,"
+},
+{
+"id": "772",
+"label": "Plaut. Truc. 772",
+"text": "alteram tonstricem húius, alteram ancillam suam."
+},
+{
+"id": "773",
+"label": "Plaut. Truc. 773",
+"text": "pertimui: postquam una cura cor meum movit modo,"
+},
+{
+"id": "774",
+"label": "Plaut. Truc. 774",
+"text": "timeo ne male facta antiqua mea sint inventa omnia."
+},
+{
+"id": "775",
+"label": "Plaut. Truc. 775",
+"text": "Egon tibi male dícam tibique aut male velim? ut animus meust,"
+},
+{
+"id": "776",
+"label": "Plaut. Truc. 776",
+"text": "propemodum expertae estis, quam ego sim mitis tranquillusque homo."
+},
+{
+"id": "777",
+"label": "Plaut. Truc. 777",
+"text": "rogitavi ego vos verberatas ambas pendentis simul;"
+},
+{
+"id": "778",
+"label": "Plaut. Truc. 778",
+"text": "commemini, quo quicque pacto sitis confessae scio;"
+},
+{
+"id": "779",
+"label": "Plaut. Truc. 779",
+"text": "hic nunc volo scire eodem pacton sine malo fateamini."
+},
+{
+"id": "780",
+"label": "Plaut. Truc. 780",
+"text": "quamquam vos colubrino ingenio ambae estis, edico prius,"
+},
+{
+"id": "781",
+"label": "Plaut. Truc. 781",
+"text": "ne duplicis habeatis linguas, ne ego bilinguis vos necem,"
+},
+{
+"id": "782",
+"label": "Plaut. Truc. 782",
+"text": "nisi si ad tintinnaculos voltis vos educi viros."
+},
+{
+"id": "783",
+"label": "Plaut. Truc. 783",
+"text": "Vis subigit verum fateri, ita lora laedunt bracchia."
+},
+{
+"id": "784",
+"label": "Plaut. Truc. 784",
+"text": "At si verum mi eritis fassae, vinclis exsolvemini."
+},
+{
+"id": "785",
+"label": "Plaut. Truc. 785",
+"text": "Etiamnum quid sit negoti, falsus incertusque sum,"
+},
+{
+"id": "786",
+"label": "Plaut. Truc. 786",
+"text": "nisi quia timeo tamen, egomet quia quod peccavi scio."
+},
+{
+"id": "787",
+"label": "Plaut. Truc. 787",
+"text": "Omnium primum diversae state—em sic, istuc volo;"
+},
+{
+"id": "788",
+"label": "Plaut. Truc. 788",
+"text": "neve inter vos significetis, ego ero paries. loquere tu."
+},
+{
+"id": "789",
+"label": "Plaut. Truc. 789",
+"text": "Quid loquar?"
+},
+{
+"id": "789b",
+"label": "Plaut. Truc. 789b",
+"text": "Quid puero factumst, mea quem peperit filia,"
+},
+{
+"id": "790",
+"label": "Plaut. Truc. 790",
+"text": "meo nepote? capita rerum ede expedite."
+},
+{
+"id": "790b",
+"label": "Plaut. Truc. 790b",
+"text": "Istae dedi."
+},
+{
+"id": "791",
+"label": "Plaut. Truc. 791",
+"text": "Iam tace. accepistin puerum tú ab hac?"
+},
+{
+"id": "791b",
+"label": "Plaut. Truc. 791b",
+"text": "Accepi."
+},
+{
+"id": "791c",
+"label": "Plaut. Truc. 791c",
+"text": "Tace."
+},
+{
+"id": "792",
+"label": "Plaut. Truc. 792",
+"text": "nil moror praeterea. satis es fassa."
+},
+{
+"id": "792b",
+"label": "Plaut. Truc. 792b",
+"text": "Infitias non eo."
+},
+{
+"id": "793",
+"label": "Plaut. Truc. 793",
+"text": "Iam livorem verbo scapulis istoc concinnas tuis."
+},
+{
+"id": "794",
+"label": "Plaut. Truc. 794",
+"text": "conveniunt adhuc utriusque verba."
+},
+{
+"id": "794b",
+"label": "Plaut. Truc. 794b",
+"text": "Vae misero mihi,"
+},
+{
+"id": "795",
+"label": "Plaut. Truc. 795",
+"text": "mea nunc facinora aperiuntur, clam quae speravi fore."
+},
+{
+"id": "796",
+"label": "Plaut. Truc. 796",
+"text": "Loquere tu. qui dare te huic puerum iussit?"
+},
+{
+"id": "796b",
+"label": "Plaut. Truc. 796b",
+"text": "Era maior mea."
+},
+{
+"id": "799",
+"label": "Plaut. Truc. 799",
+"text": "Loquere tu. quid eo fecisti puero?"
+},
+{
+"id": "799b",
+"label": "Plaut. Truc. 799b",
+"text": "Ad meam eram detuli."
+},
+{
+"id": "800",
+"label": "Plaut. Truc. 800",
+"text": "Quid eo puero tua era fecit?"
+},
+{
+"id": "800b",
+"label": "Plaut. Truc. 800b",
+"text": "Erae meae extemplo dedit."
+},
+{
+"id": "801",
+"label": "Plaut. Truc. 801",
+"text": "Quoi, malum, erae?"
+},
+{
+"id": "801b",
+"label": "Plaut. Truc. 801b",
+"text": "Duae sunt istae."
+},
+{
+"id": "801c",
+"label": "Plaut. Truc. 801c",
+"text": "Cave tu nisi quod te rogo."
+},
+{
+"id": "802",
+"label": "Plaut. Truc. 802",
+"text": "ex te exquiro."
+},
+{
+"id": "802b",
+"label": "Plaut. Truc. 802b",
+"text": "Mater, inquam, filiae dono dedit."
+},
+{
+"id": "803",
+"label": "Plaut. Truc. 803",
+"text": "Plus quam dudum loquere."
+},
+{
+"id": "803b",
+"label": "Plaut. Truc. 803b",
+"text": "Plus tu rogitas."
+},
+{
+"id": "803c",
+"label": "Plaut. Truc. 803c",
+"text": "Responde ocius:"
+},
+{
+"id": "804",
+"label": "Plaut. Truc. 804",
+"text": "quid illa cui donatus puer est?"
+},
+{
+"id": "804b",
+"label": "Plaut. Truc. 804b",
+"text": "Supposivit."
+},
+{
+"id": "804c",
+"label": "Plaut. Truc. 804c",
+"text": "Cui?"
+},
+{
+"id": "804d",
+"label": "Plaut. Truc. 804d",
+"text": "Sibi."
+},
+{
+"id": "805",
+"label": "Plaut. Truc. 805",
+"text": "Pro filiolon?"
+},
+{
+"id": "805b",
+"label": "Plaut. Truc. 805b",
+"text": "Pro filiolo."
+},
+{
+"id": "805c",
+"label": "Plaut. Truc. 805c",
+"text": "Di, obsecro vostram fidem,"
+},
+{
+"id": "806",
+"label": "Plaut. Truc. 806",
+"text": "ut facilius alia quam alia eundem puerum unum parit:"
+},
+{
+"id": "807",
+"label": "Plaut. Truc. 807",
+"text": "haec labore alieno puerum peperit sine doloribus."
+},
+{
+"id": "808",
+"label": "Plaut. Truc. 808",
+"text": "puer quidem beatust: matres duás habet et avias duas:"
+},
+{
+"id": "809",
+"label": "Plaut. Truc. 809",
+"text": "iam metuo, patres quot fuerint. vide sis facinus muliebre."
+},
+{
+"id": "810",
+"label": "Plaut. Truc. 810",
+"text": "Magis pol haec malitia pertinét ad viros quam ad mulieres:"
+},
+{
+"id": "811",
+"label": "Plaut. Truc. 811",
+"text": "vir illam, non mulier praegnatem fecit."
+},
+{
+"id": "811b",
+"label": "Plaut. Truc. 811b",
+"text": "Idem ego istuc scio."
+},
+{
+"id": "812",
+"label": "Plaut. Truc. 812",
+"text": "tu bona ei custos fuisti."
+},
+{
+"id": "812b",
+"label": "Plaut. Truc. 812b",
+"text": "Plus potest qui plus valet."
+},
+{
+"id": "813",
+"label": "Plaut. Truc. 813",
+"text": "vir erat, plus valebat: vicit, quod petebat abstulit."
+},
+{
+"id": "814",
+"label": "Plaut. Truc. 814",
+"text": "Et tibi quidem hercle ídem attulit magnum malum."
+},
+{
+"id": "815",
+"label": "Plaut. Truc. 815",
+"text": "Idem istuc ipsa, etsi tu taceas, reapse experta intellego."
+},
+{
+"id": "816",
+"label": "Plaut. Truc. 816",
+"text": "Numquam te facere hodie quivi, ut is quis esset diceres."
+},
+{
+"id": "817",
+"label": "Plaut. Truc. 817",
+"text": "Tacui adhuc: nunc non tacebo, quando adest nec se indicat."
+},
+{
+"id": "818",
+"label": "Plaut. Truc. 818",
+"text": "Lapideus sum, commovere me miser non audeo."
+},
+{
+"id": "819",
+"label": "Plaut. Truc. 819",
+"text": "res palam omnis est, meo illic nunc sunt capiti comitia."
+},
+{
+"id": "820",
+"label": "Plaut. Truc. 820",
+"text": "meum illuc facinus, mea stultitia est. timeo, quam mox nominer."
+},
+{
+"id": "821",
+"label": "Plaut. Truc. 821",
+"text": "Loquere, filiam meam quis integram stupraverit."
+},
+{
+"id": "822",
+"label": "Plaut. Truc. 822",
+"text": "Video ego té, propter male facta qui es patronus parieti."
+},
+{
+"id": "823",
+"label": "Plaut. Truc. 823",
+"text": "Neque vivos neque mortuos sum, neque quid nunc faciam scio,"
+},
+{
+"id": "824",
+"label": "Plaut. Truc. 824",
+"text": "neque ut hinc abeam neque ut hunc adeam scio, timore torpeo."
+},
+{
+"id": "825",
+"label": "Plaut. Truc. 825",
+"text": "Dicin an non?"
+},
+{
+"id": "825b",
+"label": "Plaut. Truc. 825b",
+"text": "Diniarchus, quoi illam prius desponderas."
+},
+{
+"id": "826",
+"label": "Plaut. Truc. 826",
+"text": "Vbi is homost quem dicis?"
+},
+{
+"id": "826b",
+"label": "Plaut. Truc. 826b",
+"text": "Adsum, Callicles. per tua obsecro"
+},
+{
+"id": "827",
+"label": "Plaut. Truc. 827",
+"text": "genua te, ut istuc insipienter factum sapienter feras,"
+},
+{
+"id": "828",
+"label": "Plaut. Truc. 828",
+"text": "mihique ignoscas quod animi impos vini vitio fecerim."
+},
+{
+"id": "829",
+"label": "Plaut. Truc. 829",
+"text": "Non placet qui in mutum culpam confert, qui non quit loqui."
+},
+{
+"id": "830",
+"label": "Plaut. Truc. 830",
+"text": "nam vinum si fabulari possit, se defenderet."
+},
+{
+"id": "831",
+"label": "Plaut. Truc. 831",
+"text": "non vinum viris moderari, sed viri vino solent,"
+},
+{
+"id": "832",
+"label": "Plaut. Truc. 832",
+"text": "qui quidem probi sunt; verum qui improbust si quasi bibit"
+},
+{
+"id": "833",
+"label": "Plaut. Truc. 833",
+"text": "sive adeo caret temeto, tamen ab ingenio improbust."
+},
+{
+"id": "834",
+"label": "Plaut. Truc. 834",
+"text": "Scio equidem quae nolo multa mi audienda ob noxiam."
+},
+{
+"id": "835",
+"label": "Plaut. Truc. 835",
+"text": "ego tibi me obnoxium esse fateor culpae compotem."
+},
+{
+"id": "836",
+"label": "Plaut. Truc. 836",
+"text": "Callicles, vide in quaéstione ne facias iniuriam:"
+},
+{
+"id": "837",
+"label": "Plaut. Truc. 837",
+"text": "reus solutus causam dicit, testis vinctos attines."
+},
+{
+"id": "838",
+"label": "Plaut. Truc. 838",
+"text": "Solvite istas. agite, abite tu domum et tu autem domum."
+},
+{
+"id": "839",
+"label": "Plaut. Truc. 839",
+"text": "eloquere haec erae tu: puerum reddat, si quis eum petat."
+},
+{
+"id": "840",
+"label": "Plaut. Truc. 840",
+"text": "eamus tu in ius."
+},
+{
+"id": "840b",
+"label": "Plaut. Truc. 840b",
+"text": "Quid vis in ius me ire? tu es praetor mihi."
+},
+{
+"id": "841",
+"label": "Plaut. Truc. 841",
+"text": "verum te obsecro, ut tuam gnatam des mi uxorem, Callicles."
+},
+{
+"id": "842",
+"label": "Plaut. Truc. 842",
+"text": "Eundem pol te iudicasse qui admisti eam rem intellego."
+},
+{
+"id": "843",
+"label": "Plaut. Truc. 843",
+"text": "nam haud mansisti, dum ego darem illam: tute sumpsisti tibi."
+},
+{
+"id": "844",
+"label": "Plaut. Truc. 844",
+"text": "nunc habeas ut nactu's nactus es . verum hoc ego te multabo bolo:"
+},
+{
+"id": "845",
+"label": "Plaut. Truc. 845",
+"text": "sex talenta magna dotis demam pro ista inscitia."
+},
+{
+"id": "846",
+"label": "Plaut. Truc. 846",
+"text": "Bene agis mecum."
+},
+{
+"id": "846b",
+"label": "Plaut. Truc. 846b",
+"text": "Filium istinc tuom te meliust repetere."
+},
+{
+"id": "847",
+"label": "Plaut. Truc. 847",
+"text": "ceterum uxorem quam primum potest abduce ex aedibus."
+},
+{
+"id": "848",
+"label": "Plaut. Truc. 848",
+"text": "ego abeo. iam illi remittam nuntium adfini meo,"
+},
+{
+"id": "849",
+"label": "Plaut. Truc. 849",
+"text": "dicam ut aliam condicionem filio inveniat suo.—"
+},
+{
+"id": "850",
+"label": "Plaut. Truc. 850",
+"text": "At ego ab hac puerum reposcam, ne mox infitias eat;"
+},
+{
+"id": "851",
+"label": "Plaut. Truc. 851",
+"text": "nihil est, nám eapse ultro ut factumst fecit omnem rem palam."
+},
+{
+"id": "852",
+"label": "Plaut. Truc. 852",
+"text": "sed nimium pol opportune éccam eapse egreditur foras."
+},
+{
+"id": "853",
+"label": "Plaut. Truc. 853",
+"text": "ne ista stimulum longum habet, quae usque illinc cor pungit meum."
+},
+{
+"id": "854",
+"label": "Plaut. Truc. 854",
+"text": "Blitea et luteast meretrix nisi quae sapit in vino ad rem suam;"
+},
+{
+"id": "855",
+"label": "Plaut. Truc. 855",
+"text": "si alia membra vino madeant, cor sit saltem sobrium."
+},
+{
+"id": "856",
+"label": "Plaut. Truc. 856",
+"text": "nam mihi dividiaest, tonstricem meam sic convictam male."
+},
+{
+"id": "857",
+"label": "Plaut. Truc. 857",
+"text": "ea dixit, eum Diniarchi puerum inventum filium."
+},
+{
+"id": "858",
+"label": "Plaut. Truc. 858",
+"text": "ubi id audivi, quám ego propere potui egressa huc sum foras."
+},
+{
+"id": "858a",
+"label": "Plaut. Truc. 858a",
+"text": "Lubet adire quam penes est mea omnis res et liberi."
+},
+{
+"id": "859",
+"label": "Plaut. Truc. 859",
+"text": "Video eccum qui suis tutorem med optavit liberis."
+},
+{
+"id": "860",
+"label": "Plaut. Truc. 860",
+"text": "Mulier, ad te sum profectus."
+},
+{
+"id": "860b",
+"label": "Plaut. Truc. 860b",
+"text": "Quid agitur, voluptas mea?"
+},
+{
+"id": "861",
+"label": "Plaut. Truc. 861",
+"text": "Non voluptas, aufer nugas, nil ego nunc de istac re ago."
+},
+{
+"id": "862",
+"label": "Plaut. Truc. 862",
+"text": "Scio mecastor quid velis ét quid postules et quid petas:"
+},
+{
+"id": "863",
+"label": "Plaut. Truc. 863",
+"text": "me videre vis, te a me ire postulas, puerum petis."
+},
+{
+"id": "864",
+"label": "Plaut. Truc. 864",
+"text": "Di immortales, ut planiloqua est, paucis ut rem ipsam attigit."
+},
+{
+"id": "865",
+"label": "Plaut. Truc. 865",
+"text": "Scio equidem sponsam tibi esse et filium ex sponsa tua"
+},
+{
+"id": "866",
+"label": "Plaut. Truc. 866",
+"text": "et tibi uxorem ducendam, esse alibi iám animum tuom"
+},
+{
+"id": "867",
+"label": "Plaut. Truc. 867",
+"text": "et me quasi pro derelicta: scio, abituru's abiturus es . sed tamen"
+},
+{
+"id": "868",
+"label": "Plaut. Truc. 868",
+"text": "cogitato, mus pusillus quam sit sapiens bestia,"
+},
+{
+"id": "869",
+"label": "Plaut. Truc. 869",
+"text": "aetatem qui non cubili uni umquam committit suam,"
+},
+{
+"id": "870",
+"label": "Plaut. Truc. 870",
+"text": "quin, si unum obsideatur, aliud iam perfugium elegerit."
+},
+{
+"id": "871",
+"label": "Plaut. Truc. 871",
+"text": "Otium ubi erit, de istis rebus tum amplius tecum loquar."
+},
+{
+"id": "872",
+"label": "Plaut. Truc. 872",
+"text": "nunc puerum redde."
+},
+{
+"id": "872b",
+"label": "Plaut. Truc. 872b",
+"text": "Immo amabo ut hos dies aliquos sinas"
+},
+{
+"id": "873",
+"label": "Plaut. Truc. 873",
+"text": "eum esse apud me."
+},
+{
+"id": "873b",
+"label": "Plaut. Truc. 873b",
+"text": "Minime."
+},
+{
+"id": "873c",
+"label": "Plaut. Truc. 873c",
+"text": "Amabo."
+},
+{
+"id": "873d",
+"label": "Plaut. Truc. 873d",
+"text": "Quid opus est?"
+},
+{
+"id": "873e",
+"label": "Plaut. Truc. 873e",
+"text": "In rem meam est."
+},
+{
+"id": "874",
+"label": "Plaut. Truc. 874",
+"text": "triduom hoc saltem, dum áliquo miles circumducitur,"
+},
+{
+"id": "875",
+"label": "Plaut. Truc. 875",
+"text": "sine me habere: siquidem habebo, tibi quoque etiam proderit;"
+},
+{
+"id": "876",
+"label": "Plaut. Truc. 876",
+"text": "si auferes , a milite omnis mihi spes animam efflaverit."
+},
+{
+"id": "877",
+"label": "Plaut. Truc. 877",
+"text": "Factum cupio, nam nefacere si velim, non est locus;"
+},
+{
+"id": "878",
+"label": "Plaut. Truc. 878",
+"text": "nunc puero utere et procura, quando quor cures habes."
+},
+{
+"id": "879",
+"label": "Plaut. Truc. 879",
+"text": "Multum amo te ób istam rem mecastor. ubi domi metues malum,"
+},
+{
+"id": "880",
+"label": "Plaut. Truc. 880",
+"text": "fugito huc ad me: saltem amicus mi esto † manubinarius."
+},
+{
+"id": "881",
+"label": "Plaut. Truc. 881",
+"text": "Bene vale, Phronesium."
+},
+{
+"id": "881b",
+"label": "Plaut. Truc. 881b",
+"text": "An non etiam tuom oculum vocas?"
+},
+{
+"id": "882",
+"label": "Plaut. Truc. 882",
+"text": "Id quoque interim † futatim nomen commemorabitur."
+},
+{
+"id": "883",
+"label": "Plaut. Truc. 883",
+"text": "numquid vis?"
+},
+{
+"id": "883b",
+"label": "Plaut. Truc. 883b",
+"text": "Fac valeas."
+},
+{
+"id": "883c",
+"label": "Plaut. Truc. 883c",
+"text": "Operae ubi mi erit, ad te venero.—"
+},
+{
+"id": "884",
+"label": "Plaut. Truc. 884",
+"text": "Ille quidem hinc abiit, abscessit. dicere hic quidvis licet."
+},
+{
+"id": "885",
+"label": "Plaut. Truc. 885",
+"text": "verum est verbum quod memoratur: ubi amici ibidem sunt opes."
+},
+{
+"id": "886",
+"label": "Plaut. Truc. 886",
+"text": "propter hunc spes etiamst hodie † tantum iri militem;"
+},
+{
+"id": "887",
+"label": "Plaut. Truc. 887",
+"text": "quém ego ecastor mage amo quam me, dum id quod cupio inde aufero."
+},
+{
+"id": "888",
+"label": "Plaut. Truc. 888",
+"text": "quae cum multum abstulimus, hau multum eius apparet quod datum est:"
+},
+{
+"id": "889",
+"label": "Plaut. Truc. 889",
+"text": "ita sunt gloriae meretricum."
+},
+{
+"id": "889b",
+"label": "Plaut. Truc. 889b",
+"text": "Áha tace."
+},
+{
+"id": "889c",
+"label": "Plaut. Truc. 889c",
+"text": "Quid est, obsecro?"
+},
+{
+"id": "890",
+"label": "Plaut. Truc. 890",
+"text": "Pater adest pueri."
+},
+{
+"id": "890b",
+"label": "Plaut. Truc. 890b",
+"text": "Sine eumpse adire huc. sine, si is est modo."
+},
+{
+"id": "891",
+"label": "Plaut. Truc. 891",
+"text": "Ipsus est."
+},
+{
+"id": "891b",
+"label": "Plaut. Truc. 891b",
+"text": "Sine eumpse adire, ut cupit, ad me."
+},
+{
+"id": "891c",
+"label": "Plaut. Truc. 891c",
+"text": "Rectam tenet."
+},
+{
+"id": "892",
+"label": "Plaut. Truc. 892",
+"text": "Ne istum ecastor hodie aspiciam confectum fallaciis."
+},
+{
+"id": "893",
+"label": "Plaut. Truc. 893",
+"text": "Ego minam auri fero supplicium † damnis ad amicam meam:"
+},
+{
+"id": "894",
+"label": "Plaut. Truc. 894",
+"text": "ut illud acceptum sit, prius quod perdidi, hoc addam insuper."
+},
+{
+"id": "895",
+"label": "Plaut. Truc. 895",
+"text": "sed quid video? eram atque ancillam ante aedis. adeundae haec mihi."
+},
+{
+"id": "896",
+"label": "Plaut. Truc. 896",
+"text": "quid hic vos agitis?"
+},
+{
+"id": "896b",
+"label": "Plaut. Truc. 896b",
+"text": "Ne me appella quaeso."
+},
+{
+"id": "896c",
+"label": "Plaut. Truc. 896c",
+"text": "Aha nimium saeviter."
+},
+{
+"id": "897",
+"label": "Plaut. Truc. 897",
+"text": "Potine ut mihi molestus ne sis?"
+},
+{
+"id": "897b",
+"label": "Plaut. Truc. 897b",
+"text": "Ecquid, Astaphium, litiumst?"
+},
+{
+"id": "898",
+"label": "Plaut. Truc. 898",
+"text": "Merito ecastor tibi succenset."
+},
+{
+"id": "898b",
+"label": "Plaut. Truc. 898b",
+"text": "Egon, atque isti etiam parum"
+},
+{
+"id": "899",
+"label": "Plaut. Truc. 899",
+"text": "male volo."
+},
+{
+"id": "899b",
+"label": "Plaut. Truc. 899b",
+"text": "Ego, mea voluptas, si quid peccavi prius,"
+},
+{
+"id": "900",
+"label": "Plaut. Truc. 900",
+"text": "supplicium ad te hanc mínam fero auri. si minus crédis, respice."
+},
+{
+"id": "901",
+"label": "Plaut. Truc. 901",
+"text": "Manus vetat prius quám penes sese habeat quicquam credere."
+},
+{
+"id": "902",
+"label": "Plaut. Truc. 902",
+"text": "puero opust cibo, opus est matri autem, opus est quae puerum lavit,"
+},
+{
+"id": "903",
+"label": "Plaut. Truc. 903",
+"text": "opus nutrici, lact ut habeat, veteris vini largiter"
+},
+{
+"id": "904",
+"label": "Plaut. Truc. 904",
+"text": "ut dies noctesque potet, ópust ligno, opust carbonibus,"
+},
+{
+"id": "905",
+"label": "Plaut. Truc. 905",
+"text": "fasciis opus est, pulvinis, cunis, incunabulis,"
+},
+{
+"id": "906",
+"label": "Plaut. Truc. 906",
+"text": "oleo opust, opus est farina, porro opus est totum diem:"
+},
+{
+"id": "907",
+"label": "Plaut. Truc. 907",
+"text": "numquam hoc uno die efficiatur opus, quin opus semper siet;"
+},
+{
+"id": "908",
+"label": "Plaut. Truc. 908",
+"text": "non enim póssunt militares pueri † etauio exducier."
+},
+{
+"id": "909",
+"label": "Plaut. Truc. 909",
+"text": "Respice ergo, áccipe hoc, qui ístuc efficias opus."
+},
+{
+"id": "910",
+"label": "Plaut. Truc. 910",
+"text": "Cedo, quamquam parum est."
+},
+{
+"id": "910b",
+"label": "Plaut. Truc. 910b",
+"text": "Addam etiam unam minam istuc post."
+},
+{
+"id": "910c",
+"label": "Plaut. Truc. 910c",
+"text": "Parumst."
+},
+{
+"id": "911",
+"label": "Plaut. Truc. 911",
+"text": "Tuo arbitratu quod iubebis dabitur. da nunc savium."
+},
+{
+"id": "912",
+"label": "Plaut. Truc. 912",
+"text": "Mitte me, inquam, odiosu's odiosus es ."
+},
+{
+"id": "912b",
+"label": "Plaut. Truc. 912b",
+"text": "Nil fit, non amor, teritur dies."
+},
+{
+"id": "913",
+"label": "Plaut. Truc. 913",
+"text": "plus decem pondo † moris pauxillisper perdidi."
+},
+{
+"id": "914",
+"label": "Plaut. Truc. 914",
+"text": "Accipe hoc atque auferto intro."
+},
+{
+"id": "914b",
+"label": "Plaut. Truc. 914b",
+"text": "Vbi mea amicast gentium?"
+},
+{
+"id": "915",
+"label": "Plaut. Truc. 915",
+"text": "neque ruri neque hic óperis quicquam facio, corrumpor situ,"
+},
+{
+"id": "916",
+"label": "Plaut. Truc. 916",
+"text": "ita miser cubando in lecto hic expectando obdurui."
+},
+{
+"id": "917",
+"label": "Plaut. Truc. 917",
+"text": "sed eccam video. heús amica, quid agis? ."
+},
+{
+"id": "917b",
+"label": "Plaut. Truc. 917b",
+"text": "Quis illic est homo?"
+},
+{
+"id": "918",
+"label": "Plaut. Truc. 918",
+"text": "Quém ego ecastor mage amo quam te."
+},
+{
+"id": "918b",
+"label": "Plaut. Truc. 918b",
+"text": "Quam me? quo modo?"
+},
+{
+"id": "919",
+"label": "Plaut. Truc. 919",
+"text": "Hoc modo, ut molestus ne sis."
+},
+{
+"id": "919b",
+"label": "Plaut. Truc. 919b",
+"text": "Iamne abis, postquam aurum habes?"
+},
+{
+"id": "920",
+"label": "Plaut. Truc. 920",
+"text": "Condidi intro quod dedisti."
+},
+{
+"id": "920b",
+"label": "Plaut. Truc. 920b",
+"text": "Ades, amica, te adloquor."
+},
+{
+"id": "921",
+"label": "Plaut. Truc. 921",
+"text": "At ego ad te ibam, mea delicia."
+},
+{
+"id": "921b",
+"label": "Plaut. Truc. 921b",
+"text": "Hercle vero serio,"
+},
+{
+"id": "922",
+"label": "Plaut. Truc. 922",
+"text": "quamquam ego tibi videor stultus, gaudere aliqui me volo;"
+},
+{
+"id": "923",
+"label": "Plaut. Truc. 923",
+"text": "nam quamquam tu es bella, malo tuo, nisi ego aliqui gaudeo."
+},
+{
+"id": "924",
+"label": "Plaut. Truc. 924",
+"text": "Vin te amplectar, savium dem?"
+},
+{
+"id": "924b",
+"label": "Plaut. Truc. 924b",
+"text": "Quidvis face qui gaudeam."
+},
+{
+"id": "925",
+"label": "Plaut. Truc. 925",
+"text": "Meosne ante oculos ego illam patiar alios amplexarier?"
+},
+{
+"id": "926",
+"label": "Plaut. Truc. 926",
+"text": "mortuom hercle me hodie satiust. apstine hoc, mulier, manum,"
+},
+{
+"id": "927",
+"label": "Plaut. Truc. 927",
+"text": "nisi si te mea manu † ui in machaera et hunc vis mori."
+},
+{
+"id": "928",
+"label": "Plaut. Truc. 928",
+"text": "Nil halapari satiust, miles, si te amari postulas;"
+},
+{
+"id": "929",
+"label": "Plaut. Truc. 929",
+"text": "auro, hau ferro deterrere potes, hunc né amem, Stratophanes."
+},
+{
+"id": "930",
+"label": "Plaut. Truc. 930",
+"text": "Qui, malum, bella aut faceta es, quaé ames hominem isti modi?"
+},
+{
+"id": "931",
+"label": "Plaut. Truc. 931",
+"text": "Venitne in méntem tibi quod verbum in cavea dixit histrio:"
+},
+{
+"id": "932",
+"label": "Plaut. Truc. 932",
+"text": "omnes homines ad suom quaestum callent et fastidiunt."
+},
+{
+"id": "933",
+"label": "Plaut. Truc. 933",
+"text": "Huncine hominem te amplexari tam horridum ac tam squalidum?"
+},
+{
+"id": "934",
+"label": "Plaut. Truc. 934",
+"text": "Quamquam hic squalet, quamquam hic horret, scitus et bellust mihi."
+},
+{
+"id": "935",
+"label": "Plaut. Truc. 935",
+"text": "Dedin ego aurum—"
+},
+{
+"id": "935b",
+"label": "Plaut. Truc. 935b",
+"text": "Mihi? dedisti filio cibaria."
+},
+{
+"id": "936",
+"label": "Plaut. Truc. 936",
+"text": "nunc, si hanc tecum esse speras, alia opust auri mina."
+},
+{
+"id": "937",
+"label": "Plaut. Truc. 937",
+"text": "Malam rem is et magnam magno opere, serva tibi viaticum."
+},
+{
+"id": "938",
+"label": "Plaut. Truc. 938",
+"text": "Quid isti debes?"
+},
+{
+"id": "938b",
+"label": "Plaut. Truc. 938b",
+"text": "Tria."
+},
+{
+"id": "938c",
+"label": "Plaut. Truc. 938c",
+"text": "Quae tria nam?"
+},
+{
+"id": "938d",
+"label": "Plaut. Truc. 938d",
+"text": "Vnguenta, noctem, savium."
+},
+{
+"id": "939",
+"label": "Plaut. Truc. 939",
+"text": "Par pari respondet. verum nunc saltem, etsi istunc amas,"
+},
+{
+"id": "940",
+"label": "Plaut. Truc. 940",
+"text": "dan tu mihi de tuis deliciis † sum quicquid pauxillulum?"
+},
+{
+"id": "941",
+"label": "Plaut. Truc. 941",
+"text": "Quid id, amabo, est quod dem? dic tum super feri†"
+},
+{
+"id": "942",
+"label": "Plaut. Truc. 942",
+"text": "†capas dicit auaui consultam istuc mihi homo†"
+},
+{
+"id": "943",
+"label": "Plaut. Truc. 943",
+"text": "cave faxis volnus tibi iam cui sunt dentes ferrei."
+},
+{
+"id": "944",
+"label": "Plaut. Truc. 944",
+"text": "Volgo ad se omnis intromittit."
+},
+{
+"id": "944b",
+"label": "Plaut. Truc. 944b",
+"text": "Abstine istac tu manum."
+},
+{
+"id": "945",
+"label": "Plaut. Truc. 945",
+"text": "Iam hercle cum magno malo tu vapula vir strenuos."
+},
+{
+"id": "946",
+"label": "Plaut. Truc. 946",
+"text": "Dedi ego huic aurum."
+},
+{
+"id": "946b",
+"label": "Plaut. Truc. 946b",
+"text": "Át ego argentum."
+},
+{
+"id": "946c",
+"label": "Plaut. Truc. 946c",
+"text": "†eat apale puram."
+},
+{
+"id": "947",
+"label": "Plaut. Truc. 947",
+"text": "At ego oves et lanam, et alia multa quae poscet dabo."
+},
+{
+"id": "948",
+"label": "Plaut. Truc. 948",
+"text": "meliust te minis certare mecum quam minaciis."
+},
+{
+"id": "949",
+"label": "Plaut. Truc. 949",
+"text": "Lepidu's lepidus es ecastor mortalis, mi Strabax, perge obsecro."
+},
+{
+"id": "950",
+"label": "Plaut. Truc. 950",
+"text": "Stultus atque insanus damnis certant: nos salvae sumus."
+},
+{
+"id": "951",
+"label": "Plaut. Truc. 951",
+"text": "Age prior prompta aliquid."
+},
+{
+"id": "951b",
+"label": "Plaut. Truc. 951b",
+"text": "Immo tu prior perde et peri."
+},
+{
+"id": "952",
+"label": "Plaut. Truc. 952",
+"text": "Em tibi talentum argenti. †Philippices est, tene tibi."
+},
+{
+"id": "953",
+"label": "Plaut. Truc. 953",
+"text": "Tanto melior, noster esto—sed de vostro vivito."
+},
+{
+"id": "954",
+"label": "Plaut. Truc. 954",
+"text": "Vbi est quod tu das? solve zonam, provocator. quid times?"
+},
+{
+"id": "955",
+"label": "Plaut. Truc. 955",
+"text": "Tu peregrinu's peregrinus es , hic ego habito: non cum zona ego ambulo:"
+},
+{
+"id": "956",
+"label": "Plaut. Truc. 956",
+"text": "pecua ad hanc collo in crumina ego obligata defero."
+},
+{
+"id": "957",
+"label": "Plaut. Truc. 957",
+"text": "quid dedi! ut discinxi hominem."
+},
+{
+"id": "957b",
+"label": "Plaut. Truc. 957b",
+"text": "Immo ego vero, qui dedi."
+},
+{
+"id": "958",
+"label": "Plaut. Truc. 958",
+"text": "I intro, amabo, i, tú eris mecum; tum tu eris mecum quidem."
+},
+{
+"id": "959",
+"label": "Plaut. Truc. 959",
+"text": "Quid tu? quid ais? cum hocin eris? ego ero posterior, qui dedi?"
+},
+{
+"id": "960",
+"label": "Plaut. Truc. 960",
+"text": "Tu dedisti iam, hic daturust: ictuc habeo, hoc expeto."
+},
+{
+"id": "961",
+"label": "Plaut. Truc. 961",
+"text": "verum utrique mos geratur amborum ex sententia."
+},
+{
+"id": "962",
+"label": "Plaut. Truc. 962",
+"text": "Fiat. ut rem gnatam video, hoc accipiundumst quod datur."
+},
+{
+"id": "963",
+"label": "Plaut. Truc. 963",
+"text": "Meum quidem te lectum certe óccupare non sinam."
+},
+{
+"id": "964",
+"label": "Plaut. Truc. 964",
+"text": "Lepide ecastor aucupavi atque ex mea sententia,"
+},
+{
+"id": "965",
+"label": "Plaut. Truc. 965",
+"text": "meamque ut rem video bene gestam, vostram rursum bene geram:"
+},
+{
+"id": "966",
+"label": "Plaut. Truc. 966",
+"text": "†romabo si quis animatust facere, faciat ut sciam."
+},
+{
+"id": "967",
+"label": "Plaut. Truc. 967",
+"text": "Veneris causa adplaudite: eius haec in tutelast fabula."
+},
+{
+"id": "968",
+"label": "Plaut. Truc. 968",
+"text": "spectatores, bene valete, plaudite atque exurgite."
+}
+]
+}

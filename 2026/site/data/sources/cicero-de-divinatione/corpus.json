@@ -1,0 +1,16 @@
+{
+ "id": "cicero-de-divinatione",
+ "title": "Cicero, De divinatione",
+ "language": "la",
+ "edition": "De Divinatione — Perseus Digital Library TEI (phi0474.phi053.perseus-lat3)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-latinLit TEI phi0474.phi053.perseus-lat3",
+ "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi053.perseus-lat3/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.section",
+ "units": [
+  "1",
+  "2"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi053/phi0474.phi053.perseus-lat3.xml"
+}

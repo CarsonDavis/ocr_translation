@@ -1,0 +1,887 @@
+{
+"corpus": "ovid-heroides",
+"unit": "4",
+"title": "Ovid, Heroides (Epistulae), Her. 4",
+"passages": [
+{
+"id": "4.1",
+"label": "Ov. Her. 4.1",
+"text": "Quam nisi tu dederis, caritura est ipsa, salutem"
+},
+{
+"id": "4.2",
+"label": "Ov. Her. 4.2",
+"text": "Mittit Amazonio Cressa puella viro."
+},
+{
+"id": "4.3",
+"label": "Ov. Her. 4.3",
+"text": "Perlege, quodcumque est — quid epistula lecta nocebit?"
+},
+{
+"id": "4.4",
+"label": "Ov. Her. 4.4",
+"text": "Te quoque in hac aliquid quod iuvet esse potest;"
+},
+{
+"id": "4.5",
+"label": "Ov. Her. 4.5",
+"text": "His arcana notis terra pelagoque feruntur."
+},
+{
+"id": "4.6",
+"label": "Ov. Her. 4.6",
+"text": "Inspicit acceptas hostis ab hoste notas."
+},
+{
+"id": "4.7",
+"label": "Ov. Her. 4.7",
+"text": "Ter tecum conata loqui ter inutilis haesit"
+},
+{
+"id": "4.8",
+"label": "Ov. Her. 4.8",
+"text": "Lingua, ter in primo restitit ore sonus."
+},
+{
+"id": "4.9",
+"label": "Ov. Her. 4.9",
+"text": "Qua licet et sequitur, pudor est miscendus amori;"
+},
+{
+"id": "4.10",
+"label": "Ov. Her. 4.10",
+"text": "Dicere quae puduit, scribere iussit amor."
+},
+{
+"id": "4.11",
+"label": "Ov. Her. 4.11",
+"text": "Quidquid Amor iussit, non est contemnere tutum;"
+},
+{
+"id": "4.12",
+"label": "Ov. Her. 4.12",
+"text": "Regnat et in dominos ius habet ille deos."
+},
+{
+"id": "4.13",
+"label": "Ov. Her. 4.13",
+"text": "Ille mihi primo dubitanti scribere dixit:"
+},
+{
+"id": "4.14",
+"label": "Ov. Her. 4.14",
+"text": "'Scribe! dabit victas ferreus ille manus.'"
+},
+{
+"id": "4.15",
+"label": "Ov. Her. 4.15",
+"text": "Adsit et, ut nostras avido fovet igne medullas,"
+},
+{
+"id": "4.16",
+"label": "Ov. Her. 4.16",
+"text": "Figat sic animos in mea vota tuos!"
+},
+{
+"id": "4.17",
+"label": "Ov. Her. 4.17",
+"text": "Non ego nequitia socialia foedera rumpam;"
+},
+{
+"id": "4.18",
+"label": "Ov. Her. 4.18",
+"text": "Fama — velim quaeras — crimine nostra vacat."
+},
+{
+"id": "4.19",
+"label": "Ov. Her. 4.19",
+"text": "Venit amor gravius, quo serius — urimur intus;"
+},
+{
+"id": "4.20",
+"label": "Ov. Her. 4.20",
+"text": "Urimur, et caecum pectora vulnus habent."
+},
+{
+"id": "4.21",
+"label": "Ov. Her. 4.21",
+"text": "Scilicet ut teneros laedunt iuga prima iuvencos,"
+},
+{
+"id": "4.22",
+"label": "Ov. Her. 4.22",
+"text": "Frenaque vix patitur de grege captus equus,"
+},
+{
+"id": "4.23",
+"label": "Ov. Her. 4.23",
+"text": "Sic male vixque subit primos rude pectus amores,"
+},
+{
+"id": "4.24",
+"label": "Ov. Her. 4.24",
+"text": "Sarcinaque haec animo non sedet apta meo."
+},
+{
+"id": "4.25",
+"label": "Ov. Her. 4.25",
+"text": "Ars fit, ubi a teneris crimen condiscitur annis;"
+},
+{
+"id": "4.26",
+"label": "Ov. Her. 4.26",
+"text": "Cui venit exacto tempore, peius amat."
+},
+{
+"id": "4.27",
+"label": "Ov. Her. 4.27",
+"text": "Tu nova servatae capies libamina famae,"
+},
+{
+"id": "4.28",
+"label": "Ov. Her. 4.28",
+"text": "Et pariter nostrum fiet uterque nocens."
+},
+{
+"id": "4.29",
+"label": "Ov. Her. 4.29",
+"text": "Est aliquid, plenis pomaria carpere ramis,"
+},
+{
+"id": "4.30",
+"label": "Ov. Her. 4.30",
+"text": "Et tenui primam delegere ungue rosam."
+},
+{
+"id": "4.31",
+"label": "Ov. Her. 4.31",
+"text": "Si tamen ille prior, quo me sine crimine gessi,"
+},
+{
+"id": "4.32",
+"label": "Ov. Her. 4.32",
+"text": "Candor ab insolita labe notandus erat,"
+},
+{
+"id": "4.33",
+"label": "Ov. Her. 4.33",
+"text": "At bene successit, digno quod adurimur igni;"
+},
+{
+"id": "4.34",
+"label": "Ov. Her. 4.34",
+"text": "Peius adulterio turpis adulter obest."
+},
+{
+"id": "4.35",
+"label": "Ov. Her. 4.35",
+"text": "Si mihi concedat Iuno fratremque virumque,"
+},
+{
+"id": "4.36",
+"label": "Ov. Her. 4.36",
+"text": "Hippolytum videor praepositura Iovi!"
+},
+{
+"id": "4.37",
+"label": "Ov. Her. 4.37",
+"text": "Iam quoque — vix credes — ignotas mittor in artes;"
+},
+{
+"id": "4.38",
+"label": "Ov. Her. 4.38",
+"text": "Est mihi per saevas impetus ire feras."
+},
+{
+"id": "4.39",
+"label": "Ov. Her. 4.39",
+"text": "Iam mihi prima dea est arcu praesignis adunco"
+},
+{
+"id": "4.40",
+"label": "Ov. Her. 4.40",
+"text": "Delia; iudicium subsequor ipsa tuum."
+},
+{
+"id": "4.41",
+"label": "Ov. Her. 4.41",
+"text": "In nemus ire libet pressisque in retia cervis"
+},
+{
+"id": "4.42",
+"label": "Ov. Her. 4.42",
+"text": "Hortari celeris per iuga summa canes,"
+},
+{
+"id": "4.43",
+"label": "Ov. Her. 4.43",
+"text": "Aut tremulum excusso iaculum vibrare lacerto,"
+},
+{
+"id": "4.44",
+"label": "Ov. Her. 4.44",
+"text": "Aut in graminea ponere corpus humo."
+},
+{
+"id": "4.45",
+"label": "Ov. Her. 4.45",
+"text": "Saepe iuvat versare leves in pulvere currus"
+},
+{
+"id": "4.46",
+"label": "Ov. Her. 4.46",
+"text": "Torquentem frenis ora fugacis equi;"
+},
+{
+"id": "4.47",
+"label": "Ov. Her. 4.47",
+"text": "Nunc feror, ut Bacchi furiis Eleleides actae,"
+},
+{
+"id": "4.48",
+"label": "Ov. Her. 4.48",
+"text": "Quaeque sub Idaeo tympana colle movent,"
+},
+{
+"id": "4.49",
+"label": "Ov. Her. 4.49",
+"text": "Aut quas semideae Dryades Faunique bicornes"
+},
+{
+"id": "4.50",
+"label": "Ov. Her. 4.50",
+"text": "Numine contactas attonuere suo."
+},
+{
+"id": "4.51",
+"label": "Ov. Her. 4.51",
+"text": "Namque mihi referunt, cum se furor ille remisit,"
+},
+{
+"id": "4.52",
+"label": "Ov. Her. 4.52",
+"text": "Omnia; me tacitam conscius urit amor."
+},
+{
+"id": "4.53",
+"label": "Ov. Her. 4.53",
+"text": "Forsitan hunc generis fato reddamus amorem,"
+},
+{
+"id": "4.54",
+"label": "Ov. Her. 4.54",
+"text": "Et Venus ex tota gente tributa petat."
+},
+{
+"id": "4.55",
+"label": "Ov. Her. 4.55",
+"text": "Iuppiter Europen — prima est ea gentis origo —"
+},
+{
+"id": "4.56",
+"label": "Ov. Her. 4.56",
+"text": "Dilexit, tauro dissimulante deum."
+},
+{
+"id": "4.57",
+"label": "Ov. Her. 4.57",
+"text": "Pasiphae mater, decepto subdita tauro,"
+},
+{
+"id": "4.58",
+"label": "Ov. Her. 4.58",
+"text": "Enixa est utero crimen onusque suo."
+},
+{
+"id": "4.59",
+"label": "Ov. Her. 4.59",
+"text": "Perfidus Aegides, ducentia fila secutus,"
+},
+{
+"id": "4.60",
+"label": "Ov. Her. 4.60",
+"text": "Curva meae fugit tecta sororis ope."
+},
+{
+"id": "4.61",
+"label": "Ov. Her. 4.61",
+"text": "En, ego nunc, ne forte parum Minoia credar,"
+},
+{
+"id": "4.62",
+"label": "Ov. Her. 4.62",
+"text": "In socias leges ultima gentis eo!"
+},
+{
+"id": "4.63",
+"label": "Ov. Her. 4.63",
+"text": "Hoc quoque fatale est: placuit domus una duabus;"
+},
+{
+"id": "4.64",
+"label": "Ov. Her. 4.64",
+"text": "Me tua forma capit, capta parente soror."
+},
+{
+"id": "4.65",
+"label": "Ov. Her. 4.65",
+"text": "Thesides Theseusque duas rapuere sorores —"
+},
+{
+"id": "4.66",
+"label": "Ov. Her. 4.66",
+"text": "Ponite de nostra bina tropaea domo!"
+},
+{
+"id": "4.67",
+"label": "Ov. Her. 4.67",
+"text": "Tempore quo nobis inita est Cerealis Eleusin,"
+},
+{
+"id": "4.68",
+"label": "Ov. Her. 4.68",
+"text": "Gnosia me vellem detinuisset humus!"
+},
+{
+"id": "4.69",
+"label": "Ov. Her. 4.69",
+"text": "Tunc mihi praecipue (nec non tamen ante placebas)"
+},
+{
+"id": "4.70",
+"label": "Ov. Her. 4.70",
+"text": "Acer in extremis ossibus haesit amor."
+},
+{
+"id": "4.71",
+"label": "Ov. Her. 4.71",
+"text": "Candida vestis erat, praecincti flore capilli,"
+},
+{
+"id": "4.72",
+"label": "Ov. Her. 4.72",
+"text": "Flava verecundus tinxerat ora rubor,"
+},
+{
+"id": "4.73",
+"label": "Ov. Her. 4.73",
+"text": "Quemque vocant aliae vultum rigidumque trucemque,"
+},
+{
+"id": "4.74",
+"label": "Ov. Her. 4.74",
+"text": "Pro rigido Phaedra iudice fortis erat."
+},
+{
+"id": "4.75",
+"label": "Ov. Her. 4.75",
+"text": "Sint procul a nobis iuvenes ut femina compti! —"
+},
+{
+"id": "4.76",
+"label": "Ov. Her. 4.76",
+"text": "Fine coli modico forma virilis amat."
+},
+{
+"id": "4.77",
+"label": "Ov. Her. 4.77",
+"text": "Te tuus iste rigor positique sine arte capilli"
+},
+{
+"id": "4.78",
+"label": "Ov. Her. 4.78",
+"text": "Et levis egregio pulvis in ore decet."
+},
+{
+"id": "4.79",
+"label": "Ov. Her. 4.79",
+"text": "Sive ferocis equi luctantia colla recurvas,"
+},
+{
+"id": "4.80",
+"label": "Ov. Her. 4.80",
+"text": "Exiguo flexos miror in orbe pedes;"
+},
+{
+"id": "4.81",
+"label": "Ov. Her. 4.81",
+"text": "Seu lentum valido torques hastile lacerto,"
+},
+{
+"id": "4.82",
+"label": "Ov. Her. 4.82",
+"text": "Ora ferox in se versa lacertus habet,"
+},
+{
+"id": "4.83",
+"label": "Ov. Her. 4.83",
+"text": "Sive tenes lato venabula cornea ferro."
+},
+{
+"id": "4.84",
+"label": "Ov. Her. 4.84",
+"text": "Denique nostra iuvat lumina, quidquid agis."
+},
+{
+"id": "4.85",
+"label": "Ov. Her. 4.85",
+"text": "Tu modo duritiam silvis depone iugosis;"
+},
+{
+"id": "4.86",
+"label": "Ov. Her. 4.86",
+"text": "Non sum militia digna perire tua."
+},
+{
+"id": "4.87",
+"label": "Ov. Her. 4.87",
+"text": "Quid iuvat incinctae studia exercere Dianae,"
+},
+{
+"id": "4.88",
+"label": "Ov. Her. 4.88",
+"text": "Et Veneri numeros eripuisse suos?"
+},
+{
+"id": "4.89",
+"label": "Ov. Her. 4.89",
+"text": "Quod caret alterna requie, durabile non est;"
+},
+{
+"id": "4.90",
+"label": "Ov. Her. 4.90",
+"text": "Haec reparat vires fessaque membra novat."
+},
+{
+"id": "4.91",
+"label": "Ov. Her. 4.91",
+"text": "Arcus — et arma tuae tibi sunt imitanda Dianae —"
+},
+{
+"id": "4.92",
+"label": "Ov. Her. 4.92",
+"text": "Si numquam cesses tendere, mollis erit."
+},
+{
+"id": "4.93",
+"label": "Ov. Her. 4.93",
+"text": "Clarus erat silvis Cephalus, multaeque per herbas"
+},
+{
+"id": "4.94",
+"label": "Ov. Her. 4.94",
+"text": "Conciderant illo percutiente ferae;"
+},
+{
+"id": "4.95",
+"label": "Ov. Her. 4.95",
+"text": "Nec tamen Aurorae male se praebebat amandum."
+},
+{
+"id": "4.96",
+"label": "Ov. Her. 4.96",
+"text": "Ibat ad hunc sapiens a sene diva viro."
+},
+{
+"id": "4.97",
+"label": "Ov. Her. 4.97",
+"text": "Saepe sub ilicibus Venerem Cinyraque creatum"
+},
+{
+"id": "4.98",
+"label": "Ov. Her. 4.98",
+"text": "Sustinuit positos quaelibet herba duos."
+},
+{
+"id": "4.99",
+"label": "Ov. Her. 4.99",
+"text": "Arsit et Oenides in Maenalia Atalanta;"
+},
+{
+"id": "4.100",
+"label": "Ov. Her. 4.100",
+"text": "Illa ferae spolium pignus amoris habet."
+},
+{
+"id": "4.101",
+"label": "Ov. Her. 4.101",
+"text": "Nos quoque quam primum turba numeremur in ista!"
+},
+{
+"id": "4.102",
+"label": "Ov. Her. 4.102",
+"text": "Si Venerem tollas, rustica silva tua est."
+},
+{
+"id": "4.103",
+"label": "Ov. Her. 4.103",
+"text": "Ipsa comes veniam, nec me latebrosa movebunt"
+},
+{
+"id": "4.104",
+"label": "Ov. Her. 4.104",
+"text": "Saxa neque obliquo dente timendus aper."
+},
+{
+"id": "4.105",
+"label": "Ov. Her. 4.105",
+"text": "Aequora bina suis obpugnant fluctibus isthmon,"
+},
+{
+"id": "4.106",
+"label": "Ov. Her. 4.106",
+"text": "Et tenuis tellus audit utrumque mare."
+},
+{
+"id": "4.107",
+"label": "Ov. Her. 4.107",
+"text": "Hic tecum Troezena colam, Pittheia regna;"
+},
+{
+"id": "4.108",
+"label": "Ov. Her. 4.108",
+"text": "Iam nunc est patria carior illa mea."
+},
+{
+"id": "4.109",
+"label": "Ov. Her. 4.109",
+"text": "Tempore abest aberitque diu Neptunius heros;"
+},
+{
+"id": "4.110",
+"label": "Ov. Her. 4.110",
+"text": "Illum Pirithoi detinet ora sui."
+},
+{
+"id": "4.111",
+"label": "Ov. Her. 4.111",
+"text": "Praeposuit Theseus — nisi si manifesta negamus —"
+},
+{
+"id": "4.112",
+"label": "Ov. Her. 4.112",
+"text": "Pirithoum Phaedrae Pirithoumque tibi."
+},
+{
+"id": "4.113",
+"label": "Ov. Her. 4.113",
+"text": "Sola nec haec ad nos iniuria venit ab illo;"
+},
+{
+"id": "4.114",
+"label": "Ov. Her. 4.114",
+"text": "In magnis laesi rebus uterque sumus."
+},
+{
+"id": "4.115",
+"label": "Ov. Her. 4.115",
+"text": "Ossa mei fratris clava perfracta trinodi"
+},
+{
+"id": "4.116",
+"label": "Ov. Her. 4.116",
+"text": "Sparsit humi; soror est praeda relicta feris."
+},
+{
+"id": "4.117",
+"label": "Ov. Her. 4.117",
+"text": "Prima securigeras inter virtute puellas"
+},
+{
+"id": "4.118",
+"label": "Ov. Her. 4.118",
+"text": "Te peperit, nati digna vigore parens;"
+},
+{
+"id": "4.119",
+"label": "Ov. Her. 4.119",
+"text": "Si quaeras, ubi sit — Theseus latus ense peregit,"
+},
+{
+"id": "4.120",
+"label": "Ov. Her. 4.120",
+"text": "Nec tanto mater pignore tuta fuit."
+},
+{
+"id": "4.121",
+"label": "Ov. Her. 4.121",
+"text": "At ne nupta quidem taedaque accepta iugali —"
+},
+{
+"id": "4.122",
+"label": "Ov. Her. 4.122",
+"text": "Cur, nisi ne caperes regna paterna nothus?"
+},
+{
+"id": "4.123",
+"label": "Ov. Her. 4.123",
+"text": "Addidit et fratres ex me tibi, quos tamen omnis"
+},
+{
+"id": "4.124",
+"label": "Ov. Her. 4.124",
+"text": "Non ego tollendi causa, sed ille fuit."
+},
+{
+"id": "4.125",
+"label": "Ov. Her. 4.125",
+"text": "O utinam nocitura tibi, pulcherrime rerum,"
+},
+{
+"id": "4.126",
+"label": "Ov. Her. 4.126",
+"text": "In medio nisu viscera rupta forent!"
+},
+{
+"id": "4.127",
+"label": "Ov. Her. 4.127",
+"text": "I nunc, sic meriti lectum reverere parentis —"
+},
+{
+"id": "4.128",
+"label": "Ov. Her. 4.128",
+"text": "Quem fugit et factis abdicat ipse suis!"
+},
+{
+"id": "4.129",
+"label": "Ov. Her. 4.129",
+"text": "Nec, quia privigno videar coitura noverca,"
+},
+{
+"id": "4.130",
+"label": "Ov. Her. 4.130",
+"text": "Terruerint animos nomina vana tuos."
+},
+{
+"id": "4.131",
+"label": "Ov. Her. 4.131",
+"text": "Ista vetus pietas, aevo moritura futuro,"
+},
+{
+"id": "4.132",
+"label": "Ov. Her. 4.132",
+"text": "Rustica Saturno regna tenente fuit."
+},
+{
+"id": "4.133",
+"label": "Ov. Her. 4.133",
+"text": "Iuppiter esse pium statuit, quodcumque iuvaret,"
+},
+{
+"id": "4.134",
+"label": "Ov. Her. 4.134",
+"text": "Et fas omne facit fratre marita soror."
+},
+{
+"id": "4.135",
+"label": "Ov. Her. 4.135",
+"text": "Illa coit firma generis iunctura catena,"
+},
+{
+"id": "4.136",
+"label": "Ov. Her. 4.136",
+"text": "Inposuit nodos cui Venus ipsa suos."
+},
+{
+"id": "4.137",
+"label": "Ov. Her. 4.137",
+"text": "Nec labor est celare, licet peccemus, amorem."
+},
+{
+"id": "4.138",
+"label": "Ov. Her. 4.138",
+"text": "Cognato poterit nomine culpa tegi."
+},
+{
+"id": "4.139",
+"label": "Ov. Her. 4.139",
+"text": "Viderit amplexos aliquis, laudabimur ambo;"
+},
+{
+"id": "4.140",
+"label": "Ov. Her. 4.140",
+"text": "Dicar privigno fida noverca meo."
+},
+{
+"id": "4.141",
+"label": "Ov. Her. 4.141",
+"text": "Non tibi per tenebras duri reseranda mariti"
+},
+{
+"id": "4.142",
+"label": "Ov. Her. 4.142",
+"text": "Ianua, non custos decipiendus erit;"
+},
+{
+"id": "4.143",
+"label": "Ov. Her. 4.143",
+"text": "Ut tenuit domus una duos, domus una tenebit;"
+},
+{
+"id": "4.144",
+"label": "Ov. Her. 4.144",
+"text": "Oscula aperta dabas, oscula aperta dabis;"
+},
+{
+"id": "4.145",
+"label": "Ov. Her. 4.145",
+"text": "Tutus eris mecum laudemque merebere culpa,"
+},
+{
+"id": "4.146",
+"label": "Ov. Her. 4.146",
+"text": "Tu licet in lecto conspiciare meo."
+},
+{
+"id": "4.147",
+"label": "Ov. Her. 4.147",
+"text": "Tolle moras tantum properataque foedera iunge —"
+},
+{
+"id": "4.148",
+"label": "Ov. Her. 4.148",
+"text": "Qui mihi nunc saevit, sic tibi parcat Amor!"
+},
+{
+"id": "4.149",
+"label": "Ov. Her. 4.149",
+"text": "Non ego dedignor supplex humilisque precari."
+},
+{
+"id": "4.150",
+"label": "Ov. Her. 4.150",
+"text": "Heu! ubi nunc fastus altaque verba iacent?"
+},
+{
+"id": "4.151",
+"label": "Ov. Her. 4.151",
+"text": "Et pugnare diu nec me submittere culpae"
+},
+{
+"id": "4.152",
+"label": "Ov. Her. 4.152",
+"text": "Certa fui — certi siquid haberet amor;"
+},
+{
+"id": "4.153",
+"label": "Ov. Her. 4.153",
+"text": "Victa precor genibusque tuis regalia tendo"
+},
+{
+"id": "4.154",
+"label": "Ov. Her. 4.154",
+"text": "Bracchia! quid deceat, non videt ullus amans."
+},
+{
+"id": "4.155",
+"label": "Ov. Her. 4.155",
+"text": "Depudui, profugusque pudor sua signa reliquit."
+},
+{
+"id": "4.156",
+"label": "Ov. Her. 4.156",
+"text": "Da veniam fasse duraque corda doma!"
+},
+{
+"id": "4.157",
+"label": "Ov. Her. 4.157",
+"text": "Quod mihi sit genitor, qui possidet aequora, Minos,"
+},
+{
+"id": "4.158",
+"label": "Ov. Her. 4.158",
+"text": "Quod veniant proavi fulmina torta manu,"
+},
+{
+"id": "4.159",
+"label": "Ov. Her. 4.159",
+"text": "Quod sit avus radiis frontem vallatus acutis,"
+},
+{
+"id": "4.160",
+"label": "Ov. Her. 4.160",
+"text": "Purpureo tepidum qui movet axe diem —"
+},
+{
+"id": "4.161",
+"label": "Ov. Her. 4.161",
+"text": "Nobilitas sub amore iacet! miserere priorum"
+},
+{
+"id": "4.162",
+"label": "Ov. Her. 4.162",
+"text": "Et, mihi si non vis parcere, parce meis!"
+},
+{
+"id": "4.163",
+"label": "Ov. Her. 4.163",
+"text": "Est mihi dotalis tellus Iovis insula, Crete —"
+},
+{
+"id": "4.164",
+"label": "Ov. Her. 4.164",
+"text": "Serviat Hippolyto regia tota meo!"
+},
+{
+"id": "4.165",
+"label": "Ov. Her. 4.165",
+"text": "Flecte, ferox, animos! potuit corrumpere taurum"
+},
+{
+"id": "4.166",
+"label": "Ov. Her. 4.166",
+"text": "Mater; eris tauro saevior ipse truci?"
+},
+{
+"id": "4.167",
+"label": "Ov. Her. 4.167",
+"text": "Per Venerem, parcas, oro, quae plurima mecum est!"
+},
+{
+"id": "4.168",
+"label": "Ov. Her. 4.168",
+"text": "Sic numquam, quae te spernere possit, ames;"
+},
+{
+"id": "4.169",
+"label": "Ov. Her. 4.169",
+"text": "Sic tibi secretis agilis dea saltibus adsit,"
+},
+{
+"id": "4.170",
+"label": "Ov. Her. 4.170",
+"text": "Silvaque perdendas praebeat alta feras;"
+},
+{
+"id": "4.171",
+"label": "Ov. Her. 4.171",
+"text": "Sic faveant Satyri montanaque numina Panes,"
+},
+{
+"id": "4.172",
+"label": "Ov. Her. 4.172",
+"text": "Et cadat adversa cuspide fossus aper;"
+},
+{
+"id": "4.173",
+"label": "Ov. Her. 4.173",
+"text": "Sic tibi dent Nymphae, quamvis odisse puellas"
+},
+{
+"id": "4.174",
+"label": "Ov. Her. 4.174",
+"text": "Diceris, arentem quae levet unda sitim!"
+},
+{
+"id": "4.175",
+"label": "Ov. Her. 4.175",
+"text": "Addimus his precibus lacrimas quoque; verba precantis"
+},
+{
+"id": "4.176",
+"label": "Ov. Her. 4.176",
+"text": "Qui legis, et lacrimas finge videre meas!"
+}
+]
+}

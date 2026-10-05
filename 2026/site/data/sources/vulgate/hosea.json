@@ -1,0 +1,997 @@
+{
+"corpus": "vulgate",
+"unit": "hosea",
+"title": "Hosea (Osee)",
+"passages": [
+{
+"id": "Hosea 1:1",
+"label": "Hosea 1:1",
+"text": "Verbum Domini, quod factum est ad Osee, filium Beeri, in diebus Oziæ, Joathan, Achaz, Ezechiæ, regum Juda; et in diebus Jeroboam, filii Joas, regis Israël."
+},
+{
+"id": "Hosea 1:2",
+"label": "Hosea 1:2",
+"text": "Principium loquendi Domino in Osee. Et dixit Dominus ad Osee: Vade, sume tibi uxorem fornicationum, et fac tibi filios fornicationum, quia fornicans fornicabitur terra a Domino."
+},
+{
+"id": "Hosea 1:3",
+"label": "Hosea 1:3",
+"text": "Et abiit, et accepit Gomer, filiam Debelaim: et concepit, et peperit ei filium."
+},
+{
+"id": "Hosea 1:4",
+"label": "Hosea 1:4",
+"text": "Et dixit Dominus ad eum: Voca nomen ejus Jezrahel, quoniam adhuc modicum, et visitabo sanguinem Jezrahel super domum Jehu, et quiescere faciam regnum domus Israël."
+},
+{
+"id": "Hosea 1:5",
+"label": "Hosea 1:5",
+"text": "Et in illa die conteram arcum Israël in valle Jezrahel."
+},
+{
+"id": "Hosea 1:6",
+"label": "Hosea 1:6",
+"text": "Et concepit adhuc, et peperit filiam. Et dixit ei: Voca nomen ejus, Absque misericordia, quia non addam ultra misereri domui Israël, sed oblivione obliviscar eorum."
+},
+{
+"id": "Hosea 1:7",
+"label": "Hosea 1:7",
+"text": "Et domui Juda miserebor, et salvabo eos in Domino Deo suo; et non salvabo eos in arcu et gladio, et in bello, et in equis, et in equitibus."
+},
+{
+"id": "Hosea 1:8",
+"label": "Hosea 1:8",
+"text": "Et ablactavit eam quæ erat Absque misericordia. Et concepit, et peperit filium."
+},
+{
+"id": "Hosea 1:9",
+"label": "Hosea 1:9",
+"text": "Et dixit: Voca nomen ejus, Non populus meus, quia vos non populus meus, et ego non ero vester."
+},
+{
+"id": "Hosea 1:10",
+"label": "Hosea 1:10",
+"text": "Et erit numerus filiorum Israël quasi arena maris, quæ sine mensura est, et non numerabitur. Et erit in loco ubi dicetur eis: Non populus meus vos: dicetur eis: Filii Dei viventis."
+},
+{
+"id": "Hosea 1:11",
+"label": "Hosea 1:11",
+"text": "Et congregabuntur filii Juda et filii Israël pariter; et ponent sibimet caput unum, et ascendent de terra, quia magnus dies Jezrahel."
+},
+{
+"id": "Hosea 2:1",
+"label": "Hosea 2:1",
+"text": "Dicite fratribus vestris: Populus meus; et sorori vestræ: Misericordiam consecuta."
+},
+{
+"id": "Hosea 2:2",
+"label": "Hosea 2:2",
+"text": "Judicate matrem vestram, judicate,\nquoniam ipsa non uxor mea,\net ego non vir ejus.\nAuferat fornicationes suas a facie sua,\net adulteria sua de medio uberum suorum;"
+},
+{
+"id": "Hosea 2:3",
+"label": "Hosea 2:3",
+"text": "ne forte expoliem eam nudam,\net statuam eam secundum diem nativitatis suæ,\net ponam eam quasi solitudinem,\net statuam eam velut terram inviam,\net interficiam eam siti."
+},
+{
+"id": "Hosea 2:4",
+"label": "Hosea 2:4",
+"text": "Et filiorum illius non miserebor,\nquoniam filii fornicationum sunt."
+},
+{
+"id": "Hosea 2:5",
+"label": "Hosea 2:5",
+"text": "Quia fornicata est mater eorum,\nconfusa est quæ concepit eos;\nquia dixit: Vadam post amatores meos,\nqui dant panes mihi, et aquas meas,\nlanam meam, et linum meum,\noleum meum, et potum meum."
+},
+{
+"id": "Hosea 2:6",
+"label": "Hosea 2:6",
+"text": "Propter hoc ecce ego sepiam viam tuam spinis,\net sepiam eam maceria, et semitas suas non inveniet."
+},
+{
+"id": "Hosea 2:7",
+"label": "Hosea 2:7",
+"text": "Et sequetur amatores suos, et non apprehendet eos;\net quæret eos, et non inveniet:\net dicet: Vadam, et revertar ad virum meum priorem,\nquia bene mihi erat tunc magis quam nunc."
+},
+{
+"id": "Hosea 2:8",
+"label": "Hosea 2:8",
+"text": "Et hæc nescivit, quia ego dedi ei frumentum, et vinum, et oleum,\net argentum multiplicavi ei, et aurum,\nquæ fecerunt Baal."
+},
+{
+"id": "Hosea 2:9",
+"label": "Hosea 2:9",
+"text": "Idcirco convertar, et sumam frumentum meum in tempore suo,\net vinum meum in tempore suo.\nEt liberabo lanam meam et linum meum,\nquæ operiebant ignominiam ejus."
+},
+{
+"id": "Hosea 2:10",
+"label": "Hosea 2:10",
+"text": "Et nunc revelabo stultitiam ejus in oculis amatorum ejus;\net vir non eruet eam de manu mea;"
+},
+{
+"id": "Hosea 2:11",
+"label": "Hosea 2:11",
+"text": "et cessare faciam omne gaudium ejus,\nsolemnitatem ejus, neomeniam ejus, sabbatum ejus,\net omnia festa tempora ejus."
+},
+{
+"id": "Hosea 2:12",
+"label": "Hosea 2:12",
+"text": "Et corrumpam vineam ejus, et ficum ejus,\nde quibus dixit: Mercedes hæ meæ sunt,\nquas dederunt mihi amatores mei;\net ponam eam in saltum,\net comedet eam bestia agri."
+},
+{
+"id": "Hosea 2:13",
+"label": "Hosea 2:13",
+"text": "Et visitabo super eam dies Baalim,\nquibus accendebat incensum,\net ornabatur in aure sua, et monili suo.\nEt ibat post amatores suos,\net mei obliviscebatur, dicit Dominus."
+},
+{
+"id": "Hosea 2:14",
+"label": "Hosea 2:14",
+"text": "Propter hoc ecce ego lactabo eam,\net ducam eam in solitudinem,\net loquar ad cor ejus."
+},
+{
+"id": "Hosea 2:15",
+"label": "Hosea 2:15",
+"text": "Et dabo ei vinitores ejus ex eodem loco,\net vallem Achor, ad aperiendam spem;\net canet ibi juxta dies juventutis suæ,\net juxta dies ascensionis suæ de terra Ægypti."
+},
+{
+"id": "Hosea 2:16",
+"label": "Hosea 2:16",
+"text": "Et erit in die illa, ait Dominus:\nvocabit me, Vir meus,\net non vocabit me ultra Baali."
+},
+{
+"id": "Hosea 2:17",
+"label": "Hosea 2:17",
+"text": "Et auferam nomina Baalim de ore ejus,\net non recordabitur ultra nominis eorum."
+},
+{
+"id": "Hosea 2:18",
+"label": "Hosea 2:18",
+"text": "Et percutiam cum eis fœdus in die illa, cum bestia agri,\net cum volucre cæli, et cum reptili terræ;\net arcum, et gladium, et bellum conteram de terra,\net dormire eos faciam fiducialiter."
+},
+{
+"id": "Hosea 2:19",
+"label": "Hosea 2:19",
+"text": "Et sponsabo te mihi in sempiternum;\net sponsabo te mihi in justitia, et judicio,\net in misericordia, et in miserationibus."
+},
+{
+"id": "Hosea 2:20",
+"label": "Hosea 2:20",
+"text": "Et sponsabo te mihi in fide;\net scies quia ego Dominus."
+},
+{
+"id": "Hosea 2:21",
+"label": "Hosea 2:21",
+"text": "Et erit in die illa:\nexaudiam, dicit Dominus, exaudiam cælos,\net illi exaudient terram."
+},
+{
+"id": "Hosea 2:22",
+"label": "Hosea 2:22",
+"text": "Et terra exaudiet triticum, et vinum, et oleum,\net hæc exaudient Jezrahel."
+},
+{
+"id": "Hosea 2:23",
+"label": "Hosea 2:23",
+"text": "Et seminabo eam mihi in terra,\net miserebor ejus quæ fuit Absque misericordia."
+},
+{
+"id": "Hosea 2:24",
+"label": "Hosea 2:24",
+"text": "Et dicam Non populo meo: Populus meus es tu;\net ipse dicet: Deus meus es tu."
+},
+{
+"id": "Hosea 3:1",
+"label": "Hosea 3:1",
+"text": "Et dixit Dominus ad me: Adhuc vade, et dilige mulierem dilectam amico et adulteram, sicut diligit Dominus filios Israël, et ipsi respiciunt ad deos alienos, et diligunt vinacia uvarum."
+},
+{
+"id": "Hosea 3:2",
+"label": "Hosea 3:2",
+"text": "Et fodi eam mihi quindecim argenteis, et coro hordei, et dimidio coro hordæi."
+},
+{
+"id": "Hosea 3:3",
+"label": "Hosea 3:3",
+"text": "Et dixi ad eam: Dies multos exspectabis me; non fornicaberis, et non eris viro; sed et ego exspectabo te."
+},
+{
+"id": "Hosea 3:4",
+"label": "Hosea 3:4",
+"text": "Quia dies multos sedebunt filii Israël sine rege, et sine principe, et sine sacrificio, et sine altari, et sine ephod, et sine theraphim."
+},
+{
+"id": "Hosea 3:5",
+"label": "Hosea 3:5",
+"text": "Et post hæc revertentur filii Israël, et quærent Dominum Deum suum, et David regem suum: et pavebunt ad Dominum, et ad bonum ejus, in novissimo dierum."
+},
+{
+"id": "Hosea 4:1",
+"label": "Hosea 4:1",
+"text": "Audite verbum Domini, filii Israël,\nquia judicium Domino cum habitatoribus terræ:\nnon est enim veritas, et non est misericordia,\net non est scientia Dei in terra."
+},
+{
+"id": "Hosea 4:2",
+"label": "Hosea 4:2",
+"text": "Maledictum, et mendacium,\net homicidium, et furtum, et adulterium inundaverunt,\net sanguis sanguinem tetigit."
+},
+{
+"id": "Hosea 4:3",
+"label": "Hosea 4:3",
+"text": "Propter hoc lugebit terra,\net infirmabitur omnis qui habitat in ea,\nin bestia agri, et in volucre cæli;\nsed et pisces maris congregabuntur."
+},
+{
+"id": "Hosea 4:4",
+"label": "Hosea 4:4",
+"text": "Verumtamen unusquisque non judicet,\net non arguatur vir:\npopulus enim tuus sicut hi qui contradicunt sacerdoti."
+},
+{
+"id": "Hosea 4:5",
+"label": "Hosea 4:5",
+"text": "Et corrues hodie,\net corruet etiam propheta tecum.\nNocte tacere feci matrem tuam."
+},
+{
+"id": "Hosea 4:6",
+"label": "Hosea 4:6",
+"text": "Conticuit populus meus,\neo quod non habuerit scientiam:\nquia tu scientiam repulisti,\nrepellam te, ne sacerdotio fungaris mihi;\net oblita es legis Dei tui,\nobliviscar filiorum tuorum et ego."
+},
+{
+"id": "Hosea 4:7",
+"label": "Hosea 4:7",
+"text": "Secundum multitudinem eorum sic peccaverunt mihi:\ngloriam eorum in ignominiam commutabo."
+},
+{
+"id": "Hosea 4:8",
+"label": "Hosea 4:8",
+"text": "Peccata populi mei comedent,\net ad iniquitatem eorum sublevabunt animas eorum."
+},
+{
+"id": "Hosea 4:9",
+"label": "Hosea 4:9",
+"text": "Et erit sicut populus, sic sacerdos;\net visitabo super eum vias ejus,\net cogitationes ejus reddam ei."
+},
+{
+"id": "Hosea 4:10",
+"label": "Hosea 4:10",
+"text": "Et comedent, et non saturabuntur;\nfornicati sunt, et non cessaverunt:\nquoniam Dominum dereliquerunt in non custodiendo."
+},
+{
+"id": "Hosea 4:11",
+"label": "Hosea 4:11",
+"text": "Fornicatio, et vinum, et ebrietas auferunt cor."
+},
+{
+"id": "Hosea 4:12",
+"label": "Hosea 4:12",
+"text": "Populus meus in ligno suo interrogavit,\net baculus ejus annuntiavit ei;\nspiritus enim fornicationum decepit eos,\net fornicati sunt a Deo suo."
+},
+{
+"id": "Hosea 4:13",
+"label": "Hosea 4:13",
+"text": "Super capita montium sacrificabant,\net super colles ascendebant thymiama;\nsubtus quercum, et populum, et terebinthum,\nquia bona erat umbra ejus;\nideo fornicabuntur filiæ vestræ,\net sponsæ vestræ adulteræ erunt."
+},
+{
+"id": "Hosea 4:14",
+"label": "Hosea 4:14",
+"text": "Non visitabo super filias vestras cum fuerint fornicatæ,\net super sponsas vestras cum adulteraverint,\nquoniam ipsi cum meretricibus conversabantur,\net cum effeminatis sacrificabant;\net populus non intelligens vapulabit."
+},
+{
+"id": "Hosea 4:15",
+"label": "Hosea 4:15",
+"text": "Si fornicaris tu, Israël,\nnon delinquat saltem Juda;\net nolite ingredi in Galgala,\net ne ascenderitis in Bethaven,\nneque juraveritis: Vivit Dominus!"
+},
+{
+"id": "Hosea 4:16",
+"label": "Hosea 4:16",
+"text": "Quoniam sicut vacca lasciviens declinavit Israël;\nnunc pascet eos Dominus, quasi agnum in latitudine."
+},
+{
+"id": "Hosea 4:17",
+"label": "Hosea 4:17",
+"text": "Particeps idolorum Ephraim: dimitte eum."
+},
+{
+"id": "Hosea 4:18",
+"label": "Hosea 4:18",
+"text": "Separatum est convivium eorum;\nfornicatione fornicati sunt:\ndilexerunt afferre ignominiam protectores ejus."
+},
+{
+"id": "Hosea 4:19",
+"label": "Hosea 4:19",
+"text": "Ligavit eum spiritus in alis suis,\net confundentur a sacrificiis suis."
+},
+{
+"id": "Hosea 5:1",
+"label": "Hosea 5:1",
+"text": "Audite hoc, sacerdotes,\net attendite, domus Israël,\net domus regis, auscultate:\nquia vobis judicium est,\nquoniam laqueus facti estis speculationi,\net rete expansum super Thabor."
+},
+{
+"id": "Hosea 5:2",
+"label": "Hosea 5:2",
+"text": "Et victimas declinastis in profundum;\net ego eruditor omnium eorum."
+},
+{
+"id": "Hosea 5:3",
+"label": "Hosea 5:3",
+"text": "Ego scio Ephraim,\net Israël non est absconditus a me:\nquia nunc fornicatus est Ephraim;\ncontaminatus est Israël."
+},
+{
+"id": "Hosea 5:4",
+"label": "Hosea 5:4",
+"text": "Non dabunt cogitationes suas ut revertantur ad Deum suum,\nquia spiritus fornicationum in medio eorum,\net Dominum non cognoverunt."
+},
+{
+"id": "Hosea 5:5",
+"label": "Hosea 5:5",
+"text": "Et respondebit arrogantia Israël in facie ejus,\net Israël et Ephraim ruent in iniquitate sua:\nruet etiam Judas cum eis."
+},
+{
+"id": "Hosea 5:6",
+"label": "Hosea 5:6",
+"text": "In gregibus suis et in armentis suis vadent ad quærendum Dominum,\net non invenient:\nablatus est ab eis."
+},
+{
+"id": "Hosea 5:7",
+"label": "Hosea 5:7",
+"text": "In Dominum prævaricati sunt,\nquia filios alienos genuerunt:\nnunc devorabit eos mensis, cum partibus suis."
+},
+{
+"id": "Hosea 5:8",
+"label": "Hosea 5:8",
+"text": "Clangite buccina in Gabaa,\ntuba in Rama;\nululate in Bethaven,\npost tergum tuum, Benjamin."
+},
+{
+"id": "Hosea 5:9",
+"label": "Hosea 5:9",
+"text": "Ephraim in desolatione erit in die correptionis;\nin tribubus Israël ostendi fidem."
+},
+{
+"id": "Hosea 5:10",
+"label": "Hosea 5:10",
+"text": "Facti sunt principes Juda quasi assumentes terminum;\nsuper eos effundam quasi aquam iram meam."
+},
+{
+"id": "Hosea 5:11",
+"label": "Hosea 5:11",
+"text": "Calumniam patiens est Ephraim, fractus judicio,\nquoniam cœpit abire post sordes."
+},
+{
+"id": "Hosea 5:12",
+"label": "Hosea 5:12",
+"text": "Et ego quasi tinea Ephraim,\net quasi putredo domui Juda."
+},
+{
+"id": "Hosea 5:13",
+"label": "Hosea 5:13",
+"text": "Et vidit Ephraim languorem suum,\net Juda vinculum suum;\net abiit Ephraim ad Assur,\net misit ad regem ultorem:\net ipse non poterit sanare vos,\nnec solvere poterit a vobis vinculum."
+},
+{
+"id": "Hosea 5:14",
+"label": "Hosea 5:14",
+"text": "Quoniam ego quasi leæna Ephraim,\net quasi catulus leonis domui Juda.\nEgo, ego capiam, et vadam;\ntollam, et non est qui eruat."
+},
+{
+"id": "Hosea 5:15",
+"label": "Hosea 5:15",
+"text": "Vadens revertar ad locum meum,\ndonec deficiatis, et quæratis faciem meam."
+},
+{
+"id": "Hosea 6:1",
+"label": "Hosea 6:1",
+"text": "In tribulatione sua mane consurgent ad me:\nVenite, et revertamur ad Dominum,"
+},
+{
+"id": "Hosea 6:2",
+"label": "Hosea 6:2",
+"text": "quia ipse cepit, et sanabit nos;\npercutiet, et curabit nos."
+},
+{
+"id": "Hosea 6:3",
+"label": "Hosea 6:3",
+"text": "Vivificabit nos post duos dies;\nin die tertia suscitabit nos,\net vivemus in conspectu ejus.\nSciemus, sequemurque ut cognoscamus Dominum:\nquasi diluculum præparatus est egressus ejus,\net veniet quasi imber nobis temporaneus et serotinus terræ."
+},
+{
+"id": "Hosea 6:4",
+"label": "Hosea 6:4",
+"text": "Quid faciam tibi, Ephraim?\nquid faciam tibi, Juda?\nmisericordia vestra quasi nubes matutina,\net quasi ros mane pertransiens."
+},
+{
+"id": "Hosea 6:5",
+"label": "Hosea 6:5",
+"text": "Propter hoc dolavi in prophetis;\noccidi eos in verbis oris mei:\net judicia tua quasi lux egredientur."
+},
+{
+"id": "Hosea 6:6",
+"label": "Hosea 6:6",
+"text": "Quia misericordiam volui, et non sacrificium;\net scientiam Dei plus quam holocausta."
+},
+{
+"id": "Hosea 6:7",
+"label": "Hosea 6:7",
+"text": "Ipsi autem sicut Adam transgressi sunt pactum:\nibi prævaricati sunt in me."
+},
+{
+"id": "Hosea 6:8",
+"label": "Hosea 6:8",
+"text": "Galaad civitas operantium idolum,\nsupplantata sanguine."
+},
+{
+"id": "Hosea 6:9",
+"label": "Hosea 6:9",
+"text": "Et quasi fauces virorum latronum,\nparticeps sacerdotum, in via interficientium pergentes de Sichem:\nquia scelus operati sunt."
+},
+{
+"id": "Hosea 6:10",
+"label": "Hosea 6:10",
+"text": "In domo Israël vidi horrendum:\nibi fornicationes Ephraim,\ncontaminatus est Israël."
+},
+{
+"id": "Hosea 6:11",
+"label": "Hosea 6:11",
+"text": "Sed et Juda, pone messem tibi,\ncum convertero captivitatem populi mei."
+},
+{
+"id": "Hosea 7:1",
+"label": "Hosea 7:1",
+"text": "Cum sanare vellem Israël,\nrevelata est iniquitas Ephraim,\net malitia Samariæ,\nquia operati sunt mendacium;\net fur ingressus est spolians,\nlatrunculus foris."
+},
+{
+"id": "Hosea 7:2",
+"label": "Hosea 7:2",
+"text": "Et ne forte dicant in cordibus suis,\nomnem malitiam eorum me recordatum,\nnunc circumdederunt eos adinventiones suæ:\ncoram facie mea factæ sunt."
+},
+{
+"id": "Hosea 7:3",
+"label": "Hosea 7:3",
+"text": "In malitia sua lætificaverunt regem,\net in mendaciis suis principes."
+},
+{
+"id": "Hosea 7:4",
+"label": "Hosea 7:4",
+"text": "Omnes adulterantes,\nquasi clibanus succensus a coquente;\nquievit paululum civitas a commistione fermenti,\ndonec fermentaretur totum."
+},
+{
+"id": "Hosea 7:5",
+"label": "Hosea 7:5",
+"text": "Dies regis nostri: cœperunt principes furere a vino;\nextendit manum suam cum illusoribus."
+},
+{
+"id": "Hosea 7:6",
+"label": "Hosea 7:6",
+"text": "Quia applicuerunt quasi clibanum cor suum,\ncum insidiaretur eis;\ntota nocte dormivit coquens eos:\nmane ipse succensus quasi ignis flammæ."
+},
+{
+"id": "Hosea 7:7",
+"label": "Hosea 7:7",
+"text": "Omnes calefacti sunt quasi clibanus,\net devoraverunt judices suos:\nomnes reges eorum ceciderunt;\nnon est qui clamat in eis ad me."
+},
+{
+"id": "Hosea 7:8",
+"label": "Hosea 7:8",
+"text": "Ephraim in populis ipse commiscebatur;\nEphraim factus est subcinericius panis, qui non reversatur."
+},
+{
+"id": "Hosea 7:9",
+"label": "Hosea 7:9",
+"text": "Comederunt alieni robur ejus, et ipse nescivit;\nsed et cani effusi sunt in eo, et ipse ignoravit."
+},
+{
+"id": "Hosea 7:10",
+"label": "Hosea 7:10",
+"text": "Et humiliabitur superbia Israël in facie ejus;\nnec reversi sunt ad Dominum Deum suum,\net non quæsierunt eum in omnibus his."
+},
+{
+"id": "Hosea 7:11",
+"label": "Hosea 7:11",
+"text": "Et factus est Ephraim quasi columba seducta non habens cor.\nÆgyptum invocabant; ad Assyrios abierunt."
+},
+{
+"id": "Hosea 7:12",
+"label": "Hosea 7:12",
+"text": "Et cum profecti fuerint,\nexpandam super eos rete meum:\nquasi volucrem cæli detraham eos;\ncædam eos secundum auditionem cœtus eorum."
+},
+{
+"id": "Hosea 7:13",
+"label": "Hosea 7:13",
+"text": "Væ eis, quoniam recesserunt a me!\nvastabuntur, quia prævaricati sunt in me,\net ego redemi eos,\net ipsi locuti sunt contra me mendacia."
+},
+{
+"id": "Hosea 7:14",
+"label": "Hosea 7:14",
+"text": "Et non clamaverunt ad me in corde suo,\nsed ululabant in cubilibus suis:\nsuper triticum et vinum ruminabant;\nrecesserunt a me."
+},
+{
+"id": "Hosea 7:15",
+"label": "Hosea 7:15",
+"text": "Et ego erudivi eos, et confortavi brachia eorum,\net in me cogitaverunt malitiam."
+},
+{
+"id": "Hosea 7:16",
+"label": "Hosea 7:16",
+"text": "Reversi sunt ut essent absque jugo;\nfacti sunt quasi arcus dolosus:\ncadent in gladio principes eorum, a furore linguæ suæ.\nIsta subsannatio eorum in terra Ægypti."
+},
+{
+"id": "Hosea 8:1",
+"label": "Hosea 8:1",
+"text": "In gutture tuo sit tuba\nquasi aquila super domum Domini,\npro eo quod transgressi sunt fœdus meum,\net legem meam prævaricati sunt."
+},
+{
+"id": "Hosea 8:2",
+"label": "Hosea 8:2",
+"text": "Me invocabunt: Deus meus,\ncognovimus te Israël."
+},
+{
+"id": "Hosea 8:3",
+"label": "Hosea 8:3",
+"text": "Projecit Israël bonum:\ninimicus persequetur eum."
+},
+{
+"id": "Hosea 8:4",
+"label": "Hosea 8:4",
+"text": "Ipsi regnaverunt, et non ex me;\nprincipes exstiterunt, et non cognovi:\nargentum suum et aurum suum fecerunt sibi idola,\nut interirent."
+},
+{
+"id": "Hosea 8:5",
+"label": "Hosea 8:5",
+"text": "Projectus est vitulus tuus, Samaria;\niratus est furor meus in eos.\nUsquequo non poterunt emundari?"
+},
+{
+"id": "Hosea 8:6",
+"label": "Hosea 8:6",
+"text": "Quia ex Israël et ipse est:\nartifex fecit illum, et non est deus;\nquoniam in aranearum telas erit vitulus Samariæ."
+},
+{
+"id": "Hosea 8:7",
+"label": "Hosea 8:7",
+"text": "Quia ventum seminabunt,\net turbinem metent:\nculmus stans non est in eo;\ngermen non faciet farinam:\nquod etsi fecerit, alieni comedent eam."
+},
+{
+"id": "Hosea 8:8",
+"label": "Hosea 8:8",
+"text": "Devoratus est Israël;\nnunc factus est in nationibus quasi vas immundum."
+},
+{
+"id": "Hosea 8:9",
+"label": "Hosea 8:9",
+"text": "Quia ipsi ascenderunt ad Assur,\nonager solitarius sibi;\nEphraim munera dederunt amatoribus."
+},
+{
+"id": "Hosea 8:10",
+"label": "Hosea 8:10",
+"text": "Sed et cum mercede conduxerint nationes,\nnunc congregabo eos,\net quiescent paulisper ab onere regis et principum."
+},
+{
+"id": "Hosea 8:11",
+"label": "Hosea 8:11",
+"text": "Quia multiplicavit Ephraim altaria ad peccandum;\nfactæ sunt ei aræ in delictum."
+},
+{
+"id": "Hosea 8:12",
+"label": "Hosea 8:12",
+"text": "Scribam ei multiplices leges meas,\nquæ velut alienæ computatæ sunt."
+},
+{
+"id": "Hosea 8:13",
+"label": "Hosea 8:13",
+"text": "Hostias offerent,\nimmolabunt carnes et comedent,\net Dominus non suscipiet eas:\nnunc recordabitur iniquitatis eorum,\net visitabit peccata eorum:\nipsi in Ægyptum convertentur."
+},
+{
+"id": "Hosea 8:14",
+"label": "Hosea 8:14",
+"text": "Et oblitus est Israël factoris sui,\net ædificavit delubra;\net Judas multiplicavit urbes munitas;\net mittam ignem in civitates ejus,\net devorabit ædes illius."
+},
+{
+"id": "Hosea 9:1",
+"label": "Hosea 9:1",
+"text": "Noli lætari, Israël;\nnoli exsultare sicut populi:\nquia fornicatus es a Deo tuo;\ndilexisti mercedem super omnes areas tritici."
+},
+{
+"id": "Hosea 9:2",
+"label": "Hosea 9:2",
+"text": "Area et torcular non pascet eos,\net vinum mentietur eis:"
+},
+{
+"id": "Hosea 9:3",
+"label": "Hosea 9:3",
+"text": "non habitabunt in terra Domini.\nReversus est Ephraim in Ægyptum,\net in Assyriis pollutum comedit."
+},
+{
+"id": "Hosea 9:4",
+"label": "Hosea 9:4",
+"text": "Non libabunt Domino vinum,\net non placebunt ei.\nSacrificia eorum quasi panis lugentium;\nomnes qui comedent eum, contaminabuntur:\nquia panis eorum animæ ipsorum:\nnon intrabit in domum Domini."
+},
+{
+"id": "Hosea 9:5",
+"label": "Hosea 9:5",
+"text": "Quid facietis in die solemni,\nin die festivitatis Domini?"
+},
+{
+"id": "Hosea 9:6",
+"label": "Hosea 9:6",
+"text": "Ecce enim profecti sunt a vastitate:\nÆgyptus congregabit eos;\nMemphis sepeliet eos:\ndesiderabile argentum eorum urtica hæreditabit,\nlappa in tabernaculis eorum."
+},
+{
+"id": "Hosea 9:7",
+"label": "Hosea 9:7",
+"text": "Venerunt dies visitationis,\nvenerunt dies retributionis.\nScitote, Israël,\nstultum prophetam,\ninsanum virum spiritualem,\npropter multitudinem iniquitatis tuæ,\net multitudinem amentiæ."
+},
+{
+"id": "Hosea 9:8",
+"label": "Hosea 9:8",
+"text": "Speculator Ephraim cum Deo meo,\npropheta laqueus ruinæ factus est super omnes vias ejus;\ninsania in domo Dei ejus."
+},
+{
+"id": "Hosea 9:9",
+"label": "Hosea 9:9",
+"text": "Profunde peccaverunt, sicut in diebus Gabaa.\nRecordabitur iniquitatis eorum,\net visitabit peccata eorum."
+},
+{
+"id": "Hosea 9:10",
+"label": "Hosea 9:10",
+"text": "Quasi uvas in deserto inveni Israël,\nquasi prima poma ficulneæ in cacumine ejus vidi patres eorum:\nipsi autem intraverunt ad Beelphegor,\net abalienati sunt in confusionem,\net facti sunt abominabiles sicut ea quæ dilexerunt."
+},
+{
+"id": "Hosea 9:11",
+"label": "Hosea 9:11",
+"text": "Ephraim quasi avis avolavit;\ngloria eorum a partu, et ab utero, et a conceptu."
+},
+{
+"id": "Hosea 9:12",
+"label": "Hosea 9:12",
+"text": "Quod etsi enutrierint filios suos,\nabsque liberis eos faciam in hominibus;\nsed et væ eis cum recessero ab eis!"
+},
+{
+"id": "Hosea 9:13",
+"label": "Hosea 9:13",
+"text": "Ephraim, ut vidi, Tyrus erat fundata in pulchritudine;\net Ephraim educet ad interfectorem filios suos."
+},
+{
+"id": "Hosea 9:14",
+"label": "Hosea 9:14",
+"text": "Da eis, Domine. Quid dabis eis?\nda eis vulvam sine liberis, et ubera arentia."
+},
+{
+"id": "Hosea 9:15",
+"label": "Hosea 9:15",
+"text": "Omnes nequitiæ eorum in Galgal,\nquia ibi exosos habui eos.\nPropter malitiam adinventionum eorum,\nde domo mea ejiciam eos;\nnon addam ut diligam eos:\nomnes principes eorum recedentes."
+},
+{
+"id": "Hosea 9:16",
+"label": "Hosea 9:16",
+"text": "Percussus est Ephraim;\nradix eorum exsiccata est:\nfructum nequaquam facient,\nquod etsi genuerint,\ninterficiam amantissima uteri eorum."
+},
+{
+"id": "Hosea 9:17",
+"label": "Hosea 9:17",
+"text": "Abjiciet eos Deus meus, quia non audierunt eum,\net erunt vagi in nationibus."
+},
+{
+"id": "Hosea 10:1",
+"label": "Hosea 10:1",
+"text": "Vitis frondosa Israël,\nfructus adæquatus est ei:\nsecundum multitudinem fructus sui multiplicavit altaria,\njuxta ubertatem terræ suæ exuberavit simulacris."
+},
+{
+"id": "Hosea 10:2",
+"label": "Hosea 10:2",
+"text": "Divisum est cor eorum, nunc interibunt;\nipse confringet simulacra eorum,\ndepopulabitur aras eorum."
+},
+{
+"id": "Hosea 10:3",
+"label": "Hosea 10:3",
+"text": "Quia nunc dicent: Non est rex nobis,\nnon enim timemus Dominum;\net rex quid faciet nobis?"
+},
+{
+"id": "Hosea 10:4",
+"label": "Hosea 10:4",
+"text": "Loquimini verba visionis inutilis, et ferietis fœdus;\net germinabit quasi amaritudo judicium super sulcos agri."
+},
+{
+"id": "Hosea 10:5",
+"label": "Hosea 10:5",
+"text": "Vaccas Bethaven coluerunt habitatores Samariæ;\nquia luxit super eum populus ejus,\net æditui ejus super eum exsultaverunt\nin gloria ejus, quia migravit ab eo."
+},
+{
+"id": "Hosea 10:6",
+"label": "Hosea 10:6",
+"text": "Siquidem et ipse in Assur delatus est,\nmunus regi ultori.\nConfusio Ephraim capiet,\net confundetur Israël in voluntate sua."
+},
+{
+"id": "Hosea 10:7",
+"label": "Hosea 10:7",
+"text": "Transire fecit Samaria regem suum\nquasi spumam super faciem aquæ."
+},
+{
+"id": "Hosea 10:8",
+"label": "Hosea 10:8",
+"text": "Et disperdentur excelsa idoli, peccatum Israël;\nlappa et tribulus ascendet super aras eorum:\net dicent montibus: Operite nos,\net collibus: Cadite super nos."
+},
+{
+"id": "Hosea 10:9",
+"label": "Hosea 10:9",
+"text": "Ex diebus Gabaa peccavit Israël;\nibi steterunt.\nNon comprehendet eos in Gabaa\nprælium super filios iniquitatis."
+},
+{
+"id": "Hosea 10:10",
+"label": "Hosea 10:10",
+"text": "Juxta desiderium meum corripiam eos:\ncongregabuntur super eos populi,\ncum corripientur propter duas iniquitates suas."
+},
+{
+"id": "Hosea 10:11",
+"label": "Hosea 10:11",
+"text": "Ephraim vitula docta diligere trituram,\net ego transivi super pulchritudinem colli ejus:\nascendam super Ephraim,\narabit Judas;\nconfringet sibi sulcos Jacob."
+},
+{
+"id": "Hosea 10:12",
+"label": "Hosea 10:12",
+"text": "Seminate vobis in justitia,\net metite in ore misericordiæ.\nInnovate vobis novale;\ntempus autem requirendi Dominum,\ncum venerit qui docebit vos justitiam."
+},
+{
+"id": "Hosea 10:13",
+"label": "Hosea 10:13",
+"text": "Arastis impietatem,\niniquitatem messuistis:\ncomedistis frugem mendacii,\nquia confisus es in viis tuis,\nin multitudine fortium tuorum."
+},
+{
+"id": "Hosea 10:14",
+"label": "Hosea 10:14",
+"text": "Consurget tumultus in populo tuo;\net omnes munitiones tuæ vastabuntur,\nsicut vastatus est Salmana a domo ejus qui judicavit Baal\nin die prælii, matre super filios allisa."
+},
+{
+"id": "Hosea 10:15",
+"label": "Hosea 10:15",
+"text": "Sic fecit vobis Bethel,\na facie malitiæ nequitiarum vestrarum."
+},
+{
+"id": "Hosea 11:1",
+"label": "Hosea 11:1",
+"text": "Sicut mane transiit, pertransiit rex Israël.\nQuia puer Israël, et dilexi eum;\net ex Ægypto vocavi filium meum."
+},
+{
+"id": "Hosea 11:2",
+"label": "Hosea 11:2",
+"text": "Vocaverunt eos, sic abierunt a facie eorum;\nBaalim immolabant, et simulacris sacrificabant."
+},
+{
+"id": "Hosea 11:3",
+"label": "Hosea 11:3",
+"text": "Et ego quasi nutritius Ephraim:\nportabam eos in brachiis meis,\net nescierunt quod curarem eos."
+},
+{
+"id": "Hosea 11:4",
+"label": "Hosea 11:4",
+"text": "In funiculis Adam traham eos,\nin vinculis caritatis;\net ero eis quasi exaltans jugum super maxillas eorum,\net declinavi ad eum ut vesceretur."
+},
+{
+"id": "Hosea 11:5",
+"label": "Hosea 11:5",
+"text": "Non revertetur in terram Ægypti, et Assur ipse rex ejus,\nquoniam noluerunt converti."
+},
+{
+"id": "Hosea 11:6",
+"label": "Hosea 11:6",
+"text": "Cœpit gladius in civitatibus ejus,\net consumet electos ejus,\net comedet capita eorum."
+},
+{
+"id": "Hosea 11:7",
+"label": "Hosea 11:7",
+"text": "Et populus meus pendebit ad reditum meum;\njugum autem imponetur eis simul, quod non auferetur."
+},
+{
+"id": "Hosea 11:8",
+"label": "Hosea 11:8",
+"text": "Quomodo dabo te, Ephraim?\nprotegam te, Israël?\nQuomodo dabo te sicut Adama,\nponam te ut Seboim?\nConversum est in me cor meum,\npariter conturbata est pœnitudo mea."
+},
+{
+"id": "Hosea 11:9",
+"label": "Hosea 11:9",
+"text": "Non faciam furorem iræ meæ;\nnon convertar ut disperdam Ephraim,\nquoniam Deus ego, et non homo;\nin medio tui sanctus,\net non ingrediar civitatem."
+},
+{
+"id": "Hosea 11:10",
+"label": "Hosea 11:10",
+"text": "Post Dominum ambulabunt;\nquasi leo rugiet,\nquia ipse rugiet,\net formidabunt filii maris."
+},
+{
+"id": "Hosea 11:11",
+"label": "Hosea 11:11",
+"text": "Et avolabunt quasi avis ex Ægypto,\net quasi columba de terra Assyriorum:\net collocabo eos in domibus suis, dicit Dominus."
+},
+{
+"id": "Hosea 11:12",
+"label": "Hosea 11:12",
+"text": "Circumdedit me in negatione Ephraim,\net in dolo domus Israël;\nJudas autem testis descendit cum Deo,\net cum sanctis fidelis."
+},
+{
+"id": "Hosea 12:1",
+"label": "Hosea 12:1",
+"text": "Ephraim pascit ventum,\net sequitur æstum;\ntota die mendacium et vastitatem multiplicat:\net fœdus cum Assyriis iniit,\net oleum in Ægyptum ferebat."
+},
+{
+"id": "Hosea 12:2",
+"label": "Hosea 12:2",
+"text": "Judicium ergo Domini cum Juda,\net visitatio super Jacob:\njuxta vias ejus, et juxta adinventiones ejus reddet ei."
+},
+{
+"id": "Hosea 12:3",
+"label": "Hosea 12:3",
+"text": "In utero supplantavit fratrem suum,\net in fortitudine sua directus est cum angelo."
+},
+{
+"id": "Hosea 12:4",
+"label": "Hosea 12:4",
+"text": "Et invaluit ad angelum, et confortatus est;\nflevit, et rogavit eum.\nIn Bethel invenit eum,\net ibi locutus est nobiscum."
+},
+{
+"id": "Hosea 12:5",
+"label": "Hosea 12:5",
+"text": "Et Dominus Deus exercituum,\nDominus memoriale ejus."
+},
+{
+"id": "Hosea 12:6",
+"label": "Hosea 12:6",
+"text": "Et tu ad Deum tuum converteris;\nmisericordiam et judicium custodi,\net spera in Deo tuo semper."
+},
+{
+"id": "Hosea 12:7",
+"label": "Hosea 12:7",
+"text": "Chanaan, in manu ejus statera dolosa,\ncalumniam dilexit."
+},
+{
+"id": "Hosea 12:8",
+"label": "Hosea 12:8",
+"text": "Et dixit Ephraim: Verumtamen dives effectus sum;\ninveni idolum mihi:\nomnes labores mei non invenient mihi iniquitatem quam peccavi."
+},
+{
+"id": "Hosea 12:9",
+"label": "Hosea 12:9",
+"text": "Et ego Dominus Deus tuus ex terra Ægypti:\nadhuc sedere te faciam in tabernaculis, sicut in diebus festivitatis."
+},
+{
+"id": "Hosea 12:10",
+"label": "Hosea 12:10",
+"text": "Et locutus sum super prophetas,\net ego visionem multiplicavi,\net in manu prophetarum assimilatus sum."
+},
+{
+"id": "Hosea 12:11",
+"label": "Hosea 12:11",
+"text": "Si Galaad idolum, ergo frustra erant in Galgal bobus immolantes;\nnam et altaria eorum quasi acervi super sulcos agri."
+},
+{
+"id": "Hosea 12:12",
+"label": "Hosea 12:12",
+"text": "Fugit Jacob in regionem Syriæ,\net servivit Israël in uxorem,\net in uxorem servavit."
+},
+{
+"id": "Hosea 12:13",
+"label": "Hosea 12:13",
+"text": "In propheta autem eduxit Dominus Israël de Ægypto,\net in propheta servatus est."
+},
+{
+"id": "Hosea 12:14",
+"label": "Hosea 12:14",
+"text": "Ad iracundiam me provocavit Ephraim in amaritudinibus suis:\net sanguis ejus super eum veniet,\net opprobrium ejus restituet ei Dominus suus."
+},
+{
+"id": "Hosea 13:1",
+"label": "Hosea 13:1",
+"text": "Loquente Ephraim, horror invasit Israël;\net deliquit in Baal, et mortuus est."
+},
+{
+"id": "Hosea 13:2",
+"label": "Hosea 13:2",
+"text": "Et nunc addiderunt ad peccandum;\nfeceruntque sibi conflatile de argento suo\nquasi similitudinem idolorum:\nfactura artificum totum est:\nhis ipsi dicunt: Immolate homines, vitulos adorantes."
+},
+{
+"id": "Hosea 13:3",
+"label": "Hosea 13:3",
+"text": "Idcirco erunt quasi nubes matutina,\net sicut ros matutinus præteriens;\nsicut pulvis turbine raptus ex area,\net sicut fumus de fumario."
+},
+{
+"id": "Hosea 13:4",
+"label": "Hosea 13:4",
+"text": "Ego autem Dominus Deus tuus, ex terra Ægypti;\net Deum absque me nescies,\net salvator non est præter me."
+},
+{
+"id": "Hosea 13:5",
+"label": "Hosea 13:5",
+"text": "Ego cognovi te in deserto,\nin terra solitudinis."
+},
+{
+"id": "Hosea 13:6",
+"label": "Hosea 13:6",
+"text": "Juxta pascua sua adimpleti sunt et saturati sunt;\net levaverunt cor suum, et obliti sunt mei."
+},
+{
+"id": "Hosea 13:7",
+"label": "Hosea 13:7",
+"text": "Et ego ero eis quasi leæna,\nsicut pardus in via Assyriorum."
+},
+{
+"id": "Hosea 13:8",
+"label": "Hosea 13:8",
+"text": "Occurram eis quasi ursa raptis catulis,\net dirumpam interiora jecoris eorum,\net consumam eos ibi quasi leo:\nbestia agri scindet eos."
+},
+{
+"id": "Hosea 13:9",
+"label": "Hosea 13:9",
+"text": "Perditio tua, Israël: tantummodo in me auxilium tuum."
+},
+{
+"id": "Hosea 13:10",
+"label": "Hosea 13:10",
+"text": "Ubi est rex tuus?\nmaxime nunc salvet te in omnibus urbibus tuis;\net judices tui, de quibus dixisti:\nDa mihi regem et principes."
+},
+{
+"id": "Hosea 13:11",
+"label": "Hosea 13:11",
+"text": "Dabo tibi regem in furore meo,\net auferam in indignatione mea."
+},
+{
+"id": "Hosea 13:12",
+"label": "Hosea 13:12",
+"text": "Colligata est iniquitas Ephraim;\nabsconditum peccatum ejus."
+},
+{
+"id": "Hosea 13:13",
+"label": "Hosea 13:13",
+"text": "Dolores parturientis venient ei:\nipse filius non sapiens:\nnunc enim non stabit in contritione filiorum."
+},
+{
+"id": "Hosea 13:14",
+"label": "Hosea 13:14",
+"text": "De manu mortis liberabo eos;\nde morte redimam eos.\nEro mors tua, o mors!\nmorsus tuus ero, inferne!\nconsolatio abscondita est ab oculis meis."
+},
+{
+"id": "Hosea 13:15",
+"label": "Hosea 13:15",
+"text": "Quia ipse inter fratres dividet:\nadducet urentem ventum Dominus de deserto ascendentem,\net siccabit venas ejus,\net desolabit fontem ejus:\net ipse diripiet thesaurum omnis vasis desiderabilis."
+},
+{
+"id": "Hosea 14:1",
+"label": "Hosea 14:1",
+"text": "Pereat Samaria, quoniam ad amaritudinem concitavit Deum suum!\nin gladio pereant,\nparvuli eorum elidantur,\net fœtæ ejus discindantur!"
+},
+{
+"id": "Hosea 14:2",
+"label": "Hosea 14:2",
+"text": "Convertere, Israël, ad Dominum Deum tuum,\nquoniam corruisti in iniquitate tua."
+},
+{
+"id": "Hosea 14:3",
+"label": "Hosea 14:3",
+"text": "Tollite vobiscum verba,\net convertimini ad Dominum; et dicite ei:\nOmnem aufer iniquitatem, accipe bonum,\net reddemus vitulos labiorum nostrorum."
+},
+{
+"id": "Hosea 14:4",
+"label": "Hosea 14:4",
+"text": "Assur non salvabit nos:\nsuper equum non ascendemus,\nnec dicemus ultra, Dii nostri opera manuum nostrarum:\nquia ejus, qui in te est, misereberis pupilli."
+},
+{
+"id": "Hosea 14:5",
+"label": "Hosea 14:5",
+"text": "Sanabo contritiones eorum;\ndiligam eos spontanee:\nquia aversus est furor meus ab eis."
+},
+{
+"id": "Hosea 14:6",
+"label": "Hosea 14:6",
+"text": "Ero quasi ros;\nIsraël germinabit sicut lilium,\net erumpet radix ejus ut Libani."
+},
+{
+"id": "Hosea 14:7",
+"label": "Hosea 14:7",
+"text": "Ibunt rami ejus,\net erit quasi oliva gloria ejus,\net odor ejus ut Libani."
+},
+{
+"id": "Hosea 14:8",
+"label": "Hosea 14:8",
+"text": "Convertentur sedentes in umbra ejus;\nvivent tritico, et germinabunt quasi vinea;\nmemoriale ejus sicut vinum Libani."
+},
+{
+"id": "Hosea 14:9",
+"label": "Hosea 14:9",
+"text": "Ephraim, quid mihi ultra idola?\nEgo exaudiam, et dirigam eum ego ut abietem virentem;\nex me fructus tuus inventus est."
+},
+{
+"id": "Hosea 14:10",
+"label": "Hosea 14:10",
+"text": "Quis sapiens, et intelliget ista? intelligens, et sciet hæc?\nquia rectæ viæ Domini,\net justi ambulabunt in eis;\nprævaricatores vero corruent in eis."
+}
+]
+}

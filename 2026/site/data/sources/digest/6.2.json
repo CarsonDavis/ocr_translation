@@ -1,0 +1,334 @@
+{
+"corpus": "digest",
+"unit": "6.2",
+"title": "D. 6.2 De publiciana in rem actione",
+"passages": [
+{
+"id": "6.2.1.pr",
+"label": "D. 6.2.1 pr. (Ulpianus)",
+"text": "Ait praetor: \"Si quis id quod traditur ex iusta causa non a domino et nondum usucaptum petet, iudicium dabo. \"",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "6.2.1.1",
+"label": "D. 6.2.1.1",
+"text": "Merito praetor ait \"nondum usucaptum\": nam si usucaptum est, habet civilem actionem nec desiderat honorariam."
+},
+{
+"id": "6.2.1.2",
+"label": "D. 6.2.1.2",
+"text": "Sed cur traditionis dumtaxat et usucapionis fecit mentionem, cum satis multae sunt iuris partes, quibus dominium quis nancisceretur? Ut puta legatum."
+},
+{
+"id": "6.2.2",
+"label": "D. 6.2.2 (Paulus)",
+"text": "Vel mortis causa donationes factae: nam amissa possessione competit publiciana, quia ad exemplum legatorum capiuntur.",
+"inscription": "Paulus libro 19 ad edictum"
+},
+{
+"id": "6.2.3.pr",
+"label": "D. 6.2.3 pr. (Ulpianus)",
+"text": "Sunt et aliae pleraeque.",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "6.2.3.1",
+"label": "D. 6.2.3.1",
+"text": "Ait praetor: \"Ex iusta causa petet.\" Qui igitur iustam causam traditionis habet, utitur publiciana: et non solum emptori bonae fidei competit publiciana, sed et aliis, ut puta ei cui dotis nomine tradita res est necdum usucapta: est enim iustissima causa, sive aestimata res in dotem data sit sive non. Item si res ex causa iudicati sit tradita."
+},
+{
+"id": "6.2.4",
+"label": "D. 6.2.4 (Paulus)",
+"text": "Vel solvendi causa.",
+"inscription": "Paulus libro 19 ad edictum"
+},
+{
+"id": "6.2.5",
+"label": "D. 6.2.5 (Ulpianus)",
+"text": "Vel ex causa noxae deditionis, sive vera causa sit sive falsa.",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "6.2.6",
+"label": "D. 6.2.6 (Paulus)",
+"text": "Item si servum ex causa noxali, quia non defendebatur, iussu praetoris duxero et amisero possessionem, competit mihi publiciana.",
+"inscription": "Paulus libro 19 ad edictum"
+},
+{
+"id": "6.2.7.pr",
+"label": "D. 6.2.7 pr. (Ulpianus)",
+"text": "Sed et si res adiudicata sit, publiciana actio competit.",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "6.2.7.1",
+"label": "D. 6.2.7.1",
+"text": "Si lis fuerit aestimata, similis est venditioni: et ait Iulianus libro vicensimo secundo digestorum, si optulit reus aestimationem litis, publicianam competere."
+},
+{
+"id": "6.2.7.2",
+"label": "D. 6.2.7.2",
+"text": "Marcellus libro septimo decimo digestorum scribit eum, qui a furioso ignorans eum furere emit, posse usucapere: ergo et publicianam habebit."
+},
+{
+"id": "6.2.7.3",
+"label": "D. 6.2.7.3",
+"text": "Sed et si quis ex lucrativis causis rem accepit, habet publicianam, quae etiam adversus donatorem competit: est enim iustus possessor et petitor, qui liberalitatem accepit."
+},
+{
+"id": "6.2.7.4",
+"label": "D. 6.2.7.4",
+"text": "Si a minore quis emerit ignorans eum minorem esse, habet publicianam."
+},
+{
+"id": "6.2.7.5",
+"label": "D. 6.2.7.5",
+"text": "Sed et si permutatio facta sit, eadem actio competit."
+},
+{
+"id": "6.2.7.6",
+"label": "D. 6.2.7.6",
+"text": "Publiciana actio ad instar proprietatis, non ad instar possessionis respicit."
+},
+{
+"id": "6.2.7.7",
+"label": "D. 6.2.7.7",
+"text": "Si petenti mihi rem iusiurandum detuleris egoque iuravero rem meam esse, competit publiciana mihi, sed adversus te dumtaxat: ei enim soli nocere debet iusiurandum, qui detulit. Sed si possessori delatum erit iusiurandum et iuraverit rem petitoris non esse, adversus eum solum petentem exceptione utetur, non ut et habeat actionem."
+},
+{
+"id": "6.2.7.8",
+"label": "D. 6.2.7.8",
+"text": "In publiciana actione omnia eadem erunt, quae et in rei vindicatione diximus."
+},
+{
+"id": "6.2.7.9",
+"label": "D. 6.2.7.9",
+"text": "Haec actio et heredi et honorariis successoribus competit."
+},
+{
+"id": "6.2.7.10",
+"label": "D. 6.2.7.10",
+"text": "Si ego non emero, sed servus meus, habebo publicianam. Idem est et si procurator meus vel tutor vel curator vel quis alius negotium meum gerens emerit."
+},
+{
+"id": "6.2.7.11",
+"label": "D. 6.2.7.11",
+"text": "Praetor ait: \"Qui bona fide emit.\" Non igitur omnis emptio proderit, sed ea, quae bonam fidem habet: proinde hoc sufficit me bonae fidei emptorem fuisse, quamvis non a domino emerim, licet ille callido consilio vendiderit: neque enim dolus venditoris mihi nocebit."
+},
+{
+"id": "6.2.7.12",
+"label": "D. 6.2.7.12",
+"text": "In hac actione non oberit mihi, si successor suum et dolo feci, cum is, in cuius locum successi, bona fide emisset: nec proderit, si dolo careo, cum emptor, cui successi, dolo fecisset."
+},
+{
+"id": "6.2.7.13",
+"label": "D. 6.2.7.13",
+"text": "Sed enim si servus meus emit, dolus eius erit spectandus, non meus, vel contra."
+},
+{
+"id": "6.2.7.14",
+"label": "D. 6.2.7.14",
+"text": "Publiciana tempus emptionis continet, et ideo neque quod ante emptionem neque quod postea dolo malo factum est in hac actione deduci pomponio videtur."
+},
+{
+"id": "6.2.7.15",
+"label": "D. 6.2.7.15",
+"text": "Bonam autem fidem solius emptoris continet."
+},
+{
+"id": "6.2.7.16",
+"label": "D. 6.2.7.16",
+"text": "Ut igitur publiciana competat, haec debent concurrere, ut et bona fide quis emerit et ei res empta eo nomine sit tradita: ceterum ante traditionem, quamvis bonae fidei quis emptor sit, experiri publiciana non poterit."
+},
+{
+"id": "6.2.7.17",
+"label": "D. 6.2.7.17",
+"text": "Iulianus libro septimo digestorum scripsit traditionem rei emptae oportere bona fide fieri: ideoque si sciens alienam possessionem adprehendit, publiciana eum experiri non posse, quia usucapere non poterit. Nec quisquam putet hoc nos existimare sufficere initio traditionis ignorasse rem alienam, uti quis possit publiciana experiri, sed oportere et tunc bona fide emptorem esse."
+},
+{
+"id": "6.2.8",
+"label": "D. 6.2.8 (Gaius)",
+"text": "De pretio vero soluto nihil exprimitur: unde potest coniectura capi, quasi nec sententia praetoris ea sit, ut requiratur, an solutum sit pretium.",
+"inscription": "Gaius libro septimo ad edictum provinciale"
+},
+{
+"id": "6.2.9.pr",
+"label": "D. 6.2.9 pr. (Ulpianus)",
+"text": "Sive autem emptori res tradita est sive heredi emptoris, publiciana competit actio.",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "6.2.9.1",
+"label": "D. 6.2.9.1",
+"text": "Si quis rem apud se depositam vel sibi commodatam emerit vel pignori sibi datam, pro tradita erit accipienda, si post emptionem apud eum remansit."
+},
+{
+"id": "6.2.9.2",
+"label": "D. 6.2.9.2",
+"text": "Sed et si praecessit traditio emptionem, idem erit dicendum."
+},
+{
+"id": "6.2.9.3",
+"label": "D. 6.2.9.3",
+"text": "Item si hereditatem emero et traditam mihi rem hereditariam petere velim, Neratius scribit esse publicianam."
+},
+{
+"id": "6.2.9.4",
+"label": "D. 6.2.9.4",
+"text": "Si duobus quis separatim vendiderit bona fide ementibus, videamus, quis magis publiciana uti possit, utrum is cui priori res tradita est an is qui tantum emit. Et Iulianus libro septimo digestorum scripsit, ut, si quidem ab eodem non domino emerint, potior sit cui priori res tradita est, quod si a diversis non dominis, melior causa sit possidentis quam petentis. Quae sententia vera est."
+},
+{
+"id": "6.2.9.5",
+"label": "D. 6.2.9.5",
+"text": "Haec actio in his quae usucapi non possunt, puta furtivis vel in servo fugitivo, locum non habet."
+},
+{
+"id": "6.2.9.6",
+"label": "D. 6.2.9.6",
+"text": "Si servus hereditarius ante aditam hereditatem aliquam rem emerit et traditam sibi possessionem amiserit, recte heres publiciana utitur, quasi ipse possedisset. Municipes quoque, quorum servo res tradita est, in eadem erunt condicione,"
+},
+{
+"id": "6.2.10",
+"label": "D. 6.2.10 (Paulus)",
+"text": "Sive peculiari nomine servus emerit sive non.",
+"inscription": "Paulus libro 19 ad edictum"
+},
+{
+"id": "6.2.11.pr",
+"label": "D. 6.2.11 pr. (Ulpianus)",
+"text": "Si ego emi et mea voluntate alii res sit tradita, imperator severus rescripsit publicianam illi dandam.",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "6.2.11.1",
+"label": "D. 6.2.11.1",
+"text": "Si de usu fructu agatur tradito, publiciana datur: itemque servitutibus urbanorum praediorum per traditionem constitutis vel per patientiam ( forte si per domum quis suam passus est aquae ductum transduci): item rusticorum, nam et hic traditionem et patientiam tuendam constat."
+},
+{
+"id": "6.2.11.2",
+"label": "D. 6.2.11.2",
+"text": "Partus ancillae furtivae, qui apud bonae fidei emptorem conceptus est, per hanc actionem petendus est, etiamsi ab eo qui emit possessus non est. Sed heres furis hanc actionem non habet, quia vitiorum defuncti successor est."
+},
+{
+"id": "6.2.11.3",
+"label": "D. 6.2.11.3",
+"text": "Interdum tamen, licet furtiva mater distracta non sit, sed donata ignoranti mihi et apud me conceperit et pepererit, competit mihi in partu publiciana, ut Iulianus ait, si modo eo tempore, quo experiar, furtivam matrem ignorem."
+},
+{
+"id": "6.2.11.4",
+"label": "D. 6.2.11.4",
+"text": "Idem Iulianus generaliter dicit, ex qua causa matrem usucapere possem, si furtiva non esset, ex ea causa partum me usucapere, si furtivam esse matrem ignorabam: ex omnibus igitur causis publicianam habebo."
+},
+{
+"id": "6.2.11.5",
+"label": "D. 6.2.11.5",
+"text": "Idem est et si ex partu partus est et si non natus, sed post mortem matris exsecto ventre eius extractus est, ut et Pomponius libro quadragensimo scripsit."
+},
+{
+"id": "6.2.11.6",
+"label": "D. 6.2.11.6",
+"text": "Idem ait aedibus emptis, si fuerint dirutae, ea quae aedificio accesserunt huiusmodi actione petenda."
+},
+{
+"id": "6.2.11.7",
+"label": "D. 6.2.11.7",
+"text": "Quod tamen per alluvionem fundo accessit, simile fit ei cui accedit: et ideo si ipse fundus publiciana peti non potest, non hoc petetur, si autem potest, et ad partem, quae per alluvionem accessit: et ita Pomponius scribit."
+},
+{
+"id": "6.2.11.8",
+"label": "D. 6.2.11.8",
+"text": "Idem adicit et si statuae emptae partes recisae petantur, similem actionem proficere."
+},
+{
+"id": "6.2.11.9",
+"label": "D. 6.2.11.9",
+"text": "Idem scribit, si aream emero et insulam in ea aedificavero, recte me publiciana usurum."
+},
+{
+"id": "6.2.11.10",
+"label": "D. 6.2.11.10",
+"text": "Item, inquit, si insulam emi et ad aream ea pervenit, aeque potero uti publiciana."
+},
+{
+"id": "6.2.12.pr",
+"label": "D. 6.2.12 pr. (Paulus)",
+"text": "Cum sponsus sponsae servum donasset eumque in dotem accepisset ante usucapionem, rescriptum est a divo pio divortio facto restituendum esse servum: nam valuisse donationem inter sponsum et sponsam. Dabitur ergo et possidenti exceptio et amissa possessione publiciana, sive extraneus sive donator possideat.",
+"inscription": "Paulus libro 19 ad edictum"
+},
+{
+"id": "6.2.12.1",
+"label": "D. 6.2.12.1",
+"text": "Is cui ex Trebelliano hereditas restituta est, etiamsi non fuerit nactus possessionem, uti potest publiciana."
+},
+{
+"id": "6.2.12.2",
+"label": "D. 6.2.12.2",
+"text": "In vectigalibus et in aliis praediis, quae usucapi non possunt, publiciana competit, si forte bona fide mihi tradita est."
+},
+{
+"id": "6.2.12.3",
+"label": "D. 6.2.12.3",
+"text": "Idem est et si superficiariam insulam a non domino bona fide emero."
+},
+{
+"id": "6.2.12.4",
+"label": "D. 6.2.12.4",
+"text": "Si res talis sit, ut eam lex aut constitutio alienari prohibeat, eo casu publiciana non competit, quia his casibus neminem praetor tuetur, ne contra leges faciat."
+},
+{
+"id": "6.2.12.5",
+"label": "D. 6.2.12.5",
+"text": "Publiciana actionem etiam de infante servo nondum anniculo uti possumus."
+},
+{
+"id": "6.2.12.6",
+"label": "D. 6.2.12.6",
+"text": "Si pro parte quis rem petere vult, publiciana actione uti potest."
+},
+{
+"id": "6.2.12.7",
+"label": "D. 6.2.12.7",
+"text": "Sed etiam is, qui momento possedit, recte hac actione experiretur."
+},
+{
+"id": "6.2.13.pr",
+"label": "D. 6.2.13 pr. (Gaius)",
+"text": "Quaecumque sunt iustae causae adquirendarum rerum, si ex his causis nacti res amiserimus, dabitur nobis earum rerum persequendarum gratia haec actio.",
+"inscription": "Gaius libro septimo ad edictum provinciale"
+},
+{
+"id": "6.2.13.1",
+"label": "D. 6.2.13.1",
+"text": "Interdum quibusdam nec ex iustis possessionibus competit publicianum iudicium: namque pigneraticiae et precariae possessiones iustae sunt, sed ex his non solet competere tale iudicium, illa scilicet ratione, quia neque creditor neque is qui precario rogavit eo animo nanciscitur possessionem, ut credat se dominum esse."
+},
+{
+"id": "6.2.13.2",
+"label": "D. 6.2.13.2",
+"text": "Qui a pupillo emit, probare debet tutore auctore lege non prohibente se emisse. Sed et si deceptus falso tutore auctore emerit, bona fide emisse videtur."
+},
+{
+"id": "6.2.14",
+"label": "D. 6.2.14 (Ulpianus)",
+"text": "Papinianus libro sexto quaestionum scribit: si quis prohibuit vel denuntiavit ex causa venditionis tradi rem, quae ipsius voluntate a procuratore fuerat distracta, et is nihilo minus tradiderit, emptorem tuebitur praetor, sive possideat sive petat rem. Sed quod iudicio empti procurator emptori praestiterit, contrario iudicio mandati consequetur: potest enim fieri, ut emptori res auferatur ab eo, qui venire mandavit, quia per ignorantiam non est usus exceptione, quam debuit opponere, veluti: \"si non auctor meus ex voluntate tua vendidit. \"",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "6.2.15",
+"label": "D. 6.2.15 (Pomponius)",
+"text": "Si servus meus, cum in fuga sit, rem a non domino emat, publiciana mihi competere debet, licet possessionem rei traditae per eum nactus non sim.",
+"inscription": "Pomponius libro tertio ad Sabinum"
+},
+{
+"id": "6.2.16",
+"label": "D. 6.2.16 (Paulus)",
+"text": "Exceptio iusti dominii publicianae obicienda est.",
+"inscription": "Paulus notum ad Papiniani libro decimo quaestionum"
+},
+{
+"id": "6.2.17",
+"label": "D. 6.2.17 (Neratius)",
+"text": "Publiciana actio non ideo comparata est, ut res domino auferatur: eiusque rei argumentum est primo aequitas, deinde exceptio \"si ea res possessoris non sit\": sed ut is, qui bona fide emit possessionemque eius ex ea causa nactus est, potius rem habeat.",
+"inscription": "Neratius libro tertio membranarum"
+}
+]
+}

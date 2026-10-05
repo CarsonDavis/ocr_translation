@@ -1,0 +1,732 @@
+{
+"corpus": "digest",
+"unit": "49.14",
+"title": "D. 49.14 De iure fisci",
+"passages": [
+{
+"id": "49.14.1.pr",
+"label": "D. 49.14.1 pr. (Callistratus)",
+"text": "Variae causae sunt, ex quibus nuntiatio ad fiscum fieri solet. Aut enim se quis, quod tacite relictum est, profitetur capere non posse vel ab alio praeventus defertur: vel quod mors ab heredibus non vindicatur: vel quod indignus quis heres nuntiatur: vel quod princeps heres institutus et testamentum sive codicilli subrepti esse nuntiantur: vel quod dicatur quis thensaurum invenisse: vel magni pretii rem minoris ex fisco comparasse: vel praevaricatione fiscum victum esse: vel eum decessisse, qui in capitali crimine esset: vel etiam post mortem aliquem reum esse: vel domum destructam esse: vel ab accusatione recessum: vel rem litigiosam venumdari: vel poenam fisco ex contractu privato deberi: vel adversus leges commissum factum esse.",
+"inscription": "Callistratus libro primo de iure fisci"
+},
+{
+"id": "49.14.1.1",
+"label": "D. 49.14.1.1",
+"text": "An bona, quae solvendo non sint, ipso iure ad fiscum pertineant, quaesitum est. Labeo scribit etiam ea, quae solvendo non sint, ipso iure ad fiscum pertinere. Sed contra sententiam eius edictum perpetuum scriptum est, quod ita bona veneunt, si ex his fisco adquiri nihil possit."
+},
+{
+"id": "49.14.1.2",
+"label": "D. 49.14.1.2",
+"text": "Divus Pius Coelio Amaranto ita rescripsit vacantium bonorum nuntiationem quadriennio finiri idque tempus ex die, quo certum esse coepit neque heredem neque bonorum possessorem exstare, computari oportere."
+},
+{
+"id": "49.14.1.3",
+"label": "D. 49.14.1.3",
+"text": "Praescriptio autem viginti annorum, quae etiam circa requirendorum adnotatorum bona observatur, ex constitutione divi Titi solet ex eo numerari, ex quo quid ad fiscum pertinere potuit."
+},
+{
+"id": "49.14.1.4",
+"label": "D. 49.14.1.4",
+"text": "Causae autem, quae statim motae sunt et tractae ultra vicensimum annum, differri possunt etiam post vicensimum annum."
+},
+{
+"id": "49.14.1.5",
+"label": "D. 49.14.1.5",
+"text": "Illae quoque causae, quae a priore nuntiatore proditae dicantur, etiam post annos, quibus praescribi diximus, fisco nuntiari possunt."
+},
+{
+"id": "49.14.2.pr",
+"label": "D. 49.14.2 pr. (Callistratus)",
+"text": "Ex quibusdam causis delatione suscipientium fama non laeditur, veluti eorum, qui non praemii consequendi, item eorum, qui ulciscendi gratia adversarium suum deferunt, vel quod nomine rei publicae suae quis exsequitur causam: et haec ita observari plurifariam principalibus constitutionibus praecipitur.",
+"inscription": "Callistratus libro secundo de iure fisci"
+},
+{
+"id": "49.14.2.1",
+"label": "D. 49.14.2.1",
+"text": "Divus Hadrianus Flavio Arriano in haec verba rescripsit: \"Quin ei, qui instrumenta ad causam fisci pertinentia, cum possit exhibere, non exhibet, nocere debeat, si verum aliter non invenitur, ea subtracta esse credantur, quae nocitura causae eius fuerint, dubitatum non est. Sed nec alias dubitari oportet, quin non in aliam rem nocere debeant, quam in eam qua desiderata sunt\"."
+},
+{
+"id": "49.14.2.2",
+"label": "D. 49.14.2.2",
+"text": "Item divi fratres ad libellum Cornelii Rufi rescripserunt totiens edenda esse instrumenta, quotiens de iure capiendi vel de iure dominii vel de aliqua causa simili re nummaria quaeratur, non si de capitali causa agatur."
+},
+{
+"id": "49.14.2.3",
+"label": "D. 49.14.2.3",
+"text": "Senatus censuit, ut, si neque delator neque possessor tribus edictis evocati adfuerint, delatoris quidem fideiussores teneantur et ei postea publicam causam deferendi ius adimatur, possessoris autem ius idem esset, quod si delatus omnino non esset."
+},
+{
+"id": "49.14.2.4",
+"label": "D. 49.14.2.4",
+"text": "Quotiens tamen delator adesse iussus cessat nec hoc fraude possessoris factum esse probabitur, divus Hadrianus rescripsit secundum possessorem pronuntiari oportere, ita ut sententia comprehendatur etiam delatores edicto id comprehendisse."
+},
+{
+"id": "49.14.2.5",
+"label": "D. 49.14.2.5",
+"text": "Divus Pius Caecilio Maximo rescripsit constitutionem patris sui, qua compelleretur delator edere mandatorem ac, nisi edidisset, ut in vincula deduceretur, eo pertinere, non ut delator poena subduceretur, si mandatorem haberet, sed ut mandator quoque perinde atque si ipse detulisset puniretur."
+},
+{
+"id": "49.14.2.6",
+"label": "D. 49.14.2.6",
+"text": "Imperator noster Severus Augustus constituit, ne servi delatores dominorum audiantur, sed ut poena coerceantur: libertos quoque causae mandatores contra patronos a praesidibus provinciarum poenae plectendos."
+},
+{
+"id": "49.14.2.7",
+"label": "D. 49.14.2.7",
+"text": "Complura sunt rescripta principalia, quibus cavetur non obesse errorem cuiquam, quod ignotus iuris sui ipse se detulerit. Sed extat eorundem principum rescriptum, ex quo videtur posse defendi ita demum non nocere cuiquam se detulisse, si ea persona sit, quae ignorare propter rusticitatem vel propter sexum femininum ius suum possit."
+},
+{
+"id": "49.14.3.pr",
+"label": "D. 49.14.3 pr. (Callistratus)",
+"text": "Non intellegitur fraudem legi fecisse, qui rogatus est palam restituere. Sed cum quidam testamento suo ita scripsisset: \"Vos rogo, ut in eo, quod a vobis peti, fidem praestetis: perque deum, ut faciatis, rogo\" et quaereretur, an id palam datum intellegeretur: Iulianus respondit non quidem apparere, quid ab heredibus ex huiusmodi verbis petitum est. Quaeri autem solere, quando intellegatur quis in fraudem legis fidem suam accommodare: et fere eo iam decursum, ut fraus legi fieri videatur, quotiens quis neque testamento neque codicillis rogaretur, sed domestica cautione et chirographo obligaret se ad praestandum ei qui capere non potest: ideoque dici posse ex supra dictis verbis non esse legi fraudem factam.",
+"inscription": "Callistratus libro tertio de iure fisci"
+},
+{
+"id": "49.14.3.1",
+"label": "D. 49.14.3.1",
+"text": "Si quis palam rogatus et tacite esset, agitabatur, quid magis praevaleret: utrum id ipsum noceret, quod tacite rogatus esset, an prodesset, quod palam petitum esset. Et divus Hadrianus rescripsit in eo, quod cuiusque fidei palam commissum est, non esse existimandum fidem suam in fraudem legis accommodasse."
+},
+{
+"id": "49.14.3.2",
+"label": "D. 49.14.3.2",
+"text": "Quando autem fraus interposita videatur, agendum est, id est utrum exitus spectari deberet an consilium: forte si tunc, cum tacite fideicommittebatur, non capiebat is, cui restitui iubebatur, mortis vero tempore capere poterat, vel contra. Et placuit exitum esse spectandum."
+},
+{
+"id": "49.14.3.3",
+"label": "D. 49.14.3.3",
+"text": "Tacita autem fideicommissa frequenter sic deteguntur, si proferatur chirographum, quo se cavisset cuius fides eligitur, quod ad eum ex bonis defuncti pervenerit, restituturum. Sed et ex aliis probationibus manifestissimis idem fit."
+},
+{
+"id": "49.14.3.4",
+"label": "D. 49.14.3.4",
+"text": "Cum ex causa taciti fideicommissi bona ad fiscum pertinent, omnia, quae in testamento utiliter data sunt, valent: et ita divus Pius rescripsit."
+},
+{
+"id": "49.14.3.5",
+"label": "D. 49.14.3.5",
+"text": "Divi fratres rescripserunt in venditionibus fiscalibus fidem et diligentiam a procuratore exigendam et iusta pretia non ex praeterita emptione, sed ex praesenti aestimatione constitui: sicut enim diligenti cultura pretia praediorum ampliantur, ita, si neglegentius habita sint, minui ea necesse est."
+},
+{
+"id": "49.14.3.6",
+"label": "D. 49.14.3.6",
+"text": "Cum quinquennium, in quo quis pro publico conductore se obligavit, excessit, sequentis temporis nomine non tenetur: idque principalibus rescriptis exprimitur. Divus etiam Hadrianus in haec verba rescripsit: \"Valde inhumanus mos est iste, quo retinentur conductores vectigalium publicorum et agrorum, si tantidem locari non possint. Nam et facilius invenientur conductores, si scierint fore ut, si peracto lustro discedere voluerint, non teneantur\"."
+},
+{
+"id": "49.14.3.7",
+"label": "D. 49.14.3.7",
+"text": "Si posteriori creditori fiscus successerit, eo iure utitur, quo is usurus erat, cui successit."
+},
+{
+"id": "49.14.3.8",
+"label": "D. 49.14.3.8",
+"text": "Multa principalia sunt rescripta, quibus cavetur non aliter fiscum debitorum suorum debitores convenire, nisi principales debitores defecerint, vel ex ratione fisci nomina facta liquido probentur, vel ex contractu fiscali debitores conveniantur."
+},
+{
+"id": "49.14.3.9",
+"label": "D. 49.14.3.9",
+"text": "Divus Hadrianus Flavio Proculo rescripsit, cum in libertatem proclamat qui ex bonis ad fiscum pertinentibus esse dicitur, iudicium dari praesentibus et agentibus etiam his, qui negotiis fisci solent intervenire: et huiusmodi liberales causae, si non interveniente fisci advocato decisae sint, in integrum restituuntur."
+},
+{
+"id": "49.14.3.10",
+"label": "D. 49.14.3.10",
+"text": "Si in locis fiscalibus vel publicis religiosisve aut in monumentis thensauri reperti fuerint, divi fratres constituerunt, ut dimidia pars ex his fisco vindicaretur. Item si in Caesaris possessione repertus fuerit, dimidiam aeque partem fisco vindicari."
+},
+{
+"id": "49.14.3.11",
+"label": "D. 49.14.3.11",
+"text": "Deferre autem se nemo cogitur, quod thensaurum invenerit, nisi ex eo thensauro pars fisco debeatur. Qui autem, cum in loco fisci thensaurum invenerit, partem ad fiscum pertinentem suppresserit, totum cum altero tanto cogitur solvere."
+},
+{
+"id": "49.14.4",
+"label": "D. 49.14.4 (Ulpianus)",
+"text": "In fisci causis pacti cum delatoribus pro confessis habentur, si modo pretium vel modicum dederunt.",
+"inscription": "Ulpianus libro sexto ad edictum"
+},
+{
+"id": "49.14.5.pr",
+"label": "D. 49.14.5 pr. (Ulpianus)",
+"text": "Si curator caesaris rem aliquam vendiderit, quamvis duplum vel triplum pro evictione promiserit, tamen fiscus simplum praestabit.",
+"inscription": "Ulpianus libro 16 ad edictum"
+},
+{
+"id": "49.14.5.1",
+"label": "D. 49.14.5.1",
+"text": "Si ab eo, cui ius distrahendi res fisci datum est, fuerit distractum quid fisci, statim fit emptoris, pretio tamen soluto."
+},
+{
+"id": "49.14.6.pr",
+"label": "D. 49.14.6 pr. (Ulpianus)",
+"text": "Fiscus cum in privati ius succedit, privati iure pro anterioribus suae successionis temporibus utitur: ceterum posteaquam successit, habebit privilegium suum. Sed utrum statim atque coepit ad eum pertinere nomen, an vero posteaquam convenit debitorem, an posteaquam relatum est inter nomina debitorum, quaeritur. Et quidem usuras exinde petit fiscales, etsi breviores debeantur, ex quo convenit certum debitorem et confitentem. At in privilegio varie rescriptum est: puto tamen exinde privilegio esse locum, ex quo inter nomina debitorum relatum nomen est.",
+"inscription": "Ulpianus libro 63 ad edictum"
+},
+{
+"id": "49.14.6.1",
+"label": "D. 49.14.6.1",
+"text": "Quodcumque privilegii fisco competit, hoc idem et Caesaris ratio et Augustae habere solet."
+},
+{
+"id": "49.14.7",
+"label": "D. 49.14.7 (Ulpianus)",
+"text": "Si fiscus alicui status controversiam faciat, fisci advocatus adesse debet. Quare si sine fisci advocato pronuntiatum sit, divus Marcus rescripsit nihil esse actum et ideo ex integro cognosci oportere.",
+"inscription": "Ulpianus libro 54 ad edictum"
+},
+{
+"id": "49.14.8",
+"label": "D. 49.14.8 (Modestinus)",
+"text": "Bonorum fisco vindicatorum actores venundari a procuratoribus non possunt, et, si distrahantur, irritam fieri venditionem rescriptum est.",
+"inscription": "Modestinus libro quinto regularum"
+},
+{
+"id": "49.14.9",
+"label": "D. 49.14.9 (Modestinus)",
+"text": "Lucius Titius fecit heredes sororem suam ex dodrante, uxorem Maeviam et socerum ex reliquis portionibus: eius testamentum postumo nato ruptum est, qui postumus brevi et ipse decessit, atque ita omnis hereditas ad matrem postumi devoluta est. Soror testatoris Maeviam veneficii in Lucium Titium accusavit: cum non optinuisset, provocavit: interea decessit rea: nihilo minus tamen apostoli redditi sunt. Quaero, an putes extincta rea cognitionem appellationis inducendam propter hereditatem quaesitam. Modestinus respondit morte reae crimine extincto persecutionem eorum, quae scelere adquisita probari possunt, fisco competere posse.",
+"inscription": "Modestinus libro 17 responsorum"
+},
+{
+"id": "49.14.10",
+"label": "D. 49.14.10 (Modestinus)",
+"text": "Non puto delinquere eum, qui in dubiis quaestionibus contra fiscum facile responderit.",
+"inscription": "Modestinus libro singulari de praescriptionibus"
+},
+{
+"id": "49.14.11",
+"label": "D. 49.14.11 (Iavolenus)",
+"text": "Non possunt ulla bona ad fiscum pertinere, nisi quae creditoribus superfutura sunt: id enim bonorum cuiusque esse intellegitur, quod aeri alieno superest.",
+"inscription": "Iavolenus libro nono epistularum"
+},
+{
+"id": "49.14.12",
+"label": "D. 49.14.12 (Callistratus)",
+"text": "In metallum damnatis libertas adimitur, cum etiam verberibus servilibus coercentur. Sane per huiusmodi personam fisco nihil adquiri divus Pius rescripsit: et ideo quod legatum erat ei, qui postea in metallum damnatus erat, ad fiscum non pertinere rescripsit magisque ait poenae eos quam fisci servos esse.",
+"inscription": "Callistratus libro sexto de cognitionibus"
+},
+{
+"id": "49.14.13.pr",
+"label": "D. 49.14.13 pr. (Paulus)",
+"text": "Edicto divi Traiani, quod proposui, significatur, ut, si quis, antequam causa eius ad aerarium deferatur, professus esset eam rem quam possideret capere sibi non licere, ex ea partem fisco inferret, partem ipse retineret.",
+"inscription": "Paulus libro septimo ad legem Iuliam et Papiam"
+},
+{
+"id": "49.14.13.1",
+"label": "D. 49.14.13.1",
+"text": "Idem postea edicto significavit, ut, quaecumque professa esset vel palam vel tacite relictum sibi quod capere non posset et probasset iam id ad fiscum pertinere: etiamsi id non possideret, ex eo, quod redactum esset a praefectis aerario, partem dimidiam ferat."
+},
+{
+"id": "49.14.13.2",
+"label": "D. 49.14.13.2",
+"text": "Nihil autem interest, quae causa impediat ius capiendi."
+},
+{
+"id": "49.14.13.3",
+"label": "D. 49.14.13.3",
+"text": "Id autem deferri debet, quod latet, non id quod fisci est."
+},
+{
+"id": "49.14.13.4",
+"label": "D. 49.14.13.4",
+"text": "Ad heredes eius, qui se detulerat, non videbatur praemium transire: sed divus Hadrianus rescripsit, ut, licet ante decessisset is qui se detulerat, antequam id quod detulerat fisco addiceretur, heredi eius praemium daretur."
+},
+{
+"id": "49.14.13.5",
+"label": "D. 49.14.13.5",
+"text": "Exstat eiusdem Hadriani epistula, ut, si is qui se deferre poterat morte praeventus fuerit, heres eius, si detulerit, praemium consequatur: \"Si tamen\", inquit, \"liquebit defunctum eius animi fuisse, ut se vellet deferre\": si vero idcirco dissimulaverit, dum rem occultari sperat, heredem eius ultra vulgare praemium nihil consecuturum."
+},
+{
+"id": "49.14.13.6",
+"label": "D. 49.14.13.6",
+"text": "Item divi fratres rescripserunt heredes eorum, quibus tacitum fideicommissum relictum est, ita demum ex beneficio Traiani deferre se posse, si is, cui datum fuerat, morte praeventus esset et ideo per angustias temporis deferre se non potuerit."
+},
+{
+"id": "49.14.13.7",
+"label": "D. 49.14.13.7",
+"text": "Cum ante apertum testamentum tacitum fideicommissum nuntiatum esset ab his, qui fidem tacitam susceperunt, deinde post apertas a fideicommissario delatum esset, divus Antoninus recipi professionem eius iussit: neque enim dignam esse praemio tam praecipitem festinationem prioris, et cum quis se nuntiet non capere, potius confiteri de suo iure quam aliud deferre videtur."
+},
+{
+"id": "49.14.13.8",
+"label": "D. 49.14.13.8",
+"text": "Ad eos beneficium Traiani pertinet, qui ex defuncti voluntate relictum sibi capere non possunt. Ergo nec illud, quod servo meo relictum est, deferre potero."
+},
+{
+"id": "49.14.13.9",
+"label": "D. 49.14.13.9",
+"text": "Eos, qui quasi indigni repelluntur, summovendos esse ab eiusmodi praemio: id est eos, qui de inofficioso egerunt vel falsum dixerunt testamentum, qui usque ad finem litis obpugnaverunt testamentum."
+},
+{
+"id": "49.14.13.10",
+"label": "D. 49.14.13.10",
+"text": "Ei, qui per errorem se detulit, cum capere solidum posset, non nocere hoc divus Hadrianus et divus Pius et fratres rescripserunt."
+},
+{
+"id": "49.14.14",
+"label": "D. 49.14.14 (Gaius)",
+"text": "Dicitur, ex asse hereditates ex Silaniano cum fiscus vindicasset, ut nec libertates nec legata tueatur. Qquod aperte nullam habet rationem, cum ex quibuslibet aliis causis fisco vindicatis hereditatibus et libertates et legata maneant.",
+"inscription": "Gaius libro 11 ad legem Iuliam et Papiam"
+},
+{
+"id": "49.14.15.pr",
+"label": "D. 49.14.15 pr. (Mauricius)",
+"text": "Senatus censuit, si delator abolitionem petat, quod errasse se dicat, ut idem iudex cognoscat, an iusta causa abolitionis sit, et si errasse videbitur, det imprudentiae veniam, si autem calumniae, hoc ipsum iudicet eaque causa accusatori perinde cedat, ac si causam egisset et prodidisset.",
+"inscription": "Mauricius libro tertio ad legem Iuliam et Papiam"
+},
+{
+"id": "49.14.15.1",
+"label": "D. 49.14.15.1",
+"text": "Si quis delatorem subiecerit, tantum in aerarium deferat, quantum praemii nomine delator consecuturus fuisset, si vincisset."
+},
+{
+"id": "49.14.15.2",
+"label": "D. 49.14.15.2",
+"text": "Divus Hadrianus rescripsit eandem poenam delatorem ferre debere, si citatus ad edictum non responderit, qua teneretur, si causam non probasset."
+},
+{
+"id": "49.14.15.3",
+"label": "D. 49.14.15.3",
+"text": "Senatus Hadriani temporibus censuit, cum quis se ad aerarium detulerit, quod capere non potuerit, ut totum in aerarium colligatur et ex eo pars dimidia sibi secundum beneficium divi Traiani restituatur."
+},
+{
+"id": "49.14.15.4",
+"label": "D. 49.14.15.4",
+"text": "Quod si tribus edictis a praefecto aerario adesse delator iussus venire noluerit, secundum possessorem sit pronuntiandum: sed ab eo, qui ita adesse iussus respondente possessore non adfuerit, tantum exigendum, quantum apud aerarium ex ea causa quam detulerit remaneret, si professionem eam implesset."
+},
+{
+"id": "49.14.15.5",
+"label": "D. 49.14.15.5",
+"text": "Senatus censuit, ut perinde rationes ad aerarium deferat is, a quo tota hereditas fisco evicta est vel universa legata, atque is deferre deberet, a quo pars hereditatis vel legati evicta sit."
+},
+{
+"id": "49.14.15.6",
+"label": "D. 49.14.15.6",
+"text": "Si quis arguetur falsas rationes detulisse, de eo praefectus aerarii cognoscat, quantam fraudem invenerit, ut tantam pecuniam in aerario iubeat inferri."
+},
+{
+"id": "49.14.16",
+"label": "D. 49.14.16 (Ulpianus)",
+"text": "Ait divus Traianus: \"Quicumque professus fuerit\". \"Quicumque\" accipere debemus tam masculum quam feminam: nam feminis quoque, quamvis delationibus prohibentur, tamen ex beneficio Traiani deferre se permissum est. Nec non illud aeque non intererit, cuius aetatis sit is qui se defert, utrum iustae an pupillaris: nam pupillis etiam permittitur deferre se, ex quibus non capiunt.",
+"inscription": "Ulpianus libro 18 ad legem Iuliam et Papiam"
+},
+{
+"id": "49.14.17",
+"label": "D. 49.14.17 (Modestinus)",
+"text": "In summa sciendum est omnium fiscalium poenarum petitionem creditoribus postponi.",
+"inscription": "Modestinus libro secundo de poenis"
+},
+{
+"id": "49.14.18.pr",
+"label": "D. 49.14.18 pr. (Marcianus)",
+"text": "Deferre non possunt mulieres propter sexus infirmitatem, et ita sacris constitutionibus cautum est.",
+"inscription": "Marcianus libro singulari de delatoribus"
+},
+{
+"id": "49.14.18.1",
+"label": "D. 49.14.18.1",
+"text": "Item clarissimi viri deferre non possunt."
+},
+{
+"id": "49.14.18.2",
+"label": "D. 49.14.18.2",
+"text": "Item damnati deferre non possunt, ut divi fratres de eo rescripserunt, qui fustibus caesus in opus publicum erat datus."
+},
+{
+"id": "49.14.18.3",
+"label": "D. 49.14.18.3",
+"text": "Item constitutionibus principum prohibentur deferre illi, qui in metallum dati sunt. hoc ideo, ne desperati ad delationem facile possint sine causa confugere."
+},
+{
+"id": "49.14.18.4",
+"label": "D. 49.14.18.4",
+"text": "Sed eas causas, quas ante damnationem coeperunt deferre, posse eos etiam post damnationem exequi rescriptum est."
+},
+{
+"id": "49.14.18.5",
+"label": "D. 49.14.18.5",
+"text": "Veterani quoque sacris constitutionibus delatores esse prohibentur propter honorem utique et merita militiae."
+},
+{
+"id": "49.14.18.6",
+"label": "D. 49.14.18.6",
+"text": "Item milites propter honorem stipendiorum quae merent deferre prohibentur."
+},
+{
+"id": "49.14.18.7",
+"label": "D. 49.14.18.7",
+"text": "Sed communem causam sibi cum fisco quivis deferre potest, hoc est vindicare, nec per hoc famosus est, licet in causa sua non optinuerit."
+},
+{
+"id": "49.14.18.8",
+"label": "D. 49.14.18.8",
+"text": "Item eos, qui tutores vel curatores fuerunt, non oportere deferre causas pupillorum vel adulescentium suorum divi Severus et Antoninus rescripserunt. Quod consequens est observari et in eo, qui quasi procurator negotia gessit: et ita idem principes rescripserunt. Idem decreverunt nulla constitutione prohibitum esse procuratorem interrogari, sed accusare eum, cuius negotia gessit. Et tutorem, qui aut detulit aut mandavit, severissime puniendum rescripserunt."
+},
+{
+"id": "49.14.18.9",
+"label": "D. 49.14.18.9",
+"text": "Sed ne quidem is, qui aliquam vendidit rem, eandem deferre debet vel per se vel per subiectam personam, ne alioquin poenam patiatur dignam suae personae, ut et constitutum esse refertur."
+},
+{
+"id": "49.14.18.10",
+"label": "D. 49.14.18.10",
+"text": "Papinianus tam libro sexto quam undecimo responsorum scribit ita demum publicam auferri pecuniam ei, qui, cum erat creditor, in solutum pecuniam accepit, si aut sciebat, cum accipiebat, publicum quoque esse debitorem, aut postea cognovit, antequam consumeret pecuniam. Sed placet omnimodo ei pecuniam auferendam esse, etiamsi ignoravit, cum consumeret: et postea quidam principes directam actionem competere ablata pecunia rescripserunt, ut et Marcellus libro septimo digestorum scribit."
+},
+{
+"id": "49.14.19",
+"label": "D. 49.14.19 (Papinianus)",
+"text": "Denique non esse praestandas usuras, cum pecunia revocatur, convenit, quoniam res, non persona convenitur.",
+"inscription": "Papinianus libro decimo responsorum"
+},
+{
+"id": "49.14.20",
+"label": "D. 49.14.20 (Papinianus)",
+"text": "Sed revocata pecunia in fideiussorem liberatum utilis actio dabitur.",
+"inscription": "Papinianus libro 11 responsorum"
+},
+{
+"id": "49.14.21",
+"label": "D. 49.14.21 (Paulus)",
+"text": "Titius, qui mihi sub pignoribus pecuniam debebat, cum esset fisci debitor, solvit mihi quae debebat: postea fiscus iure suo usus abstulit mihi pecuniam. Quaerebatur, an liberata essent pignora. Marcellus recte existimabat, si id quod mihi solutum est fiscus abstulit, non competere pignorum liberationem. Neque differentiam admittendam esse existimo interesse putantium, id ipsum quod solutum est an tantundem repetatur.",
+"inscription": "Paulus libro tertio quaestionum"
+},
+{
+"id": "49.14.22.pr",
+"label": "D. 49.14.22 pr. (Marcianus)",
+"text": "Res, quae in controversia sunt, non debent a procuratore Caesaris distrahi, sed differenda est eorum venditio, ut divus quoque Severus et Antoninus rescripserunt, et defuncto maiestatis reo, parato herede purgare innocentiam mortui, distractionem bonorum suspendi iusserunt, et generaliter prohibuerunt rem distrahi a procuratore, quae esset in controversia.",
+"inscription": "Marcianus libro singulari de delatoribus"
+},
+{
+"id": "49.14.22.1",
+"label": "D. 49.14.22.1",
+"text": "Res autem nexas pignori distrahere procuratores possunt. Sed si ante alii res obligatae sunt iure pignoris, non debet procurator ius creditorum laedere: sed si quidem superfluum est in re, permittitur procuratori vendere ea lege, ut imprimis creditoribus praecedentibus satisfiat et si quid superfluum est, fisco inferatur, aut, si acceperit totum fiscus, solvat ipse: vel simpliciter si vendidit procurator, iubebit pecuniam, quam deberi creditori privato fuerit probatum, exsolvi ei. Et ita divus Severus et Antoninus rescripserunt."
+},
+{
+"id": "49.14.22.2",
+"label": "D. 49.14.22.2",
+"text": "Lites donatas se non suscipere divus Pius rescripsit, licet bona relicturum se quis profiteatur: vel partem bonorum donatam non suscipere. Et adiecit et illum dignum fuisse puniri pro tam turpi tamque invidioso commento, et nisi durum esse videbatur in ultro venientem poenam statuere."
+},
+{
+"id": "49.14.22.3",
+"label": "D. 49.14.22.3",
+"text": "Sicut nuntiare causam nemo cogitur, ita liberum arbitrium desistendi ei non datur qui detulit: et ita divi Severus et Antoninus rescripserunt: et idem esse, licet alieno mandato detulisset. Plane rescripserunt delatorem audiendum volentem a lite desistere, si sibi mandatorem subtractum queratur."
+},
+{
+"id": "49.14.23",
+"label": "D. 49.14.23 (Callistratus)",
+"text": "De eo delatore, qui causam solus agere instituerat non habita mentione mandatoris, si postea desistat, praetendens mandatorem causae decessisse, puniendum divi fratres rescripserunt.",
+"inscription": "Callistratus libro secundo de iure fisci"
+},
+{
+"id": "49.14.24",
+"label": "D. 49.14.24 (Marcianus)",
+"text": "Non tantum delator punitur, si non probaverit, sed et mandator: quem exhibere debet delator.",
+"inscription": "Marcianus libro singulari de delatoribus"
+},
+{
+"id": "49.14.25",
+"label": "D. 49.14.25 (Ulpianus)",
+"text": "Est et decretum ab imperatore Severo et constitutum nullo modo exigendum quem probare, unde habeat, circa delationes fiscales, sed delatorem probare debere quod intendit.",
+"inscription": "Ulpianus libro 19 ad Sabinum"
+},
+{
+"id": "49.14.26",
+"label": "D. 49.14.26 (Ulpianus)",
+"text": "Cum quidam capitis reus emancipasset filium, ut hereditatem adiret, rescriptum est non videri in fraudem fisci factum, quod adquisitum non est.",
+"inscription": "Ulpianus libro 31 ad Sabinum"
+},
+{
+"id": "49.14.27",
+"label": "D. 49.14.27 (Ulpianus)",
+"text": "Cum mortem maritus uxoris necatae non defendit, divus Severus rescripsit dotem fisco vindicandam, prout ad maritum pertineat.",
+"inscription": "Ulpianus libro 34 ad edictum"
+},
+{
+"id": "49.14.28",
+"label": "D. 49.14.28 (Ulpianus)",
+"text": "Si qui mihi obligaverat quae habet habiturusque esset cum fisco contraxerit, sciendum est in re postea adquisita fiscum potiorem esse debere Papinianum respondisse: quod et constitutum est. Praevenit enim causam pignoris fiscus.",
+"inscription": "Ulpianus libro tertio disputationum"
+},
+{
+"id": "49.14.29.pr",
+"label": "D. 49.14.29 pr. (Ulpianus)",
+"text": "Eius, qui delatorem corrupit, ea condicio est, ut pro victo habeatur: nam in fiscalibus causis id constitutum est. Sed enim haec poena magis est ut adversus ipsum locum habeat, qui delatorem redemit: ceteroquin adversus heredem eius transire non debet. Nec enim exinde perit causa, ex quo redempta est, vel actio peremitur vel condemnatio facta videtur, verum oportet constare prius et de crimine pronuntiare. Plane si forte de retractanda causa agatur, quae semel iudicata est, per delatoris corruptelam, mortuus corruptor non efficiet, quo minus agi possit atque retractari causa: hic enim non poenae, sed causae restitutio est.",
+"inscription": "Ulpianus libro octavo disputationum"
+},
+{
+"id": "49.14.29.1",
+"label": "D. 49.14.29.1",
+"text": "Eum, qui falsum testamentum dixit, posse adire hereditatem constat: sed denegatis ei actionibus fisco locus erit."
+},
+{
+"id": "49.14.29.2",
+"label": "D. 49.14.29.2",
+"text": "Et obligationes, quas adeundo confudit, non restituuntur: nam et in eo, qui post aditam hereditatem defuncti mortem non defendit, imperator noster cum patre rescripsit obligationes confusas non resuscitari."
+},
+{
+"id": "49.14.30",
+"label": "D. 49.14.30 (Marcianus)",
+"text": "Ne procuratores Caesaris bonorum actores, quae ad fiscum devoluta sunt, alienent, imperatores Severus et Antoninus rescripserunt: et, si manumissi fuerint, revocantur ad servitutem.",
+"inscription": "Marcianus libro tertio institutionum"
+},
+{
+"id": "49.14.31",
+"label": "D. 49.14.31 (Marcianus)",
+"text": "Divus Commodus rescripsit obsidum bona sicut captivorum omnimodo in fiscum esse cogenda:",
+"inscription": "Marcianus libro quatro institutionum"
+},
+{
+"id": "49.14.32",
+"label": "D. 49.14.32 (Marcianus)",
+"text": "Sed si accepto usu togae Romanae ut cives Romani semper egerint, divi fratres procuratoribus hereditatium rescripserunt sine dubitatione ius eorum ab obsidis condicione separatum esse beneficio principali, ideoque idem ius eis servandum, quod habent, si a legitimis civibus Romanis heredes instituti fuissententiarum",
+"inscription": "Marcianus libro 14 institutionum"
+},
+{
+"id": "49.14.33",
+"label": "D. 49.14.33 (Ulpianus)",
+"text": "Eum, qui debitoris fisci adiit hereditatem, privilegiis fisci coepisse esse subiectum.",
+"inscription": "Ulpianus libro primo responsorum"
+},
+{
+"id": "49.14.34",
+"label": "D. 49.14.34 (Macer)",
+"text": "Imperatores Severus et Antoninus Asclepiadi ita rescripserunt: \"Tu, qui defensione omissa redimere sententiam maluisti, cum tibi crimen obiceretur, non immerito quingentos solidos inferre fisco iussus es: omissa enim ipsius causae inquisitione ipse te huic poenae subdidisti. Optinendum est enim, ut hi, quibus negotia fiscalia moventur, ad defensiones causae bona fide veniant, non adversarios aut iudices redimere temptent\".",
+"inscription": "Macer libro secundo publicorum"
+},
+{
+"id": "49.14.35",
+"label": "D. 49.14.35 (Pomponius)",
+"text": "Apud Iulianum scriptum est: si privatus ad se pertinere hereditatem lucii titii dicat, altero eandem hereditatem fisco vindicante: quaeritur, utrum ius fisci ante excutiendum sit et sustinendae actiones ceterorum, an nihilo minus inhibendae petitiones creditorum singulorum, ne publicae causae praeiudicetur. Idque senatus consultis expressum est.",
+"inscription": "Pomponius libro 11 epistularum"
+},
+{
+"id": "49.14.36",
+"label": "D. 49.14.36 (Papinianus)",
+"text": "Praediis a fisco distractis praeteriti temporis tributum eorundem praediorum onus emptorem spectare placuit.",
+"inscription": "Papinianus libro tertio responsorum"
+},
+{
+"id": "49.14.37",
+"label": "D. 49.14.37 (Papinianus)",
+"text": "Quod placuit fisco non esse poenam petendam, nisi creditores suum reciperaverint, eo pertinet, ut privilegium in poena contra creditores non exerceatur, non ut ius commune privatorum fiscus amittat.",
+"inscription": "Papinianus libro decimo responsorum"
+},
+{
+"id": "49.14.38.pr",
+"label": "D. 49.14.38 pr. (Papinianus)",
+"text": "Fiscus in quaestione falsi testamenti non optinuit: priusquam autem ea quaestio decideretur, alio nuntiante bona postea vacare constitit. Fructus post primam litem absumi non oportuisse respondi: neque enim ad senatus consulti beneficium scriptum heredem pertinere controversia mota.",
+"inscription": "Papinianus libro 13 responsorum"
+},
+{
+"id": "49.14.38.1",
+"label": "D. 49.14.38.1",
+"text": "Delatoris opera non esse functum respondi, qui fisci pecuniam, quam alius tenebat, ad sui temporis administrationem pertinere, quamvis probare non potuisset, contendit, quoniam propriam causam egerat."
+},
+{
+"id": "49.14.39.pr",
+"label": "D. 49.14.39 pr. (Papinianus)",
+"text": "Bona fisco citra poenam exilii perpetuam adiudicari sententia non oportet.",
+"inscription": "Papinianus libro 16 responsorum"
+},
+{
+"id": "49.14.39.1",
+"label": "D. 49.14.39.1",
+"text": "Eum, qui periculum communis condemnationis dividi postulavit, quod participes iudicati solvendo essent revocatis alienationibus quas fraudulenter fecerant, non videri causam pecuniae fisco nuntiasse respondi."
+},
+{
+"id": "49.14.40.pr",
+"label": "D. 49.14.40 pr. (Paulus)",
+"text": "Ita fidei heredis commisit: \"Rogo fundum Titio des, de quo te rogavi\". Si Titius capere non possit, non evitabit heres poenam taciti fideicommissi: non enim est palam relinquere, quod ex testamento sciri non potest, cum recitatum est. Quemadmodum nec ille palam dat, qui ita scribit: \"Rogo vos, heredes, in eo, quod a vobis peti, fidem praestetis\". Immo in priore specie maiorem fraudem excogitasse videtur, qui non tantum legem circumvenire voluit, sed etiam interpretationem legis, quae circa tacitum fideicommissum habetur: quamvis enim fundum nominaverit, non tamen cognosci potest, de quo sit rogatus heres, cum diversitas rerum obscurum faciat legatum.",
+"inscription": "Paulus libro 21 quaestionum"
+},
+{
+"id": "49.14.40.1",
+"label": "D. 49.14.40.1",
+"text": "Patronus si tacite in fidem suam recipiat, ut ex portione sua praestet, cessare fraudem dicitur, quia de suo largitur."
+},
+{
+"id": "49.14.41",
+"label": "D. 49.14.41 (Paulus)",
+"text": "Eum, qui bona vacantia a fisco comparavit, debere actionem, quae contra defunctum competebat, excipere.",
+"inscription": "Paulus libro 21 responsorum"
+},
+{
+"id": "49.14.42.pr",
+"label": "D. 49.14.42 pr. (Valens)",
+"text": "Arrianus Severus praefectus aerarii, cum eius, qui tacite rogatus fuerat non capienti fideicommissum reddere, bona publicata erant, pronuntiavit nihilo minus ius deferendi ex constitutione divi Traiani habere eum cui fideicommissum erat relictum.",
+"inscription": "Valens libro quinto fideicommissorum"
+},
+{
+"id": "49.14.42.1",
+"label": "D. 49.14.42.1",
+"text": "Quia autem nonnulli ingrati adversus beneficium divi Traiani post professionem quoque de tacito fideicommisso factam cum possessoribus transigunt atque tribus edictis evocati non respondent, placuit senatui tantum ab eo qui id fecisset exigi, quantum apud aerarium ex ea causa quam detulerat remanere oporteret, si professionem suam implesset: et si possessoris quoque fraus apud praefectum convicta fuisset, ab eo quoque quod convictus inferre debuisset exigi."
+},
+{
+"id": "49.14.43",
+"label": "D. 49.14.43 (Ulpianus)",
+"text": "Imperator noster rescripsit fiscum in rem habere actiones ex tacito fideicommisso.",
+"inscription": "Ulpianus libro sexto fideicommissorum"
+},
+{
+"id": "49.14.44",
+"label": "D. 49.14.44 (Paulus)",
+"text": "Delator non est, qui protegendae causae suae gratia aliquid ad fiscum nuntiat.",
+"inscription": "Paulus libro primo sententiarum"
+},
+{
+"id": "49.14.45.pr",
+"label": "D. 49.14.45 pr. (Paulus)",
+"text": "In fraudem fisci non solum per donationem, sed quocumque modo res alienatae revocantur, idemque iuris est et si non quaeratur: aeque enim in omnibus fraus punitur.",
+"inscription": "Paulus libro quinto sententiarum"
+},
+{
+"id": "49.14.45.1",
+"label": "D. 49.14.45.1",
+"text": "Bona eorum, qui in custodia vel in vinculis vel compedibus decesserunt, heredibus eorum non auferuntur, sive testato sive intestato decesserunt."
+},
+{
+"id": "49.14.45.2",
+"label": "D. 49.14.45.2",
+"text": "Eius bona, qui sibi mortem conscivit, non ante ad fiscum coguntur, quam prius constiterit, cuius criminis gratia manus sibi intulerit. Eius bona, qui sibi ob aliquod admissum flagitium mortem conscivit et manus intulit, fisco vindicantur: quod si id taedio vitae aut pudore aeris alieni vel valetudinis alicuius impatientia admisit, non inquietabuntur, sed suae successioni relinquuntur."
+},
+{
+"id": "49.14.45.3",
+"label": "D. 49.14.45.3",
+"text": "A debitore fisci in fraudem datas libertates retrahi placuit: sane ipsum ita ab alio emere mancipium, ut manumittat, non est prohibitum: ergo tunc et libertatem praestare possit."
+},
+{
+"id": "49.14.45.4",
+"label": "D. 49.14.45.4",
+"text": "Ex his bonis, quae ad fiscum delata sunt, instrumenta vel chirographa, acta etiam ad ius privatorum pertinentia restitui postulantibus convenit."
+},
+{
+"id": "49.14.45.5",
+"label": "D. 49.14.45.5",
+"text": "Neque instrumenta neque acta a quoquam adversus fiscum edi oportet."
+},
+{
+"id": "49.14.45.6",
+"label": "D. 49.14.45.6",
+"text": "Ipse autem fiscus actorum suorum exempla hac condicione edit, ut is, cui describendi fit potestas, adversus se vel rem publicam his actis ne utatur: de quo cavere compellitur, ut, si usus is contra interdictum fuerit, causa cadat."
+},
+{
+"id": "49.14.45.7",
+"label": "D. 49.14.45.7",
+"text": "Quotiens apud fiscum agitur, actorum potestas postulanda est, ut merito is uti liceat, eaque manu commentariensis adnotanda sunt. Quod si ea aliter proferantur, is qui ita protulerit causa cadit."
+},
+{
+"id": "49.14.45.8",
+"label": "D. 49.14.45.8",
+"text": "Quotiens iterum apud fiscum eadem causa tractatur, priorum actorum, quorum usus non fuerat postulatus, ex officio recitatio iure poscetur."
+},
+{
+"id": "49.14.45.9",
+"label": "D. 49.14.45.9",
+"text": "Qui pro alio a fisco conventus debitum exsolvit, non inique postulat persecutionem bonorum eius pro quo solvit: in quo etiam adiuvari per officium solet."
+},
+{
+"id": "49.14.45.10",
+"label": "D. 49.14.45.10",
+"text": "Fiscalibus debitoribus petentibus ad comparandam pecuniam dilationem negari non placuit. Cuius rei aestimatio ita arbitrio iudicantis conceditur, ut in maioribus summis non plus quam tres menses, in minoribus vero non plus quam duo prorogentur: prolixioris autem temporis spatium ab imperatore postulandum est."
+},
+{
+"id": "49.14.45.11",
+"label": "D. 49.14.45.11",
+"text": "Si principalis rei bona ad fiscum devoluta sint, fideiussores liberantur: nisi forte minus idonei sint et in reliquum non exsolutae quantitatis accesserint."
+},
+{
+"id": "49.14.45.12",
+"label": "D. 49.14.45.12",
+"text": "Si plus servatum est ex bonis debitoris a fisco distractis, iure ac merito restitui postulatur."
+},
+{
+"id": "49.14.45.13",
+"label": "D. 49.14.45.13",
+"text": "Conductor ex fundo fiscali nihil transferre potest nec cupressi materiam vendere vel olivae non substitutis aliis ceterasque arbores pomiferas caedere: et facta eius rei aestimatione in quadruplum convenitur."
+},
+{
+"id": "49.14.45.14",
+"label": "D. 49.14.45.14",
+"text": "Minoribus viginti quinque annis neque fundus neque vectigalia locanda sunt, ne adversus ea beneficio aetatis utantur."
+},
+{
+"id": "49.14.46.pr",
+"label": "D. 49.14.46 pr. (Hermogenianus)",
+"text": "Aufertur ei quasi indigno successio, qui, cum heres institutus esset ut filius, post mortem eius, qui pater dicebatur, suppositus declaratus est.",
+"inscription": "Hermogenianus libro sexto iuris epitomarum"
+},
+{
+"id": "49.14.46.1",
+"label": "D. 49.14.46.1",
+"text": "Qui aliquid sciens in fraudem fisci suscepit, non solum rem, in qua fraudis ministerium suscepit, sed alterum tantum restituere cogitur."
+},
+{
+"id": "49.14.46.2",
+"label": "D. 49.14.46.2",
+"text": "Quod a praeside seu procuratore vel quolibet alio in ea provincia, in qua administrat, licet per suppositam personam comparatum est, infirmato contractu vindicatur et aestimatio eius fisco infertur: nam et navem in eadem provincia, in qua quis administrat, aedificare prohibetur."
+},
+{
+"id": "49.14.46.3",
+"label": "D. 49.14.46.3",
+"text": "Fiscus semper habet ius pignoris."
+},
+{
+"id": "49.14.46.4",
+"label": "D. 49.14.46.4",
+"text": "Qui compensationem opponit fisco, intra duos menses debitum sibi docere debet."
+},
+{
+"id": "49.14.46.5",
+"label": "D. 49.14.46.5",
+"text": "Ut debitoribus fisci quod fiscus debet compensetur, saepe constitutum est: excepta causa tributoria et stipendiorum, item pretio rei a fisco emptae et quod ex causa annonaria debetur."
+},
+{
+"id": "49.14.46.6",
+"label": "D. 49.14.46.6",
+"text": "In reatu constitutus bona sua administrare potest, eique debitor recte bona fide solvit."
+},
+{
+"id": "49.14.46.7",
+"label": "D. 49.14.46.7",
+"text": "Actores, qui aliquod officium gerunt, in bonis quae distrahunt procuratores venundare inconsultis principibus prohibentur, et, si veneant, venditio nullas vires habebit."
+},
+{
+"id": "49.14.46.8",
+"label": "D. 49.14.46.8",
+"text": "Servus Caesaris si iussu procuratoris adiit hereditatem, Caesari volenti adquirit."
+},
+{
+"id": "49.14.46.9",
+"label": "D. 49.14.46.9",
+"text": "Si multi fisco fraudem fecerint, non ut in actione furti singuli solidum, sed omnes semel quadrupli poenam pro virili portione debent. Sane pro non idoneis qui sunt idonei conveniuntur."
+},
+{
+"id": "49.14.47.pr",
+"label": "D. 49.14.47 pr. (Paulus)",
+"text": "Moschis quaedam, fisci debitrix ex conductione vectigalis, heredes habuerat, a quibus post aditam hereditatem Faria Senilla et alii praedia emerant. Cum convenirentur propter Moschidis reliqua et dicebant heredes Moschidis idoneos esse et multos alios ex isdem bonis emisse, aequum putavit imperator prius heredes conveniri debere, in reliquum possessorem omnem: et ita pronuntiavit.",
+"inscription": "Paulus libro primo decretorum"
+},
+{
+"id": "49.14.47.1",
+"label": "D. 49.14.47.1",
+"text": "Aemilius Ptolemaeus conduxerat a fisco possessionem eamque paulatim pluribus locaverat maiore quantitate quam ipse susceperat: conveniebatur a procuratoribus Caesaris in eam quantitatem quam ipse perciperet. Hoc iniquum et inutile fisco videbatur, ut tamen suo periculo ipse eos quibus locaverat conveniret: ideoque pronuntiavit in eam solam quantitatem eum conveniri debere, qua ipse conductor exstiterat."
+},
+{
+"id": "49.14.48.pr",
+"label": "D. 49.14.48 pr. (Paulus)",
+"text": "Statius Florus testamento scripto heredis sui Pompeii tacitae fidei commiserat, ut non capienti fundum et certam pecuniae quantitatem daret, et eo nomine cautionem a Pompeio exigi curaverat se restituturum ea, quae ei per praeceptionem dederat. Postea idem Florus facto secundo testamento et eodem Pompeio et Faustino heredibus institutis nullas praeceptiones Pompeio dederat. Haec persona, quae capere non poterat, se detulerat. Consulti imperatores a procuratoribus rescripserant, si non probaretur mutatam voluntatem esse, praestandum fideicommissum: atque ita Pompeius condemnatus desiderabat onus esse id hereditatis oportere, quia praeceptiones non acceperat, nec posse videri pro parte in prima voluntate testatorem perseverasse, sed in universo. Pronuntiavit nec testamentum prius exstare nec, si dedisset in primo testamento, ex posteriore peti potuisse, nisi petitum esset. Placuit, quia non probabat sibi datas praeceptiones ex sola sua cautione, solum fideicommissum praestare debere.",
+"inscription": "Paulus libro secundo decretorum"
+},
+{
+"id": "49.14.48.1",
+"label": "D. 49.14.48.1",
+"text": "Cornelio Felici mater scripta heres rogata erat restituere hereditatem post mortem suam. Cum heres scripta condemnata esset a fisco et omnia bona mulieris occuparentur, dicebat felix se ante poenam esse (hoc enim constitutum est). Sed si nondum dies fideicommissi venisset, quia posset prius ipse mori vel etiam mater alias res adquirere, repulsus est interim a petitione."
+},
+{
+"id": "49.14.49",
+"label": "D. 49.14.49 (Paulus)",
+"text": "Cum tacitum fideicommissum is cui datum erat capere se nihil posse detulisset, in quaestionem venit, dodrantis an totius assis partem dimidiam ex beneficio divi Traiani recipere debeat. De qua re exstat rescriptum imperatoris Antonini in haec verba: \"Imperator Antoninus Iulio Rufo. Qui tacitam fidem accommodavit, ut non capienti restitueret hereditatem, si deducta parte quarta restituit, nihil retinere debet. Quadrans autem qui heredi imponitur ipsius eripiatur et ad fiscum transferatur\". Unde dodrantis semissem solum capit qui se detulit.",
+"inscription": "Paulus libro singulari de tacitis fideicommissis"
+},
+{
+"id": "49.14.50",
+"label": "D. 49.14.50 (Paulus)",
+"text": "Valerius Patruinus procurator imperatoris Flavio Stalticio praedia certo pretio addixerat. Deinde facta licitatione idem Stalticius recepta ea licitatione optinuerat et in vacuam possessionem inductus erat. De fructibus medio tempore perceptis quaerebatur: Patruinus fisci esse volebat. Plane si medio tempore inter primam licitationem et sequentem adiectionem percepti fuissent, ad venditorem pertinerent (sicut solet dici, cum in diem addictio facta est, deinde melior condicio allata est) nec moveri deberemus, quod idem fuisset, cui et primo addicta fuerant praedia. Sed cum utraque addictio intra tempus vindemiarum facta fuisset, recessum est ab hoc tractatu itaque placebat fructus emptoris esse. Papinianus et messius novam sententiam induxerunt, quia sub colono erant praedia, iniquum esse fructus ei auferri universos: sed colonum quidem percipere eos debere, emptorem vero pensionem eius anni accepturum, ne fiscus colono teneretur, quod ei frui non licuisset: atque si hoc ipsum in emendo convenisset. Pronuntiavit tamen secundum illorum opinionem, quod quidem domino colerentur, universos fructus habere: si vero sub colono, pensionem accipere. Tryphonino suggerente, quid putaret de aridis fructibus, qui ante percepti in praediis fuissent, respondit, si nondum dies pensionis venisset, cum addicta sunt, eos quoque emptorem accepturum.",
+"inscription": "Paulus libro tertio decretorum"
+}
+]
+}

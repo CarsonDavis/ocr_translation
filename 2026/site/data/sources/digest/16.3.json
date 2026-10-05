@@ -1,0 +1,531 @@
+{
+"corpus": "digest",
+"unit": "16.3",
+"title": "D. 16.3 Depositi vel contra",
+"passages": [
+{
+"id": "16.3.1.pr",
+"label": "D. 16.3.1 pr. (Ulpianus)",
+"text": "Depositum est, quod custodiendum alicui datum est, dictum ex eo quod ponitur: praepositio enim de auget depositum, ut ostendat totum fidei eius commissum, quod ad custodiam rei pertinet.",
+"inscription": "Ulpianus libro 30 ad edictum"
+},
+{
+"id": "16.3.1.1",
+"label": "D. 16.3.1.1",
+"text": "Praetor ait: \"Quod neque tumultus neque incendii neque ruinae neque naufragii causa depositum sit, in simplum, earum autem rerum, quae supra comprehensae sunt, in ipsum in duplum, in heredem eius, quod dolo malo eius factum esse dicetur qui mortuus sit, in simplum, quod ipsius, in duplum iudicium dabo.\""
+},
+{
+"id": "16.3.1.2",
+"label": "D. 16.3.1.2",
+"text": "Merito has causas deponendi separavit praetor, quae continent fortuitam causam depositionis ex necessitate descendentem, non ex voluntate proficiscentem."
+},
+{
+"id": "16.3.1.3",
+"label": "D. 16.3.1.3",
+"text": "Eum tamen deponere tumultus vel incendii vel ceterarum causarum gratia intellegendum est, qui nullam aliam causam deponendi habet quam imminens ex causis supra scriptis periculum."
+},
+{
+"id": "16.3.1.4",
+"label": "D. 16.3.1.4",
+"text": "Haec autem separatio causarum iustam rationem habet: quippe cum quis fidem elegit nec depositum redditur, contentus esse debet simplo, cum vero extante necessitate deponat, crescit perfidiae crimen et publica utilitas coercenda est vindicandae rei publicae causa: est enim inutile in causis huiusmodi fidem frangere."
+},
+{
+"id": "16.3.1.5",
+"label": "D. 16.3.1.5",
+"text": "Quae depositis rebus accedunt, non sunt deposita, ut puta si homo vestitus deponatur, vestis enim non est deposita: nec si equus cum capistro, nam solus equus depositus est."
+},
+{
+"id": "16.3.1.6",
+"label": "D. 16.3.1.6",
+"text": "Si convenit, ut in deposito et culpa praestetur, rata est conventio: contractus enim legem ex conventione accipiunt."
+},
+{
+"id": "16.3.1.7",
+"label": "D. 16.3.1.7",
+"text": "Illud non probabis, dolum non esse praestandum si convenerit: nam haec conventio contra bonam fidem contraque bonos mores est et ideo nec sequenda est."
+},
+{
+"id": "16.3.1.8",
+"label": "D. 16.3.1.8",
+"text": "Si vestimenta servanda balneatori data perierunt, si quidem nullam mercedem servandorum vestimentorum accepit, depositi eum teneri et dolum dumtaxat praestare debere puto: quod si accepit, ex conducto."
+},
+{
+"id": "16.3.1.9",
+"label": "D. 16.3.1.9",
+"text": "Si quis servum custodiendum coniecerit forte in pistrinum, si quidem merces intervenit custodiae, puto esse actionem adversus pistrinarium ex conducto: si vero mercedem accipiebam ego pro hoc servo, quem in pistrinum accipiebat, ex locato me agere posse: quod si operae eius servi cum custodia pensabantur, quasi genus locati et conducti intervenit, sed quia pecunia non datur, praescriptis verbis datur actio: si vero nihil aliud quam cibaria praestabat nec de operis quicquam convenit, depositi actio est."
+},
+{
+"id": "16.3.1.10",
+"label": "D. 16.3.1.10",
+"text": "In conducto et locato et in negotio, ex quo diximus praescriptis verbis dandam actionem, et dolum et culpam praestabunt qui servum receperunt: at si cibaria tantum, dolum dumtaxat. Sequemur tamen, ut Pomponius ait, et quid habuerunt proscriptum aut quid convenerit, dummodo sciamus et si quid fuit proscriptum, dolum tamen eos praestaturos qui receperunt, qui solus in depositum venit."
+},
+{
+"id": "16.3.1.11",
+"label": "D. 16.3.1.11",
+"text": "Si te rogavero, ut rem meam perferas ad titium, ut is eam servet, qua actione tecum experiri possum, apud Pomponium quaeritur. Et putat tecum mandati, cum eo vero, qui eas res receperit, depositi: si vero tuo nomine receperit, tu quidem mihi mandati teneris, ille tibi depositi, quam actionem mihi praestabis mandati iudicio conventus."
+},
+{
+"id": "16.3.1.12",
+"label": "D. 16.3.1.12",
+"text": "Quod si rem tibi dedi, ut, si titius rem non recepisset, tu custodires, nec eam recepit, videndum est, utrum depositi tantum an et mandati actio sit. et Pomponius dubitat: puto tamen mandati esse actionem, quia plenius fuit mandatum habens et custodiae legem."
+},
+{
+"id": "16.3.1.13",
+"label": "D. 16.3.1.13",
+"text": "Idem Pomponius quaerit, si tibi mandavero, ut rem ab aliquo meo nomine receptam custodias, idque feceris, mandati an depositi tenearis. Et magis probat mandati esse actionem, quia hic est primus contractus."
+},
+{
+"id": "16.3.1.14",
+"label": "D. 16.3.1.14",
+"text": "Idem Pomponius quaerit, si apud te volentem me deponere iusseris apud libertum tuum deponere, an possim tecum depositi experiri. Et ait, si tuo nomine, hoc est quasi te custodituro, deposuissem, mihi tecum depositi esse actionem: si vero suaseris mihi, ut magis apud eum deponam, tecum nullam esse actionem, cum illo depositi actio est: nec mandati teneris, quia rem meam gessi. Sed si mandasti mihi, ut periculo tuo apud eum deponam, cur non sit mandati actio, non video. Plane si fideiussisti pro eo, Labeo omnimodo fideiussorem teneri ait, non tantum si dolo fecit is qui depositum suscepit, sed et si non fecit, est tamen res apud eum. Quid enim si fureret is, apud quem depositum sit, vel pupillus sit, vel neque heres neque bonorum possessor neque successor eius exstaret? Tenebitur ergo, ut id praestet, quod depositi actione praestari solet."
+},
+{
+"id": "16.3.1.15",
+"label": "D. 16.3.1.15",
+"text": "An in pupillum, apud quem sine tutoris auctoritate depositum est, depositi actio detur, quaeritur. Sed probari oportet, si apud doli mali iam capacem deposueris, agi posse, si dolum commisit: nam et in quantum locupletior factus est, datur actio in eum et si dolus non intervenit."
+},
+{
+"id": "16.3.1.16",
+"label": "D. 16.3.1.16",
+"text": "Si res deposita deterior reddatur, quasi non reddita agi depositi potest: cum enim deterior redditur, potest dici dolo malo redditam non esse."
+},
+{
+"id": "16.3.1.17",
+"label": "D. 16.3.1.17",
+"text": "Si servus meus deposuerit, nihilo minus depositi habebo actionem."
+},
+{
+"id": "16.3.1.18",
+"label": "D. 16.3.1.18",
+"text": "Si apud servum deposuero et cum manumisso agam, Marcellus ait nec tenere actionem, quamvis solemus dicere doli etiam in servitute commissi teneri quem debere, quia et delicta et noxae caput sequuntur: erit igitur ad alias actiones competentes decurrendum."
+},
+{
+"id": "16.3.1.19",
+"label": "D. 16.3.1.19",
+"text": "Haec actio bonorum possessoribus ceterisque <successoribus> et ei, cui ex Trebelliano senatus consulto restituta est hereditas, competit."
+},
+{
+"id": "16.3.1.20",
+"label": "D. 16.3.1.20",
+"text": "Non tantum praeteritus dolus in depositi actione veniet, sed etiam futurus, id est post litem contestatam."
+},
+{
+"id": "16.3.1.21",
+"label": "D. 16.3.1.21",
+"text": "Inde scribit Neratius, si res deposita sine dolo malo amissa sit et post iudicium acceptum reciperaretur, nihilo minus recte ad restitutionem reum compelli nec debere absolvi, nisi restituat. Idem Neratius ait, quamvis tunc tecum depositi actum sit, cum restituendi facultatem non habeas horreis forte clusis, tamen si ante condemnationem restituendi facultatem habeas, condemnandum te nisi restituas, quia res apud te est: tunc enim quaerendum, an dolo malo feceris, cum rem non habes."
+},
+{
+"id": "16.3.1.22",
+"label": "D. 16.3.1.22",
+"text": "Est autem et apud Iulianum libro tertio decimo digestorum scriptum eum qui rem deposuit statim posse depositi actione agere: hoc enim ipso dolo facere eum qui suscepit, quod reposcenti rem non reddat. Marcellus autem ait non semper videri posse dolo facere eum, qui reposcenti non reddat: quid enim si in provincia res sit vel in horreis, quorum aperiendorum condemnationis tempore non sit facultas? Vel condicio depositionis non exstitit?"
+},
+{
+"id": "16.3.1.23",
+"label": "D. 16.3.1.23",
+"text": "Hanc actionem bonae fidei esse dubitari non oportet."
+},
+{
+"id": "16.3.1.24",
+"label": "D. 16.3.1.24",
+"text": "Et ideo et fructus in hanc actionem venire et omnem causam et partum, dicendum est, ne nuda res veniat."
+},
+{
+"id": "16.3.1.25",
+"label": "D. 16.3.1.25",
+"text": "Si rem depositam vendidisti eamque postea redemisti in causam depositi, etiamsi sine dolo malo postea perierit, teneri te depositi, quia semel dolo fecisti, cum venderes."
+},
+{
+"id": "16.3.1.26",
+"label": "D. 16.3.1.26",
+"text": "In depositi quoque actione in litem iuratur."
+},
+{
+"id": "16.3.1.27",
+"label": "D. 16.3.1.27",
+"text": "Non solum si servus meus, sed et si is qui bona fide mihi serviat rem deposuerit, aequissimum erit dari mihi actionem, si rem ad me pertinentem deposuit."
+},
+{
+"id": "16.3.1.28",
+"label": "D. 16.3.1.28",
+"text": "Simili modo et si usum fructum in servo habeam, si id quod deposuit ex eo peculio fuit quod ad me pertinebat vel res mea fuit, eadem actione agere potero."
+},
+{
+"id": "16.3.1.29",
+"label": "D. 16.3.1.29",
+"text": "Item si servus hereditarius deposuerit, heredi postea adeunti competit actio."
+},
+{
+"id": "16.3.1.30",
+"label": "D. 16.3.1.30",
+"text": "Si servus deposuit, sive vivat sive decesserit, utiliter dominus hac actione experietur. Ipse autem servus manumissus non poterit agere: sed et si fuerit alienatus, adhuc ei competit actio cuius fuit servus cum deponeret: initium enim contractus spectandum est."
+},
+{
+"id": "16.3.1.31",
+"label": "D. 16.3.1.31",
+"text": "Si duorum servus sit qui deposuit, unicuique dominorum in partem competit depositi."
+},
+{
+"id": "16.3.1.32",
+"label": "D. 16.3.1.32",
+"text": "Si rem a servo depositam Titio, quem dominum eius putasti cum non esset, restituisses, depositi actione te non teneri celsus ait, quia nullus dolus intercessit: cum Titio autem, cui res restituta est, dominus servi aget: sed si exhibuerit, vindicabitur, si vero, cum sciret esse alienum, consumpserit, condemnabitur, quia dolo fecit quo minus possideret."
+},
+{
+"id": "16.3.1.33",
+"label": "D. 16.3.1.33",
+"text": "Eleganter apud Iulianum quaeritur, si pecuniam servus apud me deposuit ita, ut domino pro libertate eius dem, egoque dedero, an tenear depositi. Et libro tertio decimo digestorum scribit, si quidem sic dedero quasi ad hoc penes me depositam teque certioravero, non competere tibi depositi actionem, quia sciens recepisti, careo igitur dolo: si vero quasi meam pro libertate eius numeravero, tenebor. Quae sententia vera mihi videtur: hic enim non tantum sine dolo malo non reddidit, sed nec reddidit: aliud est enim reddere, aliud quasi de suo dare."
+},
+{
+"id": "16.3.1.34",
+"label": "D. 16.3.1.34",
+"text": "Si pecunia apud te ab initio hac lege deposita sit, ut si voluisses utereris, prius quam utaris depositi teneberis."
+},
+{
+"id": "16.3.1.35",
+"label": "D. 16.3.1.35",
+"text": "Saepe evenit, ut res deposita vel nummi periculo sint eius, apud quem deponuntur: ut puta si hoc nominatim convenit. Sed et si se quis deposito obtulit, idem Iulianus scribit periculo se depositi illigasse, ita tamen, ut non solum dolum, sed etiam culpam et custodiam praestet, non tamen casus fortuitos."
+},
+{
+"id": "16.3.1.36",
+"label": "D. 16.3.1.36",
+"text": "Si pecunia in sacculo signato deposita sit et unus ex heredibus eius qui deposuit veniat repetens, quemadmodum ei satisfiat, videndum est. Promenda pecunia est vel coram praetore vel intervenientibus honestis personis et exsolvenda pro parte hereditaria: sed et si resignetur, non contra legem depositi fiet, cum vel praetore auctore vel honestis personis intervenientibus hoc eveniet: residuo vel apud eum remanente, si hoc voluerit (sigillis videlicet prius ei impressis vel a praetore vel ab his, quibus coram signacula remota sunt) vel, si hoc recusaverit, in aede deponendo. Sed si res sunt, quae dividi non possunt, omnes debebit tradere satisdatione idonea a petitore ei praestanda in hoc, quod supra eius partem est: satisdatione autem non interveniente rem in aedem deponi et omni actione depositarium liberari."
+},
+{
+"id": "16.3.1.37",
+"label": "D. 16.3.1.37",
+"text": "Apud Iulianum libro tertio decimo digestorum talis species relata est: ait enim, si depositor decesserit et duo existant, qui inter se contendant unusquisque solum se heredem dicens, ei tradendam rem, qui paratus est adversus alterum reum defendere, hoc est eum qui depositum suscepit: quod si neuter hoc onus suscipiat, commodissime dici ait non esse cogendum a praetore iudicium suscipere: oportere igitur rem deponi in aede aliqua, donec de hereditate iudicetur."
+},
+{
+"id": "16.3.1.38",
+"label": "D. 16.3.1.38",
+"text": "Si quis tabulas testamenti apud se depositas pluribus praesentibus legit, ait Labeo depositi actione recte de tabulis agi posse. Ego arbitror et iniuriarum agi posse, si hoc animo recitatum testamentum est quibusdam praesentibus, ut iudicia secreta eius qui testatus est divulgarentur."
+},
+{
+"id": "16.3.1.39",
+"label": "D. 16.3.1.39",
+"text": "Si praedo vel fur deposuerint, et hos Marcellus libro sexto digestorum putat recte depositi acturos: nam interest eorum eo, quod teneantur."
+},
+{
+"id": "16.3.1.40",
+"label": "D. 16.3.1.40",
+"text": "Si quis argentum vel aurum depositum petat, utrum speciem an et pondus complecti debeat? Et magis est, ut utrumque complectatur, scyphum forte vel lancem vel pateram dicendo et materiam et pondus addendo. Sed et si purpura sit infecta vel lana, pondus similiter adiciendum salvo eo, ut, si de quantitate ponderis incertum est, iuranti succurratur."
+},
+{
+"id": "16.3.1.41",
+"label": "D. 16.3.1.41",
+"text": "Si cista signata deposita sit, utrum cista tantum petatur an et species comprehendendae sint? Et ait Trebatius cistam repetendam, non singularum rerum depositi agendum: quod et si res ostensae sunt et sic depositae, adiciendae sunt et species vestis. Labeo autem ait eum qui cistam deponit singulas quoque res videri deponere: ergo et de rebus agere eum oportet. Quid ergo si ignoraverit is, qui depositum suscipiebat, res ibi esse? Non multum facere, cum suscepit depositum. ergo et rerum depositi agi posse existimo, quamvis signata cista deposita sit."
+},
+{
+"id": "16.3.1.42",
+"label": "D. 16.3.1.42",
+"text": "Filium familias teneri depositi constat, quia et ceteris actionibus tenetur: sed et cum patre eius agi potest dumtaxat de peculio. Idem et in servo: nam cum domino agetur. Plane et Iulianus scripsit et nobis videtur, si eorum nomine qui sunt in potestate agatur, veniat in iudicium et si quid per eum in cuius iure sunt captus fraudatusve est, ut et dolus eorum veniat, non tantum ipsorum cum quibus contractum est."
+},
+{
+"id": "16.3.1.43",
+"label": "D. 16.3.1.43",
+"text": "Si apud duos sit deposita res, adversus unumquemque eorum agi poterit nec liberabitur alter, si cum altero agatur: non enim electione, sed solutione liberantur. Proinde si ambo dolo fecerunt et alter quod interest praestiterit, alter non convenietur exemplo duorum tutorum: quod si alter vel nihil vel minus facere possit, ad alium pervenietur: idemque et si alter dolo non fecerit et idcirco sit absolutus, nam ad alium pervenietur."
+},
+{
+"id": "16.3.1.44",
+"label": "D. 16.3.1.44",
+"text": "Sed si duo deposuerint et ambo agant, si quidem sic deposuerunt, ut vel unus tollat totum, poterit in solidum agere: sin vero pro parte, pro qua eorum interest, tunc dicendum est in partem condemnationem faciendam."
+},
+{
+"id": "16.3.1.45",
+"label": "D. 16.3.1.45",
+"text": "Si deposuero apud te, ut post mortem tuam reddas, et tecum et cum herede tuo possum depositi agere: possum enim mutare voluntatem et ante mortem tuam depositum repetere."
+},
+{
+"id": "16.3.1.46",
+"label": "D. 16.3.1.46",
+"text": "Proinde et si sic deposuero, ut post mortem meam reddatur, potero et ego et heres meus agere depositi, ego mutata voluntate."
+},
+{
+"id": "16.3.1.47",
+"label": "D. 16.3.1.47",
+"text": "Quia autem dolus dumtaxat in hanc actionem venit, quaesitum est, si heres rem apud testatorem depositam vel commodatam distraxit ignarus depositam vel commodatam, an teneatur. Et quia dolo non fecit, non tenebitur de re: an tamen vel de pretio teneatur, quod ad eum pervenit? Et verius est teneri eum: hoc enim ipso dolo facit, quod id quod ad se pervenit non reddit."
+},
+{
+"id": "16.3.2",
+"label": "D. 16.3.2 (Paulus)",
+"text": "Quid ergo, si pretium nondum exegit aut minoris quam debuit vendidit? Actiones suas tantummodo praestabit.",
+"inscription": "Paulus libro 31 ad edictum"
+},
+{
+"id": "16.3.3",
+"label": "D. 16.3.3 (Ulpianus)",
+"text": "Plane si possit rem redimere et praestare nec velit, non caret culpa, quemadmodum si redemptam vel alia ratione suam factam noluit praestare causatus, quod semel ignarus vendiderit.",
+"inscription": "Ulpianus libro 31 ad edictum"
+},
+{
+"id": "16.3.4",
+"label": "D. 16.3.4 (Paulus)",
+"text": "Sed et si non sit heres, sed putavit se heredem et vendidit, simili modo lucrum ei extorquebitur.",
+"inscription": "Paulus libro quinto ad Plautium"
+},
+{
+"id": "16.3.5.pr",
+"label": "D. 16.3.5 pr. (Ulpianus)",
+"text": "Ei, apud quem depositum esse dicetur, contrarium iudicium depositi datur, in quo iudicio merito in litem non iuratur: non enim de fide rupta agitur, sed de indemnitate eius qui depositum suscepit.",
+"inscription": "Ulpianus libro 30 ad edictum"
+},
+{
+"id": "16.3.5.1",
+"label": "D. 16.3.5.1",
+"text": "In sequestrem depositi actio competit. Si tamen cum sequestre convenit, ut certo loco rem depositam exhiberet, nec ibi exhibeat, teneri eum palam est: quod si de pluribus locis convenit, in arbitrio eius est, quo loci exhibeat: sed si nihil convenit, denuntiandum est ei, ut apud praetorem exhibeat."
+},
+{
+"id": "16.3.5.2",
+"label": "D. 16.3.5.2",
+"text": "Si velit sequester officium deponere, quid ei faciendum sit? Et ait Pomponius adire eum praetorem oportere et ex eius auctoritate denuntiatione facta his qui eum elegerant, ei rem restituendam qui praesens fuerit. Sed hoc non semper verum puto: nam plerumque non est permittendum officium, quod semel suscepit, contra legem depositionis deponere, nisi iustissima causa interveniente: et cum permittitur, raro ei res restituenda est qui venit, sed oportet eam arbitratu iudicis apud aedem aliquam deponi."
+},
+{
+"id": "16.3.6",
+"label": "D. 16.3.6 (Paulus)",
+"text": "Proprie autem in sequestre est depositum, quod a pluribus in solidum certa condicione custodiendum reddendumque traditur.",
+"inscription": "Paulus libro secundo ad edictum"
+},
+{
+"id": "16.3.7.pr",
+"label": "D. 16.3.7 pr. (Ulpianus)",
+"text": "Si hominem apud se depositum ut quaestio de eo haberetur, ac propterea vinctum vel ad malam mansionem extensum sequester solverit misericordia ductus, dolo proximum esse quod factum est arbitror, quia cum sciret, cui rei pararetur, intempestive misericordiam exercuit, cum posset non suscipere talem causam quam decipere.",
+"inscription": "Ulpianus libro 30 ad edictum"
+},
+{
+"id": "16.3.7.1",
+"label": "D. 16.3.7.1",
+"text": "Datur actio depositi in heredem ex dolo defuncti in solidum: quamquam enim alias ex dolo defuncti non solemus teneri nisi pro ea parte quae ad nos pervenit, tamen hic dolus ex contractu reique persecutione descendit ideoque in solidum unus heres tenetur, plures vero pro ea parte qua quisque heres est."
+},
+{
+"id": "16.3.7.2",
+"label": "D. 16.3.7.2",
+"text": "Quotiens foro cedunt nummularii, solet primo loco ratio haberi depositariorum, hoc est eorum qui depositas pecunias habuerunt, non quas faenore apud nummularios vel cum nummulariis vel per ipsos exercebant. Et ante privilegia igitur, si bona venierint, depositariorum ratio habetur, dummodo eorum qui vel postea usuras acceperunt ratio non habeatur, quasi renuntiaverint deposito."
+},
+{
+"id": "16.3.7.3",
+"label": "D. 16.3.7.3",
+"text": "Item quaeritur, utrum ordo spectetur eorum qui deposuerunt an vero simul omnium depositariorum ratio habeatur. Et constat simul admittendos: hoc enim rescripto principali significatur."
+},
+{
+"id": "16.3.8",
+"label": "D. 16.3.8 (Papinianus)",
+"text": "Quod privilegium exercetur non in ea tantum quantitate, quae in bonis argentarii ex pecunia deposita reperta est, sed in omnibus fraudatoris facultatibus: idque propter necessarium usum argentariorum ex utilitate publica receptum est. Plane sumptus causa, qui necessarie factus est, semper praecedit: nam deducto eo bonorum calculus subduci solet.",
+"inscription": "Papinianus libro nono quaestionum"
+},
+{
+"id": "16.3.9",
+"label": "D. 16.3.9 (Paulus)",
+"text": "In depositi actione si ex facto defuncti agatur adversus unum ex pluribus heredibus, pro parte hereditaria agere debeo: si vero ex suo delicto, pro parte non ago: merito, quia aestimatio refertur ad dolum, quem in solidum ipse heres admisit.",
+"inscription": "Paulus libro 17 ad edictum"
+},
+{
+"id": "16.3.10",
+"label": "D. 16.3.10 (Iulianus)",
+"text": "Nec adversus coheredes eius, qui dolo carent, depositi actio competit.",
+"inscription": "Iulianus libro secundo ex Minicio"
+},
+{
+"id": "16.3.11",
+"label": "D. 16.3.11 (Ulpianus)",
+"text": "Quod servus deposuit, is apud quem depositum est servo rectissime reddet ex bona fide: nec enim convenit bonae fidei abnegare id quod quis accepit, sed debebit reddere ei a quo accepit, sic tamen, si sine dolo omni reddat, hoc est, ut nec culpae quidem suspicio sit. Denique Sabinus hoc explicuit addendo: \"Nec ulla causa intervenit, quare putare possit dominum reddi nolle\". Hoc ita est, si potuit suspicari, iusta scilicet ratione motus: ceterum sufficit bonam fidem adesse. Sed et si ante eius rei furtum fecerat servus, si tamen ignoravit is apud quem deposuit vel credidit dominum non invitum fore huius solutionis, liberari potest: bona enim fides exigitur. Non tantum autem si remanenti in servitute fuerit solutum, sed etiam si manumisso vel alienato, ex iustis causis liberatio contingit, scilicet si quis ignorans manumissum vel alienatum solvit. Idemque et in omnibus debitoribus servandum Pomponius scribit.",
+"inscription": "Ulpianus libro 41 ad Sabinum"
+},
+{
+"id": "16.3.12.pr",
+"label": "D. 16.3.12 pr. (Pomponius)",
+"text": "Si in asia depositum fuerit, ut Romae reddatur, videtur id actum, ut non impensa eius id fiat apud quem depositum sit, sed eius qui deposuit.",
+"inscription": "Pomponius libro 22 ad Sabinum"
+},
+{
+"id": "16.3.12.1",
+"label": "D. 16.3.12.1",
+"text": "Depositum eo loco restitui debet, in quo sine dolo malo eius est, apud quem depositum est: ubi vero depositum est, nihil interest. Eadem dicenda sunt communiter et in omnibus bonae fidei iudiciis. Sed dicendum est, si velit actor suis impensis suoque periculo perferri rem Romam, ut audiendus sit, quoniam et in ad exhibendum actione id servatur."
+},
+{
+"id": "16.3.12.2",
+"label": "D. 16.3.12.2",
+"text": "Cum sequestre recte agetur depositi sequestraria actione, quam et in heredem eius reddi oportet."
+},
+{
+"id": "16.3.12.3",
+"label": "D. 16.3.12.3",
+"text": "Quemadmodum quod ex stipulatu vel ex testamento dari oporteat, post iudicium acceptum cum detrimento rei periret, sic depositum quoque eo die, quo depositi actum sit, periculo eius apud quem depositum fuerit est, si iudicii accipiendi tempore potuit id reddere reus nec reddidit."
+},
+{
+"id": "16.3.13.pr",
+"label": "D. 16.3.13 pr. (Paulus)",
+"text": "Si quis infitiatus sit non adversus dominum, sed quod eum qui rem depositam petebat verum procuratorem non putaret aut eius qui deposuisset heredem, nihil dolo malo fecit: postea autem si cognoverit, cum eo agi poterit, quoniam nunc incipit dolo malo facere, si reddere eam non vult.",
+"inscription": "Paulus libro 31 ad edictum"
+},
+{
+"id": "16.3.13.1",
+"label": "D. 16.3.13.1",
+"text": "Competit etiam condictio depositae rei nomine, sed non antequam id dolo admissum sit: non enim quemquam hoc ipso, quod depositum accipiat, condictione obligari, verum quod dolum malum admiserit."
+},
+{
+"id": "16.3.14.pr",
+"label": "D. 16.3.14 pr. (Gaius)",
+"text": "Si plures heredes exstiterint ei qui deposuerit, dicitur, si maior pars adierit, restituendam rem praesentibus: maiorem autem partem non ex numero utique personarum, sed ex magnitudine portionum hereditariarum intellegendam: cautela idonea reddenda.",
+"inscription": "Gaius libro nono ad edictum provinciale"
+},
+{
+"id": "16.3.14.1",
+"label": "D. 16.3.14.1",
+"text": "Sive autem cum ipso apud quem deposita est actum fuerit sive cum herede eius et sua natura res ante rem iudicatam interciderit, veluti si homo mortuus fuerit, Sabinus et Cassius absolvi debere eum cum quo actum est dixerunt, quia aequum esset naturalem interitum ad actorem pertinere, utique cum interitura esset ea res et si restituta esset actori."
+},
+{
+"id": "16.3.15",
+"label": "D. 16.3.15 (Iulianus)",
+"text": "Qui rem suam deponi apud se patitur vel utendam rogat, nec depositi nec commodati actione tenetur: sicuti qui rem suam conducit aut precario rogat, nec precario tenetur nec ex locato.",
+"inscription": "Iulianus libro 13 digestorum"
+},
+{
+"id": "16.3.16",
+"label": "D. 16.3.16 (Africanus)",
+"text": "Si is, apud quem rem deposueris, apud alium eam deponat et ille dolo quid admiserit, ob dolum eius, apud quem postea sit depositum, eatenus eum teneri apud quem tu deposueris, ut actiones suas tibi praestet.",
+"inscription": "Africanus libro septimo quaestionum"
+},
+{
+"id": "16.3.17.pr",
+"label": "D. 16.3.17 pr. (Florentinus)",
+"text": "Licet deponere tam plures quam unus possunt, attamen apud sequestrem non nisi plures deponere possunt: nam tum id fit, cum aliqua res in controversiam deducitur. Itaque hoc casu in solidum unusquisque videtur deposuisse: quod aliter est, cum rem communem plures deponunt.",
+"inscription": "Florentinus libro septimo institutionum"
+},
+{
+"id": "16.3.17.1",
+"label": "D. 16.3.17.1",
+"text": "Rei depositae proprietas apud deponentem manet: sed et possessio, nisi apud sequestrem deposita est: nam tum demum sequester possidet: id enim agitur ea depositione, ut neutrius possessioni id tempus procedat."
+},
+{
+"id": "16.3.18",
+"label": "D. 16.3.18 (Neratius)",
+"text": "De eo, quod tumultus incendii ruinae naufragii causa depositum est, in heredem de dolo mortui actio est pro hereditaria portione et in simplum et intra annum quoque: in ipsum et in solidum et in duplum et in perpetuum datur.",
+"inscription": "Neratius libro secundo membranarum"
+},
+{
+"id": "16.3.19",
+"label": "D. 16.3.19 (Ulpianus)",
+"text": "Iulianus et Marcellus putant filium familias depositi recte agere posse.",
+"inscription": "Ulpianus libro 17 ad edictum"
+},
+{
+"id": "16.3.20",
+"label": "D. 16.3.20 (Paulus)",
+"text": "Si sine dolo malo rem depositam tibi amiseris, nec depositi teneris nec cavere debes, si deprehenderis eam reddi: si tamen ad te iterum pervenerit, depositi teneris.",
+"inscription": "Paulus libro 18 ad edictum"
+},
+{
+"id": "16.3.21.pr",
+"label": "D. 16.3.21 pr. (Paulus)",
+"text": "Si apud filium familias res deposita sit et emancipatus rem teneat, pater nec intra annum de peculio debet conveniri, sed ipse filius.",
+"inscription": "Paulus libro 60 ad edictum"
+},
+{
+"id": "16.3.21.1",
+"label": "D. 16.3.21.1",
+"text": "Plus Trebatius existimat, etiamsi apud servum depositum sit et manumissus rem teneat, in ipsum dandam actionem, non in dominum, licet ex ceteris causis in manumissum actio non datur."
+},
+{
+"id": "16.3.22",
+"label": "D. 16.3.22 (Marcellus)",
+"text": "Si duo heredes rem apud defunctum depositam dolo interverterint, quodam utique casu in partes tenebuntur: nam si diviserint decem milia, quae apud defunctum deposita fuerant, et quina milia abstulerint et uterque solvendo est, in partes obstricti erunt: nec enim amplius actoris interest. Quod si lancem conflaverint aut conflari ab aliquo passi fuerint aliave quae species dolo eorum interversa fuerit, in solidum conveniri poterunt, ac si ipsi servandam suscepissent: nam certe verum est in solidum quemque dolo fecisse et nisi pro solido res non potest restitui. Nec tamen absurde sentiet, qui hoc putaverit plane nisi integrae rei restitutione eum, cum quo actum fuerit, liberari non posse, condemnandum tamen, si res non restituetur, pro qua parte heres exstitit.",
+"inscription": "Marcellus libro quinto digestorum"
+},
+{
+"id": "16.3.23",
+"label": "D. 16.3.23 (Modestinus)",
+"text": "Actione depositi conventus servo constituto cibariorum nomine apud eundem iudicem utiliter experitur.",
+"inscription": "Modestinus libro secundo differentiarum"
+},
+{
+"id": "16.3.24",
+"label": "D. 16.3.24 (Papinianus)",
+"text": "\"Lucius Titius Sempronio salutem. Centum nummos, quos hac die commendasti mihi adnumerante servo Sticho actore, esse apud me ut notum haberes, hac epistula manu mea scripta tibi notum facio: quae quando voles et ubi voles confestim tibi numerabo.\" Quaeritur propter usurarum incrementum. Respondi depositi actionem locum habere: quid est enim aliud commendare quam deponere? Quod ita verum est, si id actum est, ut corpora nummorum eadem redderentur: nam si ut tantundem solveretur convenit, egreditur ea res depositi notissimos terminos. In qua quaestione si depositi actio non teneat, cum convenit tantundem, non idem reddi, rationem usurarum haberi non facile dicendum est. Et est quidem constitutum in bonae fidei iudiciis, quod ad usuras attinet ut tantundem possit officium arbitri quantum stipulatio: sed contra bonam fidem et depositi naturam est usuras ab eo desiderare temporis ante moram, qui beneficium in suscipienda pecunia dedit. Si tamen ab initio de usuris praestandis convenit, lex contractus servabitur.",
+"inscription": "Papinianus libro nono quaestionum"
+},
+{
+"id": "16.3.25.pr",
+"label": "D. 16.3.25 pr. (Papinianus)",
+"text": "Die sponsaliorum aut postea res oblatas puellae, quae sui iuris fuit, pater suscepit: heres eius ut exhibeat recte convenietur etiam actione depositi.",
+"inscription": "Papinianus libro tertio responsorum"
+},
+{
+"id": "16.3.25.1",
+"label": "D. 16.3.25.1",
+"text": "Qui pecuniam apud se non obsignatam, ut tantundem redderet, depositam ad usus proprios convertit, post moram in usuras quoque iudicio depositi condemnandus est."
+},
+{
+"id": "16.3.26.pr",
+"label": "D. 16.3.26 pr. (Paulus)",
+"text": "Publia Maevia cum proficisceretur ad maritum suum, Arcam Clusam cum veste et instrumentis commendavit Gaiae Seiae et dixit ei: \"Cum sana salvave venero, restitues mihi: certe, si aliquid mihi humanum contigerit, filio meo, quem ex alio marito suscepi.\" Defuncta ea intestata desidero res commendatae cui restitui debeant, filio an marito. Paulus respondit filio.",
+"inscription": "Paulus libro quarto responsorum"
+},
+{
+"id": "16.3.26.1",
+"label": "D. 16.3.26.1",
+"text": "Lucius Titius ita cavit: \"Elabon kai exw eis logon parakatavykys ta progegrammena tou arguriou dynaria muria, kai panta poiysw kai sumfwnw kai hwmologysa, hws progegraptai: kai sunevemyn xorygysai soi tokon hekastys mnas hekastou mynos obolous tessaras mexri tys apodosews pantos tou arguriou.\" [id est: Accepti et habeo ex causa depositi supra scripta decem milia denarium et faciam omnia et consentio et promisi ita ut supra scriptum est, et conveni praestare tibi usuras in singulas minas per singulos menses assium quaternorum, donec universa summa reddatur.] Quaero, an usurae peti possunt. Paulus respondit eum contractum de quo quaeritur depositae pecuniae modum excedere, et ideo secundum conventionem usurae quoque actione depositi peti possunt."
+},
+{
+"id": "16.3.26.2",
+"label": "D. 16.3.26.2",
+"text": "\"Titius Semproniis salutem. Habere me a vobis auri pondo plus minus decem et discos duos saccum signatum: ex quibus debetis mihi decem, quos apud Titium deposuistis: item quos trophimati decem: item ex ratione patris vestri decem et quod excurrit.\" Quaero, an ex huiuscemodi scriptura aliqua obligatio nata sit, scilicet quod ad solam pecuniae causam attinet. Respondit ex epistula, de qua quaeritur, obligationem quidem nullam natam videri, sed probationem depositarum rerum impleri posse: an autem is quoque, qui deberi sibi cavit in eadem epistula decem, probare possit hoc quod scripsit, iudicem aestimaturum."
+},
+{
+"id": "16.3.27",
+"label": "D. 16.3.27 (Paulus)",
+"text": "Lucius Titius cum haberet filiam in potestate Seiam, Pamphilo servo alieno in matrimonium collocavit, cui etiam dotem dedit, quam sub titulo depositi in cautionem contulit, et postea nulla denuntiatione a domino facta pater decessit, mox et Pamphilus servus: quaero, qua actione Seia pecuniam petere possit, cum ipsa patri heres extiterit. Paulus respondit, quoniam dos constitui non potuit, ex causa depositi actione de peculio pecuniam repetendam.",
+"inscription": "Paulus libro septimo responsorum"
+},
+{
+"id": "16.3.28",
+"label": "D. 16.3.28 (Scaevola)",
+"text": "Quintus Caecilius Candidus ad Paccium Rogatianum epistulam scripsit in verba infra scripta: \"Caecilius Candidus Paccio Rogatiano suo salutem. Viginti quinque nummorum quos apud me esse voluisti, notum tibi ista hac epistula facio ad ratiunculam meam ea pervenisse: quibus ut primum prospiciam, ne vacua tibi sint: id est ut usuras eorum accipias, curae habebo\". Quaesitum est, an ex ea epistula etiam usurae peti possint. Respondi deberi ex bonae fidei iudicio usuras, sive percepit sive pecunia in re sua usus est.",
+"inscription": "Scaevola libro primo responsorum"
+},
+{
+"id": "16.3.29.pr",
+"label": "D. 16.3.29 pr. (Paulus)",
+"text": "Si sacculum vel argentum signatum deposuero et is penes quem depositum fuit me invito contrectaverit, et depositi et furti actio mihi in eum competit.",
+"inscription": "Paulus libro secundo sententiarum"
+},
+{
+"id": "16.3.29.1",
+"label": "D. 16.3.29.1",
+"text": "Si ex permissu meo deposita pecunia is penes quem deposita est utatur, ut in ceteris bonae fidei iudiciis usuras eius nomine praestare mihi cogitur."
+},
+{
+"id": "16.3.30",
+"label": "D. 16.3.30 (Neratius)",
+"text": "Si fideiussor pro te apud quem depositum est litis aestimatione damnatus sit, rem tuam fieri.",
+"inscription": "Neratius libro primo responsorum"
+},
+{
+"id": "16.3.31.pr",
+"label": "D. 16.3.31 pr. (Tryphoninus)",
+"text": "Bona fides quae in contractibus exigitur aequitatem summam desiderat: sed eam utrum aestimamus ad merum ius gentium an vero cum praeceptis civilibus et praetoriis? Veluti reus capitalis iudicii deposuit apud te centum: is deportatus est, bona eius publicata sunt: utrumne ipsi haec reddenda an in publicum deferenda sint? Si tantum naturale et gentium ius intuemur, ei qui dedit restituenda sunt: si civile ius et legum ordinem, magis in publicum deferenda sunt: nam male meritus publice, ut exemplo aliis ad deterrenda maleficia sit, etiam egestate laborare debet.",
+"inscription": "Tryphoninus libro nono disputationum"
+},
+{
+"id": "16.3.31.1",
+"label": "D. 16.3.31.1",
+"text": "Incurrit hic et alia inspectio. Bonam fidem inter eos tantum, quos contractum est, nullo extrinsecus adsumpto aestimare debemus an respectu etiam aliarum personarum, ad quas id quod geritur pertinet? Exempli loco latro spolia quae mihi abstulit posuit apud seium inscium de malitia deponentis: utrum latroni an mihi restituere seius debeat? si per se dantem accipientemque intuemur, haec est bona fides, ut commissam rem recipiat is qui dedit: si totius rei aequitatem, quae ex omnibus personis quae negotio isto continguntur impletur, mihi reddenda sunt, quo facto scelestissimo adempta sunt. Et probo hanc esse iustitiam, quae suum cuique ita tribuit, ut non distrahatur ab ullius personae iustiore repetitione. Quod si ego ad petenda ea non veniam, nihilo minus ei restituenda sunt qui deposuit, quamvis male quaesita deposuit. Quod et Marcellus in praedone et fure scribit. Si tamen ignorans latro cuius filio vel servo rem abstulisset apud patrem dominumve eius deposuit ignorantem, nec ex iure gentium consistet depositum, cuius haec est potestas, ut alii, non domino sua ipsius res quasi aliena, servanda detur. Et si rem meam fur, quam me ignorante subripuit, apud me etiamnunc delictum eius ignorantem deposuerit, recte dicetur non contrahi depositum, quia non est ex fide bona rem suam dominum praedoni restituere compelli. Sed et si etiamnunc ab ignorante domino tradita sit quasi ex causa depositi, tamen indebiti dati condictio competet."
+},
+{
+"id": "16.3.32",
+"label": "D. 16.3.32 (Celsus)",
+"text": "Quod Nerva diceret latiorem culpam dolum esse, Proculo displicebat, mihi verissimum videtur. Nam et si quis non ad eum modum quem hominum natura desiderat diligens est, nisi tamen ad suum modum curam in deposito praestat, fraude non caret: nec enim salva fide minorem is quam suis rebus diligentiam praestabit.",
+"inscription": "Celsus libro 11 digestorum"
+},
+{
+"id": "16.3.33",
+"label": "D. 16.3.33 (Labeo)",
+"text": "Servus tuus pecuniam cum Attio in sequestre deposuit apud Maevium ea condicione, ut ea tibi redderetur, si tuam esse probasses, si minus, ut Attio redderetur. Posse dixi cum eo, apud quem deposita esset, incerti agere, id est ad exhibendum, et exhibitam vindicare, quia servus in deponendo tuum ius deterius facere non potuisset.",
+"inscription": "Labeo libro sexto posteriorum a Iavoleno epitomarum"
+},
+{
+"id": "16.3.34",
+"label": "D. 16.3.34 (Labeo)",
+"text": "Potes agere depositi cum eo, qui tibi non aliter quam nummis a te acceptis depositum reddere voluerit, quamvis sine mora et incorruptum reddiderit.",
+"inscription": "Labeo libro secundo pithanon"
+}
+]
+}

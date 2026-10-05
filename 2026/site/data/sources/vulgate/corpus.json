@@ -1,0 +1,670 @@
+{
+ "id": "vulgate",
+ "title": "Vulgate (Clementine)",
+ "language": "la",
+ "edition": "Biblia Sacra Vulgatae Editionis (Clementine, 1592), text of the Clementine Vulgate Project (after Colunga–Turrado 1946 and Vercellone 1861)",
+ "license": "public domain (Clementine Vulgate Project text)",
+ "attribution": "Text: The Clementine Vulgate Project (M. Tweedale et al.), via VulSearch; mirror github.com/jrichter/ClementineVulgateConverter @ 38292f3f91e8",
+ "url": "https://vulsearch.sourceforge.net/",
+ "unit_scheme": "book (unit id = slug of the book name, e.g. '1-kings')",
+ "passage_scheme": "Book chapter:verse (Vulgate names and numbering: 1 Kings = 1 Samuel, 3 Kings = 1 Kings; Psalms in Vulgate/LXX numbering)",
+ "units": [
+  "genesis",
+  "exodus",
+  "leviticus",
+  "numbers",
+  "deuteronomy",
+  "joshua",
+  "judges",
+  "ruth",
+  "1-kings",
+  "2-kings",
+  "3-kings",
+  "4-kings",
+  "1-chronicles",
+  "2-chronicles",
+  "ezra",
+  "nehemiah",
+  "tobit",
+  "judith",
+  "esther",
+  "job",
+  "psalms-a",
+  "psalms-b",
+  "proverbs",
+  "ecclesiastes",
+  "song-of-songs",
+  "wisdom",
+  "ecclesiasticus",
+  "isaiah",
+  "jeremiah",
+  "lamentations",
+  "baruch",
+  "ezekiel",
+  "daniel",
+  "hosea",
+  "joel",
+  "amos",
+  "obadiah",
+  "jonah",
+  "micah",
+  "nahum",
+  "habakkuk",
+  "zephaniah",
+  "haggai",
+  "zechariah",
+  "malachi",
+  "1-maccabees",
+  "2-maccabees",
+  "matthew",
+  "mark",
+  "luke",
+  "john",
+  "acts",
+  "romans",
+  "1-corinthians",
+  "2-corinthians",
+  "galatians",
+  "ephesians",
+  "philippians",
+  "colossians",
+  "1-thessalonians",
+  "2-thessalonians",
+  "1-timothy",
+  "2-timothy",
+  "titus",
+  "philemon",
+  "hebrews",
+  "james",
+  "1-peter",
+  "2-peter",
+  "1-john",
+  "2-john",
+  "3-john",
+  "jude",
+  "apocalypse"
+ ],
+ "books": {
+  "Genesis": {
+   "unit": "genesis",
+   "latin": "Genesis",
+   "abbreviations": [
+    "Gen.",
+    "Gn."
+   ]
+  },
+  "Exodus": {
+   "unit": "exodus",
+   "latin": "Exodus",
+   "abbreviations": [
+    "Exod.",
+    "Ex."
+   ]
+  },
+  "Leviticus": {
+   "unit": "leviticus",
+   "latin": "Leviticus",
+   "abbreviations": [
+    "Lev.",
+    "Lv."
+   ]
+  },
+  "Numbers": {
+   "unit": "numbers",
+   "latin": "Numeri",
+   "abbreviations": [
+    "Num.",
+    "Nm."
+   ]
+  },
+  "Deuteronomy": {
+   "unit": "deuteronomy",
+   "latin": "Deuteronomium",
+   "abbreviations": [
+    "Deut.",
+    "Dt."
+   ]
+  },
+  "Joshua": {
+   "unit": "joshua",
+   "latin": "Josue",
+   "abbreviations": [
+    "Jos.",
+    "Iosue"
+   ]
+  },
+  "Judges": {
+   "unit": "judges",
+   "latin": "Judicum",
+   "abbreviations": [
+    "Jud.",
+    "Judic.",
+    "Jdc."
+   ]
+  },
+  "Ruth": {
+   "unit": "ruth",
+   "latin": "Ruth",
+   "abbreviations": [
+    "Ruth"
+   ]
+  },
+  "1 Kings": {
+   "unit": "1-kings",
+   "latin": "Regum I",
+   "abbreviations": [
+    "1 Reg.",
+    "I Reg.",
+    "1 Sam."
+   ]
+  },
+  "2 Kings": {
+   "unit": "2-kings",
+   "latin": "Regum II",
+   "abbreviations": [
+    "2 Reg.",
+    "II Reg.",
+    "2 Sam."
+   ]
+  },
+  "3 Kings": {
+   "unit": "3-kings",
+   "latin": "Regum III",
+   "abbreviations": [
+    "3 Reg.",
+    "III Reg."
+   ]
+  },
+  "4 Kings": {
+   "unit": "4-kings",
+   "latin": "Regum IV",
+   "abbreviations": [
+    "4 Reg.",
+    "IV Reg."
+   ]
+  },
+  "1 Chronicles": {
+   "unit": "1-chronicles",
+   "latin": "Paralipomenon I",
+   "abbreviations": [
+    "1 Par.",
+    "I Paralip."
+   ]
+  },
+  "2 Chronicles": {
+   "unit": "2-chronicles",
+   "latin": "Paralipomenon II",
+   "abbreviations": [
+    "2 Par.",
+    "II Paralip."
+   ]
+  },
+  "Ezra": {
+   "unit": "ezra",
+   "latin": "Esdrae I",
+   "abbreviations": [
+    "1 Esdr.",
+    "Esdr."
+   ]
+  },
+  "Nehemiah": {
+   "unit": "nehemiah",
+   "latin": "Nehemiae (Esdrae II)",
+   "abbreviations": [
+    "Neh.",
+    "2 Esdr."
+   ]
+  },
+  "Tobit": {
+   "unit": "tobit",
+   "latin": "Tobiae",
+   "abbreviations": [
+    "Tob."
+   ]
+  },
+  "Judith": {
+   "unit": "judith",
+   "latin": "Judith",
+   "abbreviations": [
+    "Judith",
+    "Jdt."
+   ]
+  },
+  "Esther": {
+   "unit": "esther",
+   "latin": "Esther",
+   "abbreviations": [
+    "Esth."
+   ]
+  },
+  "Job": {
+   "unit": "job",
+   "latin": "Job",
+   "abbreviations": [
+    "Job"
+   ]
+  },
+  "Psalms": {
+   "unit": "psalms",
+   "latin": "Psalmi",
+   "abbreviations": [
+    "Ps.",
+    "Psal."
+   ],
+   "parts": [
+    "psalms-a",
+    "psalms-b"
+   ]
+  },
+  "Proverbs": {
+   "unit": "proverbs",
+   "latin": "Proverbia",
+   "abbreviations": [
+    "Prov.",
+    "Pr."
+   ]
+  },
+  "Ecclesiastes": {
+   "unit": "ecclesiastes",
+   "latin": "Ecclesiastes",
+   "abbreviations": [
+    "Eccl.",
+    "Eccle."
+   ]
+  },
+  "Song of Songs": {
+   "unit": "song-of-songs",
+   "latin": "Canticum Canticorum",
+   "abbreviations": [
+    "Cant.",
+    "Ct."
+   ]
+  },
+  "Wisdom": {
+   "unit": "wisdom",
+   "latin": "Sapientia",
+   "abbreviations": [
+    "Sap.",
+    "Wis."
+   ]
+  },
+  "Ecclesiasticus": {
+   "unit": "ecclesiasticus",
+   "latin": "Ecclesiasticus",
+   "abbreviations": [
+    "Eccli.",
+    "Sir."
+   ]
+  },
+  "Isaiah": {
+   "unit": "isaiah",
+   "latin": "Isaias",
+   "abbreviations": [
+    "Is.",
+    "Isai."
+   ]
+  },
+  "Jeremiah": {
+   "unit": "jeremiah",
+   "latin": "Jeremias",
+   "abbreviations": [
+    "Jer.",
+    "Hier."
+   ]
+  },
+  "Lamentations": {
+   "unit": "lamentations",
+   "latin": "Lamentationes",
+   "abbreviations": [
+    "Lam.",
+    "Thren."
+   ]
+  },
+  "Baruch": {
+   "unit": "baruch",
+   "latin": "Baruch",
+   "abbreviations": [
+    "Bar."
+   ]
+  },
+  "Ezekiel": {
+   "unit": "ezekiel",
+   "latin": "Ezechiel",
+   "abbreviations": [
+    "Ezech.",
+    "Ez."
+   ]
+  },
+  "Daniel": {
+   "unit": "daniel",
+   "latin": "Daniel",
+   "abbreviations": [
+    "Dan.",
+    "Dn."
+   ]
+  },
+  "Hosea": {
+   "unit": "hosea",
+   "latin": "Osee",
+   "abbreviations": [
+    "Os.",
+    "Osee"
+   ]
+  },
+  "Joel": {
+   "unit": "joel",
+   "latin": "Joel",
+   "abbreviations": [
+    "Joel"
+   ]
+  },
+  "Amos": {
+   "unit": "amos",
+   "latin": "Amos",
+   "abbreviations": [
+    "Am.",
+    "Amos"
+   ]
+  },
+  "Obadiah": {
+   "unit": "obadiah",
+   "latin": "Abdias",
+   "abbreviations": [
+    "Abd."
+   ]
+  },
+  "Jonah": {
+   "unit": "jonah",
+   "latin": "Jonas",
+   "abbreviations": [
+    "Jon."
+   ]
+  },
+  "Micah": {
+   "unit": "micah",
+   "latin": "Michaeas",
+   "abbreviations": [
+    "Mich."
+   ]
+  },
+  "Nahum": {
+   "unit": "nahum",
+   "latin": "Nahum",
+   "abbreviations": [
+    "Nah."
+   ]
+  },
+  "Habakkuk": {
+   "unit": "habakkuk",
+   "latin": "Habacuc",
+   "abbreviations": [
+    "Hab."
+   ]
+  },
+  "Zephaniah": {
+   "unit": "zephaniah",
+   "latin": "Sophonias",
+   "abbreviations": [
+    "Soph."
+   ]
+  },
+  "Haggai": {
+   "unit": "haggai",
+   "latin": "Aggaeus",
+   "abbreviations": [
+    "Agg."
+   ]
+  },
+  "Zechariah": {
+   "unit": "zechariah",
+   "latin": "Zacharias",
+   "abbreviations": [
+    "Zach."
+   ]
+  },
+  "Malachi": {
+   "unit": "malachi",
+   "latin": "Malachias",
+   "abbreviations": [
+    "Mal."
+   ]
+  },
+  "1 Maccabees": {
+   "unit": "1-maccabees",
+   "latin": "Machabaeorum I",
+   "abbreviations": [
+    "1 Mach.",
+    "I Mach."
+   ]
+  },
+  "2 Maccabees": {
+   "unit": "2-maccabees",
+   "latin": "Machabaeorum II",
+   "abbreviations": [
+    "2 Mach.",
+    "II Mach."
+   ]
+  },
+  "Matthew": {
+   "unit": "matthew",
+   "latin": "Matthaeus",
+   "abbreviations": [
+    "Matth.",
+    "Mt."
+   ]
+  },
+  "Mark": {
+   "unit": "mark",
+   "latin": "Marcus",
+   "abbreviations": [
+    "Marc.",
+    "Mc."
+   ]
+  },
+  "Luke": {
+   "unit": "luke",
+   "latin": "Lucas",
+   "abbreviations": [
+    "Luc.",
+    "Lc."
+   ]
+  },
+  "John": {
+   "unit": "john",
+   "latin": "Joannes",
+   "abbreviations": [
+    "Joan.",
+    "Io."
+   ]
+  },
+  "Acts": {
+   "unit": "acts",
+   "latin": "Actus Apostolorum",
+   "abbreviations": [
+    "Act."
+   ]
+  },
+  "Romans": {
+   "unit": "romans",
+   "latin": "ad Romanos",
+   "abbreviations": [
+    "Rom."
+   ]
+  },
+  "1 Corinthians": {
+   "unit": "1-corinthians",
+   "latin": "ad Corinthios I",
+   "abbreviations": [
+    "1 Cor.",
+    "I Cor."
+   ]
+  },
+  "2 Corinthians": {
+   "unit": "2-corinthians",
+   "latin": "ad Corinthios II",
+   "abbreviations": [
+    "2 Cor.",
+    "II Cor."
+   ]
+  },
+  "Galatians": {
+   "unit": "galatians",
+   "latin": "ad Galatas",
+   "abbreviations": [
+    "Gal."
+   ]
+  },
+  "Ephesians": {
+   "unit": "ephesians",
+   "latin": "ad Ephesios",
+   "abbreviations": [
+    "Eph."
+   ]
+  },
+  "Philippians": {
+   "unit": "philippians",
+   "latin": "ad Philippenses",
+   "abbreviations": [
+    "Phil."
+   ]
+  },
+  "Colossians": {
+   "unit": "colossians",
+   "latin": "ad Colossenses",
+   "abbreviations": [
+    "Col."
+   ]
+  },
+  "1 Thessalonians": {
+   "unit": "1-thessalonians",
+   "latin": "ad Thessalonicenses I",
+   "abbreviations": [
+    "1 Thess."
+   ]
+  },
+  "2 Thessalonians": {
+   "unit": "2-thessalonians",
+   "latin": "ad Thessalonicenses II",
+   "abbreviations": [
+    "2 Thess."
+   ]
+  },
+  "1 Timothy": {
+   "unit": "1-timothy",
+   "latin": "ad Timotheum I",
+   "abbreviations": [
+    "1 Tim."
+   ]
+  },
+  "2 Timothy": {
+   "unit": "2-timothy",
+   "latin": "ad Timotheum II",
+   "abbreviations": [
+    "2 Tim."
+   ]
+  },
+  "Titus": {
+   "unit": "titus",
+   "latin": "ad Titum",
+   "abbreviations": [
+    "Tit."
+   ]
+  },
+  "Philemon": {
+   "unit": "philemon",
+   "latin": "ad Philemonem",
+   "abbreviations": [
+    "Philem."
+   ]
+  },
+  "Hebrews": {
+   "unit": "hebrews",
+   "latin": "ad Hebraeos",
+   "abbreviations": [
+    "Hebr."
+   ]
+  },
+  "James": {
+   "unit": "james",
+   "latin": "Jacobi",
+   "abbreviations": [
+    "Jac.",
+    "Iac."
+   ]
+  },
+  "1 Peter": {
+   "unit": "1-peter",
+   "latin": "Petri I",
+   "abbreviations": [
+    "1 Pet.",
+    "I Petr."
+   ]
+  },
+  "2 Peter": {
+   "unit": "2-peter",
+   "latin": "Petri II",
+   "abbreviations": [
+    "2 Pet.",
+    "II Petr."
+   ]
+  },
+  "1 John": {
+   "unit": "1-john",
+   "latin": "Joannis I",
+   "abbreviations": [
+    "1 Joan.",
+    "I Io."
+   ]
+  },
+  "2 John": {
+   "unit": "2-john",
+   "latin": "Joannis II",
+   "abbreviations": [
+    "2 Joan."
+   ]
+  },
+  "3 John": {
+   "unit": "3-john",
+   "latin": "Joannis III",
+   "abbreviations": [
+    "3 Joan."
+   ]
+  },
+  "Jude": {
+   "unit": "jude",
+   "latin": "Judae",
+   "abbreviations": [
+    "Jud.",
+    "Iudae"
+   ]
+  },
+  "Apocalypse": {
+   "unit": "apocalypse",
+   "latin": "Apocalypsis",
+   "abbreviations": [
+    "Apoc.",
+    "Rev."
+   ]
+  }
+ },
+ "text_note": "Markup removed: paragraph marks and verse brackets dropped, poetic line breaks kept as newlines, speaker/letter tags rendered 'Aleph. '. The prologues of Lamentations and Ecclesiasticus sit at the start of 1:1 as in the source. Appendix books (3-4 Esdras, Prayer of Manasses) are not included.",
+ "split_units": {
+  "psalms": [
+   {
+    "unit": "psalms-a",
+    "passage_range": [
+     "Psalms 1:1",
+     "Psalms 76:21"
+    ]
+   },
+   {
+    "unit": "psalms-b",
+    "passage_range": [
+     "Psalms 77:1",
+     "Psalms 150:6"
+    ]
+   }
+  ]
+ },
+ "split_note": "Books over ~300 KB are split at chapter boundaries into <unit>-a, <unit>-b; split_units gives each part's first and last verse (passage_range)."
+}

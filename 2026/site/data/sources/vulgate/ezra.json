@@ -1,0 +1,1407 @@
+{
+"corpus": "vulgate",
+"unit": "ezra",
+"title": "Ezra (Esdrae I)",
+"passages": [
+{
+"id": "Ezra 1:1",
+"label": "Ezra 1:1",
+"text": "In anno primo Cyri regis Persarum, ut compleretur verbum Domini ex ore Jeremiæ, suscitavit Dominus spiritum Cyri regis Persarum: et traduxit vocem in omni regno suo, etiam per scripturam, dicens:"
+},
+{
+"id": "Ezra 1:2",
+"label": "Ezra 1:2",
+"text": "Hæc dicit Cyrus rex Persarum: Omnia regna terræ dedit mihi Dominus Deus cæli, et ipse præcepit mihi ut ædificarem ei domum in Jerusalem, quæ est in Judæa."
+},
+{
+"id": "Ezra 1:3",
+"label": "Ezra 1:3",
+"text": "Quis est in vobis de universo populo ejus? Sit Deus illius cum ipso. Ascendat in Jerusalem, quæ est in Judæa, et ædificet domum Domini Dei Israël: ipse est Deus qui est in Jerusalem."
+},
+{
+"id": "Ezra 1:4",
+"label": "Ezra 1:4",
+"text": "Et omnes reliqui in cunctis locis ubicumque habitant, adjuvent eum viri de loco suo argento et auro, et substantia, et pecoribus, excepto quod voluntarie offerunt templo Dei, quod est in Jerusalem."
+},
+{
+"id": "Ezra 1:5",
+"label": "Ezra 1:5",
+"text": "Et surrexerunt principes patrum de Juda et Benjamin, et sacerdotes, et Levitæ, et omnis cujus Deus suscitavit spiritum, ut ascenderent ad ædificandum templum Domini, quod erat in Jerusalem."
+},
+{
+"id": "Ezra 1:6",
+"label": "Ezra 1:6",
+"text": "Universique qui erant in circuitu, adjuverunt manus eorum in vasis argenteis et aureis, in substantia et jumentis, in supellectili, exceptis his quæ sponte obtulerant."
+},
+{
+"id": "Ezra 1:7",
+"label": "Ezra 1:7",
+"text": "Rex quoque Cyrus protulit vasa templi Domini, quæ tulerat Nabuchodonosor de Jerusalem, et posuerat ea in templo dei sui."
+},
+{
+"id": "Ezra 1:8",
+"label": "Ezra 1:8",
+"text": "Protulit autem ea Cyrus rex Persarum per manum Mithridatis filii Gazabar, et annumeravit ea Sassabasar principi Juda."
+},
+{
+"id": "Ezra 1:9",
+"label": "Ezra 1:9",
+"text": "Et hic est numerus eorum: phialæ aureæ triginta, phialæ argenteæ mille, cultri viginti novem, scyphi aurei triginta,"
+},
+{
+"id": "Ezra 1:10",
+"label": "Ezra 1:10",
+"text": "scyphi argentei secundi quadringenti decem, vasa alia mille."
+},
+{
+"id": "Ezra 1:11",
+"label": "Ezra 1:11",
+"text": "Omnia vasa aurea et argentea quinque millia quadringenta: universa tulit Sassabasar cum his qui ascendebant de transmigratione Babylonis in Jerusalem."
+},
+{
+"id": "Ezra 2:1",
+"label": "Ezra 2:1",
+"text": "Hi sunt autem provinciæ filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Jerusalem et Judam, unusquisque in civitatem suam."
+},
+{
+"id": "Ezra 2:2",
+"label": "Ezra 2:2",
+"text": "Qui venerunt cum Zorobabel, Josue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israël:"
+},
+{
+"id": "Ezra 2:3",
+"label": "Ezra 2:3",
+"text": "filii Pharos duo millia centum septuaginta duo."
+},
+{
+"id": "Ezra 2:4",
+"label": "Ezra 2:4",
+"text": "Filii Sephatia, trecenti septuaginta duo."
+},
+{
+"id": "Ezra 2:5",
+"label": "Ezra 2:5",
+"text": "Filii Area, septingenti septuaginta quinque."
+},
+{
+"id": "Ezra 2:6",
+"label": "Ezra 2:6",
+"text": "Filii Phahath Moab, filiorum Josue: Joab, duo millia octingenti duodecim."
+},
+{
+"id": "Ezra 2:7",
+"label": "Ezra 2:7",
+"text": "Filii Ælam, mille ducenti quinquaginta quatuor."
+},
+{
+"id": "Ezra 2:8",
+"label": "Ezra 2:8",
+"text": "Filii Zethua, nongenti quadraginta quinque."
+},
+{
+"id": "Ezra 2:9",
+"label": "Ezra 2:9",
+"text": "Filii Zachai, septingenti sexaginta."
+},
+{
+"id": "Ezra 2:10",
+"label": "Ezra 2:10",
+"text": "Filii Bani, sexcenti quadraginta duo."
+},
+{
+"id": "Ezra 2:11",
+"label": "Ezra 2:11",
+"text": "Filii Bebai, sexcenti viginti tres."
+},
+{
+"id": "Ezra 2:12",
+"label": "Ezra 2:12",
+"text": "Filii Azgad, mille ducenti viginti duo."
+},
+{
+"id": "Ezra 2:13",
+"label": "Ezra 2:13",
+"text": "Filii Adonicam, sexcenti sexaginta sex."
+},
+{
+"id": "Ezra 2:14",
+"label": "Ezra 2:14",
+"text": "Filii Beguai, duo millia quinquaginta sex."
+},
+{
+"id": "Ezra 2:15",
+"label": "Ezra 2:15",
+"text": "Filii Adin, quadringenti quinquaginta quatuor."
+},
+{
+"id": "Ezra 2:16",
+"label": "Ezra 2:16",
+"text": "Filii Ather, qui erant ex Ezechia, nonaginta octo."
+},
+{
+"id": "Ezra 2:17",
+"label": "Ezra 2:17",
+"text": "Filii Besai, trecenti viginti tres."
+},
+{
+"id": "Ezra 2:18",
+"label": "Ezra 2:18",
+"text": "Filii Jora, centum duodecim."
+},
+{
+"id": "Ezra 2:19",
+"label": "Ezra 2:19",
+"text": "Filii Hasum, ducenti viginti tres."
+},
+{
+"id": "Ezra 2:20",
+"label": "Ezra 2:20",
+"text": "Filii Gebbar, nonaginta quinque."
+},
+{
+"id": "Ezra 2:21",
+"label": "Ezra 2:21",
+"text": "Filii Bethlehem, centum viginti tres."
+},
+{
+"id": "Ezra 2:22",
+"label": "Ezra 2:22",
+"text": "Viri Netupha, quinquaginta sex."
+},
+{
+"id": "Ezra 2:23",
+"label": "Ezra 2:23",
+"text": "Viri Anathoth, centum viginti octo."
+},
+{
+"id": "Ezra 2:24",
+"label": "Ezra 2:24",
+"text": "Filii Azmaveth, quadraginta duo."
+},
+{
+"id": "Ezra 2:25",
+"label": "Ezra 2:25",
+"text": "Filii Cariathiarim, Cephira et Beroth, septingenti quadraginta tres."
+},
+{
+"id": "Ezra 2:26",
+"label": "Ezra 2:26",
+"text": "Filii Rama et Gabaa, sexcenti viginti unus."
+},
+{
+"id": "Ezra 2:27",
+"label": "Ezra 2:27",
+"text": "Viri Machmas, centum viginti duo."
+},
+{
+"id": "Ezra 2:28",
+"label": "Ezra 2:28",
+"text": "Viri Bethel et Hai, ducenti viginti tres."
+},
+{
+"id": "Ezra 2:29",
+"label": "Ezra 2:29",
+"text": "Filii Nebo, quinquaginta duo."
+},
+{
+"id": "Ezra 2:30",
+"label": "Ezra 2:30",
+"text": "Filii Megbis, centum quinquaginta sex."
+},
+{
+"id": "Ezra 2:31",
+"label": "Ezra 2:31",
+"text": "Filii Ælam alterius, mille ducenti quinquaginta quatuor."
+},
+{
+"id": "Ezra 2:32",
+"label": "Ezra 2:32",
+"text": "Filii Harim, trecenti viginti."
+},
+{
+"id": "Ezra 2:33",
+"label": "Ezra 2:33",
+"text": "Filii Lod Hadid, et Ono, septingenti viginti quinque."
+},
+{
+"id": "Ezra 2:34",
+"label": "Ezra 2:34",
+"text": "Filii Jericho, trecenti quadraginta quinque."
+},
+{
+"id": "Ezra 2:35",
+"label": "Ezra 2:35",
+"text": "Filii Senaa, tria millia sexcenti triginta."
+},
+{
+"id": "Ezra 2:36",
+"label": "Ezra 2:36",
+"text": "Sacerdotes: filii Jadaia in domo Josue, nongenti septuaginta tres."
+},
+{
+"id": "Ezra 2:37",
+"label": "Ezra 2:37",
+"text": "Filii Emmer, mille quinquaginta duo."
+},
+{
+"id": "Ezra 2:38",
+"label": "Ezra 2:38",
+"text": "Filii Pheshur, mille ducenti quadraginta septem."
+},
+{
+"id": "Ezra 2:39",
+"label": "Ezra 2:39",
+"text": "Filii Harim, mille decem et septem."
+},
+{
+"id": "Ezra 2:40",
+"label": "Ezra 2:40",
+"text": "Levitæ: filii Josue et Cedmihel filiorum Odoviæ, septuaginta quatuor."
+},
+{
+"id": "Ezra 2:41",
+"label": "Ezra 2:41",
+"text": "Cantores: filii Asaph, centum viginti octo."
+},
+{
+"id": "Ezra 2:42",
+"label": "Ezra 2:42",
+"text": "Filii janitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatitha, filii Sobai: universi centum triginta novem."
+},
+{
+"id": "Ezra 2:43",
+"label": "Ezra 2:43",
+"text": "Nathinæi: filii Siha, filii Hasupha, filii Tabbaoth,"
+},
+{
+"id": "Ezra 2:44",
+"label": "Ezra 2:44",
+"text": "filii Ceros, filii Siaa, filii Phadon,"
+},
+{
+"id": "Ezra 2:45",
+"label": "Ezra 2:45",
+"text": "filii Lebana, filii Hagaba, filii Accub,"
+},
+{
+"id": "Ezra 2:46",
+"label": "Ezra 2:46",
+"text": "filii Hagab, filii Semlai, filii Hanan,"
+},
+{
+"id": "Ezra 2:47",
+"label": "Ezra 2:47",
+"text": "filii Gaddel, filii Gaher, filii Raaia,"
+},
+{
+"id": "Ezra 2:48",
+"label": "Ezra 2:48",
+"text": "filii Rasin, filii Necoda, filii Gazam,"
+},
+{
+"id": "Ezra 2:49",
+"label": "Ezra 2:49",
+"text": "filii Aza, filii Phasea, filii Besee,"
+},
+{
+"id": "Ezra 2:50",
+"label": "Ezra 2:50",
+"text": "filii Asena, filii Munim, filii Nephusim,"
+},
+{
+"id": "Ezra 2:51",
+"label": "Ezra 2:51",
+"text": "filii Bacbuc, filii Hacupha, filii Harhur,"
+},
+{
+"id": "Ezra 2:52",
+"label": "Ezra 2:52",
+"text": "filii Besluth, filii Mahida, filii Harsa,"
+},
+{
+"id": "Ezra 2:53",
+"label": "Ezra 2:53",
+"text": "filii Bercos, filii Sisara, filii Thema,"
+},
+{
+"id": "Ezra 2:54",
+"label": "Ezra 2:54",
+"text": "filii Nasia, filii Hatipha,"
+},
+{
+"id": "Ezra 2:55",
+"label": "Ezra 2:55",
+"text": "filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,"
+},
+{
+"id": "Ezra 2:56",
+"label": "Ezra 2:56",
+"text": "filii Jala, filii Dercon, filii Geddel,"
+},
+{
+"id": "Ezra 2:57",
+"label": "Ezra 2:57",
+"text": "filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami:"
+},
+{
+"id": "Ezra 2:58",
+"label": "Ezra 2:58",
+"text": "omnes Nathinæi, et filii servorum Salomonis, trecenti nonaginta duo."
+},
+{
+"id": "Ezra 2:59",
+"label": "Ezra 2:59",
+"text": "Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israël essent."
+},
+{
+"id": "Ezra 2:60",
+"label": "Ezra 2:60",
+"text": "Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquaginta duo."
+},
+{
+"id": "Ezra 2:61",
+"label": "Ezra 2:61",
+"text": "Et de filiis sacerdotum: filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:"
+},
+{
+"id": "Ezra 2:62",
+"label": "Ezra 2:62",
+"text": "hi quæsierunt scripturam genealogiæ suæ, et non invenerunt, et ejecti sunt de sacerdotio."
+},
+{
+"id": "Ezra 2:63",
+"label": "Ezra 2:63",
+"text": "Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus."
+},
+{
+"id": "Ezra 2:64",
+"label": "Ezra 2:64",
+"text": "Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:"
+},
+{
+"id": "Ezra 2:65",
+"label": "Ezra 2:65",
+"text": "exceptis servis eorum, et ancillis, qui erant septem millia trecenti triginta septem: et in ipsis cantores atque cantatrices ducenti."
+},
+{
+"id": "Ezra 2:66",
+"label": "Ezra 2:66",
+"text": "Equi eorum septingenti triginta sex, muli eorum, ducenti quadraginta quinque,"
+},
+{
+"id": "Ezra 2:67",
+"label": "Ezra 2:67",
+"text": "cameli eorum, quadringenti triginta quinque, asini eorum, sex millia septingenti viginti."
+},
+{
+"id": "Ezra 2:68",
+"label": "Ezra 2:68",
+"text": "Et de principibus patrum, cum ingrederentur templum Domini, quod est in Jerusalem, sponte obtulerunt in domum Dei ad exstruendam eam in loco suo."
+},
+{
+"id": "Ezra 2:69",
+"label": "Ezra 2:69",
+"text": "Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum."
+},
+{
+"id": "Ezra 2:70",
+"label": "Ezra 2:70",
+"text": "Habitaverunt ergo sacerdotes, et Levitæ, et de populo, et cantores, et janitores, et Nathinæi, in urbibus suis, universusque Israël in civitatibus suis."
+},
+{
+"id": "Ezra 3:1",
+"label": "Ezra 3:1",
+"text": "Jamque venerat mensis septimus, et erant filii Israël in civitatibus suis: congregatus est ergo populus quasi vir unus in Jerusalem."
+},
+{
+"id": "Ezra 3:2",
+"label": "Ezra 3:2",
+"text": "Et surrexit Josue filius Josedec, et fratres ejus sacerdotes, et Zorobabel filius Salathiel, et fratres ejus, et ædificaverunt altare Dei Israël ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei."
+},
+{
+"id": "Ezra 3:3",
+"label": "Ezra 3:3",
+"text": "Collocaverunt autem altare Dei super bases suas, deterrentibus eos per circuitum populis terrarum: et obtulerunt super illud holocaustum Domino mane et vespere."
+},
+{
+"id": "Ezra 3:4",
+"label": "Ezra 3:4",
+"text": "Feceruntque solemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo."
+},
+{
+"id": "Ezra 3:5",
+"label": "Ezra 3:5",
+"text": "Et post hæc holocaustum juge, tam in calendis quam in universis solemnitatibus Domini quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino."
+},
+{
+"id": "Ezra 3:6",
+"label": "Ezra 3:6",
+"text": "A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat."
+},
+{
+"id": "Ezra 3:7",
+"label": "Ezra 3:7",
+"text": "Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis Tyriisque, ut deferrent ligna cedrina de Libano ad mare Joppe, juxta quod præceperat Cyrus rex Persarum eis."
+},
+{
+"id": "Ezra 3:8",
+"label": "Ezra 3:8",
+"text": "Anno autem secundo adventus eorum ad templum Dei in Jerusalem, mense secundo, cœperunt Zorobabel filius Salathiel, et Josue filius Josedec, et reliqui de fratribus eorum sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Jerusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini."
+},
+{
+"id": "Ezra 3:9",
+"label": "Ezra 3:9",
+"text": "Stetitque Josue et filii ejus et fratres ejus, Cedmihel et filii ejus, et filii Juda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ."
+},
+{
+"id": "Ezra 3:10",
+"label": "Ezra 3:10",
+"text": "Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis, et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israël."
+},
+{
+"id": "Ezra 3:11",
+"label": "Ezra 3:11",
+"text": "Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia ejus super Israël. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini."
+},
+{
+"id": "Ezra 3:12",
+"label": "Ezra 3:12",
+"text": "Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum, in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem."
+},
+{
+"id": "Ezra 3:13",
+"label": "Ezra 3:13",
+"text": "Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commistim enim populus vociferabatur clamore magno, et vox audiebatur procul."
+},
+{
+"id": "Ezra 4:1",
+"label": "Ezra 4:1",
+"text": "Audierunt autem hostes Judæ et Benjamin, quia filii captivitatis ædificarent templum Domino Deo Israël:"
+},
+{
+"id": "Ezra 4:2",
+"label": "Ezra 4:2",
+"text": "et accedentes ad Zorobabel, et ad principes patrum, dixerunt eis: Ædificemus vobiscum, quia ita ut vos, quærimus Deum vestrum: ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc."
+},
+{
+"id": "Ezra 4:3",
+"label": "Ezra 4:3",
+"text": "Et dixit eis Zorobabel, et Josue, et reliqui principes patrum Israël: Non est vobis et nobis ut ædificemus domum Deo nostro, sed nos ipsi soli ædificabimus Domino Deo nostro, sicut præcepit nobis Cyrus rex Persarum."
+},
+{
+"id": "Ezra 4:4",
+"label": "Ezra 4:4",
+"text": "Factum est igitur ut populus terræ impediret manus populi Judæ, et turbaret eos in ædificando."
+},
+{
+"id": "Ezra 4:5",
+"label": "Ezra 4:5",
+"text": "Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum."
+},
+{
+"id": "Ezra 4:6",
+"label": "Ezra 4:6",
+"text": "In regno autem Assueri, in principio regni ejus, scripserunt accusationem adversus habitatores Judæ et Jerusalem."
+},
+{
+"id": "Ezra 4:7",
+"label": "Ezra 4:7",
+"text": "Et in diebus Artaxerxis scripsit Beselam, Mithridates, et Thabeel, et reliqui qui erant in consilio eorum, ad Artaxerxem regem Persarum: epistola autem accusationis scripta erat syriace, et legebatur sermone syro."
+},
+{
+"id": "Ezra 4:8",
+"label": "Ezra 4:8",
+"text": "Reum Beelteem, et Samsai scriba, scripserunt epistolam unam de Jerusalem Artaxerxi regi, hujuscemodi:"
+},
+{
+"id": "Ezra 4:9",
+"label": "Ezra 4:9",
+"text": "Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dinæi, et Apharsathachæi, Terphalæi, Apharsæi, Erchuæi, Babylonii, Susanechæi, Dievi, et Ælamitæ,"
+},
+{
+"id": "Ezra 4:10",
+"label": "Ezra 4:10",
+"text": "et ceteri de gentibus, quas transtulit Asenaphar magnus et gloriosus, et habitare eas fecit in civitatibus Samariæ, et in reliquis regionibus trans flumen in pace"
+},
+{
+"id": "Ezra 4:11",
+"label": "Ezra 4:11",
+"text": "(hoc est exemplar epistolæ, quam miserunt ad eum), Artaxerxi regi, servi tui, viri qui sunt trans fluvium, salutem dicunt."
+},
+{
+"id": "Ezra 4:12",
+"label": "Ezra 4:12",
+"text": "Notum sit regi quia Judæi, qui ascenderunt a te ad nos, venerunt in Jerusalem civitatem rebellem et pessimam, quam ædificant exstruentes muros ejus, et parietes componentes."
+},
+{
+"id": "Ezra 4:13",
+"label": "Ezra 4:13",
+"text": "Nunc igitur notum sit regi, quia si civitas illa ædificata fuerit, et muri ejus instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges hæc noxa perveniet."
+},
+{
+"id": "Ezra 4:14",
+"label": "Ezra 4:14",
+"text": "Nos autem memores salis, quod in palatio comedimus, et quia læsiones regis videre nefas ducimus, idcirco misimus et nuntiavimus regi,"
+},
+{
+"id": "Ezra 4:15",
+"label": "Ezra 4:15",
+"text": "ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est."
+},
+{
+"id": "Ezra 4:16",
+"label": "Ezra 4:16",
+"text": "Nuntiamus nos regi, quoniam si civitas illa ædificata fuerit, et muri ipsius instaurati, possessionem trans fluvium non habebis."
+},
+{
+"id": "Ezra 4:17",
+"label": "Ezra 4:17",
+"text": "Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samariæ, et ceteris trans fluvium, salutem dicens et pacem."
+},
+{
+"id": "Ezra 4:18",
+"label": "Ezra 4:18",
+"text": "Accusatio, quam misistis ad nos, manifeste lecta est coram me,"
+},
+{
+"id": "Ezra 4:19",
+"label": "Ezra 4:19",
+"text": "et a me præceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et prælia concitantur in ea:"
+},
+{
+"id": "Ezra 4:20",
+"label": "Ezra 4:20",
+"text": "nam et reges fortissimi fuerunt in Jerusalem, qui et dominati sunt omni regioni quæ trans fluvium est: tributum quoque et vectigal, et reditus accipiebant."
+},
+{
+"id": "Ezra 4:21",
+"label": "Ezra 4:21",
+"text": "Nunc ergo audite sententiam: prohibeatis viros illos, ut urbs illa non ædificetur donec si forte a me jussum fuerit."
+},
+{
+"id": "Ezra 4:22",
+"label": "Ezra 4:22",
+"text": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges."
+},
+{
+"id": "Ezra 4:23",
+"label": "Ezra 4:23",
+"text": "Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Jerusalem ad Judæos, et prohibuerunt eos in brachio et robore."
+},
+{
+"id": "Ezra 4:24",
+"label": "Ezra 4:24",
+"text": "Tunc intermissum est opus domus Domini in Jerusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum."
+},
+{
+"id": "Ezra 5:1",
+"label": "Ezra 5:1",
+"text": "Prophetaverunt autem Aggæus propheta, et Zacharias filius Addo, prophetantes ad Judæos qui erant in Judæa et Jerusalem, in nomine Dei Israël."
+},
+{
+"id": "Ezra 5:2",
+"label": "Ezra 5:2",
+"text": "Tunc surrexerunt Zorobabel filius Salathiel, et Josue filius Josedec, et cœperunt ædificare templum Dei in Jerusalem, et cum eis prophetæ Dei adjuvantes eos."
+},
+{
+"id": "Ezra 5:3",
+"label": "Ezra 5:3",
+"text": "In ipso autem tempore venit ad eos Thathanai, qui erat dux trans flumen, et Stharbuzanai, et consiliarii eorum: sicque dixerunt eis: Quis dedit vobis consilium ut domum hanc ædificaretis, et muros ejus instauraretis?"
+},
+{
+"id": "Ezra 5:4",
+"label": "Ezra 5:4",
+"text": "Ad quod respondimus eis, quæ essent nomina hominum auctorum ædificationis illius."
+},
+{
+"id": "Ezra 5:5",
+"label": "Ezra 5:5",
+"text": "Oculus autem Dei eorum factus est super senes Judæorum, et non potuerunt inhibere eos. Placuitque ut res ad Darium referretur, et tunc satisfacerent adversus accusationem illam."
+},
+{
+"id": "Ezra 5:6",
+"label": "Ezra 5:6",
+"text": "Exemplar epistolæ, quam misit Thathanai dux regionis trans flumen, et Stharbuzanai, et consiliatores ejus Arphasachæi, qui erant trans flumen, ad Darium regem."
+},
+{
+"id": "Ezra 5:7",
+"label": "Ezra 5:7",
+"text": "Sermo, quem miserant ei, sic scriptus erat: Dario regi pax omnis."
+},
+{
+"id": "Ezra 5:8",
+"label": "Ezra 5:8",
+"text": "Notum sit regi, isse nos ad Judæam provinciam, ad domum Dei magni, quæ ædificatur lapide impolito, et ligna ponuntur in parietibus: opusque illud diligenter exstruitur, et crescit in manibus eorum."
+},
+{
+"id": "Ezra 5:9",
+"label": "Ezra 5:9",
+"text": "Interrogavimus ergo senes illos, et ita diximus eis: Quis dedit vobis potestatem ut domum hanc ædificaretis, et muros hos instauraretis?"
+},
+{
+"id": "Ezra 5:10",
+"label": "Ezra 5:10",
+"text": "Sed et nomina eorum quæsivimus ab eis, ut nuntiaremus tibi: scripsimusque nomina eorum virorum, qui sunt principes in eis."
+},
+{
+"id": "Ezra 5:11",
+"label": "Ezra 5:11",
+"text": "Hujuscemodi autem sermonem responderunt nobis dicentes: Nos sumus servi Dei cæli et terræ, et ædificamus templum, quod erat exstructum ante hos annos multos, quodque rex Israël magnus ædificaverat, et exstruxerat."
+},
+{
+"id": "Ezra 5:12",
+"label": "Ezra 5:12",
+"text": "Postquam autem ad iracundiam provocaverunt patres nostri Deum cæli, tradidit eos in manus Nabuchodonosor regis Babylonis Chaldæi, domum quoque hanc destruxit, et populum ejus transtulit in Babylonem."
+},
+{
+"id": "Ezra 5:13",
+"label": "Ezra 5:13",
+"text": "Anno autem primo Cyri regis Babylonis, Cyrus rex proposuit edictum ut domus Dei hæc ædificaretur."
+},
+{
+"id": "Ezra 5:14",
+"label": "Ezra 5:14",
+"text": "Nam et vasa templi Dei aurea et argentea, quæ Nabuchodonosor tulerat de templo, quod erat in Jerusalem, et asportaverat ea in templum Babylonis, protulit Cyrus rex de templo Babylonis, et data sunt Sassabasar vocabulo, quem et principem constituit,"
+},
+{
+"id": "Ezra 5:15",
+"label": "Ezra 5:15",
+"text": "dixitque ei: Hæc vasa tolle, et vade, et pone ea in templo, quod est in Jerusalem, et domus Dei ædificetur in loco suo."
+},
+{
+"id": "Ezra 5:16",
+"label": "Ezra 5:16",
+"text": "Tunc itaque Sassabasar ille venit et posuit fundamenta templi Dei in Jerusalem, et ex eo tempore usque nunc ædificatur, et necdum completum est."
+},
+{
+"id": "Ezra 5:17",
+"label": "Ezra 5:17",
+"text": "Nunc ergo si videtur regi bonum, recenseat in bibliotheca regis, quæ est in Babylone, utrumnam a Cyro rege jussum fuerit ut ædificaretur domus Dei in Jerusalem, et voluntatem regis super hac re mittat ad nos."
+},
+{
+"id": "Ezra 6:1",
+"label": "Ezra 6:1",
+"text": "Tunc Darius rex præcepit: et recensuerunt in bibliotheca librorum, qui erant repositi in Babylone."
+},
+{
+"id": "Ezra 6:2",
+"label": "Ezra 6:2",
+"text": "Et inventum est in Ecbatanis, quod est castrum in Medena provincia, volumen unum: talisque scriptus erat in eo commentarius:"
+},
+{
+"id": "Ezra 6:3",
+"label": "Ezra 6:3",
+"text": "Anno primo Cyri regis, Cyrus rex decrevit ut domus Dei ædificaretur, quæ est in Jerusalem, in loco ubi immolent hostias, et ut ponant fundamenta supportantia altitudinem cubitorum sexaginta, et latitudinem cubitorum sexaginta,"
+},
+{
+"id": "Ezra 6:4",
+"label": "Ezra 6:4",
+"text": "ordines de lapidibus impolitis tres, et sic ordines de lignis novis: sumptus autem de domo regis dabuntur."
+},
+{
+"id": "Ezra 6:5",
+"label": "Ezra 6:5",
+"text": "Sed et vasa templi Dei aurea et argentea, quæ Nabuchodonosor tulerat de templo Jerusalem, et attulerat ea in Babylonem, reddantur, et referantur in templum in Jerusalem in locum suum, quæ et posita sunt in templo Dei."
+},
+{
+"id": "Ezra 6:6",
+"label": "Ezra 6:6",
+"text": "Nunc ergo Thathanai dux regionis, quæ est trans flumen, Stharbuzanai, et consiliarii vestri Apharsachæi, qui estis trans flumen, procul recedite ab illis,"
+},
+{
+"id": "Ezra 6:7",
+"label": "Ezra 6:7",
+"text": "et dimittite fieri templum Dei illud a duce Judæorum, et a senioribus eorum, ut domum Dei illam ædificent in loco suo."
+},
+{
+"id": "Ezra 6:8",
+"label": "Ezra 6:8",
+"text": "Sed et a me præceptum est quid oporteat fieri a presbyteris Judæorum illis ut ædificetur domus Dei, scilicet ut de arca regis, id est, de tributis quæ dantur de regione trans flumen, studiose sumptus dentur viris illis, ne impediatur opus."
+},
+{
+"id": "Ezra 6:9",
+"label": "Ezra 6:9",
+"text": "Quod si necesse fuerit, et vitulos, et agnos, et hædos in holocaustum Deo cæli, frumentum, sal, vinum, et oleum, secundum ritum sacerdotum, qui sunt in Jerusalem, detur eis per singulos dies, ne sit in aliquo querimonia."
+},
+{
+"id": "Ezra 6:10",
+"label": "Ezra 6:10",
+"text": "Et offerant oblationes Deo cæli, orentque pro vita regis, et filiorum ejus."
+},
+{
+"id": "Ezra 6:11",
+"label": "Ezra 6:11",
+"text": "A me ergo positum est decretum: ut omnis homo qui hanc mutaverit jussionem, tollatur lignum de domum ipsius, et erigatur, et configatur in eo, domus autem ejus publicetur."
+},
+{
+"id": "Ezra 6:12",
+"label": "Ezra 6:12",
+"text": "Deus autem, qui habitare fecit nomen suum ibi, dissipet omnia regna, et populum qui extenderit manum suam ut repugnet, et dissipet domum Dei illam, quæ est in Jerusalem. Ego Darius statui decretum, quod studiose impleri volo."
+},
+{
+"id": "Ezra 6:13",
+"label": "Ezra 6:13",
+"text": "Igitur Thathanai dux regionis trans flumen, et Stharbuzanai, et consiliarii ejus, secundum quod præceperat Darius rex, sic diligenter executi sunt."
+},
+{
+"id": "Ezra 6:14",
+"label": "Ezra 6:14",
+"text": "Seniores autem Judæorum ædificabant, et prosperabantur juxta prophetiam Aggæi prophetæ, et Zachariæ filii Addo: et ædificaverunt et construxerunt, jubente Deo Israël, et jubente Cyro, et Dario, et Artaxerxe regibus Persarum:"
+},
+{
+"id": "Ezra 6:15",
+"label": "Ezra 6:15",
+"text": "et compleverunt domum Dei istam, usque ad diem tertium mensis Adar, qui est annus sextus regni Darii regis."
+},
+{
+"id": "Ezra 6:16",
+"label": "Ezra 6:16",
+"text": "Fecerunt autem filii Israël sacerdotes et Levitæ, et reliqui filiorum transmigrationis, dedicationem domus Dei in gaudio."
+},
+{
+"id": "Ezra 6:17",
+"label": "Ezra 6:17",
+"text": "Et obtulerunt in dedicationem domus Dei, vitulos centum, arietes ducentos, agnos quadringentos, hircos caprarum pro peccato totius Israël duodecim, juxta numerum tribuum Israël."
+},
+{
+"id": "Ezra 6:18",
+"label": "Ezra 6:18",
+"text": "Et statuerunt sacerdotes in ordinibus suis, et Levitas in vicibus suis, super opera Dei in Jerusalem, sicut scriptum est in libro Moysi."
+},
+{
+"id": "Ezra 6:19",
+"label": "Ezra 6:19",
+"text": "Fecerunt autem filii Israël transmigrationis Pascha, quartadecima die mensis primi."
+},
+{
+"id": "Ezra 6:20",
+"label": "Ezra 6:20",
+"text": "Purificati enim fuerant sacerdotes et Levitæ quasi unus: omnes mundi ad immolandum Pascha universis filiis transmigrationis, et fratribus suis sacerdotibus, et sibi."
+},
+{
+"id": "Ezra 6:21",
+"label": "Ezra 6:21",
+"text": "Et comederunt filii Israël, qui reversi fuerant de transmigratione, et omnes qui se separaverant a coinquinatione gentium terræ ad eos, ut quærerent Dominum Deum Israël."
+},
+{
+"id": "Ezra 6:22",
+"label": "Ezra 6:22",
+"text": "Et fecerunt solemnitatem azymorum septem diebus in lætitia, quoniam lætificaverat eos Dominus, et converterat cor regis Assur ad eos, ut adjuvaret manus eorum in opere domus Domini Dei Israël."
+},
+{
+"id": "Ezra 7:1",
+"label": "Ezra 7:1",
+"text": "Post hæc autem verba in regno Artaxerxis regis Persarum, Esdras filius Saraiæ, filii Azariæ, filii Helciæ,"
+},
+{
+"id": "Ezra 7:2",
+"label": "Ezra 7:2",
+"text": "filii Sellum, filii Sadoc, filii Achitob,"
+},
+{
+"id": "Ezra 7:3",
+"label": "Ezra 7:3",
+"text": "filii Amariæ, filii Azariæ, filii Maraioth,"
+},
+{
+"id": "Ezra 7:4",
+"label": "Ezra 7:4",
+"text": "filii Zarahiæ, filii Ozi, filii Bocci,"
+},
+{
+"id": "Ezra 7:5",
+"label": "Ezra 7:5",
+"text": "filii Abisue, filii Phinees, filii Eleazar, filii Aaron sacerdotis ab initio."
+},
+{
+"id": "Ezra 7:6",
+"label": "Ezra 7:6",
+"text": "Ipse Esdras ascendit de Babylone, et ipse scriba velox in lege Moysi, quam Dominus Deus dedit Israël: et dedit ei rex secundum manum Domini Dei ejus super eum, omnem petitionem ejus."
+},
+{
+"id": "Ezra 7:7",
+"label": "Ezra 7:7",
+"text": "Et ascenderunt de filiis Israël, et de filiis sacerdotum, et de filiis Levitarum, et de cantoribus, et de janitoribus, et de Nathinæis, in Jerusalem, anno septimo Artaxerxis regis."
+},
+{
+"id": "Ezra 7:8",
+"label": "Ezra 7:8",
+"text": "Et venerunt in Jerusalem mense quinto, ipse est annus septimus regis."
+},
+{
+"id": "Ezra 7:9",
+"label": "Ezra 7:9",
+"text": "Quia in primo die mensis primi cœpit ascendere de Babylone, et in primo die mensis quinti venit in Jerusalem, juxta manum Dei sui bonam super se."
+},
+{
+"id": "Ezra 7:10",
+"label": "Ezra 7:10",
+"text": "Esdras enim paravit cor suum, ut investigaret legem Domini, et faceret et doceret in Israël præceptum et judicium."
+},
+{
+"id": "Ezra 7:11",
+"label": "Ezra 7:11",
+"text": "Hoc est autem exemplar epistolæ edicti, quod dedit rex Artaxerxes Esdræ sacerdoti, scribæ erudito in sermonibus et præceptis Domini, et cæremoniis ejus in Israël."
+},
+{
+"id": "Ezra 7:12",
+"label": "Ezra 7:12",
+"text": "Artaxerxes rex regum Esdræ sacerdoti scribæ legis Dei cæli doctissimo, salutem."
+},
+{
+"id": "Ezra 7:13",
+"label": "Ezra 7:13",
+"text": "A me decretum est, ut cuicumque placuerit in regno meo de populo Israël, et de sacerdotibus ejus, et de Levitis, ire in Jerusalem, tecum vadat."
+},
+{
+"id": "Ezra 7:14",
+"label": "Ezra 7:14",
+"text": "A facie enim regis, et septem consiliatorum ejus, missus es, ut visites Judæam et Jerusalem in lege Dei tui, quæ est in manu tua:"
+},
+{
+"id": "Ezra 7:15",
+"label": "Ezra 7:15",
+"text": "et ut feras argentum et aurum quod rex, et consiliatores ejus, sponte obtulerunt Deo Israël, cujus in Jerusalem tabernaculum est."
+},
+{
+"id": "Ezra 7:16",
+"label": "Ezra 7:16",
+"text": "Et omne argentum et aurum quodcumque inveneris in universa provincia Babylonis, et populus offerre voluerit, et de sacerdotibus quæ sponte obtulerint domui Dei sui, quæ est in Jerusalem,"
+},
+{
+"id": "Ezra 7:17",
+"label": "Ezra 7:17",
+"text": "libere accipe, et studiose eme de hac pecunia vitulos, arietes, agnos, et sacrificia, et libamina eorum, et offer ea super altare templi Dei vestri, quod est in Jerusalem."
+},
+{
+"id": "Ezra 7:18",
+"label": "Ezra 7:18",
+"text": "Sed et si quid tibi et fratribus tuis placuerit de reliquo argento et auro ut faciatis, juxta voluntatem Dei vestri facite."
+},
+{
+"id": "Ezra 7:19",
+"label": "Ezra 7:19",
+"text": "Vasa quoque, quæ dantur tibi in ministerium domus Dei tui, trade in conspectu Dei in Jerusalem."
+},
+{
+"id": "Ezra 7:20",
+"label": "Ezra 7:20",
+"text": "Sed et cetera, quibus opus fuerit in domum Dei tui, quantumcumque necesse est ut expendas, dabitur de thesauro, et de fisco regis,"
+},
+{
+"id": "Ezra 7:21",
+"label": "Ezra 7:21",
+"text": "et a me. Ego Artaxerxes rex, statui atque decrevi omnibus custodibus arcæ publicæ, qui sunt trans flumen, ut quodcumque petierit a vobis Esdras sacerdos, scriba legis Dei cæli, absque mora detis,"
+},
+{
+"id": "Ezra 7:22",
+"label": "Ezra 7:22",
+"text": "usque ad argenti talenta centum, et usque ad frumenti coros centum, et usque ad vini batos centum, et usque ad batos olei centum, sal vero absque mensura."
+},
+{
+"id": "Ezra 7:23",
+"label": "Ezra 7:23",
+"text": "Omne quod ad ritum Dei cæli pertinet, tribuatur diligenter in domo Dei cæli: ne forte irascatur contra regnum regis, et filiorum ejus."
+},
+{
+"id": "Ezra 7:24",
+"label": "Ezra 7:24",
+"text": "Vobis quoque notum facimus de universis sacerdotibus, et Levitis, et cantoribus, et janitoribus, Nathinæis, et ministris domus Dei hujus, ut vectigal, et tributum, et annonas non habeatis potestatem imponendi super eos."
+},
+{
+"id": "Ezra 7:25",
+"label": "Ezra 7:25",
+"text": "Tu autem Esdra, secundum sapientiam Dei tui, quæ est in manu tua, constitue judices et præsides, ut judicent omni populo qui est trans flumen, his videlicet qui noverunt legem Dei tui: sed et imperitos docete libere."
+},
+{
+"id": "Ezra 7:26",
+"label": "Ezra 7:26",
+"text": "Et omnis qui non fecerit legem Dei tui, et legem regis, diligenter, judicium erit de eo sive in mortem, sive in exilium, sive in condemnationem substantiæ ejus, vel certe in carcerem."
+},
+{
+"id": "Ezra 7:27",
+"label": "Ezra 7:27",
+"text": "Benedictus Dominus Deus patrum nostrorum, qui dedit hoc in corde regis ut glorificaret domum Domini quæ est in Jerusalem,"
+},
+{
+"id": "Ezra 7:28",
+"label": "Ezra 7:28",
+"text": "et in me inclinavit misericordiam suam coram rege et consiliatoribus ejus, et universis principibus regis potentibus: et ego confortatus manu Domini Dei mei, quæ erat in me, congregavi de Israël principes qui ascenderent mecum."
+},
+{
+"id": "Ezra 8:1",
+"label": "Ezra 8:1",
+"text": "Hi sunt ergo principes familiarum, et genealogia eorum, qui ascenderunt mecum in regno Artaxerxis regis de Babylone."
+},
+{
+"id": "Ezra 8:2",
+"label": "Ezra 8:2",
+"text": "De filiis Phinees, Gersom. De filiis Ithamar, Daniel. De filiis David, Hattus."
+},
+{
+"id": "Ezra 8:3",
+"label": "Ezra 8:3",
+"text": "De filiis Secheniæ, filiis Pharos, Zacharias: et cum eo numerati sunt viri centum quinquaginta."
+},
+{
+"id": "Ezra 8:4",
+"label": "Ezra 8:4",
+"text": "De filiis Phahath Moab, Elioënai filius Zarehe, et cum eo ducenti viri."
+},
+{
+"id": "Ezra 8:5",
+"label": "Ezra 8:5",
+"text": "De filiis Secheniæ, filius Ezechiel, et cum eo trecenti viri."
+},
+{
+"id": "Ezra 8:6",
+"label": "Ezra 8:6",
+"text": "De filiis Adan, Abed filius Jonathan, et cum eo quinquaginta viri."
+},
+{
+"id": "Ezra 8:7",
+"label": "Ezra 8:7",
+"text": "De filiis Alam, Isaias filius Athaliæ, et cum eo septuaginta viri."
+},
+{
+"id": "Ezra 8:8",
+"label": "Ezra 8:8",
+"text": "De filiis Saphatiæ, Zebedia filius Michaël, et cum eo octoginta viri."
+},
+{
+"id": "Ezra 8:9",
+"label": "Ezra 8:9",
+"text": "De filiis Joab, Obedia filius Jahiel, et cum eo ducenti decem et octo viri."
+},
+{
+"id": "Ezra 8:10",
+"label": "Ezra 8:10",
+"text": "De filiis Selomith, filius Josphiæ, et cum eo centum sexaginta viri."
+},
+{
+"id": "Ezra 8:11",
+"label": "Ezra 8:11",
+"text": "De filiis Bebai, Zacharias filius Bebai, et cum eo viginti octo viri."
+},
+{
+"id": "Ezra 8:12",
+"label": "Ezra 8:12",
+"text": "De filiis Azgad, Johanan filius Eccetan, et cum eo centum et decem viri."
+},
+{
+"id": "Ezra 8:13",
+"label": "Ezra 8:13",
+"text": "De filiis Adonicam, qui erant novissimi: et hæc nomina eorum: Elipheleth, et Jehiel, et Samaias, et cum eis sexaginta viri."
+},
+{
+"id": "Ezra 8:14",
+"label": "Ezra 8:14",
+"text": "De filii Begui, Uthai et Zachur, et cum eis septuaginta viri."
+},
+{
+"id": "Ezra 8:15",
+"label": "Ezra 8:15",
+"text": "Congregavi autem eos ad fluvium qui decurrit ad Ahava, et mansimus ibi tribus diebus: quæsivique in populo et in sacerdotibus de filiis Levi, et non inveni ibi."
+},
+{
+"id": "Ezra 8:16",
+"label": "Ezra 8:16",
+"text": "Itaque misi Eliezer, et Ariel, et Semeiam, et Elnathan, et Jarib, et alterum Elnathan, et Nathan, et Zachariam, et Mosollam principes: et Jojarib, et Elnathan sapientes."
+},
+{
+"id": "Ezra 8:17",
+"label": "Ezra 8:17",
+"text": "Et misi eos ad Eddo, qui est primus in Chasphiæ loco, et posui in ore eorum verba, quæ loquerentur ad Eddo, et fratres ejus Nathinæos in loco Chasphiæ, ut adducerent nobis ministros domus Dei nostri."
+},
+{
+"id": "Ezra 8:18",
+"label": "Ezra 8:18",
+"text": "Et adduxerunt nobis per manum Dei nostri bonam super nos, virum doctissimum de filiis Moholi filii Levi, filii Israël, et Sarabiam et filios ejus et fratres ejus decem et octo,"
+},
+{
+"id": "Ezra 8:19",
+"label": "Ezra 8:19",
+"text": "et Hasabiam, et cum eo Isaiam de filiis Merari, fratresque ejus, et filios ejus viginti:"
+},
+{
+"id": "Ezra 8:20",
+"label": "Ezra 8:20",
+"text": "et de Nathinæis, quos dederat David et principes ad ministeria Levitarum, Nathinæos ducentos viginti: omnes hi suis nominibus vocabantur."
+},
+{
+"id": "Ezra 8:21",
+"label": "Ezra 8:21",
+"text": "Et prædicavi ibi jejunium juxta fluvium Ahava, ut affligeremur coram Domino Deo nostro, et peteremus ab eo viam rectam nobis et filiis nostris, universæque substantiæ nostræ."
+},
+{
+"id": "Ezra 8:22",
+"label": "Ezra 8:22",
+"text": "Erubui enim petere a rege auxilium et equites, qui defenderent nos ab inimico in via: quia dixeramus regi: Manus Dei nostri est super omnes qui quærunt eum in bonitate: et imperium ejus, et fortitudo ejus, et furor, super omnes qui derelinquunt eum."
+},
+{
+"id": "Ezra 8:23",
+"label": "Ezra 8:23",
+"text": "Jejunavimus autem, et rogavimus Deum nostrum per hoc: et evenit nobis prospere."
+},
+{
+"id": "Ezra 8:24",
+"label": "Ezra 8:24",
+"text": "Et separavi de principibus sacerdotum duodecim, Sarabiam, et Hasabiam, et cum eis de fratribus eorum decem:"
+},
+{
+"id": "Ezra 8:25",
+"label": "Ezra 8:25",
+"text": "appendique eis argentum et aurum, et vasa consecrata domus Dei nostri, quæ obtulerat rex et consiliatores ejus, et principes ejus, universusque Israël eorum qui inventi fuerant:"
+},
+{
+"id": "Ezra 8:26",
+"label": "Ezra 8:26",
+"text": "et appendi in manibus eorum argenti talenta sexcenta quinquaginta, et vasa argentea centum, auri centum talenta:"
+},
+{
+"id": "Ezra 8:27",
+"label": "Ezra 8:27",
+"text": "et crateres aureos viginti, qui habebant solidos millenos, et vasa æris fulgentis optimi duo, pulchra ut aurum."
+},
+{
+"id": "Ezra 8:28",
+"label": "Ezra 8:28",
+"text": "Et dixi eis: Vos sancti Domini, et vasa sancta, et argentum et aurum, quod sponte oblatum est Domino Deo patrum nostrorum:"
+},
+{
+"id": "Ezra 8:29",
+"label": "Ezra 8:29",
+"text": "vigilate et custodite, donec appendatis coram principibus sacerdotum, et Levitarum, et ducibus familiarum Israël in Jerusalem, in thesaurum domus Domini."
+},
+{
+"id": "Ezra 8:30",
+"label": "Ezra 8:30",
+"text": "Susceperunt autem sacerdotes et Levitæ pondus argenti, et auri, et vasorum, ut deferrent Jerusalem in domum Dei nostri."
+},
+{
+"id": "Ezra 8:31",
+"label": "Ezra 8:31",
+"text": "Promovimus ergo a flumine Ahava duodecimo die mensis primi ut pergeremus Jerusalem: et manus Dei nostri fuit super nos, et liberavit nos de manu inimici et insidiatoris in via."
+},
+{
+"id": "Ezra 8:32",
+"label": "Ezra 8:32",
+"text": "Et venimus Jerusalem, et mansimus ibi tribus diebus."
+},
+{
+"id": "Ezra 8:33",
+"label": "Ezra 8:33",
+"text": "Die autem quarta appensum est argentum, et aurum, et vasa in domo Dei nostri per manum Meremoth filii Uriæ sacerdotis, et cum eo Eleazar filius Phinees, cumque eis Jozabed filius Josue, et Noadaia filius Bennoi Levitæ,"
+},
+{
+"id": "Ezra 8:34",
+"label": "Ezra 8:34",
+"text": "juxta numerum et pondus omnium: descriptumque est omne pondus in tempore illo."
+},
+{
+"id": "Ezra 8:35",
+"label": "Ezra 8:35",
+"text": "Sed et qui venerant de captivitate filii transmigrationis, obtulerunt holocautomata Deo Israël, vitulos duodecim pro omni populo Israël, arietes nonaginta sex, agnos septuaginta septem, hircos pro peccato duodecim: omnia in holocaustum Domino."
+},
+{
+"id": "Ezra 8:36",
+"label": "Ezra 8:36",
+"text": "Dederunt autem edicta regis satrapis qui erant de conspectu regis, et ducibus trans flumen, et elevaverunt populum et domum Dei."
+},
+{
+"id": "Ezra 9:1",
+"label": "Ezra 9:1",
+"text": "Postquam autem hæc completa sunt, accesserunt ad me principes, dicentes: Non est separatus populus Israël, sacerdotes et Levitæ, a populis terrarum et abominationibus eorum: Chananæi videlicet, et Hethæi, et Pherezæi, et Jebusæi, et Ammonitarum, et Moabitarum, et Ægyptiorum, et Amorrhæorum:"
+},
+{
+"id": "Ezra 9:2",
+"label": "Ezra 9:2",
+"text": "tulerunt enim de filiabus eorum sibi et filiis suis, et commiscuerunt semen sanctum cum populis terrarum: manus etiam principum et magistratuum fuit in transgressione hac prima."
+},
+{
+"id": "Ezra 9:3",
+"label": "Ezra 9:3",
+"text": "Cumque audissem sermonem istum, scidi pallium meum et tunicam, et evelli capillos capitis mei et barbæ, et sedi mœrens."
+},
+{
+"id": "Ezra 9:4",
+"label": "Ezra 9:4",
+"text": "Convenerunt autem ad me omnes qui timebant verbum Dei Israël, pro transgressione eorum qui de captivitate venerant, et ego sedebam tristis usque ad sacrificium vespertinum:"
+},
+{
+"id": "Ezra 9:5",
+"label": "Ezra 9:5",
+"text": "et in sacrificio vespertino, surrexi de afflictione mea, et scisso pallio et tunica, curvavi genua mea, et expandi manus meas ad Dominum Deum meum."
+},
+{
+"id": "Ezra 9:6",
+"label": "Ezra 9:6",
+"text": "Et dixi: Deus meus, confundor et erubesco levare faciem meam ad te: quoniam iniquitates nostræ multiplicatæ sunt super caput nostrum, et delicta nostra creverunt usque ad cælum,"
+},
+{
+"id": "Ezra 9:7",
+"label": "Ezra 9:7",
+"text": "a diebus patrum nostrorum: sed et nos ipsi peccavimus graviter usque ad diem hanc, et in iniquitatibus nostris traditi sumus ipsi, et reges nostri, et sacerdotes nostri, in manum regum terrarum, et in gladium, et in captivitatem, et in rapinam, et in confusionem vultus, sicut et die hac."
+},
+{
+"id": "Ezra 9:8",
+"label": "Ezra 9:8",
+"text": "Et nunc quasi parum et ad momentum facta est deprecatio nostra apud Dominum Deum nostrum, ut dimitterentur nobis reliquiæ, et daretur nobis paxillus in loco sancto ejus, et illuminaret oculos nostros Deus noster, et daret nobis vitam modicam in servitute nostra:"
+},
+{
+"id": "Ezra 9:9",
+"label": "Ezra 9:9",
+"text": "quia servi sumus, et in servitute nostra non dereliquit nos Deus noster, sed inclinavit super nos misericordiam coram rege Persarum, ut daret nobis vitam, et sublimaret domum Dei nostri, et exstrueret solitudines ejus, et daret nobis sepem in Juda et Jerusalem."
+},
+{
+"id": "Ezra 9:10",
+"label": "Ezra 9:10",
+"text": "Et nunc quid dicemus, Deus noster, post hæc? Quia dereliquimus mandata tua,"
+},
+{
+"id": "Ezra 9:11",
+"label": "Ezra 9:11",
+"text": "quæ præcepisti in manu servorum tuorum prophetarum, dicens: Terra, ad quam vos ingredimini ut possideatis eam, terra immunda est juxta immunditiam populorum, ceterarumque terrarum, abominationibus eorum qui repleverunt eam ab ore usque ad os in coinquinatione sua."
+},
+{
+"id": "Ezra 9:12",
+"label": "Ezra 9:12",
+"text": "Nunc ergo filias vestras ne detis filiis eorum, et filias eorum ne accipiatis filiis vestris, et non quæratis pacem eorum et prosperitatem eorum usque in æternum: ut confortemini, et comedatis quæ bona sunt terræ, et hæredes habeatis filios vestros usque in sæculum."
+},
+{
+"id": "Ezra 9:13",
+"label": "Ezra 9:13",
+"text": "Et post omnia quæ venerunt super nos in operibus nostris pessimis, et in delicto nostro magno, quia tu, Deus noster, liberasti nos de iniquitate nostra, et dedisti nobis salutem sicut est hodie,"
+},
+{
+"id": "Ezra 9:14",
+"label": "Ezra 9:14",
+"text": "ut non converteremur, et irrita faceremus mandata tua, neque matrimonia jungeremus cum populis abominationum istarum. Numquid iratus es nobis usque ad consummationem, ne dimitteres nobis reliquias ad salutem?"
+},
+{
+"id": "Ezra 9:15",
+"label": "Ezra 9:15",
+"text": "Domine Deus Israël, justus es tu: quoniam derelicti sumus, qui salvaremur sicut die hac. Ecce coram te sumus in delicto nostro: non enim stari potest coram te super hoc."
+},
+{
+"id": "Ezra 10:1",
+"label": "Ezra 10:1",
+"text": "Sic ergo orante Esdra, et implorante eo et flente, et jacente ante templum Dei, collectus est ad eum de Israël cœtus grandis nimis virorum et mulierum et puerorum, et flevit populus fletu multo."
+},
+{
+"id": "Ezra 10:2",
+"label": "Ezra 10:2",
+"text": "Et respondit Sechenias filius Jehiel de filiis Ælam, et dixit Esdræ: Nos prævaricati sumus in Deum nostrum, et duximus uxores alienigenas de populis terræ: et nunc, si est pœnitentia in Israël super hoc,"
+},
+{
+"id": "Ezra 10:3",
+"label": "Ezra 10:3",
+"text": "percutiamus fœdus cum Domino Deo nostro, ut projiciamus universas uxores, et eos qui de his nati sunt, juxta voluntatem Domini, et eorum qui timent præceptum Domini Dei nostri: secundum legem fiat."
+},
+{
+"id": "Ezra 10:4",
+"label": "Ezra 10:4",
+"text": "Surge, tuum est decernere, nosque erimus tecum: confortare, et fac."
+},
+{
+"id": "Ezra 10:5",
+"label": "Ezra 10:5",
+"text": "Surrexit ergo Esdras, et adjuravit principes sacerdotum et Levitarum, et omnem Israël, ut facerent secundum verbum hoc: et juraverunt."
+},
+{
+"id": "Ezra 10:6",
+"label": "Ezra 10:6",
+"text": "Et surrexit Esdras ante domum Dei, et abiit ad cubiculum Johanan filii Eliasib, et ingressus est illuc: panem non comedit, et aquam non bibit: lugebat enim transgressionem eorum, qui venerant de captivitate."
+},
+{
+"id": "Ezra 10:7",
+"label": "Ezra 10:7",
+"text": "Et missa est vox in Juda et in Jerusalem omnibus filiis transmigrationis, ut congregarentur in Jerusalem:"
+},
+{
+"id": "Ezra 10:8",
+"label": "Ezra 10:8",
+"text": "et omnis qui non venerit in tribus diebus juxta consilium principum et seniorum, auferetur universa substantia ejus, et ipse abjicietur de cœtu transmigrationis."
+},
+{
+"id": "Ezra 10:9",
+"label": "Ezra 10:9",
+"text": "Convenerunt igitur omnes viri Juda et Benjamin in Jerusalem tribus diebus: ipse est mensis nonus, vigesimo die mensis: et sedit omnis populus in platea domus Dei, trementes pro peccato, et pluviis."
+},
+{
+"id": "Ezra 10:10",
+"label": "Ezra 10:10",
+"text": "Et surrexit Esdras sacerdos, et dixit ad eos: Vos transgressi estis, et duxistis uxores alienigenas, ut adderetis super delictum Israël."
+},
+{
+"id": "Ezra 10:11",
+"label": "Ezra 10:11",
+"text": "Et nunc date confessionem Domino Deo patrum vestrorum, et facite placitum ejus, et separamini a populis terræ, et ab uxoribus alienigenis."
+},
+{
+"id": "Ezra 10:12",
+"label": "Ezra 10:12",
+"text": "Et respondit universa multitudo, dixitque voce magna: Juxta verbum tuum ad nos, sic fiat."
+},
+{
+"id": "Ezra 10:13",
+"label": "Ezra 10:13",
+"text": "Verumtamen quia populus multus est, et tempus pluviæ, et non sustinemus stare foris, et opus non est diei unius vel duorum (vehementer quippe peccavimus in sermone isto),"
+},
+{
+"id": "Ezra 10:14",
+"label": "Ezra 10:14",
+"text": "constituantur principes in universa multitudine: et omnes in civitatibus nostris qui duxerunt uxores alienigenas veniant in temporibus statutis, et cum his seniores per civitatem et civitatem, et judices ejus, donec avertatur ira Dei nostri a nobis super peccato hoc."
+},
+{
+"id": "Ezra 10:15",
+"label": "Ezra 10:15",
+"text": "Igitur Jonathan filius Azahel, et Jaasia filius Thecue, steterunt super hoc, et Messollam et Sebethai Levites adjuverunt eos:"
+},
+{
+"id": "Ezra 10:16",
+"label": "Ezra 10:16",
+"text": "feceruntque sic filii transmigrationis. Et abierunt Esdras sacerdos, et viri principes familiarum, in domos patrum suorum, et omnes per nomina sua, et sederunt in die primo mensis decimi ut quærerent rem."
+},
+{
+"id": "Ezra 10:17",
+"label": "Ezra 10:17",
+"text": "Et consummati sunt omnes viri, qui duxerant uxores alienigenas, usque ad diem primam mensis primi."
+},
+{
+"id": "Ezra 10:18",
+"label": "Ezra 10:18",
+"text": "Et inventi sunt de filiis sacerdotum qui duxerant uxores alienigenas. De filiis Josue filii Josedec, et fratres ejus, Maasia, et Eliezer, et Jarib, et Godolia."
+},
+{
+"id": "Ezra 10:19",
+"label": "Ezra 10:19",
+"text": "Et dederunt manus suas ut ejicerent uxores suas, et pro delicto suo arietem de ovibus offerrent."
+},
+{
+"id": "Ezra 10:20",
+"label": "Ezra 10:20",
+"text": "Et de filiis Emmer, Hanani, et Zebedia."
+},
+{
+"id": "Ezra 10:21",
+"label": "Ezra 10:21",
+"text": "Et de filiis Harim, Maasia, et Elia, et Semeia, et Jehiel, et Ozias."
+},
+{
+"id": "Ezra 10:22",
+"label": "Ezra 10:22",
+"text": "Et de filiis Pheshur, Elioënai, Maasia, Ismaël, Nathanaël, Jozabed, et Elasa."
+},
+{
+"id": "Ezra 10:23",
+"label": "Ezra 10:23",
+"text": "Et de filiis Levitarum, Jozabed, et Semei, et Celaia, ipse est Calita, Phataia, Juda, et Eliezer."
+},
+{
+"id": "Ezra 10:24",
+"label": "Ezra 10:24",
+"text": "Et de cantoribus, Eliasib. Et de janitoribus, Sellum, et Telem, et Uri."
+},
+{
+"id": "Ezra 10:25",
+"label": "Ezra 10:25",
+"text": "Et ex Israël, de filiis Pharos, Remeia, et Jesia, et Melchia, et Miamin, et Eliezer, et Melchia, et Banea."
+},
+{
+"id": "Ezra 10:26",
+"label": "Ezra 10:26",
+"text": "Et de filiis Ælam, Mathania, Zacharias, et Jehiel, et Abdi, et Jerimoth, et Elia."
+},
+{
+"id": "Ezra 10:27",
+"label": "Ezra 10:27",
+"text": "Et de filiis Zethua, Elioënai, Eliasib, Mathania, et Jerimuth, et Zabad, et Aziza."
+},
+{
+"id": "Ezra 10:28",
+"label": "Ezra 10:28",
+"text": "Et de filiis Bebai, Johanan, Hanania, Zabbai, Athalai."
+},
+{
+"id": "Ezra 10:29",
+"label": "Ezra 10:29",
+"text": "Et de filiis Bani, Mosollam, et Melluch, et Adaia, Jasub, et Saal, et Ramoth."
+},
+{
+"id": "Ezra 10:30",
+"label": "Ezra 10:30",
+"text": "Et de filiis Phahath Moab, Edna, et Chalal, Banaias, et Maasias, Mathanias, Beseleel, Bennui, et Manasse."
+},
+{
+"id": "Ezra 10:31",
+"label": "Ezra 10:31",
+"text": "Et de filiis Herem, Eliezer, Josue, Melchias, Semeias, Simeon,"
+},
+{
+"id": "Ezra 10:32",
+"label": "Ezra 10:32",
+"text": "Benjamin, Maloch, Samarias."
+},
+{
+"id": "Ezra 10:33",
+"label": "Ezra 10:33",
+"text": "Et de filiis Hasom, Mathanai, Mathatha, Zabad, Eliphelet, Jermai, Manasse, Semei."
+},
+{
+"id": "Ezra 10:34",
+"label": "Ezra 10:34",
+"text": "De filiis Bani, Maadi, Amram, et Vel,"
+},
+{
+"id": "Ezra 10:35",
+"label": "Ezra 10:35",
+"text": "Baneas, et Badaias, Cheliau,"
+},
+{
+"id": "Ezra 10:36",
+"label": "Ezra 10:36",
+"text": "Vania, Marimuth, et Eliasib,"
+},
+{
+"id": "Ezra 10:37",
+"label": "Ezra 10:37",
+"text": "Mathanias, Mathanai, et Jasi,"
+},
+{
+"id": "Ezra 10:38",
+"label": "Ezra 10:38",
+"text": "et Bani, et Bennui, Semei,"
+},
+{
+"id": "Ezra 10:39",
+"label": "Ezra 10:39",
+"text": "et Salmias, et Nathan, et Adaias,"
+},
+{
+"id": "Ezra 10:40",
+"label": "Ezra 10:40",
+"text": "et Mechnedebai, Sisai, Sarai,"
+},
+{
+"id": "Ezra 10:41",
+"label": "Ezra 10:41",
+"text": "Ezrel, et Selemiau, Semeria,"
+},
+{
+"id": "Ezra 10:42",
+"label": "Ezra 10:42",
+"text": "Sellum, Amaria, Joseph."
+},
+{
+"id": "Ezra 10:43",
+"label": "Ezra 10:43",
+"text": "De filiis Nebo, Jehiel, Mathathias, Zabad, Zabina, Jeddu, et Joël, et Banaia."
+},
+{
+"id": "Ezra 10:44",
+"label": "Ezra 10:44",
+"text": "Omnes hi acceperant uxores alienigenas, et fuerunt ex eis mulieres, quæ pepererant filios."
+}
+]
+}

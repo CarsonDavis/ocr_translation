@@ -1,0 +1,6997 @@
+{
+"corpus": "plautus-amphitruo",
+"unit": "all",
+"title": "Plautus, Amphitruo",
+"passages": [
+{
+"id": "1",
+"label": "Plaut. Amph. 1",
+"text": "Vt vos in vostris voltis mercimoniis"
+},
+{
+"id": "2",
+"label": "Plaut. Amph. 2",
+"text": "emundis vendundisque me laetum lucris"
+},
+{
+"id": "3",
+"label": "Plaut. Amph. 3",
+"text": "adficere atque adiuvare in rebus omnibus"
+},
+{
+"id": "4",
+"label": "Plaut. Amph. 4",
+"text": "et ut res rationesque vostrorum omnium"
+},
+{
+"id": "5",
+"label": "Plaut. Amph. 5",
+"text": "bene me expedire voltis peregrique et domi"
+},
+{
+"id": "6",
+"label": "Plaut. Amph. 6",
+"text": "bonoque atque amplo auctare perpetuo lucro"
+},
+{
+"id": "7",
+"label": "Plaut. Amph. 7",
+"text": "quasque incepistis res quasque inceptabitis,"
+},
+{
+"id": "8",
+"label": "Plaut. Amph. 8",
+"text": "et uti bonis vos vostrosque omnis nuntiis"
+},
+{
+"id": "9",
+"label": "Plaut. Amph. 9",
+"text": "me adficere voltis, ea adferam, ea uti nuntiem"
+},
+{
+"id": "10",
+"label": "Plaut. Amph. 10",
+"text": "quae maxime in rem vostram communem sient"
+},
+{
+"id": "11",
+"label": "Plaut. Amph. 11",
+"text": "(nam vos quidem id iam scitis concessum et datum"
+},
+{
+"id": "12",
+"label": "Plaut. Amph. 12",
+"text": "mi esse ab dis aliis, nuntiis praesim et lucro):"
+},
+{
+"id": "13",
+"label": "Plaut. Amph. 13",
+"text": "haec ut me voltis adprobare adnitier,"
+},
+{
+"id": "15",
+"label": "Plaut. Amph. 15",
+"text": "ita huic facietis fabulae silentium"
+},
+{
+"id": "16",
+"label": "Plaut. Amph. 16",
+"text": "itaque aequi et iusti hic eritis omnes arbitri."
+},
+{
+"id": "17",
+"label": "Plaut. Amph. 17",
+"text": "Nunc cuius iussu venio et quam ob rem venerim"
+},
+{
+"id": "18",
+"label": "Plaut. Amph. 18",
+"text": "dicam simulque ipse eloquar nomen meum."
+},
+{
+"id": "19",
+"label": "Plaut. Amph. 19",
+"text": "Iovis iússu venio, nomen Mercurio est mihi."
+},
+{
+"id": "20",
+"label": "Plaut. Amph. 20",
+"text": "pater huc me misit ad vos oratum meus,"
+},
+{
+"id": "21",
+"label": "Plaut. Amph. 21",
+"text": "tam etsi, pro imperio vobis quod dictum foret,"
+},
+{
+"id": "22",
+"label": "Plaut. Amph. 22",
+"text": "scibat facturos, quippe qui intellexerat"
+},
+{
+"id": "23",
+"label": "Plaut. Amph. 23",
+"text": "vereri vos se et metuere, ita ut aequom est Iovem;"
+},
+{
+"id": "24",
+"label": "Plaut. Amph. 24",
+"text": "verum profecto hoc petere me precario"
+},
+{
+"id": "25",
+"label": "Plaut. Amph. 25",
+"text": "a vobis iussit, leniter, dictis bonis."
+},
+{
+"id": "26",
+"label": "Plaut. Amph. 26",
+"text": "etenim ille, cuius huc iussu venio, Iuppiter"
+},
+{
+"id": "27",
+"label": "Plaut. Amph. 27",
+"text": "non minus quam vostrum quivis formidat malum:"
+},
+{
+"id": "28",
+"label": "Plaut. Amph. 28",
+"text": "humana matre natus, humano patre,"
+},
+{
+"id": "29",
+"label": "Plaut. Amph. 29",
+"text": "mirari non est aequom, sibi si praetimet;"
+},
+{
+"id": "30",
+"label": "Plaut. Amph. 30",
+"text": "atque ego quoque etiam, qui Iovis sum filius,"
+},
+{
+"id": "31",
+"label": "Plaut. Amph. 31",
+"text": "contagione mei patris metuo malum."
+},
+{
+"id": "32",
+"label": "Plaut. Amph. 32",
+"text": "propterea pace advenio et pacem ad vos affero:†"
+},
+{
+"id": "33",
+"label": "Plaut. Amph. 33",
+"text": "iustam rem et facilem esse oratam a vobis volo,"
+},
+{
+"id": "34",
+"label": "Plaut. Amph. 34",
+"text": "nam iusta ab iustis iustus sum orator datus."
+},
+{
+"id": "35",
+"label": "Plaut. Amph. 35",
+"text": "nam iniusta ab iustis impetrari non decet,"
+},
+{
+"id": "36",
+"label": "Plaut. Amph. 36",
+"text": "iusta autem ab iniustis petere insipientia est;"
+},
+{
+"id": "37",
+"label": "Plaut. Amph. 37",
+"text": "quippe illi iniqui ius ignorant neque tenent."
+},
+{
+"id": "38",
+"label": "Plaut. Amph. 38",
+"text": "nunc iam huc animum omnes quae loquar advortite."
+},
+{
+"id": "39",
+"label": "Plaut. Amph. 39",
+"text": "debetis velle quae velimus: meruimus"
+},
+{
+"id": "40",
+"label": "Plaut. Amph. 40",
+"text": "et ego et pater de vobis et re publica;"
+},
+{
+"id": "41",
+"label": "Plaut. Amph. 41",
+"text": "nam quid ego memorem (ut alios in tragoediis"
+},
+{
+"id": "42",
+"label": "Plaut. Amph. 42",
+"text": "vidi, Neptunum Virtutem Victoriam"
+},
+{
+"id": "43",
+"label": "Plaut. Amph. 43",
+"text": "Martem Bellonam, commemorare quae bona"
+},
+{
+"id": "44",
+"label": "Plaut. Amph. 44",
+"text": "vobis fecissent) quis bene factis meus pater,"
+},
+{
+"id": "45",
+"label": "Plaut. Amph. 45",
+"text": "deorum regnator architectus omnibus?"
+},
+{
+"id": "46",
+"label": "Plaut. Amph. 46",
+"text": "sed mos numquam illi fuit patri meo,†"
+},
+{
+"id": "47",
+"label": "Plaut. Amph. 47",
+"text": "ut exprobraret quod bonis faceret boni;"
+},
+{
+"id": "48",
+"label": "Plaut. Amph. 48",
+"text": "gratum arbitratur esse id a vobis sibi"
+},
+{
+"id": "49",
+"label": "Plaut. Amph. 49",
+"text": "meritoque vobis bona se facere quae facit."
+},
+{
+"id": "50",
+"label": "Plaut. Amph. 50",
+"text": "Nunc quam rem oratum huc veni primum proloquar,"
+},
+{
+"id": "51",
+"label": "Plaut. Amph. 51",
+"text": "post argumentum huius eloquar tragoediae."
+},
+{
+"id": "52",
+"label": "Plaut. Amph. 52",
+"text": "quid? contraxistis frontem, quia tragoediam"
+},
+{
+"id": "53",
+"label": "Plaut. Amph. 53",
+"text": "dixi futuram hanc? deus sum, commutavero."
+},
+{
+"id": "54",
+"label": "Plaut. Amph. 54",
+"text": "eandem hánc, si voltis, faciam ex tragoedia"
+},
+{
+"id": "55",
+"label": "Plaut. Amph. 55",
+"text": "comoedia ut sit omnibus isdem vorsibus."
+},
+{
+"id": "56",
+"label": "Plaut. Amph. 56",
+"text": "utrum sit an non voltis? sed ego stultior,"
+},
+{
+"id": "57",
+"label": "Plaut. Amph. 57",
+"text": "quasi nesciam vos velle, qui divos siem."
+},
+{
+"id": "58",
+"label": "Plaut. Amph. 58",
+"text": "teneo quid animi vostri super hac re siet:"
+},
+{
+"id": "59",
+"label": "Plaut. Amph. 59",
+"text": "faciam ut commixta sit: sit tragicomoedia."
+},
+{
+"id": "60",
+"label": "Plaut. Amph. 60",
+"text": "nam me perpetuo facere ut sit comoedia,"
+},
+{
+"id": "61",
+"label": "Plaut. Amph. 61",
+"text": "reges quo veniant et di, non par arbitror."
+},
+{
+"id": "62",
+"label": "Plaut. Amph. 62",
+"text": "quid igitur? quoniam hic servos quoque partes habet,"
+},
+{
+"id": "63",
+"label": "Plaut. Amph. 63",
+"text": "faciam sit, proinde ut dixi, tragicomoedia."
+},
+{
+"id": "64",
+"label": "Plaut. Amph. 64",
+"text": "nunc hoc me orare a vobis iussit Iuppiter,"
+},
+{
+"id": "65",
+"label": "Plaut. Amph. 65",
+"text": "ut conquaestores singula in subsellia"
+},
+{
+"id": "66",
+"label": "Plaut. Amph. 66",
+"text": "eant per totam caveam spectatoribus,"
+},
+{
+"id": "67",
+"label": "Plaut. Amph. 67",
+"text": "si cui favitores delegatos viderint,"
+},
+{
+"id": "68",
+"label": "Plaut. Amph. 68",
+"text": "ut is in cavea pignus capiantur togae;"
+},
+{
+"id": "69",
+"label": "Plaut. Amph. 69",
+"text": "sive quí ambissint palmam histrionibus"
+},
+{
+"id": "70",
+"label": "Plaut. Amph. 70",
+"text": "sive cuíquam artifici, si per scriptas litteras"
+},
+{
+"id": "71",
+"label": "Plaut. Amph. 71",
+"text": "sive qui ípse ambissit seu per internuntium,"
+},
+{
+"id": "72",
+"label": "Plaut. Amph. 72",
+"text": "sive adeo aediles perfidiose cui duint,"
+},
+{
+"id": "73",
+"label": "Plaut. Amph. 73",
+"text": "sirempse legem iussit esse Iuppiter,"
+},
+{
+"id": "74",
+"label": "Plaut. Amph. 74",
+"text": "quasi mágistratum sibi alterive ambiverit."
+},
+{
+"id": "75",
+"label": "Plaut. Amph. 75",
+"text": "virtute dixit vos victores vivere,"
+},
+{
+"id": "76",
+"label": "Plaut. Amph. 76",
+"text": "non ambitione neque perfidia: qui minus"
+},
+{
+"id": "77",
+"label": "Plaut. Amph. 77",
+"text": "eadem histrioni sit lex quae summo viro?"
+},
+{
+"id": "78",
+"label": "Plaut. Amph. 78",
+"text": "virtute ambire oportet, non favitoribus."
+},
+{
+"id": "79",
+"label": "Plaut. Amph. 79",
+"text": "sat habet favitorum semper qui recte facit,"
+},
+{
+"id": "80",
+"label": "Plaut. Amph. 80",
+"text": "si illis fides est quibus est ea res in manu."
+},
+{
+"id": "81",
+"label": "Plaut. Amph. 81",
+"text": "hoc quoque etiam mihi pater in mandatis dedit,"
+},
+{
+"id": "82",
+"label": "Plaut. Amph. 82",
+"text": "ut conquaestores fierent histrionibus:"
+},
+{
+"id": "83",
+"label": "Plaut. Amph. 83",
+"text": "qui sibi mandasset delegati ut plauderent"
+},
+{
+"id": "84",
+"label": "Plaut. Amph. 84",
+"text": "quive quo placeret alter fecisset minus,"
+},
+{
+"id": "85",
+"label": "Plaut. Amph. 85",
+"text": "eius órnamenta et corium uti conciderent."
+},
+{
+"id": "86",
+"label": "Plaut. Amph. 86",
+"text": "mirari nolim vos, quapropter Iuppiter"
+},
+{
+"id": "87",
+"label": "Plaut. Amph. 87",
+"text": "nunc histriones curet; ne miremini:"
+},
+{
+"id": "88",
+"label": "Plaut. Amph. 88",
+"text": "ipse hanc acturust Iuppiter comoediam."
+},
+{
+"id": "89",
+"label": "Plaut. Amph. 89",
+"text": "quid? admirati estis? quasi vero novom"
+},
+{
+"id": "90",
+"label": "Plaut. Amph. 90",
+"text": "nunc proferatur, Ióvem facere histrioniam;"
+},
+{
+"id": "91",
+"label": "Plaut. Amph. 91",
+"text": "etiam, histriones anno cum in proscaenio hic"
+},
+{
+"id": "92",
+"label": "Plaut. Amph. 92",
+"text": "Iovem invocarunt, venit, auxilio is fuit."
+},
+{
+"id": "94",
+"label": "Plaut. Amph. 94",
+"text": "hanc fabulam, inquam, hic Iuppiter hodie ipse aget,"
+},
+{
+"id": "95",
+"label": "Plaut. Amph. 95",
+"text": "et ego una cum illo. nunc vos animum advortite,"
+},
+{
+"id": "96",
+"label": "Plaut. Amph. 96",
+"text": "dum huius argumentum éloquar comoediae."
+},
+{
+"id": "97",
+"label": "Plaut. Amph. 97",
+"text": "Haec urbs est Thebae. in illisce habitat aedibus"
+},
+{
+"id": "98",
+"label": "Plaut. Amph. 98",
+"text": "Amphitruo, natus Argis ex Argo patre,"
+},
+{
+"id": "99",
+"label": "Plaut. Amph. 99",
+"text": "quicum Alcumena est nupta, Electri filia."
+},
+{
+"id": "100",
+"label": "Plaut. Amph. 100",
+"text": "is nunc Amphitruo praefectust legionibus,"
+},
+{
+"id": "101",
+"label": "Plaut. Amph. 101",
+"text": "nam cum Telobois bellum est Thebano poplo."
+},
+{
+"id": "102",
+"label": "Plaut. Amph. 102",
+"text": "is prius quam hinc abiit ipsemet in exercitum,"
+},
+{
+"id": "103",
+"label": "Plaut. Amph. 103",
+"text": "gravidam Alcumenam úxorem fecit suam."
+},
+{
+"id": "104",
+"label": "Plaut. Amph. 104",
+"text": "nam ego vos novisse credo iam ut sit páter meus,"
+},
+{
+"id": "105",
+"label": "Plaut. Amph. 105",
+"text": "quam liber harum rerum multarum siet"
+},
+{
+"id": "106",
+"label": "Plaut. Amph. 106",
+"text": "quantusque amator sit quod complacitum est semel."
+},
+{
+"id": "107",
+"label": "Plaut. Amph. 107",
+"text": "is amare occepit Alcumenam clam virum"
+},
+{
+"id": "108",
+"label": "Plaut. Amph. 108",
+"text": "usuramque eius corporis cepit sibi,"
+},
+{
+"id": "109",
+"label": "Plaut. Amph. 109",
+"text": "et gravidam fecit is eam compressu suo."
+},
+{
+"id": "110",
+"label": "Plaut. Amph. 110",
+"text": "nunc de Alcumena ut rem teneatis rectius,"
+},
+{
+"id": "111",
+"label": "Plaut. Amph. 111",
+"text": "utrimque est gravida, et ex viro et ex summo Iove."
+},
+{
+"id": "112",
+"label": "Plaut. Amph. 112",
+"text": "et meus pater nunc intus hic cum illa cubat,"
+},
+{
+"id": "113",
+"label": "Plaut. Amph. 113",
+"text": "et haec ob eam rem nox est facta longior,"
+},
+{
+"id": "114",
+"label": "Plaut. Amph. 114",
+"text": "dum cum illa quacum volt voluptatem capit;"
+},
+{
+"id": "115",
+"label": "Plaut. Amph. 115",
+"text": "sed ita adsimulavit se, quasi Amphitruo siet."
+},
+{
+"id": "116",
+"label": "Plaut. Amph. 116",
+"text": "nunc ne hunc ornatum vos meum admiremini,"
+},
+{
+"id": "117",
+"label": "Plaut. Amph. 117",
+"text": "quod ego huc processi sic cum servili schema:"
+},
+{
+"id": "118",
+"label": "Plaut. Amph. 118",
+"text": "veterem atque antiquam rem novam ad vos proferam,"
+},
+{
+"id": "119",
+"label": "Plaut. Amph. 119",
+"text": "propterea ornatus in novom incessi modum."
+},
+{
+"id": "120",
+"label": "Plaut. Amph. 120",
+"text": "nam méus pater intus núnc est eccum Iuppiter;"
+},
+{
+"id": "121",
+"label": "Plaut. Amph. 121",
+"text": "in Amphitruonis vertit sese imaginem"
+},
+{
+"id": "122",
+"label": "Plaut. Amph. 122",
+"text": "omnesque eum esse censent servi qui vident:"
+},
+{
+"id": "123",
+"label": "Plaut. Amph. 123",
+"text": "ita versipellem se facit quando lubet."
+},
+{
+"id": "124",
+"label": "Plaut. Amph. 124",
+"text": "ego servi sumpsi Sosiae mi imaginem,"
+},
+{
+"id": "125",
+"label": "Plaut. Amph. 125",
+"text": "qui cum Amphitruone abiit hinc in exercitum,"
+},
+{
+"id": "126",
+"label": "Plaut. Amph. 126",
+"text": "ut praeservire amanti meo possem patri"
+},
+{
+"id": "127",
+"label": "Plaut. Amph. 127",
+"text": "atque ut ne, qui essem, familiares quaererent,"
+},
+{
+"id": "128",
+"label": "Plaut. Amph. 128",
+"text": "versari crebro hic cum viderent me domi;"
+},
+{
+"id": "129",
+"label": "Plaut. Amph. 129",
+"text": "nunc, cum esse credent servom et conservom suom,"
+},
+{
+"id": "130",
+"label": "Plaut. Amph. 130",
+"text": "haud quisquam quaeret qui siem aut quid venerim."
+},
+{
+"id": "131",
+"label": "Plaut. Amph. 131",
+"text": "pater nunc intus suo animo morem gerit:"
+},
+{
+"id": "132",
+"label": "Plaut. Amph. 132",
+"text": "cubat complexus cuius cupiens maxime est;"
+},
+{
+"id": "133",
+"label": "Plaut. Amph. 133",
+"text": "quae illi ad legionem facta sunt memorat pater"
+},
+{
+"id": "134",
+"label": "Plaut. Amph. 134",
+"text": "meus Alcumenae: ílla illum censet virum"
+},
+{
+"id": "135",
+"label": "Plaut. Amph. 135",
+"text": "suom esse, quae cum moecho est. ibi nunc meus pater"
+},
+{
+"id": "136",
+"label": "Plaut. Amph. 136",
+"text": "memorat, legiones hostium ut fugaverit,"
+},
+{
+"id": "137",
+"label": "Plaut. Amph. 137",
+"text": "quo pacto sit donis donatus plurimis."
+},
+{
+"id": "138",
+"label": "Plaut. Amph. 138",
+"text": "ea dona, quae illic Amphitruoni sunt data,"
+},
+{
+"id": "139",
+"label": "Plaut. Amph. 139",
+"text": "abstulimus: facile meus pater quod volt facit."
+},
+{
+"id": "140",
+"label": "Plaut. Amph. 140",
+"text": "nunc hodie Amphitruo veniet huc ab exercitu"
+},
+{
+"id": "141",
+"label": "Plaut. Amph. 141",
+"text": "et servos, cuius ego hanc feró imaginem."
+},
+{
+"id": "142",
+"label": "Plaut. Amph. 142",
+"text": "nunc internosse ut nos possitis facilius,"
+},
+{
+"id": "143",
+"label": "Plaut. Amph. 143",
+"text": "ego has habebo úsque in petaso pinnulas;"
+},
+{
+"id": "144",
+"label": "Plaut. Amph. 144",
+"text": "tum meo patri autem torulus inerit aureus"
+},
+{
+"id": "145",
+"label": "Plaut. Amph. 145",
+"text": "sub petaso: id signum Amphitruoni non erit."
+},
+{
+"id": "146",
+"label": "Plaut. Amph. 146",
+"text": "ea signa nemo hórum familiarium"
+},
+{
+"id": "147",
+"label": "Plaut. Amph. 147",
+"text": "videre poterit: verum vos videbitis."
+},
+{
+"id": "148",
+"label": "Plaut. Amph. 148",
+"text": "sed Amphitruonis illic est servos Sosia:"
+},
+{
+"id": "149",
+"label": "Plaut. Amph. 149",
+"text": "a portu illíc nunc cum lanterna ádvenit."
+},
+{
+"id": "150",
+"label": "Plaut. Amph. 150",
+"text": "abigam iam ego illum advenientem ab aedibus."
+},
+{
+"id": "151",
+"label": "Plaut. Amph. 151",
+"text": "adeste: erit operae pretium híc spectantibus"
+},
+{
+"id": "152",
+"label": "Plaut. Amph. 152",
+"text": "Iovem et Mercurium facere hístrioniam."
+},
+{
+"id": "153",
+"label": "Plaut. Amph. 153",
+"text": "Qui me álter est audácior homo aút qui confidéntior,"
+},
+{
+"id": "154",
+"label": "Plaut. Amph. 154",
+"text": "iuventútis mores qui sciam, qui hoc noctis solus ambulem?"
+},
+{
+"id": "155",
+"label": "Plaut. Amph. 155",
+"text": "quid faciam nunc, si tres viri me in carcerem compegerint?"
+},
+{
+"id": "156",
+"label": "Plaut. Amph. 156",
+"text": "inde crás quasi e promptaria cella depromar ad flagrum,"
+},
+{
+"id": "157",
+"label": "Plaut. Amph. 157",
+"text": "nec causam liceat dicere mihi, néque in ero quicquam auxili"
+},
+{
+"id": "158",
+"label": "Plaut. Amph. 158",
+"text": "nec quisquam sit quin me malo omnes esse dignum deputent."
+},
+{
+"id": "159_160",
+"label": "Plaut. Amph. 159_160",
+"text": "íta quasi incudém me miserum hómines octo válidi caedant:"
+},
+{
+"id": "161_162",
+"label": "Plaut. Amph. 161_162",
+"text": "ita peregre adveniens hospitio publicitus accipiar."
+},
+{
+"id": "163",
+"label": "Plaut. Amph. 163",
+"text": "haéc eri immodéstia"
+},
+{
+"id": "164",
+"label": "Plaut. Amph. 164",
+"text": "coegit, me qui hoc noctis a portu ingratiis excitavit."
+},
+{
+"id": "165",
+"label": "Plaut. Amph. 165",
+"text": "nonne ídem hoc luci me míttere potuit?"
+},
+{
+"id": "166",
+"label": "Plaut. Amph. 166",
+"text": "opulénto homini hoc servitús dura est,"
+},
+{
+"id": "167",
+"label": "Plaut. Amph. 167",
+"text": "hoc mágis miser est divítis servos:"
+},
+{
+"id": "168",
+"label": "Plaut. Amph. 168",
+"text": "nóctesque diésque assiduó satis superque est"
+},
+{
+"id": "169",
+"label": "Plaut. Amph. 169",
+"text": "quód facto aut dícto adeost ópus, quietus ne sis."
+},
+{
+"id": "170",
+"label": "Plaut. Amph. 170",
+"text": "ípse dominus díves, operis ét laboris expers,"
+},
+{
+"id": "171",
+"label": "Plaut. Amph. 171",
+"text": "quódcumque homini áccidit libére, posse retur:"
+},
+{
+"id": "172",
+"label": "Plaut. Amph. 172",
+"text": "aéquom esse putát, non reputát laboris quid sit."
+},
+{
+"id": "174",
+"label": "Plaut. Amph. 174",
+"text": "ergo ín servitúte expetúnt multa iníqua:"
+},
+{
+"id": "175",
+"label": "Plaut. Amph. 175",
+"text": "habéndum et ferúndum hoc onúst cum labóre."
+},
+{
+"id": "176",
+"label": "Plaut. Amph. 176",
+"text": "Satiúst me queri íllo modó servitútem:"
+},
+{
+"id": "177",
+"label": "Plaut. Amph. 177",
+"text": "hodié qui fuerim líber,"
+},
+{
+"id": "178",
+"label": "Plaut. Amph. 178",
+"text": "eúm nunc potívit patér servitútis,"
+},
+{
+"id": "179",
+"label": "Plaut. Amph. 179",
+"text": "hic qui verna natus est queritur."
+},
+{
+"id": "180",
+"label": "Plaut. Amph. 180",
+"text": "Sum véro verna vérbero: num número mi in mentém fuit,"
+},
+{
+"id": "181",
+"label": "Plaut. Amph. 181",
+"text": "dis advenientem gratias pro meritis agere atque alloqui?"
+},
+{
+"id": "182",
+"label": "Plaut. Amph. 182",
+"text": "ne illi edepol si merito meo referre studeant gratiam,"
+},
+{
+"id": "183",
+"label": "Plaut. Amph. 183",
+"text": "aliquem hominem allegent qui mihi advenienti os occillet probe,"
+},
+{
+"id": "184",
+"label": "Plaut. Amph. 184",
+"text": "quoniam bene quae in me fecerunt ingrata ea habui atque inrita."
+},
+{
+"id": "185",
+"label": "Plaut. Amph. 185",
+"text": "Facit ille quod volgo haud solent, ut quid se sit dignum sciat."
+},
+{
+"id": "186",
+"label": "Plaut. Amph. 186",
+"text": "Quod numquam opinatus fui neque alius quisquam civium"
+},
+{
+"id": "187",
+"label": "Plaut. Amph. 187",
+"text": "sibi eventurum, id contigit, ut salvi poteremur domi."
+},
+{
+"id": "188",
+"label": "Plaut. Amph. 188",
+"text": "victores victis hostibus legiones reveniunt domum,"
+},
+{
+"id": "189",
+"label": "Plaut. Amph. 189",
+"text": "duelló exstincto maximo atque internecatis hostibus."
+},
+{
+"id": "190",
+"label": "Plaut. Amph. 190",
+"text": "quod multa Thebano poplo acerba obiecit funera,"
+},
+{
+"id": "191",
+"label": "Plaut. Amph. 191",
+"text": "id vi et virtute militum victum atque expugnatum oppidum est"
+},
+{
+"id": "192",
+"label": "Plaut. Amph. 192",
+"text": "imperio atque auspicio eri mei Amphitruonis maxime."
+},
+{
+"id": "193",
+"label": "Plaut. Amph. 193",
+"text": "praeda atque agro adoriaque adfecit populares suos"
+},
+{
+"id": "194",
+"label": "Plaut. Amph. 194",
+"text": "regique Thebano Creoni regnum stabilivit suom."
+},
+{
+"id": "195",
+"label": "Plaut. Amph. 195",
+"text": "me a portu praemisit domum, ut haec nuntiem uxori suae,"
+},
+{
+"id": "196",
+"label": "Plaut. Amph. 196",
+"text": "ut gesserit rem publicam ductu imperio auspicio suo."
+},
+{
+"id": "197",
+"label": "Plaut. Amph. 197",
+"text": "ea nunc meditabor quo modo illi dicam, cum illo advenero."
+},
+{
+"id": "198",
+"label": "Plaut. Amph. 198",
+"text": "si dixero mendacium, solens meo more fecero."
+},
+{
+"id": "199",
+"label": "Plaut. Amph. 199",
+"text": "nam cum pugnabant maxume, ego tum fugiebam maxume;"
+},
+{
+"id": "200",
+"label": "Plaut. Amph. 200",
+"text": "verum quasi adfuerim tamen simulabo atque audita eloquar."
+},
+{
+"id": "201",
+"label": "Plaut. Amph. 201",
+"text": "sed quo modo et verbis quibus me deceat fabularier,"
+},
+{
+"id": "202",
+"label": "Plaut. Amph. 202",
+"text": "prius ipse mecum etiam volo hic meditari. sic hoc proloquar."
+},
+{
+"id": "203",
+"label": "Plaut. Amph. 203",
+"text": "Principio ut illo advenimus, ubi primum terram tetigimus,"
+},
+{
+"id": "204",
+"label": "Plaut. Amph. 204",
+"text": "continuo Amphitruo delegit viros primorum principes;"
+},
+{
+"id": "205",
+"label": "Plaut. Amph. 205",
+"text": "eos legat, Telobois iubet sententiam ut dicant suam:"
+},
+{
+"id": "206",
+"label": "Plaut. Amph. 206",
+"text": "si sine vi et sine bello velint rapta et raptores tradere,"
+},
+{
+"id": "207",
+"label": "Plaut. Amph. 207",
+"text": "si quae asportassent redderent, se exercitum extemplo domum"
+},
+{
+"id": "208",
+"label": "Plaut. Amph. 208",
+"text": "reducturum, abituros agro Argivos, pacem atque otium"
+},
+{
+"id": "209",
+"label": "Plaut. Amph. 209",
+"text": "dare illis; sin aliter sient animati neque dent quae petat,"
+},
+{
+"id": "210",
+"label": "Plaut. Amph. 210",
+"text": "sese igitur summa vi virisque eorum oppidum oppugnassere."
+},
+{
+"id": "211",
+"label": "Plaut. Amph. 211",
+"text": "haec ubi Telobois ordine iterarunt quos praefecerat"
+},
+{
+"id": "212",
+"label": "Plaut. Amph. 212",
+"text": "Amphitruo, magnanimi viri freti virtute et viribus"
+},
+{
+"id": "213",
+"label": "Plaut. Amph. 213",
+"text": "superbe nimis ferociter legatos nostros increpant,"
+},
+{
+"id": "214",
+"label": "Plaut. Amph. 214",
+"text": "respondent bello se et suos tutari posse, proinde uti"
+},
+{
+"id": "215",
+"label": "Plaut. Amph. 215",
+"text": "propere irent, de suis finibus exercitus deducerent."
+},
+{
+"id": "216",
+"label": "Plaut. Amph. 216",
+"text": "haec ubi legati pertulere, Amphitruo castris ilico"
+},
+{
+"id": "217",
+"label": "Plaut. Amph. 217",
+"text": "producit omnem exercitum. Teloboae contra ex oppido"
+},
+{
+"id": "218",
+"label": "Plaut. Amph. 218",
+"text": "legiones educunt suas nimis pulcris armis praeditas."
+},
+{
+"id": "219",
+"label": "Plaut. Amph. 219",
+"text": "póstquam utrimque éxitum est máxima cópia,"
+},
+{
+"id": "220",
+"label": "Plaut. Amph. 220",
+"text": "dispertiti viri, dispertiti ordines,"
+},
+{
+"id": "221",
+"label": "Plaut. Amph. 221",
+"text": "nos nostras more nostro et modo instruximus"
+},
+{
+"id": "222",
+"label": "Plaut. Amph. 222",
+"text": "légiones, item hóstes contra légiones suas ínstruont."
+},
+{
+"id": "223",
+"label": "Plaut. Amph. 223",
+"text": "deínde utrique ímperatóres in medium éxeunt,"
+},
+{
+"id": "224",
+"label": "Plaut. Amph. 224",
+"text": "éxtra turbam órdinum cólloquontúr simul."
+},
+{
+"id": "225",
+"label": "Plaut. Amph. 225",
+"text": "convenit, victi utri sint eo proelio,"
+},
+{
+"id": "226",
+"label": "Plaut. Amph. 226",
+"text": "urbem agrum aras focos seque uti dederent."
+},
+{
+"id": "227",
+"label": "Plaut. Amph. 227",
+"text": "postquam id actum est, tubae contra utrimque occanunt,"
+},
+{
+"id": "228",
+"label": "Plaut. Amph. 228",
+"text": "consonat terra, clamorem utrimque efferunt."
+},
+{
+"id": "229",
+"label": "Plaut. Amph. 229",
+"text": "imperator utrimque, hinc et illinc, Iovi"
+},
+{
+"id": "230",
+"label": "Plaut. Amph. 230",
+"text": "vota suscipere, utrimque hortari exercitum."
+},
+{
+"id": "231",
+"label": "Plaut. Amph. 231",
+"text": "tum pro se quisque id quod quisque potest et valet"
+},
+{
+"id": "232",
+"label": "Plaut. Amph. 232",
+"text": "edit, ferro ferit, tela frangunt, boat"
+},
+{
+"id": "233",
+"label": "Plaut. Amph. 233",
+"text": "caélum fremitú virum, ex spíritu atque anhélitu"
+},
+{
+"id": "234",
+"label": "Plaut. Amph. 234",
+"text": "nébula constát, cadunt vólnerum ví viri."
+},
+{
+"id": "235",
+"label": "Plaut. Amph. 235",
+"text": "denique, ut voluimus, nostra superat manus:"
+},
+{
+"id": "236",
+"label": "Plaut. Amph. 236",
+"text": "hostes crebri cadunt, nostri contra ingruont"
+},
+{
+"id": "237",
+"label": "Plaut. Amph. 237",
+"text": "ví feroces."
+},
+{
+"id": "238",
+"label": "Plaut. Amph. 238",
+"text": "sed †fugam in se tamen nemo convortitur"
+},
+{
+"id": "239",
+"label": "Plaut. Amph. 239",
+"text": "nec recedit loco quin statim rem gerat;"
+},
+{
+"id": "240",
+"label": "Plaut. Amph. 240",
+"text": "animam omittunt prius quam loco demigrent:"
+},
+{
+"id": "241",
+"label": "Plaut. Amph. 241",
+"text": "quisque ut steterat iacet optinetque ordinem."
+},
+{
+"id": "242",
+"label": "Plaut. Amph. 242",
+"text": "hóc ubi Amphítruo erus cónspicatust,"
+},
+{
+"id": "243",
+"label": "Plaut. Amph. 243",
+"text": "ílico equités iubet déxtera indúcere."
+},
+{
+"id": "244",
+"label": "Plaut. Amph. 244",
+"text": "equites parent citi: ab dextera maximo"
+},
+{
+"id": "245",
+"label": "Plaut. Amph. 245",
+"text": "cúm clamore involant ímpetu alacri,"
+},
+{
+"id": "246",
+"label": "Plaut. Amph. 246",
+"text": "foédant et próterunt hóstium cópias"
+},
+{
+"id": "247",
+"label": "Plaut. Amph. 247",
+"text": "iúre iniustas."
+},
+{
+"id": "248",
+"label": "Plaut. Amph. 248",
+"text": "Numquam étiam quicquam adhúc verborum est prólocutus pérperam:"
+},
+{
+"id": "249",
+"label": "Plaut. Amph. 249",
+"text": "namque ego fui illi in re praesenti et meus, cum pugnatum est, pater."
+},
+{
+"id": "250",
+"label": "Plaut. Amph. 250",
+"text": "Perduelles penetrant se in fugam; ibi nostris animus additust:"
+},
+{
+"id": "251",
+"label": "Plaut. Amph. 251",
+"text": "vortentibus Telobois telis complebantur corpora,"
+},
+{
+"id": "252",
+"label": "Plaut. Amph. 252",
+"text": "ipsusque Amphitruo regem Pterelam sua obtruncavit manu."
+},
+{
+"id": "253",
+"label": "Plaut. Amph. 253",
+"text": "haec illic est pugnata pugna úsque a mani ad vesperum"
+},
+{
+"id": "254",
+"label": "Plaut. Amph. 254",
+"text": "(hoc adeo hoc commemini magis, quia illo die inpransus fui),"
+},
+{
+"id": "255",
+"label": "Plaut. Amph. 255",
+"text": "sed proelium id tandem diremit nox interventu suo."
+},
+{
+"id": "256",
+"label": "Plaut. Amph. 256",
+"text": "postridie in castra ex urbe ad nos veniunt flentes principes:"
+},
+{
+"id": "257",
+"label": "Plaut. Amph. 257",
+"text": "velatis manibus orant ignoscamus peccatum suom,"
+},
+{
+"id": "258",
+"label": "Plaut. Amph. 258",
+"text": "deduntque se, divina humanaque omnia, urbem et liberos"
+},
+{
+"id": "259",
+"label": "Plaut. Amph. 259",
+"text": "in dicionem atque in arbitratum cuncti Thebano poplo."
+},
+{
+"id": "260",
+"label": "Plaut. Amph. 260",
+"text": "post ob virtutem ero Amphitruoni patera donata aurea est,"
+},
+{
+"id": "261",
+"label": "Plaut. Amph. 261",
+"text": "qui Pterela potitare solitus est rex. haec sic dicam erae."
+},
+{
+"id": "262",
+"label": "Plaut. Amph. 262",
+"text": "nunc pergam eri imperium exequi et me domum capessere."
+},
+{
+"id": "263",
+"label": "Plaut. Amph. 263",
+"text": "Áttat, illic húc iturust. íbo ego illi óbviam,"
+},
+{
+"id": "264",
+"label": "Plaut. Amph. 264",
+"text": "neque ego huc hominem hodie ad aedis has sinam umquam accedere;"
+},
+{
+"id": "265",
+"label": "Plaut. Amph. 265",
+"text": "quando imago est huius in me, certum est hominem eludere."
+},
+{
+"id": "266",
+"label": "Plaut. Amph. 266",
+"text": "et enim vero quoniam formam cépi huius ín med et statum,"
+},
+{
+"id": "267",
+"label": "Plaut. Amph. 267",
+"text": "decet et facta moresque huius habere me similes item."
+},
+{
+"id": "268",
+"label": "Plaut. Amph. 268",
+"text": "itaque me malum esse oportet, callidum, astutum admodum"
+},
+{
+"id": "269",
+"label": "Plaut. Amph. 269",
+"text": "atque hunc, telo suo sibi, malitia a foribus pellere."
+},
+{
+"id": "270",
+"label": "Plaut. Amph. 270",
+"text": "sed quid illúc est? caelum aspectat. observabo quam rem agat."
+},
+{
+"id": "271",
+"label": "Plaut. Amph. 271",
+"text": "Certe edepol, si quicquamst aliud quod credam aut certo sciam,"
+},
+{
+"id": "272",
+"label": "Plaut. Amph. 272",
+"text": "credo ego hac noctu Nocturnum óbdormivisse ebrium."
+},
+{
+"id": "273",
+"label": "Plaut. Amph. 273",
+"text": "nam neque se Septentriones quoquam in caelo commovent,"
+},
+{
+"id": "274",
+"label": "Plaut. Amph. 274",
+"text": "neque se Luna quoquam mutat atque uti exorta est semel,"
+},
+{
+"id": "275",
+"label": "Plaut. Amph. 275",
+"text": "nec Iugulae neque Vesperugo neque Vergiliae óccidunt."
+},
+{
+"id": "276",
+"label": "Plaut. Amph. 276",
+"text": "ita statim stant signa, neque nox quoquam concedit die."
+},
+{
+"id": "277",
+"label": "Plaut. Amph. 277",
+"text": "Perge, Nox, ut occepisti, gere patri morem meo:"
+},
+{
+"id": "278",
+"label": "Plaut. Amph. 278",
+"text": "optumo optume optumam operam das, datam pulchre locas."
+},
+{
+"id": "279",
+"label": "Plaut. Amph. 279",
+"text": "Neque ego hac nocte longiorem me vidisse censeo,"
+},
+{
+"id": "280",
+"label": "Plaut. Amph. 280",
+"text": "nisi item unam, verberatus quam pependi perpetem;"
+},
+{
+"id": "281",
+"label": "Plaut. Amph. 281",
+"text": "eam quoque edepol etiam multo haec vicit longitudine."
+},
+{
+"id": "282",
+"label": "Plaut. Amph. 282",
+"text": "credo edepol equidem dormire Solem, atque adpotum probe;"
+},
+{
+"id": "283",
+"label": "Plaut. Amph. 283",
+"text": "mira sunt nisi invitavit sese in cena plusculum."
+},
+{
+"id": "284",
+"label": "Plaut. Amph. 284",
+"text": "Ain vero, verbero? deos esse tui similis putas?"
+},
+{
+"id": "285",
+"label": "Plaut. Amph. 285",
+"text": "ego pol te istis tuis pro dictis et male factis, furcifer,"
+},
+{
+"id": "286",
+"label": "Plaut. Amph. 286",
+"text": "accipiam; modo sis veni huc: invenies infortunium."
+},
+{
+"id": "287",
+"label": "Plaut. Amph. 287",
+"text": "Vbi sunt isti scortatores, qui soli inviti cubant?"
+},
+{
+"id": "288",
+"label": "Plaut. Amph. 288",
+"text": "haec nox scita est exercendo scorto conducto male."
+},
+{
+"id": "289",
+"label": "Plaut. Amph. 289",
+"text": "Meus pater nunc pro huius verbis recte et sapienter facit,"
+},
+{
+"id": "290",
+"label": "Plaut. Amph. 290",
+"text": "qui complexus cum Alcumena cubat amans animo obsequens."
+},
+{
+"id": "291",
+"label": "Plaut. Amph. 291",
+"text": "Ibo ut erus quod imperavit Alcumenae nuntiem."
+},
+{
+"id": "292",
+"label": "Plaut. Amph. 292",
+"text": "sed quis hic ést homo, quem ante aedis video hoc noctis? non placet."
+},
+{
+"id": "293",
+"label": "Plaut. Amph. 293",
+"text": "Nullust hoc metuculosus aeque."
+},
+{
+"id": "293b",
+"label": "Plaut. Amph. 293b",
+"text": "Mi in mentem venit,"
+},
+{
+"id": "294",
+"label": "Plaut. Amph. 294",
+"text": "illic homó hoc dé umero volt pallium detexere."
+},
+{
+"id": "295",
+"label": "Plaut. Amph. 295",
+"text": "Timet homo: deludam ego illum."
+},
+{
+"id": "295b",
+"label": "Plaut. Amph. 295b",
+"text": "Perii, dentes pruriunt;"
+},
+{
+"id": "296",
+"label": "Plaut. Amph. 296",
+"text": "certe advenientem hic me hospitio pugneo accepturus est."
+},
+{
+"id": "297",
+"label": "Plaut. Amph. 297",
+"text": "credo misericors est: nunc propterea quod me meus erus"
+},
+{
+"id": "298",
+"label": "Plaut. Amph. 298",
+"text": "fecit ut vigilarem, hic pugnis faciet hodie ut dormiam."
+},
+{
+"id": "299",
+"label": "Plaut. Amph. 299",
+"text": "oppido interii. obsecro hercle, quantus et quam validus est."
+},
+{
+"id": "300",
+"label": "Plaut. Amph. 300",
+"text": "Clare advorsum fabulabor, ut hic auscultet quae loquar;"
+},
+{
+"id": "301",
+"label": "Plaut. Amph. 301",
+"text": "igitur magis demum maiorem in sese concipiet metum."
+},
+{
+"id": "302",
+"label": "Plaut. Amph. 302",
+"text": "agite, pugni, iam diu est quom ventri victum non datis:"
+},
+{
+"id": "303",
+"label": "Plaut. Amph. 303",
+"text": "iam pridem videtur factum, heri quod homines quattuor"
+},
+{
+"id": "304",
+"label": "Plaut. Amph. 304",
+"text": "in soporem collocastis nudos."
+},
+{
+"id": "304b",
+"label": "Plaut. Amph. 304b",
+"text": "Formido male,"
+},
+{
+"id": "305",
+"label": "Plaut. Amph. 305",
+"text": "né ego hic nomen meum commutem et Quintus fiam e Sosia;"
+},
+{
+"id": "306",
+"label": "Plaut. Amph. 306",
+"text": "quattuor nudos sopori se dedisse hic autumat:"
+},
+{
+"id": "307",
+"label": "Plaut. Amph. 307",
+"text": "metuo ne numerum augeam illum."
+},
+{
+"id": "307b",
+"label": "Plaut. Amph. 307b",
+"text": "em, nunciam ergo: sic volo."
+},
+{
+"id": "308",
+"label": "Plaut. Amph. 308",
+"text": "Cingitur: certe expedit se."
+},
+{
+"id": "308b",
+"label": "Plaut. Amph. 308b",
+"text": "Non feret quin vapulet."
+},
+{
+"id": "309",
+"label": "Plaut. Amph. 309",
+"text": "Quis homo?"
+},
+{
+"id": "309b",
+"label": "Plaut. Amph. 309b",
+"text": "Quisquis homo huc profecto venerit, pugnos edet."
+},
+{
+"id": "310",
+"label": "Plaut. Amph. 310",
+"text": "Apage, non placet me hoc noctis esse: cenavi modo;"
+},
+{
+"id": "311",
+"label": "Plaut. Amph. 311",
+"text": "proin tu istam cenam largire, si sapis, esurientibus."
+},
+{
+"id": "312",
+"label": "Plaut. Amph. 312",
+"text": "Haud malum huic est pondus pugno."
+},
+{
+"id": "312b",
+"label": "Plaut. Amph. 312b",
+"text": "Perii, pugnos ponderat."
+},
+{
+"id": "313",
+"label": "Plaut. Amph. 313",
+"text": "Quid si ego illum tractim tangam, ut dormiat?"
+},
+{
+"id": "313b",
+"label": "Plaut. Amph. 313b",
+"text": "Servaveris,"
+},
+{
+"id": "314",
+"label": "Plaut. Amph. 314",
+"text": "nam continuas has tris noctes pervigilavi."
+},
+{
+"id": "314b",
+"label": "Plaut. Amph. 314b",
+"text": "Pessumest,"
+},
+{
+"id": "315",
+"label": "Plaut. Amph. 315",
+"text": "facimus nequiter, ferire malam male discit manus;"
+},
+{
+"id": "316",
+"label": "Plaut. Amph. 316",
+"text": "alia forma ésse oportet quem tu pugno legeris."
+},
+{
+"id": "317",
+"label": "Plaut. Amph. 317",
+"text": "Illic homo me interpolabit meumque os finget denuo."
+},
+{
+"id": "318",
+"label": "Plaut. Amph. 318",
+"text": "Exossatum os esse oportet quem probe percusseris."
+},
+{
+"id": "319",
+"label": "Plaut. Amph. 319",
+"text": "Mirum ni hic me quasi murenam éxossare cogitat."
+},
+{
+"id": "320",
+"label": "Plaut. Amph. 320",
+"text": "ultro istunc qui exossat homines. perii, si me aspexerit."
+},
+{
+"id": "321",
+"label": "Plaut. Amph. 321",
+"text": "Olet homo quidam malo suo."
+},
+{
+"id": "321b",
+"label": "Plaut. Amph. 321b",
+"text": "ei, numnam ego óbolui?"
+},
+{
+"id": "322",
+"label": "Plaut. Amph. 322",
+"text": "Atque haud longe abesse oportet, verum longe hinc afuit."
+},
+{
+"id": "323",
+"label": "Plaut. Amph. 323",
+"text": "Illic homo superstitiosust."
+},
+{
+"id": "323b",
+"label": "Plaut. Amph. 323b",
+"text": "Gestiunt pugni mihi."
+},
+{
+"id": "324",
+"label": "Plaut. Amph. 324",
+"text": "Si in me exercituru's exerciturus es , quaeso in parietem ut primum domes."
+},
+{
+"id": "325",
+"label": "Plaut. Amph. 325",
+"text": "Vox mi ad aures advolavit."
+},
+{
+"id": "325b",
+"label": "Plaut. Amph. 325b",
+"text": "Né ego homo infelix fui,"
+},
+{
+"id": "326",
+"label": "Plaut. Amph. 326",
+"text": "qui non alas intervelli: volucrem vocem gestito."
+},
+{
+"id": "327",
+"label": "Plaut. Amph. 327",
+"text": "Illic homo a me sibi malam rem arcessit iumento suo."
+},
+{
+"id": "328",
+"label": "Plaut. Amph. 328",
+"text": "Non equidem ullum habeo iumentum."
+},
+{
+"id": "328b",
+"label": "Plaut. Amph. 328b",
+"text": "Onerandus est pugnis probe."
+},
+{
+"id": "329",
+"label": "Plaut. Amph. 329",
+"text": "Lassus sum hercle, navi ut vectus huc sum: etiam nunc nauseo;"
+},
+{
+"id": "330",
+"label": "Plaut. Amph. 330",
+"text": "vix incedo inanis, ne ire posse cum onere existimes."
+},
+{
+"id": "331",
+"label": "Plaut. Amph. 331",
+"text": "Certe enim hic nescio quis loquitur."
+},
+{
+"id": "331b",
+"label": "Plaut. Amph. 331b",
+"text": "Salvos sum, non me videt:"
+},
+{
+"id": "332",
+"label": "Plaut. Amph. 332",
+"text": "nescioquem loqui autumat; mihi certo nomen Sosiaest."
+},
+{
+"id": "333",
+"label": "Plaut. Amph. 333",
+"text": "Hinc enim míhi dextra vox auris, ut videtur, verberat."
+},
+{
+"id": "334",
+"label": "Plaut. Amph. 334",
+"text": "Metuo, vocis ne vicem hodie hic vapulem, quae hunc verberat."
+},
+{
+"id": "335",
+"label": "Plaut. Amph. 335",
+"text": "Optume eccum incedit ad me."
+},
+{
+"id": "335b",
+"label": "Plaut. Amph. 335b",
+"text": "Timeo, totus torpeo."
+},
+{
+"id": "336",
+"label": "Plaut. Amph. 336",
+"text": "non edepol nunc ubi terrarum sim scio, si quis roget,"
+},
+{
+"id": "337",
+"label": "Plaut. Amph. 337",
+"text": "neque miser me commovere possum prae formidine."
+},
+{
+"id": "338",
+"label": "Plaut. Amph. 338",
+"text": "ilicet, mandata eri perierunt una et Sosia."
+},
+{
+"id": "339",
+"label": "Plaut. Amph. 339",
+"text": "verum certum est confidenter hominem contra conloqui,"
+},
+{
+"id": "340",
+"label": "Plaut. Amph. 340",
+"text": "qui possim videri huic fortis, a me ut abstineat manum."
+},
+{
+"id": "341",
+"label": "Plaut. Amph. 341",
+"text": "Quo ambulas tu, qui Volcanum in cornu conclusum geris?"
+},
+{
+"id": "342",
+"label": "Plaut. Amph. 342",
+"text": "Quid id exquiris tu, qui pugnis os exossas hominibus?"
+},
+{
+"id": "343",
+"label": "Plaut. Amph. 343",
+"text": "Servosne es an liber?"
+},
+{
+"id": "343b",
+"label": "Plaut. Amph. 343b",
+"text": "Vtcumque animo conlibitum est meo."
+},
+{
+"id": "344",
+"label": "Plaut. Amph. 344",
+"text": "Ain vero?"
+},
+{
+"id": "344b",
+"label": "Plaut. Amph. 344b",
+"text": "Aio enim vero."
+},
+{
+"id": "344c",
+"label": "Plaut. Amph. 344c",
+"text": "Verbero."
+},
+{
+"id": "344d",
+"label": "Plaut. Amph. 344d",
+"text": "Mentiris nunc."
+},
+{
+"id": "345",
+"label": "Plaut. Amph. 345",
+"text": "At iam faciam ut verum dicas dicere."
+},
+{
+"id": "345b",
+"label": "Plaut. Amph. 345b",
+"text": "Quid eo est opus?"
+},
+{
+"id": "346",
+"label": "Plaut. Amph. 346",
+"text": "Possum scire, quo profectus, cuius sis aut quid veneris?"
+},
+{
+"id": "347",
+"label": "Plaut. Amph. 347",
+"text": "Húc eo, eri iussu, eius sum servos. numquid nunc es certior?"
+},
+{
+"id": "348",
+"label": "Plaut. Amph. 348",
+"text": "Ego tibi istam hodie, sceleste, comprimam linguam."
+},
+{
+"id": "348b",
+"label": "Plaut. Amph. 348b",
+"text": "Haud potes:"
+},
+{
+"id": "349",
+"label": "Plaut. Amph. 349",
+"text": "bene pudiceque adservatur."
+},
+{
+"id": "349b",
+"label": "Plaut. Amph. 349b",
+"text": "Pergin argutarier?"
+},
+{
+"id": "350",
+"label": "Plaut. Amph. 350",
+"text": "quid apud hasce aedis negoti ést tibi?"
+},
+{
+"id": "350b",
+"label": "Plaut. Amph. 350b",
+"text": "Immo quid tibi est?"
+},
+{
+"id": "351",
+"label": "Plaut. Amph. 351",
+"text": "Rex Creo vigiles nocturnos singulos semper locat."
+},
+{
+"id": "352",
+"label": "Plaut. Amph. 352",
+"text": "Bene facit: quia nos eramus peregre, tutatust domi;"
+},
+{
+"id": "353",
+"label": "Plaut. Amph. 353",
+"text": "at nunc abi sane, advenisse familiares dicito."
+},
+{
+"id": "354",
+"label": "Plaut. Amph. 354",
+"text": "Nescio quam tu familiaris sis: nisi actutum hinc abis,"
+},
+{
+"id": "355",
+"label": "Plaut. Amph. 355",
+"text": "familiaris accipiere faxo haud familiariter."
+},
+{
+"id": "356",
+"label": "Plaut. Amph. 356",
+"text": "Hic inquam habito ego atque horunc servos sum."
+},
+{
+"id": "356b",
+"label": "Plaut. Amph. 356b",
+"text": "At scin quo modo?"
+},
+{
+"id": "357",
+"label": "Plaut. Amph. 357",
+"text": "faciam ego hodie te superbum, nisi hinc abis."
+},
+{
+"id": "357b",
+"label": "Plaut. Amph. 357b",
+"text": "Quonam modo?"
+},
+{
+"id": "358",
+"label": "Plaut. Amph. 358",
+"text": "Auferere, non abibis, sí ego fustem sumpsero."
+},
+{
+"id": "359",
+"label": "Plaut. Amph. 359",
+"text": "Quin me esse huius familiai familiarem praedico."
+},
+{
+"id": "360",
+"label": "Plaut. Amph. 360",
+"text": "Vide sis quam mox vapulare vis, nisi actutum hinc abis."
+},
+{
+"id": "361",
+"label": "Plaut. Amph. 361",
+"text": "Tun domo prohibere peregre me advenientem postulas?"
+},
+{
+"id": "362",
+"label": "Plaut. Amph. 362",
+"text": "Haecine tua domust?"
+},
+{
+"id": "362b",
+"label": "Plaut. Amph. 362b",
+"text": "Ita inquam."
+},
+{
+"id": "362c",
+"label": "Plaut. Amph. 362c",
+"text": "Quis erus est igitur tibi?"
+},
+{
+"id": "363",
+"label": "Plaut. Amph. 363",
+"text": "Amphitruo, qui nunc praefectust Thebanis legionibus,"
+},
+{
+"id": "364",
+"label": "Plaut. Amph. 364",
+"text": "quicum nupta est Alcumena."
+},
+{
+"id": "364b",
+"label": "Plaut. Amph. 364b",
+"text": "Quid ais? quid nomen tibi est?"
+},
+{
+"id": "365",
+"label": "Plaut. Amph. 365",
+"text": "Sosiam vocant Thebani, Davo prognatum patre."
+},
+{
+"id": "366",
+"label": "Plaut. Amph. 366",
+"text": "Ne tu istic hodie malo tuo compositis mendaciis"
+},
+{
+"id": "367",
+"label": "Plaut. Amph. 367",
+"text": "advenisti, audaciai columen, consutis dolis."
+},
+{
+"id": "368",
+"label": "Plaut. Amph. 368",
+"text": "Immo equidem tunicis consutis huc advenio, non dolis."
+},
+{
+"id": "369",
+"label": "Plaut. Amph. 369",
+"text": "At mentiris etiam: certo pedibus, non tunicis venis."
+},
+{
+"id": "370",
+"label": "Plaut. Amph. 370",
+"text": "Ita profecto."
+},
+{
+"id": "370b",
+"label": "Plaut. Amph. 370b",
+"text": "Nunc profecto vapula ob mendacium."
+},
+{
+"id": "371",
+"label": "Plaut. Amph. 371",
+"text": "Non edepol volo profecto."
+},
+{
+"id": "371b",
+"label": "Plaut. Amph. 371b",
+"text": "At pol profecto ingratiis."
+},
+{
+"id": "372",
+"label": "Plaut. Amph. 372",
+"text": "hoc quidem profecto certum est, non est arbitrarium."
+},
+{
+"id": "373",
+"label": "Plaut. Amph. 373",
+"text": "Tuam fidem obsecro."
+},
+{
+"id": "373b",
+"label": "Plaut. Amph. 373b",
+"text": "Tun te audes Sosiam esse dicere,"
+},
+{
+"id": "374",
+"label": "Plaut. Amph. 374",
+"text": "quí ego sum?"
+},
+{
+"id": "374b",
+"label": "Plaut. Amph. 374b",
+"text": "Perii."
+},
+{
+"id": "374c",
+"label": "Plaut. Amph. 374c",
+"text": "Parum etiam, praeut futurum est, praedicas."
+},
+{
+"id": "375",
+"label": "Plaut. Amph. 375",
+"text": "quoius nunc es?"
+},
+{
+"id": "375b",
+"label": "Plaut. Amph. 375b",
+"text": "Tuos, nam pugnis usu fecisti tuom."
+},
+{
+"id": "376",
+"label": "Plaut. Amph. 376",
+"text": "pro fidem, Thebani cives."
+},
+{
+"id": "376b",
+"label": "Plaut. Amph. 376b",
+"text": "Etiam clamas, carnifex?"
+},
+{
+"id": "377",
+"label": "Plaut. Amph. 377",
+"text": "loquere, quid venisti?"
+},
+{
+"id": "377b",
+"label": "Plaut. Amph. 377b",
+"text": "Vt esset quem tu pugnis caederes."
+},
+{
+"id": "378",
+"label": "Plaut. Amph. 378",
+"text": "Cuius es?"
+},
+{
+"id": "378b",
+"label": "Plaut. Amph. 378b",
+"text": "Amphitruonis, inquam, Sosia."
+},
+{
+"id": "378c",
+"label": "Plaut. Amph. 378c",
+"text": "Ergo istoc magis,"
+},
+{
+"id": "379",
+"label": "Plaut. Amph. 379",
+"text": "quia vaniloquo's vaniloquus es , vapulabis: ego sum, non tu, Sosia."
+},
+{
+"id": "380",
+"label": "Plaut. Amph. 380",
+"text": "Ita di faciant, ut tu potius sis atque ego te ut verberem."
+},
+{
+"id": "381",
+"label": "Plaut. Amph. 381",
+"text": "Etiam muttis?"
+},
+{
+"id": "381b",
+"label": "Plaut. Amph. 381b",
+"text": "Iam tacebo."
+},
+{
+"id": "381c",
+"label": "Plaut. Amph. 381c",
+"text": "Quis tibi erust?"
+},
+{
+"id": "381d",
+"label": "Plaut. Amph. 381d",
+"text": "Quem tu voles."
+},
+{
+"id": "382",
+"label": "Plaut. Amph. 382",
+"text": "Quid igitur? qui nunc vocare?"
+},
+{
+"id": "382b",
+"label": "Plaut. Amph. 382b",
+"text": "Nemo nisi quem iusseris."
+},
+{
+"id": "383",
+"label": "Plaut. Amph. 383",
+"text": "Amphitruonis te esse aiebas Sosiam."
+},
+{
+"id": "383b",
+"label": "Plaut. Amph. 383b",
+"text": "Peccaveram,"
+},
+{
+"id": "384",
+"label": "Plaut. Amph. 384",
+"text": "nam Amphitruonis †socium ne me esse volui dicere."
+},
+{
+"id": "385",
+"label": "Plaut. Amph. 385",
+"text": "Scibam equidem nullum esse nobis nisi me servom Sosiam."
+},
+{
+"id": "386",
+"label": "Plaut. Amph. 386",
+"text": "fugit te ratió."
+},
+{
+"id": "386b",
+"label": "Plaut. Amph. 386b",
+"text": "Vtinam istuc pugni fecissent tui."
+},
+{
+"id": "387",
+"label": "Plaut. Amph. 387",
+"text": "Ego sum Sosia ille quem tu dudum esse aiebas mihi."
+},
+{
+"id": "388",
+"label": "Plaut. Amph. 388",
+"text": "Obsecro ut per pacem liceat te alloqui, ut ne vapulem."
+},
+{
+"id": "389",
+"label": "Plaut. Amph. 389",
+"text": "Immo indutiae parumper fiant, si quid vis loqui."
+},
+{
+"id": "390",
+"label": "Plaut. Amph. 390",
+"text": "Non loquar nisi pace facta, quando pugnis plus vales."
+},
+{
+"id": "391",
+"label": "Plaut. Amph. 391",
+"text": "Dic si quid vis, non nocebo."
+},
+{
+"id": "391b",
+"label": "Plaut. Amph. 391b",
+"text": "Tuae fide credo?"
+},
+{
+"id": "391c",
+"label": "Plaut. Amph. 391c",
+"text": "Meae."
+},
+{
+"id": "392",
+"label": "Plaut. Amph. 392",
+"text": "Quid si falles?"
+},
+{
+"id": "392b",
+"label": "Plaut. Amph. 392b",
+"text": "Tum Mercurius Sosiae iratus siet."
+},
+{
+"id": "393",
+"label": "Plaut. Amph. 393",
+"text": "Animum advorte. nunc licet mihi libere quidvis loqui."
+},
+{
+"id": "394",
+"label": "Plaut. Amph. 394",
+"text": "Amphitruonis ego sum servos Sosia."
+},
+{
+"id": "394b",
+"label": "Plaut. Amph. 394b",
+"text": "Etiam denuo?"
+},
+{
+"id": "395",
+"label": "Plaut. Amph. 395",
+"text": "Pacem feci, foedus feci. vera dico."
+},
+{
+"id": "395b",
+"label": "Plaut. Amph. 395b",
+"text": "Vapula."
+},
+{
+"id": "396",
+"label": "Plaut. Amph. 396",
+"text": "Vt libet quid tibi libet fac, quoniam pugnis plus vales;"
+},
+{
+"id": "397",
+"label": "Plaut. Amph. 397",
+"text": "verum, utut es facturus, hoc quidem hercle haud reticebo tamen."
+},
+{
+"id": "398",
+"label": "Plaut. Amph. 398",
+"text": "Tu me vivos hodie numquam facies quin sim Sosia."
+},
+{
+"id": "399",
+"label": "Plaut. Amph. 399",
+"text": "Certe edepol tu me alienabis numquam quin noster siem;"
+},
+{
+"id": "400",
+"label": "Plaut. Amph. 400",
+"text": "nec nobis praeter med alius quisquam est servos Sosia."
+},
+{
+"id": "402",
+"label": "Plaut. Amph. 402",
+"text": "Hic homo sanus non est."
+},
+{
+"id": "402b",
+"label": "Plaut. Amph. 402b",
+"text": "Quod mihi praedicas vitium, id tibi est."
+},
+{
+"id": "403",
+"label": "Plaut. Amph. 403",
+"text": "quid, malum, non súm ego servos Amphitruonis Sosia?"
+},
+{
+"id": "404",
+"label": "Plaut. Amph. 404",
+"text": "nonne hac noctu nostra navis huc ex portu Persico"
+},
+{
+"id": "405",
+"label": "Plaut. Amph. 405",
+"text": "venit, quae me advexit? nonne me huc erus misit meus?"
+},
+{
+"id": "406",
+"label": "Plaut. Amph. 406",
+"text": "nonne ego nunc sto ante aedes nostras? non mi est lanterna in manu?"
+},
+{
+"id": "407",
+"label": "Plaut. Amph. 407",
+"text": "non loquor, nón vigilo? nonne hic homo módo me pugnis contudit?"
+},
+{
+"id": "408",
+"label": "Plaut. Amph. 408",
+"text": "fecit hercle, nam etiam misero nunc mihi malae dolent."
+},
+{
+"id": "409",
+"label": "Plaut. Amph. 409",
+"text": "quid igitur ego dubito, aut cur non intro eo in nostram domum?"
+},
+{
+"id": "410",
+"label": "Plaut. Amph. 410",
+"text": "Quid, domum vostram?"
+},
+{
+"id": "410b",
+"label": "Plaut. Amph. 410b",
+"text": "Ita enim vero."
+},
+{
+"id": "410c",
+"label": "Plaut. Amph. 410c",
+"text": "Quin quae dixisti modo"
+},
+{
+"id": "411",
+"label": "Plaut. Amph. 411",
+"text": "omnia ementitu's ementitus es : equidem Sosia Amphitruonis sum."
+},
+{
+"id": "412",
+"label": "Plaut. Amph. 412",
+"text": "nam noctu hac soluta est navis nostra e portu Persico,"
+},
+{
+"id": "413",
+"label": "Plaut. Amph. 413",
+"text": "et ubi Pterela rex regnavit oppidum expugnavimus,"
+},
+{
+"id": "414",
+"label": "Plaut. Amph. 414",
+"text": "et legiones Teloboarum vi pugnando cepimus,"
+},
+{
+"id": "415",
+"label": "Plaut. Amph. 415",
+"text": "et ipsus Amphitruo optruncavit regem Pterelam in proelio."
+},
+{
+"id": "416",
+"label": "Plaut. Amph. 416",
+"text": "Egomet mihi non credo, cum illaec autumare illum audio;"
+},
+{
+"id": "417",
+"label": "Plaut. Amph. 417",
+"text": "hic quidem cérte quae illic sunt res gestae memorat memoriter."
+},
+{
+"id": "418",
+"label": "Plaut. Amph. 418",
+"text": "sed quid ais? quid Amphitruoni doni a Telobois datum est?"
+},
+{
+"id": "419",
+"label": "Plaut. Amph. 419",
+"text": "Pterela rex qui potitare solitus est patera aurea."
+},
+{
+"id": "420",
+"label": "Plaut. Amph. 420",
+"text": "Elocutus est. ubi patera nunc est?"
+},
+{
+"id": "420b",
+"label": "Plaut. Amph. 420b",
+"text": "Est in cistula;"
+},
+{
+"id": "421",
+"label": "Plaut. Amph. 421",
+"text": "Amphitruonis obsignata signo est."
+},
+{
+"id": "421b",
+"label": "Plaut. Amph. 421b",
+"text": "Signi dic quid est?"
+},
+{
+"id": "422",
+"label": "Plaut. Amph. 422",
+"text": "Cum quadrigis Sol exoriens. quid me captas, carnufex?"
+},
+{
+"id": "423",
+"label": "Plaut. Amph. 423",
+"text": "Argumentis vicit, aliud nomen quaerundum est mihi."
+},
+{
+"id": "424",
+"label": "Plaut. Amph. 424",
+"text": "nescio unde haec hic spectavit. iám ego hunc decipiam probe;"
+},
+{
+"id": "425",
+"label": "Plaut. Amph. 425",
+"text": "nam quod egomet solus feci, nec quisquam alius affuit,"
+},
+{
+"id": "426",
+"label": "Plaut. Amph. 426",
+"text": "in tabernaclo, id quidem hodie numquam poterit dicere."
+},
+{
+"id": "427",
+"label": "Plaut. Amph. 427",
+"text": "si tu Sosia es, legiones cum pugnabant maxume,"
+},
+{
+"id": "428",
+"label": "Plaut. Amph. 428",
+"text": "quid in tabernaclo fecisti? victus sum, si dixeris."
+},
+{
+"id": "429",
+"label": "Plaut. Amph. 429",
+"text": "Cadus erat vini, inde implevi hírneam."
+},
+{
+"id": "429b",
+"label": "Plaut. Amph. 429b",
+"text": "Ingressust viam."
+},
+{
+"id": "430",
+"label": "Plaut. Amph. 430",
+"text": "Eam ego, ut matre fuerat natum, vini éduxi meri."
+},
+{
+"id": "431",
+"label": "Plaut. Amph. 431",
+"text": "Factum est illud, ut ego illíc vini hirneam ebiberim meri."
+},
+{
+"id": "432",
+"label": "Plaut. Amph. 432",
+"text": "mira sunt nisi latuit intus illic in illac hirnea."
+},
+{
+"id": "433",
+"label": "Plaut. Amph. 433",
+"text": "Quid nunc? vincon argumentis, te non esse Sosiam?"
+},
+{
+"id": "434",
+"label": "Plaut. Amph. 434",
+"text": "Tu negas med esse?"
+},
+{
+"id": "434b",
+"label": "Plaut. Amph. 434b",
+"text": "Quid ego ni negem, qui egomet siem?"
+},
+{
+"id": "435",
+"label": "Plaut. Amph. 435",
+"text": "Per Iovem iuro med esse neque me falsum dicere."
+},
+{
+"id": "436",
+"label": "Plaut. Amph. 436",
+"text": "At ego per Mercurium iuro, tibi Iovem non credere;"
+},
+{
+"id": "437",
+"label": "Plaut. Amph. 437",
+"text": "nam iniurato scio plus credet mihi quam iurato tibi."
+},
+{
+"id": "438",
+"label": "Plaut. Amph. 438",
+"text": "Quis ego sum saltem, si non sum Sosia? te interrogo."
+},
+{
+"id": "439",
+"label": "Plaut. Amph. 439",
+"text": "Vbi ego Sosia nolim esse, tu esto sane Sosia;"
+},
+{
+"id": "440",
+"label": "Plaut. Amph. 440",
+"text": "nunc, quando ego sum, vapulabis, ni hinc abis, ignobilis."
+},
+{
+"id": "441",
+"label": "Plaut. Amph. 441",
+"text": "Certe edepol, quom illum contemplo et formam cognosco meam,"
+},
+{
+"id": "442",
+"label": "Plaut. Amph. 442",
+"text": "quem ad modum ego sum (saepe in speculum inspexi), nimis similest mei;"
+},
+{
+"id": "443",
+"label": "Plaut. Amph. 443",
+"text": "itidem habet petasum ac vestitum: tam consimilest atque ego;"
+},
+{
+"id": "444",
+"label": "Plaut. Amph. 444",
+"text": "sura, pes, statura, tonsus, oculi, nasum vel labra,"
+},
+{
+"id": "445",
+"label": "Plaut. Amph. 445",
+"text": "malae, mentum, barba, collus: totus. quid verbis opust?"
+},
+{
+"id": "446",
+"label": "Plaut. Amph. 446",
+"text": "si tergum cicatricosum, nihil hoc similist similius."
+},
+{
+"id": "447",
+"label": "Plaut. Amph. 447",
+"text": "sed quom cogito, equidem certo idem sum qui semper fui."
+},
+{
+"id": "448",
+"label": "Plaut. Amph. 448",
+"text": "novi erum, novi aedis nostras; sane sapio et sentio."
+},
+{
+"id": "449",
+"label": "Plaut. Amph. 449",
+"text": "non ego illi obtempero quod loquitur. pultabo foris."
+},
+{
+"id": "450",
+"label": "Plaut. Amph. 450",
+"text": "Quó agis te?"
+},
+{
+"id": "450b",
+"label": "Plaut. Amph. 450b",
+"text": "Domum."
+},
+{
+"id": "450c",
+"label": "Plaut. Amph. 450c",
+"text": "Quadrigas si nunc inscendas Iovis"
+},
+{
+"id": "451",
+"label": "Plaut. Amph. 451",
+"text": "atque hinc fugias, ita vix poteris effugere infortunium."
+},
+{
+"id": "452",
+"label": "Plaut. Amph. 452",
+"text": "Nonne erae meae nuntiare quod erus meus iussit licet?"
+},
+{
+"id": "453",
+"label": "Plaut. Amph. 453",
+"text": "Tuae si quid vis nuntiare: hanc nostram adire non sinam."
+},
+{
+"id": "454",
+"label": "Plaut. Amph. 454",
+"text": "nam si me inritassis, hodie lumbifragium hinc auferes."
+},
+{
+"id": "455",
+"label": "Plaut. Amph. 455",
+"text": "Abeo potius. di immortales, obsecro vostram fidem,"
+},
+{
+"id": "456",
+"label": "Plaut. Amph. 456",
+"text": "ubi ego perii? ubi immutatus sum? ubi ego formam perdidi?"
+},
+{
+"id": "457",
+"label": "Plaut. Amph. 457",
+"text": "an egomet me illic reliqui, si forte oblitus fui?"
+},
+{
+"id": "458",
+"label": "Plaut. Amph. 458",
+"text": "nám hic quidem omnem imaginem meam, quae antehac fuerat, possidet."
+},
+{
+"id": "459",
+"label": "Plaut. Amph. 459",
+"text": "vivo fit quod numquam quisquam mortuo faciet mihi."
+},
+{
+"id": "460",
+"label": "Plaut. Amph. 460",
+"text": "ibo ad portum atque haec uti sunt facta ero dicam meo;"
+},
+{
+"id": "461",
+"label": "Plaut. Amph. 461",
+"text": "nisi etiam is quoque me ignorabit: quod ille faxit Iuppiter,"
+},
+{
+"id": "462",
+"label": "Plaut. Amph. 462",
+"text": "ut ego hodie ráso capite calvos capiam pilleum.—"
+},
+{
+"id": "463",
+"label": "Plaut. Amph. 463",
+"text": "Bene próspere hoc hodie operis processit mihi:"
+},
+{
+"id": "464",
+"label": "Plaut. Amph. 464",
+"text": "amovi a foribus maximam molestiam,"
+},
+{
+"id": "465",
+"label": "Plaut. Amph. 465",
+"text": "patri ut liceret tuto illam amplexarier."
+},
+{
+"id": "466",
+"label": "Plaut. Amph. 466",
+"text": "iam ille illuc ad erum cum Amphitruonem advenerit,"
+},
+{
+"id": "467",
+"label": "Plaut. Amph. 467",
+"text": "narrabit servom hinc sese a foribus Sosiam"
+},
+{
+"id": "468",
+"label": "Plaut. Amph. 468",
+"text": "amovisse; ille adeo illum mentiri sibi"
+},
+{
+"id": "469",
+"label": "Plaut. Amph. 469",
+"text": "credet, neque credet huc profectum, ut iusserat."
+},
+{
+"id": "470",
+"label": "Plaut. Amph. 470",
+"text": "erroris ambo ego illos et dementiae"
+},
+{
+"id": "471",
+"label": "Plaut. Amph. 471",
+"text": "complebo atque omnem Amphitruonis familiam,"
+},
+{
+"id": "472",
+"label": "Plaut. Amph. 472",
+"text": "adeo usque, satietatem dum capiet pater"
+},
+{
+"id": "473",
+"label": "Plaut. Amph. 473",
+"text": "illius quám amat. igitur demum omnes scient"
+},
+{
+"id": "474",
+"label": "Plaut. Amph. 474",
+"text": "quae facta. denique Alcumenam Iuppiter"
+},
+{
+"id": "475",
+"label": "Plaut. Amph. 475",
+"text": "redigét antiquam coniugi in concordiam."
+},
+{
+"id": "476",
+"label": "Plaut. Amph. 476",
+"text": "nam Amphitruo actutum uxori turbas conciet"
+},
+{
+"id": "477",
+"label": "Plaut. Amph. 477",
+"text": "atque insimulabit eam probri; tum meus pater"
+},
+{
+"id": "478",
+"label": "Plaut. Amph. 478",
+"text": "eam séditionem illi in tranquillum conferet."
+},
+{
+"id": "479",
+"label": "Plaut. Amph. 479",
+"text": "nunc de Alcumena dudum quod dixi minus,"
+},
+{
+"id": "480",
+"label": "Plaut. Amph. 480",
+"text": "hodie illa pariet filios geminos duos"
+},
+{
+"id": "481",
+"label": "Plaut. Amph. 481",
+"text": "alter decumo post mense nascetur puer"
+},
+{
+"id": "482",
+"label": "Plaut. Amph. 482",
+"text": "quam seminatust, alter mense septumo;"
+},
+{
+"id": "483",
+"label": "Plaut. Amph. 483",
+"text": "eorum Ámphitruonis alter est, alter Iovis:"
+},
+{
+"id": "484",
+"label": "Plaut. Amph. 484",
+"text": "verum minori puero maior est pater,"
+},
+{
+"id": "485",
+"label": "Plaut. Amph. 485",
+"text": "minor maiori. iamne hoc scitis quid siet?"
+},
+{
+"id": "486",
+"label": "Plaut. Amph. 486",
+"text": "sed Alcumenae huius honoris gratia"
+},
+{
+"id": "487",
+"label": "Plaut. Amph. 487",
+"text": "pater curavit uno ut fetu fieret,"
+},
+{
+"id": "488",
+"label": "Plaut. Amph. 488",
+"text": "uno ut labore absolvat aerumnas duas."
+},
+{
+"id": "491",
+"label": "Plaut. Amph. 491",
+"text": "quamquam, ut iam dudum dixi, resciscet tamen"
+},
+{
+"id": "492",
+"label": "Plaut. Amph. 492",
+"text": "Amphitruo rem omnem. quid igitur? nemo id probro"
+},
+{
+"id": "493",
+"label": "Plaut. Amph. 493",
+"text": "profecto ducet Alcumenae; nam deum"
+},
+{
+"id": "494",
+"label": "Plaut. Amph. 494",
+"text": "non par videtur facere, delictum suom"
+},
+{
+"id": "495",
+"label": "Plaut. Amph. 495",
+"text": "suamque ut culpam expetere in mortalem ut sinat."
+},
+{
+"id": "496",
+"label": "Plaut. Amph. 496",
+"text": "orationem comprimam: crepuit foris."
+},
+{
+"id": "497",
+"label": "Plaut. Amph. 497",
+"text": "Amphitruo subditivos eccum exit foras"
+},
+{
+"id": "498",
+"label": "Plaut. Amph. 498",
+"text": "cum Alcumena uxore usuraria."
+},
+{
+"id": "499",
+"label": "Plaut. Amph. 499",
+"text": "Béne vale, Alcumena, cura rem communem, quod facis;"
+},
+{
+"id": "500",
+"label": "Plaut. Amph. 500",
+"text": "atque inperce quaeso: menses iam tibi esse actos vides."
+},
+{
+"id": "501",
+"label": "Plaut. Amph. 501",
+"text": "mihi necesse est ire hinc; verum quod erit natum tollito."
+},
+{
+"id": "502",
+"label": "Plaut. Amph. 502",
+"text": "Quid istuc est, mi vir, negoti, quod tu tam subito domo"
+},
+{
+"id": "503",
+"label": "Plaut. Amph. 503",
+"text": "abeas?"
+},
+{
+"id": "503b",
+"label": "Plaut. Amph. 503b",
+"text": "Edepol haud quod tui me neque domi distaedeat;"
+},
+{
+"id": "504",
+"label": "Plaut. Amph. 504",
+"text": "sed ubi summus imperator non adest ad exercitum,"
+},
+{
+"id": "505",
+"label": "Plaut. Amph. 505",
+"text": "citius quod non facto est usus fit quam quod facto est opus."
+},
+{
+"id": "506",
+"label": "Plaut. Amph. 506",
+"text": "Nimis hic scitust sycophanta, qui quidem meus sit pater."
+},
+{
+"id": "507",
+"label": "Plaut. Amph. 507",
+"text": "observatote eum, quam blande mulieri palpabitur."
+},
+{
+"id": "508",
+"label": "Plaut. Amph. 508",
+"text": "Ecastor te experior quanti facias uxorem tuam."
+},
+{
+"id": "509",
+"label": "Plaut. Amph. 509",
+"text": "Satin habes, si feminarum nulla est quam aeque diligam?"
+},
+{
+"id": "510",
+"label": "Plaut. Amph. 510",
+"text": "Edepol ne illa si istis rebus te sciat operam dare,"
+},
+{
+"id": "511",
+"label": "Plaut. Amph. 511",
+"text": "ego faxim ted Amphitruonem esse malis, quam Iovem."
+},
+{
+"id": "512",
+"label": "Plaut. Amph. 512",
+"text": "Experiri istuc mavellem me quam mi memorarier."
+},
+{
+"id": "513",
+"label": "Plaut. Amph. 513",
+"text": "prius abis quam lectus ubi cubuisti concaluit locus."
+},
+{
+"id": "514",
+"label": "Plaut. Amph. 514",
+"text": "heri venisti media nocte, nunc abis. hocin placet?"
+},
+{
+"id": "515",
+"label": "Plaut. Amph. 515",
+"text": "Accedam atque hanc appellabo et subparasitabor patri."
+},
+{
+"id": "516",
+"label": "Plaut. Amph. 516",
+"text": "numquam edepol quemquam mortalem credo ego uxorem suam"
+},
+{
+"id": "517",
+"label": "Plaut. Amph. 517",
+"text": "sic ecflictim amare, proinde ut hic te ecflictim deperit."
+},
+{
+"id": "518",
+"label": "Plaut. Amph. 518",
+"text": "Carnufex, non ego te novi? ábin e conspectu meo?"
+},
+{
+"id": "519",
+"label": "Plaut. Amph. 519",
+"text": "quid tibi hanc curatio est rem, verbero, aut muttitio?"
+},
+{
+"id": "520",
+"label": "Plaut. Amph. 520",
+"text": "quoii ego iam hoc scipione—"
+},
+{
+"id": "520b",
+"label": "Plaut. Amph. 520b",
+"text": "Ah noli."
+},
+{
+"id": "520c",
+"label": "Plaut. Amph. 520c",
+"text": "Muttito modo."
+},
+{
+"id": "521",
+"label": "Plaut. Amph. 521",
+"text": "Nequiter paene expedivit prima parasitatio."
+},
+{
+"id": "522",
+"label": "Plaut. Amph. 522",
+"text": "Verum quod tu dicis, mea uxor, non te mi irasci decet."
+},
+{
+"id": "523",
+"label": "Plaut. Amph. 523",
+"text": "clanculum abii a legione: operam hanc subrupui tibi,"
+},
+{
+"id": "524",
+"label": "Plaut. Amph. 524",
+"text": "ex me primo ut prima scires, rem ut gessissem publicam."
+},
+{
+"id": "525",
+"label": "Plaut. Amph. 525",
+"text": "ea tibi omnia enarravi. nisi te amarem plurimum,"
+},
+{
+"id": "526",
+"label": "Plaut. Amph. 526",
+"text": "non facerem."
+},
+{
+"id": "526b",
+"label": "Plaut. Amph. 526b",
+"text": "Facitne ut dixi? timidam palpo percutit."
+},
+{
+"id": "527",
+"label": "Plaut. Amph. 527",
+"text": "Nunc, ne legio persentiscat, clam illuc redeundum est mihi,"
+},
+{
+"id": "528",
+"label": "Plaut. Amph. 528",
+"text": "ne me uxorem praevertisse dicant prae re publica."
+},
+{
+"id": "529",
+"label": "Plaut. Amph. 529",
+"text": "Lacrimantem ex abitu concinnas tu tuam uxorem."
+},
+{
+"id": "529b",
+"label": "Plaut. Amph. 529b",
+"text": "Tace,"
+},
+{
+"id": "530",
+"label": "Plaut. Amph. 530",
+"text": "ne corrumpe oculos, redibo actutum."
+},
+{
+"id": "530b",
+"label": "Plaut. Amph. 530b",
+"text": "Id actutum diu est."
+},
+{
+"id": "531",
+"label": "Plaut. Amph. 531",
+"text": "Non ego te hic lubens relinquo neque abeo abs te."
+},
+{
+"id": "531b",
+"label": "Plaut. Amph. 531b",
+"text": "Sentio,"
+},
+{
+"id": "532",
+"label": "Plaut. Amph. 532",
+"text": "nam qua nocte ad me venisti, eadem abis."
+},
+{
+"id": "532b",
+"label": "Plaut. Amph. 532b",
+"text": "Cur me tenes?"
+},
+{
+"id": "533",
+"label": "Plaut. Amph. 533",
+"text": "tempus est: exire ex urbe prius quam lucescat volo."
+},
+{
+"id": "534",
+"label": "Plaut. Amph. 534",
+"text": "nunc tibi hanc pateram, quae dono mi illi ob virtutem data est,"
+},
+{
+"id": "535",
+"label": "Plaut. Amph. 535",
+"text": "Pterela rex qui potitavit, quem ego mea occidi manu,"
+},
+{
+"id": "536",
+"label": "Plaut. Amph. 536",
+"text": "Alcumena, tibi condono."
+},
+{
+"id": "536b",
+"label": "Plaut. Amph. 536b",
+"text": "Facis ut alias res soles."
+},
+{
+"id": "537",
+"label": "Plaut. Amph. 537",
+"text": "ecastor condignum donum, qualest qui donum dedit."
+},
+{
+"id": "538",
+"label": "Plaut. Amph. 538",
+"text": "Immo sic: condignum donum, qualest cui dono datumst."
+},
+{
+"id": "539",
+"label": "Plaut. Amph. 539",
+"text": "Pergin autem? nonne ego possum, furcifer, te perdere?"
+},
+{
+"id": "540",
+"label": "Plaut. Amph. 540",
+"text": "Noli amabo, Amphitruo, irasci Sosiae causa mea."
+},
+{
+"id": "541",
+"label": "Plaut. Amph. 541",
+"text": "Faciam ita ut vis."
+},
+{
+"id": "541b",
+"label": "Plaut. Amph. 541b",
+"text": "Ex amore hic admodum quam saevos est."
+},
+{
+"id": "542",
+"label": "Plaut. Amph. 542",
+"text": "Numquid vis?"
+},
+{
+"id": "542b",
+"label": "Plaut. Amph. 542b",
+"text": "Vt quom absim mé ames, me tuam te absente tamen."
+},
+{
+"id": "543",
+"label": "Plaut. Amph. 543",
+"text": "Eamus, Amphitruo. lucescit hoc iam."
+},
+{
+"id": "543b",
+"label": "Plaut. Amph. 543b",
+"text": "Abi prae, Sosia,"
+},
+{
+"id": "544",
+"label": "Plaut. Amph. 544",
+"text": "iam ego sequar. numquid vis?"
+},
+{
+"id": "544b",
+"label": "Plaut. Amph. 544b",
+"text": "Etiam: ut actutum advenias."
+},
+{
+"id": "544c",
+"label": "Plaut. Amph. 544c",
+"text": "Licet,"
+},
+{
+"id": "545",
+"label": "Plaut. Amph. 545",
+"text": "prius tuá opinione híc adero: bonum ánimum habe.—"
+},
+{
+"id": "546",
+"label": "Plaut. Amph. 546",
+"text": "nunc te, nox, quae me mansisti, mitto uti cedas die,"
+},
+{
+"id": "547",
+"label": "Plaut. Amph. 547",
+"text": "ut mortalis inlucescat luce clara et candida."
+},
+{
+"id": "548",
+"label": "Plaut. Amph. 548",
+"text": "atque quanto, nox, fuisti longior hac proxuma,"
+},
+{
+"id": "549",
+"label": "Plaut. Amph. 549",
+"text": "tanto brevior dies ut fiat faciam, ut aeque disparet."
+},
+{
+"id": "550",
+"label": "Plaut. Amph. 550",
+"text": "sed dies e nocte accedat. ibo et Mercurium sequar.—"
+},
+{
+"id": "551",
+"label": "Plaut. Amph. 551",
+"text": "Age í tu secúndum."
+},
+{
+"id": "551b",
+"label": "Plaut. Amph. 551b",
+"text": "Sequór, subsequór te."
+},
+{
+"id": "552",
+"label": "Plaut. Amph. 552",
+"text": "Scelestissimum te arbitror."
+},
+{
+"id": "552b",
+"label": "Plaut. Amph. 552b",
+"text": "Nam quam ob rem?"
+},
+{
+"id": "553",
+"label": "Plaut. Amph. 553",
+"text": "Quia id quod neque est neque fuit neque futurum est"
+},
+{
+"id": "554",
+"label": "Plaut. Amph. 554",
+"text": "mihi praedicas."
+},
+{
+"id": "554b",
+"label": "Plaut. Amph. 554b",
+"text": "Eccere, iam tuatim"
+},
+{
+"id": "555",
+"label": "Plaut. Amph. 555",
+"text": "facis tu, ut tuis nulla apud te fides sit."
+},
+{
+"id": "556",
+"label": "Plaut. Amph. 556",
+"text": "Quid est? quo modo? iam quidem hercle ego tibi istam"
+},
+{
+"id": "557",
+"label": "Plaut. Amph. 557",
+"text": "scelestam, scelus, linguam abscidam."
+},
+{
+"id": "557b",
+"label": "Plaut. Amph. 557b",
+"text": "Tuos sum,"
+},
+{
+"id": "558",
+"label": "Plaut. Amph. 558",
+"text": "proinde ut commodumst et lubet quidque facias;"
+},
+{
+"id": "559",
+"label": "Plaut. Amph. 559",
+"text": "tamen quin loquar haec uti facta sunt hic,"
+},
+{
+"id": "560",
+"label": "Plaut. Amph. 560",
+"text": "numquam ullo modo me potes deterrere."
+},
+{
+"id": "561",
+"label": "Plaut. Amph. 561",
+"text": "Scelestissime, audes mihi praedicare id,"
+},
+{
+"id": "562",
+"label": "Plaut. Amph. 562",
+"text": "domi te esse nunc, qui hic ades?"
+},
+{
+"id": "562b",
+"label": "Plaut. Amph. 562b",
+"text": "Vera dico."
+},
+{
+"id": "563",
+"label": "Plaut. Amph. 563",
+"text": "Malum quod tibi di dabunt, atque ego hodie"
+},
+{
+"id": "564",
+"label": "Plaut. Amph. 564",
+"text": "dabo."
+},
+{
+"id": "564b",
+"label": "Plaut. Amph. 564b",
+"text": "Istuc tibist in manu, nam tuos sum."
+},
+{
+"id": "565",
+"label": "Plaut. Amph. 565",
+"text": "Tun me, verbero, audes erum ludificari?"
+},
+{
+"id": "566",
+"label": "Plaut. Amph. 566",
+"text": "tune id dicere audes, quod nemo umquam homo antehac"
+},
+{
+"id": "567",
+"label": "Plaut. Amph. 567",
+"text": "vidit nec potest fieri, tempore uno"
+},
+{
+"id": "568",
+"label": "Plaut. Amph. 568",
+"text": "homo idem duobus locis ut simul sit?"
+},
+{
+"id": "569",
+"label": "Plaut. Amph. 569",
+"text": "Profecto ut loquor res ita est."
+},
+{
+"id": "569b",
+"label": "Plaut. Amph. 569b",
+"text": "Iuppiter te"
+},
+{
+"id": "570",
+"label": "Plaut. Amph. 570",
+"text": "perdat."
+},
+{
+"id": "570b",
+"label": "Plaut. Amph. 570b",
+"text": "Quid mali súm, ere, tua ex re promeritus?"
+},
+{
+"id": "571",
+"label": "Plaut. Amph. 571",
+"text": "Rogasne, improbe, etiam, qui ludos facis me?"
+},
+{
+"id": "572",
+"label": "Plaut. Amph. 572",
+"text": "Meritó maledicás mihi, si id ita factum est.†"
+},
+{
+"id": "573",
+"label": "Plaut. Amph. 573",
+"text": "verum haud mentior, resque uti facta dico."
+},
+{
+"id": "574",
+"label": "Plaut. Amph. 574",
+"text": "Homo hic ébrius est, ut opínor."
+},
+{
+"id": "575",
+"label": "Plaut. Amph. 575",
+"text": "Útinam ita essem."
+},
+{
+"id": "575b",
+"label": "Plaut. Amph. 575b",
+"text": "Optás quae facta."
+},
+{
+"id": "575c",
+"label": "Plaut. Amph. 575c",
+"text": "Égone?"
+},
+{
+"id": "575d",
+"label": "Plaut. Amph. 575d",
+"text": "Tu istic. úbi bibisti?"
+},
+{
+"id": "576",
+"label": "Plaut. Amph. 576",
+"text": "Nusquam equidem bibi."
+},
+{
+"id": "576b",
+"label": "Plaut. Amph. 576b",
+"text": "Quid hoc sit hominis?"
+},
+{
+"id": "576c",
+"label": "Plaut. Amph. 576c",
+"text": "equidem decies dixi:"
+},
+{
+"id": "577",
+"label": "Plaut. Amph. 577",
+"text": "domi ego sum, inquam, écquid audis? et apud te adsum Sosia idem."
+},
+{
+"id": "578",
+"label": "Plaut. Amph. 578",
+"text": "satin hoc plane, satin diserte, ere, nunc videor"
+},
+{
+"id": "579",
+"label": "Plaut. Amph. 579",
+"text": "tibi locutus esse?"
+},
+{
+"id": "579b",
+"label": "Plaut. Amph. 579b",
+"text": "Vah,"
+},
+{
+"id": "580",
+"label": "Plaut. Amph. 580",
+"text": "ápage te a me."
+},
+{
+"id": "580b",
+"label": "Plaut. Amph. 580b",
+"text": "Quíd est negoti?"
+},
+{
+"id": "581",
+"label": "Plaut. Amph. 581",
+"text": "Péstis te tenet."
+},
+{
+"id": "581b",
+"label": "Plaut. Amph. 581b",
+"text": "Nám quor istuc"
+},
+{
+"id": "582",
+"label": "Plaut. Amph. 582",
+"text": "dicis? equidem valeo et salvos"
+},
+{
+"id": "583",
+"label": "Plaut. Amph. 583",
+"text": "sum recte, Amphitruo."
+},
+{
+"id": "583b",
+"label": "Plaut. Amph. 583b",
+"text": "At te ego faciam"
+},
+{
+"id": "584",
+"label": "Plaut. Amph. 584",
+"text": "hodie proinde ac meritus es,"
+},
+{
+"id": "584a",
+"label": "Plaut. Amph. 584a",
+"text": "ut minus valeas et miser sis,"
+},
+{
+"id": "584b",
+"label": "Plaut. Amph. 584b",
+"text": "salvos domum si rediero: iam"
+},
+{
+"id": "585a",
+"label": "Plaut. Amph. 585a",
+"text": "sequere sis, erum qui ludificas"
+},
+{
+"id": "585b",
+"label": "Plaut. Amph. 585b",
+"text": "dictis delirantibus,"
+},
+{
+"id": "586",
+"label": "Plaut. Amph. 586",
+"text": "qui quoniam erus quod imperavit neglexisti persequi,"
+},
+{
+"id": "587",
+"label": "Plaut. Amph. 587",
+"text": "nunc venis etiam ultro inrisum dominum: quae neque fieri"
+},
+{
+"id": "588",
+"label": "Plaut. Amph. 588",
+"text": "possunt neque fando umquam accepit quisquam profers, carnifex;"
+},
+{
+"id": "589",
+"label": "Plaut. Amph. 589",
+"text": "quoius ego hodie in tergum faxo ista expetant mendacia."
+},
+{
+"id": "590",
+"label": "Plaut. Amph. 590",
+"text": "Amphitruo, miserrima istaec miseria est servo bono,"
+},
+{
+"id": "591",
+"label": "Plaut. Amph. 591",
+"text": "apud erum qui vera loquitur, si id vi verum vincitur."
+},
+{
+"id": "592",
+"label": "Plaut. Amph. 592",
+"text": "Quo id, malum, pacto potest nam (mecum argumentis puta)"
+},
+{
+"id": "593",
+"label": "Plaut. Amph. 593",
+"text": "fieri, nunc uti tu et hic sis et domi? id dici volo."
+},
+{
+"id": "594",
+"label": "Plaut. Amph. 594",
+"text": "Sum profecto et hic et illíc. hoc cuivis mirari licet,"
+},
+{
+"id": "595",
+"label": "Plaut. Amph. 595",
+"text": "neque tibi istuc mirum mágis videtur quam mihi."
+},
+{
+"id": "596",
+"label": "Plaut. Amph. 596",
+"text": "Quo modo?"
+},
+{
+"id": "596b",
+"label": "Plaut. Amph. 596b",
+"text": "Nihilo, inquam, mirum magis tibi istuc quam mihi;"
+},
+{
+"id": "597",
+"label": "Plaut. Amph. 597",
+"text": "neque, ita me di ament, credebam primo mihimet Sosiae,"
+},
+{
+"id": "598",
+"label": "Plaut. Amph. 598",
+"text": "donec Sosia illic egomet fecit sibi uti crederem."
+},
+{
+"id": "599",
+"label": "Plaut. Amph. 599",
+"text": "ordine omne, uti quicque actum est, dúm apud hostis sedimus,"
+},
+{
+"id": "600",
+"label": "Plaut. Amph. 600",
+"text": "edissertavit. tum formam una abstulit cum nomine."
+},
+{
+"id": "601",
+"label": "Plaut. Amph. 601",
+"text": "neque lac lactis magis est simile quam ille ego similest mei."
+},
+{
+"id": "602",
+"label": "Plaut. Amph. 602",
+"text": "nam ut dudum ante lucem a portu me praemisisti domum—"
+},
+{
+"id": "603",
+"label": "Plaut. Amph. 603",
+"text": "Quid igitur?"
+},
+{
+"id": "603b",
+"label": "Plaut. Amph. 603b",
+"text": "Prius multo ante aedis stabam quam illo adveneram."
+},
+{
+"id": "604",
+"label": "Plaut. Amph. 604",
+"text": "Quas, malum, nugás? satin tu sanus es?"
+},
+{
+"id": "604b",
+"label": "Plaut. Amph. 604b",
+"text": "Sic sum ut vides."
+},
+{
+"id": "605",
+"label": "Plaut. Amph. 605",
+"text": "Huic homini nescio quid est mali mala obiectum manu,"
+},
+{
+"id": "606",
+"label": "Plaut. Amph. 606",
+"text": "postquam a me abiit."
+},
+{
+"id": "606b",
+"label": "Plaut. Amph. 606b",
+"text": "Fateor, nam sum obtusus pugnis pessume."
+},
+{
+"id": "607",
+"label": "Plaut. Amph. 607",
+"text": "Quis te verberavit?"
+},
+{
+"id": "607b",
+"label": "Plaut. Amph. 607b",
+"text": "Egomet memet, qui nunc sum domi."
+},
+{
+"id": "608",
+"label": "Plaut. Amph. 608",
+"text": "Cave quicquam, nisi quod rogabo te, mihi responderis."
+},
+{
+"id": "609",
+"label": "Plaut. Amph. 609",
+"text": "omnium primum iste qui sit Sosia, hoc dici volo."
+},
+{
+"id": "610",
+"label": "Plaut. Amph. 610",
+"text": "Tuos est servos."
+},
+{
+"id": "610b",
+"label": "Plaut. Amph. 610b",
+"text": "Mihi quidem uno te plus etiam est quam volo,"
+},
+{
+"id": "611",
+"label": "Plaut. Amph. 611",
+"text": "neque postquam sum natus habui nisi te servom Sosiam."
+},
+{
+"id": "612",
+"label": "Plaut. Amph. 612",
+"text": "At ego nunc, Amphitruo, dico: Sosiam servom tuom"
+},
+{
+"id": "613",
+"label": "Plaut. Amph. 613",
+"text": "praeter me alterum, inquam, adveniens faciam ut offendas domi,"
+},
+{
+"id": "614",
+"label": "Plaut. Amph. 614",
+"text": "Davo prognatum patre eodem quo égo sum, forma, aetate item"
+},
+{
+"id": "615",
+"label": "Plaut. Amph. 615",
+"text": "qua égo sum. quid opust verbis? geminus Sosia hic factust tibi."
+},
+{
+"id": "616",
+"label": "Plaut. Amph. 616",
+"text": "Nimia memoras mira. sed vidistin uxorem meam?"
+},
+{
+"id": "617",
+"label": "Plaut. Amph. 617",
+"text": "Quin intro ire in aedis numquam licitum est."
+},
+{
+"id": "617b",
+"label": "Plaut. Amph. 617b",
+"text": "Quis te prohibuit?"
+},
+{
+"id": "618",
+"label": "Plaut. Amph. 618",
+"text": "Sosia ille, quem iam dudum dico, is qui me contudit."
+},
+{
+"id": "619",
+"label": "Plaut. Amph. 619",
+"text": "Quis istic Sosia est?"
+},
+{
+"id": "619b",
+"label": "Plaut. Amph. 619b",
+"text": "Ego, inquam. quotiens dicendum est tibi?"
+},
+{
+"id": "620",
+"label": "Plaut. Amph. 620",
+"text": "Sed quid ais? num obdormivisti dudum?"
+},
+{
+"id": "620b",
+"label": "Plaut. Amph. 620b",
+"text": "Nusquam gentium."
+},
+{
+"id": "621",
+"label": "Plaut. Amph. 621",
+"text": "Ibi forte istum si vidisses quendam in somnis Sosiam—"
+},
+{
+"id": "622",
+"label": "Plaut. Amph. 622",
+"text": "Non soleo ego somniculose éri imperia persequi."
+},
+{
+"id": "623",
+"label": "Plaut. Amph. 623",
+"text": "vigilans vidi, vigilans nunc te video, vigilans fabulor,"
+},
+{
+"id": "624",
+"label": "Plaut. Amph. 624",
+"text": "vigilantem ille me iam dudum vigilans pugnis contudit."
+},
+{
+"id": "625",
+"label": "Plaut. Amph. 625",
+"text": "Quis homo?"
+},
+{
+"id": "625b",
+"label": "Plaut. Amph. 625b",
+"text": "Sosia, inquam, ego ille. quaeso, nonne intellegis?"
+},
+{
+"id": "626",
+"label": "Plaut. Amph. 626",
+"text": "Qui, malum, intellegere quisquam potis est? ita nugas blatis."
+},
+{
+"id": "627",
+"label": "Plaut. Amph. 627",
+"text": "Verum actutum nosces, quom illum nosces servom Sosiam."
+},
+{
+"id": "628",
+"label": "Plaut. Amph. 628",
+"text": "Sequere hac igitur me, nam mi istuc primum exquisito est opus."
+},
+{
+"id": "633",
+"label": "Plaut. Amph. 633",
+"text": "Satín parva rés est volúptatum in víta atque in aétate agúnda"
+},
+{
+"id": "634",
+"label": "Plaut. Amph. 634",
+"text": "praequám quod moléstum est? ita cuíque comparátum est in aétate hominum;"
+},
+{
+"id": "635",
+"label": "Plaut. Amph. 635",
+"text": "ita dívis est plácitum, volúptatem ut maéror comés consequátur:"
+},
+{
+"id": "636",
+"label": "Plaut. Amph. 636",
+"text": "quin íncommodí plus malíque ilico ádsit, boní si optigít quid."
+},
+{
+"id": "637",
+"label": "Plaut. Amph. 637",
+"text": "nam ego íd nunc expérior domo átque ipsa dé me sció, cui volúptas"
+},
+{
+"id": "638",
+"label": "Plaut. Amph. 638",
+"text": "parúmper datást, dum virí mei míhi potéstas vidéndi fuit"
+},
+{
+"id": "639",
+"label": "Plaut. Amph. 639",
+"text": "noctem únam modo; átque is repénte abiit á me hinc ánte lucem."
+},
+{
+"id": "640",
+"label": "Plaut. Amph. 640",
+"text": "sola híc mihi nunc vídeor, quia ílle hinc abést quem ego amó praeter omnes."
+},
+{
+"id": "641",
+"label": "Plaut. Amph. 641",
+"text": "plus aégri ex ábitu virí, quam ex advéntu volúptatis cépi. sed hóc me beát"
+},
+{
+"id": "642",
+"label": "Plaut. Amph. 642",
+"text": "saltém, quom perduéllis vicít et domúm laudis cómpos revénit:"
+},
+{
+"id": "643",
+"label": "Plaut. Amph. 643",
+"text": "id sólacio est."
+},
+{
+"id": "644",
+"label": "Plaut. Amph. 644",
+"text": "absít, dum modó laude párta"
+},
+{
+"id": "645",
+"label": "Plaut. Amph. 645",
+"text": "domúm recipiát se; feram ét perferam úsque"
+},
+{
+"id": "646",
+"label": "Plaut. Amph. 646",
+"text": "abitum éius ánimo forti átque offirmáto, id módo si mercédis"
+},
+{
+"id": "647",
+"label": "Plaut. Amph. 647",
+"text": "datúr mi, ut meús victor vír belli clúeat."
+},
+{
+"id": "648",
+"label": "Plaut. Amph. 648",
+"text": "satis mi esse ducam."
+},
+{
+"id": "648b",
+"label": "Plaut. Amph. 648b",
+"text": "virtús praemium ést optimúm;"
+},
+{
+"id": "649",
+"label": "Plaut. Amph. 649",
+"text": "virtús omnibús rebus ánteit profécto:"
+},
+{
+"id": "650",
+"label": "Plaut. Amph. 650",
+"text": "libértas salús vita rés et paréntes, patria ét prognáti"
+},
+{
+"id": "651",
+"label": "Plaut. Amph. 651",
+"text": "tutántur, servántur:"
+},
+{
+"id": "652",
+"label": "Plaut. Amph. 652",
+"text": "virtús omnia ín sese habét, omnia ádsunt"
+},
+{
+"id": "653",
+"label": "Plaut. Amph. 653",
+"text": "bona quém penest vírtus."
+},
+{
+"id": "654",
+"label": "Plaut. Amph. 654",
+"text": "Édepol me uxori éxoptatum crédo adventurúm domum,"
+},
+{
+"id": "655",
+"label": "Plaut. Amph. 655",
+"text": "quae me amat, quam contra amo, praesertim re gesta bene,"
+},
+{
+"id": "656",
+"label": "Plaut. Amph. 656",
+"text": "victis hostibus: quos nemo posse superari ratust,"
+},
+{
+"id": "657",
+"label": "Plaut. Amph. 657",
+"text": "eos auspicio meo atque ductu primo coetu vicimus."
+},
+{
+"id": "658",
+"label": "Plaut. Amph. 658",
+"text": "certe enim méd illi expectatum optato venturum scio."
+},
+{
+"id": "659",
+"label": "Plaut. Amph. 659",
+"text": "Quid? me non rere expectatum amicae venturum meae?"
+},
+{
+"id": "660",
+"label": "Plaut. Amph. 660",
+"text": "Meus vir hic quidem est."
+},
+{
+"id": "660b",
+"label": "Plaut. Amph. 660b",
+"text": "Séquere hac tu me."
+},
+{
+"id": "660c",
+"label": "Plaut. Amph. 660c",
+"text": "Nam quid ille revortitur"
+},
+{
+"id": "661",
+"label": "Plaut. Amph. 661",
+"text": "qui dudum properare se aibat? án ille me temptat sciens"
+},
+{
+"id": "662",
+"label": "Plaut. Amph. 662",
+"text": "atque id se volt experiri, suom abitum ut desiderem?"
+},
+{
+"id": "663",
+"label": "Plaut. Amph. 663",
+"text": "ecastor med haud invita se domum recipit suam."
+},
+{
+"id": "664",
+"label": "Plaut. Amph. 664",
+"text": "Amphitruo, redire ad navem meliust nos."
+},
+{
+"id": "664b",
+"label": "Plaut. Amph. 664b",
+"text": "Qua gratia?"
+},
+{
+"id": "665",
+"label": "Plaut. Amph. 665",
+"text": "Quia domi daturus nemo est prandium advenientibus."
+},
+{
+"id": "666",
+"label": "Plaut. Amph. 666",
+"text": "Qui tibi nunc istuc in mentemst?"
+},
+{
+"id": "666b",
+"label": "Plaut. Amph. 666b",
+"text": "Quia enim sero advenimus."
+},
+{
+"id": "667",
+"label": "Plaut. Amph. 667",
+"text": "Qui?"
+},
+{
+"id": "667b",
+"label": "Plaut. Amph. 667b",
+"text": "Quia Alcumenam ante aedis stare saturam intellego."
+},
+{
+"id": "668",
+"label": "Plaut. Amph. 668",
+"text": "Gravidam ego illanc hic reliqui quóm abeo."
+},
+{
+"id": "668b",
+"label": "Plaut. Amph. 668b",
+"text": "Ei perii miser."
+},
+{
+"id": "669",
+"label": "Plaut. Amph. 669",
+"text": "Quid tibi est?"
+},
+{
+"id": "669b",
+"label": "Plaut. Amph. 669b",
+"text": "Ad aquam praebendam commodum adveni domum,"
+},
+{
+"id": "670",
+"label": "Plaut. Amph. 670",
+"text": "decumo post mense, ut rationem te putare intellego."
+},
+{
+"id": "671",
+"label": "Plaut. Amph. 671",
+"text": "Bono animo es."
+},
+{
+"id": "671b",
+"label": "Plaut. Amph. 671b",
+"text": "Scin quam bono animo sim? si situlam cepero,"
+},
+{
+"id": "672",
+"label": "Plaut. Amph. 672",
+"text": "numquam edepol tu mihi divini creduis post hunc diem,"
+},
+{
+"id": "673",
+"label": "Plaut. Amph. 673",
+"text": "ní ego illi puteo, si occepso, ánimam omnem intertraxero."
+},
+{
+"id": "674",
+"label": "Plaut. Amph. 674",
+"text": "Sequere hac me modo; alium ego isti rei allegabo, ne time."
+},
+{
+"id": "675",
+"label": "Plaut. Amph. 675",
+"text": "Magis nunc me meum officium facere, si huic eam advorsum, arbitror."
+},
+{
+"id": "676",
+"label": "Plaut. Amph. 676",
+"text": "Amphitruo uxorem salutat laetus speratam suam,"
+},
+{
+"id": "677",
+"label": "Plaut. Amph. 677",
+"text": "quam omnium Thebis vir unam esse optimam diiudicat,"
+},
+{
+"id": "678",
+"label": "Plaut. Amph. 678",
+"text": "quamque adeo cives Thebani vero rumiferant probam."
+},
+{
+"id": "679",
+"label": "Plaut. Amph. 679",
+"text": "valuistin usque? exspectatun advenio?"
+},
+{
+"id": "679b",
+"label": "Plaut. Amph. 679b",
+"text": "Haud vidi magis."
+},
+{
+"id": "680",
+"label": "Plaut. Amph. 680",
+"text": "exspectatum eum salutat magis haud quicquam quam canem."
+},
+{
+"id": "681",
+"label": "Plaut. Amph. 681",
+"text": "Et quom te †gravidam et quom te pulchre plenam aspicio, gaudeo."
+},
+{
+"id": "682",
+"label": "Plaut. Amph. 682",
+"text": "Obsecro ecastor, quid tu me deridiculi gratia"
+},
+{
+"id": "683",
+"label": "Plaut. Amph. 683",
+"text": "sic salutas atque appellas, quasi dudum non videris"
+},
+{
+"id": "684",
+"label": "Plaut. Amph. 684",
+"text": "quasique nunc primum recipias te domum huc ex hostibus?"
+},
+{
+"id": "686",
+"label": "Plaut. Amph. 686",
+"text": "Immo equidem te nisi nunc hodie nusquam vidi gentium."
+},
+{
+"id": "687",
+"label": "Plaut. Amph. 687",
+"text": "Cur negas?"
+},
+{
+"id": "687b",
+"label": "Plaut. Amph. 687b",
+"text": "Quia vera didici dicere."
+},
+{
+"id": "687c",
+"label": "Plaut. Amph. 687c",
+"text": "Haud aequom facit"
+},
+{
+"id": "688",
+"label": "Plaut. Amph. 688",
+"text": "qui quod didicit id dediscit. an periclitamini"
+},
+{
+"id": "689",
+"label": "Plaut. Amph. 689",
+"text": "quid animi habeam? sed quid huc vos revortimini tam cito?"
+},
+{
+"id": "690",
+"label": "Plaut. Amph. 690",
+"text": "an te auspicium commoratum est an tempestas continet"
+},
+{
+"id": "691",
+"label": "Plaut. Amph. 691",
+"text": "qui non abiisti ad legiones, ita uti dudum dixeras?"
+},
+{
+"id": "692",
+"label": "Plaut. Amph. 692",
+"text": "Dudum? quam dudum istuc factum est?"
+},
+{
+"id": "692b",
+"label": "Plaut. Amph. 692b",
+"text": "Temptas. iam dudum, modo."
+},
+{
+"id": "693",
+"label": "Plaut. Amph. 693",
+"text": "Qui istuc potis est fieri, quaeso, ut dicis: iam dudum, modo?"
+},
+{
+"id": "694",
+"label": "Plaut. Amph. 694",
+"text": "Quid enim censes? te ut deludam contra lusorem meum,"
+},
+{
+"id": "695",
+"label": "Plaut. Amph. 695",
+"text": "qui nunc primum te advenisse dicas, modo qui hinc abieris."
+},
+{
+"id": "696",
+"label": "Plaut. Amph. 696",
+"text": "Haec quidem deliramenta loquitur."
+},
+{
+"id": "696b",
+"label": "Plaut. Amph. 696b",
+"text": "Paulisper mane,"
+},
+{
+"id": "697",
+"label": "Plaut. Amph. 697",
+"text": "dum edormiscat unum somnum."
+},
+{
+"id": "697b",
+"label": "Plaut. Amph. 697b",
+"text": "Quaene vigilans somniat?"
+},
+{
+"id": "698",
+"label": "Plaut. Amph. 698",
+"text": "Equidem ecastor vigilo, et vigilans id quod factum est fabulor."
+},
+{
+"id": "699",
+"label": "Plaut. Amph. 699",
+"text": "nam dudum ante lucem et istunc et te vidi."
+},
+{
+"id": "699b",
+"label": "Plaut. Amph. 699b",
+"text": "Quo in loco?"
+},
+{
+"id": "700",
+"label": "Plaut. Amph. 700",
+"text": "Hic in aedibús ubi tu habitas."
+},
+{
+"id": "700b",
+"label": "Plaut. Amph. 700b",
+"text": "Numquam factum est."
+},
+{
+"id": "700c",
+"label": "Plaut. Amph. 700c",
+"text": "Non taces?"
+},
+{
+"id": "701",
+"label": "Plaut. Amph. 701",
+"text": "quid si e portu navis huc nos dormientis detulit?"
+},
+{
+"id": "702",
+"label": "Plaut. Amph. 702",
+"text": "Etiam tu quoque adsentaris húic?"
+},
+{
+"id": "702b",
+"label": "Plaut. Amph. 702b",
+"text": "Quid vis fieri?"
+},
+{
+"id": "703",
+"label": "Plaut. Amph. 703",
+"text": "non tu scis? Bacchae bacchanti si velis advorsarier,"
+},
+{
+"id": "704",
+"label": "Plaut. Amph. 704",
+"text": "ex insana insaniorem facies, feriet saepius;"
+},
+{
+"id": "705",
+"label": "Plaut. Amph. 705",
+"text": "si obsequare, una resolvas plaga."
+},
+{
+"id": "705b",
+"label": "Plaut. Amph. 705b",
+"text": "At pol qui certa res"
+},
+{
+"id": "706",
+"label": "Plaut. Amph. 706",
+"text": "hanc est obiurgare, quae me hódie advenientem domum"
+},
+{
+"id": "707",
+"label": "Plaut. Amph. 707",
+"text": "noluerit salutare."
+},
+{
+"id": "707b",
+"label": "Plaut. Amph. 707b",
+"text": "Inritabis crabrones."
+},
+{
+"id": "707c",
+"label": "Plaut. Amph. 707c",
+"text": "Tace."
+},
+{
+"id": "708",
+"label": "Plaut. Amph. 708",
+"text": "Alcumena, unum rogare te volo."
+},
+{
+"id": "708b",
+"label": "Plaut. Amph. 708b",
+"text": "Quid vis roga."
+},
+{
+"id": "709",
+"label": "Plaut. Amph. 709",
+"text": "Num tibi aut stultitia accessit aut superat superbia?"
+},
+{
+"id": "710",
+"label": "Plaut. Amph. 710",
+"text": "Qui istuc in mentemst tibi ex me, mi vir, percontarier?"
+},
+{
+"id": "711",
+"label": "Plaut. Amph. 711",
+"text": "Quia salutare advenientem me solebas antidhac,"
+},
+{
+"id": "712",
+"label": "Plaut. Amph. 712",
+"text": "appellare, itidem ut pudicae suos viros quae sunt solent."
+},
+{
+"id": "713",
+"label": "Plaut. Amph. 713",
+"text": "eo more expertem te factam adveniens offendi domi."
+},
+{
+"id": "714",
+"label": "Plaut. Amph. 714",
+"text": "Ecastor equidem te certo heri advenientem ílico,"
+},
+{
+"id": "715",
+"label": "Plaut. Amph. 715",
+"text": "et salutavi et valuissesne usque exquisivi simul,"
+},
+{
+"id": "716",
+"label": "Plaut. Amph. 716",
+"text": "mi vir, et manum prehendi et osculum tetuli tibi."
+},
+{
+"id": "717",
+"label": "Plaut. Amph. 717",
+"text": "Tun heri hunc salutavisti?"
+},
+{
+"id": "717b",
+"label": "Plaut. Amph. 717b",
+"text": "Et te quoque etiam, Sosia."
+},
+{
+"id": "718",
+"label": "Plaut. Amph. 718",
+"text": "Amphitruo, speravi ego istam tibi parituram filium;"
+},
+{
+"id": "719",
+"label": "Plaut. Amph. 719",
+"text": "verum non est puero gravida."
+},
+{
+"id": "719b",
+"label": "Plaut. Amph. 719b",
+"text": "Quid igitur?"
+},
+{
+"id": "719c",
+"label": "Plaut. Amph. 719c",
+"text": "Insania."
+},
+{
+"id": "720",
+"label": "Plaut. Amph. 720",
+"text": "Equidem sana sum et deos quaeso, ut salva pariam filium."
+},
+{
+"id": "721",
+"label": "Plaut. Amph. 721",
+"text": "verum tu malum mágnum habebis, si hic suom officium facit:"
+},
+{
+"id": "722",
+"label": "Plaut. Amph. 722",
+"text": "ob istuc omen, ominator, capies quod te condecet."
+},
+{
+"id": "723",
+"label": "Plaut. Amph. 723",
+"text": "Enim vero praegnati oportet et malum et malum dari,"
+},
+{
+"id": "724",
+"label": "Plaut. Amph. 724",
+"text": "ut quod obrodat sit, animo si male esse occeperit."
+},
+{
+"id": "725",
+"label": "Plaut. Amph. 725",
+"text": "Tu me heri hic vidisti?"
+},
+{
+"id": "725b",
+"label": "Plaut. Amph. 725b",
+"text": "Ego, inquam, si vis decies dicere."
+},
+{
+"id": "726",
+"label": "Plaut. Amph. 726",
+"text": "In somnis fortasse."
+},
+{
+"id": "726b",
+"label": "Plaut. Amph. 726b",
+"text": "Immo vígilans vigilantem."
+},
+{
+"id": "726c",
+"label": "Plaut. Amph. 726c",
+"text": "Ei misero mihi."
+},
+{
+"id": "727",
+"label": "Plaut. Amph. 727",
+"text": "Quid tibi est?"
+},
+{
+"id": "727b",
+"label": "Plaut. Amph. 727b",
+"text": "Delirat uxor."
+},
+{
+"id": "727c",
+"label": "Plaut. Amph. 727c",
+"text": "Atra bili percita est."
+},
+{
+"id": "728",
+"label": "Plaut. Amph. 728",
+"text": "nulla res tam delirantis homines concinnat cito."
+},
+{
+"id": "729",
+"label": "Plaut. Amph. 729",
+"text": "Vbi primum tibi sensisti, mulier, impliciscier?"
+},
+{
+"id": "730",
+"label": "Plaut. Amph. 730",
+"text": "Equidem ecastor sana et salva sum."
+},
+{
+"id": "730b",
+"label": "Plaut. Amph. 730b",
+"text": "Quor igitur praedicas,"
+},
+{
+"id": "731",
+"label": "Plaut. Amph. 731",
+"text": "té heri me vidisse, qui hac noctu in portum advecti sumus?"
+},
+{
+"id": "732",
+"label": "Plaut. Amph. 732",
+"text": "ibi cenavi atque ibi quievi in navi noctem perpetem,"
+},
+{
+"id": "733",
+"label": "Plaut. Amph. 733",
+"text": "neque meum pedem huc íntuli etiam in aedis, ut cum exercitu"
+},
+{
+"id": "734",
+"label": "Plaut. Amph. 734",
+"text": "hinc profectus sum ad Teloboas hostis eosque ut vicimus."
+},
+{
+"id": "735",
+"label": "Plaut. Amph. 735",
+"text": "Immo mecum cenavisti et mecum cubuisti."
+},
+{
+"id": "735b",
+"label": "Plaut. Amph. 735b",
+"text": "Quid est?"
+},
+{
+"id": "736",
+"label": "Plaut. Amph. 736",
+"text": "Vera dico."
+},
+{
+"id": "736b",
+"label": "Plaut. Amph. 736b",
+"text": "Non de hac quidem hercle re; de áliis nescio."
+},
+{
+"id": "737",
+"label": "Plaut. Amph. 737",
+"text": "Primulo diluculo abiisti ad legiones."
+},
+{
+"id": "737b",
+"label": "Plaut. Amph. 737b",
+"text": "Quo modo?"
+},
+{
+"id": "738",
+"label": "Plaut. Amph. 738",
+"text": "Recte dicit, ut commeminit: somnium narrat tibi."
+},
+{
+"id": "739",
+"label": "Plaut. Amph. 739",
+"text": "sed, mulier, postquam experrecta es, te prodigiali Iovi"
+},
+{
+"id": "740",
+"label": "Plaut. Amph. 740",
+"text": "aut mola salsa hodie aut ture comprecatam oportuit."
+},
+{
+"id": "741",
+"label": "Plaut. Amph. 741",
+"text": "Vae capiti tuó."
+},
+{
+"id": "741b",
+"label": "Plaut. Amph. 741b",
+"text": "Tua istuc refert—si curaveris."
+},
+{
+"id": "742",
+"label": "Plaut. Amph. 742",
+"text": "Iterum iám hic in me inclementer dicit, atque id sine malo."
+},
+{
+"id": "743",
+"label": "Plaut. Amph. 743",
+"text": "Tace tu. tu dic: egone abs te abii hinc hodie cum diluculo?"
+},
+{
+"id": "744",
+"label": "Plaut. Amph. 744",
+"text": "Quis igitur nisi vos narravit mi, illi ut fuerit proelium?"
+},
+{
+"id": "745",
+"label": "Plaut. Amph. 745",
+"text": "An etiam id tu scis?"
+},
+{
+"id": "745b",
+"label": "Plaut. Amph. 745b",
+"text": "Quippe qui éx te audivi, ut urbem maximam"
+},
+{
+"id": "746",
+"label": "Plaut. Amph. 746",
+"text": "expugnavisses regemque Pterelam tute occideris."
+},
+{
+"id": "747",
+"label": "Plaut. Amph. 747",
+"text": "Egone istuc dixi?"
+},
+{
+"id": "747b",
+"label": "Plaut. Amph. 747b",
+"text": "Tute istic, etiam adstante hoc Sosia."
+},
+{
+"id": "748",
+"label": "Plaut. Amph. 748",
+"text": "Audivistin tu me narrare haec hodie?"
+},
+{
+"id": "748b",
+"label": "Plaut. Amph. 748b",
+"text": "Vbi ego audiverim?"
+},
+{
+"id": "749",
+"label": "Plaut. Amph. 749",
+"text": "Hanc roga."
+},
+{
+"id": "749b",
+"label": "Plaut. Amph. 749b",
+"text": "Me quidem praesente numquam factum est, quod sciam."
+},
+{
+"id": "750",
+"label": "Plaut. Amph. 750",
+"text": "Mirum quin te adversus dicat."
+},
+{
+"id": "750b",
+"label": "Plaut. Amph. 750b",
+"text": "Sosia, age me huc aspice."
+},
+{
+"id": "751",
+"label": "Plaut. Amph. 751",
+"text": "Specto."
+},
+{
+"id": "751b",
+"label": "Plaut. Amph. 751b",
+"text": "Vera volo loqui te, nolo adsentari mihi."
+},
+{
+"id": "752",
+"label": "Plaut. Amph. 752",
+"text": "audivistin tu hodie me illi dicere ea quae illa autumat?"
+},
+{
+"id": "753",
+"label": "Plaut. Amph. 753",
+"text": "Quaeso edepol, num tu quoque etiam insanis, quom id me interrogas,"
+},
+{
+"id": "754",
+"label": "Plaut. Amph. 754",
+"text": "qui ipsus equidem nunc primum istanc tecum conspicio simul?"
+},
+{
+"id": "755",
+"label": "Plaut. Amph. 755",
+"text": "Quid nunc, mulier? audin illum?"
+},
+{
+"id": "755b",
+"label": "Plaut. Amph. 755b",
+"text": "Ego véro, ac falsum dicere."
+},
+{
+"id": "756",
+"label": "Plaut. Amph. 756",
+"text": "Neque tu illi neque mihi viro ipsi credis?"
+},
+{
+"id": "756b",
+"label": "Plaut. Amph. 756b",
+"text": "Eo fit quia mihi"
+},
+{
+"id": "757",
+"label": "Plaut. Amph. 757",
+"text": "plurimum credo et scio istaec facta proinde ut proloquor."
+},
+{
+"id": "758",
+"label": "Plaut. Amph. 758",
+"text": "Tun me heri advenisse dicis?"
+},
+{
+"id": "758b",
+"label": "Plaut. Amph. 758b",
+"text": "Tun te abiisse hodie hinc negas?"
+},
+{
+"id": "759",
+"label": "Plaut. Amph. 759",
+"text": "Nego enim vero, et me advenire nunc primum aio ad te domum."
+},
+{
+"id": "760",
+"label": "Plaut. Amph. 760",
+"text": "Obsecro, etiamne hoc negabis, te auream pateram mihi"
+},
+{
+"id": "761",
+"label": "Plaut. Amph. 761",
+"text": "dédisse dono hodié, qua te illi donatum esse dixeras?"
+},
+{
+"id": "762",
+"label": "Plaut. Amph. 762",
+"text": "Neque edepol dedi neque dixi; verum ita animatus fui"
+},
+{
+"id": "763",
+"label": "Plaut. Amph. 763",
+"text": "itaque nunc sum, ut ea te patera donem. sed quis istúc tibi"
+},
+{
+"id": "764",
+"label": "Plaut. Amph. 764",
+"text": "dixit?"
+},
+{
+"id": "764b",
+"label": "Plaut. Amph. 764b",
+"text": "Ego equidem ex te audivi et ex tua accepi manu"
+},
+{
+"id": "765",
+"label": "Plaut. Amph. 765",
+"text": "pateram."
+},
+{
+"id": "765b",
+"label": "Plaut. Amph. 765b",
+"text": "Mane, mane, obsecro te. nimis demiror, Sosia,"
+},
+{
+"id": "766",
+"label": "Plaut. Amph. 766",
+"text": "qui illaec illic me donatum esse aurea patera sciat,"
+},
+{
+"id": "767",
+"label": "Plaut. Amph. 767",
+"text": "nisi tu dudum hanc convenisti et narravisti haec omnia."
+},
+{
+"id": "768",
+"label": "Plaut. Amph. 768",
+"text": "Neque edepol ego dixi neque istam vidi nisi tecum simul."
+},
+{
+"id": "769",
+"label": "Plaut. Amph. 769",
+"text": "Quid hoc sit hominis?"
+},
+{
+"id": "769b",
+"label": "Plaut. Amph. 769b",
+"text": "Vin proferri pateram?"
+},
+{
+"id": "769c",
+"label": "Plaut. Amph. 769c",
+"text": "Proferri volo."
+},
+{
+"id": "770",
+"label": "Plaut. Amph. 770",
+"text": "Fiat. heus tu, Thessala, intus pateram proferto foras,"
+},
+{
+"id": "771",
+"label": "Plaut. Amph. 771",
+"text": "qua hódie meus vir donavit me."
+},
+{
+"id": "771b",
+"label": "Plaut. Amph. 771b",
+"text": "Secede huc tu, Sosia,"
+},
+{
+"id": "772",
+"label": "Plaut. Amph. 772",
+"text": "enim vero illud praeter alia mira miror maxime,"
+},
+{
+"id": "773",
+"label": "Plaut. Amph. 773",
+"text": "si haec habet páteram illam."
+},
+{
+"id": "773b",
+"label": "Plaut. Amph. 773b",
+"text": "An etiam credis id, quae in hac cistellula"
+},
+{
+"id": "774",
+"label": "Plaut. Amph. 774",
+"text": "tuo signo obsignata fertur?"
+},
+{
+"id": "774b",
+"label": "Plaut. Amph. 774b",
+"text": "Salvom signum est?"
+},
+{
+"id": "774c",
+"label": "Plaut. Amph. 774c",
+"text": "Inspice."
+},
+{
+"id": "775",
+"label": "Plaut. Amph. 775",
+"text": "Recte, ita est ut obsignavi."
+},
+{
+"id": "775b",
+"label": "Plaut. Amph. 775b",
+"text": "Quaeso, quin tu istanc iubes"
+},
+{
+"id": "776",
+"label": "Plaut. Amph. 776",
+"text": "pro cerrita circumferri?"
+},
+{
+"id": "776b",
+"label": "Plaut. Amph. 776b",
+"text": "Edepol qui facto est opus;"
+},
+{
+"id": "777",
+"label": "Plaut. Amph. 777",
+"text": "nam haec quidem edepol laruarum plenast."
+},
+{
+"id": "777b",
+"label": "Plaut. Amph. 777b",
+"text": "Quid verbis opust?"
+},
+{
+"id": "778",
+"label": "Plaut. Amph. 778",
+"text": "em tibi pateram, eccam."
+},
+{
+"id": "778b",
+"label": "Plaut. Amph. 778b",
+"text": "Cedo mi."
+},
+{
+"id": "778c",
+"label": "Plaut. Amph. 778c",
+"text": "Age aspice huc sis nunciam"
+},
+{
+"id": "779",
+"label": "Plaut. Amph. 779",
+"text": "tu qui quae facta infitiare; quem égo iam hic convincam palam."
+},
+{
+"id": "780",
+"label": "Plaut. Amph. 780",
+"text": "estne haec patera, qua donatu's donatus es illi?"
+},
+{
+"id": "780b",
+"label": "Plaut. Amph. 780b",
+"text": "Summe Iuppiter,"
+},
+{
+"id": "781",
+"label": "Plaut. Amph. 781",
+"text": "quid ego video? haec ea est profecto patera. perii, Sosia."
+},
+{
+"id": "782",
+"label": "Plaut. Amph. 782",
+"text": "Aut pol haec praestigiatrix multo mulier maxima est"
+},
+{
+"id": "783",
+"label": "Plaut. Amph. 783",
+"text": "aut pateram hic inesse oportet."
+},
+{
+"id": "783b",
+"label": "Plaut. Amph. 783b",
+"text": "Agedum, exsolve cistulam."
+},
+{
+"id": "784",
+"label": "Plaut. Amph. 784",
+"text": "Quid ego istam exsolvam? obsignatast recte, res gesta est bene:"
+},
+{
+"id": "785",
+"label": "Plaut. Amph. 785",
+"text": "tu peperisti Ámphitruonem, ego alium peperi Sosiam;"
+},
+{
+"id": "786",
+"label": "Plaut. Amph. 786",
+"text": "nunc si patera pateram peperit, omnes congeminavimus."
+},
+{
+"id": "787",
+"label": "Plaut. Amph. 787",
+"text": "Certum est aperire atque inspicere."
+},
+{
+"id": "787b",
+"label": "Plaut. Amph. 787b",
+"text": "Vide sis signi quid siet,"
+},
+{
+"id": "788",
+"label": "Plaut. Amph. 788",
+"text": "ne posterius in me culpam conferas."
+},
+{
+"id": "788b",
+"label": "Plaut. Amph. 788b",
+"text": "Aperi modo;"
+},
+{
+"id": "789",
+"label": "Plaut. Amph. 789",
+"text": "nam haec quidem nos delirantis facere dictis postulat."
+},
+{
+"id": "790",
+"label": "Plaut. Amph. 790",
+"text": "Vnde haec igitur est nisi abs te quae mihi dono data est?"
+},
+{
+"id": "791",
+"label": "Plaut. Amph. 791",
+"text": "Opus mi est istuc exquisito."
+},
+{
+"id": "791b",
+"label": "Plaut. Amph. 791b",
+"text": "Iuppiter, pro Iuppiter."
+},
+{
+"id": "792",
+"label": "Plaut. Amph. 792",
+"text": "Quid tibi est?"
+},
+{
+"id": "792b",
+"label": "Plaut. Amph. 792b",
+"text": "Hic patera nulla in cistulast."
+},
+{
+"id": "792c",
+"label": "Plaut. Amph. 792c",
+"text": "Quid ego audio?"
+},
+{
+"id": "793",
+"label": "Plaut. Amph. 793",
+"text": "Id quod verúmst."
+},
+{
+"id": "793b",
+"label": "Plaut. Amph. 793b",
+"text": "At cum cruciatu iam, nisi apparet, tuo."
+},
+{
+"id": "794",
+"label": "Plaut. Amph. 794",
+"text": "Haec quidem apparet."
+},
+{
+"id": "794b",
+"label": "Plaut. Amph. 794b",
+"text": "Quis igitur tibi dedit?"
+},
+{
+"id": "794c",
+"label": "Plaut. Amph. 794c",
+"text": "Qui me rogat."
+},
+{
+"id": "795",
+"label": "Plaut. Amph. 795",
+"text": "Me captas, quia tute ab navi clanculum huc alia via"
+},
+{
+"id": "796",
+"label": "Plaut. Amph. 796",
+"text": "praecucurristi, atque hinc pateram tute exemisti atque eam"
+},
+{
+"id": "797",
+"label": "Plaut. Amph. 797",
+"text": "huic dedisti, post hanc rursum óbsignasti clanculum."
+},
+{
+"id": "798",
+"label": "Plaut. Amph. 798",
+"text": "Ei mihi, iam tu quoque huius adiuvas insaniam?"
+},
+{
+"id": "799",
+"label": "Plaut. Amph. 799",
+"text": "ain heri nos advenisse huc?"
+},
+{
+"id": "799b",
+"label": "Plaut. Amph. 799b",
+"text": "Aio, adveniensque ilico"
+},
+{
+"id": "800",
+"label": "Plaut. Amph. 800",
+"text": "me salutavisti, et ego te, et osculum tetuli tibi."
+},
+{
+"id": "801",
+"label": "Plaut. Amph. 801",
+"text": "Iam illud non placet principium de osculo."
+},
+{
+"id": "801b",
+"label": "Plaut. Amph. 801b",
+"text": "Perge exsequi."
+},
+{
+"id": "802",
+"label": "Plaut. Amph. 802",
+"text": "Lavisti."
+},
+{
+"id": "802b",
+"label": "Plaut. Amph. 802b",
+"text": "Quid postquam lavi?"
+},
+{
+"id": "802c",
+"label": "Plaut. Amph. 802c",
+"text": "Accubuisti."
+},
+{
+"id": "802d",
+"label": "Plaut. Amph. 802d",
+"text": "Euge optime."
+},
+{
+"id": "803",
+"label": "Plaut. Amph. 803",
+"text": "nunc exquire."
+},
+{
+"id": "803b",
+"label": "Plaut. Amph. 803b",
+"text": "Ne interpella. perge porro dicere."
+},
+{
+"id": "804",
+"label": "Plaut. Amph. 804",
+"text": "Cena adposita est; cenavisti mecum, ego accubui simul."
+},
+{
+"id": "805",
+"label": "Plaut. Amph. 805",
+"text": "In eodem lectó?"
+},
+{
+"id": "805b",
+"label": "Plaut. Amph. 805b",
+"text": "In eodem."
+},
+{
+"id": "805c",
+"label": "Plaut. Amph. 805c",
+"text": "Ei, non placet convivium."
+},
+{
+"id": "806",
+"label": "Plaut. Amph. 806",
+"text": "Sine modo argumenta dicat. quid postquam cenavimus?"
+},
+{
+"id": "807",
+"label": "Plaut. Amph. 807",
+"text": "Te dormitare aibas; mensa ablata est, cubitum hinc abiimus."
+},
+{
+"id": "808",
+"label": "Plaut. Amph. 808",
+"text": "Vbi tu cubuisti?"
+},
+{
+"id": "808b",
+"label": "Plaut. Amph. 808b",
+"text": "In eodem lectó tecum una in cubiculo."
+},
+{
+"id": "809",
+"label": "Plaut. Amph. 809",
+"text": "Perdidisti."
+},
+{
+"id": "809b",
+"label": "Plaut. Amph. 809b",
+"text": "Quid tibi est?"
+},
+{
+"id": "809c",
+"label": "Plaut. Amph. 809c",
+"text": "Haec me modo ad mortem dedit."
+},
+{
+"id": "810",
+"label": "Plaut. Amph. 810",
+"text": "Quid iam, amabo?"
+},
+{
+"id": "810b",
+"label": "Plaut. Amph. 810b",
+"text": "Ne me appella."
+},
+{
+"id": "810c",
+"label": "Plaut. Amph. 810c",
+"text": "Quid tibi est?"
+},
+{
+"id": "810d",
+"label": "Plaut. Amph. 810d",
+"text": "Perii miser,"
+},
+{
+"id": "811",
+"label": "Plaut. Amph. 811",
+"text": "quia pudicitiae huius vitium me hinc absente est additum."
+},
+{
+"id": "812",
+"label": "Plaut. Amph. 812",
+"text": "Obsecro ecastor, cur istuc, mi vir, ex ted audio?"
+},
+{
+"id": "813",
+"label": "Plaut. Amph. 813",
+"text": "Vir ego tuos sim? ne me appella, falsa, falso nomine."
+},
+{
+"id": "814",
+"label": "Plaut. Amph. 814",
+"text": "Haeret haec res, si quidem haec iam mulier facta est ex viro."
+},
+{
+"id": "815",
+"label": "Plaut. Amph. 815",
+"text": "Quid ego feci, qua istaec propter dicta dicantur mihi?"
+},
+{
+"id": "816",
+"label": "Plaut. Amph. 816",
+"text": "Tute edictas facta tua, ex me quaeris quid deliqueris."
+},
+{
+"id": "817",
+"label": "Plaut. Amph. 817",
+"text": "Quid ego tibi deliqui, si, cui nupta sum, tecum fui?"
+},
+{
+"id": "818",
+"label": "Plaut. Amph. 818",
+"text": "Tun mecum fueris? quid illac impudente audacius?"
+},
+{
+"id": "819",
+"label": "Plaut. Amph. 819",
+"text": "saltem, tute si pudoris egeas, sumas mutuom."
+},
+{
+"id": "820",
+"label": "Plaut. Amph. 820",
+"text": "Istuc facinus, quod tu insimulas, nostro generi non decet."
+},
+{
+"id": "821",
+"label": "Plaut. Amph. 821",
+"text": "tu si me inpudicitiai captas, capere non potes."
+},
+{
+"id": "822",
+"label": "Plaut. Amph. 822",
+"text": "Pro di immortales, cognoscin tu me saltem, Sosia?"
+},
+{
+"id": "823",
+"label": "Plaut. Amph. 823",
+"text": "Propemodum."
+},
+{
+"id": "823b",
+"label": "Plaut. Amph. 823b",
+"text": "Cenavin ego heri in navi in portu Persico?"
+},
+{
+"id": "824",
+"label": "Plaut. Amph. 824",
+"text": "Mihi quoque adsunt testes, qui illud quod ego dicam adsentiant."
+},
+{
+"id": "825",
+"label": "Plaut. Amph. 825",
+"text": "Nescio quid istúc negoti dicam, nisi si quispiam est"
+},
+{
+"id": "826",
+"label": "Plaut. Amph. 826",
+"text": "Amphitruó alius, qui forte ted hinc absenti tamen"
+},
+{
+"id": "827",
+"label": "Plaut. Amph. 827",
+"text": "tuam rem curet teque absente hic munus fungatur tuom."
+},
+{
+"id": "828",
+"label": "Plaut. Amph. 828",
+"text": "nam quod de illo subditivo Sosia mirum nimis,"
+},
+{
+"id": "829",
+"label": "Plaut. Amph. 829",
+"text": "certe de istoc Amphitruone iam alterum mirum est magis."
+},
+{
+"id": "830",
+"label": "Plaut. Amph. 830",
+"text": "Nescio quis praestigiator hanc frustratur mulierem."
+},
+{
+"id": "831",
+"label": "Plaut. Amph. 831",
+"text": "Per supremi regis regnum iuro et matrem familias"
+},
+{
+"id": "832",
+"label": "Plaut. Amph. 832",
+"text": "Iunonem, quam me vereri et metuere est par maxume,"
+},
+{
+"id": "833",
+"label": "Plaut. Amph. 833",
+"text": "ut mi extra unum te mortalis nemo corpus corpore"
+},
+{
+"id": "834",
+"label": "Plaut. Amph. 834",
+"text": "contigit, quo me impudicam faceret."
+},
+{
+"id": "834b",
+"label": "Plaut. Amph. 834b",
+"text": "Vera istaec velim."
+},
+{
+"id": "835",
+"label": "Plaut. Amph. 835",
+"text": "Vera dico, sed nequiquam, quoniam non vis credere."
+},
+{
+"id": "836",
+"label": "Plaut. Amph. 836",
+"text": "Mulier es, audacter iuras."
+},
+{
+"id": "836b",
+"label": "Plaut. Amph. 836b",
+"text": "Quae non deliquit, decet"
+},
+{
+"id": "837",
+"label": "Plaut. Amph. 837",
+"text": "audacem esse, confidenter pro se et proterve loqui."
+},
+{
+"id": "838",
+"label": "Plaut. Amph. 838",
+"text": "Satis audacter."
+},
+{
+"id": "838b",
+"label": "Plaut. Amph. 838b",
+"text": "Vt pudicam decet."
+},
+{
+"id": "838c",
+"label": "Plaut. Amph. 838c",
+"text": "†In verbis probas."
+},
+{
+"id": "839",
+"label": "Plaut. Amph. 839",
+"text": "Non ego illam mihi dotem duco esse, quae dos dicitur,"
+},
+{
+"id": "840",
+"label": "Plaut. Amph. 840",
+"text": "sed pudicitiam et pudorem et sedatum cupidinem,"
+},
+{
+"id": "841",
+"label": "Plaut. Amph. 841",
+"text": "deum metum, parentum amorem et cognatum concordiam,"
+},
+{
+"id": "842",
+"label": "Plaut. Amph. 842",
+"text": "tibi morigera atque ut munifica sim bonis, prosim probis."
+},
+{
+"id": "843",
+"label": "Plaut. Amph. 843",
+"text": "Ne ista edepol, si haec vera loquitur, examussim est optima."
+},
+{
+"id": "844",
+"label": "Plaut. Amph. 844",
+"text": "Delenitus sum profecto ita, ut me qui sim nesciam."
+},
+{
+"id": "845",
+"label": "Plaut. Amph. 845",
+"text": "Amphitruo es profecto, cave sis ne tu te usu perduis:"
+},
+{
+"id": "846",
+"label": "Plaut. Amph. 846",
+"text": "ita nunc homines immutantur, postquam peregre advenimus."
+},
+{
+"id": "847",
+"label": "Plaut. Amph. 847",
+"text": "Mulier, istam rem inquisitam certum est non amittere."
+},
+{
+"id": "848",
+"label": "Plaut. Amph. 848",
+"text": "Edepol me libente facies."
+},
+{
+"id": "848b",
+"label": "Plaut. Amph. 848b",
+"text": "Quid ais? responde mihi,"
+},
+{
+"id": "849",
+"label": "Plaut. Amph. 849",
+"text": "quid si adduco tuom cognatum húc a navi Naucratem,"
+},
+{
+"id": "850",
+"label": "Plaut. Amph. 850",
+"text": "qui mecum una vectust una navi, atque is si denegat"
+},
+{
+"id": "851",
+"label": "Plaut. Amph. 851",
+"text": "facta quae tu facta dicis, quid tibi aequom est fieri?"
+},
+{
+"id": "852",
+"label": "Plaut. Amph. 852",
+"text": "numquid causam dicis, quin te hoc multem matrimonio?"
+},
+{
+"id": "853",
+"label": "Plaut. Amph. 853",
+"text": "Si deliqui, nulla causa est."
+},
+{
+"id": "853b",
+"label": "Plaut. Amph. 853b",
+"text": "Convenit. tu, Sosia,"
+},
+{
+"id": "854",
+"label": "Plaut. Amph. 854",
+"text": "duc hos intro. ego huc ab navi mecum adducam Naucratem.—"
+},
+{
+"id": "855",
+"label": "Plaut. Amph. 855",
+"text": "Nunc quidem praeter nos nemo est. dic mihi verum serio:"
+},
+{
+"id": "856",
+"label": "Plaut. Amph. 856",
+"text": "ecquis alius Sosia intust, qui mei similis siet?"
+},
+{
+"id": "857",
+"label": "Plaut. Amph. 857",
+"text": "Abin hinc a me dignus domino servos?"
+},
+{
+"id": "857b",
+"label": "Plaut. Amph. 857b",
+"text": "Abeo, si iubes.—"
+},
+{
+"id": "858",
+"label": "Plaut. Amph. 858",
+"text": "Nimis ecastor facinus mirum est, qui illi conlibitum siet"
+},
+{
+"id": "859",
+"label": "Plaut. Amph. 859",
+"text": "meo viro sic me insimulare falso facinus tam malum."
+},
+{
+"id": "860",
+"label": "Plaut. Amph. 860",
+"text": "quidquid est, iam ex Naucrate cognato id cognoscam meo.—"
+},
+{
+"id": "861",
+"label": "Plaut. Amph. 861",
+"text": "Ego sum ille Amphitruo, cui est servos Sosia,"
+},
+{
+"id": "862",
+"label": "Plaut. Amph. 862",
+"text": "idem Mercurius qui fit, quando commodumst,"
+},
+{
+"id": "863",
+"label": "Plaut. Amph. 863",
+"text": "in superiore quí habito cenaculo,"
+},
+{
+"id": "864",
+"label": "Plaut. Amph. 864",
+"text": "qui interdum fio Iuppiter, quando lubet;"
+},
+{
+"id": "865",
+"label": "Plaut. Amph. 865",
+"text": "huc autem quom extemplo adventum adporto, ilico"
+},
+{
+"id": "866",
+"label": "Plaut. Amph. 866",
+"text": "Amphitruo fio et vestitum immuto meum."
+},
+{
+"id": "867",
+"label": "Plaut. Amph. 867",
+"text": "nunc huc honoris vostri venio gratia,"
+},
+{
+"id": "868",
+"label": "Plaut. Amph. 868",
+"text": "ne hanc incohatam transigam comoediam;"
+},
+{
+"id": "869",
+"label": "Plaut. Amph. 869",
+"text": "simul Alcumenae, quam vir insontem probri"
+},
+{
+"id": "870",
+"label": "Plaut. Amph. 870",
+"text": "Amphitruo accusat, veni ut auxilium feram:"
+},
+{
+"id": "871",
+"label": "Plaut. Amph. 871",
+"text": "nam mea sit culpa, quod egomet contraxerim,"
+},
+{
+"id": "872",
+"label": "Plaut. Amph. 872",
+"text": "si id Alcumenae innocenti expetat."
+},
+{
+"id": "873",
+"label": "Plaut. Amph. 873",
+"text": "nunc Amphitruonem memet, út occepi semel,"
+},
+{
+"id": "874",
+"label": "Plaut. Amph. 874",
+"text": "esse adsimulabo, atque in horum familiam"
+},
+{
+"id": "875",
+"label": "Plaut. Amph. 875",
+"text": "frustrationem hodie iniciam maxumam;"
+},
+{
+"id": "876",
+"label": "Plaut. Amph. 876",
+"text": "post igitur demum faciam res fiat palam"
+},
+{
+"id": "877",
+"label": "Plaut. Amph. 877",
+"text": "atque Alcumenae in tempore auxilium feram"
+},
+{
+"id": "878",
+"label": "Plaut. Amph. 878",
+"text": "faciamque ut uno fetu et quod gravida est viro"
+},
+{
+"id": "879",
+"label": "Plaut. Amph. 879",
+"text": "et me quod gravidast pariat sine doloribus."
+},
+{
+"id": "880",
+"label": "Plaut. Amph. 880",
+"text": "Mercurium iussi me continuo consequi,"
+},
+{
+"id": "881",
+"label": "Plaut. Amph. 881",
+"text": "si quid vellem imperare. nunc hanc adloquar."
+},
+{
+"id": "882",
+"label": "Plaut. Amph. 882",
+"text": "Durare nequeo in aedibus. ita me probri,"
+},
+{
+"id": "883",
+"label": "Plaut. Amph. 883",
+"text": "stupri, dedecoris a viro argutam meo!"
+},
+{
+"id": "884",
+"label": "Plaut. Amph. 884",
+"text": "ea quae sunt facta infecta ut reddat clamitat,"
+},
+{
+"id": "885",
+"label": "Plaut. Amph. 885",
+"text": "quae neque sunt facta neque ego in me admisi arguit;"
+},
+{
+"id": "886",
+"label": "Plaut. Amph. 886",
+"text": "atque id me susque deque esse habituram putat."
+},
+{
+"id": "887",
+"label": "Plaut. Amph. 887",
+"text": "non edepol faciam, neque me perpetiar probri"
+},
+{
+"id": "888",
+"label": "Plaut. Amph. 888",
+"text": "falso insimulatam, quin ego illum aut deseram"
+},
+{
+"id": "889",
+"label": "Plaut. Amph. 889",
+"text": "aut sátis faciat mi ille átque adiuret insuper,"
+},
+{
+"id": "890",
+"label": "Plaut. Amph. 890",
+"text": "nolle esse dicta quae in me insontem protulit."
+},
+{
+"id": "891",
+"label": "Plaut. Amph. 891",
+"text": "Faciundum est mi illud, fieri quód illaec postulat,"
+},
+{
+"id": "892",
+"label": "Plaut. Amph. 892",
+"text": "si me illam amantem ad sese studeam recipere,"
+},
+{
+"id": "893",
+"label": "Plaut. Amph. 893",
+"text": "quando ego quod feci, id factum Amphitruoni offuit"
+},
+{
+"id": "894",
+"label": "Plaut. Amph. 894",
+"text": "atque illi dudum meus amor negotium"
+},
+{
+"id": "895",
+"label": "Plaut. Amph. 895",
+"text": "insonti exhibuit, nunc autem insonti mihi"
+},
+{
+"id": "896",
+"label": "Plaut. Amph. 896",
+"text": "illius ira in hanc et male dicta expetent."
+},
+{
+"id": "897",
+"label": "Plaut. Amph. 897",
+"text": "Sed eccum video qui me miseram arguit"
+},
+{
+"id": "898",
+"label": "Plaut. Amph. 898",
+"text": "stupri, dedecoris."
+},
+{
+"id": "898b",
+"label": "Plaut. Amph. 898b",
+"text": "Te volo, uxor, conloqui."
+},
+{
+"id": "899",
+"label": "Plaut. Amph. 899",
+"text": "quo te avortisti?"
+},
+{
+"id": "899b",
+"label": "Plaut. Amph. 899b",
+"text": "Ita ingenium meumst:"
+},
+{
+"id": "900",
+"label": "Plaut. Amph. 900",
+"text": "inimicos semper osa sum optuerier."
+},
+{
+"id": "901",
+"label": "Plaut. Amph. 901",
+"text": "Heia autem inimicos?"
+},
+{
+"id": "901b",
+"label": "Plaut. Amph. 901b",
+"text": "Sic est, vera praedico;"
+},
+{
+"id": "902",
+"label": "Plaut. Amph. 902",
+"text": "nisi etiam hoc falso dici insimulaturus es."
+},
+{
+"id": "903",
+"label": "Plaut. Amph. 903",
+"text": "Nimis iracunda es."
+},
+{
+"id": "903b",
+"label": "Plaut. Amph. 903b",
+"text": "Potin ut abstineas manum?"
+},
+{
+"id": "904",
+"label": "Plaut. Amph. 904",
+"text": "nam certo, si sis sanus aut sapias satis,"
+},
+{
+"id": "905",
+"label": "Plaut. Amph. 905",
+"text": "quam tu impudicam esse arbitrere et praedices,"
+},
+{
+"id": "906",
+"label": "Plaut. Amph. 906",
+"text": "cum ea tú sermonem nec ioco nec serio"
+},
+{
+"id": "907",
+"label": "Plaut. Amph. 907",
+"text": "tibi habeas, nisi sis stultior stultissimo."
+},
+{
+"id": "908",
+"label": "Plaut. Amph. 908",
+"text": "Si dixi, nihilo magis es, neque ego esse arbitror,"
+},
+{
+"id": "909",
+"label": "Plaut. Amph. 909",
+"text": "et id huc revorti uti me purgarem tibi."
+},
+{
+"id": "910",
+"label": "Plaut. Amph. 910",
+"text": "nam numquam quicquam meo animo fuit aegrius,"
+},
+{
+"id": "911",
+"label": "Plaut. Amph. 911",
+"text": "quam postquam audivi ted esse iratam mihi."
+},
+{
+"id": "912",
+"label": "Plaut. Amph. 912",
+"text": "cur dixisti? inquies. ego expediam tibi."
+},
+{
+"id": "913",
+"label": "Plaut. Amph. 913",
+"text": "non edepol quo te esse impudicam crederem;"
+},
+{
+"id": "914",
+"label": "Plaut. Amph. 914",
+"text": "verum periclitatus súm animum tuom,"
+},
+{
+"id": "915",
+"label": "Plaut. Amph. 915",
+"text": "quid faceres et quo pacto id ferre induceres."
+},
+{
+"id": "916",
+"label": "Plaut. Amph. 916",
+"text": "equidem ioco illa dixeram dudum tibi,"
+},
+{
+"id": "917",
+"label": "Plaut. Amph. 917",
+"text": "ridiculi causa. vél hunc rogato Sosiam."
+},
+{
+"id": "918",
+"label": "Plaut. Amph. 918",
+"text": "Quin huc adducis meum cognatum Naucratem,"
+},
+{
+"id": "919",
+"label": "Plaut. Amph. 919",
+"text": "testem quem dudum te adducturum dixeras,"
+},
+{
+"id": "920",
+"label": "Plaut. Amph. 920",
+"text": "te huc non venisse?"
+},
+{
+"id": "920b",
+"label": "Plaut. Amph. 920b",
+"text": "Si quid dictum est per iocum,"
+},
+{
+"id": "921",
+"label": "Plaut. Amph. 921",
+"text": "non aequom est id te serio praevortier."
+},
+{
+"id": "922",
+"label": "Plaut. Amph. 922",
+"text": "Ego illúd scio quam doluerit cordi meo."
+},
+{
+"id": "923",
+"label": "Plaut. Amph. 923",
+"text": "Per dexteram tuam te, Alcumena, oro obsecro,"
+},
+{
+"id": "924",
+"label": "Plaut. Amph. 924",
+"text": "da mihi hanc veniam, ignosce, irata ne sies."
+},
+{
+"id": "925",
+"label": "Plaut. Amph. 925",
+"text": "Ego istaec feci verba virtute irrita;"
+},
+{
+"id": "926",
+"label": "Plaut. Amph. 926",
+"text": "nunc, quando factis me impudicis abstini,"
+},
+{
+"id": "927",
+"label": "Plaut. Amph. 927",
+"text": "ab impudicis dictis avorti volo."
+},
+{
+"id": "928",
+"label": "Plaut. Amph. 928",
+"text": "valeas, tibi habeas res tuas, reddas meas."
+},
+{
+"id": "929",
+"label": "Plaut. Amph. 929",
+"text": "iuben mi íre comites?"
+},
+{
+"id": "929b",
+"label": "Plaut. Amph. 929b",
+"text": "Sanan es?"
+},
+{
+"id": "929c",
+"label": "Plaut. Amph. 929c",
+"text": "Si non iubes,"
+},
+{
+"id": "930",
+"label": "Plaut. Amph. 930",
+"text": "ibo egomet; comitem mihi Pudicitiam duxero.†"
+},
+{
+"id": "931",
+"label": "Plaut. Amph. 931",
+"text": "Mane. arbitratu tuo ius iurandum dabo,"
+},
+{
+"id": "932",
+"label": "Plaut. Amph. 932",
+"text": "me meam pudicam esse uxorem arbitrarier."
+},
+{
+"id": "933",
+"label": "Plaut. Amph. 933",
+"text": "id ego si fallo, tum te, summe Iuppiter,"
+},
+{
+"id": "934",
+"label": "Plaut. Amph. 934",
+"text": "quaeso, Amphitruoni ut semper iratus sies."
+},
+{
+"id": "935",
+"label": "Plaut. Amph. 935",
+"text": "A, propitius sit potius."
+},
+{
+"id": "935b",
+"label": "Plaut. Amph. 935b",
+"text": "Confido fore;"
+},
+{
+"id": "936",
+"label": "Plaut. Amph. 936",
+"text": "nam ius iurandum verum te advorsum dedi."
+},
+{
+"id": "937",
+"label": "Plaut. Amph. 937",
+"text": "iam nunc irata non es?"
+},
+{
+"id": "937b",
+"label": "Plaut. Amph. 937b",
+"text": "Non sum."
+},
+{
+"id": "937c",
+"label": "Plaut. Amph. 937c",
+"text": "Bene facis."
+},
+{
+"id": "938",
+"label": "Plaut. Amph. 938",
+"text": "nam in hominum aetate multa eveniunt huius modi:"
+},
+{
+"id": "939",
+"label": "Plaut. Amph. 939",
+"text": "capiunt voluptátes, capiunt rursum miserias;"
+},
+{
+"id": "940",
+"label": "Plaut. Amph. 940",
+"text": "irae interveniunt, redeunt rursum in gratiam."
+},
+{
+"id": "941",
+"label": "Plaut. Amph. 941",
+"text": "verum irae si quae forte eveniunt huius modi"
+},
+{
+"id": "942",
+"label": "Plaut. Amph. 942",
+"text": "inter eos, rursum si reventum in gratiam est,"
+},
+{
+"id": "943",
+"label": "Plaut. Amph. 943",
+"text": "bis tanto amici sunt inter se quam prius."
+},
+{
+"id": "944",
+"label": "Plaut. Amph. 944",
+"text": "Primum cavisse oportuit ne diceres,"
+},
+{
+"id": "945",
+"label": "Plaut. Amph. 945",
+"text": "verum eadem si isdem purgas mi, patiunda sunt."
+},
+{
+"id": "946",
+"label": "Plaut. Amph. 946",
+"text": "Iube véro vasa pura adornari mihi,"
+},
+{
+"id": "947",
+"label": "Plaut. Amph. 947",
+"text": "ut quae ápud legionem vota vovi, si domum"
+},
+{
+"id": "948",
+"label": "Plaut. Amph. 948",
+"text": "rediissem salvos, ea ego exsolvam omnia."
+},
+{
+"id": "949",
+"label": "Plaut. Amph. 949",
+"text": "Ego istuc curabo."
+},
+{
+"id": "949b",
+"label": "Plaut. Amph. 949b",
+"text": "Evocate huc Sosiam;"
+},
+{
+"id": "950",
+"label": "Plaut. Amph. 950",
+"text": "gubernatorem qui in mea navi fuit"
+},
+{
+"id": "951",
+"label": "Plaut. Amph. 951",
+"text": "Blepharonem arcessat, qui nobiscum prandeat."
+},
+{
+"id": "952",
+"label": "Plaut. Amph. 952",
+"text": "is adeo inpransus ludificabitur,"
+},
+{
+"id": "953",
+"label": "Plaut. Amph. 953",
+"text": "cum ego Amphitruonem collo hinc obstricto traham."
+},
+{
+"id": "954",
+"label": "Plaut. Amph. 954",
+"text": "Mirum quid solus secum secreto ille agat."
+},
+{
+"id": "955",
+"label": "Plaut. Amph. 955",
+"text": "atque aperiuntur aedes. exit Sosia."
+},
+{
+"id": "956",
+"label": "Plaut. Amph. 956",
+"text": "Ámphitruo, assum. sí quid opus est, impera, imperium éxequar."
+},
+{
+"id": "957",
+"label": "Plaut. Amph. 957",
+"text": "Sosia, optume advenis."
+},
+{
+"id": "957b",
+"label": "Plaut. Amph. 957b",
+"text": "Iam pax est inter vos duos?"
+},
+{
+"id": "958",
+"label": "Plaut. Amph. 958",
+"text": "nam quia vos tranquillos video, gaudeo et volup est mihi."
+},
+{
+"id": "959",
+"label": "Plaut. Amph. 959",
+"text": "atque ita servom par videtur frugi sese instituere:"
+},
+{
+"id": "960",
+"label": "Plaut. Amph. 960",
+"text": "proinde eri ut sint, ipse item sit; voltum e voltu comparet:"
+},
+{
+"id": "961",
+"label": "Plaut. Amph. 961",
+"text": "tristis sit, si eri sint tristes; hilarus sit, si gaudeant."
+},
+{
+"id": "962",
+"label": "Plaut. Amph. 962",
+"text": "sed age responde: iam vos rediistis in concordiam?"
+},
+{
+"id": "963",
+"label": "Plaut. Amph. 963",
+"text": "Derides, qui scis haec dudum me dixisse per iocum."
+},
+{
+"id": "964",
+"label": "Plaut. Amph. 964",
+"text": "An id ioco dixisti? équidem serio ac vero ratus."
+},
+{
+"id": "965",
+"label": "Plaut. Amph. 965",
+"text": "Habui expurigationem; facta pax est."
+},
+{
+"id": "965b",
+"label": "Plaut. Amph. 965b",
+"text": "Optume est."
+},
+{
+"id": "966",
+"label": "Plaut. Amph. 966",
+"text": "Ego rem divinam intus faciam, vota quae sunt."
+},
+{
+"id": "966b",
+"label": "Plaut. Amph. 966b",
+"text": "Censeo."
+},
+{
+"id": "967",
+"label": "Plaut. Amph. 967",
+"text": "Tu gubernatorem a navi huc evoca verbis meis"
+},
+{
+"id": "968",
+"label": "Plaut. Amph. 968",
+"text": "Blepharonem, qui re divina facta mecum prandeat."
+},
+{
+"id": "969",
+"label": "Plaut. Amph. 969",
+"text": "Iam hic ero, cum illic censebis esse me.—"
+},
+{
+"id": "969b",
+"label": "Plaut. Amph. 969b",
+"text": "Actutum huc redi."
+},
+{
+"id": "970",
+"label": "Plaut. Amph. 970",
+"text": "Numquid vis, quin abeam iam intro, ut apparentur quibus opust?"
+},
+{
+"id": "971",
+"label": "Plaut. Amph. 971",
+"text": "I sane, et quantum potest parata fac sint omnia."
+},
+{
+"id": "972",
+"label": "Plaut. Amph. 972",
+"text": "Quin venis quando vis intro? faxo haud quicquam sit morae.—"
+},
+{
+"id": "973",
+"label": "Plaut. Amph. 973",
+"text": "Recte loquere et proinde diligentem ut uxorem decet."
+},
+{
+"id": "974",
+"label": "Plaut. Amph. 974",
+"text": "iam hisce ambo, et servos et era, frustra sunt duo,"
+},
+{
+"id": "975",
+"label": "Plaut. Amph. 975",
+"text": "qui me Amphitruonem rentur esse: errant probe."
+},
+{
+"id": "976",
+"label": "Plaut. Amph. 976",
+"text": "nunc tu divine húc fac adsis Sosia"
+},
+{
+"id": "977",
+"label": "Plaut. Amph. 977",
+"text": "(audis quae dico, tam etsi praesens non ades),"
+},
+{
+"id": "978",
+"label": "Plaut. Amph. 978",
+"text": "fac Amphitruonem ádvenientem ab aedibus"
+},
+{
+"id": "979",
+"label": "Plaut. Amph. 979",
+"text": "ut abigas; quovis pacto fac commentus sis."
+},
+{
+"id": "980",
+"label": "Plaut. Amph. 980",
+"text": "volo déludi illunc, dum cum hac usuraria"
+},
+{
+"id": "981",
+"label": "Plaut. Amph. 981",
+"text": "uxore nunc mihi morigero. haec curata sint"
+},
+{
+"id": "982",
+"label": "Plaut. Amph. 982",
+"text": "fac sis, proinde adeo ut velle med intellegis,"
+},
+{
+"id": "983",
+"label": "Plaut. Amph. 983",
+"text": "atque ut ministres mihi, mihi cum sacruficem."
+},
+{
+"id": "984",
+"label": "Plaut. Amph. 984",
+"text": "Concédite atque abscédite omnes, dé via decédite,"
+},
+{
+"id": "985",
+"label": "Plaut. Amph. 985",
+"text": "nec quísquam tam audax fúat homo, qui óbviam obsistát mihi."
+},
+{
+"id": "986",
+"label": "Plaut. Amph. 986",
+"text": "nam mihi quidem hercle qui minus liceat deo minitarier"
+},
+{
+"id": "987",
+"label": "Plaut. Amph. 987",
+"text": "populo, ni decedat mihi, quam servolo in comoediis?"
+},
+{
+"id": "988",
+"label": "Plaut. Amph. 988",
+"text": "ille návem salvam nuntiat aut irati adventum senis:"
+},
+{
+"id": "989",
+"label": "Plaut. Amph. 989",
+"text": "ego sum Iovi dicto audiens, eius iussu nunc huc me adfero."
+},
+{
+"id": "990",
+"label": "Plaut. Amph. 990",
+"text": "quam ob rem mihi magis par est via decedere et concedere."
+},
+{
+"id": "991",
+"label": "Plaut. Amph. 991",
+"text": "pater vocat me, eum sequor, eius dicto imperio sum audiens;"
+},
+{
+"id": "992",
+"label": "Plaut. Amph. 992",
+"text": "ut filium bonum patri esse oportet, itidem ego sum patri."
+},
+{
+"id": "993",
+"label": "Plaut. Amph. 993",
+"text": "amanti subparasitor, hortor, adsto, admoneo, gaudeo."
+},
+{
+"id": "994",
+"label": "Plaut. Amph. 994",
+"text": "si quid patri volup est, voluptas ea mi multo maxumast."
+},
+{
+"id": "995",
+"label": "Plaut. Amph. 995",
+"text": "amat: sapit; recte facit, animo quando obsequitur suo,"
+},
+{
+"id": "996",
+"label": "Plaut. Amph. 996",
+"text": "quod omnis homines facere oportet, dum id modo fiat bono."
+},
+{
+"id": "997",
+"label": "Plaut. Amph. 997",
+"text": "nunc Amphitruonem volt deludi meus pater: faxo probe"
+},
+{
+"id": "998",
+"label": "Plaut. Amph. 998",
+"text": "iam hic deludetur, spectatores, vobis inspectantibus."
+},
+{
+"id": "999",
+"label": "Plaut. Amph. 999",
+"text": "capiam coronam mi in caput, adsimulabo me esse ebrium;"
+},
+{
+"id": "1000",
+"label": "Plaut. Amph. 1000",
+"text": "atque illuc sursum escendero: inde optume aspellam virum"
+},
+{
+"id": "1001",
+"label": "Plaut. Amph. 1001",
+"text": "de supero, cum huc accesserit; faciam ut sit madidus sobrius."
+},
+{
+"id": "1002",
+"label": "Plaut. Amph. 1002",
+"text": "deinde illi actutum sufferet suos servos poenas Sosia:"
+},
+{
+"id": "1003",
+"label": "Plaut. Amph. 1003",
+"text": "eum fécisse ille hodie arguet quae ego feceró hic. quid mea?"
+},
+{
+"id": "1004",
+"label": "Plaut. Amph. 1004",
+"text": "meo me aéquomst morigerum patri, eius studio servire addecet."
+},
+{
+"id": "1005",
+"label": "Plaut. Amph. 1005",
+"text": "sed eccum Amphitruonem, advenit; iam ille hic deludetur probe,"
+},
+{
+"id": "1006",
+"label": "Plaut. Amph. 1006",
+"text": "siquidém vos voltis auscultando operam dare."
+},
+{
+"id": "1007",
+"label": "Plaut. Amph. 1007",
+"text": "ibo intro, ornatum capiam qui potis decet;"
+},
+{
+"id": "1008",
+"label": "Plaut. Amph. 1008",
+"text": "dein susum ascendam in tectum, ut illum hinc prohibeam."
+},
+{
+"id": "1009",
+"label": "Plaut. Amph. 1009",
+"text": "Naúcratem quem cónvenire vólui, in navi nón erat,"
+},
+{
+"id": "1010",
+"label": "Plaut. Amph. 1010",
+"text": "neque domi neque in urbe invenio quemquam qui illum viderit."
+},
+{
+"id": "1011",
+"label": "Plaut. Amph. 1011",
+"text": "nam omnis plateas perreptavi, gymnasia et myropolia;"
+},
+{
+"id": "1012",
+"label": "Plaut. Amph. 1012",
+"text": "apud emporium atque in macello, ín palaestra atque in foro,"
+},
+{
+"id": "1013",
+"label": "Plaut. Amph. 1013",
+"text": "in medicinis, in tonstrinis, apud omnis aedis sacras"
+},
+{
+"id": "1014",
+"label": "Plaut. Amph. 1014",
+"text": "sum defessus quaeritando: nusquam invenio Naucratem."
+},
+{
+"id": "1015",
+"label": "Plaut. Amph. 1015",
+"text": "nunc domum ibo atque ex uxore hánc rem pergam exquirere,"
+},
+{
+"id": "1016",
+"label": "Plaut. Amph. 1016",
+"text": "quis fuerit quem propter corpus suom stupri compleverit."
+},
+{
+"id": "1017",
+"label": "Plaut. Amph. 1017",
+"text": "nam me, quam illam quaestionem inquisitam hodie amittere,"
+},
+{
+"id": "1018",
+"label": "Plaut. Amph. 1018",
+"text": "mortuom satiust. sed aedis occluserunt. eugepae,"
+},
+{
+"id": "1019",
+"label": "Plaut. Amph. 1019",
+"text": "pariter hoc fit atque ut alia facta sunt. feriam foris."
+},
+{
+"id": "1020",
+"label": "Plaut. Amph. 1020",
+"text": "aperite hoc. heus, ecquis hic est? ecquis hoc aperit ostium?"
+},
+{
+"id": "1021",
+"label": "Plaut. Amph. 1021",
+"text": "Quís ad fores est?"
+},
+{
+"id": "1021b",
+"label": "Plaut. Amph. 1021b",
+"text": "Égo sum."
+},
+{
+"id": "1021c",
+"label": "Plaut. Amph. 1021c",
+"text": "Quid ego sum."
+},
+{
+"id": "1021d",
+"label": "Plaut. Amph. 1021d",
+"text": "Íta loquor."
+},
+{
+"id": "1021e",
+"label": "Plaut. Amph. 1021e",
+"text": "Tibi Iúppiter"
+},
+{
+"id": "1022",
+"label": "Plaut. Amph. 1022",
+"text": "dique omnes irati certo sunt, qui sic frangas fores."
+},
+{
+"id": "1023",
+"label": "Plaut. Amph. 1023",
+"text": "Quo modo?"
+},
+{
+"id": "1023b",
+"label": "Plaut. Amph. 1023b",
+"text": "Eo modo, ut profecto vivas aetatem miser."
+},
+{
+"id": "1024",
+"label": "Plaut. Amph. 1024",
+"text": "Sosia."
+},
+{
+"id": "1024b",
+"label": "Plaut. Amph. 1024b",
+"text": "Ita, sum Sosia, nisi me esse oblitum existimas."
+},
+{
+"id": "1025",
+"label": "Plaut. Amph. 1025",
+"text": "quid nunc vis?"
+},
+{
+"id": "1025b",
+"label": "Plaut. Amph. 1025b",
+"text": "Sceleste, at etiam quid velim, id tu me rogas?"
+},
+{
+"id": "1026",
+"label": "Plaut. Amph. 1026",
+"text": "Ita, rogo. paene effregisti, fatue, foribus cardines."
+},
+{
+"id": "1027",
+"label": "Plaut. Amph. 1027",
+"text": "an foris censebas nobis publicitus praeberier?"
+},
+{
+"id": "1028",
+"label": "Plaut. Amph. 1028",
+"text": "quid me aspectas, stolide? quid nunc vis tibi? aut quis tu es homo?"
+},
+{
+"id": "1029",
+"label": "Plaut. Amph. 1029",
+"text": "Verbero, etiam quis ego sim me rogitas, ulmorum Acheruns?"
+},
+{
+"id": "1030",
+"label": "Plaut. Amph. 1030",
+"text": "quem pol ego hodie ob istaec dicta faciam ferventem flagris."
+},
+{
+"id": "1031",
+"label": "Plaut. Amph. 1031",
+"text": "Prodigum te fuisse oportet olim in adulescentia."
+},
+{
+"id": "1032",
+"label": "Plaut. Amph. 1032",
+"text": "Quidum?"
+},
+{
+"id": "1032b",
+"label": "Plaut. Amph. 1032b",
+"text": "Quia senecta aetate á me mendicas malum."
+},
+{
+"id": "1033",
+"label": "Plaut. Amph. 1033",
+"text": "Cum cruciatu tuo istaec hodie, verna, verba funditas."
+},
+{
+"id": "1034",
+"label": "Plaut. Amph. 1034",
+"text": "Sacrufico ego tibi."
+},
+{
+"id": "1034b",
+"label": "Plaut. Amph. 1034b",
+"text": "Qui?"
+},
+{
+"id": "1034c",
+"label": "Plaut. Amph. 1034c",
+"text": "Quia enim te macto infortunio."
+},
+{
+"id": "1034_frg1",
+"label": "Plaut. Amph. 1034_frg1",
+"text": "At ego te cruce et cruciatu mactabo, mastigia."
+},
+{
+"id": "1034_frg2",
+"label": "Plaut. Amph. 1034_frg2",
+"text": "Érus Amphitruost occupatus."
+},
+{
+"id": "1034_frg3",
+"label": "Plaut. Amph. 1034_frg3",
+"text": "abiendi nunc tibi etiam occasiost."
+},
+{
+"id": "1034_frg4",
+"label": "Plaut. Amph. 1034_frg4",
+"text": "Optimo iure infringatur aula cineris in caput."
+},
+{
+"id": "1034_frg5",
+"label": "Plaut. Amph. 1034_frg5",
+"text": "Ne tu postules matulam unam tibi aquae ínfundi in caput."
+},
+{
+"id": "1034_frg6",
+"label": "Plaut. Amph. 1034_frg6",
+"text": "Laruatu's laruatus es . edepol hominem miserum. medicum quaerita."
+},
+{
+"id": "1034_frg7",
+"label": "Plaut. Amph. 1034_frg7",
+"text": "Exiúravisti te mihi dixe per iocum."
+},
+{
+"id": "1034_frg8",
+"label": "Plaut. Amph. 1034_frg8",
+"text": "Quaeso advenienti morbo medicari iube:"
+},
+{
+"id": "1034_frg8a",
+"label": "Plaut. Amph. 1034_frg8a",
+"text": "tu certe aut laruatus aut cerritus es."
+},
+{
+"id": "1034_frg9",
+"label": "Plaut. Amph. 1034_frg9",
+"text": "Nisi hoc ita factum est, proinde ut factum esse autumo,"
+},
+{
+"id": "1034_frg9a",
+"label": "Plaut. Amph. 1034_frg9a",
+"text": "non causam dico quin vero insimules probri"
+},
+{
+"id": "1034_frg10",
+"label": "Plaut. Amph. 1034_frg10",
+"text": "Cuius? quaé me absente corpus volgavit suom."
+},
+{
+"id": "1034_frg11",
+"label": "Plaut. Amph. 1034_frg11",
+"text": "Quíd minitabas te facturum, si istas pepulissem fores?"
+},
+{
+"id": "1034_frg12",
+"label": "Plaut. Amph. 1034_frg12",
+"text": "Ibi scrobes ecfodito tu plus sexagenos in die."
+},
+{
+"id": "1034_frg13",
+"label": "Plaut. Amph. 1034_frg13",
+"text": "Noli pessimo precari."
+},
+{
+"id": "1034_frg14",
+"label": "Plaut. Amph. 1034_frg14",
+"text": "animam comprime"
+},
+{
+"id": "1034_frg15",
+"label": "Plaut. Amph. 1034_frg15",
+"text": "Mánifestum hunc optorto collo teneo furem flagiti."
+},
+{
+"id": "1034_frg16",
+"label": "Plaut. Amph. 1034_frg16",
+"text": "Immo ego hunc, Thebani cives, qui domi uxorem meam"
+},
+{
+"id": "1034_frg16a",
+"label": "Plaut. Amph. 1034_frg16a",
+"text": "impudicitia impedivit, teneo, thensaurum stupri."
+},
+{
+"id": "1034_frg17",
+"label": "Plaut. Amph. 1034_frg17",
+"text": "Nilne te pudet, sceleste, populi in conspectum ingredi?"
+},
+{
+"id": "1034_frg18",
+"label": "Plaut. Amph. 1034_frg18",
+"text": "clandestino"
+},
+{
+"id": "1034_frg19",
+"label": "Plaut. Amph. 1034_frg19",
+"text": "Qui nequeas nostrorum uter sit Amphitruo decernere."
+},
+{
+"id": "1035",
+"label": "Plaut. Amph. 1035",
+"text": "Vós inter vos partite; ego abeo, mihi negotium est;"
+},
+{
+"id": "1036",
+"label": "Plaut. Amph. 1036",
+"text": "neque ego umquam usquam tanta mira me vidisse censeo."
+},
+{
+"id": "1037",
+"label": "Plaut. Amph. 1037",
+"text": "Blepharo, quaeso ut advocatus mi adsis neve abeas."
+},
+{
+"id": "1037b",
+"label": "Plaut. Amph. 1037b",
+"text": "Vale."
+},
+{
+"id": "1038",
+"label": "Plaut. Amph. 1038",
+"text": "quid opust me advocato, quí utri sim advocatus nescio?—"
+},
+{
+"id": "1039",
+"label": "Plaut. Amph. 1039",
+"text": "Intro ego hinc eo. Alcumena parturit.—"
+},
+{
+"id": "1039b",
+"label": "Plaut. Amph. 1039b",
+"text": "Perii miser."
+},
+{
+"id": "1040",
+"label": "Plaut. Amph. 1040",
+"text": "quid ego faciam, quem advocati iam atque amici deserunt?"
+},
+{
+"id": "1041",
+"label": "Plaut. Amph. 1041",
+"text": "numquam edepol me inultus istic ludificabit, quisquis est;"
+},
+{
+"id": "1042",
+"label": "Plaut. Amph. 1042",
+"text": "nam iam ad regem recta me ducam resque ut facta est eloquar.†"
+},
+{
+"id": "1043",
+"label": "Plaut. Amph. 1043",
+"text": "ego pol illum ulciscar hodie Thessalum veneficum,"
+},
+{
+"id": "1044",
+"label": "Plaut. Amph. 1044",
+"text": "qui pervorse perturbavit familiae mentem meae."
+},
+{
+"id": "1045",
+"label": "Plaut. Amph. 1045",
+"text": "sed ubi illest? intro edepol abiit, credo ad uxorem meam."
+},
+{
+"id": "1046",
+"label": "Plaut. Amph. 1046",
+"text": "qui me Thebis alter vivit miserior? quid nunc agam,"
+},
+{
+"id": "1047",
+"label": "Plaut. Amph. 1047",
+"text": "quem omnes mortales ignorant et ludificant ut lubet."
+},
+{
+"id": "1048",
+"label": "Plaut. Amph. 1048",
+"text": "certumst, intro rumpam in aedis: ubi quemque hominem aspexero,"
+},
+{
+"id": "1049",
+"label": "Plaut. Amph. 1049",
+"text": "si ancillam seu servom sive uxorem sive adulterum"
+},
+{
+"id": "1050",
+"label": "Plaut. Amph. 1050",
+"text": "seu patrem sive ávom videbo, óbtruncabo in aedibus."
+},
+{
+"id": "1051",
+"label": "Plaut. Amph. 1051",
+"text": "neque me Iuppiter neque di omnes id prohibebunt, si volent,"
+},
+{
+"id": "1052",
+"label": "Plaut. Amph. 1052",
+"text": "quin sic faciam ut constitui. pergam in aedis nunciam."
+},
+{
+"id": "1053",
+"label": "Plaut. Amph. 1053",
+"text": "Spes átque opes vitaé meae iacént sepultae in pectore,"
+},
+{
+"id": "1054",
+"label": "Plaut. Amph. 1054",
+"text": "neque ullast confidentia iam in corde, quin amiserim;"
+},
+{
+"id": "1055",
+"label": "Plaut. Amph. 1055",
+"text": "ita mihi videntur omnia, mare terra caelum, consequi,"
+},
+{
+"id": "1056",
+"label": "Plaut. Amph. 1056",
+"text": "iam ut opprimar, ut enicer. me miseram, quid agam nescio."
+},
+{
+"id": "1057",
+"label": "Plaut. Amph. 1057",
+"text": "ita tanta mira in aedibus sunt facta. vae miserae mihi,"
+},
+{
+"id": "1058",
+"label": "Plaut. Amph. 1058",
+"text": "animo malest, aquam velim. corrupta sum atque absumpta sum."
+},
+{
+"id": "1059",
+"label": "Plaut. Amph. 1059",
+"text": "caput dolet, neque audio, nec oculis prospicio satis,"
+},
+{
+"id": "1060",
+"label": "Plaut. Amph. 1060",
+"text": "nec me miserior femina est neque ulla videatur magis."
+},
+{
+"id": "1061",
+"label": "Plaut. Amph. 1061",
+"text": "ita erae meae hodie contigit. nam ubi parturit, deos síbi invocat,"
+},
+{
+"id": "1062",
+"label": "Plaut. Amph. 1062",
+"text": "strepitús, crepitus, sonitús, tonitrus: ut subito, ut propere, ut valide tonuit!"
+},
+{
+"id": "1063",
+"label": "Plaut. Amph. 1063",
+"text": "ubi quísque institerat, cóncidit crepitu. íbi nescio quis máxuma"
+},
+{
+"id": "1064",
+"label": "Plaut. Amph. 1064",
+"text": "vóce exclamat: “Alcumena, adest auxilium, ne time:"
+},
+{
+"id": "1065",
+"label": "Plaut. Amph. 1065",
+"text": "et tibi et tuis propitius caeli cultor advenit."
+},
+{
+"id": "1066",
+"label": "Plaut. Amph. 1066",
+"text": "exsúrgite” inquit qui terrore meo occidistis prae metu."
+},
+{
+"id": "1067",
+"label": "Plaut. Amph. 1067",
+"text": "ut iácui, exsurgo. ardére censui aédis, ita tum cónfulgebant."
+},
+{
+"id": "1068",
+"label": "Plaut. Amph. 1068",
+"text": "íbi me inclamat Álcumena; iam éa res me horrore ádficit,"
+},
+{
+"id": "1069",
+"label": "Plaut. Amph. 1069",
+"text": "erílis praevertít metus: accúrro, ut sciscam quíd velit."
+},
+{
+"id": "1070",
+"label": "Plaut. Amph. 1070",
+"text": "atque illam geminos filios pueros peperisse conspicor;"
+},
+{
+"id": "1071",
+"label": "Plaut. Amph. 1071",
+"text": "neque nostrum quisquam sensimus, quom peperit, neque providimus."
+},
+{
+"id": "1072",
+"label": "Plaut. Amph. 1072",
+"text": "séd quid hoc? quis hic ést senex, qui ante aédis nostras síc iacet?"
+},
+{
+"id": "1073",
+"label": "Plaut. Amph. 1073",
+"text": "numnam húnc percussit Iúppiter?"
+},
+{
+"id": "1074",
+"label": "Plaut. Amph. 1074",
+"text": "credo édepol, nam, pro Iúppiter, sepúltust quasi sit mórtuos."
+},
+{
+"id": "1075",
+"label": "Plaut. Amph. 1075",
+"text": "ibo et cognoscam, quisquis est. Amphitruo híc quidem est érus meus."
+},
+{
+"id": "1076",
+"label": "Plaut. Amph. 1076",
+"text": "Amphítruo."
+},
+{
+"id": "1076b",
+"label": "Plaut. Amph. 1076b",
+"text": "Perii."
+},
+{
+"id": "1076c",
+"label": "Plaut. Amph. 1076c",
+"text": "Súrge."
+},
+{
+"id": "1076d",
+"label": "Plaut. Amph. 1076d",
+"text": "Interii."
+},
+{
+"id": "1076e",
+"label": "Plaut. Amph. 1076e",
+"text": "Cédo manum."
+},
+{
+"id": "1076f",
+"label": "Plaut. Amph. 1076f",
+"text": "Quis mé tenet?"
+},
+{
+"id": "1077",
+"label": "Plaut. Amph. 1077",
+"text": "Tua Bromia ancilla."
+},
+{
+"id": "1077b",
+"label": "Plaut. Amph. 1077b",
+"text": "Totus timeo, íta me increpuit Iuppiter."
+},
+{
+"id": "1078",
+"label": "Plaut. Amph. 1078",
+"text": "nec secus est, quasi si ab Acherunte veniam. sed quid tu foras"
+},
+{
+"id": "1079",
+"label": "Plaut. Amph. 1079",
+"text": "egressa es?"
+},
+{
+"id": "1079b",
+"label": "Plaut. Amph. 1079b",
+"text": "Eadem nos formido timidas terrore impulit"
+},
+{
+"id": "1080",
+"label": "Plaut. Amph. 1080",
+"text": "in aedibus, tu ubi habitas. nimia mira vidi. vae mihi,"
+},
+{
+"id": "1081",
+"label": "Plaut. Amph. 1081",
+"text": "Amphitruo, íta mihi animus etiam nunc abest."
+},
+{
+"id": "1081b",
+"label": "Plaut. Amph. 1081b",
+"text": "Agedum expedi:"
+},
+{
+"id": "1082",
+"label": "Plaut. Amph. 1082",
+"text": "scin me tuom esse erum Amphitruonem?"
+},
+{
+"id": "1082b",
+"label": "Plaut. Amph. 1082b",
+"text": "Scio."
+},
+{
+"id": "1082c",
+"label": "Plaut. Amph. 1082c",
+"text": "Vide etiam nunc."
+},
+{
+"id": "1082d",
+"label": "Plaut. Amph. 1082d",
+"text": "Scio."
+},
+{
+"id": "1083",
+"label": "Plaut. Amph. 1083",
+"text": "Haec sola sanam mentem gestat meorum familiarium."
+},
+{
+"id": "1084",
+"label": "Plaut. Amph. 1084",
+"text": "Immo omnes sani sunt profecto."
+},
+{
+"id": "1084b",
+"label": "Plaut. Amph. 1084b",
+"text": "At me uxor insanum facit"
+},
+{
+"id": "1085",
+"label": "Plaut. Amph. 1085",
+"text": "suis foedis factis."
+},
+{
+"id": "1085b",
+"label": "Plaut. Amph. 1085b",
+"text": "At ego faciam, tu idem ut aliter praedices,"
+},
+{
+"id": "1086",
+"label": "Plaut. Amph. 1086",
+"text": "Ámphitruo, piam et pudicam ésse tuam uxorem ut scias."
+},
+{
+"id": "1087",
+"label": "Plaut. Amph. 1087",
+"text": "de ea re signa atque argumenta paucis verbis eloquar."
+},
+{
+"id": "1088",
+"label": "Plaut. Amph. 1088",
+"text": "omnium primum: Alcumena geminos peperit filios."
+},
+{
+"id": "1089",
+"label": "Plaut. Amph. 1089",
+"text": "Ain tu, geminos?"
+},
+{
+"id": "1089b",
+"label": "Plaut. Amph. 1089b",
+"text": "Geminos."
+},
+{
+"id": "1089c",
+"label": "Plaut. Amph. 1089c",
+"text": "Di me servant."
+},
+{
+"id": "1089d",
+"label": "Plaut. Amph. 1089d",
+"text": "Sine me dicere,"
+},
+{
+"id": "1090",
+"label": "Plaut. Amph. 1090",
+"text": "ut scias tibi tuaeque uxori deos esse omnis propitios."
+},
+{
+"id": "1091",
+"label": "Plaut. Amph. 1091",
+"text": "Loquere."
+},
+{
+"id": "1091b",
+"label": "Plaut. Amph. 1091b",
+"text": "Postquam parturire hodie uxor occepit tua,"
+},
+{
+"id": "1092",
+"label": "Plaut. Amph. 1092",
+"text": "ubi utero exorti dolores, ut solent puerperae"
+},
+{
+"id": "1093",
+"label": "Plaut. Amph. 1093",
+"text": "invocat deos immortales, ut sibi auxilium ferant,"
+},
+{
+"id": "1094",
+"label": "Plaut. Amph. 1094",
+"text": "manibus puris, capite operto. íbi continuo contonat"
+},
+{
+"id": "1095",
+"label": "Plaut. Amph. 1095",
+"text": "sonitu maxumo; aedes primo ruere rebamur tuas."
+},
+{
+"id": "1096",
+"label": "Plaut. Amph. 1096",
+"text": "aedes totae confulgebant tuae, quasi essent aureae."
+},
+{
+"id": "1097",
+"label": "Plaut. Amph. 1097",
+"text": "Quaeso absolvito hinc me extemplo, quando satis deluseris."
+},
+{
+"id": "1098",
+"label": "Plaut. Amph. 1098",
+"text": "quid fit deinde?"
+},
+{
+"id": "1098b",
+"label": "Plaut. Amph. 1098b",
+"text": "Dum haec aguntur, interea uxorem tuam"
+},
+{
+"id": "1099",
+"label": "Plaut. Amph. 1099",
+"text": "neque gementem neque plorantem nostrum quisquam audivimus;"
+},
+{
+"id": "1100",
+"label": "Plaut. Amph. 1100",
+"text": "ita profecto sine dolore peperit."
+},
+{
+"id": "1100b",
+"label": "Plaut. Amph. 1100b",
+"text": "Iam istuc gaudeo,"
+},
+{
+"id": "1101",
+"label": "Plaut. Amph. 1101",
+"text": "utut erga me merita est."
+},
+{
+"id": "1101b",
+"label": "Plaut. Amph. 1101b",
+"text": "Mitte ista atque haec quae dicam accipe."
+},
+{
+"id": "1102",
+"label": "Plaut. Amph. 1102",
+"text": "postquam peperit, pueros lavere iussit nos. occepimus."
+},
+{
+"id": "1103",
+"label": "Plaut. Amph. 1103",
+"text": "sed puer ille quém ego lavi, ut magnust et multum valet!"
+},
+{
+"id": "1104",
+"label": "Plaut. Amph. 1104",
+"text": "neque eum quisquam colligare quivit incunabulis."
+},
+{
+"id": "1105",
+"label": "Plaut. Amph. 1105",
+"text": "Nimia mira memoras; si istaec vera sunt, divinitus"
+},
+{
+"id": "1106",
+"label": "Plaut. Amph. 1106",
+"text": "non metuo quin méae uxori latae suppetiae sient."
+},
+{
+"id": "1107",
+"label": "Plaut. Amph. 1107",
+"text": "Magis iam faxo mira dices. postquam in cunas conditust,"
+},
+{
+"id": "1108",
+"label": "Plaut. Amph. 1108",
+"text": "devolant angues iubati deorsum in impluvium duo"
+},
+{
+"id": "1109",
+"label": "Plaut. Amph. 1109",
+"text": "maximi: continuo extollunt ambo capita."
+},
+{
+"id": "1109b",
+"label": "Plaut. Amph. 1109b",
+"text": "Ei mihi."
+},
+{
+"id": "1110",
+"label": "Plaut. Amph. 1110",
+"text": "Ne pave. sed angues oculis omnis circumvisere."
+},
+{
+"id": "1111",
+"label": "Plaut. Amph. 1111",
+"text": "postquam pueros conspicati, pergunt ad cunas citi."
+},
+{
+"id": "1112",
+"label": "Plaut. Amph. 1112",
+"text": "ego cunas recessim rursum vorsum trahere et ducere,"
+},
+{
+"id": "1113",
+"label": "Plaut. Amph. 1113",
+"text": "metuens pueris, mihi formidans; tantoque angues acrius"
+},
+{
+"id": "1114",
+"label": "Plaut. Amph. 1114",
+"text": "persequi. postquam conspexit angues ille alter puer,"
+},
+{
+"id": "1115",
+"label": "Plaut. Amph. 1115",
+"text": "citus e cunis exilit, facit recta in anguis impetum:"
+},
+{
+"id": "1116",
+"label": "Plaut. Amph. 1116",
+"text": "alterum altera prehendit eos manu perniciter."
+},
+{
+"id": "1117",
+"label": "Plaut. Amph. 1117",
+"text": "Mira memoras, nimis formidolosum facinus praedicas;"
+},
+{
+"id": "1118",
+"label": "Plaut. Amph. 1118",
+"text": "nam mihi horror membra misero percipit dictis tuis."
+},
+{
+"id": "1119",
+"label": "Plaut. Amph. 1119",
+"text": "quid fit deinde? porro loquere."
+},
+{
+"id": "1119b",
+"label": "Plaut. Amph. 1119b",
+"text": "Puer ambo angues enicat."
+},
+{
+"id": "1120",
+"label": "Plaut. Amph. 1120",
+"text": "dum haec aguntur, voce clara exclamat uxorem tuam—"
+},
+{
+"id": "1121",
+"label": "Plaut. Amph. 1121",
+"text": "Quis homo?"
+},
+{
+"id": "1121b",
+"label": "Plaut. Amph. 1121b",
+"text": "Summus imperator divom atque hominum Iuppiter."
+},
+{
+"id": "1122",
+"label": "Plaut. Amph. 1122",
+"text": "is se dixit cum Alcumena clam consuetum cubitibus,"
+},
+{
+"id": "1123",
+"label": "Plaut. Amph. 1123",
+"text": "eumque filium suom esse qui illos angues vicerit;"
+},
+{
+"id": "1124",
+"label": "Plaut. Amph. 1124",
+"text": "alterum tuom esse dixit puerum."
+},
+{
+"id": "1124b",
+"label": "Plaut. Amph. 1124b",
+"text": "Pol me haud paenitet,"
+},
+{
+"id": "1125",
+"label": "Plaut. Amph. 1125",
+"text": "si licet boni dimidium mihi dividere cum Iove."
+},
+{
+"id": "1126",
+"label": "Plaut. Amph. 1126",
+"text": "abi domum, iube vasa pura actutum adornari mihi,"
+},
+{
+"id": "1127",
+"label": "Plaut. Amph. 1127",
+"text": "ut Iovis supremi multis hostiis pacem expetam."
+},
+{
+"id": "1128",
+"label": "Plaut. Amph. 1128",
+"text": "ego Teresiam coniectorem ádvocabo et consulam"
+},
+{
+"id": "1129",
+"label": "Plaut. Amph. 1129",
+"text": "quid faciundum censeat; simul hanc rem ut facta est eloquar."
+},
+{
+"id": "1130",
+"label": "Plaut. Amph. 1130",
+"text": "sed quid hoc? quam valide tonuit. di, obsecro vostram fidem."
+},
+{
+"id": "1131",
+"label": "Plaut. Amph. 1131",
+"text": "Bono ánimo es, adsum auxílio, Amphitruo, tíbi et tuis:"
+},
+{
+"id": "1132",
+"label": "Plaut. Amph. 1132",
+"text": "nihil est quod timeas. hariolos, haruspices"
+},
+{
+"id": "1133",
+"label": "Plaut. Amph. 1133",
+"text": "mitte omnes; quae futura et quae facta eloquar,"
+},
+{
+"id": "1134",
+"label": "Plaut. Amph. 1134",
+"text": "multo adeo melius quam illi, quom sum Iuppiter."
+},
+{
+"id": "1135",
+"label": "Plaut. Amph. 1135",
+"text": "primum omnium Alcumenae usuram corporis"
+},
+{
+"id": "1136",
+"label": "Plaut. Amph. 1136",
+"text": "cepi, et concubitu gravidam feci filio."
+},
+{
+"id": "1137",
+"label": "Plaut. Amph. 1137",
+"text": "tu gravidam item fecisti, cúm in exercitum"
+},
+{
+"id": "1138",
+"label": "Plaut. Amph. 1138",
+"text": "profectu's profectus es : uno partu duos peperit simul."
+},
+{
+"id": "1139",
+"label": "Plaut. Amph. 1139",
+"text": "eorum alter, nostro qui est susceptus semine,"
+},
+{
+"id": "1140",
+"label": "Plaut. Amph. 1140",
+"text": "suis factis te immortali adficiet gloria."
+},
+{
+"id": "1141",
+"label": "Plaut. Amph. 1141",
+"text": "tu cum Alcumena uxore antiquam in gratiam"
+},
+{
+"id": "1142",
+"label": "Plaut. Amph. 1142",
+"text": "redi: haud promeruit quam ob rem vitio vorteres;"
+},
+{
+"id": "1143",
+"label": "Plaut. Amph. 1143",
+"text": "mea vi subactast facere. ego in caelum migro.—"
+},
+{
+"id": "1144",
+"label": "Plaut. Amph. 1144",
+"text": "Fáciam ita ut iubés et te oro, prómissa ut servés tua."
+},
+{
+"id": "1145",
+"label": "Plaut. Amph. 1145",
+"text": "ibo ad uxorem intro, missum facio Teresiam senem."
+},
+{
+"id": "1146",
+"label": "Plaut. Amph. 1146",
+"text": "nunc, spectatores, Iovis súmmi causa clare plaudite."
+}
+]
+}

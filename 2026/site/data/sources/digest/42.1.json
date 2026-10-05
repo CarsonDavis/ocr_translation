@@ -1,0 +1,601 @@
+{
+"corpus": "digest",
+"unit": "42.1",
+"title": "D. 42.1 De re iudicata et de effectu sententiarum et de interlocutionibus",
+"passages": [
+{
+"id": "42.1.1",
+"label": "D. 42.1.1 (Modestinus)",
+"text": "Res iudicata dicitur, quae finem controversiarum pronuntiatione iudicis accipit: quod vel condemnatione vel absolutione contingit.",
+"inscription": "Modestinus libro septimo pandectarum"
+},
+{
+"id": "42.1.2",
+"label": "D. 42.1.2 (Ulpianus)",
+"text": "Qui pro tribunali cognoscit, non semper tempus iudicati servat, sed nonnumquam artat, nonnumquam prorogat pro causae qualitate et quantitate vel personarum obsequio vel contumacia. Sed perraro intra statutum tempus sententiae exsequentur, veluti si alimenta constituantur vel minori viginti quinque annis subvenitur.",
+"inscription": "Ulpianus libro sexto ad edictum"
+},
+{
+"id": "42.1.3",
+"label": "D. 42.1.3 (Paulus)",
+"text": "Qui damnare potest, is absolvendi quoque potestatem habet.",
+"inscription": "Paulus libro 17 ad edictum"
+},
+{
+"id": "42.1.4.pr",
+"label": "D. 42.1.4 pr. (Ulpianus)",
+"text": "Si se non optulit procurator, iudicati actio in eum denegabitur et in dominum dabitur: si se optulit, in ipsum dabitur. Optulisse autem se liti videtur non is, qui in rem suam procurator datus sit: nam hic alia ratione recusare iudicati actionem non potest, quia hic non in alienam, sed in suam rem procurator factus est.",
+"inscription": "Ulpianus libro 58 ad edictum"
+},
+{
+"id": "42.1.4.1",
+"label": "D. 42.1.4.1",
+"text": "Tutor quoque vel curator in ea condicione sunt, ut non debeant videri se liti optulisse, idcircoque debet denegari in eos iudicati actio."
+},
+{
+"id": "42.1.4.2",
+"label": "D. 42.1.4.2",
+"text": "Actor municipum potest rem iudicatam recusare: in municipes enim iudicati actio dabitur."
+},
+{
+"id": "42.1.4.3",
+"label": "D. 42.1.4.3",
+"text": "Ait praetor: \"Condemnatus ut pecuniam solvat\". A iudicato ergo hoc exigitur, ut pecuniam solvat. Quid ergo, si solvere quidem paratus non sit, satisfacere autem paratus sit, quid dicimus? Et ait Labeo debuisse hoc quoque adici \"Neque eo nomine satisfaciat\": fieri enim posse, ut idoneum expromissorem habeat. Sed ratio pecuniae exigendae haec fuit, quod noluerit praetor obligationes ex obligationibus fieri: idcirco ait \"ut pecunia solvatur\". Ex magna tamen et idoneo causa accedendum erit ad Labeonis sententiam."
+},
+{
+"id": "42.1.4.4",
+"label": "D. 42.1.4.4",
+"text": "Si ex conventione litigantium cautum sit post rem iudicatam ei, cui quis condemnatus est, eveniet, ut hic et retendatur, si modo novatio intercessit: ceterum si non novandi causa id factum est, manebit ordo exsecutionis. Sed et si pignora accepta sint vel fideiussores in rem iudicatam, consequens erit dicere non cessare exsecutionem, quippe cum accesserit aliquid rei iudicatae, non sit a re iudicata recessum. Iidem observandum est in eo, cuius procurator condemnatus est."
+},
+{
+"id": "42.1.4.5",
+"label": "D. 42.1.4.5",
+"text": "Si quis condemnatus sit, ut intra certos dies solvat, unde ei tempus iudicati actionis computamus, utrum ex quo sententia prolata est an vero ex eo, ex quo dies statutus praeteriit? Sed si quidem minorem diem statuerit iudex tempore legitimo, repletur ex lege, quod sententiae iudicis deest: sin autem ampliorem numerum dierum sua definitione iudex amplexus est, computabitur reo et legitimum tempus et quod supra id iudex praestitit."
+},
+{
+"id": "42.1.4.6",
+"label": "D. 42.1.4.6",
+"text": "Condemnatum accipere debemus eum, qui rite condemnatus est, ut sententia valeat: ceterum si aliqua ratione sententia nullius momenti sit, dicendum est condemnationis verbum non tenere."
+},
+{
+"id": "42.1.4.7",
+"label": "D. 42.1.4.7",
+"text": "Solvisse accipere debemus non tantum eum, qui solvit, verum omnem omnino, qui ea obligatione liberatus est, quae ex causa iudicati descendit."
+},
+{
+"id": "42.1.4.8",
+"label": "D. 42.1.4.8",
+"text": "Celsus scribit, si noxali condemnatus eum servum, in quo usus fructus alienus est, noxae dedisti, posse tecum adhuc agi iudicati: sed si usus fructus interierit, liberari ait."
+},
+{
+"id": "42.1.5.pr",
+"label": "D. 42.1.5 pr. (Ulpianus)",
+"text": "Ait praetor: \"Cuius de ea re iurisdictio est\". Melius scripsisset: \"Cuius de ea re notio est\": etenim notionis nomen etiam ad eos pertineret, qui iurisdictionem non habent, sed habent de quavis alia causa notionem.",
+"inscription": "Ulpianus libro 59 ad edictum"
+},
+{
+"id": "42.1.5.1",
+"label": "D. 42.1.5.1",
+"text": "Si iudex aliquem sic condemnet, ut, quod habet ex testamento vel codicillis Maevii, restitueret Titio, sic accipiendum est, quasi quantitatem nominavit, quae testamento vel codicillis relicta est. Sed et si fideicommissum sine scriptura pronuntiatum, idem erit probandum."
+},
+{
+"id": "42.1.6.pr",
+"label": "D. 42.1.6 pr. (Ulpianus)",
+"text": "Miles, qui sub armata militia stipendia meruit, condemnatus eatenus, qua facere potest, cogitur solvere.",
+"inscription": "Ulpianus libro 66 ad edictum"
+},
+{
+"id": "42.1.6.1",
+"label": "D. 42.1.6.1",
+"text": "Decem aut noxae dedere condemnatus iudicati in decem tenetur: facultatem enim noxae dedendae ex lege accipit. At is, qui stipulatus est decem aut noxae dedere, non potest decem petere, quia in stipulatione singula per se veniunt ea, quae singula separatim stipulari possumus: at iudicium solius noxae deditionis nullum est, sed pecuniariam condemnationem sequitur. Et ideo iudicati decem agitur, his enim solis condemnatur: noxae deditio in solutione est, quae e lege tribuitur."
+},
+{
+"id": "42.1.6.2",
+"label": "D. 42.1.6.2",
+"text": "Qui iudicati bona auctoritate sua distraxit, furti actione et vi bonorum raptorum ei tenetur."
+},
+{
+"id": "42.1.6.3",
+"label": "D. 42.1.6.3",
+"text": "Iudicati actio perpetua est et rei persecutionem continet: item heredi et in heredem competit."
+},
+{
+"id": "42.1.7",
+"label": "D. 42.1.7 (Gaius)",
+"text": "Intra dies constitutos, quamvis iudicati agi non possit, multis tamen modis iudicatum liberari posse hodie non dubitatur, quia constitutorum dierum spatium pro iudicato, non contra iudicatum per legem constitutum est.",
+"inscription": "Gaius libro ad edictum praetoris urbani titulo de re iudicata"
+},
+{
+"id": "42.1.8",
+"label": "D. 42.1.8 (Paulus)",
+"text": "Si homo ex stipulatu petitus post litem contestatam decesserit, absolutionem non faciendam et fructuum rationem habendam placet.",
+"inscription": "Paulus libro quinto ad Plautium"
+},
+{
+"id": "42.1.9",
+"label": "D. 42.1.9 (Pomponius)",
+"text": "Furioso sententia a iudice vel ab arbitro dici non potest.",
+"inscription": "Pomponius libro quinto ex Plautio"
+},
+{
+"id": "42.1.10",
+"label": "D. 42.1.10 (Marcellus)",
+"text": "Qui, cum se pro patre familias fingeret, mutuam pecuniam accepit et exheres a patre vel emancipatus sit, quamvis facere non possit, debet condemnari.",
+"inscription": "Marcellus libro secundo digestorum"
+},
+{
+"id": "42.1.11",
+"label": "D. 42.1.11 (Celsus)",
+"text": "Si kalendis fieri aliquid stipulatus sum, nempe quandocumque post kalendas accepto iudicio tanti tamen aestimanda lis est, quanti interfuit mea kalendis id fieri: ex eo enim tempore quidque aestimatur, quod novissime solvi poterit.",
+"inscription": "Celsus libro quinto digestorum"
+},
+{
+"id": "42.1.12",
+"label": "D. 42.1.12 (Marcellus)",
+"text": "In depositi vel commodati iudicio, quamquam dolo adversarii res absit, condemnato succurri solet, ut ei actionibus suis dominus cedat.",
+"inscription": "Marcellus libro quarto digestorum"
+},
+{
+"id": "42.1.13.pr",
+"label": "D. 42.1.13 pr. (Celsus)",
+"text": "Si quis ab alio decem, ab alio satisdari stipulatus est, aestimandum erit, quantum stipulatoris intersit satisdari, idque aut tantundem erit aut minus aut interdum etiam nihil: neque enim vani timoris ulla aestimatio est. Verum sorte soluta nullum iam pretium aestimationis est, aut quantum ex sorte fuerit solutum, tantundem ex aestimatione decedet.",
+"inscription": "Celsus libro sexto digestorum"
+},
+{
+"id": "42.1.13.1",
+"label": "D. 42.1.13.1",
+"text": "Si quis promiserit prohibere se, ut aliquid damnum stipulator patiatur, et faciat ne quod ex ea re damnum ita habeatur, facit quod promisit: si minus, quia non facit quod promisit, in pecuniam numeratam condemnatur, sicut evenit in omnibus faciendi obligationibus."
+},
+{
+"id": "42.1.14",
+"label": "D. 42.1.14 (Celsus)",
+"text": "Quod iussit vetuitve praetor, contrario imperio tollere et remittere licet: de sententiis contra.",
+"inscription": "Celsus libro 25 digestorum"
+},
+{
+"id": "42.1.15.pr",
+"label": "D. 42.1.15 pr. (Ulpianus)",
+"text": "A divo Pio rescriptum est magistratibus populi Rromani, ut iudicum a se datorum vel arbitrorum sententiam exsequantur hi qui eos dederunt.",
+"inscription": "Ulpianus libro tertio de officio consulis"
+},
+{
+"id": "42.1.15.1",
+"label": "D. 42.1.15.1",
+"text": "Sententiam Romae dictam etiam in provinciis posse praesides, si hoc iussi fuerint, ad finem persequi imperator noster cum patre rescripsit."
+},
+{
+"id": "42.1.15.2",
+"label": "D. 42.1.15.2",
+"text": "In venditione itaque pignorum captorum facienda <faciendo> primo quidem res mobiles et animales pignori capi iubent, mox distrahi: quarum pretium si suffecerit, bene est, si non suffecerit, etiam soli pignora capi iubent et distrahi. Quod si nulla moventia sint, a pignoribus soli initium faciunt: sic denique interloqui solent, si moventia non sint, ut soli quoque capiantur: nam a pignoribus soli initium faciendum non est. Quod si nec quae soli sunt sufficiant vel nulla sint soli pignora, tunc pervenietur etiam ad iura. Exsequuntur itaque rem iudicatam praesides isto modo."
+},
+{
+"id": "42.1.15.3",
+"label": "D. 42.1.15.3",
+"text": "Si pignora, quae capta sunt, emptorem non inveniant, rescriptum est ab imperatore nostro et divo patre eius, ut addicantur ipsi, cui quis condemnatus est, addicantur autem utique ea quantitate quae debetur. Nam si creditor maluerit pignora in creditum possidere isque esse contentus, rescriptum est non posse eum quod amplius sibi debetur petere, quia velut pacto transegisse de credito videtur, qui contentus fuit pignora possidere, nec posse eum in quantitatem certam pignora tenere et superfluum petere."
+},
+{
+"id": "42.1.15.4",
+"label": "D. 42.1.15.4",
+"text": "Si rerum, quae pignoris iure captae sunt, controversia fiat, constitutum est ab imperatore nostro ipsos, qui rem iudicatam exsequuntur, cognoscere debere de proprietate: et si cognoverint eius fuisse qui condemnatus est, rem iudicatam exsequentur. Sed sciendum est summatim eos cognoscere debere nec sententiam eorum posse debitori praeiudicare, si forte hi dimittendam eam rem putaverint, quasi eius sit, qui controversiam movit, non eius, cuius nomine capta est: nec eum, cui restituta est, statim habere per sententiam debere, si forte iure ordinario coeperit ab eo res peti. Sic evenit, ut omnibus integris tantum capioni res iudicata proficiat. Sed illud debet dici, ubi controversia est de pignore, id dimitti debere et capi aliud, si quod est sine controversia."
+},
+{
+"id": "42.1.15.5",
+"label": "D. 42.1.15.5",
+"text": "Quod si res sit pignerata, quae pignori capta est, videndum est, an sic distrahi possit, ut dimisso creditore superfluum in causam iudicati convertatur. Et quamquam non cogatur creditor rem, quam pignori accepit, distrahere: tamen in iudicati exsecutione servatur, ut, si emptorem invenerit res quae capta est, qui dimisso priore creditore superfluum solvere sit paratus, admittenda sit huius quoque rei distractio. Nec videtur deterior condicio creditoris fieri suum consecuturi nec prius ius pignoris dimissuri, quam si ei fuerit satisfactum."
+},
+{
+"id": "42.1.15.6",
+"label": "D. 42.1.15.6",
+"text": "Si post addictum pignus aliqua controversia emptori moveatur, an sit cognitio eiusdem iudicis, qui sententiam exsecutus fuerit, videndum est. Et cum semel emptio perfecta sit eiusque qui comparavit periculum vertatur, non puto locum esse cognitioni: certe posteaquam inductus est emptor in possessionem, nonne cessabunt partes eorundem iudicum? Idemque et si ipsi, cui quis iudicatus est, res fuerit addicta."
+},
+{
+"id": "42.1.15.7",
+"label": "D. 42.1.15.7",
+"text": "Sed si emptor, cui pignora sunt addicta exsequente iudice, pretium non solvat, utrum adversus emptorem porrigere manus debeant idem iudices, qui sententiam exsequuntur, videndum est. Et non puto eos ultra procedere: ceterum longe res abibit. Quid enim dicemus? Condemnabunt emptorem et sic exsequentur adversus eum sententiam, an statim pro iudicato habebunt? Et quid si neget se emisse aut exsolvisse contendat? Melius igitur erit, si non se interponant, maxime cum nec habeat actionem adversus eum is, cui iudicatum fieri desideratur. Nec iniuria adficietur: oportet enim res captas pignori et distractas praesenti pecunia distrahi, non sic, ut post tempus pecunia solvatur. Certe si se interponant, hactenus debebunt intervenire, ut ipsam rem addictam capiant et distrahant, quasi nondum vinculo pignoris liberatam."
+},
+{
+"id": "42.1.15.8",
+"label": "D. 42.1.15.8",
+"text": "Sic quoque iudices exsequentur iudicatum, ut nomina iure pignoris capiant, si nihil aliud sit quod capi possit: posse enim nomen iure pignoris capi imperator noster rescripsit."
+},
+{
+"id": "42.1.15.9",
+"label": "D. 42.1.15.9",
+"text": "Sed utrum confessum nomen tantum capi possit an etiam si neget quis se debere, videamus. Et magis est, ut id dumtaxat capiatur, quod confitetur: ceterum si negetur, aequissimum erit discedi a nomine, nisi forte quis exemplum secutus corporalium pignerum ultra processerit dixeritque ipsos debere iudices de nomine cognoscere, ut cognoscunt de proprietate: sed contra rescriptum est."
+},
+{
+"id": "42.1.15.10",
+"label": "D. 42.1.15.10",
+"text": "Item quid dicemus? Utrum ipsi iudices convenient nomen exigentque id quod debetur et in causam iudicati convertent, an vero vendent nomen, ut pignora corporalia solent? Et necesse est, ut quod eis facilius videatur ad rem exsequendam, hoc faciant."
+},
+{
+"id": "42.1.15.11",
+"label": "D. 42.1.15.11",
+"text": "Sed et si pecunia penes argentarios sit, aeque capi solet. Hoc amplius et si penes alium quem, destinata tamen ei, qui condemnatus est, solet pignoris iure capi et converti in causam iudicati."
+},
+{
+"id": "42.1.15.12",
+"label": "D. 42.1.15.12",
+"text": "Praeterea pecuniam quoque depositam nomine condemnati vel in arcam reclusam solent capere, ut iudicato satisfiat. Hoc amplius et si pupillaris pecunia in arcam reposita sit ad praediorum comparationem, et citra permissum praetoris ab eo, qui exsequitur iudicatum, solet capi et in causam iudicati converti."
+},
+{
+"id": "42.1.16",
+"label": "D. 42.1.16 (Ulpianus)",
+"text": "Sunt qui in id quod facere possunt conveniuntur, id est non deducto aere alieno. Et quidem sunt hi fere, qui pro socio conveniuntur (socium autem omnium bonorum accipiendum est): item parens:",
+"inscription": "Ulpianus libro 63 ad edictum"
+},
+{
+"id": "42.1.17",
+"label": "D. 42.1.17 (Ulpianus)",
+"text": "Patronus patrona liberique eorum et parentes: item maritus de dote in id quod facere potest convenitur:",
+"inscription": "Ulpianus libro decimo ad edictum"
+},
+{
+"id": "42.1.18",
+"label": "D. 42.1.18 (Ulpianus)",
+"text": "Item miles, qui sub armata militia stipendia meruit, condemnatus eatenus, quatenus facere potest, cogitur solvere.",
+"inscription": "Ulpianus libro 66 ad edictum"
+},
+{
+"id": "42.1.19.pr",
+"label": "D. 42.1.19 pr. (Paulus)",
+"text": "Inter eos, quibus ex eadem causa debetur, occupantis melior condicio est nec deducitur, quod eiusdem condicionis hominibus debetur, sicuti fit in de peculio actione: nam et hic occupantis melior est causa. Sed et si cum patre patronove agetur, non est deducendum aes alienum, maxime quod eiusdem condicionis personis debebitur, ut liberis libertis.",
+"inscription": "Paulus libro sexto ad Plautium"
+},
+{
+"id": "42.1.19.1",
+"label": "D. 42.1.19.1",
+"text": "Is quoque, qui ex causa donationis convenitur, in quantum facere potest condemnatur et quidem is solus deducto aere alieno: et inter eos, quibus ex simili causa pecunia debetur, occupantis potior erit causa. Immo nec totum quod habet extorquendum ei puto: sed et ipsius ratio habenda est, ne egeat."
+},
+{
+"id": "42.1.20",
+"label": "D. 42.1.20 (Modestinus)",
+"text": "Non tantum dotis nomine maritus in quantum facere possit condemnatur, sed ex aliis quoque contractibus ab uxore iudicio conventus in quantum facere potest, condemnandus est ex divi Pii constitutione. quod et in persona mulieris aequa lance servari aequitatis suggerit ratio.",
+"inscription": "Modestinus libro secundo differentiarum"
+},
+{
+"id": "42.1.21",
+"label": "D. 42.1.21 (Paulus)",
+"text": "Sicut autem cum marito agitur, ita et cum socero, ut non ultra facultates damnetur. An si cum socero ex promissione dotis agatur, in id quod facere potest, damnandus sit? Quod et id aequum esse videtur: sed alio iure utimur, ut et Neratius scribit.",
+"inscription": "Paulus libro sexto ad Plautium"
+},
+{
+"id": "42.1.22.pr",
+"label": "D. 42.1.22 pr. (Pomponius)",
+"text": "Sed hoc ita accipiendum est, si a socero dos ex promissione petatur soluto matrimonio: verum si manente matrimonio dos ab eo petatur, succurrendum utique est, ut ne maioris summae condemnetur, quam quantum facere potest.",
+"inscription": "Pomponius libro 21 ad Quintum Mucium"
+},
+{
+"id": "42.1.22.1",
+"label": "D. 42.1.22.1",
+"text": "Quod autem de sociis dictum est, ut et hi in quantum facere possint condemnentur, causa cognita se facturum praetor edicit. Causae cognitio autem in hoc erit, ut neganti se socium esse aut ex doli clausula obligato non succurratur."
+},
+{
+"id": "42.1.23",
+"label": "D. 42.1.23 (Paulus)",
+"text": "Si cum procuratore mariti de dote actum fuerit, si quidem vivo marito condemnatio fiet, in quantum facere potest fiet damnatio (nam et defensor mariti in id quod ille facere potest damnatur), mortuo vero marito in solidum.",
+"inscription": "Paulus libro sexto ad Plautium"
+},
+{
+"id": "42.1.24.pr",
+"label": "D. 42.1.24 pr. (Pomponius)",
+"text": "Et si fideiussor acceptus sit rei vel actionis, non proderit, si persona, pro qua fideiussit, in quantum facere potest, condemnanda est.",
+"inscription": "Pomponius libro quarto ex Plautio"
+},
+{
+"id": "42.1.24.1",
+"label": "D. 42.1.24.1",
+"text": "Si maritus solvendo non fuerit, licet ipsi marito prosit, quod facere non possit (id enim personae mariti praestatur), heredi eius hoc non prodest."
+},
+{
+"id": "42.1.25",
+"label": "D. 42.1.25 (Paulus)",
+"text": "Sciendum est heredes earum personarum non in id, quod facere possunt, sed in integrum teneri.",
+"inscription": "Paulus libro 60 ad edictum"
+},
+{
+"id": "42.1.26",
+"label": "D. 42.1.26 (Ulpianus)",
+"text": "Si convenerit inter litigatores, quid pronuntietur, non ab re erit iudicem huiusmodi sententiam proferre.",
+"inscription": "Ulpianus libro 77 ad edictum"
+},
+{
+"id": "42.1.27",
+"label": "D. 42.1.27 (Modestinus)",
+"text": "Praeses provinciae usuras usurarum condemnavit contra leges et sacras constitutiones ideoque Lucius Ttitius contra prolatam sententiam iniustam praesidis appellavit: quaero, cum non secundum legem Titius provocasset, an exigi possit pecunia secundum condemnationem. Modestinus respondit, si sententiae certa quantitas continetur, nihil proponi, cur iudicati agi non possit.",
+"inscription": "Modestinus libro primo responsorum"
+},
+{
+"id": "42.1.28",
+"label": "D. 42.1.28 (Modestinus)",
+"text": "Duo iudices dati diversas sententias dederunt. Modestinus respondit utramque sententiam in pendenti esse, donec competens iudex unam earum confirmaverit.",
+"inscription": "Modestinus libro 12 responsorum"
+},
+{
+"id": "42.1.29",
+"label": "D. 42.1.29 (Modestinus)",
+"text": "Tempus, quod datur iudicato, etiam heredibus eius ceterisque qui in locum eius succedunt tribuitur (videlicet quod ex tempore deest), quia causae magis quam personae beneficium praestituitur.",
+"inscription": "Modestinus libro septimo pandectarum"
+},
+{
+"id": "42.1.30",
+"label": "D. 42.1.30 (Pomponius)",
+"text": "Cum ex causa donationis promissa pecunia est, si dubium sit, an ea res eo usque donatoris facultates exhaurire possit, ut vix quicquam ei in bonis relictum sit, actio in id quod facere possit danda est, ita ut et ipsi donatori aliquid sufficiens relinquatur. Quod maxime inter liberos et parentes observandum est.",
+"inscription": "Pomponius libro septimo variarum lectionum"
+},
+{
+"id": "42.1.31",
+"label": "D. 42.1.31 (Callistratus)",
+"text": "Debitoribus non tantum petentibus dies ad solvendum dandi sunt, sed et prorogandi, si res exigat: si qui tamen per contumaciam magis, quam quia non possint explicare pecuniam, differant solutionem, pignoribus captis compellendi sunt ad satisfaciendum ex forma, quam Cassio proconsuli divus Pius in haec verba rescripsit: \"His, qui fatebuntur debere aut ex re iudicata necesse habebunt reddere, tempus ad solvendum detur, quod sufficere pro facultate cuiusque videbitur: eorum, qui intra diem vel ab initio datum vel ex ea causa postea prorogatum sibi non reddiderint, pignora capi eaque, si intra duos menses non solverint, vendantur: si quid ex pretiis supersit, reddatur ei, cuius pignora vendita erant\".",
+"inscription": "Callistratus libro secundo cognitionum"
+},
+{
+"id": "42.1.32",
+"label": "D. 42.1.32 (Callistratus)",
+"text": "Cum prolatis constitutionibus contra eas pronuntiat iudex, eo quod non existimat causam, de qua iudicat, per eas iuvari, non videtur contra constitutiones sententiam dedisse. Ideoque ab eiusmodi sententia appellandum est: alioquin rei iudicatae stabitur.",
+"inscription": "Callistratus libro tertio cognitionum"
+},
+{
+"id": "42.1.33",
+"label": "D. 42.1.33 (Callistratus)",
+"text": "Divus Hadrianus, aditus per libellum a Iulio Tarentino et indicante eo falsis testimoniis, conspiratione adversariorum testibus pecunia corruptis, religionem iudicis circumventam esse, in integrum causam restituendam in haec verba rescripsit: \"Exemplum libelli dati mihi a Iulio Tarentino mitti tibi iussi: tu, si tibi probaverit conspiratione adversariorum et testibus pecunia corruptis oppressum se, et rem severe vindica et, si qua a iudice tam malo exemplo circumscripto iudicata sunt, in integrum restitue\".",
+"inscription": "Callistratus libro quinto cognitionum"
+},
+{
+"id": "42.1.34",
+"label": "D. 42.1.34 (Licinius)",
+"text": "Si victum vel stratum inferri quis iudicato non patiatur, utilis in eum poenalis actio danda est vel, ut quidam putant, iniuriarum cum eo agi poterit.",
+"inscription": "Licinius libro 13 regularum"
+},
+{
+"id": "42.1.35",
+"label": "D. 42.1.35 (Papirius Iustus)",
+"text": "Imperatores antoninus et verus rescripserunt, quamquam sub obtentu novorum instrumentorum restitui negotia minime oporteat, tamen in negotio publico ex causa permittere se huiusmodi instrumentis uti.",
+"inscription": "Papirius Iustus constitutionum libro secundo"
+},
+{
+"id": "42.1.36",
+"label": "D. 42.1.36 (Paulus)",
+"text": "Pomponius libro trigensimo septimo ad edictum scribit, si uni ex pluribus iudicibus de liberali causa cognoscenti de re non liqueat, ceteri autem consentiant, si is iuraverit sibi non liquere, eo quiescente ceteros, qui consentiant, sententiam proferre, quia, etsi dissentiret, plurium sententia optineret.",
+"inscription": "Paulus libro 17 ad edictum"
+},
+{
+"id": "42.1.37",
+"label": "D. 42.1.37 (Marcellus)",
+"text": "Tunc autem universi iudices intelleguntur iudicare, cum omnes adsunt.",
+"inscription": "Marcellus libro tertio digestorum"
+},
+{
+"id": "42.1.38.pr",
+"label": "D. 42.1.38 pr. (Paulus)",
+"text": "Inter pares numero iudices si dissonae sententiae proferantur, in liberalibus quidem causis, secundum quod a divo Pio constitutum est, pro libertate statutum optinet, in aliis autem causis pro reo. Quod et in iudiciis publicis optinere oportet.",
+"inscription": "Paulus libro 17 ad edictum"
+},
+{
+"id": "42.1.38.1",
+"label": "D. 42.1.38.1",
+"text": "Si diversis summis condemnent iudices, minimam spectandam esse iulianus scribit."
+},
+{
+"id": "42.1.39",
+"label": "D. 42.1.39 (Celsus)",
+"text": "Duo ex tribus iudicibus uno absente iudicare non possunt, quippe omnes iudicare iussi sunt. Sed si adsit et contra sentiat, statur duorum sententiae: quid enim minus verum est omnes iudicasse?",
+"inscription": "Celsus libro tertio digestorum"
+},
+{
+"id": "42.1.40",
+"label": "D. 42.1.40 (Papinianus)",
+"text": "Commodis praemiorum, quae propter coronas sacras praestantur, condemnato placuit interdici et eam pecuniam iure pignoris in causam iudicati capi.",
+"inscription": "Papinianus libro decimo responsorum"
+},
+{
+"id": "42.1.41.pr",
+"label": "D. 42.1.41 pr. (Paulus)",
+"text": "Nesennius Apollinaris: si te donaturum mihi delegavero creditori meo, an in solidum conveniendus sis? Et si in solidum conveniendus, an diversum putes, si non creditori meo, sed ei, cui donare volebam, te delegavero? Et quid de eo, qui pro muliere, cui donare volebat, marito eius dotem promiserit? Respondit: nulla creditor exceptione summoveretur, licet is, qui ei delegatus est, poterit uti adversus eum, cuius nomine promisit: cui similis est maritus, maxime si constante matrimonio petat. Et sicut heres donatoris in solidum condemnatur et ipse fideiussor, quem in donando adhibuit, ita et ei, cui non donavit, in solidum condemnatur.",
+"inscription": "Paulus libro 14 quaestionum"
+},
+{
+"id": "42.1.41.1",
+"label": "D. 42.1.41.1",
+"text": "Fundum quis donavit: si non restituat, ut quivis possessor damnandus est: si autem fundum restituit, fructuum nomine, si non eos consumpsit, in solidum condemnandus est: potuit enim non periclitari, si statim restituisset: si dolo desiit possidere, in litem iurabitur et tanti sequetur condemnatio."
+},
+{
+"id": "42.1.41.2",
+"label": "D. 42.1.41.2",
+"text": "In solidum condemnatus donator actione iudicati, nisi in quantum facere potest, non tenetur beneficio constitutionis."
+},
+{
+"id": "42.1.42",
+"label": "D. 42.1.42 (Paulus)",
+"text": "Paulus responsit rescindere quidem sententiam suam praecedentem praetorem non posse, reliqua autem, quae ad consequentiam quidem iam statutorum pertinent, priori tamen sententiae desunt, circa condemnandum reum vel absolvendum debere supplere, scilicet eodem die.",
+"inscription": "Paulus libro tertio responsorum"
+},
+{
+"id": "42.1.43",
+"label": "D. 42.1.43 (Paulus)",
+"text": "Paulus respondit eos, qui una sententia in unam quantitatem condemnati sunt, pro portione virili ex causa iudicati conveniri, et si ex sententia adversus tres dicta Titius portionem sibi competentem exsolvit, ex persona ceterorum ex eadem sententia conveniri eum non posse.",
+"inscription": "Paulus libro 16 responsorum"
+},
+{
+"id": "42.1.44",
+"label": "D. 42.1.44 (Scaevola)",
+"text": "Ex contractu paterno actum est cum pupilla tutore auctore et condemnata est: postea tutores abstinuerunt eam bonis paternis et ita bona defuncti ad substitutum vel ad coheredes pervenerunt: quaeritur, an hi ex causa iudicati teneantur. Rescripsit dandam in eos actionem, nisi culpa tutorum pupilla condemnata est.",
+"inscription": "Scaevola libro quinto responsorum"
+},
+{
+"id": "42.1.45.pr",
+"label": "D. 42.1.45 pr. (Paulus)",
+"text": "Acta apud se habita, si partes consentiant et iudex hoc permiserit, potest iubere ea die circumduci, nisi vel negotium vel lis terminata est.",
+"inscription": "Paulus libro primo sententiarum"
+},
+{
+"id": "42.1.45.1",
+"label": "D. 42.1.45.1",
+"text": "De amplianda vel minuenda poena damnatorum post sententiam dictam sine principali auctoritate nihil est statuendum."
+},
+{
+"id": "42.1.45.2",
+"label": "D. 42.1.45.2",
+"text": "Contra indefensos minores tutorem vel curatorem non habentes nulla sententia proferenda est."
+},
+{
+"id": "42.1.46",
+"label": "D. 42.1.46 (Hermogenianus)",
+"text": "Actorum verba emendare tenore sententiae perseverante non est prohibitum.",
+"inscription": "Hermogenianus libro secundo iuris epitomarum"
+},
+{
+"id": "42.1.47.pr",
+"label": "D. 42.1.47 pr. (Paulus)",
+"text": "De unoquoque negotio praesentibus omnibus, quos causa contingit, iudicari oportet: aliter enim iudicatum tantum inter praesentes tenet.",
+"inscription": "Paulus libro quinto sententiarum"
+},
+{
+"id": "42.1.47.1",
+"label": "D. 42.1.47.1",
+"text": "Qui apud fiscum causam defendere saepius conventi neglexerint, rebus iudicatis subiciendi sunt. Quod eo apparet, si saepe conventi praesentiam suam facere noluerint."
+},
+{
+"id": "42.1.48",
+"label": "D. 42.1.48 (Tryphoninus)",
+"text": "Decreta a praetoribus latine interponi debent.",
+"inscription": "Tryphoninus libro secundo disputationum"
+},
+{
+"id": "42.1.49",
+"label": "D. 42.1.49 (Paulus)",
+"text": "Et exheredatum vel eum, qui se paterna hereditate abstinuit, nec ex ipsius contractu nisi id quod facere potest condemnandum. Quemadmodum autem facere posse credatur, videndum est, utrum deducto omni aere alieno, ut is, qui ex donatione convenitur, an ut maritus et patronus nullo deducto aere alieno. Et indubitati iuris est ad similitudinem viri et patroni eum detrahendum: pinguius enim donatori succurrere debemus quam ei, qui verum debitum persolvere compellitur,",
+"inscription": "Paulus libro secundo manualium"
+},
+{
+"id": "42.1.50",
+"label": "D. 42.1.50 (Tryphoninus)",
+"text": "Ne liberalitate sua inops fieri periclitetur.",
+"inscription": "Tryphoninus libro 12 disputationum"
+},
+{
+"id": "42.1.51.pr",
+"label": "D. 42.1.51 pr. (Paulus)",
+"text": "Si quis dolo fecerit, ut bona eius venirent, in solidum tenetur.",
+"inscription": "Paulus libro secundo manualium"
+},
+{
+"id": "42.1.51.1",
+"label": "D. 42.1.51.1",
+"text": "Si quis creditorem missum in possessionem rei servandae causa non admiserit, si venditor praestiterit creditori, quanti eius interfuerit, quaesitum est an debitor liberetur. Et puto improbum esse eum, qui velit iterum consequi quod accepit."
+},
+{
+"id": "42.1.52",
+"label": "D. 42.1.52 (Tryphoninus)",
+"text": "Si rerum amotarum cum viro agatur, quamquam videatur ea quoque actio praecedentis societatis vitae causam habuisse, in solidum condemnari debet, quoniam ex male contractu et delicto oritur.",
+"inscription": "Tryphoninus libro 12 disputationum"
+},
+{
+"id": "42.1.53.pr",
+"label": "D. 42.1.53 pr. (Hermogenianus)",
+"text": "Contumacia eorum, qui ius dicenti non obtemperant, litis damno coercetur.",
+"inscription": "Hermogenianus libro primo iuris epitomarum"
+},
+{
+"id": "42.1.53.1",
+"label": "D. 42.1.53.1",
+"text": "Contumax est, qui tribus edictis propositis vel uno pro tribus, quod vulgo peremptorium appellatur. Litteris evocatus praesentiam sui facere contemnet."
+},
+{
+"id": "42.1.53.2",
+"label": "D. 42.1.53.2",
+"text": "Poenam contumacis non patitur, quem adversa valetudo vel maioris causae occupatio defendit."
+},
+{
+"id": "42.1.53.3",
+"label": "D. 42.1.53.3",
+"text": "Contumaces non videntur, nisi qui, cum oboedire deberent, non obsequuntur, id est qui ad iurisdictionem eius, cui negant obsequi, pertinent."
+},
+{
+"id": "42.1.54.pr",
+"label": "D. 42.1.54 pr. (Paulus)",
+"text": "Contra pupillum indefensum eumque, qui rei publicae causa abest, vel minorem viginti quinque annis propositum peremptorium nihil momenti habet.",
+"inscription": "Paulus libro primo sententiarum"
+},
+{
+"id": "42.1.54.1",
+"label": "D. 42.1.54.1",
+"text": "Is, qui <quid> ad maius auditorium vocatus est, si litem inchoatam deseruit, contumax non videtur."
+},
+{
+"id": "42.1.55",
+"label": "D. 42.1.55 (Ulpianus)",
+"text": "Iudex posteaquam semel sententiam dixit, postea iudex esse desinit: et hoc iure utimur, ut iudex, qui semel vel pluris vel minoris condemnavit, amplius corrigere sententiam suam non possit: semel enim male seu bene officio functus est.",
+"inscription": "Ulpianus libro 51 ad Sabinum"
+},
+{
+"id": "42.1.56",
+"label": "D. 42.1.56 (Ulpianus)",
+"text": "Post rem iudicatam vel iureiurando decisam vel confessionem in iure factam nihil quaeritur post orationem divi Marci, quia in iure confessi pro iudicatis habentur.",
+"inscription": "Ulpianus libro 27 ad edictum"
+},
+{
+"id": "42.1.57",
+"label": "D. 42.1.57 (Ulpianus)",
+"text": "Quidam consulebat, an valeret sententia a minore viginti quinque annis iudice data. Et aequissimum est tueri sententiam ab eo dictam, nisi minor decem et octo annis sit. Certe si magistratum minor gerit, dicendum est iurisdictionem eius non improbari. Et si forte ex consensu iudex minor datus sit scientibus his, qui in eum consentiebant, rectissime dicitur valere sententiam. Proinde si minor praetor, si consul ius dixerit sententiamve protulerit, valebit: princeps enim, qui ei magistratum dedit, omnia gerere decrevit.",
+"inscription": "Ulpianus libro secundo disputationum"
+},
+{
+"id": "42.1.58",
+"label": "D. 42.1.58 (Ulpianus)",
+"text": "Si, cum nulla sententia praecessisset, capta sunt et distracta pignora, possunt revocari.",
+"inscription": "Ulpianus libro septimo disputationum"
+},
+{
+"id": "42.1.59.pr",
+"label": "D. 42.1.59 pr. (Ulpianus)",
+"text": "In summa sufficiet, si expresserit iudex summam in sententia solvique iusserit vel praestari vel quo alio verbo hoc significaverit.",
+"inscription": "Ulpianus libro quarto de omnibus tribunalibus"
+},
+{
+"id": "42.1.59.1",
+"label": "D. 42.1.59.1",
+"text": "Amplius est rescriptum, etsi in sententia non sit summa adiecta, si tamen is qui petit summam expresserit et iudex ait: \"Solve, quod petitum est\" vel \"quantum petitum est\", valere sententiam."
+},
+{
+"id": "42.1.59.2",
+"label": "D. 42.1.59.2",
+"text": "Qui sortis quidem condemnationem faciunt, de usuris autem ita pronuntiant \"usurae si quae competunt\" vel \"quae competunt, ut praestentur\", non recte pronuntiant: debent enim de usuris quoque cognoscere et certam facere condemnationem."
+},
+{
+"id": "42.1.59.3",
+"label": "D. 42.1.59.3",
+"text": "Si quis ex edicto peremptorio post mortem sit condemnatus, non valet sententia, quia morte rei peremptorium solvitur. Ideoque, ut in re integra, de causa notio praestabitur et quod optimum patuerit, statuetur."
+},
+{
+"id": "42.1.60",
+"label": "D. 42.1.60 (Iulianus)",
+"text": "Quaesitum est, cum alter ex litigatoribus febricitans discessisset et iudex absente eo pronuntiasset, an iure videretur pronuntiasse. Respondit: morbus sonticus etiam invitis litigatoribus ac iudice diem differt. Sonticus autem existimandus est, qui cuiusque rei agendae impedimento est. Litiganti porro quid magis impedimento est, quam motus corporis contra naturam, quem febrem appellant? Igitur si rei iudicandae tempore alter ex litigatoribus febrem habuit, res non videtur iudicata. Potest tamen dici esse aliquam et febrium differentiam: nam si quis sanus alias ac robustus tempore iudicandi levissima febre correptus fuerit, aut si quis tam veterem quartanam habeat, ut in ea omnibus negotiis superesse soleat, poterit dici morbum sonticum non habere.",
+"inscription": "Iulianus libro quinto digestorum"
+},
+{
+"id": "42.1.61",
+"label": "D. 42.1.61 (Iulianus)",
+"text": "In iudicati actione non prius ratio haberi debet eius, cui prior reus condemnatus fuerit.",
+"inscription": "Iulianus libro 45 digestorum"
+},
+{
+"id": "42.1.62",
+"label": "D. 42.1.62 (Alfenus)",
+"text": "Cum quaerebatur, iudex, si perperam iudicasset, an posset eodem die iterum iudicare, respondit non posse.",
+"inscription": "Alfenus libro sexto digestorum a Paulo epitomatorum"
+},
+{
+"id": "42.1.63",
+"label": "D. 42.1.63 (Macer)",
+"text": "Saepe constitutum est res inter alios iudicatas aliis non praeiudicare. Quod tamen quandam distinctionem habet: nam sententia inter alios dicta aliis quibusdam etiam scientibus obest, quibusdam vero, etiamsi contra ipsos iudicatum sit, nihil nocet. Nam scientibus nihil praeiudicat, veluti si ex duobus heredibus debitoris alter condemnatur: nam alteri integra defensio est, etiamsi cum coherede suo agi scierit. Item si ex duobus petitoribus alter victus adquieverit, alterius petitioni non praeiudicatur: idque ita rescriptum est. Scientibus sententia, quae inter alios data est, obest, cum quis de ea re, cuius actio vel defensio primum sibi competit, sequentem agere patiatur, veluti si creditor experiri passus sit debitorem de proprietate pignoris, aut maritus socerum vel uxorem de proprietate rei in dote acceptae, aut possessor venditorem de proprietate rei emptae: et haec ita ex multis constitutionibus intellegenda sunt. Cur autem his quidem scientia nocet, superioribus vero non nocet, illa ratio est, quod qui scit coheredem suum agere, prohibere eum, quo minus uti velit propria actione vel defensione utatur, non potest: is vero, qui priorem dominum defendere causam patitur, ideo propter scientiam praescriptione rei quamvis inter alios iudicatae summovetur, quia ex voluntate eius de iure, quod ex persona agentis habuit, iudicatum est. Nam et si libertus meus me interveniente servus vel libertus alterius iudicetur, mihi praeiudicatur. Diversa causa est, si fundum a te Titius petierit, quem ego quoque, sed non ex persona Titii ad me pertinere dico: nam quamvis contra Titium me sciente iudicatum sit, nullum tamen praeiudicium patior, quia neque ex eo iure, quo Titius victus est, vindico, neque potui Titio intercedere, quo minus iure suo utatur, sicuti et de coherede supra diximus.",
+"inscription": "Macer libro secundo de appellationibus"
+},
+{
+"id": "42.1.64",
+"label": "D. 42.1.64 (Scaevola)",
+"text": "Negotiorum gestorum condemnatus appellavit et diu negotium tractum est: quaesitum est appellatione eius iniusta pronuntiata, an, quo tardius iudicatum sit, usurae pecuniae in condemnatum deductae medii temporis debeantur. Respondit secundum ea quae proponentur dandam utilem actionem.",
+"inscription": "Scaevola libro 25 digestorum"
+}
+]
+}

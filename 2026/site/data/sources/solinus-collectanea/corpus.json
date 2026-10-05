@@ -1,0 +1,22 @@
+{
+ "id": "solinus-collectanea",
+ "title": "Solinus, Collectanea rerum memorabilium (Polyhistor)",
+ "language": "la",
+ "edition": "Mommsen's chapter division (1895), as transcribed at The Latin Library; chapters only, no section numbers",
+ "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+ "attribution": "Text: The Latin Library (thelatinlibrary.com), ed. William L. Carey",
+ "url": "https://www.thelatinlibrary.com/solinus1a.html",
+ "unit_scheme": "work",
+ "passage_scheme": "chapter",
+ "units": [
+  "all"
+ ],
+ "passage_note": "chapter 'pr' is a preface; Roman chapter numerals are given in Arabic",
+ "source_files": [
+  "https://www.thelatinlibrary.com/solinus1a.html",
+  "https://www.thelatinlibrary.com/solinus2a.html",
+  "https://www.thelatinlibrary.com/solinus3a.html",
+  "https://www.thelatinlibrary.com/solinus4a.html"
+ ],
+ "unit_note": "Short work, or a work without books: one unit named 'all'."
+}

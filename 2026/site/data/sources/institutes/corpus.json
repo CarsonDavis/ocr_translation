@@ -1,0 +1,19 @@
+{
+ "id": "institutes",
+ "title": "Institutes of Justinian",
+ "language": "la",
+ "edition": "Krüger text as published at droitromain.univ-grenoble-alpes.fr",
+ "license": "public domain (edition text); site courtesy of Université Grenoble Alpes",
+ "attribution": "Text: droitromain.univ-grenoble-alpes.fr (Y. Lassard, A. Koptev)",
+ "url": "https://droitromain.univ-grenoble-alpes.fr/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.title[.paragraph]",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "proem"
+ ],
+ "passage_note": "Unit 'proem' holds the constitutio Imperatoriam (proem.pr, proem.1...). Each book unit carries 'titles' (book.title -> rubric)."
+}

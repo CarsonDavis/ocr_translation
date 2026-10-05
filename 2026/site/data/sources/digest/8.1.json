@@ -1,0 +1,162 @@
+{
+"corpus": "digest",
+"unit": "8.1",
+"title": "D. 8.1 De servitutibus",
+"passages": [
+{
+"id": "8.1.1",
+"label": "D. 8.1.1 (Marcianus)",
+"text": "Servitutes aut personarum sunt, ut usus et usus fructus, aut rerum, ut servitutes rusticorum praediorum et urbanorum.",
+"inscription": "Marcianus libro tertio regularum"
+},
+{
+"id": "8.1.2",
+"label": "D. 8.1.2 (Ulpianus)",
+"text": "Unus ex dominis communium aedium servitutem imponere non potest.",
+"inscription": "Ulpianus libro 17 ad edictum"
+},
+{
+"id": "8.1.3",
+"label": "D. 8.1.3 (Paulus)",
+"text": "Servitutes praediorum aliae in solo, aliae in superficie consistunt.",
+"inscription": "Paulus libro 21 ad edictum"
+},
+{
+"id": "8.1.4.pr",
+"label": "D. 8.1.4 pr. (Papinianus)",
+"text": "Servitutes ipso quidem iure neque ex tempore neque ad tempus neque sub condicione neque ad certam condicionem ( verbi gratia \"quamdiu volam\") constitui possunt: sed tamen si haec adiciantur, pacti vel per doli exceptionem occurretur contra placita servitutem vindicanti: idque et Sabinum respondisse Cassius rettulit et sibi placere.",
+"inscription": "Papinianus libro septimo quaestionum"
+},
+{
+"id": "8.1.4.1",
+"label": "D. 8.1.4.1",
+"text": "Modum adici servitutibus posse constat: veluti quo genere vehiculi agatur vel non agatur ( veluti ut equo dumtaxat) vel ut certum pondus vehatur vel grex ille transducatur aut carbo portetur."
+},
+{
+"id": "8.1.4.2",
+"label": "D. 8.1.4.2",
+"text": "Intervalla dierum et horarum non ad temporis causam, sed ad modum pertinent iure constitutae servitutis."
+},
+{
+"id": "8.1.5.pr",
+"label": "D. 8.1.5 pr. (Gaius)",
+"text": "Via iter actus ductus aquae isdem fere modis constituitur, quibus et usum fructum constitui diximus.",
+"inscription": "Gaius libro septimo ad edictum provinciale"
+},
+{
+"id": "8.1.5.1",
+"label": "D. 8.1.5.1",
+"text": "Usus servitutium temporibus secerni potest, forte ut quis post horam tertiam usque in horam decimam eo iure utatur vel ut alternis diebus utatur."
+},
+{
+"id": "8.1.6",
+"label": "D. 8.1.6 (Paulus)",
+"text": "Ad certam partem fundi servitus tam remitti quam constitui potest.",
+"inscription": "Paulus libro 21 ad edictum"
+},
+{
+"id": "8.1.7",
+"label": "D. 8.1.7 (Ulpianus)",
+"text": "Ius cloacae mittendae servitus est.",
+"inscription": "Ulpianus libro 13 ad legem Iuliam et Papiam"
+},
+{
+"id": "8.1.8.pr",
+"label": "D. 8.1.8 pr. (Paulus)",
+"text": "Ut pomum decerpere liceat et ut spatiari et ut cenare in alieno possimus, servitus imponi non potest.",
+"inscription": "Paulus libro 15 ad Plautium"
+},
+{
+"id": "8.1.8.1",
+"label": "D. 8.1.8.1",
+"text": "Si praedium tuum mihi serviat, sive ego partis praedii tui dominus esse coepero sive tu mei, per partes servitus retinetur, licet ab initio per partes adquiri non poterat."
+},
+{
+"id": "8.1.9",
+"label": "D. 8.1.9 (Celsus)",
+"text": "Si cui simplicius via per fundum cuiuspiam cedatur vel relinquatur, in infinito, videlicet per quamlibet eius partem, ire agere licebit, civiliter modo: nam quaedam in sermone tacite excipiuntur. Non enim per villam ipsam nec per medias vineas ire agere sinendus est, cum id aeque commode per alteram partem facere possit minore servientis fundi detrimento. Verum constitit, ut qua primum viam direxisset, ea demum ire agere deberet nec amplius mutandae eius potestatem haberet: sicuti Sabino quoque videbatur, qui argumento rivi utebatur, quem primo qualibet ducere licuisset, posteaquam ductus esset, transferre non liceret: quod et in via servandum esse verum est.",
+"inscription": "Celsus libro quinto digestorum"
+},
+{
+"id": "8.1.10",
+"label": "D. 8.1.10 (Celsus)",
+"text": "Si iter legatum sit, qua nisi opere facto iri non possit, licere fodiendo substruendo iter facere Proculus ait.",
+"inscription": "Celsus libro 18 digestorum"
+},
+{
+"id": "8.1.11",
+"label": "D. 8.1.11 (Modestinus)",
+"text": "Pro parte dominii servitutem adquiri non posse volgo traditur: et ideo si quis fundum habens viam stipuletur et partem fundi sui postea alienet, corrumpit stipulationem in eum casum deducendo, a quo stipulatio incipere non possit. Pro parte quoque neque legari neque adimi via potest et, si id factum est, neque legatum neque ademptio valet.",
+"inscription": "Modestinus libro sexto differentiarum"
+},
+{
+"id": "8.1.12",
+"label": "D. 8.1.12 (Iavolenus)",
+"text": "Non dubito, quin fundo municipum per servum recte servitus adquiratur.",
+"inscription": "Iavolenus libro quarto epistularum"
+},
+{
+"id": "8.1.13",
+"label": "D. 8.1.13 (Pomponius)",
+"text": "Si tam angusti loci demonstratione facta via concessa fuerit, ut neque vehiculum neque iumentum ea inire possit, iter magis quam via aut actus adquisitus videbitur: sed si iumentum ea duci poterit, non etiam vehiculum, actus videbitur adquisitus.",
+"inscription": "Pomponius libro 14 ad Quintum Mucium"
+},
+{
+"id": "8.1.14.pr",
+"label": "D. 8.1.14 pr. (Paulus)",
+"text": "Servitutes praediorum rusticorum etiamsi corporibus accedunt, incorporales tamen sunt et ideo usu non capiuntur: vel ideo, quia tales sunt servitutes, ut non habeant certam continuamque possessionem: nemo enim tam perpetuo, tam continenter ire potest, ut nullo momento possessio eius interpellari videatur. Idem et in servitutibus praediorum urbanorum observatur.",
+"inscription": "Paulus libro 15 ad Sabinum"
+},
+{
+"id": "8.1.14.1",
+"label": "D. 8.1.14.1",
+"text": "Servitus itineris ad sepulchrum privati iuris manet et ideo remitti domino fundi servientis potest: et adquiri etiam post religionem sepulchri haec servitus potest."
+},
+{
+"id": "8.1.14.2",
+"label": "D. 8.1.14.2",
+"text": "Publico loco interveniente vel via publica haustus servitus imponi potest, aquae ductus non potest: a principe autem peti solet, ut per viam publicam aquam ducere sine incommodo publico liceat. Sacri et religiosi loci interventus etiam itineris servitutem impedit, cum servitus per ea loca nulli deberi potest."
+},
+{
+"id": "8.1.15.pr",
+"label": "D. 8.1.15 pr. (Pomponius)",
+"text": "Quotiens nec hominum nec praediorum servitutes sunt, quia nihil vicinorum interest, non valet, veluti ne per fundum tuum eas aut ibi consistas: et ideo si mihi concedas ius tibi non esse fundo tuo uti frui, nihil agitur: aliter atque si concedas mihi ius tibi non esse in fundo tuo aquam quaerere minuendae aquae meae gratia.",
+"inscription": "Pomponius libro 33 ad Sabinum"
+},
+{
+"id": "8.1.15.1",
+"label": "D. 8.1.15.1",
+"text": "Servitutium non ea natura est, ut aliquid faciat quis, veluti viridia tollat aut amoeniorem prospectum praestet, aut in hoc ut in suo pingat, sed ut aliquid patiatur aut non faciat."
+},
+{
+"id": "8.1.16",
+"label": "D. 8.1.16 (Iulianus)",
+"text": "Ei, qui pignori fundum accepit, non est iniquum utilem petitionem servitutis dari, sicuti ipsius fundi utilis petitio dabitur. Idem servari convenit et in eo, ad quem vectigalis fundus pertinet.",
+"inscription": "Iulianus libro 49 digestorum"
+},
+{
+"id": "8.1.17",
+"label": "D. 8.1.17 (Pomponius)",
+"text": "Viae itineris actus aquae ductus pars in obligationem deduci non potest, quia usus eorum indivisus est: et ideo si stipulator decesserit pluribus heredibus relictis, singuli solidam viam petunt: et si promissor decesserit pluribus heredibus relictis, a singulis heredibus solida petitio est.",
+"inscription": "Pomponius libro singulari regularum"
+},
+{
+"id": "8.1.18",
+"label": "D. 8.1.18 (Paulus)",
+"text": "In omnibus servitutibus, quae actione confusae sunt, responsum est doli exceptionem nocituram legatario, si non patiatur eas iterum imponi.",
+"inscription": "Paulus notum ad Papiniani liber 31 quaestionum"
+},
+{
+"id": "8.1.19",
+"label": "D. 8.1.19 (Labeo)",
+"text": "Ei fundo, quem quis vendat, servitutem imponi, et si non utilis sit, posse existimo: veluti si aquam alicui dedere ducere non expediret, nihilo minus constitui ea servitus possit: quaedam enim debere habere possumus, quamvis ea nobis utilia non sunt.",
+"inscription": "Labeo libro quarto ex posterioribus a Iavoleni epitomis"
+},
+{
+"id": "8.1.20",
+"label": "D. 8.1.20 (Iavolenus)",
+"text": "Quotiens via aut aliquid ius fundi emeretur, cavendum putat esse labeo per te non fieri, quo minus eo iure uti possit, quia nulla eiusmodi iuris vacua traditio esset. Ego puto usum eius iuris pro traditione possessionis accipiendum esse ideoque et interdicta veluti possessoria constituta sunt.",
+"inscription": "Iavolenus libro quinto ex posterioribus Labeonis"
+}
+]
+}

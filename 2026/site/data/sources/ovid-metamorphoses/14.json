@@ -1,0 +1,4247 @@
+{
+"corpus": "ovid-metamorphoses",
+"unit": "14",
+"title": "Ovid, Metamorphoses, Met. 14",
+"passages": [
+{
+"id": "14.1",
+"label": "Ov. Met. 14.1",
+"text": "Iamque Giganteis iniectam faucibus Aetnen"
+},
+{
+"id": "14.2",
+"label": "Ov. Met. 14.2",
+"text": "arvaque Cyclopum, quid rastra, quid usus aratri"
+},
+{
+"id": "14.3",
+"label": "Ov. Met. 14.3",
+"text": "nescia nec quicquam iunctis debentia bubus,"
+},
+{
+"id": "14.4",
+"label": "Ov. Met. 14.4",
+"text": "liquerat Euboicus tumidarum cultor aquarum,"
+},
+{
+"id": "14.5",
+"label": "Ov. Met. 14.5",
+"text": "liquerat et Zanclen adversaque moenia Rhegi"
+},
+{
+"id": "14.6",
+"label": "Ov. Met. 14.6",
+"text": "navifragumque fretum, gemino quod litore pressum"
+},
+{
+"id": "14.7",
+"label": "Ov. Met. 14.7",
+"text": "Ausoniae Siculaeque tenet confinia terrae."
+},
+{
+"id": "14.8",
+"label": "Ov. Met. 14.8",
+"text": "Inde manu magna Tyrrhena per aequora raptus"
+},
+{
+"id": "14.9",
+"label": "Ov. Met. 14.9",
+"text": "herbiferos adiit colles atque atria Glaucus"
+},
+{
+"id": "14.10",
+"label": "Ov. Met. 14.10",
+"text": "Sole satae Circes, variarum plena ferarum."
+},
+{
+"id": "14.11",
+"label": "Ov. Met. 14.11",
+"text": "Quam simul adspexit, dicta acceptaque salute,"
+},
+{
+"id": "14.12",
+"label": "Ov. Met. 14.12",
+"text": "“diva, dei miserere, precor! nam sola levare"
+},
+{
+"id": "14.13",
+"label": "Ov. Met. 14.13",
+"text": "tu potes hunc,” dixit “videar modo dignior esse!"
+},
+{
+"id": "14.14",
+"label": "Ov. Met. 14.14",
+"text": "Quanta sit herbarum, Titani, potentia, nulli"
+},
+{
+"id": "14.15",
+"label": "Ov. Met. 14.15",
+"text": "quam mihi cognitius, qui sum mutatus ab illis."
+},
+{
+"id": "14.16",
+"label": "Ov. Met. 14.16",
+"text": "Neve mei non nota tibi sit causa furoris:"
+},
+{
+"id": "14.17",
+"label": "Ov. Met. 14.17",
+"text": "litore in Italico, Messenia moenia contra,"
+},
+{
+"id": "14.18",
+"label": "Ov. Met. 14.18",
+"text": "Scylla mihi visa est; pudor est promissa precesque"
+},
+{
+"id": "14.19",
+"label": "Ov. Met. 14.19",
+"text": "blanditiasque meas contemptaque verba referre."
+},
+{
+"id": "14.20",
+"label": "Ov. Met. 14.20",
+"text": "At tu, sive aliquod regnum est in carmine, carmen"
+},
+{
+"id": "14.21",
+"label": "Ov. Met. 14.21",
+"text": "ore move sacro, sive expugnantior herba est,"
+},
+{
+"id": "14.22",
+"label": "Ov. Met. 14.22",
+"text": "utere temptatis operosae viribus herbae."
+},
+{
+"id": "14.23",
+"label": "Ov. Met. 14.23",
+"text": "Nec medeare mihi sanesque haec vulnera mando,"
+},
+{
+"id": "14.24",
+"label": "Ov. Met. 14.24",
+"text": "fineque nil opus est: partem ferat illa caloris.”"
+},
+{
+"id": "14.25",
+"label": "Ov. Met. 14.25",
+"text": "At Circe (neque enim flammis habet aptius ulla"
+},
+{
+"id": "14.26",
+"label": "Ov. Met. 14.26",
+"text": "talibus ingenium, seu causa est huius in ipsa,"
+},
+{
+"id": "14.27",
+"label": "Ov. Met. 14.27",
+"text": "seu Venus indicio facit hoc offensa paterno)"
+},
+{
+"id": "14.28",
+"label": "Ov. Met. 14.28",
+"text": "talia verba refert. “Melius sequerere volentem"
+},
+{
+"id": "14.29",
+"label": "Ov. Met. 14.29",
+"text": "optantemque eadem parilique cupidine captam."
+},
+{
+"id": "14.30",
+"label": "Ov. Met. 14.30",
+"text": "Dignus eras ultro (poteras certeque) rogari,"
+},
+{
+"id": "14.31",
+"label": "Ov. Met. 14.31",
+"text": "et, si spem dederis, mihi crede, rogaberis ultro."
+},
+{
+"id": "14.32",
+"label": "Ov. Met. 14.32",
+"text": "Neu dubites adsitque tuae fiducia formae:"
+},
+{
+"id": "14.33",
+"label": "Ov. Met. 14.33",
+"text": "en ego, cum dea sim, nitidi cum filia Solis,"
+},
+{
+"id": "14.34",
+"label": "Ov. Met. 14.34",
+"text": "gramine cum tantum, tantum quoque carmine possim,"
+},
+{
+"id": "14.35",
+"label": "Ov. Met. 14.35",
+"text": "ut tua sim, voveo; spernentem sperne, sequenti"
+},
+{
+"id": "14.36",
+"label": "Ov. Met. 14.36",
+"text": "redde vices unoque duas ulciscere facto!”"
+},
+{
+"id": "14.37",
+"label": "Ov. Met. 14.37",
+"text": "Talia temptanti “prius” inquit “in aequore frondes”"
+},
+{
+"id": "14.38",
+"label": "Ov. Met. 14.38",
+"text": "Glaucus “et in summis nascentur montibus algae,"
+},
+{
+"id": "14.39",
+"label": "Ov. Met. 14.39",
+"text": "sospite quam Scylla nostri mutentur amores!”"
+},
+{
+"id": "14.40",
+"label": "Ov. Met. 14.40",
+"text": "Indignata dea est, et laedere quatenus ipsum"
+},
+{
+"id": "14.41",
+"label": "Ov. Met. 14.41",
+"text": "non poterat (nec vellet amans), irascitur illi,"
+},
+{
+"id": "14.42",
+"label": "Ov. Met. 14.42",
+"text": "quae sibi praelata est, venerisque offensa repulsa"
+},
+{
+"id": "14.43",
+"label": "Ov. Met. 14.43",
+"text": "protinus horrendis infamia pabula sucis"
+},
+{
+"id": "14.44",
+"label": "Ov. Met. 14.44",
+"text": "conterit et tritis Hecateia carmina miscet"
+},
+{
+"id": "14.45",
+"label": "Ov. Met. 14.45",
+"text": "caerulaque induitur velamina perque ferarum"
+},
+{
+"id": "14.46",
+"label": "Ov. Met. 14.46",
+"text": "agmen adulantum media procedit ab aula,"
+},
+{
+"id": "14.47",
+"label": "Ov. Met. 14.47",
+"text": "oppositumque petens contra Zancleia saxa"
+},
+{
+"id": "14.48",
+"label": "Ov. Met. 14.48",
+"text": "Rhegion ingreditur ferventes aestibus undas,"
+},
+{
+"id": "14.49",
+"label": "Ov. Met. 14.49",
+"text": "in quibus ut solida ponit vestigia terra"
+},
+{
+"id": "14.50",
+"label": "Ov. Met. 14.50",
+"text": "summaque decurrit pedibus super aequora siccis."
+},
+{
+"id": "14.51",
+"label": "Ov. Met. 14.51",
+"text": "Parvus erat gurges, curvos sinuatus in arcus,"
+},
+{
+"id": "14.52",
+"label": "Ov. Met. 14.52",
+"text": "grata quies Scyllae; quo se referebat ab aestu"
+},
+{
+"id": "14.53",
+"label": "Ov. Met. 14.53",
+"text": "et maris et caeli, medio cum plurimus orbe"
+},
+{
+"id": "14.54",
+"label": "Ov. Met. 14.54",
+"text": "sol erat et minimas a vertice fecerat umbras."
+},
+{
+"id": "14.55",
+"label": "Ov. Met. 14.55",
+"text": "Hunc dea praevitiat portentificisque venenis"
+},
+{
+"id": "14.56",
+"label": "Ov. Met. 14.56",
+"text": "inquinat, hic pressos latices radice nocenti"
+},
+{
+"id": "14.57",
+"label": "Ov. Met. 14.57",
+"text": "spargit et obscurum verborum ambage novorum"
+},
+{
+"id": "14.58",
+"label": "Ov. Met. 14.58",
+"text": "ter noviens carmen magico demurmurat ore."
+},
+{
+"id": "14.59",
+"label": "Ov. Met. 14.59",
+"text": "Scylla venit mediaque tenus descenderat alvo,"
+},
+{
+"id": "14.60",
+"label": "Ov. Met. 14.60",
+"text": "cum sua foedari latrantibus inguina monstris"
+},
+{
+"id": "14.61",
+"label": "Ov. Met. 14.61",
+"text": "adspicit ac primo credens non corporis illas"
+},
+{
+"id": "14.62",
+"label": "Ov. Met. 14.62",
+"text": "esse sui partes refugitque abigitque timetque"
+},
+{
+"id": "14.63",
+"label": "Ov. Met. 14.63",
+"text": "ora proterva canum, sed quos fugit, attrahit una"
+},
+{
+"id": "14.64",
+"label": "Ov. Met. 14.64",
+"text": "et corpus quaerens femorum crurumque pedumque,"
+},
+{
+"id": "14.65",
+"label": "Ov. Met. 14.65",
+"text": "Cerbereos rictus pro partibus invenit illis:"
+},
+{
+"id": "14.66",
+"label": "Ov. Met. 14.66",
+"text": "statque canum rabie subiectaque terga ferarum"
+},
+{
+"id": "14.67",
+"label": "Ov. Met. 14.67",
+"text": "inguinibus truncis uteroque exstante coercet."
+},
+{
+"id": "14.68",
+"label": "Ov. Met. 14.68",
+"text": "Flevit amans Glaucus nimiumque hostiliter usae"
+},
+{
+"id": "14.69",
+"label": "Ov. Met. 14.69",
+"text": "viribus herbarum fugit conubia Circes;"
+},
+{
+"id": "14.70",
+"label": "Ov. Met. 14.70",
+"text": "Scylla loco mansit cumque est data copia primum,"
+},
+{
+"id": "14.71",
+"label": "Ov. Met. 14.71",
+"text": "in Circes odium sociis spoliavit Ulixen;"
+},
+{
+"id": "14.72",
+"label": "Ov. Met. 14.72",
+"text": "mox eadem Teucras fuerat mersura carinas,"
+},
+{
+"id": "14.73",
+"label": "Ov. Met. 14.73",
+"text": "ni prius in scopulum, qui nunc quoque saxeus exstat,"
+},
+{
+"id": "14.74",
+"label": "Ov. Met. 14.74",
+"text": "transformata foret: scopulum quoque navita vitat."
+},
+{
+"id": "14.75",
+"label": "Ov. Met. 14.75",
+"text": "Hunc ubi Troianae remis avidamque Charybdim"
+},
+{
+"id": "14.76",
+"label": "Ov. Met. 14.76",
+"text": "evicere rates, cum iam prope litus adesset"
+},
+{
+"id": "14.77",
+"label": "Ov. Met. 14.77",
+"text": "Ausonium, Libycas vento referuntur ad oras."
+},
+{
+"id": "14.78",
+"label": "Ov. Met. 14.78",
+"text": "Excipit Aenean illic animoque domoque"
+},
+{
+"id": "14.79",
+"label": "Ov. Met. 14.79",
+"text": "non bene discidium Phrygii latura mariti"
+},
+{
+"id": "14.80",
+"label": "Ov. Met. 14.80",
+"text": "Sidonis; inque pyra sacri sub imagine facta"
+},
+{
+"id": "14.81",
+"label": "Ov. Met. 14.81",
+"text": "incubuit ferro deceptaque decipit omnes."
+},
+{
+"id": "14.82",
+"label": "Ov. Met. 14.82",
+"text": "Rursus harenosae fugiens nova moenia terrae"
+},
+{
+"id": "14.83",
+"label": "Ov. Met. 14.83",
+"text": "ad sedes Erycis fidumque relatus Acesten"
+},
+{
+"id": "14.84",
+"label": "Ov. Met. 14.84",
+"text": "sacrificat tumulumque sui genitoris honorat;"
+},
+{
+"id": "14.85",
+"label": "Ov. Met. 14.85",
+"text": "quasque rates Iris Iunonia paene cremarat,"
+},
+{
+"id": "14.86",
+"label": "Ov. Met. 14.86",
+"text": "solvit et Hippotadae regnum terrasque calenti"
+},
+{
+"id": "14.87",
+"label": "Ov. Met. 14.87",
+"text": "sulphure fumantes Acheloiadumque relinquit"
+},
+{
+"id": "14.88",
+"label": "Ov. Met. 14.88",
+"text": "Sirenum scopulos, orbataque praeside pinus"
+},
+{
+"id": "14.89",
+"label": "Ov. Met. 14.89",
+"text": "Inarimen Prochytenque legit sterilique locatas"
+},
+{
+"id": "14.90",
+"label": "Ov. Met. 14.90",
+"text": "colle Pithecusas, habitantum nomine dictas."
+},
+{
+"id": "14.91",
+"label": "Ov. Met. 14.91",
+"text": "Quippe deum genitor, fraudem et periuria quondam"
+},
+{
+"id": "14.92",
+"label": "Ov. Met. 14.92",
+"text": "Cercopum exosus gentisque admissa dolosae,"
+},
+{
+"id": "14.93",
+"label": "Ov. Met. 14.93",
+"text": "in deforme viros animal mutavit, ut idem"
+},
+{
+"id": "14.94",
+"label": "Ov. Met. 14.94",
+"text": "dissimiles homini possent similesque videri,"
+},
+{
+"id": "14.95",
+"label": "Ov. Met. 14.95",
+"text": "membraque contraxit naresque a fronte resimas"
+},
+{
+"id": "14.96",
+"label": "Ov. Met. 14.96",
+"text": "contudit et rugis peraravit anilibus ora"
+},
+{
+"id": "14.97",
+"label": "Ov. Met. 14.97",
+"text": "totaque velatos flaventi corpora villo"
+},
+{
+"id": "14.98",
+"label": "Ov. Met. 14.98",
+"text": "misit in has sedes nec non prius abstulit usum"
+},
+{
+"id": "14.99",
+"label": "Ov. Met. 14.99",
+"text": "verborum et natae dira in periuria linguae:"
+},
+{
+"id": "14.100",
+"label": "Ov. Met. 14.100",
+"text": "posse queri tantum rauco stridore reliquit."
+},
+{
+"id": "14.101",
+"label": "Ov. Met. 14.101",
+"text": "Has ubi praeteriit et Parthenopeia dextra"
+},
+{
+"id": "14.102",
+"label": "Ov. Met. 14.102",
+"text": "moenia deseruit, laeva de parte canori"
+},
+{
+"id": "14.103",
+"label": "Ov. Met. 14.103",
+"text": "Aeolidae tumulum et, loca feta palustribus undis,"
+},
+{
+"id": "14.104",
+"label": "Ov. Met. 14.104",
+"text": "litora Cumarum vivacisque antra Sibyllae"
+},
+{
+"id": "14.105",
+"label": "Ov. Met. 14.105",
+"text": "intrat, et ut manes veniat per Averna paternos,"
+},
+{
+"id": "14.106",
+"label": "Ov. Met. 14.106",
+"text": "orat. At illa diu vultum tellure moratum"
+},
+{
+"id": "14.107",
+"label": "Ov. Met. 14.107",
+"text": "erexit tandemque deo furibunda recepto"
+},
+{
+"id": "14.108",
+"label": "Ov. Met. 14.108",
+"text": "“magna petis” dixit, “vir factis maxime, cuius"
+},
+{
+"id": "14.109",
+"label": "Ov. Met. 14.109",
+"text": "dextera per ferrum est, pietas spectata per ignes."
+},
+{
+"id": "14.110",
+"label": "Ov. Met. 14.110",
+"text": "Pone tamen, Troiane, metum: potiere petitis"
+},
+{
+"id": "14.111",
+"label": "Ov. Met. 14.111",
+"text": "Elysiasque domos et regna novissima mundi"
+},
+{
+"id": "14.112",
+"label": "Ov. Met. 14.112",
+"text": "me duce cognosces simulacraque cara parentis."
+},
+{
+"id": "14.113",
+"label": "Ov. Met. 14.113",
+"text": "Invia virtuti nulla est via!” Dixit et auro"
+},
+{
+"id": "14.114",
+"label": "Ov. Met. 14.114",
+"text": "fulgentem ramum silva Iunonis Avernae"
+},
+{
+"id": "14.115",
+"label": "Ov. Met. 14.115",
+"text": "monstravit iussitque suo divellere trunco."
+},
+{
+"id": "14.116",
+"label": "Ov. Met. 14.116",
+"text": "Paruit Aeneas et formidabilis Orci"
+},
+{
+"id": "14.117",
+"label": "Ov. Met. 14.117",
+"text": "vidit opes atavosque suos umbramque senilem"
+},
+{
+"id": "14.118",
+"label": "Ov. Met. 14.118",
+"text": "magnanimi Anchisae; didicit quoque iura locorum,"
+},
+{
+"id": "14.119",
+"label": "Ov. Met. 14.119",
+"text": "quaeque novis essent adeunda pericula bellis."
+},
+{
+"id": "14.120",
+"label": "Ov. Met. 14.120",
+"text": "Inde ferens lassos adverso tramite passus"
+},
+{
+"id": "14.121",
+"label": "Ov. Met. 14.121",
+"text": "cum duce Cumaea mollit sermone laborem."
+},
+{
+"id": "14.122",
+"label": "Ov. Met. 14.122",
+"text": "Dumque iter horrendum per opaca crepuscula carpit,"
+},
+{
+"id": "14.123",
+"label": "Ov. Met. 14.123",
+"text": "“seu dea tu praesens, seu dis gratissima” dixit,"
+},
+{
+"id": "14.124",
+"label": "Ov. Met. 14.124",
+"text": "“numinis instar eris semper mihi meque fatebor"
+},
+{
+"id": "14.125",
+"label": "Ov. Met. 14.125",
+"text": "muneris esse tui, quae me loca mortis adire,"
+},
+{
+"id": "14.126",
+"label": "Ov. Met. 14.126",
+"text": "quae loca me visae voluisti evadere mortis."
+},
+{
+"id": "14.127",
+"label": "Ov. Met. 14.127",
+"text": "Pro quibus aerias meritis evectus ad auras"
+},
+{
+"id": "14.128",
+"label": "Ov. Met. 14.128",
+"text": "templa tibi statuam, tribuam tibi turis honores.”"
+},
+{
+"id": "14.129",
+"label": "Ov. Met. 14.129",
+"text": "Respicit hunc vates et suspiratibus haustis"
+},
+{
+"id": "14.130",
+"label": "Ov. Met. 14.130",
+"text": "“nec dea sum” dixit “nec sacri turis honore"
+},
+{
+"id": "14.131",
+"label": "Ov. Met. 14.131",
+"text": "humanum dignare caput; neu nescius erres,"
+},
+{
+"id": "14.132",
+"label": "Ov. Met. 14.132",
+"text": "lux aeterna mihi carituraque fine dabatur,"
+},
+{
+"id": "14.133",
+"label": "Ov. Met. 14.133",
+"text": "si mea virginitas Phoebo patuisset amanti."
+},
+{
+"id": "14.134",
+"label": "Ov. Met. 14.134",
+"text": "Dum tamen hanc sperat dum praecorrumpere donis"
+},
+{
+"id": "14.135",
+"label": "Ov. Met. 14.135",
+"text": "me cupit, “elige” ait, “virgo Cumaea, quid optes:"
+},
+{
+"id": "14.136",
+"label": "Ov. Met. 14.136",
+"text": "optatis potiere tuis.” Ego pulveris hausti"
+},
+{
+"id": "14.137",
+"label": "Ov. Met. 14.137",
+"text": "ostendi cumulum: quot haberet corpora pulvis,"
+},
+{
+"id": "14.138",
+"label": "Ov. Met. 14.138",
+"text": "tot mihi natales contingere vana rogavi;"
+},
+{
+"id": "14.139",
+"label": "Ov. Met. 14.139",
+"text": "excidit, ut peterem iuvenes quoque protinus annos."
+},
+{
+"id": "14.140",
+"label": "Ov. Met. 14.140",
+"text": "Hos tamen ille mihi dabat aeternamque iuventam,"
+},
+{
+"id": "14.141",
+"label": "Ov. Met. 14.141",
+"text": "si venerem paterer: contempto munere Phoebi"
+},
+{
+"id": "14.142",
+"label": "Ov. Met. 14.142",
+"text": "innuba permaneo; sed iam felicior aetas"
+},
+{
+"id": "14.143",
+"label": "Ov. Met. 14.143",
+"text": "terga dedit, tremuloque gradu venit aegra senectus,"
+},
+{
+"id": "14.144",
+"label": "Ov. Met. 14.144",
+"text": "quae patienda diu est (nam iam mihi saecula septem"
+},
+{
+"id": "14.145",
+"label": "Ov. Met. 14.145",
+"text": "acta vides): superest, numeros ut pulveris aequem,"
+},
+{
+"id": "14.146",
+"label": "Ov. Met. 14.146",
+"text": "ter centum messes, ter centum musta videre."
+},
+{
+"id": "14.147",
+"label": "Ov. Met. 14.147",
+"text": "Tempus erit, cum de tanto me corpore parvam"
+},
+{
+"id": "14.148",
+"label": "Ov. Met. 14.148",
+"text": "longa dies faciet consumptaque membra senecta"
+},
+{
+"id": "14.149",
+"label": "Ov. Met. 14.149",
+"text": "ad minimum redigentur onus: nec amata videbor"
+},
+{
+"id": "14.150",
+"label": "Ov. Met. 14.150",
+"text": "nec placuisse deo; Phoebus quoque forsitan ipse"
+},
+{
+"id": "14.151",
+"label": "Ov. Met. 14.151",
+"text": "vel non cognoscet vel dilexisse negabit:"
+},
+{
+"id": "14.152",
+"label": "Ov. Met. 14.152",
+"text": "usque adeo mutata ferar, nullique videnda,"
+},
+{
+"id": "14.153",
+"label": "Ov. Met. 14.153",
+"text": "voce tamen noscar; vocem mihi fata relinquent.”"
+},
+{
+"id": "14.154",
+"label": "Ov. Met. 14.154",
+"text": "Talia convexum per iter memorante Sibylla"
+},
+{
+"id": "14.155",
+"label": "Ov. Met. 14.155",
+"text": "sedibus Euboicam Stygiis emergit in urbem"
+},
+{
+"id": "14.156",
+"label": "Ov. Met. 14.156",
+"text": "Troius Aeneas sacrisque ex more litatis"
+},
+{
+"id": "14.157",
+"label": "Ov. Met. 14.157",
+"text": "litora adit nondum nutricis habentia nomen."
+},
+{
+"id": "14.158",
+"label": "Ov. Met. 14.158",
+"text": "Hic quoque substiterat per taedia longa laborum"
+},
+{
+"id": "14.159",
+"label": "Ov. Met. 14.159",
+"text": "Neritius Macareus, comes experientis Ulixei;"
+},
+{
+"id": "14.160",
+"label": "Ov. Met. 14.160",
+"text": "desertum quondam mediis e rupibus Aetnae"
+},
+{
+"id": "14.161",
+"label": "Ov. Met. 14.161",
+"text": "noscit Achaemeniden improvisoque repertum"
+},
+{
+"id": "14.162",
+"label": "Ov. Met. 14.162",
+"text": "vivere miratus “qui de casusve deusve"
+},
+{
+"id": "14.163",
+"label": "Ov. Met. 14.163",
+"text": "servat, Achaemenide? cur” inquit “barbara Graium"
+},
+{
+"id": "14.164",
+"label": "Ov. Met. 14.164",
+"text": "prora vehit? petitur vestra quae terra carina?”"
+},
+{
+"id": "14.165",
+"label": "Ov. Met. 14.165",
+"text": "Talia quaerenti iam non hirsutus amictu,"
+},
+{
+"id": "14.166",
+"label": "Ov. Met. 14.166",
+"text": "iam suus et spinis conserto tegmine nullis,"
+},
+{
+"id": "14.167",
+"label": "Ov. Met. 14.167",
+"text": "fatur Achaemenides: “Iterum Polyphemon et illos"
+},
+{
+"id": "14.168",
+"label": "Ov. Met. 14.168",
+"text": "adspiciam fluidos humano sanguine rictus,"
+},
+{
+"id": "14.169",
+"label": "Ov. Met. 14.169",
+"text": "hac mihi si potior domus est Ithacique carina,"
+},
+{
+"id": "14.170",
+"label": "Ov. Met. 14.170",
+"text": "si minus Aenean veneror genitore nec umquam"
+},
+{
+"id": "14.171",
+"label": "Ov. Met. 14.171",
+"text": "esse satis potero, praestem licet omnia, gratus."
+},
+{
+"id": "14.172",
+"label": "Ov. Met. 14.172",
+"text": "Quod loquor et spiro caelumque et sidera solis"
+},
+{
+"id": "14.173",
+"label": "Ov. Met. 14.173",
+"text": "respicio, possimne ingratus et impius esse?"
+},
+{
+"id": "14.174",
+"label": "Ov. Met. 14.174",
+"text": "Ille dedit, quod non anima haec Cyclopis in ora"
+},
+{
+"id": "14.175",
+"label": "Ov. Met. 14.175",
+"text": "venit, et ut iam nunc lumen vitale relinquam,"
+},
+{
+"id": "14.176",
+"label": "Ov. Met. 14.176",
+"text": "aut tumulo aut certe non illa condar in alvo."
+},
+{
+"id": "14.177",
+"label": "Ov. Met. 14.177",
+"text": "Quid mihi tunc animi (nisi si timor abstulit omnem"
+},
+{
+"id": "14.178",
+"label": "Ov. Met. 14.178",
+"text": "sensum animumque) fuit, cum vos petere alta relictus"
+},
+{
+"id": "14.179",
+"label": "Ov. Met. 14.179",
+"text": "aequora conspexi? Volui inclamare, sed hosti"
+},
+{
+"id": "14.180",
+"label": "Ov. Met. 14.180",
+"text": "prodere me timui: vestrae quoque clamor Ulixis"
+},
+{
+"id": "14.181",
+"label": "Ov. Met. 14.181",
+"text": "paene rati nocuit. Vidi, cum monte revulsum"
+},
+{
+"id": "14.182",
+"label": "Ov. Met. 14.182",
+"text": "inmanem scopulum medias permisit in undas;"
+},
+{
+"id": "14.183",
+"label": "Ov. Met. 14.183",
+"text": "vidi iterum veluti tormenti viribus acta"
+},
+{
+"id": "14.184",
+"label": "Ov. Met. 14.184",
+"text": "vasta Giganteo iaculantem saxa lacerto"
+},
+{
+"id": "14.185",
+"label": "Ov. Met. 14.185",
+"text": "et, ne deprimeret fluctus ventusve carinam,"
+},
+{
+"id": "14.186",
+"label": "Ov. Met. 14.186",
+"text": "pertimui, iam me non esse oblitus in illa."
+},
+{
+"id": "14.187",
+"label": "Ov. Met. 14.187",
+"text": "Ut vero fuga vos a certa morte reduxit,"
+},
+{
+"id": "14.188",
+"label": "Ov. Met. 14.188",
+"text": "ille quidem totam gemebundus obambulat Aetnam"
+},
+{
+"id": "14.189",
+"label": "Ov. Met. 14.189",
+"text": "praetemptatque manu silvas et luminis orbus"
+},
+{
+"id": "14.190",
+"label": "Ov. Met. 14.190",
+"text": "rupibus incursat foedataque bracchia tabo"
+},
+{
+"id": "14.191",
+"label": "Ov. Met. 14.191",
+"text": "in mare protendens gentem exsecratur Achivam"
+},
+{
+"id": "14.192",
+"label": "Ov. Met. 14.192",
+"text": "atque ait: “O si quis referat mihi casus Ulixem"
+},
+{
+"id": "14.193",
+"label": "Ov. Met. 14.193",
+"text": "aut aliquem e sociis, in quem mea saeviat ira,"
+},
+{
+"id": "14.194",
+"label": "Ov. Met. 14.194",
+"text": "viscera cuius edam, cuius viventia dextra"
+},
+{
+"id": "14.195",
+"label": "Ov. Met. 14.195",
+"text": "membra mea laniem, cuius mihi sanguis inundet"
+},
+{
+"id": "14.196",
+"label": "Ov. Met. 14.196",
+"text": "guttur et elisi trepident sub dentibus artus:"
+},
+{
+"id": "14.197",
+"label": "Ov. Met. 14.197",
+"text": "quam nullum aut leve sit damnum mihi lucis ademptae!”"
+},
+{
+"id": "14.198",
+"label": "Ov. Met. 14.198",
+"text": "Haec et plura ferox; me luridus occupat horror"
+},
+{
+"id": "14.199",
+"label": "Ov. Met. 14.199",
+"text": "spectantem vultus etiamnum caede madentes"
+},
+{
+"id": "14.200",
+"label": "Ov. Met. 14.200",
+"text": "crudelesque manus et inanem luminis orbem"
+},
+{
+"id": "14.201",
+"label": "Ov. Met. 14.201",
+"text": "membraque et humano concretam sanguine barbam."
+},
+{
+"id": "14.202",
+"label": "Ov. Met. 14.202",
+"text": "mors erat ante oculos, minimum tamen ipsa doloris:"
+},
+{
+"id": "14.203",
+"label": "Ov. Met. 14.203",
+"text": "et iam prensurum, iam nunc mea viscera rebar"
+},
+{
+"id": "14.204",
+"label": "Ov. Met. 14.204",
+"text": "in sua mersurum, mentique haerebat imago"
+},
+{
+"id": "14.205",
+"label": "Ov. Met. 14.205",
+"text": "temporis illius, quo vidi bina meorum"
+},
+{
+"id": "14.206",
+"label": "Ov. Met. 14.206",
+"text": "ter quater adfligi sociorum corpora terrae,"
+},
+{
+"id": "14.207",
+"label": "Ov. Met. 14.207",
+"text": "cum super ipse iacens hirsuti more leonis"
+},
+{
+"id": "14.208",
+"label": "Ov. Met. 14.208",
+"text": "visceraque et carnes cumque albis ossa medullis"
+},
+{
+"id": "14.209",
+"label": "Ov. Met. 14.209",
+"text": "semianimesque artus avidam condebat in alvum."
+},
+{
+"id": "14.210",
+"label": "Ov. Met. 14.210",
+"text": "Me tremor invasit: stabam sine sanguine maestus;"
+},
+{
+"id": "14.211",
+"label": "Ov. Met. 14.211",
+"text": "mandentemque videns eiectantemque cruentas"
+},
+{
+"id": "14.212",
+"label": "Ov. Met. 14.212",
+"text": "ore dapes et frusta mero glomerata vomentem"
+},
+{
+"id": "14.213",
+"label": "Ov. Met. 14.213",
+"text": "talia fingebam misero mihi fata parari"
+},
+{
+"id": "14.214",
+"label": "Ov. Met. 14.214",
+"text": "perque dies multos latitans omnemque tremescens"
+},
+{
+"id": "14.215",
+"label": "Ov. Met. 14.215",
+"text": "ad strepitum, mortemque timens cupidusque moriri,"
+},
+{
+"id": "14.216",
+"label": "Ov. Met. 14.216",
+"text": "glande famem pellens et mixta frondibus herba,"
+},
+{
+"id": "14.217",
+"label": "Ov. Met. 14.217",
+"text": "solus, inops, exspes, leto poenaeque relictus"
+},
+{
+"id": "14.218",
+"label": "Ov. Met. 14.218",
+"text": "hanc procul adspexi longo post tempore navem"
+},
+{
+"id": "14.219",
+"label": "Ov. Met. 14.219",
+"text": "oravique fugam gestu ad litusque cucurri —"
+},
+{
+"id": "14.220",
+"label": "Ov. Met. 14.220",
+"text": "et movi. Graiumque ratis Troiana recepit!"
+},
+{
+"id": "14.221",
+"label": "Ov. Met. 14.221",
+"text": "Tu quoque pande tuos, comitum gratissime, casus"
+},
+{
+"id": "14.222",
+"label": "Ov. Met. 14.222",
+"text": "et ducis et turbae, quae tecum est credita ponto.”"
+},
+{
+"id": "14.223",
+"label": "Ov. Met. 14.223",
+"text": "Aeolon ille refert Tusco regnare profundo,"
+},
+{
+"id": "14.224",
+"label": "Ov. Met. 14.224",
+"text": "Aeolon Hippotaden, cohibentem carcere ventos;"
+},
+{
+"id": "14.225",
+"label": "Ov. Met. 14.225",
+"text": "quos bovis inclusos tergo, memorabile munus,"
+},
+{
+"id": "14.226",
+"label": "Ov. Met. 14.226",
+"text": "Dulichium sumpsisse ducem flatuque secundo"
+},
+{
+"id": "14.227",
+"label": "Ov. Met. 14.227",
+"text": "lucibus isse novem et terram adspexisse petitam;"
+},
+{
+"id": "14.228",
+"label": "Ov. Met. 14.228",
+"text": "proxima post nonam cum sese aurora moveret,"
+},
+{
+"id": "14.229",
+"label": "Ov. Met. 14.229",
+"text": "invidia socios praedaeque cupidine victos,"
+},
+{
+"id": "14.230",
+"label": "Ov. Met. 14.230",
+"text": "esse ratos aurum, dempsisse ligamina ventis;"
+},
+{
+"id": "14.231",
+"label": "Ov. Met. 14.231",
+"text": "cum quibus isse retro, per quas modo venerat undas,"
+},
+{
+"id": "14.232",
+"label": "Ov. Met. 14.232",
+"text": "Aeoliique ratem portus repetisse tyranni."
+},
+{
+"id": "14.233",
+"label": "Ov. Met. 14.233",
+"text": "“Inde Lami veterem Laestrygonis” inquit “in urbem"
+},
+{
+"id": "14.234",
+"label": "Ov. Met. 14.234",
+"text": "venimus. Antiphates terra regnabat in illa."
+},
+{
+"id": "14.235",
+"label": "Ov. Met. 14.235",
+"text": "Missus ad hunc ego sum, numero comitante duorum,"
+},
+{
+"id": "14.236",
+"label": "Ov. Met. 14.236",
+"text": "vixque fuga quaesita salus comitique mihique:"
+},
+{
+"id": "14.237",
+"label": "Ov. Met. 14.237",
+"text": "tertius e nobis Laestrygonis impia tinxit"
+},
+{
+"id": "14.238",
+"label": "Ov. Met. 14.238",
+"text": "ora cruore suo. Fugientibus instat et agmen"
+},
+{
+"id": "14.239",
+"label": "Ov. Met. 14.239",
+"text": "concitat Antiphates. Coeunt et saxa trabesque"
+},
+{
+"id": "14.240",
+"label": "Ov. Met. 14.240",
+"text": "coniciunt merguntque viros merguntque carinas."
+},
+{
+"id": "14.241",
+"label": "Ov. Met. 14.241",
+"text": "Una tamen, quae nos ipsumque vehebat Ulixen,"
+},
+{
+"id": "14.242",
+"label": "Ov. Met. 14.242",
+"text": "effugit. Amissa sociorum parte dolentes"
+},
+{
+"id": "14.243",
+"label": "Ov. Met. 14.243",
+"text": "multaque conquesti terris adlabimur illis,"
+},
+{
+"id": "14.244",
+"label": "Ov. Met. 14.244",
+"text": "quas procul hinc cernis (procul hinc, mihi crede, videnda"
+},
+{
+"id": "14.245",
+"label": "Ov. Met. 14.245",
+"text": "insula, visa mihi!), tuque o iustissime Troum,"
+},
+{
+"id": "14.246",
+"label": "Ov. Met. 14.246",
+"text": "nate dea (neque enim finito Marte vocandus"
+},
+{
+"id": "14.247",
+"label": "Ov. Met. 14.247",
+"text": "hostis es, Aenea), moneo, fuge litora Circes."
+},
+{
+"id": "14.248",
+"label": "Ov. Met. 14.248",
+"text": "Nos quoque Circaeo religata in litore pinu,"
+},
+{
+"id": "14.249",
+"label": "Ov. Met. 14.249",
+"text": "Antiphatae memores inmansuetique Cyclopis,"
+},
+{
+"id": "14.250",
+"label": "Ov. Met. 14.250",
+"text": "ire negabamus vel tecta ignota subire;"
+},
+{
+"id": "14.251",
+"label": "Ov. Met. 14.251",
+"text": "sorte sumus lecti, sors me fidumque Politen"
+},
+{
+"id": "14.252",
+"label": "Ov. Met. 14.252",
+"text": "Eurylochumque simul nimiique Elpenora vini"
+},
+{
+"id": "14.253",
+"label": "Ov. Met. 14.253",
+"text": "bisque novem socios Circaea ad moenia misit."
+},
+{
+"id": "14.254",
+"label": "Ov. Met. 14.254",
+"text": "Quae simul attigimus stetimusque in limine tecti,"
+},
+{
+"id": "14.255",
+"label": "Ov. Met. 14.255",
+"text": "mille lupi mixtaeque lupis ursique leaeque"
+},
+{
+"id": "14.256",
+"label": "Ov. Met. 14.256",
+"text": "occursu fecere metum, sed nulla timenda"
+},
+{
+"id": "14.257",
+"label": "Ov. Met. 14.257",
+"text": "nullaque erat nostro factura in corpore vulnus."
+},
+{
+"id": "14.258",
+"label": "Ov. Met. 14.258",
+"text": "Quin etiam blandas movere per aera caudas"
+},
+{
+"id": "14.259",
+"label": "Ov. Met. 14.259",
+"text": "nostraque adulantes comitant vestigia, donec"
+},
+{
+"id": "14.260",
+"label": "Ov. Met. 14.260",
+"text": "excipiunt famulae perque atria marmore tecta"
+},
+{
+"id": "14.261",
+"label": "Ov. Met. 14.261",
+"text": "ad dominam ducunt: pulchro sedet illa recessu,"
+},
+{
+"id": "14.262",
+"label": "Ov. Met. 14.262",
+"text": "sollemni solio, pallamque induta nitentem"
+},
+{
+"id": "14.263",
+"label": "Ov. Met. 14.263",
+"text": "insuper aurato circumvelatur amictu."
+},
+{
+"id": "14.264",
+"label": "Ov. Met. 14.264",
+"text": "Nereides nymphaeque simul, quae vellera motis"
+},
+{
+"id": "14.265",
+"label": "Ov. Met. 14.265",
+"text": "nulla trahunt digitis nec fila sequentia ducunt:"
+},
+{
+"id": "14.266",
+"label": "Ov. Met. 14.266",
+"text": "gramina disponunt sparsosque sine ordine flores"
+},
+{
+"id": "14.267",
+"label": "Ov. Met. 14.267",
+"text": "secernunt calathis variasque coloribus herbas;"
+},
+{
+"id": "14.268",
+"label": "Ov. Met. 14.268",
+"text": "ipsa quod hae faciunt opus, exigit, ipsa, quis usus"
+},
+{
+"id": "14.269",
+"label": "Ov. Met. 14.269",
+"text": "quove sit in folio, quae sit concordia mixtis,"
+},
+{
+"id": "14.270",
+"label": "Ov. Met. 14.270",
+"text": "novit et advertens pensas examinat herbas."
+},
+{
+"id": "14.271",
+"label": "Ov. Met. 14.271",
+"text": "Haec ubi nos vidit, dicta acceptaque salute,"
+},
+{
+"id": "14.272",
+"label": "Ov. Met. 14.272",
+"text": "diffudit vultus et reddidit omina voce."
+},
+{
+"id": "14.273",
+"label": "Ov. Met. 14.273",
+"text": "Nec mora, misceri tosti iubet hordea grani"
+},
+{
+"id": "14.274",
+"label": "Ov. Met. 14.274",
+"text": "mellaque vimque meri cum lacte coagula passo,"
+},
+{
+"id": "14.275",
+"label": "Ov. Met. 14.275",
+"text": "quique sub hac lateant furtim dulcedine, sucos"
+},
+{
+"id": "14.276",
+"label": "Ov. Met. 14.276",
+"text": "adicit. Accipimus sacra data pocula dextra."
+},
+{
+"id": "14.277",
+"label": "Ov. Met. 14.277",
+"text": "Quae simul arenti sitientes hausimus ore,"
+},
+{
+"id": "14.278",
+"label": "Ov. Met. 14.278",
+"text": "et tetigit summos virga dea dira capillos,"
+},
+{
+"id": "14.279",
+"label": "Ov. Met. 14.279",
+"text": "(et pudet et referam!) saetis horrescere coepi"
+},
+{
+"id": "14.280",
+"label": "Ov. Met. 14.280",
+"text": "nec iam posse loqui, pro verbis edere raucum"
+},
+{
+"id": "14.281",
+"label": "Ov. Met. 14.281",
+"text": "murmur et in terram toto procumbere vultu;"
+},
+{
+"id": "14.282",
+"label": "Ov. Met. 14.282",
+"text": "osque meum sensi pando occallescere rostro,"
+},
+{
+"id": "14.283",
+"label": "Ov. Met. 14.283",
+"text": "colla tumere toris, et qua modo pocula parte"
+},
+{
+"id": "14.284",
+"label": "Ov. Met. 14.284",
+"text": "sumpta mihi fuerant, illa vestigia feci,"
+},
+{
+"id": "14.285",
+"label": "Ov. Met. 14.285",
+"text": "cumque eadem passis (tantum medicamina possunt!)"
+},
+{
+"id": "14.286",
+"label": "Ov. Met. 14.286",
+"text": "claudor hara, solumque suis caruisse figura"
+},
+{
+"id": "14.287",
+"label": "Ov. Met. 14.287",
+"text": "vidimus Eurylochum: solus data pocula fugit."
+},
+{
+"id": "14.288",
+"label": "Ov. Met. 14.288",
+"text": "Quae nisi vitasset, pecoris pars una manerem"
+},
+{
+"id": "14.289",
+"label": "Ov. Met. 14.289",
+"text": "nunc quoque saetigeri, nec tantae cladis ab illo"
+},
+{
+"id": "14.290",
+"label": "Ov. Met. 14.290",
+"text": "certior ad Circen ultor venisset Ulixes."
+},
+{
+"id": "14.291",
+"label": "Ov. Met. 14.291",
+"text": "Pacifer huic dederat florem Cyllenius album,"
+},
+{
+"id": "14.292",
+"label": "Ov. Met. 14.292",
+"text": "moly vocant superi, nigra radice tenetur;"
+},
+{
+"id": "14.293",
+"label": "Ov. Met. 14.293",
+"text": "tutus eo monitisque simul caelestibus intrat"
+},
+{
+"id": "14.294",
+"label": "Ov. Met. 14.294",
+"text": "ille domum Circes, et ad insidiosa vocatus"
+},
+{
+"id": "14.295",
+"label": "Ov. Met. 14.295",
+"text": "pocula, conantem virga mulcere capillos"
+},
+{
+"id": "14.296",
+"label": "Ov. Met. 14.296",
+"text": "reppulit et stricto pavidam deterruit ense."
+},
+{
+"id": "14.297",
+"label": "Ov. Met. 14.297",
+"text": "Inde fides dextraeque datae, thalamoque receptus"
+},
+{
+"id": "14.298",
+"label": "Ov. Met. 14.298",
+"text": "coniugii dotem sociorum corpora poscit."
+},
+{
+"id": "14.299",
+"label": "Ov. Met. 14.299",
+"text": "Spargimur ignotae sucis melioribus herbae"
+},
+{
+"id": "14.300",
+"label": "Ov. Met. 14.300",
+"text": "percutimurque caput conversae verbere virgae,"
+},
+{
+"id": "14.301",
+"label": "Ov. Met. 14.301",
+"text": "verbaque dicuntur dictis contraria verbis."
+},
+{
+"id": "14.302",
+"label": "Ov. Met. 14.302",
+"text": "Quo magis illa canit, magis hoc tellure levati"
+},
+{
+"id": "14.303",
+"label": "Ov. Met. 14.303",
+"text": "erigimur, saetaeque cadunt, bifidosque relinquit"
+},
+{
+"id": "14.304",
+"label": "Ov. Met. 14.304",
+"text": "rima pedes, redeunt umeri et subiecta lacertis"
+},
+{
+"id": "14.305",
+"label": "Ov. Met. 14.305",
+"text": "bracchia sunt: flentem flentes amplectimur ipsi"
+},
+{
+"id": "14.306",
+"label": "Ov. Met. 14.306",
+"text": "haeremusque ducis collo nec verba locuti"
+},
+{
+"id": "14.307",
+"label": "Ov. Met. 14.307",
+"text": "ulla priora sumus quam nos testantia gratos."
+},
+{
+"id": "14.308",
+"label": "Ov. Met. 14.308",
+"text": "Annua nos illic tenuit mora, multaque praesens"
+},
+{
+"id": "14.309",
+"label": "Ov. Met. 14.309",
+"text": "tempore tam longo vidi, multa auribus hausi,"
+},
+{
+"id": "14.310",
+"label": "Ov. Met. 14.310",
+"text": "hoc quoque cum multis, quod clam mihi rettulit una"
+},
+{
+"id": "14.311",
+"label": "Ov. Met. 14.311",
+"text": "quattuor e famulis ad talia sacra paratis."
+},
+{
+"id": "14.312",
+"label": "Ov. Met. 14.312",
+"text": "Cum duce namque meo Circe dum sola moratur,"
+},
+{
+"id": "14.313",
+"label": "Ov. Met. 14.313",
+"text": "illa mihi niveo factum de marmore signum"
+},
+{
+"id": "14.314",
+"label": "Ov. Met. 14.314",
+"text": "ostendit iuvenale, gerens in vertice picum,"
+},
+{
+"id": "14.315",
+"label": "Ov. Met. 14.315",
+"text": "aede sacra positum multisque insigne coronis."
+},
+{
+"id": "14.316",
+"label": "Ov. Met. 14.316",
+"text": "Quis foret et quare sacra coleretur in aede,"
+},
+{
+"id": "14.317",
+"label": "Ov. Met. 14.317",
+"text": "cur hanc ferret avem, quaerenti et scire volenti"
+},
+{
+"id": "14.318",
+"label": "Ov. Met. 14.318",
+"text": "“accipe” ait “Macareu, dominaeque potentia quae sit"
+},
+{
+"id": "14.319",
+"label": "Ov. Met. 14.319",
+"text": "hinc quoque disce meae: tu dictis adice mentem!"
+},
+{
+"id": "14.320",
+"label": "Ov. Met. 14.320",
+"text": "Picus in Ausoniis, proles Saturnia terris"
+},
+{
+"id": "14.321",
+"label": "Ov. Met. 14.321",
+"text": "rex fuit, utilium bello studiosus equorum;"
+},
+{
+"id": "14.322",
+"label": "Ov. Met. 14.322",
+"text": "forma viro, quam cernis, erat: licet ipse decorem"
+},
+{
+"id": "14.323",
+"label": "Ov. Met. 14.323",
+"text": "adspicias fictaque probes ab imagine veram."
+},
+{
+"id": "14.324",
+"label": "Ov. Met. 14.324",
+"text": "Par animus formae; nec adhuc spectasse per annos"
+},
+{
+"id": "14.325",
+"label": "Ov. Met. 14.325",
+"text": "quinquennem poterat Graia quater Elide pugnam."
+},
+{
+"id": "14.326",
+"label": "Ov. Met. 14.326",
+"text": "Ille suos dryadas Latiis in montibus ortas"
+},
+{
+"id": "14.327",
+"label": "Ov. Met. 14.327",
+"text": "verterat in vultus, illum fontana petebant"
+},
+{
+"id": "14.328",
+"label": "Ov. Met. 14.328",
+"text": "numina, naiades, quas Albula, quasque Numici,"
+},
+{
+"id": "14.329",
+"label": "Ov. Met. 14.329",
+"text": "quas Anienis aquae cursuque brevissimus Almo"
+},
+{
+"id": "14.330",
+"label": "Ov. Met. 14.330",
+"text": "Narve tulit praeceps et opacae Farfarus umbrae,"
+},
+{
+"id": "14.331",
+"label": "Ov. Met. 14.331",
+"text": "quaeque colunt Scythicae stagnum nemorale Dianae"
+},
+{
+"id": "14.332",
+"label": "Ov. Met. 14.332",
+"text": "finitimosque lacus; spretis tamen omnibus unam"
+},
+{
+"id": "14.333",
+"label": "Ov. Met. 14.333",
+"text": "ille colit nymphen, quam quondam in colle Palati"
+},
+{
+"id": "14.334",
+"label": "Ov. Met. 14.334",
+"text": "dicitur Ionio peperisse Venilia Iano."
+},
+{
+"id": "14.335",
+"label": "Ov. Met. 14.335",
+"text": "Haec ubi nubilibus primum maturuit annis,"
+},
+{
+"id": "14.336",
+"label": "Ov. Met. 14.336",
+"text": "praeposito cunctis Laurenti tradita Pico est,"
+},
+{
+"id": "14.337",
+"label": "Ov. Met. 14.337",
+"text": "rara quidem facie, sed rarior arte canendi,"
+},
+{
+"id": "14.338",
+"label": "Ov. Met. 14.338",
+"text": "unde Canens dicta est: silvas et saxa movere"
+},
+{
+"id": "14.339",
+"label": "Ov. Met. 14.339",
+"text": "et mulcere feras et flumina longa morari"
+},
+{
+"id": "14.340",
+"label": "Ov. Met. 14.340",
+"text": "ore suo volucresque vagas retinere solebat."
+},
+{
+"id": "14.341",
+"label": "Ov. Met. 14.341",
+"text": "Quae dum feminea modulatur carmina voce,"
+},
+{
+"id": "14.342",
+"label": "Ov. Met. 14.342",
+"text": "exierat tecto Laurentes Picus in agros,"
+},
+{
+"id": "14.343",
+"label": "Ov. Met. 14.343",
+"text": "indigenas fixurus apros, tergumque premebat"
+},
+{
+"id": "14.344",
+"label": "Ov. Met. 14.344",
+"text": "acris equi, laevaque hastilia bina ferebat,"
+},
+{
+"id": "14.345",
+"label": "Ov. Met. 14.345",
+"text": "poeniceam fulvo chlamydem contractus ab auro."
+},
+{
+"id": "14.346",
+"label": "Ov. Met. 14.346",
+"text": "Venerat in silvas et filia Solis easdem,"
+},
+{
+"id": "14.347",
+"label": "Ov. Met. 14.347",
+"text": "utque novas legeret fecundis collibus herbas,"
+},
+{
+"id": "14.348",
+"label": "Ov. Met. 14.348",
+"text": "nomine dicta suo Circaea reliquerat arva."
+},
+{
+"id": "14.349",
+"label": "Ov. Met. 14.349",
+"text": "Quae simul ac iuvenem, virgultis abdita, vidit,"
+},
+{
+"id": "14.350",
+"label": "Ov. Met. 14.350",
+"text": "obstipuit: cecidere manu, quas legerat, herbae,"
+},
+{
+"id": "14.351",
+"label": "Ov. Met. 14.351",
+"text": "flammaque per totas visa est errare medullas."
+},
+{
+"id": "14.352",
+"label": "Ov. Met. 14.352",
+"text": "Ut primum valido mentem conlegit ab aestu,"
+},
+{
+"id": "14.353",
+"label": "Ov. Met. 14.353",
+"text": "quid cuperet, fassura fuit: ne posset adire,"
+},
+{
+"id": "14.354",
+"label": "Ov. Met. 14.354",
+"text": "cursus equi fecit circumfususque satelles."
+},
+{
+"id": "14.355",
+"label": "Ov. Met. 14.355",
+"text": "“Non” ait “effugies, vento rapiare licebit,"
+},
+{
+"id": "14.356",
+"label": "Ov. Met. 14.356",
+"text": "si modo me novi, si non evanuit omnis"
+},
+{
+"id": "14.357",
+"label": "Ov. Met. 14.357",
+"text": "herbarum virtus et non mea carmina fallunt.”"
+},
+{
+"id": "14.358",
+"label": "Ov. Met. 14.358",
+"text": "Dixit et effigiem, nullo cum corpore, falsi"
+},
+{
+"id": "14.359",
+"label": "Ov. Met. 14.359",
+"text": "finxit apri praeterque oculos transcurrere regis"
+},
+{
+"id": "14.360",
+"label": "Ov. Met. 14.360",
+"text": "iussit et in densum trabibus nemus ire videri,"
+},
+{
+"id": "14.361",
+"label": "Ov. Met. 14.361",
+"text": "plurima qua silva est et equo loca pervia non sunt."
+},
+{
+"id": "14.362",
+"label": "Ov. Met. 14.362",
+"text": "Haud mora: continuo praedae petit inscius umbram"
+},
+{
+"id": "14.363",
+"label": "Ov. Met. 14.363",
+"text": "Picus equique celer spumantia terga relinquit"
+},
+{
+"id": "14.364",
+"label": "Ov. Met. 14.364",
+"text": "spemque sequens vanam silva pedes errat in alta."
+},
+{
+"id": "14.365",
+"label": "Ov. Met. 14.365",
+"text": "Concipit illa preces et verba precantia dicit"
+},
+{
+"id": "14.366",
+"label": "Ov. Met. 14.366",
+"text": "ignotosque deos ignoto carmine adorat,"
+},
+{
+"id": "14.367",
+"label": "Ov. Met. 14.367",
+"text": "quo solet et niveae vultum confundere Lunae"
+},
+{
+"id": "14.368",
+"label": "Ov. Met. 14.368",
+"text": "et patrio capiti bibulas subtexere nubes."
+},
+{
+"id": "14.369",
+"label": "Ov. Met. 14.369",
+"text": "Tum quoque cantato densetur carmine caelum,"
+},
+{
+"id": "14.370",
+"label": "Ov. Met. 14.370",
+"text": "et nebulas exhalat humus, caecisque vagantur"
+},
+{
+"id": "14.371",
+"label": "Ov. Met. 14.371",
+"text": "limitibus comites, et abest custodia regis."
+},
+{
+"id": "14.372",
+"label": "Ov. Met. 14.372",
+"text": "Nacta locum tempusque “per, o, tua lumina” dixit,"
+},
+{
+"id": "14.373",
+"label": "Ov. Met. 14.373",
+"text": "“quae mea ceperunt, perque hanc, pulcherrime, formam,"
+},
+{
+"id": "14.374",
+"label": "Ov. Met. 14.374",
+"text": "quae facit, ut supplex tibi sim dea, consule nostris"
+},
+{
+"id": "14.375",
+"label": "Ov. Met. 14.375",
+"text": "ignibus et socerum, qui pervidet omnia, Solem"
+},
+{
+"id": "14.376",
+"label": "Ov. Met. 14.376",
+"text": "accipe, nec durus Titanida despice Circen!”"
+},
+{
+"id": "14.377",
+"label": "Ov. Met. 14.377",
+"text": "Dixerat. Ille ferox ipsamque precesque relinquit"
+},
+{
+"id": "14.378",
+"label": "Ov. Met. 14.378",
+"text": "et “quaecumque es” ait, “non sum tuus: altera captum"
+},
+{
+"id": "14.379",
+"label": "Ov. Met. 14.379",
+"text": "me tenet et teneat per longum, comprecor, aevum!"
+},
+{
+"id": "14.380",
+"label": "Ov. Met. 14.380",
+"text": "Nec venere externa socialia foedera laedam,"
+},
+{
+"id": "14.381",
+"label": "Ov. Met. 14.381",
+"text": "dum mihi Ianigenam servabunt fata Canentem!”"
+},
+{
+"id": "14.382",
+"label": "Ov. Met. 14.382",
+"text": "Saepe retemptatis precibus Titania frustra"
+},
+{
+"id": "14.383",
+"label": "Ov. Met. 14.383",
+"text": "“non impune feres, neque” ait “reddere Canenti,"
+},
+{
+"id": "14.384",
+"label": "Ov. Met. 14.384",
+"text": "laesaque quid faciat, quid amans, quid femina disces.”"
+},
+{
+"id": "14.386",
+"label": "Ov. Met. 14.386",
+"text": "Tum bis ad occasum, bis se convertit ad ortus,"
+},
+{
+"id": "14.387",
+"label": "Ov. Met. 14.387",
+"text": "ter iuvenem baculo tetigit, tria carmina dixit."
+},
+{
+"id": "14.388",
+"label": "Ov. Met. 14.388",
+"text": "Ille fugit, sed se solito velocius ipse"
+},
+{
+"id": "14.389",
+"label": "Ov. Met. 14.389",
+"text": "currere miratur: pennas in corpore vidit,"
+},
+{
+"id": "14.390",
+"label": "Ov. Met. 14.390",
+"text": "seque novam subito Latiis accedere silvis"
+},
+{
+"id": "14.391",
+"label": "Ov. Met. 14.391",
+"text": "indignatus avem duro fera robora rostro"
+},
+{
+"id": "14.392",
+"label": "Ov. Met. 14.392",
+"text": "figit et iratus longis dat vulnera ramis."
+},
+{
+"id": "14.393",
+"label": "Ov. Met. 14.393",
+"text": "Purpureum chlamydis pennae traxere colorem,"
+},
+{
+"id": "14.394",
+"label": "Ov. Met. 14.394",
+"text": "fibula quod fuerat vestemque momorderat aurum,"
+},
+{
+"id": "14.395",
+"label": "Ov. Met. 14.395",
+"text": "pluma fit, et fulvo cervix praecingitur auro,"
+},
+{
+"id": "14.396",
+"label": "Ov. Met. 14.396",
+"text": "nec quicquam antiquum Pico nisi nomina restat."
+},
+{
+"id": "14.397",
+"label": "Ov. Met. 14.397",
+"text": "Interea comites, clamato saepe per agros"
+},
+{
+"id": "14.398",
+"label": "Ov. Met. 14.398",
+"text": "nequiquam Pico nullaque in parte reperto,"
+},
+{
+"id": "14.399",
+"label": "Ov. Met. 14.399",
+"text": "inveniunt Circen (nam iam tenuaverat auras"
+},
+{
+"id": "14.400",
+"label": "Ov. Met. 14.400",
+"text": "passaque erat nebulas ventis ac sole recludi)"
+},
+{
+"id": "14.401",
+"label": "Ov. Met. 14.401",
+"text": "criminibusque premunt veris regemque reposcunt"
+},
+{
+"id": "14.402",
+"label": "Ov. Met. 14.402",
+"text": "vimque ferunt saevisque parant incessere telis."
+},
+{
+"id": "14.403",
+"label": "Ov. Met. 14.403",
+"text": "Illa nocens spargit virus sucosque veneni"
+},
+{
+"id": "14.404",
+"label": "Ov. Met. 14.404",
+"text": "et Noctem noctisque deos Ereboque chaoque"
+},
+{
+"id": "14.405",
+"label": "Ov. Met. 14.405",
+"text": "convocat et longis Hecaten ululatibus orat:"
+},
+{
+"id": "14.406",
+"label": "Ov. Met. 14.406",
+"text": "exsiluere loco (dictu mirabile) silvae,"
+},
+{
+"id": "14.407",
+"label": "Ov. Met. 14.407",
+"text": "ingemuitque solum, vicinaque palluit arbor,"
+},
+{
+"id": "14.408",
+"label": "Ov. Met. 14.408",
+"text": "sparsaque sanguineis maduerunt pabula guttis,"
+},
+{
+"id": "14.409",
+"label": "Ov. Met. 14.409",
+"text": "et lapides visi mugitus edere raucos,"
+},
+{
+"id": "14.410",
+"label": "Ov. Met. 14.410",
+"text": "et latrare canes et humus serpentibus atris"
+},
+{
+"id": "14.411",
+"label": "Ov. Met. 14.411",
+"text": "squalere et tenues animae volitare videntur."
+},
+{
+"id": "14.412",
+"label": "Ov. Met. 14.412",
+"text": "Attonitum monstris vulgus pavet: illa paventis"
+},
+{
+"id": "14.413",
+"label": "Ov. Met. 14.413",
+"text": "ora venenata tetigit mirantia virga,"
+},
+{
+"id": "14.414",
+"label": "Ov. Met. 14.414",
+"text": "cuius ab attactu variarum monstra ferarum"
+},
+{
+"id": "14.415",
+"label": "Ov. Met. 14.415",
+"text": "in iuvenes veniunt: nulli sua mansit imago."
+},
+{
+"id": "14.416",
+"label": "Ov. Met. 14.416",
+"text": "Sparserat occiduus Tartessia litora Phoebus,"
+},
+{
+"id": "14.417",
+"label": "Ov. Met. 14.417",
+"text": "et frustra coniunx oculis animoque Canentis"
+},
+{
+"id": "14.418",
+"label": "Ov. Met. 14.418",
+"text": "exspectatus erat: famuli populusque per omnes"
+},
+{
+"id": "14.419",
+"label": "Ov. Met. 14.419",
+"text": "discurrunt silvas atque obvia lumina portant;"
+},
+{
+"id": "14.420",
+"label": "Ov. Met. 14.420",
+"text": "nec satis est nymphae flere et lacerare capillos"
+},
+{
+"id": "14.421",
+"label": "Ov. Met. 14.421",
+"text": "et dare plangorem (facit et tamen omnia) seque"
+},
+{
+"id": "14.422",
+"label": "Ov. Met. 14.422",
+"text": "proripit ac Latios errat vesana per agros."
+},
+{
+"id": "14.423",
+"label": "Ov. Met. 14.423",
+"text": "Sex illam noctes, tetidem redeuntia solis"
+},
+{
+"id": "14.424",
+"label": "Ov. Met. 14.424",
+"text": "lumina viderunt inopem somnique cibique"
+},
+{
+"id": "14.425",
+"label": "Ov. Met. 14.425",
+"text": "per iuga, per valles, qua fors ducebat, euntem."
+},
+{
+"id": "14.426",
+"label": "Ov. Met. 14.426",
+"text": "Ultimus adspexit Thybris luctuque viaque"
+},
+{
+"id": "14.427",
+"label": "Ov. Met. 14.427",
+"text": "fessam et iam longa ponentem corpora ripa."
+},
+{
+"id": "14.428",
+"label": "Ov. Met. 14.428",
+"text": "Illic cum lacrimis ipso modulata dolore"
+},
+{
+"id": "14.429",
+"label": "Ov. Met. 14.429",
+"text": "verba sono tenui maerens fundebat, ut olim"
+},
+{
+"id": "14.430",
+"label": "Ov. Met. 14.430",
+"text": "carmina iam moriens canit exequialia cygnus."
+},
+{
+"id": "14.431",
+"label": "Ov. Met. 14.431",
+"text": "Luctibus extremis teneras liquefacta medullas"
+},
+{
+"id": "14.432",
+"label": "Ov. Met. 14.432",
+"text": "tabuit inque leves paulatim evanuit auras;"
+},
+{
+"id": "14.433",
+"label": "Ov. Met. 14.433",
+"text": "fama tamen signata loco est, quem rite Canentem"
+},
+{
+"id": "14.434",
+"label": "Ov. Met. 14.434",
+"text": "nomine de nymphae veteres dixere Camenae.”"
+},
+{
+"id": "14.435",
+"label": "Ov. Met. 14.435",
+"text": "Talia multa mihi longum narrata per annum"
+},
+{
+"id": "14.436",
+"label": "Ov. Met. 14.436",
+"text": "visaque sunt. Resides et desuetudine tardi"
+},
+{
+"id": "14.437",
+"label": "Ov. Met. 14.437",
+"text": "rursus inire fretum, rursus dare vela iubemur."
+},
+{
+"id": "14.438",
+"label": "Ov. Met. 14.438",
+"text": "Ancipitesque vias et iter Titania vastum"
+},
+{
+"id": "14.439",
+"label": "Ov. Met. 14.439",
+"text": "dixerat et saevi restare pericula ponti."
+},
+{
+"id": "14.440",
+"label": "Ov. Met. 14.440",
+"text": "Pertimui, fateor, nactusque hoc litus adhaesi.”"
+},
+{
+"id": "14.441",
+"label": "Ov. Met. 14.441",
+"text": "Finierat Macareus. Urnaque Aeneia nutrix"
+},
+{
+"id": "14.442",
+"label": "Ov. Met. 14.442",
+"text": "condita marmoreo tumulo breve carmen habebat:"
+},
+{
+"id": "14.443",
+"label": "Ov. Met. 14.443",
+"text": "HIC ME CAIETAM NOTAE PIETATIS ALUMNUS"
+},
+{
+"id": "14.444",
+"label": "Ov. Met. 14.444",
+"text": "EREPTAM ARGOLICO QUO DEBUIT IGNE CREMAVIT."
+},
+{
+"id": "14.445",
+"label": "Ov. Met. 14.445",
+"text": "Solvitur herboso religatus ab aggere funis,"
+},
+{
+"id": "14.446",
+"label": "Ov. Met. 14.446",
+"text": "et procul insidias infamataeque relinquunt"
+},
+{
+"id": "14.447",
+"label": "Ov. Met. 14.447",
+"text": "tecta deae lucosque petunt, ubi nubilus umbra"
+},
+{
+"id": "14.448",
+"label": "Ov. Met. 14.448",
+"text": "in mare cum flava prorumpit Thybris harena;"
+},
+{
+"id": "14.449",
+"label": "Ov. Met. 14.449",
+"text": "Faunigenaeque domo potitur nataque Latini,"
+},
+{
+"id": "14.450",
+"label": "Ov. Met. 14.450",
+"text": "non sine Marte tamen: bellum cum gente feroci"
+},
+{
+"id": "14.451",
+"label": "Ov. Met. 14.451",
+"text": "suscipitur, pactaque furit pro coniuge Turnus."
+},
+{
+"id": "14.452",
+"label": "Ov. Met. 14.452",
+"text": "Concurrit Latio Tyrrhenia tota, diuque"
+},
+{
+"id": "14.453",
+"label": "Ov. Met. 14.453",
+"text": "ardua sollicitis victoria quaeritur armis."
+},
+{
+"id": "14.454",
+"label": "Ov. Met. 14.454",
+"text": "Auget uterque suas externo robore vires,"
+},
+{
+"id": "14.455",
+"label": "Ov. Met. 14.455",
+"text": "et multi Rutulos, multi Troiana tuentur"
+},
+{
+"id": "14.456",
+"label": "Ov. Met. 14.456",
+"text": "castra. Neque Aeneas Euandri ad moenia frustra,"
+},
+{
+"id": "14.457",
+"label": "Ov. Met. 14.457",
+"text": "at Venulus frustra profugi Diomedis ad urbem"
+},
+{
+"id": "14.458",
+"label": "Ov. Met. 14.458",
+"text": "venerat: ille quidem sub Iapyge maxima Dauno"
+},
+{
+"id": "14.459",
+"label": "Ov. Met. 14.459",
+"text": "moenia condiderat dotaliaque arva tenebat."
+},
+{
+"id": "14.460",
+"label": "Ov. Met. 14.460",
+"text": "Sed Venulus Turni postquam mandata peregit"
+},
+{
+"id": "14.461",
+"label": "Ov. Met. 14.461",
+"text": "auxilium petiit, vires Aetolius heros"
+},
+{
+"id": "14.462",
+"label": "Ov. Met. 14.462",
+"text": "excusat: nec se aut soceri committere pugnae"
+},
+{
+"id": "14.463",
+"label": "Ov. Met. 14.463",
+"text": "velle sui populos, aut quos e gente suorum"
+},
+{
+"id": "14.464",
+"label": "Ov. Met. 14.464",
+"text": "armet habere ullos, “neve haec commenta putetis,"
+},
+{
+"id": "14.465",
+"label": "Ov. Met. 14.465",
+"text": "admonitu quamquam luctus renoventur amari"
+},
+{
+"id": "14.466",
+"label": "Ov. Met. 14.466",
+"text": "perpetiar memorare tamen. Postquam alta cremata est"
+},
+{
+"id": "14.467",
+"label": "Ov. Met. 14.467",
+"text": "Ilion et Danaas paverunt Pergama flammas,"
+},
+{
+"id": "14.468",
+"label": "Ov. Met. 14.468",
+"text": "Naryciusque heros, a virgine virgine rapta,"
+},
+{
+"id": "14.469",
+"label": "Ov. Met. 14.469",
+"text": "quam meruit poenam solus, digessit in omnes,"
+},
+{
+"id": "14.470",
+"label": "Ov. Met. 14.470",
+"text": "spargimur et ventis inimica per aequora rapti"
+},
+{
+"id": "14.471",
+"label": "Ov. Met. 14.471",
+"text": "fulmina, noctem, imbres, iram caelique marisque"
+},
+{
+"id": "14.472",
+"label": "Ov. Met. 14.472",
+"text": "perpetimur Danai cumulumque Capherea cladis."
+},
+{
+"id": "14.473",
+"label": "Ov. Met. 14.473",
+"text": "Neve morer referens tristes ex ordine casus,"
+},
+{
+"id": "14.474",
+"label": "Ov. Met. 14.474",
+"text": "Graecia tum potuit Priamo quoque flenda videri."
+},
+{
+"id": "14.475",
+"label": "Ov. Met. 14.475",
+"text": "Me tamen armiferae servatum cura Minervae"
+},
+{
+"id": "14.476",
+"label": "Ov. Met. 14.476",
+"text": "fluctibus eripuit, patriis sed rursus ab agris"
+},
+{
+"id": "14.477",
+"label": "Ov. Met. 14.477",
+"text": "pellor, et antiquo memores de vulnere poenas"
+},
+{
+"id": "14.478",
+"label": "Ov. Met. 14.478",
+"text": "exigit alma Venus, tantosque per alta labores"
+},
+{
+"id": "14.479",
+"label": "Ov. Met. 14.479",
+"text": "aequora sustinui, tantos terrestribus armis,"
+},
+{
+"id": "14.480",
+"label": "Ov. Met. 14.480",
+"text": "ut mihi felices sint illi saepe vocati,"
+},
+{
+"id": "14.481",
+"label": "Ov. Met. 14.481",
+"text": "quos communis hiems importunusque Caphereus"
+},
+{
+"id": "14.482",
+"label": "Ov. Met. 14.482",
+"text": "mersit aquis, vellemque horum pars una fuissem."
+},
+{
+"id": "14.483",
+"label": "Ov. Met. 14.483",
+"text": "Ultima iam passi comites belloque fretoque"
+},
+{
+"id": "14.484",
+"label": "Ov. Met. 14.484",
+"text": "deficiunt finemque rogant erroris, at Acmon"
+},
+{
+"id": "14.485",
+"label": "Ov. Met. 14.485",
+"text": "fervidus ingenio, tum vero et cladibus asper,"
+},
+{
+"id": "14.486",
+"label": "Ov. Met. 14.486",
+"text": "“quid superest, quod iam patientia nostra recuset"
+},
+{
+"id": "14.487",
+"label": "Ov. Met. 14.487",
+"text": "ferre, viri?” dixit; “quid habet Cytherea, quod ultra"
+},
+{
+"id": "14.488",
+"label": "Ov. Met. 14.488",
+"text": "(velle puta!) faciat? Nam dum peiora timentur,"
+},
+{
+"id": "14.489",
+"label": "Ov. Met. 14.489",
+"text": "est locus in vulnus: sors autem ubi pessima rerum,"
+},
+{
+"id": "14.490",
+"label": "Ov. Met. 14.490",
+"text": "sub pedibus timor est securaque summa malorum."
+},
+{
+"id": "14.491",
+"label": "Ov. Met. 14.491",
+"text": "Audiat ipsa licet, et, quod facit, oderit omnes"
+},
+{
+"id": "14.492",
+"label": "Ov. Met. 14.492",
+"text": "sub Diomede viros, odium tamen illius omnes"
+},
+{
+"id": "14.493",
+"label": "Ov. Met. 14.493",
+"text": "spernimus: et magno stat magna potentia nobis!”"
+},
+{
+"id": "14.494",
+"label": "Ov. Met. 14.494",
+"text": "Talibus iratam Venerem Pleuronius Acmon"
+},
+{
+"id": "14.495",
+"label": "Ov. Met. 14.495",
+"text": "instimulat verbis stimulisque resuscitat iram."
+},
+{
+"id": "14.496",
+"label": "Ov. Met. 14.496",
+"text": "Dicta placent paucis: numeri maioris amici"
+},
+{
+"id": "14.497",
+"label": "Ov. Met. 14.497",
+"text": "Acmona corripimus; cui respondere volenti"
+},
+{
+"id": "14.498",
+"label": "Ov. Met. 14.498",
+"text": "vox pariter vocisque via est tenuata, comaeque"
+},
+{
+"id": "14.499",
+"label": "Ov. Met. 14.499",
+"text": "in plumas abeunt, plumis nova colla teguntur"
+},
+{
+"id": "14.500",
+"label": "Ov. Met. 14.500",
+"text": "pectoraque et tergum, maiores bracchia pennas"
+},
+{
+"id": "14.501",
+"label": "Ov. Met. 14.501",
+"text": "accipiunt, cubitusque leves sinuatur in alas."
+},
+{
+"id": "14.502",
+"label": "Ov. Met. 14.502",
+"text": "Magna pedis digitos pars occupat, oraque cornu"
+},
+{
+"id": "14.503",
+"label": "Ov. Met. 14.503",
+"text": "indurata rigent finemque in acumine ponunt."
+},
+{
+"id": "14.504",
+"label": "Ov. Met. 14.504",
+"text": "Hunc Lycus, hunc Idas et cum Rhexenore Nycteus,"
+},
+{
+"id": "14.505",
+"label": "Ov. Met. 14.505",
+"text": "hunc miratur Abas: et dum mirantur, eandem"
+},
+{
+"id": "14.506",
+"label": "Ov. Met. 14.506",
+"text": "accipiunt faciem, numerusque ex agmine maior"
+},
+{
+"id": "14.507",
+"label": "Ov. Met. 14.507",
+"text": "subvolat et remos plausis circumvolat alis."
+},
+{
+"id": "14.508",
+"label": "Ov. Met. 14.508",
+"text": "Si volucrum quae sit dubiarum forma, requiris,"
+},
+{
+"id": "14.509",
+"label": "Ov. Met. 14.509",
+"text": "ut non cygnorum, sic albis proxima cygnis."
+},
+{
+"id": "14.510",
+"label": "Ov. Met. 14.510",
+"text": "Vix equidem has sedes et Iapygis arida Dauni"
+},
+{
+"id": "14.511",
+"label": "Ov. Met. 14.511",
+"text": "arva gener teneo minima cum parte meorum.”"
+},
+{
+"id": "14.512",
+"label": "Ov. Met. 14.512",
+"text": "Hactenus Oenides. Venulus Calydonia regna"
+},
+{
+"id": "14.513",
+"label": "Ov. Met. 14.513",
+"text": "Peucetiosque sinus Messapiaque arva relinquit."
+},
+{
+"id": "14.514",
+"label": "Ov. Met. 14.514",
+"text": "In quibus antra videt, quae multa nubila silva"
+},
+{
+"id": "14.515",
+"label": "Ov. Met. 14.515",
+"text": "et levibus cannis manantia semicaper Pan"
+},
+{
+"id": "14.516",
+"label": "Ov. Met. 14.516",
+"text": "nunc tenet, at quodam tenuerunt tempore nymphae."
+},
+{
+"id": "14.517",
+"label": "Ov. Met. 14.517",
+"text": "Apulus has illa pastor regione fugatas"
+},
+{
+"id": "14.518",
+"label": "Ov. Met. 14.518",
+"text": "terruit et primo subita formidine movit,"
+},
+{
+"id": "14.519",
+"label": "Ov. Met. 14.519",
+"text": "mox, ubi mens rediit et contempsere sequentem,"
+},
+{
+"id": "14.520",
+"label": "Ov. Met. 14.520",
+"text": "ad numerum motis pedibus duxere choreas."
+},
+{
+"id": "14.521",
+"label": "Ov. Met. 14.521",
+"text": "Improbat has pastor, saltuque imitatus agresti"
+},
+{
+"id": "14.522",
+"label": "Ov. Met. 14.522",
+"text": "addidit obscenis convicia rustica dictis,"
+},
+{
+"id": "14.523",
+"label": "Ov. Met. 14.523",
+"text": "nec prius os tacuit, quam guttura condidit arbor:"
+},
+{
+"id": "14.524",
+"label": "Ov. Met. 14.524",
+"text": "arbore enim sucoque licet cognoscere mores;"
+},
+{
+"id": "14.525",
+"label": "Ov. Met. 14.525",
+"text": "quippe notam linguae bacis oleaster amaris"
+},
+{
+"id": "14.526",
+"label": "Ov. Met. 14.526",
+"text": "exhibet: asperitas verborum cessit in illas."
+},
+{
+"id": "14.527",
+"label": "Ov. Met. 14.527",
+"text": "Hinc ubi legati rediere, negata ferentes"
+},
+{
+"id": "14.528",
+"label": "Ov. Met. 14.528",
+"text": "arma Aetola sibi, Rutuli sine viribus illis"
+},
+{
+"id": "14.529",
+"label": "Ov. Met. 14.529",
+"text": "bella instructa gerunt, multumque ab utraque cruoris"
+},
+{
+"id": "14.530",
+"label": "Ov. Met. 14.530",
+"text": "parte datur; fert ecce avidas in pinea Turnus"
+},
+{
+"id": "14.531",
+"label": "Ov. Met. 14.531",
+"text": "texta faces, ignesque timent, quibus unda pepercit."
+},
+{
+"id": "14.532",
+"label": "Ov. Met. 14.532",
+"text": "Iamque picem et ceras alimentaque cetera flammae"
+},
+{
+"id": "14.533",
+"label": "Ov. Met. 14.533",
+"text": "Mulciber urebat perque altum ad carbasa malum"
+},
+{
+"id": "14.534",
+"label": "Ov. Met. 14.534",
+"text": "ibat, et incurvae fumabant transtra carinae:"
+},
+{
+"id": "14.535",
+"label": "Ov. Met. 14.535",
+"text": "cum memor has pinus Idaeo vertice caesas"
+},
+{
+"id": "14.536",
+"label": "Ov. Met. 14.536",
+"text": "sancta deum genetrix tinnitibus aera pulsi"
+},
+{
+"id": "14.537",
+"label": "Ov. Met. 14.537",
+"text": "aeris et inflati complevit murmure buxi,"
+},
+{
+"id": "14.538",
+"label": "Ov. Met. 14.538",
+"text": "perque leves domitis invecta leonibus auras"
+},
+{
+"id": "14.539",
+"label": "Ov. Met. 14.539",
+"text": "“inrita sacrilega iactas incendia dextra,"
+},
+{
+"id": "14.540",
+"label": "Ov. Met. 14.540",
+"text": "Turne!” ait. “Eripiam, nec me patiente cremabit"
+},
+{
+"id": "14.541",
+"label": "Ov. Met. 14.541",
+"text": "ignis edax nemorum partes et membra meorum.”"
+},
+{
+"id": "14.542",
+"label": "Ov. Met. 14.542",
+"text": "Intonuit dicente dea, tonitrumque secuti"
+},
+{
+"id": "14.543",
+"label": "Ov. Met. 14.543",
+"text": "cum saliente graves ceciderunt grandine nimbi,"
+},
+{
+"id": "14.544",
+"label": "Ov. Met. 14.544",
+"text": "aeraque et tumidum subitis concursibus aequor"
+},
+{
+"id": "14.545",
+"label": "Ov. Met. 14.545",
+"text": "Astraei turbant et eunt in proelia fratres."
+},
+{
+"id": "14.546",
+"label": "Ov. Met. 14.546",
+"text": "E quibus alma parens unius viribus usa"
+},
+{
+"id": "14.547",
+"label": "Ov. Met. 14.547",
+"text": "stuppea praerupit Phrygiae retinacula puppis"
+},
+{
+"id": "14.548",
+"label": "Ov. Met. 14.548",
+"text": "fertque rates pronas medioque sub aequore mergit;"
+},
+{
+"id": "14.549",
+"label": "Ov. Met. 14.549",
+"text": "robore mollito lignoque in corpora verso"
+},
+{
+"id": "14.550",
+"label": "Ov. Met. 14.550",
+"text": "in capitum facies puppes mutantur aduncae,"
+},
+{
+"id": "14.551",
+"label": "Ov. Met. 14.551",
+"text": "in digitos abeunt et crura natantia remi,"
+},
+{
+"id": "14.552",
+"label": "Ov. Met. 14.552",
+"text": "quodque prius fuerat, latus est mediisque carina"
+},
+{
+"id": "14.553",
+"label": "Ov. Met. 14.553",
+"text": "subdita navigiis spinae mutatur in usum,"
+},
+{
+"id": "14.554",
+"label": "Ov. Met. 14.554",
+"text": "lina comae molles, antemnae bracchia fiunt,"
+},
+{
+"id": "14.555",
+"label": "Ov. Met. 14.555",
+"text": "caerulus, ut fuerat, color est; quasque ante timebant,"
+},
+{
+"id": "14.556",
+"label": "Ov. Met. 14.556",
+"text": "illas virgineis exercent lusibus undas"
+},
+{
+"id": "14.557",
+"label": "Ov. Met. 14.557",
+"text": "naides aequoreae durisque in montibus ortae"
+},
+{
+"id": "14.558",
+"label": "Ov. Met. 14.558",
+"text": "molle fretum celebrant nec eas sua tangit origo."
+},
+{
+"id": "14.559",
+"label": "Ov. Met. 14.559",
+"text": "Non tamen oblitae, quam multa pericula saepe"
+},
+{
+"id": "14.560",
+"label": "Ov. Met. 14.560",
+"text": "pertulerint pelago, iactatis saepe carinis"
+},
+{
+"id": "14.561",
+"label": "Ov. Met. 14.561",
+"text": "supposuere manus, nisi siqua vehebat Achivos:"
+},
+{
+"id": "14.562",
+"label": "Ov. Met. 14.562",
+"text": "cladis adhuc Phrygiae memores, odere Pelasgos"
+},
+{
+"id": "14.563",
+"label": "Ov. Met. 14.563",
+"text": "Neritiaeque ratis viderunt fragmina laetis"
+},
+{
+"id": "14.564",
+"label": "Ov. Met. 14.564",
+"text": "vultibus et laetis videre rigescere puppem"
+},
+{
+"id": "14.565",
+"label": "Ov. Met. 14.565",
+"text": "vultibus Alcinoi saxumque increscere ligno."
+},
+{
+"id": "14.566",
+"label": "Ov. Met. 14.566",
+"text": "Spes erat, in nymphas animata classe marinas,"
+},
+{
+"id": "14.567",
+"label": "Ov. Met. 14.567",
+"text": "posse metu monstri Rutulum desistere bello:"
+},
+{
+"id": "14.568",
+"label": "Ov. Met. 14.568",
+"text": "perstat, habetque deos pars utraque, quodque deorum est"
+},
+{
+"id": "14.569",
+"label": "Ov. Met. 14.569",
+"text": "instar, habent animos; nec iam dotalia regna"
+},
+{
+"id": "14.570",
+"label": "Ov. Met. 14.570",
+"text": "nec sceptrum soceri, nec te, Lavinia virgo,"
+},
+{
+"id": "14.571",
+"label": "Ov. Met. 14.571",
+"text": "sed vicisse petunt deponendique pudore"
+},
+{
+"id": "14.572",
+"label": "Ov. Met. 14.572",
+"text": "bella gerunt, tandemque Venus victricia nati"
+},
+{
+"id": "14.573",
+"label": "Ov. Met. 14.573",
+"text": "arma videt, Turnusque cadit, cadit Ardea, Turno"
+},
+{
+"id": "14.574",
+"label": "Ov. Met. 14.574",
+"text": "sospite dicta potens. Quem postquam barbarus ensis"
+},
+{
+"id": "14.575",
+"label": "Ov. Met. 14.575",
+"text": "abstulit et tepida latuerunt tecta favilla,"
+},
+{
+"id": "14.576",
+"label": "Ov. Met. 14.576",
+"text": "congerie e media tum primum cognita praepes"
+},
+{
+"id": "14.577",
+"label": "Ov. Met. 14.577",
+"text": "subvolat et cineres plausis everberat alis."
+},
+{
+"id": "14.578",
+"label": "Ov. Met. 14.578",
+"text": "Et sonus et macies et pallor et omnia, captam"
+},
+{
+"id": "14.579",
+"label": "Ov. Met. 14.579",
+"text": "quae deceant urbem, nomen quoque mansit in illa"
+},
+{
+"id": "14.580",
+"label": "Ov. Met. 14.580",
+"text": "urbis; et ipsa suis deplangitur Ardea pennis."
+},
+{
+"id": "14.581",
+"label": "Ov. Met. 14.581",
+"text": "Iamque deos omnes ipsamque Aeneia virtus"
+},
+{
+"id": "14.582",
+"label": "Ov. Met. 14.582",
+"text": "Iunonem veteres finire coegerat iras,"
+},
+{
+"id": "14.583",
+"label": "Ov. Met. 14.583",
+"text": "cum, bene fundatis opibus crescentis Iuli,"
+},
+{
+"id": "14.584",
+"label": "Ov. Met. 14.584",
+"text": "tempestivus erat caelo Cythereius heros:"
+},
+{
+"id": "14.585",
+"label": "Ov. Met. 14.585",
+"text": "ambieratque Venus superos, colloque parentis"
+},
+{
+"id": "14.586",
+"label": "Ov. Met. 14.586",
+"text": "circumfusa sui “numquam mihi” dixerat “ullo"
+},
+{
+"id": "14.587",
+"label": "Ov. Met. 14.587",
+"text": "tempore dure pater, nunc sis mitissimus, opto,"
+},
+{
+"id": "14.588",
+"label": "Ov. Met. 14.588",
+"text": "Aeneaeque meo, qui te de sanguine nostro"
+},
+{
+"id": "14.589",
+"label": "Ov. Met. 14.589",
+"text": "fecit avum, quamvis parvum des, optime, numen,"
+},
+{
+"id": "14.590",
+"label": "Ov. Met. 14.590",
+"text": "dummodo des aliquod: satis est inamabile regnum"
+},
+{
+"id": "14.591",
+"label": "Ov. Met. 14.591",
+"text": "adspexisse semel, Stygios semel isse per amnes.”"
+},
+{
+"id": "14.592",
+"label": "Ov. Met. 14.592",
+"text": "Adsensere dei, nec coniunx regia vultus"
+},
+{
+"id": "14.593",
+"label": "Ov. Met. 14.593",
+"text": "immotos tenuit placatoque adnuit ore;"
+},
+{
+"id": "14.594",
+"label": "Ov. Met. 14.594",
+"text": "tum pater “estis” ait “caelesti numine digni,"
+},
+{
+"id": "14.595",
+"label": "Ov. Met. 14.595",
+"text": "quaeque petis, pro quoque petis: cape, nata, quod optas!”"
+},
+{
+"id": "14.596",
+"label": "Ov. Met. 14.596",
+"text": "Fatus erat: gaudet gratesque agit illa parenti,"
+},
+{
+"id": "14.597",
+"label": "Ov. Met. 14.597",
+"text": "perque leves auras iunctis invecta columbis"
+},
+{
+"id": "14.598",
+"label": "Ov. Met. 14.598",
+"text": "litus adit Laurens, ubi tectus harundine serpit"
+},
+{
+"id": "14.599",
+"label": "Ov. Met. 14.599",
+"text": "in freta flumineis vicina Numicius undis."
+},
+{
+"id": "14.600",
+"label": "Ov. Met. 14.600",
+"text": "Hunc iubet Aeneae, quaecumque obnoxia morti,"
+},
+{
+"id": "14.601",
+"label": "Ov. Met. 14.601",
+"text": "abluere et tacito deferre sub aequora cursu;"
+},
+{
+"id": "14.602",
+"label": "Ov. Met. 14.602",
+"text": "corniger exsequitur Veneris mandata suisque,"
+},
+{
+"id": "14.603",
+"label": "Ov. Met. 14.603",
+"text": "quidquid in Aenea fuerat mortale, repurgat"
+},
+{
+"id": "14.604",
+"label": "Ov. Met. 14.604",
+"text": "et respergit aquis: pars optima restitit illi."
+},
+{
+"id": "14.605",
+"label": "Ov. Met. 14.605",
+"text": "Lustratum genetrix divino corpus odore"
+},
+{
+"id": "14.606",
+"label": "Ov. Met. 14.606",
+"text": "unxit et ambrosia cum dulci nectare mixta"
+},
+{
+"id": "14.607",
+"label": "Ov. Met. 14.607",
+"text": "contigit os fecitque deum, quem turba Quirini"
+},
+{
+"id": "14.608",
+"label": "Ov. Met. 14.608",
+"text": "nuncupat Indigetem temploque arisque recepit."
+},
+{
+"id": "14.609",
+"label": "Ov. Met. 14.609",
+"text": "Inde sub Ascanii dicione binominis Alba"
+},
+{
+"id": "14.610",
+"label": "Ov. Met. 14.610",
+"text": "resque Latina fuit. Succedit Silvius illi."
+},
+{
+"id": "14.611",
+"label": "Ov. Met. 14.611",
+"text": "Quo satus antiquo tenuit repetita Latinus"
+},
+{
+"id": "14.612",
+"label": "Ov. Met. 14.612",
+"text": "nomina cum sceptro. Clarus subit Alba Latinum."
+},
+{
+"id": "14.613",
+"label": "Ov. Met. 14.613",
+"text": "Epytus ex illo est; post hunc Capetusque Capysque,"
+},
+{
+"id": "14.614",
+"label": "Ov. Met. 14.614",
+"text": "sed Capys ante fuit. Regnum Tiberinus ab illis"
+},
+{
+"id": "14.615",
+"label": "Ov. Met. 14.615",
+"text": "cepit et in Tusci demersus fluminis undis"
+},
+{
+"id": "14.616",
+"label": "Ov. Met. 14.616",
+"text": "nomina fecit aquae; de quo Remulusque feroxque"
+},
+{
+"id": "14.617",
+"label": "Ov. Met. 14.617",
+"text": "Acrota sunt geniti. Remulus maturior annis"
+},
+{
+"id": "14.618",
+"label": "Ov. Met. 14.618",
+"text": "fulmineo periit, imitator fulminis, ictu."
+},
+{
+"id": "14.619",
+"label": "Ov. Met. 14.619",
+"text": "Fratre suo sceptrum moderatior Acrota forti"
+},
+{
+"id": "14.620",
+"label": "Ov. Met. 14.620",
+"text": "tradit Aventino, qui, quo regnarat, eodem"
+},
+{
+"id": "14.621",
+"label": "Ov. Met. 14.621",
+"text": "monte iacet positus tribuitque vocabula monti."
+},
+{
+"id": "14.622",
+"label": "Ov. Met. 14.622",
+"text": "Iamque Palatinae summam Proca gentis habebat."
+},
+{
+"id": "14.623",
+"label": "Ov. Met. 14.623",
+"text": "Rege sub hoc Pomona fuit, qua nulla Latinas"
+},
+{
+"id": "14.624",
+"label": "Ov. Met. 14.624",
+"text": "inter hamadryadas coluit sollertius hortos"
+},
+{
+"id": "14.625",
+"label": "Ov. Met. 14.625",
+"text": "nec fuit arborei studiosior altera fetus."
+},
+{
+"id": "14.626",
+"label": "Ov. Met. 14.626",
+"text": "Unde tenet nomen: non silvas illa nec amnes,"
+},
+{
+"id": "14.627",
+"label": "Ov. Met. 14.627",
+"text": "rus amat et ramos felicia poma ferentes."
+},
+{
+"id": "14.628",
+"label": "Ov. Met. 14.628",
+"text": "Nec iaculo gravis est, sed adunca dextera falce,"
+},
+{
+"id": "14.629",
+"label": "Ov. Met. 14.629",
+"text": "qua modo luxuriem premit et spatiantia passim"
+},
+{
+"id": "14.630",
+"label": "Ov. Met. 14.630",
+"text": "bracchia compescit, fisso modo cortice lignum"
+},
+{
+"id": "14.631",
+"label": "Ov. Met. 14.631",
+"text": "inserit et sucos alieno praestat alumno;"
+},
+{
+"id": "14.632",
+"label": "Ov. Met. 14.632",
+"text": "nec sentire sitim patitur bibulaeque recurvas"
+},
+{
+"id": "14.633",
+"label": "Ov. Met. 14.633",
+"text": "radicis fibras labentibus inrigat undis:"
+},
+{
+"id": "14.634",
+"label": "Ov. Met. 14.634",
+"text": "hic amor, hoc studium; veneris quoque nulla cupido est."
+},
+{
+"id": "14.635",
+"label": "Ov. Met. 14.635",
+"text": "Vim tamen agrestum metuens pomaria claudit"
+},
+{
+"id": "14.636",
+"label": "Ov. Met. 14.636",
+"text": "intus et accessus prohibet refugitque viriles."
+},
+{
+"id": "14.637",
+"label": "Ov. Met. 14.637",
+"text": "Quid non et satyri, saltatibus apta iuventus,"
+},
+{
+"id": "14.638",
+"label": "Ov. Met. 14.638",
+"text": "fecere et pinu praecincti cornua Panes"
+},
+{
+"id": "14.639",
+"label": "Ov. Met. 14.639",
+"text": "Silenusque, suis semper iuvenalior annis,"
+},
+{
+"id": "14.640",
+"label": "Ov. Met. 14.640",
+"text": "quique deus fures vel falce vel inguine terret,"
+},
+{
+"id": "14.641",
+"label": "Ov. Met. 14.641",
+"text": "ut poterentur ea? Sed enim superabat amando"
+},
+{
+"id": "14.642",
+"label": "Ov. Met. 14.642",
+"text": "hos quoque Vertumnus neque erat felicior illis."
+},
+{
+"id": "14.643",
+"label": "Ov. Met. 14.643",
+"text": "O quotiens habitu duri messoris aristas"
+},
+{
+"id": "14.644",
+"label": "Ov. Met. 14.644",
+"text": "corbe tulit verique fuit messoris imago!"
+},
+{
+"id": "14.645",
+"label": "Ov. Met. 14.645",
+"text": "Tempora saepe gerens faeno religata recenti"
+},
+{
+"id": "14.646",
+"label": "Ov. Met. 14.646",
+"text": "desectum poterat gramen versasse videri;"
+},
+{
+"id": "14.647",
+"label": "Ov. Met. 14.647",
+"text": "saepe manu stimulos rigida portabat, ut illum"
+},
+{
+"id": "14.648",
+"label": "Ov. Met. 14.648",
+"text": "iurasses fessos modo disiunxisse iuvencos."
+},
+{
+"id": "14.649",
+"label": "Ov. Met. 14.649",
+"text": "Falce data frondator erat vitisque putator;"
+},
+{
+"id": "14.650",
+"label": "Ov. Met. 14.650",
+"text": "induerat scalas: lecturum poma putares;"
+},
+{
+"id": "14.651",
+"label": "Ov. Met. 14.651",
+"text": "miles erat gladio, piscator harundine sumpta."
+},
+{
+"id": "14.652",
+"label": "Ov. Met. 14.652",
+"text": "Denique per multas aditum sibi saepe figuras"
+},
+{
+"id": "14.653",
+"label": "Ov. Met. 14.653",
+"text": "repperit, ut caperet spectatae gaudia formae."
+},
+{
+"id": "14.654",
+"label": "Ov. Met. 14.654",
+"text": "Ille etiam picta redimitus tempora mitra,"
+},
+{
+"id": "14.655",
+"label": "Ov. Met. 14.655",
+"text": "innitens baculo, positis per tempora canis,"
+},
+{
+"id": "14.656",
+"label": "Ov. Met. 14.656",
+"text": "adsimulavit anum cultosque intravit in hortos"
+},
+{
+"id": "14.657",
+"label": "Ov. Met. 14.657",
+"text": "pomaque mirata est “tanto” que “potentior!” inquit,"
+},
+{
+"id": "14.658",
+"label": "Ov. Met. 14.658",
+"text": "paucaque laudatae dedit oscula, qualia numquam"
+},
+{
+"id": "14.659",
+"label": "Ov. Met. 14.659",
+"text": "vera dedisset anus, glaebaque incurva resedit"
+},
+{
+"id": "14.660",
+"label": "Ov. Met. 14.660",
+"text": "suspiciens pandos autumni pondere ramos."
+},
+{
+"id": "14.661",
+"label": "Ov. Met. 14.661",
+"text": "Ulmus erat contra speciosa nitentibus uvis:"
+},
+{
+"id": "14.662",
+"label": "Ov. Met. 14.662",
+"text": "quam socia postquam pariter cum vite probavit,"
+},
+{
+"id": "14.663",
+"label": "Ov. Met. 14.663",
+"text": "“at si staret” ait “caelebs sine palmite truncus,"
+},
+{
+"id": "14.664",
+"label": "Ov. Met. 14.664",
+"text": "nil praeter frondes, quare peteretur, haberet;"
+},
+{
+"id": "14.665",
+"label": "Ov. Met. 14.665",
+"text": "haec quoque, quae iuncta est, vitis requiescit in illo:"
+},
+{
+"id": "14.666",
+"label": "Ov. Met. 14.666",
+"text": "si non nupta foret, terrae acclinata iaceret."
+},
+{
+"id": "14.667",
+"label": "Ov. Met. 14.667",
+"text": "Tu tamen exemplo non tangeris arboris huius"
+},
+{
+"id": "14.668",
+"label": "Ov. Met. 14.668",
+"text": "concubitusque fugis nec te coniungere curas."
+},
+{
+"id": "14.669",
+"label": "Ov. Met. 14.669",
+"text": "Atque utinam velles! Helene non pluribus esset"
+},
+{
+"id": "14.670",
+"label": "Ov. Met. 14.670",
+"text": "sollicitata procis nec quae Lapitheia movit"
+},
+{
+"id": "14.671",
+"label": "Ov. Met. 14.671",
+"text": "proelia nec coniunx nimium tardantis Ulixei."
+},
+{
+"id": "14.672",
+"label": "Ov. Met. 14.672",
+"text": "Nunc quoque, cum fugias averserisque petentes,"
+},
+{
+"id": "14.673",
+"label": "Ov. Met. 14.673",
+"text": "mille viri cupiunt et semideique deique"
+},
+{
+"id": "14.674",
+"label": "Ov. Met. 14.674",
+"text": "et quaecumque tenent Albanos numina montes."
+},
+{
+"id": "14.675",
+"label": "Ov. Met. 14.675",
+"text": "Sed tu, si sapies, si te bene iungere anumque"
+},
+{
+"id": "14.676",
+"label": "Ov. Met. 14.676",
+"text": "hanc audire voles, quae te plus omnibus illis,"
+},
+{
+"id": "14.677",
+"label": "Ov. Met. 14.677",
+"text": "plus quam credis, amo, vulgares reice taedas"
+},
+{
+"id": "14.678",
+"label": "Ov. Met. 14.678",
+"text": "Vertumnumque tori socium tibi selige! pro quo"
+},
+{
+"id": "14.679",
+"label": "Ov. Met. 14.679",
+"text": "me quoque pignus habes (neque enim sibi notior ille est,"
+},
+{
+"id": "14.680",
+"label": "Ov. Met. 14.680",
+"text": "quam mihi); nec passim toto vagus errat in orbe:"
+},
+{
+"id": "14.681",
+"label": "Ov. Met. 14.681",
+"text": "haec loca magna colit; nec, uti pars magna procorum,"
+},
+{
+"id": "14.682",
+"label": "Ov. Met. 14.682",
+"text": "quam modo vidit, amat: tu primus et ultimus illi"
+},
+{
+"id": "14.683",
+"label": "Ov. Met. 14.683",
+"text": "ardor eris, solique suos tibi devovet annos."
+},
+{
+"id": "14.684",
+"label": "Ov. Met. 14.684",
+"text": "Adde, quod est iuvenis, quod naturale decoris"
+},
+{
+"id": "14.685",
+"label": "Ov. Met. 14.685",
+"text": "munus habet formasque apte fingetur in omnes,"
+},
+{
+"id": "14.686",
+"label": "Ov. Met. 14.686",
+"text": "et quod erit iussus, iubeas licet omnia, fiet."
+},
+{
+"id": "14.687",
+"label": "Ov. Met. 14.687",
+"text": "Quid quod amatis idem? quod, quae tibi poma coluntur,"
+},
+{
+"id": "14.688",
+"label": "Ov. Met. 14.688",
+"text": "primus habet laetaque tenet tua munera dextra?"
+},
+{
+"id": "14.689",
+"label": "Ov. Met. 14.689",
+"text": "Sed neque iam fetus desiderat arbore demptos,"
+},
+{
+"id": "14.690",
+"label": "Ov. Met. 14.690",
+"text": "nec, quas hortus alit, cum sucis mitibus herbas,"
+},
+{
+"id": "14.691",
+"label": "Ov. Met. 14.691",
+"text": "nec quicquam, nisi te; miserere ardentis et ipsum,"
+},
+{
+"id": "14.692",
+"label": "Ov. Met. 14.692",
+"text": "quod petit, ore meo praesentem crede precari"
+},
+{
+"id": "14.693",
+"label": "Ov. Met. 14.693",
+"text": "ultoresque deos et pectora dura perosam"
+},
+{
+"id": "14.694",
+"label": "Ov. Met. 14.694",
+"text": "Idalien memoremque time Rhamnusidis iram!"
+},
+{
+"id": "14.695",
+"label": "Ov. Met. 14.695",
+"text": "Quoque magis timeas (etenim mihi multa vetustas"
+},
+{
+"id": "14.696",
+"label": "Ov. Met. 14.696",
+"text": "scire dedit), referam tota notissima Cypro"
+},
+{
+"id": "14.697",
+"label": "Ov. Met. 14.697",
+"text": "facta, quibus flecti facile et mitescere possis."
+},
+{
+"id": "14.698",
+"label": "Ov. Met. 14.698",
+"text": "Viderat a veteris generosam sanguine Teucri"
+},
+{
+"id": "14.699",
+"label": "Ov. Met. 14.699",
+"text": "Iphis Anaxareten, humili de stirpe creatus,"
+},
+{
+"id": "14.700",
+"label": "Ov. Met. 14.700",
+"text": "viderat et totis perceperat ossibus aestum"
+},
+{
+"id": "14.701",
+"label": "Ov. Met. 14.701",
+"text": "luctatusque diu, postquam ratione furorem"
+},
+{
+"id": "14.702",
+"label": "Ov. Met. 14.702",
+"text": "vincere non potuit, supplex ad limina venit"
+},
+{
+"id": "14.703",
+"label": "Ov. Met. 14.703",
+"text": "et modo nutrici miserum confessus amorem,"
+},
+{
+"id": "14.704",
+"label": "Ov. Met. 14.704",
+"text": "ne sibi dura foret, per spes oravit alumnae,"
+},
+{
+"id": "14.705",
+"label": "Ov. Met. 14.705",
+"text": "et modo de multis blanditus cuique ministris"
+},
+{
+"id": "14.706",
+"label": "Ov. Met. 14.706",
+"text": "sollicita petiit propensum voce favorem;"
+},
+{
+"id": "14.707",
+"label": "Ov. Met. 14.707",
+"text": "saepe ferenda dedit blandis sua verba tabellis,"
+},
+{
+"id": "14.708",
+"label": "Ov. Met. 14.708",
+"text": "interdum madidas lacrimarum rore coronas"
+},
+{
+"id": "14.709",
+"label": "Ov. Met. 14.709",
+"text": "postibus intendit posuitque in limine duro"
+},
+{
+"id": "14.710",
+"label": "Ov. Met. 14.710",
+"text": "molle latus tristisque serae convicia fecit."
+},
+{
+"id": "14.711",
+"label": "Ov. Met. 14.711",
+"text": "Saevior illa freto surgente cadentibus Haedis,"
+},
+{
+"id": "14.712",
+"label": "Ov. Met. 14.712",
+"text": "durior et ferro, quod Noricus excoquit ignis,"
+},
+{
+"id": "14.713",
+"label": "Ov. Met. 14.713",
+"text": "et saxo, quod adhuc vivum radice tenetur,"
+},
+{
+"id": "14.714",
+"label": "Ov. Met. 14.714",
+"text": "spernit et inridet factisque inmitibus addit"
+},
+{
+"id": "14.715",
+"label": "Ov. Met. 14.715",
+"text": "verba superba ferox et spe quoque fraudat amantem."
+},
+{
+"id": "14.716",
+"label": "Ov. Met. 14.716",
+"text": "Non tulit impatiens longi tormenta doloris"
+},
+{
+"id": "14.717",
+"label": "Ov. Met. 14.717",
+"text": "Iphis et ante fores haec verba novissima dixit:"
+},
+{
+"id": "14.718",
+"label": "Ov. Met. 14.718",
+"text": "“Vincis, Anaxarete, neque erunt tibi taedia tandem"
+},
+{
+"id": "14.719",
+"label": "Ov. Met. 14.719",
+"text": "ulla ferenda mei: laetos molire triumphos"
+},
+{
+"id": "14.720",
+"label": "Ov. Met. 14.720",
+"text": "et Paeana voca nitidaque incingere lauru!"
+},
+{
+"id": "14.721",
+"label": "Ov. Met. 14.721",
+"text": "Vincis enim, moriorque libens: age, ferrea, gaude!"
+},
+{
+"id": "14.722",
+"label": "Ov. Met. 14.722",
+"text": "Certe aliquid laudare mei cogeris amoris,"
+},
+{
+"id": "14.724",
+"label": "Ov. Met. 14.724",
+"text": "Non tamen ante tui curam fugisse memento,"
+},
+{
+"id": "14.725",
+"label": "Ov. Met. 14.725",
+"text": "quam vitam, geminaque simul mihi luce carendum est."
+},
+{
+"id": "14.726",
+"label": "Ov. Met. 14.726",
+"text": "Nec tibi fama mei ventura est nuntia leti:"
+},
+{
+"id": "14.727",
+"label": "Ov. Met. 14.727",
+"text": "ipse ego, ne dubites, adero praesensque videbor,"
+},
+{
+"id": "14.728",
+"label": "Ov. Met. 14.728",
+"text": "corpore ut exanimi crudelia lumina pascas."
+},
+{
+"id": "14.729",
+"label": "Ov. Met. 14.729",
+"text": "Si tamen, o superi, mortalia facta videtis,"
+},
+{
+"id": "14.730",
+"label": "Ov. Met. 14.730",
+"text": "este mei memores (nihil ultra lingua precari"
+},
+{
+"id": "14.731",
+"label": "Ov. Met. 14.731",
+"text": "sustinet) et longo facite ut narremur in aevo,"
+},
+{
+"id": "14.732",
+"label": "Ov. Met. 14.732",
+"text": "et, quae dempsistis vitae, date tempora famae!”"
+},
+{
+"id": "14.733",
+"label": "Ov. Met. 14.733",
+"text": "Dixit, et ad postes ornatos saepe coronis"
+},
+{
+"id": "14.734",
+"label": "Ov. Met. 14.734",
+"text": "umentes oculos et pallida bracchia tollens,"
+},
+{
+"id": "14.735",
+"label": "Ov. Met. 14.735",
+"text": "cum foribus laquei religaret vincula summis,"
+},
+{
+"id": "14.736",
+"label": "Ov. Met. 14.736",
+"text": "“haec tibi serta placent, crudelis et impia?” dixit,"
+},
+{
+"id": "14.737",
+"label": "Ov. Met. 14.737",
+"text": "inseruitque caput, sed tum quoque versus ad illam,"
+},
+{
+"id": "14.738",
+"label": "Ov. Met. 14.738",
+"text": "atque onus infelix elisa fauce pependit."
+},
+{
+"id": "14.739",
+"label": "Ov. Met. 14.739",
+"text": "Icta pedum motu est adapertaque ianua factum"
+},
+{
+"id": "14.741",
+"label": "Ov. Met. 14.741",
+"text": "prodidit. Exclamant famuli frustraque levatum"
+},
+{
+"id": "14.742",
+"label": "Ov. Met. 14.742",
+"text": "(nam pater occiderat) referunt ad limina matris;"
+},
+{
+"id": "14.743",
+"label": "Ov. Met. 14.743",
+"text": "accipit illa sinu complexaque frigida nati"
+},
+{
+"id": "14.744",
+"label": "Ov. Met. 14.744",
+"text": "membra sui postquam miserarum verba parentum"
+},
+{
+"id": "14.745",
+"label": "Ov. Met. 14.745",
+"text": "edidit et matrum miserarum facta peregit,"
+},
+{
+"id": "14.746",
+"label": "Ov. Met. 14.746",
+"text": "funera ducebat mediam lacrimosa per urbem"
+},
+{
+"id": "14.747",
+"label": "Ov. Met. 14.747",
+"text": "luridaque arsuro portabat membra feretro."
+},
+{
+"id": "14.748",
+"label": "Ov. Met. 14.748",
+"text": "Forte viae vicina domus, qua flebilis ibat"
+},
+{
+"id": "14.749",
+"label": "Ov. Met. 14.749",
+"text": "pompa, fuit, duraeque sonus plangoris ad aures"
+},
+{
+"id": "14.750",
+"label": "Ov. Met. 14.750",
+"text": "venit Anaxaretae, quam iam deus ultor agebat:"
+},
+{
+"id": "14.751",
+"label": "Ov. Met. 14.751",
+"text": "mota “tamen videamus” ait “miserabile funus”"
+},
+{
+"id": "14.752",
+"label": "Ov. Met. 14.752",
+"text": "et patulis iniit tectum sublime fenestris;"
+},
+{
+"id": "14.753",
+"label": "Ov. Met. 14.753",
+"text": "vixque bene impositum lecto prospexerat Iphin,"
+},
+{
+"id": "14.754",
+"label": "Ov. Met. 14.754",
+"text": "deriguere oculi, calidusque e corpore sanguis"
+},
+{
+"id": "14.755",
+"label": "Ov. Met. 14.755",
+"text": "inducto pallore fugit, conataque retro"
+},
+{
+"id": "14.756",
+"label": "Ov. Met. 14.756",
+"text": "ferre pedes haesit, conata avertere vultus"
+},
+{
+"id": "14.757",
+"label": "Ov. Met. 14.757",
+"text": "hoc quoque non potuit, paulatimque occupat artus,"
+},
+{
+"id": "14.758",
+"label": "Ov. Met. 14.758",
+"text": "quod fuit in duro iam pridem pectore, saxum."
+},
+{
+"id": "14.759",
+"label": "Ov. Met. 14.759",
+"text": "Neve ea ficta putes, dominae sub imagine signum"
+},
+{
+"id": "14.760",
+"label": "Ov. Met. 14.760",
+"text": "servat adhuc Salamis: Veneris quoque nomine templum"
+},
+{
+"id": "14.761",
+"label": "Ov. Met. 14.761",
+"text": "Prospicientis habet. — Quorum memor, o mea, lentos"
+},
+{
+"id": "14.762",
+"label": "Ov. Met. 14.762",
+"text": "pone, precor, fastus et amanti iungere, nymphe."
+},
+{
+"id": "14.763",
+"label": "Ov. Met. 14.763",
+"text": "Sic tibi nil vernum nascentia frigus adurat"
+},
+{
+"id": "14.764",
+"label": "Ov. Met. 14.764",
+"text": "poma nec excutiant rapidi florentia venti!'"
+},
+{
+"id": "14.765",
+"label": "Ov. Met. 14.765",
+"text": "Haec ubi nequiquam formae deus aptus anili"
+},
+{
+"id": "14.766",
+"label": "Ov. Met. 14.766",
+"text": "edidit, in iuvenem rediit et anilia demit"
+},
+{
+"id": "14.767",
+"label": "Ov. Met. 14.767",
+"text": "instrumenta sibi talisque apparuit illi,"
+},
+{
+"id": "14.768",
+"label": "Ov. Met. 14.768",
+"text": "qualis ubi oppositas nitidissima solis imago"
+},
+{
+"id": "14.769",
+"label": "Ov. Met. 14.769",
+"text": "evicit nubes nullaque obstante reluxit,"
+},
+{
+"id": "14.770",
+"label": "Ov. Met. 14.770",
+"text": "vimque parat: sed vi non est opus, inque figura"
+},
+{
+"id": "14.771",
+"label": "Ov. Met. 14.771",
+"text": "capta dei nymphe est et mutua vulnera sensit."
+},
+{
+"id": "14.772",
+"label": "Ov. Met. 14.772",
+"text": "Proximus Ausonias iniusti miles Amuli"
+},
+{
+"id": "14.773",
+"label": "Ov. Met. 14.773",
+"text": "rexit opes, Numitorque senex amissa nepotis"
+},
+{
+"id": "14.774",
+"label": "Ov. Met. 14.774",
+"text": "munere regna capit, festisque Palilibus urbis"
+},
+{
+"id": "14.775",
+"label": "Ov. Met. 14.775",
+"text": "moenia conduntur, Tatiusque patresque Sabini"
+},
+{
+"id": "14.776",
+"label": "Ov. Met. 14.776",
+"text": "bella gerunt, arcisque via Tarpeia reclusa"
+},
+{
+"id": "14.777",
+"label": "Ov. Met. 14.777",
+"text": "dignam animam poena congestis exuit armis."
+},
+{
+"id": "14.778",
+"label": "Ov. Met. 14.778",
+"text": "Inde sati Curibus tacitorum more luporum"
+},
+{
+"id": "14.779",
+"label": "Ov. Met. 14.779",
+"text": "ore premunt voces et corpora victa sopore"
+},
+{
+"id": "14.780",
+"label": "Ov. Met. 14.780",
+"text": "invadunt portasque petunt, quas obice firmo"
+},
+{
+"id": "14.781",
+"label": "Ov. Met. 14.781",
+"text": "clauserat Iliades: unam tamen ipsa reclusit"
+},
+{
+"id": "14.782",
+"label": "Ov. Met. 14.782",
+"text": "nec strepitum verso Saturnia cardine fecit."
+},
+{
+"id": "14.783",
+"label": "Ov. Met. 14.783",
+"text": "Sola Venus portae cecidisse repagula sensit"
+},
+{
+"id": "14.784",
+"label": "Ov. Met. 14.784",
+"text": "et clausura fuit, nisi quod rescindere numquam"
+},
+{
+"id": "14.785",
+"label": "Ov. Met. 14.785",
+"text": "dis licet acta deum. Iano loca iuncta tenebant"
+},
+{
+"id": "14.786",
+"label": "Ov. Met. 14.786",
+"text": "naides Ausoniae gelido rorantia fonte:"
+},
+{
+"id": "14.787",
+"label": "Ov. Met. 14.787",
+"text": "has rogat auxilium, nec nymphae iusta petentem"
+},
+{
+"id": "14.788",
+"label": "Ov. Met. 14.788",
+"text": "sustinuere deam venasque et flumina fontis"
+},
+{
+"id": "14.789",
+"label": "Ov. Met. 14.789",
+"text": "elicuere sui; nondum tamen invia Iani"
+},
+{
+"id": "14.790",
+"label": "Ov. Met. 14.790",
+"text": "ora patentis erant, neque iter praecluserat unda:"
+},
+{
+"id": "14.791",
+"label": "Ov. Met. 14.791",
+"text": "lurida supponunt fecundo sulphura fonti"
+},
+{
+"id": "14.792",
+"label": "Ov. Met. 14.792",
+"text": "incenduntque cavas fumante bitumine venas."
+},
+{
+"id": "14.793",
+"label": "Ov. Met. 14.793",
+"text": "Viribus his aliisque vapor penetravit ad ima"
+},
+{
+"id": "14.794",
+"label": "Ov. Met. 14.794",
+"text": "fontis, et Alpino modo quae certare rigori"
+},
+{
+"id": "14.795",
+"label": "Ov. Met. 14.795",
+"text": "audebatis aquae, non ceditis ignibus ipsis!"
+},
+{
+"id": "14.796",
+"label": "Ov. Met. 14.796",
+"text": "Flammifera gemini fumant adspergine postes,"
+},
+{
+"id": "14.797",
+"label": "Ov. Met. 14.797",
+"text": "portaque, nequiquam rigidis promissa Sabinis,"
+},
+{
+"id": "14.798",
+"label": "Ov. Met. 14.798",
+"text": "fonte fuit praestructa novo, dum Martius arma"
+},
+{
+"id": "14.799",
+"label": "Ov. Met. 14.799",
+"text": "indueret miles; quae postquam Romulus ultro"
+},
+{
+"id": "14.800",
+"label": "Ov. Met. 14.800",
+"text": "obtulit, et strata est tellus Romana Sabinis"
+},
+{
+"id": "14.801",
+"label": "Ov. Met. 14.801",
+"text": "corporibus strata estque suis, generique cruorem"
+},
+{
+"id": "14.802",
+"label": "Ov. Met. 14.802",
+"text": "sanguine cum soceri permiscuit impius ensis,"
+},
+{
+"id": "14.803",
+"label": "Ov. Met. 14.803",
+"text": "pace tamen sisti bellum nec in ultima tantum"
+},
+{
+"id": "14.804",
+"label": "Ov. Met. 14.804",
+"text": "decertare placet Tatiumque accedere regno."
+},
+{
+"id": "14.805",
+"label": "Ov. Met. 14.805",
+"text": "Occiderat Tatius, populisque aequata duobus,"
+},
+{
+"id": "14.806",
+"label": "Ov. Met. 14.806",
+"text": "Romule, iura dabas, posita cum casside Mavors"
+},
+{
+"id": "14.807",
+"label": "Ov. Met. 14.807",
+"text": "talibus adfatur divumque hominumque parentem:"
+},
+{
+"id": "14.808",
+"label": "Ov. Met. 14.808",
+"text": "“Tempus adest, genitor, quoniam fundamine magno"
+},
+{
+"id": "14.809",
+"label": "Ov. Met. 14.809",
+"text": "res Romana valet et praeside pendet ab uno,"
+},
+{
+"id": "14.810",
+"label": "Ov. Met. 14.810",
+"text": "praemia (sunt promissa mihi dignoque nepoti!)"
+},
+{
+"id": "14.811",
+"label": "Ov. Met. 14.811",
+"text": "solvere et ablatum terris imponere caelo."
+},
+{
+"id": "14.812",
+"label": "Ov. Met. 14.812",
+"text": "Tu mihi concilio quondam praesente deorum"
+},
+{
+"id": "14.813",
+"label": "Ov. Met. 14.813",
+"text": "(nam memoro memorique animo pia verba notavi)"
+},
+{
+"id": "14.814",
+"label": "Ov. Met. 14.814",
+"text": "“unus erit, quem tu tolles in caerula caeli”"
+},
+{
+"id": "14.815",
+"label": "Ov. Met. 14.815",
+"text": "dixisti: rata sit verborum summa tuorum!”"
+},
+{
+"id": "14.816",
+"label": "Ov. Met. 14.816",
+"text": "Adnuit omnipotens et nubibus aera caecis"
+},
+{
+"id": "14.817",
+"label": "Ov. Met. 14.817",
+"text": "occuluit tonitruque et fulgure terruit orbem:"
+},
+{
+"id": "14.818",
+"label": "Ov. Met. 14.818",
+"text": "quae sibi promissae sensit rata signa rapinae"
+},
+{
+"id": "14.819",
+"label": "Ov. Met. 14.819",
+"text": "innixusque hastae pressos temone cruento"
+},
+{
+"id": "14.820",
+"label": "Ov. Met. 14.820",
+"text": "impavidus conscendit equos Gradivus et ictu"
+},
+{
+"id": "14.821",
+"label": "Ov. Met. 14.821",
+"text": "verberis increpuit pronusque per aera lapsus"
+},
+{
+"id": "14.822",
+"label": "Ov. Met. 14.822",
+"text": "constitit in summo nemorosi colle Palati"
+},
+{
+"id": "14.823",
+"label": "Ov. Met. 14.823",
+"text": "reddentemque suo non regia iura Quiriti"
+},
+{
+"id": "14.824",
+"label": "Ov. Met. 14.824",
+"text": "abstulit Iliaden: corpus mortale per auras"
+},
+{
+"id": "14.825",
+"label": "Ov. Met. 14.825",
+"text": "dilapsum tenues, ceu lata plumbea funda"
+},
+{
+"id": "14.826",
+"label": "Ov. Met. 14.826",
+"text": "missa solet medio glans intabescere caelo."
+},
+{
+"id": "14.827",
+"label": "Ov. Met. 14.827",
+"text": "Pulchra subit facies et pulvinaribus altis"
+},
+{
+"id": "14.828",
+"label": "Ov. Met. 14.828",
+"text": "dignior, est qualis trabeati forma Quirini."
+},
+{
+"id": "14.829",
+"label": "Ov. Met. 14.829",
+"text": "Flebat ut amissum coniunx, cum regia Iuno"
+},
+{
+"id": "14.830",
+"label": "Ov. Met. 14.830",
+"text": "Irin ad Hersiliam descendere limite curvo"
+},
+{
+"id": "14.831",
+"label": "Ov. Met. 14.831",
+"text": "imperat et vacuae sua sic mandata referre:"
+},
+{
+"id": "14.832",
+"label": "Ov. Met. 14.832",
+"text": "“O et de Latio, o et de gente Sabina"
+},
+{
+"id": "14.833",
+"label": "Ov. Met. 14.833",
+"text": "praecipuum, matrona, decus, dignissima tanti"
+},
+{
+"id": "14.834",
+"label": "Ov. Met. 14.834",
+"text": "ante fuisse viri, coniunx nunc esse Quirini,"
+},
+{
+"id": "14.835",
+"label": "Ov. Met. 14.835",
+"text": "siste tuos fletus et, si tibi cura videndi"
+},
+{
+"id": "14.836",
+"label": "Ov. Met. 14.836",
+"text": "coniugis est, duce me lucum pete, colle Quirini"
+},
+{
+"id": "14.837",
+"label": "Ov. Met. 14.837",
+"text": "qui viret et templum Romani regis obumbrat.”"
+},
+{
+"id": "14.838",
+"label": "Ov. Met. 14.838",
+"text": "Paret et in terram pictos delapsa per arcus"
+},
+{
+"id": "14.839",
+"label": "Ov. Met. 14.839",
+"text": "Hersilien iussis compellat vocibus Iris."
+},
+{
+"id": "14.840",
+"label": "Ov. Met. 14.840",
+"text": "Illa verecundo vix tollens lumina vultu"
+},
+{
+"id": "14.841",
+"label": "Ov. Met. 14.841",
+"text": "“o, dea, namque mihi nec, quae sis, dicere promptum est,"
+},
+{
+"id": "14.842",
+"label": "Ov. Met. 14.842",
+"text": "et liquet esse deam, duc, o duc” inquit “et offer"
+},
+{
+"id": "14.843",
+"label": "Ov. Met. 14.843",
+"text": "coniugis ora mihi, quem si modo posse videre"
+},
+{
+"id": "14.844",
+"label": "Ov. Met. 14.844",
+"text": "fata semel dederint, caelum accepisse fatebor.”"
+},
+{
+"id": "14.845",
+"label": "Ov. Met. 14.845",
+"text": "Nec mora, Romuleos cum virgine Thaumantea"
+},
+{
+"id": "14.846",
+"label": "Ov. Met. 14.846",
+"text": "ingreditur colles: ibi sidus ab aethere lapsum"
+},
+{
+"id": "14.847",
+"label": "Ov. Met. 14.847",
+"text": "decidit in terras, a cuius lumine flagrans"
+},
+{
+"id": "14.848",
+"label": "Ov. Met. 14.848",
+"text": "Hersilie crines cum sidere cessit in auras."
+},
+{
+"id": "14.849",
+"label": "Ov. Met. 14.849",
+"text": "Hanc manibus notis Romanae conditor urbis"
+},
+{
+"id": "14.850",
+"label": "Ov. Met. 14.850",
+"text": "excipit et priscum pariter cum corpore nomen"
+},
+{
+"id": "14.851",
+"label": "Ov. Met. 14.851",
+"text": "mutat Horamque vocat, quae nunc dea iuncta Quirino est."
+}
+]
+}

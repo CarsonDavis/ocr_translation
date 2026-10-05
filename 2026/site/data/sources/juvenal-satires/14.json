@@ -1,0 +1,1657 @@
+{
+"corpus": "juvenal-satires",
+"unit": "14",
+"title": "Juvenal, Satires, 14",
+"passages": [
+{
+"id": "14.1",
+"label": "Juv. 14.1",
+"text": "Plurima sunt, Fuscine, et fama digna sinistra"
+},
+{
+"id": "14.2a",
+"label": "Juv. 14.2a",
+"text": "et nitidis maculam haesuram figentia rebus,"
+},
+{
+"id": "14.3a",
+"label": "Juv. 14.3a",
+"text": "quae monstrant ipsi pueris traduntque parentes,"
+},
+{
+"id": "14.4a",
+"label": "Juv. 14.4a",
+"text": "si damnosa senem iuvat alea, ludit et heres"
+},
+{
+"id": "14.5",
+"label": "Juv. 14.5",
+"text": "bullatus parvoque eadem movet arma fritillo."
+},
+{
+"id": "14.6",
+"label": "Juv. 14.6",
+"text": "nec melius de se cuiquam sperare propinquo"
+},
+{
+"id": "14.7",
+"label": "Juv. 14.7",
+"text": "concedet iuvenis, qui radere tubera terrae,"
+},
+{
+"id": "14.8",
+"label": "Juv. 14.8",
+"text": "boletum condire et eodem iure natantis"
+},
+{
+"id": "14.9",
+"label": "Juv. 14.9",
+"text": "mergere ficedulas didicit nebulone parente"
+},
+{
+"id": "14.10",
+"label": "Juv. 14.10",
+"text": "et cana monstrante gula; cum septimus annus"
+},
+{
+"id": "14.11",
+"label": "Juv. 14.11",
+"text": "transierit puerum, nondum omni dente renato,"
+},
+{
+"id": "14.12",
+"label": "Juv. 14.12",
+"text": "barbatos licet admoveas mille inde magistros,"
+},
+{
+"id": "14.13",
+"label": "Juv. 14.13",
+"text": "hinc totidem, cupiet lauto cenare paratu"
+},
+{
+"id": "14.14",
+"label": "Juv. 14.14",
+"text": "semper et a magna non degenerare culina."
+},
+{
+"id": "14.15",
+"label": "Juv. 14.15",
+"text": "Mitem animum et mores modicis erroribus aequos"
+},
+{
+"id": "14.16",
+"label": "Juv. 14.16",
+"text": "praecipit, atque animas servorum et corpora nostra"
+},
+{
+"id": "14.17",
+"label": "Juv. 14.17",
+"text": "materia constare putat paribusque elementis,"
+},
+{
+"id": "14.18",
+"label": "Juv. 14.18",
+"text": "an saevire docet Rutilus, qui gaudet acerbo"
+},
+{
+"id": "14.19",
+"label": "Juv. 14.19",
+"text": "plagarum strepitu et nullam Sirena flagellis"
+},
+{
+"id": "14.20",
+"label": "Juv. 14.20",
+"text": "conparat, Antiphates trepidi laris ac Polyphemus,"
+},
+{
+"id": "14.21",
+"label": "Juv. 14.21",
+"text": "tunc felix, quotiens aliquis tortore vocato"
+},
+{
+"id": "14.22",
+"label": "Juv. 14.22",
+"text": "uritur ardenti duo propter lintea ferro?"
+},
+{
+"id": "14.23",
+"label": "Juv. 14.23",
+"text": "quid suadet iuveni laetus stridore catenae,"
+},
+{
+"id": "14.24",
+"label": "Juv. 14.24",
+"text": "quem mire adficiunt inscripta, ergastula, carcer?"
+},
+{
+"id": "14.25",
+"label": "Juv. 14.25",
+"text": "rusticus expectas ut non sit adultera Largae"
+},
+{
+"id": "14.26",
+"label": "Juv. 14.26",
+"text": "filia, quae numquam maternos dicere moechos"
+},
+{
+"id": "14.27",
+"label": "Juv. 14.27",
+"text": "tam cito nec tanto poterit contexere cursu,"
+},
+{
+"id": "14.28",
+"label": "Juv. 14.28",
+"text": "ut non terdecies respiret? conscia matri"
+},
+{
+"id": "14.29",
+"label": "Juv. 14.29",
+"text": "virgo fuit, ceras nunc hac dictante pusillas"
+},
+{
+"id": "14.30",
+"label": "Juv. 14.30",
+"text": "implet et ad moechum dat eisdem ferre cinaedis."
+},
+{
+"id": "14.31",
+"label": "Juv. 14.31",
+"text": "sic natura iubet: velocius et citius nos"
+},
+{
+"id": "14.32",
+"label": "Juv. 14.32",
+"text": "corrumpunt vitiorum exempla domestica, magnis"
+},
+{
+"id": "14.33",
+"label": "Juv. 14.33",
+"text": "cum subeant animos auctoribus, unus et alter"
+},
+{
+"id": "14.34",
+"label": "Juv. 14.34",
+"text": "forsitan haec spernant iuvenes, quibus arte benigna"
+},
+{
+"id": "14.35",
+"label": "Juv. 14.35",
+"text": "et meliore luto finxit praecordia Titan,"
+},
+{
+"id": "14.36",
+"label": "Juv. 14.36",
+"text": "sed reliquos fugienda patrum vestigia ducunt"
+},
+{
+"id": "14.37",
+"label": "Juv. 14.37",
+"text": "et monstrata diu veteris trahit orbita culpae."
+},
+{
+"id": "14.38",
+"label": "Juv. 14.38",
+"text": "Abstineas igitur damnandis. huius enim vel"
+},
+{
+"id": "14.39",
+"label": "Juv. 14.39",
+"text": "una potens ratio est, ne crimina nostra sequantur"
+},
+{
+"id": "14.40",
+"label": "Juv. 14.40",
+"text": "ex nobis geniti, quoniam dociles imitandis"
+},
+{
+"id": "14.41",
+"label": "Juv. 14.41",
+"text": "turpibus ac pravis omnes sumus, et Catilinam"
+},
+{
+"id": "14.42",
+"label": "Juv. 14.42",
+"text": "quocumque in populo videas, quocumque sub axe,"
+},
+{
+"id": "14.43",
+"label": "Juv. 14.43",
+"text": "sed nec Brutus erit Bruti nec avunculus usquam,"
+},
+{
+"id": "14.44",
+"label": "Juv. 14.44",
+"text": "nil dictu foedum visuque haec limina tangat,"
+},
+{
+"id": "14.45",
+"label": "Juv. 14.45",
+"text": "intra quae pater est; procul, a procul inde puellae"
+},
+{
+"id": "14.46",
+"label": "Juv. 14.46",
+"text": "lenonum et cantus pernoctantis parasiti."
+},
+{
+"id": "14.47",
+"label": "Juv. 14.47",
+"text": "maxima debetur puero reverentia, siquid"
+},
+{
+"id": "14.48",
+"label": "Juv. 14.48",
+"text": "turpe paras; nec tu pueri contempseris annos,"
+},
+{
+"id": "14.49",
+"label": "Juv. 14.49",
+"text": "sed peccaturo obstet tibi filius infans."
+},
+{
+"id": "14.50",
+"label": "Juv. 14.50",
+"text": "nam siquid dignum censoris fecerit ira"
+},
+{
+"id": "14.51",
+"label": "Juv. 14.51",
+"text": "quandoque et similem tibi se non corpore tantum"
+},
+{
+"id": "14.52",
+"label": "Juv. 14.52",
+"text": "nec vultu dederit, morum quoque filius, et qui"
+},
+{
+"id": "14.53",
+"label": "Juv. 14.53",
+"text": "omnia deterius tua per vestigia peccet,"
+},
+{
+"id": "14.54",
+"label": "Juv. 14.54",
+"text": "corripies nimirum et castigabis acerbo"
+},
+{
+"id": "14.55",
+"label": "Juv. 14.55",
+"text": "clamore ac post haec tabulas mutare parabis."
+},
+{
+"id": "14.56",
+"label": "Juv. 14.56",
+"text": "unde tibi frontem libertatemque parentis,"
+},
+{
+"id": "14.57",
+"label": "Juv. 14.57",
+"text": "cum facias peiora senex vacuumque cerebro"
+},
+{
+"id": "14.58",
+"label": "Juv. 14.58",
+"text": "iam pridem caput hoc ventosa cucurbita quaerat?"
+},
+{
+"id": "14.59",
+"label": "Juv. 14.59",
+"text": "Hospite venturo cessabit nemo tuorum."
+},
+{
+"id": "14.60",
+"label": "Juv. 14.60",
+"text": "‘verre pavimentum, nitidas ostende columnas,"
+},
+{
+"id": "14.61",
+"label": "Juv. 14.61",
+"text": "arida cum tota descendat aranea tela;"
+},
+{
+"id": "14.62",
+"label": "Juv. 14.62",
+"text": "hic leve argentum, vasa aspera tergeat alter’:"
+},
+{
+"id": "14.63",
+"label": "Juv. 14.63",
+"text": "vox domini furit instantis virgamque tenentis."
+},
+{
+"id": "14.64",
+"label": "Juv. 14.64",
+"text": "ergo miser trepidas, ne stercore foeda canino"
+},
+{
+"id": "14.65",
+"label": "Juv. 14.65",
+"text": "atria displiceant oculis venientis amici,"
+},
+{
+"id": "14.66",
+"label": "Juv. 14.66",
+"text": "ne perfusa luto sit porticus; et tamen uno"
+},
+{
+"id": "14.67",
+"label": "Juv. 14.67",
+"text": "semodio scobis haec emendat servulus unus:"
+},
+{
+"id": "14.68",
+"label": "Juv. 14.68",
+"text": "illud non agitas, ut sanctam filius omni"
+},
+{
+"id": "14.69",
+"label": "Juv. 14.69",
+"text": "aspiciat sine labe domum vitioque carentem?"
+},
+{
+"id": "14.70",
+"label": "Juv. 14.70",
+"text": "gratum est quod patriae civem populoque dedisti,"
+},
+{
+"id": "14.71",
+"label": "Juv. 14.71",
+"text": "si facis ut patriae sit idoneus, utilis agris,"
+},
+{
+"id": "14.72",
+"label": "Juv. 14.72",
+"text": "utilis et bellorum et pacis rebus agendis,"
+},
+{
+"id": "14.73",
+"label": "Juv. 14.73",
+"text": "plurimum enim intererit quibus artibus et quibus hunc tu"
+},
+{
+"id": "14.74",
+"label": "Juv. 14.74",
+"text": "moribus instituas. serpente ciconia pullos"
+},
+{
+"id": "14.75",
+"label": "Juv. 14.75",
+"text": "nutrit et inventa per devia rura lacerta:"
+},
+{
+"id": "14.76",
+"label": "Juv. 14.76",
+"text": "illi eadem sumptis quaerunt animalia pinnis."
+},
+{
+"id": "14.77",
+"label": "Juv. 14.77",
+"text": "vultur iumento et canibus crucibusque relictis"
+},
+{
+"id": "14.78",
+"label": "Juv. 14.78",
+"text": "ad fetus properat partemque cadaveris adfert:"
+},
+{
+"id": "14.79",
+"label": "Juv. 14.79",
+"text": "hic est ergo cibus magni quoque vulturis et se"
+},
+{
+"id": "14.80",
+"label": "Juv. 14.80",
+"text": "pascentis, propria cum iam facit arbore nidos."
+},
+{
+"id": "14.81",
+"label": "Juv. 14.81",
+"text": "sed leporem aut capream famulae Iovis et generosae"
+},
+{
+"id": "14.82",
+"label": "Juv. 14.82",
+"text": "in saltu venantur aves, hinc praeda cubili"
+},
+{
+"id": "14.83",
+"label": "Juv. 14.83",
+"text": "ponitur: inde autem cum se matura levavit"
+},
+{
+"id": "14.84",
+"label": "Juv. 14.84",
+"text": "progenies, stimulante fame festinat ad illam"
+},
+{
+"id": "14.85",
+"label": "Juv. 14.85",
+"text": "quam primum praedam rupto gustaverat ovo."
+},
+{
+"id": "14.86",
+"label": "Juv. 14.86",
+"text": "Aedificator erat Cretonius et modo curvo"
+},
+{
+"id": "14.87",
+"label": "Juv. 14.87",
+"text": "litore Caietae, summa nunc Tiburis arce,"
+},
+{
+"id": "14.88",
+"label": "Juv. 14.88",
+"text": "nunc Praenestinis in montibus alta parabat"
+},
+{
+"id": "14.89",
+"label": "Juv. 14.89",
+"text": "culmina villarum graecis longeque petitis"
+},
+{
+"id": "14.90",
+"label": "Juv. 14.90",
+"text": "marmoribus vincens Fortunae atque Herculis aedem,"
+},
+{
+"id": "14.91",
+"label": "Juv. 14.91",
+"text": "ut spado vincebat Capitolia nostra Posides."
+},
+{
+"id": "14.92",
+"label": "Juv. 14.92",
+"text": "dum sic ergo habitat Cretonius, inminuit rem,"
+},
+{
+"id": "14.93",
+"label": "Juv. 14.93",
+"text": "fregit opes, nec parva tamen mensura relictae"
+},
+{
+"id": "14.94",
+"label": "Juv. 14.94",
+"text": "partis erat: totam hanc turbavit filius amens,"
+},
+{
+"id": "14.95",
+"label": "Juv. 14.95",
+"text": "dum meliore novas attollit marmore villas."
+},
+{
+"id": "14.96",
+"label": "Juv. 14.96",
+"text": "Quidam sortiti metuentem sabbata patrem"
+},
+{
+"id": "14.97",
+"label": "Juv. 14.97",
+"text": "nil praeter nubes et caeli numen adorant,"
+},
+{
+"id": "14.98",
+"label": "Juv. 14.98",
+"text": "nec distare putant humana carne suillam,"
+},
+{
+"id": "14.99",
+"label": "Juv. 14.99",
+"text": "qua pater abstinuit, mox et praeputia ponunt;"
+},
+{
+"id": "14.100",
+"label": "Juv. 14.100",
+"text": "Romanas autem soliti contemnere leges"
+},
+{
+"id": "14.101",
+"label": "Juv. 14.101",
+"text": "Iudaicum ediscunt et servant ac metuunt ius,"
+},
+{
+"id": "14.102",
+"label": "Juv. 14.102",
+"text": "tradidit arcano quodcumque volumine Moyses,"
+},
+{
+"id": "14.103",
+"label": "Juv. 14.103",
+"text": "non monstrare vias eadem nisi sacra colenti,"
+},
+{
+"id": "14.104",
+"label": "Juv. 14.104",
+"text": "quaesitum ad fontem solos deducere verpos."
+},
+{
+"id": "14.105",
+"label": "Juv. 14.105",
+"text": "sed pater in causa, cui septima quaeque fuit lux"
+},
+{
+"id": "14.106",
+"label": "Juv. 14.106",
+"text": "ignava et partem vitae non attigit ullam."
+},
+{
+"id": "14.107",
+"label": "Juv. 14.107",
+"text": "Sponte tamen iuvenes imitantur cetera, solam"
+},
+{
+"id": "14.108",
+"label": "Juv. 14.108",
+"text": "inviti quoque avaritiam exercere iubentur."
+},
+{
+"id": "14.109",
+"label": "Juv. 14.109",
+"text": "fallit enim vitium specie virtutis et umbra,"
+},
+{
+"id": "14.110",
+"label": "Juv. 14.110",
+"text": "cum sit triste habitu vultuque et veste severum,"
+},
+{
+"id": "14.111",
+"label": "Juv. 14.111",
+"text": "nec dubie tamquam frugi laudetur avarus,"
+},
+{
+"id": "14.112",
+"label": "Juv. 14.112",
+"text": "tamquam parcus homo et rerum tutela suarum"
+},
+{
+"id": "14.113",
+"label": "Juv. 14.113",
+"text": "certa magis quam si fortunas servet easdem"
+},
+{
+"id": "14.114",
+"label": "Juv. 14.114",
+"text": "Hesperidum serpens aut Ponticus. adde quod hunc de"
+},
+{
+"id": "14.115",
+"label": "Juv. 14.115",
+"text": "quo loquor egregium populus putat adquirendi"
+},
+{
+"id": "14.116",
+"label": "Juv. 14.116",
+"text": "artificem; quippe his crescunt patrimonia fabris,"
+},
+{
+"id": "14.117",
+"label": "Juv. 14.117",
+"text": "sed crescunt quocumque modo, maioraque fiunt"
+},
+{
+"id": "14.118",
+"label": "Juv. 14.118",
+"text": "incude adsidua semperque ardente camino."
+},
+{
+"id": "14.119",
+"label": "Juv. 14.119",
+"text": "Et pater ergo animi felices credit avaros;"
+},
+{
+"id": "14.120",
+"label": "Juv. 14.120",
+"text": "qui miratur opes, qui nulla exempla beati;"
+},
+{
+"id": "14.121",
+"label": "Juv. 14.121",
+"text": "pauperis esse putat, iuvenes hortatur ut illa"
+},
+{
+"id": "14.122",
+"label": "Juv. 14.122",
+"text": "ire via pergant et eidem incumbere sectae,"
+},
+{
+"id": "14.123",
+"label": "Juv. 14.123",
+"text": "sunt quaedam vitiorum elementa, his protinus illos"
+},
+{
+"id": "14.124",
+"label": "Juv. 14.124",
+"text": "inbuit et cogit minimas ediscere sordes;"
+},
+{
+"id": "14.125",
+"label": "Juv. 14.125",
+"text": "mox adquirendi docet insatiabile votum."
+},
+{
+"id": "14.126",
+"label": "Juv. 14.126",
+"text": "servorum ventres modio castigat iniquo"
+},
+{
+"id": "14.127",
+"label": "Juv. 14.127",
+"text": "ipse quoque esuriens, neque enim omnia sustinet umquam"
+},
+{
+"id": "14.128",
+"label": "Juv. 14.128",
+"text": "mucida caerulei panis consumere frusta,"
+},
+{
+"id": "14.129",
+"label": "Juv. 14.129",
+"text": "hesternum solitus medio servare minutal"
+},
+{
+"id": "14.130",
+"label": "Juv. 14.130",
+"text": "Septembri nec non differre in tempora cenae"
+},
+{
+"id": "14.131",
+"label": "Juv. 14.131",
+"text": "alterius conchem aestivam cum parte lacerti"
+},
+{
+"id": "14.132",
+"label": "Juv. 14.132",
+"text": "signatam vel dimidio putrique siluro,"
+},
+{
+"id": "14.133",
+"label": "Juv. 14.133",
+"text": "filaque sectivi numerata includere porri."
+},
+{
+"id": "14.134",
+"label": "Juv. 14.134",
+"text": "invitatus ad haec aliquis de ponte negabit."
+},
+{
+"id": "14.135",
+"label": "Juv. 14.135",
+"text": "sed quo divitias haec per tormenta coactas,"
+},
+{
+"id": "14.136",
+"label": "Juv. 14.136",
+"text": "cum furor haut dubius, cum sit manifesta phrenesis,"
+},
+{
+"id": "14.137",
+"label": "Juv. 14.137",
+"text": "ut locuples moriaris, egentis vivere fato?"
+},
+{
+"id": "14.138",
+"label": "Juv. 14.138",
+"text": "interea pleno cum turget sacculus ore,"
+},
+{
+"id": "14.139",
+"label": "Juv. 14.139",
+"text": "crescit amor nummi quantum ipsa pecunia crevit,"
+},
+{
+"id": "14.140",
+"label": "Juv. 14.140",
+"text": "et minus hanc optat qui non habet, ergo paratur"
+},
+{
+"id": "14.141",
+"label": "Juv. 14.141",
+"text": "altera villa tibi, cum rus non sufficit unum,"
+},
+{
+"id": "14.142",
+"label": "Juv. 14.142",
+"text": "et proferre libet fines maiorque videtur"
+},
+{
+"id": "14.143",
+"label": "Juv. 14.143",
+"text": "et melior vicina seges, mercaris et hanc et"
+},
+{
+"id": "14.144",
+"label": "Juv. 14.144",
+"text": "arbusta et densa montem qui canet oliva"
+},
+{
+"id": "14.145",
+"label": "Juv. 14.145",
+"text": "quorum si pretio dominus non vincitur ullo,"
+},
+{
+"id": "14.146",
+"label": "Juv. 14.146",
+"text": "nocte boves macri lassoque famelica collo"
+},
+{
+"id": "14.147",
+"label": "Juv. 14.147",
+"text": "iumenta ad virides huius mittentur aristas,"
+},
+{
+"id": "14.148",
+"label": "Juv. 14.148",
+"text": "nec prius inde domum quam tota novalia saevos"
+},
+{
+"id": "14.149",
+"label": "Juv. 14.149",
+"text": "in ventres abeant, ut credas falcibus actum."
+},
+{
+"id": "14.150",
+"label": "Juv. 14.150",
+"text": "dicere vix possis quam multi talia plorent"
+},
+{
+"id": "14.151",
+"label": "Juv. 14.151",
+"text": "et quot venales iniuria fecerit agros"
+},
+{
+"id": "14.152",
+"label": "Juv. 14.152",
+"text": "Sed qui sermones, quam foedae bucina famae!"
+},
+{
+"id": "14.153",
+"label": "Juv. 14.153",
+"text": "quid nocet haec? inquit, ‘tunicam mihi malo lupini"
+},
+{
+"id": "14.154",
+"label": "Juv. 14.154",
+"text": "quam si me toto laudet vicinia pago"
+},
+{
+"id": "14.155",
+"label": "Juv. 14.155",
+"text": "exigui ruris paucissima farra secantem.’"
+},
+{
+"id": "14.156",
+"label": "Juv. 14.156",
+"text": "scilicet et morbis et debilitate carebis,"
+},
+{
+"id": "14.157",
+"label": "Juv. 14.157",
+"text": "et luctum et curam effugies, et tempora vitae"
+},
+{
+"id": "14.158",
+"label": "Juv. 14.158",
+"text": "longa tibi posthac fato meliore dabuntur,"
+},
+{
+"id": "14.159",
+"label": "Juv. 14.159",
+"text": "si tantum culti solus possederis agri"
+},
+{
+"id": "14.160",
+"label": "Juv. 14.160",
+"text": "quantum sub Tatio populus Romanus arabat."
+},
+{
+"id": "14.161",
+"label": "Juv. 14.161",
+"text": "mox etiam fractis aetate ac Punica passis"
+},
+{
+"id": "14.162",
+"label": "Juv. 14.162",
+"text": "proelia vel Pyrrhum inmanem gladiosque Molossos"
+},
+{
+"id": "14.163",
+"label": "Juv. 14.163",
+"text": "tandem pro multis vix iugera bina dabantur"
+},
+{
+"id": "14.164",
+"label": "Juv. 14.164",
+"text": "vulneribus; merces haec sanguinis atque laboris"
+},
+{
+"id": "14.165",
+"label": "Juv. 14.165",
+"text": "nullis visa umquam meritis minor, aut ingratae"
+},
+{
+"id": "14.166",
+"label": "Juv. 14.166",
+"text": "curta fides patriae; saturabat glaebula talis"
+},
+{
+"id": "14.167",
+"label": "Juv. 14.167",
+"text": "patrem ipsum turbamque casae, qua feta iacebat"
+},
+{
+"id": "14.168",
+"label": "Juv. 14.168",
+"text": "uxor et infantes ludebant quattuor, unus"
+},
+{
+"id": "14.169",
+"label": "Juv. 14.169",
+"text": "vernula, tres domini; sed magnis fratribus horum"
+},
+{
+"id": "14.170",
+"label": "Juv. 14.170",
+"text": "a scrobe vel sulco redeuntibus altera cena"
+},
+{
+"id": "14.171",
+"label": "Juv. 14.171",
+"text": "amplior et grandes fumabant pultibus ollae:"
+},
+{
+"id": "14.172",
+"label": "Juv. 14.172",
+"text": "nunc modus hic agri nostro non sufficit horto."
+},
+{
+"id": "14.173",
+"label": "Juv. 14.173",
+"text": "Inde fere scelerum causae, nec plura venena"
+},
+{
+"id": "14.174",
+"label": "Juv. 14.174",
+"text": "miscuit aut ferro grassatur saepius ullum"
+},
+{
+"id": "14.175",
+"label": "Juv. 14.175",
+"text": "humanae mentis vitium quam saeva cupido"
+},
+{
+"id": "14.176",
+"label": "Juv. 14.176",
+"text": "inmodici census, nam dives qui fieri vult,"
+},
+{
+"id": "14.177",
+"label": "Juv. 14.177",
+"text": "et cito vult fieri; sed quae reverentia legum,"
+},
+{
+"id": "14.178",
+"label": "Juv. 14.178",
+"text": "quis metus aut pudor est umquam properantis avari?"
+},
+{
+"id": "14.179",
+"label": "Juv. 14.179",
+"text": "‘vivite contenti casulis et collibus istis,"
+},
+{
+"id": "14.180",
+"label": "Juv. 14.180",
+"text": "o pueri,’ Marsus dicebat et Hernicus olim"
+},
+{
+"id": "14.181",
+"label": "Juv. 14.181",
+"text": "Vestinusque senex; ‘panem quaeramus aratro,"
+},
+{
+"id": "14.182",
+"label": "Juv. 14.182",
+"text": "qui satis est mensis; laudant hoc numina ruris,"
+},
+{
+"id": "14.183",
+"label": "Juv. 14.183",
+"text": "quorum ope et auxilio gratae post munus aristae"
+},
+{
+"id": "14.184",
+"label": "Juv. 14.184",
+"text": "contingunt homini veteris fastidia quercus."
+},
+{
+"id": "14.185",
+"label": "Juv. 14.185",
+"text": "nil vetitum fecisse volet quem non pudet alto"
+},
+{
+"id": "14.186",
+"label": "Juv. 14.186",
+"text": "per glaciem perone tegi, qui summovet Euros"
+},
+{
+"id": "14.187",
+"label": "Juv. 14.187",
+"text": "pellibus inversis: peregrina ignotaque nobis"
+},
+{
+"id": "14.188",
+"label": "Juv. 14.188",
+"text": "ad scelus atque nefas, quaecumque est, purpura ducit.’"
+},
+{
+"id": "14.189",
+"label": "Juv. 14.189",
+"text": "Haec illi veteres praecepta minoribus, at nunc"
+},
+{
+"id": "14.190",
+"label": "Juv. 14.190",
+"text": "post finem autumni media de nocte supinum"
+},
+{
+"id": "14.191",
+"label": "Juv. 14.191",
+"text": "clamosus iuvenem pater excitat: ‘accipe ceras,"
+},
+{
+"id": "14.192",
+"label": "Juv. 14.192",
+"text": "scribe, puer, vigila, causas age, perlege rubras"
+},
+{
+"id": "14.193",
+"label": "Juv. 14.193",
+"text": "maiorum leges, aut vitem posce libello,"
+},
+{
+"id": "14.194",
+"label": "Juv. 14.194",
+"text": "sed caput intactum buxo naresque pilosas"
+},
+{
+"id": "14.195",
+"label": "Juv. 14.195",
+"text": "adnotet et grandes miretur Laelius alas,"
+},
+{
+"id": "14.196",
+"label": "Juv. 14.196",
+"text": "dirue Maurorum attegias, castella Brigantum,"
+},
+{
+"id": "14.197",
+"label": "Juv. 14.197",
+"text": "ut locupletem aquilam tibi sexagesimus annus"
+},
+{
+"id": "14.198",
+"label": "Juv. 14.198",
+"text": "adferat, aut longos castrorum ferre labores"
+},
+{
+"id": "14.199",
+"label": "Juv. 14.199",
+"text": "si piget et trepidum solvunt tibi cornua ventrem"
+},
+{
+"id": "14.200",
+"label": "Juv. 14.200",
+"text": "cum lituis audita, pares quod vendere possis"
+},
+{
+"id": "14.201",
+"label": "Juv. 14.201",
+"text": "pluris dimidio, nec te fastidia mercis"
+},
+{
+"id": "14.202",
+"label": "Juv. 14.202",
+"text": "ullius subeant ablegandae Tiberim ultra,"
+},
+{
+"id": "14.203",
+"label": "Juv. 14.203",
+"text": "neu credas ponendum aliquid discriminis inter"
+},
+{
+"id": "14.204",
+"label": "Juv. 14.204",
+"text": "unguenta et corium; lucri bonus est odor ex re"
+},
+{
+"id": "14.205",
+"label": "Juv. 14.205",
+"text": "qualibet, illa tuo sententia semper in ore"
+},
+{
+"id": "14.206",
+"label": "Juv. 14.206",
+"text": "versetur dis atque ipso Iove digna poeta:"
+},
+{
+"id": "14.207",
+"label": "Juv. 14.207",
+"text": "unde habeas quaerit nemo, sed oportet habere."
+},
+{
+"id": "14.208",
+"label": "Juv. 14.208",
+"text": "hoc monstrant vetulae pueris repentibus assae,"
+},
+{
+"id": "14.209",
+"label": "Juv. 14.209",
+"text": "hoc discunt omnes ante alpha et beta puellae.’"
+},
+{
+"id": "14.210",
+"label": "Juv. 14.210",
+"text": "Talibus instantem monitis quemcumque parentem"
+},
+{
+"id": "14.211",
+"label": "Juv. 14.211",
+"text": "sic possem adfari: ‘dic, o vanissime, quis te"
+},
+{
+"id": "14.212",
+"label": "Juv. 14.212",
+"text": "festinare iubet? meliorem praesto magistro"
+},
+{
+"id": "14.213",
+"label": "Juv. 14.213",
+"text": "discipulum, securus abi: vincens ut Aiax"
+},
+{
+"id": "14.214",
+"label": "Juv. 14.214",
+"text": "praeteriit Telamonem, ut Pelea vicit Achilles,"
+},
+{
+"id": "14.215",
+"label": "Juv. 14.215",
+"text": "parcendum est teneris, nondum implevere medullas"
+},
+{
+"id": "14.216",
+"label": "Juv. 14.216",
+"text": "maturae mala nequitiae, cum pectere barbam"
+},
+{
+"id": "14.217",
+"label": "Juv. 14.217",
+"text": "coeperit et longae mucronem admittere cultri,"
+},
+{
+"id": "14.218",
+"label": "Juv. 14.218",
+"text": "falsus erit testis, vendet periuria summa"
+},
+{
+"id": "14.219",
+"label": "Juv. 14.219",
+"text": "exigua et Cereris tangens aramque pedemque,"
+},
+{
+"id": "14.220",
+"label": "Juv. 14.220",
+"text": "elatam iam crede nurum, si limina vestra"
+},
+{
+"id": "14.221",
+"label": "Juv. 14.221",
+"text": "mortifera cum dote subit, quibus illa premetur"
+},
+{
+"id": "14.222",
+"label": "Juv. 14.222",
+"text": "per somnum digitis! nam quae terraque marique"
+},
+{
+"id": "14.223",
+"label": "Juv. 14.223",
+"text": "adquirenda putas, brevior via conferet illi;"
+},
+{
+"id": "14.224",
+"label": "Juv. 14.224",
+"text": "nullus enim magni sceleris labor. “haec ego numquam"
+},
+{
+"id": "14.225",
+"label": "Juv. 14.225",
+"text": "mandavi,” dices olim, nec talia suasi."
+},
+{
+"id": "14.226",
+"label": "Juv. 14.226",
+"text": "mentis causa malae tamen est et origo penes te."
+},
+{
+"id": "14.227",
+"label": "Juv. 14.227",
+"text": "nam quisquis magni census praecepit amorem"
+},
+{
+"id": "14.228",
+"label": "Juv. 14.228",
+"text": "et laevo monitu pueros producit avaros"
+},
+{
+"id": "14.230",
+"label": "Juv. 14.230",
+"text": "dat libertatem et totas effundit habenas"
+},
+{
+"id": "14.231",
+"label": "Juv. 14.231",
+"text": "curriculo, quem si revoces, subsistere nescit"
+},
+{
+"id": "14.232",
+"label": "Juv. 14.232",
+"text": "et te contempto rapitur metisque relictis."
+},
+{
+"id": "14.233",
+"label": "Juv. 14.233",
+"text": "nemo satis credit tantum delinquere quantum"
+},
+{
+"id": "14.234",
+"label": "Juv. 14.234",
+"text": "permittas: adeo indulgent sibi latius ipsi."
+},
+{
+"id": "14.235",
+"label": "Juv. 14.235",
+"text": "Cum dicis iuveni stultum qui donet amico,"
+},
+{
+"id": "14.236",
+"label": "Juv. 14.236",
+"text": "qui paupertatem levet attollatque propinqui,"
+},
+{
+"id": "14.237",
+"label": "Juv. 14.237",
+"text": "et spoliare doces et circumscribere et omni"
+},
+{
+"id": "14.238",
+"label": "Juv. 14.238",
+"text": "crimine divitias adquirere; quarum amor in te"
+},
+{
+"id": "14.239",
+"label": "Juv. 14.239",
+"text": "quantus erat patriae Deciorum in pectore, quantum"
+},
+{
+"id": "14.240",
+"label": "Juv. 14.240",
+"text": "dilexit Thebas, si Graecia vera, Menoeceus,"
+},
+{
+"id": "14.241",
+"label": "Juv. 14.241",
+"text": "in quorum sulcis legiones dentibus anguis"
+},
+{
+"id": "14.242",
+"label": "Juv. 14.242",
+"text": "cum clipeis nascuntur et horrida bella capessunt"
+},
+{
+"id": "14.243",
+"label": "Juv. 14.243",
+"text": "continuo, tamquam et tubicen surrexerit una."
+},
+{
+"id": "14.244",
+"label": "Juv. 14.244",
+"text": "ergo ignem, cuius scintillas ipse dedisti,"
+},
+{
+"id": "14.245",
+"label": "Juv. 14.245",
+"text": "flagrantem late et rapientem cuncta videbis."
+},
+{
+"id": "14.246",
+"label": "Juv. 14.246",
+"text": "nec tibi parcetur misero, trepidumque magistrum"
+},
+{
+"id": "14.247",
+"label": "Juv. 14.247",
+"text": "in cavea magno fremitu leo tollet alumnus,"
+},
+{
+"id": "14.248",
+"label": "Juv. 14.248",
+"text": "nota mathematicis genesis tua, sed grave tardas"
+},
+{
+"id": "14.249",
+"label": "Juv. 14.249",
+"text": "expectare colus; morieris stamine nondum"
+},
+{
+"id": "14.250",
+"label": "Juv. 14.250",
+"text": "abrupto, iam nunc obstas et vota moraris,"
+},
+{
+"id": "14.251",
+"label": "Juv. 14.251",
+"text": "iam torquet iuvenem longa et cervina senectus,"
+},
+{
+"id": "14.252",
+"label": "Juv. 14.252",
+"text": "ocius Archigenen quaere atque eme quod Mithridates"
+},
+{
+"id": "14.253",
+"label": "Juv. 14.253",
+"text": "composuit; si vis aliam decerpere ficum"
+},
+{
+"id": "14.254",
+"label": "Juv. 14.254",
+"text": "atque alias tractare rosas, medicamen habendum est,"
+},
+{
+"id": "14.255",
+"label": "Juv. 14.255",
+"text": "sorbere ante cibum quod debeat et pater et rex.’"
+},
+{
+"id": "14.256",
+"label": "Juv. 14.256",
+"text": "Monstro voluptatem egregiam, cui nulla theatra,"
+},
+{
+"id": "14.257",
+"label": "Juv. 14.257",
+"text": "nulla aequare queas praetoris pulpita lauti,"
+},
+{
+"id": "14.258",
+"label": "Juv. 14.258",
+"text": "si spectes quanto capitis discrimine constent"
+},
+{
+"id": "14.259",
+"label": "Juv. 14.259",
+"text": "incrementa domus, aerata multus in arca"
+},
+{
+"id": "14.260",
+"label": "Juv. 14.260",
+"text": "fiscus et ad vigilem ponendi Castora nummi,"
+},
+{
+"id": "14.261",
+"label": "Juv. 14.261",
+"text": "ex quo Mars Vltor galeam quoque perdidit et res"
+},
+{
+"id": "14.262",
+"label": "Juv. 14.262",
+"text": "non potuit servare suas. ergo omnia Florae"
+},
+{
+"id": "14.263",
+"label": "Juv. 14.263",
+"text": "et Cereris licet et Cybeles aulaea relinquas:"
+},
+{
+"id": "14.264",
+"label": "Juv. 14.264",
+"text": "tanto maiores humana negotia ludi."
+},
+{
+"id": "14.265",
+"label": "Juv. 14.265",
+"text": "an magis oblectant animum iactata petauro"
+},
+{
+"id": "14.266",
+"label": "Juv. 14.266",
+"text": "corpora quique solet rectum descendere funem,"
+},
+{
+"id": "14.267",
+"label": "Juv. 14.267",
+"text": "quam tu, Corycia semper qui puppe moraris,"
+},
+{
+"id": "14.268",
+"label": "Juv. 14.268",
+"text": "atque habitas, Coro semper tollendus et Austro,"
+},
+{
+"id": "14.269",
+"label": "Juv. 14.269",
+"text": "perditus ac vilis sacci mercator olentis,"
+},
+{
+"id": "14.270",
+"label": "Juv. 14.270",
+"text": "qui gaudes pingue antiquae de litore Cretae"
+},
+{
+"id": "14.271",
+"label": "Juv. 14.271",
+"text": "passum et municipes Iovis advexisse lagonas?"
+},
+{
+"id": "14.272",
+"label": "Juv. 14.272",
+"text": "hic tamen ancipiti figens vestigia planta"
+},
+{
+"id": "14.273",
+"label": "Juv. 14.273",
+"text": "victum illa mercede parat, brumamque famemque"
+},
+{
+"id": "14.274",
+"label": "Juv. 14.274",
+"text": "illa reste cavet: tu propter mille talenta"
+},
+{
+"id": "14.275",
+"label": "Juv. 14.275",
+"text": "et centum villas temerarius, aspice portus"
+},
+{
+"id": "14.276",
+"label": "Juv. 14.276",
+"text": "et plenum magnis trabibus mare: plus hominum es iam"
+},
+{
+"id": "14.277",
+"label": "Juv. 14.277",
+"text": "in pelago, veniet classis quocumque vocarit"
+},
+{
+"id": "14.278",
+"label": "Juv. 14.278",
+"text": "spes lucri, nec Carpathium Gaetulaque tantum"
+},
+{
+"id": "14.279",
+"label": "Juv. 14.279",
+"text": "aequora transiliet, sed longe Calpe relicta"
+},
+{
+"id": "14.280",
+"label": "Juv. 14.280",
+"text": "audiet Herculeo stridentem gurgite solem."
+},
+{
+"id": "14.281",
+"label": "Juv. 14.281",
+"text": "grande operae pretium est, ut tenso folle reverti"
+},
+{
+"id": "14.282",
+"label": "Juv. 14.282",
+"text": "inde domum possis tumidaque superbus aluta."
+},
+{
+"id": "14.283",
+"label": "Juv. 14.283",
+"text": "Oceani monstra et iuvenes vidisse marinos."
+},
+{
+"id": "14.284",
+"label": "Juv. 14.284",
+"text": "Non unus mentes agitat furor; ille sororis"
+},
+{
+"id": "14.285",
+"label": "Juv. 14.285",
+"text": "in manibus vultu Eumenidum ferretur et igni,"
+},
+{
+"id": "14.286",
+"label": "Juv. 14.286",
+"text": "hic bove percusso mugire Agamemnona credit"
+},
+{
+"id": "14.287",
+"label": "Juv. 14.287",
+"text": "aut Ithacum: parcat tunicis licet atque lacernis,"
+},
+{
+"id": "14.288",
+"label": "Juv. 14.288",
+"text": "curatoris eget qui navem mercibus implet"
+},
+{
+"id": "14.289",
+"label": "Juv. 14.289",
+"text": "ad summum latus et tabula distinguitur unda,"
+},
+{
+"id": "14.290",
+"label": "Juv. 14.290",
+"text": "cum sit causa mali tanti et discriminis huius"
+},
+{
+"id": "14.291",
+"label": "Juv. 14.291",
+"text": "concisum argentum in titulos faciesque minutas."
+},
+{
+"id": "14.292",
+"label": "Juv. 14.292",
+"text": "occurrunt nubes et fulgura: solvite funem"
+},
+{
+"id": "14.293",
+"label": "Juv. 14.293",
+"text": "frumenti dominus clamat piperisve coempti,"
+},
+{
+"id": "14.294",
+"label": "Juv. 14.294",
+"text": "‘nil color hic caeli, nil fascia nigra minatur;"
+},
+{
+"id": "14.295",
+"label": "Juv. 14.295",
+"text": "aestivum tonat.’ infelix hac forsitan ipsa"
+},
+{
+"id": "14.296",
+"label": "Juv. 14.296",
+"text": "nocte cadet fractis trabibus fluctuque premetur"
+},
+{
+"id": "14.297",
+"label": "Juv. 14.297",
+"text": "obrutus et zonam laeva morsuque tenebit,"
+},
+{
+"id": "14.298",
+"label": "Juv. 14.298",
+"text": "sed cuius votis modo non suffecerat aurum"
+},
+{
+"id": "14.299",
+"label": "Juv. 14.299",
+"text": "quod Tagus et rutila volvit Pactolus harena,"
+},
+{
+"id": "14.300",
+"label": "Juv. 14.300",
+"text": "frigida sufficient velantes inguina panni"
+},
+{
+"id": "14.301",
+"label": "Juv. 14.301",
+"text": "exiguusque cibus, mersa rate naufragus assem"
+},
+{
+"id": "14.302",
+"label": "Juv. 14.302",
+"text": "dum rogat et picta se tempestate tuetur."
+},
+{
+"id": "14.303",
+"label": "Juv. 14.303",
+"text": "Tantis parta malis cura maiore metuque"
+},
+{
+"id": "14.304",
+"label": "Juv. 14.304",
+"text": "servantur: misera est magni custodia census,"
+},
+{
+"id": "14.305",
+"label": "Juv. 14.305",
+"text": "dispositis praedives amis vigilare cohortem"
+},
+{
+"id": "14.306",
+"label": "Juv. 14.306",
+"text": "servorum noctu Licinus iubet, attonitus pro"
+},
+{
+"id": "14.307",
+"label": "Juv. 14.307",
+"text": "electro signisque suis Phrygiaque columna"
+},
+{
+"id": "14.308",
+"label": "Juv. 14.308",
+"text": "atque ebore et lata testudine, dolia nudi"
+},
+{
+"id": "14.309",
+"label": "Juv. 14.309",
+"text": "non ardent cynici; si fregeris, altera fiet"
+},
+{
+"id": "14.310",
+"label": "Juv. 14.310",
+"text": "cras domus, atque eadem plumbo commissa manebit."
+},
+{
+"id": "14.311",
+"label": "Juv. 14.311",
+"text": "sensit Alexander, testa cum vidit in illa"
+},
+{
+"id": "14.312",
+"label": "Juv. 14.312",
+"text": "magnum habitatorem, quanto felicior hic qui"
+},
+{
+"id": "14.313",
+"label": "Juv. 14.313",
+"text": "nil cuperet quam qui totum sibi posceret orbem"
+},
+{
+"id": "14.314",
+"label": "Juv. 14.314",
+"text": "passurus gestis aequanda pericula rebus, nullum"
+},
+{
+"id": "14.315",
+"label": "Juv. 14.315",
+"text": "numen habes, si sit prudentia: nos te,"
+},
+{
+"id": "14.316",
+"label": "Juv. 14.316",
+"text": "nos facimus, Fortuna, deam. Mensura tamen quae"
+},
+{
+"id": "14.317",
+"label": "Juv. 14.317",
+"text": "sufficiat census, siquis me consulat, edam:"
+},
+{
+"id": "14.318",
+"label": "Juv. 14.318",
+"text": "in quantum sitis atque fames et frigora poscunt,"
+},
+{
+"id": "14.319",
+"label": "Juv. 14.319",
+"text": "quantum, Epicure, tibi parvis suffecit in hortis,"
+},
+{
+"id": "14.320",
+"label": "Juv. 14.320",
+"text": "quantum Socratici ceperunt ante penates;"
+},
+{
+"id": "14.321",
+"label": "Juv. 14.321",
+"text": "numquam aliud natura, aliud sapientia dicit,"
+},
+{
+"id": "14.322",
+"label": "Juv. 14.322",
+"text": "acribus exemplis videor te eludere? misce"
+},
+{
+"id": "14.323",
+"label": "Juv. 14.323",
+"text": "ergo aliquid nostris de moribus, effice summam"
+},
+{
+"id": "14.324",
+"label": "Juv. 14.324",
+"text": "bis septem ordinibus quam lex dignatur Othonis,"
+},
+{
+"id": "14.325",
+"label": "Juv. 14.325",
+"text": "haec quoque si rugam trahit extenditque labellum,"
+},
+{
+"id": "14.326",
+"label": "Juv. 14.326",
+"text": "sume duos equites, fac tertia quadringenta"
+},
+{
+"id": "14.327",
+"label": "Juv. 14.327",
+"text": "si nondum inplevi gremium, si panditur ultra,"
+},
+{
+"id": "14.328",
+"label": "Juv. 14.328",
+"text": "nec Croesi fortuna umquam nec Persica regna"
+},
+{
+"id": "14.329",
+"label": "Juv. 14.329",
+"text": "sufficient animo nec divitiae Narcissi,"
+},
+{
+"id": "14.330",
+"label": "Juv. 14.330",
+"text": "indulsit Caesar cui Claudius omnia, cuius"
+},
+{
+"id": "14.331",
+"label": "Juv. 14.331",
+"text": "paruit imperiis uxorem occidere iussus."
+}
+]
+}

@@ -1,0 +1,26 @@
+{
+ "id": "virgil-aeneid",
+ "title": "Virgil, Aeneid",
+ "language": "la",
+ "edition": "Aeneid — Perseus Digital Library TEI (phi0690.phi003.perseus-lat2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-latinLit TEI phi0690.phi003.perseus-lat2",
+ "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi003.perseus-lat2/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.line",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
+  "11",
+  "12"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0690/phi003/phi0690.phi003.perseus-lat2.xml"
+}

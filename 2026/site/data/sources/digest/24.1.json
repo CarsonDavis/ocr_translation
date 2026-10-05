@@ -1,0 +1,999 @@
+{
+"corpus": "digest",
+"unit": "24.1",
+"title": "D. 24.1 De donationibus inter virum et uxorem",
+"passages": [
+{
+"id": "24.1.1",
+"label": "D. 24.1.1 (Ulpianus)",
+"text": "Moribus apud nos receptum est, ne inter virum et uxorem donationes valerent. Hoc autem receptum est, ne mutuo amore invicem spoliarentur donationibus non temperantes, sed profusa erga se facilitate:",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.2",
+"label": "D. 24.1.2 (Paulus)",
+"text": "Ne cesset eis studium liberos potius educendi. Sextus Caecilius et illam causam adiciebat, quia saepe futurum esset, ut discuterentur matrimonia, si non donaret is qui posset, atque ea ratione eventurum, ut venalicia essent matrimonia.",
+"inscription": "Paulus libro septimo ad Sabinum"
+},
+{
+"id": "24.1.3.pr",
+"label": "D. 24.1.3 pr. (Ulpianus)",
+"text": "Haec ratio et oratione imperatoris nostri Antonini Augusti electa est: nam ita ait: \"Maiores nostri inter virum et uxorem donationes prohibuerunt, amorem honestum solis animis aestimantes, famae etiam coniunctorum consulentes, ne concordia pretio conciliari viderentur neve melior in paupertatem incideret, deterior ditior fieret\".",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.3.1",
+"label": "D. 24.1.3.1",
+"text": "Videamus, inter quos sunt prohibitae donationes. Et quidem si matrimonium moribus legibusque nostris constat, donatio non valebit. Sed si aliquod impedimentum interveniat, ne sit omnino matrimonium, donatio valebit: ergo si senatoris filia libertino contra senatus consultum nupserit, vel provincialis mulier ei, qui provinciam regit vel qui ibi meret, contra mandata, valebit donatio, quia nuptiae non sunt. Sed fas non est eas donationes ratas esse, ne melior sit condicio eorum, qui delinquerunt. Divus tamen Severus in liberta Pontii Paulini senatoris contra statuit, quia non erat affectione uxoris habita, sed magis concubinae."
+},
+{
+"id": "24.1.3.2",
+"label": "D. 24.1.3.2",
+"text": "Qui in eiusdem potestate sunt, prohibentur sibi donare, ut puta frater mariti, qui est in soceri potestate."
+},
+{
+"id": "24.1.3.3",
+"label": "D. 24.1.3.3",
+"text": "Verbum potestatis non solum ad liberos trahimus, verum etiam ad servos: nam magis est, ut hi quoque, qui aliquo iure subiecti sunt marito, donare non possint."
+},
+{
+"id": "24.1.3.4",
+"label": "D. 24.1.3.4",
+"text": "Secundum haec si mater filio, qui in patris potestate esset, donet, nullius momenti erit donatio, quia patri quaeritur: sed si in castra eunti filio dedit, videtur valere, quia filio quaeritur et est castrensis peculii. Quare et si filius vel privignus vel quivis alius potestati mariti subiectus de castrensi suo peculio donavit, non erit irrita donatio."
+},
+{
+"id": "24.1.3.5",
+"label": "D. 24.1.3.5",
+"text": "Prohibetur igitur et uxori et nurui donare etiam is, qui est in soceri potestate, si modo maritus sit in patris potestate."
+},
+{
+"id": "24.1.3.6",
+"label": "D. 24.1.3.6",
+"text": "Ab uxoris nurusve parte prohibitum est donari viro vel genero. Sed et his, qui sunt in eorum potestate si fuerit donatum, vel in quorum sunt potestate, non valebit donatio, si modo vir et socer in eiusdem sunt potestate vel vir in soceri: ceterum si in alia familia est maritus, neque socero neque ei qui est in eius potestate neque ei in cuius est donatione interdictum est."
+},
+{
+"id": "24.1.3.7",
+"label": "D. 24.1.3.7",
+"text": "Socrui a nuru vel contra donari non est prohibitum, quia hic ius potestatis non vertitur."
+},
+{
+"id": "24.1.3.8",
+"label": "D. 24.1.3.8",
+"text": "Si servus meus, cuius usus fructus alienus est, donet uxori meae ex eo peculio, quod ad me non pertinebat, vel homo liber bona fide mihi serviens, an valeat donatio, quaeritur. Et in libera quidem persona utcumque admitti potest donatio: ceterae enim personae alienationem peculii ut donent non habent."
+},
+{
+"id": "24.1.3.9",
+"label": "D. 24.1.3.9",
+"text": "Non tantum autem per se maritus et uxor ceteraeque personae dare non possunt sed nec per interpositam personam."
+},
+{
+"id": "24.1.3.10",
+"label": "D. 24.1.3.10",
+"text": "Sciendum autem est ita interdictam inter virum et uxorem donationem, ut ipso iure nihil valeat quod actum est: proinde si corpus sit quod donatur, nec traditio quicquam valet, et si stipulanti promissum sit vel accepto latum, nihil valet: ipso enim iure quae inter virum et uxorem donationis causa geruntur, nullius momenti sunt."
+},
+{
+"id": "24.1.3.11",
+"label": "D. 24.1.3.11",
+"text": "Si quis igitur nummos uxori dederit, non fieri eius apparet, quia nihil corporis eius fieri palam est."
+},
+{
+"id": "24.1.3.12",
+"label": "D. 24.1.3.12",
+"text": "Sed si debitorem suum ei solvere iusserit, hic quaeritur, an nummi fiant eius debitorque liberetur. Et Celsus libro quinto decimo digestorum scribit videndum esse, ne dici possit et debitorem liberatum et nummos factos mariti, non uxoris: nam et si donatio iure civili non impediretur, eum rei gestae ordinem futurum, ut pecunia ad te a debitore tuo, deinde a te ad mulierem perveniret: nam celeritate coniungendarum inter se actionum unam actionem occultari, ceterum debitorem creditori dare, creditorem uxori. Nec novum aut mirum esse, quod per alium accipias, te accipere: nam et si is, qui creditoris tui se procuratorem esse simulaverit, a debitore tuo iubente te pecuniam acceperit, et furti actionem te habere constat et ipsam pecuniam tuam esse."
+},
+{
+"id": "24.1.3.13",
+"label": "D. 24.1.3.13",
+"text": "Huic sententiae consequens est, quod Iulianus libro septimo decimo digestorum scripsit, si donaturum mihi iussero uxori meae dare: ait enim Iulianus nullius esse momenti, perinde enim habendum, atque si ego acceptam et rem meam factam uxori meae dedissem: quae sententia vera est. [quod Iulianus. . . . . . perinde] ."
+},
+{
+"id": "24.1.4",
+"label": "D. 24.1.4 (Iulianus)",
+"text": "Idemque est et si mortis causa traditurum mihi iusserim uxori tradere, nec referre, convaluerit donator an mortuus sit. Neque existimandum est, si dixerimus valere donationem, non fieri me pauperiorem, quia sive convaluerit donator, condictione tenebor, sive mortuus fuerit, rem, quam habiturus eram, in bonis meis desinam propter donationem habere.",
+"inscription": "Iulianus libro 17 digestorum"
+},
+{
+"id": "24.1.5.pr",
+"label": "D. 24.1.5 pr. (Ulpianus)",
+"text": "Si sponsus sponsae donaturus tradiderit Titio, ut is sponsae daret, deinde Titius tradiderit post nuptias secutas: si quidem eum interposuerit maritus, donationem non valere, quae post contractas nuptias perficiatur: si vero mulier eum interposuerit, iamdudum [iamdum] perfectam donationem, hoc est ante nuptias, atque ideo quamvis contractis nuptiis Titius tradiderit, donationem valere.",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.5.1",
+"label": "D. 24.1.5.1",
+"text": "Si maritus duos reos habeat Titium et mulierem et mulieri accepto tulerit donationis causa, neuter liberatur, quia acceptilatio non valet: et haec Iulianus libro septimo decimo digestorum scribit. Plane si mihi proponas Titio accepto latum, ipse quidem liberabitur, mulier vero manebit obligata."
+},
+{
+"id": "24.1.5.2",
+"label": "D. 24.1.5.2",
+"text": "Generaliter tenendum est, quod inter ipsos aut qui ad eos pertinent aut per interpositas personas donationis causa agatur, non valere: quod si aliarum extrinsecus rerum personarumve causa commixta sit, si separari non potest, nec donationem impediri, si separari possit, cetera valere, id quod donatum sit non valere."
+},
+{
+"id": "24.1.5.3",
+"label": "D. 24.1.5.3",
+"text": "Si debitor viri pecuniam iussu mariti uxori promiserit, nihil agitur."
+},
+{
+"id": "24.1.5.4",
+"label": "D. 24.1.5.4",
+"text": "Si uxor viri creditori donationis causa promiserit et fideiussorem dederit, neque virum liberari neque mulierem obligari vel fideiussorem eius Iulianus ait, perindeque haberi ac si nihil promisisset."
+},
+{
+"id": "24.1.5.5",
+"label": "D. 24.1.5.5",
+"text": "Circa venditionem quoque Iulianus quidem minoris factam venditionem nullius esse momenti ait: Neratius autem (cuius opinionem Pomponius non improbat) venditionem donationis causa inter virum et uxorem factam nullius esse momenti, si modo, cum animum maritus vendendi non haberet, idcirco venditionem commentus sit, ut donaret: enimvero si, cum animum vendendi haberet, ex pretio ei remisit, venditionem quidem valere, remissionem autem hactenus non valere, quatenus facta est locupletior: itaque si res quindecim venit quinque, nunc autem sit decem, quinque tantum praestanda sunt, quia in hoc locupletior videtur facta."
+},
+{
+"id": "24.1.5.6",
+"label": "D. 24.1.5.6",
+"text": "Si donationis causa vir vel uxor servitute non utatur, puto amitti servitutem, verum post divortium condici posse."
+},
+{
+"id": "24.1.5.7",
+"label": "D. 24.1.5.7",
+"text": "Si uxor vel maritus exceptione quadam donationis causa summoveri voluerint, facta a iudice absolutione valebit quidem sententia, sed condicetur ei, cui donatum est."
+},
+{
+"id": "24.1.5.8",
+"label": "D. 24.1.5.8",
+"text": "Concessa donatio est sepulturae causa: nam sepulturae causa locum marito ab uxore vel contra posse donari constat et si quidem intulerit, faciet locum religiosum. Hoc autem ex eo venit, quod definiri solet eam demum donationem impediri solere, quae et donantem pauperiorem et accipientem faciet locupletiorem: porro hic non videtur fieri locupletior in ea re quam religioni dicavit. Nec movit quemquam, quod emeret, nisi a marito accepisset: nam etsi pauperior ea fieret, nisi maritus dedisset, non tamen idcirco fit locupletior, quod non expendit."
+},
+{
+"id": "24.1.5.9",
+"label": "D. 24.1.5.9",
+"text": "Haec res et illud suadet, si uxori maritus sepulturae causa donaverit, ita demum locum fieri intellegi mulieris, cum corpus humatur: ceterum antequam fiet religiosus, donantis manet. Proinde si distraxerit mulier, manet locus donatoris."
+},
+{
+"id": "24.1.5.10",
+"label": "D. 24.1.5.10",
+"text": "Secundum haec si uxori suae monumentum purum maritus magni pretii donaverit, valebit donatio, sic tamen, ut, cum fit religiosus, valeat."
+},
+{
+"id": "24.1.5.11",
+"label": "D. 24.1.5.11",
+"text": "Sed et si ipsa fuerit illo illata, licet morte eius finitum est matrimonium, favorabiliter tamen dicetur locum religiosum fieri."
+},
+{
+"id": "24.1.5.12",
+"label": "D. 24.1.5.12",
+"text": "Proinde et si maritus ad oblationem dei uxori donavit, vel locum, in quo opus publicum quod promiserat facere, velut aedem publicam, dedicaret, fiet locus sacer. Sed et si quid ei det, ut donum deo detur vel consecretur, dubium non est, quin debeat valere: quare et si oleum pro ea in aede sacra posuerit, valet donatio."
+},
+{
+"id": "24.1.5.13",
+"label": "D. 24.1.5.13",
+"text": "Si maritus heres institutus repudiet hereditatem donationis causa, Iulianus scripsit libro septimo decimo digestorum donationem valere: neque enim pauperior fit, qui non adquirat, sed qui de patrimonio suo deposuit. Repudiatio autem mariti mulieri prodest, si vel substituta sit mulier vel etiam ab intestato heres futura."
+},
+{
+"id": "24.1.5.14",
+"label": "D. 24.1.5.14",
+"text": "Simili modo et si legatum repudiet, placet nobis valere donationem, si mulier substituta sit in legato vel etiam si proponas eam heredem institutam."
+},
+{
+"id": "24.1.5.15",
+"label": "D. 24.1.5.15",
+"text": "Si quis rogatus sit praecepta certa quantitate uxori suae hereditatem restituere et is sine deductione restituerit, Celsus libro decimo digestorum scripsit magis pleniore officio fidei praestandae functum maritum quam donasse videri: et rectam rationem huic sententiae Celsus adiecit, quod plerique magis fidem exsolvunt in hunc casum quam donant nec de suo putant proficisci, quod de alieno plenius restituunt voluntatem defuncti secuti: nec immerito saepe credimus aliquid defunctum voluisse et tamen non rogasse. Quae sententia habet rationem magis in eo, qui non erat deducta quarta rogatus restituere et tamen integram fidem praestitit omisso senatus consulti commodo: hic enim vere fidem exsolvit voluntatem testatoris obsecutus. Hoc ita, si non per errorem calculi fecit: ceterum indebiti fideicommissi esse repetitionem nulla dubitatio est."
+},
+{
+"id": "24.1.5.16",
+"label": "D. 24.1.5.16",
+"text": "Cum igitur nihil de bonis erogatur, recte dicitur valere donationem. Ubicumque igitur non deminuit de facultatibus suis qui donavit, valet, vel, etiamsi deminuat, locupletior tamen non fit qui accepit, donatio valet."
+},
+{
+"id": "24.1.5.17",
+"label": "D. 24.1.5.17",
+"text": "Marcellus libro septimo digestorum quaerit, si mulier acceptam a marito pecuniam in sportulas pro cognato suo ordini erogaverit, an donatio valeat? Et ait valere nec videri locupletiorem mulierem factam, quamvis mutuam pecuniam esset acceptura et pro adfine erogatura."
+},
+{
+"id": "24.1.5.18",
+"label": "D. 24.1.5.18",
+"text": "In donationibus autem iure civili impeditis hactenus revocatur donum ab eo ab eave cui donatum est, ut, si quidem exstet res, vindicetur, si consumpta sit, condicatur hactenus, quatenus locupletior quis eorum factus est:"
+},
+{
+"id": "24.1.6",
+"label": "D. 24.1.6 (Gaius)",
+"text": "Quia quod ex non concessa donatione retinetur, id aut sine causa aut ex iniusta causa retineri intellegitur: ex quibus causis condictio nasci solet.",
+"inscription": "Gaius libro 11 ad edictum provinciale"
+},
+{
+"id": "24.1.7.pr",
+"label": "D. 24.1.7 pr. (Ulpianus)",
+"text": "Quod autem spectetur tempus, an locupletiores sint facti, utrum tempus litis contestatae an rei iudicatae? Et verum est litis contestatae tempus spectari oportere idque imperator noster cum patre rescripsit.",
+"inscription": "Ulpianus libro 31 ad Sabinum"
+},
+{
+"id": "24.1.7.1",
+"label": "D. 24.1.7.1",
+"text": "Si maritus pecuniam uxori in unguenta dederit eaque eam pecuniam creditori suo solverit, mox ea de sua pecunia unguenta emerit, non videri locupletiorem factam Marcellus libro septimo digestorum scribit. Idemque et si lancem ob eandem causam ei dederit eaque lancem retinuerit, de sua autem pecunia unguenta emerit, vindicationem cassare, quia non est locupletior, quae tantundem in re mortua impendit."
+},
+{
+"id": "24.1.7.2",
+"label": "D. 24.1.7.2",
+"text": "Si vir et uxor quina invicem sibi donaverint et maritus servaverit, uxor consumpserit, recte placuit compensationem fieri donationum et hoc divus Hadrianus constituit."
+},
+{
+"id": "24.1.7.3",
+"label": "D. 24.1.7.3",
+"text": "Aestimari oportere, in quantum locupletior facta sit mulier. Proinde et si praedia hodie vilissimo sunt, consequenter dicemus litis contestatae tempore aestimationem eorum spectandam. Plane si magni pretii praedia sunt, summa tantum numerata erit restituenda, non etiam usurae pretii."
+},
+{
+"id": "24.1.7.4",
+"label": "D. 24.1.7.4",
+"text": "Eleganter tractabitur, si mulier quindecim praedia emerit et maritus non totum pretium numeraverit, sed duas partes pretii, hoc est decem, uxor de suo quinque, deinde haec praedia valeant nunc decem, maritus quantum consequatur. Et magis est, ut consequi debeat duas partes decem, ut quod periit ex pretio, utrique perierit et marito et uxori."
+},
+{
+"id": "24.1.7.5",
+"label": "D. 24.1.7.5",
+"text": "Si maritus aestimationem rerum quas in dotem accepit dicat se donationis causa auxisse, remedium monstravit imperator noster cum divo patre suo rescripto, cuius verba haec sunt: \"Cum donationis causa pretium auctum adfirmes, qui super ea re cogniturus erit, si pecuniae modum recusabis, ipsa praedia restitui debere sumptuum deductis rationibus arbitrabitur\". In arbitrio igitur mariti erit, quid praestitum malit. Idem iuris est et si e contrario mulier de minore aestimatione queratur. Nec aliud in commodato aestimato dato observari solet, ut Pomponius libro quarto variarum lectionum scribit."
+},
+{
+"id": "24.1.7.6",
+"label": "D. 24.1.7.6",
+"text": "Si uxor a marito suo praedia, quae ob dotem pignori acceperat, emerit eaque emptio donationis causa facta dicatur, nullius esse momenti, pignoris tamen obligationem durare imperator noster cum patre suo rescripsit, cuius rescripti verba ideo rettuli, ut appareat venditionem inter virum et uxorem bona fide gestam non retractari. \"Si tibi maritus pignora propter dotem et pecuniam creditam data non donationis causa vendidit, quod bona fide gestum est, manebit ratum. At si titulus donationis quaesitus ostenditur atque ideo venditionem irritam esse constabit, iure publico causam pignorum integram obtinebis\"."
+},
+{
+"id": "24.1.7.7",
+"label": "D. 24.1.7.7",
+"text": "Si uxor rem emit et maritus pretium pro ea numeravit, interdum dicendum est totum a muliere repetendum, quasi locupletior ex ea in solidum facta sit: ut puta si emit quidem rem mulier et debebat pecuniam, maritus autem a venditore eam liberavit: quid enim interest, creditori solvat an venditori?"
+},
+{
+"id": "24.1.7.8",
+"label": "D. 24.1.7.8",
+"text": "Uxori quis donavit servum ita, ut eum intra annum manumitteret: an, si mulier non obtemperet voluntati, constitutio divi Marci imponat ei libertatem, si vir vel vivit vel etiam diem suum obierit? Et ait Papinianus, cum Sabini sit sententia recepta, qui putat tunc fieri servum eius cui donatur, cum coeperit libertas imponi ideoque nec si velit mulier post exactum tempus possit manumittere, recte dici non esse constitutioni locum nec voluntatem mariti posse constitutioni locum facere, cum proprium servum possit manumittere: quae sententia mihi quoque probatur, quia venditor sive donatur non sibi vult legem imponi nec potest, sed ei qui accepit: dominio igitur penes se remanente nequaquam effectum habebit constitutio."
+},
+{
+"id": "24.1.7.9",
+"label": "D. 24.1.7.9",
+"text": "Manumissionis causa donatio facta valet, licet non hoc agatur, ut statim ad libertatem, sed quandoque perducatur. Proinde si, ut post certum tempus manumittat, uxori suae tradidit, tunc demum eius fiet, cum tempore impleto manumittere coeperit: quare antea manumittendo nihil agit. Nam et illud sciendum est: si uxori quis suae donaverit, ut intra annum manumittat, deinde non manumiserit ea intra annum, postea manumittendo nihil agit."
+},
+{
+"id": "24.1.8",
+"label": "D. 24.1.8 (Gaius)",
+"text": "Si, antequam servus manumittatur, morte aut divortio solutum fuerit matrimonium, resolvitur donatio: inesse enim condicio donationi videtur, ut manente matrimonio manumittatur.",
+"inscription": "Gaius libro 11 ad edictum provinciale"
+},
+{
+"id": "24.1.9.pr",
+"label": "D. 24.1.9 pr. (Ulpianus)",
+"text": "Si eum uxori donet maritus, qui eius erat condicionis, ne umquam ad libertatem perduci possit, dicendum est omnino nihil agi hac donatione.",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.9.1",
+"label": "D. 24.1.9.1",
+"text": "Si pecunia accepta mulier manumiserit vel operas ei imposuerit, ait Iulianus operas quidem eam licito iure imposituram et tenere obligationem nec videri mulierem ex re viri locupletiorem fieri, cum eas libertus promittat: quod si pretium ob manumissionem acceperit mulier et sic manumiserit, si quidem ex peculio suo dedit, nummos mariti manere, si vero alius pro eo dedit, fient nummi mulieris: quae sententia recte se habet."
+},
+{
+"id": "24.1.9.2",
+"label": "D. 24.1.9.2",
+"text": "Inter virum et uxorem mortis causa donationes receptae sunt,"
+},
+{
+"id": "24.1.10",
+"label": "D. 24.1.10 (Gaius)",
+"text": "Quia in hoc tempus excurrit donationis eventus, quo vir et uxor esse desinunt.",
+"inscription": "Gaius libro 11 ad edictum provinciale"
+},
+{
+"id": "24.1.11.pr",
+"label": "D. 24.1.11 pr. (Ulpianus)",
+"text": "Sed interim res non statim fiunt eius cui donatae sunt, sed tunc demum, cum mors insecuta est: medio igitur tempore dominium remanet apud eum qui donavit.",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.11.1",
+"label": "D. 24.1.11.1",
+"text": "Sed quod dicitur mortis causa donationem inter virum et uxorem valere, ita verum est, ut non solum ea donatio valeat secundum Iulianum, quae hoc animo fit, ut tunc res fiat uxoris vel mariti, cum mors insequetur, sed omnis mortis causa donatio."
+},
+{
+"id": "24.1.11.2",
+"label": "D. 24.1.11.2",
+"text": "Quando itaque non retro agatur donatio, emergunt vitia, ut Marcellus animadvertit in specie huiusmodi. Maritus uxori mortis causa donatum voluit: interposuit mulier filium familias, qui a marito acciperet eique traderet: deinde, cum moritur maritus, pater familias invenitur: an valeat traditio? Et ait consequens esse dici traditionem valere, quia sui iuris effectus est eo tempore, ad quod traditio redigitur, id est cum maritus moriebatur."
+},
+{
+"id": "24.1.11.3",
+"label": "D. 24.1.11.3",
+"text": "Idem ait: placuisse scio Sabinianis, si filiae familias uxori maritus tradet, donationem eius cum omni suo emolumento fieri, si vivo adhuc marito sui iuris fuerit effecta. quod et Iulianus libro septimo decimo digestorum probat."
+},
+{
+"id": "24.1.11.4",
+"label": "D. 24.1.11.4",
+"text": "Proinde et si uxor marito filio familias mortis causa tradat et is sui iuris effectus sit, sine dubio dicemus ipsius fieri [fierit]."
+},
+{
+"id": "24.1.11.5",
+"label": "D. 24.1.11.5",
+"text": "Per contrarium quoque si uxor donaverit mortis causa patri familias marito et mortis eius tempore filius familias inveniatur, patri erit nunc emolumentum quaesitum."
+},
+{
+"id": "24.1.11.6",
+"label": "D. 24.1.11.6",
+"text": "Consequenter Scaevola apud Marcellum notat, si servum interposuit mulier, ut ei tradatur mortis causa, isque adhuc servus dederit mulieri, deinde mortis tempore liber inveniatur, tantundem esse dicendum."
+},
+{
+"id": "24.1.11.7",
+"label": "D. 24.1.11.7",
+"text": "Idem Marcellus tractat, si is qui interpositus est, posteaquam dederit mulieri, decesserit vivo adhuc donatore, donationem evanescere, quia debeat aliquo momento interposito fieri et sic ad mulierem transire: quod ita procedit, si ea cui donabatur eum interposuit, non is qui donabat. Porro si a marito interpositus est, et res ipsius statim facta est et, si ante mortem mariti tradiderit et decesserit, traditio eius egit aliquid, ut tamen haec traditio pendeat, donec mors sequatur."
+},
+{
+"id": "24.1.11.8",
+"label": "D. 24.1.11.8",
+"text": "Si uxor rem Titio dederit, ut is marito mortis causa traderet eaque defuncta invitis heredibus eius Titius marito dederit, interest, utrum a muliere sit interpositus Titius an vero a marito cui donabatur: si a muliere interpositus est, obligabit se condictione, si marito tradiderit, si autem a marito sit interpositus, mortua muliere confestim fundus efficietur eius quem maritus interposuit et actionem ipse maritus cum eo habebit."
+},
+{
+"id": "24.1.11.9",
+"label": "D. 24.1.11.9",
+"text": "Si uxor rem, quam a marito suo mortis causa acceperat, vivo eo alii tradiderit, nihil agitur ea traditione, quia non ante ultimum vitae tempus mulieris fuit. Plane in quibus casibus placeat retro agi donationem, etiam sequens traditio a muliere facta in pendenti habebitur."
+},
+{
+"id": "24.1.11.10",
+"label": "D. 24.1.11.10",
+"text": "Si maritus uxori donaverit mortis causa eaque diverterit, an dissolvatur donatio? Iulianus scripsit infirmari donationem nec impendere."
+},
+{
+"id": "24.1.11.11",
+"label": "D. 24.1.11.11",
+"text": "Idem ait, si divortii causa facta sit donatio, valere:"
+},
+{
+"id": "24.1.12",
+"label": "D. 24.1.12 (Paulus)",
+"text": "Quae tamen sub ipso divortii tempore, non quae ex cogitatione quandoque futuri divortii fiant:",
+"inscription": "Paulus libro septimo ad Sabinum"
+},
+{
+"id": "24.1.13.pr",
+"label": "D. 24.1.13 pr. (Ulpianus)",
+"text": "Sed si mors sit insecuta, non videri factas res mulieris, quia donatio in alium casum facta est.",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.13.1",
+"label": "D. 24.1.13.1",
+"text": "Proinde et si mortis causa uxori donaverit et deportationem passus est, an donatio valeat, videamus. Et alias placet in casum deportationis donationem factam valere, quemadmodum in causam divortii. Cum igitur deportatione matrimonium minime dissolvatur et nihil vitium mulieris incurrit, humanum est donationem, quae mortis causa ab initio facta est, tali exilio subsecuto confirmari, tamquam si mortuo marito rata habebatur, ita tamen, ut non adimatur licentia marito eam revocare, quia et mors eius exspectanda est, ut tunc plenissimam habeat firmitatem, quando ab hac luce fuerit subtractus, sive reversus sive adhuc in poena constitutus."
+},
+{
+"id": "24.1.13.2",
+"label": "D. 24.1.13.2",
+"text": "Cum quis acceperit, ut in suo aedificet, condici ei id non potest, quia magis donari ei videtur: quae sententia Neratii quoque fuit: ait enim datum ad villam extruendam vel agrum serendum, quod alioquin facturus non erat is qui accepit, in speciem donationis cadere. Ergo inter virum et uxorem hae erunt interdictae."
+},
+{
+"id": "24.1.14",
+"label": "D. 24.1.14 (Paulus)",
+"text": "Quod si vir uxori, cuius aedes incendio consumptae sunt, ad refectionem earum pecuniam donaverit, valet donatio in tantum, in quantum aedificii extructio postulat.",
+"inscription": "Paulus libro 71 ad edictum"
+},
+{
+"id": "24.1.15.pr",
+"label": "D. 24.1.15 pr. (Ulpianus)",
+"text": "Ex annuo vel menstruo, quod uxori maritus praestat, tunc quod superest revocabitur, si satis immodicum est, id est supra vires dotis.",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.15.1",
+"label": "D. 24.1.15.1",
+"text": "Si maritus uxori pecuniam donaverit eaque usuras ex donata pecunia perceperit, lucrabitur. Haec ita Iulianus in marito libro octavo decimo digestorum scribit."
+},
+{
+"id": "24.1.16",
+"label": "D. 24.1.16 (Tryphoninus)",
+"text": "Quid ergo si ex centum, quae vir uxori donavit, quinquaginta apud debitorem ex his perierint, et alia quinquaginta duplicata usuris uxor habet? Non plus quinquaginta eius donationis nomine maritus ab ea consequetur.",
+"inscription": "Tryphoninus libro decimo disputationum"
+},
+{
+"id": "24.1.17.pr",
+"label": "D. 24.1.17 pr. (Ulpianus)",
+"text": "De fructibus quoque videamus, si ex fructibus praediorum quae donata sunt locupletata sit, an in causam donationis cadant. Et Iulianus significat fructus quoque ut usuras licitam habere donationem.",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.17.1",
+"label": "D. 24.1.17.1",
+"text": "Sed si quid servus donatus adquisiit, ad eum qui donavit pertinebit."
+},
+{
+"id": "24.1.18",
+"label": "D. 24.1.18 (Pomponius)",
+"text": "Si vir uxoris aut uxor viri servis aut vestimentis usus vel usa fuerit vel in aedibus eius gratis habitaverit, valet donatio.",
+"inscription": "Pomponius libro quarto ex variis lectionibus"
+},
+{
+"id": "24.1.19.pr",
+"label": "D. 24.1.19 pr. (Ulpianus)",
+"text": "Si uxor filio donaverit servum, qui in patris mariti sit potestate, deinde is servus ancillam acceperit, dominium mulieri quaeretur: nec interesse Iulianus ait, ex cuius pecunia haec ancilla empta sit, quia nec ex re sua quicquam adquiri potest per eum qui donatur ei cui donatur: hoc enim bonae fidei possessoribus concessum est, virum autem scientem alienum possidere.",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.19.1",
+"label": "D. 24.1.19.1",
+"text": "Idem quaerit, si ex re mariti ea ancilla comparata fuerit, an adversus agentem mulierem de dote maritus pretium possit per exceptionem retinere. Et dicendum est posse maritum et exceptionem habere, si dos ab eo petetur, secundum Marcelli sententiam et, si solverit, secundum Iulianum condicere posse."
+},
+{
+"id": "24.1.20",
+"label": "D. 24.1.20 (Iavolenus)",
+"text": "Si is servus, qui uxori mortis causa donatus est, prius quam vir decederet stipulatus est, in pendenti puto esse causam obligationis, donec vir aut moriatur aut suspicione mortis, propter quam donavit, liberetur: quidquid autem eorum inciderit, quod donationem aut peremat aut confirmet, id quoque causam stipulationis aut confirmabit aut resolvet.",
+"inscription": "Iavolenus libro 11 epistularum"
+},
+{
+"id": "24.1.21.pr",
+"label": "D. 24.1.21 pr. (Ulpianus)",
+"text": "Si quis pro uxore sua vectigal, quod in itinere praestari solet, solvisset, an quasi locupletiore ea facta exactio fiat, an vero nulla sit donatio? Et magis puto non interdictum hoc, maxime si ipsius causa profecta est. Nam et Papinianus libro quarto responsorum scripsit vecturas uxoris et ministeriorum eius virum itineris sui causa datas repetere non posse: iter autem fuisse videtur viri causa et cum uxor ad virum pervenit. Nec interesse, an aliquid de vecturis in contrahendo matrimonio convenerit: non enim donat, qui necessariis oneribus succurrit. Ergo et si consensu mariti profecta est mulier propter suas necessarias causas et aliquid maritus expensarum nomine ei praestiterit, hoc revocandum non est.",
+"inscription": "Ulpianus libro 32 ad Sabinum"
+},
+{
+"id": "24.1.21.1",
+"label": "D. 24.1.21.1",
+"text": "Si uxor viro dotem promiserit et dotis usuras, sine dubio dicendum est peti usuras posse, quia non est ista donatio, cum pro oneribus matrimonii petantur. Quid tamen, si maritus uxori petitionem earum remiserit? Eadem erit quaestio, an donatio sit illicita: et Iulianus hoc diceret: quod verum est. Plane si convenerat, uti se mulier pasceret suosque homines idcirco passus est eam dote sua frui, ut se suosque aleret, expeditum erit: puto enim non posse ab ea peti quasi donatum, quod compensatum est."
+},
+{
+"id": "24.1.22",
+"label": "D. 24.1.22 (Ulpianus)",
+"text": "Uxori suae quis mortis causa servum donavit eumque cum libertate heredem scripsit: an valeat institutio, quaeritur. Et puto, si hoc animo eum scripsit heredem, quod donationis se dixit paenituisse, valere institutionem et necessarium heredem domino servum fieri: ceterum si, posteaquam heredem instituit, donavit, donatio praevalebit, vel si ante donavit, non tamen adimendi animo libertatem adscripsit.",
+"inscription": "Ulpianus libro tertio ad Sabinum"
+},
+{
+"id": "24.1.23",
+"label": "D. 24.1.23 (Ulpianus)",
+"text": "Papinianus recte putabat orationem divi Severi ad rerum donationem pertinere: denique si stipulanti spopondisset uxori suae, non putabat conveniri posse heredem mariti, licet durante voluntate maritus decesserit.",
+"inscription": "Ulpianus libro sexto ad Sabinum"
+},
+{
+"id": "24.1.24",
+"label": "D. 24.1.24 (Paulus)",
+"text": "Si inter extraneos facta sit donatio et antequam per tempus legitimum dominium fuerit adquisitum, coierint, vel contra si inter virum et uxorem facta sit donatio et ante impletum tempus supradictum solutum sit matrimonium, nihilo minus procedere temporis suffragium constat, quia altero modo sine vitio tradita est possessio, altero quod fuerit vitium, amotum sit.",
+"inscription": "Paulus libro septimo ad Sabinum"
+},
+{
+"id": "24.1.25",
+"label": "D. 24.1.25 (Clementius)",
+"text": "Sed et si constante matrimonio res aliena uxori a marito donata fuerit, dicendum est confestim ad usucapionem eius uxorem admitti, quia et si non mortis causa donaverat ei, non impediretur usucapio. Nam ius constitutum ad eas donationes pertinet, ex quibus et locupletior mulier et pauperior maritus in suis rebus fit: itaque licet mortis causa donatio interveniat, quasi inter extraneas personas fieri intellegenda est in ea re, quae quia aliena est usucapi potest.",
+"inscription": "Clementius libro quinto ad legem Iuliam et Papiam"
+},
+{
+"id": "24.1.26.pr",
+"label": "D. 24.1.26 pr. (Paulus)",
+"text": "Si eum, qui mihi vendiderit, iusserim eam rem uxori meae donationis causa dare et is possessionem iussu meo tradiderit, liberatus erit, quia, licet illa iure civili possidere non intellegatur, certe tamen venditor nihil habet quod tradat.",
+"inscription": "Paulus libro septimo ad Sabinum"
+},
+{
+"id": "24.1.26.1",
+"label": "D. 24.1.26.1",
+"text": "Ex quibus causis inter virum et uxorem concessae sunt donationes, ex isdem et inter socerum et generum nurumve concessas Neratius ait. Ergo socer genero mortis vel divortii causa donabit, sed et gener socero mortis suae vel divortii causa."
+},
+{
+"id": "24.1.27",
+"label": "D. 24.1.27 (Modestinus)",
+"text": "Inter eos, qui matrimonio coituri sunt, ante nuptias donatio facta iure consistit, etiamsi eodem die nuptiae fuerint consecutae.",
+"inscription": "Modestinus libro septimo regularum"
+},
+{
+"id": "24.1.28.pr",
+"label": "D. 24.1.28 pr. (Paulus)",
+"text": "Si id quod donatum sit perierit vel consumptum sit, eius qui dedit est detrimentum, merito, quia manet res eius qui dedit suamque rem perdit.",
+"inscription": "Paulus libro septimo ad Sabinum"
+},
+{
+"id": "24.1.28.1",
+"label": "D. 24.1.28.1",
+"text": "Si quid in pueros ex ancillis dotalibus natos maritus impenderit aut in doctrinam aut alimenta, non servatur marito, quia ipse ministeriis eorum utitur: sed illud servatur quod nutrici datum est ad educendum, quia pro capite quid dedisset, quemadmodum si a praedonibus redemisset servos dotales."
+},
+{
+"id": "24.1.28.2",
+"label": "D. 24.1.28.2",
+"text": "Si quas servi operas viri uxori praestiterint vel contra, magis placuit, nullam habendam earum rationem: et sane non amare nec tamquam inter infestos ius prohibitae donationis tractandum est, sed ut inter coniunctos maximo affectu et solam inopiam timentes."
+},
+{
+"id": "24.1.28.3",
+"label": "D. 24.1.28.3",
+"text": "Si ex decem donatis sibi mulier servum emerit et is quinque sit quinque petenda esse apud plautium placuit, quemadmodum, si mortuus est, nihil peteretur: si vero quindecim dignus sit, non plus quam decem potest peti, quoniam eatenus donator pauperior factus esset."
+},
+{
+"id": "24.1.28.4",
+"label": "D. 24.1.28.4",
+"text": "Quod si ex decem duos servos emerit et eorum alter mortuus sit, alter decem dignus sit, solet quaeri. Et plerique et Pomponius interesse putant, utrum uno pretio venierint an diversis: si uno, tota decem petenda, quemadmodum si una res empta deterior facta est, vel grex vel carrucha et aliqua pars inde perisset: si diversis, hoc solum petendum, quanti sit emptus qui superest."
+},
+{
+"id": "24.1.28.5",
+"label": "D. 24.1.28.5",
+"text": "Iulianum putasse Pomponius refert, si quid per eum servum, quem ex nummis a marito donatis mulier adquisisset (forte legatum, hereditatem) aut partus editus esset, eo quoque nomine petitionem faciendam esse."
+},
+{
+"id": "24.1.28.6",
+"label": "D. 24.1.28.6",
+"text": "Illud constat, si antequam a viro annuum acciperet, mulier ipsa de suo aut etiam mutuata impenderit, videri tantum iam ex annuo consumptum."
+},
+{
+"id": "24.1.28.7",
+"label": "D. 24.1.28.7",
+"text": "Illud recte dictum Celsus ait: si dotis usuras annuas uxor stipulata sit, licet ei non debeantur, quia tamen quasi de annuo convenerit, peti quidem dotis iudicio non possunt, compensari autem possunt: idem ergo dicemus in qualibet pactione annui nomine facta."
+},
+{
+"id": "24.1.29.pr",
+"label": "D. 24.1.29 pr. (Pomponius)",
+"text": "Si mulier ex pecunia donata emptum servum vendidisset et alium emisset, posteriorem periculo mulieris esse Fulcinius scripsit: quod non est verum, licet non ex re mariti emptus sit.",
+"inscription": "Pomponius libro 14 ad Sabinum"
+},
+{
+"id": "24.1.29.1",
+"label": "D. 24.1.29.1",
+"text": "Si vir uxori lanam donavit et ex ea lana vestimenta sibi confecit, uxoris esse vestimenta Labeo ait:"
+},
+{
+"id": "24.1.30",
+"label": "D. 24.1.30 (Gaius)",
+"text": "Utilem tamen viro competere.",
+"inscription": "Gaius libro 11 ad edictum provinciale"
+},
+{
+"id": "24.1.31.pr",
+"label": "D. 24.1.31 pr. (Pomponius)",
+"text": "Sed si vir lana sua vestimentum mulieri confecerit, quamvis id uxori confectum fuerit et uxoris cura, tamen viri esse neque impedire, quod in ea re uxor tamquam lanipendia fuerit et viri negotium procurarit.",
+"inscription": "Pomponius libro 14 ad Sabinum"
+},
+{
+"id": "24.1.31.1",
+"label": "D. 24.1.31.1",
+"text": "Si uxor lana sua, operis ancillarum viri, vestimenta sui nomine confecit muliebria, et vestimenta mulieris esse et pro operis ancillarum viro praestare nihil debere: sed viri nomine vestimenta confecta virilia viri esse, ut is lanae uxori praestet pretium: sed si non virilia vestimenta suo nomine mulier confecit, sed ea viro donavit, non valere donationem, cum illa valeat, cum viri nomine confecit: nec umquam operas viri ancillarum aestimari convenit."
+},
+{
+"id": "24.1.31.2",
+"label": "D. 24.1.31.2",
+"text": "Si vir uxori aream donaverit et uxor in ea insulam aedificaverit, ea insula sine dubio mariti est, sed eam impensam mulierem servaturam placet: nam si maritus vindicet insulam, retentionem impensae mulierem facturam."
+},
+{
+"id": "24.1.31.3",
+"label": "D. 24.1.31.3",
+"text": "Si duo mancipia fuerint singula quinis digna, sed utrumque unis quinque donationis causa a viro mulieri vel contra venierint, melius dicetur communia ea esse pro portione pretii nec tandem spectandum esse, quanti mancipia sint, sed quantum ex pretio donationis causa sit remissum: sine dubio licet a viro vel uxore minoris emere, si non sit animus donandi."
+},
+{
+"id": "24.1.31.4",
+"label": "D. 24.1.31.4",
+"text": "Si vir uxori vel contra quid vendiderit vero pretio et donationis causa paciscantur, ne quid venditor ob eam rem praestet, videndum est, quid de ea venditione agatur, utrum res venierit et totum negotium valeat, an vero ut ea sola pactio irrita sit, quemadmodum irrita esset, si post contractam emptionem novo consilio inito id pacti fuisset actum. Et verius est pactum dumtaxat irritum esse."
+},
+{
+"id": "24.1.31.5",
+"label": "D. 24.1.31.5",
+"text": "Idem dicemus, si donationis causa pacti sint, ne fugitivum aut erronem praestent, id est integras esse actiones aedilicias et ex empto."
+},
+{
+"id": "24.1.31.6",
+"label": "D. 24.1.31.6",
+"text": "Quod vir uxori in diem debet, sine metu donationis praesens solvere potest, quamvis commodum temporis retenta pecunia sentire potuerit."
+},
+{
+"id": "24.1.31.7",
+"label": "D. 24.1.31.7",
+"text": "Quod legaturus mihi aut hereditatis nomine relicturus es, potes rogatus a me uxori meae relinquere et non videtur ea esse donatio, quia nihil ex bonis meis deminuitur: in quo maxime maiores donanti succurrisse Proculus ait, ne amore alterius alter despoliaretur, non quasi malivolos, ne alter locupletior fieret."
+},
+{
+"id": "24.1.31.8",
+"label": "D. 24.1.31.8",
+"text": "Si vir uxori munus immodicum calendis martiis aut natali die dedisset, donatio est: sed si impensas, quas faceret mulier, quo honestius se tueretur, contra est."
+},
+{
+"id": "24.1.31.9",
+"label": "D. 24.1.31.9",
+"text": "Non videtur locupletior facta esse mulier, si aut in opsonio aut in unguentis aut in cibariis familiae donatam sibi pecuniam impenderit."
+},
+{
+"id": "24.1.31.10",
+"label": "D. 24.1.31.10",
+"text": "Quae vir cibaria uxoris familiae iumentisve praestiterit, quae in usu communi erant, non condicentur: quod si familiam domesticam uxoris aut venaliciam pavit, contra puto observari debere."
+},
+{
+"id": "24.1.32.pr",
+"label": "D. 24.1.32 pr. (Ulpianus)",
+"text": "Cum hic status esset donationum inter virum et uxorem, quem antea rettulimus, imperator noster Antoninus Augustus ante excessum divi Severi patris sui oratione in senatu habita auctor fuit senatui censendi Fulvio Aemiliano et Nummio Albino consulibus, ut aliquid laxaret ex iuris rigore.",
+"inscription": "Ulpianus libro 33 ad Sabinum"
+},
+{
+"id": "24.1.32.1",
+"label": "D. 24.1.32.1",
+"text": "Oratio autem imperatoris nostri de confirmandis donationibus non solum ad ea pertinet, quae nomine uxoris a viro comparata sunt, sed ad omnes donationes inter virum et uxorem factas, ut et ipso iure res fiant eius cui donatae sunt et obligatio sit civilis et de Falcidia ubi possit locum habere tractandum sit: cui locum ita fore opinor, quasi testamento sit confirmatum quod donatum est."
+},
+{
+"id": "24.1.32.2",
+"label": "D. 24.1.32.2",
+"text": "Ait oratio \"Fas esse eum quidem qui donavit paenitere: heredem vero eripere forsitan adversus voluntatem supremam eius qui donaverit durum et avarum esse\"."
+},
+{
+"id": "24.1.32.3",
+"label": "D. 24.1.32.3",
+"text": "Paenitentiam accipere debemus supremam. Proinde si uxori donavit, deinde eum paenituit, mox desiit paenitere, dicendum est donationem valere, ut supremum eius spectemus iudicium, quemadmodum circa fideicommissa solemus, vel in legatis cum de doli exceptione opposita tractamus, ut sit ambulatoria voluntas eius usque ad vitae supremum exitum."
+},
+{
+"id": "24.1.32.4",
+"label": "D. 24.1.32.4",
+"text": "Sed ubi semel donatorem paenituit, etiam heredi revocandi potestatem tribuimus, si appareat defunctum evidenter revocasse voluntatem: quod si in obscuro sit, proclivior esse debet iudex ad comprobandam donationem."
+},
+{
+"id": "24.1.32.5",
+"label": "D. 24.1.32.5",
+"text": "Si maritus ea quae donaverit pignori dederit, utique eum paenituisse dicemus, licet dominium retinuit. Quid tamen, si hoc animo fuit, ut vellet adhuc donatum? Finge in possessionem precariam mulierem remansisse paratamque esse satisfacere creditori. Dicendum est donationem valere: nam si ab initio ei rem obligatam hoc animo donasset, dicerem vim habere donationem, ut parata satisfacere mulier haberet doli exceptionem: quin immo et si satisfecisset, potuisse eam per doli exceptionem consequi, ut sibi mandentur actiones."
+},
+{
+"id": "24.1.32.6",
+"label": "D. 24.1.32.6",
+"text": "Si donator servus fuerit effectus privati, dicendum est non impletam, sed peremptam donationem, quamvis morti servitus comparetur: proinde et si ipsa in servitutem redigatur cui donatum est, extincta erit donatio."
+},
+{
+"id": "24.1.32.7",
+"label": "D. 24.1.32.7",
+"text": "Si maritus uxori donaverit et mortem sibi ob sceleris conscientiam consciverit vel etiam post mortem memoria eius damnata sit, revocabitur donatio: quamvis ea quae aliis donaverit valeant, si non mortis causa donavit."
+},
+{
+"id": "24.1.32.8",
+"label": "D. 24.1.32.8",
+"text": "Si miles uxori donaverit de castrensibus bonis et fuerit damnatus, quia permissum est ei de his testari (si modo impetravit ut testetur cum damnaretur), donatio valebit: nam et mortis causa donare poterit, cui testari permissum est."
+},
+{
+"id": "24.1.32.9",
+"label": "D. 24.1.32.9",
+"text": "Quod ait oratio \"consumpsisse\", sic accipere debemus, ne is, qui donationem accepit, locupletior factus sit: ceterum si factus est, orationis beneficium locum habebit. Sed et si non sit factus locupletior, dederit tamen tantam quantitatem eaque exstet, dicendum est, si is decessit, qui factus est locupletior, posse repetere id quod dedit nec compensare id quod consumpsit, quamvis divortio secuto haec compensatio locum habeat."
+},
+{
+"id": "24.1.32.10",
+"label": "D. 24.1.32.10",
+"text": "Si divortium post donationem intercessit aut prior decesserit qui donum accepit, veteri iuri statur, hoc est, si maritus uxori: onatum vult, valeat donatio, quod si non vult, exstinguitur: plerique enim cum bona gratia discedunt, plerique cum ira sui animi et offensa."
+},
+{
+"id": "24.1.32.11",
+"label": "D. 24.1.32.11",
+"text": "Quid ergo, si divortium factum est, deinde matrimonium restauratur, et in divortio vel mutata est voluntas vel eadem duravit, restaurato tamen matrimonio et voluntate donatoris reconciliata an donatio duret, si constante matrimonio donator decesserit? Et potest defendi valere."
+},
+{
+"id": "24.1.32.12",
+"label": "D. 24.1.32.12",
+"text": "Quod si divortium non intercesserit, sed frivusculum, profecto valebit donatio, si frivusculum quievit."
+},
+{
+"id": "24.1.32.13",
+"label": "D. 24.1.32.13",
+"text": "Si mulier et maritus diu seorsum quidem habitaverint, sed honorem invicem matrimonii habebant (quod scimus interdum et inter consulares personas subsecutum), puto donationes non valere, quasi duraverint nuptiae: non enim coitus matrimonium facit, sed maritalis affectio: si tamen donator prior decesserit, tunc donatio valebit."
+},
+{
+"id": "24.1.32.14",
+"label": "D. 24.1.32.14",
+"text": "Si ambo ab hostibus capti sint et qui donavit et cui donatum est, quid dicimus? Et prius illud volo tractare. Oratio, si ante mors contigerit ei cui donatum est, nullius momenti donationem esse voluit: ergo si ambo decesserint quid dicemus, naufragio forte vel ruina vel incendio? Et si quidem possit apparere, quis ante spiritum posuit, expedita est quaestio: sin vero non appareat, difficilis quaestio est. Et magis puto donationem valuisse et his ex verbis orationis defendimus: ait enim oratio \"si prior vita decesserit qui donatum accepit\": non videtur autem prior vita decessisse qui donatum accepit, cum simul decesserint. Proinde rectissime dicetur utrasque donationes valere, si forte invicem donationibus factis simul decesserint, quia neuter alteri supervixerit, licet de commorientibus oratio non senserit: sed cum neuter alteri supervixerit, donationes mutuae valebunt: nam et circa mortis causa donationes mutuas id erat consequens dicere neutri datam condictionem: locupletes igitur heredes donationibus relinquent. Secundum haec si ambo ab hostibus simul capti sint amboque ibi decesserint non simul, utrum captivitatis spectamus tempus, ut dicamus donationes valere, quasi simul decesserint? An neutram, quia vivis eis finitum est matrimonium? An spectamus, uter prius decesserit, ut in eius persona non valeat donatio? An uter rediit, ut eius valeat? Mea tamen fert opinio, ubi non reverterunt, ut tempus spectandum sit captivitatis, quasi tunc defecerint: quod si alter redierit, eum videri supervixisse, quia redit."
+},
+{
+"id": "24.1.32.15",
+"label": "D. 24.1.32.15",
+"text": "Qui quasdam res ex his quas donaverat legasset, quasdam non, non videbitur ceteras noluisse ad uxorem pertinere: plerumque enim antea legat, postea donat: vel alia causa fuit legandi."
+},
+{
+"id": "24.1.32.16",
+"label": "D. 24.1.32.16",
+"text": "Oratio non solum virum et uxorem complectitur, sed etiam ceteros, qui propter matrimonium donare prohibentur: ut puta donat socer nurui vel contra, vel socer genero vel contra, vel consocer consocero qui copulatos matrimonio in potestate habent: nam ex mente orationis his quoque omnibus permissum est in eundem casum donare: et ita et Papinianus libro quarto responsorum sensit: sic enim scribit: socer nurui vel genero donavit: postea filius eius vel filia constante matrimonio vita decessit: quamquam vitium donationis perseveret, tamen, si socer nullam quaestionem donationibus intulit, post mortem eius contra heredes orationis sententia videtur intervenire: nam quae ratio donationem prohibuit, eadem beneficium datum implorabit. Ut igitur valeat donatio ista, Papinianus exigit, ut et filius eius qui donavit ante decesserit, et socer postea durante voluntate."
+},
+{
+"id": "24.1.32.17",
+"label": "D. 24.1.32.17",
+"text": "Si filius familias, qui castrense peculium habet vel quasi castrense, uxori donet, filii personam et mortem spectabimus."
+},
+{
+"id": "24.1.32.18",
+"label": "D. 24.1.32.18",
+"text": "Si nurus socero donaverit, mortem nurus et perseverantem in supremam diem voluntatem spectare nos oportet. Quod si socer ante decesserit, dicemus exstinctam donationem an, quia maritus vivit, si uxori suae supervixit, admittimus vim habere donationem? Et si quidem maritus solus socero heres exstitit, quasi nova donatio potest servari in maritum collata, ut illa finita sit, alia coeperit: sin vero filius heres patri non est, finita erit donatio ratione nova."
+},
+{
+"id": "24.1.32.19",
+"label": "D. 24.1.32.19",
+"text": "Si socer nurui nuntium miserit, donatio erit irrita, quamvis matrimonium concordantibus viro et uxore secundum rescriptum imperatoris nostri cum patre comprobatum est: sed quod ad ipsos, inter quos donatio facta est, finitum est matrimonium."
+},
+{
+"id": "24.1.32.20",
+"label": "D. 24.1.32.20",
+"text": "Proinde et si duo consoceri invicem donaverint, idem erit dicendum, si invitis filiis nuntium remiserint, inter ipsos irritam esse donationem. In hac autem donatione inter soceros facta mors desideranda est eius qui donavit constante matrimonio et iure potestatis durante: idemque et in his qui sunt in eorum potestate."
+},
+{
+"id": "24.1.32.21",
+"label": "D. 24.1.32.21",
+"text": "Si consocer consocero donaverit et alter eorum vel uterque copulatos emancipaverit, debet dici donationem ad orationem non pertinere et ideo infirmari donationem."
+},
+{
+"id": "24.1.32.22",
+"label": "D. 24.1.32.22",
+"text": "Si sponsus sponsae donaverit in tempus matrimonii collata donatione, quamvis inter virum et uxorem donatio non videatur facta et verba orationis minus sufficiant, tamen donationem dicendum est ad sententiam orationis pertinere, ut, si duraverit voluntas usque ad mortem, valeat donatio."
+},
+{
+"id": "24.1.32.23",
+"label": "D. 24.1.32.23",
+"text": "Sive autem res fuit quae donata est sive obligatio remissa, potest dici donationem effectum habituram: ut puta uxori acceptum tulit donationis causa quod debeat: potest dici pendere acceptilationem non ipsam, sed effectum eius. Et generaliter universae donationes, quas impediri diximus, ex oratione valebunt."
+},
+{
+"id": "24.1.32.24",
+"label": "D. 24.1.32.24",
+"text": "Si inter virum et uxorem societas donationis causa contracta sit, iure vulgato nulla est, nec post decretum senatus emolumentum ea liberalitas, ut actio pro socio constituatur, habere poterit: quae tamen in commune tenuerunt fine praestituto, revocanda non sunt. Idcirco igitur pro socio actio non erit, quia nulla societas est, quae donationis causa interponitur, nec inter ceteros et propter hoc nec inter virum et uxorem."
+},
+{
+"id": "24.1.32.25",
+"label": "D. 24.1.32.25",
+"text": "Idem erit dicendum et si emptio contracta sit donationis causa: nam nulla erit."
+},
+{
+"id": "24.1.32.26",
+"label": "D. 24.1.32.26",
+"text": "Plane si minoris res venierit donationis causa vel postea pretium sit remissum, admittemus donationem valere ad senatus consultum."
+},
+{
+"id": "24.1.32.27",
+"label": "D. 24.1.32.27",
+"text": "Si quis sponsam habuerit, deinde eandem uxorem duxerit cum non liceret, an donationes quasi in sponsalibus factae valeant, videamus. Et Iulianus tractat hanc quaestionem in minore duodecim annis, si in domum quasi mariti immatura sit deducta: ait enim hanc sponsam esse, etsi uxor non sit. Sed est verius, quod Labeoni videtur et a nobis et a Papiniano libro decimo quaestionum probatum est, ut, si quidem praecesserint sponsalia, durent, quamvis iam uxorem esse putet qui duxit, si vero non praecesserint, neque sponsalia esse, quoniam non fuerunt, neque nuptias, quod nuptiae esse non potuerunt. Ideoque si sponsalia antecesserint, valet donatio: si minus, nulla est, quia non quasi ad extraneam, sed quasi ad uxorem fecit et ideo nec oratio locum habebit."
+},
+{
+"id": "24.1.32.28",
+"label": "D. 24.1.32.28",
+"text": "Sed si senator libertinam desponderit vel tutor pupillam vel quis alius ex his, qui matrimonium copulare prohibentur, et duxerit, an donatio quasi in sponsalibus facta valeat? Et putem etiam sponsalia improbanda et quasi ab indignis ea quae donata sunt ablata fisco vindicari."
+},
+{
+"id": "24.1.33.pr",
+"label": "D. 24.1.33 pr. (Ulpianus)",
+"text": "Si stipulata fuerit mulier annuum, id ex stipulatu petere constante matrimonio non potest. Sed si manente matrimonio decessisse maritus proponatur, puto, quia in annuo quoque donatio vertitur, posse dici stipulationem confirmari ex senatus consulto.",
+"inscription": "Ulpianus libro 36 ad Sabinum"
+},
+{
+"id": "24.1.33.1",
+"label": "D. 24.1.33.1",
+"text": "Si uxor marito annuum versa vice praestiterit, restituetur ei hoc et poterit vindicare id quod exstat: credo poterit et condicere, in quantum locupletior factus est, quia non tam sollemne est annuum, quod maritus uxori pendit et quod uxor marito praestat, immo incongruens est et contra sexus naturam."
+},
+{
+"id": "24.1.33.2",
+"label": "D. 24.1.33.2",
+"text": "Et si forte maritus ab uxore stipulatus sit id annuum decesseritque mulier constante matrimonio, dicendum erit ex oratione donationem convalescere."
+},
+{
+"id": "24.1.34",
+"label": "D. 24.1.34 (Ulpianus)",
+"text": "Sive uxor marito res donasset isque eas in dotem pro communi filia dedisset, sive post donationem, quam in maritum contulit, uxor passa est eum pro filia in dotem dare, benigne dici potest, etsi prima donatio nullius momenti est, attamen ex sequenti consensu valere dotis dationem.",
+"inscription": "Ulpianus libro 43 ad Sabinum"
+},
+{
+"id": "24.1.35",
+"label": "D. 24.1.35 (Ulpianus)",
+"text": "Si non secundum legitimam observationem divortium factum sit, donationes post tale divortium factae nullius momenti sunt, cum non videatur solutum matrimonium.",
+"inscription": "Ulpianus libro 34 ad edictum"
+},
+{
+"id": "24.1.36.pr",
+"label": "D. 24.1.36 pr. (Paulus)",
+"text": "Si donatae res exstant, etiam vindicari poterunt: sed quia causam possidendi donatio praestitit, nisi reddatur res, aestimatio facienda est iusto pretio caverique possidenti debebit de evictione simpli, quanti ea res sit: idque etiam pedio videtur.",
+"inscription": "Paulus libro 36 ad edictum"
+},
+{
+"id": "24.1.36.1",
+"label": "D. 24.1.36.1",
+"text": "Sponsus alienum anulum sponsae muneri misit et post nuptias pro eo suum dedit: quidam et Nerva putant fieri eum mulieris, quia tunc factam donationem confirmare videtur, non novam inchoare, quam sententiam veram esse accepi."
+},
+{
+"id": "24.1.37",
+"label": "D. 24.1.37 (Iulianus)",
+"text": "Si mulier dolo fecerit, ne res exstaret sibi a marito donata, vel ad exhibendum vel damni iniuriae cum ea agi poterit, maxime si post divortium id commiserit.",
+"inscription": "Iulianus libro 17 digestorum"
+},
+{
+"id": "24.1.38.pr",
+"label": "D. 24.1.38 pr. (Alfenus)",
+"text": "Servus communis viri et fratris eius puerum donavit uxori fratris: pro qua parte is servus qui donasset viri esset, pro ea parte munus non esse factum mulieris respondit.",
+"inscription": "Alfenus libro tertio a Paulo epitomarum"
+},
+{
+"id": "24.1.38.1",
+"label": "D. 24.1.38.1",
+"text": "Idem iuris erit, si ex tribus fratribus unus uxorem haberet et rem communem uxori donasset: nam ex tertia parte mulieris res facta non est, ex duabus autem partibus reliquis, si id scissent fratres aut posteaquam donata esset ratum habuissent, non debere mulierem reddere."
+},
+{
+"id": "24.1.39",
+"label": "D. 24.1.39 (Iulianus)",
+"text": "Vir uxori pecuniam cum donare vellet, permisit ei, ut a debitore suo stipuletur: illa cum id fecisset, priusquam pecuniam auferret, divortium fecit: quaero, utrum vir eam summam petere debeat an ea promissione propter donationis causam actio nulla esset. Respondi inanem fuisse eam stipulationem. Sed si promissor mulieri ignorans solvisset, si quidem pecunia exstat, vindicare eam debitor potest: sed si actiones suas marito praestare paratus est, doli mali exceptione se tuebitur ideoque maritus hanc pecuniam debitoris nomine vindicando consequetur. Sed si pecunia non exstat et mulier locupletior facta est, maritus eam petet: intellegitur enim ex re mariti locupletior facta esse mulier, quoniam debitor doli mali exceptione se tueri potest.",
+"inscription": "Iulianus libro quinto ex Minicio"
+},
+{
+"id": "24.1.40",
+"label": "D. 24.1.40 (Ulpianus)",
+"text": "Quod apiscendae dignitatis gratia ab uxore in maritum collatum est, eatenus ratum est, quatenus dignitati supplendae opus est:",
+"inscription": "Ulpianus libro secundo responsorum"
+},
+{
+"id": "24.1.41",
+"label": "D. 24.1.41 (Licinius)",
+"text": "Nam et imperator Antoninus constituit, ut ad processus viri uxor ei donare possit.",
+"inscription": "Licinius libro sexto regularum"
+},
+{
+"id": "24.1.42",
+"label": "D. 24.1.42 (Gaius)",
+"text": "Nuper ex indulgentia principis Antonini recepta est alia causa donationis, quam dicimus honoris causa: ut ecce si uxor viro lati clavii [clavi] petenti gratia donet vel ut equestris ordinis fiat vel ludorum gratia.",
+"inscription": "Gaius libro 11 ad edictum provinciale"
+},
+{
+"id": "24.1.43",
+"label": "D. 24.1.43 (Paulus)",
+"text": "Inter virum et uxorem exilii causa donatio fieri potest.",
+"inscription": "Paulus libro singulari regularum"
+},
+{
+"id": "24.1.44",
+"label": "D. 24.1.44 (Neratius)",
+"text": "Si extraneus rem viri ignorans eius esse ignoranti uxori, ac ne viro quidem sciente eam suam esse, donaverit, mulier recte eam usucapiet. Idemque iuris erit, si is, qui in potestate viri erat, credens se patrem familias esse uxori patris donaverit. Sed si vir rescierit suam rem esse, priusquam usucapiatur, vindicareque eam poterit nec volet et hoc et mulier noverit, interrumpetur possessio, quia transiit in causam ab eo factae donationis. Ipsius mulieris scientia propius est, ut nullum adquisitioni dominii eius adferat impedimentum: non enim omnimodo uxores ex bonis virorum, sed ex causa donationis ab ipsis factae adquirere prohibitae sunt.",
+"inscription": "Neratius libro quinto membranarum"
+},
+{
+"id": "24.1.45",
+"label": "D. 24.1.45 (Ulpianus)",
+"text": "Marcellus libro septimo digestorum scribit etiam eum detrahere sine mulieris damno et citra metum senatus consulti, quod detrahentibus negotiationis causa occurrit.",
+"inscription": "Ulpianus libro 17 ad edictum"
+},
+{
+"id": "24.1.46",
+"label": "D. 24.1.46 (Ulpianus)",
+"text": "Inter virum et uxorem nec possessionis ulla donatio est.",
+"inscription": "Ulpianus libro 72 ad edictum"
+},
+{
+"id": "24.1.47",
+"label": "D. 24.1.47 (Celsus)",
+"text": "Utrum negotium uxoris gerens an officio mariti ductus in rem eius impenderit vir, facti, non iuris est quaestio: coniectura eius rei ex modo et ex genere impensae non difficilis est.",
+"inscription": "Celsus libro primo digestorum"
+},
+{
+"id": "24.1.48",
+"label": "D. 24.1.48 (Celsus)",
+"text": "Quae iam nuptae maritus donavit, viri manent et potest ea vindicare: nec quicquam refert, quod ampla legata ab uxore ei relicta sunt.",
+"inscription": "Celsus libro nono digestorum"
+},
+{
+"id": "24.1.49",
+"label": "D. 24.1.49 (Marcellus)",
+"text": "Sulpicius Marcello. Mulier, quae ad communem filium volebat, qui in potestate patris erat, post mortem patris fundum pervenire, eum patri tradidit, uti post mortem restituatur filio. Quaero, an donatio tibi videatur, ut nihil agatur, an valeat quidem, sed mulieri potestas datur, si noluerit, eum repetere respondit: si color vel titulus, ut sic dixerim, donationi quaesitus est, nihil valebit traditio, idem si hoc exigit uxor, ut aliquid ex ea re interim commodi sentiret maritus: alioquin si solo eius ministerio usa est et id egit, ut vel revocare sibi liceret vel ut res cum omni emolumento per patrem postea ad filium transiret, cur non idem perinde sit ratum ac si cum extraneo tale negotium contraxisset, hoc est extraneo in hanc causam tradidisset?",
+"inscription": "Marcellus libro septimo digestorum"
+},
+{
+"id": "24.1.50.pr",
+"label": "D. 24.1.50 pr. (Iavolenus)",
+"text": "Si, cum mulier viginti servum emisset, in eam emptionem vir quinque venditori dedit, divortio facto omnimodo vir eam summam exiget neque ad rem pertinet, an is servus deterior factus sit: nam et si mortuus esset, quinque exactio ei competeret. Quaeritur enim, an mulier ex viri patrimonio locupletior sit eo tempore, quo de dote agebatur: facta autem intellegitur, quae aere alieno suo interventu viri liberata est, quod potuisset adhuc debere, si vir pecuniam non solvisset: neque enim interest, ex qua causa mulier pecuniam debuit, utrum creditam an eam quam ex emptione praestare debeat.",
+"inscription": "Iavolenus libro 13 epistularum"
+},
+{
+"id": "24.1.50.1",
+"label": "D. 24.1.50.1",
+"text": "Quod si mulier non emerat servum, sed ut emeret, a viro pecuniam accepit, tum vel mortuo vel deteriore facto servo damnum ad virum pertinebit: quia quod aliter emptura non fuit, nisi pecuniam a viro accepisset, hoc consumptum ei perit qui donavit, si modo in rerum natura esse desiit: nec videtur mulier locupletior esse, quae neque a creditore suo liberata est neque id possidet quod ex pecunia viri emerat."
+},
+{
+"id": "24.1.51",
+"label": "D. 24.1.51 (Pomponius)",
+"text": "Quintus Mucius ait, cum in controversiam venit, unde ad mulierem quid pervenerit, et verius et honestius est quod non demonstratur unde habeat existimari a viro aut qui in potestate eius esset ad eam pervenisse. Evitandi autem turpis quaestus gratia circa uxorem hoc videtur Quintus Mucius probasse.",
+"inscription": "Pomponius libro quinto ad Quintum Mucium"
+},
+{
+"id": "24.1.52.pr",
+"label": "D. 24.1.52 pr. (Papinianus)",
+"text": "Si vir uxori donationis causa rem vilius locaverit, locatio nulla est: cum autem depositum inter eas personas minoris donationis causa aestimatur, depositum est. Haec ideo tam varie, quia locatio quidem sine mercede certa contrahi non potest, depositum autem et citra aestimationem quoque dari potest.",
+"inscription": "Papinianus libro decimo quaestionum"
+},
+{
+"id": "24.1.52.1",
+"label": "D. 24.1.52.1",
+"text": "Uxor viro fructum fundi ab herede suo dari, quod si datus non fuisset, certam pecuniam mortis causa promitti curavit: defuncto viro viva muliere stipulatio solvitur, ut traditio, quae mandante uxore mortis causa facta est: nam quo casu inter exteros condictio nascitur, inter maritos nihil agitur."
+},
+{
+"id": "24.1.53.pr",
+"label": "D. 24.1.53 pr. (Papinianus)",
+"text": "Mortis suae causa genero vel nurui socerum frustra donare convenit, quia mortuo socero nuptiae non solvuntur: nec interest, an pater filium vel filiam exheredaverit. Divortii species eadem ratione diversa est.",
+"inscription": "Papinianus libro quarto responsorum"
+},
+{
+"id": "24.1.53.1",
+"label": "D. 24.1.53.1",
+"text": "Res in dotem aestimatas consentiente viro mulier in usu habuit: usu deteriores si fiant, damni compensatio non admittitur. Easdem res non potest mulier sibi quasi donatas defendere ex illis verbis, quibus donationes ei a viro legatae sunt, cum eiusmodi species neque donari neque auferri videntur."
+},
+{
+"id": "24.1.54",
+"label": "D. 24.1.54 (Papinianus)",
+"text": "Vir usuras promissae dotis in stipulatum deduxerat easque non petierat: cum per omne tempus matrimonii sumptibus suis uxorem et eius familiam vir exhiberet, dote praelegata, sed et donationibus verbis fideicommissi confirmatis legato quidem dotis usuras non contineri videbatur, sed titulo donationis remissas.",
+"inscription": "Papinianus libro octavo responsorum"
+},
+{
+"id": "24.1.55",
+"label": "D. 24.1.55 (Paulus)",
+"text": "Uxor marito suo pecuniam donavit: maritus ex pecunia sibi donata aut mobilem aut soli rem comparavit: solvendo non est et res extant: quaero, si mulier revocet donationem, an utiliter condicticia experiatur? Videtur enim maritus, quamvis solvendo non sit, ex donatione locupletior effectus, cum pecunia mulieris comparata exstet. Respondi: locupletiorem esse ex donatione negari non potest: non enim quaerimus, quid deducto aere alieno liberum habeat, sed quid ex re mulieris possideat. Solo enim separatur hic ab eo, cui res donata est, quod ibi res mulieris permanet et vindicare [vindicari] directo potest: et erit deterior causa viri, si ei pecunia quatenus res valet, non ultra id tamen quod donatum est, condicatur, quam si dotis iudicio conveniatur. Sed nihil prohibet etiam in rem utilem mulieri in ipsas res accommodare.",
+"inscription": "Paulus libro sexto quaestionum"
+},
+{
+"id": "24.1.56",
+"label": "D. 24.1.56 (Scaevola)",
+"text": "Si quod mihi mortis causa donare vellet, ego pure uxori donare vellem, non valet quod uxori iubeo dari, quia illo convalescente condictione teneor, mortuo autem nihilo minus pauperior sum: non enim habeo quod habiturus essem.",
+"inscription": "Scaevola libro tertio quaestionum"
+},
+{
+"id": "24.1.57",
+"label": "D. 24.1.57 (Paulus)",
+"text": "Ea, quae a marito suo pecuniam ex causa donationis acceperat, litteras ad eum misit huiusmodi: \"Cum petenti mihi a te, domine carissime, adnuerit indulgentia tua viginti ad expediendas quasdam res meas, quae summa mihi numerata est sub ea condicione, ut, si per me meosque mores quid steterit, quo minus in diem vitae nostrae matrimonium permaneat, sive invito te discessero de domo tua vel repudium tibi sine ulla querella misero divortiumque factum per me probabitur, tunc viginti, quae mihi hac die donationis causa dare voluisti, daturam restituturam me sine ulla dilatione: spondeo\". Quaero, an, si eadem Titio marito suo repudium miserit, pecuniam restituere debeat. Paulus respondit pecuniam, quam vir uxori donavit, ex stipulatione proposita, si condicio eius exstitit, peti posse, quoniam ex donatione in pecuniam creditam conversa est: quod si stipulatio commissa non probetur, tunc tantum peti posse, quanto locupletior ex ea donatione facta probetur.",
+"inscription": "Paulus libro septimo responsorum"
+},
+{
+"id": "24.1.58.pr",
+"label": "D. 24.1.58 pr. (Scaevola)",
+"text": "Si praedia et mancipia Seiae data effecta sint eius tempore concubinatus ac postea tempore matrimonii aliis acceptis reddita sunt, quid iuris est? Respondit secundum ea quae proponerentur negotium potius gestum videri, quam donationem intervenisse.",
+"inscription": "Scaevola libro secundo responsorum"
+},
+{
+"id": "24.1.58.1",
+"label": "D. 24.1.58.1",
+"text": "Item cum quaereretur de cibariis mancipiorum, respondit: tempore quidem concubinatus data cibaria repeti non possunt, sed nec tempore matrimonii, si ea mancipia uxoris in communi usu fuerint."
+},
+{
+"id": "24.1.58.2",
+"label": "D. 24.1.58.2",
+"text": "Filius rebus matris intervenire solitus pecunia matris consentiente ipsa mancipia et res mercatus emptionum instrumenta suo nomine confecit: decessit in patris potestate. Quaesitum est, an mater cum marito suo experiri et qua actione uti possit. Respondit, si mater obligatum filium in ea pecunia voluit esse, intra annum, quam filius decessit, de peculio cum patre, in cuius potestate fuisse proponatur, actionem habere: si donavit, repeti posse, quanto locupletior ex ea donatione pater factus est."
+},
+{
+"id": "24.1.59",
+"label": "D. 24.1.59 (Paulus)",
+"text": "Si quis uxori ea condicione donavit, ut quod donavit in dotem accipiat, defuncto eo donatio convalescit.",
+"inscription": "Paulus libro secundo sententiarum"
+},
+{
+"id": "24.1.60.pr",
+"label": "D. 24.1.60 pr. (Hermogenianus)",
+"text": "Vitricus et privignus invicem sibi donare praetexto matrimonii non prohibentur.",
+"inscription": "Hermogenianus libro secundo iuris epitomarum"
+},
+{
+"id": "24.1.60.1",
+"label": "D. 24.1.60.1",
+"text": "Divortii causa donationes inter virum et uxorem concessae sunt: saepe enim evenit, uti propter sacerdotium vel etiam sterilitatem."
+},
+{
+"id": "24.1.61",
+"label": "D. 24.1.61 (Gaius)",
+"text": "Vel senectutem aut valetudinem aut militiam satis commode retineri matrimonium non possit:",
+"inscription": "Gaius libro 11 ad edictum provinciale"
+},
+{
+"id": "24.1.62.pr",
+"label": "D. 24.1.62 pr. (Hermogenianus)",
+"text": "Et ideo bona gratia matrimonium dissolvitur.",
+"inscription": "Hermogenianus libro secundo iuris epitomarum"
+},
+{
+"id": "24.1.62.1",
+"label": "D. 24.1.62.1",
+"text": "Divortio facto nec instaurato matrimonio non confirmabitur inter virum et uxorem facta donatio: nec inter patronum et libertam, si ab eo invito divertere non licet, facta donatio speratur, cum inter hos divortium intercedat. Perinde enim id quod donatum est habetur divortio intercedente ac si donatum non fuisset."
+},
+{
+"id": "24.1.63",
+"label": "D. 24.1.63 (Paulus)",
+"text": "De eo, quod uxoris in aedificium viri ita coniunctum est, ut detractum alicuius usus esse possit, dicendum est agi posse, quia nulla actio est, ex lege duodecim tabularum, quamvis decemviros non sit credibile de his sensisse, quorum voluntate res eorum in alienum aedificium coniunctae essententiarum paulus notat: sed in hoc solum agi potest, ut sola vindicatio soluta re competat mulieri, non in duplum ex lege duodecim tabularum: neque enim furtivum est, quod sciente domino inclusum est.",
+"inscription": "Paulus libro tertio ad Neratium"
+},
+{
+"id": "24.1.64",
+"label": "D. 24.1.64 (Iavolenus)",
+"text": "Vir mulieri divortio facto quaedam idcirco dederat, ut ad se reverteretur: mulier reversa erat, deinde divortium fecerat. Labeo: Trebatius inter Terentiam et Maecenatem respondit si verum divortium fuisset, ratam esse donationem, si simulatum, contra. Sed verum est, quod Proculus et Caecilius putant, tunc verum esse divortium et valere donationem divortii causa factam, si aliae nuptiae insecutae sunt aut tam longo tempore vidua fuisset, ut dubium non foret alterum esse matrimonium: alias nec donationem ullius esse momenti futuram.",
+"inscription": "Iavolenus libro sexto ex posterioribus Labeonis"
+},
+{
+"id": "24.1.65",
+"label": "D. 24.1.65 (Labeo)",
+"text": "Quod vir ei, quae nondum viripotens nupserit, donaverit, ratum futurum existimo.",
+"inscription": "Labeo libro sexto posteriorum a Iavoleno epitomatorum"
+},
+{
+"id": "24.1.66.pr",
+"label": "D. 24.1.66 pr. (Scaevola)",
+"text": "Seia Sempronio cum certa die nuptura esset, antequam domum deduceretur tabulaeque dotis signarentur, donavit tot aureos: quaero, an ea donatio rata sit. Non attinuisse tempus, an antequam domum deduceretur, donatio facta esset, aut tabularum consignatarum, quae plerumque et post contractum matrimonium fierent, in quaerendo exprimi: itaque nisi ante matrimonium contractum, quod consensu intellegitur, donatio facta esset, non valere.",
+"inscription": "Scaevola libro nono digestorum"
+},
+{
+"id": "24.1.66.1",
+"label": "D. 24.1.66.1",
+"text": "Virgini in hortos deductae ante diem tertium quam ibi nuptiae fierent, cum in separata diaeta ab eo esset, die nuptiarum, priusquam ad eum transiret et priusquam aqua et igni acciperetur, id est nuptiae celebrentur, optulit decem aureos dono: quaesitum est, post nuptias contractas divortio facto an summa donata repeti possit. Respondit id, quod ante nuptias donatum proponeretur, non posse de dote deduci."
+},
+{
+"id": "24.1.67",
+"label": "D. 24.1.67 (Labeo)",
+"text": "Si uxor nummis a viro aut ab eo qui in eius potestate esset sibi donatis servum emerit, deinde, cum eius factus fuerit, eum ipsum donationis causa viro tradiderit, rata erit traditio, quamvis ea mente facta fuerit qua ceterae donationes, neque ulla actio eius nomine dari potest.",
+"inscription": "Labeo libro secundo pithanon a Paulo epitomatorum"
+}
+]
+}

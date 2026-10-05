@@ -1,0 +1,27 @@
+{
+ "id": "plutarch-lives",
+ "title": "Plutarch, Parallel Lives",
+ "language": "grc",
+ "edition": "Perseus Digital Library TEI, one file per part (perseus-grc2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-greekLit TEI",
+ "url": "https://scaife.perseus.org/library/",
+ "unit_scheme": "part (life name, lower-case, hyphenated)",
+ "passage_scheme": "part.chapter.section",
+ "units": [
+  "alexander",
+  "cicero",
+  "lycurgus",
+  "pericles",
+  "pyrrhus",
+  "romulus"
+ ],
+ "source_files": [
+  "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0007/tlg002/tlg0007.tlg002.perseus-grc2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0007/tlg004/tlg0007.tlg004.perseus-grc2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0007/tlg012/tlg0007.tlg012.perseus-grc2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0007/tlg030/tlg0007.tlg030.perseus-grc2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0007/tlg047/tlg0007.tlg047.perseus-grc2.xml",
+  "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0007/tlg055/tlg0007.tlg055.perseus-grc2.xml"
+ ]
+}

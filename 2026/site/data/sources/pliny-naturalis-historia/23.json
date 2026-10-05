@@ -1,0 +1,832 @@
+{
+"corpus": "pliny-naturalis-historia",
+"unit": "23",
+"title": "Pliny the Elder, Naturalis historia, NH 23",
+"passages": [
+{
+"id": "23.1",
+"label": "Plin. NH 23.1 (chapter praef)",
+"text": "Peracta cerealium in medendo quoque natura est omniumque, quae ciborum aut florum odorumve gratia proveniunt supina tellure. non cessit iis Pomona partesque medicas et pendentibus dedit, non contenta protegere arborumque umbra alere quae diximus, immo velut indignata plus auxili inesse his, quae longius a caelo abessent quaeque postea coepissent; primum enim homini cibum fuisse inde, et sic inducto caelum spectare, pascique et nunc ex se posse sine frugibus."
+},
+{
+"id": "23.2",
+"label": "Plin. NH 23.2 (chapter praef)",
+"text": "ergo, Hercule, artes in primis dedit vitibus, non contenta delicias etiam et odores atque unguenta omphacio et oenanthe ac massari, quae suis locis diximus, nobiliter instruxisse. 'Plurimum, inquit, homini voluptatis ex me est. ego sucum vini, liquorem olei gigno, ego palmas et poma totque varietates, neque, ut Tellus, omnia per labores, aranda tauris, terenda areis, deinde saxis, ut quando quantove opere cibi fiant? at ex\n\nme parata omnia nec cura laboranda, sed sese porrigentia ultro et, si pigeat attingere, etiam cadentia'. certavit ipsa secum plusque utilitatis causa genuit etiam quam voluptatis."
+},
+{
+"id": "23.3",
+"label": "Plin. NH 23.3 (chapter praef)",
+"text": "Folia vitium et pampini capitis dolores inflammationesque corporum mitigant cum polenta, folia per se ardores stomachi ex aqua frigida, cum farina vero hordei articularios morbos. pampini triti et inpositi tumorem omnem siccant, sucus eorum dysintericis infusus medetur. lacrima vitium, quae veluti cummis est, lepras et lichenas et psoras nitro ante praeparatas sanat. eadem cum oleo saepius pilis inlitis psilotri effectum habet, maximeque quam virides accensae vites exudant, qua et verrucae tolluntur ."
+},
+{
+"id": "23.4",
+"label": "Plin. NH 23.4 (chapter praef)",
+"text": "pampini sanguinem excreantibus et mulierum a conceptu defectioni diluti potu prosunt. cortex vitium et folia arida vulnerum sanguinem sistunt ipsumque vulnus conglutinant. vitis albae, viridis tusae, suco inpetigines tolluntur. cinis sarmentorum vitium et vinaceorum condylomatis et sedis vitiis medetur ex aceto, item luxatis et ambustis et lienis tumori cum rosaceo et ruta et aceto. item igni sacro ex vino citra oleum aspergitur et intertrigini ."
+},
+{
+"id": "23.5",
+"label": "Plin. NH 23.5 (chapter praef)",
+"text": "et pilos absumit. dant et bibendum cinerem sarmentorum ad lienis remedia aceto conspersum ita, ut bini cyathi in tepida aqua bibantur utque qui biberit in lienem iaceat. claviculae ipsae, quibus repunt vites, tritae ex\n\naqua potae sistunt vomitionum consuetudinem."
+},
+{
+"id": "23.6",
+"label": "Plin. NH 23.6 (chapter praef)",
+"text": "cinis vitium cum axungia vetere contra tumores proficit, fistulas purgat, mox et persanat, nervorum dolores frigore ortos contractionesque , contusas vero partes vel cum oleo, carnes excrescentes in ossibus cum aceto et nitro, scorpionum et canum plagas cum oleo. corticis per se cinis conbustis pilos reddit."
+},
+{
+"id": "23.7",
+"label": "Plin. NH 23.7 (chapter praef)",
+"text": "Omphacium qua fieret ratione incipientis uvae pubertate, in unguentorum loco docuimus. nunc ad medicinam de eo pertinentia indicabimus. sanat ea quae in umore sint ulcera, ut oris, tonsillarum, genitalium. oculorum claritati plurimum confert, scabritiae genarum ulceribusque angulorum, nubeculis, ulceribus quacumque in parte manantibus, cicatricibus marcidis, ossibus purulente limosis. mitigatur vehementia eius melle aut passo. prodest et dysintericis, sanguinem excreantibus, anginis."
+},
+{
+"id": "23.8",
+"label": "Plin. NH 23.8 (chapter praef)",
+"text": "Omphacio cohaeret oenanthe, quam vites silvestres ferunt, dicta nobis in unguenti ratione. laudatissima in Syria, maxime circa Antiochiae et Laodiceae montes et ex alba vite. refrigerat, astringit, vulneribus inspergitur, stomacho inlinitur, utilis urinae, iocineris, capitis doloribus, dysintericis, coeliacis, cholericis, contra fastidia obolo ex aceto pota. siccat manantes capitis eruptiones, efficacissima ad vitia, quae sint in umidis, ideo et oris ulceribus\n\net verendis ac sedi cum melle et croco."
+},
+{
+"id": "23.9",
+"label": "Plin. NH 23.9 (chapter praef)",
+"text": "alvum sistit, genarum scabritiem emendat oculorumque lacrimationes, ex vino stomachi dissolutionem, ex aqua frigida pota sanguinis excreationes. cinis eius ad collyria et ad ulcera purganda et paronychia et pterygia probatur. uritur in furno, done panis percoquatur.—Massaris odoribus tantum gignitur, omniaque ea aviditas humani ingeni nobilitavit rapere festinando."
+},
+{
+"id": "23.10",
+"label": "Plin. NH 23.10 (chapter 1)",
+"text": "Maturescentium autem uvae vehementiores nigrae —ideo vinum ex his minus iucundum -, suaviores albae, quoniam e tralucido facilius accipitur aër. recentes stomachum et spiritus inflatione alvum turbant. itaque in febri damnantur, utique largiores; gravedinem enim capiti morbumque lethargum faciunt. innocentiores quae decerptae diu pependere, qua ventilatione etiam utiles fiunt stomacho aegrisque, nam et refrigerant leviter et fastidium auferunt."
+},
+{
+"id": "23.11",
+"label": "Plin. NH 23.11 (chapter 1)",
+"text": "* Proximae a pensilibus in palea servatae; nam et in vinaceis servatae et caput et vesicam et stomachum infestant, sistunt tamen alvum, sanguinem excreantibus utilissimae. *quae in vino aut in dulci conditae fuere, caput temptant *; quae vero in musto fuere, peiorem vim etiamnum habent quam quae in vinaceis. sapa quoque inutiles stomacho facit."
+},
+{
+"id": "23.12",
+"label": "Plin. NH 23.12 (chapter 1)",
+"text": "saluberrimas putant medici in caelesti\n\naqua servatas, etiamsi minime iucundas, sed voluptatem earum in stomachi ardore sentiri et in amaritudine iecoris fellisque vomitionibus et in choleris, hydropicis cum ardore febrium aegrotantibus. .at in ollis servatae et os et stomachum et aviditatem excitant, paulo tamen graviores existimantur fieri vinaceorum halitu.—Uvae florem in cibo si edere gallinacei, uvas non attingunt.—"
+},
+{
+"id": "23.13",
+"label": "Plin. NH 23.13 (chapter 1)",
+"text": "Sarmenta earum, in quibus acini fuere, adstringendi vim habent, efficaciora ex ollis.\n\nNuclei acinorum eandem vim optinent. hi sunt qui in vino capiti dolorem faciant. tosti tritique stomacho utiles sunt. inspergitur farina eorum polentae modo potioni et dysintericis et coeliacis et dissoluto stomacho. decocto etiam eorum fovere psoras et pruritum utile est."
+},
+{
+"id": "23.14",
+"label": "Plin. NH 23.14 (chapter 1)",
+"text": "Vinacei per se minus capiti aut vesicae nocent quam nuclei, mammarum inflammationi utiles cum sale triti. decoctum eorum veteres dysintericos et coeliacos iuvat et potione et fotu.\n\nUva theriace, de qua suo loco diximus, contra 14, serpentium ictus estur. pampinos quoque eius edendos censent inponendosque. et vinum et acetum ex his factum auxiliarem contra eadem vim habet."
+},
+{
+"id": "23.15",
+"label": "Plin. NH 23.15 (chapter 1)",
+"text": "Uva passa, quam astaphida vocant, stomachum, ventrem et interanea temptaret, nisi pro remedio in ipsis acinis nuclei essent. iis exemptis vesicae utilis habetur\n\net tussi—alba utilior—, utilis et arteriae et renibus, sicut ex his passum privatim e serpentibus contra haemorrhoida potens."
+},
+{
+"id": "23.16",
+"label": "Plin. NH 23.16 (chapter 1)",
+"text": "testium inflammationi cum farina cumini aut coriandri inponuntur, item carbunculis, articulariis morbis sine nucleis tritae cum ruta. fovere ante vino ulcera oportet. sanant epinyctidas et ceria et dysinteriam cum suis nucleis. et in oleo coctae gangraenis inlinuntur cum cortice raphani et melle, podagris et unguium mobilibus cum panace. et per se ad purgandum os caputque cum pipere conmanducantur."
+},
+{
+"id": "23.17",
+"label": "Plin. NH 23.17 (chapter 1)",
+"text": "Astaphis agria sive staphis, quam uvam taminiam aliqui vocant falso—suum enim genus habet—, cauliculis nigris, rectis, foliis labruscae, fert folliculos verius quam acinos, virides, similes ciceri, in his nucleum triangulum. maturescit cum vindemia nigrescitque, cum taminiae rubentes norimus acinos sciamusque illam in apricis nasci, hanc non nisi in opacis. his nucleis ad purgationem uti non censuerim propter ancipitem strangulationem, neque ad pituitam oris siccandam, quia fauces laedunt."
+},
+{
+"id": "23.18",
+"label": "Plin. NH 23.18 (chapter 1)",
+"text": "phthiriasi caput et reliquum corpus triti liberant, facilius admixta sandaraca, item pruritu et psoris. ad dentium dolores decocuntur in aceto, ad aurium vitia, rheumatismos cicatricum , ulcerum manantia. flos tritus in vino contra serpentes bibitur; semen enim abdicaverim propter nimiam vim ardoris. quidam eam pituitariam vocant. plagis serpentium utique inlinunt."
+},
+{
+"id": "23.19",
+"label": "Plin. NH 23.19 (chapter 1)",
+"text": "Labrusca quoque oenanthen fert satis dictam. quae, a Graecis ampelos agria appellata, spissis et candicantibus foliis, geniculata, rimoso cortice, fert uvas rubentes cocci modo, quae cutem in facie mulierum purgant et varos, coxendicum et lumborum vitiis tusae cum foliis et suco prosunt. radix decocta in aqua pota in vini Coi cyathis II umorem alvi ciet et ideo hydropicis datur. hanc potius crediderim esse quam vulgus uvam taminiam vocat."
+},
+{
+"id": "23.20",
+"label": "Plin. NH 23.20 (chapter 1)",
+"text": "utuntur ea pro amuleto et ad expuitionem sanguinis quoque adhibent, non ultra gargarizationes et ne quid devoretur, addito sale, thymo, aceto mulso. ideo et purgationibus ancipitem putant.\n\nEst huic similis, sed in salictis nascens; ideo distinguitur nomine, cum eosdem usus habeat, et salicastrum vocatur. scabiem et pruriginem hominum quadripedumque aceto mulso trita haec efficacius tollit."
+},
+{
+"id": "23.21",
+"label": "Plin. NH 23.21 (chapter 1)",
+"text": "Vitis alba est quam Graeci ampelon leucen, alii staphylen, alii melothron, alii psilotrum, alii archezostim, alii cedrostin, alii madon appellant. huius sarmenta longis et exilibus internodiis geniculata scandunt. folia pampinosa ad magnitudinem hederae dividuntur ut vitium. radix alba, grandis, raphano similis initio. ex ea caules asparagi\n\nsimilitudine exeunt. hi decocti in cibo alvum et urinam cient."
+},
+{
+"id": "23.22",
+"label": "Plin. NH 23.22 (chapter 1)",
+"text": "folia et caules exulcerant corpus, utique ulcerum phagedaenis et gangraenis tibiarumque taedio cum sale inlinuntur. semen in uva raris acinis dependet, suco rubente, postea crocino. novere id qui coria perficiunt; illo enim utuntur. psoris et lepris inlinitur, lactis abundantiam facit coctum cum tritico potumque."
+},
+{
+"id": "23.23",
+"label": "Plin. NH 23.23 (chapter 1)",
+"text": "radix, numerosis utilitatibus nobilis, contra serpentium ictus trita drachmis II bibitur. vitia cutis in facie varosque et lentigines et suggillata emendat et cicatrices, eademque praestat in oleo decocta. datur et comitialibus potus, item mente conmotis aut vertigine laborantibus, drachmae pondere cotidie anno toto. et ipsa autem largior aliquando sensus turbat."
+},
+{
+"id": "23.24",
+"label": "Plin. NH 23.24 (chapter 1)",
+"text": "illa vis praeclara, quod ossa infracta extrahit in aqua inposita ut bryonia ; quare quidam hanc albam bryoniam vocant, aliam vero nigram. efficacior in eodem usu cum melle et ture. suppurationes incipientes discutit, veteres maturat et purgat. ciet menses et urinam ."
+},
+{
+"id": "23.25",
+"label": "Plin. NH 23.25 (chapter 1)",
+"text": "ecligma ex ea fit suspiriosis et contra lateris dolores , ruptis, convulsis. splenem ternis obolis pota xxx diebus consumit. inlinitur eadem cum fico et pterygiis digitorum. ex vino secundas feminarum adposita trahit et pituitam drachma pota in aqua mulsa."
+},
+{
+"id": "23.26",
+"label": "Plin. NH 23.26 (chapter 1)",
+"text": "sucus radicis colligi\n\ndebet ante seminis maturitatem. qui inlitus per se et cum ervo laetiore quodam colore et cutis teneritate mangonicat corpora, serpentes fugat. tunditur ipsa radix cum fico pingui erugatque corpus, si statim bina stadia ambulentur, alias uret et nisi frigida abluatur. iucundius hoc idem praestat nigra vitis, quoniam alba pruritum adfert.\n\n§27 Est ergo et nigra, quam proprie bryoniam vocant , alii Chironiam, alii gynaecanthen aut aproniam, similem priori, praeterquam colore ; huius enim nigrum esse diximus. asparagos eius Diocles praetulit veris asparagis in cibo urinae ciendae lienique minuendo."
+},
+{
+"id": "23.28",
+"label": "Plin. NH 23.28 (chapter 1)",
+"text": "in frutectis et haraundinetis maxume nascitur. radix foris nigra, intus buxeo colore. ossa infracta vel efficacius extrahit quam supra dicta, cetera eadem. peculiare quod iumentorum cervicibus unice medetur. aiunt, si quis villam eacinxerit, fugere accipitres tutasque fieri villares. alites eadem in iumento homineque flemina aut sanguinem, qui se ad talos deiecerit, circumligata sanat. et hactenus de vitium generibus."
+},
+{
+"id": "23.29",
+"label": "Plin. NH 23.29 (chapter 1)",
+"text": "Musta differentias habent naturales has, quod sunt\n\ncandida aut nigra aut inter utrumque, alia ex quibus vinum fiat, alia ex quibus passum. cura differentias innumerabiles facit; in plenum ergo haec dixisse conveniat: mustum omne stomacho inutile, venis iucundum. a balneis raptim et sine interspiratione potum necat. cantharidum naturae adversatur, item serpentibus, maxime haemorrhoidi et salamandrae."
+},
+{
+"id": "23.30",
+"label": "Plin. NH 23.30 (chapter 1)",
+"text": "capitis dolores facit et gutturi inutile, prodest renibus, iocineri et interaneis, vesicae; conlevat enim ea. privatim contra buprestim valet, contra meconium , lactis coagulationem, cicutam, toxica, dorycnium, ex oleo potum redditumque vomitionibus. ad omnia infirmius album, iucundius passi mustum et quod minorem capitis dolorem adferat."
+},
+{
+"id": "23.31",
+"label": "Plin. NH 23.31 (chapter 1)",
+"text": "Vini genera differentiasque perquam multas exposuimus et fere cuiusque proprietates. neque est ulla pars difficilior tractatu aut numerosior, quippe cum sit arduum dictu, pluribus prosit an noceat. praeterea quam ancipiti eventu potum statim auxilium fit aut venenum! etenim de natura ad remedia tantum pertinente nunc loquimur ."
+},
+{
+"id": "23.32",
+"label": "Plin. NH 23.32 (chapter 1)",
+"text": "unum de dando eo volumen Asclepiades condidit , ab eo cognominatis qui postea uno de volumine illo disseruere innumera. nos ista Romana gravitate artiumque liberalium adpetentia non ut medici, sed ut indices salutis humanae diligenter distinguemus.\n\nDe generibus singulis disserere inmensum et inexplicabile est, discordibus medicorum sententiis."
+},
+{
+"id": "23.33",
+"label": "Plin. NH 23.33 (chapter 1)",
+"text": "Surrentinum veteres maxime probavere, sequens aetas Albanum aut Falernum, et deinde alia alii iniquissimo genere\n\ndecreti, quod cuique gratissimum, ceteris omnibus pronuntiando . quod ut constarent sententiae, quota portio tamen mortalium his generibus posset uti? iam vero nec proceres usquam sinceris. eo venere mores, ut nomina modo cellarum veneant, statim in lacibus vindemiae adulterentur ."
+},
+{
+"id": "23.34",
+"label": "Plin. NH 23.34 (chapter 1)",
+"text": "ergo, Hercules, mirum dictu, innocentius iam est quodcumque et ignobilius. haec tamen fere constantissimae videntur sententiae, quorum mentionem fecimus. si quis hoc quoque discrimen exiget, Falernum nec in novitate nec in nimia vetustate corpori salubre est; media eius aetas a xv annis incipit."
+},
+{
+"id": "23.35",
+"label": "Plin. NH 23.35 (chapter 1)",
+"text": "frigido potu stomacho utile, non item in calida. diutinae tussi sorbetur merum utiliter a ieiunis, item in quartanis. nullo aeque venae excitantur . alvum sistit, corpus alit. creditum est obscuritatem visus facere nec prodesse nervis aut vesicae. Albana nervis utiliora; stomacho minus quae sunt dulcia; austera vel Falerno utiliora. concoctionem minus adiuvant, stomachum modice inplent; at Surrentina nullo modo, nec caput temptant, stomachi et intestinorum rheumatismos cohibent."
+},
+{
+"id": "23.36",
+"label": "Plin. NH 23.36 (chapter 1)",
+"text": "Caecuba iam non gignuntur. et, quae supersunt, Setina concoqui cibos cogunt ; virium plus\n\nSurrentino, austeritatis Albano, vehementiae minus Falerno habent. ab his Statana non longo intervallo afuerint. alvo citae Signinum maxime conducere indubitatum est. reliqua in commune dicentur."
+},
+{
+"id": "23.37",
+"label": "Plin. NH 23.37 (chapter 1)",
+"text": "Vino aluntur vires, sanguis colosque hominum. hoc distat orbis medius et mitior plaga circumiectis. quantum illis feritas facit roboris, tantum nobis hic sucus. lactis potus ossa alit, frugum nervos, aqua carnes; ideo minus ruboris est in corporibus illis et minus roboris contraque labores patientiae."
+},
+{
+"id": "23.38",
+"label": "Plin. NH 23.38 (chapter 1)",
+"text": "vino modico nervi iuvantur, copiosiore laeduntur; sic et oculi. stomachus recreatur et adpetentia ciborum invitatur ; tristitia, cura hebetatur, urina et algor expellitur, somnus conciliatur. praeterea vomitiones sistit, collectiones extra lanis umidis inpositis mitigat . Asclepiades utilitatem vini aequari vix deorum potentia posse pronuntiavit. vetus copiosiore aqua miscetur ; quo magis urinam expellit, minus siti resistit. dulce minus inebriat, sed stomacho innatat; austerum facilius concoquitur."
+},
+{
+"id": "23.39",
+"label": "Plin. NH 23.39 (chapter 1)",
+"text": "levissimum est quod celerrime inveteratur. minus infestat nervos quod vetustate dulcescit. stomacho minus utile est pingue, nigrum, sed corpora magis alit. tenue et austerum minus alit, magis stomachum nutrit, celerius per urinam transit; tanto magis capita temptat,\n\nhoc et in omni alio suco semel dictum sit."
+},
+{
+"id": "23.40",
+"label": "Plin. NH 23.40 (chapter 1)",
+"text": "vinum diutin o fumo inveteratum insaluberrimum. mangones ita in apothecis excogitavere, iam et patresfamilias, aetatem addi. atqui per se cariem traxere. quo certe vocabulo satis consilii dedere prisci, quoniam et in materiis cariem fumus erodit; at nos e diverso fumi amaritudine vetustatem indui persuasum habemus. quae sunt admodum exalbida, haec vetustate insalubria fiunt. quo generosius vinum est, hoc magis vetustate crassescit et in amaritudinem corpori minime utilem coit. condire eo aliud minus annosum insalubre est; sua cuique vino saliva innocentissima est, sua cuique aetas gratissima, hoc est media."
+},
+{
+"id": "23.41",
+"label": "Plin. NH 23.41 (chapter 1)",
+"text": "Corpus augere volentibus aut mollire alvum conducit inter cibos bibere, contra minuentibus alvumque cohibentibus sitire in edendo, postea parum bibere. vinum ieiunos bibere novicio invento inutilissimum est curiosis vigoremque animi ad procinctum tendentibus; somno vero ac securitatibus iamdudum hoc fuit, quod Homerica illa Helena ante cibum ministravit. sic quoque in proverbium cessit sapientiam vino obumbrari."
+},
+{
+"id": "23.42",
+"label": "Plin. NH 23.42 (chapter 1)",
+"text": "vino demus\n\nhomines, quod soli animalium non sitientes bibimus. aquae potum interponere utilissimum itemque iugi superbibere. ebrietatem quidem frigidae potus extemplo discutit."
+},
+{
+"id": "23.43",
+"label": "Plin. NH 23.43 (chapter 1)",
+"text": "meracis potionibus per xx dies ante canis ortum totidemque postea suadet Hesiodus uti. merum quidem remedio est contra cicutas, coriandrum, aconita, viscum, meconium, argentum vivum, apes, vespas, crabrones, phalangia, serpentium scorpionumque ictus contraque omnia, quae refrigerando nocent, privatim contra haemorrhoidas, presteras, fungos, item contra inflationes rosionesque praecordiorum et quorum stomachus in vomitiones effunditur, et si venter aut interanea rheumatismum sentiant, dysintericis, sudatoribus e longa tussi, in epiphoris meracum."
+},
+{
+"id": "23.44",
+"label": "Plin. NH 23.44 (chapter 1)",
+"text": "cardiacis in mamma laeva merum in spongea inponi prodest, ad omnia autem maxime album inveterascens. utiliter et fovetur vino calido virilitas. iumentis infusum cornu lassitudinem aufert. simias quadripedesque, quibus digiti sunt, negant crescere adsuetas meri potu."
+},
+{
+"id": "23.45",
+"label": "Plin. NH 23.45 (chapter 1)",
+"text": "Nunc circa aegritudines sermo de vinis erit. saluberrimum liberaliter genitis Campaniae quodcumque tenuissimum, vulgo vero quod quemque maxime iuverit validum. utilissimum omnibus sacco viribus fractis. meminerimus sucum esse, qui fervendo vires e musto sibi fecerit. misceri plura genera omnibus inutile. saluberrimum\n\ncui nihil in musta additum est, meliusque, si nec vasis pix adfuit. marmore enim et gypso aut calce condita quis non et validus expaverit ?"
+},
+{
+"id": "23.46",
+"label": "Plin. NH 23.46 (chapter 1)",
+"text": "in primis igitur vinum marina aqua factum inutile est stomacho, nervis, vesicae. resina condita frigidis stomachis utilia existimantur , non expedire vomitionibus, sicut neque mustum neque sapa neque passum. novicium resinatum nulli conducit ; capitis dolorem et vertigines facit. ab hoc dicta crapula est. tussientibus et in rheumatismo nominata prosunt , item coeliacis et dysintericis, mulierum mensibus. in hoc genere rubrum nigrumve magis constringit magisque calefacit. innocentius pice sola conditum. sed et picem meminisse debemus non aliud esse quam conbustae resinae fluxum."
+},
+{
+"id": "23.47",
+"label": "Plin. NH 23.47 (chapter 1)",
+"text": "hoc genus vini excalfacit, concoquit, purgat. pectori, ventri utile, item vulvarum dolori, si sine febri sint, veteri rheumatismo, exulcerationi, ruptis, convulsis, vomicis, nervorum infirmitati, inflationibus, tussi, anhelationibus, luxatis in sucida lana inpositum. ad omnia haec utilius id, quod sponte naturae suae picem resipit picatumque appellatur Helvicoin pago, quo tamen nimio caput temptari convenit."
+},
+{
+"id": "23.48",
+"label": "Plin. NH 23.48 (chapter 1)",
+"text": "quod ad febrium valitudines attinet, certum est, non dandum in febri nisi veteribus aegris nec nisi declinante morbo; in acutis vero periculis nullis nisi qui manifestas\n\nremissiones habeant, et has noctu potius—dimidia pars periculi est noctu, hoc est spe somni, bibentibus—, nec a partu abortuve nec a libidine aegrotantibus, nec in capitis doloribus, nec quorum accessiones cum frigore extremitatum fient, nec in febri tussientibus, nec in tremore nervorumve doloribus vel faucium aut si vis morbi circa ilia intellegatur, nec in duritia praecordiorum, venarum vehementia, neque in opisthotono, tetano, nec singultientibus nec si cum febri dyspnoea sit;"
+},
+{
+"id": "23.49",
+"label": "Plin. NH 23.49 (chapter 1)",
+"text": "minime vero oculis rigentibus, e genis stantibus aut defectis, gravibus nec quorum coniventium perlucebunt oculi palpebrisve non coeuntibus vel si dormientibus hoc idem eveniet aut si cruore suffundentur oculi vel si lemae in oculis erunt; minime lingua fungosa vel gravi et subinde inperfecta loquentibus; nec si urina difficile reddetur, neque expavescentibus repente, nec spasticis aut rursus torpentibus, nec si per somnos genitura effundetur."
+},
+{
+"id": "23.50",
+"label": "Plin. NH 23.50 (chapter 1)",
+"text": "Cardiacorum morbo unicam spem hanc e vino esse certum est. sed id dandum non nisi in accessione censent, alii in remissione, illi, ut sudorem coerceant, hi, quia tutius putant minuente se morbo, quam plurium\n\nsententiam esse video. dari utique non nisi in cibo debet nec a somno nec praecedente alio potu,"
+},
+{
+"id": "23.51?",
+"label": "Plin. NH 23.51? (chapter 1)",
+"text": "hoc est utique sitienti, nec nisi in desperatione suprema, et viro facilius quam feminae, seni quam iuveni, iuveni quam puero, hieme quam aestate, adsuetis potius quam expertibus. modus dandi pro vehementia vini, item mixtura aquae. vulgo satis putant unum cyathum II aquae misceri, si dissolutio sit stomachi dandum ; si cibus non descendat, iterum."
+},
+{
+"id": "23.52",
+"label": "Plin. NH 23.52 (chapter 1)",
+"text": "Vini genera, quae fingi docuimus, nec fieri iam arbitror et supervacuum eorum usum, cum ipsis rebus, ex quibus finguntur, doceamus uti. et alias modum excesserat medicorum in his ostentatio, veluti e napis vinum utile esse ab armorum equitandive lassitudine praecipientium atque, ut reliqua omittamus, etiam e iunipiro. et quis satius censeat apsinthite vino utendum potius quam apsinthio ipso? in reliquis omittatur et palmeum, capiti noxium ventrique tantum molliendo et sanguinem excreantibus non inutile."
+},
+{
+"id": "23.53",
+"label": "Plin. NH 23.53 (chapter 1)",
+"text": "ficticium non potest videri quod bion appellavimus, cum sit in eo sola pro arte festinatio. prodest stomacho dissolute aut cibos non perficienti, praegnantibus\n\ndefectis, paralyticis, tremulis, vertigini, torminibus, ischiadicis. in pestilentia quoque ac peregrinationibus vim magnam auxiliandi habere dicitur."
+},
+{
+"id": "23.54",
+"label": "Plin. NH 23.54 (chapter 1)",
+"text": "Vini etiam vitium transit in remedia aceto. summa vis ei in refrigerando, non tamen minor in discutiendo; ita fit, ut infuso terra spumet. dictum est saepius diceturque , quotiens cum aliis prosit. per se haustum fastidia discutit, singultus cohibet, sternumenta olfactatum. in balineis aestus arcet, si contineatur ore. quin et cum aqua bibitur multorum stomacho utiliter, gargarizatur cum eadem convalescentium, et a solis ardoribus oculis quoque illo modo saluberrimum fotu."
+},
+{
+"id": "23.55",
+"label": "Plin. NH 23.55 (chapter 1)",
+"text": "medetur pota hirudine, item lepris, furfuribus, ulceribus manantibus, canis morsibus, scorpionum ictibus, scolopendrarum, muris aranei contraque omnium aculeatorum venena et pruritus, item contra multipedae morsum calidum in spongea adiecto aut sulphuris sextante sextariis III aut hysopi fasciculo. medetur et sedis vitiis, in sanguinis fluctione post excisos calculos et omni alia foris in spongea inpositum, intus potum cyathis\n\nbinis quam acerrimum."
+},
+{
+"id": "23.56",
+"label": "Plin. NH 23.56 (chapter 1)",
+"text": "conglobatum utique sanguinem discutit. contra lichenem et bibitur et inponitur. sistit alvum et rheumatismos interaneorum infusum, item procidentias sedis vulvaeque. tussim veterem inhibet et gutturis rheumatismos, orthopnoeam, dentium labefactationem. vesicae nocet nervorumque infirmitatibus. nesciere medici, quantum contra aspidas polleret. nuper ab aspide calcata percussus utrem aceti ferens, quotiens deposuisset, sentiebat ictum, alias inlaeso similis. intellectum ibi remedium est potuque succursum."
+},
+{
+"id": "23.57",
+"label": "Plin. NH 23.57 (chapter 1)",
+"text": "neque aliter os conluunt venena exsugentes. in totum domitrix vis haec non ciborum modo est, verum et rerum plurimarum. saxa rumpit infusum , quae non ruperit ignis antecedens. cibos quidem et sapores non alius magis sucus commendat aut excitat, in quo usu mitigatur usto pane aut cumino vel accenditur pipere ac lasere, utique sale conpescitur."
+},
+{
+"id": "23.58",
+"label": "Plin. NH 23.58 (chapter 1)",
+"text": "non est praetereundum in eo exemplum ingens, siquidem M. Agrippa supremis suis annis conflictatus gravi morbo pedum, cum dolorem eum perpeti nequiret, unius medicorum portentosa scientia ignorante divo Augusto tanti putavit usu pedum sensuque omni carere, dummodo et dolore illo careret , demersis in acetum calidum cruribus in acerrimo impetu morbi."
+},
+{
+"id": "23.59",
+"label": "Plin. NH 23.59 (chapter 2)",
+"text": "Acetum scillinum inveteratum magis probatur. prodest super ea, quae diximus, acescentibus cibis, gustatu enim discutit poenam eam; item iis qui ieiuni vomant , callum enim faucium facit ac stomachi. odorem oris tollit, gingivas adstringit, dentes firmat, colorem meliorem praestat. tarditatem quoque aurium gargarizatione purgat et transitum auditus aperit. oculorum aciem obiter exacuit, comitialibus, melancholicis, vertigini, volvarum strangulationibus, percussis aut praecipitatis et ob id sanguine conglobato, nervis infirmis, renium vitiis perquam utile, cavendum exulceratis."
+},
+{
+"id": "23.60",
+"label": "Plin. NH 23.60 (chapter 2)",
+"text": "Oxymeli antiqui, ut Dieuches tradit, hoc modo temperabant: mellis minas x, aceti veteris heminas v, salis marini pondo libram quadrantem, aquae sextarios v pariter coquebant deciens defervescente cortina atque ita diffundebant inveterabantque."
+},
+{
+"id": "23.61",
+"label": "Plin. NH 23.61 (chapter 2)",
+"text": "sustulit totum id Asclepiad es coarguitque—nam etiam in febribus databant —, profuisse tamen fatetur contra serpentes, quas sepas vocant , et contra meconium ac viscum, et anginis calidum gargarizatum et auribus, oris gutturisque desideriis. quae nunc omnia oxyalme contingunt, id est sale et aceto recente , efficacius."
+},
+{
+"id": "23.62",
+"label": "Plin. NH 23.62 (chapter 2)",
+"text": "Vino cognata res sapa est musto decocto, donec tertia pars supersit. ex albo hoc melius. usus contra cantharidas, buprestim, pinorum erucas, quas pityocampas vocant, salamandras, contra mordentia venenata. secundas partusque emortuos trahit cum bulbis potum. Fabianus auctor est venenum esse, si quis ieiunus a balineis id bibat."
+},
+{
+"id": "23.63",
+"label": "Plin. NH 23.63 (chapter 2)",
+"text": "Consequens horum est faex, sui cuiusque generis. ergo vini faecibus tanta vis est, ut descendentes in cupas enecet. experimentum demissa praebet lucerna, quamdiu extinguatur, periculum denuntians. inlota miscetur medicamentis , cum iridis vero pari pondere eruptionibus pituitae inlinitur, et sicca vel madida contra phalangia et testium mammarumque inflammationi vel in quacumque parte corporis , item cum hordeacia farina et turis polline in vino cocta."
+},
+{
+"id": "23.64",
+"label": "Plin. NH 23.64 (chapter 2)",
+"text": "crematur et siccata. experimentum est legitime coctae, ut refrigerata linguam tactu videatur urere. celerrime exanimatur non inclusa condita. crematio ei multum virium adicit, utilissimae ad conpescendos lichenas, furfures cum fico decocta. sic et lepris et ulceribus manantibus inponitur."
+},
+{
+"id": "23.65",
+"label": "Plin. NH 23.65 (chapter 2)",
+"text": "fungorum naturae contraria est pota, sed magis cruda. oculorum medicamentis cocta et lota miscetur. medetur inlita et testibus et genitalibus, in vino\n\nautem adversus strangurias bibitur. cum expiravit quoque, lavandis corporibus et vestibus utilis, tunc tuncque v.a.S. usum acaciae habet."
+},
+{
+"id": "23.66",
+"label": "Plin. NH 23.66 (chapter 2)",
+"text": "Faex aceti pro materia acrior sit necesse est multoque magis exulceret. resistit suppurationum incrementis ; stomachum, interanea, ventrem inlita adiuvat. sistit rheumatismos earum partium et mulierum menses. panos discutit nondum exulceratos et anginas, ignes sacros cum cera."
+},
+{
+"id": "23.67",
+"label": "Plin. NH 23.67 (chapter 2)",
+"text": "mammas lactis sui inpatientes eadem extinguit, ungues scabros aufert. e serpentibus contra cerastas validissima cum polenta, cum melanthio autem contra crocodili morsus et canis. et haec cremata ampliat vires. tunc addito lentiscino oleo inlita una nocte rufat capillum. eadem ex aqua in linteolo adposita vulvas purgat."
+},
+{
+"id": "23.68",
+"label": "Plin. NH 23.68 (chapter 2)",
+"text": "Sapae faece ambusta sanantur, melius addita lanugine harundinis, eadem faece decocta potaque tusses veteres. decoquitur in patinis cum sale et adipe ad tumorem quoque maxillarum et cervicium."
+},
+{
+"id": "23.69",
+"label": "Plin. NH 23.69 (chapter 3)",
+"text": "Olearum proxima auctoritas intellegitur. folia earum vehementissime adstringunt, purgant, sistunt. itaque commanducata inposita ulceribus medentur et capitis doloribus inlita cum oleo, decoctum eorum cum melle iis, quae medici usserint, gingivarum inflammationibus et paronychiis sordidisque ulceribus et putrescentibus. cum melle sanguinis profluvium e nervosis partibus cohibet."
+},
+{
+"id": "23.70",
+"label": "Plin. NH 23.70 (chapter 3)",
+"text": "sucus eorum carbunculantibus circa oculos ulceribus et\n\npusulis procidentique pupillae efficax, quapropter in collyria additur. nam et veteres lacrimationes sanat et genarum erosiones. exprimitur autem sucus tunsis adfuso vino et aqua caelesti siccatusque in pastillos digeritur. sistit menses in lana admotus vulvae, utilis et sanie manantibus , item condylomatis, ignibus sacris quaeque serpunt ulcera, epinyctidi."
+},
+{
+"id": "23.71",
+"label": "Plin. NH 23.71 (chapter 3)",
+"text": "Eosdem effectus et flos earum habet. uruntur cauliculi efflorescentes, ut cinis spodi vicem praestet, vinoque infuso iterum uritur. suppurationes et panos inlinunt cinere eo vel foliis tusis cum melle, oculos vero cum polenta . sucus fruticis recentis accensi destillans sanat lichenas, furfures, manantia ulcera. nam lacrima, quae ex arbore ipsa destillat,"
+},
+{
+"id": "23.72?",
+"label": "Plin. NH 23.72? (chapter 3)",
+"text": "Aethiopicae maxime oleae, mirari satis non est repertos, qui dentium dolores inlinendos censerent, venenum esse praedicantes atque etiam in oleastro quaerendum.e radice oleae quam tenerrimae cortex derasus in mel crebro gustatu medetur sanguinem reicientibus et suppurata extussientibus. ipsius oleae cinis cum axungia tumores sanat extrahitque fistulis vitia et ipsas sanat."
+},
+{
+"id": "23.73",
+"label": "Plin. NH 23.73 (chapter 3)",
+"text": "Olivae albae stomacho utiliores, ventri minus. praeclarum habent usum, antequam condiantur, recentes per se cibi modo devoratae. medentur enim harenosae\n\nurinae, item dentibus carne mandenda adtritis aut convolsis . nigra oliva stomacho inutilior, ventri facilior; capiti, oculis non convenit. utraque ambustis prodest, trita et inlita illa, sed nigra commanducatur et protinus ex ore inposita pusulas gigni prohibet. colymbades sordida ulcera purgant, inutiles difficultatibus urinae."
+},
+{
+"id": "23.74",
+"label": "Plin. NH 23.74 (chapter 3)",
+"text": "De amurca poteramus videri satis dixisse Catonem secuti, sed reddenda medicinae quoque est. gingivis et oris ulceribus, dentium stabilitati efficacissime subvenit, item ignibus sacris infusa et iis, quae serpant. pernionibus nigrae olivae amurca utilior, item infantibus fovendis, albae vero mulierum vulvae in lana admovetur. multo autem omnis amurca decocta efficacior. coquitur in Cyprio vase ad crassitudinem mellis. usus eius cum aceto aut vino vetere aut mulso, ut quaeque causa exigat, in curationem oris, dentium, aurium, ulcerum manantium, genitalium, rhagadum."
+},
+{
+"id": "23.75",
+"label": "Plin. NH 23.75 (chapter 3)",
+"text": "vulneribus in linteolis inponitur, luxatis in lana. ingens hic usus utique inveterato medicamento ; tale enim fistulas sanat. infunditur sedis, genitalium , vulvae exulcerationi, inlinitur vero podagris incipientibus , item articulariis morbis. si vero cum omphacio recoquatur ad mellis crassitudinem, causarios dentes extrahit ; item iumentorum scabiem cum decocto lupinorum et chamaeleonte herba mire sanat. cruda amurca podagras foveri utilissimum."
+},
+{
+"id": "23.76",
+"label": "Plin. NH 23.76 (chapter 4)",
+"text": "Oleastri foliorum eadem natura. spodium e cauliculis vehementius inhibet rheumatismos. sedat et inflammationes oculorum, purgat ulcera alienata et explet, excrescentia leniter erodit siccatque et ad cicatricem perducit . cetera ut in oleis, peculiare autem, quod folia decocuntur ex melle et dantur coclearibus III contra sanguinis excreationes."
+},
+{
+"id": "23.77",
+"label": "Plin. NH 23.77 (chapter 4)",
+"text": "oleum tantum acrius efficaciusque, et ideo os quoque colluitur illo ad firmitatem dentium. inponuntur folia et paronychiis et carbunculis et contra omnem collectionem cum vino, iis vero, quae purganda sint, cum melle. miscentur oculorum medicamentis decoctum foliorum et sucus oleastri. utiliter et auribus instillatur cum melle vel si pus effluat."
+},
+{
+"id": "23.78",
+"label": "Plin. NH 23.78 (chapter 4)",
+"text": "fore oleastri condylomata inlinuntur et epinyctides, item cum farina hordeacia venter in rheumatismo, cum oleo capitis dolores. cutem in capite ab ossibus recedentem cauliculi decocti et cum melle inpositi conprimunt. ex oleastro maturi in cibo sumpti sistunt alvum, tosti autem et cum melle triti nomas repurgant , carbunculos rumpunt."
+},
+{
+"id": "23.79",
+"label": "Plin. NH 23.79 (chapter 4)",
+"text": "Olei naturam causasque abunde diximus. ad medicinam ex olei generibus haec pertinent, utilissimum esse omphacium, proxime viride, praeterea quam maxime recens—nisi cum vetustissimum quaeritur—, tenue, odoratum quodque non mordeat, e diverso quam cibis\n\neligitur. omphacium prodest gingivis, si contineatur in ore, et colorem dentium custodit motusque stabilit. sudores cohibet."
+},
+{
+"id": "23.80",
+"label": "Plin. NH 23.80 (chapter 4)",
+"text": "oenanthino idem effectus qui rosaceo. omni autem oleo mollitur corpus, vigorem et robur accipit. stomacho contrarium, auget et ulcerum incrementa. fauces exasperat et venena omnia hebetat, praecipue psimithi et gypsi, in aqua mulsa aut ficorum siccarum decocto potum contra meconium, ex aqua contra cantharidas, buprestim, salamandras, pityocampas, per se potum redditumque vomitionibus contra omnia supra dicta. lassitudinum et perfrictionum refectio est."
+},
+{
+"id": "23.81",
+"label": "Plin. NH 23.81 (chapter 4)",
+"text": "tormina calidum potum cyathis VI magisque ruta simul decocta pellit, item ventris animalia . solvit alvum heminae mensura cum vino et calida aqua potum aut tisanae suco, vulnerariis emplastris utile faciem purgat. bubus infusum per nares, donec ructent, inflationem sedat."
+},
+{
+"id": "23.82",
+"label": "Plin. NH 23.82 (chapter 4)",
+"text": "vetus autem magis excalfacit corpora magisque discutit sudores, duritias magis diffundit, lethargicis auxiliare et inclinato morbo. oculorum claritati confert aliquid cum pari portione mellis acapni. capitis doloribus remedium est, item ardoribus in febri cum aqua. si vetusti non sit occasio, decoquitur, ut vetustatem repraesentet."
+},
+{
+"id": "23.83",
+"label": "Plin. NH 23.83 (chapter 4)",
+"text": "Oleum cicinum bibitur ad purgationes ventris cum pari caldae mensura. privatim dicitur purgare praecordia . prodest et articulorum morbis, duritiis omnibus, vulvis, auribus, ambustis, cum cinere vero muricum sedis inflammationibus, item psorae. colorem cutis commendat capillumque fertili natura evocat. semen, ex quo fit, nulla animans attingit."
+},
+{
+"id": "23.84",
+"label": "Plin. NH 23.84 (chapter 4)",
+"text": "ellychnia ex uva fiunt claritatis praecipuae , ex oleo lumen obscurum propter nimiam pinguitudinem . folia igni sacro inlinuntur ex aceto, per se autem recentia mammis et epiphoris, eadem decocta in vino inflammationibus cum polenta, croco ; per se autem triduo inposita faciem purgant."
+},
+{
+"id": "23.85",
+"label": "Plin. NH 23.85 (chapter 4)",
+"text": "Oleum amygdalinum purgat, mollit corpora, cutem erugat, nitorem commendat, varos cum melle tollit e facie. prodest et auribus cum rosaceo aut melle et mali punici tegmine decoctum vermiculosque in his necat et gravitatem auditus discutit, sonos incertos et tinnitus, obiter capitis dolores et oculorum. medetur furunculis et a sole ustis cum cera. ulcera manantia et furfures cum vino expurgat, condylomata cum meliloto; per se vero capiti inlitum somnum adlicit."
+},
+{
+"id": "23.86",
+"label": "Plin. NH 23.86 (chapter 4)",
+"text": "Oleum laurinum utilius, quo recentius quoque viridius colore. vis eius excalfactoria, et ideo paralyticis, spasticis, ischiadicis, suggillatis, capitis doloribus, inveteratis\n\ndestillationibus, auribus in calyce punici calfactum inlinitur."
+},
+{
+"id": "23.87",
+"label": "Plin. NH 23.87 (chapter 4)",
+"text": "Similis et myrtei olei ratio. adstringit, indurat. medetur gingivis, dentium dolori, dysinteriae, volvae exulceratae , vesicis, ulceribus vetustis vel manantibus cum squama aeris et cera, item eruptionibus, ambustis. adtrita sanat et furfures, rhagadas, condylomata, articulos luxatos, odorem gravem corporis. adversatur cantharidi, bupresti aliisque malis medicamentis, quae exulcerando nocent."
+},
+{
+"id": "23.88",
+"label": "Plin. NH 23.88 (chapter 4)",
+"text": "Chamaemyrsinae sive oxymyrsinae eadem natura. —Cupressinum oleum eosdem effectus habet quos myrteum , item citreum.—E nuce vero iuglande, quod caryinum appellavimus, alopeciis utile est et tarditati aurium infusum, item capitis dolori inlitum, cetero iners et gravi sapore. enimvero si quid in nucleo putridi fuerit, totus modius deperit."
+},
+{
+"id": "23.89",
+"label": "Plin. NH 23.89 (chapter 4)",
+"text": "—Ex Cnidio grano factum eandem vim habet quam cicinum.—E lentisco factum utilissimum acopo est idemque proficeret quod rosaceum, ni durius paulo intellegeretur. utuntur eo et contra nimios sudores papulasque sudorum. scabiem iumentorum efficacissime sanat.—Balaninum oleum repurgat varos, furunculos, lentigines , gingivas."
+},
+{
+"id": "23.90",
+"label": "Plin. NH 23.90 (chapter 4)",
+"text": "Cypros qualis esset et quemadmodum ex ea fieret oleum docuimus. natura eius excalfacit, emollit nervos. folia stomacho inlinuntur et vulvae concitatae, sucus quoque eorum adponitur. folia recentia commanducata ulceribus in capite manantibus, item oris medentur et collectionibus, condylomatis. decoctum foliorum ambustis et luxatis prodest ."
+},
+{
+"id": "23.91",
+"label": "Plin. NH 23.91 (chapter 4)",
+"text": "ipsa rufant capillum tusa adiecto struthei mali suco. flos capitis dolores sedat cum aceto inlitus, item combustus in cruda olla nomas sanat et putrescentia ulcera per se vel cum melle. odor floris oleique somnum facit. —Adstringit gleucinum et refrigerat eadem ratione qua oenanthinum."
+},
+{
+"id": "23.92",
+"label": "Plin. NH 23.92 (chapter 4)",
+"text": "Balsaminum longe pretiosissimum omnium, ut in unguentis diximus, contra omnes serpentes efficax, oculorum claritati plurimum confert, caliginem discutit, item dyspnoeas, collectiones omnes duritiasque lenit. sanguinem densari prohibet, ulcera purgat, auribus, capitis doloribus, tremulis, spasticis, ruptis perquam utile. adversatur aconito ex lacte potum, febres cum horrore venientes perunctis leviores facit. utendum tamen modico, quoniam adurit augetque vitia non servato temperamento."
+},
+{
+"id": "23.93",
+"label": "Plin. NH 23.93 (chapter 4)",
+"text": "Malobathri quoque naturam et genera exposuimus. urinam ciet, oculorum epiphoris in vino expressum utilissime inponitur, item frontibus dormire volentibus, efficacius , si et nares inlinantur aut si ex aqua bibatur. oris et halitus suavitatem commendat linguae subditum folium, sicut et vestium odorem interpositum."
+},
+{
+"id": "23.94",
+"label": "Plin. NH 23.94 (chapter 4)",
+"text": "Hyoscyaminum emolliendo utile est, nervis inutile . potum quidem cerebri motus facit.—Therminum e lupinis emollit, proximum rosaceo effectu.—Narcissinum dictum est cum suo flore.—Raphaninum phthiriasis longa valitudine contractas tollit scabritiasque cutis in facie emendat."
+},
+{
+"id": "23.95",
+"label": "Plin. NH 23.95 (chapter 4)",
+"text": "—Sesaminum aurium dolores sanat et ulcera, quae serpunt, et quae cacoēthe vocant.—Lilinum, quod et syrium vocavimus, renibus utilissimum est sudoribusque evocandis, vulvae molliendae concoquendisque intus. —Selgiticum nervis utile esse diximus, sicut herbacium quoque, quod Iguvini circa Flaminiam viam vendunt."
+},
+{
+"id": "23.96",
+"label": "Plin. NH 23.96 (chapter 4)",
+"text": "Elaeomeli, quod in Syria ex ipsis oleis manare diximus, sapore melleo, non sine nausea alvum solvit, bilem praecipue detrahit II cyathis in bemina aquae datis; qui bibere, torpescunt excitanturque crebro. potores certaturi praesumunt ex eo cyathum unum.—Pissino oleo usus ad tussim et quadripedum scabiem est."
+},
+{
+"id": "23.97",
+"label": "Plin. NH 23.97 (chapter 4)",
+"text": "A vitibus oleisque proxima nobilitas palmis. inebriant recentes, capitis dolorem adferunt minus siccae, nec, quantum videtur, utiles stomacho. tussim exasperant, corpus alunt. sucum decoctarum antiqui pro hydromelite dabant aegris ad vires recreandas, sitim sedandam, in quo\n\nusu praeferebant Thebaicas, sanguinem quoque excreantibus utiles, in cibo maxime. inlinuntur caryotae stomacho, vesicae , ventri, intestinis cum cotoneis et cera et croco. suggillata emendant. nuclei palmarum cremati in fictili novo cinere loto spodi vicem efficiunt miscenturque collyriis et calliblephara faciunt addito nardo."
+},
+{
+"id": "23.98",
+"label": "Plin. NH 23.98 (chapter 5)",
+"text": "Palma, quae fert myrobalanum, probatissima in Aegypto, ossa non habet reliquarum modo in balanis. alvum et menses ciet in vino austero et vulnera conglutinat."
+},
+{
+"id": "23.99",
+"label": "Plin. NH 23.99 (chapter 5)",
+"text": "Palma elate sive spathe medicinae confert germina , folia, corticem. folia inponuntur praecordiis, stomacho , iocineri, ulceribus, quae serpunt cicatrici repugnantia . psoras cortex eius tener cum resina et cera sanat diebus XX. decoquitur et ad testium vitia. capillum denigrat. suffitu partus extrahit. datur bibendus renium vitiis et vesicae et praecordiorum, capiti et nervis inimicus. vulvae ac ventris fluctiones sistit decoctum eius; item cinis et tormina, potus in vino albo in vulvarum vitiis efficacissimus."
+},
+{
+"id": "23.100",
+"label": "Plin. NH 23.100 (chapter 6)",
+"text": "Proxime varietates generum medicinarumque mala habent. ex his verna acerba et stomacho inutilia sunt, alvum, vesicam circumagunt, nervos laedunt. cocta\n\nmeliora.—Cotonea cocta suaviora, cruda tamen, dumtaxat matura, prosunt sanguinem excreantibus et dysintericis , cholericis, coeliacis. non idem possunt decocta, quoniam amittunt constringentem illam vim suci, * et tamen decocuntur in aqua caelesti ad eadem, quae supra scripta sunt."
+},
+{
+"id": "23.101",
+"label": "Plin. NH 23.101 (chapter 6)",
+"text": "*inponuntur et pectori in febris ardoribus *, ad stomachi autem dolores cruda decoctave cerati modo inponuntur . lanugo eorum carbunculos sanat. cocta in vino et inlita cum cera alopeciis capillum reddunt."
+},
+{
+"id": "23.102",
+"label": "Plin. NH 23.102 (chapter 6)",
+"text": "quae ex iis cruda in melle conduntur, alvum movent; mellis autem suavitati multum adiciunt stomachoque utilius id faciunt. quae vero in melle cocta conduntur, quidam ad stomachi vitia trita cum rosae foliis decoctis dant pro cibo. sucus crudorum lienibus, orthopnoicis, hydropicis prodest, item mammis, condylomatis, varicibus; flos et viridis et siccus inflammationibus oculorum, excreationibus sanguinis, mensibus mulierum."
+},
+{
+"id": "23.103",
+"label": "Plin. NH 23.103 (chapter 6)",
+"text": "fit et sucus ex illis mitis cum vino dulci tusis, utilis coeliacis et iocineri. decocto quoque eorum foventur, si procidant, vulvae et interanea. fit et oleum exiis, quod melinum vocavimus, quotiens .... non fuerint in umidis nata. ideo utilissima quae ex Sicilia veniunt, minus utilia struthia, quamvis cognata. radix eorum circumscripta terra manu sinistra capitur ita, ut qui id faciet\n\ndicat, quare capiat et cuius causa. sic adalligata strumis medetur."
+},
+{
+"id": "23.104",
+"label": "Plin. NH 23.104 (chapter 6)",
+"text": "Melimela et reliqua dulcia stomachum et ventrem solvunt, siticulosa, aestuosa, sed nervos non laedunt.— Orbiculata sistunt alvum et vomitiones, urinas cient.— Silvestria mala similia sunt vernis acerbis alvumque sistunti sane in hunc usum inmatura opus sunt."
+},
+{
+"id": "23.105",
+"label": "Plin. NH 23.105 (chapter 6)",
+"text": "Citrea contra venenum in vino bibuntur vel ipsa vel semen. faciunt oris suavitatem decocto eorum colluti aut suco expresso. horum semen edendum praecipiunt in malacia praegnatibus, ipsa vero contra infirmitatem stomachi , sed non nisi ex aceto facile manduntur."
+},
+{
+"id": "23.106",
+"label": "Plin. NH 23.106 (chapter 6)",
+"text": "Punici mali novem genera nunc iterari supervacuum . ex iis dulcia, quae apyrena alio nomine appellavimus, stomacho inutilia habentur; inflationes pariunt, dentes gingivasque laedunt. quae vero ab his sapore proxima vinosa diximus, parvum nucleum habentia, utiliora paulo intelleguntur; alvum sistunt et stomachum, dumtaxat pauca, ultraque satietatem et haec minime danda, quamquam omnino nulla in febri, nec carne acinorunm utili nec suco. caventur aeque vomitionibus ac bilem reicientibus."
+},
+{
+"id": "23.107",
+"label": "Plin. NH 23.107 (chapter 6)",
+"text": "uvam in his ac ne mustum quidem, sed protinus vinum\n\naperuit natura. utrumque asperiore cortice; hic acerbis in magno usu. vulgus coria maxume perfici illo novit ; ob id malicorium appellant medici. urinam cieri eodem monstrant mixtaque galla in aceto decoctum mobiles dentes stabilire. expetitur gravidarum malaciae, quoniam gustatu moveat infantem. dividitur malum caelestique aqua madescit ternis fere diebus; haec bibitur frigida coeliacis et sanguinem excreantibus."
+},
+{
+"id": "23.108",
+"label": "Plin. NH 23.108 (chapter 6)",
+"text": "Ex acerbo fit medicamentum quod stomatice vocatur , utilissimum oris vitiis, narium, aurium, oculorum caligini, pterygiis, genitalibus et iis, quas nomas vocant et quae in ulceribus excrescunt, contra leporem marinum hoc modo: acinis detracto cortice tunsis sucoque decocto ad tertias cum croci et aluminis scissi, murrae, mellis Attici selibris."
+},
+{
+"id": "23.109",
+"label": "Plin. NH 23.109 (chapter 6)",
+"text": "alii et hoc modo faciunt: punica acida. multa tunduntur, sucus in cacabo novo coquitur mellis crassitudine ad virilitatis et sedis vitia et omnia, quae lycio curantur, aures purulentas, epiphoras incipientes, rubras maculas in manibus. rami punicorum serpentes fugant. cortices punici ex vino cocti et inpositi perniones sanant. contusum malum ex III heminis vini decoctum ad heminam tormina et taenias pellit. punicum in olla\n\nnova, coperculo inlito, in furno exustuml et contritum potumque in vino sistit alvum, discutit tormina."
+},
+{
+"id": "23.110",
+"label": "Plin. NH 23.110 (chapter 6)",
+"text": "Primus pomi huius partus florere incipientis cytinus vocatur a Graecis, mirae observationis multorum experimento . si quis unum ex his, solutus vinculo omni cinctus et calciatus atque etiam anuli, decerpserit II digitis, pollice et quarto, sinistrae manus atque ita lustratis levi tactu oculis in os additum devoraverit, ne dente contingat, adfirmatur nullam oculorum inbecillitatem passurus eodem anno."
+},
+{
+"id": "23.111",
+"label": "Plin. NH 23.111 (chapter 6)",
+"text": "iidem cytini siccati tritique carnes excrescentes. cohibent, gingivis et dentibus medentur, vel si mobiles sint, decocto suco. ipsa corpuscula trita ulceribus, quae serpunt putrescuntve, inlinuntur, item oculorum inflammationi intestinorumque et fere ad omnia quae cortices malorum . adversantur scorpionibus."
+},
+{
+"id": "23.112",
+"label": "Plin. NH 23.112 (chapter 6)",
+"text": "Non est satis mirari curam diligentiamque priscorum , qui omnia scrutati nihil intemptatum reliquerunt. in hoc ipso cytino flosculi sunt, antequam scilicet malum ipsum prodeat, erumpentes, quos balaustium vocari diximus . hos quoque ergo experti invenere scorpionibus adversari. sistunt potu menses feminarum, sanant ulcera oris, tonsillas, uvam, sanguinis excreationes, ventris et stomachi solutiones, genitalia, ulcera quacumque in parte manantia."
+},
+{
+"id": "23.113",
+"label": "Plin. NH 23.113 (chapter 6)",
+"text": "siccavere etiam, ut sic quoque experirentur, inveneruntque tusorum farina dysintericos a morte revocari\n\n. alum sistunt. quin et nucleos ipsos acinorum experiri non piguit. tosti tusique stomachum iuvant cibo aut potionibus. per se bibuntur ex aqua caelesti ad sistendam alvum. radix decocta sucum remittit, qui taenias necat victoriati pondere. eadem discocta in aqua quas lycium praestat utilitates."
+},
+{
+"id": "23.114",
+"label": "Plin. NH 23.114 (chapter 6)",
+"text": "Est et silvestre punicum a similitudine appellatum. eius radices rubro cortice denari pondere ex vino potae somnos faciunt. semine poto aqua, quae subierit cutem, siccatur. mali punici corticis fumo culices fugantur."
+},
+{
+"id": "23.115",
+"label": "Plin. NH 23.115 (chapter 7)",
+"text": "Pirorum omnium cibus, etiam valentibus onerosus , aegris vini quoque modo negatur. decocta eadem mire salubria et grata, praecipue Crustumina; quaecumque vero cum melle decocta stomachum adiuvant. fiunt cataplasmata e piris ad discutienda corporum vitia, et decocto eorum ad duritias utuntur. ipsa adversantur boletis atque fungis pelluntque pondere et pugnante suco.— Pirum silvestre tardissime maturescit."
+},
+{
+"id": "23.116",
+"label": "Plin. NH 23.116 (chapter 7)",
+"text": "conciditur suspensumque siccatur ad sistendam alvum, quod et decoctum eius potu praestat. decocuntur et folia cum pomo ad eosdem usus. pirorum ligni cinis contra fungos etiamnum efficacius proficit.—Mala piraque iumentis portatu mire\n\ngravia sunt vel pauca. remedio aiunt esse, si prius edenda dentur aliqua aut utique ostendantur."
+},
+{
+"id": "23.117",
+"label": "Plin. NH 23.117 (chapter 7)",
+"text": "Fici sucus lacteus aceti naturam habet, itaque coaguli modo lac contrahit. excipitur ante maturitatem pomi et in umbra siccatur ad aperienda ulcera, cienda menstrua adpositu cum luteo ovi aut potu cum amylo. podagris inlinitur cum farina Graeci feni et aceto. piles quoque detrahit palpebrarumque scabiem emendat, item licbenas et psoras."
+},
+{
+"id": "23.118",
+"label": "Plin. NH 23.118 (chapter 7)",
+"text": "alvum solvit. lactis ficulni natura adversatur crabronum vesparumque et similium venenis, privatim scorpionum. idem cum axungia verrucas tollit. folia et quae non maturuere fici strumis inlinuntur omnibusque, quae emollienda sint discutiendave; praestant hoc et per se folia. et alius usus eorum in fricando lichene et alopeciis et quaecumque exulcerari opus sit."
+},
+{
+"id": "23.119",
+"label": "Plin. NH 23.119 (chapter 7)",
+"text": "et adversus canis morsus ramorum teneri cauliculi cuti inponuntur. iidem cum melle ulceribus, quae ceria vocantur, inlinuntur . extrahunt infracta ossa cum papaveris silvestris foliis; canum rabiosorum morsus folio trito ex aceto restingunt. e nigra fico candidi cauliculi inlinuntur furunculis, muris aranei morsibus cum cera. cinis earum e foliis gangraenis consumendisque quae excrescant."
+},
+{
+"id": "23.120",
+"label": "Plin. NH 23.120 (chapter 7)",
+"text": "fici maturae urinam\n\ncient, alvum solvunt, sudorem mtovent papulasque, ob id autumno insalubres, quoniam sudantia huius cibi opera corpora perfrigescunt. nec stomacho utiles, set ad breve tempus, et voci contrariae intelleguntur. novissimae salubriores quam primae, medicatae vero numquam. iuvenum vires augent, senibus meliorem valitudinem faciunt minusque rugarum. sitim sedant, calorem refrigerant, ob id non negandae in febribus constrictis, quas stegnas vocant ."
+},
+{
+"id": "23.121",
+"label": "Plin. NH 23.121 (chapter 7)",
+"text": "siccae fici stomachum laedunt, gutturi et faucibus magnifice utiles. natura his excalfaciendi. sitim adferint, alvum molliunt, rheumatismis eius et stomacho contrariae, vesicae semper utiles et anhelatoribus ac suspiriosis, item iocinerum, renium, lienum vitiis. corpus et vires adiuvant; ob id antea athletae hoc cibo pascebantur—Pythagoras exercitator primus ad carnes eos transtulit—;"
+},
+{
+"id": "23.122",
+"label": "Plin. NH 23.122 (chapter 7)",
+"text": "recolligentes se a longa valitudine utilissime. item comitialibus et hydropicis omnibusque, quae maturanda aut discutienda sint, inponuntur, efficacius calce aut nitro aut iri admixta. coctae cum hysopo pectus purgant, pituitam, tussim veterem , cum vino autem sedem et tumores maxillarum. ad furunculos, panos, parotidas decoctae inlinuntur. utile et\n\ndecocto fovere earum, femiinasque decocto eodem cum faeno Graeco."
+},
+{
+"id": "23.123",
+"label": "Plin. NH 23.123 (chapter 7)",
+"text": "utiles sunt et pleuriticis ac peripneumonicis , cum ruta coctae torminibus. prosunt tibiarum ulceribus cum aeris flore, et parotidi, pterygiis cum punico malo, ambustis, pernionibus cum cera, hydropicis coctae in vino et cum absinthio et farina hordeacia. nitro addito manducatae alvum solvunt. scorpionum ictibus cum sale tritae inlinuntur. carbunculos extrahunt in vino coctae et inpositae. carcinomati, si sine ulcere sit, quam pinguissimam ficum inponi paene singulare remedium est, item phagedaenae."
+},
+{
+"id": "23.124",
+"label": "Plin. NH 23.124 (chapter 7)",
+"text": "cinis non ex alia arbore acrior. purgat , conglutinat, replet, adstringit. bibitur et ad discutiendum sanguinem concretum, item percussis, praecipitatis , ruptis, convulsis cineris cyathus in singulis aquae et olei. datur tetanicis et spasticis, item potus vel infusus coeliacis et dysintericis. et si quis eo cum oleo perunguatur , excalfacit. idem cum cera et rosaceo subactus ambustis cicatricem tenuissimam obducit. lusciosos ex\n\noleo inlitus emendat dentiumque vitia crebro fricatu. produnt etiam,"
+},
+{
+"id": "23.125",
+"label": "Plin. NH 23.125 (chapter 7)",
+"text": "si quis inclinata arbore supino ore aliquem nodum eius morsu abstulerit nullo vidente atque cum aluta inligatum licio e collo suspenderit, strumas et parotidas discuti. cortex tritus cum oleo ventris ulcera sanat. crudae grossi verrucas, thymos nitro, farina additis tollunt. spodi vicem exhibet fruticum a radice exeuntium cinis. bis lotus adiecto psimithio digeritur in pastillos ad ulcera oculorum et scabritiam."
+},
+{
+"id": "23.126",
+"label": "Plin. NH 23.126 (chapter 7)",
+"text": "Caprificus etiamnum multo efficacior fico; * surculo quoque eius lacte coagulatur in caseo. *lactis minus habet *; exceptum id coactumque in duritiam suavitaten carnibus adfert fricatu. dilutum aceto miscetur exulceratoriis medicamentis. alvum solvit, vulvam cum amylo aperit, menses ciet cum luteo ovi. podagricis cum farina Graeci feni inlinitur. lepras, psoras, lichenas, lentigines expurgat, item venenatorum ictus et canis morsus."
+},
+{
+"id": "23.127",
+"label": "Plin. NH 23.127 (chapter 7)",
+"text": "dentium quoque dolori hic sucus adpositus in lana prodest aut in cava eorum additus. cauliculi et folia admixto ervo contra marinorum venena prosunt; adicitur et vinum. bubulas carnes additi caules magno ligni conpendio percoquunt\n\n. grossi inlitae strumas et omnem collectionem emolliunt et discutiunt; aliquatenus et folia. quae mollissima sunt ex iis, cum aceto ulcera manantia et epinyctidas, furfures sanant."
+},
+{
+"id": "23.128",
+"label": "Plin. NH 23.128 (chapter 7)",
+"text": "cum melle foliis ceria sanant et canis morsus recentes, cum vino phagedaenas ; cum papaveris foliis ossa extrahunt. grossi caprifici inflammationes discutiunt suffitu—resistunt et sanguini taurino poto et psimithio et lacti coagulato potae—, item in aqua decoctae atque inlitae parotidas. cauliculi aut grossi eius quam minutissimae ad scorpionum ictus e vino bibuntur."
+},
+{
+"id": "23.129",
+"label": "Plin. NH 23.129 (chapter 7)",
+"text": "lac quoque instillatur plagae et folia inponuntur, item adversus murem araneum. cauliculorum cinis uvam faucium sedat, arboris ipsius cinis ex melle rhagadia, radix defervefacta in vino dentium dolores. hiberna caprificus in aceto cocta et trita inpetigines tollit. inlinuntur ramenta e ramo sine cortice quam minutissima ad scobis modum."
+},
+{
+"id": "23.130",
+"label": "Plin. NH 23.130 (chapter 7)",
+"text": "caprifico quoque medicinae unius miraculum additur: corticem eius intumescentem puer impubis si defracto ramo detrahat dentibus, medullam ipsam adalligatam ante solis ortum prohibere strumas. caprificus tauros quamlibet feroces collo eorum circumdata in tantum mirabili . natura conpescit, ut inmobiles praestet."
+},
+{
+"id": "23.131",
+"label": "Plin. NH 23.131 (chapter 7)",
+"text": "Herbam quoque Graeci erinon vocant, reddendam in hoc loco propter gentilitatem. palmum alta est, cauliculis quinis fere, ocimi similitudine; flos candidus, semen nigrum, parvum. tritum cum Attico melle oculorum epiphoris medetur. suciinstillatio —decerpta enim manat lacte multo dulci herba—perquam utilis aurium dolori nitri exiguo addito. folia resistunt venenis."
+},
+{
+"id": "23.132",
+"label": "Plin. NH 23.132 (chapter 7)",
+"text": "Pruni folia decocta tonsillis, gingivis, uvae prosunt , in vino decocta et vehementius, subinde conlutoore. ipsa pruna alvum molliunt, stomacho non utilissima, sed brevi momento.\n\nUtiliora persica sucusque eorum, etiam in vino aut in aceto expressus. neque alius eis pomis innocentior cibus; nusquam minus odoris, suci plus, qui tamen sitim stimulet..... folia eius trita inlita haemorrhagian sistunt. nuclei persicorum cum oleo et aceto capitis doloribus inlinuntur."
+},
+{
+"id": "23.133",
+"label": "Plin. NH 23.133 (chapter 7)",
+"text": "Silvestrium quidem prunorum bacae, vel e radice cortex, in vino austero si decoquantur ita, ut tries ex hemina supersit, alvum sistunt et tormina. satis est singulos cyathos decocti sumi.— Et in his et sativis prunis est limus arborum, quem Graeci lichena appellant rhagadiis et condylomatis mire utilis."
+},
+{
+"id": "23.134",
+"label": "Plin. NH 23.134 (chapter 7)",
+"text": "Mora, in Aegypto et Cypro sui generis, ut diximus , largo suco abundant summo cortice desquamato; altior plaga sicca est mirabili natura. sucus adversatur venenis serpentium, prodest dysintericis, discutit panos omnesque collectiones, vulnera conglutinat, capitis dolores sedat, item aurium. splenicis ibitur atque inlinitur et contra perfrictiones."
+},
+{
+"id": "23.135",
+"label": "Plin. NH 23.135 (chapter 7)",
+"text": "celerrime teredinem sentit. neque apud nos suco minor usus: adversatur aconito et araneis in vino potus; alvum solvit, pituitas taeniasque et similia ventris animalia extrahit. hoc idem praestat et cortex tritus. folia tingunt capillum cum fici nigrae et vitis cortice ve simul coctis aqua caelesti. pomi ipsius sucus alvum solvit protinus. ipsa poma ad praesens stomacho utilia, refrigerant, sitim faciunt; si non superveniat alius cibus, intumescunt. ex inmaturis sucus sistit alvum, veluti animalis alicuius in hac arbore observandis miraculis quae in natura eius diximus."
+},
+{
+"id": "23.136",
+"label": "Plin. NH 23.136 (chapter 7)",
+"text": "Fit ex pomo panchrestos stomatice, eadem ar-\n\nteriace appellata, hoc modo: sextarii III suci e pomo leni vapore ad crassitudinem mellis rediguntur; post additur omphacii aridi pondus $X$ II aut murrae $X$ I, croci $X$ I; haec simul trita miscentur decocto. neque est aliud oris, arteriae, uvae, stomachi iucundius remedium. fit et alio modo : suci sextarii II, mellis Attici sextarius decoquuntur ut supra diximus."
+},
+{
+"id": "23.137",
+"label": "Plin. NH 23.137 (chapter 7)",
+"text": "Mira sunt praeterea quae produntur: prima germinatione , priusquam in folia exeant, sinistra decerpi futura poma. ricinos Graeci vocant. hi terram si non attigere, sanguinem sistunt adalligati, sive ex vulnere fluat sive ore ive naribus sive haemorrhoidis. ad hoc servantur repositi ."
+},
+{
+"id": "23.138",
+"label": "Plin. NH 23.138 (chapter 7)",
+"text": "idem praestare et ramus dicitur luna plena defractus incipiens fructum habere, si terram non adtigerit, privatim mulieribus adalligatus lacerto contra abundantiam mensum. hoc et quocumque tempore ab ipsis decerptum ita, ut terram non adtingat, adalligatumque existimant praestare. folia mori trita aut arida decocta serpentium ictibus inponuntur ; aeque potu proficitur. scorpionibus adversatur e radice corticis sucus ex vino aut posca potus. reddenda est et antiquorum conpositio."
+},
+{
+"id": "23.139",
+"label": "Plin. NH 23.139 (chapter 7)",
+"text": "sucum expressum pomi maturi inmaturique mixtum coquebant vase aereo ad mellis crassitudinem. aliqui murra adiecta et cupresso praeduratumin vaso sole torrebant, permiscentes spatha\n\nter die. haec erat stomatice, qua et vulnera ad cicatricem perducebant. alia ratio suci : siccato exprimebant pomo, multum sapori opsoniorum conferentem, in medicina vero contra nomas et pectoris pituitas et ubicumque opus esset adstringi viscera. dentes quoque conluebant eo."
+},
+{
+"id": "23.140",
+"label": "Plin. NH 23.140 (chapter 7)",
+"text": "tertium genus suci foliis et radice decoctis ad ambusta ex oleo inlinenda. inponuntur et folia per se. radix per messes incisa sucum dat aptissimum dentiun dolori collectionibusque et suppurationibus. alvum purgat. folia mori in urina madefacta pilum coriis detrahunt."
+},
+{
+"id": "23.141",
+"label": "Plin. NH 23.141 (chapter 7)",
+"text": "Cerasia alvum molliunt, stomacho inutilia; eadem siccata alvum sistunt, urinam cient. invenio apud auctores, si quis matutino roscida cum suis nucleis devoret , in tantum levari alvum, ut pedes morbo liberentur.\n\nMespila exceptis setaniis, quae malo propiorem vim habent, reliqua adstringunt stomachum sistuntque alvum . item sorba sicca, nam recentia stomacho et alvo citae prosunt."
+},
+{
+"id": "23.142",
+"label": "Plin. NH 23.142 (chapter 8)",
+"text": "Nuces pineae, quae resinam habent, contusae leviter, additis in singulas sextariis aquae ad dimidium decoctae, sanguinis excreationi medentur ita, ut cyathi bini bibantur ex eo. corticis e pinu in vino decoctum contra tormina datur. nuclei nucis pineae sitim sedant et acrimoniam stomachi rosionesque et contrarios umores consistentes ibi. et infirmitatem virium roborant, renibus, vesicae utiles."
+},
+{
+"id": "23.143",
+"label": "Plin. NH 23.143 (chapter 8)",
+"text": "fauces videntur exasperare et tussim. bilem\n\npellunt poti ax aqua aut vino aut passo aut balanorum decocto. miscetur his contra vehementiores stomachi rosiones cucumeris semen et sucus porcilacae, item ad vesicae ulcera et renes, quoniam et urinam cient."
+},
+{
+"id": "23.144",
+"label": "Plin. NH 23.144 (chapter 8)",
+"text": "Amygdalae amarae radicum decoctum cutem in facie corrigit coloremque hilariorem facit. nuces ipsae somnum faciunt et aviditatem, urinam et menses cient. capitis dolori inlinuntur maximeque in febri; si ab ebrietate , in aceto et rosaceo et aquae sextario. sanguinem sistunt cum amylo et menta, lethargicis et comitialibus prosunt capite peruncto, epinyctidas sanant e vino vetere, ulcera putrescentia, canum morsus cum melle et furfures ex facie ante fotu praeparata, item iocineris et renium dolores ex aqua potae, set saepe et ecligmate cum resina terebinthina."
+},
+{
+"id": "23.145",
+"label": "Plin. NH 23.145 (chapter 8)",
+"text": "calculosis et difficili urinae in passo et ad purgandam cutem in aqua mulsa tritae sunt efficaces. prosunt ecligmatecum lacte iocineri, tussi et colo cum elelisphaco modice addito e melle; sumitur nucis abellanae\n\nmagnitude. aiunt quinis fere praesumptis ebrietatem non sentire potores, vulpesque, si ederint eas nec contingat e vicino aquam lambere, mori. minus valent in remediis dulces. et hae tamen purgant, urinam cient. recentes stomachum implent."
+},
+{
+"id": "23.146",
+"label": "Plin. NH 23.146 (chapter 8)",
+"text": "Nucibus Graecis cum absinthi semrine ex aceto sumptis morbus regius sanari dicitur, isdem inlitis per se vitia sedis et privatim condylomata, item tussis, sanguinis reiectio."
+},
+{
+"id": "23.147",
+"label": "Plin. NH 23.147 (chapter 8)",
+"text": "Nuces iuglandes Graeci a capitis gravedine appellavere . etenim arborum ipsarum foliorumque virus in cerebrum penetrat. hoc minore tormento, sed in cibis, nuclei faciunt. sunt autem recentes iucundiores; siccae unguinosiores et stomacho inutiles, difficiles concoctu, capitis dolorem inferentes, tussientibus inimicae, vomituris ieiunis aptae in tenesmo solo, trahunt enim pituitam. eaedem praesumptae venena hebetant, item * adversantur cepis leniuntque earum saporem."
+},
+{
+"id": "23.148",
+"label": "Plin. NH 23.148 (chapter 8)",
+"text": "aurium inflammationi inponuntur, cum mellis exiguo et ruta mammis et luxatis, * anginae cum ruta et oleo*, cum cepa autem et sale et melle canis hominisque morsui. putamine nucis iuglandis dens cavus inuritur. putamen combustum tritumque in\n\noleo aut vino infantium capite peruncto nutrit capillum; ideoad alopecias sic utuntur. quo plures nuces quis ederit, hoc facilius taenias pellit. quae perveteres sunt, nuces gangraenis et carbunculis medentur, item suggillatis ; cortex iuglandium lichenum vitio et dysintericis, folia trita cum aceto aurium dolori."
+},
+{
+"id": "23.149",
+"label": "Plin. NH 23.149 (chapter 8)",
+"text": "in sanctuariis Mithridatis, maximi regis, devicti Cn. Pompeius invenit in peculiari commentario ipsius manu conpositionem antidoti e II nucibus siccis, item ficis totidem et rutae foliis xx simul tritis, addito salis grano: ei, qui hoc ieiunus sumat, nullum venenum nociturum illo die. contra rabiosi quoque canis morsum nuclei a ieiuno homine commanducati inlitique praesenti remedio esse dicuntur."
+},
+{
+"id": "23.150",
+"label": "Plin. NH 23.150 (chapter 8)",
+"text": "Nucis abellanae capitis dolorem faciunt et inflationem stomachi, corpori et pinguitudinis conferunt plus quam sit verisimile. set tostae et destillationi medentur, tussique veteri tritae in aqua mulsa potae; quidam adiciunt grana piperis, alii e passo bibunt.—Pistacia eosdem usus habent, quos nuclei pinei, praeterque ad serpentium ictus, sive edantur sive bibantur.—Castaneae vehementer sistunt stomachi et ventris fluctiones, alvum cient, sanguinem excreantibus prosunt, carnes alunt."
+},
+{
+"id": "23.151",
+"label": "Plin. NH 23.151 (chapter 8)",
+"text": "Siliquae recentes, stomacho inutiles, alvum solvunt . eaedem siccatae sistunt stomachoque utiliores fiunt, urinam cient. Syriacas in dolore stomachi ternas in aquae sextariis decoquunt quidam ad dimidium eumque sucum bibunt.—Sudor virgae corni arboris, lamna candente ferrea exceptus non contingente ligno, inlitaque inde ferrugo incipientes lichenas sanat.—Arbutus sive unedo fructum fert difficilem concoctioni et stomacho inutilem."
+},
+{
+"id": "23.152",
+"label": "Plin. NH 23.152 (chapter 8)",
+"text": "Laurus excalfactoriam naturam habet et foliis et cortice et bacis; itaque decoctum ex his maximeque folis , prodesse volvis et vesicis convenit. inlita vero vesparum crabronumque et apium, item serpentium venenis resistunt, maxime sepos, dipsadis et viperae. prosunt et mensibus feminarum cum oleo cocta, cum polenta autem, quae tenera sunt, trita ad inflammationes oculorum, cum ruta testium, cum rosaceo capitis dolores aut cum irino. quin et commanducata atque devorata per triduum terna liberant tussi, eadem suspiriis trita cum melle."
+},
+{
+"id": "23.153",
+"label": "Plin. NH 23.153 (chapter 8)",
+"text": "cortex radicis cavendus gravidis. ipsa radix calculos rumpit, iocineri prodest III obolis in vino odorato pota. folia potu vomitiones movent. bacae menses trahunt adpositae tritae vel potae. tussim veterem et orthopnoean sanant binae detracto cortice in vino potae, si et febris sit, ex aqua\n\naut ecligmate ex passo aut aqua mulsa decoctae."
+},
+{
+"id": "23.154",
+"label": "Plin. NH 23.154 (chapter 8)",
+"text": "prosunt et phthisicis eodem modo et omnibus thoracis rheumatismis ; nam et concoquunt pituitam et extrahunt. adversus scorpiones quaternae ex vino bibuntur. epinyctidas ex oleo inlitae et lentigines et ulcera manantia et ulcera oris et furfures, cutis porriginem sucus bacarum emendat et phthiriasim ; aurium dolori aut gravitati instillatur cum vino vetere et rosaceo."
+},
+{
+"id": "23.155",
+"label": "Plin. NH 23.155 (chapter 8)",
+"text": "perunctos eo fugiunt venenata omnia ; prodest contra ictus et potus.\n\nMaxime autem valet aurus, quae tenuissima habet folia. bacae cum vino serpentibus et scorpionibus et araneis resistunt; ex oleo et aceto inlinuntur et lieni, iocineri , gangraenis cum melle. et in fatigatione etiam aut perfrictione suco eo perungui nitro adiecto prodest."
+},
+{
+"id": "23.156",
+"label": "Plin. NH 23.156 (chapter 8)",
+"text": "sunt qui celeritati partus conferre multum putent radicem acetabuli mensura in aqua potam, efficacius recentem quarn aridam. quidam adversus scorpionum ictus x bacas dari iubent potui, item et in remedio uvae iacentis quadrantem pondo bacarum foliorumve decoqui in aquae sextariis III ad tertias, eam calidam gargarizare et in capitis dolore inpari numero bacas cum oleo conterere et calfacere."
+},
+{
+"id": "23.157",
+"label": "Plin. NH 23.157 (chapter 8)",
+"text": "—Laurus Delphicae folia trita olfactaque subinde pestilentiae contagia prohibent, tanto magis si et urantur. oleum ex Delphica ad cerata acopumque, ad perfrictiones\n\ndiscutiendas, nervos laxandos, lateris dolores, febres frigidas utile est, item ad aurium dolorem in mali punici cortice tepefactum. folia decocta ad tertias partes aquae uvam cohibent gargarizatione, potu alvi dolores intestinorumque , tenerrima ex iis trita in vino papulas pruritusque inlita noctibus."
+},
+{
+"id": "23.158",
+"label": "Plin. NH 23.158 (chapter 8)",
+"text": "—Proxime valent cetera laurus genera . laurus Alexandrina sive Idaea partus celeres facit radice pota III denariorum pondere in vini dulcis cyathis III, secundas etiam pellit mensesque. eodem modo pota daphnoides sire iis nominibus, quae diximus, silvestris laurus prodest, alvum solvit vel recenti folio vel arido drachmis III cum sale in hydromelite. manducata pituitas extrahit, folium et vomitus, stomacho inutile. sic et bacae quinae denae purgationis causa sumuntur."
+},
+{
+"id": "23.159",
+"label": "Plin. NH 23.159 (chapter 9)",
+"text": "Myrtus sativa candida minus utilis medicinae quam nigra. semen eius medetur sanguinem excreantibus, item contra fungos in vino potum. odorem oris commendat vel pridie commanducatum; ita apud Menandrum Synaristosae hoc edunt. datur et dysintericis idem denarii pondere in vino. ulcera difficilia in extremitatibus corporis sanat cum vino subfervefactum."
+},
+{
+"id": "23.160",
+"label": "Plin. NH 23.160 (chapter 9)",
+"text": "inponitur lippitudini cum polenta et cardiacis in mamma sinistra et contra scorpionis ictum in mero et ad vesicae vitia, capitis dolores, aegilopas, antequam suppurent, item tumoribus, exemptisque nucleis in vino vetere tritum eruptionibus pituitae.\n\nsucus seminis alvum sistit, urinam ciet. ad eruptiones pusularum pituitaeque cum cerato inlinitur et contra phalangia ; capillum denigrat."
+},
+{
+"id": "23.161",
+"label": "Plin. NH 23.161 (chapter 9)",
+"text": "lenius suco oleum est ex eadem myrto, lenius et vinum, quo numquam inebriantur. inveteratum sistit alvum et stomachum, tormina sanat, fastidium abigit. foliorum arentium farina sudores cohibet inspersa vel in febri, utilis et coeliacis, procidentiae vulvarum , sedis vitiis, ulceribus manantibus, igni sacro fotu, capillis fluentibus, furfuribus, item aliis eruptionibus, ambustis ."
+},
+{
+"id": "23.162",
+"label": "Plin. NH 23.162 (chapter 9)",
+"text": "additur in medicamenta, quae liparas vocant, eadem de causa, qua oleum ex iis, efficacissimum ad ea, quae in umore sunt, tamquam in ore et vulva. folia ipsa fungis adversantur trita ex vino, cum cera vero articulariis morbis et collectionibus. eadem in vino decocta dysintericis et hydropicis potui dantur. siccantur in farinam , quae inspergitur ulceribus aut haemorrhagiae."
+},
+{
+"id": "23.163",
+"label": "Plin. NH 23.163 (chapter 9)",
+"text": "purgant et lentigines, pterygia et paronychia et epinyctidas, condylomata, testes, tetra ulcera, item ambusta cum cerato . ad aures purulentas et foliis crematis utuntur et suco et decocto. comburuntur et in antidota; item cauliculi in flore decerpti et in fictili novo operto cremati in furno, dein triti ex vino. et ambustis foliorum cinis medetur . inguen ne intumescat ex ulcere, satis est surculum tantum myrti habere secum nec ferro nec terra contactum."
+},
+{
+"id": "23.164",
+"label": "Plin. NH 23.164 (chapter 9)",
+"text": "Myrtidanum diximus quomodo fieret. vulvae prodest adpositu, fotu et inlitu, myrto efficacius et cortice et folio et semine. exprimitur et foliis sucus, mollissimis in pila tusis, adfuso paulatim vino austero, alias aqua caelesti, atque etiam expresso utuntur ad oris, sedis ulcera, vulvae et ventris, capillorum nigritiam, alarum perfusiones , purgationes lentiginum et ubi constringendum aliquid est."
+},
+{
+"id": "23.165",
+"label": "Plin. NH 23.165 (chapter 9)",
+"text": "Myrtus silvestris sive oxymyrsine sive chamaemyrsine bacis rubentibus et brevitate a sativa distat. radix eius in honore est, decocta vino ad renium dolores pota et difficili urinae praecipueque crassae et graveolenti, morbo regio et vulvarum purgationi trita cum vino; cauliculi quoque incipientes asparagorum modo in cibo sumpti et in cinere cocti."
+},
+{
+"id": "23.166",
+"label": "Plin. NH 23.166 (chapter 9)",
+"text": "semen cum vino potum aut oleo et aceto calculos frangit, item in aceto et rosaceo tritum capitis dolores sedat et potum morbum regium. Castor oxymyrsinen myrti.... foliisque acutis, ex qua fiunt ruri scopae, ruscum vocavit, ad eosdem usus.\n\nEt hactenus habent se medicinae urbanarum arborum; transeamus ad silvestres."
+}
+]
+}

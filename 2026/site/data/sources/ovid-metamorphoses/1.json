@@ -1,0 +1,3897 @@
+{
+"corpus": "ovid-metamorphoses",
+"unit": "1",
+"title": "Ovid, Metamorphoses, Met. 1",
+"passages": [
+{
+"id": "1.1",
+"label": "Ov. Met. 1.1",
+"text": "In nova fert animus mutatas dicere formas"
+},
+{
+"id": "1.2",
+"label": "Ov. Met. 1.2",
+"text": "corpora; di, coeptis (nam vos mutastis et illas)"
+},
+{
+"id": "1.3",
+"label": "Ov. Met. 1.3",
+"text": "adspirate meis primaque ab origine mundi"
+},
+{
+"id": "1.4",
+"label": "Ov. Met. 1.4",
+"text": "ad mea perpetuum deducite tempora carmen."
+},
+{
+"id": "1.5",
+"label": "Ov. Met. 1.5",
+"text": "Ante mare et terras et quod tegit omnia caelum"
+},
+{
+"id": "1.6",
+"label": "Ov. Met. 1.6",
+"text": "unus erat toto naturae vultus in orbe,"
+},
+{
+"id": "1.7",
+"label": "Ov. Met. 1.7",
+"text": "quem dixere chaos: rudis indigestaque moles"
+},
+{
+"id": "1.8",
+"label": "Ov. Met. 1.8",
+"text": "nec quicquam nisi pondus iners congestaque eodem"
+},
+{
+"id": "1.9",
+"label": "Ov. Met. 1.9",
+"text": "non bene iunctarum discordia semina rerum."
+},
+{
+"id": "1.10",
+"label": "Ov. Met. 1.10",
+"text": "nullus adhuc mundo praebebat lumina Titan,"
+},
+{
+"id": "1.11",
+"label": "Ov. Met. 1.11",
+"text": "nec nova crescendo reparabat cornua Phoebe,"
+},
+{
+"id": "1.12",
+"label": "Ov. Met. 1.12",
+"text": "nec circumfuso pendebat in aere tellus"
+},
+{
+"id": "1.13",
+"label": "Ov. Met. 1.13",
+"text": "ponderibus librata suis, nec bracchia longo"
+},
+{
+"id": "1.14",
+"label": "Ov. Met. 1.14",
+"text": "margine terrarum porrexerat Amphitrite;"
+},
+{
+"id": "1.15",
+"label": "Ov. Met. 1.15",
+"text": "utque aer, tellus illic et pontus et aether."
+},
+{
+"id": "1.16",
+"label": "Ov. Met. 1.16",
+"text": "Sic erat instabilis tellus, innabilis unda,"
+},
+{
+"id": "1.17",
+"label": "Ov. Met. 1.17",
+"text": "lucis egens aer: nulli sua forma manebat,"
+},
+{
+"id": "1.18",
+"label": "Ov. Met. 1.18",
+"text": "obstabatque aliis aliud, quia corpore in uno"
+},
+{
+"id": "1.19",
+"label": "Ov. Met. 1.19",
+"text": "frigida pugnabant calidis, umentia siccis,"
+},
+{
+"id": "1.20",
+"label": "Ov. Met. 1.20",
+"text": "mollia cum duris, sine pondere habentia pondus."
+},
+{
+"id": "1.21",
+"label": "Ov. Met. 1.21",
+"text": "Hanc deus et melior litem natura diremit."
+},
+{
+"id": "1.22",
+"label": "Ov. Met. 1.22",
+"text": "Nam caelo terras et terris abscidit undas,"
+},
+{
+"id": "1.23",
+"label": "Ov. Met. 1.23",
+"text": "et liquidum spisso secrevit ab aere caelum."
+},
+{
+"id": "1.24",
+"label": "Ov. Met. 1.24",
+"text": "Quae postquam evolvit caecoque exemit acervo,"
+},
+{
+"id": "1.25",
+"label": "Ov. Met. 1.25",
+"text": "dissociata locis concordi pace ligavit."
+},
+{
+"id": "1.26",
+"label": "Ov. Met. 1.26",
+"text": "Ignea convexi vis et sine pondere caeli"
+},
+{
+"id": "1.27",
+"label": "Ov. Met. 1.27",
+"text": "emicuit summaque locum sibi fecit in arce:"
+},
+{
+"id": "1.28",
+"label": "Ov. Met. 1.28",
+"text": "proximus est aer illi levitate locoque:"
+},
+{
+"id": "1.29",
+"label": "Ov. Met. 1.29",
+"text": "densior his tellus, elementaque grandia traxit"
+},
+{
+"id": "1.30",
+"label": "Ov. Met. 1.30",
+"text": "et pressa est gravitate sua: circumfluus umor"
+},
+{
+"id": "1.31",
+"label": "Ov. Met. 1.31",
+"text": "ultima possedit solidumque coercuit orbem."
+},
+{
+"id": "1.32",
+"label": "Ov. Met. 1.32",
+"text": "Sic ubi dispositam quisquis fuit ille deorum"
+},
+{
+"id": "1.33",
+"label": "Ov. Met. 1.33",
+"text": "congeriem secuit sectamque in membra redegit,"
+},
+{
+"id": "1.34",
+"label": "Ov. Met. 1.34",
+"text": "principio terram, ne non aequalis ab omni"
+},
+{
+"id": "1.35",
+"label": "Ov. Met. 1.35",
+"text": "parte foret, magni speciem glomeravit in orbis."
+},
+{
+"id": "1.36",
+"label": "Ov. Met. 1.36",
+"text": "Tum freta diffudit rapidisque tumescere ventis"
+},
+{
+"id": "1.37",
+"label": "Ov. Met. 1.37",
+"text": "iussit et ambitae circumdare litora terrae."
+},
+{
+"id": "1.38",
+"label": "Ov. Met. 1.38",
+"text": "Addidit et fontes et stagna inmensa lacusque"
+},
+{
+"id": "1.39",
+"label": "Ov. Met. 1.39",
+"text": "fluminaque obliquis cinxit declivia ripis,"
+},
+{
+"id": "1.40",
+"label": "Ov. Met. 1.40",
+"text": "quae, diversa locis, partim sorbentur ab ipsa,"
+},
+{
+"id": "1.41",
+"label": "Ov. Met. 1.41",
+"text": "in mare perveniunt partim campoque recepta"
+},
+{
+"id": "1.42",
+"label": "Ov. Met. 1.42",
+"text": "liberioris aquae pro ripis litora pulsant."
+},
+{
+"id": "1.43",
+"label": "Ov. Met. 1.43",
+"text": "Iussit et extendi campos, subsidere valles,"
+},
+{
+"id": "1.44",
+"label": "Ov. Met. 1.44",
+"text": "fronde tegi silvas, lapidosos surgere montes."
+},
+{
+"id": "1.45",
+"label": "Ov. Met. 1.45",
+"text": "Utque duae dextra caelum totidemque sinistra"
+},
+{
+"id": "1.46",
+"label": "Ov. Met. 1.46",
+"text": "parte secant zonae, quinta est ardentior illis,"
+},
+{
+"id": "1.47",
+"label": "Ov. Met. 1.47",
+"text": "sic onus inclusum numero distinxit eodem"
+},
+{
+"id": "1.48",
+"label": "Ov. Met. 1.48",
+"text": "cura dei, totidemque plagae tellure premuntur."
+},
+{
+"id": "1.49",
+"label": "Ov. Met. 1.49",
+"text": "Quarum quae media est, non est habitabilis aestu:"
+},
+{
+"id": "1.50",
+"label": "Ov. Met. 1.50",
+"text": "nix tegit alta duas: totidem inter utrumque locavit"
+},
+{
+"id": "1.51",
+"label": "Ov. Met. 1.51",
+"text": "temperiemque dedit mixta cum frigore flamma."
+},
+{
+"id": "1.52",
+"label": "Ov. Met. 1.52",
+"text": "Inminet his aer. Qui quanto est pondere terrae,"
+},
+{
+"id": "1.53",
+"label": "Ov. Met. 1.53",
+"text": "pondere aquae levior tanto est onerosior igni."
+},
+{
+"id": "1.54",
+"label": "Ov. Met. 1.54",
+"text": "Illic et nebulas, illic consistere nubes"
+},
+{
+"id": "1.55",
+"label": "Ov. Met. 1.55",
+"text": "iussit et humanas motura tonitrua mentes"
+},
+{
+"id": "1.56",
+"label": "Ov. Met. 1.56",
+"text": "et cum fulminibus facientes fulgura ventos."
+},
+{
+"id": "1.57",
+"label": "Ov. Met. 1.57",
+"text": "His quoque non passim mundi fabricator habendum"
+},
+{
+"id": "1.58",
+"label": "Ov. Met. 1.58",
+"text": "aera permisit: vix nunc obsistitur illis,"
+},
+{
+"id": "1.59",
+"label": "Ov. Met. 1.59",
+"text": "cum sua quisque regant diverso flamina tractu,"
+},
+{
+"id": "1.60",
+"label": "Ov. Met. 1.60",
+"text": "quin lanient mundum: tanta est discordia fratrum."
+},
+{
+"id": "1.61",
+"label": "Ov. Met. 1.61",
+"text": "Eurus ad Auroram Nabataeaque regna recessit"
+},
+{
+"id": "1.62",
+"label": "Ov. Met. 1.62",
+"text": "Persidaque et radiis iuga subdita matutinis;"
+},
+{
+"id": "1.63",
+"label": "Ov. Met. 1.63",
+"text": "vesper et occiduo quae litora sole tepescunt,"
+},
+{
+"id": "1.64",
+"label": "Ov. Met. 1.64",
+"text": "proxima sunt Zephyro: Scythiam septemque triones"
+},
+{
+"id": "1.65",
+"label": "Ov. Met. 1.65",
+"text": "horrifer invasit Boreas: contraria tellus"
+},
+{
+"id": "1.66",
+"label": "Ov. Met. 1.66",
+"text": "nubibus adsiduis pluviaque madescit ab Austro."
+},
+{
+"id": "1.67",
+"label": "Ov. Met. 1.67",
+"text": "Haec super inposuit liquidum et gravitate carentem"
+},
+{
+"id": "1.68",
+"label": "Ov. Met. 1.68",
+"text": "aethera nec quicquam terrenae faecis habentem."
+},
+{
+"id": "1.69",
+"label": "Ov. Met. 1.69",
+"text": "Vix ita limitibus dissaepserat omnia certis,"
+},
+{
+"id": "1.70",
+"label": "Ov. Met. 1.70",
+"text": "cum, quae pressa diu massa latuere sub illa,"
+},
+{
+"id": "1.71",
+"label": "Ov. Met. 1.71",
+"text": "sidera coeperunt toto effervescere caelo."
+},
+{
+"id": "1.72",
+"label": "Ov. Met. 1.72",
+"text": "Neu regio foret ulla suis animalibus orba,"
+},
+{
+"id": "1.73",
+"label": "Ov. Met. 1.73",
+"text": "astra tenent caeleste solum formaeque deorum,"
+},
+{
+"id": "1.74",
+"label": "Ov. Met. 1.74",
+"text": "cesserunt nitidis habitandae piscibus undae,"
+},
+{
+"id": "1.75",
+"label": "Ov. Met. 1.75",
+"text": "terra feras cepit, volucres agitabilis aer."
+},
+{
+"id": "1.76",
+"label": "Ov. Met. 1.76",
+"text": "Sanctius his animal mentisque capacius altae"
+},
+{
+"id": "1.77",
+"label": "Ov. Met. 1.77",
+"text": "deerat adhuc et quod dominari in cetera posset."
+},
+{
+"id": "1.78",
+"label": "Ov. Met. 1.78",
+"text": "Natus homo est, sive hunc divino semine fecit"
+},
+{
+"id": "1.79",
+"label": "Ov. Met. 1.79",
+"text": "ille opifex rerum, mundi melioris origo,"
+},
+{
+"id": "1.80",
+"label": "Ov. Met. 1.80",
+"text": "sive recens tellus seductaque nuper ab alto"
+},
+{
+"id": "1.81",
+"label": "Ov. Met. 1.81",
+"text": "aethere cognati retinebat semina caeli;"
+},
+{
+"id": "1.82",
+"label": "Ov. Met. 1.82",
+"text": "quam satus Iapeto mixtam pluvialibus undis"
+},
+{
+"id": "1.83",
+"label": "Ov. Met. 1.83",
+"text": "finxit in effigiem moderantum cuncta deorum."
+},
+{
+"id": "1.84",
+"label": "Ov. Met. 1.84",
+"text": "Pronaque cum spectent animalia cetera terram,"
+},
+{
+"id": "1.85",
+"label": "Ov. Met. 1.85",
+"text": "os homini sublime dedit, caelumque videre"
+},
+{
+"id": "1.86",
+"label": "Ov. Met. 1.86",
+"text": "iussit et erectos ad sidera tollere vultus."
+},
+{
+"id": "1.87",
+"label": "Ov. Met. 1.87",
+"text": "Sic, modo quae fuerat rudis et sine imagine, tellus"
+},
+{
+"id": "1.88",
+"label": "Ov. Met. 1.88",
+"text": "induit ignotas hominum conversa figuras."
+},
+{
+"id": "1.89",
+"label": "Ov. Met. 1.89",
+"text": "Aurea prima sata est aetas, quae vindice nullo,"
+},
+{
+"id": "1.90",
+"label": "Ov. Met. 1.90",
+"text": "sponte sua, sine lege fidem rectumque colebat."
+},
+{
+"id": "1.91",
+"label": "Ov. Met. 1.91",
+"text": "Poena metusque aberant, nec verba minantia fixo"
+},
+{
+"id": "1.92",
+"label": "Ov. Met. 1.92",
+"text": "aere legebantur, nec supplex turba timebat"
+},
+{
+"id": "1.93",
+"label": "Ov. Met. 1.93",
+"text": "iudicis ora sui, sed erant sine vindice tuti."
+},
+{
+"id": "1.94",
+"label": "Ov. Met. 1.94",
+"text": "Nondum caesa suis, peregrinum ut viseret orbem,"
+},
+{
+"id": "1.95",
+"label": "Ov. Met. 1.95",
+"text": "montibus in liquidas pinus descenderat undas,"
+},
+{
+"id": "1.96",
+"label": "Ov. Met. 1.96",
+"text": "nullaque mortales praeter sua litora norant."
+},
+{
+"id": "1.97",
+"label": "Ov. Met. 1.97",
+"text": "Nondum praecipites cingebant oppida fossae;"
+},
+{
+"id": "1.98",
+"label": "Ov. Met. 1.98",
+"text": "non tuba directi, non aeris cornua flexi,"
+},
+{
+"id": "1.99",
+"label": "Ov. Met. 1.99",
+"text": "non galeae, non ensis erat: sine militis usu"
+},
+{
+"id": "1.100",
+"label": "Ov. Met. 1.100",
+"text": "mollia securae peragebant otia gentes."
+},
+{
+"id": "1.101",
+"label": "Ov. Met. 1.101",
+"text": "ipsa quoque inmunis rastroque intacta nec ullis"
+},
+{
+"id": "1.102",
+"label": "Ov. Met. 1.102",
+"text": "saucia vomeribus per se dabat omnia tellus;"
+},
+{
+"id": "1.103",
+"label": "Ov. Met. 1.103",
+"text": "contentique cibis nullo cogente creatis"
+},
+{
+"id": "1.104",
+"label": "Ov. Met. 1.104",
+"text": "arbuteos fetus montanaque fraga legebant"
+},
+{
+"id": "1.105",
+"label": "Ov. Met. 1.105",
+"text": "cornaque et in duris haerentia mora rubetis"
+},
+{
+"id": "1.106",
+"label": "Ov. Met. 1.106",
+"text": "et quae deciderant patula Iovis arbore glandes."
+},
+{
+"id": "1.107",
+"label": "Ov. Met. 1.107",
+"text": "Ver erat aeternum, placidique tepentibus auris"
+},
+{
+"id": "1.108",
+"label": "Ov. Met. 1.108",
+"text": "mulcebant zephyri natos sine semine flores."
+},
+{
+"id": "1.109",
+"label": "Ov. Met. 1.109",
+"text": "Mox etiam fruges tellus inarata ferebat,"
+},
+{
+"id": "1.110",
+"label": "Ov. Met. 1.110",
+"text": "nec renovatus ager gravidis canebat aristis;"
+},
+{
+"id": "1.111",
+"label": "Ov. Met. 1.111",
+"text": "flumina iam lactis, iam flumina nectaris ibant,"
+},
+{
+"id": "1.112",
+"label": "Ov. Met. 1.112",
+"text": "flavaque de viridi stillabant ilice mella."
+},
+{
+"id": "1.113",
+"label": "Ov. Met. 1.113",
+"text": "Postquam, Saturno tenebrosa in Tartara misso,"
+},
+{
+"id": "1.114",
+"label": "Ov. Met. 1.114",
+"text": "sub Iove mundus erat, subiit argentea proles,"
+},
+{
+"id": "1.115",
+"label": "Ov. Met. 1.115",
+"text": "auro deterior, fulvo pretiosior aere."
+},
+{
+"id": "1.116",
+"label": "Ov. Met. 1.116",
+"text": "Iuppiter antiqui contraxit tempora veris"
+},
+{
+"id": "1.117",
+"label": "Ov. Met. 1.117",
+"text": "perque hiemes aestusque et inaequalis autumnos"
+},
+{
+"id": "1.118",
+"label": "Ov. Met. 1.118",
+"text": "et breve ver spatiis exegit quattuor annum."
+},
+{
+"id": "1.119",
+"label": "Ov. Met. 1.119",
+"text": "Tum primum siccis aer fervoribus ustus"
+},
+{
+"id": "1.120",
+"label": "Ov. Met. 1.120",
+"text": "canduit, et ventis glacies adstricta pependit."
+},
+{
+"id": "1.121",
+"label": "Ov. Met. 1.121",
+"text": "Tum primum subiere domus (domus antra fuerunt"
+},
+{
+"id": "1.122",
+"label": "Ov. Met. 1.122",
+"text": "et densi frutices et vinctae cortice virgae)."
+},
+{
+"id": "1.123",
+"label": "Ov. Met. 1.123",
+"text": "Semina tum primum longis Cerealia sulcis"
+},
+{
+"id": "1.124",
+"label": "Ov. Met. 1.124",
+"text": "obruta sunt, pressique iugo gemuere iuvenci."
+},
+{
+"id": "1.125",
+"label": "Ov. Met. 1.125",
+"text": "Tertia post illam successit aenea proles,"
+},
+{
+"id": "1.126",
+"label": "Ov. Met. 1.126",
+"text": "saevior ingeniis et ad horrida promptior arma,"
+},
+{
+"id": "1.127",
+"label": "Ov. Met. 1.127",
+"text": "non scelerata tamen. De duro est ultima ferro."
+},
+{
+"id": "1.128",
+"label": "Ov. Met. 1.128",
+"text": "Protinus inrupit venae peioris in aevum"
+},
+{
+"id": "1.129",
+"label": "Ov. Met. 1.129",
+"text": "omne nefas: fugere pudor verumque fidesque;"
+},
+{
+"id": "1.130",
+"label": "Ov. Met. 1.130",
+"text": "In quorum subiere locum fraudesque dolique"
+},
+{
+"id": "1.131",
+"label": "Ov. Met. 1.131",
+"text": "insidiaeque et vis et amor sceleratus habendi."
+},
+{
+"id": "1.132",
+"label": "Ov. Met. 1.132",
+"text": "Vela dabat ventis (nec adhuc bene noverat illos)"
+},
+{
+"id": "1.133",
+"label": "Ov. Met. 1.133",
+"text": "navita; quaeque diu steterant in montibus altis,"
+},
+{
+"id": "1.134",
+"label": "Ov. Met. 1.134",
+"text": "fluctibus ignotis insultavere carinae,"
+},
+{
+"id": "1.135",
+"label": "Ov. Met. 1.135",
+"text": "communemque prius ceu lumina solis et auras"
+},
+{
+"id": "1.136",
+"label": "Ov. Met. 1.136",
+"text": "cautus humum longo signavit limite mensor."
+},
+{
+"id": "1.137",
+"label": "Ov. Met. 1.137",
+"text": "Nec tantum segetes alimentaque debita dives"
+},
+{
+"id": "1.138",
+"label": "Ov. Met. 1.138",
+"text": "poscebatur humus, sed itum est in viscera terrae:"
+},
+{
+"id": "1.139",
+"label": "Ov. Met. 1.139",
+"text": "quasque recondiderat Stygiisque admoverat umbris,"
+},
+{
+"id": "1.140",
+"label": "Ov. Met. 1.140",
+"text": "effodiuntur opes, inritamenta malorum."
+},
+{
+"id": "1.141",
+"label": "Ov. Met. 1.141",
+"text": "Iamque nocens ferrum ferroque nocentius aurum"
+},
+{
+"id": "1.142",
+"label": "Ov. Met. 1.142",
+"text": "prodierat: prodit bellum, quod pugnat utroque,"
+},
+{
+"id": "1.143",
+"label": "Ov. Met. 1.143",
+"text": "sanguineaque manu crepitantia concutit arma."
+},
+{
+"id": "1.144",
+"label": "Ov. Met. 1.144",
+"text": "Vivitur ex rapto: non hospes ab hospite tutus,"
+},
+{
+"id": "1.145",
+"label": "Ov. Met. 1.145",
+"text": "non socer a genero; fratrum quoque gratia rara est."
+},
+{
+"id": "1.146",
+"label": "Ov. Met. 1.146",
+"text": "Inminet exitio vir coniugis, illa mariti;"
+},
+{
+"id": "1.147",
+"label": "Ov. Met. 1.147",
+"text": "lurida terribiles miscent aconita novercae;"
+},
+{
+"id": "1.148",
+"label": "Ov. Met. 1.148",
+"text": "filius ante diem patrios inquirit in annos."
+},
+{
+"id": "1.149",
+"label": "Ov. Met. 1.149",
+"text": "Victa iacet pietas, et virgo caede madentis,"
+},
+{
+"id": "1.150",
+"label": "Ov. Met. 1.150",
+"text": "ultima caelestum terras Astraea reliquit."
+},
+{
+"id": "1.151",
+"label": "Ov. Met. 1.151",
+"text": "Neve foret terris securior arduus aether,"
+},
+{
+"id": "1.152",
+"label": "Ov. Met. 1.152",
+"text": "adfectasse ferunt regnum caeleste Gigantas"
+},
+{
+"id": "1.153",
+"label": "Ov. Met. 1.153",
+"text": "altaque congestos struxisse ad sidera montes."
+},
+{
+"id": "1.154",
+"label": "Ov. Met. 1.154",
+"text": "Tum pater omnipotens misso perfregit Olympum"
+},
+{
+"id": "1.155",
+"label": "Ov. Met. 1.155",
+"text": "fulmine et excussit subiectae Pelion Ossae."
+},
+{
+"id": "1.156",
+"label": "Ov. Met. 1.156",
+"text": "Obruta mole sua cum corpora dira iacerent,"
+},
+{
+"id": "1.157",
+"label": "Ov. Met. 1.157",
+"text": "perfusam multo natorum sanguine Terram"
+},
+{
+"id": "1.158",
+"label": "Ov. Met. 1.158",
+"text": "inmaduisse ferunt calidumque animasse cruorem,"
+},
+{
+"id": "1.159",
+"label": "Ov. Met. 1.159",
+"text": "et, ne nulla suae stirpis monimenta manerent,"
+},
+{
+"id": "1.160",
+"label": "Ov. Met. 1.160",
+"text": "in faciem vertisse hominum. Sed et illa propago"
+},
+{
+"id": "1.161",
+"label": "Ov. Met. 1.161",
+"text": "contemptrix superum saevaeque avidissima caedis"
+},
+{
+"id": "1.162",
+"label": "Ov. Met. 1.162",
+"text": "et violenta fuit: scires e sanguine natos."
+},
+{
+"id": "1.163",
+"label": "Ov. Met. 1.163",
+"text": "Quae pater ut summa vidit Saturnius arce,"
+},
+{
+"id": "1.164",
+"label": "Ov. Met. 1.164",
+"text": "ingemit et, facto nondum vulgata recenti,"
+},
+{
+"id": "1.165",
+"label": "Ov. Met. 1.165",
+"text": "foeda Lycaoniae referens convivia mensae,"
+},
+{
+"id": "1.166",
+"label": "Ov. Met. 1.166",
+"text": "ingentes animo et dignas Iove concipit iras,"
+},
+{
+"id": "1.167",
+"label": "Ov. Met. 1.167",
+"text": "conciliumque vocat: tenuit mora nulla vocatos."
+},
+{
+"id": "1.168",
+"label": "Ov. Met. 1.168",
+"text": "Est via sublimis, caelo manifesta sereno:"
+},
+{
+"id": "1.169",
+"label": "Ov. Met. 1.169",
+"text": "lactea nomen habet, candore notabilis ipso."
+},
+{
+"id": "1.170",
+"label": "Ov. Met. 1.170",
+"text": "Hac iter est superis ad magni tecta Tonantis"
+},
+{
+"id": "1.171",
+"label": "Ov. Met. 1.171",
+"text": "regalemque domum. Dextra laevaque deorum"
+},
+{
+"id": "1.172",
+"label": "Ov. Met. 1.172",
+"text": "atria nobilium valvis celebrantur apertis"
+},
+{
+"id": "1.173",
+"label": "Ov. Met. 1.173",
+"text": "(plebs habitat diversa locis): hac parte potentes"
+},
+{
+"id": "1.174",
+"label": "Ov. Met. 1.174",
+"text": "caelicolae clarique suos posuere penates."
+},
+{
+"id": "1.175",
+"label": "Ov. Met. 1.175",
+"text": "Hic locus est, quem, si verbis audacia detur,"
+},
+{
+"id": "1.176",
+"label": "Ov. Met. 1.176",
+"text": "haud timeam magni dixisse Palatia caeli."
+},
+{
+"id": "1.177",
+"label": "Ov. Met. 1.177",
+"text": "Ergo ubi marmoreo superi sedere recessu,"
+},
+{
+"id": "1.178",
+"label": "Ov. Met. 1.178",
+"text": "celsior ipse loco sceptroque innixus eburno"
+},
+{
+"id": "1.179",
+"label": "Ov. Met. 1.179",
+"text": "terrificam capitis concussit terque quaterque"
+},
+{
+"id": "1.180",
+"label": "Ov. Met. 1.180",
+"text": "caesariem, cum qua terram, mare, sidera movit."
+},
+{
+"id": "1.181",
+"label": "Ov. Met. 1.181",
+"text": "Talibus inde modis ora indignantia solvit:"
+},
+{
+"id": "1.182",
+"label": "Ov. Met. 1.182",
+"text": "“Non ego pro mundi regno magis anxius illa"
+},
+{
+"id": "1.183",
+"label": "Ov. Met. 1.183",
+"text": "tempestate fui, qua centum quisque parabat"
+},
+{
+"id": "1.184",
+"label": "Ov. Met. 1.184",
+"text": "inicere anguipedum captivo bracchia caelo."
+},
+{
+"id": "1.185",
+"label": "Ov. Met. 1.185",
+"text": "Nam quamquam ferus hostis erat, tamen illud ab uno"
+},
+{
+"id": "1.186",
+"label": "Ov. Met. 1.186",
+"text": "corpore et ex una pendebat origine bellum."
+},
+{
+"id": "1.187",
+"label": "Ov. Met. 1.187",
+"text": "Nunc mihi, qua totum Nereus circumsonat orbem,"
+},
+{
+"id": "1.188",
+"label": "Ov. Met. 1.188",
+"text": "perdendum est mortale genus: per flumina iuro"
+},
+{
+"id": "1.189",
+"label": "Ov. Met. 1.189",
+"text": "infera, sub terras Stygio labentia luco!"
+},
+{
+"id": "1.190",
+"label": "Ov. Met. 1.190",
+"text": "cuncta prius temptata: sed inmedicabile corpus"
+},
+{
+"id": "1.191",
+"label": "Ov. Met. 1.191",
+"text": "ense recidendum est, ne pars sincera trahatur."
+},
+{
+"id": "1.192",
+"label": "Ov. Met. 1.192",
+"text": "Sunt mihi semidei, sunt rustica numina, nymphae"
+},
+{
+"id": "1.193",
+"label": "Ov. Met. 1.193",
+"text": "faunique satyrique et monticolae silvani:"
+},
+{
+"id": "1.194",
+"label": "Ov. Met. 1.194",
+"text": "quos quoniam caeli nondum dignamur honore,"
+},
+{
+"id": "1.195",
+"label": "Ov. Met. 1.195",
+"text": "quas dedimus certe terras habitare sinamus."
+},
+{
+"id": "1.196",
+"label": "Ov. Met. 1.196",
+"text": "An satis, o superi, tutos fore creditis illos,"
+},
+{
+"id": "1.197",
+"label": "Ov. Met. 1.197",
+"text": "cum mihi, qui fulmen, qui vos habeoque regoque,"
+},
+{
+"id": "1.198",
+"label": "Ov. Met. 1.198",
+"text": "struxerit insidias notus feritate Lycaon?”"
+},
+{
+"id": "1.199",
+"label": "Ov. Met. 1.199",
+"text": "Confremuere omnes studiisque ardentibus ausum"
+},
+{
+"id": "1.200",
+"label": "Ov. Met. 1.200",
+"text": "talia deposcunt. Sic, cum manus inpia saevit"
+},
+{
+"id": "1.201",
+"label": "Ov. Met. 1.201",
+"text": "sanguine Caesareo Romanum exstinguere nomen,"
+},
+{
+"id": "1.202",
+"label": "Ov. Met. 1.202",
+"text": "attonitum tanto subitae terrore ruinae"
+},
+{
+"id": "1.203",
+"label": "Ov. Met. 1.203",
+"text": "humanum genus est totusque perhorruit orbis:"
+},
+{
+"id": "1.204",
+"label": "Ov. Met. 1.204",
+"text": "nec tibi grata minus pietas, Auguste, tuorum est,"
+},
+{
+"id": "1.205",
+"label": "Ov. Met. 1.205",
+"text": "quam fuit illa Iovi. Qui postquam voce manuque"
+},
+{
+"id": "1.206",
+"label": "Ov. Met. 1.206",
+"text": "murmura conpressit, tenuere silentia cuncti."
+},
+{
+"id": "1.207",
+"label": "Ov. Met. 1.207",
+"text": "Substitit ut clamor pressus gravitate regentis,"
+},
+{
+"id": "1.208",
+"label": "Ov. Met. 1.208",
+"text": "Iuppiter hoc iterum sermone silentia rupit:"
+},
+{
+"id": "1.209",
+"label": "Ov. Met. 1.209",
+"text": "“Ille quidem poenas, curam hanc dimittite, solvit."
+},
+{
+"id": "1.210",
+"label": "Ov. Met. 1.210",
+"text": "Quod tamen admissum, quae sit vindicta, docebo."
+},
+{
+"id": "1.211",
+"label": "Ov. Met. 1.211",
+"text": "Contigerat nostras infamia temporis aures;"
+},
+{
+"id": "1.212",
+"label": "Ov. Met. 1.212",
+"text": "quam cupiens falsam summo delabor Olympo"
+},
+{
+"id": "1.213",
+"label": "Ov. Met. 1.213",
+"text": "et deus humana lustro sub imagine terras."
+},
+{
+"id": "1.214",
+"label": "Ov. Met. 1.214",
+"text": "Longa mora est, quantum noxae sit ubique repertum,"
+},
+{
+"id": "1.215",
+"label": "Ov. Met. 1.215",
+"text": "enumerare: minor fuit ipsa infamia vero."
+},
+{
+"id": "1.216",
+"label": "Ov. Met. 1.216",
+"text": "Maenala transieram latebris horrenda ferarum"
+},
+{
+"id": "1.217",
+"label": "Ov. Met. 1.217",
+"text": "et cum Cyllene gelidi pineta Lycaei:"
+},
+{
+"id": "1.218",
+"label": "Ov. Met. 1.218",
+"text": "Arcadis hinc sedes et inhospita tecta tyranni"
+},
+{
+"id": "1.219",
+"label": "Ov. Met. 1.219",
+"text": "ingredior, traherent cum sera crepuscula noctem."
+},
+{
+"id": "1.220",
+"label": "Ov. Met. 1.220",
+"text": "Signa dedi venisse deum, vulgusque precari"
+},
+{
+"id": "1.221",
+"label": "Ov. Met. 1.221",
+"text": "coeperat: inridet primo pia vota Lycaon,"
+},
+{
+"id": "1.222",
+"label": "Ov. Met. 1.222",
+"text": "mox ait ”experiar deus hic, discrimine aperto,"
+},
+{
+"id": "1.223",
+"label": "Ov. Met. 1.223",
+"text": "an sit mortalis. Nec erit dubitabile verum.”"
+},
+{
+"id": "1.224",
+"label": "Ov. Met. 1.224",
+"text": "Nocte gravem somno necopina perdere morte"
+},
+{
+"id": "1.225",
+"label": "Ov. Met. 1.225",
+"text": "me parat: haec illi placet experientia veri."
+},
+{
+"id": "1.226",
+"label": "Ov. Met. 1.226",
+"text": "Nec contentus eo est: missi de gente Molossa"
+},
+{
+"id": "1.227",
+"label": "Ov. Met. 1.227",
+"text": "obsidis unius iugulum mucrone resolvit,"
+},
+{
+"id": "1.228",
+"label": "Ov. Met. 1.228",
+"text": "atque ita semineces partim ferventibus artus"
+},
+{
+"id": "1.229",
+"label": "Ov. Met. 1.229",
+"text": "mollit aquis, partim subiecto torruit igni."
+},
+{
+"id": "1.230",
+"label": "Ov. Met. 1.230",
+"text": "Quod simul inposuit mensis, ego vindice flamma"
+},
+{
+"id": "1.231",
+"label": "Ov. Met. 1.231",
+"text": "in domino dignos everti tecta penates."
+},
+{
+"id": "1.232",
+"label": "Ov. Met. 1.232",
+"text": "Territus ipse fugit, nactusque silentia ruris"
+},
+{
+"id": "1.233",
+"label": "Ov. Met. 1.233",
+"text": "exululat frustraque loqui conatur: ab ipso"
+},
+{
+"id": "1.234",
+"label": "Ov. Met. 1.234",
+"text": "conligit os rabiem, solitaeque cupidine caedis"
+},
+{
+"id": "1.235",
+"label": "Ov. Met. 1.235",
+"text": "vertitur in pecudes et nunc quoque sanguine gaudet."
+},
+{
+"id": "1.236",
+"label": "Ov. Met. 1.236",
+"text": "In villos abeunt vestes, in crura lacerti:"
+},
+{
+"id": "1.237",
+"label": "Ov. Met. 1.237",
+"text": "fit lupus et veteris servat vestigia formae."
+},
+{
+"id": "1.238",
+"label": "Ov. Met. 1.238",
+"text": "Canities eadem est, eadem violentia vultus,"
+},
+{
+"id": "1.239",
+"label": "Ov. Met. 1.239",
+"text": "idem oculi lucent, eadem feritatis imago est."
+},
+{
+"id": "1.240",
+"label": "Ov. Met. 1.240",
+"text": "Occidit una domus. Sed non domus una perire"
+},
+{
+"id": "1.241",
+"label": "Ov. Met. 1.241",
+"text": "digna fuit: qua terra patet, fera regnat Erinys."
+},
+{
+"id": "1.242",
+"label": "Ov. Met. 1.242",
+"text": "In facinus iurasse putes. Dent ocius omnes"
+},
+{
+"id": "1.243",
+"label": "Ov. Met. 1.243",
+"text": "quas meruere pati (sic stat sententia) poenas.”"
+},
+{
+"id": "1.244",
+"label": "Ov. Met. 1.244",
+"text": "Dicta Iovis pars voce probant stimulosque frementi"
+},
+{
+"id": "1.245",
+"label": "Ov. Met. 1.245",
+"text": "adiciunt, alii partes adsensibus inplent."
+},
+{
+"id": "1.246",
+"label": "Ov. Met. 1.246",
+"text": "Est tamen humani generis iactura dolori"
+},
+{
+"id": "1.247",
+"label": "Ov. Met. 1.247",
+"text": "omnibus, et, quae sit terrae mortalibus orbae"
+},
+{
+"id": "1.248",
+"label": "Ov. Met. 1.248",
+"text": "forma futura, rogant, quis sit laturus in aras"
+},
+{
+"id": "1.249",
+"label": "Ov. Met. 1.249",
+"text": "tura, ferisne paret populandas tradere terras."
+},
+{
+"id": "1.250",
+"label": "Ov. Met. 1.250",
+"text": "Talia quaerentes (sibi enim fore cetera curae)"
+},
+{
+"id": "1.251",
+"label": "Ov. Met. 1.251",
+"text": "rex superum trepidare vetat subolemque priori"
+},
+{
+"id": "1.252",
+"label": "Ov. Met. 1.252",
+"text": "dissimilem populo promittit origine mira."
+},
+{
+"id": "1.253",
+"label": "Ov. Met. 1.253",
+"text": "Iamque erat in totas sparsurus fulmina terras:"
+},
+{
+"id": "1.254",
+"label": "Ov. Met. 1.254",
+"text": "sed timuit, ne forte sacer tot ab ignibus aether"
+},
+{
+"id": "1.255",
+"label": "Ov. Met. 1.255",
+"text": "conciperet flammas longusque ardesceret axis:"
+},
+{
+"id": "1.256",
+"label": "Ov. Met. 1.256",
+"text": "esse quoque in fatis reminiscitur, adfore tempus,"
+},
+{
+"id": "1.257",
+"label": "Ov. Met. 1.257",
+"text": "quo mare, quo tellus correptaque regia caeli"
+},
+{
+"id": "1.258",
+"label": "Ov. Met. 1.258",
+"text": "ardeat et mundi moles obsessa laboret."
+},
+{
+"id": "1.259",
+"label": "Ov. Met. 1.259",
+"text": "Tela reponuntur manibus fabricata Cyclopum:"
+},
+{
+"id": "1.260",
+"label": "Ov. Met. 1.260",
+"text": "poena placet diversa, genus mortale sub undis"
+},
+{
+"id": "1.261",
+"label": "Ov. Met. 1.261",
+"text": "perdere et ex omni nimbos demittere caelo."
+},
+{
+"id": "1.262",
+"label": "Ov. Met. 1.262",
+"text": "Protinus Aeoliis Aquilonem claudit in antris"
+},
+{
+"id": "1.263",
+"label": "Ov. Met. 1.263",
+"text": "et quaecumque fugant inductas flamina nubes"
+},
+{
+"id": "1.264",
+"label": "Ov. Met. 1.264",
+"text": "emittitque Notum. Madidis Notus evolat alis,"
+},
+{
+"id": "1.265",
+"label": "Ov. Met. 1.265",
+"text": "terribilem picea tectus caligine vultum:"
+},
+{
+"id": "1.266",
+"label": "Ov. Met. 1.266",
+"text": "barba gravis nimbis, canis fluit unda capillis;"
+},
+{
+"id": "1.267",
+"label": "Ov. Met. 1.267",
+"text": "fronte sedent nebulae, rorant pennaeque sinusque."
+},
+{
+"id": "1.268",
+"label": "Ov. Met. 1.268",
+"text": "Utque manu late pendentia nubila pressit,"
+},
+{
+"id": "1.269",
+"label": "Ov. Met. 1.269",
+"text": "fit fragor: hinc densi funduntur ab aethere nimbi."
+},
+{
+"id": "1.270",
+"label": "Ov. Met. 1.270",
+"text": "Nuntia Iunonis varios induta colores"
+},
+{
+"id": "1.271",
+"label": "Ov. Met. 1.271",
+"text": "concipit Iris aquas alimentaque nubibus adfert."
+},
+{
+"id": "1.272",
+"label": "Ov. Met. 1.272",
+"text": "Sternuntur segetes et deplorata coloni"
+},
+{
+"id": "1.273",
+"label": "Ov. Met. 1.273",
+"text": "vota iacent, longique perit labor inritus anni."
+},
+{
+"id": "1.274",
+"label": "Ov. Met. 1.274",
+"text": "Nec caelo contenta suo est Iovis ira, sed illum"
+},
+{
+"id": "1.275",
+"label": "Ov. Met. 1.275",
+"text": "caeruleus frater iuvat auxiliaribus undis."
+},
+{
+"id": "1.276",
+"label": "Ov. Met. 1.276",
+"text": "Convocat hic amnes. Qui postquam tecta tyranni"
+},
+{
+"id": "1.277",
+"label": "Ov. Met. 1.277",
+"text": "intravere sui, “non est hortamine longo"
+},
+{
+"id": "1.278",
+"label": "Ov. Met. 1.278",
+"text": "nunc” ait “utendum. Vires effundite vestras:"
+},
+{
+"id": "1.279",
+"label": "Ov. Met. 1.279",
+"text": "sic opus est! aperite domos ac mole remota"
+},
+{
+"id": "1.280",
+"label": "Ov. Met. 1.280",
+"text": "fluminibus vestris totas inmittite habenas!”"
+},
+{
+"id": "1.281",
+"label": "Ov. Met. 1.281",
+"text": "Iusserat; hi redeunt ac fontibus ora relaxant"
+},
+{
+"id": "1.282",
+"label": "Ov. Met. 1.282",
+"text": "et defrenato volvuntur in aequora cursu."
+},
+{
+"id": "1.283",
+"label": "Ov. Met. 1.283",
+"text": "Ipse tridente suo terram percussit: at illa"
+},
+{
+"id": "1.284",
+"label": "Ov. Met. 1.284",
+"text": "intremuit motuque vias patefecit aquarum."
+},
+{
+"id": "1.285",
+"label": "Ov. Met. 1.285",
+"text": "Exspatiata ruunt per apertos flumina campos"
+},
+{
+"id": "1.286",
+"label": "Ov. Met. 1.286",
+"text": "cumque satis arbusta simul pecudesque virosque"
+},
+{
+"id": "1.287",
+"label": "Ov. Met. 1.287",
+"text": "tectaque cumque suis rapiunt penetralia sacris."
+},
+{
+"id": "1.288",
+"label": "Ov. Met. 1.288",
+"text": "Siqua domus mansit potuitque resistere tanto"
+},
+{
+"id": "1.289",
+"label": "Ov. Met. 1.289",
+"text": "indeiecta malo, culmen tamen altior huius"
+},
+{
+"id": "1.290",
+"label": "Ov. Met. 1.290",
+"text": "unda tegit, pressaeque latent sub gurgite turres."
+},
+{
+"id": "1.291",
+"label": "Ov. Met. 1.291",
+"text": "Iamque mare et tellus nullum discrimen habebant:"
+},
+{
+"id": "1.292",
+"label": "Ov. Met. 1.292",
+"text": "omnia pontus erant; deerant quoque litora ponto."
+},
+{
+"id": "1.293",
+"label": "Ov. Met. 1.293",
+"text": "Occupat hic collem, cumba sedet alter adunca"
+},
+{
+"id": "1.294",
+"label": "Ov. Met. 1.294",
+"text": "et ducit remos illic, ubi nuper ararat,"
+},
+{
+"id": "1.295",
+"label": "Ov. Met. 1.295",
+"text": "ille supra segetes aut mersae culmina villae"
+},
+{
+"id": "1.296",
+"label": "Ov. Met. 1.296",
+"text": "navigat, hic summa piscem deprendit in ulmo."
+},
+{
+"id": "1.297",
+"label": "Ov. Met. 1.297",
+"text": "Figitur in viridi, si fors tulit, ancora prato,"
+},
+{
+"id": "1.298",
+"label": "Ov. Met. 1.298",
+"text": "aut subiecta terunt curvae vineta carinae;"
+},
+{
+"id": "1.299",
+"label": "Ov. Met. 1.299",
+"text": "et, modo qua graciles gramen carpsere capellae,"
+},
+{
+"id": "1.300",
+"label": "Ov. Met. 1.300",
+"text": "nunc ibi deformes ponunt sua corpora phocae."
+},
+{
+"id": "1.301",
+"label": "Ov. Met. 1.301",
+"text": "Mirantur sub aqua lucos urbesque domosque"
+},
+{
+"id": "1.302",
+"label": "Ov. Met. 1.302",
+"text": "Nereides, silvasque tenent delphines et altis"
+},
+{
+"id": "1.303",
+"label": "Ov. Met. 1.303",
+"text": "incursant ramis agitataque robora pulsant."
+},
+{
+"id": "1.304",
+"label": "Ov. Met. 1.304",
+"text": "Nat lupus inter oves, fulvos vehit unda leones,"
+},
+{
+"id": "1.305",
+"label": "Ov. Met. 1.305",
+"text": "unda vehit tigres, nec vires fulminis apro,"
+},
+{
+"id": "1.306",
+"label": "Ov. Met. 1.306",
+"text": "crura nec ablato prosunt velocia cervo."
+},
+{
+"id": "1.307",
+"label": "Ov. Met. 1.307",
+"text": "Quaesitisque diu terris, ubi sistere possit,"
+},
+{
+"id": "1.308",
+"label": "Ov. Met. 1.308",
+"text": "in mare lassatis volucris vaga decidit alis."
+},
+{
+"id": "1.309",
+"label": "Ov. Met. 1.309",
+"text": "Obruerat tumulos inmensa licentia ponti,"
+},
+{
+"id": "1.310",
+"label": "Ov. Met. 1.310",
+"text": "pulsabantque novi montana cacumina fluctus."
+},
+{
+"id": "1.311",
+"label": "Ov. Met. 1.311",
+"text": "Maxima pars unda rapitur; quibus unda pepercit,"
+},
+{
+"id": "1.312",
+"label": "Ov. Met. 1.312",
+"text": "illos longa domant inopi ieiunia victu."
+},
+{
+"id": "1.313",
+"label": "Ov. Met. 1.313",
+"text": "Separat Aonios Oetaeis Phocis ab arvis,"
+},
+{
+"id": "1.314",
+"label": "Ov. Met. 1.314",
+"text": "terra ferax, dum terra fuit, sed tempore in illo"
+},
+{
+"id": "1.315",
+"label": "Ov. Met. 1.315",
+"text": "pars maris et latus subitarum campus aquarum."
+},
+{
+"id": "1.316",
+"label": "Ov. Met. 1.316",
+"text": "Mons ibi verticibus petit arduus astra duobus,"
+},
+{
+"id": "1.317",
+"label": "Ov. Met. 1.317",
+"text": "nomine Parnasus, superantque cacumina nubes."
+},
+{
+"id": "1.318",
+"label": "Ov. Met. 1.318",
+"text": "Hic ubi Deucalion (nam cetera texerat aequor)"
+},
+{
+"id": "1.319",
+"label": "Ov. Met. 1.319",
+"text": "cum consorte tori parva rate vectus adhaesit,"
+},
+{
+"id": "1.320",
+"label": "Ov. Met. 1.320",
+"text": "Corycidas nymphas et numina montis adorant"
+},
+{
+"id": "1.321",
+"label": "Ov. Met. 1.321",
+"text": "fatidicamque Themin, quae tunc oracla tenebat."
+},
+{
+"id": "1.322",
+"label": "Ov. Met. 1.322",
+"text": "Non illo melior quisquam nec amantior aequi"
+},
+{
+"id": "1.323",
+"label": "Ov. Met. 1.323",
+"text": "vir fuit aut illa metuentior ulla deorum."
+},
+{
+"id": "1.324",
+"label": "Ov. Met. 1.324",
+"text": "Iuppiter ut liquidis stagnare paludibus orbem"
+},
+{
+"id": "1.325",
+"label": "Ov. Met. 1.325",
+"text": "et superesse virum de tot modo milibus unum,"
+},
+{
+"id": "1.326",
+"label": "Ov. Met. 1.326",
+"text": "et superesse videt de tot modo milibus unam,"
+},
+{
+"id": "1.327",
+"label": "Ov. Met. 1.327",
+"text": "innocuos ambo, cultores numinis ambo,"
+},
+{
+"id": "1.328",
+"label": "Ov. Met. 1.328",
+"text": "nubila disiecit nimbisque aquilone remotis"
+},
+{
+"id": "1.329",
+"label": "Ov. Met. 1.329",
+"text": "et caelo terras ostendit et aethera terris."
+},
+{
+"id": "1.330",
+"label": "Ov. Met. 1.330",
+"text": "Nec maris ira manet, positoque tricuspide telo"
+},
+{
+"id": "1.331",
+"label": "Ov. Met. 1.331",
+"text": "mulcet aquas rector pelagi supraque profundum"
+},
+{
+"id": "1.332",
+"label": "Ov. Met. 1.332",
+"text": "exstantem atque umeros innato murice tectum"
+},
+{
+"id": "1.333",
+"label": "Ov. Met. 1.333",
+"text": "caeruleum Tritona vocat conchaeque sonanti"
+},
+{
+"id": "1.334",
+"label": "Ov. Met. 1.334",
+"text": "inspirare iubet fluctusque et flumina signo"
+},
+{
+"id": "1.335",
+"label": "Ov. Met. 1.335",
+"text": "iam revocare dato. Cava bucina sumitur illi,"
+},
+{
+"id": "1.336",
+"label": "Ov. Met. 1.336",
+"text": "tortilis, in latum quae turbine crescit ab imo,"
+},
+{
+"id": "1.337",
+"label": "Ov. Met. 1.337",
+"text": "bucina, quae medio concepit ubi aera ponto,"
+},
+{
+"id": "1.338",
+"label": "Ov. Met. 1.338",
+"text": "litora voce replet sub utroque iacentia Phoebo."
+},
+{
+"id": "1.339",
+"label": "Ov. Met. 1.339",
+"text": "Tunc quoque, ut ora dei madida rorantia barba"
+},
+{
+"id": "1.340",
+"label": "Ov. Met. 1.340",
+"text": "contigit et cecinit iussos inflata receptus,"
+},
+{
+"id": "1.341",
+"label": "Ov. Met. 1.341",
+"text": "omnibus audita est telluris et aequoris undis,"
+},
+{
+"id": "1.342",
+"label": "Ov. Met. 1.342",
+"text": "et quibus est undis audita, coercuit omnes."
+},
+{
+"id": "1.343",
+"label": "Ov. Met. 1.343",
+"text": "Iam mare litus habet, plenos capit alveus amnes,"
+},
+{
+"id": "1.344",
+"label": "Ov. Met. 1.344",
+"text": "flumina subsidunt collesque exire videntur,"
+},
+{
+"id": "1.345",
+"label": "Ov. Met. 1.345",
+"text": "surgit humus, crescunt loca decrescentibus undis,"
+},
+{
+"id": "1.346",
+"label": "Ov. Met. 1.346",
+"text": "postque diem longam nudata cacumina silvae"
+},
+{
+"id": "1.347",
+"label": "Ov. Met. 1.347",
+"text": "ostendunt limumque tenent in fronde relictum."
+},
+{
+"id": "1.348",
+"label": "Ov. Met. 1.348",
+"text": "Redditus orbis erat. Quem postquam vidit inanem"
+},
+{
+"id": "1.349",
+"label": "Ov. Met. 1.349",
+"text": "et desolatas agere alta silentia terras,"
+},
+{
+"id": "1.350",
+"label": "Ov. Met. 1.350",
+"text": "Deucalion lacrimis ita Pyrrham adfatur obortis:"
+},
+{
+"id": "1.351",
+"label": "Ov. Met. 1.351",
+"text": "“O soror, o coniunx, o femina sola superstes,"
+},
+{
+"id": "1.352",
+"label": "Ov. Met. 1.352",
+"text": "quam commune mihi genus et patruelis origo,"
+},
+{
+"id": "1.353",
+"label": "Ov. Met. 1.353",
+"text": "deinde torus iunxit, nunc ipsa pericula iungunt,"
+},
+{
+"id": "1.354",
+"label": "Ov. Met. 1.354",
+"text": "terrarum, quascumque vident occasus et ortus,"
+},
+{
+"id": "1.355",
+"label": "Ov. Met. 1.355",
+"text": "nos duo turba sumus; possedit cetera pontus."
+},
+{
+"id": "1.356",
+"label": "Ov. Met. 1.356",
+"text": "Haec quoque adhuc vitae non est fiducia nostrae"
+},
+{
+"id": "1.357",
+"label": "Ov. Met. 1.357",
+"text": "certa satis; terrent etiam nunc nubila mentem."
+},
+{
+"id": "1.358",
+"label": "Ov. Met. 1.358",
+"text": "Quis tibi, si sine me fatis erepta fuisses,"
+},
+{
+"id": "1.359",
+"label": "Ov. Met. 1.359",
+"text": "nunc animus, miseranda, foret? quo sola timorem"
+},
+{
+"id": "1.360",
+"label": "Ov. Met. 1.360",
+"text": "ferre modo posses? quo consolante doleres?"
+},
+{
+"id": "1.361",
+"label": "Ov. Met. 1.361",
+"text": "Namque ego (crede mihi) si te quoque pontus haberet,"
+},
+{
+"id": "1.362",
+"label": "Ov. Met. 1.362",
+"text": "te sequerer, coniunx, et me quoque pontus haberet."
+},
+{
+"id": "1.363",
+"label": "Ov. Met. 1.363",
+"text": "O utinam possim populos reparare paternis"
+},
+{
+"id": "1.364",
+"label": "Ov. Met. 1.364",
+"text": "artibus atque animas formatae infundere terrae!"
+},
+{
+"id": "1.365",
+"label": "Ov. Met. 1.365",
+"text": "Nunc genus in nobis restat mortale duobus"
+},
+{
+"id": "1.366",
+"label": "Ov. Met. 1.366",
+"text": "(sic visum superis) hominumque exempla manemus.”"
+},
+{
+"id": "1.367",
+"label": "Ov. Met. 1.367",
+"text": "Dixerat, et flebant. Placuit caeleste precari"
+},
+{
+"id": "1.368",
+"label": "Ov. Met. 1.368",
+"text": "numen et auxilium per sacras quaerere sortes."
+},
+{
+"id": "1.369",
+"label": "Ov. Met. 1.369",
+"text": "Nulla mora est: adeunt pariter Cephisidas undas,"
+},
+{
+"id": "1.370",
+"label": "Ov. Met. 1.370",
+"text": "ut nondum liquidas, sic iam vada nota secantes."
+},
+{
+"id": "1.371",
+"label": "Ov. Met. 1.371",
+"text": "Inde ubi libatos inroravere liquores"
+},
+{
+"id": "1.372",
+"label": "Ov. Met. 1.372",
+"text": "vestibus et capiti, flectunt vestigia sanctae"
+},
+{
+"id": "1.373",
+"label": "Ov. Met. 1.373",
+"text": "ad delubra deae, quorum fastigia turpi"
+},
+{
+"id": "1.374",
+"label": "Ov. Met. 1.374",
+"text": "pallebant musco stabantque sine ignibus arae."
+},
+{
+"id": "1.375",
+"label": "Ov. Met. 1.375",
+"text": "Ut templi tetigere gradus, procumbit uterque"
+},
+{
+"id": "1.376",
+"label": "Ov. Met. 1.376",
+"text": "pronus humi gelidoque pavens dedit oscula saxo"
+},
+{
+"id": "1.377",
+"label": "Ov. Met. 1.377",
+"text": "atque ita “si precibus” dixerunt “numina iustis"
+},
+{
+"id": "1.378",
+"label": "Ov. Met. 1.378",
+"text": "victa remollescunt, si flectitur ira deorum,"
+},
+{
+"id": "1.379",
+"label": "Ov. Met. 1.379",
+"text": "dic, Themi, qua generis damnum reparabile nostri"
+},
+{
+"id": "1.380",
+"label": "Ov. Met. 1.380",
+"text": "arte sit, et mersis fer opem, mitissima, rebus.”"
+},
+{
+"id": "1.381",
+"label": "Ov. Met. 1.381",
+"text": "Mota dea est sortemque dedit: “Discedite templo"
+},
+{
+"id": "1.382",
+"label": "Ov. Met. 1.382",
+"text": "et velate caput cinctasque resolvite vestes"
+},
+{
+"id": "1.383",
+"label": "Ov. Met. 1.383",
+"text": "ossaque post tergum magnae iactate parentis.”"
+},
+{
+"id": "1.384",
+"label": "Ov. Met. 1.384",
+"text": "Obstipuere diu, rumpitque silentia voce"
+},
+{
+"id": "1.385",
+"label": "Ov. Met. 1.385",
+"text": "Pyrrha prior iussisque deae parere recusat,"
+},
+{
+"id": "1.386",
+"label": "Ov. Met. 1.386",
+"text": "detque sibi veniam pavido rogat ore, pavetque"
+},
+{
+"id": "1.387",
+"label": "Ov. Met. 1.387",
+"text": "laedere iactatis maternas ossibus umbras."
+},
+{
+"id": "1.388",
+"label": "Ov. Met. 1.388",
+"text": "Interea repetunt caecis obscura latebris"
+},
+{
+"id": "1.389",
+"label": "Ov. Met. 1.389",
+"text": "verba datae sortis secum inter seque volutant."
+},
+{
+"id": "1.390",
+"label": "Ov. Met. 1.390",
+"text": "Inde Promethides placidis Epimethida dictis"
+},
+{
+"id": "1.391",
+"label": "Ov. Met. 1.391",
+"text": "mulcet et “aut fallax” ait “est sollertia nobis,"
+},
+{
+"id": "1.392",
+"label": "Ov. Met. 1.392",
+"text": "aut pia sunt nullumque nefas oracula suadent."
+},
+{
+"id": "1.393",
+"label": "Ov. Met. 1.393",
+"text": "Magna parens terra est, lapides in corpore terrae"
+},
+{
+"id": "1.394",
+"label": "Ov. Met. 1.394",
+"text": "ossa reor dici; iacere hos post terga iubemur.”"
+},
+{
+"id": "1.395",
+"label": "Ov. Met. 1.395",
+"text": "Coniugis augurio quamquam Titania mota est,"
+},
+{
+"id": "1.396",
+"label": "Ov. Met. 1.396",
+"text": "spes tamen in dubio est: adeo caelestibus ambo"
+},
+{
+"id": "1.397",
+"label": "Ov. Met. 1.397",
+"text": "diffidunt monitis. Sed quid temptare nocebit?"
+},
+{
+"id": "1.398",
+"label": "Ov. Met. 1.398",
+"text": "Discedunt velantque caput tunicasque recingunt"
+},
+{
+"id": "1.399",
+"label": "Ov. Met. 1.399",
+"text": "et iussos lapides sua post vestigia mittunt."
+},
+{
+"id": "1.400",
+"label": "Ov. Met. 1.400",
+"text": "Saxa (quis hoc credat, nisi sit pro teste vetustas?)"
+},
+{
+"id": "1.401",
+"label": "Ov. Met. 1.401",
+"text": "ponere duritiem coepere suumque rigorem"
+},
+{
+"id": "1.402",
+"label": "Ov. Met. 1.402",
+"text": "mollirique mora mollitaque ducere formam."
+},
+{
+"id": "1.403",
+"label": "Ov. Met. 1.403",
+"text": "Mox ubi creverunt naturaque mitior illis"
+},
+{
+"id": "1.404",
+"label": "Ov. Met. 1.404",
+"text": "contigit, ut quaedam, sic non manifesta, videri"
+},
+{
+"id": "1.405",
+"label": "Ov. Met. 1.405",
+"text": "forma potest hominis, sed, uti de marmore coepta,"
+},
+{
+"id": "1.406",
+"label": "Ov. Met. 1.406",
+"text": "non exacta satis rudibusque simillima signis."
+},
+{
+"id": "1.407",
+"label": "Ov. Met. 1.407",
+"text": "Quae tamen ex illis aliquo pars umida suco"
+},
+{
+"id": "1.408",
+"label": "Ov. Met. 1.408",
+"text": "et terrena fuit, versa est in corporis usum;"
+},
+{
+"id": "1.409",
+"label": "Ov. Met. 1.409",
+"text": "quod solidum est flectique nequit, mutatur in ossa;"
+},
+{
+"id": "1.410",
+"label": "Ov. Met. 1.410",
+"text": "quae modo vena fuit, sub eodem nomine mansit;"
+},
+{
+"id": "1.411",
+"label": "Ov. Met. 1.411",
+"text": "inque brevi spatio superorum numine saxa"
+},
+{
+"id": "1.412",
+"label": "Ov. Met. 1.412",
+"text": "missa viri manibus faciem traxere virorum,"
+},
+{
+"id": "1.413",
+"label": "Ov. Met. 1.413",
+"text": "et de femineo reparata est femina iactu."
+},
+{
+"id": "1.414",
+"label": "Ov. Met. 1.414",
+"text": "Inde genus durum sumus experiensque laborum"
+},
+{
+"id": "1.415",
+"label": "Ov. Met. 1.415",
+"text": "et documenta damus qua simus origine nati."
+},
+{
+"id": "1.416",
+"label": "Ov. Met. 1.416",
+"text": "Cetera diversis tellus animalia formis"
+},
+{
+"id": "1.417",
+"label": "Ov. Met. 1.417",
+"text": "sponte sua peperit, postquam vetus umor ab igne"
+},
+{
+"id": "1.418",
+"label": "Ov. Met. 1.418",
+"text": "percaluit solis, caenumque udaeque paludes"
+},
+{
+"id": "1.419",
+"label": "Ov. Met. 1.419",
+"text": "intumuere aestu, fecundaque semina rerum"
+},
+{
+"id": "1.420",
+"label": "Ov. Met. 1.420",
+"text": "vivaci nutrita solo ceu matris in alvo"
+},
+{
+"id": "1.421",
+"label": "Ov. Met. 1.421",
+"text": "creverunt faciemque aliquam cepere morando."
+},
+{
+"id": "1.422",
+"label": "Ov. Met. 1.422",
+"text": "Sic ubi deseruit madidos septemfluus agros"
+},
+{
+"id": "1.423",
+"label": "Ov. Met. 1.423",
+"text": "Nilus et antiquo sua flumina reddidit alveo"
+},
+{
+"id": "1.424",
+"label": "Ov. Met. 1.424",
+"text": "aetherioque recens exarsit sidere limus,"
+},
+{
+"id": "1.425",
+"label": "Ov. Met. 1.425",
+"text": "plurima cultores versis animalia glaebis"
+},
+{
+"id": "1.426",
+"label": "Ov. Met. 1.426",
+"text": "inveniunt, et in his quaedam modo coepta per ipsum"
+},
+{
+"id": "1.427",
+"label": "Ov. Met. 1.427",
+"text": "nascendi spatium, quaedam inperfecta suisque"
+},
+{
+"id": "1.428",
+"label": "Ov. Met. 1.428",
+"text": "trunca vident numeris; et eodem in corpore saepe"
+},
+{
+"id": "1.429",
+"label": "Ov. Met. 1.429",
+"text": "altera pars vivit, rudis est pars altera tellus."
+},
+{
+"id": "1.430",
+"label": "Ov. Met. 1.430",
+"text": "Quippe ubi temperiem sumpsere umorque calorque,"
+},
+{
+"id": "1.431",
+"label": "Ov. Met. 1.431",
+"text": "concipiunt, et ab his oriuntur cuncta duobus;"
+},
+{
+"id": "1.432",
+"label": "Ov. Met. 1.432",
+"text": "cumque sit ignis aquae pugnax, vapor umidus omnes"
+},
+{
+"id": "1.433",
+"label": "Ov. Met. 1.433",
+"text": "res creat, et discors concordia fetibus apta est."
+},
+{
+"id": "1.434",
+"label": "Ov. Met. 1.434",
+"text": "Ergo ubi diluvio tellus lutulenta recenti"
+},
+{
+"id": "1.435",
+"label": "Ov. Met. 1.435",
+"text": "solibus aetheriis altoque recanduit aestu,"
+},
+{
+"id": "1.436",
+"label": "Ov. Met. 1.436",
+"text": "edidit innumeras species, partimque figuras"
+},
+{
+"id": "1.437",
+"label": "Ov. Met. 1.437",
+"text": "rettulit antiquas, partim nova monstra creavit."
+},
+{
+"id": "1.438",
+"label": "Ov. Met. 1.438",
+"text": "Illa quidem nollet, sed te quoque, maxime Python,"
+},
+{
+"id": "1.439",
+"label": "Ov. Met. 1.439",
+"text": "tum genuit, populisque novis, incognite serpens,"
+},
+{
+"id": "1.440",
+"label": "Ov. Met. 1.440",
+"text": "terror eras: tantum spatii de monte tenebas."
+},
+{
+"id": "1.441",
+"label": "Ov. Met. 1.441",
+"text": "Hunc deus arquitenens, et numquam talibus armis"
+},
+{
+"id": "1.442",
+"label": "Ov. Met. 1.442",
+"text": "ante nisi in dammis capreisque fugacibus usus,"
+},
+{
+"id": "1.443",
+"label": "Ov. Met. 1.443",
+"text": "mille gravem telis exhausta paene pharetra"
+},
+{
+"id": "1.444",
+"label": "Ov. Met. 1.444",
+"text": "perdidit effuso per vulnera nigra veneno."
+},
+{
+"id": "1.445",
+"label": "Ov. Met. 1.445",
+"text": "Neve operis famam posset delere vetustas,"
+},
+{
+"id": "1.446",
+"label": "Ov. Met. 1.446",
+"text": "instituit sacros celebri certamine ludos,"
+},
+{
+"id": "1.447",
+"label": "Ov. Met. 1.447",
+"text": "Pythia perdomitae serpentis nomine dictos."
+},
+{
+"id": "1.448",
+"label": "Ov. Met. 1.448",
+"text": "Hic iuvenum quicumque manu pedibusve rotave"
+},
+{
+"id": "1.449",
+"label": "Ov. Met. 1.449",
+"text": "vicerat, aesculeae capiebat frondis honorem:"
+},
+{
+"id": "1.450",
+"label": "Ov. Met. 1.450",
+"text": "nondum laurus erat, longoque decentia crine"
+},
+{
+"id": "1.451",
+"label": "Ov. Met. 1.451",
+"text": "tempora cingebat de qualibet arbore Phoebus."
+},
+{
+"id": "1.452",
+"label": "Ov. Met. 1.452",
+"text": "Primus amor Phoebi Daphne Peneia, quem non"
+},
+{
+"id": "1.453",
+"label": "Ov. Met. 1.453",
+"text": "fors ignara dedit, sed saeva Cupidinis ira."
+},
+{
+"id": "1.454",
+"label": "Ov. Met. 1.454",
+"text": "Delius hunc, nuper victa serpente superbus,"
+},
+{
+"id": "1.455",
+"label": "Ov. Met. 1.455",
+"text": "viderat adducto flectentem cornua nervo"
+},
+{
+"id": "1.456",
+"label": "Ov. Met. 1.456",
+"text": "“quid” que “tibi, lascive puer, cum fortibus armis?”"
+},
+{
+"id": "1.457",
+"label": "Ov. Met. 1.457",
+"text": "dixerat, “ista decent umeros gestamina nostros,"
+},
+{
+"id": "1.458",
+"label": "Ov. Met. 1.458",
+"text": "qui dare certa ferae, dare vulnera possumus hosti,"
+},
+{
+"id": "1.459",
+"label": "Ov. Met. 1.459",
+"text": "qui modo pestifero tot iugera ventre prementem"
+},
+{
+"id": "1.460",
+"label": "Ov. Met. 1.460",
+"text": "stravimus innumeris tumidum Pythona sagittis."
+},
+{
+"id": "1.461",
+"label": "Ov. Met. 1.461",
+"text": "Tu face nescio quos esto contentus amores"
+},
+{
+"id": "1.462",
+"label": "Ov. Met. 1.462",
+"text": "inritare tua, nec laudes adsere nostras.”"
+},
+{
+"id": "1.463",
+"label": "Ov. Met. 1.463",
+"text": "Filius huic Veneris “figat tuus omnia, Phoebe,"
+},
+{
+"id": "1.464",
+"label": "Ov. Met. 1.464",
+"text": "te meus arcus:” ait “quantoque animalia cedunt"
+},
+{
+"id": "1.465",
+"label": "Ov. Met. 1.465",
+"text": "cuncta deo tanto minor est tua gloria nostra.”"
+},
+{
+"id": "1.466",
+"label": "Ov. Met. 1.466",
+"text": "Dixit et eliso percussis aere pennis"
+},
+{
+"id": "1.467",
+"label": "Ov. Met. 1.467",
+"text": "inpiger umbrosa Parnasi constitit arce"
+},
+{
+"id": "1.468",
+"label": "Ov. Met. 1.468",
+"text": "eque sagittifera prompsit duo tela pharetra"
+},
+{
+"id": "1.469",
+"label": "Ov. Met. 1.469",
+"text": "diversorum operum: fugat hoc, facit illud amorem."
+},
+{
+"id": "1.470",
+"label": "Ov. Met. 1.470",
+"text": "Quod facit, auratum est et cuspide fulget acuta;"
+},
+{
+"id": "1.471",
+"label": "Ov. Met. 1.471",
+"text": "quod fugat, obtusum est et habet sub harundine plumbum."
+},
+{
+"id": "1.472",
+"label": "Ov. Met. 1.472",
+"text": "Hoc deus in nympha Peneide fixit, at illo"
+},
+{
+"id": "1.473",
+"label": "Ov. Met. 1.473",
+"text": "laesit Apollineas traiecta per ossa medullas."
+},
+{
+"id": "1.474",
+"label": "Ov. Met. 1.474",
+"text": "Protinus alter amat, fugit altera nomen amantis"
+},
+{
+"id": "1.475",
+"label": "Ov. Met. 1.475",
+"text": "silvarum tenebris captivarumque ferarum"
+},
+{
+"id": "1.476",
+"label": "Ov. Met. 1.476",
+"text": "exuviis gaudens innuptaeque aemula Phoebes."
+},
+{
+"id": "1.477",
+"label": "Ov. Met. 1.477",
+"text": "Vitta coercebat positos sine lege capillos."
+},
+{
+"id": "1.478",
+"label": "Ov. Met. 1.478",
+"text": "Multi illam petiere, illa aversata petentes"
+},
+{
+"id": "1.479",
+"label": "Ov. Met. 1.479",
+"text": "inpatiens expersque viri nemora avia lustrat,"
+},
+{
+"id": "1.480",
+"label": "Ov. Met. 1.480",
+"text": "nec quid Hymen, quid Amor, quid sint conubia curat."
+},
+{
+"id": "1.481",
+"label": "Ov. Met. 1.481",
+"text": "Saepe pater dixit “generum mihi, filia, debes,”"
+},
+{
+"id": "1.482",
+"label": "Ov. Met. 1.482",
+"text": "saepe pater dixit “debes mihi nata, nepotes:”"
+},
+{
+"id": "1.483",
+"label": "Ov. Met. 1.483",
+"text": "illa, velut crimen taedas exosa iugales,"
+},
+{
+"id": "1.484",
+"label": "Ov. Met. 1.484",
+"text": "pulchra verecundo suffunditur ora rubore,"
+},
+{
+"id": "1.485",
+"label": "Ov. Met. 1.485",
+"text": "inque patris blandis haerens cervice lacertis"
+},
+{
+"id": "1.486",
+"label": "Ov. Met. 1.486",
+"text": "“da mihi perpetua, genitor carissime,” dixit"
+},
+{
+"id": "1.487",
+"label": "Ov. Met. 1.487",
+"text": "“virginitate frui: dedit hoc pater ante Dianae.”"
+},
+{
+"id": "1.488",
+"label": "Ov. Met. 1.488",
+"text": "Ille quidem obsequitur, sed te decor iste quod optas"
+},
+{
+"id": "1.489",
+"label": "Ov. Met. 1.489",
+"text": "esse vetat. Votoque tuo tua forma repugnat:"
+},
+{
+"id": "1.490",
+"label": "Ov. Met. 1.490",
+"text": "Phoebus amat visaeque cupit conubia Daphnes,"
+},
+{
+"id": "1.491",
+"label": "Ov. Met. 1.491",
+"text": "quodque cupit, sperat, suaque illum oracula fallunt."
+},
+{
+"id": "1.492",
+"label": "Ov. Met. 1.492",
+"text": "Utque leves stipulae demptis adolentur aristis,"
+},
+{
+"id": "1.493",
+"label": "Ov. Met. 1.493",
+"text": "ut facibus saepes ardent, quas forte viator"
+},
+{
+"id": "1.494",
+"label": "Ov. Met. 1.494",
+"text": "vel nimis admovit vel iam sub luce reliquit,"
+},
+{
+"id": "1.495",
+"label": "Ov. Met. 1.495",
+"text": "sic deus in flammas abiit, sic pectore toto"
+},
+{
+"id": "1.496",
+"label": "Ov. Met. 1.496",
+"text": "uritur et sterilem sperando nutrit amorem."
+},
+{
+"id": "1.497",
+"label": "Ov. Met. 1.497",
+"text": "Spectat inornatos collo pendere capillos"
+},
+{
+"id": "1.498",
+"label": "Ov. Met. 1.498",
+"text": "et “quid, si comantur?” ait. Videt igne micantes"
+},
+{
+"id": "1.499",
+"label": "Ov. Met. 1.499",
+"text": "sideribus similes oculos, videt oscula, quae non"
+},
+{
+"id": "1.500",
+"label": "Ov. Met. 1.500",
+"text": "est vidisse satis; laudat digitosque manusque"
+},
+{
+"id": "1.501",
+"label": "Ov. Met. 1.501",
+"text": "bracchiaque et nudos media plus parte lacertos."
+},
+{
+"id": "1.502",
+"label": "Ov. Met. 1.502",
+"text": "Siqua latent, meliora putat. Fugit ocior aura"
+},
+{
+"id": "1.503",
+"label": "Ov. Met. 1.503",
+"text": "illa levi neque ad haec revocantis verba resistit:"
+},
+{
+"id": "1.504",
+"label": "Ov. Met. 1.504",
+"text": "“Nympha, precor, Penei, mane! Non insequor hostis:"
+},
+{
+"id": "1.505",
+"label": "Ov. Met. 1.505",
+"text": "nympha, mane! sic agna lupum, sic cerva leonem,"
+},
+{
+"id": "1.506",
+"label": "Ov. Met. 1.506",
+"text": "sic aquilam penna fugiunt trepidante columbae,"
+},
+{
+"id": "1.507",
+"label": "Ov. Met. 1.507",
+"text": "hostes quaeque suos: amor est mihi causa sequendi."
+},
+{
+"id": "1.508",
+"label": "Ov. Met. 1.508",
+"text": "Me miserum! ne prona cadas indignave laedi"
+},
+{
+"id": "1.509",
+"label": "Ov. Met. 1.509",
+"text": "crura notent sentes et sim tibi causa doloris."
+},
+{
+"id": "1.510",
+"label": "Ov. Met. 1.510",
+"text": "Aspera, qua properas, loca sunt. Moderatius, oro,"
+},
+{
+"id": "1.511",
+"label": "Ov. Met. 1.511",
+"text": "curre fugamque inhibe; moderatius insequar ipse."
+},
+{
+"id": "1.512",
+"label": "Ov. Met. 1.512",
+"text": "Cui placeas, inquire tamen. Non incola montis,"
+},
+{
+"id": "1.513",
+"label": "Ov. Met. 1.513",
+"text": "non ego sum pastor, non hic armenta gregesque"
+},
+{
+"id": "1.514",
+"label": "Ov. Met. 1.514",
+"text": "horridus observo. Nescis, temeraria, nescis"
+},
+{
+"id": "1.515",
+"label": "Ov. Met. 1.515",
+"text": "quem fugias, ideoque fugis. Mihi Delphica tellus"
+},
+{
+"id": "1.516",
+"label": "Ov. Met. 1.516",
+"text": "et Claros et Tenedos Patareaque regia servit,"
+},
+{
+"id": "1.517",
+"label": "Ov. Met. 1.517",
+"text": "Iuppiter est genitor; per me quod eritque fuitque"
+},
+{
+"id": "1.518",
+"label": "Ov. Met. 1.518",
+"text": "estque patet; per me concordant carmina nervis."
+},
+{
+"id": "1.519",
+"label": "Ov. Met. 1.519",
+"text": "Certa quidem nostra est, nostra tamen una sagitta"
+},
+{
+"id": "1.520",
+"label": "Ov. Met. 1.520",
+"text": "certior, in vacuo quae vulnera pectore fecit."
+},
+{
+"id": "1.521",
+"label": "Ov. Met. 1.521",
+"text": "Inventum medicina meum est, opiferque per orbem"
+},
+{
+"id": "1.522",
+"label": "Ov. Met. 1.522",
+"text": "dicor, et herbarum subiecta potentia nobis:"
+},
+{
+"id": "1.523",
+"label": "Ov. Met. 1.523",
+"text": "ei mihi, quod nullis amor est sanabilis herbis"
+},
+{
+"id": "1.524",
+"label": "Ov. Met. 1.524",
+"text": "nec prosunt domino, quae prosunt omnibus, artes.”"
+},
+{
+"id": "1.525",
+"label": "Ov. Met. 1.525",
+"text": "Plura locuturum timido Peneia cursu"
+},
+{
+"id": "1.526",
+"label": "Ov. Met. 1.526",
+"text": "fugit cumque ipso verba inperfecta reliquit,"
+},
+{
+"id": "1.527",
+"label": "Ov. Met. 1.527",
+"text": "tum quoque visa decens. Nudabant corpora venti,"
+},
+{
+"id": "1.528",
+"label": "Ov. Met. 1.528",
+"text": "obviaque adversas vibrabant flamina vestes,"
+},
+{
+"id": "1.529",
+"label": "Ov. Met. 1.529",
+"text": "et levis inpulsos retro dabat aura capillos,"
+},
+{
+"id": "1.530",
+"label": "Ov. Met. 1.530",
+"text": "auctaque forma fuga est. Sed enim non sustinet ultra"
+},
+{
+"id": "1.531",
+"label": "Ov. Met. 1.531",
+"text": "perdere blanditias iuvenis deus, utque monebat"
+},
+{
+"id": "1.532",
+"label": "Ov. Met. 1.532",
+"text": "ipse Amor, admisso sequitur vestigia passu."
+},
+{
+"id": "1.533",
+"label": "Ov. Met. 1.533",
+"text": "Ut canis in vacuo leporem cum Gallicus arvo"
+},
+{
+"id": "1.534",
+"label": "Ov. Met. 1.534",
+"text": "vidit, et hic praedam pedibus petit, ille salutem:"
+},
+{
+"id": "1.535",
+"label": "Ov. Met. 1.535",
+"text": "alter inhaesuro similis iam iamque tenere"
+},
+{
+"id": "1.536",
+"label": "Ov. Met. 1.536",
+"text": "sperat et extento stringit vestigia rostro,"
+},
+{
+"id": "1.537",
+"label": "Ov. Met. 1.537",
+"text": "alter in ambiguo est, an sit conprensus, et ipsis"
+},
+{
+"id": "1.538",
+"label": "Ov. Met. 1.538",
+"text": "morsibus eripitur tangentiaque ora relinquit:"
+},
+{
+"id": "1.539",
+"label": "Ov. Met. 1.539",
+"text": "sic deus et virgo est hic spe celer, illa timore."
+},
+{
+"id": "1.540",
+"label": "Ov. Met. 1.540",
+"text": "Qui tamen insequitur pennis adiutus Amoris,"
+},
+{
+"id": "1.541",
+"label": "Ov. Met. 1.541",
+"text": "ocior est requiemque negat tergoque fugacis"
+},
+{
+"id": "1.542",
+"label": "Ov. Met. 1.542",
+"text": "inminet et crinem sparsum cervicibus adflat."
+},
+{
+"id": "1.543",
+"label": "Ov. Met. 1.543",
+"text": "Viribus absumptis expalluit illa citaeque"
+},
+{
+"id": "1.544",
+"label": "Ov. Met. 1.544",
+"text": "victa labore fugae spectans Peneidas undas"
+},
+{
+"id": "1.545",
+"label": "Ov. Met. 1.545",
+"text": "“fer pater” inquit “opem si flumina numen habetis."
+},
+{
+"id": "1.547",
+"label": "Ov. Met. 1.547",
+"text": "Qua nimium placui, mutando perde figuram!”"
+},
+{
+"id": "1.548",
+"label": "Ov. Met. 1.548",
+"text": "Vix prece finita torpor gravis occupat artus:"
+},
+{
+"id": "1.549",
+"label": "Ov. Met. 1.549",
+"text": "mollia cinguntur tenui praecordia libro,"
+},
+{
+"id": "1.550",
+"label": "Ov. Met. 1.550",
+"text": "in frondem crines, in ramos bracchia crescunt,"
+},
+{
+"id": "1.551",
+"label": "Ov. Met. 1.551",
+"text": "pes modo tam velox pigris radicibus haeret,"
+},
+{
+"id": "1.552",
+"label": "Ov. Met. 1.552",
+"text": "ora cacumen habet; remanet nitor unus in illa."
+},
+{
+"id": "1.553",
+"label": "Ov. Met. 1.553",
+"text": "Hanc quoque Phoebus amat, positaque in stipite dextra"
+},
+{
+"id": "1.554",
+"label": "Ov. Met. 1.554",
+"text": "sentit adhuc trepidare novo sub cortice pectus"
+},
+{
+"id": "1.555",
+"label": "Ov. Met. 1.555",
+"text": "conplexusque suis ramos, ut membra, lacertis"
+},
+{
+"id": "1.556",
+"label": "Ov. Met. 1.556",
+"text": "oscula dat ligno: refugit tamen oscula lignum."
+},
+{
+"id": "1.557",
+"label": "Ov. Met. 1.557",
+"text": "Cui deus “at quoniam coniunx mea non potes esse,"
+},
+{
+"id": "1.558",
+"label": "Ov. Met. 1.558",
+"text": "arbor eris certe” dixit “mea. Semper habebunt"
+},
+{
+"id": "1.559",
+"label": "Ov. Met. 1.559",
+"text": "te coma, te citharae, te nostrae, laure, pharetrae:"
+},
+{
+"id": "1.560",
+"label": "Ov. Met. 1.560",
+"text": "tu ducibus Latiis aderis, cum laeta triumphum"
+},
+{
+"id": "1.561",
+"label": "Ov. Met. 1.561",
+"text": "vox canet et visent longas Capitolia pompas:"
+},
+{
+"id": "1.562",
+"label": "Ov. Met. 1.562",
+"text": "postibus Augustis eadem fidissima custos"
+},
+{
+"id": "1.563",
+"label": "Ov. Met. 1.563",
+"text": "ante fores stabis mediamque tuebere quercum,"
+},
+{
+"id": "1.564",
+"label": "Ov. Met. 1.564",
+"text": "utque meum intonsis caput est iuvenale capillis,"
+},
+{
+"id": "1.565",
+"label": "Ov. Met. 1.565",
+"text": "tu quoque perpetuos semper gere frondis honores.”"
+},
+{
+"id": "1.566",
+"label": "Ov. Met. 1.566",
+"text": "Finierat Paean: factis modo laurea ramis"
+},
+{
+"id": "1.567",
+"label": "Ov. Met. 1.567",
+"text": "adnuit utque caput visa est agitasse cacumen."
+},
+{
+"id": "1.568",
+"label": "Ov. Met. 1.568",
+"text": "Est nemus Haemoniae, praerupta quod undique claudit"
+},
+{
+"id": "1.569",
+"label": "Ov. Met. 1.569",
+"text": "silva: vocant Tempe. Per quae Peneus ab imo"
+},
+{
+"id": "1.570",
+"label": "Ov. Met. 1.570",
+"text": "effusus Pindo spumosis volvitur undis,"
+},
+{
+"id": "1.571",
+"label": "Ov. Met. 1.571",
+"text": "deiectuque gravi tenues agitantia fumos"
+},
+{
+"id": "1.572",
+"label": "Ov. Met. 1.572",
+"text": "nubila conducit summisque adspergine silvis"
+},
+{
+"id": "1.573",
+"label": "Ov. Met. 1.573",
+"text": "inpluit et sonitu plus quam vicina fatigat."
+},
+{
+"id": "1.574",
+"label": "Ov. Met. 1.574",
+"text": "Haec domus, haec sedes, haec sunt penetralia magni"
+},
+{
+"id": "1.575",
+"label": "Ov. Met. 1.575",
+"text": "amnis; in his residens facto de cautibus antro,"
+},
+{
+"id": "1.576",
+"label": "Ov. Met. 1.576",
+"text": "undis iura dabat nymphisque colentibus undas."
+},
+{
+"id": "1.577",
+"label": "Ov. Met. 1.577",
+"text": "Conveniunt illuc popularia flumina primum,"
+},
+{
+"id": "1.578",
+"label": "Ov. Met. 1.578",
+"text": "nescia, gratentur consolenturne parentem,"
+},
+{
+"id": "1.579",
+"label": "Ov. Met. 1.579",
+"text": "populifer Sperchios et inrequietus Enipeus"
+},
+{
+"id": "1.580",
+"label": "Ov. Met. 1.580",
+"text": "Apidanusque senex lenisque Amphrysos et Aeas,"
+},
+{
+"id": "1.581",
+"label": "Ov. Met. 1.581",
+"text": "moxque amnes alii, qui, qua tulit impetus illos,"
+},
+{
+"id": "1.582",
+"label": "Ov. Met. 1.582",
+"text": "in mare deducunt fessas erroribus undas."
+},
+{
+"id": "1.583",
+"label": "Ov. Met. 1.583",
+"text": "Inachus unus abest imoque reconditus antro"
+},
+{
+"id": "1.584",
+"label": "Ov. Met. 1.584",
+"text": "fletibus auget aquas natamque miserrimus Io"
+},
+{
+"id": "1.585",
+"label": "Ov. Met. 1.585",
+"text": "luget ut amissam. Nescit, vitane fruatur,"
+},
+{
+"id": "1.586",
+"label": "Ov. Met. 1.586",
+"text": "an sit apud manes; sed quam non invenit usquam."
+},
+{
+"id": "1.587",
+"label": "Ov. Met. 1.587",
+"text": "esse putat nusquam atque animo peiora veretur."
+},
+{
+"id": "1.588",
+"label": "Ov. Met. 1.588",
+"text": "Viderat a patrio redeuntem Iuppiter illam"
+},
+{
+"id": "1.589",
+"label": "Ov. Met. 1.589",
+"text": "flumine et “o virgo Iove digna tuoque beatum"
+},
+{
+"id": "1.590",
+"label": "Ov. Met. 1.590",
+"text": "nescio quem factura toro, pete” dixerat “umbras"
+},
+{
+"id": "1.591",
+"label": "Ov. Met. 1.591",
+"text": "altorum nemorum” (et nemorum monstraverat umbras),"
+},
+{
+"id": "1.592",
+"label": "Ov. Met. 1.592",
+"text": "“dum calet et medio sol est altissimus orbe."
+},
+{
+"id": "1.593",
+"label": "Ov. Met. 1.593",
+"text": "Quodsi sola times latebras intrare ferarum,"
+},
+{
+"id": "1.594",
+"label": "Ov. Met. 1.594",
+"text": "praeside tuta deo nemorum secreta subibis,"
+},
+{
+"id": "1.595",
+"label": "Ov. Met. 1.595",
+"text": "nec de plebe deo, sed qui caelestia magna"
+},
+{
+"id": "1.596",
+"label": "Ov. Met. 1.596",
+"text": "sceptra manu teneo, sed qui vaga fulmina mitto."
+},
+{
+"id": "1.597",
+"label": "Ov. Met. 1.597",
+"text": "Ne fuge me!”—fugiebat enim. Iam pascua Lernae"
+},
+{
+"id": "1.598",
+"label": "Ov. Met. 1.598",
+"text": "consitaque arboribus Lyrcea reliquerat arva,"
+},
+{
+"id": "1.599",
+"label": "Ov. Met. 1.599",
+"text": "cum deus inducta latas caligine terras"
+},
+{
+"id": "1.600",
+"label": "Ov. Met. 1.600",
+"text": "occuluit tenuitque fugam rapuitque pudorem."
+},
+{
+"id": "1.601",
+"label": "Ov. Met. 1.601",
+"text": "Interea medios Iuno despexit in agros"
+},
+{
+"id": "1.602",
+"label": "Ov. Met. 1.602",
+"text": "et noctis faciem nebulas fecisse volucres"
+},
+{
+"id": "1.603",
+"label": "Ov. Met. 1.603",
+"text": "sub nitido mirata die, non fluminis illas"
+},
+{
+"id": "1.604",
+"label": "Ov. Met. 1.604",
+"text": "esse, nec umenti sensit tellure remitti;"
+},
+{
+"id": "1.605",
+"label": "Ov. Met. 1.605",
+"text": "atque suus coniunx ubi sit circumspicit, ut quae"
+},
+{
+"id": "1.606",
+"label": "Ov. Met. 1.606",
+"text": "deprensi totiens iam nosset furta mariti."
+},
+{
+"id": "1.607",
+"label": "Ov. Met. 1.607",
+"text": "Quem postquam caelo non repperit, “aut ego fallor,"
+},
+{
+"id": "1.608",
+"label": "Ov. Met. 1.608",
+"text": "aut ego laedor” ait, delapsaque ab aethere summo"
+},
+{
+"id": "1.609",
+"label": "Ov. Met. 1.609",
+"text": "constitit in terris nebulasque recedere iussit."
+},
+{
+"id": "1.610",
+"label": "Ov. Met. 1.610",
+"text": "Coniugis adventum praesenserat inque nitentem"
+},
+{
+"id": "1.611",
+"label": "Ov. Met. 1.611",
+"text": "Inachidos vultus mutaverat ille iuvencam."
+},
+{
+"id": "1.612",
+"label": "Ov. Met. 1.612",
+"text": "Bos quoque formosa est. Speciem Saturnia vaccae,"
+},
+{
+"id": "1.613",
+"label": "Ov. Met. 1.613",
+"text": "quamquam invita, probat, nec non et cuius et unde"
+},
+{
+"id": "1.614",
+"label": "Ov. Met. 1.614",
+"text": "quove sit armento, veri quasi nescia quaerit."
+},
+{
+"id": "1.615",
+"label": "Ov. Met. 1.615",
+"text": "Iuppiter e terra genitam mentitur, ut auctor"
+},
+{
+"id": "1.616",
+"label": "Ov. Met. 1.616",
+"text": "desinat inquiri. Petit hanc Saturnia munus."
+},
+{
+"id": "1.617",
+"label": "Ov. Met. 1.617",
+"text": "Quid faciat? crudele suos addicere amores,"
+},
+{
+"id": "1.618",
+"label": "Ov. Met. 1.618",
+"text": "non dare suspectum est. Pudor est qui suadeat illinc,"
+},
+{
+"id": "1.619",
+"label": "Ov. Met. 1.619",
+"text": "hinc dissuadet amor. Victus pudor esset amore;"
+},
+{
+"id": "1.620",
+"label": "Ov. Met. 1.620",
+"text": "sed leve si munus sociae generisque torique"
+},
+{
+"id": "1.621",
+"label": "Ov. Met. 1.621",
+"text": "vacca negaretur, poterat non vacca videri."
+},
+{
+"id": "1.622",
+"label": "Ov. Met. 1.622",
+"text": "Paelice donata non protinus exuit omnem"
+},
+{
+"id": "1.623",
+"label": "Ov. Met. 1.623",
+"text": "diva metum timuitque Iovem et fuit anxia furti,"
+},
+{
+"id": "1.624",
+"label": "Ov. Met. 1.624",
+"text": "donec Arestoridae servandam tradidit Argo."
+},
+{
+"id": "1.625",
+"label": "Ov. Met. 1.625",
+"text": "Centum luminibus cinctum caput Argus habebat:"
+},
+{
+"id": "1.626",
+"label": "Ov. Met. 1.626",
+"text": "inde suis vicibus capiebant bina quietem,"
+},
+{
+"id": "1.627",
+"label": "Ov. Met. 1.627",
+"text": "cetera servabant atque in statione manebant."
+},
+{
+"id": "1.628",
+"label": "Ov. Met. 1.628",
+"text": "Constiterat quocumque modo, spectabat ad Io:"
+},
+{
+"id": "1.629",
+"label": "Ov. Met. 1.629",
+"text": "ante oculos Io, quamvis aversus, habebat."
+},
+{
+"id": "1.630",
+"label": "Ov. Met. 1.630",
+"text": "Luce sinit pasci; cum sol tellure sub alta est,"
+},
+{
+"id": "1.631",
+"label": "Ov. Met. 1.631",
+"text": "claudit et indigno circumdat vincula collo."
+},
+{
+"id": "1.632",
+"label": "Ov. Met. 1.632",
+"text": "frondibus arboreis et amara pascitur herba,"
+},
+{
+"id": "1.633",
+"label": "Ov. Met. 1.633",
+"text": "proque toro terrae non semper gramen habenti"
+},
+{
+"id": "1.634",
+"label": "Ov. Met. 1.634",
+"text": "incubat infelix limosaque flumina potat."
+},
+{
+"id": "1.635",
+"label": "Ov. Met. 1.635",
+"text": "Illa etiam supplex Argo cum bracchia vellet"
+},
+{
+"id": "1.636",
+"label": "Ov. Met. 1.636",
+"text": "tendere, non habuit, quae bracchia tenderet Argo,"
+},
+{
+"id": "1.637",
+"label": "Ov. Met. 1.637",
+"text": "et conata queri mugitus edidit ore"
+},
+{
+"id": "1.638",
+"label": "Ov. Met. 1.638",
+"text": "pertimuitque sonos propriaque exterrita voce est."
+},
+{
+"id": "1.639",
+"label": "Ov. Met. 1.639",
+"text": "Venit et ad ripas, ubi ludere saepe solebat,"
+},
+{
+"id": "1.640",
+"label": "Ov. Met. 1.640",
+"text": "Inachidas ripas; novaque ut conspexit in unda"
+},
+{
+"id": "1.641",
+"label": "Ov. Met. 1.641",
+"text": "cornua, pertimuit seque exsternata refugit."
+},
+{
+"id": "1.642",
+"label": "Ov. Met. 1.642",
+"text": "Naides ignorant, ignorat et Inachus ipse,"
+},
+{
+"id": "1.643",
+"label": "Ov. Met. 1.643",
+"text": "quae sit; at illa patrem sequitur sequiturque sorores"
+},
+{
+"id": "1.644",
+"label": "Ov. Met. 1.644",
+"text": "et patitur tangi seque admirantibus offert."
+},
+{
+"id": "1.645",
+"label": "Ov. Met. 1.645",
+"text": "Decerptas senior porrexerat Inachus herbas:"
+},
+{
+"id": "1.646",
+"label": "Ov. Met. 1.646",
+"text": "illa manus lambit patriisque dat oscula palmis"
+},
+{
+"id": "1.647",
+"label": "Ov. Met. 1.647",
+"text": "nec retinet lacrimas et, si modo verba sequantur,"
+},
+{
+"id": "1.648",
+"label": "Ov. Met. 1.648",
+"text": "oret opem nomenque suum casusque loquatur."
+},
+{
+"id": "1.649",
+"label": "Ov. Met. 1.649",
+"text": "Littera pro verbis, quam pes in pulvere duxit,"
+},
+{
+"id": "1.650",
+"label": "Ov. Met. 1.650",
+"text": "corporis indicium mutati triste peregit."
+},
+{
+"id": "1.651",
+"label": "Ov. Met. 1.651",
+"text": "“Me miserum!” exclamat pater Inachus inque gementis"
+},
+{
+"id": "1.652",
+"label": "Ov. Met. 1.652",
+"text": "cornibus et niveae pendens cervice iuvencae"
+},
+{
+"id": "1.653",
+"label": "Ov. Met. 1.653",
+"text": "“me miserum!” ingeminat, “tune es quaesita per omnes"
+},
+{
+"id": "1.654",
+"label": "Ov. Met. 1.654",
+"text": "nata, mihi terras? tu non inventa reperta"
+},
+{
+"id": "1.655",
+"label": "Ov. Met. 1.655",
+"text": "luctus eras levior. Retices nec mutua nostris"
+},
+{
+"id": "1.656",
+"label": "Ov. Met. 1.656",
+"text": "dicta refers, alto tantum suspiria ducis"
+},
+{
+"id": "1.657",
+"label": "Ov. Met. 1.657",
+"text": "pectore, quodque unum potes, ad mea verba remugis."
+},
+{
+"id": "1.658",
+"label": "Ov. Met. 1.658",
+"text": "At tibi ego ignarus thalamos taedasque parabam,"
+},
+{
+"id": "1.659",
+"label": "Ov. Met. 1.659",
+"text": "spesque fuit generi mihi prima, secunda nepotum."
+},
+{
+"id": "1.660",
+"label": "Ov. Met. 1.660",
+"text": "De grege nunc tibi vir, nunc de grege natus habendus."
+},
+{
+"id": "1.661",
+"label": "Ov. Met. 1.661",
+"text": "Nec finire licet tantos mihi morte dolores,"
+},
+{
+"id": "1.662",
+"label": "Ov. Met. 1.662",
+"text": "sed nocet esse deum, praeclusaque ianua leti"
+},
+{
+"id": "1.663",
+"label": "Ov. Met. 1.663",
+"text": "aeternum nostros luctus extendit in aevum?”"
+},
+{
+"id": "1.664",
+"label": "Ov. Met. 1.664",
+"text": "Talia maerentem stellatus submovet Argus"
+},
+{
+"id": "1.665",
+"label": "Ov. Met. 1.665",
+"text": "ereptamque patri diversa in pascua natam"
+},
+{
+"id": "1.666",
+"label": "Ov. Met. 1.666",
+"text": "abstrahit. Ipse procul montis sublime cacumen"
+},
+{
+"id": "1.667",
+"label": "Ov. Met. 1.667",
+"text": "occupat, unde sedens partes speculatur in omnes."
+},
+{
+"id": "1.668",
+"label": "Ov. Met. 1.668",
+"text": "Nec superum rector mala tanta Phoronidos ultra"
+},
+{
+"id": "1.669",
+"label": "Ov. Met. 1.669",
+"text": "ferre potest natumque vocat, quem lucida partu"
+},
+{
+"id": "1.670",
+"label": "Ov. Met. 1.670",
+"text": "Pleias enixa est, letoque det imperat Argum."
+},
+{
+"id": "1.671",
+"label": "Ov. Met. 1.671",
+"text": "Parva mora est alas pedibus virgamque potenti"
+},
+{
+"id": "1.672",
+"label": "Ov. Met. 1.672",
+"text": "somniferam sumpsisse manu tegimenque capillis."
+},
+{
+"id": "1.673",
+"label": "Ov. Met. 1.673",
+"text": "Haec ubi disposuit, patria Iove natus ab arce"
+},
+{
+"id": "1.674",
+"label": "Ov. Met. 1.674",
+"text": "desilit in terras. Illic tegimenque removit"
+},
+{
+"id": "1.675",
+"label": "Ov. Met. 1.675",
+"text": "et posuit pennas, tantummodo virga retenta est."
+},
+{
+"id": "1.676",
+"label": "Ov. Met. 1.676",
+"text": "Hac agit, ut pastor, per devia rura capellas,"
+},
+{
+"id": "1.677",
+"label": "Ov. Met. 1.677",
+"text": "dum venit, adductas et structis cantat avenis."
+},
+{
+"id": "1.678",
+"label": "Ov. Met. 1.678",
+"text": "Voce nova captus custos Iunonius “at tu,"
+},
+{
+"id": "1.679",
+"label": "Ov. Met. 1.679",
+"text": "quisquis es, hoc poteras mecum considere saxo,”"
+},
+{
+"id": "1.680",
+"label": "Ov. Met. 1.680",
+"text": "Argus ait, “neque enim pecori fecundior ullo"
+},
+{
+"id": "1.681",
+"label": "Ov. Met. 1.681",
+"text": "herba loco est, aptamque vides pastoribus umbram.”"
+},
+{
+"id": "1.682",
+"label": "Ov. Met. 1.682",
+"text": "Sedit Atlantiades et euntem multa loquendo"
+},
+{
+"id": "1.683",
+"label": "Ov. Met. 1.683",
+"text": "detinuit sermone diem iunctisque canendo"
+},
+{
+"id": "1.684",
+"label": "Ov. Met. 1.684",
+"text": "vincere harundinibus servantia lumina temptat."
+},
+{
+"id": "1.685",
+"label": "Ov. Met. 1.685",
+"text": "Ille tamen pugnat molles evincere somnos"
+},
+{
+"id": "1.686",
+"label": "Ov. Met. 1.686",
+"text": "et, quamvis sopor est oculorum parte receptus,"
+},
+{
+"id": "1.687",
+"label": "Ov. Met. 1.687",
+"text": "parte tamen vigilat. Quaerit quoque (namque reperta"
+},
+{
+"id": "1.688",
+"label": "Ov. Met. 1.688",
+"text": "fistula nuper erat), qua sit ratione reperta."
+},
+{
+"id": "1.689",
+"label": "Ov. Met. 1.689",
+"text": "Tum deus “Arcadiae gelidis in montibus” inquit"
+},
+{
+"id": "1.690",
+"label": "Ov. Met. 1.690",
+"text": "“inter hamadryadas celeberrima Nonacrinas"
+},
+{
+"id": "1.691",
+"label": "Ov. Met. 1.691",
+"text": "naias una fuit; nymphae Syringa vocabant."
+},
+{
+"id": "1.692",
+"label": "Ov. Met. 1.692",
+"text": "Non semel et satyros eluserat illa sequentes"
+},
+{
+"id": "1.693",
+"label": "Ov. Met. 1.693",
+"text": "et quoscumque deos umbrosaque silva feraxque"
+},
+{
+"id": "1.694",
+"label": "Ov. Met. 1.694",
+"text": "rus habet. Ortygiam studiis ipsaque colebat"
+},
+{
+"id": "1.695",
+"label": "Ov. Met. 1.695",
+"text": "virginitate deam. Ritu quoque cincta Dianae"
+},
+{
+"id": "1.696",
+"label": "Ov. Met. 1.696",
+"text": "falleret et posset credi Latonia, si non"
+},
+{
+"id": "1.697",
+"label": "Ov. Met. 1.697",
+"text": "corneus huic arcus, si non foret aureus illi."
+},
+{
+"id": "1.698",
+"label": "Ov. Met. 1.698",
+"text": "Sic quoque fallebat. Redeuntem colle Lycaeo"
+},
+{
+"id": "1.699",
+"label": "Ov. Met. 1.699",
+"text": "Pan videt hanc pinuque caput praecinctus acuta"
+},
+{
+"id": "1.700",
+"label": "Ov. Met. 1.700",
+"text": "talia verba refert”—restabat verba referre"
+},
+{
+"id": "1.701",
+"label": "Ov. Met. 1.701",
+"text": "et precibus spretis fugisse per avia nympham,"
+},
+{
+"id": "1.702",
+"label": "Ov. Met. 1.702",
+"text": "donec harenosi placidum Ladonis ad amnem"
+},
+{
+"id": "1.703",
+"label": "Ov. Met. 1.703",
+"text": "venerit. Hic illam cursum inpedientibus undis,"
+},
+{
+"id": "1.704",
+"label": "Ov. Met. 1.704",
+"text": "ut se mutarent liquidas orasse sorores,"
+},
+{
+"id": "1.705",
+"label": "Ov. Met. 1.705",
+"text": "Panaque, cum prensam sibi iam Syringa putaret,"
+},
+{
+"id": "1.706",
+"label": "Ov. Met. 1.706",
+"text": "corpore pro nymphae calamos tenuisse palustres."
+},
+{
+"id": "1.707",
+"label": "Ov. Met. 1.707",
+"text": "Dumque ibi suspirat, motos in harundine ventos"
+},
+{
+"id": "1.708",
+"label": "Ov. Met. 1.708",
+"text": "effecisse sonum tenuem similemque querenti."
+},
+{
+"id": "1.709",
+"label": "Ov. Met. 1.709",
+"text": "Arte nova vocisque deum dulcedine captum"
+},
+{
+"id": "1.710",
+"label": "Ov. Met. 1.710",
+"text": "“hoc mihi concilium tecum” dixisse “manebit!“"
+},
+{
+"id": "1.711",
+"label": "Ov. Met. 1.711",
+"text": "atque ita disparibus calamis conpagine cerae"
+},
+{
+"id": "1.712",
+"label": "Ov. Met. 1.712",
+"text": "inter se iunctis nomen tenuisse puellae."
+},
+{
+"id": "1.713",
+"label": "Ov. Met. 1.713",
+"text": "Talia dicturus vidit Cyllenius omnes"
+},
+{
+"id": "1.714",
+"label": "Ov. Met. 1.714",
+"text": "succubuisse oculos adopertaque lumina somno."
+},
+{
+"id": "1.715",
+"label": "Ov. Met. 1.715",
+"text": "Supprimit extemplo vocem firmatque soporem"
+},
+{
+"id": "1.716",
+"label": "Ov. Met. 1.716",
+"text": "languida permulcens medicata lumina virga."
+},
+{
+"id": "1.717",
+"label": "Ov. Met. 1.717",
+"text": "Nec mora, falcato nutantem vulnerat ense"
+},
+{
+"id": "1.718",
+"label": "Ov. Met. 1.718",
+"text": "qua collo est confine caput, saxoque cruentum"
+},
+{
+"id": "1.719",
+"label": "Ov. Met. 1.719",
+"text": "deicit et maculat praeruptam sanguine rupem."
+},
+{
+"id": "1.720",
+"label": "Ov. Met. 1.720",
+"text": "Arge, iaces, quodque in tot lumina lumen habebas,"
+},
+{
+"id": "1.721",
+"label": "Ov. Met. 1.721",
+"text": "exstinctum est, centumque oculos nox occupat una."
+},
+{
+"id": "1.722",
+"label": "Ov. Met. 1.722",
+"text": "Excipit hos volucrisque suae Saturnia pennis"
+},
+{
+"id": "1.723",
+"label": "Ov. Met. 1.723",
+"text": "collocat et gemmis caudam stellantibus inplet."
+},
+{
+"id": "1.724",
+"label": "Ov. Met. 1.724",
+"text": "Protinus exarsit nec tempora distulit irae"
+},
+{
+"id": "1.725",
+"label": "Ov. Met. 1.725",
+"text": "horriferamque oculis animoque obiecit Erinyn"
+},
+{
+"id": "1.726",
+"label": "Ov. Met. 1.726",
+"text": "paelicis Argolicae stimulosque in pectore caecos"
+},
+{
+"id": "1.727",
+"label": "Ov. Met. 1.727",
+"text": "condidit et profugam per totum terruit orbem."
+},
+{
+"id": "1.728",
+"label": "Ov. Met. 1.728",
+"text": "Ultimus inmenso restabas, Nile, labori."
+},
+{
+"id": "1.729",
+"label": "Ov. Met. 1.729",
+"text": "Quem simul ac tetigit, positis in margine ripae"
+},
+{
+"id": "1.730",
+"label": "Ov. Met. 1.730",
+"text": "procubuit genibus resupinoque ardua collo,"
+},
+{
+"id": "1.731",
+"label": "Ov. Met. 1.731",
+"text": "quos potuit solos, tollens ad sidera vultus"
+},
+{
+"id": "1.732",
+"label": "Ov. Met. 1.732",
+"text": "et gemitu et lacrimis et luctisono mugitu"
+},
+{
+"id": "1.733",
+"label": "Ov. Met. 1.733",
+"text": "cum Iove visa queri finemque orare malorum."
+},
+{
+"id": "1.734",
+"label": "Ov. Met. 1.734",
+"text": "Coniugis ille suae conplexus colla lacertis,"
+},
+{
+"id": "1.735",
+"label": "Ov. Met. 1.735",
+"text": "finiat ut poenas tandem, rogat “in” que “futurum"
+},
+{
+"id": "1.736",
+"label": "Ov. Met. 1.736",
+"text": "pone metus” inquit; “numquam tibi causa doloris"
+},
+{
+"id": "1.737",
+"label": "Ov. Met. 1.737",
+"text": "haec erit:” et Stygias iubet hoc audire paludes."
+},
+{
+"id": "1.738",
+"label": "Ov. Met. 1.738",
+"text": "Ut lenita dea est, vultus capit illa priores"
+},
+{
+"id": "1.739",
+"label": "Ov. Met. 1.739",
+"text": "fitque quod ante fuit: fugiunt e corpore saetae,"
+},
+{
+"id": "1.740",
+"label": "Ov. Met. 1.740",
+"text": "cornua decrescunt, fit luminis artior orbis,"
+},
+{
+"id": "1.741",
+"label": "Ov. Met. 1.741",
+"text": "contrahitur rictus, redeunt umerique manusque,"
+},
+{
+"id": "1.742",
+"label": "Ov. Met. 1.742",
+"text": "ungulaque in quinos dilapsa absumitur ungues:"
+},
+{
+"id": "1.743",
+"label": "Ov. Met. 1.743",
+"text": "de bove nil superest formae nisi candor in illa."
+},
+{
+"id": "1.744",
+"label": "Ov. Met. 1.744",
+"text": "Officioque pedum nymphe contenta duorum"
+},
+{
+"id": "1.745",
+"label": "Ov. Met. 1.745",
+"text": "erigitur metuitque loqui, ne more iuvencae"
+},
+{
+"id": "1.746",
+"label": "Ov. Met. 1.746",
+"text": "mugiat, et timide verba intermissa retemptat."
+},
+{
+"id": "1.747",
+"label": "Ov. Met. 1.747",
+"text": "Nunc dea linigera colitur celeberrima turba,"
+},
+{
+"id": "1.748",
+"label": "Ov. Met. 1.748",
+"text": "nunc Epaphus magni genitus de semine tandem"
+},
+{
+"id": "1.749",
+"label": "Ov. Met. 1.749",
+"text": "creditur esse Iovis, perque urbes iuncta parenti"
+},
+{
+"id": "1.750",
+"label": "Ov. Met. 1.750",
+"text": "templa tenet. Fuit huic animis aequalis et annis"
+},
+{
+"id": "1.751",
+"label": "Ov. Met. 1.751",
+"text": "Sole satus Phaethon. Quem quondam magna loquentem"
+},
+{
+"id": "1.752",
+"label": "Ov. Met. 1.752",
+"text": "nec sibi cedentem Phoeboque parente superbum"
+},
+{
+"id": "1.753",
+"label": "Ov. Met. 1.753",
+"text": "non tulit Inachides, “matri” que ait “omnia demens"
+},
+{
+"id": "1.754",
+"label": "Ov. Met. 1.754",
+"text": "credis et es tumidus genitoris imagine falsi.”"
+},
+{
+"id": "1.755",
+"label": "Ov. Met. 1.755",
+"text": "Erubuit Phaethon iramque pudore repressit"
+},
+{
+"id": "1.756",
+"label": "Ov. Met. 1.756",
+"text": "et tulit ad Clymenen Epaphi convicia matrem;"
+},
+{
+"id": "1.757",
+"label": "Ov. Met. 1.757",
+"text": "“quo” que “magis doleas genetrix,” ait “ille ego liber,"
+},
+{
+"id": "1.758",
+"label": "Ov. Met. 1.758",
+"text": "ille ferox tacui. Pudet haec opprobria nobis"
+},
+{
+"id": "1.759",
+"label": "Ov. Met. 1.759",
+"text": "et dici potuisse et non potuisse refelli."
+},
+{
+"id": "1.760",
+"label": "Ov. Met. 1.760",
+"text": "At tu, si modo sum caelesti stirpe creatus,"
+},
+{
+"id": "1.761",
+"label": "Ov. Met. 1.761",
+"text": "ede notam tanti generis meque adsere caelo.”"
+},
+{
+"id": "1.762",
+"label": "Ov. Met. 1.762",
+"text": "Dixit et inplicuit materno bracchia collo"
+},
+{
+"id": "1.763",
+"label": "Ov. Met. 1.763",
+"text": "perque suum Meropisque caput taedasque sororum"
+},
+{
+"id": "1.764",
+"label": "Ov. Met. 1.764",
+"text": "traderet oravit veri sibi signa parentis."
+},
+{
+"id": "1.765",
+"label": "Ov. Met. 1.765",
+"text": "Ambiguum, Clymene, precibus Phaethontis an ira"
+},
+{
+"id": "1.766",
+"label": "Ov. Met. 1.766",
+"text": "mota magis dicti sibi criminis utraque caelo"
+},
+{
+"id": "1.767",
+"label": "Ov. Met. 1.767",
+"text": "bracchia porrexit spectansque ad lumina solis"
+},
+{
+"id": "1.768",
+"label": "Ov. Met. 1.768",
+"text": "“per iubar hoc” inquit “radiis insigne coruscis,"
+},
+{
+"id": "1.769",
+"label": "Ov. Met. 1.769",
+"text": "nate, tibi iuro, quod nos auditque videtque,"
+},
+{
+"id": "1.770",
+"label": "Ov. Met. 1.770",
+"text": "hoc te, quem spectas, hoc te, qui temperat orbem,"
+},
+{
+"id": "1.771",
+"label": "Ov. Met. 1.771",
+"text": "Sole satum. Si ficta loquor, neget ipse videndum"
+},
+{
+"id": "1.772",
+"label": "Ov. Met. 1.772",
+"text": "se mihi, sitque oculis lux ista novissima nostris."
+},
+{
+"id": "1.773",
+"label": "Ov. Met. 1.773",
+"text": "Nec longus patrios labor est tibi nosse penates:"
+},
+{
+"id": "1.774",
+"label": "Ov. Met. 1.774",
+"text": "unde oritur, domus est terrae contermina nostrae."
+},
+{
+"id": "1.775",
+"label": "Ov. Met. 1.775",
+"text": "Si modo fert animus, gradere et scitabere ab ipso.”"
+},
+{
+"id": "1.776",
+"label": "Ov. Met. 1.776",
+"text": "Emicat extemplo laetus post talia matris"
+},
+{
+"id": "1.777",
+"label": "Ov. Met. 1.777",
+"text": "dicta suae Phaethon et concipit aethera mente,"
+},
+{
+"id": "1.778",
+"label": "Ov. Met. 1.778",
+"text": "Aethiopasque suos positosque sub ignibus Indos"
+},
+{
+"id": "1.779",
+"label": "Ov. Met. 1.779",
+"text": "sidereis transit patriosque adit inpiger ortus."
+}
+]
+}

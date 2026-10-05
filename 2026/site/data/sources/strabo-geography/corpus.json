@@ -1,0 +1,51 @@
+{
+ "id": "strabo-geography",
+ "title": "Strabo, Geography",
+ "language": "grc",
+ "edition": "Γεωγραφικά — Perseus Digital Library TEI (tlg0099.tlg001.perseus-grc2)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-greekLit TEI tlg0099.tlg001.perseus-grc2",
+ "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.chapter.section",
+ "units": [
+  "1",
+  "2a",
+  "2b",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
+  "11",
+  "12",
+  "13",
+  "14",
+  "15",
+  "16",
+  "17"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0099/tlg001/tlg0099.tlg001.perseus-grc2.xml",
+ "split_units": {
+  "2": [
+   {
+    "unit": "2a",
+    "passage_range": [
+     "2.1.1",
+     "2.5.41"
+    ]
+   },
+   {
+    "unit": "2b",
+    "passage_range": [
+     "2.5.42",
+     "2.5.43"
+    ]
+   }
+  ]
+ },
+ "split_note": "Units larger than ~300 KB are split at passage boundaries into <unit>a, <unit>b, ...; split_units maps the unit to its parts with each part's first and last passage id."
+}

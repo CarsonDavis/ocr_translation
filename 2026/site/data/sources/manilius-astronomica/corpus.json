@@ -1,0 +1,26 @@
+{
+ "id": "manilius-astronomica",
+ "title": "Manilius, Astronomica",
+ "language": "la",
+ "edition": "The Latin Library transcription",
+ "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+ "attribution": "Text: The Latin Library (thelatinlibrary.com), ed. William L. Carey",
+ "url": "https://www.thelatinlibrary.com/manilius1.html",
+ "unit_scheme": "book",
+ "passage_scheme": "book.line",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5"
+ ],
+ "passage_note": "chapter 'pr' is a preface; Roman chapter numerals are given in Arabic",
+ "source_files": [
+  "https://www.thelatinlibrary.com/manilius1.html",
+  "https://www.thelatinlibrary.com/manilius2.html",
+  "https://www.thelatinlibrary.com/manilius3.html",
+  "https://www.thelatinlibrary.com/manilius4.html",
+  "https://www.thelatinlibrary.com/manilius5.html"
+ ]
+}

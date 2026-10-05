@@ -1,0 +1,111 @@
+{
+"corpus": "digest",
+"unit": "48.1",
+"title": "D. 48.1 De publicis iudiciis",
+"passages": [
+{
+"id": "48.1.1",
+"label": "D. 48.1.1 (Macer)",
+"text": "Non omnia iudicia, in quibus crimen vertitur, et publica sunt, sed ea tantum, quae ex legibus iudiciorum publicorum veniunt, ut Iulia maiestatis, Iulia de adulteriis, Cornelia de sicariis et veneficis, Pompeia parricidii, Iulia peculatus, Cornelia de testamentis, Iulia de vi privata, Iulia de vi publica, Iulia ambitus, Iulia repetundarum, Iulia de annona.",
+"inscription": "Macer libro primo de publicis iudiciis"
+},
+{
+"id": "48.1.2",
+"label": "D. 48.1.2 (Paulus)",
+"text": "Publicorum iudiciorum quaedam capitalia sunt, quaedam non capitalia. Capitalia sunt, ex quibus poena mors aut exilium est, hoc est aquae et ignis interdictio: per has enim poenas eximitur caput de civitate. Nam cetera non exilia, sed relegationes proprie dicuntur: tunc enim civitas retinetur. Non capitalia sunt, ex quibus pecuniaria aut in corpus aliqua coercitio poena est.",
+"inscription": "Paulus libro 15 ad edictum praetoris"
+},
+{
+"id": "48.1.3",
+"label": "D. 48.1.3 (Ulpianus)",
+"text": "Publica accusatio reo vel rea ante defunctis permittitur.",
+"inscription": "Ulpianus libro 35 ad Sabinum"
+},
+{
+"id": "48.1.4",
+"label": "D. 48.1.4 (Paulus)",
+"text": "Interdum evenit, ut praeiudicium iudicio publico fiat, sicut in actione legis Aquiliae et furti et vi bonorum raptorum et interdicto unde vi et de tabulis testamenti exhibendis: nam in his de re familiari agitur.",
+"inscription": "Paulus libro 37 ad edictum"
+},
+{
+"id": "48.1.5.pr",
+"label": "D. 48.1.5 pr. (Ulpianus)",
+"text": "Is qui reus factus est purgare se debet nec ante potest accusare, quam fuerit excusatus: constitutionibus enim observatur, ut non relatione criminum, sed innocentia reus purgetur.",
+"inscription": "Ulpianus libro octavo disputationum"
+},
+{
+"id": "48.1.5.1",
+"label": "D. 48.1.5.1",
+"text": "Illud incertum est, utrum ita demum accusare potest, si fuerit liberatus, an et si poenam subierit: est enim constitutum ab imperatore nostro et divo patre eius post damnationem accusationem quem inchoare non posse. Sed hoc puto ad eos demum pertinere, qui vel civitatem vel libertatem amiserunt."
+},
+{
+"id": "48.1.5.2",
+"label": "D. 48.1.5.2",
+"text": "Inchoatas plane delationes ante damnationem implere eis et post damnationem permissum est."
+},
+{
+"id": "48.1.6",
+"label": "D. 48.1.6 (Marcianus)",
+"text": "Defuncto eo, qui reus fuit criminis, et poena extincta in quacumque causa criminis extincti debet is cognoscere, cuius de pecuniaria re cognitio est.",
+"inscription": "Marcianus libro 14 institutionum"
+},
+{
+"id": "48.1.7",
+"label": "D. 48.1.7 (Macer)",
+"text": "Infamem non ex omni crimine sententia facit, sed ex eo, quod iudicii publici causam habuit. Itaque ex eo crimine, quod iudicii publici non fuit, damnatum infamia non sequetur, nisi id crimen ex ea actione fuit, quae etiam in privato iudicio infamiam condemnato importat, veluti furti, vi bonorum raptorum, iniuriarum.",
+"inscription": "Macer libro secundo iudiciorum publicorum"
+},
+{
+"id": "48.1.8",
+"label": "D. 48.1.8 (Paulus)",
+"text": "Ordo exercendorum publicorum capitalium in usu esse desiit, durante tamen poena legum, cum extra ordinem crimina probantur.",
+"inscription": "Paulus libro singulari de iudiciis publicis"
+},
+{
+"id": "48.1.9",
+"label": "D. 48.1.9 (Marcianus)",
+"text": "Sciendum est, si in capitali causa suum servum reum crimine factum quis non defenderit, non eum pro derelicto haberi, et ideo, si absolutus fuerit, non liberum fieri, sed manere domini.",
+"inscription": "Marcianus libro primo de iudiciis publicis"
+},
+{
+"id": "48.1.10",
+"label": "D. 48.1.10 (Papinianus)",
+"text": "Inter accusatorem et reum cognitione suscepta excusatio pro absente iustis rationibus admittitur: nec per triduum per singulos dies ter citatus reus damnetur vel de accusatoris absentis praesente reo calumnia pronuntietur.",
+"inscription": "Papinianus libro secundo definitionum"
+},
+{
+"id": "48.1.11",
+"label": "D. 48.1.11 (Maecianus)",
+"text": "Servus per procuratorem domini aeque ac per dominum defendi potest.",
+"inscription": "Maecianus libro decimo de iudiciis publicis"
+},
+{
+"id": "48.1.12.pr",
+"label": "D. 48.1.12 pr. (Modestinus)",
+"text": "Custodias auditurus tam clarissimos viros quam patronos causarum, si omnes in civitate provinciae quam regit agunt, adhibere debet.",
+"inscription": "Modestinus libro tertio de poenis"
+},
+{
+"id": "48.1.12.1",
+"label": "D. 48.1.12.1",
+"text": "Et feriatis diebus custodias audiri posse rescriptum est, ita ut innoxios dimittat et nocentes, qui duriorem animadversionem indigent, differat."
+},
+{
+"id": "48.1.13.pr",
+"label": "D. 48.1.13 pr. (Papinianus)",
+"text": "Accusatore defuncto res ab alio, iudicante praeside provinciae, peragi potest.",
+"inscription": "Papinianus libro 15 responsorum"
+},
+{
+"id": "48.1.13.1",
+"label": "D. 48.1.13.1",
+"text": "Ad crimen iudicii publici persequendum frustra procurator intervenit, multoque magis ad defendendum: sed excusationes absentium ex senatus consulto iudicibus allegantur et, si iustam rationem habeant, sententia differtur."
+},
+{
+"id": "48.1.14",
+"label": "D. 48.1.14 (Papinianus)",
+"text": "Generi servis a socero veneficii accusatis praeses provinciae patrem calumniam intulisse pronuntiaverat. Inter infames patrem defunctae non habendum respondi, quoniam et si publicum iudicium inter liberos de morte filiae constitisset, citra periculum pater vindicaretur.",
+"inscription": "Papinianus libro 16 responsorum"
+}
+]
+}

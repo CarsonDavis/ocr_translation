@@ -1,0 +1,3137 @@
+{
+"corpus": "ovid-ibis",
+"unit": "all",
+"title": "Ovid, Ibis",
+"passages": [
+{
+"id": "1",
+"label": "Ov. Ib. 1",
+"text": "Tempus ad hoc ; lustris bis iam mihi quinque peractis ,"
+},
+{
+"id": "2",
+"label": "Ov. Ib. 2",
+"text": "Omne fuit Musae carmen inerme meae;"
+},
+{
+"id": "3",
+"label": "Ov. Ib. 3",
+"text": "Nullaque ; quae possit ; scriptis tot milibus , extat"
+},
+{
+"id": "4",
+"label": "Ov. Ib. 4",
+"text": "Littera Nasonis sanguinolenta legi:"
+},
+{
+"id": "5",
+"label": "Ov. Ib. 5",
+"text": "Nec quemquam nostri nisi me laesere libelli ,"
+},
+{
+"id": "6",
+"label": "Ov. Ib. 6",
+"text": "Artificis periit cum caput Arte sua ."
+},
+{
+"id": "7",
+"label": "Ov. Ib. 7",
+"text": "Unus — et hoc ipsum est iniuria magna — perennem"
+},
+{
+"id": "8",
+"label": "Ov. Ib. 8",
+"text": "Candoris titulum non sinit esse mei ."
+},
+{
+"id": "9",
+"label": "Ov. Ib. 9",
+"text": "Quisquis is est , — nam nomen adhuc utcumque tacebo —"
+},
+{
+"id": "10",
+"label": "Ov. Ib. 10",
+"text": "Cogit inassuetas sumere tela manus ."
+},
+{
+"id": "11",
+"label": "Ov. Ib. 11",
+"text": "Ille relegatum gelidos aquilonis ad ortus"
+},
+{
+"id": "12",
+"label": "Ov. Ib. 12",
+"text": "Non sinit exilio delituisse meo ;"
+},
+{
+"id": "13",
+"label": "Ov. Ib. 13",
+"text": "Vulneraque inmitis requiem quaerentia vexat ,"
+},
+{
+"id": "14",
+"label": "Ov. Ib. 14",
+"text": "Iactat et in toto nomina nostra foro ;"
+},
+{
+"id": "15",
+"label": "Ov. Ib. 15",
+"text": "Perpetuoque mihi sociatam foedere lecti"
+},
+{
+"id": "16",
+"label": "Ov. Ib. 16",
+"text": "Non patitur vivi funera flere viri."
+},
+{
+"id": "17",
+"label": "Ov. Ib. 17",
+"text": "Cumque ego quassa meae complectar membra carinae ,"
+},
+{
+"id": "18",
+"label": "Ov. Ib. 18",
+"text": "Naufragii tabulas pugnat habere mei:"
+},
+{
+"id": "19",
+"label": "Ov. Ib. 19",
+"text": "Et qui debuerat subitas extinguere flammas,"
+},
+{
+"id": "20",
+"label": "Ov. Ib. 20",
+"text": "Hic praedam medio raptor ab igne petit."
+},
+{
+"id": "21",
+"label": "Ov. Ib. 21",
+"text": "Nititur , ut profugae desint alimenta senectae ."
+},
+{
+"id": "22",
+"label": "Ov. Ib. 22",
+"text": "Heu ! quanto est nostris dignior ipse malis !"
+},
+{
+"id": "23",
+"label": "Ov. Ib. 23",
+"text": "Di melius ; quorum longe mihi maximus ille est,"
+},
+{
+"id": "24",
+"label": "Ov. Ib. 24",
+"text": "Qui nostras inopes noluit esse vias."
+},
+{
+"id": "25",
+"label": "Ov. Ib. 25",
+"text": "Huic igitur meritas grates , ubicumque licebit,"
+},
+{
+"id": "26",
+"label": "Ov. Ib. 26",
+"text": "Pro tam mansueto pectore semper agam ."
+},
+{
+"id": "27",
+"label": "Ov. Ib. 27",
+"text": "Audiat hoc Pontus . faciet quoque forsitan idem,"
+},
+{
+"id": "28",
+"label": "Ov. Ib. 28",
+"text": "Terra sit ut propior testificanda mihi."
+},
+{
+"id": "29",
+"label": "Ov. Ib. 29",
+"text": "At tibi , calcasti qui me , violente , iacentem ,"
+},
+{
+"id": "30",
+"label": "Ov. Ib. 30",
+"text": "Qua licet ei ! misero , debitus hostis ero ."
+},
+{
+"id": "31",
+"label": "Ov. Ib. 31",
+"text": "Desinet esse prius contrarius ignibus umor,"
+},
+{
+"id": "32",
+"label": "Ov. Ib. 32",
+"text": "Iunctaque cum luna lumina solis erunt;"
+},
+{
+"id": "33",
+"label": "Ov. Ib. 33",
+"text": "Parsque eadem caeli zephyros emittet et euros,"
+},
+{
+"id": "34",
+"label": "Ov. Ib. 34",
+"text": "Et tepidus gelido flabit ab axe notus;"
+},
+{
+"id": "35",
+"label": "Ov. Ib. 35",
+"text": "Et nova fraterno veniet concordia fumo,"
+},
+{
+"id": "36",
+"label": "Ov. Ib. 36",
+"text": "Quem vetus accensa separat ira pyra;"
+},
+{
+"id": "37",
+"label": "Ov. Ib. 37",
+"text": "Et ver autumno , brumae miscebitur aestas ,"
+},
+{
+"id": "38",
+"label": "Ov. Ib. 38",
+"text": "Atque eadem regio vesper et ortus erit:"
+},
+{
+"id": "39",
+"label": "Ov. Ib. 39",
+"text": "Quam mihi sit tecum positis, quae sumpsimus, armis"
+},
+{
+"id": "40",
+"label": "Ov. Ib. 40",
+"text": "Gratia , commissis , improbe , rupta tuis ."
+},
+{
+"id": "43",
+"label": "Ov. Ib. 43",
+"text": "Pax erit haec nobis, donec mihi vita manebit,"
+},
+{
+"id": "44",
+"label": "Ov. Ib. 44",
+"text": "Cum pecore infirmo quae solet esse lupis."
+},
+{
+"id": "45",
+"label": "Ov. Ib. 45",
+"text": "Prima quidem coepto committam proelia versu ,"
+},
+{
+"id": "46",
+"label": "Ov. Ib. 46",
+"text": "Non soleant quamvis hoc pede bella geri :"
+},
+{
+"id": "47",
+"label": "Ov. Ib. 47",
+"text": "Utque petit primo plenum flaventis harenae"
+},
+{
+"id": "48",
+"label": "Ov. Ib. 48",
+"text": "Nondum calfacti militis hasta solum,"
+},
+{
+"id": "49",
+"label": "Ov. Ib. 49",
+"text": "Sic ego te nondum ferro iaculabor acuto,"
+},
+{
+"id": "50",
+"label": "Ov. Ib. 50",
+"text": "Protinus invisum nec petet hasta caput;"
+},
+{
+"id": "51",
+"label": "Ov. Ib. 51",
+"text": "Et neque nomen in hoc , nec dicam facta libello,"
+},
+{
+"id": "52",
+"label": "Ov. Ib. 52",
+"text": "Teque brevi , qui sis , dissimulare sinam ."
+},
+{
+"id": "53",
+"label": "Ov. Ib. 53",
+"text": "Postmodo , si perges , in te mihi liber iambus"
+},
+{
+"id": "54",
+"label": "Ov. Ib. 54",
+"text": "Tincta Lycambeo sanguine tela dabit ."
+},
+{
+"id": "55",
+"label": "Ov. Ib. 55",
+"text": "Nunc quo Battiades inimicum devovet Ibin,"
+},
+{
+"id": "56",
+"label": "Ov. Ib. 56",
+"text": "Hoc ego devoveo teque tuosque modo."
+},
+{
+"id": "57",
+"label": "Ov. Ib. 57",
+"text": "Utque ille , historiis involvam carmina caecis :"
+},
+{
+"id": "58",
+"label": "Ov. Ib. 58",
+"text": "Non soleam quamvis hoc genus ipse sequi."
+},
+{
+"id": "59",
+"label": "Ov. Ib. 59",
+"text": "Illius ambages imitatus in Ibide dicar"
+},
+{
+"id": "60",
+"label": "Ov. Ib. 60",
+"text": "Oblitus moris iudiciique mei."
+},
+{
+"id": "61",
+"label": "Ov. Ib. 61",
+"text": "Et quoniam ; qui sis , nondum quaerentibus edo ,"
+},
+{
+"id": "62",
+"label": "Ov. Ib. 62",
+"text": "Ibidis interea tu quoque nomen habe ;"
+},
+{
+"id": "63",
+"label": "Ov. Ib. 63",
+"text": "Utque mei versus aliquantum noctis habebunt,"
+},
+{
+"id": "64",
+"label": "Ov. Ib. 64",
+"text": "Sic vitae series tota sit atra tuae ."
+},
+{
+"id": "65",
+"label": "Ov. Ib. 65",
+"text": "Haec tibi natali facito, Ianique kalendis"
+},
+{
+"id": "66",
+"label": "Ov. Ib. 66",
+"text": "Non mentituro quilibet ore legat."
+},
+{
+"id": "67",
+"label": "Ov. Ib. 67",
+"text": "Di maris et terrae , quique his meliora tenetis"
+},
+{
+"id": "68",
+"label": "Ov. Ib. 68",
+"text": "Inter diversos cum Iove regna polos ,"
+},
+{
+"id": "69",
+"label": "Ov. Ib. 69",
+"text": "Huc , precor , huc vestras omnes advertite mentes,"
+},
+{
+"id": "70",
+"label": "Ov. Ib. 70",
+"text": "Et sinite optatis pondus inesse meis :"
+},
+{
+"id": "71",
+"label": "Ov. Ib. 71",
+"text": "Ipsaque tu Tellus , ipsum cum fluctibus aequor ,"
+},
+{
+"id": "72",
+"label": "Ov. Ib. 72",
+"text": "Ipse meas aether accipe summe preces;"
+},
+{
+"id": "73",
+"label": "Ov. Ib. 73",
+"text": "Sideraque et radiis circumdata solis imago,"
+},
+{
+"id": "74",
+"label": "Ov. Ib. 74",
+"text": "Lunaque , quae numquam quo prius , orbe micas ,"
+},
+{
+"id": "75",
+"label": "Ov. Ib. 75",
+"text": "Noxque tenebrarum specie reverenda tuarum ;"
+},
+{
+"id": "76",
+"label": "Ov. Ib. 76",
+"text": "Quaeque ratum triplici pollice netis opus,"
+},
+{
+"id": "77",
+"label": "Ov. Ib. 77",
+"text": "Quique per infernas horrendo murmure valles"
+},
+{
+"id": "78",
+"label": "Ov. Ib. 78",
+"text": "Inperiuratae laberis amnis aquae,"
+},
+{
+"id": "79",
+"label": "Ov. Ib. 79",
+"text": "Quasque ferunt torto vittatis angue capillis"
+},
+{
+"id": "80",
+"label": "Ov. Ib. 80",
+"text": "Carceris obscuras ante sedere fores;"
+},
+{
+"id": "81",
+"label": "Ov. Ib. 81",
+"text": "Vos quoque , plebs superum , fauni satyrique laresque"
+},
+{
+"id": "82",
+"label": "Ov. Ib. 82",
+"text": "Fluminaque et nymphae semideumque genus:"
+},
+{
+"id": "83",
+"label": "Ov. Ib. 83",
+"text": "Denique ab antiquo divi veteresque novique"
+},
+{
+"id": "84",
+"label": "Ov. Ib. 84",
+"text": "In nostrum cuncti tempus , adeste , chao,"
+},
+{
+"id": "85",
+"label": "Ov. Ib. 85",
+"text": "Carmina dum capiti male fido dira canuntur"
+},
+{
+"id": "86",
+"label": "Ov. Ib. 86",
+"text": "Et peragunt partes ira dolorque suas ."
+},
+{
+"id": "87",
+"label": "Ov. Ib. 87",
+"text": "Adnuite optatis omnes ex ordine nostris,"
+},
+{
+"id": "88",
+"label": "Ov. Ib. 88",
+"text": "Et pars sit voti nulla caduca mei ."
+},
+{
+"id": "89",
+"label": "Ov. Ib. 89",
+"text": "Quaeque precor , fiant : ut non mea dicta , sed illa"
+},
+{
+"id": "90",
+"label": "Ov. Ib. 90",
+"text": "Pasiphaes generi verba fuisse putet ."
+},
+{
+"id": "91",
+"label": "Ov. Ib. 91",
+"text": "Quasque ego transiero poenas , patiatur et illas;"
+},
+{
+"id": "92",
+"label": "Ov. Ib. 92",
+"text": "Plenius ingenio sit miser ille meo !"
+},
+{
+"id": "93",
+"label": "Ov. Ib. 93",
+"text": "Neve minus noceant fictum execrantia nomen"
+},
+{
+"id": "94",
+"label": "Ov. Ib. 94",
+"text": "Vota , minus magnos commoveantve deos :"
+},
+{
+"id": "95",
+"label": "Ov. Ib. 95",
+"text": "Illum ego devoveo , quem mens intellegit , Ibin ,"
+},
+{
+"id": "96",
+"label": "Ov. Ib. 96",
+"text": "Qui scit se factis has meruisse preces ."
+},
+{
+"id": "97",
+"label": "Ov. Ib. 97",
+"text": "Nulla mora est in me : peragam rata vota sacerdos ."
+},
+{
+"id": "98",
+"label": "Ov. Ib. 98",
+"text": "Quisquis ades sacris , ore favete , meis ;"
+},
+{
+"id": "99",
+"label": "Ov. Ib. 99",
+"text": "Quisquis ades sacris , lugubria dicite verba,"
+},
+{
+"id": "100",
+"label": "Ov. Ib. 100",
+"text": "Et fletu madidis Ibin adite genis :"
+},
+{
+"id": "101",
+"label": "Ov. Ib. 101",
+"text": "Ominibusque malis pedibusque occurrite laevis,"
+},
+{
+"id": "102",
+"label": "Ov. Ib. 102",
+"text": "Et nigrae vestes corpora vestra tegant !"
+},
+{
+"id": "103",
+"label": "Ov. Ib. 103",
+"text": "Tu quoque , quid dubitas ferales sumere vittas ?"
+},
+{
+"id": "104",
+"label": "Ov. Ib. 104",
+"text": "Iam stat , ut ipse vides , funeris ara tui ."
+},
+{
+"id": "105",
+"label": "Ov. Ib. 105",
+"text": "Pompa parata tibi est . votis mora tristibus absit :"
+},
+{
+"id": "106",
+"label": "Ov. Ib. 106",
+"text": "Da iugulum cultris , hostia dira , meis ."
+},
+{
+"id": "107",
+"label": "Ov. Ib. 107",
+"text": "Terra tibi fruges , amnis tibi deneget undas ."
+},
+{
+"id": "108",
+"label": "Ov. Ib. 108",
+"text": "Deneget afflatus ventus et aura suos ."
+},
+{
+"id": "109",
+"label": "Ov. Ib. 109",
+"text": "Nec tibi sol calidus , nec sit tibi lucida Phoebe,"
+},
+{
+"id": "110",
+"label": "Ov. Ib. 110",
+"text": "Destituant oculos sidera clara tuos ."
+},
+{
+"id": "111",
+"label": "Ov. Ib. 111",
+"text": "Nec se Vulcanus , nec se tibi praebeat aer,"
+},
+{
+"id": "112",
+"label": "Ov. Ib. 112",
+"text": "Nec tibi det tellus nec tibi pontus iter ."
+},
+{
+"id": "113",
+"label": "Ov. Ib. 113",
+"text": "Exul , inops erres , alienaque limina lustres ,"
+},
+{
+"id": "114",
+"label": "Ov. Ib. 114",
+"text": "Exiguumque petas ore tremente cibum ."
+},
+{
+"id": "115",
+"label": "Ov. Ib. 115",
+"text": "Nec corpus querulo , nec mens vacet aegra dolore,"
+},
+{
+"id": "116",
+"label": "Ov. Ib. 116",
+"text": "Noxque die gravior sit tibi , nocte dies ."
+},
+{
+"id": "117",
+"label": "Ov. Ib. 117",
+"text": "Sisque miser semper , nec sis miserabilis ulli :"
+},
+{
+"id": "118",
+"label": "Ov. Ib. 118",
+"text": "Gaudeat adversis femina virque tuis ."
+},
+{
+"id": "119",
+"label": "Ov. Ib. 119",
+"text": "Accedat lacrimis odium , dignusque puteris ,"
+},
+{
+"id": "120",
+"label": "Ov. Ib. 120",
+"text": "Qui mala cum tuleris plurima , plura feras ."
+},
+{
+"id": "121",
+"label": "Ov. Ib. 121",
+"text": "Sitque , quod est rarum , solito defecta favore"
+},
+{
+"id": "122",
+"label": "Ov. Ib. 122",
+"text": "Fortunae facies invidiosa tuae ."
+},
+{
+"id": "123",
+"label": "Ov. Ib. 123",
+"text": "Causaque non desit , desit tibi copia mortis :"
+},
+{
+"id": "124",
+"label": "Ov. Ib. 124",
+"text": "Optatam fugiat vita coacta necem :"
+},
+{
+"id": "125",
+"label": "Ov. Ib. 125",
+"text": "Luctatusque diu cruciatos spiritus artus"
+},
+{
+"id": "126",
+"label": "Ov. Ib. 126",
+"text": "Deserat , et longa torqueat ante mora."
+},
+{
+"id": "127",
+"label": "Ov. Ib. 127",
+"text": "Evenient . dedit ipse mihi modo signa futuri"
+},
+{
+"id": "128",
+"label": "Ov. Ib. 128",
+"text": "Phoebus , et a laeva maesta volavit avis ."
+},
+{
+"id": "129",
+"label": "Ov. Ib. 129",
+"text": "Certe ego , quae voveo , superos motura putabo,"
+},
+{
+"id": "133",
+"label": "Ov. Ib. 133",
+"text": ">Quam dolor hic umquam spatio evanescere possit,"
+},
+{
+"id": "134",
+"label": "Ov. Ib. 134",
+"text": "Leniat aut odium tempus et hora meum ."
+},
+{
+"id": "135",
+"label": "Ov. Ib. 135",
+"text": "Pugnabunt arcu dum Thraces , Iazyges hasta ,"
+},
+{
+"id": "136",
+"label": "Ov. Ib. 136",
+"text": "Dum tepidus Ganges , frigidus Hister erit ;"
+},
+{
+"id": "137",
+"label": "Ov. Ib. 137",
+"text": "Robora dum montes , dum mollia pabula campi ,"
+},
+{
+"id": "138",
+"label": "Ov. Ib. 138",
+"text": "Dum Tiberis liquidas Tuscus habebit aquas,"
+},
+{
+"id": "139",
+"label": "Ov. Ib. 139",
+"text": "Tecum bella geram . nec mors mihi finiet iras,"
+},
+{
+"id": "140",
+"label": "Ov. Ib. 140",
+"text": "Saeva sed innocuis manibus arma dabit."
+},
+{
+"id": "141",
+"label": "Ov. Ib. 141",
+"text": "Tunc quoque , cum fuero vacuas dilapsus in auras ,"
+},
+{
+"id": "142",
+"label": "Ov. Ib. 142",
+"text": "Exanimis mores oderit umbra tuos,"
+},
+{
+"id": "143",
+"label": "Ov. Ib. 143",
+"text": "Tunc quoque factorum veniam memor umbra tuorum,"
+},
+{
+"id": "144",
+"label": "Ov. Ib. 144",
+"text": "Insequar et vultus ossea forma tuos."
+},
+{
+"id": "145",
+"label": "Ov. Ib. 145",
+"text": "Sive ego , quod nollem , longis consumptus ab annis ,"
+},
+{
+"id": "146",
+"label": "Ov. Ib. 146",
+"text": "Sive manu facta morte solutus ero :"
+},
+{
+"id": "147",
+"label": "Ov. Ib. 147",
+"text": "Sive per inmensas iactabor naufragus undas,"
+},
+{
+"id": "148",
+"label": "Ov. Ib. 148",
+"text": "Nostraque longinquus viscera piscis edet:"
+},
+{
+"id": "149",
+"label": "Ov. Ib. 149",
+"text": "Sive peregrinae carpent mea membra volucres:"
+},
+{
+"id": "150",
+"label": "Ov. Ib. 150",
+"text": "Sive meo tinguent sanguine rostra lupi:"
+},
+{
+"id": "151",
+"label": "Ov. Ib. 151",
+"text": "Sive aliquis dignatus erit subponere terrae"
+},
+{
+"id": "152",
+"label": "Ov. Ib. 152",
+"text": "Et dare plebeio corpus inane rogo :"
+},
+{
+"id": "153",
+"label": "Ov. Ib. 153",
+"text": "Quidquid ero , Stygiis erumpere nitar ab oris ,"
+},
+{
+"id": "154",
+"label": "Ov. Ib. 154",
+"text": "Et tendam gelidas ultor in ora manus ."
+},
+{
+"id": "155",
+"label": "Ov. Ib. 155",
+"text": "Me vigilans cernes , tacitis ego noctis in umbris"
+},
+{
+"id": "156",
+"label": "Ov. Ib. 156",
+"text": "Excutiam somnos visus adesse tuos ."
+},
+{
+"id": "157",
+"label": "Ov. Ib. 157",
+"text": "Denique quidquid ages , ante os oculosque volabo"
+},
+{
+"id": "158",
+"label": "Ov. Ib. 158",
+"text": "Et querar , et nulla sede quietus eris ."
+},
+{
+"id": "159",
+"label": "Ov. Ib. 159",
+"text": "Verbera torta dabunt sonitum nexaeque colubrae,"
+},
+{
+"id": "160",
+"label": "Ov. Ib. 160",
+"text": "Conscia fumabunt semper ad ora faces ."
+},
+{
+"id": "161",
+"label": "Ov. Ib. 161",
+"text": "His vivus furiis agitabere , mortuus isdem ,"
+},
+{
+"id": "162",
+"label": "Ov. Ib. 162",
+"text": "Et brevior poena vita futura tua est ."
+},
+{
+"id": "163",
+"label": "Ov. Ib. 163",
+"text": "Nec tibi continget funus lacrimaeque tuorum*"
+},
+{
+"id": "164",
+"label": "Ov. Ib. 164",
+"text": "Indeploratum proiciere caput;"
+},
+{
+"id": "165",
+"label": "Ov. Ib. 165",
+"text": "Carnificisque manu , populo plaudente , traheris ,"
+},
+{
+"id": "166",
+"label": "Ov. Ib. 166",
+"text": "Infixusque tuis ossibus uncus erit."
+},
+{
+"id": "167",
+"label": "Ov. Ib. 167",
+"text": "Ipsae te fugient , quae carpunt omnia , flammae ;"
+},
+{
+"id": "168",
+"label": "Ov. Ib. 168",
+"text": "Respuet invisum iusta cadaver humus."
+},
+{
+"id": "169",
+"label": "Ov. Ib. 169",
+"text": "Unguibus et rostro crudus trahet ilia vultur"
+},
+{
+"id": "170",
+"label": "Ov. Ib. 170",
+"text": "Et scindent avidi perfida corda canes."
+},
+{
+"id": "171",
+"label": "Ov. Ib. 171",
+"text": "Deque tuo fiet — licet hac sis laude superbus —"
+},
+{
+"id": "172",
+"label": "Ov. Ib. 172",
+"text": "Insatiabilibus corpore rixa lupis ."
+},
+{
+"id": "173",
+"label": "Ov. Ib. 173",
+"text": "In loca ab Elysiis diversa vocabere campis,"
+},
+{
+"id": "174",
+"label": "Ov. Ib. 174",
+"text": "Quasque tenet sedes noxia turba , coles ."
+},
+{
+"id": "175",
+"label": "Ov. Ib. 175",
+"text": "Sisyphus est illic saxum volvensque petensque ,"
+},
+{
+"id": "176",
+"label": "Ov. Ib. 176",
+"text": "Quique agitur rapidae vinctus ab orbe rotae,"
+},
+{
+"id": "177",
+"label": "Ov. Ib. 177",
+"text": "Quaeque gerunt umeris perituras Belides undas,"
+},
+{
+"id": "178",
+"label": "Ov. Ib. 178",
+"text": "Exulis Aegypti , turba cruenta , nurus ."
+},
+{
+"id": "179",
+"label": "Ov. Ib. 179",
+"text": "Poma pater Pelopis praesentia quaerit , et idem"
+},
+{
+"id": "180",
+"label": "Ov. Ib. 180",
+"text": "Semper eget , liquidis semper abundat aquis ;"
+},
+{
+"id": "181",
+"label": "Ov. Ib. 181",
+"text": "Iugeribusque novem summus qui distat ab imo,"
+},
+{
+"id": "182",
+"label": "Ov. Ib. 182",
+"text": "Visceraque assiduae debita praebet avi."
+},
+{
+"id": "183",
+"label": "Ov. Ib. 183",
+"text": "Hic tibi de Furiis scindet latus una flagello,"
+},
+{
+"id": "184",
+"label": "Ov. Ib. 184",
+"text": "Ut sceleris numeros confiteare tui :"
+},
+{
+"id": "185",
+"label": "Ov. Ib. 185",
+"text": "Altera Tartareis sectos dabit anguibus artus:"
+},
+{
+"id": "186",
+"label": "Ov. Ib. 186",
+"text": "Tertia fumantes incoquet igne genas ."
+},
+{
+"id": "187",
+"label": "Ov. Ib. 187",
+"text": "Noxia mille modis lacerabitur umbra , tuasque"
+},
+{
+"id": "188",
+"label": "Ov. Ib. 188",
+"text": "Aeacus in poenas ingeniosus erit ."
+},
+{
+"id": "189",
+"label": "Ov. Ib. 189",
+"text": "In te transcribet veterum tormenta reorum:"
+},
+{
+"id": "190",
+"label": "Ov. Ib. 190",
+"text": "Omnibus antiquis causa quietis eris ."
+},
+{
+"id": "191",
+"label": "Ov. Ib. 191",
+"text": "Sisyphe , cui tradas revolubile pondus , habebis :"
+},
+{
+"id": "192",
+"label": "Ov. Ib. 192",
+"text": "Versabunt celeres nunc nova membra rotae :"
+},
+{
+"id": "193",
+"label": "Ov. Ib. 193",
+"text": "Hic et erit , ramos frustra qui captet et undas :"
+},
+{
+"id": "194",
+"label": "Ov. Ib. 194",
+"text": "Hic inconsumpto viscere pascet aves ."
+},
+{
+"id": "195",
+"label": "Ov. Ib. 195",
+"text": "Nec mortis poenas mors altera finiet huius ,"
+},
+{
+"id": "196",
+"label": "Ov. Ib. 196",
+"text": "Horaque erit tantis ultima nulla malis ."
+},
+{
+"id": "197",
+"label": "Ov. Ib. 197",
+"text": "Inde ego pauca canam , frondes ut siquis ab Ida"
+},
+{
+"id": "198",
+"label": "Ov. Ib. 198",
+"text": "Aut summam Libyco de mare carpat aquam ."
+},
+{
+"id": "199",
+"label": "Ov. Ib. 199",
+"text": "Nam neque quot flores Sicula nascantur in Hybla,"
+},
+{
+"id": "200",
+"label": "Ov. Ib. 200",
+"text": "Quotve ferat , dicam , terra Cilissa crocos ,"
+},
+{
+"id": "201",
+"label": "Ov. Ib. 201",
+"text": "Nec cum tristis hiems Aquilonis inhorruit alis,"
+},
+{
+"id": "202",
+"label": "Ov. Ib. 202",
+"text": "Quam multa fiat grandine canus Athos;"
+},
+{
+"id": "203",
+"label": "Ov. Ib. 203",
+"text": "Nec mala voce mea poterunt tua cuncta referri,"
+},
+{
+"id": "204",
+"label": "Ov. Ib. 204",
+"text": "Ora licet tribuas multiplicata mihi."
+},
+{
+"id": "205",
+"label": "Ov. Ib. 205",
+"text": "Tot tibi vae ! misero venient talesque ruinae ,"
+},
+{
+"id": "206",
+"label": "Ov. Ib. 206",
+"text": "Ut cogi in lacrimas me quoque posse putem."
+},
+{
+"id": "207",
+"label": "Ov. Ib. 207",
+"text": "Illae me lacrimae facient sine fine beatum :"
+},
+{
+"id": "208",
+"label": "Ov. Ib. 208",
+"text": "Dulcior hic risu tunc mihi fletus erit."
+},
+{
+"id": "209",
+"label": "Ov. Ib. 209",
+"text": "Natus es infelix , — ita di voluere — nec ulla"
+},
+{
+"id": "210",
+"label": "Ov. Ib. 210",
+"text": "Commoda nascenti stella levisve fuit ."
+},
+{
+"id": "211",
+"label": "Ov. Ib. 211",
+"text": "Non Venus affulsit , non illa Iuppiter hora ,"
+},
+{
+"id": "212",
+"label": "Ov. Ib. 212",
+"text": "Lunaque non apto solque fuere loco ,"
+},
+{
+"id": "213",
+"label": "Ov. Ib. 213",
+"text": "Nec satis utiliter positos tibi praebuit ignes"
+},
+{
+"id": "214",
+"label": "Ov. Ib. 214",
+"text": "Quem peperit magno lucida Maia Iovi."
+},
+{
+"id": "215",
+"label": "Ov. Ib. 215",
+"text": "Te fera nec quicquam placidum spondentia Martis"
+},
+{
+"id": "216",
+"label": "Ov. Ib. 216",
+"text": "Sidera presserunt falciferique senis ."
+},
+{
+"id": "217",
+"label": "Ov. Ib. 217",
+"text": "Lux quoque natalis , ne quid nisi triste videres ,"
+},
+{
+"id": "218",
+"label": "Ov. Ib. 218",
+"text": "Turpis et inductis nubibus atra fuit."
+},
+{
+"id": "219",
+"label": "Ov. Ib. 219",
+"text": "Haec est , in fastis cui dat gravis Allia nomen ,"
+},
+{
+"id": "220",
+"label": "Ov. Ib. 220",
+"text": "Quaeque dies Ibin , publica damna , tulit ."
+},
+{
+"id": "221",
+"label": "Ov. Ib. 221",
+"text": "Qui simul impurae matris prolapsus ab alvo"
+},
+{
+"id": "222",
+"label": "Ov. Ib. 222",
+"text": "Cinyphiam foedo corpore pressit humum,"
+},
+{
+"id": "223",
+"label": "Ov. Ib. 223",
+"text": "Sedit in adverso nocturnus culmine bubo,"
+},
+{
+"id": "224",
+"label": "Ov. Ib. 224",
+"text": "Funereoque graves edidit ore sonos ."
+},
+{
+"id": "225",
+"label": "Ov. Ib. 225",
+"text": "Protinus Eumenides lavere palustribus undis ,"
+},
+{
+"id": "226",
+"label": "Ov. Ib. 226",
+"text": "Qua cava de Stygiis fluxerat unda vadis,"
+},
+{
+"id": "227",
+"label": "Ov. Ib. 227",
+"text": "Pectoraque unxerunt Erebeae felle colubrae,"
+},
+{
+"id": "228",
+"label": "Ov. Ib. 228",
+"text": "Terque cruentatas increpuere manus ."
+},
+{
+"id": "229",
+"label": "Ov. Ib. 229",
+"text": "Gutturaque imbuerant infantia lacte canino :"
+},
+{
+"id": "230",
+"label": "Ov. Ib. 230",
+"text": "Hic primus pueri venit in ora cibus:"
+},
+{
+"id": "231",
+"label": "Ov. Ib. 231",
+"text": "Perbibit inde suae rabiem nutricis alumnus,"
+},
+{
+"id": "232",
+"label": "Ov. Ib. 232",
+"text": "Latrat et in toto verba canina foro ."
+},
+{
+"id": "233",
+"label": "Ov. Ib. 233",
+"text": "Membraque vinxerunt tinctis ferrugine pannis,"
+},
+{
+"id": "234",
+"label": "Ov. Ib. 234",
+"text": "A male deserto quos rapuere rogo :"
+},
+{
+"id": "235",
+"label": "Ov. Ib. 235",
+"text": "Et ne non fultum nuda tellure iaceret,"
+},
+{
+"id": "236",
+"label": "Ov. Ib. 236",
+"text": "Molle super silices inposuere caput."
+},
+{
+"id": "237",
+"label": "Ov. Ib. 237",
+"text": "Iamque recessurae viridi de stipite factas"
+},
+{
+"id": "238",
+"label": "Ov. Ib. 238",
+"text": "Admorunt oculos usque sub ora faces ."
+},
+{
+"id": "239",
+"label": "Ov. Ib. 239",
+"text": "Flebat , ut est infans fumis contactus amaris,"
+},
+{
+"id": "240",
+"label": "Ov. Ib. 240",
+"text": "De tribus est cum sic una locuta soror:"
+},
+{
+"id": "241",
+"label": "Ov. Ib. 241",
+"text": "‘Tempus in inmensum lacrimas tibi movimus istas,"
+},
+{
+"id": "242",
+"label": "Ov. Ib. 242",
+"text": "Quae semper causa sufficiente cadent.’"
+},
+{
+"id": "243",
+"label": "Ov. Ib. 243",
+"text": "Dixerat . at Clotho iussit promissa valere ,"
+},
+{
+"id": "244",
+"label": "Ov. Ib. 244",
+"text": "Nevit et infesta stamina pulla manu ;"
+},
+{
+"id": "245",
+"label": "Ov. Ib. 245",
+"text": "Et ne longa suo praesagia diceret ore ,"
+},
+{
+"id": "246",
+"label": "Ov. Ib. 246",
+"text": "Fata canet vales qui tua, dixit erit."
+},
+{
+"id": "247",
+"label": "Ov. Ib. 247",
+"text": "Ille ego sum vates . ex me tua vulnera disces,"
+},
+{
+"id": "248",
+"label": "Ov. Ib. 248",
+"text": "Dent modo di vires in mea verba suas,"
+},
+{
+"id": "249",
+"label": "Ov. Ib. 249",
+"text": "Carminibusque meis accedant pondera rerum ,"
+},
+{
+"id": "250",
+"label": "Ov. Ib. 250",
+"text": "Quae rata per luctus experiare tuos."
+},
+{
+"id": "251",
+"label": "Ov. Ib. 251",
+"text": "Neve sine exemplis aevi cruciere prioris,"
+},
+{
+"id": "252",
+"label": "Ov. Ib. 252",
+"text": "Sint tua Troianis non leviora malis ."
+},
+{
+"id": "253",
+"label": "Ov. Ib. 253",
+"text": "Quantaque clavigeri Poeantius Herculis heres,"
+},
+{
+"id": "254",
+"label": "Ov. Ib. 254",
+"text": "Tanta venenato vulnera crure geras ."
+},
+{
+"id": "255",
+"label": "Ov. Ib. 255",
+"text": "Nec levius doleas , quam qui bibit ubera cervae,"
+},
+{
+"id": "256",
+"label": "Ov. Ib. 256",
+"text": "Armatique tulit vulnus , inermis opem ."
+},
+{
+"id": "257",
+"label": "Ov. Ib. 257",
+"text": "Quique ab equo praeceps in Aleia decidit arva,"
+},
+{
+"id": "258",
+"label": "Ov. Ib. 258",
+"text": "Exitio facies cui sua paene fuit."
+},
+{
+"id": "259",
+"label": "Ov. Ib. 259",
+"text": "Id, quod Amyntorides, videas, trepidumque ministro"
+},
+{
+"id": "260",
+"label": "Ov. Ib. 260",
+"text": "Praetemptes baculo luminis orbus iter ."
+},
+{
+"id": "261",
+"label": "Ov. Ib. 261",
+"text": "Nec plus aspicias , quam quem sua filia rexit,"
+},
+{
+"id": "262",
+"label": "Ov. Ib. 262",
+"text": "Expertus scelus est cuius uterque parens:"
+},
+{
+"id": "263",
+"label": "Ov. Ib. 263",
+"text": "Qualis erat , postquam est iudex de lite iocosa"
+},
+{
+"id": "264",
+"label": "Ov. Ib. 264",
+"text": "Sumptus , Apollinea clarus in arte senex :"
+},
+{
+"id": "265",
+"label": "Ov. Ib. 265",
+"text": "Qualis et ille fuit , quo praecipiente columba"
+},
+{
+"id": "266",
+"label": "Ov. Ib. 266",
+"text": "Est data Palladiae praevia duxque rati :"
+},
+{
+"id": "267",
+"label": "Ov. Ib. 267",
+"text": "Quique oculis caruit, per quos male viderat aurum,"
+},
+{
+"id": "268",
+"label": "Ov. Ib. 268",
+"text": "Inferias nato quos dedit orba parens :"
+},
+{
+"id": "269",
+"label": "Ov. Ib. 269",
+"text": "Pastor ut Aetnaeus , cui casus ante futuros"
+},
+{
+"id": "270",
+"label": "Ov. Ib. 270",
+"text": "Telemus Eurymides vaticinatus erat :"
+},
+{
+"id": "271",
+"label": "Ov. Ib. 271",
+"text": "Ut duo Phinidae , quibus idem lumen ademit,"
+},
+{
+"id": "272",
+"label": "Ov. Ib. 272",
+"text": "Qui dedit : ut Thamyrae Demodocique caput ."
+},
+{
+"id": "273",
+"label": "Ov. Ib. 273",
+"text": "Sic aliquis tua membra secet , Saturnus ut illas"
+},
+{
+"id": "274",
+"label": "Ov. Ib. 274",
+"text": "Subsecuit partes , unde creatus erat ."
+},
+{
+"id": "275",
+"label": "Ov. Ib. 275",
+"text": "Nec tibi sit melior tumidis Neptunus in undis,"
+},
+{
+"id": "276",
+"label": "Ov. Ib. 276",
+"text": "Quam cui sunt subitae frater et uxor aves ;"
+},
+{
+"id": "277",
+"label": "Ov. Ib. 277",
+"text": "Sollertique viro , lacerae quem fracta tenentem"
+},
+{
+"id": "278",
+"label": "Ov. Ib. 278",
+"text": "Membra ratis Semeles est miserata soror ."
+},
+{
+"id": "279",
+"label": "Ov. Ib. 279",
+"text": "Vel tua , ne poenae genus hoc cognoverit unus,"
+},
+{
+"id": "280",
+"label": "Ov. Ib. 280",
+"text": "Viscera diversis scissa ferantur equis :"
+},
+{
+"id": "281",
+"label": "Ov. Ib. 281",
+"text": "Vel quae qui redemi Romano turpe putavit,"
+},
+{
+"id": "282",
+"label": "Ov. Ib. 282",
+"text": "A duce Puniceo pertulit , ipse feras ."
+},
+{
+"id": "283",
+"label": "Ov. Ib. 283",
+"text": "Nec tibi subsidio praesens sit numen , ut illi ,"
+},
+{
+"id": "284",
+"label": "Ov. Ib. 284",
+"text": "Cui nil Rhoetei profuit ara Iovis ."
+},
+{
+"id": "285",
+"label": "Ov. Ib. 285",
+"text": "Utque dedit saltus de summa Thessalus Ossa,"
+},
+{
+"id": "286",
+"label": "Ov. Ib. 286",
+"text": "Tu quoque saxoso praecipitere iugo ."
+},
+{
+"id": "287",
+"label": "Ov. Ib. 287",
+"text": "— Aut velut Eurylochi , qui sceptrum cepit ab illo ;"
+},
+{
+"id": "288",
+"label": "Ov. Ib. 288",
+"text": "Sint artus avidis anguibus esca tui ."
+},
+{
+"id": "289",
+"label": "Ov. Ib. 289",
+"text": "Vel tua maturet , sicut Minoia fata,"
+},
+{
+"id": "290",
+"label": "Ov. Ib. 290",
+"text": "Per caput infusae fervidus umor aquae ."
+},
+{
+"id": "291",
+"label": "Ov. Ib. 291",
+"text": "Utque operum mitis , sed non impune, Prometheus,"
+},
+{
+"id": "292",
+"label": "Ov. Ib. 292",
+"text": "Aerias volucres compede fixus alas ."
+},
+{
+"id": "293",
+"label": "Ov. Ib. 293",
+"text": "— Aut velut Etracides, magno ter ab Hercule quintus ,"
+},
+{
+"id": "294",
+"label": "Ov. Ib. 294",
+"text": "Caesus in inmensum proiciare fretum ."
+},
+{
+"id": "295",
+"label": "Ov. Ib. 295",
+"text": "Aut ut Amyntiaden , turpi dilectus amore"
+},
+{
+"id": "296",
+"label": "Ov. Ib. 296",
+"text": "Oderit , et saevo vulneret ense puer ."
+},
+{
+"id": "297",
+"label": "Ov. Ib. 297",
+"text": "Nec tibi fida magis misceri pocula possint,"
+},
+{
+"id": "298",
+"label": "Ov. Ib. 298",
+"text": "Quam qui cornigero de Iove natus erat ."
+},
+{
+"id": "299",
+"label": "Ov. Ib. 299",
+"text": "More vel intereas capti suspensus Achaei,"
+},
+{
+"id": "300",
+"label": "Ov. Ib. 300",
+"text": "Qui miser aurifera teste pependit aqua ."
+},
+{
+"id": "301",
+"label": "Ov. Ib. 301",
+"text": "Aut ut Achilliden , cognato nomine clarum ,"
+},
+{
+"id": "302",
+"label": "Ov. Ib. 302",
+"text": "Opprimat hostili tegula iacta manu ."
+},
+{
+"id": "303",
+"label": "Ov. Ib. 303",
+"text": "Nec tua quam Pyrrhi felicius ossa quiescant,"
+},
+{
+"id": "304",
+"label": "Ov. Ib. 304",
+"text": "Sparsa per Ambracias quae iacuere vias ."
+},
+{
+"id": "305",
+"label": "Ov. Ib. 305",
+"text": "Nataque ut Aeacidae iaculis moriaris adactis ;"
+},
+{
+"id": "306",
+"label": "Ov. Ib. 306",
+"text": "Non licet hoc Cereri dissimulare sacrum ."
+},
+{
+"id": "307",
+"label": "Ov. Ib. 307",
+"text": "Utque nepos dicti nostro modo carmine regis ,"
+},
+{
+"id": "308",
+"label": "Ov. Ib. 308",
+"text": "Cantharidum sucos dante parente bibas ."
+},
+{
+"id": "309",
+"label": "Ov. Ib. 309",
+"text": "Aut pia te caeso dicatur adultera , sicut"
+},
+{
+"id": "310",
+"label": "Ov. Ib. 310",
+"text": "Qua cecidit Leucon vindice , dicta pia est ."
+},
+{
+"id": "311",
+"label": "Ov. Ib. 311",
+"text": "Inque pyram tecum carissima corpora mittas,"
+},
+{
+"id": "312",
+"label": "Ov. Ib. 312",
+"text": "Quem finem vitae Sardanapallus habet."
+},
+{
+"id": "313",
+"label": "Ov. Ib. 313",
+"text": "Utque Iovis Libyci templum violare parantes,"
+},
+{
+"id": "314",
+"label": "Ov. Ib. 314",
+"text": "Acta noto vultus condat harena tuos ."
+},
+{
+"id": "315",
+"label": "Ov. Ib. 315",
+"text": "Utque necatorum Darei fraude secundi ,"
+},
+{
+"id": "316",
+"label": "Ov. Ib. 316",
+"text": "Sic tua subsidens devoret ora cinis ."
+},
+{
+"id": "317",
+"label": "Ov. Ib. 317",
+"text": "Aut ut olivifera quondam Sicyone profecto,"
+},
+{
+"id": "318",
+"label": "Ov. Ib. 318",
+"text": "Sit frigus mortis causa famesque tuae ."
+},
+{
+"id": "319",
+"label": "Ov. Ib. 319",
+"text": "Aut ut Atarnites , insutus pelle iuvenci"
+},
+{
+"id": "320",
+"label": "Ov. Ib. 320",
+"text": "Turpiter ad dominum praeda ferare tuum ."
+},
+{
+"id": "321",
+"label": "Ov. Ib. 321",
+"text": "Inque tuo thalamo ritu iugulere Pheraei,"
+},
+{
+"id": "322",
+"label": "Ov. Ib. 322",
+"text": "Qui datus est leto coniugis ense suae ."
+},
+{
+"id": "323",
+"label": "Ov. Ib. 323",
+"text": "Quosque putas fidos , ut Larisaeus Aleuas"
+},
+{
+"id": "324",
+"label": "Ov. Ib. 324",
+"text": "Vulnere non fidos experiare tuo ."
+},
+{
+"id": "325",
+"label": "Ov. Ib. 325",
+"text": "— Utque Milo , sub quo cruciata est Pisa tyranno ,"
+},
+{
+"id": "326",
+"label": "Ov. Ib. 326",
+"text": "Vivus in occultas praecipiteris aquas ."
+},
+{
+"id": "327",
+"label": "Ov. Ib. 327",
+"text": "Quaeque in Aphidantum Phylaceia regna tenentem"
+},
+{
+"id": "328",
+"label": "Ov. Ib. 328",
+"text": "A Iove venerunt , te quoque tela petant ."
+},
+{
+"id": "329",
+"label": "Ov. Ib. 329",
+"text": "— Aut ut Amastriacis quondam Lenaeus ab oris,"
+},
+{
+"id": "330",
+"label": "Ov. Ib. 330",
+"text": "Nudus Achillea destituaris humo ."
+},
+{
+"id": "331",
+"label": "Ov. Ib. 331",
+"text": "Utque vel Eurydamas ter circum busta Thrasylli"
+},
+{
+"id": "332",
+"label": "Ov. Ib. 332",
+"text": "Est Larisaeis raptus ab hoste rotis,"
+},
+{
+"id": "333",
+"label": "Ov. Ib. 333",
+"text": "Vel qui , quae fuerat tutatus moenia saepe ,"
+},
+{
+"id": "334",
+"label": "Ov. Ib. 334",
+"text": "Corpore lustravit non diuturna suo ,"
+},
+{
+"id": "335",
+"label": "Ov. Ib. 335",
+"text": "Utque novum passa genus Hippomeneide poenae"
+},
+{
+"id": "336",
+"label": "Ov. Ib. 336",
+"text": "Tractus in Actaea fertur adulter humo,"
+},
+{
+"id": "337",
+"label": "Ov. Ib. 337",
+"text": "Sic , ubi vita tuos invisa reliquerit artus,"
+},
+{
+"id": "338",
+"label": "Ov. Ib. 338",
+"text": "Ultores rapiant turpe cadaver equi ."
+},
+{
+"id": "339",
+"label": "Ov. Ib. 339",
+"text": "Viscera sic aliquis scopulus tua figat , ut olim"
+},
+{
+"id": "340",
+"label": "Ov. Ib. 340",
+"text": "Fixa sub Euboico Graia fuere sinu ;"
+},
+{
+"id": "341",
+"label": "Ov. Ib. 341",
+"text": "Utque ferox periit et fulmine et aequore raptor,"
+},
+{
+"id": "342",
+"label": "Ov. Ib. 342",
+"text": "Sic te mersuras adiuvet ignis aquas ."
+},
+{
+"id": "343",
+"label": "Ov. Ib. 343",
+"text": "Mens quoque sic furiis vecors agitetur , ut illi,"
+},
+{
+"id": "344",
+"label": "Ov. Ib. 344",
+"text": "Unum qui toto corpore vulnus habet;"
+},
+{
+"id": "345",
+"label": "Ov. Ib. 345",
+"text": "Utque Dryantiadae Rhodopeia regna tenenti,"
+},
+{
+"id": "346",
+"label": "Ov. Ib. 346",
+"text": "In gemino dispar cui pede cultus erat,"
+},
+{
+"id": "347",
+"label": "Ov. Ib. 347",
+"text": "Ut fuit Oetaeo quondam generoque draconum"
+},
+{
+"id": "348",
+"label": "Ov. Ib. 348",
+"text": "Tisamenique patri Callirhoesque viro ."
+},
+{
+"id": "349",
+"label": "Ov. Ib. 349",
+"text": "Nec tibi contingat matrona pudicior illa,"
+},
+{
+"id": "350",
+"label": "Ov. Ib. 350",
+"text": "Qua potuit Tydeus erubuisse nuru :"
+},
+{
+"id": "351",
+"label": "Ov. Ib. 351",
+"text": "Quaeque sui Venerem iunxit cum fratre mariti,"
+},
+{
+"id": "352",
+"label": "Ov. Ib. 352",
+"text": "Locris in ancillae dissimulata nece ."
+},
+{
+"id": "353",
+"label": "Ov. Ib. 353",
+"text": "Tam quoque , di faciant , possis gaudere fideli"
+},
+{
+"id": "354",
+"label": "Ov. Ib. 354",
+"text": "Coniuge , quam Talai Tyndareique gener :"
+},
+{
+"id": "355",
+"label": "Ov. Ib. 355",
+"text": "Quaeque parare suis letum patruelibus ausae"
+},
+{
+"id": "356",
+"label": "Ov. Ib. 356",
+"text": "Belides assidua colla premuntur aqua."
+},
+{
+"id": "357",
+"label": "Ov. Ib. 357",
+"text": "Byblidos et Canaces , si cui facis , ardeat igne ,"
+},
+{
+"id": "358",
+"label": "Ov. Ib. 358",
+"text": "Nec nisi per crimen sit tibi fida soror."
+},
+{
+"id": "359",
+"label": "Ov. Ib. 359",
+"text": "Filia si fuerit , sit quod Pelopea Thyesti,"
+},
+{
+"id": "360",
+"label": "Ov. Ib. 360",
+"text": "Myrrha suo patri , Nyctimeneque suo ."
+},
+{
+"id": "361",
+"label": "Ov. Ib. 361",
+"text": "Neve magis pia sit capitique parentis amica,"
+},
+{
+"id": "362",
+"label": "Ov. Ib. 362",
+"text": "Quam sua vel Pterelae , vel tibi , Nise , fuit :"
+},
+{
+"id": "363",
+"label": "Ov. Ib. 363",
+"text": "Infamemque locum sceleris quae nomine fecit,"
+},
+{
+"id": "364",
+"label": "Ov. Ib. 364",
+"text": "Pressit et inductis membra paterna rotis ."
+},
+{
+"id": "365",
+"label": "Ov. Ib. 365",
+"text": "Ut iuvenes pereas ; proiecta cadavera quorum ,"
+},
+{
+"id": "366",
+"label": "Ov. Ib. 366",
+"text": "Oraque Pisaeae sustinuere fores :"
+},
+{
+"id": "367",
+"label": "Ov. Ib. 367",
+"text": "Ut qui perfusam miserorum saepe procorum"
+},
+{
+"id": "368",
+"label": "Ov. Ib. 368",
+"text": "Ipse suo melius sanguine tinxit humum :"
+},
+{
+"id": "369",
+"label": "Ov. Ib. 369",
+"text": "Proditor ut saevi periit auriga tyranni,"
+},
+{
+"id": "370",
+"label": "Ov. Ib. 370",
+"text": "Qui nova Myrtoae nomina fecit aquae :"
+},
+{
+"id": "371",
+"label": "Ov. Ib. 371",
+"text": "Ut qui velocem frustra petiere puellam ,"
+},
+{
+"id": "372",
+"label": "Ov. Ib. 372",
+"text": "Dum facta est pomis tardior illa tribus :"
+},
+{
+"id": "373",
+"label": "Ov. Ib. 373",
+"text": "Ut qui tecta novi formam celantia monstri"
+},
+{
+"id": "375",
+"label": "Ov. Ib. 375",
+"text": "Ut quorum Aeacides misit violentus in altum"
+},
+{
+"id": "376",
+"label": "Ov. Ib. 376",
+"text": "Corpora cum senis altera sena rogum ."
+},
+{
+"id": "377",
+"label": "Ov. Ib. 377",
+"text": "Ut quos , obscuri victos ambagibus oris ,"
+},
+{
+"id": "378",
+"label": "Ov. Ib. 378",
+"text": "Legimus infandae Sphinga dedisse neci :"
+},
+{
+"id": "379",
+"label": "Ov. Ib. 379",
+"text": "Ut qui Bistoniae templo cecidere Minervae,"
+},
+{
+"id": "380",
+"label": "Ov. Ib. 380",
+"text": "Propter quod facies nunc quoque tecta deaest:"
+},
+{
+"id": "381",
+"label": "Ov. Ib. 381",
+"text": "Ut qui Threicii quondam praesepia regis"
+},
+{
+"id": "382",
+"label": "Ov. Ib. 382",
+"text": "Fecerunt dapibus sanguinolenta suis :"
+},
+{
+"id": "383",
+"label": "Ov. Ib. 383",
+"text": "— Therodamanteos ut qui sensere leones,"
+},
+{
+"id": "384",
+"label": "Ov. Ib. 384",
+"text": "Quique Thoanteae Taurica sacra deae:"
+},
+{
+"id": "385",
+"label": "Ov. Ib. 385",
+"text": "Ut quos Scylla vorax Scyllaeque adversa Charybdis"
+},
+{
+"id": "386",
+"label": "Ov. Ib. 386",
+"text": "Dulichiae pavidos eripuere rati :"
+},
+{
+"id": "387",
+"label": "Ov. Ib. 387",
+"text": "Ut quos demisit vastam Polyphemus in alvum :"
+},
+{
+"id": "388",
+"label": "Ov. Ib. 388",
+"text": "Ut Laestrygonias qui subiere manus :"
+},
+{
+"id": "389",
+"label": "Ov. Ib. 389",
+"text": "Ut quos dux Poenus mersit putealibus undis"
+},
+{
+"id": "390",
+"label": "Ov. Ib. 390",
+"text": "Et iacto canas pulvere fecit aquas ."
+},
+{
+"id": "391",
+"label": "Ov. Ib. 391",
+"text": "Sex bis ut Icaridos famulae periere procique,"
+},
+{
+"id": "392",
+"label": "Ov. Ib. 392",
+"text": "Inque caput domini qui dabat arma procis:"
+},
+{
+"id": "393",
+"label": "Ov. Ib. 393",
+"text": "Ut iacet Aonio luctator ab hospite fusus,"
+},
+{
+"id": "394",
+"label": "Ov. Ib. 394",
+"text": "Qui , mirum , victor , cum cecidisset , erat:"
+},
+{
+"id": "395",
+"label": "Ov. Ib. 395",
+"text": "Ut quos Antaei fortes pressere lacerti :"
+},
+{
+"id": "397",
+"label": "Ov. Ib. 397",
+"text": "Ut qui post longum , sacri monstrator iniqui ,"
+},
+{
+"id": "398",
+"label": "Ov. Ib. 398",
+"text": "Elicuit pluvias victima caesus aquas :"
+},
+{
+"id": "399",
+"label": "Ov. Ib. 399",
+"text": "Frater ut Antaei quo sanguine debuit , aras"
+},
+{
+"id": "400",
+"label": "Ov. Ib. 400",
+"text": "Tinxit , et exemplis occidit ipse suis :"
+},
+{
+"id": "401",
+"label": "Ov. Ib. 401",
+"text": "Ut qui terribiles pro gramen habentibus herbis"
+},
+{
+"id": "402",
+"label": "Ov. Ib. 402",
+"text": "Impius humano viscere pavit equos :"
+},
+{
+"id": "403",
+"label": "Ov. Ib. 403",
+"text": "Ut duo diversis sub eodem vindice caesi"
+},
+{
+"id": "404",
+"label": "Ov. Ib. 404",
+"text": "Vulneribus , Nessus Dexamenique gener :"
+},
+{
+"id": "405",
+"label": "Ov. Ib. 405",
+"text": "Ut pronepos , Saturne , tuus , quem reddere vitam"
+},
+{
+"id": "406",
+"label": "Ov. Ib. 406",
+"text": "Urbe Coronides vidit ab ipse sua :"
+},
+{
+"id": "407",
+"label": "Ov. Ib. 407",
+"text": "Ut Sinis et Sciron et cum Polypemone natus :"
+},
+{
+"id": "408",
+"label": "Ov. Ib. 408",
+"text": "Quique homo parte sui , parte iuvencus erat :"
+},
+{
+"id": "409",
+"label": "Ov. Ib. 409",
+"text": "Quique trabes pressas in humum mittebat in auras,"
+},
+{
+"id": "410",
+"label": "Ov. Ib. 410",
+"text": "Aequoris aspiciens huius et huius aquas:"
+},
+{
+"id": "411",
+"label": "Ov. Ib. 411",
+"text": "Quaeque Ceres laeto vidit pereuntia vultu"
+},
+{
+"id": "412",
+"label": "Ov. Ib. 412",
+"text": "Corpora Thesea Cercyonea manu ."
+},
+{
+"id": "413",
+"label": "Ov. Ib. 413",
+"text": "Haec tibi, quem meritis precibus mea devovet ira,"
+},
+{
+"id": "414",
+"label": "Ov. Ib. 414",
+"text": "Eveniant , aut his non leviora malis :"
+},
+{
+"id": "415",
+"label": "Ov. Ib. 415",
+"text": "Qualis Achaemenides Sicula desertus in Aetna,"
+},
+{
+"id": "416",
+"label": "Ov. Ib. 416",
+"text": "Troica cum vidit vela venire , fuit :"
+},
+{
+"id": "417",
+"label": "Ov. Ib. 417",
+"text": "Qualis erat nec non fortuna binominis Iri,"
+},
+{
+"id": "419",
+"label": "Ov. Ib. 419",
+"text": "Filius et Cereris frustra tibi semper ametur,"
+},
+{
+"id": "420",
+"label": "Ov. Ib. 420",
+"text": "Destituatque tuas usque petitus opes :"
+},
+{
+"id": "421",
+"label": "Ov. Ib. 421",
+"text": "Utque per alternos unda labente recursus"
+},
+{
+"id": "422",
+"label": "Ov. Ib. 422",
+"text": "Subtrahitur presso mollis harena pedi,"
+},
+{
+"id": "423",
+"label": "Ov. Ib. 423",
+"text": "Sic tua nescio qua semper fortuna liquescat,"
+},
+{
+"id": "424",
+"label": "Ov. Ib. 424",
+"text": "Lapsaque per medias effluat usque manus."
+},
+{
+"id": "425",
+"label": "Ov. Ib. 425",
+"text": "Utque pater solitae varias mutare figuras,"
+},
+{
+"id": "426",
+"label": "Ov. Ib. 426",
+"text": "Plenus inextincta destituare fame ."
+},
+{
+"id": "427",
+"label": "Ov. Ib. 427",
+"text": "Nec dapis humanae tibi sint fastidia . quaque"
+},
+{
+"id": "428",
+"label": "Ov. Ib. 428",
+"text": "Parte potes , Tydeus temporis huius eris ."
+},
+{
+"id": "429",
+"label": "Ov. Ib. 429",
+"text": "Atque aliquid facias , a vespere Solis ad ortus"
+},
+{
+"id": "430",
+"label": "Ov. Ib. 430",
+"text": "Cur externati rursus agantur equi."
+},
+{
+"id": "431",
+"label": "Ov. Ib. 431",
+"text": "Foeda Lycaoniae repetes convivia mensae,"
+},
+{
+"id": "432",
+"label": "Ov. Ib. 432",
+"text": "Temptabisque cibi fallere fraude Iovem ."
+},
+{
+"id": "433",
+"label": "Ov. Ib. 433",
+"text": "Teque aliquis posito temptet vim numinis opto,"
+},
+{
+"id": "434",
+"label": "Ov. Ib. 434",
+"text": "Tantalides ut sis tu Celeique puer."
+},
+{
+"id": "435",
+"label": "Ov. Ib. 435",
+"text": "Et tua sic latos spargantur membra per agros ,"
+},
+{
+"id": "436",
+"label": "Ov. Ib. 436",
+"text": "Tamquam quae patrias detinuere vias ."
+},
+{
+"id": "437",
+"label": "Ov. Ib. 437",
+"text": "Aere Perilleo veros imitere iuvencos,"
+},
+{
+"id": "438",
+"label": "Ov. Ib. 438",
+"text": "Ad formam tauri conveniente sono ."
+},
+{
+"id": "439",
+"label": "Ov. Ib. 439",
+"text": "Utque ferox Phalaris , lingua prius ense resecta"
+},
+{
+"id": "440",
+"label": "Ov. Ib. 440",
+"text": "More bovis Paphio clausus in aere gemas."
+},
+{
+"id": "441",
+"label": "Ov. Ib. 441",
+"text": "Dumque redire voles aevi melioris in annos,"
+},
+{
+"id": "442",
+"label": "Ov. Ib. 442",
+"text": "Ut vetus Admeti decipiare socer ."
+},
+{
+"id": "443",
+"label": "Ov. Ib. 443",
+"text": "Aut eques in medii mergare voragine caeni,"
+},
+{
+"id": "444",
+"label": "Ov. Ib. 444",
+"text": "Dummodo sint fati nomina nulla tui ."
+},
+{
+"id": "445",
+"label": "Ov. Ib. 445",
+"text": "Atque utinam pereas , veluti de dentibus orti"
+},
+{
+"id": "446",
+"label": "Ov. Ib. 446",
+"text": "Sidonia iactis Graia per arva manu ."
+},
+{
+"id": "447",
+"label": "Ov. Ib. 447",
+"text": "Et quae Pilthides fecit , pariterque Molinae"
+},
+{
+"id": "448",
+"label": "Ov. Ib. 448",
+"text": "Eveniant capiti vota sinistra tuo :"
+},
+{
+"id": "449",
+"label": "Ov. Ib. 449",
+"text": "Et quibus exiguo est volucris devota libello,"
+},
+{
+"id": "450",
+"label": "Ov. Ib. 450",
+"text": "Corpora proiecta quae sua purgat aqua ."
+},
+{
+"id": "451",
+"label": "Ov. Ib. 451",
+"text": "Vulnera totque feras , quot dicitur ille tulisse ,"
+},
+{
+"id": "452",
+"label": "Ov. Ib. 452",
+"text": "Cuius ab inferiis culter abesse solet."
+},
+{
+"id": "453",
+"label": "Ov. Ib. 453",
+"text": "Attonitusque seces , ut quos Cybeleia mater"
+},
+{
+"id": "454",
+"label": "Ov. Ib. 454",
+"text": "Incitat , ad Phrygios vilia membra modos ."
+},
+{
+"id": "455",
+"label": "Ov. Ib. 455",
+"text": "Deque viro fias nec femina nec vir , ut Attis ,"
+},
+{
+"id": "456",
+"label": "Ov. Ib. 456",
+"text": "Et quatias molli tympana rauca manu ."
+},
+{
+"id": "457",
+"label": "Ov. Ib. 457",
+"text": "Inque pecus subito Magnae vertare parentis,"
+},
+{
+"id": "458",
+"label": "Ov. Ib. 458",
+"text": "Victor ut est celeri victaque versa pede ."
+},
+{
+"id": "459",
+"label": "Ov. Ib. 459",
+"text": "Solaque Limone poenam ne senserit illam,"
+},
+{
+"id": "460",
+"label": "Ov. Ib. 460",
+"text": "Et tua dente fero viscera carpat equus ."
+},
+{
+"id": "461",
+"label": "Ov. Ib. 461",
+"text": "Aut ut Cassandreus , domino non mitior illo"
+},
+{
+"id": "462",
+"label": "Ov. Ib. 462",
+"text": "Saucius ingesta contumuleris humo ."
+},
+{
+"id": "463",
+"label": "Ov. Ib. 463",
+"text": "Aut ut Abantiades , aut ut Cygneius heros ,"
+},
+{
+"id": "464",
+"label": "Ov. Ib. 464",
+"text": "Clausus in aequoreas praecipiteris aquas ."
+},
+{
+"id": "465",
+"label": "Ov. Ib. 465",
+"text": "Victima vel Phoebo sacras macteris ad aras,"
+},
+{
+"id": "466",
+"label": "Ov. Ib. 466",
+"text": "Quam tulit a saevo Theudotus hoste necem ."
+},
+{
+"id": "467",
+"label": "Ov. Ib. 467",
+"text": "Aut te devoveat certis Abdera diebus,"
+},
+{
+"id": "468",
+"label": "Ov. Ib. 468",
+"text": "Saxaque devotum grandine plura petant."
+},
+{
+"id": "469",
+"label": "Ov. Ib. 469",
+"text": "Aut Iovis infesti telo feriare trisulco ,"
+},
+{
+"id": "470",
+"label": "Ov. Ib. 470",
+"text": "Ut satus Hipponoo , Dexionesque pater ,"
+},
+{
+"id": "471",
+"label": "Ov. Ib. 471",
+"text": "Ut soror Autonoes , ut cui matertera Maia ,"
+},
+{
+"id": "472",
+"label": "Ov. Ib. 472",
+"text": "Ut temere optatos qui male rexit equos ;"
+},
+{
+"id": "473",
+"label": "Ov. Ib. 473",
+"text": "Ut ferus Aeolides , ut sanguine sexus eodem ,"
+},
+{
+"id": "474",
+"label": "Ov. Ib. 474",
+"text": "Quo genita est liquidis quae caret Arctos aquis,"
+},
+{
+"id": "475",
+"label": "Ov. Ib. 475",
+"text": "— Ut Macelo rapidis icta est cum coniuge flammis,"
+},
+{
+"id": "476",
+"label": "Ov. Ib. 476",
+"text": "Sic , precor , aetherii vindicis igne cadas ."
+},
+{
+"id": "477",
+"label": "Ov. Ib. 477",
+"text": "Praedaque sis illis , quibus est Latonia Delos"
+},
+{
+"id": "478",
+"label": "Ov. Ib. 478",
+"text": "Ante diem rapto non adeunda Thaso :"
+},
+{
+"id": "479",
+"label": "Ov. Ib. 479",
+"text": "Quique verecundae speculantem labra Dianae ,"
+},
+{
+"id": "480",
+"label": "Ov. Ib. 480",
+"text": "Quique Crotopiaden diripuere Linum ."
+},
+{
+"id": "481",
+"label": "Ov. Ib. 481",
+"text": "Neve venenato levius feriaris ab angue,"
+},
+{
+"id": "482",
+"label": "Ov. Ib. 482",
+"text": "Quam senis Oeagri Calliopesque nurus :"
+},
+{
+"id": "483",
+"label": "Ov. Ib. 483",
+"text": "Quam puer Hypsipyles, quam qui cava primus acuta"
+},
+{
+"id": "484",
+"label": "Ov. Ib. 484",
+"text": "Cuspide suspecti robora fixit equi."
+},
+{
+"id": "485",
+"label": "Ov. Ib. 485",
+"text": "Neve gradus adeas Elpenore caulius altos,"
+},
+{
+"id": "486",
+"label": "Ov. Ib. 486",
+"text": "Vimque feras vini quo tulit ille modo ."
+},
+{
+"id": "487",
+"label": "Ov. Ib. 487",
+"text": "Tamque cadas domitus , quam quisquis ad arma vocantem"
+},
+{
+"id": "488",
+"label": "Ov. Ib. 488",
+"text": "Iuvit inhumanum Thiodamanta Dryops :"
+},
+{
+"id": "491",
+"label": "Ov. Ib. 491",
+"text": "Quam qui dona tulit Nesseo tincta veneno,"
+},
+{
+"id": "492",
+"label": "Ov. Ib. 492",
+"text": "Euboicasque suo nomine saepit aquas."
+},
+{
+"id": "493",
+"label": "Ov. Ib. 493",
+"text": "Nec de praecipiti venias in Tartara saxo,"
+},
+{
+"id": "494",
+"label": "Ov. Ib. 494",
+"text": "Ut qui Socraticum de nece legit opus ;"
+},
+{
+"id": "495",
+"label": "Ov. Ib. 495",
+"text": "Ut qui Theseae fallacia vela carinae"
+},
+{
+"id": "496",
+"label": "Ov. Ib. 496",
+"text": "Vidit , ut Iliaca missus ab arce puer ,"
+},
+{
+"id": "497",
+"label": "Ov. Ib. 497",
+"text": "Ut teneri nutrix , eadem matertera , Bacchi ,"
+},
+{
+"id": "498",
+"label": "Ov. Ib. 498",
+"text": "Ut cui causa necis serra reperta fuit;"
+},
+{
+"id": "499",
+"label": "Ov. Ib. 499",
+"text": "— Lydia se scopulis ut virgo misit ab altis,"
+},
+{
+"id": "500",
+"label": "Ov. Ib. 500",
+"text": "Dixerat invito quae mala verba deo ."
+},
+{
+"id": "501",
+"label": "Ov. Ib. 501",
+"text": "Feta tibi occurrat patrio popularis in arvo,"
+},
+{
+"id": "502",
+"label": "Ov. Ib. 502",
+"text": "Sitque Phalaeceae causa leaena necis ."
+},
+{
+"id": "503",
+"label": "Ov. Ib. 503",
+"text": "Quique Lycurgiden letavit , et arbore natum ;"
+},
+{
+"id": "504",
+"label": "Ov. Ib. 504",
+"text": "Idmonaque audacem ; te quoque rumpat aper ."
+},
+{
+"id": "505",
+"label": "Ov. Ib. 505",
+"text": "Isque vel exanimis faciat tibi vulnus ; ut illi,"
+},
+{
+"id": "506",
+"label": "Ov. Ib. 506",
+"text": "Ora super fixi quem cecidere suis ."
+},
+{
+"id": "507",
+"label": "Ov. Ib. 507",
+"text": "Sive idem ; simili pinus quem morte peremit ;"
+},
+{
+"id": "509",
+"label": "Ov. Ib. 509",
+"text": "Si tua contigerit Minoas puppis harenas,"
+},
+{
+"id": "510",
+"label": "Ov. Ib. 510",
+"text": "Te Corcyraeum Cressia turba putet ."
+},
+{
+"id": "511",
+"label": "Ov. Ib. 511",
+"text": "Lapsuramque domum subeas ; ut sanguis Aleuae ;"
+},
+{
+"id": "512",
+"label": "Ov. Ib. 512",
+"text": "Sella Leoprepidae cum ruit absque viro ."
+},
+{
+"id": "513",
+"label": "Ov. Ib. 513",
+"text": "Utque vel Euenus ; torrenti flumine mersus"
+},
+{
+"id": "514",
+"label": "Ov. Ib. 514",
+"text": "Nomina des rapidae ; vel Tiberinus , aquae ."
+},
+{
+"id": "515",
+"label": "Ov. Ib. 515",
+"text": "— Astacidaeque modo defixa cadavera trunco,"
+},
+{
+"id": "516",
+"label": "Ov. Ib. 516",
+"text": "Digna feris ; hominis sit caput esca tuum ;"
+},
+{
+"id": "517",
+"label": "Ov. Ib. 517",
+"text": "— Quodque ferunt Brotean fecisse cupidine mortis,"
+},
+{
+"id": "518",
+"label": "Ov. Ib. 518",
+"text": "Des tua succensae membra cremanda pyrae ."
+},
+{
+"id": "519",
+"label": "Ov. Ib. 519",
+"text": "Inclususque necem cavea patiaris ; ut ille"
+},
+{
+"id": "520",
+"label": "Ov. Ib. 520",
+"text": "Non profecturae conditor historiae ."
+},
+{
+"id": "521",
+"label": "Ov. Ib. 521",
+"text": "Utque repertori nocuit pugnacis iambi,"
+},
+{
+"id": "522",
+"label": "Ov. Ib. 522",
+"text": "Sic sit in exitium lingua proterva tuum ."
+},
+{
+"id": "523",
+"label": "Ov. Ib. 523",
+"text": "Utque parum stabili qui carmine laesit Athenas,"
+},
+{
+"id": "524",
+"label": "Ov. Ib. 524",
+"text": "Invisus pereas deficiente cibo ."
+},
+{
+"id": "525",
+"label": "Ov. Ib. 525",
+"text": "Utque lyrae vates fertur periisse severae,"
+},
+{
+"id": "526",
+"label": "Ov. Ib. 526",
+"text": "Causa sit exitii dextera laesa tui."
+},
+{
+"id": "527",
+"label": "Ov. Ib. 527",
+"text": "Utque Agamemnonio vulnus dedit anguis Oresti,"
+},
+{
+"id": "528",
+"label": "Ov. Ib. 528",
+"text": "Tu quoque de morsu virus habente cadas ."
+},
+{
+"id": "529",
+"label": "Ov. Ib. 529",
+"text": "Sit tibi coniugii nox prima novissima vitae :"
+},
+{
+"id": "530",
+"label": "Ov. Ib. 530",
+"text": "Eupolis hoc periit et nova nupta modo ."
+},
+{
+"id": "531",
+"label": "Ov. Ib. 531",
+"text": "Utque cothurnatum cecidisse Lycophrona narrant,"
+},
+{
+"id": "532",
+"label": "Ov. Ib. 532",
+"text": "Haereat in fibris fixa sagitta tuis ."
+},
+{
+"id": "533",
+"label": "Ov. Ib. 533",
+"text": "Aut Iacer in silva manibus spargare tuorum,"
+},
+{
+"id": "534",
+"label": "Ov. Ib. 534",
+"text": "Sparsus ut est Thebis angue creatus avo ."
+},
+{
+"id": "535",
+"label": "Ov. Ib. 535",
+"text": "Perque feros montes tauro rapiente traharis ,"
+},
+{
+"id": "536",
+"label": "Ov. Ib. 536",
+"text": "Ut tracta est coniunx imperiosa Lyci ."
+},
+{
+"id": "537",
+"label": "Ov. Ib. 537",
+"text": "Quodque suae passa est paelex invita sororis,"
+},
+{
+"id": "538",
+"label": "Ov. Ib. 538",
+"text": "Excidat ante pedes lingua resecta tuos ."
+},
+{
+"id": "541",
+"label": "Ov. Ib. 541",
+"text": "Inque tuis opifex , vati quod fecit Achaeo ,"
+},
+{
+"id": "542",
+"label": "Ov. Ib. 542",
+"text": "Noxia luminibus spicula condat apis ."
+},
+{
+"id": "545",
+"label": "Ov. Ib. 545",
+"text": "Ut puer Harpagides referas exempla Thyestae ;"
+},
+{
+"id": "546",
+"label": "Ov. Ib. 546",
+"text": "Inque tui caesus viscera patris eas ."
+},
+{
+"id": "547",
+"label": "Ov. Ib. 547",
+"text": "Trunca geras saevo mutilatis partibus ense,"
+},
+{
+"id": "548",
+"label": "Ov. Ib. 548",
+"text": "— Qualia Mamertae membra fuisse ferunt ."
+},
+{
+"id": "549",
+"label": "Ov. Ib. 549",
+"text": "Utque Syracosio praestricta fauce poetae,"
+},
+{
+"id": "550",
+"label": "Ov. Ib. 550",
+"text": "Sic animae laqueo sit via clausa tuae ."
+},
+{
+"id": "551",
+"label": "Ov. Ib. 551",
+"text": "Nudave derepta pateant tua viscera pelle ,"
+},
+{
+"id": "552",
+"label": "Ov. Ib. 552",
+"text": "Ut Phrygium cuius nomina flumen habet."
+},
+{
+"id": "553",
+"label": "Ov. Ib. 553",
+"text": "Saxificae videas infelix ora Medusae ,"
+},
+{
+"id": "554",
+"label": "Ov. Ib. 554",
+"text": "Cephenum multos quae dedit una neci."
+},
+{
+"id": "555",
+"label": "Ov. Ib. 555",
+"text": "Potniadum morsus subeas , ut Glaucus , equarum ,"
+},
+{
+"id": "559",
+"label": "Ov. Ib. 559",
+"text": "Sollicitoque bibas , Anyti doctissimus olim"
+},
+{
+"id": "560",
+"label": "Ov. Ib. 560",
+"text": "Inperturbato quod bibit ore reus ."
+},
+{
+"id": "561",
+"label": "Ov. Ib. 561",
+"text": "Nec tibi , siquid amas , felicius Haemone cedat :"
+},
+{
+"id": "562",
+"label": "Ov. Ib. 562",
+"text": "Utque sua Macareus , sic potiare tua ."
+},
+{
+"id": "563",
+"label": "Ov. Ib. 563",
+"text": "Vel videas , quod iam cum flammae cuncta tenerent,"
+},
+{
+"id": "564",
+"label": "Ov. Ib. 564",
+"text": "Hectoreus patria vidit ab arce puer ."
+},
+{
+"id": "565",
+"label": "Ov. Ib. 565",
+"text": "Sanguine probra luas , ut avo genitore creatus ,"
+},
+{
+"id": "566",
+"label": "Ov. Ib. 566",
+"text": "Per facinus soror est cui sua facta parens ."
+},
+{
+"id": "567",
+"label": "Ov. Ib. 567",
+"text": "Ossibus inque tuis teli genus haereat illud ,"
+},
+{
+"id": "568",
+"label": "Ov. Ib. 568",
+"text": "Traditur Icarii quo cecidisse gener ."
+},
+{
+"id": "569",
+"label": "Ov. Ib. 569",
+"text": "Utque loquax in equo est elisum guttur acerno,"
+},
+{
+"id": "570",
+"label": "Ov. Ib. 570",
+"text": "Sic tibi claudatur pollice vocis iter ."
+},
+{
+"id": "571",
+"label": "Ov. Ib. 571",
+"text": "Aut ut Anaxarchus , pila minuaris in alta ,"
+},
+{
+"id": "572",
+"label": "Ov. Ib. 572",
+"text": "Ictaque pro solitis frugibus ossa sonent."
+},
+{
+"id": "573",
+"label": "Ov. Ib. 573",
+"text": "Utque patrem Psamathes, condat te Phoebus in ima"
+},
+{
+"id": "574",
+"label": "Ov. Ib. 574",
+"text": "Tartara , quod natae fecerat ille suae ."
+},
+{
+"id": "575",
+"label": "Ov. Ib. 575",
+"text": "Inque tuos ea pestis eat , quam dextra Coroebi"
+},
+{
+"id": "576",
+"label": "Ov. Ib. 576",
+"text": "Vicit , opem miseris Argolisinque tulit."
+},
+{
+"id": "577",
+"label": "Ov. Ib. 577",
+"text": "Utque nepos Aethrae , Veneris moriturus ob iram ,"
+},
+{
+"id": "578",
+"label": "Ov. Ib. 578",
+"text": "Exul ab altonitis excutiaris equis."
+},
+{
+"id": "579",
+"label": "Ov. Ib. 579",
+"text": "Propter opes magnas ut perdidit hospes alumnum,"
+},
+{
+"id": "580",
+"label": "Ov. Ib. 580",
+"text": "Perdat ob exiguas te tuus hospes opes ."
+},
+{
+"id": "581",
+"label": "Ov. Ib. 581",
+"text": "Utque ferunt caesos sex cum Damasichthone fratres ,"
+},
+{
+"id": "582",
+"label": "Ov. Ib. 582",
+"text": "Intereat tecum sic genus omne tuum ."
+},
+{
+"id": "583",
+"label": "Ov. Ib. 583",
+"text": "Addidit ut fidicen miseris sua funera natis,"
+},
+{
+"id": "584",
+"label": "Ov. Ib. 584",
+"text": "Sic tibi sint vitae taedia iusta tuae ."
+},
+{
+"id": "585",
+"label": "Ov. Ib. 585",
+"text": "Utve soror Pelopis , saxo dureris oborto ,"
+},
+{
+"id": "586",
+"label": "Ov. Ib. 586",
+"text": "Et laesus lingua Battus ab ipse sua ."
+},
+{
+"id": "587",
+"label": "Ov. Ib. 587",
+"text": "Aera si misso liquidum iaculabere disco,"
+},
+{
+"id": "588",
+"label": "Ov. Ib. 588",
+"text": "Quo puer Oebalides , ictus ab orbe cadas ."
+},
+{
+"id": "589",
+"label": "Ov. Ib. 589",
+"text": "Siqua per alternos pulsabitur unda lacertos,"
+},
+{
+"id": "590",
+"label": "Ov. Ib. 590",
+"text": "Omnis Abydena sit tibi peior aqua ."
+},
+{
+"id": "591",
+"label": "Ov. Ib. 591",
+"text": "Comicus ut mediis periit , dum nabat , in undis,"
+},
+{
+"id": "592",
+"label": "Ov. Ib. 592",
+"text": "Et tua sic Stygius strangulet ora liquor ."
+},
+{
+"id": "593",
+"label": "Ov. Ib. 593",
+"text": "Aut ubi ventosum superaris naufragus aequor,"
+},
+{
+"id": "594",
+"label": "Ov. Ib. 594",
+"text": "Contacta pereas , ut Palinurus , humo ."
+},
+{
+"id": "595",
+"label": "Ov. Ib. 595",
+"text": "Utque cothurnatum vatem tutela Dianae,"
+},
+{
+"id": "596",
+"label": "Ov. Ib. 596",
+"text": "Dilaniet vigilum te quoque turba canum ."
+},
+{
+"id": "597",
+"label": "Ov. Ib. 597",
+"text": "Aut ut Trinacrius , salias super ora gigantis ,"
+},
+{
+"id": "598",
+"label": "Ov. Ib. 598",
+"text": "Plurima qua flammas Sicanis Aetna vomit."
+},
+{
+"id": "599",
+"label": "Ov. Ib. 599",
+"text": "Diripiantque tuos insanis unguibus artus"
+},
+{
+"id": "600",
+"label": "Ov. Ib. 600",
+"text": "Strymoniae matres , Orpheos esse ratae ."
+},
+{
+"id": "601",
+"label": "Ov. Ib. 601",
+"text": "Natus ut Althaeae flammis absentibus arsit,"
+},
+{
+"id": "602",
+"label": "Ov. Ib. 602",
+"text": "Sic tuus ardescat stipitis igne rogus ."
+},
+{
+"id": "603",
+"label": "Ov. Ib. 603",
+"text": "Ut nova Phasiaca comprensa est nupta corona,"
+},
+{
+"id": "604",
+"label": "Ov. Ib. 604",
+"text": "Utque pater nuptae , cumque parente domus ;"
+},
+{
+"id": "605",
+"label": "Ov. Ib. 605",
+"text": "Ut cruor Herculeos abiit diffusus in artus ;"
+},
+{
+"id": "606",
+"label": "Ov. Ib. 606",
+"text": "Corpora pestiferum sic tua virus edat."
+},
+{
+"id": "607",
+"label": "Ov. Ib. 607",
+"text": "— Qua sua Penthaliden proles est ulta Lycurgum,"
+},
+{
+"id": "608",
+"label": "Ov. Ib. 608",
+"text": "Haec maneat teli te quoque plaga novi ."
+},
+{
+"id": "609",
+"label": "Ov. Ib. 609",
+"text": "Utque Milo robur diducere fissile temptes,"
+},
+{
+"id": "610",
+"label": "Ov. Ib. 610",
+"text": "Nec possis captas inde referre manus ."
+},
+{
+"id": "611",
+"label": "Ov. Ib. 611",
+"text": "Muneribusque tuis laedaris , ut Icarus , in quem"
+},
+{
+"id": "612",
+"label": "Ov. Ib. 612",
+"text": "Intulit armatas ebria turba manus ."
+},
+{
+"id": "613",
+"label": "Ov. Ib. 613",
+"text": "Quodque dolore necis patriae pia filia fecit,"
+},
+{
+"id": "614",
+"label": "Ov. Ib. 614",
+"text": "Vincula per laquei fac tibi guttur eat ."
+},
+{
+"id": "615",
+"label": "Ov. Ib. 615",
+"text": "Obstructoque famem patiaris limine tecti,"
+},
+{
+"id": "616",
+"label": "Ov. Ib. 616",
+"text": "Ut legem poenae cui dedit ipsa parens ."
+},
+{
+"id": "617",
+"label": "Ov. Ib. 617",
+"text": "Illius exemplo violes simulacra Minervae ,"
+},
+{
+"id": "618",
+"label": "Ov. Ib. 618",
+"text": "Aulidis a portu qui leve vertit iter ."
+},
+{
+"id": "619",
+"label": "Ov. Ib. 619",
+"text": "Naupliadaeve modo poenas pro crimine falso"
+},
+{
+"id": "620",
+"label": "Ov. Ib. 620",
+"text": "Morte luas , nec te non meruisse iuvet ."
+},
+{
+"id": "621",
+"label": "Ov. Ib. 621",
+"text": "— Aethalon ut vita spoliavit Isindius hospes,"
+},
+{
+"id": "622",
+"label": "Ov. Ib. 622",
+"text": "Quem memor a sacris nunc quoque pellit Ion :"
+},
+{
+"id": "623",
+"label": "Ov. Ib. 623",
+"text": "Utque Melanthea tenebris a caede latentem"
+},
+{
+"id": "624",
+"label": "Ov. Ib. 624",
+"text": "Prodidit officio luminis ipsa parens:"
+},
+{
+"id": "625",
+"label": "Ov. Ib. 625",
+"text": "Sic tua coniectis fodiantur pectora telis,"
+},
+{
+"id": "626",
+"label": "Ov. Ib. 626",
+"text": "Sic precor auxiliis impediare tuis."
+},
+{
+"id": "627",
+"label": "Ov. Ib. 627",
+"text": "Qualis equos pacto , quos fortis agebat Achilles ,"
+},
+{
+"id": "628",
+"label": "Ov. Ib. 628",
+"text": "Acta Phrygi timido , nox tibi talis eat ."
+},
+{
+"id": "629",
+"label": "Ov. Ib. 629",
+"text": "Nec tu quam Rhesus somno meliore quiescas,"
+},
+{
+"id": "630",
+"label": "Ov. Ib. 630",
+"text": "Quam comites Rhesi tum necis , ante viae ;"
+},
+{
+"id": "631",
+"label": "Ov. Ib. 631",
+"text": "Quam quos cum Rutulo morti Ramnete dederunt"
+},
+{
+"id": "632",
+"label": "Ov. Ib. 632",
+"text": "Impiger Hyrtacides Hyrtacidaeque comes ."
+},
+{
+"id": "633",
+"label": "Ov. Ib. 633",
+"text": "Cliniadaeve modo circumdatus ignibus atris"
+},
+{
+"id": "634",
+"label": "Ov. Ib. 634",
+"text": "Membra feras Stygiae semicremata neci ."
+},
+{
+"id": "635",
+"label": "Ov. Ib. 635",
+"text": "Utque Remo muros auso transire recentes,"
+},
+{
+"id": "636",
+"label": "Ov. Ib. 636",
+"text": "Noxia sint capiti rustica tela tuo ."
+},
+{
+"id": "637",
+"label": "Ov. Ib. 637",
+"text": "Denique Sarmaticas inter Geticasque sagittas"
+},
+{
+"id": "638",
+"label": "Ov. Ib. 638",
+"text": "His precor ut vivas et moriare locis ."
+},
+{
+"id": "639",
+"label": "Ov. Ib. 639",
+"text": "Haec tibi tantisper subito sint missa libello,,"
+},
+{
+"id": "640",
+"label": "Ov. Ib. 640",
+"text": "Inmemores ne nos esse querare tui."
+},
+{
+"id": "641",
+"label": "Ov. Ib. 641",
+"text": "Pauca quidem , fateor : sed di dent plura rogatis ,"
+},
+{
+"id": "642",
+"label": "Ov. Ib. 642",
+"text": "Multiplicentque suo vota favore mea ."
+},
+{
+"id": "643",
+"label": "Ov. Ib. 643",
+"text": "Postmodo plura leges et nomen habentia verum,"
+},
+{
+"id": "644",
+"label": "Ov. Ib. 644",
+"text": "Et pede quo debent acria bella geri ."
+}
+]
+}

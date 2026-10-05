@@ -1,0 +1,18 @@
+{
+ "id": "propertius-elegies",
+ "title": "Propertius, Elegies",
+ "language": "la",
+ "edition": "Elegiae — Perseus Digital Library TEI (phi0620.phi001.perseus-lat3)",
+ "license": "CC BY-SA 3.0 (Perseus Digital Library TEI edition)",
+ "attribution": "Text: Perseus Digital Library, Tufts University (CC BY-SA 3.0), canonical-latinLit TEI phi0620.phi001.perseus-lat3",
+ "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0620.phi001.perseus-lat3/",
+ "unit_scheme": "book",
+ "passage_scheme": "book.poem.line",
+ "units": [
+  "1",
+  "2",
+  "3",
+  "4"
+ ],
+ "source_file": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0620/phi001/phi0620.phi001.perseus-lat3.xml"
+}

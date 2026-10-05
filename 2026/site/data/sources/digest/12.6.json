@@ -1,0 +1,684 @@
+{
+"corpus": "digest",
+"unit": "12.6",
+"title": "D. 12.6 De condictione indebiti",
+"passages": [
+{
+"id": "12.6.1.pr",
+"label": "D. 12.6.1 pr. (Ulpianus)",
+"text": "Nunc videndum de indebito soluto.",
+"inscription": "Ulpianus libro 26 ad edictum"
+},
+{
+"id": "12.6.1.1",
+"label": "D. 12.6.1.1",
+"text": "Et quidem si quis indebitum ignorans solvit, per hanc actionem condicere potest: sed si sciens se non debere solvit, cessat repetitio."
+},
+{
+"id": "12.6.2.pr",
+"label": "D. 12.6.2 pr. (Ulpianus)",
+"text": "Si quis sic solverit, ut, si apparuisset esse indebitum vel Falcidia emerserit, reddatur, repetitio locum habebit: negotium enim contractum est inter eos.",
+"inscription": "Ulpianus libro 16 ad Sabinum"
+},
+{
+"id": "12.6.2.1",
+"label": "D. 12.6.2.1",
+"text": "Si quid ex testamento solutum sit, quod postea falsum vel inofficiosum vel irritum vel ruptum apparuerit, repetetur, vel si post multum temporis emerserit aes alienum, vel codicilli diu celati prolati, qui ademptionem continent legatorum solutorum vel deminutionem per hoc, quia aliis quoque legata relicta sunt. Nam divus Hadrianus circa inofficiosum et falsum testamentum rescripsit actionem dandam ei, secundum quem de hereditate iudicatum est."
+},
+{
+"id": "12.6.3",
+"label": "D. 12.6.3 (Papinianus)",
+"text": "Idem est et si solutis legatis nova et inopinata causa hereditatem abstulit, veluti nato postumo, quem heres in utero fuisse ignorabat, vel etiam ab hostibus reverso filio, quem pater obisse falso praesumpserat: nam utiles actiones postumo vel filio, qui hereditatem evicerat, dari oportere in eos, qui legatum perceperunt, imperator Titus Antoninus rescripsit, scilicet quod bonae fidei possessor in quantum locupletior factus est tenetur nec periculum huiusmodi nominum ad eum, qui sine culpa solvit, pertinebit.",
+"inscription": "Papinianus libro 28 quaestionum"
+},
+{
+"id": "12.6.4",
+"label": "D. 12.6.4 (Paulus)",
+"text": "Idem divus Hadrianus rescripsit et si aliud testamentum proferatur.",
+"inscription": "Paulus libro tertio ad Sabinum"
+},
+{
+"id": "12.6.5",
+"label": "D. 12.6.5 (Ulpianus)",
+"text": "Nec novum, ut quod alius solverit alius repetat. Nam et cum minor viginti quinque annis inconsulte adita hereditate solutis legatis in integrum restituitur, non ipsi repetitionem competere, sed ei, ad quem bona pertinent, Arrio Titiano rescriptum est.",
+"inscription": "Ulpianus libro 16 ad Sabinum"
+},
+{
+"id": "12.6.6.pr",
+"label": "D. 12.6.6 pr. (Paulus)",
+"text": "Si procurator tuus indebitum solverit et tu ratum non habeas, posse repeti Labeo libris posteriorum scripsit: quod si debitum fuisset, non posse repeti Celsus: ideo, quoniam, cum quis procuratorem rerum suarum constituit, id quoque mandare videtur, ut solvat creditori, neque postea exspectandum sit, ut ratum habeat.",
+"inscription": "Paulus libro tertio ad Sabinum"
+},
+{
+"id": "12.6.6.1",
+"label": "D. 12.6.6.1",
+"text": "Idem Labeo ait, si procuratori indebitum solutum sit et dominus ratum non habeat, posse repeti."
+},
+{
+"id": "12.6.6.2",
+"label": "D. 12.6.6.2",
+"text": "Celsus ait eum, qui procuratori debitum solvit, continuo liberari neque ratihabitionem considerari: quod si indebitum acceperit, ideo exigi ratihabitionem, quoniam nihil de hoc nomine exigendo mandasse videretur, et ideo, si ratum non habeatur, a procuratore repetendum."
+},
+{
+"id": "12.6.6.3",
+"label": "D. 12.6.6.3",
+"text": "Iulianus ait neque tutorem neque procuratorem solventes repetere posse neque interesse, suam pecuniam an pupilli vel domini solvant."
+},
+{
+"id": "12.6.7",
+"label": "D. 12.6.7 (Pomponius)",
+"text": "Quod indebitum per errorem solvitur, aut ipsum aut tantundem repetitur.",
+"inscription": "Pomponius libro nono ad Sabinum"
+},
+{
+"id": "12.6.8",
+"label": "D. 12.6.8 (Paulus)",
+"text": "Quod nomine mariti, qui solvendo non sit, alius mulieri solvisset, repetere non potest: adeo debitum esset mulieri.",
+"inscription": "Paulus libro sexto ad Sabinum"
+},
+{
+"id": "12.6.9",
+"label": "D. 12.6.9 (Ulpianus)",
+"text": "Nam et maritus, si, cum facere nihil possit, dotem solverit, in ea causa est, ut repetere non possit.",
+"inscription": "Ulpianus libro 66 ad edictum"
+},
+{
+"id": "12.6.10",
+"label": "D. 12.6.10 (Paulus)",
+"text": "In diem debitor adeo debitor est, ut ante diem solutum repetere non possit.",
+"inscription": "Paulus libro septimo ad Sabinum"
+},
+{
+"id": "12.6.11",
+"label": "D. 12.6.11 (Ulpianus)",
+"text": "Si is, cum quo de peculio actum est, per imprudentiam plus quam in peculio est solverit, repetere non potest.",
+"inscription": "Ulpianus libro 35 ad Sabinum"
+},
+{
+"id": "12.6.12",
+"label": "D. 12.6.12 (Paulus)",
+"text": "Si fundi mei usum fructum tibi dedero falso existimans me eum tibi debere et antequam repetam decesserim, condictio eius ad heredem quoque meum transibit.",
+"inscription": "Paulus libro septimo ad Sabinum"
+},
+{
+"id": "12.6.13.pr",
+"label": "D. 12.6.13 pr. (Paulus)",
+"text": "Naturaliter etiam servus obligatur: et ideo, si quis nomine eius solvat vel ipse manumissus, ut Pomponius scribit, ex peculio, cuius liberam administrationem habeat, repeti non poterit: et ob id et fideiussor pro servo acceptus tenetur et pignus pro eo datum tenebitur et, si servus, qui peculii administrationem habet, rem pignori in id quod debeat dederit, utilis pigneraticia reddenda est.",
+"inscription": "Paulus libro decimo ad Sabinum"
+},
+{
+"id": "12.6.13.1",
+"label": "D. 12.6.13.1",
+"text": "Item quod pupillus sine tutoris auctoritate mutuum accepit et locupletior factus est, si pubes factus solvat, non repetit."
+},
+{
+"id": "12.6.14",
+"label": "D. 12.6.14 (Pomponius)",
+"text": "Nam hoc natura aequum est neminem cum alterius detrimento fieri locupletiorem.",
+"inscription": "Pomponius libro 21 ad Sabinum"
+},
+{
+"id": "12.6.15.pr",
+"label": "D. 12.6.15 pr. (Paulus)",
+"text": "Indebiti soluti condictio naturalis est et ideo etiam quod rei solutae accessit, venit in condictionem, ut puta partus qui ex ancilla natus sit vel alluvione accessit: immo et fructus, quos is cui solutum est bona fide percepit, in condictionem venient.",
+"inscription": "Paulus libro decimo ad Sabinum"
+},
+{
+"id": "12.6.15.1",
+"label": "D. 12.6.15.1",
+"text": "Sed et si nummi alieni dati sint, condictio competet. Ut vel possessio eorum reddatur: quemadmodum si falso existimans possessionem me tibi debere alicuius rei tradidissem, condicerem. Sed et si possessionem tuam fecissem ita, ut tibi per longi temporis praescriptionem avocari non possit, etiam sic recte tecum per indebitam condictionem agerem."
+},
+{
+"id": "12.6.15.2",
+"label": "D. 12.6.15.2",
+"text": "Sed et si usus fructus in re soluta alienus sit, deducto usu fructu a te condicam."
+},
+{
+"id": "12.6.16.pr",
+"label": "D. 12.6.16 pr. (Pomponius)",
+"text": "Sub condicione debitum per errorem solutum pendente quidem condicione repetitur, condicione autem existente repeti non potest.",
+"inscription": "Pomponius libro 15 ad Sabinum"
+},
+{
+"id": "12.6.16.1",
+"label": "D. 12.6.16.1",
+"text": "Quod autem sub incerta die debetur, die existente non repetitur."
+},
+{
+"id": "12.6.17",
+"label": "D. 12.6.17 (Ulpianus)",
+"text": "Nam si cum moriar dare promisero et antea solvam, repetere me non posse Celsus ait: quae sententia vera est.",
+"inscription": "Ulpianus libro secundo ad edictum"
+},
+{
+"id": "12.6.18",
+"label": "D. 12.6.18 (Ulpianus)",
+"text": "Quod si ea condicione debetur, quae omnimodo exstatura est, solutum repeti non potest, licet sub alia condicione, quae an impleatur incertum est, si ante solvatur, repeti possit.",
+"inscription": "Ulpianus libro 47 ad Sabinum"
+},
+{
+"id": "12.6.19.pr",
+"label": "D. 12.6.19 pr. (Pomponius)",
+"text": "Si poenae causa eius cui debetur debitor liberatus est, naturalis obligatio manet et ideo solutum repeti non potest.",
+"inscription": "Pomponius libro 22 ad Sabinum"
+},
+{
+"id": "12.6.19.1",
+"label": "D. 12.6.19.1",
+"text": "Quamvis debitum sibi quis recipiat, tamen si is qui dat non debitum dat, repetitio competit: veluti si is qui heredem se vel bonorum possessorem falso existimans creditori hereditario solverit: hic enim neque verus heres liberatus erit et is quod dedit repetere poterit: quamvis enim debitum sibi quis recipiat, tamen si is qui dat non debitum dat, repetitio competit."
+},
+{
+"id": "12.6.19.2",
+"label": "D. 12.6.19.2",
+"text": "Si falso existimans debere nummos solvero, qui pro parte alieni, pro parte mei fuerunt, eius summae partem dimidiam, non corporum condicam."
+},
+{
+"id": "12.6.19.3",
+"label": "D. 12.6.19.3",
+"text": "Si putem me Stichum aut Pamphilum debere, cum Stichum debeam, et Pamphilum solvam, repetam quasi indebitum solutum: nec enim pro eo quod debeo videor id solvisse."
+},
+{
+"id": "12.6.19.4",
+"label": "D. 12.6.19.4",
+"text": "Si duo rei, qui decem debebant, viginti pariter solverint, Celsus ait singulos quina repetituros, quia, cum decem deberent, viginti solvissent, et quod amplius ambo solverint, ambo repetere possunt."
+},
+{
+"id": "12.6.20",
+"label": "D. 12.6.20 (Iulianus)",
+"text": "Si reus et fideiussor solverint pariter, in hac causa non differunt a duobus reis promittendi; quare omnia, quae de his dicta sunt, et ad hos transferre licebit.",
+"inscription": "Iulianus libro decimo digestorum"
+},
+{
+"id": "12.6.21",
+"label": "D. 12.6.21 (Paulus)",
+"text": "Plane si duos reos non eiusdem pecuniae, sed alterius obligationis constitueris, ut puta Stichi aut Pamphili, et pariter duos datos, aut togam vel denaria mille, non idem dici poterit in repetitione ut partes repetant, quia nec solvere ab initio sic potuerunt. Igitur hoc casu electio est creditoris, cui velit solvere, ut alterius repetitio impediatur.",
+"inscription": "Paulus libro tertio quaestionum"
+},
+{
+"id": "12.6.22.pr",
+"label": "D. 12.6.22 pr. (Pomponius)",
+"text": "Sed et si me putem tibi aut Titio promisisse, cum aut neutrum factum sit aut Titii persona in stipulatione comprehensa non sit, et Titio solvero, repetere a Titio potero.",
+"inscription": "Pomponius libro 22 ad Sabinum"
+},
+{
+"id": "12.6.22.1",
+"label": "D. 12.6.22.1",
+"text": "Cum iter excipere deberem, fundum liberum per errorem tradidi: incerti condicam, ut iter mihi concedatur."
+},
+{
+"id": "12.6.23.pr",
+"label": "D. 12.6.23 pr. (Ulpianus)",
+"text": "Eleganter Pomponius quaerit, si quis suspicetur transactionem factam vel ab eo cui heres est vel ab eo cui procurator est et quasi ex transactione dederit, quae facta non est, an locus sit repetitioni. Et ait repeti posse: ex falsa enim causa datum est. Idem puto dicendum et si transactio secuta non fuerit, propter quam datum est: sed et si resoluta sit transactio, idem erit dicendum.",
+"inscription": "Ulpianus libro 43 ad Sabinum"
+},
+{
+"id": "12.6.23.1",
+"label": "D. 12.6.23.1",
+"text": "Si post rem iudicatam quis transegerit et solverit, repetere poterit idcirco, quia placuit transactionem nullius esse momenti: hoc enim imperator Antoninus cum divo patre suo rescripsit. Retineri tamen atque compensari in causam iudicati, quod ob talem transactionem solutum est, potest. Quid ergo si appellatum sit vel hoc ipsum incertum sit, an iudicatum sit vel an sententia valeat? Magis est, ut transactio vires habeat: tunc enim rescriptis locum esse credendum est, cum de sententia indubitata, quae nullo remedio adtemptari potest, transigitur."
+},
+{
+"id": "12.6.23.2",
+"label": "D. 12.6.23.2",
+"text": "Item si ob transactionem alimentorum testamento relictorum datum sit, apparet posse repeti quod datum est, quia transactio senatus consulto infirmatur."
+},
+{
+"id": "12.6.23.3",
+"label": "D. 12.6.23.3",
+"text": "Si quis post transactionem nihilo minus condemnatus fuerit, dolo quidem id fit, sed tamen sententia valet. Potuit autem quis, si quidem ante litem contestatam transegerit, volenti litem contestari opponere doli exceptionem: sed si post litem contestatam transactum est, nihilo minus poterit exceptione doli uti post secuti: dolo enim facit, qui contra transactionem expertus amplius petit. Ideo condemnatus repetere potest, quod ex causa transactionis dedit. Sane quidem ob causam dedit neque repeti solet quod ob causam datum est causa secuta: sed hic non videtur causa secuta, cum transactioni non stetur. Cum igitur repetitio oritur, transactionis exceptio locum non habet: neque enim utrumque debet locum habere et repetitio et exceptio."
+},
+{
+"id": "12.6.23.4",
+"label": "D. 12.6.23.4",
+"text": "Si qua lex ab initio dupli vel quadrupli statuit actionem, dicendum est solutum ex falsa eius causa repeti posse."
+},
+{
+"id": "12.6.24",
+"label": "D. 12.6.24 (Ulpianus)",
+"text": "Si is, qui perpetua exceptione tueri se poterat, cum sciret sibi exceptionem profuturam, promiserit aliquid ut liberaretur, condicere non potest.",
+"inscription": "Ulpianus libro 46 ad Sabinum"
+},
+{
+"id": "12.6.25",
+"label": "D. 12.6.25 (Ulpianus)",
+"text": "Cum duo pro reo fideiussissent decem, deinde reus tria solvisset et postea fideiussores quina, placuit eum qui posterior solvit repetere tria posse: hoc merito, quia tribus a reo solutis septem sola debita supererant, quibus persolutis tria indebita soluta sunt.",
+"inscription": "Ulpianus libro 47 ad Sabinum"
+},
+{
+"id": "12.6.26.pr",
+"label": "D. 12.6.26 pr. (Ulpianus)",
+"text": "Si non sortem quis, sed usuras indebitas solvit, repetere non poterit, si sortis debitae solvit: sed si supra legitimum modum solvit, divus Severus rescripsit (quo iure utimur) repeti quidem non posse, sed sorti imputandum et, si postea sortem solvit, sortem quasi indebitam repeti posse. Proinde et si ante sors fuerit soluta, usurae supra legitimum modum solutae quasi sors indebita repetuntur. Quid si simul solverit? Poterit dici et tunc repetitionem locum habere.",
+"inscription": "Ulpianus libro 26 ad edictum"
+},
+{
+"id": "12.6.26.1",
+"label": "D. 12.6.26.1",
+"text": "Supra duplum autem usurae et usurarum usurae nec in stipulatum deduci nec exigi possunt et solutae repetuntur, quemadmodum futurarum usurarum usurae."
+},
+{
+"id": "12.6.26.2",
+"label": "D. 12.6.26.2",
+"text": "Si quis falso se sortem debere credens usuras solverit, potest condicere nec videtur sciens indebitum solvisse."
+},
+{
+"id": "12.6.26.3",
+"label": "D. 12.6.26.3",
+"text": "Indebitum autem solutum accipiemus non solum si omnino non debeatur, sed et si per aliquam exceptionem perpetuam peti non poterat: quare hoc quoque repeti poterit, nisi sciens se tutum exceptione solvit."
+},
+{
+"id": "12.6.26.4",
+"label": "D. 12.6.26.4",
+"text": "Si centum debens, quasi ducenta deberem, fundum ducentorum solvi, competere repetitionem Marcellus libro vicensimo digestorum scribit et centum manere stipulationem: licet enim placuit rem pro pecunia solutam parere liberationem, tamen si ex falsa debiti quantitate maioris pretii res soluta est, non fit confusio partis rei cum pecunia (nemo enim invitus compellitur ad communionem), sed et condictio integrae rei manet et obligatio incorrupta: ager autem retinebitur, donec debita pecunia solvatur."
+},
+{
+"id": "12.6.26.5",
+"label": "D. 12.6.26.5",
+"text": "Idem Marcellus ait, si pecuniam debens oleum dederit pluris pretii quasi plus debens, vel cum oleum deberet, oleum dederit quasi maiorem modum debens, superfluum olei esse repetendum, non totum et ob hoc peremptam esse obligationem."
+},
+{
+"id": "12.6.26.6",
+"label": "D. 12.6.26.6",
+"text": "Idem Marcellus adicit, si, cum fundi pars mihi deberetur, quasi totus deberetur aestimatione facta, solutio pecuniae solidi pretii fundi facta sit, repeti posse non totum pretium, sed partis indebitae pretium."
+},
+{
+"id": "12.6.26.7",
+"label": "D. 12.6.26.7",
+"text": "Adeo autem perpetua exceptio parit condictionem, ut Iulianus libro decimo scripsit, si emptor fundi damnaverit heredem suum, ut venditorem nexu venditi liberaret, mox venditor ignorans rem tradiderit, posse eum fundum condicere: idemque et si debitorem suum damnaverit liberare et ille ignorans solverit."
+},
+{
+"id": "12.6.26.8",
+"label": "D. 12.6.26.8",
+"text": "Qui filio familias solverit, cum esset eius peculiaris debitor, si quidem ignoravit ademptum ei peculium, liberatur: si scit et solvit, condictionem non habet, quia sciens indebitum solvit."
+},
+{
+"id": "12.6.26.9",
+"label": "D. 12.6.26.9",
+"text": "Filius familias contra Macedonianum mutuatus si solverit et patri suo heres effectus velit vindicare nummos, exceptione summovebitur a vindicatione nummorum."
+},
+{
+"id": "12.6.26.10",
+"label": "D. 12.6.26.10",
+"text": "Si quis quasi ex compromisso condemnatus falso solverit, repetere potest."
+},
+{
+"id": "12.6.26.11",
+"label": "D. 12.6.26.11",
+"text": "Hereditatis vel bonorum possessori, si quidem defendat hereditatem, indebitum solutum condici poterit: si vero is non defendat, etiam debitum solutum repeti potest."
+},
+{
+"id": "12.6.26.12",
+"label": "D. 12.6.26.12",
+"text": "Libertus cum se putaret operas patrono debere, solvit: condicere eum non posse, quamvis putans se obligatum solvit, Iulianus libro decimo digestorum scripsit: natura enim operas patrono libertus debet. Sed et si non operae patrono sunt solutae, sed, cum officium ab eo desideraretur, cum patrono decidit pecunia et solvit, repetere non potest. Sed si operas patrono exhibuit non officiales, sed fabriles, veluti pictorias vel alias, dum putat se debere, videndum an possit condicere. Et Celsus libro sexto digestorum putat eam esse causam operarum, ut non sint eaedem neque eiusdem hominis neque eidem exhibentur: nam plerumque robur hominis, aetas temporis opportunitasque naturalis mutat causam operarum, et ideo nec volens quis reddere potest. Sed hae, inquit, operae recipiunt aestimationem: et interdum licet aliud praestemus, inquit, aliud condicimus: ut puta fundum indebitum dedi et fructus condico: vel hominem indebitum, et hunc sine fraude modico distraxisti, nempe hoc solum refundere debes, quod ex pretio habes: vel meis sumptibus pretiosiorem hominem feci, nonne aestimari haec debent? Sic et in proposito, ait, posse condici, quanti operas essem conducturus. Sed si denegatus sit a patrono officiales operas, apud Marcellum libro vicensimo digestorum quaeritur. Et dicit Marcellus non teneri eum, nisi forte in artificio sint (hae enim iubente patrono et alii edendae sunt): sed si solverit officiales delegatus, non potest condicere neque ei cui solvit creditori, cui alterius contemplatione solutum est quique suum recipit, neque patrono, quia natura ei debentur."
+},
+{
+"id": "12.6.26.13",
+"label": "D. 12.6.26.13",
+"text": "Si decem aut Stichum stipulatus solvam quinque, quaeritur, an possim condicere: quaestio ex hoc descendit, an liberer in quinque: nam si liberor, cessat condictio, si non liberor, erit condictio. Placuit autem, ut Celsus libro sexto et Marcellus libro vicensimo digestorum scripsit, non peremi partem dimidiam obligationis ideoque eum, qui quinque solvit, in pendenti habendum, an liberaretur, petique ab eo posse reliqua quinque aut stichum et, si praestiterit residua quinque, videri eum et priora debita solvisse, si autem Stichum praestitisset, quinque eum posse condicere quasi indebita. Sic posterior solutio comprobabit, priora quinque utrum debita an indebita solverentur. Sed et si post soluta quinque et Stichus solvatur et malim ego habere quinque et Stichum reddere, an sim audiendus, quaerit Celsus. Et putat natam esse quinque condictionem, quamvis utroque simul soluto mihi retinendi quod vellem arbitrium daretur."
+},
+{
+"id": "12.6.26.14",
+"label": "D. 12.6.26.14",
+"text": "Idem ait et si duo heredes sint stipulatoris, non posse alteri quinque solutis alteri partem Stichi solvi: idem et si duo sint promissoris heredes. Secundum quae liberatio non contingit, nisi aut utrique quina aut utrique partes Stichi fuerunt solutae."
+},
+{
+"id": "12.6.27",
+"label": "D. 12.6.27 (Paulus)",
+"text": "Qui loco certo debere existimans indebitum solvit, quolibet loco repetet: non enim existimationem solventis eadem species repetitionis sequitur.",
+"inscription": "Paulus libro 28 ad edictum"
+},
+{
+"id": "12.6.28",
+"label": "D. 12.6.28 (Paulus)",
+"text": "Iudex si male absolvit et absolutus sua sponte solverit, repetere non potest.",
+"inscription": "Paulus libro 32 ad edictum"
+},
+{
+"id": "12.6.29",
+"label": "D. 12.6.29 (Ulpianus)",
+"text": "Interdum persona locum facit repetitioni, ut puta si pupillus sine tutoris auctoritate vel furiosus vel is cui bonis interdictum est solverit: nam in his personis generaliter repetitioni locum esse non ambigitur. Et si quidem exstant nummi, vindicabuntur, consumptis vero condictio locum habebit.",
+"inscription": "Ulpianus libro secundo disputationum"
+},
+{
+"id": "12.6.30",
+"label": "D. 12.6.30 (Ulpianus)",
+"text": "Qui invicem creditor idemque debitor est, in his casibus, in quibus compensatio locum non habet, si solvit, non habet condictionem veluti indebiti soluti, sed sui crediti petitionem.",
+"inscription": "Ulpianus libro decimo disputationum"
+},
+{
+"id": "12.6.31",
+"label": "D. 12.6.31 (Ulpianus)",
+"text": "Is, qui plus quam hereditaria portio efficit per errorem creditori caverit, indebiti promissi habet condictionem.",
+"inscription": "Ulpianus libro primo opinionum"
+},
+{
+"id": "12.6.32.pr",
+"label": "D. 12.6.32 pr. (Iulianus)",
+"text": "Cum is qui Pamphilum aut Stichum debet simul utrumque solverit, si, posteaquam utrumque solverit, aut uterque aut alter ex his desiit in rerum natura esse, nihil repetet: id enim remanebit in soluto quod superest.",
+"inscription": "Iulianus libro decimo digestorum"
+},
+{
+"id": "12.6.32.1",
+"label": "D. 12.6.32.1",
+"text": "Fideiussor cum paciscitur, ne ab eo pecunia petatur, et per imprudentiam solverit, condicere stipulatori poterit et ideo reus quidem manet obligatus, ipse autem sua exceptione tutus est. Nihil autem interest, fideiussor an heres eius solvat: quod si huic fideiussori reus heres extiterit et solverit, nec repetet et liberabitur."
+},
+{
+"id": "12.6.32.2",
+"label": "D. 12.6.32.2",
+"text": "Mulier si in ea opinione sit, ut credat se pro dote obligatam, quidquid dotis nomine dederit, non repetit: sublata enim falsa opinione relinquitur pietatis causa, ex qua solutum repeti non potest."
+},
+{
+"id": "12.6.32.3",
+"label": "D. 12.6.32.3",
+"text": "Qui hominem generaliter promisit, similis est ei, qui hominem aut decem debet: et ideo si, cum existimaret se stichum promisisse, eum dederit, condicet, alium autem quemlibet dando liberari poterit."
+},
+{
+"id": "12.6.33",
+"label": "D. 12.6.33 (Iulianus)",
+"text": "Si in area tua aedificassem et tu aedes possideres, condictio locum non habebit, quia nullum negotium inter nos contraheretur: nam is, qui non debitam pecuniam solverit, hoc ipso aliquid negotii gerit: cum autem aedificium in area sua ab alio positum dominus occupat, nullum negotium contrahit. Sed et si is, qui in aliena area aedificasset, ipse possessionem tradidisset, condictionem non habebit, quia nihil accipientis faceret, sed suam rem dominus habere incipiat. Et ideo constat, si quis, cum existimaret se heredem esse, insulam hereditariam fulsisset, nullo alio modo quam per retentionem impensas servare posse.",
+"inscription": "Iulianus libro 39 digestorum"
+},
+{
+"id": "12.6.34",
+"label": "D. 12.6.34 (Iulianus)",
+"text": "Is cui hereditas tota per fideicommissum relicta est et praeterea fundus, si decem dedisset heredi, et heres suspectam hereditatem dixerit et eam ex Trebelliano restituerit, causam dandae pecuniae non habet, et ideo quod eo nomine quasi implendae condicionis gratia dederit, condictione repetet.",
+"inscription": "Iulianus libro 40 digestorum"
+},
+{
+"id": "12.6.35",
+"label": "D. 12.6.35 (Iulianus)",
+"text": "Qui ob rem non defensam solvit, quamvis postea defendere paratus est, non repetet quod solverit.",
+"inscription": "Iulianus libro 45 digestorum"
+},
+{
+"id": "12.6.36",
+"label": "D. 12.6.36 (Paulus)",
+"text": "Servus cuiusdam insciente domino magidem commodavit: is cui commodaverat pignori eam posuit et fugit: qui accepit non aliter se redditurum aiebat, quam si pecuniam accepisset: accepit a servulo et reddidit magidem: quaesitum est, an pecunia ab eo repeti possit. Respondit, si is qui pignori accepisset magidem alienam scit apud se pignori deponi, furti eum se obligasse ideoque, si pecuniam a servulo accepisset redimendi furti causa, posse repeti: sed si nescisset alienam apud se deponi, non esse furem, item, si pecunia eius nomine, a quo pignus acceperat, a servo ei soluta esset, non posse ab eo repeti.",
+"inscription": "Paulus libro quinto epitomarum Alfeni digestorum"
+},
+{
+"id": "12.6.37",
+"label": "D. 12.6.37 (Iulianus)",
+"text": "Servum meum insciens a te emi pecuniamque tibi solvi: eam me a te repetiturum et eo nomine condictionem mihi esse omnimodo puto, sive scisses meum esse sive ignorasses.",
+"inscription": "Iulianus libro tertio ad Urseium Ferocem"
+},
+{
+"id": "12.6.38.pr",
+"label": "D. 12.6.38 pr. (Africanus)",
+"text": "Frater a fratre, cum in eiusdem potestate essent, pecuniam mutuatus post mortem patris ei solvit: quaesitum est, an repetere possit. Respondit utique quidem pro ea parte, qua ipse patri heres exstitisset, repetiturum, pro ea vero, qua frater heres exstiterit, ita repetiturum, si non minus ex peculio suo ad fratrem pervenisset: naturalem enim obligationem quae fuisset hoc ipso sublatam videri, quod peculii partem frater sit consecutus, adeo ut, si praelegatum filio eidemque debitori id fuisset, deductio huius debiti a fratre ex eo fieret. Idque maxime consequens esse ei sententiae, quam Iulianus probaret, si extraneo quid debuisset et ab eo post mortem patris exactum esset, tantum iudicio eum familiae herciscundae reciperaturum a coheredibus fuisse, quantum ab his creditor actione de peculio consequi potuisset. Igitur et si re integra familiae herciscundae agatur, ita peculium dividi aequum esse, ut ad quantitatem eius indemnis a coherede praestetur: porro eum, quem adversus extraneum defendi oportet, longe magis in eo, quod fratri debuisset, indemnem esse praestandum.",
+"inscription": "Africanus libro nono quaestionum"
+},
+{
+"id": "12.6.38.1",
+"label": "D. 12.6.38.1",
+"text": "Quaesitum est, si pater filio crediderit isque emancipatus solvat, an repetere possit. Respondit, si nihil ex peculio apud patrem remanserit, non repetiturum: nam manere naturalem obligationem argumento esse, quod extraneo agente intra annum de peculio deduceret pater, quod sibi filius debuisset."
+},
+{
+"id": "12.6.38.2",
+"label": "D. 12.6.38.2",
+"text": "Contra si pater quod filio debuisset eidem emancipato solverit, non repetet: nam hic quoque manere naturalem obligationem eodem argumento probatur, quod, si extraneus intra annum de peculio agat, etiam quod pater ei debuisset computetur. Eademque erunt et si extraneus heres exheredato filio solverit id, quod ei pater debuisset."
+},
+{
+"id": "12.6.38.3",
+"label": "D. 12.6.38.3",
+"text": "Legati satis accepi et cum fideiussor mihi solvisset, apparuit indebitum fuisse legatum: posse eum repetere existimavit."
+},
+{
+"id": "12.6.39",
+"label": "D. 12.6.39 (Marcianus)",
+"text": "Si quis, cum a fideicommissario sibi cavere poterat, non caverit, quasi indebitum plus debito eum solutum repetere posse divi Severus et Antoninus rescripserunt.",
+"inscription": "Marcianus libro octavo institutionum"
+},
+{
+"id": "12.6.40.pr",
+"label": "D. 12.6.40 pr. (Marcianus)",
+"text": "Qui exceptionem perpetuam habet, solutum per errorem repetere potest: sed hoc non est perpetuum. Nam si quidem eius causa exceptio datur cum quo agitur, solutum repetere potest, ut accidit in senatus consulto de intercessionibus: ubi vero in odium eius cui debetur exceptio datur, perperam solutum non repetitur, veluti si filius familias contra Macedonianum mutuam pecuniam acceperit et pater familias factus solverit, non repetit.",
+"inscription": "Marcianus libro tertio regularum"
+},
+{
+"id": "12.6.40.1",
+"label": "D. 12.6.40.1",
+"text": "Si pars domus, quae in diem per fideicommissum relicta est, arserit ante diem fideicommissi cedentem et eam heres sua impensa refecerit, deducendam esse impensam ex fideicommisso constat et, si sine deductione domum tradiderit, posse incerti condici, quasi plus debito dederit."
+},
+{
+"id": "12.6.40.2",
+"label": "D. 12.6.40.2",
+"text": "Si pactus fuerit patronus cum liberto, ne operae ab eo petantur, quidquid postea solutum fuerit a liberto, repeti potest."
+},
+{
+"id": "12.6.41",
+"label": "D. 12.6.41 (Neratius)",
+"text": "Quod pupillus sine tutoris auctoritate stipulanti promiserit solverit, repetitio est, quia nec natura debet.",
+"inscription": "Neratius libro sexto membranarum"
+},
+{
+"id": "12.6.42",
+"label": "D. 12.6.42 (Ulpianus)",
+"text": "Poenae non solent repeti, cum depensae sunt.",
+"inscription": "Ulpianus libro 68 ad edictum"
+},
+{
+"id": "12.6.43",
+"label": "D. 12.6.43 (Paulus)",
+"text": "Si quis iurasset se dare non oportere, ab omni contentione discedetur atque ita solutam pecuniam repeti posse dicendum est.",
+"inscription": "Paulus libro tertio ad Plautium"
+},
+{
+"id": "12.6.44",
+"label": "D. 12.6.44 (Paulus)",
+"text": "Repetitio nulla est ab eo qui suum recepit, tametsi ab alio quam vero debitore solutum est.",
+"inscription": "Paulus libro 14 ad Plautium"
+},
+{
+"id": "12.6.45",
+"label": "D. 12.6.45 (Iavolenus)",
+"text": "Si is, qui hereditatem vendidit et emptori tradidit, id, quod sibi mortuus debuerat, non retinuit, repetere poterit, quia plus debito solutum per condictionem recte recipietur.",
+"inscription": "Iavolenus libro secundo ex Plautio"
+},
+{
+"id": "12.6.46",
+"label": "D. 12.6.46 (Iavolenus)",
+"text": "Qui heredis nomine legata non debita ex nummis ipsius heredis solvit, ipse quidem repetere non potest: sed si ignorante herede nummos eius tradidit, dominus, ait, eos recte vindicabit. Eadem causa rerum corporalium est.",
+"inscription": "Iavolenus libro quarto ex Plautio"
+},
+{
+"id": "12.6.47",
+"label": "D. 12.6.47 (Celsus)",
+"text": "Indebitam pecuniam per errorem promisisti: eam qui pro te fideiusserat solvit. Ego existimo, si nomine tuo solverit fideiussor, te fideiussori, stipulatorem tibi obligatum fore: nec exspectandum est, ut ratum habeas, quoniam potes videri id ipsum mandasse, ut tuo nomine solveretur: sin autem fideiussor suo nomine solverit quod non debebat, ipsum a stipulatore repetere posse, quoniam indebitam iure gentium pecuniam solvit: quo minus autem consequi poterit ab eo cui solvit, a te mandati iudicio consecuturum, si modo per ignorantiam petentem exceptione non summoverit.",
+"inscription": "Celsus libro sexto digestorum"
+},
+{
+"id": "12.6.48",
+"label": "D. 12.6.48 (Celsus)",
+"text": "Qui promisit, si aliquid a se factum sit vel cum aliquid factum sit, dare se decem, si, priusquam id factum fuerit, quod promisit dederit, non videbitur fecisse quod promisit atque ideo repetere potest.",
+"inscription": "Celsus libro sexto digestorum"
+},
+{
+"id": "12.6.49",
+"label": "D. 12.6.49 (Modestinus)",
+"text": "His solis pecunia condicitur, quibus quoquo modo soluta est, non quibus proficit.",
+"inscription": "Modestinus libro tertio regularum"
+},
+{
+"id": "12.6.50",
+"label": "D. 12.6.50 (Pomponius)",
+"text": "Quod quis sciens indebitum dedit hac mente, ut postea repeteret, repetere non potest.",
+"inscription": "Pomponius libro quinto ad Quintum Mucium"
+},
+{
+"id": "12.6.51",
+"label": "D. 12.6.51 (Pomponius)",
+"text": "Ex quibus causis retentionem quidem habemus, petitionem autem non habemus, ea si solverimus, repetere non possumus.",
+"inscription": "Pomponius libro sexto ad Quintum Mucium"
+},
+{
+"id": "12.6.52",
+"label": "D. 12.6.52 (Pomponius)",
+"text": "Damus aut ob causam aut ob rem: ob causam praeteritam, veluti cum ideo do, quod aliquid a te consecutus sum vel quia aliquid a te factum est, ut, etiamsi falsa causa sit, repetitio eius pecuniae non sit: ob rem vero datur, ut aliquid sequatur, quo non sequente repetitio competit.",
+"inscription": "Pomponius libro 27 ad Quintum Mucium"
+},
+{
+"id": "12.6.53",
+"label": "D. 12.6.53 (Proculus)",
+"text": "Dominus testamento servo suo libertatem dedit, si decem det: servo ignorante id testamentum non valere data sunt mihi decem: quaeritur, quis repetere potest. Proculus respondit: si ipse servus peculiares nummos dedit, cum ei a domino id permissum non esset, manent nummi domini eosque non per condictionem, sed in rem actione petere debet. Si autem alius rogatu servi suos nummos dedit, facti sunt mei eosque dominus servi, cuius nomine dati sunt, per condictionem petere potest: sed tam benignius quam utilius est recta via ipsum qui nummos dedit suum recipere.",
+"inscription": "Proculus libro septimo epistularum"
+},
+{
+"id": "12.6.54",
+"label": "D. 12.6.54 (Papinianus)",
+"text": "Ex his omnibus causis, quae iure non valuerunt vel non habuerunt effectum, secuta per errorem solutione condictioni locus erit.",
+"inscription": "Papinianus libro secundo quaestionum"
+},
+{
+"id": "12.6.55",
+"label": "D. 12.6.55 (Papinianus)",
+"text": "Si urbana praedia locaverit praedo, quod mercedis nomine ceperit, ab eo qui solvit non repetetur, sed domino erit obligatus. Idemque iuris erit in vecturis navium, quas ipse locaverit aut exercuerit, item mercedibus servorum, quorum operae per ipsum fuerint locatae. Nam si servus non locatus mercedem ut domino praedoni rettulit, non fiet accipientis pecunia. Quod si vecturas navium, quas dominus locaverat, item pensiones insularum acceperit, ob indebitum ei tenebitur, qui non est liberatus solvendo. Quod ergo dici solet praedoni fructus posse condici, tunc locum habet, cum domini fructus fuerunt.",
+"inscription": "Papinianus libro sexto quaestionum"
+},
+{
+"id": "12.6.56",
+"label": "D. 12.6.56 (Papinianus)",
+"text": "Sufficit ad causam indebiti incertum esse, temporaria sit an perpetua exceptionis defensio. Nam si qui, ne conveniatur, donec Titius consul fiat, paciscatur, quia potest titio decedente perpetua fieri exceptio, quae ad tempus est titio consulatum ineunte, summa ratione dicetur, quod interim solvitur, repeti: ut enim pactum, quod in tempus certum collatum est, non magis inducit condictionem, quam si ex die debitor solvit, ita prorsum defensio iuris, quae causam incertam habet, condictionis instar optinet.",
+"inscription": "Papinianus libro octavo quaestionum"
+},
+{
+"id": "12.6.57.pr",
+"label": "D. 12.6.57 pr. (Papinianus)",
+"text": "Cum indebitum impuberis nomine tutor numeravit, impuberis condictio est.",
+"inscription": "Papinianus libro tertio responsorum"
+},
+{
+"id": "12.6.57.1",
+"label": "D. 12.6.57.1",
+"text": "Creditor, ut procuratori suo debitum redderetur, mandavit: maiore pecunia soluta procurator indebiti causa convenietur: quod si nominatim, ut maior pecunia solveretur, delegavit, indebiti cum eo qui delegavit erit actio, quae non videtur perempta, si frustra cum procuratore lis fuerit instituta."
+},
+{
+"id": "12.6.58",
+"label": "D. 12.6.58 (Papinianus)",
+"text": "Servo manumisso fideicommissum ita reliquit, si ad libertatem ex testamento pervenerit: post acceptam sine iudice pecuniam ingenuus pronuntiatus est: indebiti fideicommissi repetitio erit.",
+"inscription": "Papinianus libro nono responsorum"
+},
+{
+"id": "12.6.59",
+"label": "D. 12.6.59 (Papinianus)",
+"text": "Si fideiussor iure liberatus solverit errore pecuniam, repetenti non oberit: si vero reus promittendi per errorem et ipse postea pecuniam solverit, non repetet, cum prior solutio, quae fuit irrita, naturale vinculum non dissolvit, nec civile, si reus promittendi tenebatur.",
+"inscription": "Papinianus libro secundo definitionum"
+},
+{
+"id": "12.6.60.pr",
+"label": "D. 12.6.60 pr. (Paulus)",
+"text": "Iulianus verum debitorem post litem contestatam manente adhuc iudicio negabat solventem repetere posse, quia nec absolutus nec condemnatus repetere posset: licet enim absolutus sit, natura tamen debitor permanet: similemque esse ei dicit, qui ita promisit, sive navis ex Asia venerit sive non venerit, quia ex una causa alterius solutionis origo proficiscitur.",
+"inscription": "Paulus libro tertio quaestionum"
+},
+{
+"id": "12.6.60.1",
+"label": "D. 12.6.60.1",
+"text": "Ubi autem quis quod pure debet sub condicione novandi animo promisit, plerique putant pendente novatione solutum repetere posse, quia ex qua obligatione solvat, adhuc incertum sit: idemque esse etiam, si diversas personas ponas eandem pecuniam pure et sub condicione novandi animo promisisse. Sed hoc dissimile est: in stipulatione enim pura et condicionali eundem debiturum certum est."
+},
+{
+"id": "12.6.61",
+"label": "D. 12.6.61 (Scaevola)",
+"text": "Tutores pupilli quibusdam creditoribus patris ex patrimonio paterno solverunt, sed postea non sufficientibus bonis pupillum abstinuerunt: quaeritur, an quod amplius creditoribus per tutores pupilli solutum est vel totum quod acceperunt restituere debeant. Respondi, si nihil dolo factum esset, tutori quidem vel pupillo non deberi, creditoribus autem aliis in id, quod amplius sui debiti solutum est, teneri.",
+"inscription": "Scaevola libro quinto responsorum"
+},
+{
+"id": "12.6.62",
+"label": "D. 12.6.62 (Maecianus)",
+"text": "Fideicommissum in stipulatione deductum tametsi non debitum fuisset, quia tamen a sciente fidei explendae causa promissum esset, debetur.",
+"inscription": "Maecianus libro quarto fideicommissorum"
+},
+{
+"id": "12.6.63",
+"label": "D. 12.6.63 (Gaius)",
+"text": "Neratius casum refert, ut quis id quod solverit repetere non possit, quasi debitum dederit, nec tamen liberetur: velut si is, qui cum certum hominem deberet, statuliberum dederit: nam ideo eum non liberari, quod non in plenum stipulatoris hominem fecerit, nec tamen repetere eum posse, quod debitum dederit.",
+"inscription": "Gaius libro singulari de Cassio"
+},
+{
+"id": "12.6.64",
+"label": "D. 12.6.64 (Tryphoninus)",
+"text": "Si quod dominus servo debuit, manumisso solvit, quamvis existimans ei aliqua teneri actione, tamen repetere non poterit, quia naturale adgnovit debitum: ut enim libertas naturali iure continetur et dominatio ex gentium iure introducta est, ita debiti vel non debiti ratio in condictione naturaliter intellegenda est.",
+"inscription": "Tryphoninus libro septimo disputationum"
+},
+{
+"id": "12.6.65.pr",
+"label": "D. 12.6.65 pr. (Paulus)",
+"text": "In summa, ut generaliter de repetitione tractemus, sciendum est dari aut ob transactionem aut ob causam aut propter condicionem aut ob rem aut indebitum: in quibus omnibus quaeritur de repetitione.",
+"inscription": "Paulus libro 17 ad Plautium"
+},
+{
+"id": "12.6.65.1",
+"label": "D. 12.6.65.1",
+"text": "Et quidem quod transactionis nomine datur, licet res nulla media fuerit, non repetitur: nam si lis fuit, hoc ipsum, quod a lite disceditur, causa videtur esse. Sin autem evidens calumnia detegitur et transactio imperfecta est, repetitio dabitur."
+},
+{
+"id": "12.6.65.2",
+"label": "D. 12.6.65.2",
+"text": "Id quoque, quod ob causam datur, puta quod negotia mea adiuta ab eo putavi, licet non sit factum, quia donari volui, quamvis falso mihi persuaserim, repeti non posse."
+},
+{
+"id": "12.6.65.3",
+"label": "D. 12.6.65.3",
+"text": "Sed agere per condictionem propter condicionem legati vel hereditatis, sive non sit mihi legatum sive ademptum legatum, possum, ut repetam quod dedi, quoniam non contrahendi animo dederim, quia causa, propter quam dedi, non est secuta. Idem et si hereditatem adire nolui vel non potui. Non idem potest dici, si servus meus sub condicione heres institutus sit et ego dedero, deinde manumissus adierit: nam hoc casu secuta res est."
+},
+{
+"id": "12.6.65.4",
+"label": "D. 12.6.65.4",
+"text": "Quod ob rem datur, ex bono et aequo habet repetitionem: veluti si dem tibi, ut aliquid facias, nec feceris."
+},
+{
+"id": "12.6.65.5",
+"label": "D. 12.6.65.5",
+"text": "Ei, qui indebitum repetit, et fructus et partus restitui debet deducta impensa."
+},
+{
+"id": "12.6.65.6",
+"label": "D. 12.6.65.6",
+"text": "In frumento indebito soluto et bonitas est et, si consumpsit frumentum, pretium repetet."
+},
+{
+"id": "12.6.65.7",
+"label": "D. 12.6.65.7",
+"text": "Sic habitatione data pecuniam condicam, non quidem quanti locari potuit, sed quanti tu conducturus fuisses."
+},
+{
+"id": "12.6.65.8",
+"label": "D. 12.6.65.8",
+"text": "Si servum indebitum tibi dedi eumque manumisisti, si sciens hoc fecisti, teneberis ad pretium eius, si nesciens, non teneberis, sed propter operas eius liberti et ut hereditatem eius restituas."
+},
+{
+"id": "12.6.65.9",
+"label": "D. 12.6.65.9",
+"text": "Indebitum est non tantum, quod omnino non debetur, sed et quod alii debetur, si alii solvatur, aut si id quod alius debebat alius quasi ipse debeat solvat."
+},
+{
+"id": "12.6.66",
+"label": "D. 12.6.66 (Papinianus)",
+"text": "Haec condictio ex bono et aequo introducta, quod alterius apud alterum sine causa deprehenditur, revocare consuevit.",
+"inscription": "Papinianus libro octavo quaestionum"
+},
+{
+"id": "12.6.67.pr",
+"label": "D. 12.6.67 pr. (Scaevola)",
+"text": "Stichus testamento eius, quem dominum suum arbitrabatur, libertate accepta, si decem annis ex die mortis annuos decem heredibus praestitisset, per octo annos praefinitam quantitatem ut iussus erat dedit, postmodum se ingenuum comperit nec reliquorum annorum dedit et pronuntiatus est ingenuus: quaesitum est, an pecuniam, quam heredibus dedit, ut indebitam datam repetere et qua actione possit. Respondit, si eam pecuniam dedit, quae neque ex operis suis neque ex re eius, cui bona fide serviebat, quaesita sit, posse repeti.",
+"inscription": "Scaevola libro quinto digestorum"
+},
+{
+"id": "12.6.67.1",
+"label": "D. 12.6.67.1",
+"text": "Tutor creditori pupilli sui plus quam debebatur exsolvit et tutelae iudicio pupillo non imputavit: quaero, an repetitionem adversus creditorem haberet. Respondit habere."
+},
+{
+"id": "12.6.67.2",
+"label": "D. 12.6.67.2",
+"text": "Titius cum multos creditores haberet, in quibus et Seium, bona sua privatim facta venditione Maevio concessit, ut satis creditoribus faceret: sed Maevius solvit pecuniam seio tamquam debitam, quae iam a Titio fuerat soluta: quaesitum est, cum postea repperiantur apochae apud Titium debitorem partim solutae pecuniae, cui magis repetitio pecuniae indebitae solutae competit, Titio debitori an Maevio, qui in rem suam procurator factus est. Respondit secundum ea quae proponerentur ei, qui postea solvisset."
+},
+{
+"id": "12.6.67.3",
+"label": "D. 12.6.67.3",
+"text": "Idem quaesiit, an pactum, quod in pariationibus adscribi solet in hunc modum \"ex hoc contractu nullam inter se controversiam amplius esse\" impediat repetitionem. Respondit nihil proponi, cur impediret."
+},
+{
+"id": "12.6.67.4",
+"label": "D. 12.6.67.4",
+"text": "Lucius Titius Gaio Seio minori annis viginti quinque pecuniam certam credidit et ab eo aliquantum usurarum nomine accepi, et Gaii Seii minoris heres adversus Publium Maevium a praeside provinciae in integrum restitutus est, ne debitum hereditarium solveret, et nec quicquam de usuris eiusdem sortis, quas Seius minor annis viginti quinque exsolveret, repetendis tractatum apud praesidem aut ab eo est pronuntiatum: quaero, an usuras, quas Gaius Seius minor annis viginti quinque quoad viveret creditori exsolveret, heres eius repetere possit. Respondit secundum ea quae proponerentur condici id, quod usurarum nomine defunctus solvisset, non posse. Item quaero, si existimes repeti non posse, an ex alio debito heres retinere eas possit. Respondit ne hoc quidem."
+}
+]
+}

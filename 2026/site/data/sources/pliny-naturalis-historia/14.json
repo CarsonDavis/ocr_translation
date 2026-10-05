@@ -1,0 +1,757 @@
+{
+"corpus": "pliny-naturalis-historia",
+"unit": "14",
+"title": "Pliny the Elder, Naturalis historia, NH 14",
+"passages": [
+{
+"id": "14.1",
+"label": "Plin. NH 14.1 (chapter praef)",
+"text": "Externae arbores indocilesque nasci alibi quam ubi coepere et quae in alienas non commeant terras hactenus fere sunt, licetque iam de communibus loqui, quarum omnium peculiaris parens videri potest Italia. noscentes tantum meminerint naturas earum a nobis interim dici, non culturas , quamquam et colendi maxima in natura portio est."
+},
+{
+"id": "14.2",
+"label": "Plin. NH 14.2 (chapter praef)",
+"text": "illud satis mirari non queo, interisse quarundam memoriam atque etiam nominum quae auctores prodidere notitiam . quis enim non communicato orbe terrarum maiestate Romani imperii profecisse vitam putet commercio rerum ac societate festae pacis omniaque, etiam quae ante occulta fuerant, in promiscuo usu facta?"
+},
+{
+"id": "14.3",
+"label": "Plin. NH 14.3 (chapter praef)",
+"text": "at Hercules non reperiuntur qui norint multa ab antiquis prodita. tanto priscorum cura fertilior aut industria felicior fuit, ante milia annorum inter principia litterarum Hesiodo praecepta agricolis pandere orso subsecutisque non paucis hanc curam eius, unde nobis crevit labor, quippe cum requirenda sint non solum postea inventa, verum etiam ea quae invenerant prisci, desidia rerum internecione memoriae indicta."
+},
+{
+"id": "14.4",
+"label": "Plin. NH 14.4 (chapter praef)",
+"text": "cuius vitii causas quis alias quam publicas mundi invenerit? nimirum\n\nalii subiere ritus circaque alia mentes hominum detinentur et avaritiae tancum artes coluntur. antea inclusis gentium imperiis intra ipsas adeoque et ingeniis, quadam sterilitate fortunae necesse erat animi bona exercere, regesque innumeri honore artium colebantur et in ostentatione has praeferebant opes, inmortalitatem sibi per illas prorogari arbitrantes, qua re abundabant et praemia et opera vitae. posteris laxitas mundi e; rerum amplitudo damno fuit."
+},
+{
+"id": "14.5",
+"label": "Plin. NH 14.5 (chapter praef)",
+"text": "postquam senator censu legi coeptus, iudex fieri censu, magistratum ducemque nihil magis exornare quam census, postquam coepere orbitas in auctoritate summa et potentia esse, captatio in quaestu fertilissimo ac sola gaudia in possidendo , pessum iere vitae pretia omnesque a maximo bono liberales dictae artes in contrarium cecidere ac servitute sola profici coeptum."
+},
+{
+"id": "14.6",
+"label": "Plin. NH 14.6 (chapter praef)",
+"text": "hanc alius alio modo et in aliis adorare , eodem tamen habendique ad spes omnium tendente voto. passim vero etiam egregii aliena vitia quam bona sua colere malle. ergo Hercules voluptas vivere coepit, vita ipsa desiit."
+},
+{
+"id": "14.7",
+"label": "Plin. NH 14.7 (chapter praef)",
+"text": "sed nos oblitterata quoque scrutabimur, nec deterrebit quarundam rerum humilitas, sicuti nec in animalibus fecit, quamquam videmus Vergilium praecellentissimum vatem ea de causa hor???orum dotes fugisse et in his quae rettulit flores modo rerum decerpsisse, beatum felicemque gratiae quindecim omnino generibus uvarum nominatis,\n\ntribus oleae, totidem pirorum, malo vero tantum Assyrio, ceteris omnibus neglectis."
+},
+{
+"id": "14.8",
+"label": "Plin. NH 14.8 (chapter praef)",
+"text": "Vnde autem potius incipiamus quam a vitibus? quarum principatus in tantum peculiaris Italiae est, ut vel hoc uno omnia gentium vicisse etiam odorifera possit videri bona, quamquam ubicumque pubescentium odori nulla suavitas praefertur."
+},
+{
+"id": "14.9",
+"label": "Plin. NH 14.9 (chapter 1)",
+"text": "Vites iure apud priscos magnitudine quoque inter arbores numerabantur. lovis simulacrum in urbe Populonio ex una conspicimus tot aevis incorruptum, item Massiliae pateram. Metaponti templum Iunonis vitigineis columnis stetit. etiam nunc scalis tectum Ephesiae Dianae scanditur una vite Cypria, ut ferunt quoniam ibi ad praecipuam amplitudinem exeunt. nec est ligno ulli aeternior natura. verum"
+},
+{
+"id": "14.10",
+"label": "Plin. NH 14.10 (chapter 1)",
+"text": "ista ex silvestribus facta crediderim; hae vites tonsura annua coercentur, et vis earum omnis evocatur in palmites aut deprimitur in propagines, sucique tantum gratia ex iis petitur pluribus modis ad caeli mores solique ingenia. in Campano agro populis nubunt, maritasque conplexae atque per ramos earum procacibus bracchiis geniculato cursu scandentes cacumina aequant, in tantum sublimes, ut vindemitor"
+},
+{
+"id": "14.11 ",
+"label": "Plin. NH 14.11  (chapter 1)",
+"text": "auctoratus rogum ac tumulum excipiat, nulla fine crescendi, vidiqueiam porticus, villas et domos ambiri singularum palmitibus\n\nac sequacibus loris. quodque memoria dignum inter prima Valerianus quoque Cornelius existimavit, una vitis Romae in Liviae porticibus subdiales inambulationes umbrosis pergulis opacat, eadem duodenis musti amphoris fecunda."
+},
+{
+"id": "14.12",
+"label": "Plin. NH 14.12 (chapter 1)",
+"text": "ulmos quidem ubique exuperant, miratumque altitudinem earum Ariciae ferunt legatum regis Pyrrhi Cineam facete lusisse in austeriorem gustum vini, merito matrem eius pendere in tam alta cruce. rumpotinus vocatur et alio nomine opulus arbor Italiae Padum transgressis, cuius tabulata in orbem patula ???eplent puroque perductae dracone in palmam eius inde sub rectos ramorum digitos flagella dispergunt."
+},
+{
+"id": "14.13",
+"label": "Plin. NH 14.13 (chapter 1)",
+"text": "eaedem motici hominis altitudine adminiculatae sudibus horrent, vineamque faciunt aliae inprobo reptatu pampinorumque per inaniaomnia discursu atria media conplentes . tot differentias vel sola tantum Italia recipit. stat provinciarum aliquarum per se vitis sine ullo pedamento, arcus sues in se colligens et brevitate crassitudinem pascens."
+},
+{
+"id": "14.14",
+"label": "Plin. NH 14.14 (chapter 1)",
+"text": "vetant hoc aliubi venti, ut in Africa et Narbonensis provinciae partibus, ubi ecrescere ultra suos pollices prohibitae semperque pastinatis similes herbarum modo vagantur\n\nper arva ac sucum terrae passim uvis bibunt, quae ob id magnitudinem infantium puerorum in interiore parte Africae exsuperant. vina non alibi tristiora, sed uva non alibi gratior callo, unde possit invenisse nomen durus acinus."
+},
+{
+"id": "14.15",
+"label": "Plin. NH 14.15 (chapter 1)",
+"text": "namque genera magnitudine, colore, saporibus acini innumera etiamnum multiplicantur vino. hic purpureo lucent colore, illic fulgent roseo nitentque viridi; candicans enim nigerque vulgares . tument vero mammarum modo bumasti, praelongis dactyli porriguntur acinis. est et illa naturae lascivia, ut praegrandibus adhaereant parvi comites, suavitate certantes; leptorragas has vocant."
+},
+{
+"id": "14.16",
+"label": "Plin. NH 14.16 (chapter 1)",
+"text": "durant aliae per hiemes, pensili concamaratae nodo. aliae in sua tantum continentur anima, ollis fictilibus et insuper doliis inclusae, stipatae vinaceis circumsudantibus. aliis gratiam, qui et vinis, fumus adfert, fabrilisque in eo gloriam praecipuam fornacibus Africae Tiberi Caesaris auctoritas fecit; ante eum Raeticis prior mensa erat uvis ex Veroniensium agro. quin et patientia nomen acinis dat passis."
+},
+{
+"id": "14.17",
+"label": "Plin. NH 14.17 (chapter 1)",
+"text": "conduntur et musto uvae ipsaeque vino\n\nsuo inebriantur. aliae decocto in musto dulcescunt, aliae vero subolem novam in ipsa matre expectant tralucidae, vitro, additque acinis eandem quam in doliis amphorisve duratricem illam firmitalem austeritas picis infusa pediculo."
+},
+{
+"id": "14.18",
+"label": "Plin. NH 14.18 (chapter 1)",
+"text": "iam inventa vitis per se in vino picem resipiens, Viennensem agrum nobilitans Taburrno Sotanoque et Helvico generibus, non pridem haec inlustrata atque Vergili vatis aetate incognita , a cuius obitu XC aguntur anni."
+},
+{
+"id": "14.19",
+"label": "Plin. NH 14.19 (chapter 1)",
+"text": "quid , quod inserta castris summam rerum imperiumque continet centurionum in manu vitis et opimo praemio tardos ordines ad lentas perducit aquilas atque eiam in delictis poenam ipsam honorat ? nec non vineae oppugnationum dedere rationem. nam in medicaminibus adeo magnum obtinent locum, ut per sese vino ipso remedia sint."
+},
+{
+"id": "14.20",
+"label": "Plin. NH 14.20 (chapter 2)",
+"text": "Genera vitium numero conprehendi posse unus existimavit Democritus, cuncta sibi Graeciae cognita professus ; ceteri innumera atque infinita esse prodiderunt, quod verius apparebit ex vini. nec omnia dicentur, sed maxime insignia, quippe totidem paene sunt quot agri, quam ob rem celeberrimas vitium aut quibus est aliqua proprietate miraculum ostendisse sa???is erit."
+},
+{
+"id": "14.21",
+"label": "Plin. NH 14.21 (chapter 2)",
+"text": "Principatus datur Aminneis firmitatem propter senioque proficientem vini eius utique vitam. quinque earum genera. ex iis germana minor acino melius deflorescit, imbres tempestatesque tolerat, non item maior, sed in arbore quam in iugo minus obnoxia."
+},
+{
+"id": "14.22",
+"label": "Plin. NH 14.22 (chapter 2)",
+"text": "gemellarum, quibus hoc nomen uvae semper geminae dedere, asperrimus sapor, sed vires praecipuae . ex iis minor austro laeditur, ceteris ventis alitur, ut in Vesuvio monte Surrentinisque collibus, in reliquis Italiae partibus non nisi arbori accommodata. quintum genus lanatae. ne Seras miremur aut Indos adeo, lanugo eam vestit. prima ex Aminneis maturescit ocissimeque putrescit."
+},
+{
+"id": "14.23",
+"label": "Plin. NH 14.23 (chapter 2)",
+"text": "Proxima dignitas Nomentanis, rubente materia, quapropter quidam rubellas appellavere vineas. hae minus fertiles , vinaceis et faece nimiae, contra pruinas fortissimae, siccitate magis quam imbre, aestu quam algore vexantur. quam ob rem in frigidis umidisque principatum obtinent. fertilior quae minor acino et folio scissa minus."
+},
+{
+"id": "14.24",
+"label": "Plin. NH 14.24 (chapter 2)",
+"text": "Apianis apes dedere cognomen, praecipue earum avidae. ex iis duo genera lanugine et ipsa pubescunt. distant quod altera celerius maturescit, quamquam et altera properante. situs frigidi iis non respuuntur, et tamen nullae celerius\n\nimbre putrescunt. vina primo dulcia austeritatem annis accipiunt . Etruria nulla rlagis vite gaudet."
+},
+{
+"id": "14.25",
+"label": "Plin. NH 14.25 (chapter 2)",
+"text": "et hactenus potissima nobilitas datur peculiaribus atque vernaculis Italiae; ceterae advenere . e Caio Thasove Graecula non inferior Aminneis bonitate, praetenera acino et uva tam parva, ut nisi pinguissimo solo colere non prosit. eugeniam Tauromenitani colles cum generositatis cognomine misere Albano tantum agro, quoniam translata statim mutatur. namque est aliquis tantus locorum amor, ut omnem in iis gloriam suam relinquant nec usquam transeant totae."
+},
+{
+"id": "14.26",
+"label": "Plin. NH 14.26 (chapter 2)",
+"text": "quod et in Raetica Allobrogicaque, quam supra picatam appellavimus, evenit, domi nobilibus nec agnoscendis alibi. fecundae tamen bonitatis vice copiam praestant, eugenia ferventibus locis, Raetic .a temperatis, Allobrogica frigidis, gelu maturescens et colore nigra."
+},
+{
+"id": "14.27",
+"label": "Plin. NH 14.27 (chapter 2)",
+"text": "ex iis quas adhuc diximus, sed etiam e nigris, vina vetustate in album colorem transeunt. reliquae ignobiles , aliquando tamen caeli aut soli opera non fallunt vetustatem , sicuti Faecenia et cum ea florens Biturigiaca, acino rarior, numquam floris obnoxii, quoniam antecedunt ventisque et imbribus resistunt, meliores tamen algentibus locis quam calidis, umidis quam sitientibus."
+},
+{
+"id": "14.28",
+"label": "Plin. NH 14.28 (chapter 2)",
+"text": "visulla grandi magis quam denso uvarum partu, inpatiens variantis caeli, sed\n\ncontra tenorem unum algoris aestusve constans. quae minor est ex eo genere, melior. in eligendo solo morosa, pingui putrescit, gracili omnino non provenit; mediam temperiem delicate quaerit, ob hoc Sabinis collibus familiaris. uva eius indecora visu, sapore iucunda. nisi matura protinus rapitur , etiam non putrescens cadit. contra grandines eam tuetur foliorum amplitudo atque duritia."
+},
+{
+"id": "14.29",
+"label": "Plin. NH 14.29 (chapter 2)",
+"text": "Insignes iam colore inter purpureas nigrasque helvolae saepius variantes et ob id varianae a quibusdam appellatae. praefertur in iis nigrior; utraque alternis annis fertilis, sed melior vino, cum parcior. et praeciae duo genera magnitudine acini discernuntur, quibus materies plurima uvaque ollis utilissima; folium apio simile . baliscam Dyrrachini celebrant, Hispaniae coccolobin vocant. rarior uva, aestus austrosque tolerat, capiti inimica, copia larga."
+},
+{
+"id": "14.30",
+"label": "Plin. NH 14.30 (chapter 2)",
+"text": "Hispaniae duo genera eius faciunt, unum oblongo acino, alterum rotundo ; novissimas vindemiant. quo dulcior est coccolobis, hoc melior. sed et austera transit in dulcem vetustatem, et quae dulcis fuit in austeritatem; tune Albano vino aemulantur . tradunt vesicae vitiis utilissimum ex iis potum. albuelis summis arboribus fertilior est, visulla imis;"
+},
+{
+"id": "14.31",
+"label": "Plin. NH 14.31 (chapter 2)",
+"text": "quam ob rem circa easdem satae diversitate naturae locupletant.\n\ninerticulam e nigris appellavere, iustius sobriam dicturi, inveterato praecipue commendabilem vino, sed viribus innoxiam , si quidem temulentiam sola non facit."
+},
+{
+"id": "14.32",
+"label": "Plin. NH 14.32 (chapter 2)",
+"text": "Fertilitas commendat ceteras principemque helvennacam. duo eius genera: maior quam quidam longam, minor quam marcum appellant, non tam fecundam, sed gratiorem haustu. discernitur folio circinato, verum utraque gracilis. furcas subdere iis necessarium : alioqui ubertatem suam non tolerant ."
+},
+{
+"id": "14.33",
+"label": "Plin. NH 14.33 (chapter 2)",
+"text": "maritimo adflatu gaudent, roscida odere. nulla vitium minus Italiam amat, rara, parva, putrescens in ea, vino quoque quod genuit aestatem non exuperans; nec alia macro solo familiarior. Graecinus, qui alioqui Cornelium Celsum transcripsit, arbitratur non naturam eius repugnare Italiae, sed culturam avide palmites evocantium. ob id fertilitate sua absumi, si non praepinguis soli ubertas lassescentem sustineat. carbunculare negatur, magna dote, si verum est aliqua in vite caelo non esse ius."
+},
+{
+"id": "14.34",
+"label": "Plin. NH 14.34 (chapter 2)",
+"text": "Aestus fert spionia, quam quidam spineam vocant, autumnisque imbribus pinguescit; quin immo nebulis una alitur, ob id Ravennati agro peculiaris. vennunculam inter optime deflorescentes e ollis aptissimam Campani malunt\n\nsurculam vocare, alii scapulam, Tarracina Numisianam, nullas vires proprias habentem, sed totam perinde ac solum valeat, Surrentinis tamen efficacissimam testis Vesuvio tenus."
+},
+{
+"id": "14.35",
+"label": "Plin. NH 14.35 (chapter 2)",
+"text": "ibi enim Murgentina e Sicilia potentissima, quam Pompeianam aliqui vocant, laeto demum feracem, sicut horconia in Campania tantum. e diverso arceraca, Vergilio argitis dicta, ultro solum laetius facit, ipsa contra imbres et senectam fortissima, vino quidem vix annua ac vilitatis cibariae, sed ubertate praecipua . tolerat et annos mettica, contra omne sidus firmissima, nigro acino, vinis in vetustate rufescentibus."
+},
+{
+"id": "14.36",
+"label": "Plin. NH 14.36 (chapter 3)",
+"text": "Et hactenus publica sunt genera, cetera regionum locorumque aut ex iis inter se insitis mixta: si quidem Tuscis peculiaris est Tudernis, atque etiam nomen iis Florentiae sopina, Arretio talpona et etesiaca et conseminia. talpona nigra candidum facit mustum. etesiaca fallax: quo plus tulit, hoc laudabilius fundit, mirumque, fecunditate pariter et bonitate cessat. conseminia nigra, vino minime\n\ndurante, uva maxime, post XV dies quam ulla alia metitur, fertilis, set cibaria."
+},
+{
+"id": "14.37",
+"label": "Plin. NH 14.37 (chapter 3)",
+"text": "buius folia sicuti labruscae prius quam decidant sanguineo colore mutantur. evenit hoc et quibusdam aliis, pessimi geneeis argumento. itriola Vmbriae Mevanatique et Piceno agro peculiaris est, Amiternino pumula. isdem bananica fallax est, adamant tamen eam."
+},
+{
+"id": "14.38",
+"label": "Plin. NH 14.38 (chapter 3)",
+"text": "municipii suam Pompei nomine appellant, quamvis Clusinis copiosiorem ; municipii et Tiburtes appellavere, quamvis oleagineam nuper invenerint a similitudine olivae. novissima haec uvarum ad hoc tempus reperta est. vinaciolam soli noverunt Sabini, calventinam Gaurani. scio e Falerno agro tralatas vocari Falernas, celerrime ubique degenerantes. nec non Surrentinum genus fecere aliqui praedulci uva."
+},
+{
+"id": "14.39",
+"label": "Plin. NH 14.39 (chapter 3)",
+"text": "capnios et et buconiates et tharrupia in Thurinis collibus non ante demetuntur quam gelaverit. Pariana gaudent Pisae, Mutina Perusinia nigro acino, intra quadriennium albescente vino. mirum ibi cum sole circumagi uvam quae ob id streptis vocatur, et in Italia Gallicam placere, trans Alpis vero Picenam.\n\ndixit Vergilius Thasias et Mareotidas et Lageas compluresque externas, quae non reperiuntur in Italia."
+},
+{
+"id": "14.40",
+"label": "Plin. NH 14.40 (chapter 3)",
+"text": "Sed sunt etiamnum insignes uva, non vino, ambrosia e duracinis, sine ullis vasis in vite servabilis — tanta est contra frigora, aestus tempestatesque firmitas, nec [orthampelos ] indiget arbore aut palis, ipsa se sustinens, non item dactylides digitali gracilitate —, columbinae e racemosis , et magis purpureae, cognomine bimammiae, quando non racemos,"
+},
+{
+"id": "14.41?",
+"label": "Plin. NH 14.41? (chapter 3)",
+"text": "sed uvas alias gerunt, item tripedanea, cui nomen a mensura est, item scripula passo acino et Raetica in maritimis Alpibus appellata, dissimilis laudatae illi. namque haec brevis, conferta acino, degener vino, sed cute omnium tenuissima, nucleo (quod chium vocant) uno ac minimo , acinum praegrandem unum alterumve habens. est et nigra Aminnea, cui Syriacae nomen inponunt, item Hispana ignobilium probatissima."
+},
+{
+"id": "14.42",
+"label": "Plin. NH 14.42 (chapter 3)",
+"text": "In pergulis vero seruntur escariae appellatae e duracinis , albae, nigrae , et bumasti totidem coloribus, ac nondum dictae Aegia et Rhodia et uncialis, velut a pondere acini,\n\nitem picina, omnium nigerrima, et coronario naturae lusu stephanitis, acinos foliis intercursantibus, et quae forenses vocantur, celeres proventu, vendibiles aspectu, portatu faciles . contra damnantur etiam visu cinerea et rabuscula et asinusca, minus tamen caudas vulpium imitata alopecis."
+},
+{
+"id": "14.43",
+"label": "Plin. NH 14.43 (chapter 3)",
+"text": "Alexandrina appellatur vitis circa Phalacram brevis, ramis cubitalibus, acino nigro fabae magnitudine, nucleo molli et minimo, obliquis racemis praedulcibus, folio parvo et rotundo, sine divisuris. septem his annis in Narbonensis provinciae AlbaHelvia inventa est vitis uno die deflorescens, ob id tutissima; carbunicam vocant, quam nunc tota provincia conserit."
+},
+{
+"id": "14.44",
+"label": "Plin. NH 14.44 (chapter 4)",
+"text": "Catonum ille primus, triumpho et censura super cetera insignis, magis tamen etiamnum claritate litterarum praeceptisque omnium rerum expetendarum datis generi Romano, inter prima vero agrum colendi, ille aevi confessione optimus ac sine aemulo agricola, pauca attigit vitium genera, quarundam ex iis iam etiam nominibus abolitis ."
+},
+{
+"id": "14.45",
+"label": "Plin. NH 14.45 (chapter 4)",
+"text": "separatim toto tractatu sententia eius indicanda est, ut in omni genere noscamus quae fuerint celeberrima anno DC urbis, circa captas Carthaginem ac Corinthum, cum supremum is diem obiit, et quantum postea CCXXX annis vita profecerit ."
+},
+{
+"id": "14.46",
+"label": "Plin. NH 14.46 (chapter 4)",
+"text": "ergo dc vitibus uvisque ita prodidit: Qui locus vino optimus dicetur esse et ostentus solibus ,\n\nAminnium minusculum et geminum eugenium, helvium minusculum conserito. qui locus crassior aut nebulosior, Aminnium maius aut Murgentinum, Apicium, Lucanum serito. ceterae vites miscellae maxime in quemvis agrum conveniunt. in olla vinaceis conduntur Aminnium minusculum et maius et Apicium, eadem in sapa et musto, in lora recte conduntur. quas suspendas duracinas, Aminnias maiores, vel ad fabrum ferrarium pro passis hae recte servantur."
+},
+{
+"id": "14.47",
+"label": "Plin. NH 14.47 (chapter 4)",
+"text": "nec sunt vetustiora de illa re Latinae linguae praecepta. tam prope ab origine rerum sumus. Aminneam proxime dictam Varro Scantianam vocat.\n\nIn nostra aetate pauca exempla consummatae huius artis fuere, verum eo minus omittenda, ut noscantur etiam praemia , quae in omni re maxime spectantur."
+},
+{
+"id": "14.48",
+"label": "Plin. NH 14.48 (chapter 4)",
+"text": "summam ergo adeptus est gloriam Acilius Sthenelus e plebe libertina LX iugerum non amplius vineis excultis in Nomentano agro atque CCCC nummum venumdatis ."
+},
+{
+"id": "14.49",
+"label": "Plin. NH 14.49 (chapter 4)",
+"text": "magna fama et Vetuleno Aegialo, perinde libertino , fuit in Campania rure Liternino, maiorque etiam favore hominum, quoniam ipsum Africani colebat exilium; sed maxima, eiusdem Stheneli opera, Remmio Palaemoni, alias grammatica arte celebri , in hisce viginti\n\nannis mercato rusDC nummum in eodem Nomentano decimi lapidis ab urbe dverticulo."
+},
+{
+"id": "14.50",
+"label": "Plin. NH 14.50 (chapter 4)",
+"text": "est autem usquequaque nota vilitas mercis per omnia suburbana, ibi tamen maxime, quoniam et neglecta indiligentia praedia paraverat ac ne in pessimis quidem elegantioris soli. haec adgressus excolere non virtute animi, sed vanitate primo, quae nota mire in illo fuit, pastinatis de integro vineis cura Stheneli, dum agricolam imitatur, ad vix credibile miraculum perduxit, intra octavum annum CCCC nummum emptori addicta pendente vindemia."
+},
+{
+"id": "14.51",
+"label": "Plin. NH 14.51 (chapter 4)",
+"text": "cucurritque non nemo ad spectandas uvarum in iis vineis strues, litteris eius altioribus contra id pigra vicinitate sibi patrocinante, novissime Annaeo Seneca, principe tum eruditorum ac potentia , quae postremo nimia fruit super ipsum, minime utique miratore inanium , tanto praedii huius amore capto, ut non puderet inviso alias et ostentaturo tradere palmam eam, emptis quadriplicato vineis illis intra decimum fere curae annum ."
+},
+{
+"id": "14.52",
+"label": "Plin. NH 14.52 (chapter 4)",
+"text": "digna opera quae in Caecubis Setinisque agris proficeret, quando et postea saepenumero septenos culleos singula iugera, hoc est amphoras centenas quadragenas, musti dedere! ac ne quis victam in hoc antiquitatem arbitretur , idem Cato denos culleos redire ex\n\niugeribus scripsit, efficacibus exemplis non maria plus temerata conferre mercatori, non in Rubrum litus Indicumve merces petitas quam sedulum ruris larem."
+},
+{
+"id": "14.53",
+"label": "Plin. NH 14.53 (chapter 4)",
+"text": "Vino antiquissimo claritas Maroneo in Thraciae maritima parte genito, ut auctor est Homerus. neque enim fabulosa aut de origine eius varie prodita consectamur, praeterquam Aristaeum primum omnium in eadem gente mel miscuisse vino, suavitate praecipua utriusque naturae sponte provenientis . Maroneum vicies tanto addito aquae miscendum Homerus prodidit."
+},
+{
+"id": "14.54",
+"label": "Plin. NH 14.54 (chapter 4)",
+"text": "durat etiam nunc vis in eadem terra generi rigorque indomitus, quippe cum Mucianus ter consul ex iis qui nuperrime prodidere sextarios singulos octonis aquae misceri compererit praesens in eo tractu, esse autem colore nigrum, odoratum, vetustatepinguescere . et Pramnio, quod idem Homerus celebravit, etiam nunc honos durat. nascitur Zmyrnae regione iuxta delubrum Matris deum."
+},
+{
+"id": "14.55",
+"label": "Plin. NH 14.55 (chapter 4)",
+"text": "in reliquis claritas generi non fuit alicui: anno fuit omnium generum bonitate L. Opimio cos., cum C. Gracchus tribunus plebem seditionibus agitansest interemptus. ea caeli temperies fulsit (cocturam vocant) solis opere natali urbis DCXXXIII , durantque adhuc vina ea\n\nducentis fere annis, iam in speciem redacta mellis asperi — etenim haec natura vinis in vetustate est —, nec potari per se queant pervincive aqua, usque in amaritudinem carie indomita; sed ceteris vinis commendandis minima aliqua mixtura medicamenta sunt."
+},
+{
+"id": "14.56",
+"label": "Plin. NH 14.56 (chapter 4)",
+"text": "quod ut eius temporis aestimatione in singulas amphoras centeni nummi statuantur, ex his tantum usura multiplicata semissibus, quae civilis ac modica est, in C. Caesaris Germanici fili principatu anno CLX singulas uncias vini constitisse, nobili exemplo docuimus referentes vitam Pomponii Secundi vatis cenanmque quam principi illi dedit. tantum pecuniarum detinent apothecae !"
+},
+{
+"id": "14.57",
+"label": "Plin. NH 14.57 (chapter 4)",
+"text": "nec alia res maius incrementum sentit ad vicensimum annum maiusve ab eo dispendium, non proficiente pretio; raro quippe adhuc fuere, nec nisi in nepotatu, singulis testis milia nummum. Viennenses soli picata sua, quorum genera diximus pluris permutare, sed inter sese amore patrio, creduntur; idque vinum frigidius reliquis existimatur in frigido potu."
+},
+{
+"id": "14.58",
+"label": "Plin. NH 14.58 (chapter 5)",
+"text": "Vino natura est hausto accendendi calore viscera intus, foris infuso refrigerandi. nec alienum fuerit commemorare hoc in loco quod Androcydes sapientia clarus ad Alexandrum Magnum scripsit, intemperantiam eius cohibens: Vinum poturus, rex, memento bibere te\n\nsanguinem terrae. Cocita hominis venenum est, cicutae vinum. quibus praeceptis ille si obtemperavisset, profecto amicos in temulentia non interemisset, prorsus ut iure dici possit , neque viribus corporis utilius aliud neque voluptatibus perniciosius, si modus absit."
+},
+{
+"id": "14.59",
+"label": "Plin. NH 14.59 (chapter 6)",
+"text": "Genera autem vini alia aliis gratiora esse quis dubitet aut non ex eodem lacu aliud praestantius altero germanitatem praecedere sive testa sive fortuito eventu? quam ob rem de principatu se quisque iudicem statuet."
+},
+{
+"id": "14.60",
+"label": "Plin. NH 14.60 (chapter 6)",
+"text": "lulia Augusta LXXXVI annos vitae Pucino vino rettulit acceptos , non alio usa . gignitur in sinu Hadriatici maris non procul Timavo fonte saxoso colle, maritimo adflatu paucas coquente amphoras; nec aliud aptius medicamentis indicatur. hoc esse crediderim quod Graeci celebrantes miris laudibus"
+},
+{
+"id": "14.61",
+"label": "Plin. NH 14.61 (chapter 6)",
+"text": "Praetetianum appellaverint ex Hadriatico sinu. Divus Augustus Setinum praetulit cunctis et fere secuti principes, confessa propter experimenta, non temere cruditatibus noxiis ab ea saliva. nascitur supra Forum Appi. antea Caecubo\n\nerat generositas celeberrima in palustribus populetis sinu Amynclano, quod iam intercidit incuria coloni locique angustia , magis tamen fessa Neronis, quam a Baiano lacu Ostiam usque navigabilem incohaverat ."
+},
+{
+"id": "14.62",
+"label": "Plin. NH 14.62 (chapter 6)",
+"text": "Secunda nobilitas Falerno agro erat et ex eo maxime Faustiniano ; cura culturaque id collegerat . exolescit haec quoque copiae potius quam bonitati studentium. Falernus ager a ponte Campano ???aeva petentibus Vrbanam coloniam Sullanam nuper Capuae contributam incipit, Faustinianus circiter IIII milia passuum a vico Caedicio, qui vicus a Sinuessa VI M passuum abest. nec ulli nunc vino maior auctoritas. solo vinorurm flamma accenditur."
+},
+{
+"id": "14.63",
+"label": "Plin. NH 14.63 (chapter 6)",
+"text": "tria eius genera : austerum, dulce, lenue. quidam ita distingunt, summis collibus Caucinum gigni, mediis Faustinianum, imis Falernum. non omittendum autem nulli eorum quae celebrentur iucundum saporem uvae esse."
+},
+{
+"id": "14.64",
+"label": "Plin. NH 14.64 (chapter 6)",
+"text": "At tertiam palmam varie venere Albana urbi vicina, praedulcia ac rara in austero, item Surrentina in vineis tantum\n\nnascentia, convalescentibus maxime probata propter tenuitatem salubritatemque. Tiberius Caesar dicebat consensisse medicos ut nobilitatem Surrentino darent; alioqui esse generosum acetum; C. Caesar, qui successit illi, nobilem vappam. certant Massica atque a monte Gauro Puteolos Baiasque prospectantia."
+},
+{
+"id": "14.65",
+"label": "Plin. NH 14.65 (chapter 6)",
+"text": "nam Falerno contermina Statana ad principatum venere non dubie palamque fecere sua quibusque terris tempora esse , suos rerum proventus occasusque. iuncta iis praeponi solebant Calena et quae in vineis arbustisque nascuntur Fundana et alia ex vicinia urbis, Veliterna, Privernatia . nam quod Signiae nascitur, austeritate nimia continendae utile alvo, inter medicamina numeratur."
+},
+{
+"id": "14.66",
+"label": "Plin. NH 14.66 (chapter 6)",
+"text": "Quartum curriculum publicis epulis optinuere a Divo Iulio — is enim primus auctoritatem iis dedit , ut epistulis eius apparet — Mamertina circa Messanam in Sicilia genita; ex iis Potulana , ab auctore dicta illo cognomine, proxima Italiae laudantur praecipue. est in eadem Sicilia et Taurom enitanis honos lagonis pro Mamertino plerumque subditis."
+},
+{
+"id": "14.67",
+"label": "Plin. NH 14.67 (chapter 6)",
+"text": "Ex reliquis autem a supero maria Praetutia atque Ancone nascentia, et quae a palma una forte enata palmensia appellavere, in mediterraneo vero Caesenatia ac Maecenatiana , in Veroniensi item Raetica , Falernis tantum postlata a Vergilio, mox ab intimo sinu maris Hadriana, ab infero autem Latiniensia, Graviscana , Statoniensia ."
+},
+{
+"id": "14.68",
+"label": "Plin. NH 14.68 (chapter 6)",
+"text": "Etruriae Luna palmam habet, Liguriae Genua, inter Pyrenaeum Alpesque Massilia gemino sapore, quando et condiendis aliis pinguius gignit, quod vocat sucosum. Baeterrarum intra Gallias consistit auctoritas. de reliquis in Narbonensi genitis adseverare non est, quoniam officinam eius rei fecere tinguentes fumo, utinamque non et herbis ac medicaminibus noxiis! quippe etiam aloe mercator saporem coloremque adulterat."
+},
+{
+"id": "14.69",
+"label": "Plin. NH 14.69 (chapter 6)",
+"text": "Verum et longinquiona Italiae ab Ausonio mari non carent gloria, Tarentina et ServLtia et Consentiae genita et Tempsae, Calabriae Lucanaque anecedentibus Thurinis. omnium vero eorum maxime inlustrata Messalae Potiti salute Lagarina, non procul Grumento aascentia. Campania nuper excitavit\n\nnovis nominibus auctoritatem sive cura sive casu ad quartum a Neapoli lapidem Trebellicis, iuxta Capuam Caulinis et in suo agro Trebulanis, alioqui semper inter plebeia et Trifolinis gloriata."
+},
+{
+"id": "14.70",
+"label": "Plin. NH 14.70 (chapter 6)",
+"text": "nam Pompeianis summum decem annorum incrementum est, nihil senecta conferente. dolore etiam capitum in sextam horam diei sequentis infesta deprehenduntur . quibus exemplis, nisi fallor, manifestum est patriam terramque referre, non uvam, et supervacuam generum consectationem in numerum, cum eadem vitis aliud aliis in locis polleat ."
+},
+{
+"id": "14.71",
+"label": "Plin. NH 14.71 (chapter 6)",
+"text": "Hispaniarum Laeetana copia nobilitantur , elegantia vero Tarraconensia atque Lauronensia et Baliarica ex insulis conferuntur Italiae primis. nec ignoro multa praetermissa plerosque existimaturos, quando suum cuique placet et, quocumque eatur, fabula eadem reperitur,"
+},
+{
+"id": "14.72?",
+"label": "Plin. NH 14.72? (chapter 6)",
+"text": "Divi Augusti iudiciorum ac palati peritissimum e libertis censuram vini in epulas eius facientem dixisse hospiti de indigena vino, novum quidem sibi gustum esse eum atque non ex nobilibus, sed Caesarem non aliud poturum, nec negaverim et alia digna esse fama, sed de quibus consensus aevi iudicaverit haec sunt."
+},
+{
+"id": "14.73",
+"label": "Plin. NH 14.73 (chapter 7)",
+"text": "Nunc simili modo transmarina dicemus. in summa gloria post Homerica illa, de quibus supra diximus, fuere Thasium Chiumque, ex Chio quod Ariusium vocant. his addidit Lesbium Erasistrati maximi medici auctoritas,\n\ncirciter CCCCL anno urbis Romae. nunc gratia ante omnia est Clazomenio, postquam parcius mari condiunt."
+},
+{
+"id": "14.74",
+"label": "Plin. NH 14.74 (chapter 7)",
+"text": "Lesbium sponte naturae suae mare sapit. nec Tmoliti per se gratia ut vino, sed cuius dulci admixto reliquorum duritia suavitatem accipiat simul et aetatem, quoniam vetustiora protinus videntur. ab his dignatio est Sicyonio , Cyprio, Telmesico, Tripolitico, Berytio , Tyrio, Sebennytico ."
+},
+{
+"id": "14.75",
+"label": "Plin. NH 14.75 (chapter 7)",
+"text": "in Aegypto hoc nascitur tribus generibus uvarum ibi nobilissimis, Thasia, aethalo, peuce. post haec auctoritas Hippodamantio, Mystico, cantharitae, protropo Cnidio, Catacecaumenitae, Petritae, Myconio. nam Mesogiten capitis dolores facere compertum est, nec Ephesium saluore esse, quoniam mari et defruto condiatur. Apamenum mulso praecipue convenire dicitur, sicut Praetutium in Italia. est enim et haec proprietas generum; dulcia utique inter se non congruunt."
+},
+{
+"id": "14.76",
+"label": "Plin. NH 14.76 (chapter 7)",
+"text": "exolevit et protagion, quod Italicis proximum fecerant Asclepiadis scholae. Apollodorus medicus in volumine, quo suasit Ptolemaeo regi quae vina biberet, Italicis etiam tum ignotis laudavit in Ponto Nasperceniten, mox Oreticum , Oeneaten,\n\nLeucadium, Ambracioten et, quod cunctis praetulit, Peparet hium , sed minoris famae esse dixit, quoniam ante sex annos non placeret."
+},
+{
+"id": "14.77",
+"label": "Plin. NH 14.77 (chapter 8)",
+"text": "Hactenus bonitas vini nationibus debetur. apud Graecos cura clarissimum nomen accepit quod appellaverunt bion, ad plurimos valitudinum usus excogitatum, ut docebimus in parte medicinae. fit autem hoc modo: uvae paulum ante maturitatem decerptae siccantur acri sole, ter die versatae per triduum, quarto exprimuntur, dein in cadis sole inveterantur."
+},
+{
+"id": "14.78",
+"label": "Plin. NH 14.78 (chapter 8)",
+"text": "Coi marinam aquam largiorem miscent, a servi furto origine orta sic mensuram explentis, qua re translata in album mustum leucocoum appellatur. in alis autem gentibus simili modo factum tethalassomenon vocant, thalassiten autem vasis musti deiectis in mare, quo genere praecox fit vetustas ."
+},
+{
+"id": "14.79",
+"label": "Plin. NH 14.79 (chapter 8)",
+"text": "nec non apud nos quoque Coum vinum ex Italico faciendi rationem Cato demonstravit, super cetera in sole quadriennio maturandum praecipiens. Rhodium Coo simile est, Phorineum salsius Coo . omnia transmarina septem annis ad vetustatem mediam pervenire existimantur."
+},
+{
+"id": "14.80",
+"label": "Plin. NH 14.80 (chapter 9)",
+"text": "Vinum omne dulce minus odoratum; quo 20 tenuius, eo odoratius. colores vinis quattuor: albus, fulvus, sanguineus, niger. psithium et melampsithium passi genera\n\nsunt suo sapore, non vino, Scybelites vero mulsi, in Galatia nascens, et Haluntium in Sicilia. nam siraeum, quod alii hepsema, nostri sapam appellant, ingeni, non naturae, opus est musto usque ad terliam mensurae decocto. quod ubi factum ad dimidiam est, defrutum vocatur. omnia in adulterium mellis excogitata, sed priora uva terraque constant. passum a Cretico Cilicium probatur et Africum."
+},
+{
+"id": "14.81",
+"label": "Plin. NH 14.81 (chapter 9)",
+"text": "et in Italia finitimisque provinciis fieri certum est ex uva quam Graeci psithiam vocant, nos apianam, item scripulam , diutius uvis in vite sole adustis aut ferventi oleo. quidam ex quacumque dulci, dum praecocta alba, faciunt siccantes sole, donec paulo amplius dimidium pondus supersit, tunsasque leniter exprimunt."
+},
+{
+"id": "14.82",
+"label": "Plin. NH 14.82 (chapter 9)",
+"text": "dein quantum expressere adiciunt vinaceis aquae puteanae, ut et secundarium passum faciant. diligentiores eodem modo siccatis acinos eximunt ac sine sarmentis madefactos vino excellenti, donec intumescant, premunt — et hoc genus ante cetera laudant — ac simili modo aqua addita secundarium faciunt."
+},
+{
+"id": "14.83",
+"label": "Plin. NH 14.83 (chapter 9)",
+"text": "medium inter dulcia vinumque est quod Graeci aigleucos vocant, hoc est semper mustum.\n\nid evenit cura, quoniam fervere prohibetur — sic appellant musti in vina transitum —; ergo mergunt e lacu protinus aqua cados, done bruma transeat et consuetudo fiat algendi. est etiamnum aliud genus per se, quod vocat dulce Narbonensis provincia et in ea maxime Voconti . adservatur eius gratia uva diutius in vite pediculo intorto."
+},
+{
+"id": "14.84",
+"label": "Plin. NH 14.84 (chapter 9)",
+"text": "ab aliis ipse palmes inciditur ad medullam, ab aliis uva torretur in tegulis , omnia ex helvennaca vite. his adiciunt aliqui quod vocant diachyton, uvis in sole siccatis loco cluso per dies septem in cratibus, totidem pedes a terra alte, noctibus ab umore defensis, octavo die calcatis: ita fieri optimi odoris saporisque."
+},
+{
+"id": "14.85",
+"label": "Plin. NH 14.85 (chapter 9)",
+"text": "e dulci genere est et melitites; distat a mulso, quod fit emusto, cum quinque congiis austeri musti congio mellis et salis cyatho subfervefactis. austerum, sed inter haec genera poni debet et protropum; ita appellatur a quibusdam mustum sponte defluens ante quam calcentur uvae. hoc protinus diffusum in lagonis suis defervere passi postea in sole XL diebus torrent aestatis secutae ipso canis ortu."
+},
+{
+"id": "14.86",
+"label": "Plin. NH 14.86 (chapter 10)",
+"text": "Non possunt iure dici vina quae Graeci deuteria appellant, Cato et nos loram, maceratis aqua viiaceis, sed tamen inter vina operaria numerantur. tria eorum genera: decima parte aquae addita quam musti expressa sit\n\net ita nocte ac die madefactis vinaceis rursusque prelo subiectis; alterum, quo modo Graeci factitavere, tertia parte eius quod expressum sit addita aquae expressoque decocto ad tertias partes. tertium est faecibus vini expressum, quod faecatum Cato appellat. nullum ex his plus quam annui usus."
+},
+{
+"id": "14.87",
+"label": "Plin. NH 14.87 (chapter 11)",
+"text": "Verum inter haec subit mentem, cum sint genera nobilia, quae proprie vini intellegi possint, LXXX fere in toto orbe, duas partes ex hoc numero Italiae esse, praeterea longe ante cunctas terras. et hinc deinde altius cura serpit, non a primordio hanc gratiam fuisse, auctoritatem post DC urbis annum coepisse."
+},
+{
+"id": "14.88",
+"label": "Plin. NH 14.88 (chapter 12)",
+"text": "Romulum lacte, non vino, libasse indicio sunt sacra ab eo instituta, quae hodie custodiunt morem. Numae regis Postumia lex est: Vino rogum ne respargito. quod sanxisse illum propter inopiam rei nemo dubitet. eadem lege ex inputata vite libari vina diis nefas statuit, ratione excogitata ut putare cogerentur alias aratores et pigri circa pericula arbusti . M. Varro auctor est Mezentium Etruriae regem auxilium Rutulis contra Latinos tulisse vini mercede quod tum in Latino agro fuisset."
+},
+{
+"id": "14.89",
+"label": "Plin. NH 14.89 (chapter 13)",
+"text": "non licebat id feminis Romae\n\nbibere. invenimus inter exempla Egnati Maetenni uxorem, quod vinum bibisset e dolio, interfectam fusti a marito, eumque caedis a Romulo absolutum. Fabius Pictor in annalibus suis scripsit matronam, quod loculos in quibus erant claves cellae vinariae resignavisset,"
+},
+{
+"id": "14.90?",
+"label": "Plin. NH 14.90? (chapter 13)",
+"text": "a suis inedia mori coactam, Cato ideo propinquos feminis osculum dare, ut scirent an temetum olerent. hoc tum nomen vino erat, unde et temulentia appellata. Cn. Domitius iudex pronuntiavit mulierem videri plus vini bibisse quam valitudinis causa, viro insciente, et dote multavit. diuque eius rei magna parsimonia fuit."
+},
+{
+"id": "14.91",
+"label": "Plin. NH 14.91 (chapter 13)",
+"text": "L. Papirius imperator adversus Samnites dimicaturus votum fecit, si vicisset, Iovi pocillum vini. denique inter dona sextarios datos lactis invenimus, nusquam vini. idem Cato cum in Hispaniam navigasset , unde cum triumpho rediit : Non aliud vinum, inquit, bibi quam remiges, in tantum dissimilis istis qui etiam convivis alia quam sibimet ipsis ministrant aut procedente mensa subiciunt."
+},
+{
+"id": "14.92",
+"label": "Plin. NH 14.92 (chapter 13)",
+"text": "Lautissima apud priscos vina erant murrae odore condita, ut apparet in Plauti fabulis, quamquam in ea quae Persa inscribitur et calamum addi iubet. ideo quidam\n\naromatite delectatos maxime credunt. sed Fabius Dossennus his versibus decernit:\n\nMittebam vinum pulchrum, murrinam,\n\net in Acharistione:\n\nPanem et polentam, vinum murrinam."
+},
+{
+"id": "14.93",
+"label": "Plin. NH 14.93 (chapter 13)",
+"text": "Scaevolam quoque et L. Aelium et Ateium Capitonem in eadem sententia fuisse video, quoniam in Pseudolo sit:\n\nQuod si opus est, ut dulce promat indidem,ecquid habet ? —Rogas?Murrinam, passum, defrutum, mella,\n\nquibus apparent non inter vina modo murrinam, sed inter dulcia quoque nominatum."
+},
+{
+"id": "14.94",
+"label": "Plin. NH 14.94 (chapter 14)",
+"text": "Apothecas fuisse et diffundi solita vina anno DCXXXIII urbis apparet indubitato Opimiani vini argumento. iam intellegentis suum bonum Italiae nondum tamen ista genera in claritate erant; itaque omnia tune genita unum habent consulis nomen."
+},
+{
+"id": "14.95",
+"label": "Plin. NH 14.95 (chapter 14)",
+"text": "sic quoque postea diu transmarina in auctoritate fuerunt et ad avos usque nostros, quin et Falerno iam reperto, sicut apparet ex illo comico versu:\n\nQuinque Thasi vini depromam, bina Falerni.\n\nP. Licinius Crassus L. Iulius Caesar censores anno urbis conditae DCLXV edixerunt, ne quis vinum Graecum, Aminniumque octonis aeris singula quadrantalia venderet. haec enim verba sunt. tanta vero Graeco vino gratia erat, ut singulae potiones in convictu darentur."
+},
+{
+"id": "14.96",
+"label": "Plin. NH 14.96 (chapter 14)",
+"text": "quibus vinis auctoritas fuerit sua iuventa, M. Varro his verbis tradit: L. Lucullus puer apud patrem numquam lautum convivium vidit, in quo plus semel Graecum vinum daretur: ipse cum rediit ex Asia, milia cadum congiarium divisit amplius centum. C. Sentius, quem praetorem vidimus, Chium vinum suam domum inlatum dicebat tum primum, cum sibi cardiaco medicus dedisset: Hortensius super"
+},
+{
+"id": "14.97",
+"label": "Plin. NH 14.97 (chapter 14)",
+"text": "X cadum heredi reliquit. hactenus Varro.\n\nquid? non et Caesar dictator triumphi sui cena vini Falerni amphoras , Chii cados in convivia distribuit? idem Hispaniensi triumpho Chium et Falernum dedit, epulo vero in tertio consulatu suo Falernum, Chium, Lesbium, Mamertinum, quo tempore primum quattuor genera vini adposita constat.\n\npostea ergo reliqua omnia in nobilitatem venere et circiter DCC urbis annum."
+},
+{
+"id": "14.98",
+"label": "Plin. NH 14.98 (chapter 16)",
+"text": "Itaque non miror innumerabilia paene genera ficticii reperta multis ante saeculis, quae nunc dicemus, omnia ad medicinae usum pertinentia. omphacium quo modo fieret, propter unguenta diximus priore libro. fit e labrusca, hoc est vite silvestri, quod vocatur oenanthinum, floris eius libris duabus in musti cado maceratis. post dies XXX utuntur. praeter hoc radix labruscae, acini coria perficiunt ."
+},
+{
+"id": "14.99",
+"label": "Plin. NH 14.99 (chapter 16)",
+"text": "hi paulo post quam defloruere singulare remedium habent ad refrigerandos in morbis corporum ardores, gelidissima , ut ferunt, natura. pars eorum aestu moritur prius quam reliqua, quae solstitiales dicuntur. universi numquam maturescunt, et si prius quam tota inarescat uva incocta detur cibo gallinaceo generi, fastidium gignit uvas adpetendi ."
+},
+{
+"id": "14.100",
+"label": "Plin. NH 14.100 (chapter 16)",
+"text": "Ficticiorum primum fit ex ipso vino (quod vocant adynamon) hoc modo: albi musti sextarii XX, aquae dimidium fervent, donec excoquatur aquae mensura. alii marinae sextarios X, tantundem pluviae in sole XL diebus torrent . dant aegris quibus vini noxiam timent."
+},
+{
+"id": "14.101",
+"label": "Plin. NH 14.101 (chapter 16)",
+"text": "Proximum fit e milii semine maturi cum ipsa stipula, libra quadrante in congios duos musti, macerato et post septimum mensem transfuso. ex loto arbore, frutice, herba dictum est ubi quaeque fierent."
+},
+{
+"id": "14.102",
+"label": "Plin. NH 14.102 (chapter 16)",
+"text": "Fiunt et e pomis, quae dicemus interpretationibus non nisi necessariis additis, primumque e palmis, quo Parthi, Indi utuntur et oriens totus , mitiorum quas vocant chydaeas modio in aquae congiis tribus macerato expressoque. sic fit et sycites e fico, quem alii pharnuprium, alii trochin vocant, aut si dulce esse non libeat, pro aqua tantundem vinaceorum adicitur. e Cypria fico et acetum fit praecellens atque Alexandrino quoque melius."
+},
+{
+"id": "14.103",
+"label": "Plin. NH 14.103 (chapter 16)",
+"text": "vinum fit et e siliqua Syriaca et e piris malorumque omnibus generibus — sed e Punicis rhoiten vocant — et e cornis, mespilis, sorvis , moris siccis, nucleis pineis. hi musto madidi exprimuntur, superiora per se mitia."
+},
+{
+"id": "14.104",
+"label": "Plin. NH 14.104 (chapter 16)",
+"text": "myrtiten Cato quem ad modun fieri docuerit mox paulo indicabimus, Graeci et alio modo. ramis teneris cum suis foliis in salso musto coctis tunsis,\n\nlibram in tribus musti congiis defervefaciunt, done duo supersint. quod ita e silvestris myrti bacis factum est, myrtidanum vocatur. hoc manus tinguit."
+},
+{
+"id": "14.105",
+"label": "Plin. NH 14.105 (chapter 16)",
+"text": "Ex his quae in hortis gignuntur fit vinum e radice asparagi , cunila, origano, api semine, habrotono, mentastro, ruta, nepeta, serpyllo, marruvio. manipulos binos condunt in cadum musti et sapae sextarium et aquae marinae heminam ."
+},
+{
+"id": "14.106",
+"label": "Plin. NH 14.106 (chapter 16)",
+"text": "e napis fit duum denariorum pondere in sextarios binos musti addito, item e scillae radice; inter flores ex rosae foliis tusis in linteolo in mustum collatis cum pondusculo , ut sidat, $X$ L pondere in sextarios musti vicenos— vetant ante tres menses vas aperiri —, item e nardo Gallico et aliud e silvestri."
+},
+{
+"id": "14.107",
+"label": "Plin. NH 14.107 (chapter 16)",
+"text": "Aromatiten quoque invenio factitatum tantum non unguentorum compositione, primo ex murra, ut diximus, mox et nardo Celtico, calamo, bitumine, offis in mustum aut dulce vinum deiectis, alibi calamo, iunco, costo, nardo Syriaco,\n\namomo, casia , cinnamo, croco, palma, asaro , similiter in offa."
+},
+{
+"id": "14.108",
+"label": "Plin. NH 14.108 (chapter 16)",
+"text": "apud alios nardi etiam et malobathri selibris in musti congios duos additis, qualia nunc quoque fiunt pipere et melle addito, quae alii condita, alii piperata appellant. invenitur et nectarites ex herba quam alii Helenion, alii Medicam, alii symphyton, alii Idaeam , alii Orestion, alii nectariam vocant, radice ponderis $X$ L in sextarios sex musti addita, similiter in linteo."
+},
+{
+"id": "14.109",
+"label": "Plin. NH 14.109 (chapter 16)",
+"text": "ex ceteris herbis fit absinthites in XL sextariis musti absinthi Pontici libra decocta ad tertias partes vel scopis absinthi in vinum additis. similiter hyssopites e Cilicio hyssopo unciis tribus in duos congios musti coiectis aut tusis in vinum. fiunt utraque et alio modo, circa radices vitium sato."
+},
+{
+"id": "14.110",
+"label": "Plin. NH 14.110 (chapter 16)",
+"text": "sic et elleboriten fieri ex veratro nigro Cato docet. sic fit et scammonites , mira vitium natura saporem alienum in se trahendi, quare et salicem redolent Patavinorum in palustribus vindemiae. sic et elleborum seritur in Thaso aut cucumis silvester aut scammonia, quod vinum phthorium vocatur, quoniam abortus facit."
+},
+{
+"id": "14.111",
+"label": "Plin. NH 14.111 (chapter 16)",
+"text": "Fit et ex herbis, quarum naturae suo loco dicentur: e stoechade et radice Gentianae et tragorigano et dictamno, asaro, dauco, elelisphaco, panace, acoro, thymo, mandragora, iunco. vocarunt et scyzinum et itaeomelin et lectisphagiten, quorum iam oblitterata ratio est."
+},
+{
+"id": "14.112",
+"label": "Plin. NH 14.112 (chapter 16)",
+"text": "E fruticun vero genere cedri utriusque, cupressus, laurus , iunipiri, terebinthi, calami, lentisci bacae aut lignum recens in musto decocuntur, item chamelaeae et chamaepityis, chamaedryis lignum. eodem modo et ex flore, in congium musti decem $X$ pondere addito."
+},
+{
+"id": "14.113",
+"label": "Plin. NH 14.113 (chapter 17)",
+"text": "Fit vinum et ex aqua ac melle tantum. quinquennio ad hoc servari caelestem iubent. alii prudentiores statim ad tertias partes decocunt et tertiam veteris mellis adiciunt, dein XL diebus canis ortu in sole habent. alii diffusa ita decimo die obturant. hoc vocatur hydromeli et\n\nvetustate saporem vini adsequitur, nusquam laudatius quam in Phrygia."
+},
+{
+"id": "14.114",
+"label": "Plin. NH 14.114 (chapter 17)",
+"text": "quin et acetum melle temperabatur: adeo nihil intemptatum vitae fuit. oxymeli hoc vocarunt, mellis decem libris, aceti veteris heminis quinque, salis marini libra, aquae pluviae sextariis quinque suffervefactis deciens, mox elutriatis atque ita inveteratis. omnia ab Themisone summo auctore damnata."
+},
+{
+"id": "14.115",
+"label": "Plin. NH 14.115 (chapter 17)",
+"text": "et Hercules coactus usus eorum videri potest, nisi si quis naturae opus esse credit aromatiten et ex unguentis vina conposita aut ut biberentur genuisse eam frutices. ita sunt cognitu iucunda sollertiae humanae nomine omnia exquirentis. nihil quidem ex iis anno durare, praeterquam quae vetustate ipsa fieri diximus, et plura ne tricenis quidem diebus, non erit dubium."
+},
+{
+"id": "14.116",
+"label": "Plin. NH 14.116 (chapter 18)",
+"text": "Sunt et in vino prodigia. dicitur in Arcadia fieri quod fecunditatem feminis inportet, viris rabiem, at in Achaia maxime circa Ceryniam abigi partum vino atque etiam si uvam edant gravidae, cum differentia in gustatu non sit."
+},
+{
+"id": "14.117",
+"label": "Plin. NH 14.117 (chapter 18)",
+"text": "Troezenium vinum qui bibant negantur generare. Thasios duo genera vini diversa facere proditur, quo somnus concilietur, alterum vero quo fugetur. apud eosdem vitis theriaca vocatur, cuius et vinum et uva contra serpentium ictus medetur; libanodes turis odore, ex qua diis prolibant\n\n. e diverso aspendios damnata aris; ferunt eam nec ab alite ulla attingi. Thasiam uvam Aegyptus vocat apud se praedulcem, quae solvit alvum; est contra Lycia, quae solutam firmat. Aegyptus et ecbolada habet abortus facientem ."
+},
+{
+"id": "14.118",
+"label": "Plin. NH 14.118 (chapter 18)",
+"text": "vina in apothecis canis ortu mutantur quaedam posteaque restituuntur sibi. sic et mari navigate, cuius iactatus iis quae duraverint tantum vetustatis adicere sentitur, quantum habuerint."
+},
+{
+"id": "14.119",
+"label": "Plin. NH 14.119 (chapter 19)",
+"text": "Et quoniam religione vita constat, prolibare diis nefastum habetur vina — praeter inputatae — vitis ss fulmine tactae quamque iuxta hominis mors laqueo pependerit aut vulneratis pedibus calcatae, et quod circumcisis vinaceis profluxerit, aut superne deciduo inmundiore lapsu aliqud polluta, item Graeca, quoniam aquam habeant.— Vitis ipsa quoque manditur decoctis caulibus summis, qui et condiuntur in aceto ac muria."
+},
+{
+"id": "14.120",
+"label": "Plin. NH 14.120 (chapter 19)",
+"text": "Verum et de apparatu vini dixisse conveniat, cum Graeci privatim ea praecepta condiderint artemque fecerint, sicut Euphronius et Aristomachus et Commiades et Hicesius. Africa gypso mitigat asperitatem nec non aliquibus partibus sui calce. Graecia argilla aut marmore aut sale aut mari lenitatem excitat, Italiae pars aliqua crapulana pice, ac resina condire musta volgare ei est provinciisque finitimis.\n\n§ 117: cfr. Pl. supra 75. —\n\nnonnusquam prioris vini faece acetove condiunt. nec non et ex ipso musto fiunt medicamina."
+},
+{
+"id": "14.121",
+"label": "Plin. NH 14.121 (chapter 19)",
+"text": "decoquitur ut dulcescat portione virium, nec durare ultra annuum spatium tale proditur . aliquibus in locis decocunt ad sapas musta infusisque iis ferociam frangunt. et in hoc tamen genere et in omni alio subministrant vasa ipsa condimentis picis, cuius faciendae ratio proximo dicetur volumine."
+},
+{
+"id": "14.122",
+"label": "Plin. NH 14.122 (chapter 20)",
+"text": "Arborum suco manantium picem resinamque aliae ortae in oriente, aliae in Europa ferunt. quae interest Asia utrimque quasdam habet. in oriente optimam tenuissimamque terebinthi fundunt, dein lentisci, quam et mastichen vocant, postea cupressi, acerrimam sapore, liquidam omnes et tantum resinam, crassiorem vero et ad pices faciendas cedrus. Arabica resina alba est, acri odore, difficilis coquenti , Iudaea callosior et terebinthina quoque odoratior, Syriaca Attici mellis similitudinem habet."
+},
+{
+"id": "14.123",
+"label": "Plin. NH 14.123 (chapter 20)",
+"text": "Cypria antecedit omnes, item melleo colore, carnosa. Colophonia, praeter ceteras fulva, si teratur, alba fit, gravior odore; ob id non utuntur ea unguentarii. in Asia quae fit e picea, admodum candida, psagdas vocatur. resina omnis dissolvitur oleo — quidam et creta figulinarum hoc fieri arbitrantur —, pudetque confiteri maximum iam honorem eius esse in evellendis virorum corpori pilis."
+},
+{
+"id": "14.124",
+"label": "Plin. NH 14.124 (chapter 20)",
+"text": "Ratio autem condiendi musta in primo fervore, qui novem diebus cum plurimum peragitur, adspersu picis, ut odor vino contingat et saporis quaedam acumina. vehementius id fieri arbitrantur crudo flore resinae excitarique lenitatem, e diverso crapula conpesci feritatem nimiam frangique virus aut, ubi pigra lenitas torpeat, virus addi, Liguriae maxime Circumpadanisque mustis."
+},
+{
+"id": "14.125",
+"label": "Plin. NH 14.125 (chapter 20)",
+"text": "utilitas discernitur hoc modo: pugnacibus mustis crapulae plus inditur, lenibus parcius. sunt qui et utroque condiri velint, nec non aliqua est musti picea natura vitiumque musto quibusdam in locis iterum sponte fervere, qua calamitate deperit sapor: vappae accipit nomen, probrosum etiam hominum, cum degeneravit animus. aceti enim nequitiae inest virtus magnos ad usus et sine quis mitior vita degi non possit."
+},
+{
+"id": "14.126",
+"label": "Plin. NH 14.126 (chapter 20)",
+"text": "cetero vinorum medicaminis tanta cura est, ut cinere apud quosdam, ceu gypso alibi et quibus diximus modis, instaurentur; sed cinerem e vitis sarmentis ant quercu praeferunt. quin et marinam aquam eiusdem rei gratia ex alto peti iubent servarique ab aequinoctio verno, aut certe nocte solstitio et aquilone flante hauriri vel, si circa vindemiam hauriatur, decoqui."
+},
+{
+"id": "14.127",
+"label": "Plin. NH 14.127 (chapter 20)",
+"text": "Pix in Italia ad vasa vino condendo maxime probatur Bruttia. fit e piceae resina, in Hispania autem e pinastris\n\nminime laudata. est enim resina earum amara et arida et gravi odore. differentiam rationemque faciendi proximo volumine demonstrabimus inter arbores feras. vitia praeter supra dicta acor aut fumidum virus, picis autem adustio; experimentum vero, si fragmenta subluceant ac sub dente lentescant acore iucundo."
+},
+{
+"id": "14.128",
+"label": "Plin. NH 14.128 (chapter 20)",
+"text": "Asia picem Idaeam maxime probat , Graecia Piericam, Vergilius Naryciam. diligentiores admiscent nigram mastichen, quae in Ponto bitumini similis gignitur, et iris radicem oleumque. nam ceram accipientibus vasis conpertum vina acescere. sed transferre in ea vasa, in quibus acetum fuerit, utilius quam in ea, in quibus dulce aut mulsum."
+},
+{
+"id": "14.129",
+"label": "Plin. NH 14.129 (chapter 20)",
+"text": "Cato iubet vina concinnari — hoc enim utitur verbo — cineris lixivi cum defruto cocti parte quadr agesimain culleum vel salis sesquilibra, interim et tuso marmore. facit et sulpuris mentionem, resinae vero in novissimis ."
+},
+{
+"id": "14.130",
+"label": "Plin. NH 14.130 (chapter 20)",
+"text": "super omnia addi maturescente iam vino iubet mustum, quod ille tortivum appellat, nos intellegimus novissime expressum. et addi scimus tinguendi gratia colores, ut pigmentum aliquod vini, atque ita pinguius fieri. totveneficiis placere cogitur, et miramur noxium esse! in vitium inclinantis experimentum est lamnae plumbeae mutatus in eo colos."
+},
+{
+"id": "14.131",
+"label": "Plin. NH 14.131 (chapter 20)",
+"text": "Proprium autem inter liquores vino mucescere aut in acetum verti, extantque medicinae volumina. faex vini siccata recipit ignes ac sine alimento per sese flagrat. cinis eius nitri naturam habet easdemque vires, hoc amplius quod pinguior sentitur."
+},
+{
+"id": "14.132",
+"label": "Plin. NH 14.132 (chapter 21)",
+"text": "Magna et collecto iam vino differentia in caelo . circa Alpes ligneis vasis condunt tectisque cingunt atque etiam hieme gelida ignibus rigorem arcent. rarum dictu, sed aliquando visum, ruptis vasis stetere glaciatae moles, prodigii modo, quoniam vini natura non gelascit; alias ad frigus stupet tantum."
+},
+{
+"id": "14.133",
+"label": "Plin. NH 14.133 (chapter 21)",
+"text": "mitiores plagae doliis condunt infodiuntque terrae tota aut ad portionem situs. ita caelum prohibent, alibi vero inpositis tectis arcent, traduntque et haec praecepta: latus cellae vinariae aut certe fenestras obverti in aquilonem oportere vel utique in exortum aequinoctialem . sterculinia et arborum radices procul abesse omniaque odoris evitandi, facillimo in vina transitu, ficos utique et caprificos;"
+},
+{
+"id": "14.134",
+"label": "Plin. NH 14.134 (chapter 21)",
+"text": "doliis etiam intervalla dari, ne inter sese vitia serpant contagione vini semper ocissima. quin et figuras\n\nreferre; ventriosa ac patula minus utilia. picari oportere protinus a canis ortu, postea perfundi marina aqua aut salsa, dein cinere e sarmentis aspergi vel argilla, abstersa murra suffiri ipsasque saepius cellas. inbecilla vina demissis in terram doliis servanda,"
+},
+{
+"id": "14.135",
+"label": "Plin. NH 14.135 (chapter 21)",
+"text": "valida expositis. numquam inplenda, et quod supersit passo aut defruto perunguendum admixto croco pistave iri cum sapa. sic opercula doliorum medicanda addita mastiche aut pice Bruttia. aperiri vetant nisi sereno die, vetant austro flante lunave plena."
+},
+{
+"id": "14.136",
+"label": "Plin. NH 14.136 (chapter 21)",
+"text": "flos vini candidus probatur; rubens triste signum esse, si non is vini colos sit, item vasa incalescentia operculave sudantia. quod celeriter florere coeperit odoremque trahere, non fore diutinum. ipsa quoque defruta ac sapas, cum sit caelum sine luna, hoc est in sideris eius coitu, neque alio die coqui iubent, praeterea plumbeis vasis, non aereis, nucibusque iuglandibus additis; eas enim fumum excipere. Campaniae nobilissima exposita sub diu in cadis verberari sole, luna, imbre, ventis aptissimum videtur."
+},
+{
+"id": "14.137",
+"label": "Plin. NH 14.137 (chapter 22)",
+"text": "Ac si quis diligentius reputet, in nulla parte\n\noperosior vita est — ceu non saluberrimum ad potus aquae liquorem natura dederit, quo cetera omnia animalia utuntur; at nos vinum bibere et iumenta cogimus — tantoque opere, tanto labore et inpendio praestat quod hominis mentem mutet ac furorem gignat, milibus scelerum ob ideditis, tanta dulcedine, ut magna pars non aliud vitae praemium intellegat."
+},
+{
+"id": "14.138",
+"label": "Plin. NH 14.138 (chapter 22)",
+"text": "quin immo, ut plus capiamus, sacco frangimus vires, et alia inritamenta excogitantur ac bibendi causa etiam venena concipiuntur, aliis cicutam praesumentibus, ut bibere mors cogat, aliis pumicis farinam et quae referendo pudet docere ."
+},
+{
+"id": "14.139",
+"label": "Plin. NH 14.139 (chapter 22)",
+"text": "cautissimos ex iis in balineis coqui videmus exanimesque efferri, iam vero alios lectum expectare non posse, immo vero nec tunicam, nudosque ibi protinus et anhelos ingentia vasa corripere, velut ad ostentationem virium, ac plena infundere , ut statim vomant rursusque hauriant, idque iterum tertiumque, tamquam ad perdenda vina geniti et tamquam effundi ilia non possint nisi per corpus humanum!"
+},
+{
+"id": "14.140",
+"label": "Plin. NH 14.140 (chapter 22)",
+"text": "huc pertinent peregrinae exercitationes et volutatio in caeno ac pectorosa cervicis repandae ostentatio. per omnia haec praedicatur sitis quaeri. iam vero quae in bibendo certamina, quae vasa adulteriis caelata, tamquam per se parum doceat\n\nlibidines temulentia! ita vina ex libidine hauriuntur, atque etiam praemio invitatur ebrietas et, si dis placet, emitur. alius, ut quantum biberit, tantum edit, pretium vinolentiae lege accipit, alius quantum alea quaesierit, tantum bibit."
+},
+{
+"id": "14.141",
+"label": "Plin. NH 14.141 (chapter 22)",
+"text": "tunc avidi matronam oculi licentur, graves produnt maritum, tunc animi secreta proferuntur. alii testamenta sua nuncupant , alii mortifera elocuntur rediturasque per iugulum voces non continent — quam multis ita interemptis!— volgoque veritas iam attributa vino est. interea, ut optime cedat, solem orientem non vident ac minus diu vivunt. hinc pallor et genae pendulae,"
+},
+{
+"id": "14.142?",
+"label": "Plin. NH 14.142? (chapter 22)",
+"text": "oculorum ulcera, tremulae manus effundentes plena vasa — quae sit poena praesens —, furiales somni et inquies nocturna praemiumque summum ebrietatis libido portentosa ac iucundum nefas. postero die ex ore halitus cadi ac rerum omnium oblivio morsque memoriae . rapere se ita vitam praedicant, cum priorem diem cotidie perdant; illi vero et venientem."
+},
+{
+"id": "14.143",
+"label": "Plin. NH 14.143 (chapter 22)",
+"text": "Tiberio Claudio principe ante hos annos XL institutum, ut ieiuni biberent potiusque vinum antecederet cibos, externis et hoc artibus ac medicorum placitis novitate semper aliqua sese commendantium ."
+},
+{
+"id": "14.144",
+"label": "Plin. NH 14.144 (chapter 22)",
+"text": "gloriam hac virtute Parthi quaerunt, famam apud\n\nGraecos Alcibiades meruit, apud nos cognomen etiam Novellius Torquatus Mediolanensis, ad proconsulatum usque praeturae honoribus gestis, tribus congiis — unde et cognomen illi fuit — epotis uno impetu, spectante miraculi gratia Tiberio principe, in senecta iam severo atque etiam saevo alias."
+},
+{
+"id": "14.145",
+"label": "Plin. NH 14.145 (chapter 22)",
+"text": "et ipsi iuventa ad merum pronior fuerat, eaque commendatione credidere L. Pisonem urbis curae ab eo delectum, quod biduo duabusque noctibus perpotationem continuasset apud ipsum iam principem. nec alio magis Drusus Caesar regenerasse patrem Tiberium ferebatur."
+},
+{
+"id": "14.146",
+"label": "Plin. NH 14.146 (chapter 22)",
+"text": "Torquato rara gloria, quando et haec ars suis legibus constat, non labasse sermone, non levatum vomitione nec alia corporis parte, dum biberet, matutinas obisse sine iniuria vigilias, plurimum hausisse uno potu, plurimum praeterea aliis minoribus addidisse, optima fide non respirasse in hauriendo neque expuisse nihilque ad elidendum in pavimentis sonum ex vino reliquisse, diligenti scito legum contra bibendi fallacias ."
+},
+{
+"id": "14.147",
+"label": "Plin. NH 14.147 (chapter 22)",
+"text": "Tergilla Ciceronem M. F. binos congios simul haurire solitum ipsi obicit Marcoque Agrippae a temulento scyphum\n\ninpactum. etenim haec sunt ebrietatis opera. sed nimirum hanc gloriam auferre Cicero voluit interfectori patris sui M. Antonio."
+},
+{
+"id": "14.148",
+"label": "Plin. NH 14.148 (chapter 22)",
+"text": "is enim ante eum avidissime adprehenderat hanc palmam edito etiam volumine de sua ebrietate, quo patrocinari sibi ausus adprobavit plane, ut equidem arbitror , quanta mala per temulentiam terrarum orbi intulisset. exiguo tempore ante proelium Actiacum id volumen evomuit, quo facile intellegatur ebrius iam sanguine civium et tanto magis eum sitiens. namque et haec necessitas vitium comitatur , ut bibendi consuetudo augeat aviditatem, scitumque est Scytharum legati, quanto plus biberint, tanto magis sitire Parthos."
+},
+{
+"id": "14.149",
+"label": "Plin. NH 14.149 (chapter 22)",
+"text": "Est et occidentis populis sua ebrietas fruge madida , pluribus modis per Gallias Hispaniasque, nominibus aliis, sed ratione eadem. Hispaniae iam et vetustatem ferre. ea genera docuerunt. Aegyptus quoque e fruge sibi potus similes excogitavit, nullaque in parte mundi cessat ebrietas, meros quippe hauriunt tales sucos nec diluendo ut vina mitigant. at Hercules illic tellus fruges parere videbatur. hen mira vitiorum sollertia! inventum est quem ad modum aquae quoque inebriarent."
+},
+{
+"id": "14.150",
+"label": "Plin. NH 14.150 (chapter 22)",
+"text": "Duo sunt liquores humanis corporibus gratissimi, intus vini, foris olei, arborum e genere ambo praecipui, sed olei necessarius; nec segniter in eo vita elaboravit. quanto tamen in potu ingeniosior fuerit, apparebit ad bibendum generibus\n\ncentum octoginta quinque, si species vero aestimentur , paene duplici numero excogitatis tantoque paucioribus olei, de quo sequenti volumine dicemus."
+}
+]
+}

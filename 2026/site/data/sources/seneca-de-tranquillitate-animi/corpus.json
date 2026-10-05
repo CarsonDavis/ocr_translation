@@ -1,0 +1,19 @@
+{
+ "id": "seneca-de-tranquillitate-animi",
+ "title": "Seneca, De tranquillitate animi",
+ "language": "la",
+ "edition": "The Latin Library transcription",
+ "license": "public domain (transcription of a public-domain edition at The Latin Library)",
+ "attribution": "Text: The Latin Library (thelatinlibrary.com), ed. William L. Carey",
+ "url": "https://www.thelatinlibrary.com/sen/sen.tranq.shtml",
+ "unit_scheme": "work",
+ "passage_scheme": "chapter[.section]",
+ "units": [
+  "all"
+ ],
+ "passage_note": "chapter 'pr' is a preface; Roman chapter numerals are given in Arabic",
+ "source_files": [
+  "https://www.thelatinlibrary.com/sen/sen.tranq.shtml"
+ ],
+ "unit_note": "Short work, or a work without books: one unit named 'all'."
+}

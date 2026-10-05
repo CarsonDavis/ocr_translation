@@ -1,0 +1,117 @@
+{
+"corpus": "digest",
+"unit": "13.4",
+"title": "D. 13.4 De eo quod certo loco dari oportet",
+"passages": [
+{
+"id": "13.4.1",
+"label": "D. 13.4.1 (Gaius)",
+"text": "Alio loco, quam in quem sibi dari quisque stipulatus esset, non videbatur agendi facultas competere. Sed quia iniquum erat, si promissor ad eum locum, in quem daturum se promisisset, numquam accederet (quod vel data opera faceret vel quia aliis locis necessario distringeretur), non posse stipulatorem ad suum pervenire, ideo visum est utilem actionem in eam rem comparare.",
+"inscription": "Gaius libro nono ad edictum provinciale"
+},
+{
+"id": "13.4.2.pr",
+"label": "D. 13.4.2 pr. (Ulpianus)",
+"text": "Arbitraria actio utriusque utilitatem continet tam actoris quam rei: quod si rei interest, minoris fit pecuniae condemnatio quam intentum est, aut si actoris, maioris pecuniae fiat.",
+"inscription": "Ulpianus libro 27 ad edictum"
+},
+{
+"id": "13.4.2.1",
+"label": "D. 13.4.2.1",
+"text": "Haec autem actio ex illa stipulatione venit, ubi stipulatus sum a te ephesi decem dari."
+},
+{
+"id": "13.4.2.2",
+"label": "D. 13.4.2.2",
+"text": "Si quis Ephesi decem aut Capuae hominem dari stipulatus experiatur, non debet detracto altero loco experiri, ne auferat loci utilitatem reo."
+},
+{
+"id": "13.4.2.3",
+"label": "D. 13.4.2.3",
+"text": "Scaevola libro quinto decimo quaestionum ait non utique ea, quae tacite insunt stipulationibus, semper in rei esse potestate, sed quid debeat, esse in eius arbitrio, an debeat, non esse. Et ideo cum quis Stichum aut Pamphilum promittit, eligere posse quod solvat, quamdiu ambo vivunt: ceterum ubi alter decessit, extingui eius electionem, ne sit in arbitrio eius, an debeat, dum non vult vivum praestare, quem solum debet. Quare et in proposito eum, qui promisit Ephesi aut Capuae, si fuerit in ipsius arbitrio, ubi ab eo petatur, conveniri non potuisse: semper enim alium locum electurum: sic evenire, ut sit in ipsius arbitrio, an debeat: quare putat posse ab eo peti altero loco et sine loci adiectione: damus igitur actori electionem petitionis. Et generaliter definit Scaevola petitorem electionem habere ubi petat, reum ubi solvat, scilicet ante petitionem. Proinde mixta, inquit, rerum alternatio locorum alternationi ex necessitate facit actoris electionem et in rem propter locum: alioquin tollis ei actionem, dum vis reservare reo optionem."
+},
+{
+"id": "13.4.2.4",
+"label": "D. 13.4.2.4",
+"text": "Si quis ita stipulatur \"Ephesi et Capuae\", hoc ait, ut Ephesi partem et Capuae partem petat."
+},
+{
+"id": "13.4.2.5",
+"label": "D. 13.4.2.5",
+"text": "Si quis insulam fieri stipuletur et locum non adiciat, non valet stipulatio."
+},
+{
+"id": "13.4.2.6",
+"label": "D. 13.4.2.6",
+"text": "Qui ita stipulatur \"Ephesi decem dari\": si ante diem, quam Ephesum pervenire possit, agat, perperam ante diem agi, quia et Iulianus putat diem tacite huic stipulationi inesse. Quare verum puto, quod Iulianus ait eum, qui Romae stipulatur hodie Carthagine dari, inutiliter stipulari."
+},
+{
+"id": "13.4.2.7",
+"label": "D. 13.4.2.7",
+"text": "Idem Iulianus tractat, an is, qui Ephesi sibi aut Titio dari stipulatus est, si alibi Titio solvatur, nihilo minus possit intendere sibi dari oportere. Et Iulianus scribit liberationem non contigisse atque ideo posse peti quod interest. Marcellus autem et alias tractat et apud Iulianum notat posse dici et si mihi alibi solvatur, liberationem contigisse, quamvis invitus accipere non cogar: plane si non contigit liberatio, dicendum ait superesse petitionem integrae summae, quemadmodum si quis insulam alibi fecisset quam ubi promiserat, in nihilum liberaretur. Sed mihi videtur summae solutio distare a fabrica insulae et ideo quod interest solum petendum."
+},
+{
+"id": "13.4.2.8",
+"label": "D. 13.4.2.8",
+"text": "Nunc de officio iudicis huius actionis loquendum est, utrum quantitati contractus debeat servire an vel excedere vel minuere quantitatem debeat, ut, si interfuisset rei Ephesi potius solvere quam eo loci quo conveniebatur, ratio eius haberetur. Iulianus Labeonis opinionem secutus etiam actoris habuit rationem, cuius interdum potuit interesse Ephesi recipere: itaque utilitas quoque actoris veniet. Quid enim si traiecticiam pecuniam dederat \"dederit\" Ephesi recepturus, ubi sub poena debebat pecuniam vel sub pignoribus, et distracta pignora sunt vel poena commissa mora tua? Vel fisco aliquid debebatur et res stipulatoris vilissimo distracta est? In hanc arbitrariam quod interfuit veniet et quidem ultra legitimum modum usurarum. Quid si merces solebat comparare: an et lucri ratio habeatur, non solius damni? Puto et lucri habendam rationem."
+},
+{
+"id": "13.4.3",
+"label": "D. 13.4.3 (Gaius)",
+"text": "Ideo in arbitrium iudicis refertur haec actio, quia scimus, quam varia sint pretia rerum per singulas civitates regionisque, maxime vini olei frumenti: pecuniarum quoque licet videatur una et eadem potestas ubique esse, tamem aliis locis facilius et levibus usuris inveniuntur, aliis difficilius et gravibus usuris.",
+"inscription": "Gaius libro nono ad edictum provinciale"
+},
+{
+"id": "13.4.4.pr",
+"label": "D. 13.4.4 pr. (Ulpianus)",
+"text": "Quod si Ephesi petetur, ipsa sola summa petetur nec amplius quid, nisi si quid esset stipulatus, vel si temporis utilitas intervenit.",
+"inscription": "Ulpianus libro 27 ad edictum"
+},
+{
+"id": "13.4.4.1",
+"label": "D. 13.4.4.1",
+"text": "Interdum iudex, qui ex hac actione cognoscit, cum sit arbitraria, absolvere reum debet cautione ab eo exacta de pecunia ibi solvenda ubi promissa est. Quid enim si ibi vel oblata pecunia actori dicatur vel deposita vel ex facili solvenda? Nonne debebit interdum absolvere? In summa aequitatem quoque ante oculos habere debet iudex, qui huic actioni addictus est."
+},
+{
+"id": "13.4.5",
+"label": "D. 13.4.5 (Paulus)",
+"text": "Si heres a testatore iussus sit certo loco quid dare, arbitraria actio competit:",
+"inscription": "Paulus libro 28 ad edictum"
+},
+{
+"id": "13.4.6",
+"label": "D. 13.4.6 (Pomponius)",
+"text": "aut mutua pecunia sic data fuerit, ut certo loco reddatur.",
+"inscription": "Pomponius libro 22 ad Sabinum"
+},
+{
+"id": "13.4.7.pr",
+"label": "D. 13.4.7 pr. (Paulus)",
+"text": "In bonae fidei iudiciis, etiamsi in contrahendo convenit, ut certo loco quid praestetur, ex empto vel vendito vel depositi actio competit, non arbitraria actio.",
+"inscription": "Paulus libro 28 ad edictum"
+},
+{
+"id": "13.4.7.1",
+"label": "D. 13.4.7.1",
+"text": "Si tamen certo loco traditurum se quis stipulatus sit, hac actione utendum erit."
+},
+{
+"id": "13.4.8",
+"label": "D. 13.4.8 (Africanus)",
+"text": "Centum Capuae dari stipulatus fideiussorem accepisti: ea pecunia ab eo similiter ut ab ipso promissore peti debebit, id est ut, si alibi quam Capuae petantur, arbitraria agi debeat lisque tanti aestimetur, quanti eius vel actoris interfuerit eam summam Capuae potius quam alibi solvi. Nec oportebit, quod forte per reum steterit, quo minus tota centum Capuae solverentur, obligationem fideiussoris augeri: neque enim haec causa recte comparabitur obligationi usurarum: ibi enim duae stipulationes sunt, hic autem una pecuniae creditae est, circa cuius exsecutionem aestimationis ratio arbitrio iudicis committitur. Eiusque differentiae manifestissimum argumentum esse puto, quod, si post moram factam pars pecuniae soluta sit et reliquum petatur, officium iudicis tale esse debeat, ut aestimet, quanti actoris intersit eam dumtaxat summam quae petetur Capuae solutam esse.",
+"inscription": "Africanus libro tertio quaestionum"
+},
+{
+"id": "13.4.9",
+"label": "D. 13.4.9 (Ulpianus)",
+"text": "Is qui certo loco dare promittit, nullo alio loco, quam in quo promisit, solvere invito stipulatore potest.",
+"inscription": "Ulpianus libro 47 ad Sabinum"
+},
+{
+"id": "13.4.10",
+"label": "D. 13.4.10 (Paulus)",
+"text": "Si post moram factam, quo minus Capuae solveretur, cum arbitraria vellet agere, fideiussor acceptus sit eius actionis nomine, videamus, ne ea pecunia, quae ex sententia iudicis accedere potest, non debeatur nec sit in obligatione, adeo ut nunc quoque sorte soluta vel si Capuae petatur, arbitrium iudicis cesset: nisi si quis dicat, si iudex centum et viginti condemnare debuerit, centum solutis ex universitate, tam ex sorte quam ex poena solutum videri, ut supersit petitio eius quod excedit sortem, et accedat poena pro eadem quantitate. Quod non puto admittendum, tanto magis, quod creditor accipiendo pecuniam etiam remisisse poenam videtur.",
+"inscription": "Paulus libro quarto quaestionum"
+}
+]
+}
