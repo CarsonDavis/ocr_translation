@@ -1,0 +1,46 @@
+{
+ "id": "annot-052",
+ "order": 106,
+ "heading": "ANNOTATION LII",
+ "kind": "annotation",
+ "pages": [
+  "p072",
+  "p073"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p072\"></span>These three points were of great consideration for the accused: for in the first place, much more faith is given to two witnesses who affirm some fact than to a thousand others <sup class=\"mk\" data-key=\"a2\" data-page=\"p072\">a2</sup>. And next, in things which admit of some doubt, the favour either of the marriage, or of the children, or of the accused makes the balance fall (as was said a little before) to that side <sup class=\"mk\" data-key=\"b2\" data-page=\"p072\">b2</sup>: with stronger reason, <span class=\"pg\" data-page=\"p073\"></span>then, when all these favours present themselves together <sup class=\"mk\" data-key=\"c\" data-page=\"p073\">c</sup>.",
+   "notes": [
+    {
+     "key": "a2",
+     "page": "p072",
+     "citation": "Accursius (<i>Accurse</i>) on Digest 4.8.27.3 (<i>De receptis: qui arbitrium receperint</i>, l. <i>Diem</i> [<i>proferre</i>], § <i>Si plures</i>; Ulpian)",
+     "original": "Accurſe en la l. diem. P. ſi plures. D. de recep arb.",
+     "gloss": "The Gloss there weighs number against affirmation: two who affirm a fact outweigh many who deny it."
+    },
+    {
+     "key": "b2",
+     "page": "p072",
+     "citation": "Digest 44.7 (<i>De obligationibus et actionibus</i>), l. <i>Arrianus</i> (cf. D. 44.7.47, Paul); Decretals X 2.27 (<i>De sententia et re iudicata</i>), the last chapter (chapter not identified)",
+     "original": "l. Arrianus. D de actio &amp; oblig. c. fina. de re iud.",
+     "gloss": "Both cited at Annotation L, notes <i>e</i> and <i>a</i>: in doubt, the balance falls for the defendant and for the marriage."
+    },
+    {
+     "key": "c",
+     "page": "p073",
+     "citation": "Decretals X 2.20.33 (<i>De testibus et attestationibus</i>, c. <i>Tam litteris</i>; cited at annot-033 as <i>iam literis</i>) and X 2.20.47 (c. <i>Licet ex quadam</i>, Innocent III); X 4.14.7 (<i>De consanguinitate et affinitate</i>, c. <i>Tua nos</i>: hearsay testimony on degrees of kinship <i>minus est validum</i>; the c. <i>rutela</i> of annot-033)",
+     "original": "c. tam literis. c. licet cx quadam. de teſtib. c. tua. de conſang. &amp; affinit.",
+     "gloss": "Hearsay makes no proof; the same chapters as annot-033 {a2}. The print's <i>cx</i> is <i>ex</i>. Translated in full at annot-053 {c}."
+    },
+    {
+     "key": "c",
+     "page": "p072",
+     "citation": "An <i>authentica</i> cited by the incipit <i>Itaque</i>, under a Code title printed <i>C. con. de ſuc.</i> (perhaps <i>Communia de successionibus</i>, C. 6.59) — not identified",
+     "original": "Aud. itaque. C. con. de ſuc.",
+     "gloss": "The transcription marks this note an orphan; it is the note for the body's third marker, read {c}. The print's <i>Aud.</i> is read as <i>Aut.</i>, <i>authentica</i>. Its bearing on the concurrence of favours could not be verified."
+    }
+   ]
+  }
+ ]
+}

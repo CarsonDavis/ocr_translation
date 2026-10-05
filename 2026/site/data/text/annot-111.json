@@ -1,0 +1,166 @@
+{
+ "id": "annot-111",
+ "order": 224,
+ "heading": "ANNOTATION CXI",
+ "kind": "annotation",
+ "pages": [
+  "p158",
+  "p159",
+  "p160"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p158\"></span>To execute is nothing other than to effect, accomplish and finish something; whence executors, in our laws, are properly called those who bring to an end and effect the judgment of the judge <sup class=\"mk\" data-key=\"a2\" data-page=\"p158\">a2</sup>. And by the same reason, in the matter of last wills, Executors are cal<span class=\"pg\" data-page=\"p159\"></span>led those who have the charge of effecting and accomplishing the will of the deceased <sup class=\"mk\" data-key=\"b\" data-page=\"p159\">b</sup>; of whom the interpreters have been accustomed to make three kinds, namely Testamentary, Legitimate and Dative [<i>Donnez</i>, \"given\"]. Testamentary are those to whom the deceased, in his testament, has given the charge of effecting his will <sup class=\"mk\" data-key=\"c\" data-page=\"p159\">c</sup>, be they laymen or clerks, secular or regular; for even religious, with leave (however) of their superior, may be executors of testaments <sup class=\"mk\" data-key=\"d\" data-page=\"p159\">d</sup>, the Cordeliers alone excepted <sup class=\"mk\" data-key=\"e\" data-page=\"p159\">e</sup> — as to whom, moreover, some teach that a Guardian of Saint Francis, although he cannot be executor of a testament <sup class=\"mk\" data-key=\"f\" data-page=\"p159\">f</sup>, if nevertheless he has been left executor and has executed, no one opposing or gainsaying, the execution is valid <sup class=\"mk\" data-key=\"g\" data-page=\"p159\">g</sup>; inasmuch as this charge is not forbidden to the religious of this order for the defect or vice of their persons, but for the estate and perfection (as one says) of their rule <sup class=\"mk\" data-key=\"h\" data-page=\"p159\">h</sup>. And therefore, in like terms, priests and clerks in holy orders, to whom it is not permitted to exercise the office of tabellion or notary, if nevertheless they receive instruments, the parties not gainsaying, such instruments are good and valid <sup class=\"mk\" data-key=\"i\" data-page=\"p159\">i</sup>. Now these testamentary executors, because they are bound to render account and pay over the balance remaining <sup class=\"mk\" data-key=\"k\" data-page=\"p159\">k</sup>, must (after the example of guardians <sup class=\"mk\" data-key=\"l\" data-page=\"p159\">l</sup>), before all else, make an inventory of the goods of the deceased <sup class=\"mk\" data-key=\"m\" data-page=\"p159\">m</sup>, without which one could not afterwards recover from them accounts or the payment of the balance <sup class=\"mk\" data-key=\"n\" data-page=\"p159\">n</sup>. Legitimate executors are those to whom this charge and faculty is given by the law, as is the Bishop <sup class=\"mk\" data-key=\"o\" data-page=\"p159\">o</sup>, who must watch over and provide that the pious wills of the deceased be both faithfully and entirely accomplished <sup class=\"mk\" data-key=\"p\" data-page=\"p159\">p</sup>. And to these ends he must admonish, twice at the least, the heir or the testamentary executor (if there is any) to pay, or cause to be paid, the bequests made to the poor or to other pious works; and he who does not satisfy this on his part within the year shall lose all the profit which he could other<span class=\"pg\" data-page=\"p160\"></span>wise gather from the testamentary disposition <sup class=\"mk\" data-key=\"r\" data-page=\"p160\">r</sup>. Which the bishop may do although the deceased had expressly forbidden the bishop to meddle in it <sup class=\"mk\" data-key=\"ſ\" data-page=\"p160\">ſ</sup>, inasmuch as such prohibitions are private [unclear: <i>priuées</i>; perhaps for <i>praves</i>, \"perverse\"] and little reasonable, nay, seem to contain ineptitude and some impiety <sup class=\"mk\" data-key=\"t\" data-page=\"p160\">t</sup>; wherefore they cannot hinder the force of equitable laws, the virtue of the holy constitutions <sup class=\"mk\" data-key=\"u\" data-page=\"p160\">u</sup>. And if the bishop were negligent in making the aforesaid admonitions and procuring the accomplishment of such wills, recourse must be had to the Metropolitan <sup class=\"mk\" data-key=\"x\" data-page=\"p160\">x</sup>. Dative executors are those whom the Judge, consul or other magistrate appoints, the heirs of the deceased having been called.",
+   "notes": [
+    {
+     "key": "a2",
+     "page": "p158",
+     "citation": "Code 7.53 (<i>De executione rei iudicatae</i>), ll. <i>Ordo</i>, <i>Si ut proponis</i> and <i>Executionem</i>; Digest 49.1 (<i>De appellationibus et relationibus</i>), l. <i>Ab executore</i>; Decretals, X 5.20 (<i>De crimine falsi</i>), c. <i>Super</i>; Decretum Gratiani C. 2 q. 6 (the print's <i>ij. q. v. vi.</i>), c. <i>Ab executore</i>",
+     "original": "L. ordo l. ſi. vt proponis. l. executiẽ. C. de execut. rei iu. l. ab executore D. de appel. c. ſuper de crimi. falſ. c. ab executore ij. q. v. vi.",
+     "gloss": "The executor of a judgment in the civil and canon law. Fragment and chapter numbers not verified; the Decretum reference is uncertain as printed."
+    },
+    {
+     "key": "b",
+     "page": "p159",
+     "citation": "Decretals, X 3.26 (<i>De testamentis et ultimis voluntatibus</i>), c. <i>Tua nobis</i> (cf. X 3.26.17) and the penultimate chapter of the title",
+     "original": "e. tua nobis c. pẽ. de teſta.",
+     "gloss": "The executors of a will are to be compelled by the bishop to carry out the testator's dispositions."
+    },
+    {
+     "key": "c",
+     "page": "p159",
+     "citation": "Code 1.3 (<i>De episcopis et clericis</i>), l. <i>Nulli</i>",
+     "original": "l. nulli. C. de epiſ. &amp; cleri.",
+     "gloss": "Fragment not verified; cited again at {m} and {n} as <i>l. nullo</i> / <i>l. nulli</i>."
+    },
+    {
+     "key": "d",
+     "page": "p159",
+     "citation": "Liber Sextus, VI 3.11 (<i>De testamentis et ultimis voluntatibus</i>), last chapter; Decretals X 3.26, c. <i>Tua nobis</i>, cited at {b}",
+     "original": "c. dernier de teſt. au vj. o. tua nobis, deſſus allegué.",
+     "gloss": null
+    },
+    {
+     "key": "e",
+     "page": "p159",
+     "citation": "Clementines, <i>Exivi de paradiso</i> (Clem. 5.11.1, <i>De verborum significatione</i>), §§ <i>Proinde</i> and <i>Verum</i>",
+     "original": "clem. cxiiij. P. proinde &amp; . P. verum de verbo. ſign.",
+     "gloss": "Clement V's constitution on the Franciscan rule; the print's <i>cxiiij.</i> is not the standard reference and has not been explained — perhaps a running number of the constitution in Coras's edition."
+    },
+    {
+     "key": "f",
+     "page": "p159",
+     "citation": "Clementines, <i>Exivi de paradiso</i> (Clem. 5.11.1), as at {e}",
+     "original": "clem. cxiij. al leguée.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "page": "p159",
+     "citation": "Federicus de Senis (<i>Frederic de Senes</i>; Federico Petrucci of Siena), <i>Consilia</i>, cons. 294; Felinus Sandeus (<i>Felin</i>) on the last chapter of Decretals X 1.2 (<i>De constitutionibus</i>), col. 13, no. 11",
+     "original": "Frederic de Senes au conſeil ccxciiij. Fe lin au c. dernier col. xiij. nombre xj. de conſtitutio.",
+     "gloss": null
+    },
+    {
+     "key": "h",
+     "page": "p159",
+     "citation": "Clementines, <i>Exivi de paradiso</i> (Clem. 5.11.1), as at {e}",
+     "original": "clem. cxiiij. deſſus allegué.",
+     "gloss": null
+    },
+    {
+     "key": "i",
+     "page": "p159",
+     "citation": "Hostiensis (<i>Hoſtienſ.</i>; Henricus de Segusio) and Johannes Andreae (<i>Ieã André</i>) on c. <i>Sicut</i>, Decretals X 3.50 (<i>Ne clerici vel monachi saecularibus negotiis se immisceant</i>); Felinus Sandeus, at the place cited at {g}",
+     "original": "Hoſtienſ. &amp; Ieã André au c. ſicut nec cleri vel monac. Felin au lieu deſ ſus alleg.",
+     "gloss": "Chapter number of <i>Sicut</i> not verified; clerks are forbidden the office of notary, but instruments they draw up are not void."
+    },
+    {
+     "key": "k",
+     "page": "p159",
+     "citation": "Digest 40.4 (<i>De manumissis testamento</i>), l. <i>Lucius</i>",
+     "original": "l. Lucius D. de man. teſta,",
+     "gloss": "Fragment not verified."
+    },
+    {
+     "key": "l",
+     "page": "p159",
+     "citation": "Digest 26.7 (<i>De administratione et periculo tutorum et curatorum</i>), l. <i>Tutor qui</i> (D. 26.7.7, Ulpian)",
+     "original": "l. tutor qui D. de admini ſtra. tutor.",
+     "gloss": "<i>Tutor qui repertorium non fecit, quod vulgo inventarium appellatur, dolo fecisse videtur</i>: a guardian who makes no inventory is held to have acted in fraud."
+    },
+    {
+     "key": "m",
+     "page": "p159",
+     "citation": "Code 1.3 (<i>De episcopis et clericis</i>), l. <i>Nullo</i> (so printed; the <i>Nulli</i> of {c})",
+     "original": "l. nullo. C. de epiſ. &amp; cler.",
+     "gloss": "Fragment not verified."
+    },
+    {
+     "key": "n",
+     "page": "p159",
+     "citation": "Code 5.37 (<i>De administratione tutorum et curatorum</i>), l. <i>Tutores</i> (cf. C. 5.37.24); Code 1.3, l. <i>Nulli</i>, cited at {c}",
+     "original": "l. tutores C. de admin. tutor. l. nulli alleguée.",
+     "gloss": "The guardian's duty to make an inventory before administering."
+    },
+    {
+     "key": "o",
+     "page": "p159",
+     "citation": "Authenticum, Nov. 131 (<i>De ecclesiasticis titulis</i>), c. 11, § <i>Si quis autem pro redemptione</i> and the following § (Coras's <i>coll. vij.</i>; in the standard arrangement Nov. 131 stands in coll. 9)",
+     "original": "P. ſi quis au tem pro redemptione, &amp; P. ſuyuant de eccleſ. titu. cdlla. vij.",
+     "gloss": "The bishop of the place is to see pious legacies carried out."
+    },
+    {
+     "key": "p",
+     "page": "p159",
+     "citation": "Decretals, X 3.26 (<i>De testamentis</i>), c. <i>Tua nobis</i> (cf. X 3.26.17), as at {b}",
+     "original": "c. tua nobis de teſtam.",
+     "gloss": null
+    },
+    {
+     "key": "r",
+     "page": "p160",
+     "citation": "Authenticum, Nov. 131.11, § <i>Si autem qui hoc facere iussi sunt</i> (Coras's <i>coll. vij.</i>; see {o})",
+     "original": "P. ſi autem qui hoc facere iuſsi ſunt. coll. vij.",
+     "gloss": "Those charged with a pious legacy who do not perform it within a year are compelled by the bishop and lose the benefit."
+    },
+    {
+     "key": "ſ",
+     "page": "p160",
+     "citation": "Authenticum, Nov. 131.11, § <i>Si quis autem [pro redemptione]</i>, cited at {o}",
+     "original": "P. ſi quis au tem. allegué.",
+     "gloss": null
+    },
+    {
+     "key": "t",
+     "page": "p160",
+     "citation": "Digest 28.7 (<i>De condicionibus institutionum</i>), l. <i>Quidam</i>; Digest 30 (<i>De legatis et fideicommissis</i> [I]), l. <i>Servo alieno</i>, last §",
+     "original": "l. quidã. D. de conditio. in inſtitutio. l. ſeruo alien. P. dernier. D. de lega. i.",
+     "gloss": "Fragments not verified; cited for the rule that a testator's inept or impious condition is disregarded."
+    },
+    {
+     "key": "u",
+     "page": "p160",
+     "citation": "Digest 35.2 (<i>Ad legem Falcidiam</i>), l. <i>Quod de bonis</i>, last §; Decretals, X 3.26 (<i>De testamentis</i>), c. <i>Requisisti</i>",
+     "original": "l. quod, de bonis. P. dernier. D. ad l. Fal. c. requiſiſti de teſta.",
+     "gloss": "Fragment and chapter numbers not verified."
+    },
+    {
+     "key": "x",
+     "page": "p160",
+     "citation": "Authenticum, Nov. 131.11, § <i>Si autem sanctissimus [episcopus]</i> (Coras's <i>coll. vij.</i>; see {o})",
+     "original": "P. ſi autem ſanctiſsimus. de eccleſ. tit. coll. vij.",
+     "gloss": "If the bishop neglects the duty, the metropolitan is to act."
+    },
+    {
+     "key": "q",
+     "page": "p159",
+     "citation": "Authenticum, coll. 1, Nov. 1 (<i>De heredibus et Falcidia</i>), § <i>Si quis igitur non implens</i>; Authentica <i>Hoc amplius</i> under Code 6.42 (<i>De fideicommissis</i>)",
+     "original": "P. ſi quis igitur non implens de hæredit. &amp; Fal. coll. i. Autene. hoc amplius, C. de fideicom.",
+     "gloss": "The heir who does not pay the legacies within a year loses the Falcidian fourth and the benefit of the will."
+    }
+   ]
+  }
+ ]
+}

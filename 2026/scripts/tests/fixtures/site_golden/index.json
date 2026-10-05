@@ -1,0 +1,44 @@
+{
+ "pages": [
+  {
+   "id": "p004",
+   "page": 4,
+   "folio": "4",
+   "heading": "TEXT",
+   "layers": {
+    "fr": true,
+    "en": true
+   }
+  },
+  {
+   "id": "p005",
+   "page": 5,
+   "folio": "5",
+   "heading": "ANNOTATION II",
+   "layers": {
+    "fr": true,
+    "en": true
+   }
+  },
+  {
+   "id": "p006",
+   "page": 6,
+   "folio": "6",
+   "heading": null,
+   "layers": {
+    "fr": false,
+    "en": false
+   }
+  },
+  {
+   "id": "p041",
+   "page": 41,
+   "folio": "41",
+   "heading": null,
+   "layers": {
+    "fr": true,
+    "en": true
+   }
+  }
+ ]
+}

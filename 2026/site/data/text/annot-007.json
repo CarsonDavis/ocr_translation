@@ -1,0 +1,32 @@
+{
+ "id": "annot-007",
+ "order": 16,
+ "heading": "ANNOTATION VII",
+ "kind": "annotation",
+ "pages": [
+  "p021",
+  "p022"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p021\"></span>The wife of Quintus Sertorius at Rome, and Jeanne, daughter of Count Baldwin of Flanders, were a little better advised: for when the man who called himself the son of Quintus Sertorius, and was followed by many as such at Rome, one day presented himself to the wife of Sertorius as to his mother, giving her very familiar, and nevertheless secret and true, tokens, she with great pertinacity and virtuous <span class=\"pg\" data-page=\"p022\"></span>constancy affirmed against all that this was not the son of Quintus Sertorius, nor hers, and alone by this means uncovered the rash effrontery and the overweening impudence of this impostor <sup class=\"mk\" data-key=\"a\" data-page=\"p022\">a</sup>. Likewise, when after the death of Baldwin, Count of Flanders and Emperor of Constantinople, who had been slain in Greece, someone presented himself in Flanders calling himself Baldwin: although, by the great likeness he bore to the late count and the multitude of tokens he gave, he knew so well how to win the favour and grace of the people that the Flemings had already received him as their true and natural prince, nevertheless Jeanne, daughter of Baldwin, who since her father's death then governed, would never acknowledge him as her father, nor receive him as count; but, suspecting the fraud, wisely implored the aid of King Louis VIII her uncle, by whose means the imposture came to light <sup class=\"mk\" data-key=\"b\" data-page=\"p022\">b</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p022",
+     "citation": "Valerius Maximus, <i>Memorable Doings and Sayings</i> IX.15 (<i>De iis qui infimo loco nati mendacio se clarissimis familiis inserere conati sunt</i>; Coras's c. 16, the old numbering)",
+     "original": "Valere au li. ix. des faits &amp; dits memo rables c. xvi.",
+     "gloss": "The pretended son of Q. Sertorius, whom Sertorius's widow refused to acknowledge though the crowd followed him."
+    },
+    {
+     "key": "b",
+     "page": "p022",
+     "citation": "Paulus Aemilius (Paolo Emili of Verona, d. 1529), <i>De rebus gestis Francorum</i>, in the book on Louis VIII (book VI); locus unverified",
+     "original": "Paule Æmile.",
+     "gloss": "Baldwin IX of Flanders, first Latin Emperor of Constantinople, disappeared after his capture by the Bulgarians in 1205; the false Baldwin, a hermit of Valenciennes, was received in Flanders in 1225, unmasked before Louis VIII at Péronne, and hanged in 1226. Louis VIII was in fact Jeanne's first cousin (his mother Isabelle of Hainaut was Baldwin's sister); Coras's \"uncle\" is kept."
+    }
+   ]
+  }
+ ]
+}

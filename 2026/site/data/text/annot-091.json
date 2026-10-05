@@ -1,0 +1,25 @@
+{
+ "id": "annot-091",
+ "order": 185,
+ "heading": "ANNOTATION XCI",
+ "kind": "annotation",
+ "pages": [
+  "p128",
+  "p129"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p128\"></span>High justice is what the Jurisconsults call MERE IMPERE [<i>merum imperium</i>, pure power], that is to say a sovereign power of the sword, and of punishing anyone corporally by whipping of the body, cutting off of limbs, or, if <span class=\"pg\" data-page=\"p129\"></span>need be, by natural death <sup class=\"mk\" data-key=\"a\" data-page=\"p129\">a</sup>: of which justice, because the hangmen are the executors, they are called in France Executors of high justice.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p129",
+     "citation": "Digest 2.1.3 (<i>De iurisdictione</i>, l. <i>Imperium</i>, Ulpian)",
+     "original": "l. iij. D. de iuriſdi.",
+     "gloss": "<i>Imperium aut merum aut mixtum est. Merum est imperium habere gladii potestatem ad animadvertendum facinorosos homines</i>: power is either pure or mixed; pure power is to have the power of the sword to punish wicked men — the text Coras translates."
+    }
+   ]
+  }
+ ]
+}

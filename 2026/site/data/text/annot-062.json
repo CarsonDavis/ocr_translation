@@ -1,0 +1,81 @@
+{
+ "id": "annot-062",
+ "order": 126,
+ "heading": "ANNOTATION LXII",
+ "kind": "annotation",
+ "pages": [
+  "p082",
+  "p083"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p082\"></span>Inasmuch as the wicked, the too licentious and the virulent have never spared their stinking and infected tongues to detract from people of worth and virtue, it has often been seen to happen that by their venomous slanders a man of worth has been defamed of a deed which he would not have thought of for his life; and nevertheless such a rumour, unjustly spread abroad, marked him in the eyes of many persons too prone to think ill of their neighbour — upon whose opinion alone, however, it would not be reasona<span class=\"pg\" data-page=\"p083\"></span>ble to judge or condemn that man. And so in civil matters: for a wicked man could easily cause a rumour of false things to be sown, to serve his cause. Wherefore our laws have holily ordained that proof by rumour and common repute is not full proof <sup class=\"mk\" data-key=\"a\" data-page=\"p083\">a</sup>, save in certain cases collected by our interpreters in the common places <sup class=\"mk\" data-key=\"b\" data-page=\"p083\">b</sup>: as when it is a question of proving the bounds and limits of lands <sup class=\"mk\" data-key=\"c\" data-page=\"p083\">c</sup>; or of showing certain old and ancient facts exceeding the memory of men <sup class=\"mk\" data-key=\"d\" data-page=\"p083\">d</sup>; or else of making it appear that Jean is the son of Antoine, Pierre the son of François, or any other filiation <sup class=\"mk\" data-key=\"e\" data-page=\"p083\">e</sup>; or of proving the death of someone <sup class=\"mk\" data-key=\"f\" data-page=\"p083\">f</sup>; or of putting in evidence some other thing which cannot be proved save with great difficulty. And although in civil matters it is received that rumour and renown make a half-proof, nevertheless in criminal causes (of which we are speaking), or indeed in civil ones that are high and grave, this has no place <sup class=\"mk\" data-key=\"h\" data-page=\"p083\">h</sup>. Wherefore the judge could not then join this half-proof with one witness, to make it full and entire <sup class=\"mk\" data-key=\"i\" data-page=\"p083\">i</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p083",
+     "citation": "Digest 22.5.3 (<i>De testibus</i>, l. <i>Testium fides</i>), § <i>Eiusdem</i> (D. 22.5.3.2, Hadrian's rescript: witnesses are weighed, and <i>consentiens fama</i> may confirm belief in a fact); the Gloss on Decretals X 5.27 (<i>De clerico excommunicato, deposito vel interdicto ministrante</i>), c. <i>Illud</i> (X 5.27.5, Innocent III, on one who celebrates knowing his excommunication <i>per solam famam</i>)",
+     "original": "l. iij P eiuſ dé D de teſti. Gloſe au c. illud. de cleri. excom.",
+     "gloss": "The <i>P.</i> is the print's sort for §; <i>eiuſ dé</i> is <i>eiuſdẽ</i> (<i>eiusdem</i>) with a reflow gap and a wrong sort."
+    },
+    {
+     "key": "b",
+     "page": "p083",
+     "citation": "Felinus Sandeus (<i>Felin</i>) on Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Veniens</i>, the first of the two chapters so beginning in that title (X 2.20.10, Alexander III; the second is X 2.20.38)",
+     "original": "Felin au c. veniens. i de teſti.",
+     "gloss": "Felinus's commentary collects the cases in which <i>fama</i> is admitted as proof; the same place is cited at annot-041 {a}."
+    },
+    {
+     "key": "c",
+     "page": "p083",
+     "citation": "Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Cum causam</i> (cf. X 2.20.37, Innocent III, on a dispute over a village and its district, where the witnesses are to be examined on <i>visu, auditu, scientia, credulitate, fama</i>; X 2.19.13, <i>Quum causam</i>, on diocesan boundaries proved <i>per libros antiquos, adminicula, testes et famam</i>, fits the gloss better but stands in <i>De probationibus</i>)",
+     "original": "c. cum cauſam. de teſti.",
+     "gloss": "The boundaries of lands may be proved by repute; cited at annot-028 {c2} as well."
+    },
+    {
+     "key": "d",
+     "page": "p083",
+     "citation": "Innocent IV on the said Decretals X 2.20, c. <i>Veniens</i>",
+     "original": "Innocent aud. c. veniẽs.",
+     "gloss": "<i>Aud.</i> = <i>au d[it]</i>, \"at the said chapter\". Innocent's commentary admits common repute for facts beyond living memory."
+    },
+    {
+     "key": "e",
+     "page": "p083",
+     "citation": "Decretals X 2.19 (<i>De probationibus</i>), c. <i>Per tuas</i> (X 2.19.10, Lucius III: one whom people name as a man's son and who is commonly so reputed)",
+     "original": "c. per tuas. de proba.",
+     "gloss": "Filiation proved by common repute; as at annot-041 {b}."
+    },
+    {
+     "key": "f",
+     "page": "p083",
+     "citation": "Bartolus (<i>Bartole</i>) on Digest 29.3 (<i>Testamenta quemadmodum aperiantur, inspiciantur et describantur</i>), l. 3 as printed, § <i>Si dubitetur</i> (cf. D. 29.3.2, Ulpian, where that paragraph stands; the law number differs from annot-041 {o}, which gives <i>l. ij</i>)",
+     "original": "Bartole en la l. iij. P. ſi du bitetur. D quẽ admod. teſta. aper.",
+     "gloss": "Bartolus there admits proof of a testator's death by common repute; <i>du bitetur</i> is <i>dubitetur</i> with a reflow gap."
+    },
+    {
+     "key": "h",
+     "page": "p083",
+     "citation": "Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Tam litteris</i> (X 2.20.33) and c. <i>Veniens</i> (cf. X 2.20.10, the first of the two so named)",
+     "original": "c. tam lite. ris. c. veniens; de teſti.",
+     "gloss": "<i>Lite. ris</i> is <i>literis</i> broken by a reflow gap with a stray point; the semicolon after <i>veniens</i> is a stray sort for a point. The same pair is cited together at texte-57's Annotation LX, note <i>p</i>."
+    },
+    {
+     "key": "i",
+     "page": "p083",
+     "citation": "The said c. <i>Tam litteris</i> (X 2.20); Felinus Sandeus (<i>Felin</i>) on the said c. <i>Veniens</i> (X 2.20)",
+     "original": "c. tam literis. alleguee; Felin. aud. c; veniens.",
+     "gloss": "<i>Alleguee</i> = \"already cited\"; <i>aud. c.</i> = <i>au dit chapitre</i>. Reading B <i>c.</i> is taken over the print's <i>c;</i>, the semicolon being a stray sort in the abbreviation <i>c.</i> (<i>capitulum</i>)."
+    },
+    {
+     "key": "g",
+     "page": "p083",
+     "citation": "Accursius (<i>Accurse</i>), the Gloss on Digest 22.5.3 (<i>De testibus</i>, l. 3), § <i>Eiusdem</i> (D. 22.5.3.2); Salicetus (<i>Salicet</i>; Bartholomaeus de Saliceto) on Code 9.2 (<i>De accusationibus et inscriptionibus</i>), l. <i>Ea quidem</i> (C. 9.2.7, Gordian, on matters reported to governors <i>per officium</i> examined without formal accusation, and <i>notoria</i>), at the last paragraph, towards its end",
+     "original": "Accurſe en la l. iij P. eiuſdé. D. de teſt. Salicet en la l. ea quidẽ. P. fin ſur la fin. C. de accuſa.",
+     "gloss": "The Gloss on § <i>Eiusdem</i> is where the doctrine of <i>fama</i> as half-proof is built; <i>P. fin ſur la fin</i> = § <i>fin.</i>, <i>in fine</i>. Reading A <i>quidẽ</i> (= <i>quidem</i>) is taken over <i>quidé</i>."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "id": "annot-081",
+ "order": 165,
+ "heading": "ANNOTATION LXXXI",
+ "kind": "annotation",
+ "pages": [
+  "p110",
+  "p111"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p110\"></span>The crime of forgery is here patent: by the change of name and the substitution of the person, the said du Tilh having asserted that he was called, and was, Martin Guerre: for although it is lawful for everyone to change his name at his pleasure <sup class=\"mk\" data-key=\"a2\" data-page=\"p110\">a2</sup>, inasmuch as names are imposed only to recognise persons and to distinguish them one from another <sup class=\"mk\" data-key=\"b2\" data-page=\"p110\">b2</sup>: this nevertheless is understood with good faith, and without intention to defraud or injure another <sup class=\"mk\" data-key=\"c2\" data-page=\"p110\">c2</sup>. As when Pope Sergius, the second of that name, who was called in Italian Bocca di porco, that is to say Pig's Mouth, had himself named Sergius: whence since then the Pontiffs of Rome have drawn the custom of leaving, at their creation, their proper name, to take another — after the example also (as they say) of Jesus Christ, who gave the name of Peter to Simon Bar-Jona when he chose him for his disciple. <sup class=\"mk\" data-key=\"d2\" data-page=\"p110\">d2</sup> Provided therefore that the intention be not evil, one may change not only one's name, but also one's surname and arms <sup class=\"mk\" data-key=\"e2\" data-page=\"p110\">e2</sup>, and call oneself of another country: as when St Paul, in the Acts of the Apostles, called himself a citizen of Rome, although he was none <sup class=\"mk\" data-key=\"f2\" data-page=\"p110\">f2</sup>. And Jesus Christ, speaking <span class=\"pg\" data-page=\"p111\"></span>of St John, said that he was Elijah <sup class=\"mk\" data-key=\"g\" data-page=\"p111\">g</sup>, whom the Lord God had promised by the Prophet <sup class=\"mk\" data-key=\"h\" data-page=\"p111\">h</sup>: not, says St Augustine, that Jesus understood St John to be the very person of Elijah, but by imitation of virtue <sup class=\"mk\" data-key=\"i\" data-page=\"p111\">i</sup>. Otherwise, whoever changes his name must be punished and repressed by the penalty of forgery <sup class=\"mk\" data-key=\"x\" data-page=\"p111\">x</sup>, and such a one (said the Jurisconsult Ulpian in some place) that he may be an example to others <sup class=\"mk\" data-key=\"l\" data-page=\"p111\">l</sup> [unclear: the print reads <i>&amp; telle, (diſoit en quelque lieu le Iuriſconſulte Vlpien qu'il en ſoit) autres aux exemple</i>, with the parenthesis closed too late and <i>autres aux</i> inverted; translated by the evident sense].",
+   "notes": [
+    {
+     "key": "a2",
+     "page": "p110",
+     "citation": "Code 9.25 (<i>De mutatione nominis</i>), l. <i>unica</i> (C. 9.25.1, Diocletian and Maximian) — the print's <i>D.</i> for <i>C.</i>",
+     "original": "l. vn D. de mura no.",
+     "gloss": "The sole law of the title: as the imposition of a name is a private matter, so its change is without danger to the innocent, provided it is done without fraud (<i>sine aliqua fraude</i>). Cited at annot-012 {b} under its right book."
+    },
+    {
+     "key": "b2",
+     "page": "p110",
+     "citation": "Code 7.14 (<i>De ingenuis manumissis</i>), l. <i>Ad recognoscendos</i> (C. 7.14.10, Diocletian and Maximian); Institutes 2.17 (<i>Quibus modis testamenta infirmantur</i>), § 5, at the words <i>sed quia</i> (<i>sed quia sane commodius erat singulas causas singulis appellationibus distingui</i>)",
+     "original": "l. ad recognoſcendos. C. de ingen. &amp; man. P. ſed quia. qui modis teſt. infir.",
+     "gloss": "Names are imposed to recognise individuals; as at annot-012 {a}, where the Institutes passage cited is instead Inst. 2.20.29 on error in a legatee's name."
+    },
+    {
+     "key": "c2",
+     "page": "p110",
+     "citation": "The same sole law (C. 9.25.1), and Coras's Annotation XII above (cross-reference to annot-012)",
+     "original": "l. vnique al leguee. Et ci deſſus en l'anotarion,⟨alt:notation,⟩ xij.",
+     "gloss": null
+    },
+    {
+     "key": "d2",
+     "page": "p110",
+     "citation": "Pietro Crinito (<i>Pierre Crinit</i>), <i>De honesta disciplina</i>, book 3 (or 4), chapter 10 as printed — the passage on Pope Sergius not located in the 1543 edition (OCR); book and chapter unverified",
+     "original": "Pierre Crinit. ru iij.⟨alt:iiij.⟩ de honeſta diſcipli. c. x.",
+     "gloss": "For Pope Sergius <i>Os porci</i> and the papal custom of taking a new name; the print's <i>ru</i> is <i>au</i>."
+    },
+    {
+     "key": "e2",
+     "page": "p110",
+     "citation": "Decretals of Gregory IX, title <i>De excessibus praelatorum et subditorum</i>, c. <i>Dilecta</i> (X 5.31.14, Honorius III), and Panormitanus (<i>Panorme</i>) on it",
+     "original": "c. dilecta. là où Panorme de exceſ. pralaror.",
+     "gloss": "For the lawful change of surname and arms."
+    },
+    {
+     "key": "f2",
+     "page": "p110",
+     "citation": "Acts of the Apostles, chapter 16 (Acts 16:37–38)",
+     "original": "Actes c. xvj.",
+     "gloss": "Paul at Philippi declares himself a Roman."
+    },
+    {
+     "key": "g",
+     "page": "p111",
+     "citation": "Gospel of Matthew, chapter 11 (Matthew 11:14)",
+     "original": "S. Mathieu c. xi⟨alt:xi.⟩",
+     "gloss": "\"This is Elias, which was for to come.\""
+    },
+    {
+     "key": "h",
+     "page": "p111",
+     "citation": "Malachi, chapter 4 (Malachi 4:5)",
+     "original": "Malachie c. iiij.",
+     "gloss": "\"Behold, I will send you Elijah the prophet.\""
+    },
+    {
+     "key": "i",
+     "page": "p111",
+     "citation": "Decretum of Gratian, Part II, C. 22 q. 2, c. <i>Quaeritur</i> (Augustine; cf. C. 22 q. 2 c. 22)",
+     "original": "c. quæritur xxij. q. ij.",
+     "gloss": "Augustine on figurative speech that is not a lie — John called Elijah by likeness of spirit, not identity of person. Cited again at annot-081 {g} for Jacob."
+    },
+    {
+     "key": "x",
+     "page": "p111",
+     "citation": "Digest 48.10 (<i>De lege Cornelia de falsis</i>), l. <i>Falsi</i> (D. 48.10.13 pr., Papinian)",
+     "original": "l. falſi. D. de falſ.",
+     "gloss": "The assertion of a false name or cognomen is punished with the penalty of <i>falsum</i> — the text Coras's whole annotation rests on; cited also at annot-012 {c}. The margin keys this note <i>x</i>, as the body marker is read; the alphabet expects <i>k</i>."
+    },
+    {
+     "key": "l",
+     "page": "p111",
+     "citation": "Digest, title abbreviated <i>de reb. cor.</i> — not resolved; the fragment beginning <i>Quamvis</i> not identified",
+     "original": "l. quamuis. D. de reb. cor.",
+     "gloss": "Cited again, with the same abbreviation, at annot-081 {a} for exemplary punishment; the Ulpian saying Coras paraphrases, that the penalty should be an example to others, has not been located under this title."
+    },
+    {
+     "key": null,
+     "page": "p110",
+     "citation": "unidentified (sigla incomplete: no canon of D. 10, and no incipit in Friedberg's index, begins <i>Sive adulterium</i>)",
+     "original": "ſiue adulterium. x. diſt.",
+     "gloss": "Perhaps a canon of the Decretum, Part I, Distinctio 10; its place in the argument is not evident."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "annot-069",
+ "order": 140,
+ "heading": "ANNOTATION LXIX",
+ "kind": "annotation",
+ "pages": [
+  "p088"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p088\"></span>This word <i>Arrest</i>, in our French tongue, is taken in two ways. The first, for a final judgment and decree of a sovereign court; and so many think that it is drawn from the Greek ἄρεστον, which is as much as to say an ordinance of a magistrate. Whence it seems also, says that great Budé, that we err in writing and pronouncing it with a double R, seeing that ἄρεστον, from which it is drawn, is written only with a single R <sup class=\"mk\" data-key=\"a\" data-page=\"p088\">a</sup>. The second, for a kind of imprisonment, proceeding from the command and injunction of the magistrate made to some person not to stir from a certain place which he assigns to him <sup class=\"mk\" data-key=\"b\" data-page=\"p088\">b</sup>: as in our context.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p088",
+     "citation": "Guillaume Budé (<i>Guil. Budée</i>), <i>Annotationes in Pandectas</i>, on the last law of Digest 1.9 (<i>De senatoribus</i>; l. <i>fin.</i> = D. 1.9.12, Ulpian), at its end",
+     "original": "Guil. Budée en la Loy fin. ſur la fin. D. de ſenator.",
+     "gloss": "Budé's <i>Annotationes</i> (1508) are arranged as a commentary on the Digest; the passage deriving <i>arrest</i> from ἀρεστόν stands under this law. Locus not verified against the printed <i>Annotationes</i>."
+    },
+    {
+     "key": "b",
+     "page": "p088",
+     "citation": "Digest 43.29 (<i>De homine libero exhibendo</i>), l. 2 (D. 43.29.2, Venuleius; the title has four laws, and the second is taken as printed); Digest 35.1 (<i>De condicionibus et demonstrationibus et causis et modis eorum quae in testamento scribuntur</i>), the law containing the paragraph beginning <i>Titio centum</i> (the law's incipit is not printed; fragment not identified)",
+     "original": "l. ij. D. de lib. exhib. l. P. Tirio centũ. D. de con. &amp; demon.",
+     "gloss": "The print's <i>P.</i> is its sort for the paragraph sign §, and <i>Tirio</i> a wrong sort for <i>Titio</i>. Cited for the Roman sense of being kept or detained in a place without being in a prison: the interdict for producing a free man wrongfully held, and a legacy conditioned on the legatee's not leaving a place."
+    }
+   ]
+  }
+ ]
+}

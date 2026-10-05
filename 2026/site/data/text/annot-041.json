@@ -1,0 +1,39 @@
+{
+ "id": "annot-041",
+ "order": 84,
+ "heading": "ANNOTATION XLI",
+ "kind": "annotation",
+ "pages": [
+  "p062",
+  "p063"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p062\"></span>In this case, it seems that a proof by rumour and common repute ought not to be of small force: for we are in <span class=\"pg\" data-page=\"p063\"></span>a matter most ambiguous, monstrous and perplexed; in which acts, inasmuch as the certainty of things cannot be recovered except with great difficulty, rumour and common repute make sufficient proof <sup class=\"mk\" data-key=\"a\" data-page=\"p063\">a</sup>: as to show that Antoine is the son of Pierre, or that François is the son of Jean, or any other filiation <sup class=\"mk\" data-key=\"b\" data-page=\"p063\">b</sup>; or indeed to prove the death of someone.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p063",
+     "citation": "The Doctors (commentators) on Decretals X 2.20.10 (<i>De testibus et attestationibus</i>, c. <i>Veniens ad nos cum litteris tuis L. presbyter</i>, the first of the two chapters so beginning in the title; the other is c. 38) and X 2.20.27, c. <i>Praeterea</i> (Celestine III: carnal union proved by hearsay testimony where <i>fama</i> and other aids concur)",
+     "original": "Les Docteurs au c. veniens. i. &amp; au c. præterea. de teſtibus.",
+     "gloss": "The canonists' doctrine that in matters hard to prove directly, common repute (<i>fama</i>) suffices; c. <i>Praeterea, de testibus</i> is one of the marginalia decoded in the case file §6.3."
+    },
+    {
+     "key": "b",
+     "page": "p063",
+     "citation": "Decretals X 2.19.10 (<i>De probationibus</i>, c. <i>Per tuas</i>: one commonly reputed a man's son, and acknowledged by him, is not disowned by his later oath)",
+     "original": "c. per tuas. de proba.",
+     "gloss": "Filiation proved by common repute."
+    },
+    {
+     "key": "o",
+     "page": "p063",
+     "citation": "Bartolus (<i>Bartole</i>) on Digest 29.3.2.4 (<i>Testamenta quemadmodum aperiantur, inspiciantur et describantur</i>, l. 2, § <i>Si dubitetur</i>; Ulpian)",
+     "original": "Bartole en la. ij. P. ſi dubitetur. D. quẽ ad. teſt. aper,",
+     "gloss": "Bartolus there discusses how the death of a testator is proved, and admits proof by common repute. The <i>P.</i> stands for the paragraph sign; the note ends with a comma in the print."
+    }
+   ]
+  }
+ ]
+}

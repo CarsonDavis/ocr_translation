@@ -1,0 +1,56 @@
+{
+ "id": "annot-006",
+ "order": 14,
+ "heading": "ANNOTATION VI",
+ "kind": "annotation",
+ "pages": [
+  "p020",
+  "p021"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p020\"></span>The chaste and modest wife who truly loves her husband has nothing so dear nor so precious as his presence, and nothing so grievous and lamentable as his absence: witness the sad laments that one reads in Ovid <sup class=\"mk\" data-key=\"a\" data-page=\"p020\">a</sup>, of Penelope (true portrait and exemplar of chastity) for her Ulysses, of Hermione for her Orestes, of Deianira for her Hercules, and above all of Laodamia for her Protesilaus, whose absence she so deplored that, having afterwards heard that he had been slain by Hector, seized with an extreme frenzy and impatience, she went out of the bounds of reason and, as one transported, no longer wishing to live, asked of the gods, as the sole comfort and relief of her grief, that she might see the spirit of her departed love. Which she obtained, and in the arms of that shade gave up the ghost. And there is no doubt that the sovereign desire of one who loves is to see and contemplate the thing loved, for the great and incredible pleasure which he expects in seeing it; whence love in Greek is called ἐρῶς (<i>erōs</i>): for from the look love is born and takes its cause, and of it the eyes, as Propertius says, are the guides, chiefs and conductors <sup class=\"mk\" data-key=\"b\" data-page=\"p020\">b</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p020",
+     "citation": "Ovid, <i>Heroides</i> I (Penelope to Ulysses), VIII (Hermione to Orestes), IX (Deianira to Hercules), XIII (Laodamia to Protesilaus)",
+     "original": "Ouide aux epiſtres.",
+     "gloss": "Laodamia's death in the arms of her husband's shade is not in Ovid's letter, which is written before the news; it is the version of Hyginus, <i>Fabulae</i> 103–104, and Servius on <i>Aeneid</i> VI.447."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p021\"></span>If you know it not, the eyes are the guides in love (<i>Si nescis, oculi sunt in amore duces</i>).",
+   "notes": [
+    {
+     "key": "b",
+     "page": "p021",
+     "citation": "Propertius, <i>Elegies</i> II.15.12",
+     "original": "Properce an liure ij. des ele gies.",
+     "gloss": "The note is printed on p021 beside the verse; its marker stands at the foot of p020."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "And that is why Juvenal thinks it a prodigious and too strange thing that a blind man should be in love. And Martial mocks Codrus, who, deprived of sight, nevertheless afterwards became extremely passionate for the love of a woman.",
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "No one in all the city gives more credit than Codrus. Since he is so poor, how so? Blind, he loves (<i>Plus credit nemo, quam tota Codrus in urbe, / Cum sit tam pauper, quomodo? caecus amat</i>). <sup class=\"mk\" data-key=\"c\" data-page=\"p021\">c</sup>",
+   "notes": [
+    {
+     "key": "c",
+     "page": "p021",
+     "citation": "Martial, <i>Epigrams</i> III.15",
+     "original": "Martial an iij. des Epigr.",
+     "gloss": "Martial's point is a pun: <i>credit</i> is \"gives credit, lends,\" and <i>caecus amat</i> means Codrus loves blindly — he is not blind. Coras takes <i>caecus</i> literally; the Juvenal passage on the blind lover has not been located."
+    }
+   ]
+  }
+ ]
+}

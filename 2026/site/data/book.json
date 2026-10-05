@@ -31,5 +31,8 @@
  ],
  "default_layer": "en",
  "stylesheet": null,
- "first_page": "p000-title"
+ "first_page": "p000-title",
+ "reader": {
+  "base": "text/"
+ }
 }

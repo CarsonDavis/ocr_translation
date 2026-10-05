@@ -1,0 +1,31 @@
+{
+ "id": "annot-051",
+ "order": 104,
+ "heading": "ANNOTATION LI",
+ "kind": "annotation",
+ "pages": [
+  "p072"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p072\"></span>One must not look so much to the number and multitude of the witnesses as to the verisimilitude of what they depose <sup class=\"mk\" data-key=\"a\" data-page=\"p072\">a</sup>; so that more faith must be given to those who depose probable things than to the others, even though these be in much greater number <sup class=\"mk\" data-key=\"b\" data-page=\"p072\">b</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p072",
+     "citation": "Decretals X 2.19.9 (<i>De probationibus</i>, c. <i>Licet causam</i>, Innocent III); X 2.20.32 (<i>De testibus et attestationibus</i>, c. <i>In nostra</i> [<i>praesentia</i>])",
+     "original": "c. licet cau ſam. de prob. c⟨alt:c.⟩ &amp; in noſtra de teſtib.",
+     "gloss": "Witnesses are to be weighed by the probability of their depositions, not counted."
+    },
+    {
+     "key": "b",
+     "page": "p072",
+     "citation": "Digest 22.5 (<i>De testibus</i>), l. <i>Ob carmen</i> (D. 22.5.21, Arcadius Charisius), the last paragraph (D. 22.5.21.3)",
+     "original": "l. ob carnem. P fina. D. de teſtib.",
+     "gloss": "<i>Non ad multitudinem respici oportet, sed ad sinceram testimoniorum fidem</i> — where witnesses differ, the judge is to regard not their number but the sincere faith of their testimony, and the evidence that most nearly agrees with the truth. The print's <i>carnem</i> is a wrong sort for <i>carmen</i>."
+    }
+   ]
+  }
+ ]
+}

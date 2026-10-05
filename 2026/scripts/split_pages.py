@@ -10,11 +10,14 @@ Reads `manifest.json`, `transcription/final/<id>.json`, `text/sections.json` and
     book.json          the book-level constants the viewer and the landing card need
     index.json         one short record per page, in reading order
     pages/<id>.json    the layers of one page, per scripts/site_schema.json
+    text/toc.json      the translated sections in print order, for reader mode
+    text/<id>.json     one translated section as whole paragraphs, page turns marked
 
 A page whose final is missing or not yet marked done gets `french: null`; a page no
 translated section covers gets `english: null`; `index.json` records which layers a
-page has. Every page record is validated against scripts/site_schema.json before
-anything is written, so a bad run leaves the previous data in place.
+page has. Every page record and every section record is validated against
+scripts/site_schema.json before anything is written, so a bad run leaves the previous
+data in place.
 
 The section files are written by the translator to the format in
 scripts/prompts/translate.md, which is the authority on it; this script follows it.
@@ -110,6 +113,12 @@ ROMAN_STEPS = ((100, "C"), (90, "XC"), (50, "L"), (40, "XL"), (10, "X"),
                (9, "IX"), (5, "V"), (4, "IV"), (1, "I"))
 TEXTE_KINDS = ("texte", "text")
 ANNOTATION_KINDS = ("annotation", "annot")
+# Reader mode's section kinds, from the text/sections.json kind (or the id).
+READER_KINDS = ("title", "argument", "text", "annotation")
+# Where a page marker sat in a paragraph, while the paragraph is marked up whole.
+PAGE_SLOT = ""
+TOKEN_RE = re.compile(f"{PAGE_SLOT}|{pagelib.MARKER_RE.pattern}")
+READER_BASE = "text/"
 
 
 def _warn(message: str) -> None:
@@ -151,6 +160,8 @@ class Section(NamedTuple):
     kind: str | None = None
     number: int | None = None
     heading: str | None = None
+    paragraphs: tuple = ()       # the prose paragraphs as written, markers and all
+    order: int | None = None     # 1-based position in text/sections.json
 
     @property
     def first_page(self) -> str | None:
@@ -249,18 +260,35 @@ def page_id_for_marker(token: str) -> str:
     return stripped
 
 
-def to_html(text: str) -> str:
+def to_html(text: str, page: str | None = None, turns=()) -> str:
     """One paragraph of English prose as the viewer's HTML.
 
     Whitespace collapsed, HTML escaped, `*x*` italicised, and `{a}` turned into the
-    marker the viewer ties to its sidenote.
+    marker the viewer ties to its sidenote. That is all a page file's paragraph gets.
+
+    Reader mode's section files pass the whole paragraph, with each `⟦page⟧` marker
+    replaced by PAGE_SLOT, `turns` holding the page ids those slots stand for, in
+    order, and `page` the page the paragraph opens on (None when it opens on a
+    marker). Each slot becomes an empty `<span class="pg" data-page="…">` where the
+    printed page turns, and each `{a}` carries `data-page` for the page it prints on,
+    since the letters restart on every page.
     """
     collapsed = " ".join(text.split())
     escaped = html.escape(collapsed, quote=False)
     italicised = ITALIC_RE.sub(r"<i>\1</i>", escaped)
-    return pagelib.MARKER_RE.sub(
-        lambda m: f'<sup class="mk" data-key="{m.group(1)}">{m.group(1)}</sup>',
-        italicised)
+    upcoming = iter(turns)
+    current = page
+
+    def markup(m):
+        nonlocal current
+        if m.group(0) == PAGE_SLOT:
+            current = next(upcoming)
+            return f'<span class="pg" data-page="{html.escape(current)}"></span>'
+        key = m.group(1)
+        where = f' data-page="{html.escape(current)}"' if current else ""
+        return f'<sup class="mk" data-key="{key}"{where}>{key}</sup>'
+
+    return TOKEN_RE.sub(markup, italicised)
 
 
 def _rich(text: str) -> str:
@@ -397,7 +425,8 @@ def parse_section(path) -> Section:
     return Section(id=section_id, pages=pages,
                    pieces=_pieces(path.name, prose),
                    notes=_notes(path.name, notes_text),
-                   path=path)
+                   path=path,
+                   paragraphs=tuple(p for p in re.split(r"\n\s*\n", prose) if p.strip()))
 
 
 def load_sections(root) -> list[Section]:
@@ -412,7 +441,7 @@ def load_sections(root) -> list[Section]:
         return []
     records = json.loads(index_path.read_text(encoding="utf-8")).get("sections") or []
     sections = []
-    for record in records:
+    for position, record in enumerate(records, start=1):
         if not isinstance(record, dict) or not record.get("id"):
             continue
         path = root / "translation" / "sections" / f"{record['id']}.md"
@@ -422,7 +451,8 @@ def load_sections(root) -> list[Section]:
         sections.append(section._replace(
             kind=record.get("kind"), number=record.get("number"),
             heading=section_heading(record.get("kind"), record.get("number"),
-                                    record.get("label"))))
+                                    record.get("label")),
+            order=position))
     return sections
 
 
@@ -547,6 +577,146 @@ def split_english(sections: list[Section], page_ids) -> dict[str, list[dict] | N
         if out.get(page_id) is None and notes:
             _warn(f"{page_id}: notes but no English prose; the page stays pending")
     return out
+
+
+# --- reader mode: whole sections ------------------------------------------
+#
+# The same sections, not cut at the page breaks: one file per section, paragraphs
+# whole, each page turn an empty span at the character where it falls. The page
+# files above are untouched by this.
+
+def reader_kind(section: Section) -> str:
+    """title | argument | text | annotation, from the section record's kind or id."""
+    kind = (section.kind or "").lower()
+    if kind in TEXTE_KINDS:
+        return "text"
+    if kind in ANNOTATION_KINDS:
+        return "annotation"
+    if kind in ("title", "argument"):
+        return kind
+    for prefix, name in (("annot", "annotation"), ("texte", "text"), ("text", "text"),
+                         ("title", "title"), ("argument", "argument")):
+        if section.id.startswith(prefix):
+            return name
+    _warn(f"section {section.id}: kind {section.kind!r} is not one reader mode knows; "
+          f"listed as text")
+    return "text"
+
+
+def _marks(text: str, page: str | None, turns: list[str]) -> list[tuple[str, str]]:
+    """The (page, key) of every `{a}` in a slotted paragraph, in order, no repeats."""
+    out: list[tuple[str, str]] = []
+    upcoming = iter(turns)
+    current = page
+    for m in TOKEN_RE.finditer(text):
+        if m.group(0) == PAGE_SLOT:
+            current = next(upcoming)
+        elif (current, m.group(1)) not in out:
+            out.append((current, m.group(1)))
+    return out
+
+
+def _note_record(note: SectionNote) -> dict:
+    return {"key": note.key, "page": note.page, "citation": note.citation,
+            "original": note.original, "gloss": note.gloss}
+
+
+def section_record(section: Section) -> dict:
+    """One translated section as reader mode's `text/<id>.json` record.
+
+    Paragraphs are whole. A paragraph the translator set as the section's own
+    heading is dropped (the record's `heading` says it), and any other heading
+    paragraph becomes a heading block; the page markers either carried move to the
+    start of the next paragraph. Notes go with the paragraph that prints their
+    (page, key) marker, in marker order; a note whose marker is not in the prose,
+    and a note with no key, goes with the first paragraph that has text on its
+    page (the page files do the same per page, and warn there).
+    """
+    blocks: list[dict] = []
+    marks: list[list[tuple[str, str]]] = []   # per block, paragraphs only
+    on_pages: list[list[str]] = []            # pages each block has text on
+    pages: list[str] = []
+    current: str | None = None
+    carried: list[str] = []
+
+    for raw in section.paragraphs:
+        collapsed = " ".join(raw.split())
+        turns = [page_id_for_marker(t) for t in PAGE_MARKER_RE.findall(collapsed)]
+        for page in turns:
+            if page not in pages:
+                pages.append(page)
+        bare = " ".join(PAGE_MARKER_RE.sub("", collapsed).split())
+        if not bare:
+            carried.extend(turns)
+            current = turns[-1] if turns else current
+            continue
+        if HEADING_PARAGRAPH_RE.match(bare):
+            if blocks or bare != section.heading:
+                blocks.append({"type": "heading", "text": bare})
+                marks.append([])
+                on_pages.append([])
+            carried.extend(turns)
+            current = turns[-1] if turns else current
+            continue
+        opens_on = current
+        text = PAGE_MARKER_RE.sub(PAGE_SLOT, collapsed)
+        if carried:
+            text = PAGE_SLOT * len(carried) + text
+            turns = carried + turns
+            carried = []
+        # The pages this paragraph has prose on: the one it opens on, if any prose
+        # comes before its first marker, and every page a marker turns to.
+        touched = [] if text.startswith(PAGE_SLOT) or opens_on is None else [opens_on]
+        touched += [p for p in turns if p not in touched]
+        blocks.append({"type": "paragraph",
+                       "html": to_html(text, opens_on, turns),
+                       "notes": []})
+        marks.append(_marks(text, opens_on, turns))
+        on_pages.append(touched)
+        current = turns[-1] if turns else current
+    if carried:
+        _warn(f"section {section.id}: page marker(s) {carried} after the last paragraph")
+
+    paragraphs = [i for i, b in enumerate(blocks) if b["type"] == "paragraph"]
+    by_mark: dict[tuple[str, str], SectionNote] = {}
+    loose: list[SectionNote] = []
+    for note in section.notes:
+        if note.key is None:
+            loose.append(note)
+        elif (note.page, note.key) in by_mark:
+            _warn(f"section {section.id}: two notes keyed {note.key!r} on {note.page}; "
+                  f"keeping the first")
+        else:
+            by_mark[(note.page, note.key)] = note
+    taken: set[tuple[str, str]] = set()
+    for i in paragraphs:
+        for mark in marks[i]:
+            if mark in by_mark and mark not in taken:
+                blocks[i]["notes"].append(_note_record(by_mark[mark]))
+                taken.add(mark)
+    loose = [n for m, n in by_mark.items() if m not in taken] + loose
+    for note in loose:
+        home = next((i for i in paragraphs if note.page in on_pages[i]), None)
+        if home is None:
+            if not paragraphs:
+                _warn(f"section {section.id}: note {note.key!r} ({note.page}) has no "
+                      f"paragraph to sit beside")
+                continue
+            _warn(f"section {section.id}: note {note.key!r} is for {note.page}, which "
+                  f"this section's prose does not reach; attached to its first paragraph")
+            home = paragraphs[0]
+        blocks[home]["notes"].append(_note_record(note))
+
+    return {"id": section.id, "order": section.order, "heading": section.heading,
+            "kind": reader_kind(section), "pages": pages, "blocks": blocks}
+
+
+def toc_record(records: list[dict]) -> dict:
+    """text/toc.json: every translated section, in print order."""
+    return {"sections": [
+        {"id": r["id"], "order": r["order"], "heading": r["heading"], "kind": r["kind"],
+         "first_page": r["pages"][0] if r["pages"] else None, "pages": r["pages"]}
+        for r in sorted(records, key=lambda r: r["order"])]}
 
 
 # --- one page -------------------------------------------------------------
@@ -1031,11 +1201,35 @@ def load_final(root: pathlib.Path, rec: dict) -> dict | None:
     return final
 
 
-def build(root: pathlib.Path, out: pathlib.Path) -> tuple[int, int, int]:
-    """Write book.json, index.json and pages/<id>.json. -> (pages, french, english).
+def _check(validator, record, label: str) -> None:
+    """Raise a ValidationError naming `label` and the path if `record` is invalid."""
+    import jsonschema
+    error = jsonschema.exceptions.best_match(validator.iter_errors(record))
+    if error is not None:
+        where = "/".join(str(p) for p in error.absolute_path)
+        raise jsonschema.ValidationError(
+            f"{label}{' at ' + where if where else ''}: {error.message}")
 
-    Everything is built and validated before anything is written, so a page that
-    does not fit the schema leaves the previous `site/data` untouched.
+
+def _def_validator(schema: dict, name: str):
+    """A validator for one `$defs` entry of the site schema."""
+    import jsonschema
+    return jsonschema.Draft202012Validator(
+        {"$ref": f"#/$defs/{name}", "$defs": schema["$defs"]})
+
+
+def build(root: pathlib.Path, out: pathlib.Path) -> tuple[int, int, int]:
+    """Write the site data. -> (pages, french, english); see build_all."""
+    return build_all(root, out)[:3]
+
+
+def build_all(root: pathlib.Path, out: pathlib.Path) -> tuple[int, int, int, int]:
+    """Write book.json, index.json, pages/<id>.json and reader mode's text/.
+
+    -> (pages, french, english, sections). Everything is built and validated before
+    anything is written, so a page or section that does not fit the schema leaves
+    the previous `site/data` untouched. With no translated section there is no
+    `text/` and book.json has no `reader` key.
     """
     import jsonschema
 
@@ -1051,7 +1245,8 @@ def build(root: pathlib.Path, out: pathlib.Path) -> tuple[int, int, int]:
         raise pagelib.PageLoadError(root / "manifest.json", "no page records")
     ids = [r.get("id") for r in records]
 
-    english = split_english(load_sections(root), ids)
+    sections = load_sections(root)
+    english = split_english(sections, ids)
 
     schema = json.loads(SITE_SCHEMA_PATH.read_text(encoding="utf-8"))
     validator = jsonschema.Draft202012Validator(schema)
@@ -1067,16 +1262,24 @@ def build(root: pathlib.Path, out: pathlib.Path) -> tuple[int, int, int]:
             ids[i - 1] if i else None,
             ids[i + 1] if i + 1 < len(records) else None,
             english.get(page_id)))
-        error = jsonschema.exceptions.best_match(validator.iter_errors(page))
-        if error is not None:
-            where = "/".join(str(p) for p in error.absolute_path)
-            raise jsonschema.ValidationError(
-                f"{page_id}: invalid site page record"
-                f"{' at ' + where if where else ''}: {error.message}")
+        _check(validator, page, f"{page_id}: invalid site page record")
         pages.append((page_id, page))
         index.append(pagelib.nfc_all(index_record(rec, final, english.get(page_id))))
         n_french += page["french"] is not None
         n_english += page["english"] is not None
+
+    section_validator = _def_validator(schema, "section")
+    texts: list[dict] = []
+    for section in sections:
+        record = pagelib.nfc_all(section_record(section))
+        _check(section_validator, record, f"{section.id}: invalid reader section record")
+        texts.append(record)
+    toc = pagelib.nfc_all(toc_record(texts))
+    _check(_def_validator(schema, "toc"), toc, "text/toc.json: invalid table of contents")
+
+    book = book_record(bookconf.load(root))
+    if texts:
+        book.setdefault("reader", {"base": READER_BASE})
 
     pages_dir = out / "pages"
     pages_dir.mkdir(parents=True, exist_ok=True)
@@ -1086,9 +1289,22 @@ def build(root: pathlib.Path, out: pathlib.Path) -> tuple[int, int, int]:
     for stale in sorted(pages_dir.glob("*.json")):
         if stale.name not in keep:
             stale.unlink()
-    write_json(out / "book.json", book_record(bookconf.load(root)))
+
+    text_dir = out / READER_BASE.rstrip("/")
+    if texts:
+        text_dir.mkdir(parents=True, exist_ok=True)
+        for record in texts:
+            write_json(text_dir / f"{record['id']}.json", record)
+        write_json(text_dir / "toc.json", toc)
+    if text_dir.is_dir():
+        keep = {f"{r['id']}.json" for r in texts} | ({"toc.json"} if texts else set())
+        for stale in sorted(text_dir.glob("*.json")):
+            if stale.name not in keep:
+                stale.unlink()
+
+    write_json(out / "book.json", book)
     write_json(out / "index.json", {"pages": index})
-    return len(records), n_french, n_english
+    return len(records), n_french, n_english, len(texts)
 
 
 def main(argv=None):
@@ -1100,8 +1316,9 @@ def main(argv=None):
                     help="where to write the data files (default <root>/site/data)")
     args = ap.parse_args(argv)
     out = args.out if args.out is not None else args.root / "site" / "data"
-    n, fr, en = build(args.root, out)
+    n, fr, en, n_sections = build_all(args.root, out)
     print(f"{n} pages written ({fr} french, {en} english)")
+    print(f"{n_sections} sections written")
     return 0
 
 

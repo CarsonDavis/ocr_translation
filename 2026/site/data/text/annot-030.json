@@ -1,0 +1,32 @@
+{
+ "id": "annot-030",
+ "order": 62,
+ "heading": "ANNOTATION XXX",
+ "kind": "annotation",
+ "pages": [
+  "p051",
+  "p052"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p051\"></span>Although sometimes men shed tears from a great and too excessive joy which suddenly presents itself, as did Ptolemy Philadelphus when there were offered to him the laws of the Jews written in letters of gold <sup class=\"mk\" data-key=\"a2\" data-page=\"p051\">a2</sup>; nevertheless it most often happens that man weeps only from melancholy, vexation and sadness, and then there is great reason for it: for the spirit, which is extremely afflicted with grief and anguish, is carried up as far as the membrane of the brain, where it presses the humour that it finds there, so that it constrains it to go out; and that is why the Latins call the humour that flows down from the eyes LACRIMA, that is to say tear: a word drawn from <i>laceration</i>, which is as much as to say to break, to rend and to consume; for from the breaking and sadness of the spirit the tears are moved and provoked. Alexander of Aphrodisias <span class=\"pg\" data-page=\"p052\"></span>for that reason assigns the reason in both, that is to say in those who grieve and in those who rejoice, and also why both the one and the other shed tears and weep: for in those who grieve, this proceeds, he says, from the thickness of the little conduits of the sight, which comes to press the humour of the eyes; and those who make merry, for the rarity [openness] of those passages and conduits, pour out such moisture <sup class=\"mk\" data-key=\"b\" data-page=\"p052\">b</sup>",
+   "notes": [
+    {
+     "key": "a2",
+     "page": "p051",
+     "citation": "Josephus, <i>Jewish Antiquities</i> XII, chapter 2 (12.2.10, §§ 89–90 in the modern division: Ptolemy Philadelphus, shown the Law written in letters of gold, weeps from excess of joy; cf. the Letter of Aristeas §§ 176–178)",
+     "original": "Ioſephe au liure xij. des Antiquitez Iudaiques c. ij.",
+     "gloss": "The transcription flags the middle letters of <i>Iudaiques</i> as illegible and supplied from the citation."
+    },
+    {
+     "key": "b",
+     "page": "p052",
+     "citation": "Alexander of Aphrodisias, <i>Problemata</i> (the medical problems transmitted under his name), problem 32 as cited — not located: the Latin editions number the problems differently (see annot-005 {n})",
+     "original": "Alexandre Aphrodiſée au c. xxxij. des problemes.",
+     "gloss": "On why both the grieving and the joyful weep, by the density or rarity of the passages of the eyes."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "annot-065",
+ "order": 132,
+ "heading": "ANNOTATION LXV",
+ "kind": "annotation",
+ "pages": [
+  "p085"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p085\"></span>In criminal causes, because the proofs must be certain, indubitable, and clearer than the day, the tendering of the oath is not received <sup class=\"mk\" data-key=\"a\" data-page=\"p085\">a</sup>; considering especially that if it had place in these matters, it would easily come about that crimes and calumnies, by the collusion of the parties, would be covered over and remain unpunished <sup class=\"mk\" data-key=\"b\" data-page=\"p085\">b</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p085",
+     "citation": "Code 4.19 (<i>De probationibus</i>), the last law, l. <i>Sciant cuncti</i> (C. 4.19.25, Constantine)",
+     "original": "l. fin. C. de proba.",
+     "gloss": "Accusers must bring a matter to public cognisance fortified by fit witnesses, or by the plainest documents, or by indications <i>ad probationem indubitatis et luce clarioribus</i> — \"indubitable for proof and clearer than daylight\"; Coras's \"clearer than the day\" is this phrase."
+    },
+    {
+     "key": "b",
+     "page": "p085",
+     "citation": "Decretals X 5.22 (<i>De collusione detegenda</i>), c. 1 and the whole title",
+     "original": "c j. &amp; tout le titre, de col luſ. detegend",
+     "gloss": "The title on detecting collusion between the parties to a suit, where the accused and accuser agree to a feigned contest; its first chapter annuls a sentence obtained by such collusion."
+    }
+   ]
+  }
+ ]
+}

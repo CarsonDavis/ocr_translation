@@ -1,0 +1,30 @@
+{
+ "id": "annot-040",
+ "order": 82,
+ "heading": "ANNOTATION XL",
+ "kind": "annotation",
+ "pages": [
+  "p061",
+  "p062"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p061\"></span>This puts me in mind of Quintus Fabius Maximus, who, inasmuch as he was full of little swellings of flesh raised upon the skin of the body (called by the French, in imitation of the Latin, <i>verrues</i>, warts), up to about the breast, was called by the Romans VERRUCOSUS, <span class=\"pg\" data-page=\"p062\"></span>that is to say rough and full of warts. Which Quintus Serenus the poet sufficiently witnesses, when he says,",
+   "notes": [
+    {
+     "key": null,
+     "page": "p062",
+     "citation": "Quintus Serenus Sammonicus, <i>Liber medicinalis</i>, the chapter on warts (<i>De verrucis</i>; chapter and line numbers unverified)",
+     "original": "Interdum exiſtit turpi verruca papilla: Hinc quondam Fabio, Verum cognomen ad hæſit, Qui ſolus patriæ, cunctando reſtituit rem.",
+     "gloss": "The third line adapts Ennius's famous verse on Fabius Cunctator, <i>unus homo nobis cunctando restituit rem</i> (<i>Annales</i>, quoted by Cicero, <i>De senectute</i> 4.10 and <i>De officiis</i> 1.24.84). Quintus Fabius Maximus Verrucosus, the Cunctator (d. 203 BC), was so named from a wart on his lip (Plutarch, <i>Fabius</i> 1); Coras's spread of warts \"up to the breast\" goes beyond the sources."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Sometimes a wart springs up, an ugly nipple of flesh: whence once to Fabius a true surname clung, who alone, by delaying, restored the state to his country.",
+   "notes": []
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "annot-015",
+ "order": 32,
+ "heading": "ANNOTATION XV",
+ "kind": "annotation",
+ "pages": [
+  "p030",
+  "p031"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p030\"></span>If the laws have found it bad to suborn and corrupt a slave (who is esteemed less than nothing, and as a dead person <sup class=\"mk\" data-key=\"a\" data-page=\"p030\">a</sup>) in order to lead him astray and turn him <span class=\"pg\" data-page=\"p031\"></span>from the service of his master <sup class=\"mk\" data-key=\"b\" data-page=\"p031\">b</sup>, with much greater reason [have they found it bad] to spoil and seduce, by gifts, presents, blandishments, promises and other such enticements, a free and freeborn person, and above all one so closely joined as a wife or a child <sup class=\"mk\" data-key=\"c\" data-page=\"p031\">c</sup>, dearer beyond comparison to the husband or to the father than all the most precious things in the world <sup class=\"mk\" data-key=\"d\" data-page=\"p031\">d</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p030",
+     "citation": "Digest 50.17.32 (<i>De diversis regulis iuris antiqui</i>, l. <i>Quod attinet</i>) and Digest 50.17.209 (l. <i>Servitutem</i>)",
+     "original": "l, quod attinet. ſeruitutẽ. D. de reg. iur.",
+     "gloss": "Ulpian: as regards the civil law, slaves are held as nobodies; and: we almost compare slavery to death."
+    },
+    {
+     "key": "b",
+     "page": "p031",
+     "citation": "Digest 11.3.1 (<i>De servo corrupto</i>, l. 1) and the other laws of the same title",
+     "original": "l. j. &amp; autres au meſme rittre. D. de ſer. cor.",
+     "gloss": "The praetor's edict giving an action in double against one who harbours another's slave or persuades him to his harm; <i>rittre</i> = <i>titre</i>."
+    },
+    {
+     "key": "c",
+     "page": "p031",
+     "citation": "Code 9.20 (<i>Ad legem Faviam de plagiariis</i>), l. <i>Si</i> (fragment not identified; the print's \"Falc.\" is a slip for the lex <i>Favia</i> or <i>Fabia</i>, since the lex Falcidia concerns legacies); Digest 11.3 (<i>De servo corrupto</i>), l. <i>Et tantum</i>, § 1 (fragment not identified; the title's extension of the action to a son or daughter in power is the point)",
+     "original": "l. ſi. C. ad I. Falc. de plag. l. &amp; tantum P. j. D. de ſcr. cer.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "page": "p031",
+     "citation": "Digest 4.2.8.3 (<i>Quod metus causa gestum erit</i>, l. <i>Isti quidem</i>, Paul: <i>nihil interest in se quis veritus sit an in liberis suis</i>)",
+     "original": "l. iſti quidem. D. quod met. can.",
+     "gloss": "Cited for the rule that fear inflicted through one's children counts as fear to oneself, children being dearer to a parent than anything."
+    }
+   ]
+  }
+ ]
+}

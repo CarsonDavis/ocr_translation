@@ -1,0 +1,32 @@
+{
+ "id": "annot-055",
+ "order": 112,
+ "heading": "ANNOTATION LV",
+ "kind": "annotation",
+ "pages": [
+  "p075",
+  "p076"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p075\"></span>The philosophers, Arithmeticians and Geometers, teach that the greater and the more proper the proportion and analogy is between two things, the better and the more fitting is the argument from the one to the other <sup class=\"mk\" data-key=\"a\" data-page=\"p075\">a</sup>: as, for example, between two learned and virtuous persons, or two powerful and robust ones, because there are far more sympathies than between two others, of whom the one would be virtuous and learned and the other vicious and unlearned, or the one strong and robust, the other feeble and weak. Thus the ar<span class=\"pg\" data-page=\"p076\"></span>gument from the one to the other is by so much the better as the things have more nearly between them the fitting proportion; whence a rule in our law is drawn by our interpreters, that in things which are alike the argument from the one to the other is easy, as also in things unlike it is very difficult <sup class=\"mk\" data-key=\"b\" data-page=\"p076\">b</sup>. Wherefore, returning to the matter begun, between the prisoner and the sisters of Martin Guerre (of whom two were almost of like age with the same prisoner, and the other two came near it), the argument from likeness was without difficulty more proper than from a little child, such as the said Sanxi was, aged thirteen years only, to a man of thirty-five, such as the said prisoner was.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p075",
+     "citation": "Aristotle, <i>Nicomachean Ethics</i>, book V (V.3, 1131a–b, on proportion as the principle of distributive justice, and the geometrical proportion of the mathematicians)",
+     "original": "Ariſtote au v. des Ethicq.",
+     "gloss": "Aristotle there defines the proportionate as an equality of ratios, \"as the mathematicians call it\", which is Coras's \"proportion and analogy\"."
+    },
+    {
+     "key": "b",
+     "page": "p076",
+     "citation": "Digest 6.1 (<i>De rei vindicatione</i>), l. <i>In rem</i>, § <i>Item quaecumque</i> (D. 6.1.23.5, Paul, on accessions joined to another thing); Digest 37.1 (<i>De bonorum possessionibus</i>), l. <i>Sed cum patrono</i> (D. 37.1.6, Paul)",
+     "original": "l. in rem. P. item quacun- que. D. de re. vend. l. ſed cũ patrono. D. de bono. poſſeſ.",
+     "gloss": "The glossators' rule drawn from these texts: <i>in similibus facilis, in dissimilibus difficilis est argumentatio</i> — argument from like to like is easy, from unlike to unlike hard. The `⟨alt⟩` at <i>item quacun-⟨alt:itam quæcun-⟩que</i> is taken as either: each reading has one wrong letter, and both resolve to <i>Item quaecumque</i>. The <i>P.</i> stands for the paragraph sign."
+    }
+   ]
+  }
+ ]
+}

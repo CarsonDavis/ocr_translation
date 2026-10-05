@@ -1,0 +1,38 @@
+{
+ "id": "annot-025",
+ "order": 52,
+ "heading": "ANNOTATION XXV",
+ "kind": "annotation",
+ "pages": [
+  "p046"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p046\"></span>This proof and circumstance was of no small weight [unclear: the print has <i>n'eſtoit pas de poids</i>, \"was not of weight\"; the sense requires the contrary, and a word seems to have dropped] for the excuse of the said de Rols, and to show that she understood nothing of the fraud: for, besides that nature and the law presume of every man that he is good, honest and of good life <sup class=\"mk\" data-key=\"a\" data-page=\"p046\">a</sup>, and that he would not think any fraud or wickedness against his neighbour <sup class=\"mk\" data-key=\"b\" data-page=\"p046\">b</sup>, the good opinion is further much increased when by the past it appears of a person that he has always lived as a man of worth, and is, toward all who know him, esteemed and reputed as such <sup class=\"mk\" data-key=\"c\" data-page=\"p046\">c</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p046",
+     "citation": "Decretals, X 2.23.16 (<i>De praesumptionibus</i>, c. <i>Dudum</i>, Innocent III: one provided for <i>si idoneus fuerit</i> is presumed suitable); the Gloss on Decretals, X 1.12.1 (<i>De scrutinio in ordine faciendo</i>, c. 1); Digest 17.2.51 (<i>Pro socio</i>, l. <i>Merito</i>, Ulpian: <i>plerumque credendum est eum … iure potius suo re uti quam furti consilium inire</i>); Accursius (<i>Accurse</i>) on the last law of Digest 4.2 (<i>Quod metus causa gestum erit</i>, D. 4.2.23)",
+     "original": "c. dudũ. de præſu. Gl. auc. j. de ſcruti. q l. merito. D. proſo. Accurſe en la l. final. D. quod me cauſ.",
+     "gloss": "The presumption that every man is good until the contrary is proved; the print's <i>q</i> before <i>l. merito</i> is read as <i>&amp;</i>."
+    },
+    {
+     "key": "b",
+     "page": "p046",
+     "citation": "Digest 49.16.5.6 (<i>De re militari</i>, l. <i>Non omnes</i>, § <i>A barbaris remissos milites</i>: restored if they prove they escaped and did not desert)",
+     "original": "c. l. non omnes P. à barbaris. D. de re milit.",
+     "gloss": "The opening <i>c.</i> is the print's abbreviation, not a key."
+    },
+    {
+     "key": "c",
+     "page": "p046",
+     "citation": "Decretals, X 2.23.6 (<i>De praesumptionibus</i>, c. <i>Mandata</i>, Gregory I: <i>Ex praeteritis praesumitur circa futura</i>)",
+     "original": "c. mandata de præſum",
+     "gloss": null
+    }
+   ]
+  }
+ ]
+}

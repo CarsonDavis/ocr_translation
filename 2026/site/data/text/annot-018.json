@@ -1,0 +1,37 @@
+{
+ "id": "annot-018",
+ "order": 38,
+ "heading": "ANNOTATION XIII",
+ "kind": "annotation",
+ "pages": [
+  "p034",
+  "p035"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p034\"></span>Great is the love of a wife toward her husband, when, to save his life, she offers herself to death, as of old did Alcestis, wife of Admetus, King of Thessaly, who, having learned by the oracle of Apollo that her husband, extremely sick and already brought to the last breaths of his life, could not recover health except by the voluntary death of one of his friends, and seeing that no one came forward to do it, she, inflamed with a great ardour and affection that boiled within her, exposed herself willingly to the precipice of death, to redeem the life of her husband <sup class=\"mk\" data-key=\"a\" data-page=\"p034\">a</sup>. Hypermnestra also, daughter of Danaus, put herself in hazard of being killed by her father, to save Lynceus her spouse, on whose death, and that of his other sons-in-law, to the number of fifty, Danaus with his fifty daughters had <span class=\"pg\" data-page=\"p035\"></span>conspired; of whom (says Horace <sup class=\"mk\" data-key=\"b\" data-page=\"p035\">b</sup>) there was found but one, Hypermnestra, who spared her consort and husband.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p034",
+     "citation": "Euripides, <i>Alcestis</i>; Juvenal, <i>Satires</i> VI (652–654)",
+     "original": "Euripide en la tragedie d'Alceſte Iuuenal en la vj Satyre.",
+     "gloss": "Alcestis dies in her husband's place; Juvenal names her as the wife who took on her husband's fate."
+    },
+    {
+     "key": "b",
+     "page": "p035",
+     "citation": "Horace, <i>Odes</i> III.11.33–36",
+     "original": "Horace aũ liure iij. des Carmes, Ode. xj.",
+     "gloss": "<i>Una de multis face nuptiali / digna periurum fuit in parentem / splendide mendax et in omne virgo / nobilis aevum</i> — the stanza translated in the text; the print reads <i>nuptali</i>."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "One among many, worthy of the nuptial torch, was splendidly false toward her perjured father, a maiden noble for all time.",
+   "notes": []
+  }
+ ]
+}

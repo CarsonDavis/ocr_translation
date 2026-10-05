@@ -1,0 +1,39 @@
+{
+ "id": "annot-008",
+ "order": 18,
+ "heading": "ANNOTATION VIII",
+ "kind": "annotation",
+ "pages": [
+  "p022",
+  "p023"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p022\"></span>Once at Rome Trebellius Calca, calling himself the son of Clodius, and as such received by almost everyone and favoured by the people, wished likewise to seize the goods of the late Clodius, his pretended father: so much so that, hindered by the testamentary heirs, he was indeed so petulant and overweening as to bring them to law; but at last, by the judgment of those great judges called the Centumviri, he succumbed and lost his cause <sup class=\"mk\" data-key=\"a2\" data-page=\"p022\">a2</sup>. Likewise someone whom <span class=\"pg\" data-page=\"p023\"></span>history does not name, calling himself the son of Gnaeus Asinius Dio, came within a little, in the time of Cornelius Sulla, of causing the true child of Asinius Dio to be deprived of his father's goods: for he had so well trained the artillery of his stratagems that judgment had followed in his favour. But Augustus Caesar, a wise, prudent and fortunate prince and emperor, having subtly brought the imposture to light, caused the property to be restored to the legitimate son, and the cheat to die in prison <sup class=\"mk\" data-key=\"b\" data-page=\"p023\">b</sup>. At the same time, in the city of Milan, a very wealthy woman called Rubria was burnt to death by a great disaster; after whose death, when her heirs had already sold the better part of the property, another woman presented herself, calling herself Rubria, demanding that her property be restored to her; whom several even of Augustus's soldiers supported, persuaded, by the likeness she bore both in face and in manners to the deceased, that she was truly Rubria. But the incomparable prudence of that renowned and generous Emperor prevented the execution of the fraud. <sup class=\"mk\" data-key=\"c\" data-page=\"p023\">c</sup>",
+   "notes": [
+    {
+     "key": "b",
+     "page": "p023",
+     "citation": "Valerius Maximus IX.15.5 (printed <i>ſ. xvi</i> for <i>c. xvi</i>), the false son of Cn. Asinius Dio",
+     "original": "Valere an liurc ix. ſ. xvi",
+     "gloss": "Coras's <i>Cn. Assidio</i> is Valerius's Cn. Asinius Dio. Valerius has the cause won under Sulla and overturned by Augustus's judgment, as Coras tells it; the pretender died in prison."
+    },
+    {
+     "key": "c",
+     "page": "p023",
+     "citation": "Valerius Maximus IX.15.ext.1, the false Rubria of Milan",
+     "original": "Valere au lieu preallegué.",
+     "gloss": "The marker follows the full stop in the print and is kept there."
+    },
+    {
+     "key": "a",
+     "page": "p023",
+     "citation": "Valerius Maximus, <i>Memorable Doings and Sayings</i> IX.15.4 (<i>De iis qui infimo loco nati mendacio se clarissimis familiis inserere conati sunt</i>; Coras's c. 16, the old numbering), the Trebellius Calca case",
+     "original": "Valere au li, ix. des faits &amp; dicts memo rables c. xvi.",
+     "gloss": "Valerius has Calca pretending to be Clodius himself and suing for his estate before the centumviral court; Coras makes him Clodius's son."
+    }
+   ]
+  }
+ ]
+}

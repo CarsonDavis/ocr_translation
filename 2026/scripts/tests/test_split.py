@@ -642,7 +642,169 @@ def test_files_end_with_a_newline_and_keep_unicode(built):
 def test_main_prints_the_counts(tmp_path, capsys):
     rc = split_pages.main(["--root", str(FIX), "--out", str(tmp_path)])
     assert rc == 0
-    assert capsys.readouterr().out.strip() == "4 pages written (3 french, 3 english)"
+    assert capsys.readouterr().out.strip().splitlines() == [
+        "4 pages written (3 french, 3 english)", "3 sections written"]
+
+
+# --- reader mode: text/<section>.json and text/toc.json --------------------
+
+GOLDEN = FIX.parent / "site_golden"
+PG = '<span class="pg" data-page="{}"></span>'
+
+
+def section(out, section_id):
+    return read(out / "text" / f"{section_id}.json")
+
+
+def test_page_files_are_byte_identical_to_before_reader_mode(built):
+    """site_golden/ is the fixture build from before reader mode existed."""
+    _, out = built
+    for golden in sorted((GOLDEN / "pages").glob("*.json")):
+        assert (out / "pages" / golden.name).read_bytes() == golden.read_bytes(), golden.name
+    assert (out / "index.json").read_bytes() == (GOLDEN / "index.json").read_bytes()
+    assert sorted(p.name for p in (out / "pages").glob("*.json")) == sorted(
+        p.name for p in (GOLDEN / "pages").glob("*.json"))
+
+
+def test_toc_lists_sections_in_order_with_kinds(built):
+    counts, out = built
+    toc = read(out / "text" / "toc.json")["sections"]
+    # annot-002 is in sections.json but untranslated: skipped, its place kept.
+    assert [(s["id"], s["order"], s["kind"], s["heading"]) for s in toc] == [
+        ("annot-001", 1, "annotation", "ANNOTATION I"),
+        ("texte-02", 2, "text", "TEXT"),
+        ("texte-03", 4, "text", "TEXT"),
+    ]
+    assert toc[0]["first_page"] == "p004" and toc[0]["pages"] == ["p004", "p005"]
+    assert toc[2]["first_page"] == "p041"
+    assert sorted(p.stem for p in (out / "text").glob("*.json")) == [
+        "annot-001", "texte-02", "texte-03", "toc"]
+
+
+def test_section_paragraphs_are_whole_with_the_page_turn_inside(built):
+    _, out = built
+    rec = section(out, "annot-001")
+    assert rec["id"] == "annot-001" and rec["kind"] == "annotation"
+    assert rec["pages"] == ["p004", "p005"]
+    first, second = rec["blocks"]
+    # The first marker of a section opens its first paragraph.
+    assert first["html"].startswith(PG.format("p004") + "Marriages thus")
+    # The second paragraph crosses from p004 to p005 mid-word and stays one block.
+    assert "to the wo" + PG.format("p005") + "man of the next" in second["html"]
+    assert second["html"].count('class="pg"') == 1
+    assert "continued" not in second
+
+
+def test_section_markers_and_notes_carry_their_page(built, capsys):
+    _, out = built
+    first, second = section(out, "annot-001")["blocks"]
+    assert '<sup class="mk" data-key="a" data-page="p004">a</sup>' in first["html"]
+    assert '<sup class="mk" data-key="b" data-page="p004">b</sup>' in first["html"]
+    # {a} again, after the turn: the p005 note, not the p004 one.
+    assert '<sup class="mk" data-key="a" data-page="p005">a</sup>' in second["html"]
+    assert [(n["key"], n["page"]) for n in first["notes"]] == [("a", "p004"), ("b", "p004")]
+    assert first["notes"][0]["gloss"] == "On the age of consent."
+    assert first["notes"][0]["citation"].startswith("Digest 23.2 (<i>De ritu nuptiarum</i>)")
+    # {c} (p005) has no marker: it sits with the first paragraph that reaches p005.
+    assert [(n["key"], n["page"]) for n in second["notes"]] == [("a", "p005"), ("c", "p005")]
+
+
+def test_a_heading_paragraph_is_the_section_heading_not_a_block(built):
+    """texte-03 opens `⟦p041⟧TEXT`: the heading is dropped, its marker kept."""
+    _, out = built
+    rec = section(out, "texte-03")
+    assert rec["heading"] == "TEXT"
+    assert len(rec["blocks"]) == 1
+    assert rec["blocks"][0]["html"].startswith(PG.format("p041") + "The said du Tilh")
+    assert "<i>Parlement</i>" in rec["blocks"][0]["html"]
+    assert [(n["key"], n["page"]) for n in rec["blocks"][0]["notes"]] == [("a", "p041")]
+
+
+def test_section_notes_scope_by_page_within_a_paragraph(book, tmp_path):
+    body = ("---\nid: annot-001\npages: [p004, p005]\n---\n"
+            "⟦p004⟧One {a} runs on to ⟦p005⟧the next {a} and *ends* here.\n\n"
+            "## Notes\n"
+            "- {a} (p004): **First** — premier\n"
+            "- {a} (p005): **Second** — second\n"
+            "- {_} (p005) — unkeyed: **Loose** — libre\n")
+    one_section(book, body, pages=("p004", "p005"))
+    out = tmp_path / "out"
+    split_pages.build(book, out)
+    (block,) = section(out, "annot-001")["blocks"]
+    assert [(n["key"], n["page"], n["citation"]) for n in block["notes"]] == [
+        ("a", "p004", "First"), ("a", "p005", "Second"), (None, "p005", "Loose")]
+    assert block["html"] == (
+        PG.format("p004") + 'One <sup class="mk" data-key="a" data-page="p004">a</sup> '
+        "runs on to " + PG.format("p005") + 'the next <sup class="mk" data-key="a" '
+        'data-page="p005">a</sup> and <i>ends</i> here.')
+
+
+def test_to_html_is_unchanged_for_the_page_files():
+    assert split_pages.to_html("one {a}  *two*\n& three") == (
+        'one <sup class="mk" data-key="a">a</sup> <i>two</i> &amp; three')
+    slot = split_pages.PAGE_SLOT
+    # An italic run may span the page turn; the span sits inside it.
+    assert split_pages.to_html(f"*in {slot}two*", "p004", ["p005"]) == (
+        '<i>in <span class="pg" data-page="p005"></span>two</i>')
+
+
+def test_reader_kind_from_record_or_id():
+    sec = split_pages.Section(id="x", pages=[], pieces=[], notes=[], path=None)
+    kind = split_pages.reader_kind
+    assert kind(sec._replace(kind="texte")) == "text"
+    assert kind(sec._replace(kind="annotation")) == "annotation"
+    assert kind(sec._replace(kind="title")) == "title"
+    assert kind(sec._replace(kind="argument")) == "argument"
+    assert kind(sec._replace(id="annot-007", kind=None)) == "annotation"
+    assert kind(sec._replace(id="texte-07", kind=None)) == "text"
+
+
+def test_book_json_names_the_reader_base(built):
+    _, out = built
+    assert read(out / "book.json")["reader"] == {"base": "text/"}
+
+
+def test_no_translated_sections_means_no_reader(book, tmp_path):
+    shutil.rmtree(sections_dir(book))
+    sections_dir(book).mkdir()
+    out = tmp_path / "out"
+    assert split_pages.build_all(book, out) == (4, 3, 0, 0)
+    assert "reader" not in read(out / "book.json")
+    assert not (out / "text").exists()
+
+
+def test_stale_section_file_removed(tmp_path):
+    text = tmp_path / "text"
+    text.mkdir(parents=True)
+    stale = text / "annot-999.json"
+    stale.write_text("{}\n", encoding="utf-8")
+    split_pages.build(FIX, tmp_path)
+    assert not stale.exists()
+    assert (text / "toc.json").exists()
+
+
+def test_section_files_validate_and_the_schema_rejects_a_bad_one(built):
+    _, out = built
+    schema = read(split_pages.SITE_SCHEMA_PATH)
+    validator = split_pages._def_validator(schema, "section")
+    for path in (out / "text").glob("*.json"):
+        if path.name != "toc.json":
+            validator.validate(read(path))
+    split_pages._def_validator(schema, "toc").validate(read(out / "text" / "toc.json"))
+    bad = section(out, "annot-001")
+    del bad["blocks"][0]["notes"][0]["page"]
+    with pytest.raises(jsonschema.ValidationError):
+        validator.validate(bad)
+    bad = section(out, "annot-001")
+    bad["kind"] = "texte"
+    with pytest.raises(jsonschema.ValidationError):
+        validator.validate(bad)
+
+
+def test_section_files_end_with_a_newline_and_keep_unicode(built):
+    _, out = built
+    text = (out / "text" / "annot-001.json").read_text(encoding="utf-8")
+    assert text.endswith("}\n") and "ſ" in text and '\n "id"' in text
 
 
 # --- contested readings ---------------------------------------------------

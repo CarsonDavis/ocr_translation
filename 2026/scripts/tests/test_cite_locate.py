@@ -41,7 +41,7 @@ def first(s):
     ("Decretals 2.19.3", ("law", "decretals", "2.19", "2.19.3", None)),
     ("Decretals, X 2.20 (*De testibus*), c. *Sicut* (X 2.20.9, Alexander III)", ("law", "decretals", "2.20", "2.20.9", None)),
     ("VI 5.11.6", ("law", "sext", "5.11", "5.11.6", None)),
-    ("Liber Sextus, *De regulis iuris*, reg. 54, *Qui prior est tempore*", ("law", "sext", "5.12", "5.12.54", None)),
+    ("Liber Sextus, *De regulis iuris*, reg. 54, *Qui prior est tempore*", ("law", "sext", "5.13", "5.13.54", None)),
     ("Clem. 2.1.1", ("law", "clementines", "2.1", "2.1.1", None)),
     ("Genesis 17:5", ("bible", "vulgate", "Genesis", "Genesis 17:5", None)),
     ("Genesis 29:23–25 (Coras cites chapter 30)", ("bible", "vulgate", "Genesis", "Genesis 29:23", "Genesis 29:25")),
@@ -267,3 +267,206 @@ def test_norm_matches_spacing_variants():
     assert cl.norm("C.33 q.1 c.4") == cl.norm("C33 q1 c4") == cl.norm("c-33-q-1-c-4")
     assert cl.norm("1 Kings") == cl.norm("1-kings")
     assert cl.slug("Cicero De officiis") == "cicero-de-officiis"
+
+
+# ------------------------------------------------------------------ scheme adapters
+
+def _unit(src, corpus, unit, ids, labels=None, **extra):
+    ps = [{"id": i, "label": (labels or {}).get(i, ""), "text": "t " + i} for i in ids]
+    write(src / corpus / f"{unit}.json", dict({"corpus": corpus, "unit": unit, "passages": ps}, **extra))
+
+
+@pytest.fixture
+def actx(tmp_path):
+    src = tmp_path / "site/data/sources"
+    write(src / "pliny-naturalis-historia/corpus.json", {"id": "pliny-naturalis-historia", "unit_scheme": "book",
+          "passage_scheme": "book.section (the chapter is given in the label)"})
+    _unit(src, "pliny-naturalis-historia", "7", [f"7.{n}" for n in range(1, 60)],
+          {f"7.{n}": f"Plin. NH 7.{n} (chapter {3 if 33 <= n <= 35 else 12 if n > 50 else 2})" for n in range(1, 60)})
+    write(src / "cicero-tusculanae-disputationes/corpus.json", {"id": "cicero-tusculanae-disputationes",
+          "passage_scheme": "book.section"})
+    _unit(src, "cicero-tusculanae-disputationes", "1", [f"1.{n}" for n in range(1, 120)])
+    write(src / "cicero-de-oratore/corpus.json", {"id": "cicero-de-oratore", "passage_scheme": "book.section"})
+    _unit(src, "cicero-de-oratore", "2", [f"2.{n}" for n in range(1, 370)])
+    write(src / "plato-republic/corpus.json", {"id": "plato-republic", "passage_scheme": "book.section"})
+    _unit(src, "plato-republic", "5", [f"5.{n}" for n in range(449, 481)])
+    write(src / "plato-phaedo/corpus.json", {"id": "plato-phaedo", "passage_scheme": "section"})
+    _unit(src, "plato-phaedo", "all", [str(n) for n in range(57, 119)])
+    write(src / "aristotle-politics/corpus.json", {"id": "aristotle-politics",
+          "passage_scheme": "book.bekker_page (the section is given in the label)"})
+    _unit(src, "aristotle-politics", "7", ["7.1334b", "7.1335a", "7.1335b"],
+          {"7.1334b": "Arist. Pol. 7.1334b (section 15)", "7.1335a": "Arist. Pol. 7.1335a (section 16)",
+           "7.1335b": "Arist. Pol. 7.1335b (section 16)"})
+    write(src / "historia-augusta/corpus.json", {"id": "historia-augusta", "passage_scheme": "part.chapter.section",
+          "units": ["marcus", "hadrian"]})
+    _unit(src, "historia-augusta", "marcus", [f"marcus.19.{n}" for n in range(1, 8)])
+    write(src / "plutarch-lives/corpus.json", {"id": "plutarch-lives", "passage_scheme": "part.chapter.section",
+          "units": ["pyrrhus"]})
+    _unit(src, "plutarch-lives", "pyrrhus", ["pyrrhus.18.1", "pyrrhus.18.2"])
+    write(src / "cicero-ad-quintum-fratrem/corpus.json", {"id": "cicero-ad-quintum-fratrem",
+          "passage_scheme": "book.letter.section"})
+    _unit(src, "cicero-ad-quintum-fratrem", "1", ["1.1.36", "1.1.37"])
+    write(src / "tertullian-apologeticum/corpus.json", {"id": "tertullian-apologeticum", "passage_scheme": "chapter[.section]"})
+    _unit(src, "tertullian-apologeticum", "all", ["12.1", "13.1", "13.2", "14.1"])
+    write(src / "appian-mithridatica/corpus.json", {"id": "appian-mithridatica",
+          "passage_scheme": "section (the chapter is given in the label)",
+          "split_units": {"all": [{"unit": "alla", "passage_range": ["1", "111"]},
+                                  {"unit": "allb", "passage_range": ["112", "121"]}]}})
+    _unit(src, "appian-mithridatica", "alla", ["1", "111"])
+    _unit(src, "appian-mithridatica", "allb", ["112", "121"])
+    write(src / "cicero-in-verrem/corpus.json", {"id": "cicero-in-verrem", "passage_scheme": "actio.book.section"})
+    _unit(src, "cicero-in-verrem", "2.4", ["2.4.38", "2.4.39"])
+    write(src / "josephus-antiquitates/corpus.json", {"id": "josephus-antiquitates", "passage_scheme": "book.section"})
+    _unit(src, "josephus-antiquitates", "17", [f"17.{n}" for n in range(1, 340)])
+    write(src / "valerius-maximus-facta-et-dicta/corpus.json", {"id": "valerius-maximus-facta-et-dicta",
+          "passage_scheme": "book.chapter.section"})
+    _unit(src, "valerius-maximus-facta-et-dicta", "9", ["9.15.5", "9.15.ext.1"])
+    write(src / "vulgate/corpus.json", {"id": "vulgate", "books": {
+        "1 Chronicles": {"unit": "1-chronicles", "latin": "Paralipomenon I", "abbreviations": ["1 Par."]}}})
+    _unit(src, "vulgate", "1-chronicles", ["1 Chronicles 1:1"])
+    write(src / "code/corpus.json", {"id": "code", "empty_at_source": ["4.20.6"]})
+    _unit(src, "code", "4.20", ["4.20.2", "4.20.11.pr"])
+    _unit(src, "code", "9.9", ["9.9.31"])
+    write(src / "code/concordance.json", {"9.9.31": "9.9.29"})
+    write(src / "digest/corpus.json", {"id": "digest"})
+    _unit(src, "digest", "1.2", ["1.2.2.pr", "1.2.2.1"])
+    write(src / "clementines/corpus.json", {"id": "clementines", "quality": "ocr"})
+    _unit(src, "clementines", "5.3", ["5.3.50", "5.3.2", "5.3.3"])
+    write(src / "sext/corpus.json", {"id": "sext", "units": ["5.12"], "scan_url_template": "https://archive.org/details/X"})
+    _unit(src, "sext", "5.12", ["5.12.1"])
+    write(src / "classical-works.json", [
+        {"work_id": "crinito-de-honesta-disciplina", "author": "Pietro Crinito", "work": "De honesta disciplina",
+         "status": "scan-only", "source": "https://archive.org/details/crinito"},
+        {"work_id": "galen", "author": "Galen", "work": "De usu partium", "status": "not-found"}])
+    return cl.Ctx(src)
+
+
+def loc(s, ctx):
+    r = located(s, ctx)[0]
+    return r["status"], r["unit"], r["passage"], r["passage_end"], r.get("adapter")
+
+
+@pytest.mark.parametrize("ident,expected", [
+    # Pliny: ids are sections, the Notes cite book.chapter
+    ("Pliny, *Natural History* VII.10 (§53–54; Coras's c. 12 follows the old chapter division)",
+     ("passage", "7", "7.53", "7.54", "section-sign")),
+    ("Pliny, *Natural History*, book 7, chapter 12 (7.53 in the modern numbering)",
+     ("passage", "7", "7.53", None, "modern-numbering")),
+    ("Pliny, *Natural History* VII, chapter 4 as printed — at 7.53 (7.53.55–56), chapter 53 in the old division",
+     ("passage", "7", "7.55", "7.56", "parenthesis-dotted")),
+    ("Pliny, *Natural History* VII.3 in the old chapter division (cf. modern VII.4–6)",
+     ("passage", "7", "7.33", "7.35", "label-chapter")),
+    ("Pliny, *Natural History* VII.10", ("unit", "7", None, None, None)),   # never the coincidental section 7.10
+    ("Pliny, *Natural History* VII, chapter 4 as printed", ("unit", "7", None, None, None)),
+    # Cicero book.section: chapter.section and chapter-then-section
+    ("Cicero, *Tusculan Disputations* I (I.24.59)", ("passage", "1", "1.59", None, "chapter-section")),
+    ("Cicero, *De oratore* II (II.86–88, 351–360)", ("passage", "2", "2.351", "2.360", "chapter-then-section")),
+    ("Cicero, *Tusculan Disputations* I (1.84: Callimachus)", ("passage", "1", "1.84", None, None)),
+    # Stephanus and Bekker pages
+    ("Plato, *Republic* book 5 (460e)", ("passage", "5", "5.460", None, "stephanus-page")),
+    ("Plato, *Phaedo* (61c–62c)", ("passage", "all", "61", "62", "stephanus-page")),
+    ("Aristotle, *Politics* VII.16 (1335a)", ("passage", "7", "7.1335a", None, "bekker-page")),
+    ("Aristotle, *Politics* VII.16", ("passage", "7", "7.1335a", "7.1335b", "label-chapter")),
+    # parts (life names)
+    ("Julius Capitolinus, *Life of Marcus Antoninus the Philosopher* (*Historia Augusta*, *Marcus* 19.1–7)",
+     ("passage", "marcus", "marcus.19.1", "marcus.19.7", "part-chapter-section")),
+    ("Plutarch, *Life of Pyrrhus* (ch. 18, Cineas's embassy)", ("passage", "pyrrhus", "pyrrhus.18.1", "pyrrhus.18.2", "part-chapter")),
+    ("Julius Capitolinus, *Life of Marcus Antoninus*; chapter not located", ("unit", "marcus", None, None, None)),
+    # refinements in the parenthesis
+    ("Cicero, *Letters to his brother Quintus*, book 1, letter 1 (*Ad Q. fratrem* 1.1.37)",
+     ("passage", "1", "1.1.37", None, "parenthesis-dotted")),
+    ("Josephus, *Jewish Antiquities*, book 17, chapter 12 (17.324–338)",
+     ("passage", "17", "17.324", "17.338", "parenthesis-dotted")),
+    ("Tertullian, *Apology* (ch. 13: the statue)", ("passage", "all", "13.1", "13.2", "chapter")),
+    ("Appian of Alexandria, *Mithridatic Wars* (ch. 112)", ("passage", "allb", "112", None, "chapter")),
+    ("Cicero, *Verrines* II.4 (*De signis*), § 39", ("passage", "2.4", "2.4.39", None, "actio-book-section")),
+])
+def test_scheme_adapters(ident, expected, actx):
+    assert loc(ident, actx) == expected
+
+
+def test_fuzzy_ids(actx):
+    assert loc("Valerius Maximus IX.15e.1", actx)[:3] == ("passage", "9", "9.15.ext.1")
+    assert loc("Digest 1.2.2.0", actx)[:3] == ("passage", "1.2", "1.2.2.pr")
+    assert cl.fuzzy_key("9.15e.1") == cl.fuzzy_key("9.15.ext.1") == cl.fuzzy_key("IX.15 ext. 1")
+    assert cl.fuzzy_id("7.53", ["7.53?", "7.54"]) == "7.53?"
+    assert cl.fuzzy_id("1.2", ["12", "1.2.3"]) is None     # dots are not dropped between numbers
+
+
+def test_vulgate_books_map(actx):
+    assert cl.vulgate_unit(actx, "Paralipomenon I") == cl.vulgate_unit(actx, "1 Par.") == "1-chronicles"
+    r = cl.locate({"kind": "bible", "corpus": "vulgate", "unit": "1 Par.", "passage": "1 Chronicles 1:1",
+                   "passage_end": None}, actx)
+    assert (r["status"], r["unit"]) == ("passage", "1-chronicles")
+
+
+def test_code_concordance_both_ways(actx):
+    # forward: Coras's 9.9.31 is Krüger 9.9.29, absent here; the number as given is present
+    assert loc("Code 9.9.31", actx)[:3] == ("passage", "9.9", "9.9.31")
+    # backward: the Notes give the Krüger number, the file stores it under the vulgate one
+    r = located("Code 9.9.29", actx)[0]
+    assert (r["status"], r["passage"], r.get("adapter")) == ("passage", "9.9.31", "concordance-inverse")
+
+
+def test_ocr_position_and_gaps(actx):
+    r = located("Clementines, Clem. 5.3 (*De haereticis*), c. 1 (*Multorum querela*)", actx)[0]
+    assert (r["status"], r["passage"], r["adapter"]) == ("passage", "5.3.50", "ocr-position")
+    assert located("Clem. 5.3.3", actx)[0]["passage"] == "5.3.3"
+    r = located("Code 4.20.6", actx)[0]
+    assert (r["status"], r["source_gap"]) == ("unit", "empty_at_source")
+
+
+def test_sext_regulae_iuris_is_title_13(actx):
+    r = located("Liber Sextus, *De regulis iuris*, reg. 54, *Qui prior est tempore*", actx)[0]
+    assert (r["unit"], r["passage"], r["status"]) == ("5.13", "5.13.54", "work")
+    assert r["scan_url"] == "https://archive.org/details/X"
+
+
+def test_classical_works_scan_and_not_found(actx):
+    r = located("Pietro Crinito, *De honesta disciplina* VI.11", actx)[0]
+    assert (r["status"], r["scan_url"]) == ("scan", "https://archive.org/details/crinito")
+    r = located("Galen, *De usu partium* 14.10", actx)[0]
+    assert (r["status"], r["source_gap"]) == ("work", "not_found")
+
+
+def test_absent_corpus_ignored(tmp_path):
+    src = tmp_path / "s"
+    write(src / "decretum/corpus.json", {"id": "decretum"})
+    _unit(src, "decretum", "C.33", ["C.33 q.1 c.4"])
+    assert located("Decretum C. 33 q. 1 c. 4", cl.Ctx(src))[0]["status"] == "passage"
+    assert located("Decretum C. 33 q. 1 c. 4", cl.Ctx(src, ["decretum"]))[0]["status"] == "work"
+
+
+def test_position_in_title(tmp_path):
+    src = tmp_path / "s"
+    write(src / "decretals/corpus.json", {"id": "decretals"})
+    _unit(src, "decretals", "4.15", [f"4.15.{n}" for n in range(1, 8)])
+    write(src / "sext/corpus.json", {"id": "sext"})
+    _unit(src, "sext", "3.15", ["3.15.1"])
+    write(src / "digest/corpus.json", {"id": "digest"})
+    _unit(src, "digest", "22.3", ["22.3.28", "22.3.29.pr", "22.3.29.1"])
+    c = cl.Ctx(src)
+    assert loc("Decretals, X 4.15 (*De frigidis*), last chapter, and the Gloss there", c) == \
+        ("passage", "4.15", "4.15.7", None, "position-last")
+    assert loc("Decretals, X 4.15, last chapter (c. 6 *Litterae*)", c)[2:] == ("4.15.6", None, "position-explicit")
+    assert loc("Liber Sextus, VI 3.15 (*De voto*), its single chapter (c. un., Boniface VIII)", c)[2] == "3.15.1"
+    assert loc("Digest 22.3 (*De probationibus*), last law", c)[2:4] == ("22.3.29.pr", "22.3.29.1")
+    assert loc("Digest 22.3 (*De probationibus*), the penultimate law", c)[2] == "22.3.28"
+    # doubt, another incipit, or an incipit naming the chapter: left at the title
+    assert loc("Decretals X 4.15, the last chapter (chapter not identified)", c)[0] == "unit"
+    assert loc("Decretals, X 4.15, c. *Fraternitatis* and the last chapter of the same title", c)[0] == "unit"
+    assert loc("Decretals, X 4.15, the first chapter *Veniens*", c)[0] == "unit"
+
+
+def test_locus_only_in_parenthesis(tmp_path):
+    src = tmp_path / "s"
+    write(src / "homer-odyssey/corpus.json", {"id": "homer-odyssey", "passage_scheme": "book.line"})
+    _unit(src, "homer-odyssey", "2", [f"2.{n}" for n in range(90, 112)])
+    write(src / "pausanias-description-of-greece/corpus.json", {"id": "pausanias-description-of-greece",
+          "passage_scheme": "book.chapter.section"})
+    _unit(src, "pausanias-description-of-greece", "6", ["6.8.1", "6.8.2"])
+    c = cl.Ctx(src)
+    assert loc("Homer, *Odyssey* (II.93–110; XIX.137–156, the web of Penelope)", c) == \
+        ("passage", "2", "2.93", "2.110", "parenthesis-only")
+    assert loc("Pausanias, *Description of Greece*, the *Eliaca* (book VI, 6.8.2: Damarchus)", c)[:3] == \
+        ("passage", "6", "6.8.2")

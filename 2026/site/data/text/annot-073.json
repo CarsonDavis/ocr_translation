@@ -1,0 +1,46 @@
+{
+ "id": "annot-073",
+ "order": 148,
+ "heading": "ANNOTATION LXXIII",
+ "kind": "annotation",
+ "pages": [
+  "p097",
+  "p098"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p097\"></span>Since Pliny, Plutarch, Valerius and other historiographers testify to us that several men and wo<span class=\"pg\" data-page=\"p098\"></span>men of old died of a sudden and excessive joy, it will not, in my opinion, be found new that a person weeps from great joy, and sheds tears in abundance — witness Ptolemy King of Egypt, who, when he was presented with the laws of Judaea written in letters of gold, began from an extreme joy to lament and weep <sup class=\"mk\" data-key=\"a\" data-page=\"p098\">a</sup>: for, as Josephus says in relating this history, nature oftentimes, for a sovereign pleasure, suffers that which most often befalls those who are sorely grieving and sorrowful <sup class=\"mk\" data-key=\"b\" data-page=\"p098\">b</sup>. Whereupon one might adduce infinite fine examples, related by grave authors worthy of credit, of those who, surprised by an unmeasured joy, have not only wept, but have even died suddenly on the spot <sup class=\"mk\" data-key=\"c\" data-page=\"p098\">c</sup>; of whom I shall take only Diagoras of Rhodes, who, seeing his three children on one same day crowned as victors in the art of wrestling well, and taking their crowns to set them upon his head while kissing him — and the people afterwards, rejoicing with him, throwing flowers at him from all sides — from an incomparable joy gave up his soul between the arms of his children <sup class=\"mk\" data-key=\"d\" data-page=\"p098\">d</sup>. I leave aside the Poet Philemon, who, seeing an ass eat the figs that had been prepared for the dinner, began to laugh so vehemently that he died of it on the hour",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p098",
+     "citation": "Josephus, <i>Jewish Antiquities</i> XII, chapter 2 (12.2.10, §§ 89–90 in the modern division: Ptolemy Philadelphus, shown the Law written in letters of gold, weeps for joy; cf. the Letter of Aristeas §§ 176–178)",
+     "original": "Ioſephe au liure xij. des antiquités Iu daiques c. ij.",
+     "gloss": "The same passage is cited at annot-030 {a2}."
+    },
+    {
+     "key": "b",
+     "page": "p098",
+     "citation": "Coras, Annotation XXX (cross-reference; annot-030, on why both the grieving and the joyful weep)",
+     "original": "Soit veuë l'annotation xxx.",
+     "gloss": null
+    },
+    {
+     "key": "c",
+     "page": "p098",
+     "citation": "Pliny, <i>Natural History</i> VII, chapter 4 as printed — the deaths from sudden joy (Chilon of Sparta, Sophocles, Dionysius of Sicily, Diagoras of Rhodes) are at 7.53 (7.53.180–181), chapter 53 in the old division, so the print's <i>iiij</i> has probably lost an <i>l</i>; and Aulus Gellius, <i>Attic Nights</i> III.15 (deaths from unexpected joy: Polycrita of Naxos, the comic poet Philippides, Diagoras of Rhodes)",
+     "original": "Pline au li. vij. c. iiij. Aul. Gelle au liure iij. c. xv.",
+     "gloss": "Gellius 3.15.3 is Coras's immediate source for Diagoras: three sons victorious at Olympia on one day, the crowns set on their father's head, the people throwing flowers, and the father dying in their embrace."
+    },
+    {
+     "key": "d",
+     "page": "p098",
+     "citation": "Cicero, <i>Tusculan Disputations</i> I (1.111)",
+     "original": "Ciceron au j. des Tuſcul.",
+     "gloss": "Diagoras of Rhodes, told by a Spartan, \"Die, Diagoras, for you will not go up to heaven\" (<i>Morere, Diagora, non enim in caelum ascensurus es</i>); Cicero gives two sons, Gellius three — Coras follows Gellius."
+    }
+   ]
+  }
+ ]
+}

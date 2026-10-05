@@ -1,0 +1,46 @@
+{
+ "id": "annot-080",
+ "order": 163,
+ "heading": "ANNOTATION LXXX",
+ "kind": "annotation",
+ "pages": [
+  "p109",
+  "p110"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p109\"></span>That from which appeal had been taken was the judgment of the Judge of Rieux, by which the same du Tilh was condemned to lose his head and afterwards to be put in four quarters; which was quashed by the Court, because this kind of death seemed to it, for so prodigious and abominable a traitor, heaped up with every kind of vice, [unclear: the print gives no predicate here — <i>luy ſembloit pour vn ſi prodigieux … proditeur …</i>; \"too honourable\" is evidently meant] singu<span class=\"pg\" data-page=\"p110\"></span>larly because, although the difference laid down by our laws, as to the imposition of penalties, between nobles and those of low condition <sup class=\"mk\" data-key=\"a\" data-page=\"p110\">a</sup> is not strictly kept in France, where that general rule is held more tenaciously, that crimes and misdeeds cast off and annul all dignity and all privileges <sup class=\"mk\" data-key=\"b\" data-page=\"p110\">b</sup>: nevertheless in judgments of death the French have religiously observed at all times that nobles are beheaded, and the others hanged <sup class=\"mk\" data-key=\"c\" data-page=\"p110\">c</sup>. Some further testify that it is observed in France that if a person, however noble and illustrious he may be, commits some notable treachery and treason, he is not beheaded, but is hanged on a gibbet, and on gibbet-forks higher and more raised than the others <sup class=\"mk\" data-key=\"d\" data-page=\"p110\">d</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p110",
+     "citation": "Code 9.41 (<i>De quaestionibus</i>), l. <i>Milites</i> (C. 9.41.8); Digest 48.19 (<i>De poenis</i>), the fragment beginning <i>Honor…</i> — not identified (cf. D. 48.19.28 and D. 48.19.15 on the gradation of punishments by rank)",
+     "original": "l. milites. C. de quaſ l. honor. D. de pœn.",
+     "gloss": "C. 9.41.8: soldiers are not to be subjected to torture or to the punishments of plebeians."
+    },
+    {
+     "key": "b",
+     "page": "p110",
+     "citation": "Code 3.24 (<i>Ubi senatores vel clarissimi civiliter vel criminaliter conveniantur</i>), l. 1 (C. 3.24.1); Code book 12, the law beginning <i>Indignat…</i> — not identified (perhaps under C. 12.1, <i>De dignitatibus</i>)",
+     "original": "l. i. C. vbi ſenator l. Indi gnat. li. xij.",
+     "gloss": "For the rule that crime strips the offender of rank and privilege."
+    },
+    {
+     "key": "c",
+     "page": "p110",
+     "citation": "Accursius (<i>Accurſe</i>), <i>Glossa ordinaria</i> on Digest 49.16 (<i>De re militari</i>), l. 2 § 1 (D. 49.16.2.1)",
+     "original": "Accurſe en la l. ij. P. i. D. de re milit.",
+     "gloss": "D. 49.16.2.1: the deserter to the enemy who returns is tortured and condemned to the beasts or to the gallows (<i>in furcam</i>), \"which soldiers do not suffer\" — the gloss on the gallows as the commoner's death."
+    },
+    {
+     "key": "d",
+     "page": "p110",
+     "citation": "Baldus (<i>Balde</i>) on the chapter <i>Quidam</i> — title <i>de iure…</i> not resolved: no chapter of X 2.24 (<i>De iureiurando</i>) or of any other <i>De iure…</i> title of the Decretals begins <i>Quidam</i> (Friedberg's index); unidentified",
+     "original": "Balde au c. qnidã de iure.",
+     "gloss": "For the custom of hanging a noble traitor on a higher gibbet."
+    }
+   ]
+  }
+ ]
+}

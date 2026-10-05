@@ -1,0 +1,38 @@
+{
+ "id": "annot-063",
+ "order": 128,
+ "heading": "ANNOTATION LXIII",
+ "kind": "annotation",
+ "pages": [
+  "p084"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p084\"></span>At the beginning of this discourse several examples of likenesses were recited <sup class=\"mk\" data-key=\"a\" data-page=\"p084\">a</sup>; besides which, since the subject presents itself, Gnaeus Pompeius, afterwards called Strabo, father of the great Pompey, had a cook named Menogenes, who, because he squinted, was called by the surname Strabo, and who so vividly resembled his master that in the end the master, by the voice of the people, took on the surname of his cook, and was called Gnaeus Pompeius Strabo, that is to say, the Squinter <sup class=\"mk\" data-key=\"b\" data-page=\"p084\">b</sup>. Likewise we read also that Publius Cornelius Lentulus and Quintus Metellus Nepos, being Consuls of Rome in the year 697 from the founding of Rome, were so like two players of comedy — of whom the one was named Spinther, resembling Lentulus, and the other Pamphilus, resembling Metellus — that in the end Lentulus was surnamed Spinther; and Metellus likewise would have taken the surname of Pamphilus, had the surname of Pius not been given him beforehand <sup class=\"mk\" data-key=\"c\" data-page=\"p084\">c</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p084",
+     "citation": "Coras's own Annotation V (p011–p020)",
+     "original": "En l'anno tation v.",
+     "gloss": "The catalogue of doubles: Vibius and Publicius, Scipio and Serapion, Hybreas, Toranius's twins, Sura's fisherman, and the rest."
+    },
+    {
+     "key": "b",
+     "page": "p084",
+     "citation": "Pliny, <i>Natural History</i> VII.10 (§54; c. 12 in the old chapter division)",
+     "original": "Pline au liu. vij. c. xij.",
+     "gloss": "Pliny: Pompey's father exchanged his name for that of his cook Menogenes, whose squint he shared; cf. Valerius Maximus IX.14.2."
+    },
+    {
+     "key": "c",
+     "page": "p084",
+     "citation": "Pliny, <i>Natural History</i> VII.10 (§54) again, as printed",
+     "original": "Pline aud. lib. vij. c. xij.",
+     "gloss": "<i>Aud.</i> = <i>au d[it]</i>, \"in the said book\". Pliny: Lentulus and Metellus Nepos, consuls together, were surnamed from the actors Spinther and Pamphilus; cf. Valerius Maximus IX.14.4."
+    }
+   ]
+  }
+ ]
+}

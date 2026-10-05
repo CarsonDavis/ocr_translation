@@ -1,0 +1,80 @@
+{
+ "id": "annot-053",
+ "order": 108,
+ "heading": "ANNOTATION LIII",
+ "kind": "annotation",
+ "pages": [
+  "p073"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p073\"></span>Inasmuch as a witness ought to depose of what he can perceive and comprehend by one of his bodily senses, and not of what he has heard from another <sup class=\"mk\" data-key=\"a\" data-page=\"p073\">a</sup>. The testimony of having heard another say something, although it makes some sort of presumption <sup class=\"mk\" data-key=\"b\" data-page=\"p073\">b</sup>, nevertheless is not sufficient to make proof <sup class=\"mk\" data-key=\"c\" data-page=\"p073\">c</sup>; unless it were to show kinship or affinity, to the end of preventing some marriage <sup class=\"mk\" data-key=\"d\" data-page=\"p073\">d</sup> — and then, provided that such testimony be accompanied by rumour and common repute, together with other adminicles [supporting proofs] and circumstances <sup class=\"mk\" data-key=\"e2\" data-page=\"p073\">e2</sup>; or else to make appear some very old and ancient fact <sup class=\"mk\" data-key=\"f\" data-page=\"p073\">f</sup>, as to prove the very ancient limits and bounds of one's lands <sup class=\"mk\" data-key=\"g\" data-page=\"p073\">g</sup>. And what is said above must be soundly understood of the testimony of having heard a third party say it; for as to having heard one of the parties pleading say it, the testimony would be very good <sup class=\"mk\" data-key=\"h\" data-page=\"p073\">h</sup>: as to have heard that Antoine promised a hundred <i>écus</i> to Pierre, which Pierre now demands of him; or else to have heard that Lucrece has espoused Camille by words of the present, and now this marriage between Camille and Lucrece is in question <sup class=\"mk\" data-key=\"i\" data-page=\"p073\">i</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p073",
+     "citation": "Code 4.20 (<i>De testibus</i>), l. <i>Testium facilitatem</i> (C. 4.20.18, Justinian — the only law of the title that opens <i>Testium</i>); Decretum, C. 22 q. 5 c. 8 (<i>Hoc videtur</i>)",
+     "original": "l. teſtium C. de teſtib. c. hoc videtur. xxij. q. v.",
+     "gloss": "A witness is to speak to what he has himself perceived."
+    },
+    {
+     "key": "b",
+     "page": "p073",
+     "citation": "The Archdeacon (<i>Archidiaconus</i>, Guido de Baysio) on the c. <i>Hoc videtur</i> cited before (C. 22 q. 5)",
+     "original": "Archiadia. de auc. hoc videtur. pre allegue.⟨alt:allegué.⟩",
+     "gloss": "The print's <i>Archiadia. de auc.</i> is read as <i>Archidia. au c.</i> Hearsay raises some presumption though it proves nothing."
+    },
+    {
+     "key": "c",
+     "page": "p073",
+     "citation": "Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Tam litteris</i> (X 2.20.33; the <i>iam literis</i> of annot-033) and c. <i>Licet ex quadam</i> (X 2.20.47, Innocent III); X 4.14 (<i>De consanguinitate et affinitate</i>), c. <i>Tua nos</i> (X 4.14.7, Innocent III, on witnesses to consanguinity who count the degrees without knowing the higher ones; cf. annot-033's c. <i>Tutela</i>)",
+     "original": "c. tam literis. c. licet ex quadam. de teſtib. c. tua. de conſang. &amp; affinit.",
+     "gloss": "Testimony <i>de auditu</i> is not sufficient proof; the chapters of annot-033 {a2}."
+    },
+    {
+     "key": "d",
+     "page": "p073",
+     "citation": "Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Licet ex quadam</i> (cf. X 2.20.47), cited before",
+     "original": "c. licet ex quadam. preallegué.",
+     "gloss": "Innocent III admits hearsay of kinship, with common repute, in a matrimonial cause to prove an impediment."
+    },
+    {
+     "key": "e2",
+     "page": "p073",
+     "citation": "Decretals X 2.20 (<i>De testibus et attestationibus</i>), c. <i>Praeterea</i> (chapter not identified); Panormitanus (<i>Panorme</i>) on c. <i>Licet ex quadam</i>, cited",
+     "original": "c. præterea. de teſt. Panor me au c. licet ex quadam. allegue.",
+     "gloss": "Hearsay of kinship is received only when accompanied by common repute and other adminicles. On the key <i>e2</i>, see the headnote: it should read <i>e</i> once annot-052's marker is corrected."
+    },
+    {
+     "key": "f",
+     "page": "p073",
+     "citation": "Digest 22.3 (<i>De probationibus et praesumptionibus</i>), l. <i>Si arbiter</i> (D. 22.3.28, Labeo)",
+     "original": "l. ſi arbitrer. D. de probatio.",
+     "gloss": "Ancient facts beyond living memory may be proved by what has been heard from the old."
+    },
+    {
+     "key": "g",
+     "page": "p073",
+     "citation": "Baldus (<i>Balde</i>) on Code 1.3 (<i>De episcopis et clericis</i>), l. <i>Conventicula</i> (law not identified)",
+     "original": "Balde en la l. conuenticulam. C. de. epiſ. &amp; cler.",
+     "gloss": "Hearsay admitted to prove the ancient bounds of lands."
+    },
+    {
+     "key": "h",
+     "page": "p073",
+     "citation": "Accursius (<i>Accurse</i>) on Digest 39.3 (<i>De aqua et aquae pluviae arcendae</i>), l. 2, § <i>Idem Labeo</i> (cf. D. 39.3.2.8, where an ancient work may be proved by those who heard it from men who remembered it; §§ 7, 8 and 9 all open <i>Idem Labeo</i>); the Gloss on Decretum, C. 22 q. 5 c. 8 (<i>Hoc videtur</i>, as note <i>a</i>)",
+     "original": "Accurſe en la l ij. P. Idem Labeo. D. de aq. pluu. Glo ſe au c. hoc vi detur. xxij. q v.",
+     "gloss": "What a witness heard a party himself say is good testimony, being the party's own admission."
+    },
+    {
+     "key": "i",
+     "page": "p073",
+     "citation": "The Doctors on Digest 22.3, l. <i>Si arbiter</i> (as note <i>f</i>) and on Decretals X 2.20, c. <i>Tam litteris</i> (as note <i>c</i>), cited above",
+     "original": "Les Docteurs en la l. ſi arbitrer &amp; au c. tam literis. deſſus alleguez.",
+     "gloss": "The examples of the promise overheard and the espousals overheard."
+    }
+   ]
+  }
+ ]
+}

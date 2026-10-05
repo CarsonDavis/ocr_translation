@@ -1,18 +1,32 @@
 """Parse every citation in the Notes of translation/sections/*.md and locate it in the
 fetched source corpora.
 
-usage: cite_locate.py [--report-only] [--unparsed-file PATH]
+usage: cite_locate.py [--report-only] [--unparsed-file PATH] [--absent CORPUS ...]
 Reads every Notes line `- {x} (pNNN): **<identification>** — <sigla> [gloss]`, parses the
 bold identification into structured references (see parse_identification), checks each
 against site/data/sources/<corpus>/ (corpus.json + unit files; see docs/sources-contract.md),
 and writes site/data/citations.json keyed `pNNN:x`. Prints a coverage report: references
 parsed and unparsed (the unparsed identifications listed, deduplicated, so the grammar can
 be extended) and status counts. --report-only prints the report without writing.
+--absent CORPUS (repeatable) treats that corpus as not fetched, e.g. while a fetcher is
+still writing it.
 
 Status: `passage` (unit file present and the passage found in it), `unit` (unit file
 present, passage not found or not cited), `work` (the corpus is identified but not
-fetched, or the unit is not in it; also commentaries, whose own text is not stored), `none`
-(unidentified, cross-references, unparsed). Classical work ids come from
+fetched, or the unit is not in it; also commentaries, whose own text is not stored), `scan`
+(a work classical-works.json lists as scan-only: scan_url is its scan), `none`
+(unidentified, cross-references, unparsed).
+
+Scheme adapters (see classical_candidates, code_candidates): the Notes cite in the
+scholarship's conventions, the corpora store their edition's passage_scheme. A ref is tried
+in several readings (Pliny/Josephus/Cicero "§ 53" or chapter.section -> book.section;
+"7.53 in the modern numbering"; Stephanus and Bekker pages; "(ch. 18)" or "(19.1–7)" in a
+parenthesis for lives; book-level refs refined by a dotted locus in the parenthesis;
+Verrines actio.book units; label chapters where the Notes name the labels' division; the
+Code concordance forwards, as given, and backwards) and the first that lands on a passage
+wins; a chapter number is never taken for a section id. Ids are also matched ignoring dots,
+spaces, 'e'/'ext' and 'pr'/'0' (fuzzy_id); the Vulgate book map in vulgate/corpus.json
+resolves book names; OCR'd canon-law corpora match a misnumbered chapter by position. Classical work ids come from
 site/data/sources/classical-works.json when present; otherwise from the alias table
 below, otherwise an author-title slug (lower case, hyphens).
 
@@ -20,7 +34,9 @@ Each object carries the contract fields (ref, corpus, unit, passage, passage_end
 external_url, scan_url) plus `kind` (law, bible, classical, commentary, crossref, backref,
 unidentified, unparsed) and, where relevant, `cf` (the translators wrote cf.),
 `commentator` and `on` (the text a commentary is on, located like any reference),
-`cts_urn`, `coras_numbering` (Code number before the concordance). Translators' remarks
+`cts_urn`, `coras_numbering` (Code number before the concordance), `adapter` (which scheme
+adapter produced the reading), `source_gap` (why the corpus has no passage: empty_at_source,
+greek_not_online, no_chapters from corpus.json, or not_found from classical-works.json). Translators' remarks
 that follow a ';' ("fragment not identified") are not references and are dropped.
 Run build_sources_index.py first so index.json matches the corpora on disk.
 """
@@ -295,9 +311,10 @@ LEGAL_WORD = re.compile(r"\b(?:Digest|Code|Decretals|Decretum|Institutes|Novels?
 class Ctx:
     """What exists on disk: corpora, unit files, passages (loaded lazily)."""
 
-    def __init__(self, sources_dir):
+    def __init__(self, sources_dir, absent=()):
         self.dir = pathlib.Path(sources_dir)
         self.corpora = {}
+        self.absent = set(absent)   # corpora to treat as not fetched (e.g. one being written)
         if self.dir.exists():
             for cj in self.dir.glob("*/corpus.json"):
                 try:
@@ -305,6 +322,8 @@ class Ctx:
                 except (OSError, json.JSONDecodeError):
                     continue
                 cid = e.get("id", cj.parent.name) if isinstance(e, dict) else cj.parent.name
+                if cid in self.absent or cj.parent.name in self.absent:
+                    continue
                 self.corpora[cid] = {"entry": e, "dir": cj.parent}
         self._units, self._passages = {}, {}
         self.concordance = {}
@@ -315,6 +334,12 @@ class Ctx:
             except json.JSONDecodeError:
                 pass
         self.classical = load_classical(self.dir / "classical-works.json")
+        try:
+            raw = json.loads((self.dir / "classical-works.json").read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            raw = []
+        self.classical_raw = [w for w in (raw if isinstance(raw, list) else raw.get("works", []) if isinstance(raw, dict) else [])
+                              if isinstance(w, dict)]
 
     def units(self, corpus):
         if corpus not in self._units:
@@ -333,15 +358,27 @@ class Ctx:
         return self._units[corpus]
 
     def passages(self, path):
+        return self._load(path)[:2]
+
+    def labels(self, path):
+        """{passage id: label} of a unit file."""
+        return self._load(path)[2]
+
+    def _load(self, path):
         if path not in self._passages:
             try:
                 data = json.loads(path.read_text(encoding="utf-8"))
-                ids = [p["id"] for p in data.get("passages", []) if "id" in p]
-                unit = data.get("unit", path.stem)
+                ps = [p for p in data.get("passages", []) if "id" in p]
+                ids, unit = [p["id"] for p in ps], data.get("unit", path.stem)
+                labels = {p["id"]: p.get("label") or "" for p in ps}
             except (OSError, json.JSONDecodeError, AttributeError):
-                ids, unit = [], path.stem
-            self._passages[path] = (unit, ids)
+                ids, unit, labels = [], path.stem, {}
+            self._passages[path] = (unit, ids, labels)
         return self._passages[path]
+
+    def entry(self, corpus):
+        c = self.corpora.get(corpus)
+        return c["entry"] if c and isinstance(c["entry"], dict) else {}
 
 
 def load_classical(path):
@@ -562,8 +599,8 @@ def parse_legal(seg):
 def parse_sext_regula(seg):
     m = re.search(r"(?:Liber Sextus|\bVI\b|Sext)\b.*?De regulis iuris.*?\b(?:reg\.|regula)\s*(\d+)", seg, re.S)
     if m:
-        n = m.group(1)
-        return [make("law", "sext", "5.12", f"5.12.{n}", None, f"VI 5.12.{n}")]
+        n = m.group(1)      # VI 5.13 De regulis iuris (5.12 is De verborum significatione)
+        return [make("law", "sext", "5.13", f"5.13.{n}", None, f"VI 5.13.{n}")]
     return []
 
 
@@ -606,7 +643,7 @@ LOC_PATTERNS = [
     (re.compile(r"pref(?:ace|\.)\s*(\d+|[IVX]+)\s*,?\s*§§?\s*(\d+)(?:\s*" + DASH + r"\s*(\d+))?", re.I), "pref"),
     (re.compile(r"book\s+(\d+|[IVXLC]+),?\s*(?:chapters?|c\.|ch\.)\s*(\d+)(?:\s*(?:" + DASH + r"|and)\s*(\d+))?", re.I), "bc"),
     (re.compile(r"book\s+(\d+|[IVXLC]+),?\s*lines?\s*(\d+)(?:\s*" + DASH + r"\s*(\d+))?", re.I), "bc"),
-    (re.compile(r"^\s*,?\s*((?:\d+|[IVXLC]+)(?:\.(?:\d+|ext|pr))+)(?:\s*" + DASH + r"\s*((?:\d+|[IVXLC]+)(?:\.\d+)*))?(?![\w])"), "dotted"),
+    (re.compile(r"^\s*,?\s*((?:\d+|[IVXLC]+)(?:\.(?:\d+e?|ext|pr))+)(?:\s*" + DASH + r"\s*((?:\d+|[IVXLC]+)(?:\.\d+)*))?(?![\w])"), "dotted"),
     (re.compile(r"^\s*,?\s*(\d+|[IVXLC]+)(?:\s*\((\d+)\))?(?![\w.:])"), "single"),
     (re.compile(r"book\s+(\d+|[IVXLC]+)\b", re.I), "book"),
     (re.compile(r"\b(?:lines?|vv?\.)\s*(\d+)(?:\s*" + DASH + r"\s*(\d+))?", re.I), "line"),
@@ -739,7 +776,7 @@ def parse_classical(seg, ctx):
         corpus, part = pw
         label = f"{author}, {title}" + (f" {passage}" if passage else "") + (f"–{end}" if end else "")
         return make("classical", corpus, part, f"{part}.{passage}" if passage else None,
-                    f"{part}.{end}" if end else None, label)
+                    f"{part}.{end}" if end else None, label, _rest=rest, _lkind=lkind)
     wid, urn = classical_work(ctx, author, title)
     label = f"{author + ', ' if author else ''}{title}" + (f" {passage}" if passage else "") + (f"–{end}" if end else "")
     if lkind == "line":      # a line or chapter of an undivided work: unit decided at locate time
@@ -751,6 +788,7 @@ def parse_classical(seg, ctx):
     if urn:
         r["cts_urn"] = urn + (f":{passage}" + (f"-{end}" if end else "") if passage else "")
         r["_urn"] = urn
+    r["_rest"], r["_lkind"] = rest, lkind    # the locus text, for the scheme adapters
     return r
 
 
@@ -903,7 +941,12 @@ def parse_identification(ident, ctx=None):
     refs = []
     for part in split_top(ident, (";",)):
         for piece in split_and(part):
-            refs += parse_segment(piece, ctx)
+            got = parse_segment(piece, ctx)
+            nlaw = sum(1 for r in got if r["kind"] == "law")
+            for r in got:
+                if r["kind"] == "law":
+                    r["_seg"], r["_nseg"] = piece, nlaw   # for the position adapter
+            refs += got
     return refs
 
 
@@ -995,6 +1038,15 @@ def locate(ref, ctx):
     units = ctx.units(c)
     unit = ref.get("unit")
     path = units.get(norm(unit)) if unit else None
+    if path is None and c == "vulgate" and unit:
+        vu = vulgate_unit(ctx, unit)            # the corpus's own book map
+        if vu:
+            path = units.get(norm(vu))
+            if path is None:
+                path = split_unit(ctx, c, vu, ref.get("passage") or
+                                  (f"{unit} {ref['chapter']}:1" if ref.get("chapter") else None))
+    if path is None and ref["kind"] == "classical" and "all" in (ctx.entry(c).get("split_units") or {}):
+        path = split_unit(ctx, c, "all", ref.get("passage") or unit)   # one work split in parts
     if path is None and len(units) == 1 and ref["kind"] == "classical":
         path = next(iter(units.values()))  # a work stored as one file
         if unit and not ref.get("passage") and ref.get("unit") == unit and "." not in unit:
@@ -1023,6 +1075,10 @@ def locate(ref, ctx):
         return ref
     if norm(pas) not in nids and pas.endswith(".pr") and norm(pas[:-3]) in nids:
         pas = ref["passage"] = pas[:-3]
+    if norm(pas) not in nids:                   # same id written another way (9.15e.1, 1.2.0)
+        pas = ref["passage"] = fuzzy_id(pas, ids) or pas
+        if ref.get("passage_end") and norm(ref["passage_end"]) not in nids:
+            ref["passage_end"] = fuzzy_id(ref["passage_end"], ids) or ref["passage_end"]
     # cited more finely than the edition divides: fall back to the enclosing passage
     parts = pas.split(".")
     floor = len(str(book).split(".")) + 1 if book and norm(pas).startswith(norm(book) + ".") else 1
@@ -1081,22 +1137,378 @@ def split_unit(ctx, corpus, unit, passage):
 
 OUT_FIELDS = ["ref", "corpus", "unit", "passage", "passage_end", "status", "external_url", "scan_url"]
 
+# --------------------------------------------------------------------------- scheme adapters
+#
+# The Notes cite passages in the conventions of the printed scholarship (book.chapter,
+# chapter.section, Stephanus and Bekker pages, "§§ 53–54", "(ch. 18)" in a parenthesis);
+# the corpora store them in their edition's scheme (corpus.json passage_scheme). The
+# adapters below turn one parsed ref into ordered candidate readings; finalize() keeps the
+# first that resolves to a passage in the unit file, else the fallback reading. The corpus
+# files are never changed.
+
+# Corpora whose "book.section" ids are sections or pages, not chapters, so a chapter in the
+# Notes is not a passage id there (Aristotle's Ethics and Metaphysics, whose Perseus
+# "sections" are the chapters, are not in this set).
+SECTION_IDS_PREFIXES = ("cicero-", "josephus-", "plato-", "pliny-", "diogenes-", "appian-", "aristotle-politics")
+# Corpora where the Notes' bare book.N (VII.10) means book.chapter.
+CHAPTER_CITED = {"pliny-naturalis-historia", "aristotle-politics"}
+# Unit-file labels that name the chapter: "Plin. NH 7.56 (chapter 12)", "Arist. Pol. 7.1335a (section 16)".
+LABEL_CHAPTER = re.compile(r"\((?:chapter|section)\s+(\w+)\)\s*$")
+# When a corpus's label chapters follow a division other than the one the Notes use by
+# default, the Notes must name it before the labels are used: Pliny's labels carry the old
+# (Hardouin/Loeb) chapters, while the translators' bare VII.10 is the modern chapter.
+LABEL_DIVISION = {"pliny-naturalis-historia": re.compile(r"\bold(?:er)?\s+(?:chapter\s+)?division", re.I)}
+NOT_LOCATED = re.compile(r"not (?:been )?(?:located|found)", re.I)
+RN = r"(?:\d+|[IVXLC]+)"
+
+
+def passage_scheme(ctx, corpus):
+    return str(ctx.entry(corpus).get("passage_scheme") or "")
+
+
+def section_ids(corpus, sch):
+    return sch.startswith(("book.section", "section", "book.bekker")) and (
+        "label" in sch or corpus.startswith(SECTION_IDS_PREFIXES))
+
+
+def _alt(ref, tag, **fields):
+    r = dict(ref, _adapter=tag)
+    r.update(fields)
+    return r
+
+
+def _span(pre, a, b):
+    """(pre+a, pre+b or None)."""
+    return f"{pre}{a}", (f"{pre}{b}" if b else None)
+
+
+def classical_candidates(ref, ctx):
+    """Candidate readings of a classical ref in its corpus's scheme; returns (candidates,
+    fallback). The fallback is the parse itself, except where the parse is a chapter number
+    in a corpus whose ids are sections (Pliny VII.10 is not section 7.10): then the
+    unit-level reading, so a coincidental id is never claimed."""
+    c, rest = ref["corpus"], ref.get("_rest") or ""
+    sch = passage_scheme(ctx, c)
+    book, pas, lkind = ref.get("unit"), ref.get("passage"), ref.get("_lkind")
+    lost = bool(NOT_LOCATED.search(rest))
+    out, fallback = [], ref
+    if sch.startswith("part."):                                   # Plutarch, Suetonius, HA
+        if not pas and book and not lost:
+            m = re.search(r"(?<![\w.])(\d+)\.(\d+)(?:\s*" + DASH + r"\s*(\d+))?(?![\d.])", rest)
+            if m:
+                a, b = _span(f"{book}.{m.group(1)}.", m.group(2), m.group(3))
+                out.append(_alt(ref, "part-chapter-section", passage=a, passage_end=b))
+            m = re.search(r"\b(?:ch\.|chapters?|c\.)\s*(\d+)(?:\s*" + DASH + r"\s*(\d+))?", rest)
+            if m:
+                a, b = _span(f"{book}.", m.group(1), m.group(2))
+                out.append(_alt(ref, "part-chapter", passage=a, passage_end=b))
+        return out, fallback
+    if sch.startswith("actio.book"):                              # Verrines II.4 § 39 -> unit 2.4, 2.4.39
+        if pas and re.fullmatch(r"\d+\.\d+", pas) and not lost:
+            m = re.search(r"§§?\s*(\d+)(?:\s*" + DASH + r"\s*(\d+))?", rest)
+            if m:
+                a, b = _span(f"{pas}.", m.group(1), m.group(2))
+                out.append(_alt(ref, "actio-book-section", unit=pas, passage=a, passage_end=b))
+            fallback = _alt(ref, "actio-book", unit=pas, passage=None, passage_end=None)
+        return out, fallback
+    divided = sch.startswith("book.")
+    secs = section_ids(c, sch)
+
+    def P(n):
+        return f"{book}.{n}" if divided and book else str(n)
+
+    if secs and not lost:
+        m = re.search(r"§§?\s*(\d+)(?:\s*" + DASH + r"\s*(\d+))?", rest)
+        if m and (book or not divided):
+            out.append(_alt(ref, "section-sign", passage=P(m.group(1)),
+                            passage_end=P(m.group(2)) if m.group(2) else None))
+        m = re.search(r"(" + RN + r")\.(\d+)(?:\s*" + DASH + r"\s*(\d+))?\s+in the modern", rest)
+        if m and num(m.group(1)):
+            b = num(m.group(1))
+            a, e = _span(f"{b}.", m.group(2), m.group(3))
+            out.append(_alt(ref, "modern-numbering", unit=b, passage=a, passage_end=e))
+        m = re.search(r"(?<![\w.])" + RN + r"\.\d+(?:\s*" + DASH + r"\s*\d+)?,\s*(\d+)(?:\s*" + DASH + r"\s*(\d+))?(?![\d.])", rest)
+        if m and divided and book:                                # De oratore II.86–88, 351–360
+            out.append(_alt(ref, "chapter-then-section", passage=P(m.group(1)),
+                            passage_end=P(m.group(2)) if m.group(2) else None))
+        if pas and divided and re.fullmatch(r"\d+\.\d+\.\d+", pas):  # Tusc. I.24.59 -> 1.59
+            e = ref.get("passage_end")
+            out.append(_alt(ref, "chapter-section", passage=f"{book}.{pas.split('.')[2]}",
+                            passage_end=f"{book}.{e.split('.')[-1]}" if e else None))
+        # Stephanus / Bekker pages: Republic 460e -> 5.460, Politics 1335a -> 7.1335a, Phaedo 61c -> 61
+        m = re.search(r"(?<![\w.])(\d{2,4})([a-e])(?:\d+)?(?:\s*" + DASH + r"\s*(\d{2,4})[a-e]?)?(?![\w])", rest)
+        if m:
+            for n, tag in ((m.group(1) + m.group(2), "bekker-page"), (m.group(1), "stephanus-page")):
+                out.append(_alt(ref, tag, passage=P(n), passage_end=P(m.group(3)) if m.group(3) and tag == "stephanus-page" else None))
+    chapter_cited = secs and pas and divided and re.fullmatch(r"\d+\.\d+", pas) and (
+        lkind == "bc" or (c in CHAPTER_CITED and lkind in ("dotted", "single")))
+    if (not pas or chapter_cited) and book and not lost:
+        # a refinement in the parenthesis: "book 1, letter 1 (Ad Q. fratrem 1.1.37)",
+        # "book V (V.3, 1131a)", "book 17, chapter 12 (17.324–338)"
+        for m in re.finditer(r"(?<![\w.])(" + RN + r")\.(\d+)(?:\.(\d+))?(?:\s*" + DASH + r"\s*(\d+))?(?![\d.])", rest):
+            if num(m.group(1)) != str(book).split(".")[0]:
+                continue
+            if secs and m.group(3):          # chapter.section where the ids are sections: 7.53.180 -> 7.180
+                a, end = f"{book}.{m.group(3)}", (f"{book}.{m.group(4)}" if m.group(4) else None)
+            elif secs and c in CHAPTER_CITED:
+                continue                     # a bare 7.53 there is a chapter again
+            elif m.group(3):
+                a = f"{book}.{m.group(2)}.{m.group(3)}"
+                end = f"{book}.{m.group(2)}.{m.group(4)}" if m.group(4) else None
+            else:
+                a, end = f"{book}.{m.group(2)}", (f"{book}.{m.group(4)}" if m.group(4) else None)
+            if chapter_cited and a == pas:
+                continue
+            out.append(_alt(ref, "parenthesis-dotted", passage=a, passage_end=end))
+            break
+    if not pas and not book and divided and not lost:
+        # no locus after the title, only in the parenthesis: "Odyssey (II.93–110; ...)", "Variae (I.45, ...)"
+        m = re.search(r"(?<![\w.])(" + RN + r")\.(\d+)(?:\.(\d+))?(?:\s*" + DASH + r"\s*(\d+))?(?![\d.])", rest)
+        if m and num(m.group(1)):
+            b = num(m.group(1))
+            a = f"{b}.{m.group(2)}" + (f".{m.group(3)}" if m.group(3) else "")
+            e = (a.rsplit(".", 1)[0] + "." + m.group(4)) if m.group(4) else None
+            if secs and m.group(3):
+                a, e = f"{b}.{m.group(3)}", (f"{b}.{m.group(4)}" if m.group(4) else None)
+            out.append(_alt(ref, "parenthesis-only", unit=b, passage=a, passage_end=e))
+    if not pas and not lost and not (secs and divided) and (bool(book) == divided):
+        m = re.search(r"\b(?:ch\.|chapters?|c\.)\s*(\d+)(?:\s*" + DASH + r"\s*(\d+))?", rest)
+        if m:                                       # Herodotus book 3, chapters 61–79; Tertullian (ch. 13)
+            out.append(_alt(ref, "chapter", passage=P(m.group(1)),
+                            passage_end=P(m.group(2)) if m.group(2) else None))
+    if chapter_cited:
+        fallback = dict(ref, passage=None, passage_end=None)
+        div = LABEL_DIVISION.get(c)
+        if not lost and (div is None or div.search(rest)):
+            out.append(_alt(ref, "label-chapter", passage=None, passage_end=None,
+                            _label_chapter=pas.split(".")[1]))
+    else:
+        out.append(ref)
+    return out, fallback
+
+
+def resolve_label_chapter(ref, ctx):
+    """Fill passage/passage_end with the first and last passage whose label names the chapter."""
+    units = ctx.units(ref["corpus"])
+    path = units.get(norm(ref.get("unit") or ""))
+    if path is None:
+        return ref
+    labels = ctx.labels(path)
+    want = ref["_label_chapter"]
+    hit = [i for i, lab in labels.items() if (m := LABEL_CHAPTER.search(lab)) and num(m.group(1)) == want]
+    if hit:
+        ref["passage"], ref["passage_end"] = hit[0], (hit[-1] if len(hit) > 1 else None)
+    return ref
+
+
+def vulgate_unit(ctx, name):
+    """Unit slug for a book name from vulgate/corpus.json `books` (keys, Latin names,
+    abbreviations), e.g. 'Gen.' -> 'genesis', 'Paralipomenon I' -> '1-chronicles'."""
+    books = ctx.entry("vulgate").get("books") or {}
+    k = norm(name)
+    for key, b in books.items():
+        if not isinstance(b, dict):
+            continue
+        names = [key, b.get("latin") or ""] + list(b.get("abbreviations") or [])
+        if any(norm(x) == k for x in names if x):
+            return b.get("unit")
+    return None
+
+
+def fuzzy_key(x):
+    """Id tokens ignoring dots, spaces and colons; 'pr'/'0' principium and Perseus 'e'
+    (external examples: 9.15e.1) normalised."""
+    toks = [t for t in re.split(r"[^a-z0-9]+", norm(x)) if t]
+    out = []
+    for i, t in enumerate(toks):
+        if t in ("e", "ext", "externa") and out and out[-1].isdigit():
+            t = "ext"
+        elif t in ("pr", "praef", "princ") or (t == "0" and i == len(toks) - 1 and i > 0):
+            t = "pr"
+        elif t.isdigit():
+            t = str(int(t))
+        elif i == 0 and roman_to_int(t.upper()):
+            t = str(roman_to_int(t.upper()))
+        out.append(t)
+    return tuple(out)
+
+
+def fuzzy_id(x, ids):
+    k = fuzzy_key(x)
+    hits = [i for i in ids if fuzzy_key(i) == k]
+    return hits[0] if len(hits) == 1 else None
+
+
+def code_candidates(ref, ctx):
+    """Code numbering: the concordance (Coras's vulgate numbering -> Krüger) first, then the
+    number as given, then the concordance backwards (the Notes already gave a Krüger number
+    that the edition stores under the vulgate one)."""
+    orig = dict(ref)
+    fwd = apply_concordance(dict(ref), ctx.concordance)
+    out = [fwd]
+    if fwd.get("passage") != orig.get("passage"):
+        out.append(orig)
+    inv = {v: k for k, v in (ctx.concordance or {}).items()}
+    back = apply_concordance(dict(orig), inv)
+    if back.get("passage") != orig.get("passage"):
+        back.pop("coras_numbering", None)
+        back["ref"] = orig.get("ref")
+        back["_adapter"] = "concordance-inverse"
+        out.append(back)
+    return out, fwd
+
+
+POS_EXPLICIT = re.compile(r"\b(?:last|first|penultimate)\s+(?:chapter|law|constitution|fragment)\s*\(\s*(?:c\.|chapter|l\.|law)\s*(\d+)", re.I)
+POS_UNICUS = re.compile(r"\bc\.\s*un\.|\bsingle chapter\b|\bsole (?:law|chapter)\b|\bonly chapter\b", re.I)
+POS_WORD = re.compile(r"\b(last|first|penultimate)\s+(?:chapter|law|constitution|fragment)\b|\b[lc]\.\s*\*?(fin)\.", re.I)
+POS_UNSURE = re.compile(r"not (?:been )?(?:identified|verified|located)|unverified|as printed|perhaps|\bor\b", re.I)
+OTHER_INCIPIT = re.compile(r"\b(?:l|ll|c|cc)\.\s*\*(?!fin\b)")
+
+
+def position_candidates(ref, ctx):
+    """A law named by its place in the title: 'the last chapter', 'l. fin.', 'the first law',
+    'c. un.' (its single chapter), or 'last chapter (c. 7)'. Only for a title-level ref that
+    is the only law its segment names, with no other incipit and no doubt expressed."""
+    seg = ref.get("_seg") or ""
+    unit = ref.get("unit")
+    if ref.get("passage") or not unit or ref.get("_nseg", 1) != 1 or ref.get("corpus") not in ctx.corpora:
+        return []
+    m = POS_EXPLICIT.search(seg)
+    if m:
+        return [_alt(ref, "position-explicit", passage=f"{unit}.{m.group(1)}")]
+    if POS_UNSURE.search(seg) or OTHER_INCIPIT.search(seg):
+        return []
+    path = ctx.units(ref["corpus"]).get(norm(unit))
+    if path is None:
+        return []
+    depth = len(str(unit).split(".")) + 1
+    frags = []
+    for i in ctx.passages(path)[1]:
+        f = ".".join(i.split(".")[:depth])
+        if f.split(".")[-1].isdigit() and f not in frags:
+            frags.append(f)
+    if not frags:
+        return []
+    if POS_UNICUS.search(seg):
+        return [_alt(ref, "position-unicus", passage=frags[0])] if len(frags) == 1 else []
+    m = POS_WORD.search(seg)
+    if not m or re.match(r"\s*\*\w", seg[m.end():]):
+        return []                       # "the first chapter *Veniens*": the incipit decides, not the place
+    word = (m.group(1) or m.group(2)).lower()
+    pick = {"first": 0, "last": -1, "fin": -1, "penultimate": -2}[word]
+    if len(frags) < abs(pick) + (1 if pick >= 0 else 0):
+        return []
+    return [_alt(ref, f"position-{'last' if word == 'fin' else word}", passage=frags[pick])]
+
+
+def candidates(ref, ctx):
+    c = ref.get("corpus")
+    if ref.get("kind") == "classical" and c in ctx.corpora:
+        return classical_candidates(ref, ctx)
+    pos = position_candidates(ref, ctx) if ref.get("kind") == "law" else []
+    if c == "code":
+        cands, fb = code_candidates(ref, ctx)
+        return pos + cands, fb
+    return pos + [ref], ref
+
+
+def ocr_position(ref, ctx):
+    """OCR'd canon-law corpora (corpus.json quality 'ocr'): chapter N absent but the N-th
+    passage carries a misread number between N-1 and N+1 (Clem. 5.3: '5.3.50', '5.3.2')."""
+    if ref.get("status") != "unit" or ctx.entry(ref["corpus"]).get("quality") != "ocr":
+        return ref
+    m = re.fullmatch(r"(\d+\.\d+)\.(\d+)", ref.get("passage") or "")
+    path = ctx.units(ref["corpus"]).get(norm(ref.get("unit") or ""))
+    if not m or path is None:
+        return ref
+    pre, n = m.group(1), int(m.group(2))
+    _, ids = ctx.passages(path)
+    if not (1 <= n <= len(ids)):
+        return ref
+    ok_prev = n == 1 or ids[n - 2] == f"{pre}.{n - 1}"
+    ok_next = n == len(ids) or ids[n] == f"{pre}.{n + 1}"
+    if ok_prev and ok_next and f"{pre}.{n}" not in ids and ids[n - 1].startswith(pre + "."):
+        ref["passage"], ref["status"], ref["_adapter"] = ids[n - 1], "passage", "ocr-position"
+    return ref
+
+
+def source_gap(ref, ctx):
+    """Why a unit-level hit has no passage, when the corpus says so (corpus.json
+    empty_at_source; passages flagged greek_not_online; units flagged no_chapters)."""
+    e = ctx.entry(ref["corpus"])
+    pas = ref.get("passage")
+    if pas:
+        parts = pas.split(".")
+        for n in range(len(parts), 2, -1):
+            if ".".join(parts[:n]) in (e.get("empty_at_source") or []):
+                return "empty_at_source"
+    path = ctx.units(ref["corpus"]).get(norm(ref.get("unit") or ""))
+    if path is not None:
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            data = {}
+        if data.get("no_chapters"):
+            return "no_chapters"
+        if pas and any(p.get("greek_not_online") and str(p.get("id", "")).startswith(pas) for p in data.get("passages", [])):
+            return "greek_not_online"
+    return None
+
+
+def classical_entry(ctx, corpus):
+    for w in getattr(ctx, "classical_raw", []):
+        if w.get("work_id") == corpus or w.get("id") == corpus:
+            return w
+    return None
+
 
 def finalize(ref, ctx):
-    ref = apply_concordance(ref, ctx.concordance)
     if ref.get("kind") == "commentary" and ref.get("on"):
         on = finalize(dict(ref["on"]), ctx)
         ref["on"] = on
         ref["corpus"], ref["unit"] = on.get("corpus"), on.get("unit")
         ref["passage"], ref["passage_end"] = on.get("passage"), on.get("passage_end")
-    locate(ref, ctx)
+        locate(ref, ctx)
+    else:
+        cands, fallback = candidates(ref, ctx)
+        hit = None
+        for cand in cands:
+            cand = dict(cand)
+            if cand.get("_label_chapter"):
+                cand = resolve_label_chapter(cand, ctx)
+                if not cand.get("passage"):
+                    continue
+            r = locate(cand, ctx)
+            if r["status"] == "passage":
+                hit = r
+                break
+        ref = hit or locate(dict(fallback), ctx)
+    if ref.get("status") == "unit" and ref.get("corpus") in ctx.corpora:
+        ref = ocr_position(ref, ctx)
+        if ref["status"] == "unit":
+            gap = source_gap(ref, ctx)
+            if gap:
+                ref["source_gap"] = gap
+    if ref.get("status") == "work" and ref.get("kind") in ("classical", "law"):
+        w = classical_entry(ctx, ref.get("corpus"))
+        if w and w.get("status") == "scan-only" and w.get("source"):
+            ref["status"], ref["scan_url"] = "scan", w["source"]
+        elif w and w.get("status") == "not-found":
+            ref["source_gap"] = "not_found"
+        elif ref.get("corpus") in ctx.corpora and ctx.entry(ref["corpus"]).get("scan_url_template"):
+            ref["scan_url"] = ctx.entry(ref["corpus"])["scan_url_template"]   # whole-volume scan
+    if ref.get("_urn"):
+        p = ref.get("passage")
+        ref["cts_urn"] = ref["_urn"] + (f":{p}" + (f"-{ref['passage_end']}" if ref.get("passage_end") else "") if p else "")
     ref["external_url"] = external_url(ref)
     ref.setdefault("scan_url", None)
     out = {k: ref.get(k) for k in OUT_FIELDS}
     out["kind"] = ref["kind"]
-    for k in ("cf", "commentator", "cts_urn", "coras_numbering"):
+    for k in ("cf", "commentator", "cts_urn", "coras_numbering", "source_gap"):
         if ref.get(k):
             out[k] = ref[k]
+    if ref.get("_adapter"):
+        out["adapter"] = ref["_adapter"]
     if ref.get("on"):
         out["on"] = {k: v for k, v in ref["on"].items() if k in OUT_FIELDS + ["kind"]}
     return out
@@ -1120,8 +1532,8 @@ def read_notes(sections_dir):
             yield f"{page}:{marker}", (b.group(1) if b else None), f.stem
 
 
-def build(root=ROOT):
-    ctx = Ctx(root / "site/data/sources")
+def build(root=ROOT, absent=()):
+    ctx = Ctx(root / "site/data/sources", absent)
     cites, unparsed, remarks, nobold = {}, Counter(), Counter(), 0
     for key, ident, _sec in read_notes(root / "translation/sections"):
         if ident is None:
@@ -1158,7 +1570,8 @@ def report(cites, unparsed, remarks, nobold, ctx, out=sys.stdout):
 
 
 def main(argv):
-    cites, unparsed, remarks, nobold, ctx = build()
+    absent = [argv[i + 1] for i, a in enumerate(argv) if a == "--absent" and i + 1 < len(argv)]
+    cites, unparsed, remarks, nobold, ctx = build(absent=absent)
     if "--report-only" not in argv:
         out = ROOT / "site/data/citations.json"
         out.write_text(json.dumps(cites, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

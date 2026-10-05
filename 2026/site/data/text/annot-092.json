@@ -1,0 +1,31 @@
+{
+ "id": "annot-092",
+ "order": 187,
+ "heading": "ANNOTATION XCII",
+ "kind": "annotation",
+ "pages": [
+  "p129"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p129\"></span>It was also fitting that this abominable and prodigious impostor, the infamous minister of the ruin of the house of the said Martin, should be executed before that house where he had committed, and so long continued, his treachery <sup class=\"mk\" data-key=\"a2\" data-page=\"p129\">a2</sup>. Whereupon the words of Callistratus the Jurisconsult are worthy to be transcribed here. BRIGANDS and notorious thieves, says he, ought to be hanged in the place where they have practised their brigandage, so that the others, seeing them, may be turned away from like evil deeds, and the kinsfolk of the murdered and the injured may receive some relief and consolation, seeing justice justly rendered, and the penalty executed, in the place of the evil deed <sup class=\"mk\" data-key=\"b\" data-page=\"p129\">b</sup>.",
+   "notes": [
+    {
+     "key": "a2",
+     "page": "p129",
+     "citation": "Digest 48.19.28 (<i>De poenis</i>, l. <i>Capitalium</i>, Callistratus), § <i>Famosos</i> (D. 48.19.28.15); and the Authentica <i>Qua in provincia</i> inserted in Code 3.15 (<i>Ubi de criminibus agi oportet</i>), drawn from Novel 69",
+     "original": "l. capitaliũ. P. famoſos. D. de pœn. Aut. qua in prouin cia. C. vbi de crim. ag. op.",
+     "gloss": "The <i>Authentica</i>: in whatever province a man offends, there let him be punished — the rule that the penalty is executed where the crime was committed."
+    },
+    {
+     "key": "b",
+     "page": "p129",
+     "citation": "The same § <i>Famosos</i> (D. 48.19.28.15), cited above",
+     "original": "P. famoſos. allegué.",
+     "gloss": "<i>Famosos latrones in his locis, ubi grassati sunt, furca figendos compluribus placuit, ut et conspectu deterreantur alii ab isdem facinoribus et solacio sit cognatis et adfinibus interemptorum eodem loco poena reddita, in quo latrones homicidia fecissent</i> — the passage Coras transcribes."
+    }
+   ]
+  }
+ ]
+}

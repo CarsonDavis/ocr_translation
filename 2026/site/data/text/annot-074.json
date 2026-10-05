@@ -1,0 +1,46 @@
+{
+ "id": "annot-074",
+ "order": 150,
+ "heading": "ANNOTATION LXXIIII",
+ "kind": "annotation",
+ "pages": [
+  "p099",
+  "p100"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p099\"></span>Let the judges here take heed how dangerous it is, and full of peril, singularly in criminal matters, where the honour and the life of a man are treated of, to found a judgment upon the deposition of witnesses: who oftentimes pertinaciously assure false things to be true <sup class=\"mk\" data-key=\"a\" data-page=\"p099\">a</sup>, from which afterwards they are constrained to depart. Let the judges see also how much surer it is, even for a sovereign judgment, not to rest simply upon the saying of the witnesses, nor upon their deposition as it is found written, but to make them come in person, to hear them, to see and contemplate their gestures and countenances, to interrogate them, to make them render a reason for the whole exactly: for I believe that, in so doing, the way would be cut off to many malignities, calumnies and conspiracies of witnesses, who would not be so easy and prone to depose falsely, for the reverence, honour and majesty of a sovereign court before which they would have to answer. And this is what the Emperor Hadrian wrote to Junius Rufinus, proconsul of Macedonia: that he wished to believe witnesses, and not their testimony or depositions; for the faith and authority of witnesses who are present is other, and greater beyond comparison, than that of depositions which are only read and recited <sup class=\"mk\" data-key=\"b\" data-page=\"p099\">b</sup>, and most often written and dictated more at the appetite of some bad fellow of a commissioner, or of some scribbler of a clerk, than according to the intention and will of the witness. And Callistratus the Jurisconsult, pursuing Hadrian's argument on this matter, says that, upon the accusation which Alexander made against one called Aper of I know not what crimes, forasmuch as Alexander did not produce witnesses, but wished to use only their depositions, Hadrian answered that the testimonies had no place with him, and that he would give them no credit: \"for I wish myself,\" said he, \"to interrogate the witnesses\" <sup class=\"mk\" data-key=\"c\" data-page=\"p099\">c</sup>. And this is, in my opinion, what our Justinian has left written, <span class=\"pg\" data-page=\"p100\"></span>that in criminal matters, where the peril is greater (for it concerns the honour and the life of a man), the witnesses must be presented and offered personally to the judge <sup class=\"mk\" data-key=\"d\" data-page=\"p100\">d</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p099",
+     "citation": "Coras, Annotation XXVI (cross-reference; annot-026, on witnesses who depose on credit)",
+     "original": "Soit veuë l'annotation xxvj.",
+     "gloss": null
+    },
+    {
+     "key": "b",
+     "page": "p099",
+     "citation": "Digest 22.5.3 (<i>De testibus</i>, l. <i>Testium fides</i>, Callistratus), § <i>Idem divus</i> (D. 22.5.3.3–4 in the modern division)",
+     "original": "l. iij. P. idem diuus D. de teſtib.",
+     "gloss": "§ 3: <i>Idem divus Hadrianus Iunio Rufino proconsuli Macedoniae rescripsit testibus se, non testimoniis crediturum</i>; § 4, the rescript to Gabinius Maximus: <i>Alia est auctoritas praesentium testium, alia testimoniorum quae recitari solent</i> — \"the authority of witnesses who are present is one thing, that of testimonies which are usually read out another\", which Coras paraphrases. The <i>P.</i> is the print's sort for the paragraph sign §."
+    },
+    {
+     "key": "c",
+     "page": "p099",
+     "citation": "Digest 22.5.3.3, the same paragraph <i>Idem divus</i>, further on (<i>add.</i> = <i>adde</i>, \"add\", i.e. the continuation of the paragraph just cited)",
+     "original": "add. P. idem Diuus.",
+     "gloss": "Hadrian's letter: <i>Quod crimina obiecerit apud me Alexander Apro et quia non probabat nec testes producebat, sed testimoniis uti volebat, quibus apud me locus non est (nam ipsos interrogare soleo)…</i> — \"since he did not prove them nor produce witnesses, but wished to use testimonies, which have no place with me (for I am accustomed to question the witnesses themselves)\"."
+    },
+    {
+     "key": "d",
+     "page": "p100",
+     "citation": "Novels (the <i>Authenticum</i>), collation 7, the title <i>De testibus</i> (Nov. 90), at the paragraph <i>Haec omnia</i> (Nov. 90.5.1, <i>Haec omnia in pecuniariis quaestionibus intellegentes; in criminalibus enim … omnibus modis apud iudices praesentari testes</i>); and the Authentica <i>Apud eloquentissimum</i>, the Novel-derived note on the production of witnesses (cf. Nov. 90 c. 5: testimony taken <i>ab uno qui a nobis definitus fuerit eloquentissimorum iudicum</i> and sent to the court of the suit), which the print places in Code 4.21 (<i>De fide instrumentorum</i>); its place in the Code unverified",
+     "original": "P. hæc omnia. aux nou uelles de Inſt. Sous la vij. collatiõ, aut. apud eloquen tiſſimum. C. de fid. inſtr.",
+     "gloss": "<i>Aux nouuelles de Inſt.</i> = <i>in Novellis Iustiniani</i>; <i>aut.</i> = <i>Authentica</i>. The <i>authenticae</i> inside the Code are the short updating notes described in the case file §6.2."
+    }
+   ]
+  }
+ ]
+}

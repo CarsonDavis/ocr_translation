@@ -1,0 +1,59 @@
+{
+ "id": "annot-028",
+ "order": 58,
+ "heading": "ANNOTATION XXVIII",
+ "kind": "annotation",
+ "pages": [
+  "p050"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p050\"></span>A witness is not credible, nor worthy of faith, who does not render a reason for his saying, <sup class=\"mk\" data-key=\"a\" data-page=\"p050\">a</sup> of which the Judge or the commissioner ought to interrogate him <sup class=\"mk\" data-key=\"b\" data-page=\"p050\">b</sup>; otherwise, if the commissioner has been so gross as not to ask it, the witness is not bound to render it <sup class=\"mk\" data-key=\"c2\" data-page=\"p050\">c2</sup>, because he ought not to show himself eager [<i>affectionné</i>] to answer upon that on which he is not required or sought <sup class=\"mk\" data-key=\"d\" data-page=\"p050\">d</sup>. Nevertheless the witness also does no ill if he renders a reason voluntarily and of himself, without being interrogated upon it. Nay, in criminal matters (of which we treat here) the witness is bound to give a reason, even though he be not required to; otherwise his saying makes no faith <sup class=\"mk\" data-key=\"f\" data-page=\"p050\">f</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p050",
+     "citation": "Code 4.20.4 (<i>De testibus</i>, l. <i>Solam</i>; Carus, Carinus and Numerian: <i>Solam testationem prolatam nec aliis legitimis adminiculis causa approbatam…</i>, a single deposition unsupported by other lawful aids is of no moment)",
+     "original": "l. ſolam. C. de teſtib.",
+     "gloss": null
+    },
+    {
+     "key": "b",
+     "page": "p050",
+     "citation": "Decretals, X 2.20.37 (<i>De testibus et attestationibus</i>, c. <i>Cum causam</i>)",
+     "original": "c. cum cau ſam. de teſti.",
+     "gloss": null
+    },
+    {
+     "key": "c2",
+     "page": "p050",
+     "citation": "Decretals, X 2.27.16 (<i>De sententia et re iudicata</i>, c. <i>Sicut</i>); the said c. <i>Cum causam</i> (X 2.20.37, note <i>b</i>); Accursius (<i>Accur.</i>), the Gloss on the said l. <i>Solam</i> (C. 4.20.4)",
+     "original": "c. ſicut. de re iud. aud. c. cum cauſam. Accur. en lad. l ſolam.",
+     "gloss": "The print's <i>aud.</i> is read as <i>au d[it]</i>, \"at the said chapter\"; this is the second note lettered <i>c</i> on p050."
+    },
+    {
+     "key": "d",
+     "page": "p050",
+     "citation": "Code 1.19.8 (<i>De precibus imperatori offerendis</i>), the last law of the title (Theodosius and Valentinian, <i>Instrumentorum exempla non prosit precibus adiunxisse…</i>)",
+     "original": "l. final. C. de prec. imp. off.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "page": "p050",
+     "citation": "Salicetus (<i>Saliet</i>; Bartholomaeus de Saliceto, d. 1411) on Code 4.19.25 (<i>De probationibus</i>), the last law of the title (<i>Sciant cuncti accusatores…</i>); Alexander Tartagnus (<i>Alexandre</i>), <i>Consilia</i>, vol. 1, consilium 15 (number unverified)",
+     "original": "Saliet en la l. finale. C. de proba. Alexandre au conſeil xv. du i. volu.",
+     "gloss": null
+    },
+    {
+     "key": "e",
+     "page": "p050",
+     "citation": "Baldus (<i>Balde</i>) on Code 1.3.8 (<i>De episcopis et clericis</i>, l. <i>Presbyteri</i>; Gratian, Valentinian and Theodosius: <i>Presbyteri citra iniuriam quaestionis testimonium dicant…</i>), toward the end",
+     "original": "Balde en la l. præsbiteri. ſur la fin. C. de epiſ. &amp; cle.",
+     "gloss": "Placed beside \"without being interrogated upon it\"; it evidently supports the sentence that the witness does no ill in giving his reason unasked."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "id": "annot-002",
+ "order": 6,
+ "heading": "ANNOTATION II",
+ "kind": "annotation",
+ "pages": [
+  "p005",
+  "p006",
+  "p007"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p005\"></span>This long duration and lengthy absence of the husband made him, at first sight, greatly culpable, and almost beyond all excuse, as having given the occasion for the misfortune and disaster which has since followed from it: witness Saint Augustine, when he says, IF YOU abstain for long without the will of your wife, you give her licence to fornicate: and if she goes astray, her sin will be imputed to your abstinence <sup class=\"mk\" data-key=\"a\" data-page=\"p005\">a</sup>. Whence some have even dared to say that a Judge might justly absolve a wife accused by her husband of adultery, if she is not convicted of having squandered her honour and abandoned herself except after having been long forsaken by her husband <sup class=\"mk\" data-key=\"b\" data-page=\"p005\">b</sup>; inasmuch as the husband, who has furnished the occasions, and has thereby made himself guilty of the misdeed <sup class=\"mk\" data-key=\"c\" data-page=\"p005\">c</sup>, cannot upbraid her with it, nor object it against his wife <sup class=\"mk\" data-key=\"d\" data-page=\"p005\">d</sup>. As in a like case also, the husband, who by the old laws could repudiate his consort if without his leave she had slept outside the house <sup class=\"mk\" data-key=\"e\" data-page=\"p005\">e</sup>, nevertheless, if he himself had driven her out, and on that occasion she remained all night outside, cannot repudiate her, because (says Justinian) he himself is the author of this fault <sup class=\"mk\" data-key=\"f\" data-page=\"p005\">f</sup>. But if this opinion were true, women, licentious enough of themselves, might seize upon a great pretext to prostitute themselves with impunity, covering themselves with the cloak of the husband's absence: to which, so far from our being bound to lend a hand, on the contrary everyone ought to reject this opinion as impious, unworthy of a Christian, and so barbarous that even the Gentiles and Pagans did not think it good that a wife (whose husband had remained long absent) should remarry, until after having heard <span class=\"pg\" data-page=\"p006\"></span>certain news of the husband's death <sup class=\"mk\" data-key=\"g\" data-page=\"p006\">g</sup>. Of which the chaste Penelope once engraved a holy and eternally memorable example upon the tablets of posterity. For during the absence of Ulysses her spouse (which was, however, of twenty years), she could never be overcome by the continual entreaties of her kinsfolk, nor persuaded, by the urgent solicitations of countless young men (who sought to have her to wife), to remarry.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p005",
+     "citation": "Augustine, <i>De adulterinis coniugiis</i>; transcribed in the Decretum Gratiani as c. <i>Si tu abstines</i>, C. 28 q. 2 (as Coras cites it; locus not verified)",
+     "original": "S. Auguſt au liure De adulterinis cõiugiis, les paroles duquel ſont tranſcrites au c. ſi tu abſtines xxviij. q. ij.",
+     "gloss": "The words quoted in the text: a husband who abstains against his wife's will answers for her fornication."
+    },
+    {
+     "key": "b",
+     "page": "p005",
+     "citation": "Petrus Ravennas (<i>Pierre de Ravenne</i>, Pietro da Ravenna, c. 1448–1508), <i>Alphabetum aureum</i>",
+     "original": "Pierre de Rauenne en ſon Alphabet.",
+     "gloss": "The opinion that a long-deserted wife may be absolved of adultery."
+    },
+    {
+     "key": "c",
+     "page": "p005",
+     "citation": "Decretum Gratiani, c. <i>Si tu abstines</i>, C. 28 q. 2 again (the note is garbled in the print: <i>eſt tabuſtines xxvij. c. ij.</i>)",
+     "original": "eſt tabuſtines xxvij. c. ij.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "page": "p005",
+     "citation": "Novel 117 (<i>Ut liceat matri et aviae</i>, Authenticum coll. 8), c. 9, § <i>Si ergo contigerit</i>",
+     "original": "Paragra. Si ergo contigerit vt lic. ma. &amp; auiæ. aux nouuelles de Iuſtiniẽ, ſous la collation vſ.",
+     "gloss": "The grounds on which a husband may repudiate his wife; the paragraph number and Coras's collation numeral (\"vſ\", elsewhere \"vij\") are not verified; the standard division puts Nov. 117 in the eighth collatio."
+    },
+    {
+     "key": "e",
+     "page": "p005",
+     "citation": "Code 5.17.8 (<i>De repudiis</i>, l. <i>Consensu</i>) § <i>Vir quoque</i> (C. 5.17.8.2)",
+     "original": "L. Conſensu para. vir quoque. C. de rep",
+     "gloss": "Theodosius II and Valentinian III: a husband may repudiate a wife who, against his will, has passed the night outside his house."
+    },
+    {
+     "key": "f",
+     "page": "p005",
+     "citation": "Novel 117 c. 9, § <i>Si ergo</i> (the same paragraph as {d}), as an <i>authentica</i>",
+     "original": "Aud. Para ſi ergo.",
+     "gloss": "Justinian: the husband who has himself turned his wife out cannot repudiate her for staying out."
+    },
+    {
+     "key": "g",
+     "page": "p006",
+     "citation": "Digest 24.2.6 (<i>De divortiis et repudiis</i>, l. <i>Uxores</i>); Code 5.17.7 (<i>De repudiis</i>, l. <i>Uxor</i>) with the <i>authentica</i> <i>Hodie</i> (from Nov. 117 c. 11); Novel 22 (<i>De nuptiis</i>, coll. 4), § <i>Sed etiam</i>; Decretals, X 4.1 (<i>De sponsalibus et matrimoniis</i>), c. <i>In praesentia</i> (cf. X 4.1.19)",
+     "original": "L. vxores. D. de diuor. L. vxor. &amp; autẽtique hodie. C. de repud. Paragr. ſed etiam. de nup. aux nouuelles de Iuſtinien ſous la iiij. collation c. in præſentia. de ſponſal.",
+     "gloss": "Julian: the wives of men in enemy hands keep the status of married women, since they cannot rashly marry another; the Code law and the <i>authentica</i> on the soldier's wife who has no news; the decretal forbidding remarriage without certain proof of the husband's death."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Penelope was able to live untouched through twice ten years, a woman worthy of so many suitors (<i>Penelope poterat, bis denos salva per annos, / vivere, tam multis foemina digna procis</i>). <sup class=\"mk\" data-key=\"h\" data-page=\"p006\">h</sup>",
+   "notes": [
+    {
+     "key": "h",
+     "page": "p006",
+     "citation": "Propertius, <i>Elegies</i> II.9.3–4",
+     "original": "Properce au liure ij. de ſes elegies.",
+     "gloss": null
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "And because, besides the excellent and native beauty with which nature had happily enriched her, she was further commended by I know not what ray of virtue, gentleness and simplicity, which made her lovable and admirable in the eyes of all, she was violently pressed, and solicited almost by force, by her suitors: to repulse whom graciously, she obtained from them a delay until she should have finished weaving the little piece of cloth that she had in hand (which they granted her), hoping to see the cloth soon woven: but she, having her heart always with her Ulysses, to cheat these gentle lovers of their foolish hope, unravelled by night what she had woven by day: and thus kept them waiting and deceived them until the return of her consort <sup class=\"mk\" data-key=\"i\" data-page=\"p006\">i</sup>. Wherefore one must not be so impious as to think that, if the wife had prostituted herself during the husband's absence (and he for that reason has driven her out), and she asked to be reinstated in her marriage, the adultery would not justly be objected against her <sup class=\"mk\" data-key=\"k\" data-page=\"p006\">k</sup>: unless the husband had lent a hand to his wife's misconduct, and to that end had deliberately absented himself <sup class=\"mk\" data-key=\"l\" data-page=\"p006\">l</sup>. For although that does not excuse the wife, who for anything in the world ought not to be so liberal with her honour, which she ought to hold a thousand times dearer than life <sup class=\"mk\" data-key=\"m\" data-page=\"p006\">m</sup>: nevertheless it charges the husband, and makes him so far culpable that he would without difficulty be punished as his wife's pander; so far is it from his being able to object or reproach such a fault against her in judgment <sup class=\"mk\" data-key=\"n\" data-page=\"p006\">n</sup>. And if anyone here asks how long a wife is obliged to wait for her ab<span class=\"pg\" data-page=\"p007\"></span>sent husband (of whom it is uncertain whether he is alive or dead) before she may think of a second marriage: I shall answer that if all women had as good a will as Penelope (whose history we have related), or as Porcia, daughter of Cato, who said that the woman who remarries is neither chaste nor modest, and had the intention of saying with Dido <sup class=\"mk\" data-key=\"o\" data-page=\"p007\">o</sup>:",
+   "notes": [
+    {
+     "key": "i",
+     "page": "p006",
+     "citation": "Homer, <i>Odyssey</i> (II.93–110; XIX.137–156, the web of Penelope)",
+     "original": "Homere en ſ'Odyſſee.",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "page": "p006",
+     "citation": "Decretals, X 4.19 (<i>De divortiis</i>), c. <i>Significasti</i>",
+     "original": "c. ſignificaſti. de diuort.",
+     "gloss": "Chapter number not verified."
+    },
+    {
+     "key": "l",
+     "page": "p006",
+     "citation": "Digest 24.3 (<i>Soluto matrimonio dos quemadmodum petatur</i>), l. <i>Cum mulier</i>, fragment not identified; Decretals, X 4.13 (<i>De eo qui cognovit consanguineam uxoris suae</i>), c. <i>Discretionem</i>; X 5.16 (<i>De adulteriis et stupro</i>), c. <i>Intelleximus</i>, and the gloss there",
+     "original": "L. cùm mulier D. ſol. ma c. diſcretionem de eo qui cog. çonſ. vxo. c. intelleximus. &amp; illec la gloſe, de adulter.",
+     "gloss": "The husband who connives at his wife's adultery cannot afterwards plead it. This fuller form of the title, <i>de eo qui cog[novit] cons[anguineam] uxo[ris]</i>, also settles the abbreviation left unresolved at annot-001 note {k}."
+    },
+    {
+     "key": "m",
+     "page": "p006",
+     "citation": "Digest 23.2.43 (<i>De ritu nuptiarum</i>, l. <i>Palam</i>) § 1; Decretum Gratiani C. 27 q. 2, c. <i>Agathosa</i>; C. 32 q. 5, c. <i>Ita ne</i>",
+     "original": "L. Palam. parag. j. D. de ritu nup. c. Agathoſa. xxvij. c ij. ita ne xxxij. q. v.",
+     "gloss": "Ulpian on women who openly make gain of their bodies; the canons on a wife's chastity being owed absolutely. Chapter numbers of the two canons not verified."
+    },
+    {
+     "key": "n",
+     "page": "p006",
+     "citation": "Digest 48.5 (<i>Ad legem Iuliam de adulteriis coercendis</i>), l. 2 § <i>Si publico</i> (D. 48.5.2), and l. <i>Si uxor</i> § 1 (fragment not identified)",
+     "original": "L. ij. parag. ſi publico. l. ſi vxor. parag. j. D. de adult.",
+     "gloss": "Ulpian on <i>lenocinium</i>: the husband who profits by or connives at his wife's adultery is punished as a pander and cannot accuse her."
+    },
+    {
+     "key": "o",
+     "page": "p007",
+     "citation": "Virgil, <i>Aeneid</i> IV.28–29",
+     "original": "Vergile au iiij. des Eneis",
+     "gloss": "Dido's vow to Sychaeus, quoted in the text."
+    },
+    {
+     "key": "t",
+     "page": "p007",
+     "citation": "Digest 34.5.9 (<i>De rebus dubiis</i>, l. <i>Qui duos</i>)",
+     "original": "L. qui duos D. de reb. du.",
+     "gloss": "Tryphoninus on persons who perish together in war or shipwreck; it belongs to the clause \"if the husband was drowned ... the ship has foundered.\" The print omitted its marker."
+    },
+    {
+     "key": "x",
+     "page": "p007",
+     "citation": "Decretals, X 2.20 (<i>De testibus et attestationibus</i>), the first chapter <i>Veniens</i>",
+     "original": "c'veniens. j. de teſtib.",
+     "gloss": "Hearsay and rumour are not, by the ordinary rules, received as proof. The print keyed the second body marker <i>u</i> instead of <i>x</i>; chapter number not verified."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "He who first joined me to himself took my loves away with him; let him keep them with him, and guard them in the tomb (<i>Ille meos primus, qui me sibi iunxit, amores / abstulit: ille habeat secum, servetque sepulchro</i>).",
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "we should have no great trouble in settling this question. But since not all have such a gift of continence, nor the power to tame and vanquish with such great strength the passion of the flesh, and since after the husband's death God by His holy law permits every woman to remarry whom she will <sup class=\"mk\" data-key=\"p\" data-page=\"p007\">p</sup>: I say, to the point of our question, that although the civil law in one place was content to make the wife wait five years <sup class=\"mk\" data-key=\"q\" data-page=\"p007\">q</sup>, nevertheless the Emperor Justinian and the Pontiffs of Rome have willed that, even though thirty years had passed, if there is no certain news of the husband, it is not lawful for the wife to remarry <sup class=\"mk\" data-key=\"r\" data-page=\"p007\">r</sup>. True it is that the same authors well understand that the news shall be found certain enough (the husband having died in the war) if the captain under whom the husband followed arms sent a certificate of his death, or himself in person attested it <sup class=\"mk\" data-key=\"ſ\" data-page=\"p007\">ſ</sup>. Or else, if the husband was drowned, by proving that the ship in which he was has foundered. Indeed it would suffice to show by witnesses, or otherwise, that the rumour of his death is spread abroad everywhere <sup class=\"mk\" data-key=\"u\" data-page=\"p007\">u</sup>. For although proof by rumour and renown, according to the ordinary and common rules, is not conclusive, nor received <sup class=\"mk\" data-key=\"u\" data-page=\"p007\">u</sup>, nevertheless, where one cannot easily obtain true and certain proof, as when the husband had remained in a distant country, long absent, such a manner of proof, by rumour and common repute, would suffice <sup class=\"mk\" data-key=\"y\" data-page=\"p007\">y</sup>.",
+   "notes": [
+    {
+     "key": "p",
+     "page": "p007",
+     "citation": "1 Corinthians 7 (v. 39)",
+     "original": "Premiere de. Corins. c. vij.",
+     "gloss": "A widow \"is at liberty to be married to whom she will.\""
+    },
+    {
+     "key": "q",
+     "page": "p007",
+     "citation": "Digest 24.2.6 (<i>De divortiis</i>, l. <i>Uxores</i>); Novel 22 (<i>De nuptiis</i>, coll. 4), § <i>Sed etiam</i> (cf. Nov. 22 c. 6, the five-year wait for the spouse of a captive)",
+     "original": "L. vxores D. de diuor paragr. ſed etiam de nup aux nouuelles de Iuſtin ſous la collatiõ iiij.",
+     "gloss": "The print mis-set the key: this note, keyed <i>b</i> in the margin, answers the body's {q}, the \"five years\" of the civil law."
+    },
+    {
+     "key": "r",
+     "page": "p007",
+     "citation": "Novel 117 c. 11, § <i>Quod autem</i> (Authenticum, <i>Ut liceat matri et aviae</i>, coll. 8; Coras: vij); the <i>authentica</i> <i>Hodie</i> after Code 5.17.7 (<i>De repudiis</i>); Decretals, X 4.21 (<i>De secundis nuptiis</i>), c. 2",
+     "original": "Para. Quod autem. vt lic. mat. &amp; auiæ. aux nouuelles de Iuſtinien, ſous la collation vij. Aut. hodie C. de repud. c. ij. de ſecund. nu.",
+     "gloss": "Justinian abrogates the old four-year rule: a soldier's wife may not remarry, however long the silence, without certification of his death; the decretal applies the same rule."
+    },
+    {
+     "key": "ſ",
+     "page": "p007",
+     "citation": "Code 5.17.7 (<i>De repudiis</i>, l. <i>Uxor</i>) and the <i>authentica</i> <i>Hodie</i> (from Nov. 117 c. 11)",
+     "original": "L. vxor. &amp; autentique hodie. C. de repu.",
+     "gloss": "The certificate of death from the commander under whom the husband served."
+    },
+    {
+     "key": "u",
+     "page": "p007",
+     "citation": "the Gloss on Decretals X 2.6 (<i>Ut lite non contestata non procedatur</i>), c. 5 <i>Quoniam frequenter</i> (Innocent III), at the paragraph on the absent spouse (§ 4, <i>Si autem de carnali coniugio … donec de ipsius obitu verisimiliter praesumatur</i>); Coras's § <i>Si vero velit</i> not matched verbatim, and the Gloss itself not seen",
+     "original": "Gloſe au c. quoniam. Parag. ſi verò velit. non cont.",
+     "gloss": "Cited for the sufficiency of widespread rumour of the husband's death."
+    },
+    {
+     "key": "y",
+     "page": "p007",
+     "citation": "Accursius and Bartolus (<i>Accurse &amp; Bartole</i>) on Code 5.18 (<i>Soluto matrimonio dos quemadmodum petatur</i>), l. <i>Siquidem</i> (fragment not identified), and on Digest 29.3.2 (<i>Quemadmodum testamenta aperiantur</i>, l. 2) § <i>Si dubitetur</i>",
+     "original": "Accurſe &amp; Bartole. en la loy Siquidem. C. ſol. mat. &amp; en la l. ij. Par ſi dubitetur D. quẽadm. teſt. aper.",
+     "gloss": "Where certain proof cannot be had, proof by common repute suffices."
+    }
+   ]
+  }
+ ]
+}

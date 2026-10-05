@@ -1,0 +1,38 @@
+{
+ "id": "annot-029",
+ "order": 60,
+ "heading": "ANNOTATION XXIX",
+ "kind": "annotation",
+ "pages": [
+  "p051"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p051\"></span>Besides that it is not probable, for the proximity of blood, that the uncle should not know his own nephew <sup class=\"mk\" data-key=\"a\" data-page=\"p051\">a</sup>, or that he should be so brutal and unnatural as to wish to annihilate and destroy his own blood. It is certain also that no person (unless he be more felonious than the savage beasts) ever held his own flesh in hatred, but maintains, nourishes and preserves it, to the utmost of his power <sup class=\"mk\" data-key=\"b\" data-page=\"p051\">b</sup>. Whence Saint Paul called him worse than an infidel who has no care of his own <sup class=\"mk\" data-key=\"ſ\" data-page=\"p051\">ſ</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p051",
+     "citation": "Digest 38.8 (<i>Unde cognati</i>), the law cited as <i>l. octaui</i> (not identified); Code, title <i>De in integrum restitutione</i> (one of the restitution titles of Code book 2; the law cited as <i>l. de tutela</i> not identified)",
+     "original": "l. octaui, D. vnde cog. l. de tutela. C de in integ. reſt.",
+     "gloss": "Cited for the presumption that near kin know one another."
+    },
+    {
+     "key": "b",
+     "page": "p051",
+     "citation": "Ephesians 5 (5:29)",
+     "original": "Epheſiens. c. v",
+     "gloss": "<i>Nemo enim umquam carnem suam odio habuit, sed nutrit et fovet eam</i> — for no man ever yet hated his own flesh, but nourisheth and cherisheth it."
+    },
+    {
+     "key": "c",
+     "page": "p051",
+     "citation": "1 Timothy 5 (5:8)",
+     "original": "La i. de Ti moth. c. v.",
+     "gloss": "<i>Si quis autem suorum … curam non habet, fidem negavit et est infideli deterior</i> — if any have not care of his own, he hath denied the faith and is worse than an infidel."
+    }
+   ]
+  }
+ ]
+}

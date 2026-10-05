@@ -1,0 +1,25 @@
+{
+ "id": "texte-50",
+ "order": 101,
+ "heading": "TEXTE,",
+ "kind": "text",
+ "pages": [
+  "p070",
+  "p071"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p070\"></span>And to this opinion, that the prisoner was Martin Guerre, the Court had great reason to incline: not only for what has been said, but moreover because this opinion favoured the marriage, the children who are <span class=\"pg\" data-page=\"p071\"></span>issued of it, and the cause of the accused.",
+   "notes": [
+    {
+     "key": "m",
+     "page": "p071",
+     "citation": "Digest 48.19 (<i>De poenis</i>), l. <i>Absentem</i> (D. 48.19.5, Ulpian)",
+     "original": "l. abſente D. de pœn.",
+     "gloss": "<i>Satius enim esse impunitum relinqui facinus nocentis quam innocentem damnari</i> — it is better that the crime of a guilty man go unpunished than that an innocent man be condemned."
+    }
+   ]
+  }
+ ]
+}

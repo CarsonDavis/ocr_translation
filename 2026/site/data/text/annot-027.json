@@ -1,0 +1,39 @@
+{
+ "id": "annot-027",
+ "order": 56,
+ "heading": "ANNOTATION XXVII",
+ "kind": "annotation",
+ "pages": [
+  "p049",
+  "p050"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p049\"></span>Where the witnesses of the plaintiff and of the defendant depose contrary things, one must first have regard to the quality of the witnesses, and give faith to those who are in the opinion of greater integrity toward the world; and afterwards to those who depose things more probable; and if by chance all should be equal in all circumstances, as being esteemed as much good people the one as the other, and deposing things of like verisimilitude, the greater number would without difficulty overcome the lesser, and would be more credible, <sup class=\"mk\" data-key=\"a\" data-page=\"p049\">a</sup> nay, sometimes the multitude of the witnesses supplies the defect of a part of them, which would not otherwise be sufficient to make proof <sup class=\"mk\" data-key=\"b\" data-page=\"p049\">b</sup>. As for example, if in a testament, where only seven witnesses are necessary, there are found eight written, two of whom are not entire [<i>entiers</i>: free of all objection] but very objectionable, the testament, according to the advice of some learned persons, is nevertheless valid: for these two, insufficient of themselves, make one at <span class=\"pg\" data-page=\"p050\"></span>the least, and what one could desire in their faith and capacity is supplied by the number that is over <sup class=\"mk\" data-key=\"c\" data-page=\"p050\">c</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p049",
+     "citation": "Digest 22.5.3 (<i>De testibus</i>, l. <i>Testium fides</i>, Callistratus), § <i>Eiusdem</i> (D. 22.5.3.2, Hadrian's rescript to Valerius Verus: <i>alias numerus testium, alias dignitas et auctoritas, alias veluti consentiens fama confirmat rei de qua quaeritur fidem</i>); Decretals, X 2.20.32 (<i>De testibus et attestationibus</i>, c. <i>In nostra</i>, Innocent III: where the witnesses conflict, the worthier prevail and, failing that, the greater number)",
+     "original": "l. iij. P. eiuſdem. D. de te. c. in noſtra. illo titul.",
+     "gloss": "<i>Illo titul.</i> = in that same title, <i>De testibus</i>; the <i>P.</i> is the print's sort for §."
+    },
+    {
+     "key": "b",
+     "page": "p049",
+     "citation": "Accursius (<i>Accurse</i>), the Gloss on the said § <i>Eiusdem</i> (D. 22.5.3.2)",
+     "original": "Accurſe au dit P. eiuſdem",
+     "gloss": "?] [The mark after <i>eiuſdem</i> is unidentified in the transcription (a comma or a stray sort), and the reading <i>au dit</i> = <i>audit</i> is flagged there as hard; the parallel with note <i>m</i> on p027, <i>Accurſe au dit Parag.</i>, supports it."
+    },
+    {
+     "key": "c",
+     "page": "p050",
+     "citation": "Johannes de Imola (<i>Iean Imola</i>; Giovanni da Imola, d. 1436) on Digest 28.1 (<i>Qui testamenta facere possunt et quemadmodum testamenta fiant</i>), l. <i>Qui testamento</i> (D. 28.1.20, Ulpian: <i>Qui testamento heres instituitur, in eodem testamento testis esse non potest</i>); Alexander Tartagnus of Imola (<i>Alexandre</i>), <i>Consilia</i>, vol. 1, consilium 93 (number unverified)",
+     "original": "Iean Imola en la loy qui teſtament. D. de teſta. Alexandre en ſon conſeil xciij. du premier vol.",
+     "gloss": "The doctrine that a surplus witness cures the incapacity of a defective one."
+    }
+   ]
+  }
+ ]
+}

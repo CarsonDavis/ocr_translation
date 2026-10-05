@@ -1,0 +1,2402 @@
+{
+ "sections": [
+  {
+   "id": "title",
+   "order": 1,
+   "heading": null,
+   "kind": "title",
+   "first_page": "p000-title",
+   "pages": [
+    "p000-title"
+   ]
+  },
+  {
+   "id": "argument",
+   "order": 2,
+   "heading": null,
+   "kind": "argument",
+   "first_page": "p000-argument",
+   "pages": [
+    "p000-argument"
+   ]
+  },
+  {
+   "id": "texte-01",
+   "order": 3,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p001",
+   "pages": [
+    "p001"
+   ]
+  },
+  {
+   "id": "annot-001",
+   "order": 4,
+   "heading": "ANNOTATION I",
+   "kind": "annotation",
+   "first_page": "p002",
+   "pages": [
+    "p002",
+    "p003",
+    "p004"
+   ]
+  },
+  {
+   "id": "texte-02",
+   "order": 5,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p004",
+   "pages": [
+    "p004",
+    "p005"
+   ]
+  },
+  {
+   "id": "annot-002",
+   "order": 6,
+   "heading": "ANNOTATION II",
+   "kind": "annotation",
+   "first_page": "p005",
+   "pages": [
+    "p005",
+    "p006",
+    "p007"
+   ]
+  },
+  {
+   "id": "texte-03",
+   "order": 7,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p007",
+   "pages": [
+    "p007",
+    "p008"
+   ]
+  },
+  {
+   "id": "annot-003",
+   "order": 8,
+   "heading": "ANNOTATION III",
+   "kind": "annotation",
+   "first_page": "p008",
+   "pages": [
+    "p008"
+   ]
+  },
+  {
+   "id": "texte-04",
+   "order": 9,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p008",
+   "pages": [
+    "p008",
+    "p009"
+   ]
+  },
+  {
+   "id": "annot-004",
+   "order": 10,
+   "heading": "ANNOTATION IIII",
+   "kind": "annotation",
+   "first_page": "p009",
+   "pages": [
+    "p009",
+    "p010",
+    "p011"
+   ]
+  },
+  {
+   "id": "texte-05",
+   "order": 11,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p011",
+   "pages": [
+    "p011"
+   ]
+  },
+  {
+   "id": "annot-005",
+   "order": 12,
+   "heading": "ANNOTATION V",
+   "kind": "annotation",
+   "first_page": "p011",
+   "pages": [
+    "p011",
+    "p012",
+    "p013",
+    "p014",
+    "p015",
+    "p016",
+    "p017",
+    "p018",
+    "p019",
+    "p020"
+   ]
+  },
+  {
+   "id": "texte-06",
+   "order": 13,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p020",
+   "pages": [
+    "p020"
+   ]
+  },
+  {
+   "id": "annot-006",
+   "order": 14,
+   "heading": "ANNOTATION VI",
+   "kind": "annotation",
+   "first_page": "p020",
+   "pages": [
+    "p020",
+    "p021"
+   ]
+  },
+  {
+   "id": "texte-07",
+   "order": 15,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p021",
+   "pages": [
+    "p021"
+   ]
+  },
+  {
+   "id": "annot-007",
+   "order": 16,
+   "heading": "ANNOTATION VII",
+   "kind": "annotation",
+   "first_page": "p021",
+   "pages": [
+    "p021",
+    "p022"
+   ]
+  },
+  {
+   "id": "texte-08",
+   "order": 17,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p022",
+   "pages": [
+    "p022"
+   ]
+  },
+  {
+   "id": "annot-008",
+   "order": 18,
+   "heading": "ANNOTATION VIII",
+   "kind": "annotation",
+   "first_page": "p022",
+   "pages": [
+    "p022",
+    "p023"
+   ]
+  },
+  {
+   "id": "texte-09",
+   "order": 19,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p023",
+   "pages": [
+    "p023"
+   ]
+  },
+  {
+   "id": "annot-009",
+   "order": 20,
+   "heading": "ANNOTATION IX",
+   "kind": "annotation",
+   "first_page": "p023",
+   "pages": [
+    "p023",
+    "p024"
+   ]
+  },
+  {
+   "id": "texte-10",
+   "order": 21,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p025",
+   "pages": [
+    "p025"
+   ]
+  },
+  {
+   "id": "annot-010",
+   "order": 22,
+   "heading": "ANNOTATION X",
+   "kind": "annotation",
+   "first_page": "p025",
+   "pages": [
+    "p025"
+   ]
+  },
+  {
+   "id": "texte-11",
+   "order": 23,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p025",
+   "pages": [
+    "p025"
+   ]
+  },
+  {
+   "id": "annot-011",
+   "order": 24,
+   "heading": "ANNOTATION XI",
+   "kind": "annotation",
+   "first_page": "p026",
+   "pages": [
+    "p026",
+    "p027"
+   ]
+  },
+  {
+   "id": "texte-12",
+   "order": 25,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p027",
+   "pages": [
+    "p027"
+   ]
+  },
+  {
+   "id": "annot-012",
+   "order": 26,
+   "heading": "ANNOTATION XII",
+   "kind": "annotation",
+   "first_page": "p027",
+   "pages": [
+    "p027",
+    "p028"
+   ]
+  },
+  {
+   "id": "texte-13",
+   "order": 27,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p028",
+   "pages": [
+    "p028"
+   ]
+  },
+  {
+   "id": "annot-013",
+   "order": 28,
+   "heading": "ANNOTATION XIII",
+   "kind": "annotation",
+   "first_page": "p028",
+   "pages": [
+    "p028",
+    "p029"
+   ]
+  },
+  {
+   "id": "texte-14",
+   "order": 29,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p029",
+   "pages": [
+    "p029"
+   ]
+  },
+  {
+   "id": "annot-014",
+   "order": 30,
+   "heading": "ANNOTATION XIIII",
+   "kind": "annotation",
+   "first_page": "p029",
+   "pages": [
+    "p029",
+    "p030"
+   ]
+  },
+  {
+   "id": "texte-15",
+   "order": 31,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p030",
+   "pages": [
+    "p030"
+   ]
+  },
+  {
+   "id": "annot-015",
+   "order": 32,
+   "heading": "ANNOTATION XV",
+   "kind": "annotation",
+   "first_page": "p030",
+   "pages": [
+    "p030",
+    "p031"
+   ]
+  },
+  {
+   "id": "texte-16",
+   "order": 33,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p031",
+   "pages": [
+    "p031"
+   ]
+  },
+  {
+   "id": "annot-016",
+   "order": 34,
+   "heading": "ANNOTATION XVI",
+   "kind": "annotation",
+   "first_page": "p031",
+   "pages": [
+    "p031",
+    "p032"
+   ]
+  },
+  {
+   "id": "texte-17",
+   "order": 35,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p032",
+   "pages": [
+    "p032",
+    "p033"
+   ]
+  },
+  {
+   "id": "annot-017",
+   "order": 36,
+   "heading": "ANNOTATION XVII",
+   "kind": "annotation",
+   "first_page": "p033",
+   "pages": [
+    "p033"
+   ]
+  },
+  {
+   "id": "texte-18",
+   "order": 37,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p033",
+   "pages": [
+    "p033",
+    "p034"
+   ]
+  },
+  {
+   "id": "annot-018",
+   "order": 38,
+   "heading": "ANNOTATION XIII",
+   "kind": "annotation",
+   "first_page": "p034",
+   "pages": [
+    "p034",
+    "p035"
+   ]
+  },
+  {
+   "id": "texte-19",
+   "order": 39,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p035",
+   "pages": [
+    "p035"
+   ]
+  },
+  {
+   "id": "annot-019",
+   "order": 40,
+   "heading": "ANNOTATION XIX",
+   "kind": "annotation",
+   "first_page": "p035",
+   "pages": [
+    "p035",
+    "p036"
+   ]
+  },
+  {
+   "id": "texte-20",
+   "order": 41,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p037",
+   "pages": [
+    "p037"
+   ]
+  },
+  {
+   "id": "annot-020",
+   "order": 42,
+   "heading": "ANNOTAT. XX,",
+   "kind": "annotation",
+   "first_page": "p037",
+   "pages": [
+    "p037",
+    "p038"
+   ]
+  },
+  {
+   "id": "texte-21",
+   "order": 43,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p038",
+   "pages": [
+    "p038",
+    "p039"
+   ]
+  },
+  {
+   "id": "annot-021",
+   "order": 44,
+   "heading": "ANNOTATION XXI",
+   "kind": "annotation",
+   "first_page": "p039",
+   "pages": [
+    "p039",
+    "p040"
+   ]
+  },
+  {
+   "id": "texte-22",
+   "order": 45,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p040",
+   "pages": [
+    "p040"
+   ]
+  },
+  {
+   "id": "annot-022",
+   "order": 46,
+   "heading": "ANNOTATION V",
+   "kind": "annotation",
+   "first_page": "p040",
+   "pages": [
+    "p040",
+    "p041",
+    "p042",
+    "p043",
+    "p044"
+   ]
+  },
+  {
+   "id": "texte-23",
+   "order": 47,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p044",
+   "pages": [
+    "p044"
+   ]
+  },
+  {
+   "id": "annot-023",
+   "order": 48,
+   "heading": "ANNOTATION XXIIII",
+   "kind": "annotation",
+   "first_page": "p044",
+   "pages": [
+    "p044",
+    "p045"
+   ]
+  },
+  {
+   "id": "texte-24",
+   "order": 49,
+   "heading": "TFXTE",
+   "kind": "text",
+   "first_page": "p045",
+   "pages": [
+    "p045"
+   ]
+  },
+  {
+   "id": "annot-024",
+   "order": 50,
+   "heading": "ANNOTAT, XXIIII",
+   "kind": "annotation",
+   "first_page": "p045",
+   "pages": [
+    "p045"
+   ]
+  },
+  {
+   "id": "texte-25",
+   "order": 51,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p045",
+   "pages": [
+    "p045",
+    "p046"
+   ]
+  },
+  {
+   "id": "annot-025",
+   "order": 52,
+   "heading": "ANNOTATION XXV",
+   "kind": "annotation",
+   "first_page": "p046",
+   "pages": [
+    "p046"
+   ]
+  },
+  {
+   "id": "texte-26",
+   "order": 53,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p046",
+   "pages": [
+    "p046",
+    "p047",
+    "p048"
+   ]
+  },
+  {
+   "id": "annot-026",
+   "order": 54,
+   "heading": "ANNOTATION XXVI",
+   "kind": "annotation",
+   "first_page": "p048",
+   "pages": [
+    "p048"
+   ]
+  },
+  {
+   "id": "texte-27",
+   "order": 55,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p049",
+   "pages": [
+    "p049"
+   ]
+  },
+  {
+   "id": "annot-027",
+   "order": 56,
+   "heading": "ANNOTATION XXVII",
+   "kind": "annotation",
+   "first_page": "p049",
+   "pages": [
+    "p049",
+    "p050"
+   ]
+  },
+  {
+   "id": "texte-28",
+   "order": 57,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p050",
+   "pages": [
+    "p050"
+   ]
+  },
+  {
+   "id": "annot-028",
+   "order": 58,
+   "heading": "ANNOTATION XXVIII",
+   "kind": "annotation",
+   "first_page": "p050",
+   "pages": [
+    "p050"
+   ]
+  },
+  {
+   "id": "texte-29",
+   "order": 59,
+   "heading": "TEXTE,",
+   "kind": "text",
+   "first_page": "p050",
+   "pages": [
+    "p050"
+   ]
+  },
+  {
+   "id": "annot-029",
+   "order": 60,
+   "heading": "ANNOTATION XXIX",
+   "kind": "annotation",
+   "first_page": "p051",
+   "pages": [
+    "p051"
+   ]
+  },
+  {
+   "id": "texte-30",
+   "order": 61,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p051",
+   "pages": [
+    "p051"
+   ]
+  },
+  {
+   "id": "annot-030",
+   "order": 62,
+   "heading": "ANNOTATION XXX",
+   "kind": "annotation",
+   "first_page": "p051",
+   "pages": [
+    "p051",
+    "p052"
+   ]
+  },
+  {
+   "id": "texte-31",
+   "order": 63,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p052",
+   "pages": [
+    "p052"
+   ]
+  },
+  {
+   "id": "annot-031",
+   "order": 64,
+   "heading": "ANNOTATION XXXI",
+   "kind": "annotation",
+   "first_page": "p052",
+   "pages": [
+    "p052",
+    "p053"
+   ]
+  },
+  {
+   "id": "texte-32",
+   "order": 65,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p053",
+   "pages": [
+    "p053",
+    "p054"
+   ]
+  },
+  {
+   "id": "annot-032",
+   "order": 66,
+   "heading": "ANNOTAT, XXXII",
+   "kind": "annotation",
+   "first_page": "p054",
+   "pages": [
+    "p054"
+   ]
+  },
+  {
+   "id": "texte-33",
+   "order": 67,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p054",
+   "pages": [
+    "p054"
+   ]
+  },
+  {
+   "id": "annot-033",
+   "order": 68,
+   "heading": "ANNOTATION XXXIII",
+   "kind": "annotation",
+   "first_page": "p054",
+   "pages": [
+    "p054",
+    "p055"
+   ]
+  },
+  {
+   "id": "texte-34",
+   "order": 69,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p055",
+   "pages": [
+    "p055"
+   ]
+  },
+  {
+   "id": "annot-034",
+   "order": 70,
+   "heading": "ANNOTATION XXXIIII",
+   "kind": "annotation",
+   "first_page": "p055",
+   "pages": [
+    "p055"
+   ]
+  },
+  {
+   "id": "texte-35",
+   "order": 71,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p055",
+   "pages": [
+    "p055"
+   ]
+  },
+  {
+   "id": "annot-035",
+   "order": 72,
+   "heading": "ANNOTATION XXXV",
+   "kind": "annotation",
+   "first_page": "p055",
+   "pages": [
+    "p055",
+    "p056"
+   ]
+  },
+  {
+   "id": "texte-36",
+   "order": 73,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p056",
+   "pages": [
+    "p056",
+    "p057"
+   ]
+  },
+  {
+   "id": "annot-036",
+   "order": 74,
+   "heading": "ANNOTATION XXXVI",
+   "kind": "annotation",
+   "first_page": "p057",
+   "pages": [
+    "p057",
+    "p058"
+   ]
+  },
+  {
+   "id": "texte-37",
+   "order": 75,
+   "heading": "TBXTE",
+   "kind": "text",
+   "first_page": "p058",
+   "pages": [
+    "p058"
+   ]
+  },
+  {
+   "id": "annot-037",
+   "order": 76,
+   "heading": "ANNOTATION XXXVII",
+   "kind": "annotation",
+   "first_page": "p058",
+   "pages": [
+    "p058"
+   ]
+  },
+  {
+   "id": "texte-38",
+   "order": 77,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p058",
+   "pages": [
+    "p058",
+    "p059"
+   ]
+  },
+  {
+   "id": "annot-038",
+   "order": 78,
+   "heading": "ANNOTATION XXXVIII",
+   "kind": "annotation",
+   "first_page": "p059",
+   "pages": [
+    "p059"
+   ]
+  },
+  {
+   "id": "texte-39",
+   "order": 79,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p060",
+   "pages": [
+    "p060"
+   ]
+  },
+  {
+   "id": "annot-039",
+   "order": 80,
+   "heading": "ANNOTATION XXXIX",
+   "kind": "annotation",
+   "first_page": "p060",
+   "pages": [
+    "p060",
+    "p061"
+   ]
+  },
+  {
+   "id": "texte-40",
+   "order": 81,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p061",
+   "pages": [
+    "p061"
+   ]
+  },
+  {
+   "id": "annot-040",
+   "order": 82,
+   "heading": "ANNOTATION XL",
+   "kind": "annotation",
+   "first_page": "p061",
+   "pages": [
+    "p061",
+    "p062"
+   ]
+  },
+  {
+   "id": "texte-41",
+   "order": 83,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p062",
+   "pages": [
+    "p062"
+   ]
+  },
+  {
+   "id": "annot-041",
+   "order": 84,
+   "heading": "ANNOTATION XLI",
+   "kind": "annotation",
+   "first_page": "p062",
+   "pages": [
+    "p062",
+    "p063"
+   ]
+  },
+  {
+   "id": "texte-42",
+   "order": 85,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p063",
+   "pages": [
+    "p063",
+    "p064"
+   ]
+  },
+  {
+   "id": "annot-042",
+   "order": 86,
+   "heading": "ANNOTATION XLII",
+   "kind": "annotation",
+   "first_page": "p064",
+   "pages": [
+    "p064"
+   ]
+  },
+  {
+   "id": "texte-43",
+   "order": 87,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p064",
+   "pages": [
+    "p064",
+    "p065"
+   ]
+  },
+  {
+   "id": "annot-043",
+   "order": 88,
+   "heading": "ANNOTATION XLIII",
+   "kind": "annotation",
+   "first_page": "p065",
+   "pages": [
+    "p065"
+   ]
+  },
+  {
+   "id": "texte-44",
+   "order": 89,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p065",
+   "pages": [
+    "p065",
+    "p066"
+   ]
+  },
+  {
+   "id": "annot-044",
+   "order": 90,
+   "heading": "ANNOTATION XLIII",
+   "kind": "annotation",
+   "first_page": "p066",
+   "pages": [
+    "p066"
+   ]
+  },
+  {
+   "id": "texte-45",
+   "order": 91,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p066",
+   "pages": [
+    "p066",
+    "p067"
+   ]
+  },
+  {
+   "id": "annot-045",
+   "order": 92,
+   "heading": "ANNOTATION XLV",
+   "kind": "annotation",
+   "first_page": "p067",
+   "pages": [
+    "p067"
+   ]
+  },
+  {
+   "id": "texte-46",
+   "order": 93,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p067",
+   "pages": [
+    "p067"
+   ]
+  },
+  {
+   "id": "annot-046",
+   "order": 94,
+   "heading": "ANNOTATION XLI",
+   "kind": "annotation",
+   "first_page": "p067",
+   "pages": [
+    "p067",
+    "p068"
+   ]
+  },
+  {
+   "id": "texte-47",
+   "order": 95,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p068",
+   "pages": [
+    "p068"
+   ]
+  },
+  {
+   "id": "annot-047",
+   "order": 96,
+   "heading": "ANNOTATION XLVII",
+   "kind": "annotation",
+   "first_page": "p068",
+   "pages": [
+    "p068",
+    "p069"
+   ]
+  },
+  {
+   "id": "texte-48",
+   "order": 97,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p069",
+   "pages": [
+    "p069"
+   ]
+  },
+  {
+   "id": "annot-048",
+   "order": 98,
+   "heading": "ANNOTATION XVIII",
+   "kind": "annotation",
+   "first_page": "p069",
+   "pages": [
+    "p069",
+    "p070"
+   ]
+  },
+  {
+   "id": "texte-49",
+   "order": 99,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p070",
+   "pages": [
+    "p070"
+   ]
+  },
+  {
+   "id": "annot-049",
+   "order": 100,
+   "heading": "ANNOTATION XLIX",
+   "kind": "annotation",
+   "first_page": "p070",
+   "pages": [
+    "p070"
+   ]
+  },
+  {
+   "id": "texte-50",
+   "order": 101,
+   "heading": "TEXTE,",
+   "kind": "text",
+   "first_page": "p070",
+   "pages": [
+    "p070",
+    "p071"
+   ]
+  },
+  {
+   "id": "annot-050",
+   "order": 102,
+   "heading": "ANNOTATION L",
+   "kind": "annotation",
+   "first_page": "p071",
+   "pages": [
+    "p071",
+    "p072"
+   ]
+  },
+  {
+   "id": "texte-51",
+   "order": 103,
+   "heading": "TEXTB",
+   "kind": "text",
+   "first_page": "p072",
+   "pages": [
+    "p072"
+   ]
+  },
+  {
+   "id": "annot-051",
+   "order": 104,
+   "heading": "ANNOTATION LI",
+   "kind": "annotation",
+   "first_page": "p072",
+   "pages": [
+    "p072"
+   ]
+  },
+  {
+   "id": "texte-52",
+   "order": 105,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p072",
+   "pages": [
+    "p072"
+   ]
+  },
+  {
+   "id": "annot-052",
+   "order": 106,
+   "heading": "ANNOTATION LII",
+   "kind": "annotation",
+   "first_page": "p072",
+   "pages": [
+    "p072",
+    "p073"
+   ]
+  },
+  {
+   "id": "texte-53",
+   "order": 107,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p073",
+   "pages": [
+    "p073"
+   ]
+  },
+  {
+   "id": "annot-053",
+   "order": 108,
+   "heading": "ANNOTATION LIII",
+   "kind": "annotation",
+   "first_page": "p073",
+   "pages": [
+    "p073"
+   ]
+  },
+  {
+   "id": "texte-54",
+   "order": 109,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p073",
+   "pages": [
+    "p073",
+    "p074"
+   ]
+  },
+  {
+   "id": "annot-054",
+   "order": 110,
+   "heading": "ANNOTATION LIIII",
+   "kind": "annotation",
+   "first_page": "p074",
+   "pages": [
+    "p074",
+    "p075"
+   ]
+  },
+  {
+   "id": "texte-55",
+   "order": 111,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p075",
+   "pages": [
+    "p075"
+   ]
+  },
+  {
+   "id": "annot-055",
+   "order": 112,
+   "heading": "ANNOTATION LV",
+   "kind": "annotation",
+   "first_page": "p075",
+   "pages": [
+    "p075",
+    "p076"
+   ]
+  },
+  {
+   "id": "texte-56",
+   "order": 113,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p076",
+   "pages": [
+    "p076"
+   ]
+  },
+  {
+   "id": "annot-056",
+   "order": 114,
+   "heading": "ANNOTATION LVI",
+   "kind": "annotation",
+   "first_page": "p076",
+   "pages": [
+    "p076"
+   ]
+  },
+  {
+   "id": "texte-57",
+   "order": 115,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p076",
+   "pages": [
+    "p076",
+    "p077"
+   ]
+  },
+  {
+   "id": "annot-057",
+   "order": 116,
+   "heading": "ANNOTATION LVII",
+   "kind": "annotation",
+   "first_page": "p077",
+   "pages": [
+    "p077"
+   ]
+  },
+  {
+   "id": "texte-58",
+   "order": 117,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p077",
+   "pages": [
+    "p077",
+    "p078"
+   ]
+  },
+  {
+   "id": "annot-058",
+   "order": 118,
+   "heading": "ANNOTATION LVIII",
+   "kind": "annotation",
+   "first_page": "p078",
+   "pages": [
+    "p078"
+   ]
+  },
+  {
+   "id": "texte-59",
+   "order": 119,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p078",
+   "pages": [
+    "p078",
+    "p079"
+   ]
+  },
+  {
+   "id": "annot-059",
+   "order": 120,
+   "heading": "ANNOTATION LIX",
+   "kind": "annotation",
+   "first_page": "p079",
+   "pages": [
+    "p079"
+   ]
+  },
+  {
+   "id": "texte-60",
+   "order": 121,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p079",
+   "pages": [
+    "p079",
+    "p080"
+   ]
+  },
+  {
+   "id": "annot-060",
+   "order": 122,
+   "heading": "ANNNT. LX",
+   "kind": "annotation",
+   "first_page": "p080",
+   "pages": [
+    "p080",
+    "p081"
+   ]
+  },
+  {
+   "id": "texte-61",
+   "order": 123,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p081",
+   "pages": [
+    "p081",
+    "p082"
+   ]
+  },
+  {
+   "id": "annot-061",
+   "order": 124,
+   "heading": "ANNOTATION LXI",
+   "kind": "annotation",
+   "first_page": "p082",
+   "pages": [
+    "p082"
+   ]
+  },
+  {
+   "id": "texte-62",
+   "order": 125,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p082",
+   "pages": [
+    "p082"
+   ]
+  },
+  {
+   "id": "annot-062",
+   "order": 126,
+   "heading": "ANNOTATION LXII",
+   "kind": "annotation",
+   "first_page": "p082",
+   "pages": [
+    "p082",
+    "p083"
+   ]
+  },
+  {
+   "id": "texte-63",
+   "order": 127,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p083",
+   "pages": [
+    "p083",
+    "p084"
+   ]
+  },
+  {
+   "id": "annot-063",
+   "order": 128,
+   "heading": "ANNOTATION LXIII",
+   "kind": "annotation",
+   "first_page": "p084",
+   "pages": [
+    "p084"
+   ]
+  },
+  {
+   "id": "texte-64",
+   "order": 129,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p084",
+   "pages": [
+    "p084"
+   ]
+  },
+  {
+   "id": "annot-064",
+   "order": 130,
+   "heading": "ANNOTATION LXIIII",
+   "kind": "annotation",
+   "first_page": "p084",
+   "pages": [
+    "p084"
+   ]
+  },
+  {
+   "id": "texte-65",
+   "order": 131,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p085",
+   "pages": [
+    "p085"
+   ]
+  },
+  {
+   "id": "annot-065",
+   "order": 132,
+   "heading": "ANNOTATION LXV",
+   "kind": "annotation",
+   "first_page": "p085",
+   "pages": [
+    "p085"
+   ]
+  },
+  {
+   "id": "texte-66",
+   "order": 133,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p085",
+   "pages": [
+    "p085"
+   ]
+  },
+  {
+   "id": "annot-066",
+   "order": 134,
+   "heading": "ANNOTAT, LXVI",
+   "kind": "annotation",
+   "first_page": "p085",
+   "pages": [
+    "p085"
+   ]
+  },
+  {
+   "id": "texte-67",
+   "order": 135,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p085",
+   "pages": [
+    "p085",
+    "p086"
+   ]
+  },
+  {
+   "id": "annot-067",
+   "order": 136,
+   "heading": "ANNOTATION LXVII",
+   "kind": "annotation",
+   "first_page": "p086",
+   "pages": [
+    "p086"
+   ]
+  },
+  {
+   "id": "texte-68",
+   "order": 137,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p086",
+   "pages": [
+    "p086",
+    "p087"
+   ]
+  },
+  {
+   "id": "annot-068",
+   "order": 138,
+   "heading": "ANNOTATION LXVIII",
+   "kind": "annotation",
+   "first_page": "p087",
+   "pages": [
+    "p087"
+   ]
+  },
+  {
+   "id": "texte-69",
+   "order": 139,
+   "heading": "TEXTE,",
+   "kind": "text",
+   "first_page": "p088",
+   "pages": [
+    "p088"
+   ]
+  },
+  {
+   "id": "annot-069",
+   "order": 140,
+   "heading": "ANNOTATION LXIX",
+   "kind": "annotation",
+   "first_page": "p088",
+   "pages": [
+    "p088"
+   ]
+  },
+  {
+   "id": "texte-70",
+   "order": 141,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p088",
+   "pages": [
+    "p088",
+    "p089"
+   ]
+  },
+  {
+   "id": "annot-070",
+   "order": 142,
+   "heading": "ANNOTATION LXX",
+   "kind": "annotation",
+   "first_page": "p089",
+   "pages": [
+    "p089"
+   ]
+  },
+  {
+   "id": "texte-71",
+   "order": 143,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p089",
+   "pages": [
+    "p089",
+    "p090"
+   ]
+  },
+  {
+   "id": "annot-071",
+   "order": 144,
+   "heading": "ANNOTATION LXVI",
+   "kind": "annotation",
+   "first_page": "p090",
+   "pages": [
+    "p090",
+    "p091",
+    "p092",
+    "p093",
+    "p094",
+    "p095",
+    "p096"
+   ]
+  },
+  {
+   "id": "texte-72",
+   "order": 145,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p096",
+   "pages": [
+    "p096",
+    "p097"
+   ]
+  },
+  {
+   "id": "annot-072",
+   "order": 146,
+   "heading": "ANNOTATION LXXII",
+   "kind": "annotation",
+   "first_page": "p097",
+   "pages": [
+    "p097"
+   ]
+  },
+  {
+   "id": "texte-73",
+   "order": 147,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p097",
+   "pages": [
+    "p097"
+   ]
+  },
+  {
+   "id": "annot-073",
+   "order": 148,
+   "heading": "ANNOTATION LXXIII",
+   "kind": "annotation",
+   "first_page": "p097",
+   "pages": [
+    "p097",
+    "p098"
+   ]
+  },
+  {
+   "id": "texte-74",
+   "order": 149,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p098",
+   "pages": [
+    "p098",
+    "p099"
+   ]
+  },
+  {
+   "id": "annot-074",
+   "order": 150,
+   "heading": "ANNOTATION LXXIIII",
+   "kind": "annotation",
+   "first_page": "p099",
+   "pages": [
+    "p099",
+    "p100"
+   ]
+  },
+  {
+   "id": "texte-75",
+   "order": 151,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p100",
+   "pages": [
+    "p100"
+   ]
+  },
+  {
+   "id": "annot-075",
+   "order": 152,
+   "heading": "ANNOTATION LXXV",
+   "kind": "annotation",
+   "first_page": "p100",
+   "pages": [
+    "p100",
+    "p101"
+   ]
+  },
+  {
+   "id": "texte-76",
+   "order": 153,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p101",
+   "pages": [
+    "p101",
+    "p102"
+   ]
+  },
+  {
+   "id": "annot-076",
+   "order": 154,
+   "heading": "ANNOTATION LXXVI",
+   "kind": "annotation",
+   "first_page": "p102",
+   "pages": [
+    "p102"
+   ]
+  },
+  {
+   "id": "texte-77",
+   "order": 155,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p102",
+   "pages": [
+    "p102"
+   ]
+  },
+  {
+   "id": "annot-077",
+   "order": 156,
+   "heading": "ANNOTATION LXXVII",
+   "kind": "annotation",
+   "first_page": "p102",
+   "pages": [
+    "p102",
+    "p103",
+    "p104",
+    "p105"
+   ]
+  },
+  {
+   "id": "texte-78",
+   "order": 157,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p105",
+   "pages": [
+    "p105",
+    "p106"
+   ]
+  },
+  {
+   "id": "annot-078",
+   "order": 158,
+   "heading": "ANNOTATION LXXVIII",
+   "kind": "annotation",
+   "first_page": "p106",
+   "pages": [
+    "p106"
+   ]
+  },
+  {
+   "id": "texte-79",
+   "order": 159,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p106",
+   "pages": [
+    "p106"
+   ]
+  },
+  {
+   "id": "annot-079",
+   "order": 160,
+   "heading": "ANNOTATION LXXVIIII",
+   "kind": "annotation",
+   "first_page": "p106",
+   "pages": [
+    "p106",
+    "p107"
+   ]
+  },
+  {
+   "id": "texte-80",
+   "order": 161,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p107",
+   "pages": [
+    "p107",
+    "p108",
+    "p109"
+   ]
+  },
+  {
+   "id": "texte-81",
+   "order": 162,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p109",
+   "pages": [
+    "p109"
+   ]
+  },
+  {
+   "id": "annot-080",
+   "order": 163,
+   "heading": "ANNOTATION LXXX",
+   "kind": "annotation",
+   "first_page": "p109",
+   "pages": [
+    "p109",
+    "p110"
+   ]
+  },
+  {
+   "id": "texte-82",
+   "order": 164,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p110",
+   "pages": [
+    "p110"
+   ]
+  },
+  {
+   "id": "annot-081",
+   "order": 165,
+   "heading": "ANNOTATION LXXXI",
+   "kind": "annotation",
+   "first_page": "p110",
+   "pages": [
+    "p110",
+    "p111"
+   ]
+  },
+  {
+   "id": "texte-83",
+   "order": 166,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p111",
+   "pages": [
+    "p111"
+   ]
+  },
+  {
+   "id": "annot-082",
+   "order": 167,
+   "heading": "ANNOTATION LXXXII",
+   "kind": "annotation",
+   "first_page": "p111",
+   "pages": [
+    "p111",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p116",
+    "p117",
+    "p118"
+   ]
+  },
+  {
+   "id": "texte-84",
+   "order": 168,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p118",
+   "pages": [
+    "p118"
+   ]
+  },
+  {
+   "id": "annot-083",
+   "order": 169,
+   "heading": "ANNOTATION LXXXIII",
+   "kind": "annotation",
+   "first_page": "p118",
+   "pages": [
+    "p118",
+    "p119",
+    "p120",
+    "p121",
+    "p122",
+    "p123"
+   ]
+  },
+  {
+   "id": "texte-85",
+   "order": 170,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p123",
+   "pages": [
+    "p123"
+   ]
+  },
+  {
+   "id": "annot-084",
+   "order": 171,
+   "heading": "ANNOTATION LXXXIII",
+   "kind": "annotation",
+   "first_page": "p123",
+   "pages": [
+    "p123",
+    "p124"
+   ]
+  },
+  {
+   "id": "texte-86",
+   "order": 172,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p124",
+   "pages": [
+    "p124"
+   ]
+  },
+  {
+   "id": "annot-085",
+   "order": 173,
+   "heading": "ANNOTATION LXXXV",
+   "kind": "annotation",
+   "first_page": "p124",
+   "pages": [
+    "p124",
+    "p125"
+   ]
+  },
+  {
+   "id": "texte-87",
+   "order": 174,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p125",
+   "pages": [
+    "p125"
+   ]
+  },
+  {
+   "id": "annot-086",
+   "order": 175,
+   "heading": "ANNOTATION LXXXVI",
+   "kind": "annotation",
+   "first_page": "p125",
+   "pages": [
+    "p125",
+    "p126"
+   ]
+  },
+  {
+   "id": "texte-88",
+   "order": 176,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p126",
+   "pages": [
+    "p126"
+   ]
+  },
+  {
+   "id": "annot-087",
+   "order": 177,
+   "heading": "ANNOTATION LXXXVII",
+   "kind": "annotation",
+   "first_page": "p126",
+   "pages": [
+    "p126",
+    "p127"
+   ]
+  },
+  {
+   "id": "texte-89",
+   "order": 178,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p127",
+   "pages": [
+    "p127"
+   ]
+  },
+  {
+   "id": "annot-088",
+   "order": 179,
+   "heading": "ANNOTATION LXXXVIII",
+   "kind": "annotation",
+   "first_page": "p127",
+   "pages": [
+    "p127",
+    "p128"
+   ]
+  },
+  {
+   "id": "texte-90",
+   "order": 180,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p128",
+   "pages": [
+    "p128"
+   ]
+  },
+  {
+   "id": "annot-089",
+   "order": 181,
+   "heading": "ANNOTATION LXXXIX",
+   "kind": "annotation",
+   "first_page": "p128",
+   "pages": [
+    "p128"
+   ]
+  },
+  {
+   "id": "texte-91",
+   "order": 182,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p128",
+   "pages": [
+    "p128"
+   ]
+  },
+  {
+   "id": "annot-090",
+   "order": 183,
+   "heading": "ANNOTATION XC",
+   "kind": "annotation",
+   "first_page": "p128",
+   "pages": [
+    "p128"
+   ]
+  },
+  {
+   "id": "texte-92",
+   "order": 184,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p128",
+   "pages": [
+    "p128"
+   ]
+  },
+  {
+   "id": "annot-091",
+   "order": 185,
+   "heading": "ANNOTATION XCI",
+   "kind": "annotation",
+   "first_page": "p128",
+   "pages": [
+    "p128",
+    "p129"
+   ]
+  },
+  {
+   "id": "texte-93",
+   "order": 186,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p129",
+   "pages": [
+    "p129"
+   ]
+  },
+  {
+   "id": "annot-092",
+   "order": 187,
+   "heading": "ANNOTATION XCII",
+   "kind": "annotation",
+   "first_page": "p129",
+   "pages": [
+    "p129"
+   ]
+  },
+  {
+   "id": "texte-94",
+   "order": 188,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p129",
+   "pages": [
+    "p129"
+   ]
+  },
+  {
+   "id": "annot-093",
+   "order": 189,
+   "heading": "ANNOTATION XCIII",
+   "kind": "annotation",
+   "first_page": "p129",
+   "pages": [
+    "p129",
+    "p130"
+   ]
+  },
+  {
+   "id": "texte-95",
+   "order": 190,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p130",
+   "pages": [
+    "p130"
+   ]
+  },
+  {
+   "id": "annot-094",
+   "order": 191,
+   "heading": "ANNOTATION XCIIII",
+   "kind": "annotation",
+   "first_page": "p130",
+   "pages": [
+    "p130",
+    "p131",
+    "p132",
+    "p133"
+   ]
+  },
+  {
+   "id": "texte-96",
+   "order": 192,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p133",
+   "pages": [
+    "p133"
+   ]
+  },
+  {
+   "id": "annot-095",
+   "order": 193,
+   "heading": "ANNOTATION XCV",
+   "kind": "annotation",
+   "first_page": "p133",
+   "pages": [
+    "p133",
+    "p134"
+   ]
+  },
+  {
+   "id": "texte-97",
+   "order": 194,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p135",
+   "pages": [
+    "p135"
+   ]
+  },
+  {
+   "id": "annot-096",
+   "order": 195,
+   "heading": "ANNOTATION XCVI",
+   "kind": "annotation",
+   "first_page": "p135",
+   "pages": [
+    "p135"
+   ]
+  },
+  {
+   "id": "texte-98",
+   "order": 196,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p135",
+   "pages": [
+    "p135"
+   ]
+  },
+  {
+   "id": "annot-097",
+   "order": 197,
+   "heading": "ANNOTATION XCVII",
+   "kind": "annotation",
+   "first_page": "p135",
+   "pages": [
+    "p135",
+    "p136",
+    "p137",
+    "p138"
+   ]
+  },
+  {
+   "id": "texte-99",
+   "order": 198,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p138",
+   "pages": [
+    "p138"
+   ]
+  },
+  {
+   "id": "annot-098",
+   "order": 199,
+   "heading": "ANNOTATION XCVIII",
+   "kind": "annotation",
+   "first_page": "p138",
+   "pages": [
+    "p138",
+    "p139",
+    "p140",
+    "p141"
+   ]
+  },
+  {
+   "id": "texte-100",
+   "order": 200,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p142",
+   "pages": [
+    "p142"
+   ]
+  },
+  {
+   "id": "annot-099",
+   "order": 201,
+   "heading": "ANNOTAT, XCIX",
+   "kind": "annotation",
+   "first_page": "p142",
+   "pages": [
+    "p142"
+   ]
+  },
+  {
+   "id": "texte-101",
+   "order": 202,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p142",
+   "pages": [
+    "p142"
+   ]
+  },
+  {
+   "id": "annot-100",
+   "order": 203,
+   "heading": "ANNOTATION C",
+   "kind": "annotation",
+   "first_page": "p142",
+   "pages": [
+    "p142",
+    "p143"
+   ]
+  },
+  {
+   "id": "annot-101",
+   "order": 204,
+   "heading": "ANNOTATION CI",
+   "kind": "annotation",
+   "first_page": "p143",
+   "pages": [
+    "p143",
+    "p144"
+   ]
+  },
+  {
+   "id": "texte-102",
+   "order": 205,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p144",
+   "pages": [
+    "p144"
+   ]
+  },
+  {
+   "id": "annot-102",
+   "order": 206,
+   "heading": "ANNOTATION CII",
+   "kind": "annotation",
+   "first_page": "p144",
+   "pages": [
+    "p144",
+    "p145"
+   ]
+  },
+  {
+   "id": "texte-103",
+   "order": 207,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p145",
+   "pages": [
+    "p145",
+    "p146"
+   ]
+  },
+  {
+   "id": "annot-103",
+   "order": 208,
+   "heading": "ANNOTATION CIII",
+   "kind": "annotation",
+   "first_page": "p146",
+   "pages": [
+    "p146"
+   ]
+  },
+  {
+   "id": "texte-104",
+   "order": 209,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p146",
+   "pages": [
+    "p146"
+   ]
+  },
+  {
+   "id": "annot-104",
+   "order": 210,
+   "heading": "ANNOTATION CIIII",
+   "kind": "annotation",
+   "first_page": "p146",
+   "pages": [
+    "p146",
+    "p147"
+   ]
+  },
+  {
+   "id": "texte-105",
+   "order": 211,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p147",
+   "pages": [
+    "p147",
+    "p148"
+   ]
+  },
+  {
+   "id": "annot-105",
+   "order": 212,
+   "heading": "ANNOTATION CV",
+   "kind": "annotation",
+   "first_page": "p148",
+   "pages": [
+    "p148"
+   ]
+  },
+  {
+   "id": "texte-106",
+   "order": 213,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p148",
+   "pages": [
+    "p148",
+    "p149"
+   ]
+  },
+  {
+   "id": "annot-106",
+   "order": 214,
+   "heading": "ANNOTATION CVI",
+   "kind": "annotation",
+   "first_page": "p149",
+   "pages": [
+    "p149",
+    "p150"
+   ]
+  },
+  {
+   "id": "texte-107",
+   "order": 215,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p150",
+   "pages": [
+    "p150"
+   ]
+  },
+  {
+   "id": "annot-107",
+   "order": 216,
+   "heading": "ANNOTATION CVII",
+   "kind": "annotation",
+   "first_page": "p150",
+   "pages": [
+    "p150"
+   ]
+  },
+  {
+   "id": "texte-108",
+   "order": 217,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p150",
+   "pages": [
+    "p150",
+    "p151"
+   ]
+  },
+  {
+   "id": "annot-108",
+   "order": 218,
+   "heading": "ANNOTATION CVIII",
+   "kind": "annotation",
+   "first_page": "p151",
+   "pages": [
+    "p151",
+    "p152"
+   ]
+  },
+  {
+   "id": "texte-109",
+   "order": 219,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p152",
+   "pages": [
+    "p152"
+   ]
+  },
+  {
+   "id": "annot-109",
+   "order": 220,
+   "heading": "ANNOTATION CIX",
+   "kind": "annotation",
+   "first_page": "p152",
+   "pages": [
+    "p152",
+    "p153",
+    "p154",
+    "p155",
+    "p156"
+   ]
+  },
+  {
+   "id": "texte-110",
+   "order": 221,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p156",
+   "pages": [
+    "p156"
+   ]
+  },
+  {
+   "id": "annot-110",
+   "order": 222,
+   "heading": "ANNOTATION CX",
+   "kind": "annotation",
+   "first_page": "p156",
+   "pages": [
+    "p156",
+    "p157",
+    "p158"
+   ]
+  },
+  {
+   "id": "texte-111",
+   "order": 223,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p158",
+   "pages": [
+    "p158"
+   ]
+  },
+  {
+   "id": "annot-111",
+   "order": 224,
+   "heading": "ANNOTATION CXI",
+   "kind": "annotation",
+   "first_page": "p158",
+   "pages": [
+    "p158",
+    "p159",
+    "p160"
+   ]
+  },
+  {
+   "id": "texte-112",
+   "order": 225,
+   "heading": "TEXT",
+   "kind": "text",
+   "first_page": "p160",
+   "pages": [
+    "p160"
+   ]
+  }
+ ]
+}

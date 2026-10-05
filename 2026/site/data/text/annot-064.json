@@ -1,0 +1,38 @@
+{
+ "id": "annot-064",
+ "order": 130,
+ "heading": "ANNOTATION LXIIII",
+ "kind": "annotation",
+ "pages": [
+  "p084"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p084\"></span>The saying of the Philosopher, renewed in our laws, is that for our affirming or denying, the truth changes not at all <sup class=\"mk\" data-key=\"a2\" data-page=\"p084\">a2</sup>; which, as Cicero says in a certain place, has always had such power that by any art, device or contrivance of man whatsoever it has never been able to be overturned; and though it have no protector to take up its defence, it defends itself well enough of itself <sup class=\"mk\" data-key=\"b2\" data-page=\"p084\">b2</sup>. And in another place: O how great, says he, is the force of truth, which against the wit, ruses and wiles of man defends itself easily, without the help or succour of any other <sup class=\"mk\" data-key=\"c2\" data-page=\"p084\">c2</sup>.",
+   "notes": [
+    {
+     "key": "a2",
+     "page": "p084",
+     "citation": "Digest 50.1 (<i>Ad municipalem et de incolis</i>), l. <i>Adsumptio</i> (D. 50.1.6 pr., Ulpian)",
+     "original": "l. aſſumptio. D. ad municipa.",
+     "gloss": "<i>Adsumptio originis, quae non est, veritati non praeiudicat</i> — \"the assumption of an origin one does not have does not prejudice the truth: for no one by lying makes himself of no origin, nor by claiming another's origin acquires it.\""
+    },
+    {
+     "key": "b2",
+     "page": "p084",
+     "citation": "Cicero, <i>In Vatinium</i> as cited — the sentence on the power of truth is not in the speech as it survives (the word <i>veritas</i> does not occur in it); unidentified, cf. <i>Pro Caelio</i> 63, cited next",
+     "original": "Ciceron en l'oraiſon con tre vatin.",
+     "gloss": "Coras's paraphrase — truth never overturned by human art, and defending itself without a protector — is close to the <i>Pro Caelio</i> passage cited next; whether he has a distinct <i>In Vatinium</i> sentence in mind could not be confirmed."
+    },
+    {
+     "key": "c2",
+     "page": "p084",
+     "citation": "Cicero, <i>Pro Caelio</i> 63",
+     "original": "Ciceron en l'oraiſon pro M. Cœlio.",
+     "gloss": "<i>O magnam vim veritatis, quae contra hominum ingenia, calliditatem, sollertiam contraque fictas omnium insidias facile se per se ipsa defendat!</i> — \"O great power of truth, which against the wit, cunning and cleverness of men, and against the feigned snares of all, easily defends itself by itself.\""
+    }
+   ]
+  }
+ ]
+}

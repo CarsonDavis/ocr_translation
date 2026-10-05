@@ -1,0 +1,92 @@
+{
+ "id": "annot-014",
+ "order": 30,
+ "heading": "ANNOTATION XIIII",
+ "kind": "annotation",
+ "pages": [
+  "p029",
+  "p030"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p029\"></span>This defence had some verisimilitude: for, as Jesus son of Sirach said, THERE IS nothing more iniquitous in the world than to love money and to covet the goods of another, and nothing more wicked than the avaricious man <sup class=\"mk\" data-key=\"a\" data-page=\"p029\">a</sup>, who, insatiable, is never sated nor satisfied, and to heap up riches and enlarge his fortune finds nothing <span class=\"pg\" data-page=\"p030\"></span>evil or impossible <sup class=\"mk\" data-key=\"b\" data-page=\"p030\">b</sup>, though he must shed, overturn and destroy the blood of half of mankind, nay of all his kinsmen. Of which Pygmalion, King of Tyre, will bear certain witness, who treacherously killed Sichaeus, his first cousin and the husband of Dido his sister, to make booty of his treasure and his goods <sup class=\"mk\" data-key=\"c\" data-page=\"p030\">c</sup>; Polymnestor also, King of Thrace, who by great treachery killed Polydorus, son of Priam (given into his keeping at the time of the Trojan war), to seize his gold and his silver <sup class=\"mk\" data-key=\"d\" data-page=\"p030\">d</sup>. And what is still more marvellous, Eriphyle, too covetous, spurred by I know not what goad to obtain the rich jewel that Adrastus, King of the Argives, had, dared to undertake to betray and disclose Amphiaraus her husband, who had hidden himself so as not to go to the war of Thebes, for fear of being killed there as had been foretold to him <sup class=\"mk\" data-key=\"e\" data-page=\"p030\">e</sup>. Whereupon the Poet cried out well, saying <sup class=\"mk\" data-key=\"f\" data-page=\"p030\">f</sup>,",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p029",
+     "citation": "Ecclesiasticus 10:9–10 (Vulgate: <i>nihil est iniquius quam amare pecuniam … avaro autem nihil est scelestius</i>)",
+     "original": "Eccleſiaſtique c. x.",
+     "gloss": null
+    },
+    {
+     "key": "b",
+     "page": "p030",
+     "citation": "Cicero, <i>Rhetorica</i> (<i>De inventione</i>), book printed \"b.\" — passage unidentified; Decretum Gratiani, D. 37 as printed — none of the distinction's sixteen canons (on clerics and secular letters) answers to the print's <i>c. panor.</i>; unidentified",
+     "original": "Ciceron au b. liure de ſa Rethorique c. panor. en la xxxvij. diſtinction.",
+     "gloss": "Neither locus verified."
+    },
+    {
+     "key": "c",
+     "page": "p030",
+     "citation": "Virgil, <i>Aeneid</i> I.343–352",
+     "original": "Vergile au j. des Aeneides.",
+     "gloss": "Venus tells Aeneas how Pygmalion, blinded by love of gold, secretly slew Sychaeus before the altar."
+    },
+    {
+     "key": "d",
+     "page": "p030",
+     "citation": "Plutarch, <i>Parallela minora</i> (in the <i>Moralia</i>; chapter not located); Virgil, <i>Aeneid</i> III.49–57; Ovid, <i>Ibis</i> (line not located)",
+     "original": "Plutarque aux Paralelles. Vergile au iij. des Aeneides. Ouide contre Ibin.",
+     "gloss": "Polymestor, entrusted with Polydorus and Priam's gold, killed the boy when Troy fell."
+    },
+    {
+     "key": "e",
+     "page": "p030",
+     "citation": "Cicero, <i>Verrines</i> II.4 (<i>De signis</i>), the \"sixth Verrine\" in the old numbering, § 39; Virgil, <i>Aeneid</i> VI.445–446",
+     "original": "Ciceron en la ſixieſme Verrine. Ver gile au vj. des Aeneides,",
+     "gloss": "Cicero on the necklace of Eriphyle; Virgil sets her among the wronged lovers, showing the wounds her son gave her."
+    },
+    {
+     "key": "f",
+     "page": "p030",
+     "citation": "Virgil, <i>Aeneid</i> III.56–57",
+     "original": "Vergile au iij. des Aeneides.",
+     "gloss": "<i>Quid non mortalia pectora cogis, / auri sacra fames?</i> — the lines translated in the text."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "To what do you not drive mortal hearts, accursed hunger for gold?",
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "That is why the Emperor Marcus Antoninus, a prince generous and excellent in every virtue, dreaded nothing in his life so much as the name and repute of an avaricious man, nor ever detested anything with such great vehemence as avarice, <sup class=\"mk\" data-key=\"g\" data-page=\"p030\">g</sup> mother, source and root of all evils <sup class=\"mk\" data-key=\"h\" data-page=\"p030\">h</sup>, and which, as Sallust says in some place, overturns faith, probity and every virtue <sup class=\"mk\" data-key=\"i\" data-page=\"p030\">i</sup>.",
+   "notes": [
+    {
+     "key": "g",
+     "page": "p030",
+     "citation": "Julius Capitolinus, <i>Life of Marcus Antoninus</i> (Historia Augusta); chapter not located",
+     "original": "Iule Capito lin en la vie d'Antonin.",
+     "gloss": "Coras's \"M. Antonin\" is Marcus Aurelius; Capitolinus also wrote the life of Antoninus Pius, and the passage has not been located in either."
+    },
+    {
+     "key": "h",
+     "page": "p030",
+     "citation": "1 Timothy 6:10 (<i>radix omnium malorum est cupiditas</i>); Coras cites chapter 9",
+     "original": "La j. de Ti moth. c. ix,",
+     "gloss": null
+    },
+    {
+     "key": "i",
+     "page": "p030",
+     "citation": "Novel 8 (<i>Ut iudices sine quoquo suffragio fiant</i>, Authenticum coll. 2), c. 1, towards the end; Sallust, <i>Bellum Catilinae</i> 10.4",
+     "original": "Parag. j. ſur la fin, vt Iude ſine quoq. coll. ij. des nouuelles de Iuſtin. Salluſte.",
+     "gloss": "Justinian's preface on the venality of magistrates; Sallust: <i>avaritia fidem probitatem ceterasque artis bonas subvortit</i>."
+    }
+   ]
+  }
+ ]
+}

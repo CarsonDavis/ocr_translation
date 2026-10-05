@@ -1,0 +1,31 @@
+{
+ "id": "annot-107",
+ "order": 216,
+ "heading": "ANNOTATION CVII",
+ "kind": "annotation",
+ "pages": [
+  "p150"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p150\"></span>This was a great conjecture, as we have represented above <sup class=\"mk\" data-key=\"a\" data-page=\"p150\">a</sup>, against the said du Tilh: inasmuch as of one who has been bad and wicked in the past there is great occasion to presume that he is still such, and perseveres in like malice <sup class=\"mk\" data-key=\"b\" data-page=\"p150\">b</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p150",
+     "citation": "Coras, Annotation XXXVII (annot-037, p058), on the presumption that one once wicked remains so",
+     "original": "En l'annotatiõ xxxvij,",
+     "gloss": "At p058 the printed and the counted numbers still agree."
+    },
+    {
+     "key": "b",
+     "page": "p150",
+     "citation": "Liber Sextus, <i>De regulis iuris</i>, regula 8 (<i>Semel malus semper praesumitur esse malus</i>)",
+     "original": "c. ſemel malus. de reg. iur.",
+     "gloss": "Once bad, always presumed bad — the maxim of the Sext, cited without <i>in VI</i>; the civil-law title D. 50.17 has no such rule."
+    }
+   ]
+  }
+ ]
+}

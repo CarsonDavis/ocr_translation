@@ -1,0 +1,31 @@
+{
+ "id": "annot-032",
+ "order": 66,
+ "heading": "ANNOTAT, XXXII",
+ "kind": "annotation",
+ "pages": [
+  "p054"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p054\"></span>If these witnesses had not been singular, each deposing to his own fact, and well objected to, this proof alone would indeed have been sufficient to put him to the torture [<i>géhenne</i>]. For although a confession of a crime, made out of judgment, is not sufficient to condemn a man, without a new trial, or else extraordinarily at the discretion of the Judge, as a fool, vainglorious and overweening, having boasted of doing ill <sup class=\"mk\" data-key=\"a\" data-page=\"p054\">a</sup>: nevertheless it makes a sufficient indication for putting such a rustic, who has confessed, to the torture <sup class=\"mk\" data-key=\"b\" data-page=\"p054\">b</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p054",
+     "citation": "Decretals, X 5.31.9 (<i>De excessibus praelatorum et subditorum</i>, c. <i>Quam sit grave</i>)",
+     "original": "c. quàm ſit graue. de ex. ceſ. prelato",
+     "gloss": "Cited for the rule that a confession made out of court does not of itself convict, but may draw an extraordinary penalty on the boaster; the print's <i>prelato</i> has a plain e for <i>praelato</i>."
+    },
+    {
+     "key": "b",
+     "page": "p054",
+     "citation": "Accursius (<i>Accurſe</i>), the Gloss on Digest 48.5.26 (old numbering 48.5.25) (<i>Ad legem Iuliam de adulteriis coercendis</i>, l. <i>Capite quinto</i>; Ulpian)",
+     "original": "Accurſe en la l. capite quinto- D. de adult,",
+     "gloss": "The extrajudicial confession as an <i>indicium</i> sufficient for torture."
+    }
+   ]
+  }
+ ]
+}

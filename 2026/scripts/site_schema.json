@@ -2,7 +2,7 @@
  "$schema": "https://json-schema.org/draft/2020-12/schema",
  "$id": "https://github.com/CarsonDavis/ocr_translation/2026/scripts/site_schema.json",
  "title": "Site page record",
- "description": "One file of site/data/pages/<id>.json: the layers of one printed page as the viewer reads them. Written by scripts/split_pages.py from manifest.json, transcription/final/<id>.json and (later) the English sections. See docs/site-design.md §4.",
+ "description": "One file of site/data/pages/<id>.json: the layers of one printed page as the viewer reads them. Written by scripts/split_pages.py from manifest.json, transcription/final/<id>.json and (later) the English sections. See docs/site-design.md §4. Its $defs also define reader mode's site/data/text/<section>.json (`section`) and site/data/text/toc.json (`toc`), which split_pages.py validates the same way.",
  "type": "object",
  "additionalProperties": false,
  "required": [
@@ -391,6 +391,212 @@
       "string",
       "null"
      ]
+    }
+   }
+  },
+  "section": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "id",
+    "order",
+    "heading",
+    "kind",
+    "pages",
+    "blocks"
+   ],
+   "description": "One translated section as reader mode reads it: site/data/text/<id>.json. Paragraphs are whole; page turns are empty <span class=\"pg\" data-page> inside their html.",
+   "properties": {
+    "id": {
+     "type": "string",
+     "minLength": 1
+    },
+    "order": {
+     "type": "integer",
+     "minimum": 1,
+     "description": "1-based position of the section in text/sections.json"
+    },
+    "heading": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "the heading the section prints (ANNOTATION V, TEXT), normalized as the page files' heading blocks; null for the title page and the argument, whose display lines carry their own titles"
+    },
+    "kind": {
+     "enum": [
+      "title",
+      "argument",
+      "text",
+      "annotation"
+     ],
+     "description": "from the text/sections.json kind: texte is text"
+    },
+    "pages": {
+     "type": "array",
+     "items": {
+      "type": "string",
+      "minLength": 1
+     },
+     "description": "the page ids the section's prose marks, in order, without repeats"
+    },
+    "blocks": {
+     "type": "array",
+     "items": {
+      "$ref": "#/$defs/section_block"
+     }
+    }
+   }
+  },
+  "section_block": {
+   "type": "object",
+   "required": [
+    "type"
+   ],
+   "oneOf": [
+    {
+     "additionalProperties": false,
+     "required": [
+      "type",
+      "html",
+      "notes"
+     ],
+     "properties": {
+      "type": {
+       "const": "paragraph"
+      },
+      "html": {
+       "type": "string"
+      },
+      "notes": {
+       "type": "array",
+       "items": {
+        "$ref": "#/$defs/section_note"
+       },
+       "description": "the notes whose markers this paragraph prints, in marker order, then any whose marker is missing and any with no key"
+      }
+     }
+    },
+    {
+     "additionalProperties": false,
+     "required": [
+      "type",
+      "text"
+     ],
+     "properties": {
+      "type": {
+       "const": "heading"
+      },
+      "text": {
+       "type": "string"
+      }
+     }
+    }
+   ]
+  },
+  "section_note": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "key",
+    "page",
+    "citation",
+    "original",
+    "gloss"
+   ],
+   "properties": {
+    "key": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "minLength": 1,
+     "description": "the letter printed as the marker, matching the French note key; null for a note the print sets with no key, or a quotation the translator moved into the notes"
+    },
+    "page": {
+     "type": "string",
+     "minLength": 1,
+     "description": "the page the note is printed on; the viewer pairs a note with its marker on (page, key), since the letters restart on every page"
+    },
+    "citation": {
+     "type": "string",
+     "description": "the citation in English, may contain <i>"
+    },
+    "original": {
+     "type": "string",
+     "description": "the citation as Coras printed it"
+    },
+    "gloss": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "a sentence of context, or null"
+    }
+   }
+  },
+  "toc": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "sections"
+   ],
+   "description": "site/data/text/toc.json: every translated section, in print order.",
+   "properties": {
+    "sections": {
+     "type": "array",
+     "items": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+       "id",
+       "order",
+       "heading",
+       "kind",
+       "first_page",
+       "pages"
+      ],
+      "properties": {
+       "id": {
+        "type": "string",
+        "minLength": 1
+       },
+       "order": {
+        "type": "integer",
+        "minimum": 1
+       },
+       "heading": {
+        "type": [
+         "string",
+         "null"
+        ],
+        "description": "the heading the section prints (ANNOTATION V, TEXT), normalized as the page files' heading blocks; null for the title page and the argument, whose display lines carry their own titles"
+       },
+       "kind": {
+        "enum": [
+         "title",
+         "argument",
+         "text",
+         "annotation"
+        ],
+        "description": "from the text/sections.json kind: texte is text"
+       },
+       "first_page": {
+        "type": [
+         "string",
+         "null"
+        ]
+       },
+       "pages": {
+        "type": "array",
+        "items": {
+         "type": "string",
+         "minLength": 1
+        },
+        "description": "the page ids the section's prose marks, in order, without repeats"
+       }
+      }
+     }
     }
    }
   }

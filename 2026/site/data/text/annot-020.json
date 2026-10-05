@@ -1,0 +1,95 @@
+{
+ "id": "annot-020",
+ "order": 42,
+ "heading": "ANNOTAT. XX,",
+ "kind": "annotation",
+ "pages": [
+  "p037",
+  "p038"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p037\"></span>If by the ordinary and common rules of law it is with great reason forbidden to sequester goods <sup class=\"mk\" data-key=\"a\" data-page=\"p037\">a</sup> — that is to say, to separate them from the hand and power of the possessor, to put them into third hands <sup class=\"mk\" data-key=\"b\" data-page=\"p037\">b</sup>, because one ought not easily, nor without urgent reasons and cognizance of cause, to deprive anyone of the possession of his property <sup class=\"mk\" data-key=\"c\" data-page=\"p037\">c</sup> — with all the more reason the sequestration and separation of persons ought to be prohibited, especially when one wishes to take them from the company of those who belong to them very nearly, such as fathers and mothers, children, or other near kinsfolk <sup class=\"mk\" data-key=\"d\" data-page=\"p037\">d</sup>. And on the contrary also, just as, when there is good and sufficient cause (such as a fear that the parties may come to arms <sup class=\"mk\" data-key=\"e\" data-page=\"p037\">e</sup>, or suspicion of flight or of poverty <sup class=\"mk\" data-key=\"f\" data-page=\"p037\">f</sup>), it is undoubtedly permitted to sequester movable property and the fruits of the immovable <sup class=\"mk\" data-key=\"g\" data-page=\"p037\">g</sup>, likewise as to persons there is no need to make difficulty that, when there is some suspicion and fear of seduction, or other legitimate cause, the Judge may justly proceed to the sequestration of a man or of a woman, and put her in the company of good people, who keep her from speaking and conversing with suspect persons <sup class=\"mk\" data-key=\"h\" data-page=\"p037\">h</sup>. As for example, if the husband demands to be restored to his wife, who nevertheless justly fears his aus<span class=\"pg\" data-page=\"p038\"></span>terity and harshness (having perhaps had experience of it beforehand), she ought to be committed to some woman of worth, and honest, until the end of the suit <sup class=\"mk\" data-key=\"i\" data-page=\"p038\">i</sup>. And when the husband fears that the wife whom he demands may be suborned against him, the Judge ought to have her lodged and placed in a house where she fears neither force nor violence; as of old was done in a convent of nuns and religious women. <sup class=\"mk\" data-key=\"l\" data-page=\"p038\">l</sup>",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p037",
+     "citation": "Code 4.4 (<i>De prohibita sequestratione pecuniae</i>), l. <i>unica</i> (C. 4.4.1; the print's \"l. e.\" is presumably <i>l. un.</i> or <i>l. i.</i>)",
+     "original": "l. e. C. de ꝓhib. ſeq. pec.",
+     "gloss": "Money in dispute is not to be sequestered without cause."
+    },
+    {
+     "key": "b",
+     "page": "p037",
+     "citation": "Digest 16.3.17 (<i>Depositi vel contra</i>, l. <i>Licet</i>, Florentinus)",
+     "original": "l. licet. D. depoſ.",
+     "gloss": "The definition of the <i>sequester</i>: a thing deposited by several parties jointly, to be returned to the one who prevails."
+    },
+    {
+     "key": "c",
+     "page": "p037",
+     "citation": "Decretals X 2.16 (<i>Ut lite pendente nihil innovetur</i>), c. 1",
+     "original": "c. i. vt lis pend.",
+     "gloss": null
+    },
+    {
+     "key": "d",
+     "page": "p037",
+     "citation": "Digest 30 (<i>De legatis</i> I), l. <i>Si domus</i>, § <i>Qui confitetur</i> (fragment not identified); Code 3.38.11 (<i>Communia utriusque iudicii</i>, l. <i>Possessionum</i>)",
+     "original": "l ſi domus P. qui confi tetur. D. de leg. i l. poſſeſſionum. C. comi. vtr. ind",
+     "gloss": "C. 3.38.11: in dividing estates, near kin are not to be parted — \"who could bear that children be separated from parents, sisters from brothers, wives from husbands?\""
+    },
+    {
+     "key": "e",
+     "page": "p037",
+     "citation": "Digest 7.1.13.3 (<i>De usufructu</i>: Julian's <i>aequissimum esse</i> … <i>cur enim … ad arma et rixam procedere patiatur praetor</i>, which Coras cites by the word <i>Aequissimum</i>); Digest 1.19.3 (<i>De officio procuratoris Caesaris vel rationalis</i>, the last law, Callistratus)",
+     "original": "l. aquiſſimun. D. de vſufru. l. dernier. D. de of fi proc. caſar.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "page": "p037",
+     "citation": "Digest 2.8 (<i>Qui satisdare cogantur</i>), l. <i>Si fideiussor</i>, the last paragraph (fragment not identified)",
+     "original": "l. ſi fide iuſſor. P. final qui ſatiſd. co",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "page": "p037",
+     "citation": "Digest 49.1 (<i>De appellationibus et relationibus</i>), l. <i>Imperatores</i>, the last paragraph (fragment not identified; the print's \"l a.\" unresolved); Code 7.65 (<i>Quorum appellationes non recipiantur</i>), l. <i>Ab executione</i> (fragment not identified)",
+     "original": "l. Impp. P. dernier. D. app. l a. l. ab. executione. C. quor. app. non recip.",
+     "gloss": null
+    },
+    {
+     "key": "h",
+     "page": "p037",
+     "citation": "Digest 43.30 (<i>De liberis exhibendis, item ducendis</i>), the law whose incipit the print garbles as \"ijs\", § <i>Si vero</i> (fragment not identified; \"v. raque\" perhaps <i>utraque</i>)",
+     "original": "l. ijs. P ſi ve rò v. raque. D. de liber. ex hib.",
+     "gloss": null
+    },
+    {
+     "key": "i",
+     "page": "p038",
+     "citation": "Decretals X 2.13 (<i>De restitutione spoliatorum</i>), c. 8 <i>Ex transmissa</i> and c. 13 <i>Litteras</i>, at the end",
+     "original": "c. ex tranſmiſſa. c. literas. P. fin. de reſt. ſpel.",
+     "gloss": "A husband seeking restitution of a wife who fears his cruelty: she is meanwhile placed in a safe and honest house."
+    },
+    {
+     "key": "l",
+     "page": "p038",
+     "citation": "Decretals X 2.19.14 (<i>De probationibus</i>, the penultimate chapter, <i>Causam matrimonii</i>, Honorius III)",
+     "original": "c. penultsime de prob.",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "page": "p038",
+     "citation": "Decretals X 4.1 (<i>De sponsalibus et matrimoniis</i>), c. <i>Cum locum</i> (X 4.1.14)",
+     "original": "c. cum locum, de ſponſ.",
+     "gloss": "Where fear or coercion intervenes there is no room for consent; the woman is to be put in a place where she may freely declare her will — evidently for the sentence on lodging the wife \"where she fears neither force nor violence\"."
+    }
+   ]
+  }
+ ]
+}

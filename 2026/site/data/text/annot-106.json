@@ -1,0 +1,92 @@
+{
+ "id": "annot-106",
+ "order": 214,
+ "heading": "ANNOTATION CVI",
+ "kind": "annotation",
+ "pages": [
+  "p149",
+  "p150"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p149\"></span>Everyone persuaded himself, and with great reason, as I have shown above <sup class=\"mk\" data-key=\"a\" data-page=\"p149\">a</sup>, that this prodigious imposture was aided by Necromancy, or some other reprobate art: inasmuch as it was impossible by nature to say so many things, and to know persons never before seen, reciting to them the conversations which they and the said Martin Guerre had had ten, fifteen and twenty years before; together with uncovering the most particular and private acts that can pass between two married people, and that had truly taken place between the said Martin Guerre and Bertrande de Rols, husband and wife — without the help of some magic and diabolical art. Whence I cannot yet put off this opinion, though this fine rustic denied it at the execution. Especially when I remember that never did he falter in any interrogation whatever that was put to him by me, or by Monsieur the President, in full chamber, save in this one alone: namely, when the said lord President asked him (as if assured of it) whence he had the familiar spirit of which he had made use in this affair, and where it was that he had learned the diabolical invocations. For then, all affrighted, he lowered his face, and knew not what to answer: making true what Ovid says in some place <sup class=\"mk\" data-key=\"b\" data-page=\"p149\">b</sup>,",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p149",
+     "citation": "Coras, Annotation LXXI as printed (annot-070 in the transcription, p090–p096), on magic",
+     "original": "En l'annotation lxxi.",
+     "gloss": "The long annotation in which Coras argues that magic is not wholly fabulous and that the laws, divine and human, punish it; his \"as I have shown above\"."
+    },
+    {
+     "key": "b",
+     "page": "p149",
+     "citation": "Ovid, <i>Metamorphoses</i>, book 2, line 447",
+     "original": "Oui. au li. ij. de la metamorphoſe.",
+     "gloss": "<i>Heu quam difficile est crimen non prodere vultu!</i> — of Callisto, unable to hide her shame before Diana."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Alas, how hard it is not to betray a crime by the face! (<i>Heu, quàm difficile eſt crimen non prodere vultu!</i>)",
+   "notes": []
+  },
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p150\"></span>O how ill-easy it is that the crime should not manifest and discover itself in the face! And as to his now denying it: besides that this cannot alter nor change the truth of the matter <sup class=\"mk\" data-key=\"c\" data-page=\"p150\">c</sup>, there is no one who does not know that to what an accused man says (even were he at the point of death) to charge another, or to discharge himself, no great faith is given <sup class=\"mk\" data-key=\"d\" data-page=\"p150\">d</sup>. For neither can the assertion of one man harm another <sup class=\"mk\" data-key=\"e\" data-page=\"p150\">e</sup> — as Moses himself had written in his laws <sup class=\"mk\" data-key=\"f\" data-page=\"p150\">f</sup> — nor can anyone (though he be esteemed a great man of worth, and placed in honour and great authority <sup class=\"mk\" data-key=\"g\" data-page=\"p150\">g</sup>) bear witness in his own cause <sup class=\"mk\" data-key=\"h\" data-page=\"p150\">h</sup>. Although, to the profit of another, the assertion of a third party may sometimes avail: as for example, the declaration made by one who is about to die of some wound, the author of which is uncertain, tending to the discharge of another who is accused of having struck the blow, is of such force, and so profits the accused, that he cannot afterwards be put to the torture, even though otherwise the indications were sufficient <sup class=\"mk\" data-key=\"i\" data-page=\"p150\">i</sup>.",
+   "notes": [
+    {
+     "key": "c",
+     "page": "p150",
+     "citation": "Digest 50.1.6 (<i>Ad municipalem et de incolis</i>, l. <i>Adsumptio</i>)",
+     "original": "l. aſſumptio D. ad munici pal.",
+     "gloss": "<i>Adsumptio originis quae non est, veritati non praeiudicat</i>: claiming an origin that is not one's own does not prejudice the truth — hence the denial cannot change the truth of the matter."
+    },
+    {
+     "key": "d",
+     "page": "p150",
+     "citation": "Digest 29.5.3 § 1 (<i>De senatus consulto Silaniano</i>, l. 3); Jason de Mayno (<i>Iaſ.</i>) on Digest 2.10.1 (<i>De eo per quem factum erit quominus quis in iudicio sistat</i>, l. 1)",
+     "original": "l. iij P. j. D. ad Sillan. Iaſ. en la l. j. D. de eo per quem fac er.",
+     "gloss": "The margin cites the same l. iij § j again at {i}; see the `⟨alt⟩` note in the report. The bearing of the paragraph, that little faith is given to what an accused says to charge or clear others, not verified against the text."
+    },
+    {
+     "key": "e",
+     "page": "p150",
+     "citation": "Digest 12.2.3 (<i>De iureiurando</i>, l. 3; Ulpian), penultimate § — § 3 of four, <i>Unde Marcellus</i>, which lays down that <i>iusiurandum alteri neque prodest neque nocet</i>: one man's oath neither helps nor harms another",
+     "original": "l. iij. P. pen. D. de iureiu.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "page": "p150",
+     "citation": "Josephus, <i>Jewish Antiquities</i>, book 4, chapter 6 as printed — in the modern division 4.8.15 (§ 219), where the laws of Moses forbid crediting a single witness",
+     "original": "Ioſephe au liure iiij. des antiquités Iu daiques. c. vj.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "page": "p150",
+     "citation": "Cicero, <i>For Sextus Roscius of Ameria</i>",
+     "original": "Ciceron en l'raiſon pro Roſc. ameri.",
+     "gloss": "<i>l'raiſon</i> is a wrong sort for <i>l'oraiſon</i>; the passage, on the testimony of men of standing, not located."
+    },
+    {
+     "key": "h",
+     "page": "p150",
+     "citation": "Digest 22.5.10 (<i>De testibus</i>, l. <i>Nullus</i>)",
+     "original": "l. nullum D. de teſtib.",
+     "gloss": "<i>Nullus idoneus testis in re sua intellegitur</i>: no one is understood to be a competent witness in his own cause."
+    },
+    {
+     "key": "i",
+     "page": "p150",
+     "citation": "Digest 29.5.2 and 29.5.3 § 1 (<i>De senatus consulto Silaniano</i>), and the interpreters there; Digest 38.2 (<i>De bonis libertorum</i>), l. <i>Paulus</i>, § 1 — fragment not identified; Baldus on Code 6.43.1 (<i>Communia de legatis et fideicommissis</i>, l. 1), penultimate column",
+     "original": "l. ij l. iij. P j. &amp; illec les interpretes D. ad Sillan. l. Paulus. P. j. D. de bon. liberto. Bald. l. j. colõne pen. C. cõ. de leg.",
+     "gloss": "For the dying man's declaration that clears another of the blow, which bars the torture of the accused; <i>C. cõ. de leg.</i> is read as <i>Communia de legatis</i>; a reading as <i>C. de legibus</i> (C. 1.14) is possible."
+    }
+   ]
+  }
+ ]
+}

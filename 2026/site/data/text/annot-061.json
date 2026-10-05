@@ -1,0 +1,31 @@
+{
+ "id": "annot-061",
+ "order": 124,
+ "heading": "ANNOTATION LXI",
+ "kind": "annotation",
+ "pages": [
+  "p082"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p082\"></span>That it is so: Sura, a Roman, being proconsul in Sicily, found there a poor fisherman altogether like him, not only in the bulk and stature of the body, in the features of the mouth and the lineaments of the face, but also in his gestures and bearing, and in I know not what opening of the mouth which the said Sura had, proper and particular to himself, in laughing or in speaking — nay, even in being a stammerer, like him <sup class=\"mk\" data-key=\"a\" data-page=\"p082\">a</sup>. So it was with the father of the great Pompey and his cook, as we shall say hereafter <sup class=\"mk\" data-key=\"b\" data-page=\"p082\">b</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p082",
+     "citation": "Pliny, <i>Natural History</i> VII.10 (§55, the Sicilian fisherman who resembled the proconsul Sura even to the stammer; the chapter is c. 12 in the old division, so the printed c. xxiij is probably a slip); Valerius Maximus, <i>Memorable Doings and Sayings</i> IX.14 (<i>De similitudine formae</i>; Coras's c. 15 in the old numbering, printed <i>vx</i> for <i>xv</i>)",
+     "original": "Pline au li. vij. c. xxiij. Va lere au liu. ix. c. vx.",
+     "gloss": "Pliny: the resemblance extended to the gaping of the mouth and the hesitation of the tongue; Valerius tells the retort about Sura's father (cf. annot-005 {f})."
+    },
+    {
+     "key": "b",
+     "page": "p082",
+     "citation": "Coras's own Annotation LXIII, as printed; the matter of Pompey's father and his cook Menogenes is in fact told in Annotation LXII (p084)",
+     "original": "En l'annota tion lxiij.",
+     "gloss": "The cross-reference is off by one; the story is in the annotation numbered LXII in this edition."
+    }
+   ]
+  }
+ ]
+}

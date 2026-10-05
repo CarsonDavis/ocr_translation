@@ -1,0 +1,50 @@
+{
+ "id": "annot-104",
+ "order": 210,
+ "heading": "ANNOTATION CIIII",
+ "kind": "annotation",
+ "pages": [
+  "p146",
+  "p147"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p146\"></span>It was truly a tragedy for this fine rustic, inasmuch as the issue of it was most deadly and miserable for him. Whereupon, no one is ignorant of the difference between tragedy and comedy. For although both are kinds of fable <sup class=\"mk\" data-key=\"a\" data-page=\"p146\">a</sup>, comedy nevertheless describes and represents, in a low and humble style, the private fortune of men — such as loves, and the ravishing of maidens — so that thereby one may learn what one ought to imitate and follow in this life, and what one ought also to avoid: whence Cicero in some place calls comedy an imitation of life, a mirror of custom, and an image of truth <sup class=\"mk\" data-key=\"b\" data-page=\"p146\">b</sup>; so named from KOMAI, <span class=\"pg\" data-page=\"p147\"></span>a Greek word which signifies what the Latins call PAGUS, that is to say a town and village, and ODE, which signifies song: which is as much as to say the song of the villages and villagers. For in the beginning the Greeks, when they wished to rebuke and tax the vices and evil life of certain persons, were wont to assemble through the villages and the crossroads of the towns, and there, singing, to publish the life of those whom they wished to objurgate and reprove. In this kind of fable and poetry, although the beginning was troublous and sad, the issue nevertheless was happy, pleasant and agreeable: as all the Comedies of Plautus and of Terence demonstrate. But in Tragedy there are represented, in a high and grave style, the manners, adversities and calamitous life of captains, Dukes, Kings and Princes; it having always been so called because the first prize that was proposed for the best players of this kind of poetry was a GOAT, which the Greeks call TRAGOS.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p146",
+     "citation": "Cicero, <i>On Duties</i>, book 1",
+     "original": "Ciceron au premier liure des offices.",
+     "gloss": "The passage where comedy and tragedy are treated together as kinds of poetic fiction was not located; cf. <i>De officiis</i> 1.97–98 on the poets' observance of what is fitting in each character, and 1.104 on the two kinds of jest."
+    },
+    {
+     "key": "b",
+     "page": "p146",
+     "citation": "Cicero, <i>For Sextus Roscius of Ameria</i>",
+     "original": "Ciceron en l'oraiſon pro Sext. Roſcio.",
+     "gloss": "The definition of comedy as <i>imitatio vitae, speculum consuetudinis, imago veritatis</i> is transmitted by Donatus (<i>De comoedia</i> 5.1), who attributes it to Cicero; it is not in the extant <i>Pro Sexto Roscio Amerino</i>, whose nearest thought (16.47) is that the poets' fictions show us our own manners in other persons."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "He who in tragic song competed for a paltry goat <sup class=\"mk\" data-key=\"c\" data-page=\"p147\">c</sup> (<i>Carmine qui tragico, vilem, certauit ob hircum</i>).",
+   "notes": [
+    {
+     "key": "c",
+     "page": "p147",
+     "citation": "Horace, <i>Art of Poetry</i>, line 220",
+     "original": "Horace au liure de l'art poëtique.",
+     "gloss": "<i>Carmine qui tragico vilem certavit ob hircum</i>: the poet who first competed in tragic verse for a paltry he-goat — the etymology of tragedy from the goat given as the prize."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Or else a Goat's skin full of wine: and ODE, which signifies song — that is to say, Goat-song. And this kind of fable always has a sad, unhappy and lamentable issue: whence is now drawn and taken the manner of speaking, which many in this time use, of calling unhappy and unfortunate deeds (even though they are transacted among vile and abject persons) plays of tragedy.",
+   "notes": []
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "annot-019",
+ "order": 40,
+ "heading": "ANNOTATION XIX",
+ "kind": "annotation",
+ "pages": [
+  "p035",
+  "p036"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p035\"></span>It is rightly the punishment of calumniators (that is to say, of those who falsely and with premeditated malice denounce another for some crime) to suffer one like to that which the accused would have to endure, if he were attainted and convicted of the crime imputed to him <sup class=\"mk\" data-key=\"a\" data-page=\"p035\">a</sup>. A fault certainly inhuman, detestable and great, and one which has at all times been so odious to the good Emperors that they would not allow any colour of right, any abolition public or private, nor even a special permission of the prince, to be able to protect it <sup class=\"mk\" data-key=\"b2\" data-page=\"p035\">b2</sup>. And our canonists have justly judged calumniators to be worthy of punishments more cruel and grievous than the accused, if they were convicted of the crimes <sup class=\"mk\" data-key=\"c2\" data-page=\"p035\">c2</sup>; and the reason seems to me plain enough: for the other crimes are very often committed without intention and previous deliberation to do wrong, through some light and inconsiderate passion <sup class=\"mk\" data-key=\"d2\" data-page=\"p035\">d2</sup>. As a murder, by one who is overcome by anger; a th<span class=\"pg\" data-page=\"p036\"></span>eft, through want and necessity; a blasphemy against God, slander against the Prince, insult against one's neighbour, through a slip and looseness of the tongue: but a calumny is always deliberate, conspired and maliciously premeditated; in detestation of which the Lord God was not content to instruct us by the mouth of Moses to build no calumny against our neighbour <sup class=\"mk\" data-key=\"f\" data-page=\"p036\">f</sup>, but has moreover straitly commanded us to deliver the oppressed from the hand of the calumniator, lest his indignation go forth like fire, and, kindled by the malice of such affections, there be found afterwards none who can quench it <sup class=\"mk\" data-key=\"g\" data-page=\"p036\">g</sup>. Likewise he has given several great and proper epithets to Satan, to show his cruelty and malicious cunning; as when he has called him Serpent <sup class=\"mk\" data-key=\"h\" data-page=\"p036\">h</sup>, Dragon <sup class=\"mk\" data-key=\"i\" data-page=\"p036\">i</sup>, Asp <sup class=\"mk\" data-key=\"k\" data-page=\"p036\">k</sup>, ravening and roaring Lion <sup class=\"mk\" data-key=\"l\" data-page=\"p036\">l</sup>; but among them all he has not wished to forget the one that is most fitting to him, namely, to name him Calumniator, <sup class=\"mk\" data-key=\"m\" data-page=\"p036\">m</sup> inasmuch as he is a liar and false accuser, who strives incessantly only to throw our conscience into confusion, to make us find evil what by the grace of God we have done well; and on the contrary, exalting and magnifying our evil works, only to keep and harden us in them. There is certainly no crime in a commonwealth worthy of being punished and repressed with so great severity as a calumny: and yet in this wretched age of ours it is made a game of, and the reins are found so slackened for calumniators that it is as it were permitted them, with impunity, to conspire, contrive and machinate all kinds of ruses, wiles and wickednesses against good people. O noble saying of Domitian, who said that the prince who does not chastise calumniators lends a hand to their malice and upholds them <sup class=\"mk\" data-key=\"n\" data-page=\"p036\">n</sup>. Alexander the Great, when he presided at the judgment of capital crimes, was accustomed, to obviate calumnies, to stop one of his ears with his hand, in order to keep it whole and free from all calumny for the accused; and if he could hear, or only smell the odour of some calumny, he was inflamed with anger so bitterly that he often became cruel and inexorable.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p035",
+     "citation": "Code 9.2.17 (<i>De accusationibus et inscriptionibus</i>, the last law, Honorius and Theodosius: inscriptions are required <i>ut alterutram partem digna legum tenere possit auctoritas</i>); Decretum C. 2 q. 8 c. 3 (<i>Quisquis ille est, qui crimen intendit</i>: <i>calumniantes ad vindictam poscat similitudo supplicii</i>), printed <i>iij. q. viij</i>; Decretum C. 2 q. 3 c. 6 (<i>Paulum itaque diaconum</i>, with its palea <i>qui non probaverit quod obiecit, poenam, quam intulerit, ipse patiatur</i>)",
+     "original": "l. fin. C. de accuſa. C. quiſ quis. iij. q. viij c. Paulum. ij. q. iij.",
+     "gloss": "The talion against calumnious accusers: the accuser who fails suffers the penalty he sought against the accused."
+    },
+    {
+     "key": "b2",
+     "page": "p035",
+     "citation": "Code 9.46.9 (<i>De calumniatoribus</i>, l. <i>Fallaciter</i>, Gratian, Valentinian and Theodosius)",
+     "original": "l. fallaciter. C. de calũnia.",
+     "gloss": "Cited for the rule that no <i>abolitio</i>, public or private, nor a special licence of the prince, shields a calumniator."
+    },
+    {
+     "key": "c2",
+     "page": "p035",
+     "citation": "Decretals X 5.2 (<i>De calumniatoribus</i>), the last chapter, and there Innocent IV and Panormitanus (their commentaries on the Decretals, <i>ad loc.</i>)",
+     "original": "c. fi. &amp; illec Innocens &amp; Panorme de calumniator.",
+     "gloss": null
+    },
+    {
+     "key": "d2",
+     "page": "p035",
+     "citation": "Digest, <i>De legatis</i> (D. 30–32), l. 1 — as printed; the bearing on crimes of impulse is not evident (the classical text is D. 48.19.11.2, Marcian: <i>delinquitur aut proposito aut impetu aut casu</i>)",
+     "original": "l. j. D. de legat.",
+     "gloss": null
+    },
+    {
+     "key": "f",
+     "page": "p036",
+     "citation": "Leviticus 19:13 (Vulgate: <i>non facies calumniam proximo tuo</i>)",
+     "original": "Leuit. c. xix.",
+     "gloss": null
+    },
+    {
+     "key": "g",
+     "page": "p036",
+     "citation": "Jeremiah 21:12",
+     "original": "Hiere. xxj.",
+     "gloss": "Deliver the oppressed from the hand of the calumniator (Vulgate <i>calumniantis</i>), lest my indignation go forth like fire and burn, and there be none to quench it, because of the malice of your doings."
+    },
+    {
+     "key": "h",
+     "page": "p036",
+     "citation": "Genesis 3; Revelation 12 (12:9)",
+     "original": "Gene. c. iij. Apocaly. xij.",
+     "gloss": "The serpent of Eden; \"that old serpent, called the Devil and Satan\"."
+    },
+    {
+     "key": "i",
+     "page": "p036",
+     "citation": "Isaiah 27 (27:1, Leviathan the dragon)",
+     "original": "Eſaye. c. xxvij,",
+     "gloss": null
+    },
+    {
+     "key": "k",
+     "page": "p036",
+     "citation": "Psalm 90 (Vulgate numbering; = Psalm 91:13, <i>super aspidem et basiliscum ambulabis</i>)",
+     "original": "Pſeaume xc.",
+     "gloss": null
+    },
+    {
+     "key": "l",
+     "page": "p036",
+     "citation": "Ezekiel 22 (22:25); Zephaniah 3 (3:3); 1 Peter 5 (5:8); Psalm 21 (Vulgate; = 22:13, <i>sicut leo rapiens et rugiens</i>); the closing \"&amp; c. iij\" not resolved (perhaps Vulgate Psalm 7:3, <i>ne quando rapiat ut leo</i>)",
+     "original": "Ezeciel xxij. Saphonie iij. A la premiere S. Pierre c. v. Pſaume xxj. &amp; c. iij.",
+     "gloss": "The ravening and roaring lion; 1 Peter: the devil as a roaring lion seeking whom he may devour."
+    },
+    {
+     "key": "m",
+     "page": "p036",
+     "citation": "Psalm 11 (Vulgate numbering), as printed; the bearing is not evident (the usual texts for Satan the accuser are Vulgate Psalm 108:6, <i>diabolus stet a dextris eius</i>, and Revelation 12:10, <i>accusator fratrum nostrorum</i>); number unverified",
+     "original": "Pſeaume xi.",
+     "gloss": null
+    },
+    {
+     "key": "n",
+     "page": "p036",
+     "citation": "Suetonius, <i>Life of Domitian</i> 9",
+     "original": "Suetone en la vie de Domitian.",
+     "gloss": "<i>Princeps qui delatores non castigat, irritat</i> — a prince who does not punish informers eggs them on."
+    },
+    {
+     "key": "e",
+     "page": "p036",
+     "citation": "Digest 48.4.7.3 (<i>Ad legem Iuliam maiestatis</i>, l. <i>Famosi</i>, Modestinus)",
+     "original": "l. famoſi. D. ad l. Iul. maie ſta.",
+     "gloss": "<i>Nec lubricum linguae ad poenam facile trahendum est</i> — a slip of the tongue is not readily to be drawn to punishment; it belongs to \"slander against the Prince … through a slip and looseness of the tongue\"."
+    }
+   ]
+  }
+ ]
+}

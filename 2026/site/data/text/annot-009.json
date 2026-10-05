@@ -1,0 +1,116 @@
+{
+ "id": "annot-009",
+ "order": 20,
+ "heading": "ANNOTATION IX",
+ "kind": "annotation",
+ "pages": [
+  "p023",
+  "p024"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p023\"></span>From this fact a question may arise in the future: whether the true husband, coming upon the scene, may retract the alienations of his property, and not only the parcels sold, but may also recover the fruits gathered and received by the purchasers since the time of the contracts. For the decision of which doubt, it must be presupposed that anyone may freely sell not only his own property, of which he is master and owner, but also the property of another; and the sale is good and valid <sup class=\"mk\" data-key=\"d\" data-page=\"p023\">d</sup> — in so far, however, as concerns the prejudice of the seller, who by this contract is bound to deliver the thing sold, or to pay damages, and further, if the parcel is evicted by a third party, to warrant and indemnify the purchaser <sup class=\"mk\" data-key=\"e\" data-page=\"p023\">e</sup>. But to the detri<span class=\"pg\" data-page=\"p024\"></span>ment of the true owner and master of the parcel sold, the contract has no force; for what is ours cannot be taken from us without our will <sup class=\"mk\" data-key=\"g\" data-page=\"p024\">g</sup>. And certainly it would be a thing far too iniquitous and unreasonable that another should retain and enjoy my property against my will <sup class=\"mk\" data-key=\"h\" data-page=\"p024\">h</sup>. Added to which, neither by the delivery of a thing nor by any agreement can more right be transferred than he who delivered it had in it <sup class=\"mk\" data-key=\"i\" data-page=\"p024\">i</sup>, whether by testamentary dispositions, <sup class=\"mk\" data-key=\"k\" data-page=\"p024\">k</sup> gifts, sales or other contracts <sup class=\"mk\" data-key=\"l\" data-page=\"p024\">l</sup>. Therefore, to our purpose, it must undoubtedly be believed that the contracts made by this cheat du Tilh can in no way prejudice Martin Guerre, who without difficulty will recover from the purchasers the lands themselves. But as to the fruits, they will remain with the said purchasers, provided however that they bought, and have always possessed, in good faith, that is to say, thinking that the said du Tilh, the seller, was Martin Guerre. And to understand it clearly, it is to be considered that the good faith of him who buys, or otherwise contracts, with one whom everyone thought to be the true owner and master of the thing, produces two singular and notable effects. The first: that he who possesses the parcel by title of purchase, or the like, and in good faith — that is to say, thinking that he from whom he had the parcel, by purchase or otherwise, was its true master — will gain the fruits of the parcel so long as he holds it with this good faith; for as to the fruits, he stands in the place of the owner and represents him <sup class=\"mk\" data-key=\"m\" data-page=\"p024\">m</sup>. The second effect: that he might possess it so long with this good faith that in time he would prescribe it — that is to say, would acquire it in ownership, and irrevocably, by long usage <sup class=\"mk\" data-key=\"n\" data-page=\"p024\">n</sup>: unless the contract of sale should by chance have been made of the property of a ward <sup class=\"mk\" data-key=\"o\" data-page=\"p024\">o</sup>, or against the prohibition of the law or of the testator <sup class=\"mk\" data-key=\"p\" data-page=\"p024\">p</sup>, in which case the purchaser (though he had more good faith and probity than a Scipio Nasica) could not acquire the parcel by prescription, or by possession however long it might be <sup class=\"mk\" data-key=\"q\" data-page=\"p024\">q</sup>. Now there is no doubt that he is called in our law a possessor in good faith who has title either from the man he believes to be the owner of the parcel, or from his attorney, guardian or curator <sup class=\"mk\" data-key=\"r\" data-page=\"p024\">r</sup>.",
+   "notes": [
+    {
+     "key": "d",
+     "page": "p023",
+     "citation": "Digest 18.1.28 (<i>De contrahenda emptione</i>, l. <i>Rem alienam</i>)",
+     "original": "l. rem alienam. D. d. cõ trah. empt.",
+     "gloss": "Ulpian: there is no doubt that a man may sell a thing belonging to another; the sale is valid, though the thing may be taken from the buyer."
+    },
+    {
+     "key": "e",
+     "page": "p023",
+     "citation": "Digest 19.1.11 pr. (<i>De actionibus empti venditi</i>, l. <i>Ex empto</i>, at the beginning)",
+     "original": "l ex empt. au commence ment D. de actio. empe.",
+     "gloss": "Ulpian on what the buyer may claim from the seller by the action on purchase: delivery, or damages, and warranty against eviction."
+    },
+    {
+     "key": "g",
+     "page": "p024",
+     "citation": "Digest 50.17.11 (<i>De diversis regulis iuris antiqui</i>, l. <i>Id quod nostrum</i>)",
+     "original": "l. Id quod noſtrum. D. de reg. iur.",
+     "gloss": "Pomponius: what is ours cannot be transferred to another without our act."
+    },
+    {
+     "key": "h",
+     "page": "p024",
+     "citation": "Digest 24.3 (<i>Soluto matrimonio dos quemadmodum petatur</i>), l. <i>Si filio</i>, § 11; fragment not identified",
+     "original": "l. ſi filio. Pa rag. xi. D. So lut. mat.",
+     "gloss": null
+    },
+    {
+     "key": "i",
+     "page": "p024",
+     "citation": "Digest 41.1.20 pr. (<i>De adquirendo rerum dominio</i>, l. <i>Traditio</i>)",
+     "original": "l. traditio D. de acquir. rer. do.",
+     "gloss": "Ulpian: delivery can transfer no more to the receiver than the deliverer had."
+    },
+    {
+     "key": "k",
+     "page": "p024",
+     "citation": "Digest 50.17.59 (l. <i>Heredem</i>) and 50.17.54 (l. <i>Nemo plus</i>), both <i>De diversis regulis iuris antiqui</i>",
+     "original": "l. haredẽ. l. nemo plus. D. de reg. iur.",
+     "gloss": "The heir has the same power and right as the deceased; no one can transfer to another more right than he himself has."
+    },
+    {
+     "key": "l",
+     "page": "p024",
+     "citation": "Code 7.26 (<i>De usucapione pro emptore vel transactione</i>), l. 2; Code 8.53 (<i>De donationibus</i>), l. <i>Si filius</i> (fragment not identified); and l. <i>Rem alienam</i> (D. 18.1.28) as at {d}",
+     "original": "l ij. C. de vſusap. pẽp. l. ſi filius C. de do na. l rẽ alienã deſ. alleguee.",
+     "gloss": null
+    },
+    {
+     "key": "m",
+     "page": "p024",
+     "citation": "Digest 41.1.48 (<i>De adquirendo rerum dominio</i>, l. <i>Bonae fidei</i>)",
+     "original": "l bona fidei D. de ac. do,",
+     "gloss": "Paulus: the good-faith buyer makes the fruits his own by gathering them, even from another's property, because as to the fruits he stands in the owner's place."
+    },
+    {
+     "key": "n",
+     "page": "p024",
+     "citation": "Digest 41.3 (<i>De usurpationibus et usucapionibus</i>), l. <i>Si fur</i>, § 1; fragment not identified",
+     "original": "l. ſi fur. Pa rag. i. D. de vſucapio.",
+     "gloss": null
+    },
+    {
+     "key": "o",
+     "page": "p024",
+     "citation": "Digest 41.1.48 (l. <i>Bonae fidei</i>) as at {m}",
+     "original": "l bona fidei. allegue.",
+     "gloss": "The ward's property as an exception to the good-faith rule."
+    },
+    {
+     "key": "p",
+     "page": "p024",
+     "citation": "Code 7.26 (<i>De usucapione pro emptore vel transactione</i>), l. 2",
+     "original": "l. ij. C. de vſuc. pro empt.",
+     "gloss": "Constitution number not verified."
+    },
+    {
+     "key": "q",
+     "page": "p024",
+     "citation": "Code 7.26, l. 2, as at {p}",
+     "original": "l ij. præalleguee.",
+     "gloss": null
+    },
+    {
+     "key": "r",
+     "page": "p024",
+     "citation": "Digest 6.2 (<i>De Publiciana in rem actione</i>), l. <i>Quaecunque</i>, last paragraph (fragment not identified); Digest 50.16.109 (<i>De verborum significatione</i>, l. <i>Bonae fidei</i>)",
+     "original": "l. quæcunqꝫ Para. dernier. D. de publicia l. bona fidei. D. de verb. ſi.",
+     "gloss": "Modestinus: a buyer in good faith is one who did not know the thing was another's, or thought the seller had the right to sell — for instance that he was the owner's procurator or guardian. Coras's definition follows this closely."
+    },
+    {
+     "key": "f",
+     "page": "p024",
+     "citation": "Code 8.15 (<i>Si aliena res pignori data sit</i>), l. <i>fin.</i>, with Baldus there; Accursius on Code 4.29 (<i>Ad senatus consultum Velleianum</i>), l. <i>Si sine</i> (fragment not identified)",
+     "original": "l. finale &amp; illec le Balde C. ſi res alie. pi. dat. ſit. Ac curſe en la l. ſi ſine. C. ad Velleya.",
+     "gloss": "Evidently belongs to \"to the detriment of the true owner … the contract has no force.\""
+    }
+   ]
+  }
+ ]
+}

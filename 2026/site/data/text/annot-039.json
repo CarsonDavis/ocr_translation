@@ -1,0 +1,67 @@
+{
+ "id": "annot-039",
+ "order": 80,
+ "heading": "ANNOTATION XXXIX",
+ "kind": "annotation",
+ "pages": [
+  "p060",
+  "p061"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p060\"></span>The testimony of kinsfolk or relatives by marriage, and especially of fathers, mothers, children, brothers and sisters, sons-in-law and brothers-in-law, for the great affection they naturally bear to their own and so near blood, is not, nor by reason ought to be, received <sup class=\"mk\" data-key=\"a\" data-page=\"p060\">a</sup>, unless in certain cases discussed elsewhere by our interpreters, of which two or three only serve us. The first, when it would be a question of proving a thing in which the faith of kinsfolk would be more required than that of all others <sup class=\"mk\" data-key=\"b\" data-page=\"p060\">b</sup>: as to prove age, or to recognise (which is our case) whether someone is of their kinship or affinity <sup class=\"mk\" data-key=\"c\" data-page=\"p060\">c</sup>. The second, when the kinsman would not be produced by the party who is his kin, but would have been taken (as in this present case) by the judge on his own motion <sup class=\"mk\" data-key=\"d\" data-page=\"p060\">d</sup>. The third, when his deposition would profit the kinsfolk and harm no one: as when the witness would depose (as in this case the said witnesses do) for the innocence of a kinsman of his, even were he his own brother, nay, and one accused of heresy <sup class=\"mk\" data-key=\"e\" data-page=\"p060\">e</sup>. Whence several have thought and taught that one accused of homi<span class=\"pg\" data-page=\"p061\"></span>cide may produce his own brother against the fisc [the royal treasury], or the King, who alone is the party against him, to show that he committed the killing in defending himself <sup class=\"mk\" data-key=\"f\" data-page=\"p061\">f</sup>: for although the King pursues the confiscation of the accused's goods, nevertheless such a penal and odious gain, which cannot come about except with the detriment and loss both of the honour and of the life of the accused, does not come into consideration. <sup class=\"mk\" data-key=\"g\" data-page=\"p061\">g</sup>",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p060",
+     "citation": "Code 4.20.6 (<i>De testibus</i>, l. <i>Parentes</i>; Diocletian and Maximian to Tertullus, a. 294: <i>Parentes et liberi invicem adversus se nec volentes ad testimonium admittendi sunt</i>)",
+     "original": "l. parentes. C. de teſti.",
+     "gloss": "The print's point after <i>l</i> is set high; notes <i>b</i> and <i>c</i> print the same abbreviation without a point."
+    },
+    {
+     "key": "b",
+     "page": "p060",
+     "citation": "Code 4.19 (<i>De probationibus</i>), l. <i>Etiam matris</i> as printed — no law of the title (Krüger) has that incipit; the laws on proof of birth and status through the mother are C. 4.19.10 (<i>Neque natales</i>) and 4.19.17 (<i>Matrem tuam</i>); unidentified",
+     "original": "l etiam matris. C. de proba.",
+     "gloss": null
+    },
+    {
+     "key": "c",
+     "page": "p060",
+     "citation": "The law <i>Etiam</i> already cited (<i>prealleguee</i>, at {b}); Accursius and Bartolus on Digest 27.1 (<i>De excusationibus</i>), l. 2, in principio (D. 27.1.2, Modestinus, on the excuse of tutors for the number of their children — where the commentators discuss proof of age and of kinship by relatives)",
+     "original": "l etiam prealleguét. Accurſe &amp; Bartole en la l. ij. au commencement. D. de ex cuſ. tut.",
+     "gloss": "The print's <i>prealleguét.</i> is <i>prealleguee</i>, \"already cited\"."
+    },
+    {
+     "key": "d",
+     "page": "p060",
+     "citation": "Decretals X 2.23.14 (<i>De praesumptionibus</i>, c. <i>Litteras</i>)",
+     "original": "c. literas. de præſump.",
+     "gloss": "The note is printed five lines below its marker."
+    },
+    {
+     "key": "e",
+     "page": "p060",
+     "citation": "The said chapter <i>Litteras</i> (X 2.23), cited at {d}",
+     "original": "aud. c. literas",
+     "gloss": "<i>aud.</i> = <i>audit</i>, \"in the said\"; the note is printed below the last body line of p060."
+    },
+    {
+     "key": "f",
+     "page": "p061",
+     "citation": "Baldus (<i>Balde</i>) on Code 4.20 (<i>De testibus</i>), l. <i>Parentes</i>, cited above at {a}",
+     "original": "Balde en la l. Parentes. deſſus citée.",
+     "gloss": "Baldus's exception admitting a kinsman where the fisc alone is the adversary."
+    },
+    {
+     "key": "g",
+     "page": "p061",
+     "citation": "Digest 47.2.52 (<i>De furtis</i>, l. <i>Si quis uxori</i>; Ulpian), penultimate paragraph — § 28 of 29 in the modern division (<i>Si servus subreptus heres institutus fuerit</i>), whose bearing on penal gain is not evident, so the paragraph meant is unverified; l. <i>Si cui</i>, § <i>Si</i> — no fragment of D. 47.2 begins <i>Si cui</i>; unidentified",
+     "original": "l. ſi quis vxo ri. P. penultime. l. ſi cui. P. ſi. D. de fut.",
+     "gloss": "The print's <i>fut.</i> is a wrong sort for <i>fur.</i>, <i>De furtis</i>; the <i>P.</i> stands for the paragraph sign. Cited for the point that a penal gain, being odious, is not taken into account."
+    }
+   ]
+  }
+ ]
+}

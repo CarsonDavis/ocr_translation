@@ -1,0 +1,38 @@
+{
+ "id": "annot-043",
+ "order": 88,
+ "heading": "ANNOTATION XLIII",
+ "kind": "annotation",
+ "pages": [
+  "p065"
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "html": "<span class=\"pg\" data-page=\"p065\"></span>The ancient proverbs of like things have most often been taken from eggs, or from milk, from water, or from honey-bees. Would you not have (says Cicero in some place) the proverb be true, of the likeness of eggs, so great that it is very hard to discern and tell apart the one from the other? And a little after: As eggs, says he, are like to eggs, and honey-bees among themselves <sup class=\"mk\" data-key=\"a\" data-page=\"p065\">a</sup>. And Sosia in Plautus, seeing Mercury to have taken his form, and to resemble him in everything, said: Milk is not more like to milk than that fellow is to me <sup class=\"mk\" data-key=\"b\" data-page=\"p065\">b</sup>. Messenio also, speaking to Menaechmus of Sosicles: Water, says he, is not so like to water, nor milk to milk, as Sosicles is to you, and you to him <sup class=\"mk\" data-key=\"c\" data-page=\"p065\">c</sup>.",
+   "notes": [
+    {
+     "key": "a",
+     "page": "p065",
+     "citation": "Cicero, <i>Academica</i> II (<i>Lucullus</i>), §§ 54–57 (eggs as like as eggs and bees as bees, § 54; the proverbial likeness of eggs, § 57)",
+     "original": "Ciceron au ij. liure des Academiques.",
+     "gloss": "Lucullus 57: <i>videsne ut in proverbio sit ovorum inter se similitudo?</i>; the argument is that the Stoics cannot tell twin eggs or bees apart, yet claim infallible perception."
+    },
+    {
+     "key": "b",
+     "page": "p065",
+     "citation": "Plautus, <i>Amphitryon</i>, line 601 (<i>neque lac lactis magis est simile quam ille ego similest mei</i>)",
+     "original": "Plaute en la premiere comedie, inſcripte Amphytrion.",
+     "gloss": "Sosia, having met his double Mercury; \"the first comedy\" as at annot-003, <i>Amphitruo</i> standing first in the plays."
+    },
+    {
+     "key": "c",
+     "page": "p065",
+     "citation": "Plautus, <i>Menaechmi</i>, lines 1089–1090 (<i>neque aqua aquae nec lacte est lactis, crede mi, usquam similius, quam hic tui est, tuque huius autem</i>)",
+     "original": "Plaute en la comedie de Menechmus.",
+     "gloss": "Messenio the slave, on the two Menaechmi; the twin of Syracuse is Menaechmus Sosicles, Coras's <i>Soſides</i>."
+    }
+   ]
+  }
+ ]
+}
