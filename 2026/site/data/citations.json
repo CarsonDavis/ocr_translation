@@ -284,12 +284,12 @@
  ],
  "p003:n": [
   {
-   "ref": "X 3.10",
+   "ref": "X 3.10.7",
    "corpus": "decretals",
    "unit": "3.10",
-   "passage": null,
+   "passage": "3.10.7",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -309,12 +309,12 @@
  ],
  "p003:o": [
   {
-   "ref": "D. 61",
+   "ref": "D. 61 c. 8",
    "corpus": "decretum",
    "unit": "D.61",
-   "passage": null,
+   "passage": "D.61 c.8",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -387,12 +387,12 @@
    "kind": "law"
   },
   {
-   "ref": "X 4.2",
+   "ref": "X 4.2.3",
    "corpus": "decretals",
    "unit": "4.2",
-   "passage": null,
+   "passage": "4.2.3",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -429,13 +429,13 @@
  ],
  "p004:x": [
   {
-   "ref": "D. 1.7",
+   "ref": "D. 1.7.40.1",
    "corpus": "digest",
    "unit": "1.7",
-   "passage": null,
+   "passage": "1.7.40.1",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-01.htm#1.7",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-01.htm#1.7.40.1",
    "scan_url": null,
    "kind": "law"
   },
@@ -632,13 +632,13 @@
    "kind": "law"
   },
   {
-   "ref": "Nov. 22",
+   "ref": "Nov. 22 c. 7",
    "corpus": "novels",
    "unit": "22",
-   "passage": null,
+   "passage": "22.7",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/Nov22.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/Nov22.htm#22.7",
    "scan_url": null,
    "kind": "law"
   },
@@ -686,12 +686,12 @@
  ],
  "p006:k": [
   {
-   "ref": "X 4.19",
+   "ref": "X 4.19.4",
    "corpus": "decretals",
    "unit": "4.19",
-   "passage": null,
+   "passage": "4.19.4",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -710,23 +710,23 @@
    "kind": "law"
   },
   {
-   "ref": "X 4.13",
+   "ref": "X 4.13.6",
    "corpus": "decretals",
    "unit": "4.13",
-   "passage": null,
+   "passage": "4.13.6",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "X 5.16",
+   "ref": "X 5.16.6",
    "corpus": "decretals",
    "unit": "5.16",
-   "passage": null,
+   "passage": "5.16.6",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -1108,13 +1108,13 @@
    }
   },
   {
-   "ref": "C. 8.53",
+   "ref": "C. 8.53.27",
    "corpus": "code",
    "unit": "8.53",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ8.htm#8.53",
+   "passage": "8.53.27.pr",
+   "passage_end": "8.53.27.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ8.htm#8.53.27.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -1634,13 +1634,13 @@
  ],
  "p018:b": [
   {
-   "ref": "D. 46.3",
+   "ref": "D. 46.3.48",
    "corpus": "digest",
    "unit": "46.3",
-   "passage": null,
+   "passage": "46.3.48",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-46.htm#46.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-46.htm#46.3.48",
    "scan_url": null,
    "kind": "law"
   }
@@ -1661,13 +1661,13 @@
  ],
  "p018:d": [
   {
-   "ref": "D. 28.5",
+   "ref": "D. 28.5.8",
    "corpus": "digest",
    "unit": "28.5",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.5",
+   "passage": "28.5.8.pr",
+   "passage_end": "28.5.8.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.5.8.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -2066,13 +2066,13 @@
    "kind": "law"
   },
   {
-   "ref": "C. 8.53",
+   "ref": "C. 8.53.14",
    "corpus": "code",
    "unit": "8.53",
-   "passage": null,
+   "passage": "8.53.14",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ8.htm#8.53",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ8.htm#8.53.14",
    "scan_url": null,
    "kind": "law"
   },
@@ -2103,13 +2103,13 @@
  ],
  "p024:n": [
   {
-   "ref": "D. 41.3",
+   "ref": "D. 41.3.32.1",
    "corpus": "digest",
    "unit": "41.3",
-   "passage": null,
+   "passage": "41.3.32.1",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-41.htm#41.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-41.htm#41.3.32.1",
    "scan_url": null,
    "kind": "law"
   }
@@ -2155,13 +2155,13 @@
  ],
  "p024:r": [
   {
-   "ref": "D. 6.2",
+   "ref": "D. 6.2.13",
    "corpus": "digest",
    "unit": "6.2",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-06.htm#6.2",
+   "passage": "6.2.13.pr",
+   "passage_end": "6.2.13.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-06.htm#6.2.13.pr.",
    "scan_url": null,
    "kind": "law"
   },
@@ -2190,13 +2190,13 @@
    "kind": "law"
   },
   {
-   "ref": "D. 39.3",
+   "ref": "D. 39.3.20",
    "corpus": "digest",
    "unit": "39.3",
-   "passage": null,
+   "passage": "39.3.20",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm#39.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm#39.3.20",
    "scan_url": null,
    "kind": "law"
   }
@@ -2593,13 +2593,13 @@
  ],
  "p026:h": [
   {
-   "ref": "C. 5.5",
+   "ref": "C. 5.5.4",
    "corpus": "code",
    "unit": "5.5",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.5",
+   "passage": "5.5.4.pr",
+   "passage_end": "5.5.4.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.5.4.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -2632,13 +2632,13 @@
  ],
  "p026:l": [
   {
-   "ref": "C. 5.5",
+   "ref": "C. 5.5.4",
    "corpus": "code",
    "unit": "5.5",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.5",
+   "passage": "5.5.4.pr",
+   "passage_end": "5.5.4.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.5.4.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -2780,13 +2780,13 @@
    "kind": "law"
   },
   {
-   "ref": "D. 48.10",
+   "ref": "D. 48.10.19.1",
    "corpus": "digest",
    "unit": "48.10",
-   "passage": null,
+   "passage": "48.10.19.1",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-48.htm#48.10",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-48.htm#48.10.19.1",
    "scan_url": null,
    "kind": "law"
   },
@@ -2817,26 +2817,27 @@
  ],
  "p027:h": [
   {
-   "ref": "D. 29.5",
+   "ref": "D. 29.5.13",
    "corpus": "digest",
    "unit": "29.5",
-   "passage": null,
+   "passage": "29.5.13",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-29.htm#29.5",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-29.htm#29.5.13",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "C. 9.9",
+   "ref": "C. 9.9.32 (Coras: 9.9.33)",
    "corpus": "code",
    "unit": "9.9",
-   "passage": null,
+   "passage": "9.9.32",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.9",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.9.32",
    "scan_url": null,
-   "kind": "law"
+   "kind": "law",
+   "coras_numbering": "9.9.33"
   },
   {
    "ref": "C. 9.22.12",
@@ -2853,13 +2854,13 @@
  ],
  "p027:i": [
   {
-   "ref": "D. 48.10",
+   "ref": "D. 48.10.19.1",
    "corpus": "digest",
    "unit": "48.10",
-   "passage": null,
+   "passage": "48.10.19.1",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-48.htm#48.10",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-48.htm#48.10.19.1",
    "scan_url": null,
    "kind": "law"
   }
@@ -2879,13 +2880,13 @@
  ],
  "p028:l": [
   {
-   "ref": "D. 37.1",
+   "ref": "D. 37.1.13",
    "corpus": "digest",
    "unit": "37.1",
-   "passage": null,
+   "passage": "37.1.13",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-37.htm#37.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-37.htm#37.1.13",
    "scan_url": null,
    "kind": "law"
   },
@@ -3383,13 +3384,13 @@
    "kind": "classical"
   },
   {
-   "ref": "C. 8.13",
+   "ref": "C. 8.13.10",
    "corpus": "code",
    "unit": "8.13",
-   "passage": null,
+   "passage": "8.13.10",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ8.htm#8.13",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ8.htm#8.13.10",
    "scan_url": null,
    "kind": "law"
   }
@@ -3811,13 +3812,13 @@
  ],
  "p037:d": [
   {
-   "ref": "D. 30",
+   "ref": "D. 30.71.3",
    "corpus": "digest",
    "unit": "30",
-   "passage": null,
+   "passage": "30.71.3",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-30.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-30.htm#30.71.3",
    "scan_url": null,
    "kind": "law"
   },
@@ -3859,26 +3860,26 @@
  ],
  "p037:f": [
   {
-   "ref": "D. 2.8",
+   "ref": "D. 2.8.7",
    "corpus": "digest",
    "unit": "2.8",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-02.htm#2.8",
+   "passage": "2.8.7.pr",
+   "passage_end": "2.8.7.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-02.htm#2.8.7.pr.",
    "scan_url": null,
    "kind": "law"
   }
  ],
  "p037:g": [
   {
-   "ref": "D. 49.1",
+   "ref": "D. 49.1.21",
    "corpus": "digest",
    "unit": "49.1",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-49.htm#49.1",
+   "passage": "49.1.21.pr",
+   "passage_end": "49.1.21.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-49.htm#49.1.21.pr.",
    "scan_url": null,
    "kind": "law"
   },
@@ -4611,12 +4612,23 @@
  ],
  "p043:d": [
   {
-   "ref": "X 4.15",
+   "ref": "X 4.15.6",
    "corpus": "decretals",
    "unit": "4.15",
-   "passage": null,
+   "passage": "4.15.6",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
+   "external_url": null,
+   "scan_url": null,
+   "kind": "law"
+  },
+  {
+   "ref": "X 4.15.7",
+   "corpus": "decretals",
+   "unit": "4.15",
+   "passage": "4.15.7",
+   "passage_end": null,
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -4637,26 +4649,26 @@
  ],
  "p043:f": [
   {
-   "ref": "X 4.15",
+   "ref": "X 4.15.6",
    "corpus": "decretals",
    "unit": "4.15",
-   "passage": null,
+   "passage": "4.15.6",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "the last chapter of the same title",
-   "corpus": null,
-   "unit": null,
-   "passage": null,
+   "ref": "X 4.15.7",
+   "corpus": "decretals",
+   "unit": "4.15",
+   "passage": "4.15.7",
    "passage_end": null,
-   "status": "none",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
-   "kind": "backref"
+   "kind": "law"
   }
  ],
  "p043:g": [
@@ -5162,13 +5174,13 @@
  ],
  "p051:a": [
   {
-   "ref": "D. 38.8",
+   "ref": "D. 38.8.9",
    "corpus": "digest",
    "unit": "38.8",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-38.htm#38.8",
+   "passage": "38.8.9.pr",
+   "passage_end": "38.8.9.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-38.htm#38.8.9.pr.",
    "scan_url": null,
    "kind": "law"
   },
@@ -5291,13 +5303,13 @@
  ],
  "p053:d": [
   {
-   "ref": "D. 7.1",
+   "ref": "D. 7.1.17.1",
    "corpus": "digest",
    "unit": "7.1",
-   "passage": null,
+   "passage": "7.1.17.1",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-07.htm#7.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-07.htm#7.1.17.1",
    "scan_url": null,
    "kind": "law"
   }
@@ -5356,13 +5368,13 @@
  ],
  "p053:i": [
   {
-   "ref": "C. 9.47",
+   "ref": "C. 9.47.17",
    "corpus": "code",
    "unit": "9.47",
-   "passage": null,
+   "passage": "9.47.17",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.47",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.47.17",
    "scan_url": null,
    "kind": "law"
   }
@@ -5618,13 +5630,13 @@
  ],
  "p057:g": [
   {
-   "ref": "Nov. 77",
+   "ref": "Nov. 77 c. 2",
    "corpus": "novels",
    "unit": "77",
-   "passage": null,
+   "passage": "77.2",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/Nov77.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/Nov77.htm#77.2",
    "scan_url": null,
    "kind": "law"
   },
@@ -5751,13 +5763,13 @@
  ],
  "p058:b": [
   {
-   "ref": "D. 17.2",
+   "ref": "D. 17.2.51",
    "corpus": "digest",
    "unit": "17.2",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-17.htm#17.2",
+   "passage": "17.2.51.pr",
+   "passage_end": "17.2.51.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-17.htm#17.2.51.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -5812,26 +5824,26 @@
  ],
  "p058:e": [
   {
-   "ref": "D. 35.1",
+   "ref": "D. 35.1.89",
    "corpus": "digest",
    "unit": "35.1",
-   "passage": null,
+   "passage": "35.1.89",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-35.htm#35.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-35.htm#35.1.89",
    "scan_url": null,
    "kind": "law"
   }
  ],
  "p058:f": [
   {
-   "ref": "D. 22.3",
+   "ref": "D. 22.3.22",
    "corpus": "digest",
    "unit": "22.3",
-   "passage": null,
+   "passage": "22.3.22",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm#22.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm#22.3.22",
    "scan_url": null,
    "kind": "law"
   }
@@ -6092,12 +6104,12 @@
  ],
  "p060:e": [
   {
-   "ref": "X 2.23",
+   "ref": "X 2.23.14",
    "corpus": "decretals",
    "unit": "2.23",
-   "passage": null,
+   "passage": "2.23.14",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -6543,13 +6555,13 @@
  ],
  "p067:a2": [
   {
-   "ref": "D. 17.2",
+   "ref": "D. 17.2.51",
    "corpus": "digest",
    "unit": "17.2",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-17.htm#17.2",
+   "passage": "17.2.51.pr",
+   "passage_end": "17.2.51.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-17.htm#17.2.51.pr.",
    "scan_url": null,
    "kind": "law"
   },
@@ -6694,36 +6706,36 @@
  ],
  "p069:a": [
   {
-   "ref": "D. 12.4",
+   "ref": "D. 12.4.14",
    "corpus": "digest",
    "unit": "12.4",
-   "passage": null,
+   "passage": "12.4.14",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-12.htm#12.4",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-12.htm#12.4.14",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "C. 2.12",
+   "ref": "C. 2.12.24",
    "corpus": "code",
    "unit": "2.12",
-   "passage": null,
+   "passage": "2.12.24",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ2.htm#2.12",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ2.htm#2.12.24",
    "scan_url": null,
    "kind": "law"
   }
  ],
  "p069:b": [
   {
-   "ref": "X 1.3",
+   "ref": "X 1.3.33",
    "corpus": "decretals",
    "unit": "1.3",
-   "passage": null,
+   "passage": "1.3.33",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -6731,13 +6743,13 @@
  ],
  "p069:c": [
   {
-   "ref": "C. 6.2",
+   "ref": "C. 6.2.19",
    "corpus": "code",
    "unit": "6.2",
-   "passage": null,
+   "passage": "6.2.19",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ6.htm#6.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ6.htm#6.2.19",
    "scan_url": null,
    "kind": "law"
   },
@@ -6865,12 +6877,12 @@
  ],
  "p071:a": [
   {
-   "ref": "X 2.27",
+   "ref": "X 2.27.26",
    "corpus": "decretals",
    "unit": "2.27",
-   "passage": null,
+   "passage": "2.27.26",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -6997,23 +7009,23 @@
    "kind": "law"
   },
   {
-   "ref": "X 2.19",
+   "ref": "X 2.19.3",
    "corpus": "decretals",
    "unit": "2.19",
-   "passage": null,
+   "passage": "2.19.3",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "X 2.22",
+   "ref": "X 2.22.6",
    "corpus": "decretals",
    "unit": "2.22",
-   "passage": null,
+   "passage": "2.22.6",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -7245,12 +7257,12 @@
    "cf": true
   },
   {
-   "ref": "X 2.27",
+   "ref": "X 2.27.26",
    "corpus": "decretals",
    "unit": "2.27",
-   "passage": null,
+   "passage": "2.27.26",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -7402,12 +7414,12 @@
  ],
  "p073:e2": [
   {
-   "ref": "X 2.20",
+   "ref": "X 2.20.27",
    "corpus": "decretals",
    "unit": "2.20",
-   "passage": null,
+   "passage": "2.20.27",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -7759,12 +7771,12 @@
  ],
  "p078:d": [
   {
-   "ref": "X 2.19",
+   "ref": "X 2.19.4",
    "corpus": "decretals",
    "unit": "2.19",
-   "passage": null,
+   "passage": "2.19.4",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -8929,12 +8941,12 @@
  ],
  "p083:i": [
   {
-   "ref": "X 2.20",
+   "ref": "X 2.20.33",
    "corpus": "decretals",
    "unit": "2.20",
-   "passage": null,
+   "passage": "2.20.33",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -9097,13 +9109,13 @@
  ],
  "p086:a": [
   {
-   "ref": "C. 1.18",
+   "ref": "C. 1.18.4",
    "corpus": "code",
    "unit": "1.18",
-   "passage": null,
+   "passage": "1.18.4",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm#1.18",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm#1.18.4",
    "scan_url": null,
    "kind": "law"
   }
@@ -9124,13 +9136,13 @@
  ],
  "p086:c": [
   {
-   "ref": "D. 22.3",
+   "ref": "D. 22.3.22",
    "corpus": "digest",
    "unit": "22.3",
-   "passage": null,
+   "passage": "22.3.22",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm#22.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm#22.3.22",
    "scan_url": null,
    "kind": "law"
   },
@@ -9160,25 +9172,25 @@
  ],
  "p086:d": [
   {
-   "ref": "C. 4.19",
+   "ref": "C. 4.19.16",
    "corpus": "code",
    "unit": "4.19",
-   "passage": null,
+   "passage": "4.19.16",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm#4.19",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm#4.19.16",
    "scan_url": null,
    "kind": "law"
   }
  ],
  "p086:e": [
   {
-   "ref": "X 2.23",
+   "ref": "X 2.23.12",
    "corpus": "decretals",
    "unit": "2.23",
-   "passage": null,
+   "passage": "2.23.12",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -9195,34 +9207,34 @@
    "kind": "law"
   },
   {
-   "ref": "X 2.20",
+   "ref": "X 2.20.27",
    "corpus": "decretals",
    "unit": "2.20",
-   "passage": null,
+   "passage": "2.20.27",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "C. 3.36",
+   "ref": "C. 3.36.5",
    "corpus": "code",
    "unit": "3.36",
-   "passage": null,
+   "passage": "3.36.5",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ3.htm#3.36",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ3.htm#3.36.5",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "X 5.39",
+   "ref": "X 5.39.39",
    "corpus": "decretals",
    "unit": "5.39",
-   "passage": null,
+   "passage": "5.39.39",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -9358,13 +9370,13 @@
    "kind": "law"
   },
   {
-   "ref": "D. 35.1",
+   "ref": "D. 35.1.71",
    "corpus": "digest",
    "unit": "35.1",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-35.htm#35.1",
+   "passage": "35.1.71.pr",
+   "passage_end": "35.1.71.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-35.htm#35.1.71.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -10063,26 +10075,37 @@
  ],
  "p097:b": [
   {
-   "ref": "C. 9.1",
+   "ref": "C. 9.1.13",
    "corpus": "code",
    "unit": "9.1",
-   "passage": null,
+   "passage": "9.1.13",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.1.13",
+   "scan_url": null,
+   "kind": "law"
+  },
+  {
+   "ref": "C. 9.1.18",
+   "corpus": "code",
+   "unit": "9.1",
+   "passage": "9.1.18",
+   "passage_end": null,
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.1.18",
    "scan_url": null,
    "kind": "law"
   }
  ],
  "p097:c": [
   {
-   "ref": "C. 5.62",
+   "ref": "C. 5.62.23",
    "corpus": "code",
    "unit": "5.62",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.62",
+   "passage": "5.62.23.pr",
+   "passage_end": "5.62.23.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.62.23.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -10712,12 +10735,12 @@
    "kind": "law"
   },
   {
-   "ref": "X 5.12",
+   "ref": "X 5.12.9",
    "corpus": "decretals",
    "unit": "5.12",
-   "passage": null,
+   "passage": "5.12.9",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -11534,12 +11557,12 @@
  ],
  "p113:m": [
   {
-   "ref": "X 5.39",
+   "ref": "X 5.39.23",
    "corpus": "decretals",
    "unit": "5.39",
-   "passage": null,
+   "passage": "5.39.23",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -11805,13 +11828,13 @@
  ],
  "p118:e": [
   {
-   "ref": "D. 37.1",
+   "ref": "D. 37.1.13.1",
    "corpus": "digest",
    "unit": "37.1",
-   "passage": null,
+   "passage": "37.1.13",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-37.htm#37.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-37.htm#37.1.13",
    "scan_url": null,
    "kind": "law"
   }
@@ -12100,13 +12123,13 @@
    "kind": "law"
   },
   {
-   "ref": "D. 1.16",
+   "ref": "D. 1.16.11",
    "corpus": "digest",
    "unit": "1.16",
-   "passage": null,
+   "passage": "1.16.11",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-01.htm#1.16",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-01.htm#1.16.11",
    "scan_url": null,
    "kind": "law"
   }
@@ -12500,13 +12523,13 @@
  ],
  "p122:k": [
   {
-   "ref": "D. 1.18",
+   "ref": "D. 1.18.12",
    "corpus": "digest",
    "unit": "1.18",
-   "passage": null,
+   "passage": "1.18.12",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-01.htm#1.18",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-01.htm#1.18.12",
    "scan_url": null,
    "kind": "law"
   }
@@ -12549,15 +12572,16 @@
  ],
  "p122:m": [
   {
-   "ref": "C. 9.9",
+   "ref": "C. 9.9.28 (Coras: 9.9.29)",
    "corpus": "code",
    "unit": "9.9",
-   "passage": null,
+   "passage": "9.9.28",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.9",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.9.28",
    "scan_url": null,
-   "kind": "law"
+   "kind": "law",
+   "coras_numbering": "9.9.29"
   },
   {
    "ref": "Jean Papon, Recueil d'arrests notables des cours souveraines de France",
@@ -12586,13 +12610,13 @@
  ],
  "p122:o": [
   {
-   "ref": "C. 2.2",
+   "ref": "C. 2.2.2",
    "corpus": "code",
    "unit": "2.2",
-   "passage": null,
+   "passage": "2.2.2",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ2.htm#2.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ2.htm#2.2.2",
    "scan_url": null,
    "kind": "law"
   },
@@ -12942,13 +12966,13 @@
    "kind": "law"
   },
   {
-   "ref": "C. 1.7",
+   "ref": "C. 1.7.5",
    "corpus": "code",
    "unit": "1.7",
-   "passage": null,
+   "passage": "1.7.5",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm#1.7",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm#1.7.5",
    "scan_url": null,
    "kind": "law"
   }
@@ -13646,35 +13670,13 @@
  ],
  "p127:i": [
   {
-   "ref": "D. 48.24",
-   "corpus": "digest",
-   "unit": "48.24",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-48.htm#48.24",
-   "scan_url": null,
-   "kind": "law"
-  },
-  {
-   "ref": "D. 12.4",
+   "ref": "D. 12.4.15",
    "corpus": "digest",
    "unit": "12.4",
-   "passage": null,
+   "passage": "12.4.15",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-12.htm#12.4",
-   "scan_url": null,
-   "kind": "law"
-  },
-  {
-   "ref": "D. 13.1",
-   "corpus": "digest",
-   "unit": "13.1",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-13.htm#13.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-12.htm#12.4.15",
    "scan_url": null,
    "kind": "law"
   },
@@ -14143,13 +14145,13 @@
  ],
  "p132:i": [
   {
-   "ref": "C. 3.26",
+   "ref": "C. 3.26.9",
    "corpus": "code",
    "unit": "3.26",
-   "passage": null,
+   "passage": "3.26.9",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ3.htm#3.26",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ3.htm#3.26.9",
    "scan_url": null,
    "kind": "law"
   },
@@ -14653,12 +14655,12 @@
  ],
  "p133:d": [
   {
-   "ref": "X 4.17",
+   "ref": "X 4.17.14",
    "corpus": "decretals",
    "unit": "4.17",
-   "passage": null,
+   "passage": "4.17.14",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -14714,13 +14716,13 @@
  ],
  "p134:f": [
   {
-   "ref": "D. 23.2",
+   "ref": "D. 23.2.57.1",
    "corpus": "digest",
    "unit": "23.2",
-   "passage": null,
+   "passage": "23.2.57",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-23.htm#23.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-23.htm#23.2.57",
    "scan_url": null,
    "kind": "law"
   },
@@ -14811,13 +14813,13 @@
  ],
  "p134:i": [
   {
-   "ref": "D. 40.12",
+   "ref": "D. 40.12.30",
    "corpus": "digest",
    "unit": "40.12",
-   "passage": null,
+   "passage": "40.12.30",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-40.htm#40.12",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-40.htm#40.12.30",
    "scan_url": null,
    "kind": "law"
   }
@@ -15425,12 +15427,12 @@
    "kind": "law"
   },
   {
-   "ref": "X 4.13",
+   "ref": "X 4.13.6",
    "corpus": "decretals",
    "unit": "4.13",
-   "passage": null,
+   "passage": "4.13.6",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -15438,23 +15440,34 @@
  ],
  "p137:o": [
   {
-   "ref": "D. 19.2",
+   "ref": "D. 19.2.57",
    "corpus": "digest",
    "unit": "19.2",
-   "passage": null,
+   "passage": "19.2.57",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-19.htm#19.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-19.htm#19.2.57",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "X 5.12",
+   "ref": "X 5.12.11",
    "corpus": "decretals",
    "unit": "5.12",
-   "passage": null,
+   "passage": "5.12.11",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
+   "external_url": null,
+   "scan_url": null,
+   "kind": "law"
+  },
+  {
+   "ref": "X 5.12.22",
+   "corpus": "decretals",
+   "unit": "5.12",
+   "passage": "5.12.22",
+   "passage_end": null,
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -15652,12 +15665,12 @@
    "kind": "law"
   },
   {
-   "ref": "D. 86",
+   "ref": "D. 86 c. 23",
    "corpus": "decretum",
    "unit": "D.86",
-   "passage": null,
+   "passage": "D.86 c.23",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -15665,12 +15678,12 @@
  ],
  "p138:b": [
   {
-   "ref": "D. 83",
+   "ref": "D. 83 c. 3",
    "corpus": "decretum",
    "unit": "D.83",
-   "passage": null,
+   "passage": "D.83 c.3",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -15715,13 +15728,13 @@
  ],
  "p138:e": [
   {
-   "ref": "C. 5.5",
+   "ref": "C. 5.5.4",
    "corpus": "code",
    "unit": "5.5",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.5",
+   "passage": "5.5.4.pr",
+   "passage_end": "5.5.4.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.5.4.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -15792,12 +15805,12 @@
  ],
  "p139:k": [
   {
-   "ref": "X 3.6",
+   "ref": "X 3.6.4",
    "corpus": "decretals",
    "unit": "3.6",
-   "passage": null,
+   "passage": "3.6.4",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -15914,12 +15927,12 @@
    "kind": "law"
   },
   {
-   "ref": "C. 29 q. 1 c. 1",
+   "ref": "C. 29 q. 1",
    "corpus": "decretum",
    "unit": "C.29",
-   "passage": "C.29 q.1 c",
+   "passage": "C.29 q.1 pr",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -16145,13 +16158,13 @@
  ],
  "p141:h": [
   {
-   "ref": "D. 4.4",
+   "ref": "D. 4.4.47",
    "corpus": "digest",
    "unit": "4.4",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-04.htm#4.4",
+   "passage": "4.4.47.pr",
+   "passage_end": "4.4.47.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-04.htm#4.4.47.pr.",
    "scan_url": null,
    "kind": "law"
   },
@@ -16230,12 +16243,12 @@
    "kind": "law"
   },
   {
-   "ref": "D. 86",
+   "ref": "D. 86 c. 23",
    "corpus": "decretum",
    "unit": "D.86",
-   "passage": null,
+   "passage": "D.86 c.23",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -16309,13 +16322,13 @@
  ],
  "p142:a": [
   {
-   "ref": "C. 7.64",
+   "ref": "C. 7.64.10",
    "corpus": "code",
    "unit": "7.64",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ7.htm#7.64",
+   "passage": "7.64.10.pr",
+   "passage_end": "7.64.10.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ7.htm#7.64.10.pr.",
    "scan_url": null,
    "kind": "law"
   },
@@ -16358,13 +16371,13 @@
  ],
  "p143:a": [
   {
-   "ref": "D. 47.2",
+   "ref": "D. 47.2.32",
    "corpus": "digest",
    "unit": "47.2",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-47.htm#47.2",
+   "passage": "47.2.32.pr",
+   "passage_end": "47.2.32.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-47.htm#47.2.32.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -16434,13 +16447,13 @@
  ],
  "p143:f": [
   {
-   "ref": "D. 32",
+   "ref": "D. 32.39.1",
    "corpus": "digest",
    "unit": "32",
-   "passage": null,
+   "passage": "32.39.1",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm#32.39.1",
    "scan_url": null,
    "kind": "law"
   },
@@ -16483,26 +16496,26 @@
  ],
  "p143:h": [
   {
-   "ref": "C. 6.23",
+   "ref": "C. 6.23.15",
    "corpus": "code",
    "unit": "6.23",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ6.htm#6.23",
+   "passage": "6.23.15.pr",
+   "passage_end": "6.23.15.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ6.htm#6.23.15.pr.",
    "scan_url": null,
    "kind": "law"
   }
  ],
  "p143:i": [
   {
-   "ref": "D. 28.1",
+   "ref": "D. 28.1.26",
    "corpus": "digest",
    "unit": "28.1",
-   "passage": null,
+   "passage": "28.1.26",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.1.26",
    "scan_url": null,
    "kind": "law"
   }
@@ -16642,24 +16655,24 @@
  ],
  "p148:a": [
   {
-   "ref": "D. 38.8",
+   "ref": "D. 38.8.9",
    "corpus": "digest",
    "unit": "38.8",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-38.htm#38.8",
+   "passage": "38.8.9.pr",
+   "passage_end": "38.8.9.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-38.htm#38.8.9.pr.",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "C. 2.21",
+   "ref": "C. 2.21.7",
    "corpus": "code",
    "unit": "2.21",
-   "passage": null,
+   "passage": "2.21.7",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ2.htm#2.21",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ2.htm#2.21.7",
    "scan_url": null,
    "kind": "law"
   }
@@ -17486,24 +17499,24 @@
  ],
  "p152:a": [
   {
-   "ref": "D. 32",
+   "ref": "D. 32.37.5",
    "corpus": "digest",
    "unit": "32",
-   "passage": null,
+   "passage": "32.37.5",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm#32.37.5",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "D. 39.5",
+   "ref": "D. 39.5.16",
    "corpus": "digest",
    "unit": "39.5",
-   "passage": null,
+   "passage": "39.5.16",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm#39.5",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm#39.5.16",
    "scan_url": null,
    "kind": "law"
   }
@@ -17548,24 +17561,24 @@
  ],
  "p152:d": [
   {
-   "ref": "D. 16.1",
+   "ref": "D. 16.1.28",
    "corpus": "digest",
    "unit": "16.1",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-16.htm#16.1",
+   "passage": "16.1.28.pr",
+   "passage_end": "16.1.28.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-16.htm#16.1.28.pr.",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "C. 4.19",
+   "ref": "C. 4.19.6",
    "corpus": "code",
    "unit": "4.19",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm#4.19",
+   "passage": "4.19.6.pr",
+   "passage_end": "4.19.6.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm#4.19.6.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -17597,24 +17610,24 @@
  ],
  "p153:f": [
   {
-   "ref": "D. 28.5",
+   "ref": "D. 28.5.45",
    "corpus": "digest",
    "unit": "28.5",
-   "passage": null,
+   "passage": "28.5.45",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.5",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.5.45",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "C. 6.23",
+   "ref": "C. 6.23.6",
    "corpus": "code",
    "unit": "6.23",
-   "passage": null,
+   "passage": "6.23.6",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ6.htm#6.23",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ6.htm#6.23.6",
    "scan_url": null,
    "kind": "law"
   },
@@ -17656,13 +17669,13 @@
  ],
  "p153:h": [
   {
-   "ref": "C. 9.46",
+   "ref": "C. 9.46.2",
    "corpus": "code",
    "unit": "9.46",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.46",
+   "passage": "9.46.2.pr",
+   "passage_end": "9.46.2.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ9.htm#9.46.2.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -17694,12 +17707,12 @@
  ],
  "p153:k": [
   {
-   "ref": "X 5.12",
+   "ref": "X 5.12.22",
    "corpus": "decretals",
    "unit": "5.12",
-   "passage": null,
+   "passage": "5.12.22",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -17821,12 +17834,23 @@
  ],
  "p153:r": [
   {
-   "ref": "X 2.20",
+   "ref": "X 2.20.9",
    "corpus": "decretals",
    "unit": "2.20",
-   "passage": null,
+   "passage": "2.20.9",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
+   "external_url": null,
+   "scan_url": null,
+   "kind": "law"
+  },
+  {
+   "ref": "X 2.20.44",
+   "corpus": "decretals",
+   "unit": "2.20",
+   "passage": "2.20.44",
+   "passage_end": null,
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -17966,12 +17990,12 @@
  ],
  "p154:x": [
   {
-   "ref": "X 2.23",
+   "ref": "X 2.23.12",
    "corpus": "decretals",
    "unit": "2.23",
-   "passage": null,
+   "passage": "2.23.12",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -18116,12 +18140,12 @@
  ],
  "p154:e": [
   {
-   "ref": "X 2.23",
+   "ref": "X 2.23.13",
    "corpus": "decretals",
    "unit": "2.23",
-   "passage": null,
+   "passage": "2.23.13",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -18129,46 +18153,46 @@
  ],
  "p154:f": [
   {
-   "ref": "D. 34.2",
+   "ref": "D. 34.2.18",
    "corpus": "digest",
    "unit": "34.2",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-34.htm#34.2",
+   "passage": "34.2.18.pr",
+   "passage_end": "34.2.18.2",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-34.htm#34.2.18.pr.",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "D. 32",
+   "ref": "D. 32.93.1",
    "corpus": "digest",
    "unit": "32",
-   "passage": null,
+   "passage": "32.93.1",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm#32.93.1",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "D. 34.3",
+   "ref": "D. 34.3.28",
    "corpus": "digest",
    "unit": "34.3",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-34.htm#34.3",
+   "passage": "34.3.28.pr",
+   "passage_end": "34.3.28.14",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-34.htm#34.3.28.pr.",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "C. 8.53",
+   "ref": "C. 8.53.5",
    "corpus": "code",
    "unit": "8.53",
-   "passage": null,
+   "passage": "8.53.5",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ8.htm#8.53",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ8.htm#8.53.5",
    "scan_url": null,
    "kind": "law"
   }
@@ -18235,13 +18259,13 @@
  ],
  "p154:i": [
   {
-   "ref": "D. 32",
+   "ref": "D. 32.37.5",
    "corpus": "digest",
    "unit": "32",
-   "passage": null,
+   "passage": "32.37.5",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm#32.37.5",
    "scan_url": null,
    "kind": "law"
   },
@@ -18259,24 +18283,24 @@
  ],
  "p155:k": [
   {
-   "ref": "D. 30",
+   "ref": "D. 30.28",
    "corpus": "digest",
    "unit": "30",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-30.htm",
+   "passage": "30.28.pr",
+   "passage_end": "30.28.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-30.htm#30.28.pr.",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "D. 39.5",
+   "ref": "D. 39.5.16",
    "corpus": "digest",
    "unit": "39.5",
-   "passage": null,
+   "passage": "39.5.16",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm#39.5",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm#39.5.16",
    "scan_url": null,
    "kind": "law"
   }
@@ -18318,13 +18342,13 @@
    "kind": "law"
   },
   {
-   "ref": "D. 39.3",
+   "ref": "D. 39.3.20",
    "corpus": "digest",
    "unit": "39.3",
-   "passage": null,
+   "passage": "39.3.20",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm#39.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm#39.3.20",
    "scan_url": null,
    "kind": "law"
   },
@@ -18355,24 +18379,24 @@
  ],
  "p155:o": [
   {
-   "ref": "D. 32",
+   "ref": "D. 32.37.6",
    "corpus": "digest",
    "unit": "32",
-   "passage": null,
+   "passage": "32.37.6",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm#32.37.6",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "D. 22.3",
+   "ref": "D. 22.3.27",
    "corpus": "digest",
    "unit": "22.3",
-   "passage": null,
+   "passage": "22.3.27",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm#22.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm#22.3.27",
    "scan_url": null,
    "kind": "law"
   }
@@ -18431,36 +18455,47 @@
  ],
  "p155:ſ": [
   {
-   "ref": "D. 32",
+   "ref": "D. 32.37.5",
    "corpus": "digest",
    "unit": "32",
-   "passage": null,
+   "passage": "32.37.5",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm#32.37.5",
    "scan_url": null,
    "kind": "law"
   }
  ],
  "p155:t": [
   {
-   "ref": "X 2.24",
+   "ref": "X 2.24.23",
    "corpus": "decretals",
    "unit": "2.24",
-   "passage": null,
+   "passage": "2.24.23",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "X 5.12",
+   "ref": "X 2.24.28",
+   "corpus": "decretals",
+   "unit": "2.24",
+   "passage": "2.24.28",
+   "passage_end": null,
+   "status": "passage",
+   "external_url": null,
+   "scan_url": null,
+   "kind": "law"
+  },
+  {
+   "ref": "X 5.12.4",
    "corpus": "decretals",
    "unit": "5.12",
-   "passage": null,
+   "passage": "5.12.4",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -18468,13 +18503,13 @@
  ],
  "p155:u": [
   {
-   "ref": "D. 22.3",
+   "ref": "D. 22.3.27",
    "corpus": "digest",
    "unit": "22.3",
-   "passage": null,
+   "passage": "22.3.27",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm#22.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm#22.3.27",
    "scan_url": null,
    "kind": "law"
   }
@@ -18492,13 +18527,13 @@
    "kind": "law"
   },
   {
-   "ref": "C. 5.16",
+   "ref": "C. 5.16.26",
    "corpus": "code",
    "unit": "5.16",
-   "passage": null,
+   "passage": "5.16.26",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.16",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ5.htm#5.16.26",
    "scan_url": null,
    "kind": "law"
   }
@@ -18704,24 +18739,24 @@
  ],
  "p157:i": [
   {
-   "ref": "D. 28.3",
+   "ref": "D. 28.3.6.5",
    "corpus": "digest",
    "unit": "28.3",
-   "passage": null,
+   "passage": "28.3.6.5",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.3",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.3.6.5",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "D. 28.1",
+   "ref": "D. 28.1.18.1",
    "corpus": "digest",
    "unit": "28.1",
-   "passage": null,
+   "passage": "28.1.18.1",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.1.18.1",
    "scan_url": null,
    "kind": "law"
   },
@@ -18956,37 +18991,37 @@
  ],
  "p158:t": [
   {
-   "ref": "D. 31",
+   "ref": "D. 31.60",
    "corpus": "digest",
    "unit": "31",
-   "passage": null,
+   "passage": "31.60",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-31.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-31.htm#31.60",
    "scan_url": null,
    "kind": "law"
   }
  ],
  "p158:u": [
   {
-   "ref": "D. 31",
+   "ref": "D. 31.44",
    "corpus": "digest",
    "unit": "31",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-31.htm",
+   "passage": "31.44.pr",
+   "passage_end": "31.44.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-31.htm#31.44.pr.",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "D. 31",
+   "ref": "D. 32.98",
    "corpus": "digest",
-   "unit": "31",
-   "passage": null,
+   "unit": "32",
+   "passage": "32.98",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-31.htm",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm#32.98",
    "scan_url": null,
    "kind": "law"
   }
@@ -19065,12 +19100,12 @@
    "kind": "law"
   },
   {
-   "ref": "X 2.2",
+   "ref": "X 2.2.12",
    "corpus": "decretals",
    "unit": "2.2",
-   "passage": null,
+   "passage": "2.2.12",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -19126,13 +19161,13 @@
  ],
  "p158:d": [
   {
-   "ref": "C. 10.32",
+   "ref": "C. 10.32.42",
    "corpus": "code",
    "unit": "10.32",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ10.htm#10.32",
+   "passage": "10.32.42.pr",
+   "passage_end": "10.32.42.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ10.htm#10.32.42.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -19161,12 +19196,12 @@
    "kind": "law"
   },
   {
-   "ref": "X 5.20",
+   "ref": "X 5.20.2",
    "corpus": "decretals",
    "unit": "5.20",
-   "passage": null,
+   "passage": "5.20.2",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -19199,13 +19234,13 @@
  ],
  "p159:c": [
   {
-   "ref": "C. 1.3",
+   "ref": "C. 1.3.28",
    "corpus": "code",
    "unit": "1.3",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm#1.3",
+   "passage": "1.3.28.pr",
+   "passage_end": "1.3.28.5",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm#1.3.28.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -19224,12 +19259,12 @@
    "adapter": "position-last"
   },
   {
-   "ref": "X 3.26",
+   "ref": "X 3.26.17",
    "corpus": "decretals",
    "unit": "3.26",
-   "passage": null,
+   "passage": "3.26.17",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"
@@ -19348,13 +19383,13 @@
  ],
  "p159:k": [
   {
-   "ref": "D. 40.4",
+   "ref": "D. 40.4.53",
    "corpus": "digest",
    "unit": "40.4",
-   "passage": null,
+   "passage": "40.4.53",
    "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-40.htm#40.4",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-40.htm#40.4.53",
    "scan_url": null,
    "kind": "law"
   }
@@ -19399,13 +19434,13 @@
    "cf": true
   },
   {
-   "ref": "C. 1.3",
+   "ref": "C. 1.3.28",
    "corpus": "code",
    "unit": "1.3",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm#1.3",
+   "passage": "1.3.28.pr",
+   "passage_end": "1.3.28.5",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm#1.3.28.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -19489,24 +19524,24 @@
  ],
  "p160:t": [
   {
-   "ref": "D. 28.7",
+   "ref": "D. 28.7.27",
    "corpus": "digest",
    "unit": "28.7",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.7",
+   "passage": "28.7.27.pr",
+   "passage_end": "28.7.27.1",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm#28.7.27.pr.",
    "scan_url": null,
    "kind": "law"
   },
   {
-   "ref": "D. 30",
+   "ref": "D. 30.113",
    "corpus": "digest",
    "unit": "30",
-   "passage": null,
-   "passage_end": null,
-   "status": "unit",
-   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-30.htm",
+   "passage": "30.113.pr",
+   "passage_end": "30.113.5",
+   "status": "passage",
+   "external_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-30.htm#30.113.pr.",
    "scan_url": null,
    "kind": "law"
   }
@@ -19524,12 +19559,12 @@
    "kind": "law"
   },
   {
-   "ref": "X 3.26",
+   "ref": "X 3.26.15",
    "corpus": "decretals",
    "unit": "3.26",
-   "passage": null,
+   "passage": "3.26.15",
    "passage_end": null,
-   "status": "unit",
+   "status": "passage",
    "external_url": null,
    "scan_url": null,
    "kind": "law"

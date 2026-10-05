@@ -26,15 +26,15 @@
     },
     {
      "key": "t",
-     "citation": "Digest 31 (<i>De legatis et fideicommissis</i> [II]; or D. 32 if the alternative reading <i>iij.</i> is right), l. <i>Iulianus</i>",
+     "citation": "Digest 31.60 (<i>De legatis et fideicommissis</i> [II], l. <i>Iulianus</i>; D. 32, the alternative reading <i>iij.</i>, has no law so beginning)",
      "original": "l. Iulianus D. de leg ij.⟨alt:iij.⟩",
-     "gloss": "Fragment not located; see the report."
+     "gloss": null
     },
     {
      "key": "u",
-     "citation": "Digest 31 (<i>De legatis</i> [II]), l. <i>Si pluribus</i>; Digest 31 (or 32, by the alternative reading), l. <i>Si plures</i>",
+     "citation": "Digest 31.44 (<i>De legatis</i> [II], l. <i>Si pluribus</i>); Digest 32.98 (by the alternative reading <i>iij.</i>; D. 31 has no law so beginning), l. <i>Si plures</i>",
      "original": "l. ſi pluribus D. de leg. ij. l. ſi plures D. de leg ij.⟨alt:iij.⟩",
-     "gloss": "Fragments not located; cited for the rule that an indefinite expression is taken as universal."
+     "gloss": "Cited for the rule that an indefinite expression is taken as universal."
     },
     {
      "key": "x",
@@ -56,9 +56,9 @@
     },
     {
      "key": "a",
-     "citation": "Decretals, X 2.1 (<i>De iudiciis</i>), c. <i>At si clerici</i> (X 2.1.4); X 2.2 (<i>De foro competenti</i>), c. <i>Si diligenti</i>",
+     "citation": "Decretals, X 2.1 (<i>De iudiciis</i>), c. <i>At si clerici</i> (X 2.1.4); X 2.2.12 (<i>De foro competenti</i>, c. <i>Si diligenti</i>)",
      "original": "c. at ſi cleric. de iud. c. ſi dili gẽti. de for. cõ.",
-     "gloss": "A clerk may not be judged by a lay judge; chapter number of <i>Si diligenti</i> not verified."
+     "gloss": "A clerk may not be judged by a lay judge."
     },
     {
      "key": "b",
@@ -74,9 +74,9 @@
     },
     {
      "key": "d",
-     "citation": "Code 10.32 (<i>De decurionibus et filiis eorum</i>), l. <i>Militaribus</i> (Code book 10, as Coras notes)",
+     "citation": "Code 10.32.42 (<i>De decurionibus et filiis eorum</i>, l. <i>Militaribus</i>; Code book 10, as Coras notes)",
      "original": "l. militaribus. C. de decu rion. lib. x.",
-     "gloss": "Fragment not verified."
+     "gloss": null
     }
    ]
   },
@@ -107,7 +107,7 @@
    "notes": [
     {
      "key": "a2",
-     "citation": "Code 7.53 (<i>De executione rei iudicatae</i>), ll. <i>Ordo</i>, <i>Si ut proponis</i> and <i>Executionem</i>; Digest 49.1 (<i>De appellationibus et relationibus</i>), l. <i>Ab executore</i>; Decretals, X 5.20 (<i>De crimine falsi</i>), c. <i>Super</i>; Decretum Gratiani C. 2 q. 6 (the print's <i>ij. q. v. vi.</i>), c. <i>Ab executore</i>",
+     "citation": "Code 7.53 (<i>De executione rei iudicatae</i>), ll. <i>Ordo</i>, <i>Si ut proponis</i> and <i>Executionem</i>; Digest 49.1 (<i>De appellationibus et relationibus</i>), l. <i>Ab executore</i>; Decretals, X 5.20.2 (<i>De crimine falsi</i>, c. <i>Super</i>); Decretum Gratiani C. 2 q. 6 (the print's <i>ij. q. v. vi.</i>), c. <i>Ab executore</i>",
      "original": "L. ordo l. ſi. vt proponis. l. executiẽ. C. de execut. rei iu. l. ab executore D. de appel. c. ſuper de crimi. falſ. c. ab executore ij. q. v. vi.",
      "gloss": "The executor of a judgment in the civil and canon law. Fragment and chapter numbers not verified; the Decretum reference is uncertain as printed."
     }

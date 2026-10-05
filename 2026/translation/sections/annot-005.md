@@ -43,9 +43,9 @@ The print's marker alphabet for this long annotation runs *a*–*x* (no *j*, *v*
 - {y} (p018): **Bartolus, Baldus and the others on Digest 28.2.29 (*De liberis et postumis*, l. *Gallus*)** — Bartole, Bal de, & les autres, en la l. Gallus. D. de libe. & poſt. [The doctors' question of the child born nine months after a widow's immediate remarriage.]
 - {z} (p018): **Liber Sextus, *De regulis iuris*, reg. 54, *Qui prior est tempore, potior est iure*** — c. qui prior. De reg. iur. en vi.
 - {a} (p018): **Digest 2.11.2.8 (*Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit*, l. 2, § *Si quis tamen*, Ulpian)** — l. ij. au verſieule ſi quis t amen. D. Se quis cautio.
-- {b} (p018): **Digest 46.3 (*De solutionibus et liberationibus*), l. *Titia*; fragment not identified** — l Titia. D. de ſolutio.
+- {b} (p018): **Digest 46.3.48 (*De solutionibus et liberationibus*, l. *Titia*)** — l Titia. D. de ſolutio.
 - {c} (p018): **Digest 1.6 (*De his qui sui vel alieni iuris sunt*), l. *Filium* (cf. D. 1.6.6, Ulpian: a son is one born of a man and his wife)** — l. filium. D. de iis, que ſunt ſui.
-- {d} (p018): **Digest 28.5 (*De heredibus instituendis*), l. *Duo socii*; fragment not identified** — l. duo ſocij. D. do hæred. inſtit. [The slave presumed to belong wholly to each of two masters.]
+- {d} (p018): **Digest 28.5.8 (*De heredibus instituendis*, l. *Duo socii*)** — l. duo ſocij. D. do hæred. inſtit. [The slave presumed to belong wholly to each of two masters.]
 - {e} (p018): **Digest 3.2.11 § 1 (*De his qui notantur infamia*, l. *Liberorum*)** — l. liberorũ, Paragr. j. D de iis qui not. infa. [Ulpian: the widow's mourning-year is imposed *propter turbationem sanguinis*, to avoid confusion of blood.]
 - {f} (p019): **unidentified (sigla incomplete: *l. j. quo. bono.*; if *Quorum bonorum*, D. 43.2.1 and C. 8.2.1 are the praetor's interdict for the possessor of an inheritance and say nothing of a child's paternity)** — l. j. quo. bono. [Perhaps *l. 1* of a title beginning *Quod* or *Quibus … bonorum*; the abbreviation is too short to resolve.]
 - {g} (p019): **Digest 21.1 (*De aedilicio edicto*), l. *Quod si nolit*, § *Qui mancipia* (cf. D. 21.1.31, Ulpian), and Accursius's gloss there** — l. quod ſi no lit. Paragr. qui mancip. la ou Accurſe le met. D. ae adil. edic.

@@ -33,9 +33,9 @@ The print heads this annotation ANNOTAT. V. on p040; Annotation V is the long on
 - {a} (p043): **Digest 23.3.39.1 (*De iure dotium*, l. *Si serva*, § *Si spadoni*)** — l. ſi ſerua. P. ſi ſpadoni. D. de iur. dot. [Ulpian: if a woman marries a *spado*, one must distinguish whether he is castrated; if he is, there is no dowry, because there is no marriage.]
 - {b} (p043): **Decretum, C. 26 q. 5 c. 14 (*Nec mirum*, the last canon of the question), § 4 *Ad haec omnia supradicta pertinent ligaturae*; Decretum, C. 33 q. 1 c. 4 (*Si per sortiarias*, printed *ſociarias*)** — c. ſin. P. ad hæc omnia. xxvj. q. v. c. ſi per ſociarias xxxiij. q. j. [The canonical texts on sorcery and on impotence worked by *maleficium*.]
 - {c} (p043): **Decretals, X 4.15 (*De frigidis et maleficiatis*), last chapter, and the Gloss there** — c. fina & il lec la Gloſe de frig. & ma
-- {d} (p043): **Decretals, X 4.15, c. *Fraternitatis* and the Gloss there, and the last chapter of the same title** — c. fraternitatis. & illec la Gloſe. & c. final. de frig. & mal.
+- {d} (p043): **Decretals, X 4.15.6 (c. *Fraternitatis*) and the Gloss there, and X 4.15.7, the last chapter of the same title** — c. fraternitatis. & illec la Gloſe. & c. final. de frig. & mal.
 - {e} (p043): **Novel 22 (*De nuptiis*, coll. 4), § *Nuptias* (Nov. 22 c. 3, *Nuptias itaque affectus alternus facit … quidquid ligatur, solubile est*)** — P. nuptias. au titre de nu ptijs. des nou uelles de Iuſti nien. ſous la collation iiij.
-- {f} (p043): **Decretals, X 4.15, c. *Fraternitatis*, cited above, and the Gloss there; and the last chapter of the same title** — c. fraternitatis. preallegué. & illec la Glo. & au cfinal. de frig. & mal.
+- {f} (p043): **Decretals, X 4.15.6 (c. *Fraternitatis*), cited above, and the Gloss there, and X 4.15.7, the last chapter of the same title** — c. fraternitatis. preallegué. & illec la Glo. & au cfinal. de frig. & mal.
 - {g} (p043): **Decretals, X 4.15, last chapter (c. 7 *Litterae*), and Decretum, C. 33 q. 1 c. 4 (*Si per sortiarias*), cited above (note *a*)** — Au c. fin & c ſi per ſortia rias. deſſus al leguez.
 - {h} (p043): **Matthew 19 (19:9); 1 Corinthians 7 (7:10–11)** — S. Matth. c. xix. la i. es. Corint. c. vij. [Divorce forbidden except for fornication.]
 - {i} (p043): **Decretum, C. 33 q. 1 c. 1 (*Quod autem interrogasti*)** — c. i. xxxiij. q. i.
